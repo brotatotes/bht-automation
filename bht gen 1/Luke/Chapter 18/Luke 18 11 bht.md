@@ -4,7 +4,7 @@
 In this verse, a Pharisee stands before God and arrogantly separates himself from others, rejoicing in his perceived moral and religious superiority. He boasts of his virtues, does works of supererogation, and fails to recognize his own sins and need for forgiveness. Standing ostentatiously, he thanks God in a self-centered and prideful manner, disregarding the undeserved goodness of God and relying on his own righteousness. This self-righteousness and contemptuous attitude towards others ultimately lead to his condemnation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To have been kept from gross iniquities was undoubtedly a just cause of thankfulness to God but instead of the devoutly humble, admiring frame which this should inspire, the Pharisee arrogantly severs himself from the rest of mankind, as quite above them."
 2. "But these are only his moral excellencies. His religious merits complete his grounds for congratulation."
 3. "Thus, besides doing all his duty, he did works of supererogation; while sins to confess and spiritual wants to be supplied he seems to have felt none."
@@ -38,4 +38,4 @@ In this verse, a Pharisee stands before God and arrogantly separates himself fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

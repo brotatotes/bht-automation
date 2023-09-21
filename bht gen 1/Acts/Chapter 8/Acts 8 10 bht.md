@@ -9,7 +9,7 @@ In this verse, we see a portrayal of a powerful figure who captivated the people
 2. "Their erroneous belief would form some preparation for the great truth of an incarnate Messiah, preached by Philip."
 3. "This man is that power of God which we know as the great one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To whom all gave heed" - This highlights the influence and power that the person being referred to had over the people of Samaria. It suggests that they were highly regarded and respected by the community.
 
 2. "Because of long time he had bewitched them" - This phrase suggests that the person being discussed had been able to captivate and mesmerize the people of Samaria for a significant period of time. It implies that their hold over the people was strong and enduring.
@@ -52,4 +52,4 @@ In this verse, we see a portrayal of a powerful figure who captivated the people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

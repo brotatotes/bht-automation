@@ -4,7 +4,7 @@
 In this Bible verse, Paul fearlessly approaches King Agrippa, appealing to his knowledge and faith in the prophecies of the Messiah. The king's response not only confirms his belief in these prophecies, but also acknowledges the power of Paul's bold yet respectful appeal to his conscience. Paul's unwavering conviction in the truth of Christianity drives him to relentlessly share the evidence, even with those in positions of power and authority, leaving no opportunity untouched to press the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The courage and confidence here shown proceeded from a vivid persuasion of Agrippa's knowledge of the facts and faith in the predictions which they verified."
 2. "The king's reply is the highest testimony to the correctness of these presumptions and the immense power of such bold yet courteous appeals to conscience."
 3. "Such bold yet courteous appeals to conscience."
@@ -38,4 +38,4 @@ In this Bible verse, Paul fearlessly approaches King Agrippa, appealing to his k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

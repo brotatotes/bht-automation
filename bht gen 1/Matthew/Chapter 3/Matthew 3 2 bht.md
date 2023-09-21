@@ -9,7 +9,7 @@ The call to repentance involves a change of mind, turning away from sin and unto
 2. "ἡ βασιλεία τῶν οὐρανῶν: An expression peculiar in the N.T. to St. Matthew...we may conclude that it was used by the Jews, and understood, to mean the advent of the Christ." 
 3. "Wherever the term βασ . τ . οὐρ . (or its equivalent) is used in the N.T., it signifies, not the Church, nor the Christian religion, but strictly the kingdom of the Messiah which is to be revealed hereafter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the word strictly denotes a change of mind, it has respect here primarily to that sense of sin which leads the sinner to flee from the wrath to come, to look for relief only from above, and eagerly to fall in with the provided remedy."
 2. "This sublime phrase, used in none of the other Gospels, occurs in this peculiarly Jewish Gospel nearly thirty times; and being suggested by Daniel's grand vision of the Son of man coming in the clouds of heaven to the Ancient of days, to receive His investiture in a world-wide kingdom, it was fitted at once both to meet the national expectations and to turn them into the right channel."
 3. "A kingdom for which repentance was the proper preparation behooved to be essentially spiritual. Deliverance from sin, the great blessing of Christ's kingdom, can be valued by those only to whom sin is a burden. John's great work, accordingly, was to awaken this feeling and hold out the hope of a speedy and precious remedy."
@@ -55,4 +55,4 @@ These quotes emphasize that the kingdom of God is about finding true happiness a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

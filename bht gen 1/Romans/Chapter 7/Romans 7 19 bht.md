@@ -9,7 +9,7 @@ In this verse, a universal struggle between good and evil is acknowledged, portr
 2. "This verse highlights the tension between our desires and our actions, revealing the inherent brokenness of humanity." 
 3. "Paul's admission of his own struggle serves as a reminder that we are all in need of God's grace and redemption."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The conflict here graphically described between a self that 'desires' to do good and a self that in spite of this does evil, cannot be the struggles between conscience and passion in the unregenerate."
 2. "The description given of this 'desire to do good' in Romans 7:22 is such as cannot be ascribed, with the least show of truth, to any but the renewed."
 3. "The renewed soul, though still conscious of evil within, has a prevailing desire and delight in the law of God, and in the service of it."
@@ -48,4 +48,4 @@ In this verse, a universal struggle between good and evil is acknowledged, portr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

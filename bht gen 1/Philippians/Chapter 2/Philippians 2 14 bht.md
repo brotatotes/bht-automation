@@ -9,7 +9,7 @@ In this verse, we are reminded to approach every situation with a positive and g
 2. "By the same rule, we should rather understand disputings with men, than doubts respecting God or duty."
 3. "I cannot understand how either word can apply to matters merely internal, seeing that the primary object is stated below to be blamelessness, and good example to others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Murmurings—secret murmurings and complaints against your fellow men arising from selfishness."
 2. "Disputings—profitless 'disputings' with our fellow men, in relation to whom we are called on to be 'blameless and harmless.'"
 3. "These disputings flow from 'vain glory' reprobated; and abounded among the Aristotelian philosophers in Macedon, where Philippi was."
@@ -57,4 +57,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

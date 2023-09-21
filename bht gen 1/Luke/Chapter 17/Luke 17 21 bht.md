@@ -9,7 +9,7 @@ The Bible verse being described in this commentary is about the kingdom of God. 
 2. "The kingdom of God was begun among them, and continues thus making its way in the world, without observation of men."
 3. "Thus we see that every such marked event in the history of the Church is by God’s own hand as it were blotted and marred, so as not to deceive us into thinking that the kingdom has come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lo here! . . . lo there!—shut up within this or that sharply defined and visible geographical or ecclesiastical limit." 
 2. "Within you—is of an internal and spiritual character (as contrasted with their outside views of it)." 
 3. "But it has its external side too."
@@ -50,4 +50,4 @@ The Bible verse being described in this commentary is about the kingdom of God. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

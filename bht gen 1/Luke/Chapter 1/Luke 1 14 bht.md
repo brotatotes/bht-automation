@@ -4,7 +4,7 @@
 The verse being described talks about the joy and rejoicing that would come with the birth of a special son who will be a prophet, preparing the way for the Lord and bringing knowledge of salvation and light to those in darkness. This joyful occasion would extend beyond the immediate family, as neighbors, cousins, and even strangers would rejoice at his birth. The fulfillment of this prophecy brought about great joy and celebration among those who knew him as a prophet and the forerunner of the Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shall rejoice—so they did" - Luke 1:58; Luke 1:66 - The commentary highlights that the people did indeed rejoice when John the Baptist was born, emphasizing the fulfillment of the prophecy.
 2. "Shall have cause to rejoice" - The commentary suggests that the phrase "shall rejoice" means that the birth of John the Baptist would bring joy to many, indicating the significance and impact of his arrival.
 3. "It would prove to many a joyful event" - The commentary emphasizes that the birth of John the Baptist would be a source of joy for many, implying that his life and ministry would have a positive and transformative effect on people.
@@ -47,4 +47,4 @@ The verse being described talks about the joy and rejoicing that would come with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

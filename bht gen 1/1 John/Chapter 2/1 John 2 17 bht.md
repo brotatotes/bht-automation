@@ -9,7 +9,7 @@ The Bible verse being described is a reminder of the transient nature of the wor
 2. "It is no objection to this, that the 'abideth'...contains, not a matter of fact, but a qualitative predication."
 3. "Eternal fixity and duration belongs only to that order of things, and to those men, who are in entire accordance with the will of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The world—with all who are of the world worldly." This quote highlights the association between the world and its inhabitants, emphasizing their shared worldly nature.
 2. "He that doeth the will of God—not his own fleshly will, or the will of the world, but that of God." This quote distinguishes between different types of wills, emphasizing the importance of aligning oneself with God's will rather than one's own or the world's.
 3. "Abideth for ever—even as God also abideth for ever." This quote draws a parallel between the eternal nature of God and the lasting existence of those who do God's will, emphasizing the enduring nature of their relationship with Him.
@@ -54,4 +54,4 @@ The Bible verse being described is a reminder of the transient nature of the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

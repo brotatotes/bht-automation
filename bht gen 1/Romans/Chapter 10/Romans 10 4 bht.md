@@ -4,7 +4,7 @@
 Christ is the ultimate fulfillment and goal of the law. He accomplishes for believers what the law could not: justification and righteousness. Through faith in Christ, one receives the forgiveness and eternal life that the law falls short of providing. This offer of salvation is extended to all who believe, transcending societal boundaries. The law, which was given in anticipation of Christ, leads us to Him as the source of true righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is the end—the object or aim—of the law." 
 2. "Contains within Himself all that the law demands for the justification of such as embrace Him."
 3. "Justifying righteousness to every one that believeth."
@@ -50,4 +50,4 @@ Christ is the ultimate fulfillment and goal of the law. He accomplishes for beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

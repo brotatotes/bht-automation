@@ -9,7 +9,7 @@ The verse being described focuses on the concept of divine intervention in under
 2. "Observe the parallelism between ᾖ δεδομένον αὐτῷ here, and ὃ δίδωσίν μοι, John 6:37."
 3. "Both these gifts are in the Father's power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That was why I spoke to you of the necessity of divine teaching which some of you are strangers to."
 2. "By the Father's 'drawing' was meant an internal and efficacious operation."
 3. "It must be 'given to a man to come' to Christ."
@@ -47,4 +47,4 @@ The verse being described focuses on the concept of divine intervention in under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

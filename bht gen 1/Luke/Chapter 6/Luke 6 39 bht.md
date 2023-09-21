@@ -9,7 +9,7 @@ In this verse, we find Jesus addressing the issue of judgment and guiding his di
 2. "Every well-instructed Christian strive to be humble as his Master was." 
 3. "The beam in the eye is, to which our first efforts must be directed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blind and the lame were not admitted into the temple, as being unfit to approach the presence of God; but now they are not only admitted, but are made to leap and to walk in it." 
 
 2. "The gospel brings healing and restoration to those who were previously excluded and marginalized." 
@@ -50,4 +50,4 @@ In this verse, we find Jesus addressing the issue of judgment and guiding his di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

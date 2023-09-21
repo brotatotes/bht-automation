@@ -4,7 +4,7 @@
 In this Bible verse, the name of Christ is prominently written on both his vesture and his thigh, symbolizing his humanity and divine authority. The name signifies his supreme sovereignty as the King of kings and the Lord of lords, surpassing all earthly rulers. The placement of the name on his vesture suggests its visibility and significance, while references to cultural practices of displaying titles on garments provide historical context. This name is a manifestation of the fulfillment of prophecy, exemplifying Christ's glorious reign and his control over all rulers and kingdoms.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thigh symbolizes Christ's humanity as having come, after the flesh, from the loins of David, and now appearing as the glorified 'Son of man.'"
 2. "His incommunicable divine name, 'which no man knew,' is on His head."
 3. "KING OF KINGS—Compare Revelation 17:14, in contrast with Revelation 17:14- :, the beast being in attempted usurpation a king of kings, the ten kings delivering their kingdom to him."
@@ -43,4 +43,4 @@ In this Bible verse, the name of Christ is prominently written on both his vestu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a gathering, there was a man with a gold ring, adorned in splendid clothing, 
 2. "This ἅπαξ λεγόμενον is expressed by χρυσόχειρ in Lucian, Timon, § 20. Wetst. has accumulated evidence of the practice of overloading the fingers with rings: e. g. Lucian, Somn. (Gall) 12, ἐγὼ δὲ ἔχων .… δακτυλίους βαρεῖς ὅσον ἑκκαίδεκα ἐξημμένους τῶν δακτύλων."
 3. "Glittering, either in colour, or with ornaments."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'synagogue' implies a mere assembly or congregation not necessarily united by any common tie. 'Church,' a people bound together by mutual ties and laws."
 2. "Partly from James' Hebrew tendencies, partly from the Jewish Christian churches retaining most of the Jewish forms, this term 'synagogue' is used here instead of the Christian term 'Church.'"
 3. "Christian churches were built like the synagogues, the holy table in the east end of the former, as the ark was in the latter; the desk and pulpit were the chief articles of furniture in both alike."
@@ -50,4 +50,4 @@ In a gathering, there was a man with a gold ring, adorned in splendid clothing, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

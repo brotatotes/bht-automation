@@ -11,7 +11,7 @@ Despite the disobedience and unfaithfulness of his chosen people, God has not ca
 
 3. "The altars, as De W. observes, were those on the high places, dedicated to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God did not cast away his people" - The commentary emphasizes that God has not completely rejected his chosen people, despite their disobedience and unfaithfulness. This quote highlights God's faithfulness and enduring love for his people.
 
 2. "Know ye not that the scripture saith of Elias?" - The commentary draws attention to the scriptural reference to the prophet Elijah, indicating that the Old Testament bears witness to God's continued care and concern for his people. This quote suggests that the readers should be familiar with the story of Elijah and his intercession for Israel.
@@ -59,4 +59,4 @@ These quotes collectively emphasize God's faithfulness, the relevance of Old Tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described depicts a scene where Jesus performs a miracle that leaves the crowd in awe. Other boats from Tiberias, strategically positioned near the location, serve as a reminder of the magnitude of the crowd. Jesus' unique authority is emphasized as distinct from the other boats present. The people, eager to be in Jesus' presence, seek Him out, demonstrating their deep attachment to Him. The provision of the boats and the impact of the miracle highlight Jesus' power and blessing.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Howbeit, there came other boats from Tiberias" - The presence of other boats from Tiberias indicates that there were more people who had followed Jesus to the east side of the lake. This detail adds to the magnitude of the crowd that witnessed the miracle of the loaves and were seeking Jesus.
 2. "These boats were fastened somewhere... nigh unto the place where they did eat bread" - The boats were strategically positioned near the location where the miracle of the loaves took place. This suggests that the provision of these boats was part of God's plan to facilitate the return of the people to the west side of the lake.
 3. "They also took shipping and came to Capernaum, seeking for Jesus" - The people, realizing that Jesus and His disciples were no longer present, eagerly sought Him out. This demonstrates their desire to be in His presence and highlights the impact that Jesus had on their lives.
@@ -45,4 +45,4 @@ The Bible verse being described depicts a scene where Jesus performs a miracle t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

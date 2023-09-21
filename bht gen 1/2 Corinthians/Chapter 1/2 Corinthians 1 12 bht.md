@@ -9,7 +9,7 @@ In this verse, the speaker refers to their joy and confidence in the testimony o
 2. "Fleshly wisdom is anything but holy and pure, having many windings and insincerities in order to captivate men."
 3. "In the grace of God, i.e. in that χάρις which he had received, the grace of his apostleship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that he glories in the testimony of his conscience, as something to boast of; nay, this testimony is itself the thing in which his glorying consists."
 2. "Sincerity in Greek implies the non-admixture of any foreign element. He had no sinister or selfish aims (as some insinuated) in failing to visit them as he had promised."
 3. "The prudence which subserves selfish interests, or employs unchristian means, or relies on human means more than on the Divine Spirit, is 'fleshly wisdom'."
@@ -55,4 +55,4 @@ In this verse, the speaker refers to their joy and confidence in the testimony o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes that God is the ultimate source of growth a
 2. "ὅρα πῶς ἀνεπαχθῆ ποιεῖ τὴν ἐξουδένωσιν τῶν προεστώτων" - See how He brings about the humiliation of those who were esteemed in Corinth, by humbling himself and Apollo, teaching that one must only pay attention to God and offer everything that happens as good to Him.
 3. "θεῷ δεῖ μόνῳ προσέχειν" - One must only pay attention to God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God" is emphatically last in the Greek, "He that giveth the increase (namely), GOD."
 2. "Let no man glory in men" stands in antithetic contrast to "God" here.
 3. "God" is all in all.
@@ -55,4 +55,4 @@ The verse being described emphasizes that God is the ultimate source of growth a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described here portrays the skepticism and division surrounding 
 
 3. "The majority [carried] out their hate against Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This man is not of God" - This quote highlights the accusation made against Jesus by some individuals who doubted his divine origin and authority. It reflects the skepticism and disbelief that Jesus faced from certain individuals during his ministry.
 
 2. "Others said" - This quote suggests that not everyone shared the same negative opinion about Jesus. It indicates that there were individuals like Nicodemus and Joseph who had a different perspective and were willing to defend or support Jesus.
@@ -59,4 +59,4 @@ The verse being described here portrays the skepticism and division surrounding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse reminds us of God's omniscience and foreknowledge, as stated by Henry
 2. "The text which I have given is in all probability the original."
 3. "The Apostle paraphrases the ὁ ποιῶν ( πάντα ) ταῦτα of the LXX, adding γνωστὰ ἀπ ʼ αἰῶνος, and intending to express 'saith the Lord, who from the beginning revealed these things,' viz. by the prophet (of old, see reff.) just cited."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Known unto God are all his works from the beginning" - This quote highlights the omniscience of God, emphasizing that He has complete knowledge of all His works from the very beginning.
 2. "He who announced these things so long before" - This quote suggests that God had foretold these events long ago, indicating His ability to predict and plan for the future.
 3. "They were no novelty" - This quote implies that the fulfillment of these events was not a surprise or unexpected occurrence, but rather a part of God's predetermined plan.
@@ -59,4 +59,4 @@ This verse reminds us of God's omniscience and foreknowledge, as stated by Henry
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

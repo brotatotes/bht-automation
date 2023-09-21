@@ -4,7 +4,7 @@
 The Bible verse being described is a powerful reminder that true identity and belonging to God are not determined by external appearances or religious rituals. Being a Jew is not simply a matter of physical descent or surface-level observance, but rather a profound inward transformation of the heart. Circumcision, while symbolically significant, is not merely a physical mark, but rather a spiritual sign of dedication to God. It is the authenticity of one's relationship with God that truly matters, as opposed to outward displays of religious practices.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The name of 'Jew' and the rite of 'circumcision' were designed but as outward symbols of a separation from the irreligious and ungodly world unto holy devotedness in heart and life to the God of salvation."
 2. "Amidst all the inequalities of religious opportunity measured out to men, and the mysterious bearing of this upon their character and destiny for eternity, the same great principles of judgment, in a form suited to their respective discipline, will be applied to all, and perfect equity will be seen to reign throughout every stage of the divine administration."
 3. "As no external privileges, or badge of discipleship, will shield the unholy from the wrath of God, so neither will the want of them shut out from the kingdom of heaven such as have experienced without them that change of heart which the seals of God's covenant were designed to mark."
@@ -47,4 +47,4 @@ The Bible verse being described is a powerful reminder that true identity and be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see the immense popularity of Jesus, with a multitude gathering to hear his teachings and witness his miracles. Jesus places significance on teaching his disciples first, showing his desire to impart wisdom to his closest followers. He conveys profound spiritual truths through parables, engaging his listeners' imaginations and challenging them to seek deeper understanding. Through this repetition of a nature miracle, critics are reminded that Jesus performed similar miraculous acts in different locations, emphasizing His power and ability to provide for those in need.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The multitude being very great" shows the immense popularity and influence of Jesus during his ministry. It highlights the widespread recognition of his teachings and miracles, drawing people from all walks of life to hear him speak and witness his works.
 
 2. "He began to say unto his disciples first of all" emphasizes the importance Jesus placed on teaching and guiding his disciples. It reveals his desire to impart knowledge and wisdom to those who were closest to him, ensuring they understood the deeper meaning behind his words and actions.
@@ -32,4 +32,4 @@ In this verse, we see the immense popularity of Jesus, with a multitude gatherin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

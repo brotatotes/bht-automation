@@ -11,7 +11,7 @@ In this verse, the commentators explain the importance of being awake and vigila
 
 3. The term "careless world" serves as a reminder that we should not be complacent or apathetic in our faith. We should strive to be diligent and intentional in our pursuit of God, rather than being swept away by the distractions and temptations of the world.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sleep" here is worldly apathy to spiritual things (Romans 13:11; Ephesians 5:14).
 2. "Watch" for Christ's coming; literally, "be wakeful" (1 Corinthians 15:34; 2 Timothy 2:26).
 3. "Be sober" - refraining from carnal indulgence, mental or sensual (2 Timothy 2:26).
@@ -55,4 +55,4 @@ In this verse, the commentators explain the importance of being awake and vigila
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

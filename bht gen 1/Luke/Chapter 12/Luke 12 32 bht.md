@@ -11,7 +11,7 @@ In this verse, Jesus reassures his followers, comparing them to a small flock th
 
 3. "As in Isa 41:10-14" - This quote references Isaiah 41:10-14, suggesting that the passage in question shares similarities with the mentioned verses. It encourages readers to explore the connection and gain a deeper understanding of the context and message of the passage.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Little flock" - a tender and pitying appellation that highlights the insignificance and helplessness of the disciples, emphasizing the eternal love and everlasting arms that encircled them.
 2. "The high inheritance awaiting them" - a reminder of the grand word "kingdom" that awaits the disciples, contrasting with the idea of mere bread.
 3. "Fear not!" - a comforting assurance from Jesus, reminding the disciples of the divine protection and provision that accompanies their journey.
@@ -52,4 +52,4 @@ In this verse, Jesus reassures his followers, comparing them to a small flock th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

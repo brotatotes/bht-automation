@@ -8,7 +8,7 @@ In preparation for the Passover feast, many people went up to Jerusalem to purif
 1. "ἐκ τ. χώρ., not ‘from that country,’ the connexion with εἰς τὴν χώραν above having been severed by the note of time, ἦν δὲ ἐγγὺς κ. τ. λ.: but, from the country generally." 
 2. "ἵνα ἁγν. ἑαυτ. To purify themselves from any Levitical uncleanness, that they might be able to keep the Passover: see Numbers 9:10; and reff. 2 Chron. and Acts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many went up . . . before the passover, to purify themselves." - This quote highlights the importance of purification before participating in the Passover feast, emphasizing the significance of spiritual cleanliness.
 2. "From any legal uncleanness which would have disqualified them from keeping the feast." - This quote emphasizes the strict adherence to the laws and regulations surrounding the Passover feast, indicating the seriousness of maintaining purity and obedience.
 3. "This is mentioned to introduce the graphic statement which follows." - This quote indicates that the upcoming statement will provide a vivid and detailed account, suggesting that it will further enhance the reader's understanding of the Passover event.
@@ -53,4 +53,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

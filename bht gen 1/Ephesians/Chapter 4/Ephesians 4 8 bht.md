@@ -9,7 +9,7 @@ In this verse, the Psalmist speaks of a triumphant ascent to Zion, which comment
 2. "The ascending in the Psalm is that of God, whose presence was symbolized by the ark, to Zion. The Apostle changes the words from the 2nd person to the 3rd; the address asserting a fact, which fact he cites."
 3. "In the interpretation, they were God’s enemies, Satan and his hosts, as Chr., ποίαν αἰχμαλωσίαν φησί ; τὴν τοῦ διαβόλου . αἰχμάλωτον τὸν τύραννον ἔλαβε , τὸν διάβολον καὶ τὸν θάνατον καὶ τὴν ἀρὰν καὶ τὴν ἁμαρτίαν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ ascending to heaven, who is therefore GOD."
 2. "In the antitypical meaning, the foes of Christ the Son of David, the devil, death, the curse, and sin."
 3. "The impartation of the gifts and graces of the Spirit depended on Christ's ascension."
@@ -53,4 +53,4 @@ In this verse, the Psalmist speaks of a triumphant ascent to Zion, which comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In a significant and authoritative gathering within the temple, where the religi
 
 3. "Hanged, or strangled himself." - This quote presents two possible interpretations of how Judas met his end, providing insight into the different accounts and speculations surrounding his fate.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sarcastic, diabolical reply which he had got, in place of the sympathy which perhaps he expected, would deepen his remorse into an agony."
 2. "Perhaps he flung the money in after them. But thus were fulfilled the words of the prophet—'I cast them to the potter in the house of the Lord.'"
 3. "For the details, see on Matthew 27:5."
@@ -57,4 +57,4 @@ In a significant and authoritative gathering within the temple, where the religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

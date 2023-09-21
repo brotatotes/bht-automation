@@ -9,7 +9,7 @@ The verse being described emphasizes the identity and divinity of Jesus as the S
 2) "The main objection to Huther’s view is, that, as well stated by Düsterd., it makes the coming by water and blood, which, by the context, is evidently in the Apostle’s argument a substantiating consideration, to be merely an exceptional one."
 3) "The blood of His Cross must, by all Scripture analogy, be that intended. The pouring out of this blood was the completion of the baptism which He had to be baptized with."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that came by water and blood—'by water,' when His ministry was inaugurated by baptism in the Jordan, and He received the Father's testimony to His Messiahship and divine Sonship."
 2. "He came by 'the blood of His cross': a fact seen and so solemnly witnessed to by John."
 3. "The Holy Spirit is an additional witness, besides the water and the blood, to Jesus' Sonship and Messiahship."
@@ -55,4 +55,4 @@ Note: The commentary is based on 1 John 5:6.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of a time when Jesus has returned and is in his heavenly glory
 2. "The word signifying 'to arrange a matter,' which however was not then executed."
 3. "The sons of Ancus having often arranged a plot to kill Tarquinius."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Different degrees of future gracious reward" - This quote highlights the idea that the level of reward in the future is not the same for everyone. It suggests that individuals will be rewarded based on their level of fidelity in the present.
 
 2. "Proportioned to the measure of present fidelity" - This quote further emphasizes the concept that the future reward is directly related to one's faithfulness in the present. It suggests that the more faithful a person is in their current actions, the greater their future reward will be.
@@ -62,4 +62,4 @@ This verse speaks of a time when Jesus has returned and is in his heavenly glory
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

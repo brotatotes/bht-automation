@@ -9,7 +9,7 @@ In this Bible verse, we witness the remarkable transformation of Saul, who was k
 2. "They come again with a strong argument, for they no longer seek false accusers and false witnesses." 
 3. "The Jews no longer seek to slander and accuse him falsely."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had we no other record than this, we should have supposed that what is here related took place while Saul continued at Damascus after his baptism."
 2. "That such a blank should occur in the Acts, and be filled up in Galatians, is not more remarkable than that the flight of the Holy Family into Egypt, their stay there, and their return thence, recorded only by Matthew, should be so entirely passed over by Luke."
 3. "Perhaps (1) because he felt a period of repose and partial seclusion to be needful to his spirit, after the violence of the change and the excitement of his new occupation."
@@ -52,4 +52,4 @@ Note: The given commentary is quite lengthy and does not provide many concise qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

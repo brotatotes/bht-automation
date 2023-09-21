@@ -9,7 +9,7 @@ In this verse, the writer desires to inform the Corinthians about the troubling 
 2. "I am unable to assign any other event as in the Apostle’s mind: but the expressions seem rather to regard a deadly sickness, than a persecution."
 3. "Such an expression surely would not be used of a tumult, where life would have been the first thing in danger, if Paul had been at all mixed up in it, but to some wearing and tedious suffering, inducing despondency in minor matters, which even reached the hope of life itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we had the sentence of death in ourselves," mean, that he looked upon himself as a man condemned to die.
 2. had Paul been found by the mob in the excitement, he would have been torn in pieces.
 3. His weak state of health at the time combined with all this to make him regard himself as all but dead.
@@ -57,4 +57,4 @@ In this verse, the writer desires to inform the Corinthians about the troubling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

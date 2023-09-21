@@ -9,7 +9,7 @@ In this Bible verse, we see a powerful message about mercy and forgiveness. Desp
 2. "The master's response to the servant's enormous debt is not one of anger or condemnation, but of mercy and compassion." - Chrysostom
 3. "This parable teaches us the boundless mercy and forgiveness of God, who is willing to cancel even the greatest debts and show compassion to those who repent." - Chrysostom
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O thou wicked servant" - The lord's address to the servant highlights the severity of his actions and the moral judgment placed upon him. It emphasizes the servant's wickedness and sets the tone for the impending punishment.
 
 2. "Shamefully unreasonable and heartless" - The commentary highlights the lord's calm explanation of the servant's conduct, emphasizing the moral wrongness of his actions. This phrase captures the lord's disappointment and disbelief at the servant's lack of compassion.
@@ -27,4 +27,4 @@ In this Bible verse, we see a powerful message about mercy and forgiveness. Desp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

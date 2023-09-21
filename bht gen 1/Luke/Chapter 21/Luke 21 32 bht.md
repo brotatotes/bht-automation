@@ -4,7 +4,7 @@
 Jesus' statement in this verse makes reference to the people living at that time, emphasizing the relevance of his words to his immediate audience. The phrase "this generation" points to the fulfillment of specific prophecies regarding the destruction of Jerusalem. The context of the verse suggests that Jesus is discussing the events and signs leading up to the destruction. Further details on this event can be found in the verses following Luke 21:7, specifically from Luke 21:8 to Luke 21:24.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This generation" refers to the people living at that time, not just the nation as a whole.
 2. The interpretation of "this generation" as the current people aligns with the context of the verse.
 3. The phrase "this generation" emphasizes the immediate relevance and application of the message to the people of that time.
@@ -30,4 +30,4 @@ Jesus' statement in this verse makes reference to the people living at that time
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

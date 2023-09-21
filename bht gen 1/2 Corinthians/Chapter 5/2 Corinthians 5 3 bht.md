@@ -9,7 +9,7 @@ In this verse, believers are assured that they will be clothed with a body, not 
 2. "To this Meyer rightly objects, that it is open to the difficulty of making ἔνδυσις and γυμνότης, and that in the very sense in which they are opposites, to co-exist; no clothing but that of a body is thought of here."
 3. "Of all these we may say, that if the Apostle had meant by γυμνοί to hint at any other kind of γυμνότης than that which the similitude obviously implies, he would have certainly indicated it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our desire holds good, should the Lord's coming find us alive."
 2. "If so be that having ourselves clothed we shall not be found naked."
 3. "Stripped of our present body."
@@ -53,4 +53,4 @@ In this verse, believers are assured that they will be clothed with a body, not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

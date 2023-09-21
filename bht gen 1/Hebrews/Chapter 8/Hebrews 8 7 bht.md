@@ -9,7 +9,7 @@ The verse being described in the commentary quotes is about the imperfections an
 2. "For if that first (covenant) were blameless, a place would not be sought." 
 3. "It is far better to understand it of a place in history, and regard the expression as 'a place is found' and 'a place is taken' in references."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law in its morality was blameless (Greek, 'amomos'); but in saving us it was defective, and so not faultless (Greek, 'amemptos')."
 2. "The old covenant would have anticipated all man's wants, so as to give no occasion for seeking something more perfectly adequate."
 3. "The law in its morality was blameless, but in saving us it was defective."
@@ -57,4 +57,4 @@ The verse being described in the commentary quotes is about the imperfections an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

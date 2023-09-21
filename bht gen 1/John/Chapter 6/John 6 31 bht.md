@@ -4,7 +4,7 @@
 This passage depicts the significance of manna, highlighting its connection to Moses and the miraculous nature of it being provided as bread from heaven. It emphasizes the heavenly origin of Jesus as he makes references to himself coming down from heaven, comparing himself to the manna eaten by their ancestors. The repetition of this concept reinforces the divine nature of the provision of both physical and spiritual sustenance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When Moses claimed the confidence of the fathers, 'he gave them bread from heaven to eat'—not for a few thousands, but for millions, and not once only, but daily throughout their wilderness journey."
 
 2. "The reference to the fathers eating manna highlights the contrast between the temporary provision of physical bread in the wilderness and the eternal sustenance offered by Christ."
@@ -54,4 +54,4 @@ These quotes highlight the physical characteristics of manna, the exclusivity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

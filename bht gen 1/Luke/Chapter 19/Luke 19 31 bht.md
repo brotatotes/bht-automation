@@ -4,7 +4,7 @@
 This verse showcases the divine knowledge and authority of Jesus, as he sends his disciples to a specific village to find a colt. The mention of the Lord's need for the colt suggests a recognition of his authority and the willingness of the owners to fulfill his request. It is possible that these owners knew Jesus personally and acknowledged his identity without hesitation, exemplifying their faith in him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord hath need, &c.—He both knew all and had the key of the human heart." 
 2. "Perhaps the owner was a disciple." 
 3. "He both knew all and had the key of the human heart."
@@ -32,4 +32,4 @@ This verse showcases the divine knowledge and authority of Jesus, as he sends hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

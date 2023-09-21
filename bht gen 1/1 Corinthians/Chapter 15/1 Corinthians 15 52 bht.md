@@ -9,7 +9,7 @@ In a moment, in the twinkling of an eye, the amazing work of omnipotence will ta
 2. "the last trump, in a wide and popular sense"
 3. "ὁ σαλπιγκτής, scil. So Od. φ. 142, ἀρξάμενοι τοῦ χώρου ὅθεν τέ περ οἰνοχοεύει (scil. ὁ οἰνόχοος)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The last trump—at the sounding of the trumpet on the last day."
 2. "As the law was given with the sound of a trumpet, so the final judgment according to it."
 3. "The trumpet was sounded to convoke the people on solemn feasts, especially on the first day of the seventh month."
@@ -57,4 +57,4 @@ In a moment, in the twinkling of an eye, the amazing work of omnipotence will ta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

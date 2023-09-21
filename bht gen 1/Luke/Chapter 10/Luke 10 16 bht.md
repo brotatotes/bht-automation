@@ -11,7 +11,7 @@ This verse captures the significance of receiving and welcoming others in the na
 
 3. "This verse also highlights the importance of unity and community among believers. When we receive one another, we are building up the body of Christ and creating a space where God's presence can be experienced and His purposes can be fulfilled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that believes and is baptized shall be saved; but he that believes not shall be damned." This verse emphasizes the importance of faith and baptism in the process of salvation. It highlights the necessity of belief in Jesus Christ and the act of baptism as a public declaration of that faith.
 
 2. "Salvation is not simply a matter of intellectual assent, but it requires a personal commitment to Jesus Christ." This quote emphasizes that true belief goes beyond mere intellectual agreement. It involves a personal relationship and commitment to Jesus Christ as Lord and Savior.
@@ -65,4 +65,4 @@ This verse captures the significance of receiving and welcoming others in the na
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

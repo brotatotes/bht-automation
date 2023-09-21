@@ -9,7 +9,7 @@ In this verse, we witness the transition from a time of imminent danger to a sta
 2. "The δεξιολάβοι appear to have gone back with the soldiers."
 3. "The ἱππεῖς were left to go on alone, and to take up their quarters for the night at the nearest village."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The infantry left the horsemen" - This signifies a shift in the journey, as the infantry no longer needed the protection of the horsemen. It shows a sense of progress and independence in their travels.
 
 2. "Themselves no longer needed as a guard" - This highlights the changing circumstances and the diminishing need for external protection. It suggests that the group has reached a point of safety or familiarity in their journey.
@@ -51,4 +51,4 @@ In this verse, we witness the transition from a time of imminent danger to a sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

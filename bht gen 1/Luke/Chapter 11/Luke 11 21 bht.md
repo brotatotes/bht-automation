@@ -9,7 +9,7 @@ In this verse, a strong adversary, often identified as the devil, is depicted as
 2. "With these is he clothed and armed, or rather with their evil capacities, which he furbishes and brightens for his use."
 3. "He divides his spoils turns to His own use and that of His followers all that good which the enemy had corrupted into evil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strong man—meaning Satan." 
 2. "Armed—pointing to all the subtle and varied methods by which he wields his dark power over men." 
 3. "His palace—man whether viewed more largely or in individual souls—how significant of what men are to Satan!"
@@ -42,4 +42,4 @@ In this verse, a strong adversary, often identified as the devil, is depicted as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is a powerful statement made by the apostle Paul
 2. "I suffered the loss of ALL THINGS and esteem them to be refuse, that I may gain Christ."
 3. "Not having my own righteousness which is of the law, but that which is through the faith of Christ, the righteousness which is of God on my faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only 'have I counted' those things just mentioned 'loss for Christ's sake, but, moreover, I even DO count ALL things but loss." 
 2. "On account of the surpassing excellency (the supereminence above them all) of the knowledge of Christ Jesus."
 3. "A man cannot make other things his 'gain' or chief confidence, and at the same time 'gain Christ.' He who loses all things, and even himself, on account of Christ, gains Christ: Christ is His, and He is Christ's."
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful statement made by the apostle Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

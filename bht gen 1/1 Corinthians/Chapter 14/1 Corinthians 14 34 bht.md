@@ -9,7 +9,7 @@ In this verse, women are instructed to maintain silence in the churches, with ex
 2. "Their speaking in public would be of itself an act of in dependence; of teaching the assembly, and among others their own husbands."
 3. "Their speaking in public would be of itself an act of in dependence; of teaching the assembly, and among others their own husbands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For women to speak in public would be an act of independence, as if they were not subject to their husbands." (1)
 2. "For 'under obedience,' translate, 'in subjection' or 'submission,' as the Greek is translated." (2)
 3. "The law—a term applied to the whole Old Testament; here, Ephesians 5:24." (3)
@@ -50,4 +50,4 @@ In this verse, women are instructed to maintain silence in the churches, with ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

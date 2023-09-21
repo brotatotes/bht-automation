@@ -4,7 +4,7 @@
 This verse calls us to extend true compassion beyond meeting physical needs, to also care for the emotional and spiritual well-being of others. It emphasizes the importance of reaching out to the vulnerable and marginalized, as our actions towards them are ultimately actions towards Jesus. Through acts of visitation, sympathy, and care, we are called to actively seek out and support those who are suffering and isolated. Clothed with love and protected with compassion, we are reminded of the importance of personal presence and attention in showing care for others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that true compassion extends beyond just meeting physical needs; it also includes caring for the emotional and spiritual well-being of others." 
 
 2. "Jesus is highlighting the importance of reaching out to those who are vulnerable and marginalized in society, emphasizing that our actions towards them are ultimately actions towards Him."
@@ -37,4 +37,4 @@ This verse calls us to extend true compassion beyond meeting physical needs, to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

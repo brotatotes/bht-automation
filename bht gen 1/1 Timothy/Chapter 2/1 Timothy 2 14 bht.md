@@ -9,7 +9,7 @@ In this Bible verse, we see the contrast between Adam and Eve's responses to tem
 2. "The 'subtlest beast of all the field' knew his course better: she listened to the lower solicitation of sense and expediency: he to the higher one of conjugal love."
 3. "Having been seduced by deceit has become involved in transgression."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Adam was not deceived—as Eve was deceived by the serpent; but was persuaded by his wife." 
 2. "Last in being, she was first in sin—indeed, she alone was deceived."
 3. "Hence, in the order of God's judicial sentence, the serpent, the prime offender, stands first; the woman, who was deceived, next; and the man, persuaded by his wife, last."
@@ -55,4 +55,4 @@ In this Bible verse, we see the contrast between Adam and Eve's responses to tem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

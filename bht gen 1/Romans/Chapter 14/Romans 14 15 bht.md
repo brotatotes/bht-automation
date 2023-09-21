@@ -9,7 +9,7 @@ In this Bible verse, we learn about the importance of love and consideration for
 2. "How much greater an offence then, if this λυπεῖν end in ἀπολλύειν in ruining (causing to act against his conscience, and so to commit sin and be in danger of quenching God’s Spirit within him) by a MEAL of thine, a brother, for whom Christ died!"
 3. "‘Ne pluris feceris tuum cibum, quam Christus vitam suam.’ Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'meat' is purposely selected as something contemptible in contrast with the tremendous risk run for its sake."
 2. "The worth of even the poorest and weakest brother cannot be more emphatically expressed than by the words, 'for whom Christ died.'"
 3. "Whatever tends to make anyone violate his conscience tends to the destruction of his soul; and he who helps, whether wittingly or no, to bring about the one is guilty of aiding to accomplish the other."
@@ -55,4 +55,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

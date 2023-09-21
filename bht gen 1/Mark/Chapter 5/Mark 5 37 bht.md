@@ -4,7 +4,7 @@
 In this Bible verse, Jesus chooses to reveal a special moment to only Peter, James, and John, showcasing their deep connection and trust. The exclusivity may have been to prevent a noisy crowd from overpowering the significance of the event. This select group of disciples, having witnessed previous miracles, were chosen to witness the restoration of a young girl to life. Their presence in these moments of great importance and revelation further strengthens their faith and commitment to Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that Jesus allowed only Peter, James, and John to accompany him suggests a deeper level of intimacy and trust between them. It highlights the special relationship Jesus had with these three disciples, and the significance of their presence in moments of great importance and revelation." 
 
 2. "By limiting the number of followers, Jesus created a more intimate setting for the events that were about to unfold. This select group of disciples would witness moments of great significance and gain a deeper understanding of Jesus' mission and identity." 
@@ -39,4 +39,4 @@ Overall, these quotes shed light on the selectiveness of Jesus' interactions wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

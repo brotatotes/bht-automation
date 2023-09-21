@@ -9,7 +9,7 @@ In this verse, we see a unique address to a child named John, who is not only sp
 2. "The believing Christian will find it far more natural thus to apply it, especially in connection with Matthew 1:21."
 3. "The connection between the name Jesus and the saving work of the Lord is a deep and significant one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Very beautiful are these closing notes—like the setting sun, shorn indeed of its noontide radiance, but skirting the horizon with a wavy and quivering light—as of molten gold—on which the eye delights to gaze, till it disappears from the view."
 2. "Thou child—not 'my son'—this child's relation to himself being lost in his relation to a Greater than either."
 3. "As 'the Most High' is an epithet in Scripture only of the supreme God, it is inconceivable that inspiration should apply this term, as here undeniably, to Christ, unless He were 'God over all blessed for ever' (Romans 9:5)."
@@ -52,4 +52,4 @@ In this verse, we see a unique address to a child named John, who is not only sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

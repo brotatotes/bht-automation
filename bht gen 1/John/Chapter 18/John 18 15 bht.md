@@ -9,7 +9,7 @@ In this Bible verse, a disciple, possibly John himself, follows Jesus into a cou
 2. "The idea that it was Judas Iscariot is surely too absurd to need confutation."
 3. "The whole character of the incident will prevent any real student of St. John’s style and manner from entertaining such a supposition for a moment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simon Peter followed Jesus—Natural though this was, and safe enough, had he only 'watched and prayed that he enter not into temptation,' as his Master bade him (Matthew 26:41), it was, in his case, a fatal step." 
 
 2. "and . . . another disciple—Rather, 'the other disciple'—our Evangelist himself, no doubt." 
@@ -47,4 +47,4 @@ In this Bible verse, a disciple, possibly John himself, follows Jesus into a cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ As the commentator remarks, the verse describes a scene of angelic activity wher
 2. "There is something to me far more revolting from theological propriety in such a supposition, than in an angel being seen in the heavenly ministrations offering incense to mix with the prayers of the saints."
 3. "The angel is simply a minister. The incense is given to him: he merely wafts the incense up, so that it mingles with the prayers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am Raphael, one of the seven holy angels which present the prayers of the saints, and which go in and out before the glory of the Holy One." (Tobit 12:15) - This quote highlights the role of the seven angels in presenting the prayers of the saints and their close proximity to the glory of God.
 
 2. "I am Gabriel, that stand in the presence of God." - This quote emphasizes the position of Gabriel, another angel, who stands in the presence of God. It further emphasizes the importance and authority of these angels.
@@ -50,4 +50,4 @@ As the commentator remarks, the verse describes a scene of angelic activity wher
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

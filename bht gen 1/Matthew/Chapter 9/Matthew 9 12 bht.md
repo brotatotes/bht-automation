@@ -9,7 +9,7 @@ This Bible verse describes Jesus as the compassionate physician of both body and
 2. "As referring to their respective opinions of themselves."
 3. "Not as though the Pharisees were objectively either ἰσχύοντες or δίκαιοι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that be whole need not a physician, but they that are sick—that is, 'Ye deem yourselves whole; My mission, therefore, is not to you: The physician's business is with the sick; therefore eat I with publicans and sinners.'"
 
 2. "Oh, what myriads of broken hearts, of sin-sick souls, have been bound up by this matchless saying!"
@@ -48,4 +48,4 @@ This Bible verse describes Jesus as the compassionate physician of both body and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

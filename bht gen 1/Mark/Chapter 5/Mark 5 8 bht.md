@@ -9,7 +9,7 @@ In this Bible verse, Mark presents a unique encounter where Jesus addresses a de
 2. "ἔλεγεν] not imperf. for pluperf., either here or any where else; for He was saying to him, &c."
 3. "For He was saying to him, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ordinarily, obedience to a command of this nature was immediate."
 2. "A certain delay is permitted, the more signally to manifest the power of Christ."
 3. "To accomplish His purposes."
@@ -38,4 +38,4 @@ In this Bible verse, Mark presents a unique encounter where Jesus addresses a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

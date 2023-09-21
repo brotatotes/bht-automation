@@ -9,7 +9,7 @@ This passage describes Jesus' return to Galilee, where he was baptized by John a
 2. "The Greek name Peter became the prevalent one in the apostolic Church very soon: Paul uses both names indiscriminately."
 3. "The knowledge of Simon shown by the Lord is intended to be miraculous... I know what I will make of thee in thy following of Me and for my Kingdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From His baptism He had sojourned in Judea, showing that the calling at the Sea of Galilee was a subsequent one."
 2. "Follow me—the first express call given, the former three having come to Him spontaneously."
 3. "The calling at the Sea of Galilee was a significant moment, as it marked the beginning of Jesus actively calling disciples to follow Him."
@@ -47,4 +47,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

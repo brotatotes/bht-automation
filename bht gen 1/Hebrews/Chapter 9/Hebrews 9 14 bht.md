@@ -4,7 +4,7 @@
 In this verse, we see the voluntary and efficacious nature of Christ's offering, which began on the cross and was completed by entering the holiest place with His blood. Christ's sacrifice on the cross, being inwardly stainless, cleanses the deepest part of our being, the conscience. It is through the eternal Spirit that Christ, as the perfect and unblemished sacrifice, offers Himself to God. The purpose of this purgation of conscience, achieved by Christ's blood, is to serve the living God in a life of faith and perfect holiness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The voluntary nature of the offering gives it especial efficacy."
 2. "His offering began on the altar of the cross, and was completed in His entering the holiest place with His blood."
 3. "Christ on the cross was a victim inwardly and essentially stainless."
@@ -53,4 +53,4 @@ In this verse, we see the voluntary and efficacious nature of Christ's offering,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

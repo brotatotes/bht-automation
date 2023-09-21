@@ -9,7 +9,7 @@ Above all, the Apostle cautions against the sin of swearing, emphasizing the imp
 2. "The use of oaths by heaven, etc., arises on the one hand from forgetting that every oath, in its deeper significance, is a swearing by God, and on the other from a depreciation of simple truth in words."
 3. "But let your yea be yea, and your nay, nay, that ye fall not under judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But above all—as swearing is utterly alien to the Christian meek 'endurance' just recommended."
 2. "Do not use oaths in your everyday conversation, but let a simple affirmative or denial be deemed enough to establish your word."
 3. "Condemnation—literally, 'judgment,' namely, of 'the Judge' who 'standeth before the doors'."
@@ -55,4 +55,4 @@ Above all, the Apostle cautions against the sin of swearing, emphasizing the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes Galilee as a region with a diverse population, inhabited by
 2. "The later meaning of מֵעֵבֶר לַיַּרְדֵּן, as signifying the tract to the west of the Jordan, and which naturally sprung up during the captivity, is not to be thought of in Isaiah, who wrote before that event."
 3. "Galilee superior, near to Tyre and Sidon, which was inhabited by a variety of nations."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Galilee of the Gentiles—so called from its position, which made it the frontier between the Holy Land and the external world."
 2. "While Ephraim and Judah, as STANLEY says, were separated from the world by the Jordan valley on one side and the hostile Philistines on another, the northern tribes were in the direct highway of all the invaders from the north."
 3. "Their distance from the seats of government and civilization at Jerusalem and Cæsarea gave them their character for turbulence or independence, according as it was viewed by their friends or their enemies."
@@ -35,4 +35,4 @@ This verse describes Galilee as a region with a diverse population, inhabited by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

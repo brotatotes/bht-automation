@@ -11,7 +11,7 @@ The objections raised against God's righteousness and justice in choosing some a
 
 3. "God's sovereignty in choosing whom He wills does not negate His justice, but rather displays His authority and power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is there unrighteousness with God? God forbid." - This objection raises the concern that the doctrine of God's sovereign choice contradicts His justice. However, the commentator affirms that there is no unrighteousness in God, emphasizing His perfect nature and character.
 
 2. "God chooses one and rejects another, not on account of their works, but purely in the exercise of His own good pleasure." - The commentary highlights that God's choice is not based on human merit or works but solely on His own sovereign will. This emphasizes the divine prerogative and the absence of human control in salvation.
@@ -54,4 +54,4 @@ These quotes highlight the righteousness of God in His choices and refute the ob
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

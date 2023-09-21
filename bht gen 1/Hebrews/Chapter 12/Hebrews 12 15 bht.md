@@ -11,7 +11,7 @@ In this verse, the importance of vigilance and mutual support is emphasized. The
 
 3. "and by its means the many be polluted" - This phrase highlights the potential for the pollution of the entire community when individuals allow bitterness and other negative attitudes to take root and spread among them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The image is taken from a company of travellers, one of whom lags behind, and so never reaches the end of the long and laborious journey."
 2. "Root of bitterness comprehends every person and every principle of doctrine or practice so radically corrupt as to spread corruption all around."
 3. "So long as it is hidden under the earth it cannot be remedied, but when it 'springs up,' it must be dealt with boldly."
@@ -59,4 +59,4 @@ In this verse, the importance of vigilance and mutual support is emphasized. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

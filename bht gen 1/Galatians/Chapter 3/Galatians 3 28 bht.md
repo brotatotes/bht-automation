@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the principle of equality in Christ. T
 2. "Ἰουδ .  οὐδὲ Ἕλλ ., δοῦλος  οὐδὲ ἐλεύθ ., but ἄρσεν  καὶ θῆλυ : the two former being accidental distinctions which may be entirely put off in falling back on our humanity, but the latter a necessary distinction, absorbed however in the higher category: q. d. 'there is no distinction into male and female.'"
 3. "εἷς , more forcible and more strict than ἕν : for we are one,  in Him , εἷς καινὸς ἄνθρωπος , as he says in Ephesians 2:15 , speaking on this very subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is in this sonship by faith in Christ, no class privileged above another."
 2. "Difference of sex makes no difference in Christian privileges."
 3. "In the resurrection, the relation of the sexes shall cease."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the principle of equality in Christ. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

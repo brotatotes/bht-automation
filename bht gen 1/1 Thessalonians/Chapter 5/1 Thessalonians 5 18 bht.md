@@ -9,7 +9,7 @@ In every aspect of our lives, we are called to have a grateful attitude, acknowl
 2. "On every occasion."
 3. "Christ being the Mediator."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In every thing—even what seems adverse: for nothing is really so."
 2. "See Christ's example."
 3. "God's will is the believer's law."
@@ -63,4 +63,4 @@ In every aspect of our lives, we are called to have a grateful attitude, acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

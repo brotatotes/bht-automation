@@ -9,7 +9,7 @@ In these commentaries, the importance of intercession and nurturing is emphasize
 2. "As is done to orange-trees in the south of Italy" - This comparison highlights the importance of tending to the tree in a similar way to how farmers care for their orange trees in order to yield a bountiful harvest. 
 3. "And to hops in England" - This reference to hops in England emphasizes the universal principle of nurturing and cultivating plants to ensure a fruitful outcome.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, as Intercessor, loath to see it cut down so long as there was any hope." 
 2. "Loosen the earth about it and enrich it with manure pointing to changes of method in the divine treatment of the impenitent, in order to freshen spiritual culture." 
 3. "Changes of method in the divine treatment of the impenitent, in order to freshen spiritual culture."
@@ -37,4 +37,4 @@ Overall, these quotes highlight the importance of preparation, nourishment, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

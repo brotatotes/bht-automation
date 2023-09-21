@@ -9,7 +9,7 @@ Amidst the fear and chaos caused by Paul's arrest, the chief captain is gripped 
 2. "His fear was on account of his first false step; but it was now too late to reverse it."
 3. "The centurion believed Paul's word, because a false claim of this nature, being easily exposed, and punishable with death, was almost an unprecedented thing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fear of the chief captain reveals the power and authority that Paul possessed, even in his chains. It is a reminder that the message of the Gospel is not bound by physical limitations or circumstances."
 
 2. "The chief captain's fear also highlights the potential threat that Paul posed to the Roman authorities. His teachings and influence had the ability to challenge the status quo and disrupt the established order."
@@ -40,4 +40,4 @@ Amidst the fear and chaos caused by Paul's arrest, the chief captain is gripped 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentators describe a group of people who are uncertain, seeking safety, a
 2. "What is meant is, a creek with a smooth, sandy beach, as distinguished from a rocky inlet." - Commentators on κόλπον ... ἔχοντ.
 3. "Not, 'to thrust in,' as E. V., but to strand, 'to run a-ground.'" - Thucyd., ref., and more in Wetst. on ἐξῶσαι.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The scene of the wreck is remote from the great harbor, and possesses no marked features by which it could be recognized, even by a native if he came unexpectedly upon it."
 2. "Immediately on landing they knew where they were."
 3. "Every creek of course, must have a shore; but the meaning is, a practicable shore, in a nautical sense, that is, one with a smooth beach, in contradistinction to a rocky coast."
@@ -51,4 +51,4 @@ These quotes highlight the sailors' desperate search for safety and their determ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

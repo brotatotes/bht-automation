@@ -9,7 +9,7 @@ Believers, both men and women, are called to fulfill their duty of caring for wi
 2. "If any believing [man or] woman has widows (in [his or] her family dependent in any degree, however distant e.g. as sister, or sister-in-law, aunt, niece, cousin, &c.), let such person relieve them."
 3. "Let the church not be burdened (with their support: 'later and less correct form for βαρύνειν; see Ellic.), that it may relieve those who are widows in reality (really χῆραι destitute of help)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was speaking of younger widows; He now says, If any believing young widow have widows related to her needing support, let her relieve them, thereby easing the Church of the burden." 
 2. "In order to avoid the evils of idleness and wantonness, the result of idleness, the young widow is to be diligent in good works, such as 'relieving the afflicted,' thus qualifying herself for being afterwards a widow-presbyteress." 
 3. "Let such a one be burdened with their support."
@@ -56,4 +56,4 @@ These quotes emphasize the responsibility of believers to care for widows within
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

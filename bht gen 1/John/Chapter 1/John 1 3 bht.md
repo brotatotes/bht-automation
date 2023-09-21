@@ -9,7 +9,7 @@ The verse being described here is a powerful declaration of the divine nature an
 2. "Nothing was made without Him (the λόγος); all matter, and implicitly evil itself, in the deep and inscrutable purposes of creation."
 3. "John never uses γενέσθαι ἐν for 'to be made by.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things, c.—all things absolutely... without Him was not any thing—not one thing." 
 2. "This is a denial of the eternity and non-creation of matter, which was held by the whole thinking world outside of Judaism and Christianity." 
 3. "Its proper creation was never so much as dreamt of save by the children of revealed religion."
@@ -50,4 +50,4 @@ The verse being described here is a powerful declaration of the divine nature an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

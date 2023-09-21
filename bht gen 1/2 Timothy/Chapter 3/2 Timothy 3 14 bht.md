@@ -9,7 +9,7 @@ This verse encourages us to hold fast to the teachings we have received, remaini
 2. "Knowing from what teachers thou learnedst them." 
 3. "Thou hast known the holy scriptures which are able to make thee wise unto salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatever they may do." - This quote emphasizes that regardless of the actions of others, Timothy should remain steadfast in his faith and commitment to God.
 2. "Learned from me and thy mother and grandmother." - This quote highlights the importance of familial and generational influence in the transmission of faith and knowledge.
 3. "Assured of from Scripture." - This quote emphasizes the significance of grounding one's beliefs and teachings in the authority of Scripture.
@@ -59,4 +59,4 @@ These quotes emphasize the importance of staying steadfast in the teachings of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

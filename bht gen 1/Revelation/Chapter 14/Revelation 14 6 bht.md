@@ -4,7 +4,7 @@
 In this verse, a new series of angels is introduced, each representing messengers of God with their assistants who bring a divine message to all nations. They proclaim the everlasting Gospel, a joyful message of free justification, peace, and complete salvation by Christ. This Gospel is preached openly and boldly, reaching over the whole earth, giving all people the opportunity to decide whether they will be for or against Christ before judgment descends. Through their rapid and widespread preaching, these messengers will be witnesses of the effectual working of the Spirit amidst the counter-working of iniquity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Before the end the Gospel is to be preached for a WITNESS unto all nations: not that all nations shall be converted, but all nations shall have had the opportunity given them of deciding whether they will be for, or against, Christ."
 2. "Those thus preached to are 'they that dwell on the earth,' being of earth earthy: this last season of grace is given them, if yet they may repent, before 'judgment' descends."
 3. "The Gospel, though diffused over the globe, shall not come savingly unto any save the elect. The world is not to be evangelized till Christ shall come: meanwhile, God's purpose is 'to take out of the Gentiles a people for His name,' to be witnesses of the effectual working of His Spirit during the counter-working of 'the mystery of iniquity.'"
@@ -43,4 +43,4 @@ In this verse, a new series of angels is introduced, each representing messenger
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

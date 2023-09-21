@@ -4,7 +4,7 @@
 In this powerful passage, the people around Jesus express their limited understanding of his authority and power. They question why Jesus should be bothered with a seemingly hopeless situation, failing to recognize his ability to bring life even in the face of death. The urgency and severity of the situation suggest that Jesus' healing power may be limited, leading the disciples to doubt and have a lack of faith. Despite their doubts, there is still a measure of faith in Jesus' ability to help, even in the direst circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This statement reveals the limited understanding of the people around Jesus. They saw death as final and irreversible, and therefore questioned why Jesus should be bothered with a hopeless situation. However, they failed to recognize the power and authority that Jesus possessed over life and death." 
 
 2. "The phrase 'troublest thou the Master any further?' implies that the people believed Jesus had already done enough by healing the sick and casting out demons. They did not understand that Jesus was not limited by their human perspective, but had the ability to bring life and restoration even in the face of death." 
@@ -35,4 +35,4 @@ In this powerful passage, the people around Jesus express their limited understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

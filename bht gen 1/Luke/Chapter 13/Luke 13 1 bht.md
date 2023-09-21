@@ -9,7 +9,7 @@ In this verse, commentators explain that Jesus responds to the news of the Galil
 2. "The historical fact is otherwise unknown. The way of speaking here shows that it was well known to the writer."
 3. "Such slaughters were frequent, and would not be particularly recorded by the historians."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These men are not signal examples of divine vengeance, as ye suppose but every impenitent sinner—ye yourselves, except ye repent—shall be like monuments of the judgment of Heaven, and in a more awful sense."
 2. "The reference here to the impending destruction of Jerusalem is far from exhausting our Lord's weighty words; they manifestly point to a 'perdition' of a more awful kind—future, personal, remediless."
 3. "He simply points them to the practical view of the matter: 'These men are not signal examples of divine vengeance, as ye suppose but every impenitent sinner—ye yourselves, except ye repent—shall be like monuments of the judgment of Heaven, and in a more awful sense.'"
@@ -38,4 +38,4 @@ In this verse, commentators explain that Jesus responds to the news of the Galil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

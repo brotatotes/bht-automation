@@ -9,7 +9,7 @@ This verse describes Apollos' visit to Corinth, where he was received warmly by 
 2. "The text of the Codex Bezæ is a very peculiar one, deviating more from the received readings and from the principal manuscript authorities than any other."
 3. "His coming was a valuable assistance to the Christians against the Jews, in the controversies which had doubtless been going on since Paul’s departure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The desire of the Jews to retain him among them for some time and his promise to return to them seem to indicate some drawing towards the Gospel."
 2. "A beautiful specimen of 'letters of recommendation' by which the early churches maintained active Christian fellowship with each other."
 3. "Faith's being a production of God's grace in the heart was so current and recognized a truth that it was taken for granted, as a necessary consequence of the general system of grace."
@@ -53,4 +53,4 @@ This verse describes Apollos' visit to Corinth, where he was received warmly by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

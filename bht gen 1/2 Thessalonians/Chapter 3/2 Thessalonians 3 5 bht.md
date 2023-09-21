@@ -9,7 +9,7 @@ In this verse, our hearts are directed to love God, to exhibit the patience of C
 2. "The love of man to God. The objective meaning, God’s love, is out of the question." 
 3. "The patience of Christ (gen. possess.), which Christ showed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If 'the Lord' be here the Holy Ghost (2 Corinthians 3:17), the three Persons of the Trinity will occur in this verse."
 2. "This grace, 'patience,' or persevering endurance, is connected with the 'hope' of Christ's coming."
 3. "We are to endure, as looking for the hope to be realized at His coming."
@@ -55,4 +55,4 @@ In this verse, our hearts are directed to love God, to exhibit the patience of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

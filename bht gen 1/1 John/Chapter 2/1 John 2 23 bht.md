@@ -9,7 +9,7 @@ In this verse, it is revealed that denying or rejecting the Son ultimately resul
 2. "The denial of the Son is involved necessarily the denial of the Father, since the Father cannot be known without the Son."
 3. "The antichristian false doctrine consists mainly in a negation, in the denying of the fundamental Christian truth, that Jesus is the Christ. But in this is involved the denial of the essence of the Son as well as of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every one who denieth the Son, hath not the Father either" - "inasmuch as God hath given Himself to us wholly to be enjoyed in Christ" [CALVIN].
 2. "he—that acknowledgeth the Son hath the Father also" - "by living personal 'fellowship.'"
 3. "acknowledgeth—by open confession of Christ."
@@ -56,4 +56,4 @@ In this verse, it is revealed that denying or rejecting the Son ultimately resul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

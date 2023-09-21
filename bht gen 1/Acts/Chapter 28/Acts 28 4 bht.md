@@ -9,7 +9,7 @@ In this Bible verse, we see the barbarians' response to an incident involving th
 2. "The idea of his being a murderer is not to be accounted for by the member which was bitten, nor by supposing the bite of a serpent to have been the Maltese punishment for murder; it is accounted for by the obviousness of the crime as belonging to the most notorious delinquents, and the aptness of the assumed punishment, death for death."
 3. "Justice, or Nemesis. What the Phœnician islanders called her, does not appear; but the idea is common to all religions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No doubt this man is a murderer—His chains, which they would see, might strengthen the impression."
 2. "Whom...vengeance suffereth not to live—They believed in a Supreme, Resistless, Avenging Eye and Hand."
 3. "However vague their notions of where it resided."
@@ -55,4 +55,4 @@ In this Bible verse, we see the barbarians' response to an incident involving th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

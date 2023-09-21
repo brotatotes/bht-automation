@@ -9,7 +9,7 @@ The verse being described highlights the principle that breaking even one comman
 2. "For whosoever shall have kept the whole law, but shall have offended in one thing, has become guilty of all." 
 3. "It is better to understand ἐντάλματι than νόμῳ, seeing that νόμος here is evidently used collectively for the sum of the commandments."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is one seamless garment which is rent if you but rend a part; or a musical harmony which is spoiled if there be one discordant note."
 2. "You thus break the whole law, though not the whole of the law, because you offend against love, which is the fulfilling of the law."
 3. "God requires perfect, not partial, obedience. We are not to choose out parts of the law to keep, which suit our whim, while we neglect others."
@@ -55,4 +55,4 @@ The verse being described highlights the principle that breaking even one comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

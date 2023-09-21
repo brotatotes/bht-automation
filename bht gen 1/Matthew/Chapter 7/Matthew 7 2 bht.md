@@ -9,7 +9,7 @@ This verse reminds us of the reciprocal nature of judgment. Just as we judge oth
 2. "The measure, according to which." 
 3. "ἐν ἑαυτοῖς ἑαυτοὺς μετροῦντες."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For with what judgments ye judge, ye shall be judged: and with what measure ye mete—whatever standard of judgment ye apply to others. it shall be measured to you again." - This verse highlights the principle that the judgment we pass on others will be returned to us. It serves as a reminder that we should be mindful of the standards we use to judge others, as they will be applied to us as well.
 
 2. "Unkind judgment of others will be judicially returned upon ourselves, in the day when God shall judge the secrets of men by Jesus Christ." - This quote emphasizes the consequences of harsh judgment. It suggests that when God judges us, He will take into account not only our actions but also our judgments of others. Therefore, it is important to approach judgment with kindness and fairness.
@@ -40,4 +40,4 @@ This verse reminds us of the reciprocal nature of judgment. Just as we judge oth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

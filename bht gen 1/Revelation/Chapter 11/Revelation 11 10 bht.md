@@ -4,7 +4,7 @@
 The Bible verse describes a scene where the non-Christian world celebrates the downfall of two prophets who had tormented them with their ministry. The wicked rejoice and send gifts to one another, finding joy in the cessation of the prophets' prophecies and miracles. This celebration of the prophets' demise is fueled by the wicked's earthly-mindedness and their delight in being freed from the torment caused by the preaching of the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Antichristianity of the last days shall probably be under the name of philosophical enlightenment and civilization, but really man's deification of himself."
 2. "Fanaticism shall lead Antichrist's followers to exult in having at last seemingly silenced in death their Christian rebukers."
 3. "Like her Lord, the Church will have her dark passion week followed by the bright resurrection morn."
@@ -45,4 +45,4 @@ The Bible verse describes a scene where the non-Christian world celebrates the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

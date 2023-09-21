@@ -9,7 +9,7 @@ The Bible verse described in these commentaries is a testament to the unwavering
 2. "The Christ was the same, whether preached by different persons or by one person at different times."
 3. "Christ preached as the Son of God by us, has become yea in Him, i.e. has been affirmed and substantiated as verity by the agency of the Lord Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is called 'the Son of God' to show the impossibility of change in One who is co-equal with God himself."
 2. "The Son of God, though preached by different preachers, was one and the same, unchangeable."
 3. "Our preaching of the Son of God is confirmed as true in Him, through the miracles wherewith He has confirmed our preaching."
@@ -57,4 +57,4 @@ The Bible verse described in these commentaries is a testament to the unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

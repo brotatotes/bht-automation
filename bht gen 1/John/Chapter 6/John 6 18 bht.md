@@ -9,7 +9,7 @@ In this verse, we witness a scene of intense emotional turmoil and escalating ag
 2. "The use of the word 'rising' further emphasizes the escalating nature of the agitation, indicating that it was not a passing or fleeting emotion, but rather something that was building up." 
 3. "This verse highlights the human capacity for deep emotional responses, reminding us that even the most revered figures in biblical narratives were not immune to feelings of agitation and unrest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He saw them toiling in rowing, putting forth all their strength to buffet the waves and bear on against a head wind, but to little effect." 
 2. "He saw this from His mountain-top, and through the darkness of the night, for His heart was all with them."
 3. "Yet would He not go to their relief till His own time came."
@@ -38,4 +38,4 @@ In this verse, we witness a scene of intense emotional turmoil and escalating ag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

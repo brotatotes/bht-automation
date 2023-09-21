@@ -11,7 +11,7 @@ In this verse, the disciples are reminded of their past mission where they were 
 
 3. "By traveling light, the disciples were able to fully rely on God's guidance and provision, and to be fully present in the work they were called to do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But now—that you are going forth not as before on a temporary mission, provided for without purse or scrip, but into scenes of continued and severe trial, your methods must be different." 
 2. "Purse and scrip will now be needed for support, and the usual means of defense." 
 3. "Your methods must be different; for purse and scrip will now be needed for support, and the usual means of defense."
@@ -55,4 +55,4 @@ In this verse, the disciples are reminded of their past mission where they were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

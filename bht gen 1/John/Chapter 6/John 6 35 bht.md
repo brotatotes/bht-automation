@@ -9,7 +9,7 @@ In the verse described by these commentaries, Jesus proclaims, "I am the bread o
 2. "On the assurance of never hungering or thirsting."
 3. "ὁ ἐρχόμ . πρ . ἐμέ is in the same sense as in ch. Joh 5:40 that of acceptance of and faith in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the bread of life—Henceforth the discourse is all in the first person, 'I,' 'Me,' which occur in one form or other, as STIER reckons, thirty-five times." 
 
 2. "he that cometh to me—to obtain what the soul craves, and as the only all-sufficient and ordained source of supply." 
@@ -56,4 +56,4 @@ In the verse described by these commentaries, Jesus proclaims, "I am the bread o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

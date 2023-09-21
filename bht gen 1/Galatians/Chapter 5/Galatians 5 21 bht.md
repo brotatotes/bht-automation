@@ -9,7 +9,7 @@ This verse depicts a strong warning against engaging in the corrupt desires of h
 2. "I forewarn you (now), and did forewarn you (when I was with you): the προ- in both cases pointing on to the great day of retribution." 
 3. "The article generalizes τοιαῦτα, the things of this kind, i.e. all such things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "tell . . . before—namely, before the event." This quote emphasizes the importance of forewarning or foretelling something before it happens, highlighting the need for preparation and awareness.
 
 2. "I . . . told you in time past—when I was with you." This quote suggests that the speaker had previously shared this information with the audience, indicating the importance of remembering and heeding the message.
@@ -56,4 +56,4 @@ This verse depicts a strong warning against engaging in the corrupt desires of h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

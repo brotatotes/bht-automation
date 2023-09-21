@@ -9,7 +9,7 @@ In the city of Thyatira, a woman named Lydia, a seller of purple, resided. Her o
 2. "Thyatira was a city of the province of Asia. Thus, although forbidden to preach the word in Asia, their first convert at Philippi is an Asiatic."
 3. "'Cor clausum per se: sed Dei est id aperire.' Bengel." (Translation: "The heart is closed in itself, but it is God's work to open it.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This woman appears to have been in good circumstances, having an establishment at Philippi large enough to accommodate the missionary party."
 2. "The first disposition to turn to the Gospel is a work of grace."
 3. "Observe here the place assigned to 'giving attention' or 'heed' to the truth—that species of attention which consists in having the whole mind engrossed with it, and in apprehending and drinking it in, in its vital and saving character."
@@ -55,4 +55,4 @@ In the city of Thyatira, a woman named Lydia, a seller of purple, resided. Her o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

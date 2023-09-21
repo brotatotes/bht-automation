@@ -4,7 +4,7 @@
 The Bible verse being described talks about the process of Jesus' perfection through suffering, ultimately leading to the completion of His mission to bring eternal salvation. It highlights Jesus' obedience and sacrifice as the cause and author of this salvation, emphasizing that salvation is not limited by time, but transcends it. The verse also emphasizes the transformative power of suffering and the importance of obediently following Jesus to partake in this salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "made perfect—completed, brought to His goal of learning and suffering through death"
 2. "eternal salvation—obtained for us in the short 'days of Jesus' flesh'"
 3. "unto all... that obey him—As Christ obeyed the Father, so must we obey Him by faith."
@@ -50,4 +50,4 @@ Note: The commentary is not numbered, so I have assigned numbers to the quotes f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

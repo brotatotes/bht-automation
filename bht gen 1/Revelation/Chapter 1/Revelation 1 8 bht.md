@@ -4,7 +4,7 @@
 The Bible verse being described is a powerful declaration about God being the foundation and culmination of all things. God in Christ encompasses everything from the very beginning to the very end, and connects the Old Testament with the New Testament. With divine attributes, omnipotence, and eternal existence, God's ability to fulfill His plans is unquestionable. This verse emphasizes the eternal nature of God, His divinity, and His pivotal role as the Alpha, the beginning, and the Omega, the end. It signifies that God is not only the Creator, but the sustainer and perfecter of all things.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God in Christ comprises all that goes between, as well as the first and last."
 2. "In Christ, Genesis, the Alpha of the Old Testament, and Revelation, the Omega of the New Testament, meet together."
 3. "Always the same; before the dragon, the beast, false prophet, and all foes."
@@ -45,4 +45,4 @@ The Bible verse being described is a powerful declaration about God being the fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

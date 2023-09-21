@@ -9,7 +9,7 @@ This verse is a messianic prophecy, highlighting the change in priesthood and th
 2. "κατὰ τὴν τάξιν will be very nearly the same as κατὰ τὴν ὁμοιότητα; and the Peschito has this latter expression both in the Psalm, and throughout our Epistle."
 3. "On εἰς τὸν αἰῶνα, as indeed on the detailed application of the several expressions to Christ, see on ch. Hebrews 7:20 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is a Priest absolutely, because He stands alone in that character without an equal."
 2. "He is 'High Priest' in respect of the Aaronic type, and also in respect to us, whom He has made priests by throwing open to us access to God."
 3. "Melchisedec was at once man, priest, and king. Paul's selecting as the type of Christ one not of the stock of Abraham, on which the Jews prided themselves, is an intimation of Messianic universalism."
@@ -59,4 +59,4 @@ This verse is a messianic prophecy, highlighting the change in priesthood and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

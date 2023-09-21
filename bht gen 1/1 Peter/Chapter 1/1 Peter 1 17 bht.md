@@ -9,7 +9,7 @@ The verse being described draws on the theme of invoking God as a Father who jud
 2. "The fear here recommended is not the leading to repentance, but the fear which accompanies the Christian through his whole course."
 3. "This fear is not cowardice: it doth not debase, but elevates the mind: for it drowns all lower fears, and begets true fortitude and courage to encounter all dangers for the sake of a good conscience and the obeying of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Call upon as Father Him who without acceptance of persons judgeth." - This quote highlights the idea that believers are called to approach God as their Father, who judges without favoritism. It emphasizes the unity of the Trinity and the delegated authority of the Son in judgment.
 
 2. "Each man's work is one complete whole, whether good or bad." - This quote emphasizes that our actions and deeds are a reflection of our overall character and life's work. It reminds us that our works are not isolated incidents but are indicative of our faith and love.
@@ -60,4 +60,4 @@ Note: The commentary provided does not explicitly reference a specific Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

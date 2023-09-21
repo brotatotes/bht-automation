@@ -11,7 +11,7 @@ In this verse, a disciple named Peter expresses his desire to follow Jesus immed
 
 3. "Peter's interpretation highlights the significance of Jesus' death in relation to his disciples' commitment to follow him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He seems now to see that it was death Christ referred to as what would sever Him from them." 
 2. "He is not staggered at following Him thither." 
 3. "Jesus answered."
@@ -47,4 +47,4 @@ In this verse, a disciple named Peter expresses his desire to follow Jesus immed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

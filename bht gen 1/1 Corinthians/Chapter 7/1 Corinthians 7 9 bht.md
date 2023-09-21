@@ -9,7 +9,7 @@ In this verse, commentators highlight the intense nature of lust and the need fo
 2. "ἐγκρατεύω is said...not to be found except in the LXX and N. T."
 3. "ἐγάμησα invaluit quod non solum in N. T. libris, ut quidam putaverunt, sed etiam in ipsa Græcia reperitur."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The dew of God's grace is needed to stifle the flame" - The commentary highlights the importance of God's grace in overcoming the destructive power of lust.
 2. "Which lays waste the whole inner man" - This quote emphasizes the all-consuming nature of lust and its detrimental effects on a person's spiritual well-being.
 3. "Thrust men at last into hell-fire" - The commentary warns of the ultimate consequence of unchecked lust, emphasizing the urgency of addressing and controlling this desire.
@@ -43,4 +43,4 @@ In this verse, commentators highlight the intense nature of lust and the need fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the author passionately implores the readers to join together in fervent prayer, emphasizing the importance of love, unity, and collaboration in the Christian community. Through the love of the Spirit and the example of Christ's intense prayer, believers are encouraged to engage in prayer as a holy conflict, striving with God and seeking His guidance and blessings. The verse highlights the communal nature of prayer, the need for personal devotion, and the power that comes from believers uniting in heartfelt supplication.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By that Saviour whose name is alike dear to all of us and whose unsearchable riches I live only to proclaim, and by that love one to another which the blessed Spirit diffuses through all the brotherhood, making the labors of Christ's servants a matter of common interest to all—I beseech you."
 2. "That love which He kindles in the hearts of believers towards each other."
 3. "I beseech you... that ye strive together with me in your prayers to God for me—implying that he had his grounds for anxious fear in this matter."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of praying for the sake of Jesus Christ, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

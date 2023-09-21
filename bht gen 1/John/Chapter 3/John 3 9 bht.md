@@ -9,7 +9,7 @@ This verse, often interpreted as a dialogue between Jesus and Nicodemus, explore
 2. "No longer of frivolity." 
 3. "See John 3:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The necessity and possibility of the new birth is no longer the point with him, but the nature of it and how it is brought about."
 2. "Nicodemus has sunk unto a disciple who has found his true teacher."
 3. "The Saviour now graciously advances in His communications of truth, and once more solemnly brings to the mind of this teacher in Israel, now become a learner, his own not guiltless ignorance."
@@ -50,4 +50,4 @@ These quotes highlight the obstacle of pride and our tendency to reject what we 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

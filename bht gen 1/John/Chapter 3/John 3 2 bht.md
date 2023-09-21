@@ -11,7 +11,7 @@ Nicodemus, a respected ruler and Pharisee, sought Jesus secretly at night, torn 
 
 3. "For who of the Jews ever expected a teacher to come from God? They looked for a King, to sit on David’s throne, a Prophet, to declare the divine will; but the Messiah was never designated as a mere teacher, till the days of modern Socinianism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nicodemus comes to Jesus in quest of [satisfaction], but comes 'by night'." 
 2. "He avows his conviction that He was come from God—an expression never applied to a merely human messenger."
 3. "In His miracles he sees a proof merely that 'God is with Him'."
@@ -57,4 +57,4 @@ Nicodemus, a respected ruler and Pharisee, sought Jesus secretly at night, torn 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

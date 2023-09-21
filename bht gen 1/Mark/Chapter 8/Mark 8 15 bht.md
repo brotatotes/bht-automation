@@ -9,7 +9,7 @@ Beware of the influence of the Pharisees, Sadducees, and Herodians, whose teachi
 2. The mention of Herod's leaven here may parallel the leaven of the Sadducees in Matthew, but it does not imply that Herod was a Sadducee.
 3. The caution against Herod's leaven is justified by his immoral and irreligious character, as seen in the history of John the Baptist's martyrdom.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The teaching or 'doctrine' of the Pharisees and Sadducees was quite different, but both were equally pernicious."
 2. "The Herodians, though rather a political party, were equally envenomed against our Lord's spiritual teaching."
 3. "The penetrating and diffusive quality of leaven, for good or bad, is the ground of the comparison."
@@ -38,4 +38,4 @@ Beware of the influence of the Pharisees, Sadducees, and Herodians, whose teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

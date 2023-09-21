@@ -11,7 +11,7 @@ The father had set off towards Capernaum early in the day, expecting a gradual i
 
 3. "He at present understood to be only a gradual one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He did believe, both as his coming and his urgent entreaty show." 
 2. "But how imperfectly we shall see." 
 3. "Our Lord would deepen his faith by such a blunt and seemingly rough answer as He made to Nicodemus."
@@ -44,4 +44,4 @@ The father had set off towards Capernaum early in the day, expecting a gradual i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

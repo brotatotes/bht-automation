@@ -11,7 +11,7 @@ In this verse, the apostle urges believers to go beyond mere participation in go
 
 3. "May take care to practice good works" - This phrase emphasizes the importance of actively engaging in good deeds and living out one's faith through actions, rather than just holding beliefs in theory.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful is the saying." A formula peculiar to the Pastoral Epistles. Here "the saying" is the statement as to the gratuitousness of God's gift of salvation.
 2. "Concerning these things, I will that thou affirm strongly and persistently, in order that they who have believed God may be careful to maintain good works." No longer applying their care to "unprofitable" and unpractical speculations.
 3. "These results of doctrine ('good works') are 'good and profitable unto men,' whereas no such practical results flow from 'foolish questions'."
@@ -63,4 +63,4 @@ These quotes highlight the call for believers to not only engage in good works, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we witness Peter's tearful expression of remorse and love for Jesus. His tears signify not only his deep regret but also his unwavering devotion to the one he had pledged to follow faithfully. This moment serves as a powerful reminder of the human capacity to stumble and the importance of one's response to failure as a catalyst for growth and transformation. Furthermore, Peter's tears demonstrate the profound message of forgiveness and redemption, exemplifying how even in moments of denial, there is always hope for restoration and renewal.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And Peter went out, and wept bitterly." - This quote highlights Peter's deep remorse and sorrow after denying Jesus. It shows the emotional impact of his actions and the weight of his betrayal.
 
 2. "JESUS CONDEMNED TO DIE AND SHAMEFULLY ENTREATED." - This quote emphasizes the unjust treatment and humiliation that Jesus endured during his crucifixion. It highlights the severity of his suffering and the injustice of his condemnation.
@@ -27,4 +27,4 @@ In this verse, we witness Peter's tearful expression of remorse and love for Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

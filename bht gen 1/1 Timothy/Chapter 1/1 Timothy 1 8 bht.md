@@ -9,7 +9,7 @@ The verse being described is a reminder that the law, when used lawfully, serves
 2. "The law is good if a man use it lawfully, i.e. as not binding on, nor relevant to Christian believers, but only a means of awakening repentance in the ungodly and profane."
 3. "The gospel of the glory of the blessed God, with which I was entrusted, enabled me for the ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Law is good—in full agreement with God's holiness and goodness."
 2. "Use it lawfully—in its lawful place in the Gospel economy."
 3. "Awakening the sense of sin in the ungodly."
@@ -55,4 +55,4 @@ The verse being described is a reminder that the law, when used lawfully, serves
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

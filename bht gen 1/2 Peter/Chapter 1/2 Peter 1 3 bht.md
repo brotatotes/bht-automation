@@ -9,7 +9,7 @@ This verse speaks of the comprehensive provision that God has given to believers
 2. "The knowledge of Him that called us by His own glory and virtue."
 3. "Both substantives belong to God, not to us: still less must we render, as in E. V., 'called us to glory and virtue,' of which meaning there is not a trace in either reading."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As He hath given us ALL things (needful) for life and godliness, (so) do you give us ALL diligence." 
 2. "Spiritual life must exist first before there can be true godliness." 
 3. "To life stands opposed corruption to godliness, lust."
@@ -55,4 +55,4 @@ These quotes highlight the power of God in the gospel, the importance of diligen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

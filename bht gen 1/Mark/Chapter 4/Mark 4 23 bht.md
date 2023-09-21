@@ -4,7 +4,7 @@
 The verse being described emphasizes the importance of active listening and understanding, urging readers to truly grasp the meaning and apply it to their lives. It highlights the repetition and significance of the message, calling for attentive listening and reflection. The verse also directs readers to other passages, encouraging further exploration of related verses to gain a deeper understanding of the topic at hand. Overall, it underscores the responsibility of the listener to actively engage with the message and respond accordingly.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man have ears to hear, let him hear." - This phrase emphasizes the importance of active listening and understanding. It implies that not everyone is willing or able to truly hear and comprehend the message being conveyed.
 
 2. "This for the second time on the same subject." - This highlights the repetition of the message, indicating its significance and the need for careful attention. It suggests that the subject being discussed is of great importance and requires further reflection and understanding.
@@ -32,4 +32,4 @@ The verse being described emphasizes the importance of active listening and unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

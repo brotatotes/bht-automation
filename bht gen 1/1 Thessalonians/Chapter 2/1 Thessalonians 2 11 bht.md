@@ -9,7 +9,7 @@ The verse described in this paragraph refers to the role of exhortation, comfort
 2. "ἕνα ἕκαστον ὑμῶν ... ὑμᾶς differs very little from πάντας ὑμᾶς."
 3. "Both παρακλ. and παραμυθ. seem here best taken, with Lünem., as applying to exhortation, but in a sense nearly allied to consolation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Exhortation leads one to do a thing willingly; consolation, to do it joyfully." 
 2. "Even in the former term, 'exhorted,' the Greek includes the additional idea of comforting and advocating one's cause: 'encouragingly exhorted.'"
 3. "The minister, if he would be useful, must not deal merely in generalities, but must individualize and particularize."
@@ -55,4 +55,4 @@ The verse described in this paragraph refers to the role of exhortation, comfort
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

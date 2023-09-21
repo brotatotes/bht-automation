@@ -9,7 +9,7 @@ This verse addresses the profound inability of certain individuals to believe in
 2. "The inability, as thus stated, is coincident with the fullest freedom of the human will."
 3. "A more special ground is alleged why they could not believe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He hath blinded their eyes, that they should not see" - This verse highlights the divine act of blinding the eyes of those who choose to reject the truth, emphasizing the concept of God's judgment on those who harden their hearts against Him.
 
 2. "Those who wilfully close their eyes and harden their hearts against the truth are judicially shut up in their unbelief and impenitence" - This quote emphasizes the consequences of willfully rejecting the truth, as individuals are trapped in their unbelief and lack of repentance due to their own choices.
@@ -47,4 +47,4 @@ This verse addresses the profound inability of certain individuals to believe in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

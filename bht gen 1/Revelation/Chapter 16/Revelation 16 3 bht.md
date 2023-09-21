@@ -9,7 +9,7 @@ The verse describes a powerful judgment upon the world of sin and corruption, sy
 2. "Every living soul died, all the things in the sea."
 3. "The analogy of the Egyptian plague is surely decisive."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "angel—So B and ANDREAS. But A, C, and Vulgate omit it." 
 2. "upon—Greek, 'into.'"
 3. "became as . . . blood—answering to another Egyptian plague."
@@ -54,4 +54,4 @@ The verse describes a powerful judgment upon the world of sin and corruption, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Eyewitnesses of the whole affair, who lived in houses hard by, or were working in the fields, gave a particular account of how, upon first sight of Christ, the possessed man ran to meet him, fell down and worshipped him. These witnesses provided a comprehensive understanding of the events that took place, highlighting the immediate recognition and reverence the man had for Jesus and the incredible power displayed by Christ in dispossessing a legion of devils with just a word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The double testimony of the herdsmen and their own senses" - This quote highlights the importance of multiple witnesses and personal observation in confirming the events that took place. It emphasizes the reliability of the accounts and adds credibility to the story.
 
 2. "Told them how it befell to him that was possessed with the devil" - This quote emphasizes the communication of the details of the incident, specifically regarding the person who was possessed by a demon. It suggests that the witnesses shared the story to provide a comprehensive understanding of what had occurred.
@@ -25,4 +25,4 @@ Eyewitnesses of the whole affair, who lived in houses hard by, or were working i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

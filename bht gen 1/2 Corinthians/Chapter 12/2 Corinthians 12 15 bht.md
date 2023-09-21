@@ -9,7 +9,7 @@ This verse describes a profound sense of selfless love and dedication expressed 
 2. "I will spend them: even if it requires spending my own flesh for the salvation of your souls, I will not hold back." - Theophylact
 3. "The more abundantly I love you, the less I am loved: implying that such a lack of love in return will lead to the spending of oneself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is more than even natural parents do. They 'lay up treasures for their children.' But I spend not merely my treasures, but myself." 
 2. "For your souls; not for your mere bodies." 
 3. "Love him as a true friend who seeks your good more than your good will."
@@ -57,4 +57,4 @@ This verse describes a profound sense of selfless love and dedication expressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

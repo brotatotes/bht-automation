@@ -9,7 +9,7 @@ The verse being described portrays the Apostle Paul's tireless efforts to suppor
 2. "In order not to burden any of you, viz. by accepting from you the means of sustenance."
 3. "To you not quite = ὑμῖν: the latter represents the preaching more as a thing imparted, this as a thing diffused."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek for 'labor' means hardship in bearing; that for 'travail,' hardship in doing; the former, toil with the utmost solicitude; the latter, the being wearied with fatigue." 
 2. "Their labors with their hands for a scanty livelihood had to be engaged in not only by day, but by night also, in the intervals between spiritual labors."
 3. "Though but 'three Sabbaths' are mentioned, Acts 17:2, these refer merely to the time of his preaching to the Jews in the synagogue. When rejected by them as a body, after having converted a few Jews, he turned to the Gentiles."
@@ -54,4 +54,4 @@ These quotes highlight the dedication and hard work of the apostles in their lab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

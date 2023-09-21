@@ -9,7 +9,7 @@ This verse reveals God's active involvement in choosing David as the future king
 2. "ᾧ κ. εἶπεν μ.] The two passages, Psalms 89:0; (88 LXX) 20, and 1 Samuel 13:14, are interwoven together: both were spoken of David, and both by prophetic inspiration."
 3. "That such citations are left in their present shape in our text, forms a strong presumption that we have the speeches of Paul verbatim as delivered by him, and no subsequent general statement of what he said, in which case the citations would have been corrected by the sacred text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have found David" - This phrase signifies God's choice and anointing of David as the future king of Israel. It highlights God's active involvement in selecting and raising up leaders according to His divine plan.
 
 2. "The substance of Psalms 89:20" - This reference to Psalm 89:20 emphasizes the continuity and fulfillment of God's promise to David. It suggests that David's anointing was not a random event but part of a larger divine plan that was foretold in the Psalms.
@@ -50,4 +50,4 @@ This verse reveals God's active involvement in choosing David as the future king
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

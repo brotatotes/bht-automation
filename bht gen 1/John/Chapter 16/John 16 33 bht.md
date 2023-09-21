@@ -9,7 +9,7 @@ In this Bible verse, Jesus reassures his disciples to not be troubled by the aff
 2. "A comforting sign that we are not of the world."
 3. "Be of good cheer; for ye belong not to the world, but to Me, who have (proleptically again, by that which is now at hand) overcome the world, so that it shall have no power over you, externally by persecution, or internally by temptations or discouragements."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things I have spoken unto you—not the immediately preceding words, but this whole discourse, of which these were the very last words, and which He thus winds up."
 2. "That in me ye might have peace—in the sublime sense before explained."
 3. "I have overcome the world—not only before you, but for you, that ye may be able to do the same."
@@ -50,4 +50,4 @@ These quotes highlight the significance of Jesus' prayer life, emphasizing how i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

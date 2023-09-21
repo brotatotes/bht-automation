@@ -9,7 +9,7 @@ In this significant chapter, we witness Judaizing divisions that unsettled and c
 2. "The Hellenists were the Grecian Jews: not only those who were themselves proselytes, nor only those who came of families once proselytized, but all who, on account of origin or habitation, spoke Greek as their ordinary language, and used ordinarily the LXX version."
 3. "The use of this appropriate word shews, I think, that Olsh.’s supposition, that χῆραι implies all their poor, is not correct. Those poor who could attend for themselves and represent their case were served: but the widows, who required more searching out at their own houses, were overlooked."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The complaint was in all likelihood well founded, though we cannot suspect the distributors of intentional partiality."
 2. "It was really just an emulation of love, each party wishing to have their own poor taken care of in the best manner."
 3. "The daily ministration—the daily distribution of alms or of food, probably the latter."
@@ -48,4 +48,4 @@ In this significant chapter, we witness Judaizing divisions that unsettled and c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The Bible verse discusses a commandment that was originally intended to bring li
 
 3. "This (very commandment) was found (subjective οὐκ εἶπεν ὅτι ἡ ἐντολὴ γέγονέ μοι θάνατος, ἀλλʼ εὑρέθη, τὸ καινὸν καὶ παράδοξον τῆς ἀτοπίας οὕτως ἑρμηνεύων), Chrys." - This quote suggests that the commandment did not cause death, but rather it revealed the new and paradoxical nature of sin and its consequences, as explained by Chrysostom.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The commandment, which was designed to give life through the keeping of it, I found to be unto death through breaking it." 
 2. "Sin, taking occasion by the commandment, deceived me—drew me aside into the very thing which the commandment forbade." 
 3. "By it, sin slew me—discovered me to myself to be a condemned and gone man."
@@ -52,4 +52,4 @@ The Bible verse discusses a commandment that was originally intended to bring li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

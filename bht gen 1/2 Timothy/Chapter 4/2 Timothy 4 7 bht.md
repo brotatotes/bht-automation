@@ -9,7 +9,7 @@ The speaker, with great determination and perseverance, engaged in a noble and v
 2. "I have finished my race...the image belongs peculiarly to St. Paul." 
 3. "I have kept the faith...the constant use of ἡ πίστις in these Epistles in the objective technical sense, must rule the expression here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have striven the good strife" - The Greek word used here implies not just a fight, but any competitive contest, such as a race. This suggests that the Christian life is not just about enduring hardships, but also about actively striving and competing for the faith (1 Timothy 6:12; 1 Corinthians 9:24-27; Hebrews 12:1; Hebrews 12:2).
 
 2. "Kept the faith" - This phrase refers to the Christian faith that has been entrusted to the speaker as a believer and an apostle. It emphasizes the importance of remaining faithful to the teachings and principles of Christianity (2 Timothy 1:14; Revelation 2:10; Revelation 3:10).
@@ -56,4 +56,4 @@ These quotes highlight the perseverance and dedication of the speaker in their f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

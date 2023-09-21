@@ -9,7 +9,7 @@ In this verse, the Apostle John addresses different groups within the Christian 
 2. "He is conquered once and for all, by those who have passed from darkness to light, and from the power of Satan to God, to communion with the Father and the Son."
 3. "The very word παιδία reminds of πατήρ: and the relation is close, between this and that which is said before, that their sins are forgiven for Christ’s name’s sake. They are received thus by adoption into God’s family, and He is become their reconciled Father, as He is the Father of Him through whom they have received their adoption."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fathers, appropriately to their age, are characterized by knowledge. The young men, appropriately to theirs, by activity in conflict."
 2. "The fathers know Christ, 'Him that was from the beginning'; the children know the Father."
 3. "The first thing that the little children realize is that God is their Father; answering in the parallel clause to 'little sons... your sins are forgiven you for His name's sake,' the universal first privilege of all those really-dear sons of God."
@@ -48,4 +48,4 @@ In this verse, the Apostle John addresses different groups within the Christian 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

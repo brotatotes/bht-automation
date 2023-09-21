@@ -9,7 +9,7 @@ In this passage, the author expresses their unwavering trust and confidence in G
 2. "Such confidence however we possess through Christ towards God."
 3. "It is no vain boast, but rests on power imparted to us through Christ in regard to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such confidence, however, we have through Christ toward God."
 2. "Confidence toward God is solid and real, as looking to Him for the strength needed now, and also for the reward of grace to be given hereafter."
 3. "Human confidence is unreal in that it looks to man for its help and its reward."
@@ -63,4 +63,4 @@ These quotes highlight Paul's humility and his recognition of God's sovereignty 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

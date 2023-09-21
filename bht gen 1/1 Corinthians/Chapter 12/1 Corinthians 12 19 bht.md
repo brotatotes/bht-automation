@@ -11,7 +11,7 @@ In this Bible verse, the commentators highlight the significance of diversity an
 
 3. "The body, by its very idea, has many members."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The body, by its very idea, 'hath many members'." 
 
 2. "The idea of the body having many members emphasizes the diversity and interconnectedness of the believers in the church." 
@@ -44,4 +44,4 @@ In this Bible verse, the commentators highlight the significance of diversity an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of Paul's powerful defense of the Christian faith, King Agrippa res
 2. "The first of these considerations decides that Agrippa is characterizing no effect on himself, but what Paul was fancying in his mind, reckoning the πείθομαι which he had expressed above."
 3. "The second, that he speaks of something not that he is likely to become, but that contrasts strangely with his present worldly position and intentions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou thinkest to make me with little persuasion (or small trouble) a Christian—but I am not to be so easily turned."
 2. "The objection on which so much stress is laid, that the word 'Christian' was at that time only a term of contempt, has no force except on the other side."
 3. "Taking it in that view, the sense is, 'Thou wilt soon have me one of that despised sect.'"
@@ -57,4 +57,4 @@ In the midst of Paul's powerful defense of the Christian faith, King Agrippa res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

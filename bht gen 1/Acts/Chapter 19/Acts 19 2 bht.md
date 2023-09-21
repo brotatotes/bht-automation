@@ -9,7 +9,7 @@ Have you received the transformative power of the Holy Spirit? This question cha
 2. "On the contrary, not even... we did not hear, at the time of our conversion: Our reception into the faith was unaccompanied by any preaching of the office or the gifts of the Spirit, our baptism was not followed by any imparting of His gifts: we did not so much as hear Him mentioned."
 3. "The stress of the sentence is on ἠκούσαμεν: so for from receiving the Holy Ghost, they did not even hear of His existence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Received ye the Holy Ghost when ye believed?" implying, certainly, that the one did not of necessity carry the other along with it.
 2. It was probably in consequence of something that passed between them from which the apostle was led to suspect the imperfection of their light.
 3. "We did not even hear whether the Holy Ghost was (given)"; meaning, at the time of their baptism.
@@ -57,4 +57,4 @@ Have you received the transformative power of the Holy Spirit? This question cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

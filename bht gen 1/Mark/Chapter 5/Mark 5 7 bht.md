@@ -9,7 +9,7 @@ In this verse, a desperate plea is made to God, recognizing our dependence on Hi
 2. "By using the word 'δέομαί,' which means 'I ask' or 'I beg,' the author emphasizes the urgency and sincerity of the request being made to God." 
 3. "This verse highlights the believer's recognition of their dependence on God and their willingness to humbly seek His help in times of need."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What have I to do with thee, Jesus, Son of the most high God?" - This quote highlights the recognition of the demons that Jesus is the Son of God and their fear of Him as their Tormentor.
 2. "Art Thou come to torment us before the time?" - This quote reveals the demons' awareness of their impending torment and their plea for exemption from it.
 3. "In Christ they discern their destined Tormentor; the time, they know, is fixed, and they feel as if it were come already!" - This quote emphasizes the demons' understanding that Jesus is their appointed Tormentor and their anticipation of the time when they will face their punishment.
@@ -40,4 +40,4 @@ In this verse, a desperate plea is made to God, recognizing our dependence on Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

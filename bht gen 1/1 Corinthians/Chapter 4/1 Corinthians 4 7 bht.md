@@ -9,7 +9,7 @@ This verse reminds us that every difference among individuals, whether in gifts,
 2. "All, for every good thing, were not dependent on God the Giver."
 3. "He speaks not only to the leaders, but to the members of parties, who imagined themselves superior to those of other parties."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Translate, 'Who distinguisheth thee (above another)?' Not thyself, but God."
 2. "Glory, as if thou hadst not received it—as if it was to thyself, not to God, thou owest the receiving of it."
 3. "Not thyself, but God."
@@ -56,4 +56,4 @@ These quotes highlight the idea that everything we possess or achieve comes from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

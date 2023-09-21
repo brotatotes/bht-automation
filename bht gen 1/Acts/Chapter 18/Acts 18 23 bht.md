@@ -9,7 +9,7 @@ In this verse, the author recounts Paul's journey through Galatia and Phrygia, w
 2. "One work accomplished by him in this journey was the ordaining (but apparently not collecting) a contribution for the poor saints at Jerusalem."
 3. "Timotheus and Erastus probably accompanied him, see ch. Act 19:22 ; 2 Corinthians 1:1 ; and Gaius and Aristarchus, ch. Acts 19:29 ; and perhaps Titus, 2Co 12:18 al."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He departed—little thinking, probably, he was never more to return to Antioch."
 2. "It was on this visitation that he ordained the weekly collection, which has been since adopted generally, and converted into a public usage throughout Christendom."
 3. "This is one of the most interesting and suggestive incidental narratives in this precious history."
@@ -47,4 +47,4 @@ In this verse, the author recounts Paul's journey through Galatia and Phrygia, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

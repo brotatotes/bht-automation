@@ -9,7 +9,7 @@ In this verse, the commentators emphasize that as servants of God, we cannot cla
 2. "In Romans 6:23 we have the true ground on which we look for eternal life set before us; viz. as the gift of God whose servants we are, not the wages, as in the case of sin, whose we are not."
 3. "The case supposed introduces an argument à fortiori: 'how much more, when ye have failed in so many respects.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have not, as his servants, profited or benefited God at all." This highlights the humility of the servants, recognizing that their actions do not add anything to God's greatness or glory.
 
 2. "unprofitable—a word which, though usually denoting the opposite of profit, is here used simply in its negative sense." This clarifies that the term "unprofitable" is not used in the usual sense of lacking value, but rather to emphasize that the servants have not added anything to God's worth.
@@ -57,4 +57,4 @@ In this verse, the commentators emphasize that as servants of God, we cannot cla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

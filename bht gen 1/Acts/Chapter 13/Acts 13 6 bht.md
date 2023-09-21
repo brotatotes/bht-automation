@@ -9,7 +9,7 @@ In a journey that takes them from darkness to light, from Paphos to Salamis, the
 2. "We read of such in connexion with Marius, Pompey, Crassus, Cæsar, and later with Tiberius: and the complaints of Horace and Juvenal shew how completely, and for how long a time, Rome was inundated with Oriental impostors of every description."
 3. "He had given himself the Arabic title of Elymas, ‘the wise man’ (from the same root as the Turkish ‘Ulemah’), interpreted ὁ μάγος in our text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The journey to Paphos was not just a physical journey, but also a spiritual one. It was a journey from darkness to light, from deception to truth. In Paphos, they encountered a sorcerer, a symbol of the spiritual darkness that had enveloped the island. This encounter would serve as a catalyst for the proclamation of the gospel, as the power of God would be displayed in contrast to the power of the sorcerer." 
 
 2. "The presence of sorcerers in the Roman capital reflects the prevalent unbelief and spiritual emptiness of the time. It is a reminder that even in the midst of a sophisticated and cultured society, people were still searching for something more, something beyond themselves. The gospel message would offer them the true power and fulfillment they were seeking." 
@@ -55,4 +55,4 @@ In a journey that takes them from darkness to light, from Paphos to Salamis, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

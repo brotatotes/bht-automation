@@ -11,7 +11,7 @@ This intimate and personal letter from Paul to Philemon is filled with valuable 
 
 3. "By referring to the Prolegomena, the readers can gain valuable insights into the historical background and purpose of this Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I apologize, but I'm unable to understand the commentary you provided. Could you please provide the commentary in a more clear and understandable format?
 
 ### Albert Barnes:
@@ -45,4 +45,4 @@ I apologize, but I'm unable to understand the commentary you provided. Could you
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

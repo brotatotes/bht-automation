@@ -9,7 +9,7 @@ The verse depicted describes the exalted position of Christ, who has ascended in
 2. "the whole heavenly hierarchy...being subjected to Him": This quote emphasizes the supremacy of Christ over all angels, authorities, and powers, showcasing His ultimate dominion and sovereignty.
 3. "the glorious completion of the result of Christ’s voluntary and innocent sufferings": This quote underscores the significance of Christ's suffering and its ultimate outcome, portraying it as a glorious accomplishment with profound implications for believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fruit of His patience in His voluntary endured and undeserved sufferings: a pattern to us." 
 2. "Proving against rationalists an actual material ascension." 
 3. "Christ's sitting on God's right hand, 'Who is on the right hand of God, having swallowed up death that we may become heirs of everlasting life'; involving for us a state of life, saved, glorious, and eternal."
@@ -61,4 +61,4 @@ The verse depicted describes the exalted position of Christ, who has ascended in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, Paul offers counsel for younger women, encouraging them to embrace marriage, motherhood, and the responsibility of guiding their families. Emphasizing the fulfillment and purpose found in these roles, he urges them to find sufficient employment through these domestic commitments. Additionally, Paul advises against giving any occasion for the adversary to speak reproachfully, highlighting the importance of living in a way that reflects positively on their faith and avoids providing ammunition to critics.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The "therefore" means seeing that young widows are exposed to such temptations, 'I will,' or 'desire,' c. (1 Timothy 5:11-13)."
 2. "Here remarriage is recommended as an antidote to sexual passion, idleness, and the other evils noted in 1 Corinthians 7:40- :."
 3. "The adversary is eager to exaggerate the faults of a few, and to lay the blame on the whole Church and its doctrines [BENGEL]."
@@ -55,4 +55,4 @@ These quotes emphasize the practical and beneficial nature of Paul's teachings o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

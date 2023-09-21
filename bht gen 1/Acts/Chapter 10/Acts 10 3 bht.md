@@ -9,7 +9,7 @@ At the ninth hour, a vision became evident to Cornelius. It was not a dream or a
 2. "It here appears that C. observed the Jewish hours of prayer."
 3. "C. observed the Jewish hours of prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saw . . . evidently—"distinctly."" - This quote emphasizes the clarity with which the person in the commentary saw something, indicating a significant event or revelation.
 
 2. "The ninth hour of the day—three o'clock, the hour of the evening sacrifice." - This quote highlights the specific time of day mentioned in the verse, providing context and adding to the understanding of the situation.
@@ -61,4 +61,4 @@ Note: The commentary provided is very brief, and it may be challenging to find a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage speaks of the Apostle Paul's contemplation between the benefits and
 2. "For whereas he had before said that death was gain to him, he now says, but, if life in the flesh is to be the fruit of my ministry, then what I shall choose I know not."
 3. "The above rendering is in the main that of Chr., Thdrt., Œc, Thl., Erasm., Luth., Calv., all., Meyer, De Wette, and as it appears to me, the only one which will suit the construction and sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If to live in the flesh (be my portion), this (continuing to live) is the fruit of my labor." - Bengel
 2. "This my continuing 'to live' will have this 'fruit,' namely, 'labors' for Christ." - Bengel
 3. "If I live in the flesh, this is worth my while, for thus Christ's interest will be advanced." - Grotius
@@ -53,4 +53,4 @@ This passage speaks of the Apostle Paul's contemplation between the benefits and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

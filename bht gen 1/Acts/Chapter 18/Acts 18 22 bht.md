@@ -9,7 +9,7 @@ In this verse, the apostle Paul journeys from Caesarea to Jerusalem, where he sa
 2. "The expression κατέβη εἰς Ἀντ., which suits a journey from Jerusalem, would not apply to one from Cæsarea."
 3. "The payment of his vow is not mentioned, partly because it is understood from the mere mention of the vow itself, partly, perhaps, because it was privately done, and with no view to attract notice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expression 'going up' is invariably used of a journey to the metropolis; and thence he naturally 'went down to Antioch.'" 
 
 2. "Perhaps the vessel reached too late for the feast, as he seems to have done nothing in Jerusalem beyond 'saluting the Church,' and privately offering the sacrifice with which his vow would conclude."
@@ -54,4 +54,4 @@ These quotes provide insights into the significance of Paul's visit to Jerusalem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

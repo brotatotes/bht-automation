@@ -9,7 +9,7 @@ The verse being described is a call to abstain from not only evil actions, but a
 2. "εἶδος never signifies ‘appearance’ in this sense."
 3. "εἶδος is the species, as subordinated to the genus. And πονηροῦ is not an adjective, but a substantive: from every species (or form) of evil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The context, however, does not refer to evil appearances IN OURSELVES which we ought to abstain from, but to holding ourselves aloof from every evil appearance IN OTHERS."
 2. "In many cases the Christian should not abstain from what has the semblance ('appearance') of evil, though really good."
 3. "However specious be the form or outward appearance of such would-be prophets and their prophesyings, hold yourselves aloof from every such form when it is evil."
@@ -52,4 +52,4 @@ Note: The commentary is not attributed to any specific author, so the source is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

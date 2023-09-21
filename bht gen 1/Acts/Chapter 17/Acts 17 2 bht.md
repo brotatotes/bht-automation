@@ -9,7 +9,7 @@ Paul, with his unwavering commitment and disciplined approach, faithfully engage
 2. "διελέγ. argued." 
 3. "ἀπὸ τ. γραφ. is best taken with διελέγ., not with διανοίγων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul, as his manner was—always to begin with the Jews." 
 This quote highlights Paul's consistent approach of starting his ministry with the Jewish people. It shows his commitment to reaching out to his own people first, demonstrating his deep understanding of their culture and beliefs.
 
@@ -58,4 +58,4 @@ Overall, these quotes shed light on Paul's approach to ministry, his unwavering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

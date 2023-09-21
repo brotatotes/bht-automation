@@ -9,7 +9,7 @@ In this Bible verse, the apostles perform miraculous acts, which caused admirati
 2. "Now especially was fulfilled to him the promise of Matthew 16:18: and even the shadow of the Rock was sought for." 
 3. "Cannot the ‘Creator Spirit’ work with any instruments, or with none, as pleases Him?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words denote the softer couches of the rich and the meaner cribs of the poor."
 2. "Now the predicted greatness of Peter, as the directing spirit of the early Church, was at its height."
 3. "Compare Acts 19:12; Luke 8:46. So Elisha."
@@ -48,4 +48,4 @@ In this Bible verse, the apostles perform miraculous acts, which caused admirati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

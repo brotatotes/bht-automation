@@ -9,7 +9,7 @@ In this Bible verse, we see Paul performing miraculous healings by laying hands 
 2. "The mention of dysentery as a specific illness in this context raises questions about the location of 'Melita Africana' and its suitability for producing such a disease." 
 3. "The juxtaposition of Paul taking up serpents and laying hands on the sick highlights the power and authority he possessed in performing miraculous healings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word was often thus used in the plural number, probably to express recurring attacks."
 2. "(The medical accuracy of our historian's style has been observed here.)"
 3. "thereby precluding the supposition that any charm resided in himself."
@@ -52,4 +52,4 @@ In this Bible verse, we see Paul performing miraculous healings by laying hands 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

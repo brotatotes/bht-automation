@@ -9,7 +9,7 @@ The commentator quotes point to a Bible verse that speaks about the Messiah's co
 2. "To refer these words thus to his maturing purpose, seems far better than to understand them as Erasmus, 'veluti mundum ingressurus,' from the O. T. point of time."
 3. "The difficulty is, how such a clause can be rendered by σῶμα κατηρτίσω μοι, as it is in the LXX."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ's voluntary self-offering, in contrast to those inefficient sacrifices, is shown to fulfill perfectly 'the will of God' as to our redemption, by completely atoning 'for (our) sins.'"
 
 2. "Christ's assuming a human body, in obedience to the Father's will, in order to die the death of a slave, was virtually the same act of voluntary submission to service as that of a slave suffering his ear to be bored by his master."
@@ -56,4 +56,4 @@ Note: The provided commentary is quite lengthy and it was challenging to extract
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

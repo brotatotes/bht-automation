@@ -4,7 +4,7 @@
 In this verse, commentators shed light on the intense reaction and emotional volatility of the listeners. They highlight the significance of the references to the Gentiles, implying that the topic of their inclusion in God's plans was of great interest. The commentary also emphasizes the sudden shift from favor to wrath, revealing the changeable and unreliable nature of human hearts. The message conveyed invites reflection on the resistance faced by God's servants and the broader implications of rejecting His grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These allusions to the heathen" - The commentary highlights the significance of the references to the Gentiles in the verse, indicating that it was a topic of great interest and concern for the listeners.
 
 2. "Just as afterwards with Paul" - The commentary draws a parallel between the reactions to Stephen's words and Paul's later experiences, suggesting that both faced opposition and hostility when speaking about the Gentiles.
@@ -47,4 +47,4 @@ In this verse, commentators shed light on the intense reaction and emotional vol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

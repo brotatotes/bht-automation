@@ -11,7 +11,7 @@ In this verse, Jesus gathers his disciples and confronts them about their ambiti
 
 3. "God alone does." This simple phrase reinforces the idea that God is the ultimate ruler and that human rulers are only given authority and power by Him. It underscores the divine origin and source of all authority.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus called them to him" - This shows that Jesus takes the initiative to gather his disciples and teach them. He is the one who calls and invites them to come closer to him, indicating his authority and leadership. 
 
 2. "Ye know that they which are accounted to rule over the Gentiles exercise lordship over them" - This highlights the common understanding of how rulers and authorities exert their power over others. It implies that the disciples are familiar with this hierarchical structure and the dynamics of power in society. 
@@ -37,4 +37,4 @@ In this verse, Jesus gathers his disciples and confronts them about their ambiti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

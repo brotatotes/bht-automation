@@ -9,7 +9,7 @@ In this confidence, the writer expresses a strong belief and conviction, support
 2. "ἵνα δευτέραν χάριν σχῆτε] that you might have a second benefit (effusion of the divine χάρις by my presence: not = χαράν as Chrys., see var. read.)."
 3. "The other, according to which δευτέραν χάριν would mean ‘a second benefit,’ by my visiting you for the second time, is in my view unnatural, and would hardly have justified the use of δευτέραν at all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His change of intention, and ultimate resolution of going through Macedonia first, took place before his sending Timothy from Ephesus into Macedonia, and therefore before his writing the first Epistle."
 2. "The 'benefit' of his visits consisted in the grace and spiritual gifts which he was the means of imparting."
 3. "The 'benefit' of his visits consisted in the grace and spiritual gifts which he was the means of imparting."
@@ -54,4 +54,4 @@ In this confidence, the writer expresses a strong belief and conviction, support
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

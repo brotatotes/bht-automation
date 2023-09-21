@@ -9,7 +9,7 @@ In this Bible verse, a powerful parable is told about a compassionate Samaritan 
 2. "All acts of charity and mercy done here below, are but fragments and derivatives of that one great act of mercy which the Saviour came on earth to perform."
 3. "And thus we shall not give up the interpretation of the Fathers and other divines, who see in this poor traveller, going from the heavenly to the accursed city, the race of man, the Adam who fell."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What new fountains of charity has not this opened up in the human spirit—rivers in the wilderness, streams in the desert!"
 2. "What noble Christian institutions have not such words founded, all undreamed of till that wondrous One came to bless this heartless world of ours with His incomparable love—first in words, and then in deeds which have translated His words into flesh and blood."
 3. "The priests and Levites had not strengthened the diseased, nor bound up the broken, while He bound up the brokenhearted and poured into all wounded spirits the balm of sweetest consolation."
@@ -50,4 +50,4 @@ In this Bible verse, a powerful parable is told about a compassionate Samaritan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

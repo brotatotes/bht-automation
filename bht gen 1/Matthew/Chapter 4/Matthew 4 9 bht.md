@@ -4,7 +4,7 @@
 In this verse, the commentator notes how Satan is referred to by Jesus as "the prince of this world" and "the proper lord and disposer of that country." The passage emphasizes the devil's claim to dominion and power over the world, highlighting his role in tempting humanity and seeking worship. However, the commentator also highlights Jesus' rejection of Satan's offers, showcasing His authority and power over the enemy. This interaction serves as a powerful reminder of Christ's victory over evil and His refusal to bow down to its allurements.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is not Satan thrice called by our Lord Himself, 'the prince of this world'... And still further, is it not said that Christ came to destroy by His death 'him that hath the power of death, that is, the devil'? No doubt these passages only express men's voluntary subjection to the rule of the wicked one while they live, and his power to surround death to them, when it comes, with all the terrors of the wages of sin."
 2. "But as this is a real and terrible sway, so all Scripture represents men as righteously sold under it. In this sense he speaks what is not devoid of truth, when he says, 'All this is delivered unto me.'"
 3. "Despairing of success as an angel of light, he throws off all disguise, and with a splendid bribe solicits divine honor. This again shows that we are now at the last of the temptations, and that Matthew's order is the true one."
@@ -40,4 +40,4 @@ These quotes highlight the devil's audacious claim to be the ruler of the world 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

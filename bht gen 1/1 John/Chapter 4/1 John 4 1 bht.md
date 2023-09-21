@@ -9,7 +9,7 @@ Beware of false spirits and prophets that have infiltrated the church. Test them
 2. "The test is one of plain matter of fact, of which any one can be judge."
 3. "Many false-prophets are gone forth into the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved—the affectionate address wherewith he calls their attention, as to an important subject."
 2. "There is but one Spirit of truth, and one spirit of Antichrist."
 3. "Even an angel's message should be tested by the word of God: much more men's teachings, however holy the teachers may seem."
@@ -55,4 +55,4 @@ Beware of false spirits and prophets that have infiltrated the church. Test them
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

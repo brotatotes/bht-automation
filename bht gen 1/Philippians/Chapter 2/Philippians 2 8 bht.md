@@ -9,7 +9,7 @@ In this Bible verse, we learn that Christ's appearance as a man was an act of se
 2. "Being found in habit, He did not stop with this outward semblance, but..."
 3. "He humbled himself by becoming obedient even unto death, and that the death of the cross."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He humbled Himself (still further by) becoming obedient even unto death." 
 2. "Fashion" expresses that He had the outward guise, speech, and look. 
 3. He not only "emptied Himself" of His previous "form of God," but submitted to positive HUMILIATION.
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for conciseness and to meet the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

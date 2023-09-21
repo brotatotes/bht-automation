@@ -9,7 +9,7 @@ On the day after the Sabbath, the women came early in the morning at daybreak, a
 2. "It is best to interpret a doubtful expression in unison with the other testimonies, and to suppose that here both the day and the breaking of the day are taken in their natural, not their Jewish sense."
 3. "It was to anoint the Body, for which purposes they had bought, since the end of the Sabbath, ointments and spices, Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not an hour, it would seem, was lost by those dear lovers of the Lord Jesus."
 2. "Some judicious critics think all this was transacted while the women were approaching but the view we have given, which is the prevalent one, seems the more natural."
 3. "All this august preparation—recorded by Matthew alone—bespoke the grandeur of the exit which was to follow."
@@ -45,4 +45,4 @@ On the day after the Sabbath, the women came early in the morning at daybreak, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

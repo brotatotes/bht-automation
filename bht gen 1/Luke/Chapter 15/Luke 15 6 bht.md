@@ -9,7 +9,7 @@ In this verse, we are shown the joyous return of the lost sheep to the house of 
 2. "This is clear from the interpretation in Luke 15:7. The φίλοι καὶ γείτονες = the angels (and spirits of just men made perfect?)."
 3. "τὸ πρόβ. τὸ ἀπολωλός breathes a totally different thought from τ . δραχμὴν ἣν ἀπώλεσα. There is pity and love in it, which, from the nature of the case, the other does not admit of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice with me" - The verse highlights the joy that is so overwhelming that it cannot be contained by a single person. It emphasizes the need to share this joy with others, as it brings relief and a sense of fulfillment.
 
 2. "One feels exuberant joy" - The commentary emphasizes the intensity of the joy experienced, suggesting that it is not just a fleeting happiness but a deep and profound emotion that fills one's heart.
@@ -42,4 +42,4 @@ In this verse, we are shown the joyous return of the lost sheep to the house of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

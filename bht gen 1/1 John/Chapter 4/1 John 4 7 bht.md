@@ -4,7 +4,7 @@
 The verse being described emphasizes the importance of love as a reflection of being born of God, with love being a test and evidence of true Christianity. The commentators highlight that love is sourced from God Himself, a divine and pure flow that comes as a gift from Him. The verse reminds believers to persist in loving one another and to stand firm in unity, as evidence of their regeneration and relationship with God. Ultimately, the verse teaches that true love is rooted in God and is a commandment that pleases Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love, the sum of righteousness, is the test of our being born of God."
 2. "Love flows from a sense of God's love to us."
 3. "All love is from God as its fountain: especially that embodiment of love, God manifest in the flesh."
@@ -49,4 +49,4 @@ The verse being described emphasizes the importance of love as a reflection of b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

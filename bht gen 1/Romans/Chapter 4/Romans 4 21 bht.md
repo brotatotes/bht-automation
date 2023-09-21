@@ -9,7 +9,7 @@ The verse being described speaks of someone who is "fully persuaded" and has "co
 2. The use of the middle voice in "God has promised" (Romans 4:21) emphasizes that God Himself is the one making the promise and is fully capable of fulfilling it.
 3. The assurance that God is able to perform what He has promised (Romans 4:21) highlights His omnipotence and reliability.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The glory which Abraham's faith gave to God consisted in this, that, firm in the persuasion of God's ability to fulfil his promise, no difficulties shook him."
 2. "Abraham's faith was characterized by being fully persuaded, meaning that he had complete trust and confidence in God's ability to fulfill his promises."
 3. "The unwavering conviction of Abraham's faith allowed him to remain steadfast and unshaken by any obstacles or challenges that came his way."
@@ -48,4 +48,4 @@ The verse being described speaks of someone who is "fully persuaded" and has "co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

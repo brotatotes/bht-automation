@@ -9,7 +9,7 @@ The Bible verse being described is a promise that encompasses the pouring forth 
 2. "The Apostles always expected the conversion of the Gentiles, as did every pious Jew who believed in the Scriptures."
 3. "The very expression, ὅσους ἂν προσκαλέσηται ὁ θεὸς ἡμ ., shews in what sense Peter understood τοῖς εἰς μακρ .; not all, but as many as the Lord our God προσκαλέσηται, shall summon to approach to Him, bring near."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promise of the Holy Ghost, through the risen Saviour, as the grand blessing of the new covenant."
 2. "The promise extends not only to those who are near, but also to those who are afar off, including the Gentiles."
 3. "The promise is given 'to the Jew first,' emphasizing the priority and special relationship between God and His chosen people."
@@ -54,4 +54,4 @@ The Bible verse being described is a promise that encompasses the pouring forth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

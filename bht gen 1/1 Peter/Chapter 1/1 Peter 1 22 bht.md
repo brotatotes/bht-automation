@@ -9,7 +9,7 @@ This verse emphasizes the importance of personal effort in purifying one's soul 
 2. "The legitimate tendency of that purification...was toward unfeigned brotherly love." 
 3. "Let the love come straight and pure from thence, not short of it, from any secondary purpose as its origin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith purifies the heart as giving it the only pure motive, love to God."
 2. "The Holy Spirit is the purifier by bestowing the obedience of faith."
 3. "Love to the brethren is the evidence of our regeneration and justification by faith."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

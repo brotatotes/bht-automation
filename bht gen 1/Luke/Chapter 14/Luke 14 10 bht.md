@@ -9,7 +9,7 @@ In this verse, the reader is instructed to humbly take a lower seat at the table
 2. "the effect, of which it is the cause; as the μήποτε in Luke 14:8."
 3. "the cause; as the μήποτε in Luke 14:8."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Friend—said to the modest guest only, not the proud one." - This quote highlights the distinction between a humble and proud guest, emphasizing the importance of humility in receiving honor.
 2. "The whole of this is but a reproduction of Proverbs 25:6; Proverbs 25:7." - This quote points out the connection between the verse and the wisdom found in the book of Proverbs, highlighting the continuity of biblical teachings.
 3. "But it was reserved for the matchless Teacher to utter articulately, and apply to the regulation of the minutest features of social life, such great laws of the Kingdom of God." - This quote acknowledges Jesus as the unparalleled Teacher who brings profound spiritual truths into practical application in everyday life.
@@ -47,4 +47,4 @@ In this verse, the reader is instructed to humbly take a lower seat at the table
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

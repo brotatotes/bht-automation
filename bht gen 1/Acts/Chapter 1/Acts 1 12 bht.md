@@ -9,7 +9,7 @@ From the commentaries, we can understand that the Bible verse being described me
 2. "Now if the Ascension happened on the Sabbath, it is very possible that offence may have arisen at the statement in the Gospel: and that therefore the Evangelist gives here the more exact notice."
 3. "The use of ἐλαιών, - ῶνος, here (and in reff.) by Luke only is remarkable, especially as the whole passage is so much in his own distinctive style as to preclude the idea of his having transferred a written document."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The concept of a Sabbath day's journey refers to the distance that a person was allowed to travel on the Sabbath day according to Jewish law. This limitation was put in place to ensure that people did not engage in excessive work or travel on the day of rest. It highlights the importance of observing the Sabbath and setting aside time for rest and worship." 
 
 2. "The specific measurement of two thousand cubits is significant because it represents the distance that the Israelites were required to keep between themselves and the Ark of the Covenant during their journey in the wilderness. This measurement symbolizes the reverence and respect that should be given to holy objects and places." 
@@ -57,4 +57,4 @@ From the commentaries, we can understand that the Bible verse being described me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

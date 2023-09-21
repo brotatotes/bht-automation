@@ -9,7 +9,7 @@ In this verse, the authority and reliability of the passage are emphasized, attr
 2. "It is better to take it so than with Meyer to suppose ἵνα dependent on volo understood."
 3. "See on 1 Corinthians 14:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The passage from Deuteronomy 25:5-10, known as the levirate law, reveals the importance of preserving the family lineage and providing for widows in ancient Israelite society." 
 
 2. "The scenario presented in this passage highlights the complexity of the levirate law, as the woman is passed from one brother to another in an attempt to fulfill the duty of raising up offspring for the deceased brother." 
@@ -39,4 +39,4 @@ In this verse, the authority and reliability of the passage are emphasized, attr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

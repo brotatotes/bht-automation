@@ -4,7 +4,7 @@
 This verse urges the reader to faithfully preserve and transmit the teachings of the faith, comparing it to a valuable deposit that must be protected and handed down to future generations. The commentators emphasize the importance of trustworthiness, faithfulness, and qualified individuals in this role. They caution against relying solely on oral tradition, emphasizing the appreciation for the written Word as a more reliable means of preserving divine revelation. The verse encourages the passing on of the teachings to faithful men, ensuring the enduring presence of the faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "commit—in trust, as a deposit" - The verse emphasizes the importance of faithfully safeguarding and passing on the teachings of the faith, comparing it to a valuable deposit that must be protected and preserved for future generations.
 
 2. "faithful—the quality most needed by those having a trust committed to them" - The commentary highlights the significance of faithfulness in fulfilling the responsibility of preserving and transmitting the teachings of the faith. It underscores the importance of trustworthiness in this role.
@@ -52,4 +52,4 @@ This verse urges the reader to faithfully preserve and transmit the teachings of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

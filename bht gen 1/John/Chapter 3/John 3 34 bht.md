@@ -4,7 +4,7 @@
 The verse being described is about the unique relationship between Jesus and God, specifically regarding the Spirit and the authority of Jesus' words. Commentators emphasize that while others have the Spirit in limited degrees, God gives the Spirit to Christ without measure, encompassing the fullness of divine life and power. Jesus is described as the one sent by God, speaking the words of God in a perfect and true manner. This highlights the divine nature and mission of Jesus, distinguishing him from prophets and other ordinary ministers of the word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They have the Spirit in a limited degree; but God giveth not [to Him] the Spirit by measure." - This quote highlights the distinction between Christ and human-inspired teachers, emphasizing that while others may have the Spirit in a limited degree, God gives the Spirit to Christ without measure. 
 
 2. "It means the entire fulness of divine life and divine power." - This quote explains that the Spirit given to Christ is not limited or restricted in any way, but encompasses the fullness of divine life and power. 
@@ -53,4 +53,4 @@ These quotes highlight the authority and truthfulness of Jesus' words as the one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

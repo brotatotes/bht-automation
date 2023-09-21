@@ -9,7 +9,7 @@ The commentators shed light on a verse that speaks of the blessedness of those w
 2. "Otherwise τ . δικ . would be vapid and unmeaning."
 3. "See 1Co 15:22 f.: 1 Thessalonians 4:16 ; Revelation 20:4-5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed" refers to those who act with selfless and divine compassion towards the suffering and miserable. 
 
 2. They are blessed because they are motivated by a genuine concern for others, rather than seeking personal gain or recognition. 
@@ -51,4 +51,4 @@ The commentators shed light on a verse that speaks of the blessedness of those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

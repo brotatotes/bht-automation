@@ -9,7 +9,7 @@ Two close companions, Peter and John, ascended the temple terraces to attend the
 2. "The specific hour mentioned here is the ninth hour, which was one of the designated times for prayer." 
 3. "The practice of regular prayer at specific times of the day was an important part of Jewish religious observance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter and John—already associated by their Master, first with James (Mark 1:29; Mark 5:37; Mark 9:2), then by themselves (Luke 22:8; and see John 13:23; John 13:24)."
 2. "Now we find them constantly together, but John (yet young) only as a silent actor."
 3. "went up—were going up, were on their way."
@@ -48,4 +48,4 @@ Two close companions, Peter and John, ascended the temple terraces to attend the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

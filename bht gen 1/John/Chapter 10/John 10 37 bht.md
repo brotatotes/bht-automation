@@ -4,7 +4,7 @@
 This verse emphasizes the significance of Jesus' works, which were greater and equal to those of the Father, serving as evidence of his deity and fulfilling his role as the Messiah. Jesus appeals to his miracles, desiring belief based on the credibility they demand, rather than personal trust. The emphasis lies in the self-evidencing truth, majesty, and grace inherent in Jesus' words, as well as the undeniable power and Divine nature displayed through his works.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There was in Christ's words, independently of any miracles, a self-evidencing truth, majesty and grace, which those who had any spiritual susceptibility were unable to resist."
 2. "But, for those who wanted this, 'the works' were a mighty help. When these failed, the case was desperate indeed."
 3. "Thus reiterating His claim to essential oneness with the Father, which He had only seemed to soften down, that He might calm their rage and get their ear again for a moment."
@@ -44,4 +44,4 @@ This verse emphasizes the significance of Jesus' works, which were greater and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

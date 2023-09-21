@@ -11,7 +11,7 @@ This passage addresses a situation where false teachers were causing disturbance
 4. "This allusion is one only of sound, and on account of the καί, all the more likely to be to some well-known and harsh meaning of the word, even as far as to which the Apostle’s wish extends."
 5. "Such a meaning of the word is that in which it is used by the LXX, ref. Deut., by Arrian, Epict. ii. 20, by Hesych., ὁ ἀπόκοπος, ἤτοι ὁ εὐνοῦχος by Philo, de legg. special. ad vi. vii. dec. cap. § 7, vol. ii. p. 306, τὰ γεννητικὰ προσαπέκοψαν, de vict. offerent. § 13, p. 261, θλαδίας κ. ἀποκεκομμένος τὰ γεννητικά (Wetst.). It seems to me that this sense must be adopted, in spite of the protests raised against it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who are unsettling you."
 2. "Would that they were even cut off from your communion, being worthless as a castaway foreskin."
 3. "Galatians 5:9; Galatians 5:10 plainly point to excommunication as the judgment threatened against the troublers: and danger of the bad 'leaven' spreading, as the reason for it."
@@ -61,4 +61,4 @@ This passage addresses a situation where false teachers were causing disturbance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

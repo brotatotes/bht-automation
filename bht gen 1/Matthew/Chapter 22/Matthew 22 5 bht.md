@@ -4,7 +4,7 @@
 The verse being described highlights the danger of being so consumed by worldly pursuits that one neglects or dismisses the invitation to partake in the kingdom of God. It speaks to the lack of understanding and appreciation for the value of what is being offered when one makes light of the invitation. The verse serves as a reminder that earthly possessions and pursuits should never take precedence over our relationship with God, urging us to not be indifferent or neglectful but rather to prioritize the eternal over the temporary.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable highlights the danger of being so consumed by worldly pursuits that we neglect or dismiss the invitation to partake in the kingdom of God."
 2. "The response of making light of the invitation reveals a lack of understanding and appreciation for the value of what is being offered."
 3. "This verse serves as a reminder that our earthly possessions and pursuits should never take precedence over our relationship with God."
@@ -48,4 +48,4 @@ The verse being described highlights the danger of being so consumed by worldly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

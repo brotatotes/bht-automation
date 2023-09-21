@@ -4,7 +4,7 @@
 In this verse, the author, who modestly refers to himself as the brother of James, emphasizes the source and guarantee for the believers' ultimate salvation. He alludes to his relation to the Lord, but prioritizes the higher spiritual connection rather than the temporary human relationship. The author, acknowledging the authority of Christ, identifies as a servant of Jesus Christ, a title that signifies both humility and honor. The verse highlights the sanctification and preservation of the elect by God the Father, emphasizing their belonging to Christ and their eternal preservation through Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jude therefore calls himself modestly 'brother of James.'" 
 2. "God the Father’s love is the element in which they are 'beloved.'" 
 3. "Jude, beforehand, mentions the source and guarantee for the final accomplishment of believers’ salvation; lest they should be disheartened by the dreadful evils which he proceeds to announce."
@@ -48,4 +48,4 @@ In this verse, the author, who modestly refers to himself as the brother of Jame
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

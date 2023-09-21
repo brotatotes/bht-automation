@@ -9,7 +9,7 @@ In this Bible verse, the hostility and aggressive intent of those questioning Je
 2. "to examine Him, to question Him" - This quote suggests that the purpose of their questioning was to scrutinize Jesus and test His knowledge, indicating a desire to challenge His authority.
 3. "catechized in schools" - This quote provides context for the type of questioning Jesus may have faced, suggesting that it could have been focused on matters of the Law and religious teachings.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Exceedingly vivid and affecting."
 2. "They were stung to the quick—and can we wonder?"
 3. "Yet had not materials for the charge they were preparing against Him."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite lengthy and does not provide clear and co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Certain women, who had been healed of evil spirits, were among those who followe
 
 3. "By referencing Luke 8:30, this verse serves as a reminder of the miraculous deliverance and transformation that Jesus can bring to those who are oppressed by demonic forces. It offers hope and encouragement to those who may be struggling with spiritual battles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed Saviour! It melts us to see Thee living upon the love of Thy ransomed people."
 2. "Thou hast sown unto them spiritual things, and they think it, as well they might, a small thing that Thou shouldst reap their material things."
 3. "Oh, the depth of the riches—of this poverty of His!"
@@ -44,4 +44,4 @@ Note: The provided commentary is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse was written with great emotion and sincerity. The writer, filled with
 2. "He did not write in levity of purpose, but under great trouble of mind, not to grieve them, but to testify his love." 
 3. "He wrote with the inducement of much tribulation and anguish of heart, with many tears."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My ultimate and main object was, 'not that ye might be made sorry,' but that through sorrow you might be led to repentance, and so to joy, redounding both to you and me."
 2. "He is easily made sorry, who is admonished by a friend himself weeping."
 3. "Love is the source from which sincere reproof springs; that the Corinthians might ultimately recognize this as his motive, was the apostle's aim."
@@ -54,4 +54,4 @@ Note: The commentary provides additional insight into the emotions and intention
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this scene, the scribes and Pharisees persistently plot to trap Jesus, seekin
 2. "Nor does he ever mention οἱ γραμματεῖς elsewhere, but usually calls the opponents of Jesus οἱ Ἰουδαῖοι, or οἱ ἄρχοντες."
 3. "The account gives no light as to the capacity in which these Scribes and Pharisees acted when they brought the woman."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The scribes and Pharisees were relentless in their pursuit to trap Jesus and discredit Him. Their failed attempt from the previous day did not deter them; instead, it fueled their determination to find fault in His teachings." 
 
 2. "Jesus, however, was not easily deceived or intimidated by their cunning tactics. He saw through their hypocrisy and exposed their true motives, revealing their insincere hearts." 
@@ -42,4 +42,4 @@ Note: The commentary provided is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

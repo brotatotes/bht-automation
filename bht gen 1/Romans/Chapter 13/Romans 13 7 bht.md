@@ -9,7 +9,7 @@ Render to all their dues, whether it be tax for state purposes, custom or toll, 
 2. "τέλος, custom, toll, vectigal."
 3. "φόβος, to those set over us and having power: τιμή, to those, but likewise to all on whom the state has conferred distinction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Render therefore to all their dues" - This verse emphasizes the importance of giving everyone their rightful dues, whether it be taxes or respect. It reminds us to fulfill our obligations and responsibilities towards others.
 
 2. "From magistrates the apostle now comes to other officials" - This commentary highlights the progression in the verse, moving from the specific example of magistrates to a broader application of giving dues to all officials and individuals in our lives.
@@ -65,4 +65,4 @@ Render to all their dues, whether it be tax for state purposes, custom or toll, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

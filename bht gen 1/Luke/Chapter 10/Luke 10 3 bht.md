@@ -4,7 +4,7 @@
 This verse depicts the disciples of Christ being sent out into a hostile world, symbolized by sheep among wolves. They are urged to navigate this challenging environment with a delicate balance of wisdom and innocence. They must be discerning and strategic like serpents, aware of the dangers and deceptions around them, while remaining pure and gentle like doves, showing love and kindness to all. This verse emphasizes the vulnerability and sacrifice required in their mission, as they strive to fulfill their purpose with prudence, godly wisdom, and a blameless spirit.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you are referring to. Could you please provide the commentary so that I can extract the quotes for you?
 
 ### Albert Barnes:
@@ -47,4 +47,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

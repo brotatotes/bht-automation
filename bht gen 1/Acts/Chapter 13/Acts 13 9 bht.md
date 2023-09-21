@@ -9,7 +9,7 @@ In this Bible verse, the Evangelist transitions from describing events he resear
 2. "The καί must not be understood as having any reference to Sergius Paulus, ‘who also (as well as Sergius) was called Paul.’"
 3. "It seems probable that Paul never entirely recovered his sight as before, after the δόξα τοῦ φωτὸς ἐκείνου."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul—and henceforward Paul only; a softening of his former name, in accommodation to Roman ears, and (as the word signifies 'little') probably with allusion as elsewhere to his insignificance of stature and appearance."
 2. "filled with the Holy Ghost—the Spirit coming mightily upon him."
 3. "The whole soul of his great colleague, now drawn out, as never before, shoots, by the lightning gaze of his eye, through the dark and tortuous spirit of the sorcerer. What a picture!"
@@ -55,4 +55,4 @@ In this Bible verse, the Evangelist transitions from describing events he resear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

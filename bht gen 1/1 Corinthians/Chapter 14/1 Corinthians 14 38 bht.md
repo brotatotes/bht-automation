@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the consequences of ignorance and the 
 2. "The other reading, ἀγνοεῖται, gives a passable sense ‘he is ignored,’ scil. by God."
 3. "cf. ch. 1Co 8:2-3; 1 Corinthians 13:12; Galatians 4:9."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man be ignorant—wilfully; not wishing to recognize these ordinances and my apostolic authority in enjoining them." 
 2. "Let him be ignorant—I leave him to his ignorance: it will be at his own peril; I feel it a waste of words to speak anything further to convince him." 
 3. "An argument likely to have weight with the Corinthians, who admired 'knowledge' so much."
@@ -52,4 +52,4 @@ In this verse, the commentators emphasize the consequences of ignorance and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

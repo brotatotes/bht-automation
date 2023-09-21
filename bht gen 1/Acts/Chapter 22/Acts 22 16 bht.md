@@ -9,7 +9,7 @@ The act of baptism, as described by various commentators, is a significant and t
 2. "Paul carefully avoids mentioning to the Jews this Name, except where it is unavoidable." 
 3. "Paul carefully avoids mentioning to the Jews this Name, except where it is unavoidable, in Acts 22:8; so αὐτόν again, Acts 22:18."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Baptism is the visible seal of remission." 
 2. "Baptism is the way to wash away sins." 
 3. "Confession of Christ precedes baptism."
@@ -55,4 +55,4 @@ The act of baptism, as described by various commentators, is a significant and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

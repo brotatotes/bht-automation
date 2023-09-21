@@ -9,7 +9,7 @@ The verse describes a confrontation between Jesus and one of His disciples, refe
 2. "Thou art my stumbling-block, my πέτρα σκανδάλου (in Peter’s own remarkable words, 1 Peter 2:7-8, joined too with the very expression, ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, which, as above noticed, occurs in this passage in Mark and Luke)."
 3. "Our blessed Lord keeps up the metaphor of πέτρος, or a stone: thou who wert just now, by thy faith in confessing Me, a lively stone, art now by thy carnal weakness a stumbling stone to Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He felt in it a satanic lure, a whisper from hell, to move Him from His purpose to suffer."
 2. "How quickly has the 'rock' turned to a devil!"
 3. "Thou playest the Tempter, casting a stumbling-block in My way to the Cross. Could it succeed, where wert thou? and how should the Serpent's head be bruised?"
@@ -51,4 +51,4 @@ The verse describes a confrontation between Jesus and one of His disciples, refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

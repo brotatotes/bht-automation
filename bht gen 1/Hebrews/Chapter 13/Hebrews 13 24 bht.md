@@ -11,7 +11,7 @@ In this verse, the author extends greetings and salutations to the leaders and m
 
 3. "Salute all your leaders, and all the saints." - By including both leaders and saints in the salutation, this verse suggests that all members of the Christian community have a role to play and are worthy of recognition. It promotes a sense of equality and inclusivity, emphasizing that every believer has value and contributes to the body of Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Scriptures are intended for all, young and old, not merely for ministers."
 2. "He says here 'all,' for the Hebrews whom he addresses were not all in one place, though the Jerusalem Hebrews are chiefly addressed."
 3. "They of Italy—not merely the brethren at Rome, but of other places in Italy."
@@ -52,4 +52,4 @@ In this verse, the author extends greetings and salutations to the leaders and m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

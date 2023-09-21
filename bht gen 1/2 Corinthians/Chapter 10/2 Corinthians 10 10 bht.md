@@ -9,7 +9,7 @@ The commentator quotes provide varied insights into a Bible verse without explic
 2. The word "βαρεῖαι" is used to describe the weightiness of discourse, such as when one would rather die than say something inappropriate.
 3. The phrase "παρουσία ... ἀσθενής" does not imply physical weakness or stature, but rather refers to the contrast between Paul's presence and his written words, suggesting that there may have been something about his appearance or delivery that was discommended.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Letters—implying that there had been already more letters of Paul received by the Corinthians than the one we have, namely, First Corinthians; and that they contained strong reproofs."
 2. "say they—Greek, 'says one,' 'such a one' ( :-) seems to point to some definite individual."
 3. "weak—(2 Corinthians 12:7; 1 Corinthians 2:3). There was nothing of majesty or authority in his manner; he bore himself tremblingly among them, whereas the false teachers spoke with authoritative bearing and language."
@@ -54,4 +54,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

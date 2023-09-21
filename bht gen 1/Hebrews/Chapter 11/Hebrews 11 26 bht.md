@@ -9,7 +9,7 @@ The writer emphasizes the significance of enduring reproach for the sake of Chri
 2. "The Writer calls the reproach which Moses suffered, the reproach of Christ, as Paul...calls the sufferings of Christians the sufferings of Christ, i.e. of Christ dwelling, striving, suffering, in his Church as in His body; to which this reproach is referred according to the idea of the unity of the Old and New Testaments, and of the eternal Christ (the Logos) already living and reigning in the former."
 3. "He looked to the recompense of reward: the great eternal reward spoken of Hebrews 11:39 f.: not the possession of Canaan merely, as Grot."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reproach of Christ—that is, the reproach which falls on the Church, and which Christ regards as His own reproach, He being the Head, and the Church (both of the Old and New Testament) His body."
 2. "Israel typified Christ; Israel's sufferings were Christ's sufferings."
 3. "Christ's people's reproach will ere long be their great glory."
@@ -54,4 +54,4 @@ The writer emphasizes the significance of enduring reproach for the sake of Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the speakers emphasize their self-sufficiency and independence. T
 2. "παρά τινος, ‘at any one’s expense,’ from any one as a gift."
 3. "The sentence may also be taken as De W. and Ellic., regarding ἐν κόπῳ κ . μόχ . as the contrast to δωρεάν, and ἐργαζ . νύκτ . κ . ἡμ . as a parallel clause to ἐν κόπ . κ . μόχ ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They preached gratuitously though they might have claimed maintenance from their converts."
 2. "Night and day—scarcely allowing time for repose."
 3. "His reason for the same course at Corinth was to mark how different were his aims from those of the false teachers who sought their own lucre."
@@ -38,4 +38,4 @@ In this verse, the speakers emphasize their self-sufficiency and independence. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

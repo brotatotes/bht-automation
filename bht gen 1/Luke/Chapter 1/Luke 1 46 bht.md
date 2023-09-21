@@ -4,7 +4,7 @@
 In this verse, the unnamed commentator notes that Mary's hymn of praise, commonly called the MAGNIFICAT, is an unpremeditated outpouring of deep emotion. Filled with joy and exultation, Mary's song celebrates the grace, omnipotence, holiness, justice, and faithfulness of God. Rooted in the Old Testament, her prophetic words highlight the significance and importance of praising God, ascribing greatness to Him and magnifying His perfections. Mary's profound insight and spiritual depth enrich our understanding of this verse, inviting us to join her in exalting the Lord with all our heart and soul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is it unnatural to suppose that the spirit of the blessed Virgin had been drawn beforehand into mysterious sympathy with the ideas and the tone of this hymn?"
 2. "In both songs, those holy women, filled with wonder to behold 'the proud, the mighty, the rich,' passed by, and, in their persons the lowliest chosen to usher in the greatest events."
 3. "In both songs the strain dies away on CHRIST; in Hannah's under the name of 'Jehovah's King'—to whom, through all His line, from David onwards to Himself, He will 'give strength'; His 'Anointed,' whose horn He will exalt; in the Virgin's song, it is as the 'Help' promised to Israel by all the prophets."
@@ -50,4 +50,4 @@ In this verse, the unnamed commentator notes that Mary's hymn of praise, commonl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

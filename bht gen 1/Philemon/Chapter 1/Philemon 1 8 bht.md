@@ -9,7 +9,7 @@ In this verse, we see the speaker's deep sense of authority and confidence deriv
 2. "ἐν χριστῷ as usual, the element in which the παῤῥησία found place."
 3. "τὸ ἀνῆκον, a delicate hint, that the reception of Onesimus was to be classed under this category - that which is fitting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because of my love to thee, I prefer to 'beseech,' rather than 'enjoin,' or authoritatively command."
 2. "I might...enjoin - in virtue of the obligation to obedience which Philemon lay under to Paul, as having been converted through his instrumentality."
 3. "In Christ - the element in which his boldness has place."
@@ -55,4 +55,4 @@ In this verse, we see the speaker's deep sense of authority and confidence deriv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

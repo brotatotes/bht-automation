@@ -11,7 +11,7 @@ In this verse, commentators discuss the significance of Philip's proclamation ab
 
 3. "See note on Luke 9:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nathanael—(See on John 1:48)." 
 2. "Moses—(See Exodus 2:10)." 
 3. "son of Joseph—the current way of speaking. (See Matthew 13:55)."
@@ -56,4 +56,4 @@ In this verse, commentators discuss the significance of Philip's proclamation ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

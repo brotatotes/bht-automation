@@ -9,7 +9,7 @@ When the disciples saw Jesus on the shore, there was a sense of recognition as t
 2. "He bound round him his fisher’s coat or shirt, to facilitate his swimming."
 3. "ἦν γὰρ γυμ ., i.e. as above, he was stripped for his fisher’s work; [some say] without his upper garment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the Lord—again having the advantage of his brother in quickness of recognition."
 2. "He was naked—his vest only on, worn next to the body."
 3. "Cast himself into the sea—the shallow part, not more than a hundred yards from the water's edge, not meaning therefore to swim, but to get sooner to Jesus than in the full boat which they could hardly draw to shore."
@@ -53,4 +53,4 @@ When the disciples saw Jesus on the shore, there was a sense of recognition as t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

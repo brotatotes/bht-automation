@@ -9,7 +9,7 @@ The verse being described highlights the resolute determination of Paul, despite
 2. "The present part. does not imply the endeavor merely, here or any where else."
 3. "On my arrival at: the motion to, which was the subject in question, is combined with that which might result on it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beautiful union of manly resoluteness and womanly tenderness, alike removed from mawkishness and stoicism!"
 2. "If that is all, let it come."
 3. "It was well he could add this, for he had that also to do."
@@ -50,4 +50,4 @@ The verse being described highlights the resolute determination of Paul, despite
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

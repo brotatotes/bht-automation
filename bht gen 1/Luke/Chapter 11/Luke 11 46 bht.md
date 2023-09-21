@@ -9,7 +9,7 @@ The verse describes the woes pronounced against the religious leaders of Jesus' 
 2. "It is a reminder that true leaders should not only teach and guide, but also be willing to shoulder the burdens of those they lead."
 3. "This verse challenges us to examine our own leadership roles and consider whether we are truly serving and supporting those under our care, or if we are simply adding to their burdens."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "burdens grievous" - The verse refers to the heavy burdens imposed by the legal rites, highlighting their irksomeness and difficulty.
 2. "heartless rigor" - The commentary emphasizes the lack of compassion and understanding in enforcing these burdensome laws.
 3. "men of shameless inconsistency" - The commentary criticizes those who enforced the laws without consistency, highlighting their hypocrisy and lack of integrity.
@@ -42,4 +42,4 @@ The verse describes the woes pronounced against the religious leaders of Jesus' 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

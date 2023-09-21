@@ -9,7 +9,7 @@ In this verse, we find the apostle Paul in Troas, where there was a great opport
 2. "For (the purpose of preaching) the Gospel of Christ." - Commentary on Paul's visit to Troas.
 3. "And an opportunity of apostolic action being afforded me; ἐν κυρίῳ defines the sort of action implied, and to which the door was opened." - Commentary on the opportunity Paul had for apostolic action in Troas.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An undesigned coincidence marking genuineness."
 2. "Hence, though a wide door of Christian usefulness opened to him at Troas, his eagerness to hear from Titus the tidings from Corinth, led him not to stay longer there when the time fixed was past, but he hastened on to Macedonia to meet him there."
 3. "He had been at Troas before, but the vision of a man from Macedonia inviting him to come over, prevented his remaining there."
@@ -59,4 +59,4 @@ In this verse, we find the apostle Paul in Troas, where there was a great opport
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

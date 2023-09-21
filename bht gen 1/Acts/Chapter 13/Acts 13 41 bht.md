@@ -9,7 +9,7 @@ In this verse, the phrase "I work a work which ye will in nowise believe" emphas
 2. "Such repeated fulfillments increasing in weight, and approaching nearer and nearer to that last and great fulfillment of all the promises of grace and all the threats of wrath."
 3. "By which every prophetic word shall be exhausted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye will not believe though a man declare it unto you—that is, even on unexceptionable testimony." 
 2. "The words... were originally a merciful but fruitless warning against the approaching destruction of Jerusalem by the Chaldeans and the Babylonish captivity." 
 3. "As such nothing could more fitly describe the more awful calamity impending over the generation which the apostle addressed."
@@ -59,4 +59,4 @@ These quotes highlight the commentary's explanation of the Hebrew words used in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The betrayal of Jesus by one of his disciples is a cautionary tale that reveals 
 2. "The Gospel of John provides specific and detailed accounts of various events, such as the trials and crucifixion of Jesus."
 3. "Through these accounts, the Gospel of John aims to provide a comprehensive and accurate record of the life and ministry of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The baseness of this abuse of knowledge in Judas, derived from admission to the closest privacies of his Master, is most touchingly conveyed here."
 2. "Jesus, however, knowing that in this spot Judas would expect to find Him, instead of avoiding it, hies Him thither, as a Lamb to the slaughter."
 3. "The garden, however, with its amplitude, its shady olives, its endeared associations, would be congenial to His heart."
@@ -54,4 +54,4 @@ The betrayal of Jesus by one of his disciples is a cautionary tale that reveals 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

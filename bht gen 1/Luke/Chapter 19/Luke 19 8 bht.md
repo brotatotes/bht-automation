@@ -9,7 +9,7 @@ Zacchaeus, a tax collector who had embraced a sinful lifestyle, encounters Jesus
 2. "σταθείς has something formal and pre-determined about it: he stood forward, with some effort and resolve."
 3. "Zacchæus may well have heard of that parable from one of his publican acquaintances, or perhaps repentance may have led him at once to this act of self-denial."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark how frequently Luke uses this title, and always where lordly authority, dignity, or power is intended."
 2. "The Roman law required this; the Jewish law, but the principal and a fifth more. There was no demand made for either; but, as if to revenge himself on his hitherto reigning sin and to testify the change he had experienced, besides surrendering the half of his fair gains to the poor, he voluntarily determines to give up all that was ill-gotten, quadrupled."
 3. "He gratefully addressed this to the 'Lord,' to whom he owed the wonderful change."
@@ -54,4 +54,4 @@ Zacchaeus, a tax collector who had embraced a sinful lifestyle, encounters Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse encourages readers to heed the teachings of Christ, recognizing their gravity and urgency. It emphasizes the importance of actively listening, comprehending, and responding to His words. The verse also highlights the relevance of the message to significant events in the church's history, particularly those involving the "beast." It calls for attentive hearing, understanding, and avoidance of the influence of antichrist and his followers. This verse serves as a monition, demanding serious attention and an active response to the teachings conveyed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse serves as a general exhortation, urging readers to pay close attention to the words of Christ. It emphasizes the importance of listening and heeding His teachings."
 2. "By referring to Christ's words as a 'monition,' the commentary highlights the serious and urgent nature of His message. It suggests that His words are not to be taken lightly or ignored."
 3. "The phrase 'calling solemn attention' further emphasizes the gravity of Christ's words. It conveys a sense of urgency and the need for sincere reflection and response."
@@ -34,4 +34,4 @@ The verse encourages readers to heed the teachings of Christ, recognizing their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

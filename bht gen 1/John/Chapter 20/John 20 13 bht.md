@@ -9,7 +9,7 @@ In this Bible verse, a lone woman named Mary is fearless and determined to find 
 2. "The angels doubtless are proceeding further to assure her as they did the women before."
 3. "This is broken off by the appearance of the Lord Himself, or perhaps by Mary's turning away."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "You would think the vision too much for a lone woman."
 2. "Absorbed in the one Object of her affection and pursuit, she speaks out her grief without fear."
 3. "She answers not the stranger's question, but comes straight to her point with him."
@@ -48,4 +48,4 @@ In this Bible verse, a lone woman named Mary is fearless and determined to find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

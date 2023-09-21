@@ -9,7 +9,7 @@ In this verse, the writer expresses concerns about the state of the Corinthians 
 2. "His disposition towards them in such a case could be but of one kind, viz. severity."
 3. "The vehemence of his language has caused him to omit the verb."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His fear that at his coming he should find them 'not such as he would,' and so he should be found by them 'such as they would not' like, namely, severe in punishing misconduct."
 2. "Strifes: 'factions,' 'intrigues,' 'factious schemes.' Ambitious self-seeking; from a Greek root, 'to work for hire.'"
 3. "Backbitings, whisperings: open 'slanderings,' and 'whispering backbitings.'"
@@ -52,4 +52,4 @@ In this verse, the writer expresses concerns about the state of the Corinthians 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Marriage is regarded as honorable and deserving of reverence for all individuals
 
 3. "The neuter view is to be preferred: and so Œc., Corn. a-Lap., Calmet, the R.-Cath. expositors generally, Bleek, De Wette, Lünem., Delitzsch, al." - The preferred interpretation is that "in all things" should be understood as "in all aspects" or "in every way," rather than referring specifically to all people. This interpretation is supported by various commentators.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let marriage be treated as honorable."
 2. "To avoid fornication let EVERY MAN have his own wife."
 3. "The venerable Paphnutius, in the Council of Nice, quoted this verse for the justification of the married state."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of marriage as a sacred union between one 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

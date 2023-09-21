@@ -9,7 +9,7 @@ Moses, the renowned biblical figure, was raised in the wisdom of the Egyptians, 
 2. "This wisdom of the Egyptians, celebrated by so many ancient writers, consisted mainly in natural philosophy, medicine, and mathematics, and its teachers were the priests."
 3. "That he was so thus early, during his Egyptian course, was probably reported by tradition, but hardly seems to agree with Exodus 4:10-16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "mighty in words—Though defective in utterance (Exodus 4:10); his recorded speeches fully bear out what is here said." 
 2. "and deeds—referring probably to unrecorded circumstances in his early life." 
 3. "If we are to believe JOSEPHUS, his ability was acknowledged ere he left Egypt."
@@ -48,4 +48,4 @@ Moses, the renowned biblical figure, was raised in the wisdom of the Egyptians, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

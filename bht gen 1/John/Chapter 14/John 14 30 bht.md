@@ -9,7 +9,7 @@ In this verse, Jesus warns His disciples that the time of His departure is near 
 2. "Satan himself, with whom the Lord was in conflict during His passion."
 3. "This is the only true interpretation: has nothing in Me no point of appliance whereon to fasten his attack."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have a little more to say, but My work hastens apace, and the approach of the adversary will cut it short."
 2. "The prince of this world cometh with hostile intent, for a last grand attack, having failed in His first formidable assault."
 3. "Glorious saying! The truth of it is, that which makes the Person and Work of Christ the life of the world."
@@ -55,4 +55,4 @@ In this verse, Jesus warns His disciples that the time of His departure is near 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

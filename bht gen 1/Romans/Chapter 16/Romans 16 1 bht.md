@@ -4,7 +4,7 @@
 This Bible verse speaks of a woman named Phebe, who is described as a beloved sister in the faith. Phebe is commended for her role as a servant or minister in the church at Cenchrea, possibly as a deaconess. In the early church, deaconesses were appointed to provide care and support to female members, attending to their physical and spiritual needs. Phebe's service exemplifies the importance of embracing and honoring those who perform public offices in the Church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That in the earliest churches there were deaconesses, to attend to the wants of the female members, there is no good reason to doubt."
 2. "So early at least as the reign of Trajan, we learn from PLINY'S celebrated letter to that emperor—A.D. 110, or 111—that they existed in the Eastern churches."
 3. "Modern attempts, however, to revive this office have seldom found favor; either from the altered state of society, or the abuse of the office, or both."
@@ -48,4 +48,4 @@ This Bible verse speaks of a woman named Phebe, who is described as a beloved si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

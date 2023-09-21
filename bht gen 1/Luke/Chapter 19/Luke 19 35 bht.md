@@ -4,7 +4,7 @@
 In this verse, Jesus humbly chooses to be placed on a donkey, symbolically embracing the role of a servant. This marks the beginning of His journey to Jerusalem, where He would fulfill the mission of salvation. By riding on a donkey, Jesus fulfills the prophecy, demonstrating His identity as the long-awaited Messiah. The disciples play a significant role in bringing the donkey to Jesus, casting their own garments on it as an act of reverence and honor for Him. This intentional action of placing Jesus on the donkey highlights His authority and the fulfillment of Messianic prophecy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, in a deliberate act of humility, allowed Himself to be placed on the donkey, symbolizing His willingness to take on the role of a servant." 
 
 2. "This act of Jesus setting Himself on the donkey was significant because it marked the beginning of His final journey to Jerusalem, where He would ultimately fulfill His mission of salvation." 
@@ -32,4 +32,4 @@ In this verse, Jesus humbly chooses to be placed on a donkey, symbolically embra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

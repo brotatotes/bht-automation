@@ -9,7 +9,7 @@ The verse being described here emphasizes the spiritual significance of partakin
 2. "To eat the flesh of Christ, is to realize, in our inward life, the mystery of His Body now in heaven, to digest and assimilate our own portion in that Body."
 3. "To drink His Blood, is to realize, in our inward life, the mystery of His satisfaction for sin, to digest and assimilate our own portion in that satisfaction, the outpouring of that Blood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He says they must not only 'eat His flesh' but 'drink His blood,' which could not but suggest the idea of His death—implied in the separation of one's flesh from his blood."
 2. "And as He had already hinted that it was to be something very different from a natural death, saying, 'My flesh I will give for the life of the world' (John 6:51), it must have been pretty plain to candid hearers that He meant something above the gross idea which the bare terms expressed."
 3. "The truth really conveyed here is no other than that expressed in John 6:51- :, though in more emphatic terms—that He Himself, in the virtue of His sacrificial death, is the spiritual and eternal life of men; and that unless men voluntarily appropriate to themselves this death, in its sacrificial virtue, so as to become the very life and nourishment of their inner man, they have no spiritual and eternal life at all."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the spiritual significance of partakin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

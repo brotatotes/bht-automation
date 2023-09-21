@@ -9,7 +9,7 @@ This passage describes a remarkable event in the life of Jesus, taking place in 
 2. "NAIN occurs no where else in the Bible. It was a town of Galilee not far from Capernaum, a few miles to the south of Mount Tabor, ‘on the northern slope of the rugged and barren ridge of Little Hermon,’ Stanley."
 3. "This is one of the three greatest recorded miracles of our Lord: of which it has been observed, that He raised one (Jaeirus’s daughter) when just dead, one on the way to burial, and one (Lazarus) who had been buried four days."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nain—a small village not elsewhere mentioned in Scripture" - This verse provides a unique glimpse into a lesser-known village in biblical times, highlighting the specific location where Jesus performed a miracle.
 
 2. "only this once probably visited by our Lord" - This commentary suggests that Nain was not a frequently visited place by Jesus, emphasizing the significance of this particular event and the impact it had on the village.
@@ -50,4 +50,4 @@ This passage describes a remarkable event in the life of Jesus, taking place in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

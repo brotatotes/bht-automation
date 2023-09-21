@@ -4,7 +4,7 @@
 In this Bible verse, the commentators highlight the significance of the promise of eternal life. They emphasize that this promise is made by God the Father, who cannot lie and is trustworthy. The promise is closely connected to the work of the Holy Spirit and is linked to the knowledge of Christ. By abiding in him and believing in him, we enter into a covenant relationship where we can find hope, assurance, and everlasting life. This promise should be a sufficient inducement for us to hold fast to the truth and trust in the faithfulness and commitment of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Eternal life shall be the permanent consummation of thus abiding in the Son and in the Father." 
 2. "He," referring to Christ, "the Son." 
 3. "Promised" in various other verses in the Gospel of John.
@@ -40,4 +40,4 @@ In this Bible verse, the commentators highlight the significance of the promise 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

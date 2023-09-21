@@ -9,7 +9,7 @@ Sarah, known for her initial doubt and laughter at God's promise, played a signi
 2. "The phrase 'deposition of seed' refers to the power to fructify seed deposed."
 3. "Sarah esteemed Him faithful who had promised."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sara herself—though being the weaker vessel, and though at first she doubted." This quote highlights the fact that Sara, despite her initial doubts and being considered the weaker vessel, played a significant role in the fulfillment of God's promise.
 
 2. "And that when she was past age." This quote emphasizes the miraculous nature of Sara's conception, as she gave birth to Isaac when she was well beyond the age of childbearing.
@@ -61,4 +61,4 @@ Sarah, known for her initial doubt and laughter at God's promise, played a signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

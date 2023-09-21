@@ -9,7 +9,7 @@ In this verse, we see a portrayal of the conflict between King Herod and the peo
 2. "εἰρήνην] not (see above) peace, in its strict sense, but reconciliation." 
 3. "We learn from 1Ki 5:11 that Solomon made presents of wheat and oil to Hiram in return for the cedar and fir-trees for the Lord’s house: and from Ezekiel 27:17, that Judah and Israel exported wheat, honey, oil, and balm (or resin) to Tyre."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod was displeased with them of Tyre and Sidon—for some reason unknown; but the effect on their commercial relations made the latter glad to sue for peace." 
 2. "Their country was nourished by the king's country—See 1 Kings 5:11; Ezra 3:7; Ezekiel 27:17." 
 3. "Perhaps the famine (Acts 11:28) made them the more urgent for reconciliation."
@@ -53,4 +53,4 @@ In this verse, we see a portrayal of the conflict between King Herod and the peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author describes his impending death using metaphors of putti
 2. "the putting off, whenever it did come, would be sudden and quick" - The sentence clarifies that the timing of Peter's death is uncertain, but when it does happen, it will be swift.
 3. "advancing old age might lead the Apostle to the conclusion that the end prophesied to him could not be far off" - Peter's advancing age might have made him believe that his death, as prophesied by Jesus, was approaching.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the putting off (as a garment) of my tabernacle is speedy": implying a soon approaching, and also a sudden death (as a violent death is).
 2. Christ's words, John 21:18; John 21:19, "When thou art old," &c., were the ground of his "knowing," now that he was old, that his foretold martyrdom was near.
 3. Though a violent death, he calls it a "departure" (Greek for "decease," 2 Peter 1:15), compare Acts 7:60.
@@ -55,4 +55,4 @@ In this verse, the author describes his impending death using metaphors of putti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

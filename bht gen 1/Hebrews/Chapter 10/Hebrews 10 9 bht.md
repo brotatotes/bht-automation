@@ -9,7 +9,7 @@ The verse describes how Christ's sacrifice replaces the need for animal sacrific
 2. "The contrast is between that which God wills not, and that which He wills."
 3. "The first refers to the sacrificial system, while the second refers to the will of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rejection of the legal sacrifices involves, as its concomitant, the voluntary offer of Jesus to make the self-sacrifice with which God is well pleased."
 2. "It was God's own 'will' that He came to do in offering it: so that this sacrifice could not but be well pleasing to God."
 3. "Christ should redeem us by His self-sacrifice."
@@ -55,4 +55,4 @@ The verse describes how Christ's sacrifice replaces the need for animal sacrific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

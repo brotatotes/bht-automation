@@ -9,7 +9,7 @@ The priests, always entering the first tabernacle, accomplished their services d
 2. "The arrangement was essential to the system: the failure of some of its parts, accidental to it."
 3. "The priests accomplishing the services, including the morning and evening care of the lamps, the offering of incense, and the weekly change of the shewbread."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The use made of the sanctuary so furnished by the high priest on the anniversary of atonement." This quote highlights the significance of the sanctuary and its role in the atonement process.
 2. "Always—twice at the least every day, for the morning and evening care of the lamps, and offering of incense." This quote emphasizes the regular and consistent use of the sanctuary for the daily rituals of the priests.
 3. "Went—Greek, 'enter': present tense." This quote suggests that the act of entering the sanctuary was ongoing and continuous, indicating the continuous access to God's presence.
@@ -59,4 +59,4 @@ The priests, always entering the first tabernacle, accomplished their services d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

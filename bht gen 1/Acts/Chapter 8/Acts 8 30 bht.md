@@ -9,7 +9,7 @@ In this verse, a reader is asked if they understand what they are reading. The q
 2. "The γε strengthens the ἆρα, implying the passing over of all other considerations, and selecting this as the most important: see Hartung, Partikellehre, i. 376 f."
 3. "It assumes, modestly, that he did not understand what he was reading."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Understandest thou what thou readest?" - The question posed by the speaker indicates a genuine willingness to help and provide insight to the reader, rather than being rude or dismissive.
 2. "To one so engaged this would be deemed no rude question" - The commentary highlights that someone who is truly engaged in studying the Bible would not find this question offensive, but rather see it as an opportunity for further understanding.
 3. "The eager appearance of the speaker, and the question itself, would indicate a readiness to supply any want of insight that might be felt" - The speaker's enthusiasm and the nature of the question convey a readiness to assist and provide any necessary clarification to the reader.
@@ -45,4 +45,4 @@ In this verse, a reader is asked if they understand what they are reading. The q
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

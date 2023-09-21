@@ -1,7 +1,7 @@
 # Matthew 5:36 Commentary Help Text
 
 ## BHT:
-Combining the insights of commentators Henry Alford, Jamieson Fausset Brown, Albert Barnes, Philip Schaff, John Gill, and John Wesley, this verse speaks to the limited control we have over our lives, particularly in altering our physical appearance. It underscores God's sovereignty and authority over all things, emphasizing that even our own bodies are ultimately under His control. This reminder serves to humble us and encourage trust in God's divine plan for our lives, recognizing that He alone holds true power and authority.
+Combining the insights of commentators Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Philip Schaff, John Gill, and John Wesley, this verse speaks to the limited control we have over our lives, particularly in altering our physical appearance. It underscores God's sovereignty and authority over all things, emphasizing that even our own bodies are ultimately under His control. This reminder serves to humble us and encourage trust in God's divine plan for our lives, recognizing that He alone holds true power and authority.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -11,7 +11,7 @@ Combining the insights of commentators Henry Alford, Jamieson Fausset Brown, Alb
 
 These quotes highlight the lack of control we have over certain aspects of our lives, the recognition of God's sovereignty over all things, and the significance of oaths as appeals to God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither shalt thou swear by thy head, because thou canst not make one hair white or black." - This quote highlights the futility of swearing by one's own head, emphasizing that we have no control over even the smallest details of our appearance.
 
 2. "God's name was profaned quite as really as if His name had been uttered." - This quote explains that even though God's name may not be explicitly mentioned, swearing by His creations or attributes still profanes His name.
@@ -46,4 +46,4 @@ These quotes highlight the lack of control we have over certain aspects of our l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

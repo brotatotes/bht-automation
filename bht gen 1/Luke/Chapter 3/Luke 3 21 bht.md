@@ -4,7 +4,7 @@
 In the account of Jesus' baptism, we see a unique and separate act from the crowd, as He is not just one of them. The heavens are opened, symbolizing a divine revelation and the communication between God and humanity. This event marks the beginning of Jesus' ministry, highlighted by the tearing of the heavens and the fulfillment of Old Testament prophecies. While Jesus is praying, the heavens are opened, emphasizing the importance of prayer in His life and ministry and serving as a confirmation of His identity and mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When all the people were baptized—that He might not seem to be merely one of the crowd." 
 2. "Thus, as He rode into Jerusalem upon an ass, 'whereon yet never man sat' and lay in a sepulchre 'wherein was never man yet laid,' so in His baptism He would be 'separate from sinners.'" 
 3. "In His baptism, Jesus was making a statement about His uniqueness and separation from sinners."
@@ -42,4 +42,4 @@ In the account of Jesus' baptism, we see a unique and separate act from the crow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

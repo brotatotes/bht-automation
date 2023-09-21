@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of unity among believer
 2. "This unity has its true and only ground in faith in Christ through the Word of God as delivered by the Apostles; and is therefore not mere outward uniformity, nor can such uniformity produce it."
 3. "Rather is it, ‘that this their testimony, being borne by them all, and in all ages, may continue to convince the world, so that many in the world may believe,’ &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The indwelling Spirit of the Father and the Son is the one perfect bond of union, knitting up into a living unity, first all believers amongst themselves; next, this unity into one still higher, with the Father and the Son."
 2. "The grand impression upon the world at large, that the mission of Christ is divine, is to be made by the unity of His disciples."
 3. "But the Spirit of Christ, illuminating, transforming, and reigning in the hearts of the genuine disciples of Christ, drawing them to each other as members of one family, and prompting them to loving co-operation for the good of the world—this is what, when sufficiently glowing and extended, shall force conviction upon the world that Christianity is divine."
@@ -46,4 +46,4 @@ I apologize for the confusion. Please provide the commentary so that I can extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described in these commentaries portrays the visible manifestations of
 2. "The Lord shewed it to be His pleasure that they should go on with such preaching."
 3. "The narrative now follows the preachers to the Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The accession of Cornelius and his party was not the first admission of uncircumcised Gentiles into the Church."
 2. "We read of no influence which the accession of Cornelius and his house had on the further progress of the Gospel among the Gentiles."
 3. "The only great object served by the case of Cornelius was the formal recognition of the principles which that case afterwards secured."
@@ -52,4 +52,4 @@ The verse described in these commentaries portrays the visible manifestations of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

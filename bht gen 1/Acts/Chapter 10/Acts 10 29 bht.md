@@ -9,7 +9,7 @@ In this verse, the speaker asks for the reason behind a certain action, emphasiz
 2. The dative case is used to indicate the cause. (quote 29)
 3. This usage is similar to Hesiod's Theogony 626, where the phrase "γαίης φραδμοσύνῃσιν ἀνήγαγεν" is used. (quote 29)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole speech is full of dignity, the apostle seeing in the company before him a new brotherhood, into whose devout and inquiring minds he was divinely directed to pour the light of new truth."
 2. "The apostle's request is not merely for their attention, but for their understanding and acceptance of the truth he is about to share."
 3. "Paul recognizes the importance of engaging the minds and hearts of his audience, knowing that true transformation comes from a deep understanding and acceptance of the gospel message."
@@ -55,4 +55,4 @@ In this verse, the speaker asks for the reason behind a certain action, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

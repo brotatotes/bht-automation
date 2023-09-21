@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the remarkable worth and value of the 
 2. "the Holy Land was especially calculated, by its geological formation, and its wildernesses, to afford shelter to persecuted persons."
 3. "to Judas Maccabæus, who fled with others εἰς τὴν ἔρημον and there lived ἐν τοῖς ὄρεσι like the wild beasts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The world was not worthy of them." - The exile of these individuals in deserts and caves may have seemed like a punishment, but in reality, it was the world that was unworthy of them. By shutting them out, the world missed out on the blessings they could have brought.
 2. "In condemning them, the world condemned itself." - The world's rejection of these individuals was not a reflection of their worthiness, but rather a condemnation of its own blindness and inability to recognize the value they possessed.
 3. "Palestine, from its hilly character, abounds in fissures and caves, affording shelter to the persecuted." - The caves and fissures in Palestine provided a place of refuge for those who were persecuted. Just as the fifty were hidden by Obadiah and Elijah, these caves served as a sanctuary for those seeking safety.
@@ -54,4 +54,4 @@ In this verse, the commentators emphasize the remarkable worth and value of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

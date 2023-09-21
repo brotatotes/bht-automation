@@ -9,7 +9,7 @@ The verse being described focuses on the concept of the Lord's Supper. It emphas
 2. "This was an inseparable adjunct, in the apostolic times, to their agapæ or feasts of love."
 3. "It was necessary for the celebration of the Lord’s Supper that all should eat of the same bread and drink of the same cup."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no such thing as eating the LORD'S Supper." 
 2. "It is not possible where each is greedily intent only on devouring 'HIS OWN supper.'"
 3. "The love-feast usually preceded the Lord's Supper...from it the bread and wine were taken for the Eucharist."
@@ -55,4 +55,4 @@ The verse being described focuses on the concept of the Lord's Supper. It emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

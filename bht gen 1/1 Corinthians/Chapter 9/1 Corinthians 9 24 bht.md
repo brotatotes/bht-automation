@@ -9,7 +9,7 @@ In this verse, the apostle Paul uses the analogy of a foot race to exhort believ
 2. "The most that can with certainty be said, is that he alludes to a contest which, from the neighbourhood of the Isthmian games, was well known to his readers."
 3. "Thus (after this manner viz. as they who run all, each endeavouring to be the one who shall receive the prize: not, as the one who receives it) run, in order that ye may fully obtain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These periodical games were to the Greeks rather a passion than a mere amusement: hence their suitableness as an image of Christian earnestness."
 2. "Even in the Christian race not 'all' who enter on the race win."
 3. "The 'so' expresses, Run with such perseverance in the heavenly course, as 'all' the runners exhibit in the earthly 'race' just spoken of: to the end that ye may attain the prize."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul uses the analogy of a foot race to exhort believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

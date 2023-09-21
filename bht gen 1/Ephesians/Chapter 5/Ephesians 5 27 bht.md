@@ -11,7 +11,7 @@ The verse being described emphasizes the divine preparation of the Church by Chr
 
 (Note: The commentary is quite lengthy and complex, so these quotes provide a concise summary of the main points.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Holiness and glory are inseparable. 'Cleansing' is the necessary preliminary to both. Holiness is glory internal; glory is holiness shining forth outwardly." 
 2. "It is Christ that prepares the Church with the necessary ornaments of grace, for presentation to Himself, as the Bridegroom at His coming again." 
 3. "The visible Church now contains clean and unclean together, like Noah's ark; like the wedding room which contained some that had, and others that had not, the wedding garment."
@@ -61,4 +61,4 @@ The verse being described emphasizes the divine preparation of the Church by Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

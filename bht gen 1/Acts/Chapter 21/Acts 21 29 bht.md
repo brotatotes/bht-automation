@@ -11,7 +11,7 @@ In this Bible verse, we see the mention of Trophimus, a close companion of the a
 
 3. "Τρόφ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Trophimus, a close companion of the apostle Paul, is mentioned in this verse. This brief mention serves as a reminder of the importance of fellowship and companionship in the Christian journey." 
 
 2. "The inclusion of Trophimus in this verse also highlights the reality of human limitations and the need for support and encouragement from others. Even the great apostle Paul relied on the companionship and assistance of his fellow believers." 
@@ -51,4 +51,4 @@ In this Bible verse, we see the mention of Trophimus, a close companion of the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

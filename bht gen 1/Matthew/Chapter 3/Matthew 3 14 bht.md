@@ -9,7 +9,7 @@ In the passage, we see John initially hesitant to baptize Jesus, recognizing His
 2. "From the nature of his relationship to our Lord, he could not but know those events which had accompanied his birth, and his subsequent life of holy and unblameable purity and sanctity."
 3. "My impression from the words of this verse certainly is, that he regarded Him as the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What! Shall the Master come for baptism to the servant—the sinless Saviour to a sinner?"
 2. "He evidently regarded Jesus as Himself needing no purification but rather qualified to impart it to those who did."
 3. "But it were a pity if, in the glory of this testimony to Christ, we should miss the beautiful spirit in which it was borne—"Lord, must I baptize Thee? Can I bring myself to do such a thing?"—reminding us of Peter's exclamation at the supper table, 'Lord, dost Thou wash my feet?'"
@@ -50,4 +50,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

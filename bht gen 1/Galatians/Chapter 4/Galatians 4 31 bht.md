@@ -9,7 +9,7 @@ Believers in Christ are not bound by customs or legalistic rituals, but are inst
 2. "And if we are, we are not the children of the handmaid, of whom it was said οὐ μὴ κληρονομ., but of the free-woman, of whose son the same words asserted that he should inherit." 
 3. "Observe in the first clause παιδίσκης is anarthrous: most likely because emphatically prefixed to its governing noun (cf. ἐθνῶν ἀπόστολος, Rom 11:13): but possibly, as indefinite, q. d. we are the children of no bondwoman, but of the freewoman."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If, then, we are heirs, 'we are not children of the bond woman, but of the free woman.'"
 2. "For we are not 'cast out' as Ishmael, but accepted as sons and heirs."
 3. "We, New Testament believers, are 'heirs' and not children of the bond woman."
@@ -52,4 +52,4 @@ Believers in Christ are not bound by customs or legalistic rituals, but are inst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

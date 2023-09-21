@@ -9,7 +9,7 @@ In this Bible verse, we see Nathanael's skepticism and prejudice as he questions
 2. "Philip expresses what was the prevailing belief, in the ordinary words, as Olshausen remarks."
 3. "In an admirable note, Neander remarks, that by combining the two declarations of John, we cannot escape the inference, that a supernatural working of God in the conception of the Man Christ Jesus is implied."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question sprang from mere dread of mistake in a matter so vital."
 2. "Come and see—Noble remedy against preconceived opinions [BENGEL]."
 3. "Philip, though he could not perhaps solve his difficulty, could show him how to get rid of it."
@@ -48,4 +48,4 @@ In this Bible verse, we see Nathanael's skepticism and prejudice as he questions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

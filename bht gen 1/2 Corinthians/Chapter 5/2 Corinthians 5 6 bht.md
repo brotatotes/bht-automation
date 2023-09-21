@@ -4,7 +4,7 @@
 In this verse, the author encourages believers to maintain unwavering confidence, even in the midst of trials and challenges. They should live with the knowledge that their true home is with the Lord, and that their earthly existence is temporary. This understanding should fill them with courage, joy, and a steadfast hope in the promise of heaven. The verse speaks to the believers' present state as pilgrims and strangers, reminding them that their ultimate happiness lies beyond the grave. Ultimately, the verse calls for a faithful and courageous attitude, grounded in the assurance of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being therefore always confident and knowing" - The author emphasizes the unwavering confidence and knowledge that the believers possess, even in the face of trials and challenges.
 2. "We are confident as well at all times, as also most of all in the hope of a blessed departure" - This quote highlights the believers' strong confidence, particularly in the hope of a peaceful and blessed departure from this earthly life.
 3. "While we sojourn in our home in the body, we are away from our home in the Lord" - The commentary explains the metaphorical language used in the verse, illustrating the temporary nature of our earthly existence compared to our eternal home with the Lord.
@@ -52,4 +52,4 @@ In this verse, the author encourages believers to maintain unwavering confidence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

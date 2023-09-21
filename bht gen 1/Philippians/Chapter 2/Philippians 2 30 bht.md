@@ -9,7 +9,7 @@ The Bible verse in question portrays a selfless act of service and sacrifice. It
 2. "he incurred so serious and nearly fatal a sickness"
 3. "Epaphroditus filled up, and in so doing risked his life"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was probably in a delicate state of health in setting out from Philippi; but at all hazards he undertook this service of Christian love, which cost him a serious sickness."
 2. "Not that Paul would imply, they lacked the will: what they 'lacked' was the 'opportunity' by which to send their accustomed bounty."
 3. "That which ye would have done if you could (but which you could not through absence), he did for you therefore receive him with all joy."
@@ -57,4 +57,4 @@ The Bible verse in question portrays a selfless act of service and sacrifice. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

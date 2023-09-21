@@ -9,7 +9,7 @@ In this verse, the commentator highlights the Roman legal system and its commitm
 2. "the construction of πρίν with an opt. without ἄν, is only found here in the N. T."
 3. "This use of τόπος as the Lat. ‘locus,’ is not found in good Greek."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'to deliver any man to die' refers to the act of handing someone over to be put to death. This highlights the gravity of the situation and the potential consequences for those involved."
 
 2. "The use of the word 'deliver' implies a deliberate action, suggesting that those who betray or hand over someone to be killed are actively participating in the act."
@@ -56,4 +56,4 @@ In this verse, the commentator highlights the Roman legal system and its commitm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

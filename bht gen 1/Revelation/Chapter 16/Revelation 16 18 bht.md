@@ -4,7 +4,7 @@
 In this verse, there are voices, thunderings, and lightnings, which accompany the profound judgment that follows. A great earthquake, unlike any that has ever occurred, shakes the earth with unprecedented force. This earthquake is not a metaphor, but a literal event, highlighting the immense power and impact of the judgments of God. The earthquake serves as a symbol of the tremendous upheaval and transformation that accompanies the destruction of the antichristian powers and the changes made in the world. The verse portrays the unparalleled magnitude and intensity of the earthquake, emphasizing its overwhelming and awe-inspiring effect.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The voice and thunderings are not merely the conclusion, but introduce the consequence of the last vial, the utter destruction of Babylon and the Antichristian armies."
 2. "The earthquake, often preceded by a lurid state of air, is a result of the vial poured upon the earth."
 3. "The variation in the reading 'men were' and 'a man was' adds an intriguing dimension to the interpretation of the verse."
@@ -44,4 +44,4 @@ In this verse, there are voices, thunderings, and lightnings, which accompany th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

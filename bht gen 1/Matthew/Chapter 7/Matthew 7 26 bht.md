@@ -4,7 +4,7 @@
 In this Bible verse, we are reminded that true wisdom lies not only in hearing the teachings of Jesus, but in actively living them out. It cautions against building our faith on a weak foundation, likened to a house built on sand, which symbolizes superficiality and externalities. Instead, it calls for a genuine, transformative relationship with God, one that goes beyond empty professions and outward rituals. This verse teaches us that true salvation is found in the solid rock of Christ, rather than the shifting sands of human accomplishments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And every one that heareth these sayings of mine... and doeth them not, shall be likened unto a foolish man." - This quote highlights the importance of not just hearing the teachings of Jesus, but also putting them into practice. It emphasizes the need for action and obedience, rather than just empty words or external rituals.
 
 2. "Built his house upon the sand... denoting a loose foundation." - This quote draws attention to the metaphor of building a house on sand, symbolizing a weak and unstable foundation. It warns against relying on superficial or shallow beliefs, urging individuals to establish their faith on solid ground.
@@ -30,4 +30,4 @@ In this Bible verse, we are reminded that true wisdom lies not only in hearing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

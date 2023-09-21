@@ -9,7 +9,7 @@ The verse being described emphasizes the fulfillment of the righteousness that t
 2. "The work is not ours, but that of God by His grace."
 3. "Who, notwithstanding that we are bound up with a σὰρξ ἁμαρτίας, do not walk in our daily life according to, or led by, the νόμος τῆς ἁμαρτίας ὁ ἐν τοῖς μέλεσιν ἡμῶν, but according to and led by the νόμος τοῦ πνεύματος τῆς ζωῆς, in Christ Jesus members of Him, and participating in that victory over sin which He obtained, by which the power of sin in our flesh is broken."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The righteousness of the law... might be fulfilled in us." - This quote highlights the goal of the law, which is to be realized and fulfilled in our lives. It emphasizes the practical obedience that the law calls for.
 
 2. "Who walk... not after the flesh, but after the spirit." - This quote emphasizes the importance of the direction of our lives, whether it is aligned with the desires of the flesh or guided by the renewed mind and influence of the Holy Spirit.
@@ -56,4 +56,4 @@ The verse being described emphasizes the fulfillment of the righteousness that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

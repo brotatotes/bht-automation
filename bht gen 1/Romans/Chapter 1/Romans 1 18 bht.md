@@ -9,7 +9,7 @@ In this verse, we find a revelation of God's righteousness and wrath. The righte
 2. "ὀργὴ θεοῦ is anthropopathically, but with the deepest truth, put for the righteousness of God in punishment."
 3. "ἀσέβειαν, godlessness; ἀδικίαν, iniquity: but neither term is exclusive of the other, nor to be formally pressed to its limits."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle, though he began this verse with a comprehensive proposition regarding men in general, takes up in the end of it only one of the two great divisions of mankind, to whom he meant to apply it; thus gently sliding into his argument."
 2. "But before enumerating their actual iniquities, he goes back to the origin of them all, their stifling the light which still remained to them."
 3. "Thus 'the truth' which God left with and in men, instead of having free scope and developing itself, as it otherwise would, was obstructed."
@@ -57,4 +57,4 @@ Note: The commentary provided is not a complete analysis of the verse, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

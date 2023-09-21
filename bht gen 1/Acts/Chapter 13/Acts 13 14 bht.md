@@ -9,7 +9,7 @@ Antioch in Pisidia was a strategically located city in the region of Pisidia, pa
 2. "The tribes inhabiting the mountains which separate the table-land of Asia Minor from the coast were notorious for their lawless and marauding habits." 
 3. "Its position is described by Strabo as being on a hill, and was unknown or wrongly placed till Mr. Arundell found its ruins at a place now called Yalobatch."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was a long journey, and as it lay almost entirely through rugged mountain passes, while 'rivers burst out at the base of huge cliffs, or dash down wildly through narrow ravines,' it must have been a perilous one."
 2. "The whole region was, and to this day is, infested by robbers, as ancient history and modern travels abundantly attest."
 3. "If this journey were taken in May—and earlier than that the passes would have been blocked up with snow—it would account for their not staying at Perga, whose hot streets are then deserted."
@@ -56,4 +56,4 @@ Antioch in Pisidia was a strategically located city in the region of Pisidia, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

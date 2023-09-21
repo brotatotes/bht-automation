@@ -4,7 +4,7 @@
 In this verse, believers are encouraged to be awake, watchful, and on guard at all times, remaining spiritually prepared for the return of the Lord. The exhortation to watch applies to all believers, as it is a timeless command meant to protect them from the dangers, temptations, and uncertainties that they may face. By casting off sloth and negligence, believers can ensure that they are faithful and ready for whatever may come their way.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And what I say unto you—this discourse, it will be remembered, was delivered in private." 
 2. "I say unto all, Watch—anticipating and requiring the diffusion of His teaching by them among all His disciples." 
 3. "Watch...its perpetuation through all time."
@@ -40,4 +40,4 @@ In this verse, believers are encouraged to be awake, watchful, and on guard at a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

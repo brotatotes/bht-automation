@@ -9,7 +9,7 @@ The verse under consideration reveals that those who departed from the faith had
 2) "Their very becoming [antichrists], proves the unreality of their Christian profession."
 3) "The Apostle is speaking here not dogmatically but ethically. As Didymus above, if there is a necessity in the μεμενήκεισαν, it is a 'necessitas voluntaria.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are like bad humors in the body of Christ, the Church: when they are vomited out, then the body is relieved; the body of Christ is now still under treatment, and has not yet attained the perfect soundness which it shall have only at the resurrection."
 2. "Where God's call is effectual, there will be sure perseverance."
 3. "It is men's own evil will that chooses the way to hell; it is God's free and sovereign grace that draws any to Himself and to heaven."
@@ -57,4 +57,4 @@ These quotes highlight the idea that those who departed from the faith were not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

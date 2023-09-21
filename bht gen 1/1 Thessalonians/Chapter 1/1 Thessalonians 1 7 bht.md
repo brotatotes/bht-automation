@@ -9,7 +9,7 @@ In this verse, we see the impact of the Thessalonian believers on other Christia
 2. "οἱ πιστεύοντες, like ὁ πειράζων, designates the kind."
 3. "But it was not so: for the only church in Europe which was in Christ before the Thessalonian, was the Philippian (Act 16:12 to Acts 17:1, see ch. 1Th 2:2)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their past conduct is an ensample to all believers now."
 2. "He means their past conduct is an ensample to all believers now."
 3. "Their past conduct is an ensample to all believers now."
@@ -50,4 +50,4 @@ In this verse, we see the impact of the Thessalonian believers on other Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

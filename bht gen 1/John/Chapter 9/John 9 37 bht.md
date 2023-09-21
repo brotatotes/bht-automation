@@ -9,7 +9,7 @@ In this verse, a blind man's sight is restored, leading him to acknowledge and b
 2. "They do not refer to a former seeing, when he was healed: this was the first time that he had seen his Benefactor."
 3. "Compare Luke 2:30."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The new sense of sight having at that moment its highest exercise, in gazing upon 'the Light of the world.'" 
 2. "The encounter with Jesus allowed the blind man to not only physically see, but also to spiritually perceive the true nature of Jesus as the Light." 
 3. "This verse highlights the transformative power of encountering Jesus, as it not only restores physical sight but also brings about a deeper understanding of spiritual truth."
@@ -45,4 +45,4 @@ In this verse, a blind man's sight is restored, leading him to acknowledge and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

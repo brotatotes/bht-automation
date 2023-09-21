@@ -9,7 +9,7 @@ This verse speaks of a shared sense of comfort and support within the community,
 2. "He is speaking generally, of the community of consolation..." - This quote suggests that the speaker is referring to a broader sense of comfort and support within the community, rather than just a personal experience.
 3. "It was this thought which helped to console him." - This quote implies that the speaker found solace in the idea of shared consolation, indicating the importance of community support in times of difficulty.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is a community of consolation, as of suffering, between me and you."
 2. "He means, there is a connection and similarity between us."
 3. "We are united in our experiences of consolation and suffering."
@@ -45,4 +45,4 @@ This verse speaks of a shared sense of comfort and support within the community,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

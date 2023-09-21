@@ -9,7 +9,7 @@ In this verse, a young man named Eutychus falls asleep while sitting on a window
 2. "It implies that relaxation of the system, and collapse of the muscular power, which is more or less indicated by our expressions 'falling asleep,' 'dropping asleep.'"
 3. "Let us take the narrative as it stands. The youth falls, and is taken up dead: so much is plainly asserted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The window projected (according to the side of the room where it was situated) either over the street or over the interior court; so that in either case he fell on the hard earth or pavement below." 
 2. "The window seat or recess could have been a place of relaxation or solitude, providing a view to the outside world." 
 3. "The fact that he fell from the third story emphasizes the severity of the fall and the resulting impact."
@@ -53,4 +53,4 @@ In this verse, a young man named Eutychus falls asleep while sitting on a window
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

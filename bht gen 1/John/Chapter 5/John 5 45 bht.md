@@ -9,7 +9,7 @@ In this verse, it is made clear that Jesus does not come to condemn nor accuse b
 2. "He will not accuse them; nay, it is not needful; for Moses, whom they disbelieved, already accused them."
 3. "Moses, whom they disbelieved, while vainly hoping in him, already accused them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My errand hither is not to collect evidence to condemn you at God's bar."
 2. "Alas! that will be too well done by another, and him the object of all your religious boastings—Moses."
 3. "Moses," here put for "the Law," the basis of the Old Testament Scriptures.
@@ -52,4 +52,4 @@ In this verse, it is made clear that Jesus does not come to condemn nor accuse b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

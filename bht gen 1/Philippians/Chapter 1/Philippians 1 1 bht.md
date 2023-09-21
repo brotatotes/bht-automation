@@ -9,7 +9,7 @@ In this Bible verse, the author sends warm affection and greetings to the Philip
 2. "The warm affection which breathes through this whole Epistle...accounts for the mention of 'all the saints' in various places."
 3. "The ecclesiastical offices were now more plainly distinguished than at the time when the two former of those Epistles were written."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of his name implies merely that Timothy joined in affectionate remembrances to them."
 2. "He writes rather in a tone of affectionate familiarity."
 3. "The Spirit thus intimated that the churches were to look up to their own pastors, now that the miraculous gifts were passing into God's ordinary providence, and the presence of the inspired apostles, the dispensers of those gifts, was to be withdrawn."
@@ -55,4 +55,4 @@ In this Bible verse, the author sends warm affection and greetings to the Philip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

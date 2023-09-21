@@ -9,7 +9,7 @@ In this Bible verse, the disciples are perplexed by Jesus' statement that He wil
 2. "The question seems to be put with the Jewish idea, that the Messiah must necessarily manifest himself to the world."
 3. "[καί preceding an interrogation] expresses astonishment at what has just been said, and, assuming it, connects to it a conclusion which appears to refute or cast doubt on it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A very different Judas from the traitor, and a very different question from any that he would have put."
 2. "We never read of Iscariot that he entered in any way into his Master's words, or ever put a question even of rash curiosity."
 3. "A most natural and proper question, founded on John 14:19, though interpreters speak against it as Jewish."
@@ -50,4 +50,4 @@ In this Bible verse, the disciples are perplexed by Jesus' statement that He wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

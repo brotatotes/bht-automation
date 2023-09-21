@@ -9,7 +9,7 @@ This verse speaks about Paul's determination to remove any opportunity for his d
 2. "That, in the matter of which they boast, they may be found even as we."
 3. "His resolution did not spring out of an actual comparison instituted by them between their own practice and what they might falsely allege to be his, but was adopted even before his coming to Corinth, arguing a priori that it was best to cut off any possible occasion of such depreciation of him from his probable adversaries."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The occasion," namely, of misrepresenting my motives, which would be afforded to my detractors, if I accepted help.
 2. "That they may be found (a point wherein they glory) even as we," that is, quite as disinterested, or virtually, quite as gain-seeking and self-seeking.
 3. "That in every matter of boasting we may be fairly compared and judged by facts; FOR (1 Corinthians 9:12- :) realities they have none, no weapons but misrepresentation, being false apostles."
@@ -55,4 +55,4 @@ This verse speaks about Paul's determination to remove any opportunity for his d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

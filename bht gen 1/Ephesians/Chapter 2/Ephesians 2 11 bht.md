@@ -9,7 +9,7 @@ In this verse, the commentator highlights the contrast between the Gentiles and 
 2. "...who are called the uncircumcision by that which is called the circumcision in the flesh wrought by hands..."
 3. "...the Gentiles were called, and were the ἀκροβυστία: the Jews were called, but were not truly the περιτομή."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such remembrance sharpens gratitude and strengthens faith." 
 2. "The Gentiles were called (in contempt), and were, the Uncircumcision, the Jews were called, but were not truly, the Circumcision." 
 3. "Opposed to the true 'circumcision of the heart in the Spirit, and not the letter,' 'made without the hands in putting off the body of the sins of the flesh by the circumcision of Christ.'"
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the contrast between the Gentiles and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

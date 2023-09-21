@@ -4,7 +4,7 @@
 Now that Satan has been cast out of heaven, the ulterior sense of this verse refers to the eve of Christ's second coming. The oppressed Church, God's own elect, should cry day and night unto Him for salvation and deliverance from the power of Satan. This power of Satan, known for being the accuser of the righteous, is now overcome by God's power and authority through His anointed one, Christ. This illustrious appearance of the Kingdom of God is a pledge of the greatness of the everlasting kingdom to come.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now that Satan has been cast out of heaven."
 2. "The ulterior sense refers to the eve of Christ's second coming."
 3. "The oppressed Church, God's own elect, should cry day and night unto Him."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

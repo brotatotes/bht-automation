@@ -9,7 +9,7 @@ In this verse, a fiery mass is described as resembling a mountain, symbolizing a
 2. "It is remarkable that there the ὄρος should be characterized as τὸ διεφθαρμένον τὸ διαφθεῖρον πᾶσαν τὴν γῆν."
 3. "By the non-consequence of the result of the fiery mass falling into the sea is again represented to us that in the infliction of this plague from above, the instrument of it is merely described as it appeared, not as it really was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a mountain-like burning mass"
 2. "The overthrow of Jericho, the type of the Antichristian Babylon"
 3. "the SEVEN trumpets, which end in the overthrow of all Christ's foes, and the setting up of His kingdom"
@@ -45,4 +45,4 @@ In this verse, a fiery mass is described as resembling a mountain, symbolizing a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

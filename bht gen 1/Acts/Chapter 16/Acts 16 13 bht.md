@@ -9,7 +9,7 @@ In a distant and secluded place, near the river side, a group of women and men, 
 2. "Where a meeting for prayer was accustomed to be: i.e. 'where prayer was wont to be made,' as E. V."
 3. "The προσευχή here was probably one of the open places spoken of in the above extracts from Epiph. The close of the verse also agrees best with an open place of resort."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is plain there was no synagogue at Philippi... The meeting appears to have consisted wholly of women, and these not all Jewish." 
 2. "The neighborhood of streams was preferred, on account of the ceremonial washings used on such occasions." 
 3. "But here and thus were gathered the first-fruits of Europe unto Christ, and they were of the female sex, of whose accession and services honorable mention will again and again be made."
@@ -53,4 +53,4 @@ In a distant and secluded place, near the river side, a group of women and men, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

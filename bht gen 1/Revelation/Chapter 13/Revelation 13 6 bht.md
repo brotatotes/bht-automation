@@ -4,7 +4,7 @@
 In this verse, we see the beast arrogantly blaspheme against God by exalting itself as equal to God, sitting in the temple and demanding worship. This blasphemous nature extends to the beast's attempt to manipulate and disregard God's laws, imposing its own traditions and interpretations on followers. The verse serves as a warning to believers to remain discerning and not be swayed by the enticing lies and arrogance of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "opened . . . mouth—The usual formula in the case of a set speech, or series of speeches." 
 2. "blasphemy—So B and ANDREAS. A and C read 'blasphemies.'"
 3. "and them—So Vulgate, Coptic, ANDREAS, and PRIMASIUS read. A and C omit 'and': 'them that dwell (literally, 'tabernacle') in heaven,' mean not only angels and the departed souls of the righteous, but believers on earth who have their citizenship in heaven, and whose true life is hidden from the Antichristian persecutor in the secret of God's tabernacle."
@@ -40,4 +40,4 @@ In this verse, we see the beast arrogantly blaspheme against God by exalting its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

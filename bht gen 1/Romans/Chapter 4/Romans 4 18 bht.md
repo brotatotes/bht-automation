@@ -9,7 +9,7 @@ In the face of hopeless circumstances, Abraham's extraordinary faith and unwaver
 2. "In order to his becoming the father of many nations" - This statement explains that Abraham's belief in hope was a necessary step in the process of him fulfilling God's plan to become the father of many nations. It underscores the significance of his faith in God's ability to bring about the fulfillment of His promises.
 3. "As the stars of heaven" - This comparison to the stars of heaven emphasizes the magnitude of the descendants that Abraham would have. It illustrates the vastness and abundance of the nations that would come from him, further highlighting the fulfillment of God's promise.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who against hope—when no ground for hope appeared."
 2. "Believed in hope—that is, cherished the believing expectation."
 3. "That he might become the father of many nations, according to that which was spoken, So shall thy seed be."
@@ -45,4 +45,4 @@ In the face of hopeless circumstances, Abraham's extraordinary faith and unwaver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

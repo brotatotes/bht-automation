@@ -9,7 +9,7 @@ This exhortation is directed towards someone described as a "man of God," implyi
 2. "Follow after righteousness, piety, faith, love, patience, meek-spiritedness." 
 3. "Meek-spiritedness has reference to his behavior towards the opponents of the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "man of God—who hast God as thy true riches" - This quote emphasizes that as a man of God, one's true wealth lies in their relationship with God, rather than material possessions.
 2. "flee these things—namely, 'the love of money' with its evil results" - This quote highlights the importance of avoiding the love of money and its negative consequences.
 3. "follow after righteousness—godliness—love—patience—meekness" - This quote lists the virtues that a man of God should pursue: righteousness, godliness, love, patience, and meekness. These qualities reflect a Christ-like character and attitude.
@@ -53,4 +53,4 @@ This exhortation is directed towards someone described as a "man of God," implyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

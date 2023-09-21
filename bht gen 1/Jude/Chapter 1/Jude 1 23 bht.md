@@ -4,7 +4,7 @@
 The verse in question emphasizes the urgency and duty of believers to actively save and rescue others from the destructive power of sin. It encourages using various means, such as sharp admonitions, denouncing God's judgments, and inflicting church censures, in an attempt to bring about repentance. This task requires a firm disapproval of sinful behavior, a cautious approach to avoid being contaminated by sin, and a deep hatred for sin, just as God does.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ministers and Christians are said to 'save' those whom they are made the instruments of saving; the Greek for 'save' is present, therefore meaning 'try to save.'" 
 2. "Your compassion is to be accompanied 'with fear' of being at all defiled by them." 
 3. "Sin is the only thing which God hates: so ought we."
@@ -44,4 +44,4 @@ These quotes shed light on the writer's intention to emphasize the urgency and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

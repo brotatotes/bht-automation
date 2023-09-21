@@ -4,7 +4,7 @@
 In the synagogue, Jesus boldly and openly taught his powerful message, making a significant impact on those who witnessed his miracles and heard his words. The synagogue served as a place of worship and instruction, where Jesus delivered his teachings amongst the community. Despite the opposition and challenges he faced, Jesus fearlessly proclaimed his message in this influential and public setting, leaving a lasting impression on the people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things said he in the synagogue" - This suggests that the events that follow in the commentary occurred after the congregation had dispersed, providing context for the timing of the events.
 2. "The synagogue was the place where the Jews gathered for worship and instruction, so it was a fitting setting for Jesus to teach and perform miracles." - This highlights the significance of the synagogue as a place of worship and learning, emphasizing the importance of Jesus' teachings in this context.
 3. "The synagogue was a place of authority and influence, and Jesus' words and actions there would have had a significant impact on the people who witnessed them." - This emphasizes the influence and impact of Jesus' teachings and miracles in the synagogue, underscoring the importance of his message.
@@ -42,4 +42,4 @@ In the synagogue, Jesus boldly and openly taught his powerful message, making a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

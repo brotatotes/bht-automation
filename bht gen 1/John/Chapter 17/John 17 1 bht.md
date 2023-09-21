@@ -9,7 +9,7 @@ In this verse, the Lord's deep connection with the Father is evident as He lifts
 2. "It is impossible to regard the following prayer otherwise than as the very words of our Lord Himself, faithfully rendered by the beloved Apostle in the power of the Holy Spirit."
 3. "He prays first objectively, to set the great matter forth in all its majesty; then subjectively, putting Himself into the place of τὸν υἱόν here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John very seldom depicts the gestures or looks of our Lord, as here. But this was an occasion of which the impression was indelible, and the upward look could not be passed over" [ALFORD].
 2. "Father, the hour is come" - (See on John 17:1).
 3. "Glorify thy Son" - Put honor upon Thy Son, by countenancing, sustaining, and carrying Him through that "hour."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite brief, so the quotes are also short.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This scripture passage reveals the consequences of relying on the law for justif
 2. "The distinction drawn by Hermann on Œd. Col. 853, between οὐ μή with future indicative (duration or futurity) and with aorist subjunctive (speedy occurrence), is not applicable to the N. T."
 3. "The obvious prevalence of the use of the subjunctive over the future, both in the N. T. and 'fatiscens Græcitas:’ see Lobeck, Phryn. p. 722."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But what was there said literally, is here by inspiration expressed in its allegorical spiritual import, applying to the New Testament believer, who is antitypically 'the son of the free woman.'" 
 2. "Cast out—from the house and inheritance: literally, Ishmael; spiritually, the carnal and legalists." 
 3. "The Greek is stronger, 'must not be heir,' or 'inherit.'"
@@ -51,4 +51,4 @@ This scripture passage reveals the consequences of relying on the law for justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

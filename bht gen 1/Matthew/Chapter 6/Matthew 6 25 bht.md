@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize that Jesus' command to "take no thou
 2. "Be not anxious, would be far better."
 3. "τοῦτο εἶπε δηλῶν ὅτι ὁ τὸ πλεῖον δοὺς ἡμῖν καὶ τὸ ἔλαττον δώσει."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thought or forethought, for temporal things—in the sense of reflection, consideration—is required alike by Scripture and common sense. It is that anxious solicitude, that oppressive care, which springs from unbelieving doubts and misgivings, which alone is here condemned."
 2. "When 'careful (or 'full of care') about nothing,' but committing all in prayer and supplication with thanksgiving unto God, the apostle assures us that 'the peace of God, which passeth all understanding, shall keep our hearts and minds in Christ Jesus.'"
 3. "If God, then, gives and keeps up the greater—the life, the body—will He withhold the less, food to sustain life and raiment to clothe the body?"
@@ -54,4 +54,4 @@ In this Bible verse, commentators emphasize that Jesus' command to "take no thou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

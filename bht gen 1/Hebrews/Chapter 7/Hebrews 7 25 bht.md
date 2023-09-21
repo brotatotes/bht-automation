@@ -11,7 +11,7 @@ The verse described here shows the power and effectiveness of Christ's salvation
 
 3. "To intercede for them." - This points to the ongoing intercessory work of Christ, highlighting His role as our advocate before God, interceding on our behalf and representing us in His perfect righteousness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is able to the uttermost"; He is not, like the Levitical priest, prevented by death, for "He ever liveth" (Hebrews 7:23).
 2. "He intercedes only for those who come unto God through Him, not for the unbelieving world" (John 17:9).
 3. "He has become not only a sacrifice, but an intercessor; His intercession being founded on His voluntary offering of Himself without spot to God."
@@ -55,4 +55,4 @@ The verse described here shows the power and effectiveness of Christ's salvation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

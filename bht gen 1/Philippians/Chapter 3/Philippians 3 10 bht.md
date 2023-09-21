@@ -11,7 +11,7 @@ The verse being described emphasizes the desire to have a deep experiential know
 
 3. "if by any means I may attain unto the resurrection from the dead" - The goal is to attain the blessed resurrection of the dead in Christ, rising up from the dust and participating in the resurrection at Christ's coming.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers are brought not only to redemption, but to the Redeemer Himself."
 2. "The power of the Divine Spirit, which raised Him from literal death, is the same which raises believers from spiritual death now."
 3. "By identification with Him in His sufferings and death, by imputation; also, in actually bearing the cross whatever is laid on us, after His example."
@@ -59,4 +59,4 @@ These quotes highlight the desire to know and be found in Christ, the power of H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

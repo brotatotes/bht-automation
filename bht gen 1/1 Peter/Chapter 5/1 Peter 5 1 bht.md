@@ -9,7 +9,7 @@ This passage contains an exhortation from an authoritative figure, who is descri
 2. "I who say to you χριστὸς ἔπαθεν σαρκί, say this of sufferings which my own eyes saw."
 3. "As bearing that promise, he came to them with great weight of authority as an exhorter having seen the sufferings of which he speaks, and being himself an heir of that glory to which he points onwards."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To put one's self on a level with those whom we exhort, gives weight to one's exhortations."
 2. "The presidents over the presbyters and deacons, by whatever name designated, angel, bishop, or moderator, have virtually succeeded to a superintendency of the Church analogous to that exercised by the apostles."
 3. "An eye-witness of Christ's sufferings, and so qualified to exhort you to believing patience in suffering for well-doing after His example."
@@ -55,4 +55,4 @@ This passage contains an exhortation from an authoritative figure, who is descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the face of persecution, the apostle Paul defended his preaching of Christ cr
 2. "What further excuse is there for my being persecuted? For, if I still preach circumcision, then is brought to nought the OFFENCE of the cross because, if circumcision, and not faith in Christ crucified, is the condition of salvation, then the Cross has lost its offensive character to the Jew." 
 3. "For, if this is so, if I still preach circumcision, then is brought to nought, is done away, the OFFENCE of the cross."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that I am still persecuted by the Jews shows plainly that I do not preach circumcision; for it is just because I preach Christ crucified, and not the Mosaic law, as the sole ground of justification, that they persecute me."
 2. "Circumcision, or uncircumcision, are things indifferent in themselves: their lawfulness or unlawfulness depends on the animus of him who uses them."
 3. "If justification in any degree depended on legal ordinances, Christ's crucifixion in that degree was unnecessary, and could profit nothing."
@@ -57,4 +57,4 @@ In the face of persecution, the apostle Paul defended his preaching of Christ cr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

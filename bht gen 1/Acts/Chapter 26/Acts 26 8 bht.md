@@ -9,7 +9,7 @@ In this verse, the incredulity surrounding the resurrection of the dead is chall
 2. "If God, in His exercise of power, sees fit to raise the dead (the word implying that such a fact has veritably taken place), is it for you to refuse to believe it?"
 3. "We have many instances of this use of εἰ: Xen. Mem. i. 1. 13, ἐθαύμαζε δὲ εἰ μὴ φανερὸν αὐτοῖς ἐστίν: ib. 18, ὅσα δὲ πάντες ᾔδεσαν, θαυμαστὸν εἰ μὴ τούτων ἐνεθυμήθησαν: ib. i. 2. 13, ἐγὼ δʼ εἰ μέν τι κακὸν ἐκείνῳ τὴν πόλιν ἐποιησάτην οὐκ ἀπολογήσομαι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why is it judged a thing incredible if God raises the dead?" - The commentary highlights the incredulity surrounding the resurrection of Jesus and questions why people find it so hard to believe in God's power to raise the dead.
 
 2. "No one dared to call in question the overwhelming evidence of the resurrection of Jesus" - The commentary emphasizes the undeniable evidence of Jesus' resurrection, which proclaimed Him to be the Christ, the Son of God.
@@ -57,4 +57,4 @@ In this verse, the incredulity surrounding the resurrection of the dead is chall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

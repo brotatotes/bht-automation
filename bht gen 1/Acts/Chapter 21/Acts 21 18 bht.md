@@ -9,7 +9,7 @@ In this passage, we see that James, the brother of the Lord, played a significan
 2. "James, the brother of the Lord, played a significant role in the early Christian community." 
 3. "James' leadership in the church at Jerusalem is evident in his prominence in the book of Acts and in Paul's letters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul went in with us unto James" - This shows Paul's humility and respect for the leadership of the church in Jerusalem, as he goes to report himself formally to James, the acknowledged head of the church.
 2. "All the elders were present" - The presence of all the elders indicates the importance and significance of Paul's visit. It highlights the unity and collective leadership within the early church.
 3. "Had any other of the apostles been in Jerusalem on that occasion, it could hardly fail to have been noted" - This statement suggests that the absence of other apostles during Paul's visit is significant. It implies that Paul's mission and ministry were distinct and separate from the other apostles, emphasizing his unique role in spreading the gospel.
@@ -50,4 +50,4 @@ In this passage, we see that James, the brother of the Lord, played a significan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

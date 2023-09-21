@@ -4,7 +4,7 @@
 In this verse, we are reminded of the importance of treating women of different ages with respect and honor. We are to approach interactions with older women as we would with our own mothers, engaging in conversations with reasoning and tenderness. Similarly, when it comes to younger women, we are to see them as sisters in Christ and address any concerns or faults with love and discretion. Throughout it all, maintaining purity in our thoughts, words, and actions is essential, ensuring that our relationships with others uphold the values of chastity and integrity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Respectful treatment of the other sex will promote 'purity'." 
 
 2. "Treating others with purity means approaching relationships with a mindset of respect and honor." 
@@ -47,4 +47,4 @@ In this verse, we are reminded of the importance of treating women of different 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

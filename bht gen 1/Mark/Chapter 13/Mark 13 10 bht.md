@@ -4,7 +4,7 @@
 This verse emphasizes the urgency and importance of proclaiming the gospel to all nations, as God never sends judgment without warning. The spread of the gospel message had already taken place before the destruction of Jerusalem, and it was through the martyrdom of the disciples that the good news continued to be preached. The fulfillment of this verse not only highlights the historical context but also showcases the twofold nature of its meaning, indicating the necessity and significance of sharing the gospel with the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God never sends judgment without previous warning"
 2. "There can be no doubt that the Jews, already dispersed over most known countries, had nearly all heard the Gospel 'as a witness,' before the end of the Jewish state."
 3. "The same principle was repeated and will repeat itself to 'the end.'"
@@ -35,4 +35,4 @@ This verse emphasizes the urgency and importance of proclaiming the gospel to al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

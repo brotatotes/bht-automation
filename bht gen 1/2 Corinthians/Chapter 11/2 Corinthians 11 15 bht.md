@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the deceptive nature of false mini
 2. "The father of falsehood and wrong is directly opposed to the manifestation of God by which He is known to us in the Gospel."
 3. "Of whom (notwithstanding this disguise) the end shall be correspondent to their works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Righteousness—answering to 'light' (2 Corinthians 11:14); the manifestation wherewith God reveals Himself in Christ (Matthew 6:33; Romans 1:17)."
 
 2. "The test of things is the end which strips off every specious form into which Satan's agents may now 'transform' themselves (compare Philippians 3:19; Philippians 3:21)."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

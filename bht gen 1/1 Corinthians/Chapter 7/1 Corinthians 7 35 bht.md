@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the intention and motive behind the ad
 2. "For your own (emph.) profit, i.e. not for my own purposes not to exercise my apostolic authority."
 3. "But with a view to seemliness and waiting upon the Lord without distraction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that by hard injunctions I may entangle you with the fear of committing sin where there is no sin."
 2. "Comely—befitting under present circumstances."
 3. "Compare Luke 10:39, Mary; Luke 10:39- :, 'Anna . . . a widow, who departed not from the temple, but served God with fastings and prayers night and day' (Luke 10:39- :)."
@@ -49,4 +49,4 @@ In this verse, the commentator emphasizes the intention and motive behind the ad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

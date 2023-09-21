@@ -9,7 +9,7 @@ Through the blood of Christ, we have obtained redemption and forgiveness of our 
 2. "The choice of the word, the BLOOD of Christ, is of itself a testimony to the idea of expiation having been in the writer’s mind."
 3. "The remission of our transgressions, according to the riches of His grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "THE redemption which is the grand subject of all revelation, and especially of the New Testament, namely, from the power, guilt, and penal consequences of sin."
 2. "Another 'redemption' follows, namely, that 'of the purchased possession' hereafter."
 3. "This 'remission,' being the explanation of 'redemption,' includes not only deliverance from sin's penalty, but from its pollution and enslaving power, negatively; and the reconciliation of an offended God, and a satisfaction unto a just God, positively."
@@ -54,4 +54,4 @@ Through the blood of Christ, we have obtained redemption and forgiveness of our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In his vision, the longing of St. John to enter the holy city Jerusalem is revealed, although the time for its fulfillment has not yet come. The description of the city given by St. John differs significantly from that of Ezekiel, portraying a city larger, more glorious, and distinctly heavenly. Notably, St. John's vision does not include a temple, further emphasizing the divine and unworldly nature of the holy city.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words correspond to :-, to heighten the contrast of the bride and harlot."
 2. "Translate then, 'the holy city Jerusalem.'"
 3. "After the renewal of the earth at the close of the millennium and judgment, they shall descend from heaven to dwell on an earth assimilated to heaven itself."
@@ -49,4 +49,4 @@ Note: The commentary provides insights into the longing of St. John to enter the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

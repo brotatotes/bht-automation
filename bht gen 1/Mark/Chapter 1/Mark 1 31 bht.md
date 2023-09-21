@@ -9,7 +9,7 @@ In this verse, we witness the intimate and compassionate nature of Jesus as he e
 2. "Observe the distinction between the sick and the dæmoniacs: cf. ch. Mark 3:15." 
 3. "There was not time for all. Meyer, who notices this, says also that in some the conditions of healing may have been wanting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And advancing, He took her," &c. - The beloved physician is very specific in describing how Jesus approached the woman and took her by the hand. This detail highlights the intentionality and care with which Jesus interacted with her.
 
 2. "And He stood over her." - This phrase emphasizes the position of Jesus as He performed the miraculous healing. It conveys a sense of authority and power, underscoring the significance of the moment.
@@ -34,4 +34,4 @@ In this verse, we witness the intimate and compassionate nature of Jesus as he e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The events described in this verse generated a sense of religious awe and revere
 
 3. "All this tale became matter of λαλιά throughout, &c." This quote implies that the story or account mentioned in the verse became a topic of conversation and spread widely, indicating its significance and impact.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "fear—religious awe; under the impression that God's hand was specially in these events" - This quote highlights the sense of reverence and awe that the people felt towards God during these events. It emphasizes their recognition of God's involvement and power in the situation.
 
 2. "compare Luke 5:26; Luke 7:16; Luke 8:37" - This quote suggests that the fear and awe experienced by the people in this verse is not an isolated incident, but a recurring theme in the Gospel of Luke. It encourages readers to explore other instances where people were in awe of God's works.
@@ -56,4 +56,4 @@ The events described in this verse generated a sense of religious awe and revere
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

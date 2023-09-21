@@ -4,7 +4,7 @@
 The verse being described calls for repeated forgiveness, challenging believers to extend forgiveness even when it seems difficult or burdensome. It emphasizes the frequency and immediacy of forgiveness, urging believers to offer it promptly and without hesitation. Forgiveness is not only expected from those who genuinely repent, but it should also be extended to all, regardless of their repentance. This verse reminds us that forgiveness is a crucial aspect of Christian life and that it is possible to receive others just as if they had never wronged us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "seven times—not a lower measure of the forgiving spirit than the 'seventy times seven' enjoined on Peter"
 2. "No," is the virtual answer, "though it come to seventy times that number, if only he ask forgiveness in sincerity."
 3. "if only he ask forgiveness in sincerity."
@@ -35,4 +35,4 @@ The verse being described calls for repeated forgiveness, challenging believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

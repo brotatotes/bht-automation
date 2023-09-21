@@ -11,7 +11,7 @@ The verse being described speaks of a transformation in the speaker's perspectiv
 
 Note: The commentary is quite lengthy, so I have selected three quotes that provide a concise understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He no longer uses the plural as in 'gains'; for he counts them all but one great 'loss'." 
 2. "He counted for Christ's sake loss." 
 3. "Including all possible advantages of outward status, which he had heretofore enjoyed."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse describes the transformation that should take place in the lives
 2. "The dat. ἀνακαινώσει is not the instrument by which, but the manner in which the metamorphosis takes place: that wherein it consists." 
 3. "That ye may prove, viz. in this process and the active Christian life accompanying it, not 'that ye may be able to prove,' 'acquire the faculty of proving,' as Bucer, Olsh., Rückert."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "but by such an inward spiritual transformation as makes the whole life new—new in its motives and ends, even where the actions differ in nothing from those of the world—new, considered as a whole, and in such a sense as to be wholly unattainable save through the constraining power of the love of Christ."
 2. "that ye may prove—that is, experimentally."
 3. "God's will is 'good,' as it demands only what is essentially and unchangeably good; it is 'well pleasing,' in contrast with all that is arbitrary, as demanding only what God has eternal complacency in; and it is 'perfect,' as it required nothing else than the perfection of God's reasonable creature, who, in proportion as he attains to it, reflects God's own perfection."
@@ -54,4 +54,4 @@ The Bible verse describes the transformation that should take place in the lives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

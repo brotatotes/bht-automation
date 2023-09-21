@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of diligent work and persona
 2. "The καί does not bring out ὅτε ἦμεν πρ . ὑμᾶς as a new feature, but it brings out τοῦτο, on which the stress lies, as an additional element in the reminiscence."
 3. "This seems to me clearly to be the force here, and not the merely conjunctive, as Ellic. maintains, τοῦτο, viz. what follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We not only set you the example, but gave a positive 'command'." 
 2. "He proves from the necessity of eating the necessity of working." 
 3. "Let him who will not work show himself an angel, that is, do without food as the angels do."
@@ -59,4 +59,4 @@ The verse being described emphasizes the importance of diligent work and persona
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

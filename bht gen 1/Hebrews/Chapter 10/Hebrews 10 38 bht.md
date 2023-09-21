@@ -11,7 +11,7 @@ The verse being described emphasizes the importance of faith in the life of a ju
 
 3. "My soul hath not pleasure in him." - This quote refers to God's displeasure towards those who do not have upright souls. It suggests that God desires righteousness and obedience from His people, and those who do not meet this standard do not find favor in His sight.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The just shall live by my faith": answering to the Hebrew, "the just shall live by the faith of Him," namely, Christ, the final subject of "the vision," who "will not lie," that is, disappoint.
 2. As the justified man receives his first spiritual life by faith, so it is by faith that he shall continue to live.
 3. The faith meant here is that fully developed living trust in the unseen Savior, which can keep men steadfast amidst persecutions and temptations.
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

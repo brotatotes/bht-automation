@@ -9,7 +9,7 @@ Based on the commentaries, this Bible verse emphasizes the role of prayer and in
 2. "The aim of this saying is to show them that His intercession does not imply their exclusion from access to the Father, but rather ensures that access, by the especial love which the Father bears to them who believe in and love His Son." 
 3. "CHRIST being still the efficient cause of the Father’s love to them, and the channel of that Love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ does pray the Father for His people, but not for the purpose of inclining an unwilling ear."
 2. "He [Christ] is not suggesting that the Father needs to be persuaded or convinced to help His people."
 3. "This verse highlights the assurance that believers have in the Father's willingness to aid them."
@@ -50,4 +50,4 @@ Based on the commentaries, this Bible verse emphasizes the role of prayer and in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

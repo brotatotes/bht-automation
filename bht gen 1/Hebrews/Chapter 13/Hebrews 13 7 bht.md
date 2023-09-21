@@ -9,7 +9,7 @@ Description: The verse encourages readers to remember and honor their leaders or
 2. "Surveying the termination of their conversation." 
 3. "Imitate the faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember—so as to imitate: not to invoke in prayer, as Rome teaches."
 2. "Considering how they manifested the soundness of their faith by their holy walk, which they maintained even to the end of that walk (their death by martyrdom)."
 3. "Looking up to, diligently contemplating all over, as an artist would a model."
@@ -57,4 +57,4 @@ Description: The verse encourages readers to remember and honor their leaders or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

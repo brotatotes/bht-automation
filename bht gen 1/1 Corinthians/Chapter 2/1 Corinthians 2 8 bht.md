@@ -9,7 +9,7 @@ The crucifixion of Jesus reveals the profound ignorance and blindness of those i
 2. "The rulers of this world were ignorant of the wisdom of God."
 3. "Had they known it, they would not have put to a disgraceful death Him who was the Lord of glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The strongest proof of the natural man's destitution of heavenly wisdom."
 2. "Implying the inseparable connection of Christ's humanity and His divinity."
 3. "The Lord of glory was crucified."
@@ -59,4 +59,4 @@ These quotes highlight the ignorance and unwillingness of the rulers to recogniz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

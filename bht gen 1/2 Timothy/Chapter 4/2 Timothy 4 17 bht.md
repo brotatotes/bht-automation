@@ -4,7 +4,7 @@
 The preaching, referring to the proclamation of the gospel, is not just about sharing information, but about transforming lives. It is a call to bring people from darkness to light, from death to life. This preaching is not limited to the pulpit, but is a lifestyle, sharing the love and truth of Christ in everyday interactions. It is a privilege and responsibility to faithfully steward the gospel, relying on God's power to bring about transformation in the lives of those who hear.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "stood with me—stronger than 'came forward with me' (Greek, :-)."
 2. "One single occasion is often of the greatest moment."
 3. "Rome was the capital of the Gentile world, so that a proclamation of the truth to the Romans was likely to go forth to the rest of the Gentile world."
@@ -54,4 +54,4 @@ The preaching, referring to the proclamation of the gospel, is not just about sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The shepherds wasted no time in becoming the first evangelists, eagerly spreading the news of Jesus' birth and proclaiming the Messiah in the temple. They provided evidence to satisfy others and confirmed the fulfillment of prophecies. As messengers sent by God, they shared what they had seen and heard, becoming a sort of secondary angels in confirming our faith. Their urgency and sincerity in proclaiming the good news sets an example for all who are newly converted to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Made known abroad" - The shepherds wasted no time in spreading the news of Jesus' birth. They became the first evangelists, eagerly sharing the good news with others.
 
 2. "Before their return" - The shepherds did not keep this incredible experience to themselves. They shared it with others before going back to their daily lives. Their urgency and enthusiasm in spreading the news is commendable.
@@ -47,4 +47,4 @@ The shepherds wasted no time in becoming the first evangelists, eagerly spreadin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

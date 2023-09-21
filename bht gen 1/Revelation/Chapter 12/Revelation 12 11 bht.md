@@ -4,7 +4,7 @@
 The verse describes the triumphant victory of believers over Satan. They have overcome him through their unwavering faith and faithful testimony, even unto death. The blood of the Lamb, representing the atonement of Christ, justifies them and renders the accusations of the enemy futile. By embracing the truth of God's word and standing firm in their devotion to God, they achieve ultimate victory over the adversary. Their sacrificial love for Christ, willing to give their lives, seals their conquest over Satan's power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were the persons who overcame. They and they alone."
 2. "It is the same victory over Satan and the world which the Gospel of John describes in the life of Jesus, his Epistle in the life of each believer, and his Apocalypse in the life of the Church."
 3. "On the ground of their faithful testimony, even unto death, they are constituted victors. Their testimony evinced their victory over him by virtue of the blood of the Lamb."
@@ -40,4 +40,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

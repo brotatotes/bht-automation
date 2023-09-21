@@ -9,7 +9,7 @@ In this verse, commentators offer insights on the various options and outcomes o
 2. "Observe the ποιήσει ποιεῖ ποιήσει; the pres., of the mere act itself, the fut., of its enduring results."
 3. "The καὶ καί represents that which καλῶς and κρεῖσσον have in common."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The oldest manuscripts have 'his own virgin daughter.'" This suggests that the verse is referring to a specific daughter, emphasizing the personal connection between the father and his daughter.
 
 2. "The oldest manuscripts have 'and.'" This implies that the father's decision to give his daughter in marriage is not the only option, but rather one of multiple possibilities.
@@ -45,4 +45,4 @@ In this verse, commentators offer insights on the various options and outcomes o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse emphasizes the importance of self-control and restraint in one's
 2. "Let such discriminating knowledge not be without its fruit, of steady holding in hand of the passions and tempers." 
 3. "It is not to be mere brute Stoical endurance, but united with God-fearing and God-trusting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the exercise of Christian knowledge or discernment of God's will, let there be the practical fruit of self-control as to one's lusts and passions."
 2. "Incontinence weakens the mind; continence, or self-control, moves weakness and imparts strength."
 3. "It is not to be mere stoical endurance, but united to [and flowing from] God-trusting."
@@ -48,4 +48,4 @@ The Bible verse emphasizes the importance of self-control and restraint in one's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

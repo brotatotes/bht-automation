@@ -9,7 +9,7 @@ In this Bible verse, we find a beautiful example of how true believers selflessl
 2. "That was merely τὰ περὶ τοῦ Ἰησοῦ, as He lived and ministered on earth: this included also the promise of the Spirit, and its performance."
 3. "This included also the promise of the Spirit, and its performance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joying to observe the extent of Scripture knowledge and evangelical truth which he displayed, and the fervency, courage, and eloquence with which he preached the truth."
 2. "Opening up those truths, to him as yet unknown, on which the Spirit had shed such glorious light."
 3. "One cannot but observe how providential it was that this couple should have been left at Ephesus when Paul sailed thence for Syria; and no doubt it was chiefly to pave the way for the better understanding of this episode that the fact is expressly mentioned by the historian."
@@ -57,4 +57,4 @@ In this Bible verse, we find a beautiful example of how true believers selflessl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

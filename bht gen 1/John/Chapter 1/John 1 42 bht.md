@@ -9,7 +9,7 @@ In this verse, Jesus displays His divine knowledge and authority by calling Simo
 2. "μεσσίαν = מָשִׁיחַ = not ὁ χριστός, but χριστός: being the identification simply of the two words, not here of the two titles."
 3. "referring to πρῶτον, and furnishing a reason for it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Happy brothers that thus do to each other!"
 2. "Fixed his eyes on him, with significant gaze."
 3. "Cephas . . . stone."
@@ -50,4 +50,4 @@ In this verse, Jesus displays His divine knowledge and authority by calling Simo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, a woman's faith is commended by Jesus, highlighting the importance of belief and the power it holds. Jesus marvels not only at her faith but also at the impact faith and unbelief have in his ministry. Through her trust and words, the woman's faith is proven, resulting in the healing of her daughter. Jesus' authority over evil spirits is shown as he immediately casts out the demon.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O woman, great is thy faith" - Jesus acknowledges the woman's great faith, highlighting the importance of belief in his teachings and the power of faith in overcoming obstacles.
 2. Jesus "marvelled" only at two things - This statement emphasizes the significance of faith and unbelief in Jesus' ministry, suggesting that these two responses have a profound impact on the outcomes of his interactions with people.
 3. "For this saying go thy way; the devil is gone out of thy daughter" - Jesus affirms that the woman's faith has resulted in the healing of her daughter, emphasizing the connection between faith and miraculous intervention.
@@ -30,4 +30,4 @@ In this Bible verse, a woman's faith is commended by Jesus, highlighting the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

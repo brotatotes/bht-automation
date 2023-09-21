@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of retaining the qualities t
 2. "The fire will be no longer the fire of purification, but of wrath eternal."
 3. "The interpretation of the sacrifice as the condemned and the fire and salt as eternal fire, except in the case of the salt having lost its savour, is contrary to the whole symbolism of Scripture."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salt is good; but if the salt have lost his saltness—its power to season what it is brought into contact with. wherewith will ye season it?" - This quote highlights the importance of retaining the qualities that make us a blessing to others, as losing these qualities would render us ineffective in making a positive impact.
 
 2. "Have salt in yourselves—See to it that ye retain in yourselves those precious qualities that will make you a blessing to one another, and to all around you." - This quote emphasizes the need to cultivate and preserve the qualities that enable us to bring flavor and goodness to the lives of others.
@@ -49,4 +49,4 @@ These quotes highlight the significance of salt as a metaphor for the grace of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

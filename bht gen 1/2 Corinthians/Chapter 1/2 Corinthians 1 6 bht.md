@@ -9,7 +9,7 @@ This verse reflects Paul's selfless mindset as he endures afflictions and finds 
 2. "Our hope is steadfast on your behalf." 
 3. "The endurance of the same sufferings which we also suffer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their hearts were, so to speak, mirrors reflecting the likenesses of each other."
 2. "Alike the afflictions and the consolations of the apostle tend, as in him so in them, as having communion with him, to their consolation."
 3. "Here follows, in the oldest manuscripts, the clause, 'And our hope is steadfast on your behalf.'"
@@ -55,4 +55,4 @@ This verse reflects Paul's selfless mindset as he endures afflictions and finds 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a person who is weak and in need of assistance is lifted up and s
 2. "Luke, being a physician, accurately described the weakness in the soles of the feet and ankles." (See Mark 9:27)
 3. "The description of the weakness in this verse shows Luke's attention to detail and his understanding of the specific kind of weakness being referred to."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he took . . . and lifted him up—precisely what his Lord had done to his own mother-in-law (Mark 1:31)." 
 2. "His feet—"soles." This emphasizes the physicality of the healing, showing that Jesus was not just healing the man's paralysis, but restoring his ability to walk and stand on his own two feet." 
 3. "And ankle bones, &c.—the technical language of a physician (Mark 1:31- :). This detail highlights the accuracy and precision of the healing, suggesting that Jesus not only had divine power, but also a deep understanding of the human body and its ailments."
@@ -45,4 +45,4 @@ In this verse, a person who is weak and in need of assistance is lifted up and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

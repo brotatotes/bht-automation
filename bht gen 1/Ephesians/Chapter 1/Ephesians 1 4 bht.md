@@ -9,7 +9,7 @@ This verse speaks of God's eternal purpose and divine election of believers in C
 2. "This holiness and unblamableness must not be understood of that justification by faith by which the sinner stands accepted before God: it is distinctly put forth here as an ultimate result as regards us, and refers to that sanctification which follows on justification by faith."
 3. "ἀγάπη, that which man lost at the Fall, but which God is, and to which God restores man by redemption, is the great element in which, as in their abode and breathing-place, all Christian graces subsist, and in which, emphatically, all perfection before God must be found."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition of the idea, 'in Christ,' implies the paramount importance of the truth that it is in Him, and by virtue of union to Him, believers have all their blessings."
 2. "This assumes the eternity of the Son of God, as well as the election of believers in Him."
 3. "Love, lost to man by the fall, but restored by redemption, is the root and fruit and sum of all holiness."
@@ -57,4 +57,4 @@ This verse speaks of God's eternal purpose and divine election of believers in C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

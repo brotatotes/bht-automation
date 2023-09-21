@@ -9,7 +9,7 @@ The Bible verse being described is about the incarnation of Jesus as a merciful 
 2. "His being in all things like his brethren, sufferings and death included, was necessary for Him, in order to his becoming, through those sufferings and death, our High Priest."
 3. "In a high priest, whose parts are to appease the wrath of God, to help the miserable, to raise up the fallen, to support the laboring, mercy is especially required, which is generated in us by common feeling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sin is not, in the original constitution of man, a necessary attendant of manhood, so He had no sin."
 2. "Mercy is a prime requisite in a priest, since his office is to help the wretched and raise the fallen: such mercy is most likely to be found in one who has a fellow-feeling with the afflicted, having been so once Himself."
 3. "The sinner is brought by that sacrifice into God's favor, which by sin he had forfeited; hence his right prayer is, 'God be propitiated (so the Greek) to me who am a sinner'."
@@ -53,4 +53,4 @@ The Bible verse being described is about the incarnation of Jesus as a merciful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

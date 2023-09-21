@@ -9,7 +9,7 @@ The verse being described is a powerful declaration by the author, asserting the
 2. "Ἑβραῖοι refers to the nationality, Ἰσραηλῖται to the theocracy, and σπέρμα Ἀβρ to the claim to a part in the Messiah."
 3. "The interrogative form of the sentence is much more lively and consistent with the spirit of the context than the affirmative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hebrews," referring to the language and nationality; "Israelites," to the theocracy and descent from Israel, the "prince who prevailed with God."
 2. "The seed of Abraham," to the claim to a share in the Messiah.
 3. "An Hebrew of the Hebrews," not an Hellenist or Greek-speaking Jew, but a Hebrew in tongue, and sprung from Hebrews.
@@ -53,4 +53,4 @@ The verse being described is a powerful declaration by the author, asserting the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators highlight the divine sovereignty and control over al
 2. "ποιῆσαι must not be rendered, with Kuinoel, ‘ita ut facerent.’ It does not express the result, but the intention, of their assembling. Still worse is it to take ποιῆσαι with ἔχρισας, ‘Whom Thou hast anointed, … to do,’ &c., as some have proposed: the parenthesis, as well as the whole train of thought, forbidding it."
 3. "ἡ χείρ σ. κ. ἡ βουλή] not a ἓν διὰ δυοῖν (Kuinoel): χείρ indicates the Power, βουλή the Wisdom of God. The Wisdom decreed, the Hand performed: but the same word προώρισεν is used of both by what grammarians call zeugma as in γάλα ὑμᾶς ἐπότισα ‚ οὐ βρῶυα, 1 Corinthians 3:2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thy hand and thy counsel determined . . . to be done" - This phrase emphasizes the divine sovereignty and control over all things. It shows that God's hand and counsel are intricately connected and that His plans will ultimately be accomplished.
 
 2. "Thy counsel determined to be done by Thy hand" - This highlights the idea that God's plans are not arbitrary or haphazard, but rather carefully orchestrated by His wisdom and understanding. It reveals the intentionality and purpose behind His actions.
@@ -63,4 +63,4 @@ In this verse, commentators highlight the divine sovereignty and control over al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

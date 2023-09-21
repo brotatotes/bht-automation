@@ -9,7 +9,7 @@ In this verse, we find an exhortation to actively engage with the message of God
 2. "The πρός of the rec. has perhaps been a correction for reverence sake." 
 3. "εἰς is 'towards,' but more as contributing to 'towards the behoof of:' whereas πρός is simple direction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hearing" as to churches and persons whom he had not seen or then visited. (This shows the authenticity of Paul's thanksgiving.)
 2. The theological order is first faith then love, the fruit of faith. (Paul emphasizes the importance of love in Philemon's actions.)
 3. "Toward" implies simply direction; "unto" implies to the advantage of. (Paul highlights the different implications of these words in relation to Philemon's actions.)
@@ -52,4 +52,4 @@ In this verse, we find an exhortation to actively engage with the message of God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage describes the delicate balance Paul faces between the desire to boa
 2. "The instances I will select are just of that kind in which, if boasting ever were good, it might be allowed."
 3. "Paul’s object is general, and the means taken to attain it are simply subordinate to it, viz. the vindication of his apostolic character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He dwells not on the glory done to himself, but on the infirmity which followed it, as displaying Christ's power."
 2. "The 'for' gives a proof that it is 'not expedient to boast': I will take the case of revelations, in which if anywhere boasting might be thought harmless."
 3. "All parts of Scripture alike are matter of inspiration; but not all of revelation. There are degrees of revelation; but not of inspiration."
@@ -59,4 +59,4 @@ This passage describes the delicate balance Paul faces between the desire to boa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

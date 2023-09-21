@@ -11,7 +11,7 @@ The verse being described in these commentaries highlights the reciprocal relati
 
 Note: The commentary provided is quite complex and difficult to understand. The selected quotes attempt to capture the main idea of the commentary, which is the idea that prayers offered by the recipients bring glory to God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Themselves also with prayer for you, longing after you on account of the exceeding grace of God (resting) upon you."
 2. "They glorify God by the experimental proof, and by their prayer for you."
 3. "The Greek favors the former."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite complex and difficult to understand. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

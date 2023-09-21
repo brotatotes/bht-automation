@@ -4,7 +4,7 @@
 The verse being described conveys the concept of God's foreknowledge and predestination. The commentators stress that God's foreknowledge is not merely about knowing future events, but about His certain knowledge and gracious favor towards His people. They highlight that God's predestination is based on His fixed purpose to save and call His chosen ones. The commentators also emphasize that the ultimate goal of predestination is for believers to be conformed to the image of Christ. This conformity serves as the distinguishing mark of those who are known by God and will be glorified in the future.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those who He foreknew would repent and believe," say Pelagians of every age and every hue. But this is to thrust into the text what is contrary to the whole spirit, and even letter, of the apostle's teaching."
 2. "God's 'knowledge' of His people cannot be restricted to a mere foresight of future events, or acquaintance with what is passing here below."
 3. "God's foreknowledge of His own people means His 'peculiar, gracious, complacency in them,' while His 'predestinating' or 'foreordaining' them signifies His fixed purpose, flowing from this, to 'save them and call them with an holy calling'."
@@ -50,4 +50,4 @@ The verse being described conveys the concept of God's foreknowledge and predest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

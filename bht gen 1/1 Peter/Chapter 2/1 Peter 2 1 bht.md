@@ -11,7 +11,7 @@ The verse being described emphasizes the need to cast off negative traits such a
 
 3. "Malitia malo delectatur alieno: invidia bono cruciatur alieno: dolus duplicat cor: adulatio duplicat linguam: detrectatio vulnerat famam." This Latin quote from Augustine explains the harmful effects of malice, envy, guile, flattery, and slander on both the individual and those around them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The exhortation applies to Christians alone, for in none else is the new nature existing which, as 'the inward man' can cast off the old as an outward thing, so that the Christian, through the continual renewal of his inward man, can also exhibit himself externally as a new man."
 2. "The vices here are those which offend against the BROTHERLY LOVE inculcated above. Each succeeding one springs out of that which immediately precedes, so as to form a genealogy of the sins against love."
 3. "Malice delights in another's hurt; envy pines at another's good; guile imparts duplicity to the heart; hypocrisy (flattery) imparts duplicity to the tongue; evil-speakings wound the character of another."
@@ -61,4 +61,4 @@ The verse being described emphasizes the need to cast off negative traits such a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

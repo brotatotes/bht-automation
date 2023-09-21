@@ -9,7 +9,7 @@ In this passage, the vivid descriptions from the commentators bring to life a sc
 2. "In blood is life: in the shedding, or in the appearing, of blood, is implied the destruction of life, with which, as a consequence, all these judgments must be accompanied."
 3. "Though the judgment is undoubtedly, as to extent, fearful and sweeping, yet God in inflicting it, spares more than he smites: two thirds escape in each case, while one is smitten."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The common feature of the first four trumpets is, the judgments under them affect natural objects, the accessories of life, the earth, trees, grass, the sea, rivers, fountains, the light of the sun, moon, and stars."
 2. "The language is evidently drawn from the plagues of Egypt, five or six out of the ten exactly corresponding: the hail, the fire, the water turned to blood, the darkness, the locusts, and perhaps the death."
 3. "Judicial retribution in kind characterizes the inflictions of the first four, those elements which had been abused punishing their abusers."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite lengthy and does not directly reference a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

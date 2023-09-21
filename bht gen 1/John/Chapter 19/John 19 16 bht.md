@@ -11,7 +11,7 @@ In this Bible verse, the religious leaders, the chief priests, play a significan
 
 3. "The mention of the chief priests in this verse also serves as a reminder that Jesus' death was not just a political act, but a spiritual one. It was the religious leaders who rejected Jesus, and in doing so, played a significant role in the fulfillment of God's plan for salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The crucifixion of Jesus was not just a physical execution, but a profound act of sacrifice and redemption." 
 2. "By willingly giving himself up to be crucified, Jesus demonstrated his ultimate love and obedience to God's plan for salvation." 
 3. "The crucifixion of Jesus serves as a powerful reminder of the depth of God's love for humanity and the lengths he was willing to go to reconcile us to himself."
@@ -47,4 +47,4 @@ In this Bible verse, the religious leaders, the chief priests, play a significan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

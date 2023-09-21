@@ -4,7 +4,7 @@
 In this Bible verse, commentators describe a glorious and secure heavenly city. The gates of this city shall never be shut, allowing continual access for all who reside there. This symbolizes the unrestricted entrance of blessings and glory. The absence of night signifies eternal light, peace, and the absence of sin or suffering. In this perfect realm, there is no need to shut the gates against darkness or danger. It is a place of perpetual joy, activity, and spiritual enlightenment, free from any form of darkness or distress.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gates are usually shut by night: but in it shall be no night." 
 2. "There shall be continual free ingress into it, so as that all which is blessed and glorious may continually be brought into it." 
 3. "So in the millennial type."
@@ -35,4 +35,4 @@ In this Bible verse, commentators describe a glorious and secure heavenly city. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

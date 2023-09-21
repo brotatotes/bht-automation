@@ -4,7 +4,7 @@
 In this verse, commentators offer various insights into the qualities and responsibilities of women in relation to their households, husbands, and children. They emphasize the importance of women being diligent in their household duties, kind-hearted and thrifty, and submissive to their husbands. The verse also calls for women to live in a way that avoids bringing reproach to the Gospel through their actions. These commentaries highlight the significance of women's roles in the family and the impact of their behavior on the reputation of Christianity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Keepers at home" - active in household duties, guardians of the house, fulfilling their responsibilities in the home (Proverbs 7:11; 1 Timothy 5:13).
 2. "Good" - kind, beneficent, not churlish or niggardly, but thrifty as housewives (Matthew 20:15; Romans 5:7; 1 Peter 2:18).
 3. "Obedient" - submissive, willingly submitting to their husbands (1 Peter 2:18; Ephesians 5:22; Colossians 3:18).
@@ -51,4 +51,4 @@ These quotes provide insights into the qualities and roles expected of women in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

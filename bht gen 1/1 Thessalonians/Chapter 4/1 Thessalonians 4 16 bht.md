@@ -9,7 +9,7 @@ In this verse, we see a vivid description of the awaited moment when Christ Hims
 2. "Christ shall be surrounded with His angels, and with the trumpet of God shall descend from heaven."
 3. "We shall be caught up all together with them in clouds to meet the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus is represented as a victorious King, giving the word of command to the hosts of heaven in His train for the last onslaught, at His final triumph over sin, death, and Satan." 
 2. "Michael is perhaps meant, to whom especially is committed the guardianship of the people of God." 
 3. "The trumpet blast which usually accompanies God's manifestation in glory, here to summon God's elect together, preparatory to their glorification with Christ."
@@ -53,4 +53,4 @@ In this verse, we see a vivid description of the awaited moment when Christ Hims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

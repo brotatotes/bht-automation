@@ -9,7 +9,7 @@ The verse being described is a scene where Jesus responds to the Jews who are qu
 2. "The ὑπηρέται of ch. Joh 7:46 may have been present." (Commentator)
 3. "See ch. John 5:31, which appears to have been a legal maxim." (Commentator)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why askest thou me? ask them which heard me . . . they know what I . . . said." - This quote highlights Jesus' refusal to incriminate Himself and instead directs the questioner to seek testimony from those who were present and heard His words. It emphasizes the importance of relying on reliable witnesses in legal matters.
 
 2. "This seems to imply that He saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses." - This quote suggests that Jesus was aware of the ulterior motive behind the question and asserts His right to be accused based on credible witnesses. It showcases Jesus' wisdom and discernment in handling tricky situations.
@@ -44,4 +44,4 @@ Note: The commentary provided is incomplete. Please provide the complete comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

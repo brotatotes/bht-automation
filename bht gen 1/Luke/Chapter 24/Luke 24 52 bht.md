@@ -9,7 +9,7 @@ After witnessing the Ascension of Jesus, the disciples were filled with joy and 
 2. "This however was a more solemn act of worship." 
 3. "Now paid to Him as exalted to God’s right hand."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "worshipped him—certainly in the strictest sense of adoration."
 2. "gazing, as if entranced, up into the blue vault in which He had disappeared"
 3. "He would come again to them in the like manner as He had gone into heaven"
@@ -43,4 +43,4 @@ After witnessing the Ascension of Jesus, the disciples were filled with joy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

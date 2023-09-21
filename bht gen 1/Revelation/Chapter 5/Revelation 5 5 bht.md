@@ -9,7 +9,7 @@ In the vision described, one of the elders surrounding God's throne reveals to t
 2. "The lion, as victorious: from the tribe of Judah, as the Messiah of promise, sprung from among the brethren of the Seer, and so carrying more comfort to him."
 3. "The evident design here is to set forth Christ as sprung from the tribe of Judah and lineage of David, and His victory as His exaltation through suffering."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The elders in heaven round God's throne know better than John, still in the flesh, the far-reaching power of Christ."
 2. "Not merely 'a sucker come up from David's ancient root' (as ALFORD limits it), but also including the idea of His being Himself the root and origin of David."
 3. "He is at once 'the branch' of David, and 'the root' of David, David's Son and David's Lord, the Lamb slain and therefore the Lion of Juda: about to reign over Israel, and thence over the whole earth."
@@ -49,4 +49,4 @@ In the vision described, one of the elders surrounding God's throne reveals to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

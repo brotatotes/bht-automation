@@ -4,7 +4,7 @@
 The described Bible verse speaks of a series of woes and judgments that are to come. These woes are described as sequential, with the passing of one leading to the arrival of the next. The verse emphasizes the significance of these judgments, noting their impact on the ungodly and their connection to the day of the Lord. It highlights the warnings and portents that accompany these events, such as earthquakes, trembling heavens, and celestial phenomena. The verse also serves as a reminder of the need for repentance and acknowledges the eventual triumph of God's righteousness over evil.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These locusts from the abyss refer to judgments about to fall on the ungodly immediately before Christ's second advent."
 2. "Joel 2:1-11, is strictly parallel and expressly refers to THE DAY OF THE LORD GREAT AND VERY TERRIBLE."
 3. "Joel 2:10 gives the portents accompanying the day of the Lord's coming, the earth quaking, the heavens trembling, the sun, moon, and stars, withdrawing their shining."
@@ -47,4 +47,4 @@ The described Bible verse speaks of a series of woes and judgments that are to c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

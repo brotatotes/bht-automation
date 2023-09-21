@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize that everything a person receive
 2. "The whole tone of the answer makes the view that the words apply to Jesus more likely." 
 3. "The parallelism of 'ἄνθρωπος' here and himself as the subject of 'εἶπον' in the next verse supports this view."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I do my heaven-prescribed work, and that is enough for me."
 2. "Mine it is to point the burdened to the Lamb of God that taketh away the sin of the world, to tell them there is Balm in Gilead, and a Physician there."
 3. "Enough for me to be the Bridegroom's friend, sent by Him to negotiate the match, privileged to bring together the Saviour and those He is come to seek and to save, and rejoicing with joy unspeakable if I may but 'stand and hear the Bridegroom's voice,' witnessing the blessed espousals."
@@ -59,4 +59,4 @@ These quotes emphasize the idea that everything we have is a gift from God and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

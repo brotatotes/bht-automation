@@ -4,7 +4,7 @@
 The Bible verse describes the fall of a powerful entity, often referred to as Babylon. This entity is identified as the apostate Church, distinct from political powers. The fall is prophesied with certainty, echoing previous scriptures, and symbolizes the downfall of all enemies of Christ. The verse also suggests that Rome, characterized by arrogance, pride, and oppression, is the intended meaning of Babylon. Rome's idolatrous practices and ungodly influence over nations contribute to its ultimate demise. This proclamation serves as a prelude to a more detailed description of the fall to come.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Babylon—here first mentioned; identical with the harlot, the apostate Church; distinct from the beast, and judged separately."
 2. "The ulterior and exhaustive fulfillment of Isaiah 21:9."
 3. "As she made the nations drunk with the wine of her fornication, so she herself shall be made drunk with the wine of God's wrath."
@@ -43,4 +43,4 @@ The Bible verse describes the fall of a powerful entity, often referred to as Ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

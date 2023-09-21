@@ -4,7 +4,7 @@
 In this Bible verse, Jesus appears to His disciples in a moment of fear and uncertainty. His presence dispels their fears, as He reassures them with the words "It is I; be not afraid." This statement not only comforts and encourages the disciples, but it also reminds them of Jesus' divine identity and power. Jesus' command to "be not afraid" serves as a powerful reminder to the disciples, and to us, that fear is not from God and that we can find peace and courage in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is I; be not afraid." - This statement from Jesus reassures his disciples that he is present with them, dispelling their fear and instilling a sense of comfort and security.
 2. "Be of good cheer!" - This phrase, preceding Jesus' declaration, encourages the disciples to have courage and remain hopeful despite the challenges they may face.
 3. These words are "exhilarating" because they remind the disciples of Jesus' divine presence and power, offering them a sense of reassurance and hope in the midst of their fears and doubts.
@@ -30,4 +30,4 @@ In this Bible verse, Jesus appears to His disciples in a moment of fear and unce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

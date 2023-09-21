@@ -4,7 +4,7 @@
 In the encounter between Jesus and the Samaritan woman at the well, the woman's haste and excitement are evident as she leaves her water-pot and rushes to share the news with others. Her abandonment of the water-pot signifies her complete surrender to Jesus and her newfound focus on spiritual nourishment. This act of leaving behind the physical symbolizes her willingness to let go of worldly concerns and pursue the greater spiritual truth in Jesus. By doing so, she becomes a herald for others, inviting them to partake in the life-transforming encounter with Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The presence of strangers made her feel that it was time for her to withdraw, and He who knew what was in her heart, and what she was going to the city to do, let her go without exchanging a word with her in the hearing of others." 
 2. "Their interview was too sacred, and the effect on the woman too overpowering (not to speak of His own deep emotion) to allow of its being continued."
 3. "But this one artless touch—that she 'left her water-pot'—speaks volumes. The living water was already beginning to spring up within her; she found that man doth not live by bread nor by water only, and that there was a water of wondrous virtue that raised people above meat and drink, and the vessels that held them, and all human things."
@@ -56,4 +56,4 @@ In the encounter between Jesus and the Samaritan woman at the well, the woman's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

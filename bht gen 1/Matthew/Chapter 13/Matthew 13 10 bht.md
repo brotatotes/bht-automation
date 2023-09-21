@@ -11,7 +11,7 @@ The disciples, including the twelve and others who believed in Jesus, were perpl
 
 Note: The commentary is referencing Mark 4:10 in the Bible.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why speakest thou to them in parables?" - The disciples were curious about Jesus' use of parables in his teaching. This shows that parables were not a common teaching method at that time, and the disciples were seeking an explanation for this approach.
 
 2. "Though before this He had couched some things in the parabolic form, for more vivid illustration" - This suggests that Jesus had used parables before, but perhaps not as extensively as he did at this particular moment. Parables were a powerful tool for illustrating spiritual truths in a way that was relatable and memorable.
@@ -44,4 +44,4 @@ Note: The commentary is referencing Mark 4:10 in the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

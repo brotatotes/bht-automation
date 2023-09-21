@@ -9,7 +9,7 @@ Drawing from a variety of commentators, the Bible verse described in these quote
 2. "Tongues are (a sign) for the unbelieving, not for the believing."
 3. "An unbeliever open to conviction...those to whom the prophecy was directed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tongues are not a sign mainly intended for believers... but mainly to be a condemnation to those who reject the sign and the accompanying message."
 2. "Sign is often used for a condemnatory sign."
 3. "Prophesying has no effect on unbelievers, but on those who are either in receptivity or in fact believers; it makes believers of those not wilfully unbelievers and spiritually nourishes those that already believe."
@@ -52,4 +52,4 @@ These quotes emphasize that speaking in tongues is a sign of judgment for unbeli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The essence of the verse can be seen in the call for obedience and action to obtain eternal life. The commentators emphasize that the specific command is of great significance and that the challenge for sinners lies in obeying it. They highlight the impossibility of obtaining righteousness through the law and stress the need for repentance and transformation. The verse underscores the importance of putting knowledge into practice and loving God and others, as this is the path to experiencing true life and eternal reward.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Right THIS do, and life is thine" - emphasizes the importance of obedience to obtain eternal life.
 2. "laying such emphasis on 'this'" - highlights the significance of the specific command being given.
 3. "indicate, without expressing it, where the real difficulty to a sinner lay" - suggests that the challenge for sinners lies in obeying the command, implying the need for repentance and transformation.
@@ -40,4 +40,4 @@ The essence of the verse can be seen in the call for obedience and action to obt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

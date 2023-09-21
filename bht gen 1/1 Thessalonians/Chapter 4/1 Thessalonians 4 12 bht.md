@@ -10,7 +10,7 @@ In this verse, believers are encouraged to conduct themselves honorably and to l
 3. "τοὺς ἔξω" refers to the unbelieving world.
 4. "μηδενός" is better understood as neuter, meaning "to stand in need of no man" is impossible for humans.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not bringing discredit on it in the eyes of the outer world, as if Christianity led to sloth and poverty."
 2. "Outside the Christian Church."
 3. "So far from needing to beg from others, we ought to work and get the means of supplying the need of others."
@@ -51,4 +51,4 @@ In this verse, believers are encouraged to conduct themselves honorably and to l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

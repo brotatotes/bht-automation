@@ -9,7 +9,7 @@ The disciples, having followed Christ's instructions, embarked on their mission 
 2. "I would not lay so much stress on this as Stier has done." 
 3. "The emphasis should be on the fact that everything we have comes from God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou hast exceeded Thy promise, for 'even the devils,'" &c. - This quote highlights the disciples' astonishment and joy at witnessing the power of Jesus. It shows that Jesus' authority over evil spirits went beyond their expectations and exceeded the promises made to them.
 
 2. "The possession of such power, not being expressly in their commission, as in that to the Twelve, filled them with more astonishment and joy than all else." - This quote emphasizes the disciples' amazement and joy at the authority they had been given by Jesus. It suggests that the disciples were overwhelmed by the power they possessed and the impact it had on their lives.
@@ -52,4 +52,4 @@ The disciples, having followed Christ's instructions, embarked on their mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

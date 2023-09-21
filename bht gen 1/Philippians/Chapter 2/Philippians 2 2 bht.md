@@ -9,7 +9,7 @@ In this verse, the commentators highlight the importance of unity and harmony am
 2. "The unanimity of the Philippians is the far greater and more important result, to which the πληροῦν μου τὴν χ. is but accessory." (ἵνα)
 3. "This expression (be of the same mind) is more general than τὸ ἓ φρονοῦντες (‘being of one mind’) below." (τὸ αὐτὸ φρονῆτε)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fulfil—that is, Make full."
 2. "likeminded—literally, 'that ye be of the same mind'; more general than the following 'of one mind.'"
 3. "having the same love—equally disposed to love and be loved."
@@ -58,4 +58,4 @@ Note: The commentary does not provide any specific verse or passage from the Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

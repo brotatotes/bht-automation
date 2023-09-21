@@ -9,7 +9,7 @@ This verse from Isaiah is directly Messianic, portraying the revival of Israel a
 2. "St. Paul here interprets the barren of Sara, who bore not according to the flesh (= the promise), and the fruitful of Agar (= the law)."
 3. "It only shows how manifold is the 'perspective of prophecy': this sense neither is incompatible with St. Paul's, nor surely would it have been denied by him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spiritual Jerusalem is regarded as 'barren' while the law trammeled Israel, for she then had no spiritual children of the Gentiles."
 2. "Many are the children of the desolate, more than of her which hath an husband."
 3. "Numerous as were the children of the legal covenant, those of the Gospel covenant are more so."
@@ -48,4 +48,4 @@ This verse from Isaiah is directly Messianic, portraying the revival of Israel a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

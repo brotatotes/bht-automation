@@ -9,7 +9,7 @@ The Bible verse being described is Acts 7:16. The verse highlights the fact that
 2. "To avoid this seeming inconsistency, Schöttgen and Bengel lay a stress on ἔδωκεν, 'agrum illum ... non ex donatione divina accepit Abraham, sed emit, ipsa emtione peregrinum eum esse docente' (Bengel)."
 3. "The following καί is by Kuin. rendered 'nimirum:' but again it is only the simple copula, וּלְזַרְעֲךָ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of glory—A magnificent appellation, fitted at the very outset to rivet the devout attention of his audience; denoting not that visible glory which attended many of the divine manifestations, but the glory of those manifestations themselves, of which this was regarded by every Jew as the fundamental one." 
 2. "It is the glory of absolutely free grace."
 3. "Though this first call is not expressly recorded in Genesis, it is clearly implied in Genesis 15:7 Nehemiah 9:7; and the Jewish writers speak the same language."
@@ -59,4 +59,4 @@ The Bible verse being described is Acts 7:16. The verse highlights the fact that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

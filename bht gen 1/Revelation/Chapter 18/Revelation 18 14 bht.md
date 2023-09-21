@@ -9,7 +9,7 @@ In this verse, the Bible describes the downfall of a great city, symbolizing the
 2. "The merchants of these things who gained wealth from her, shall stand afar off by reason of their fear of her torment, weeping and mourning, saying, Woe, woe, the great city, which was lothed in stuff of fine linen and of purple and of scarlet, and bedecked in (or, if ἐν be omitted, with) golden ornament and precious stone and pearl."
 3. "Because in one hour hath been desolated all that wealth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fruits that thy soul lusted after—Greek, 'thy autumn-ripe fruits of the lust (eager desire) of the soul.'" 
 2. "Dainty—Greek, 'fat': 'sumptuous' in food." 
 3. "Goodly—'splendid,' 'bright,' in dress and equipage."
@@ -43,4 +43,4 @@ In this verse, the Bible describes the downfall of a great city, symbolizing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

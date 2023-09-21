@@ -4,7 +4,7 @@
 This verse emphasizes the importance of a leader's ability to manage their own household before taking on the responsibility of leading the church. It highlights the need for resolution, prudence, care, and thought in overseeing both personal and spiritual matters. Managing one's own household, though seemingly less significant, still requires diligence and skill. The logical reasoning behind the verse suggests that if someone cannot effectively govern their own household, it raises doubts about their ability to fulfill the greater responsibility of caring for the church. It underscores the need for competent leadership in both personal and spiritual realms.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How shall he who cannot perform the lesser function, perform the greater and more difficult?"
 2. "For—Greek, 'But.'"
 3. "The church—rather, 'a church' or congregation."
@@ -49,4 +49,4 @@ These quotes highlight the importance of a leader's ability to govern their own 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see the collaborative and communal nature of the Christian faith. The inclusion of Paul, Silvanus, and Timothy emphasizes the importance of working together in spreading the message of the Gospel. It highlights the significance of community, support, and partnership in ministry. The use of the term "our" in the address signifies the personal and intimate relationship between believers and God as a loving Father, while also highlighting the communal aspect of the Christian faith. It serves as a reminder of the value and contribution of those who labor alongside us in the work of the Lord.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In God our Father—still more endearing than the address, 'in God THE Father.'"
 
 ### Albert Barnes:
@@ -39,4 +39,4 @@ In this verse, we see the collaborative and communal nature of the Christian fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

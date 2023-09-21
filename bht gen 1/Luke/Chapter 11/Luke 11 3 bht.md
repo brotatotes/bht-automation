@@ -11,7 +11,7 @@ This verse emphasizes the importance of relying on God for our daily provision a
 
 3. This verse reminds us to focus on the present and trust God to provide for our needs each day. It encourages us to let go of worries about the future and instead rely on God's faithfulness and provision.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "an extension of the petition in Matthew for 'this day's' supply, to every successive day's necessities."
 2. "Perhaps our Lord purposely left that part open."
 3. "probably this prayer was never used in the Christian assemblies but in its present form, as we find it in Matthew, while in Luke it has been allowed to stand as originally uttered."
@@ -37,4 +37,4 @@ This verse emphasizes the importance of relying on God for our daily provision a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

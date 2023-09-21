@@ -4,7 +4,7 @@
 In this verse, we see the description of the new Jerusalem, a city secure and protected by a great and high wall, guarded by twelve angels. The gates of the city are inscribed with the names of the twelve tribes of Israel, symbolizing the inclusion of God's chosen people. These gates also represent the way of salvation through Christ, pointing to the twelve apostles who proclaimed this message. This heavenly city offers divine protection, active guidance, and serves as the eternal inheritance for those who are heirs of salvation, securing a glorious future.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wall great and high—setting forth the security of the Church. Also, the exclusion of the ungodly."
 2. "The gates being never shut imply perfect liberty and peace."
 3. "The inscription of the names on the gates implies that none but the spiritual Israel, God's elect, shall enter the heavenly city."
@@ -47,4 +47,4 @@ In this verse, we see the description of the new Jerusalem, a city secure and pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

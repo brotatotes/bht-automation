@@ -9,7 +9,7 @@ The Bible verse being described is from the Book of Revelation. It portrays a sc
 2. "The key to the interpretation being the analogy with the sayings of our Lord to the Apostles."
 3. "It is no small confirmation of the view, that in ch. Revelation 15:3, we find the double idea of the church, as made up of Old Testament and New Testament saints, plainly revealed to St. John."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the seat (rather, throne) of the beasts, in hellish parody of God's throne."
 2. "the twenty-four elders were not mentioned before, whereas the twenty-four thrones were."
 3. "They are not angels, for they have white robes and crowns of victory, implying a conflict and endurance."
@@ -50,4 +50,4 @@ The Bible verse being described is from the Book of Revelation. It portrays a sc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

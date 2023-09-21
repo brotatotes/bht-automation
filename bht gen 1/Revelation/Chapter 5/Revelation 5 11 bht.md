@@ -4,7 +4,7 @@
 In this vision, there is a breathtaking display of heavenly worship, with an immense multitude of angels and a vast number that cannot even be quantified. They join in unison to praise the Lamb of God, symbolizing the universal harmony in heaven. This celestial gathering highlights the infinite love, wisdom, and power of God, as well as the profound interest and involvement of angels in the redemption of humanity. Through this vision, we are reminded of the immeasurable greatness of God's creation and the central role of mankind in His eternal plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The heavenly hosts ranged around gaze with intense love and adoration at this crowning manifestation of God's love, wisdom, and power." 
 
 2. "The angels form the outer circle, while the Church, the object of redemption, forms the inner circle nearest the throne." 
@@ -49,4 +49,4 @@ These quotes highlight the significance of the phrase "ten thousand times ten th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The scene unfolds as Jesus gazes upon a panoramic view of the grand city before 
 2. "When He grieved, it was for the hardness of men’s hearts."
 3. "When He wept, in Bethany and here, it was over the fruits of sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mine eye affecteth mine heart" - The commentary references Lamentations 3:51 to highlight the connection between the eyes and the heart, emphasizing the sympathetic relationship between the mind and body.
 2. "Under this sympathetic law of the relation of mind and body" - The commentary acknowledges the existence of a natural law that governs the connection between the mind and body, suggesting that Jesus, in His humanity, was subject to this law.
 3. "He yielded Himself alike freely to both" - The commentary points out that Jesus freely allowed Himself to experience both profound joy and deep sorrow, demonstrating His capacity for emotional vulnerability.
@@ -45,4 +45,4 @@ The scene unfolds as Jesus gazes upon a panoramic view of the grand city before 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

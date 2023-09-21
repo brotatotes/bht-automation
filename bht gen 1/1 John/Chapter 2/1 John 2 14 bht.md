@@ -1,10 +1,10 @@
 # 1 John 2:14 Commentary Help Text
 
 ## BHT:
-In this verse, we are reminded of the power of faith in overcoming the world. The commentator Jamieson Fausset Brown emphasizes the victory that faith brings. Additionally, Albert Barnes highlights the importance of steadfast adherence to the principles and duties of the true religion, particularly for those in the vigor of life. The knowledge of God through Christ and the abiding word of God are also significant aspects, as explained by Marvin Vincent. Through these commentaries, we gain a deeper understanding of the verse's call to faith, steadfastness, and the abiding presence of God's word.
+In this verse, we are reminded of the power of faith in overcoming the world. The commentator Jamieson-Fausset-Brown emphasizes the victory that faith brings. Additionally, Albert Barnes highlights the importance of steadfast adherence to the principles and duties of the true religion, particularly for those in the vigor of life. The knowledge of God through Christ and the abiding word of God are also significant aspects, as explained by Marvin Vincent. Through these commentaries, we gain a deeper understanding of the verse's call to faith, steadfastness, and the abiding presence of God's word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is the victory that overcomes the world."
 2. "In order to overcome the world on the ground, and in the strength, of the blood of the Saviour, we must be willing, like Christ, to part with whatever of the world belongs to us."
 3. "The secret of the young men's strength: the Gospel word, clothed with living power by the Spirit who abideth permanently in them, this is 'the sword of the Spirit' wielded in prayerful waiting on God."
@@ -43,4 +43,4 @@ In this verse, we are reminded of the power of faith in overcoming the world. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

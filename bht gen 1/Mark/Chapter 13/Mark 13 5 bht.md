@@ -11,7 +11,7 @@ In this verse, Jesus begins His comprehensive explanation on a subject, providin
 
 3. "See reff." - The commentary suggests that the reader should refer to other references for further insight or clarification on the topic. (Quote 5)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus warns his disciples to be on guard against deception, emphasizing the importance of discernment and vigilance in their spiritual journey."
 2. "This cautionary statement from Jesus serves as a reminder that deception can come from various sources, including false teachers, worldly philosophies, and even our own desires."
 3. "By urging his disciples to 'take heed,' Jesus emphasizes the need for active engagement and critical thinking, encouraging them to question and test the messages they encounter."
@@ -39,4 +39,4 @@ In this verse, Jesus begins His comprehensive explanation on a subject, providin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

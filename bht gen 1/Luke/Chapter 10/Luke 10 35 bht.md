@@ -4,7 +4,7 @@
 In this verse, a sum of money, equivalent to two day's wages, is given to someone. This amount was substantial enough to provide for the basic needs of an individual or even a small family for a few days. The speaker is emphatic about their willingness to repay any debts incurred and their assurance is rooted in their integrity and reliability. The value of the money mentioned in the verse, though seemingly small, was actually significant, representing a substantial amount of money for the time period.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two pence, equal to two day's wages of a laborer, and enough for several days' support."
 2. "The value of two pence was significant, as it represented a substantial amount of money for the time."
 3. "This amount would have been enough to provide for the basic needs of an individual or even a small family for a few days."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

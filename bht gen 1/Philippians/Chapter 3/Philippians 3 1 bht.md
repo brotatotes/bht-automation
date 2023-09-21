@@ -9,7 +9,7 @@ In this Bible verse, the author encourages the audience to rejoice in the Lord, 
 2. "And this same exhortation, χαίρειν, is in fact the groundtone of the whole Epistle."
 3. "The word ἀσφαλές is no objection to this: because the χαίρ . ἐν κυρ. is in fact an introduction to the warning which follows: a provision, by upholding the antagonist duty, against their falling into deceit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Furthermore" [BENGEL and WAHL] as in 2 Thessalonians 3:1. But it is not restricted to this meaning, as ALFORD thinks, supposing that Paul used it here intending to close his Epistle, but was led by the mention of the Judaizers into a more lengthened dissertation.
 2. "The same things" - concerning "rejoicing," the prevailing feature in this Epistle.
 3. "In the Lord" - marks the true ground of joy, in contrast with "having confidence in the flesh," or in any outward sensible matter of boasting.
@@ -55,4 +55,4 @@ In this Bible verse, the author encourages the audience to rejoice in the Lord, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

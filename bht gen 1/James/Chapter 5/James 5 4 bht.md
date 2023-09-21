@@ -4,7 +4,7 @@
 In this Bible verse, commentators highlight the implications of withholding fair wages from laborers. They describe it as an act of fraud and a sin, emphasizing the inhumanity and injustice that such actions entail. The verse also invokes the concept of divine justice, noting that the cries of the oppressed workers are heard by God, who is depicted as the Lord of hosts, able to respond to their pleas. It examines the relationship between capital and labor and underscores the importance of fair compensation and the consequences of withholding what is justly owed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'keeping back of the hire' was, on the part of the rich, virtually an act of 'fraud,' because the poor laborers were not immediately paid." 
 2. "Many sins 'cry' to heaven for vengeance which men tacitly take no account of, as unchastity and injustice." 
 3. "The rich ought to have given freely to the poor; their not doing so was sin. A still greater sin was their not paying their debts. Their greatest sin was not paying them to the poor, whose wages is their all."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the implications of withholding fair
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

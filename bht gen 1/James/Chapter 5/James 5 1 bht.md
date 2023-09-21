@@ -9,7 +9,7 @@ In this verse, the rich are warned of the imminent judgment and miseries that wi
 2. "The imper. aor. gives the command a concentrated force, as that which ought to be done at once and without delay." 
 3. "ὀλολύζειν is a word in the O. T. confined to the prophets, and used, as here, with reference to the near approach of God’s judgments."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go to now—Come now. A phrase to call solemn attention."
 2. "ye rich—who have neglected the true enjoyment of riches, which consists in doing good."
 3. "miseries that shall come—literally, 'that are coming upon you' unexpectedly and swiftly."
@@ -55,4 +55,4 @@ In this verse, the rich are warned of the imminent judgment and miseries that wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this future state, there will be a complete absence of curse, sin, pain, and death. The throne of God and the Lamb will be present, symbolizing the glorious presence and reign of God. In this kingdom, God's servants will have the highest honor and engage in worship, which is considered the noblest employment. It is a vision of pure life, blessing, and unwavering devotion in the presence of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God can only dwell where the curse and its cause, the cursed thing sin, are removed."
 2. "The throne of God and of the Lamb shall be in it."
 3. "Serve him with worship."
@@ -51,4 +51,4 @@ In this future state, there will be a complete absence of curse, sin, pain, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

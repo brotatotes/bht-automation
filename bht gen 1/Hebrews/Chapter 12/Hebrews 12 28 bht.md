@@ -9,7 +9,7 @@ We are partakers of a kingdom that cannot be shaken, where thankfulness and grac
 2. "let us have thankfulness...ἀλγωμεν μηδὲ δυσπετῶμεν, ἀλλ ʼ εὐχαριστῶμεν τῷ τοιαῦτα καὶ ἤδη δόντι καὶ μελλοντι δώσειν"
 3. "by which (thankfulness) let us serve God well-pleasingly with reverent submission and fear"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is our privilege as Christians."
 2. "Reverent caution (same Greek as in Hebrews 5:7) lest we should offend God, who is of purer eyes than to behold iniquity."
 3. "Fear lest we should bring destruction on ourselves."
@@ -49,4 +49,4 @@ We are partakers of a kingdom that cannot be shaken, where thankfulness and grac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

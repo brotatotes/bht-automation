@@ -9,7 +9,7 @@ In this verse, commentators highlight the intense concern and emotional plea mad
 2. "The genitive here indicates the purpose or goal of the exhortation."
 3. "This genitive construction emphasizes the intended outcome of the exhortation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Cæsarean Christians besought him—even with tears, Acts 21:13." This quote highlights the emotional plea made by the Cæsarean Christians to Paul, emphasizing their deep concern for his safety and well-being.
 
 2. "Not to go to Jerusalem." This quote underscores the specific request made by the Cæsarean Christians, revealing their desire for Paul to avoid the potential dangers and risks associated with his journey to Jerusalem.
@@ -50,4 +50,4 @@ In this verse, commentators highlight the intense concern and emotional plea mad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness Jesus engaging in an intense and extraordinary prayer,
 2. "Indeed the whole of this paragraph is of a supplementary and indefinite character, serving more as a preface to the discourse which follows, than as an integral part of the narration in its present sequence."
 3. "The whole context, and the frequency of the objective genitive, should have prevented the Commentators from making the blunder of imagining προσευχή here to be a proseucha or house of prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The work with which the next day began shows what had been the burden of this night's devotions."
 2. "As He directed His disciples to pray for 'laborers' just before sending themselves forth, so here we find the Lord Himself in prolonged communion with His Father in preparation for the solemn appointment of those men who were to give birth to His Church."
 3. "From whom the world in all time was to take a new mould."
@@ -50,4 +50,4 @@ In this verse, we witness Jesus engaging in an intense and extraordinary prayer,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

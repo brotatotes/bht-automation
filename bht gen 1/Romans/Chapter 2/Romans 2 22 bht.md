@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes shed light on the various sins addre
 2. "Thou who abhorrest idols, dost thou rob their temples?"
 3. "That it was necessary to vindicate Jews from such a charge, appears from Acts 19:37."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "thou that abhorrest idols—as the Jews did ever after their captivity" - This quote highlights the Jewish aversion to idols, which persisted even after their captivity.
 2. "dost thou commit sacrilege?" - This phrase questions whether the person being addressed is engaging in the profaning of holy things.
 3. "dost thou profane holy things?" - This quote suggests that the act being condemned is the desecration of sacred objects or practices.
@@ -50,4 +50,4 @@ These quotes highlight the commentary's explanation of the sins mentioned in Rom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Amidst the storms and trials of life, where religious declension and persecution may plague the faithful, a vision shines forth to comfort and encourage. Envisage a diverse multitude, a symbolic representation of priestly purity and redemption, standing before God and the Lamb. This grand scene conveys a promise of hope and victory, reassuring those who feel discouraged that a vast host shall be saved and gathered triumphantly in the presence of the Almighty. It also serves as a reminder of the universal nature of salvation, encompassing people of all nations and languages, clothed in white robes symbolizing righteousness and joy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The human race is 'one nation' by origin, but afterwards separated itself into tribes, peoples, and tongues."
 2. "The 'first-fruits unto the Lamb,' the 144,000 of Israel, are followed by a copious harvest of all nations, an election out of the Gentiles."
 3. "The palm branch is the symbol of joy and triumph. It was used at the feast of tabernacles, on the fifteenth day of the seventh month, when they kept feast to God in thanksgiving for the ingathered fruits."
@@ -45,4 +45,4 @@ Amidst the storms and trials of life, where religious declension and persecution
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

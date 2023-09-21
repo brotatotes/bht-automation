@@ -4,7 +4,7 @@
 In this verse, we see a powerful depiction of the relationship between believers and their heavenly Father. The presence and importance of the Holy Spirit are highlighted as God's ultimate gift to His children. This surpasses any earthly blessings, encompassing all good gifts. The verse reveals the depth of God's love and care for His children, from being a friend to a Father, ultimately revealing His divine nature as God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Holy Spirit—in Matthew" - This commentary highlights the presence of the Holy Spirit in the book of Matthew, emphasizing its importance in understanding the teachings and actions of Jesus.
 2. "good gifts" - The phrase "good gifts" refers to the blessings and provisions that God bestows upon His children, indicating His loving and caring nature.
 3. "the Gift of gifts descending on the Church through Christ" - This quote suggests that the Holy Spirit is the ultimate gift given to the Church through Jesus Christ, encompassing all other blessings and spiritual manifestations.
@@ -41,4 +41,4 @@ Overall, these quotes shed light on the importance of understanding the act of g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

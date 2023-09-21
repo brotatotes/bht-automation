@@ -9,7 +9,7 @@ The men who accompanied Saul rose from the ground in awe, having been struck dow
 2. "The devout and intelligent student of Scripture will see in such examples a convincing proof of the simple truth of the narrative, the absence of all endeavour to pare away apparent inconsistencies or revise them into conformity."
 3. "I should not too hastily determine that this account has not come from Saul himself, on account of the above differences: they are no more than might arise in narrations at different times by the same person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The standing posture be intended, we have only to suppose that though at first they 'all fell to the earth,' they arose of their own accord while Saul yet lay prostrate."
 2. "Just as 'the people that stood by heard' the voice that saluted our Lord with recorded words of consolation and assurance, and yet heard not the articulate words, but thought 'it thundered' or that some 'angel spake to Him'—so these men heard the voice that spake to Saul, but heard not the articulate words."
 3. "Apparent discrepancies like these, in the different narratives of the same scene in one and the same book of Acts, furnish the strongest confirmation both of the facts themselves and of the book which records them."
@@ -59,4 +59,4 @@ These quotes highlight the companions' intention to support Saul, their astonish
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

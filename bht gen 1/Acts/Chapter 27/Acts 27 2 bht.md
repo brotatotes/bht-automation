@@ -9,7 +9,7 @@ In this verse, we see Paul on a journey accompanied by Aristarchus and Luke, who
 2. "The accusative is indicative of the direction." 
 3. "In Colossians 4:10, Paul calls him his συναιχμάλωτος, but perhaps only figuratively."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Adramyttium—a port on the northeast coast of the Ægean Sea."
 2. "Doubtless the centurion expected to find another ship, bound for Italy, at some of the ports of Asia Minor, without having to go with this ship all the way to Adramyttium."
 3. "Aristarchus the Macedonian...seized by the Ephesian mob as a 'man of Macedonia and Paul's companion in travel' and as a 'Thessalonian' accompanying the apostle from Ephesus on his voyage back to Palestine."
@@ -55,4 +55,4 @@ In this verse, we see Paul on a journey accompanied by Aristarchus and Luke, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

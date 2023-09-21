@@ -4,7 +4,7 @@
 In this verse, we witness the relentless mockery and humiliation endured by Jesus. The soldiers approached him one after another, mockingly hailing him as the "King of the Jews." Their persistent actions of bowing and addressing him in a derisive manner emphasized their intent to belittle Jesus' kingly office. They further humiliated him by spitting on him and repeatedly slapping him. These acts showcased the rejection of Jesus as King by some, while others disregarded his authority. This painful scene, allowed by Pilate, pleased the wicked hearts of the Jews, who remained unmoved.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hail, King of the Jews!" - This derisive homage mocks Jesus' claim to be a king, highlighting the irony of his crucifixion as a criminal. 
 
 2. "They spit upon Him" - This act of contempt and humiliation further emphasizes the mockery and degradation Jesus endured. 
@@ -30,4 +30,4 @@ In this verse, we witness the relentless mockery and humiliation endured by Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

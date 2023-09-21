@@ -9,7 +9,7 @@ During his second missionary tour, Paul journeyed through Syria and Cilicia, rea
 2. "The mention of Syria and Cilicia reminds us of the early missionary journeys of Paul and Barnabas." 
 3. "This verse serves as a reminder of the important role Barnabas played in the early spread of Christianity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul and Barnabas made a deliberate and amicable arrangement to divide the region of their first mission between them." 
 2. "The whole circuit of the proposed visitation was actually accomplished." 
 3. "This second missionary tour appears to have proceeded at first solely from the desire of visiting the churches already planted."
@@ -40,4 +40,4 @@ During his second missionary tour, Paul journeyed through Syria and Cilicia, rea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

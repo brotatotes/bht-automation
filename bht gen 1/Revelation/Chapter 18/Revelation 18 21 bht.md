@@ -4,7 +4,7 @@
 A powerful angel, possibly representing a group of humans, takes up a massive stone and hurls it into the sea with immense force, symbolizing the impending destruction of a dominant entity. This act echoes the prophecies of Jeremiah, revealing divine intervention and judgment upon the wicked. The image of the stone sinking into the sea signifies the total obliteration and permanent removal of the entity, leaving no remnant behind.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse shows that this prophecy is regarded as still to be fulfilled."
 2. "Compare the judgment on the Egyptian hosts at the Red Sea."
 3. "And the foretold doom of Babylon, the world power."
@@ -47,4 +47,4 @@ A powerful angel, possibly representing a group of humans, takes up a massive st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

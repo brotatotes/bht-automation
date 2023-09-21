@@ -9,7 +9,7 @@ Those who live according to their sinful nature, being under its control and inf
 2. "They who are in the flesh cannot please God."
 3. "This passage refutes those who imagine that humans can obey the law without the Holy Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that are in—and, therefore, under the government of the flesh cannot please God." 
 2. "Having no obediential principle, no desire to please Him." 
 3. "The flesh, as such, is not subject to the law of God, neither indeed can be."
@@ -52,4 +52,4 @@ Those who live according to their sinful nature, being under its control and inf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described highlights the consequences of provoking the Lor
 2. "Are we stronger than He?" - This quote suggests that we cannot afford to defy God's power to punish, emphasizing His authority and superiority over us.
 3. "That He may assert His power" - This quote implies that by provoking God, we are challenging Him to demonstrate His power and authority.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do we provoke the Lord to jealousy?—by dividing our fellowship between Him and idols." 
 2. "Is it our wish to provoke Him to assert His power?" 
 3. "Are we stronger?—that we can risk a contest with Him."
@@ -57,4 +57,4 @@ The Bible verse being described highlights the consequences of provoking the Lor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

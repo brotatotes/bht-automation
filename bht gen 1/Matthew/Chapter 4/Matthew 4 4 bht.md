@@ -9,7 +9,7 @@ In this Bible verse, Jesus is faced with temptation from Satan. He overcomes the
 2. "The first word which He uses against him, reaches far deeper: ‘Man shall not live, &c.’"
 3. "By ‘every word (or ‘thing,’ for ῥῆμα is not expressed in the original) that proceedeth out of the mouth of God,’ we must understand, every arrangement of the divine will."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not by bread alone shall man live." 
 2. "Of all passages in Old Testament Scripture, none could have been pitched upon more apposite, perhaps not one so apposite, to our Lord's purpose."
 3. "Human support depends not upon bread, but upon God's unfailing word of promise and pledge of all needful providential care."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus is faced with temptation from Satan. He overcomes the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

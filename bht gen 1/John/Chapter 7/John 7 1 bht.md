@@ -9,7 +9,7 @@ After the events in Judea, the commentary reiterates that Jesus continues his mi
 2. "It will not follow from this, that ch. 6 is not in its right place: it contains an independent memoir of a miracle and discourse of our Lord in Galilee which actually happened in the interval."
 3. "This Gospel is made up of such memoirs, more or less connected with one another, and selected by the Evangelist for their higher spiritual import, and the discourses arising from them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After these things" refers to all that is recorded after John 5:18, indicating a continuation of Jesus' ministry in Galilee instead of going to Judea as expected.
 2. By stating that the Jews sought to kill him, the commentary refers back to John 5:18, highlighting the ongoing hostility towards Jesus.
 3. The mention of Jesus not attending the Passover in John 6:4, if it was indeed a Passover, indicates a deliberate choice by Jesus to remain in Galilee and continue his ministry there.
@@ -48,4 +48,4 @@ After the events in Judea, the commentary reiterates that Jesus continues his mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

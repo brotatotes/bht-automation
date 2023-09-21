@@ -9,7 +9,7 @@ The verse being described is a prophetic declaration that assures divine recompe
 2. "The κακά were facts which we must not disguise. The ἐνδείξασθαι, not the κακά, is used in an improper and secondary meaning."
 3. "The Lord shall requite him according to his works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Excommunicated then he subsequently was restored, and now vented his personal malice because of his excommunication in accusing Paul before the Roman judges, whether of incendiarism or of introducing a new religion."
 2. "He may have been the Alexander put forward by the Jews in the tumult at Ephesus."
 3. "Personal revenge certainly did not influence the apostle."
@@ -55,4 +55,4 @@ The verse being described is a prophetic declaration that assures divine recompe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

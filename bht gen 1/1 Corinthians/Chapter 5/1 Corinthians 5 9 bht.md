@@ -9,7 +9,7 @@ This verse refers to a previous epistle or letter, which may have been lost or i
 2. "So Ambrose, Calvin, Beza, Estius, Grot., Calov., Bengel, Wetst., Mosh., De Wette, Meyer: so also Lightfoot, understanding however an Epistle committed to Timothy."
 3. "It has been suggested (see Stanley, in loc.) that the whole passage, ch. 1Co 5:9 to 1 Corinthians 6:8, may have been a postscript or note inserted subsequently to the rest of the Epistle, and referring especially to ch. 1Co 6:9-20."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul does not refer to the present letter is proved by the fact that no direction 'not to company with fornicators' occurs in the previous part of it."
 2. "His letters (plural; not applying to merely one) confirm this."
 3. "Paul probably wrote a former brief reply to inquiries of the Corinthians: our first Epistle, as it enters more fully into the same subject, has superseded the former, which the Holy Spirit did not design for the guidance of the Church in general, and which therefore has not been preserved."
@@ -55,4 +55,4 @@ This verse refers to a previous epistle or letter, which may have been lost or i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

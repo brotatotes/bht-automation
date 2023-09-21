@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse that speaks of belonging to God as 
 2. "The conjunctions here...rise in climax from one clause to another."
 3. "Perhaps this may be earned somewhat further, and we may better satisfy the climax by regarding the ἐξ αἱμάτων as indicating the mere phenomena of physical generation wherever found."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Which were born—a sonship therefore not of mere title and privilege, but of nature, the soul being made conscious of the vital capacities, perceptions, and emotions of a child of God, before unknown."
 2. "Not of blood, &c.—not of superior human descent, not of human generation at all, not of man in any manner of way."
 3. "By this elaborate threefold denial of the human source of this sonship, immense force is given to what follows, but of God—Right royal gift, and He who confers must be absolutely divine."
@@ -47,4 +47,4 @@ The commentators shed light on a Bible verse that speaks of belonging to God as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

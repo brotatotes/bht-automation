@@ -9,7 +9,7 @@ The commentator quotes reveal that the Bible verse being described is found in t
 2. "The whole passage is thoroughly gone into and its true meaning satisfactorily shown."
 3. "'The nation which was not called by my Name' in Isaiah 65:1 can only primarily mean the Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Esaias is very bold, and saith—that is, is still plainer, and goes even the length of saying." 
 2. "I was found of them that sought me not—until I sought them." 
 3. "I was made 'became' manifest unto them that asked not after me—until the invitation from Me came to them."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

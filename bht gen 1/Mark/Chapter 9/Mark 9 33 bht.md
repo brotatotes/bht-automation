@@ -11,7 +11,7 @@ In this Bible verse, Jesus engages in a conversation with his disciples in a spe
 
 3. "By miraculously providing the money for the tribute, Jesus demonstrates his authority and power over earthly matters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From this we gather that after the painful communication He had made to them, the Redeemer had allowed them to travel so much of the way by themselves."
 2. "Partly, no doubt, that He might have privacy for Himself to dwell on what lay before Him."
 3. "Partly that they might be induced to weigh together and prepare themselves for the terrible events which He had announced to them."
@@ -40,4 +40,4 @@ In this Bible verse, Jesus engages in a conversation with his disciples in a spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Through faith in Christ, one can enter into salvation and be saved from sin. This invitation is open to all who are willing to do God's will. By entering through the right door, through faith in Christ, believers are protected from the attacks of the enemy and find nourishment for their souls. They will be guided, guarded, and find safety in the presence of the Good Shepherd, who leads them to green pastures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "by me if any man enter in—whether shepherd or sheep." 
 2. "shall be saved—the great object of the pastoral office, as of all the divine arrangements towards mankind." 
 3. "and shall go in and out and find pasture—in, as to a place of safety and repose; out, as to 'green pastures and still waters' for nourishment and refreshing."
@@ -43,4 +43,4 @@ Through faith in Christ, one can enter into salvation and be saved from sin. Thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The commentators provide insights into a Bible verse that challenges the desire 
 
 3. "Do you not hear (heed) the law?" - Meyer.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law itself sends you away from itself to Christ."
 2. "Perhaps his reason for using allegory was to confute the Judaizers with their own weapons."
 3. "Just as the extra-ordinarily-born Isaac, the gift of grace according to promise, supplanted, beyond all human calculations, the naturally-born Ishmael, so the new theocratic race, the spiritual seed of Abraham by promise, the Gentile, as well as Jewish believers, were about to take the place of the natural seed."
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse that challenges the desire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

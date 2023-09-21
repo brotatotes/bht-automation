@@ -4,7 +4,7 @@
 In this passage, a woman is depicted who has suffered greatly, enduring various treatments that have failed to heal her. She represents our fallen state as humans, highlighting the futility of human remedies for spiritual ailments. The vivid account by Mark emphasizes her worsening condition, contrasting with the hopeful response of Jesus. Despite her financial and physical struggles, her encounter with Jesus becomes her one chance for healing. This story serves as both a protest against mistreatment and a reminder that true healing is found in the tender care of Jesus, rather than in human efforts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expression perhaps does not necessarily refer to the suffering she endured under medical treatment, but to the much varied treatment which she underwent."
 2. "Pitiable case, and affectingly aggravated; emblem of our natural state as fallen creatures."
 3. "Illustrating the worse than vanity of all human remedies for spiritual maladies."
@@ -33,4 +33,4 @@ In this passage, a woman is depicted who has suffered greatly, enduring various 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

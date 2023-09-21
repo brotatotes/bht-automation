@@ -9,7 +9,7 @@ The verse being described reveals Jesus foretelling a future event to his discip
 2. "See ch. John 16:1, and above on ἐγὼ οἶδα, ver, 18." 
 3. "This statement serves as a confirmation of Jesus' divinity and his foreknowledge of future events."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I tell you before . . . that when it comes to pass, ye may believe." - This quote highlights the purpose of the prediction, which is to strengthen the faith of the believers by providing confirmation when the prophecy is fulfilled.
 
 2. "When it came to pass, they deeply needed such confirmation." - This quote emphasizes the significance of the fulfillment of the prophecy in the lives of the believers, suggesting that it served as a source of reassurance and validation during challenging times.
@@ -50,4 +50,4 @@ The verse being described reveals Jesus foretelling a future event to his discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

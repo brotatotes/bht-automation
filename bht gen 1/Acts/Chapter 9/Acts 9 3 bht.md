@@ -9,7 +9,7 @@ In a moment of divine intervention, a blinding light flashed around him like a s
 2. "Unquestionably, the inference is, that it was a bright noon, and the full splendour of the oriental sun was shining."
 3. "His companions saw the light, and were also cast to the ground."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Events which are the turning points in one's history so imprint themselves upon the memory that circumstances the most trifling in themselves acquire by connection with them something of their importance, and are recalled with inexpressible interest."
 2. "But he himself emphatically states, in one of his narratives, that it was 'about noon' and in the other, 'at midday' when there could be no deception."
 3. "There shined round about him a light from heaven, 'a great light above the brightness of the sun,' then shining in its full strength."
@@ -55,4 +55,4 @@ In a moment of divine intervention, a blinding light flashed around him like a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

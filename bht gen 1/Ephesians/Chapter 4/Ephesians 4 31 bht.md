@@ -15,7 +15,7 @@ This verse calls for the removal of negative emotions, harmful speech, and ill-t
 
 Note: The commentary does not provide specific explanations or interpretations of the verse, but rather describes the nature and effects of the negative emotions and speech mentioned in the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bitterness begets wrath; wrath, anger; anger, clamor; and clamor, the more chronic evil-speaking, slander, insinuations, and surmises of evil."
 2. "Malice is the secret root of all: fires fed within, and not appearing to bystanders from without, are the most formidable."
 3. "Bridle the horse, and you dismount its rider."
@@ -59,4 +59,4 @@ Note: The commentary does not provide specific explanations or interpretations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

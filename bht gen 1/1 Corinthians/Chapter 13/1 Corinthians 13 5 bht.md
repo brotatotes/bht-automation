@@ -9,7 +9,7 @@ Love is a beautiful virtue that guides our actions and relationships. It is not 
 2. "Love imputeth not (the) evil: οὐδὲν πονηρὸν οὐ μόνον οὐ κατασκενάζει ἀλλ ʼ οὐδὲ ὑποπτεύει κατὰ τοῦ φιλουμένου."
 3. "And we must not overlook the article, which seems here to have the force of implying that the evil actually exists, ‘ the evil ’ which is, but Love does not impute it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love makes allowances for the falls of others, and is ready to put on them a charitable construction."
 2. "Love, so far from devising evil against another, excuses 'the evil' which another inflicts on her."
 3. "Love does not meditate upon evil inflicted by another and in doubtful cases, takes the more charitable view."
@@ -54,4 +54,4 @@ Love is a beautiful virtue that guides our actions and relationships. It is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

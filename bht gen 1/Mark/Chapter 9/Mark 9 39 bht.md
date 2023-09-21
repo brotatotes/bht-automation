@@ -9,7 +9,7 @@ In this passage, Jesus teaches about the inclusivity and acceptance of those who
 2. "We must beware of supposing that the application of this saying is to be confined to the working of a miracle."
 3. "A weighty maxim of Christian toleration and charity, and caution to men how they presume to limit the work of the Spirit of God to any sect, or succession, or outward form of Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Forbid him not: for there is no man which shall do a miracle in my name." - This quote emphasizes that Jesus encourages inclusivity and acceptance of others who perform miracles in his name, regardless of their affiliation or background.
 2. "That can lightly speak evil of me." - This quote highlights the trust and confidence Jesus has in those who perform miracles in his name, as they are unlikely to speak ill of him or his teachings.
 3. "Readily 'speak evil of me'." - This phrase emphasizes the immediacy and ease with which those who perform miracles in Jesus' name would defend and uphold his reputation, further emphasizing the importance of not forbidding them.
@@ -50,4 +50,4 @@ In this passage, Jesus teaches about the inclusivity and acceptance of those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

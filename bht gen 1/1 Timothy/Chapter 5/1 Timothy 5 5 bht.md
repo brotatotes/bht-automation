@@ -9,7 +9,7 @@ The verse being described speaks about a special group of widows who are truly d
 2. "ἤλπικεν, has set and continues to set her hope."
 3. "ἐπὶ τὸν θεόν, on God as its portion and ultimate aim, as distinguished from ἐπὶ τῷ θεῷ, on God as its present stay."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She must be not one 'that liveth in pleasure,' but one making God her main hope." 
 2. "Her destitution of children and of all ties to earth would leave her more unencumbered for devoting the rest of her days to God and the Church." 
 3. "Such a one, Paul implies, would be the fittest object for the Church's help; for such a one is promoting the cause of Christ's Church by her prayers for it."
@@ -57,4 +57,4 @@ The verse being described speaks about a special group of widows who are truly d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

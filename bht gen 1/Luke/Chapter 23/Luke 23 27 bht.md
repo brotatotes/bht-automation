@@ -9,7 +9,7 @@ At the scene of the crucifixion, a diverse crowd had gathered, consisting of bot
 2. "This description need not of course exclude many who may have wept from deeper and more personal motives, as having heard Him teach, or received some benefit of healing from Him, or the like."
 3. "The ordinary crowd collected in the streets on such occasions, and consisting, as is usually the case (and especially at an execution), principally of women."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The women mentioned here are not the precious Galilean women who had followed Jesus and ministered to Him (Luke 23:49), but rather they were part of the crowd." 
 
 2. "These women were witnesses to the crucifixion, standing at a distance and observing the events unfold." 
@@ -40,4 +40,4 @@ At the scene of the crucifixion, a diverse crowd had gathered, consisting of bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

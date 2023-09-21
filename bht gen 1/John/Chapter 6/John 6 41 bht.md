@@ -9,7 +9,7 @@ In this verse, Jesus addresses a group of disapproving Jews who murmur amongst t
 2. "They were the same, perhaps the principal among them, the official superintendents of the synagogue."
 3. "For John generally uses οἱ Ἰουδαῖοι in this official sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jews murmured—muttered, not in our Lord's hearing, but He knew it." 
 2. "Missing the sense and glory of this, and having no relish for such sublimities, they harp upon the 'Bread from heaven.'"
 3. "What can this mean? Do we not know all about Him—where, when, and of whom He was born? And yet He says He came down from heaven!"
@@ -45,4 +45,4 @@ In this verse, Jesus addresses a group of disapproving Jews who murmur amongst t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the Philippians' renewed care for Paul and h
 2. "Ye budded forth again in caring for my interest. Your care for me was, so to speak, the life of the tree; it existed just as much in winter when there was no vegetation, as when the buds were put forth in spring."
 3. "I rejoiced that at last ye flourished in anxiety for my interest: for which purpose ye also were anxious, but had no opportunity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He views everything with reference to Christ."
 2. "Ye have flourished again (revived, as trees sprouting forth again in spring) in your care for me."
 3. "Your 'lack of service' was owing to your having 'lacked opportunity'."
@@ -53,4 +53,4 @@ The verse being described speaks of the Philippians' renewed care for Paul and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

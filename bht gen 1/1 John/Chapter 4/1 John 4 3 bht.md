@@ -9,7 +9,7 @@ This passage warns against the influence of false teachings, referred to as the 
 2. "The present used as so often of that which is a thing fixed and determined, without any reference to time."
 3. "In the person of these ψευδοπροφῆται, who are its organs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every spirit which destroys (sets aside, or does away with) Jesus (Christ)." - This quote highlights the significance of acknowledging and confessing Jesus Christ in one's faith, emphasizing the rejection of any spirit that undermines or denies His divinity.
 
 2. "Every spirit that confesseth not (that is, refuses to confess) Jesus" - This quote emphasizes the importance of openly professing and acknowledging Jesus Christ, emphasizing the refusal to confess Him as a sign of false teachings or beliefs.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite fragmented and lacks context. As a result
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

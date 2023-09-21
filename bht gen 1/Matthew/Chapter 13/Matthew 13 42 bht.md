@@ -4,7 +4,7 @@
 In this verse, the Bible uses powerful and vivid language to depict the consequences that await the wicked. Commentators describe this as a metaphorical expression of God's indignation and fierce torment. It is a punishment characterized by unbearable suffering, the gnashing of teeth, and the weeping of the reprobate. The verse conveys the incomprehensibility of both the glorious reward for the righteous and the punitive nature of the punishment for the wicked. It emphasizes the intensity of divine wrath and the despair, remorse, and inexpressible pain that the wicked shall endure for eternity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What terrific strength of language—the 'casting' or 'flinging' expressive of indignation, abhorrence, contempt."
 2. "The 'furnace of fire' denoting the fierceness of the torment."
 3. "The 'gnashing of teeth' is a graphic way of expressing the despair in which its remedilessness issues."
@@ -28,4 +28,4 @@ In this verse, the Bible uses powerful and vivid language to depict the conseque
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

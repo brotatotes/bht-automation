@@ -4,7 +4,7 @@
 In this Bible verse, a remarkable escape is depicted as Jesus passes through the midst of a crowd, evoking the idea of a miraculous intervention. This escape is characterized by a sense of wonder and peace, as Jesus avoids violence and conflict. The commentators emphasize the extraordinary nature of this event, highlighting the power of God to rescue and protect His people, even in the face of persecution. The passage suggests that Jesus had a clear sense of purpose and direction, actively and determinedly following his chosen path, while demonstrating his divine power and authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "passing through the midst, &c.—evidently in a miraculous way"
 2. "leading them to wonder afterwards what spell could have come over them"
 3. "Similar escapes, however, in times of persecution, are not unexampled."
@@ -47,4 +47,4 @@ In this Bible verse, a remarkable escape is depicted as Jesus passes through the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

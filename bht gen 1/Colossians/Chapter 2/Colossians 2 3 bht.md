@@ -4,7 +4,7 @@
 In Christ, the mystery of God resides - a treasure trove of wisdom and knowledge. Hidden within him are the riches that surpass worldly teachings and philosophies. These treasures, though unfathomable, are accessible to all who seek them. Christ is the ultimate source of wisdom, surpassing any other knowledge one might seek. In him lies the key to eternal life and the fulfillment of all divine truths.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In whom (not as ALFORD, 'in which') mystery; Christ is Himself the 'mystery' (Colossians 2:2; 1 Timothy 3:16), and to Christ the relative refers) are all the treasures of wisdom and knowledge hidden."
 2. "Like a mine of unknown and inexhaustible wealth, the treasures of wisdom are all in Him hidden, but not in order to remain so; they only need to be explored for you to attain 'unto the riches' in them."
 3. "Still as the mine is unfathomable, there will, through eternity, be always fresh treasures in Him to be drawn forth from their hidden state."
@@ -43,4 +43,4 @@ In Christ, the mystery of God resides - a treasure trove of wisdom and knowledge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

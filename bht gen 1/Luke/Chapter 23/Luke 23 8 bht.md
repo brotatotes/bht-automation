@@ -4,7 +4,7 @@
 The verse being described portrays an individual who, with genuine curiosity and eagerness, has been longing to meet the person mentioned. This desire stems from a deep longing to see, experience, and witness the work and miracles performed by this individual. It is not motivated by any hidden agenda or ulterior motive but driven purely by a sincere and heartfelt fascination with the person in question.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou expectedst, as the Philistines with Samson, O coarse, crafty, cruel tyrant!"
 2. "But thou hast been baulked before and shalt be again."
 3. "Some miracle—Fine sport thou expectedst."
@@ -45,4 +45,4 @@ The verse being described portrays an individual who, with genuine curiosity and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ On this significant day, the disciples, who had placed their trust and hope in J
 2. "λυτροῦσθαι in the theocratic sense including both the spiritual and political kingdom."
 3. "ἄγει, not impersonal...but spoken of Jesus. He is now in the third day, since &c. This is the usage of later Greek: and the words are spoken not without a reference, in the mind of the speaker, to His promise of rising on the third day."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We trusted, c.—They expected the promised Deliverance at His hand, but in the current sense of it, not by His death."
 2. "Not only did His death seem to give the fatal blow to their hopes, but He had been two days dead already, and this was the third."
 3. "A doleful tale truly, told out of the deepest despondency."
@@ -55,4 +55,4 @@ On this significant day, the disciples, who had placed their trust and hope in J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

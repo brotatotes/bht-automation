@@ -4,7 +4,7 @@
 In this verse, there is a beautiful connection between prayer and the burning of incense in the temple. The act of offering incense during the designated time accentuated the acceptability and significance of prayer. The imagery of incense in Scripture serves as a powerful metaphor for the fragrance of prayers rising to God. It also reminds worshippers of the ultimate sacrifice offered for them and the continuous intercession happening before God's throne.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the time of incense—which was offered along with the morning and evening sacrifice of every day; a beautiful symbol of the acceptableness of the sacrifice offered on the altar of burnt offering"
 2. "This again was a symbol of the 'living sacrifice' of themselves and their services offered daily to God by the worshippers."
 3. "But that the acceptance of this daily offering depended on the expiatory virtue presupposed in the burnt offering, and pointing to the one 'sacrifice of a sweet-smelling savor' is evident."
@@ -42,4 +42,4 @@ In this verse, there is a beautiful connection between prayer and the burning of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

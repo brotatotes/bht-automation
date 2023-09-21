@@ -9,7 +9,7 @@ In the midst of a tense and pivotal moment, a woman, recognizing John as a disci
 2. "Peter may have set himself among the servants of the High Priest to bear out his denial."
 3. "The μὴ καὶ σύ (Joh 18:25), as Luthardt remarks, implies that the other disciple had already been recognized as a follower of Jesus, and had escaped annoyance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His demeanor and timidity, which must have vividly showed themselves, as it so generally happens, leading to the recognition of him" - This quote highlights Peter's behavior and how it ultimately led to his recognition as one of Jesus' disciples.
 
 2. "Art thou not also one of this man's disciples?" - This quote captures the question posed to Peter, challenging his association with Jesus.
@@ -58,4 +58,4 @@ These quotes provide insights into Peter's actions and emotions during this cruc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

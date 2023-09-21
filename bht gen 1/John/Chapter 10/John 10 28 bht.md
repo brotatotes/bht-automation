@@ -4,7 +4,7 @@
 In this Bible verse, the speaker bestows the gift of eternal life to his followers, emphasizing the present reality and authority behind it. The declaration carries great significance, highlighting the profound and majestic nature of the gift. It asserts that those who receive this gift shall never perish, finding assurance and security in the protective hand of the speaker. This gift is not only a spiritual and transformative experience but also a demonstration of the unbreakable bond between the giver and the recipient.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I give unto them eternal life" - The gift of eternal life is not a future promise, but a present reality. It is a generous and immediate bestowal from the speaker, emphasizing the authority and power behind the gift.
 
 2. "It is a very grand utterance" - The statement carries great weight and significance. It is not a casual or insignificant declaration, but a profound and majestic proclamation.
@@ -42,4 +42,4 @@ In this Bible verse, the speaker bestows the gift of eternal life to his followe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, commentators highlight the union between Christ and believers through the indwelling of the Spirit. They emphasize that this union is not merely relative but a real and vital connection. The mortal body is subject to death due to sin, but the redeemed spirit experiences new and undying life. This life is not just a state of being alive, but a divine and sustained life that comes from having Christ within. It is through the Spirit of Christ that believers receive communion, grace, and a true sense of being truly alive.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If Christ be in you—by His indwelling Spirit in virtue of which we have one life with him."
 2. "I grant you that the body is dead...but, if Christ be in you by His indwelling Spirit, though your 'bodies' have to pass through the stage of 'death' in consequence of the first Adam's 'sin,' your spirit is instinct with new and undying 'life,' brought in by the 'righteousness' of the second Adam."
 3. "The word 'indeed,' which the original requires, is of the nature of a concession."
@@ -45,4 +45,4 @@ In this verse, commentators highlight the union between Christ and believers thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

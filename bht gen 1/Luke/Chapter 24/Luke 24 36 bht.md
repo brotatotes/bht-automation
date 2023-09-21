@@ -9,7 +9,7 @@ In this verse, Jesus himself stood in the midst of the disciples, showcasing his
 2. "The ordinary Jewish salutation, 'Shalom Lakhem,' but of more than ordinary meaning in the mouth of the Lord." 
 3. "The Lord appeared, the doors being shut, in the midst."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus . . . stood" - This emphasizes the authority and power of Jesus. Despite the challenges and opposition he faced, Jesus stood firm, showing his unwavering commitment to his mission and his willingness to confront any situation with courage and strength.
 
 2. "Jesus . . . stood" - This also signifies Jesus' readiness to intervene and take action. He is not passive or indifferent but actively involved in the affairs of humanity. His standing indicates his willingness to step in and bring about change, healing, and restoration.
@@ -56,4 +56,4 @@ In this verse, Jesus himself stood in the midst of the disciples, showcasing his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the early Christian community in Jerusalem is described as 
 2. "In order, however, rightly to understand this community, we may remark: (1) It is only found in the Church at Jerusalem." 
 3. "This community of goods was not, even in Jerusalem, enforced by rule, but, originating in free-will, became perhaps an understood custom, still however in the power of any individual not to comply with."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believers were not only united in their faith, but also in their actions. They shared everything they had, demonstrating a deep sense of community and selflessness."
 
 2. "This unity and sharing of resources among the believers reflected their commitment to living out the teachings of Jesus, who emphasized the importance of loving one another and caring for those in need."
@@ -47,4 +47,4 @@ In this Bible verse, the early Christian community in Jerusalem is described as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

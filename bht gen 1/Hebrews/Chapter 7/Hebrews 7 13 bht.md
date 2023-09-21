@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the change and distinctiveness o
 2. "For He with reference to whom these things are said, is a member of a different tribe, of which no one has ever given attention to the altar." 
 3. "The promise in Psalms 110:0 implies the enduring of His humanity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confirming the truth that a change is made of the law" - This quote highlights the idea that the new priesthood is distinct from the old Aaronic priesthood, signifying a shift or change in the law.
 
 2. "Showing the distinctness of the new priesthood from the Aaronic" - This quote emphasizes the clear separation between the new priesthood and the old Aaronic priesthood, further emphasizing the change that has taken place.
@@ -61,4 +61,4 @@ In this verse, the commentator quotes emphasize the change and distinctiveness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

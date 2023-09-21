@@ -9,7 +9,7 @@ In this Bible verse, we see the accusers standing up, exhibiting their charges a
 2. "Hinc iterum conjicere licet, imo aperte cognoscere, adeo futiles fuisse calumnias ut in judicii rationem venire non debuerint, perinde ac si quis convicium temere jactet." 
 3. "Calv."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As I supposed" implies that the speaker had suspicions or doubts about the crimes being committed. This suggests that the speaker had some prior knowledge or evidence that led them to believe that these crimes were taking place.
 
 2. The phrase "punishable by civil law" indicates that the crimes being referred to were not just moral or religious transgressions, but also violations of the legal system. This highlights the seriousness of the offenses and the potential legal consequences for the perpetrators.
@@ -59,4 +59,4 @@ In this Bible verse, we see the accusers standing up, exhibiting their charges a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

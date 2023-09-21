@@ -9,7 +9,7 @@ In this passage, we learn about the state of affairs in the last days of the gos
 2. "They, like the subsequent generations of the Church, were kept waiting for it, and for the most part wrote and spoke of it as soon to appear."
 3. "The discovery which the lapse of centuries and the ways of providence have made to us, misleads none but unfaithful servants."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The latter times," 1 Timothy 4:1, refer to a period not so remote as "the last days," namely, the long days of papal and Greek anti-Christianity.
 2. "Perilous" literally means "difficult times," in which it is difficult to know what is to be done: "grievous times."
 3. The coming of these times is described as being imminent and unexpected.
@@ -59,4 +59,4 @@ These quotes highlight the need for understanding, the significance of the end t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

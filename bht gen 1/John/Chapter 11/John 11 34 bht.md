@@ -4,7 +4,7 @@
 Jesus, with deep sympathies and composure, asked where Lazarus was buried, not out of ignorance, but to lead those around him to witness the miracle about to unfold. Restraining himself from immediately going to the burial site, Jesus manifested his humanity and omniscience, ensuring there was no doubt of trickery and drawing the Jews to be witnesses of the impending resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perhaps it was to retain composure enough to ask this question" - This quote suggests that Jesus asked where Lazarus was buried in order to maintain his composure and gather himself before proceeding further.
 2. "and on receiving the answer to proceed with them to the spot" - This quote implies that Jesus wanted to go to the burial site after asking the question, indicating his intention to witness the situation firsthand.
 3. "that He checked Himself" - This quote indicates that Jesus restrained himself from immediately going to the burial site, possibly to allow the situation to unfold naturally or to demonstrate his power in a more profound way.
@@ -28,4 +28,4 @@ Jesus, with deep sympathies and composure, asked where Lazarus was buried, not o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

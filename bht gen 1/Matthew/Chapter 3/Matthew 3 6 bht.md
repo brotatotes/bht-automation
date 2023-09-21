@@ -9,7 +9,7 @@ In this Bible verse, we see that the baptism administered during the day in the 
 2. "The whole families of proselytes, including infants, were baptized."
 3. "From the form and expression this does not seem to have been merely 'shewing a contrite spirit,' 'confessing themselves sinners,' but a particular and individual confession."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This baptism was at once a public seal of their felt need of deliverance from sin, of their expectation of the coming Deliverer, and of their readiness to welcome Him when He appeared."
 2. "The baptism itself startled, and was intended to startle, them."
 3. "They were familiar enough with the baptism of proselytes from heathenism; but this baptism of Jews themselves was quite new and strange to them."
@@ -53,4 +53,4 @@ In this Bible verse, we see that the baptism administered during the day in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

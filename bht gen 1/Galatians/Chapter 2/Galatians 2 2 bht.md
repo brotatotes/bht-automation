@@ -9,7 +9,7 @@ In this Bible verse, the speaker emphasizes their dependence on divine leading a
 2. "This wide assertion is limited by the next clause, 'I communicated it to them, but privately.'"
 3. "The reference must be to the estimation in which his preaching would be held by those to whom he imparted it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By revelation—not from being absolutely dependent on the apostles at Jerusalem, but by independent divine 'revelation.'"
 2. "It was necessary that the Jerusalem apostles should know beforehand that the Gospel Paul preached to the Gentiles was the same as theirs, and had received divine confirmation in the results it wrought on the Gentile converts."
 3. "Lest I should be running, or have run, in vain" - Paul does not fear running in vain himself, but he wants to ensure that others do not perceive his work as fruitless without an explanation.
@@ -59,4 +59,4 @@ These quotes shed light on Paul's interaction with the leaders, the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

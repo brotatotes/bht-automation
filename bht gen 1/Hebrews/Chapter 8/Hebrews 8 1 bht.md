@@ -9,7 +9,7 @@ The verse being described focuses on the unique and superior priesthood of Chris
 2. "The sitting at the right hand of God was mentioned as a pre-eminence of the Son above the angels, who stand as ministering spirits before the presence of God."
 3. "There is again a pre-eminence in καθίσαι over the Jewish high priests: for these, even when they entered the holiest place, did not sit down by the throne of God, but only stood before it for a moment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief point in the things which we are speaking."
 2. "He is set on the right hand of, c. Infinitely above all other priests in this one grand respect, He exercises His priesthood IN HEAVEN."
 3. "The Levitical high priests, even when they entered the Holiest Place once a year, only STOOD for a brief space before the symbol of God's throne but Jesus SITS on the throne of the Divine Majesty in the heaven itself, and this for ever."
@@ -59,4 +59,4 @@ The verse being described focuses on the unique and superior priesthood of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

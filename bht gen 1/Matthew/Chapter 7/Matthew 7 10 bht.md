@@ -4,7 +4,7 @@
 This verse speaks of God's faithful provision, ensuring that he only gives what is good and beneficial. It emphasizes the danger of misjudging and misunderstanding God's blessings, cautioning against labeling them as harmful or hurtful. It reminds us to appreciate and recognize the common yet essential provisions God provides, such as fish and bread, which signify his care and abundance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's provision is always good and trustworthy, just as a loving father would not give his child a harmful or dangerous gift." 
 
 2. "This verse reminds us of God's faithfulness and his desire to provide for our needs, assuring us that he will not give us something that will harm us." 
@@ -29,4 +29,4 @@ This verse speaks of God's faithful provision, ensuring that he only gives what 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

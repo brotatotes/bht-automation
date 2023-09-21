@@ -9,7 +9,7 @@ The Bible verse in question highlights the concept of believers being sealed by 
 2. "And assured us of the fact of that sealing: see Romans 8:16."
 3. "the pledge or token of the Spirit: genitive of apposition: the Spirit is the token."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "sealed here answers to 'stablisheth us'": The seal serves as a token that assures believers of their possession of God's promises and establishes them in their faith.
 2. "the Spirit as the earnest": The Holy Spirit is given to believers as a pledge, like money given as a down payment, assuring them of their full inheritance as children of God.
 3. "The Spirit is the pledge of the fulfillment of 'all the promises'": The Holy Spirit is the guarantee that all of God's promises will be fulfilled in the lives of believers.
@@ -48,4 +48,4 @@ The Bible verse in question highlights the concept of believers being sealed by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

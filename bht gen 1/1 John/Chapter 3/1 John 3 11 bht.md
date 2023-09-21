@@ -9,7 +9,7 @@ This is a message that has been proclaimed from the beginning of the Gospel, emp
 2. "The message which ye heard from the beginning, the announcement which from the beginning of the preaching of the Gospel was made to you."
 3. "That we love one another, carrying that combination of purpose and purport."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel message of Him who loved us, announced by His servants, is, that we love the brethren." 
 2. "Not here all mankind, but those who are our brethren in Christ, children of the same family of God, of whom we have been born anew." 
 3. "The message is not a mere command, as the law, but something good, something that brings love and unity among believers."
@@ -47,4 +47,4 @@ This is a message that has been proclaimed from the beginning of the Gospel, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

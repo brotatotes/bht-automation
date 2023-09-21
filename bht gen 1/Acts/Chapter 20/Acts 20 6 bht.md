@@ -9,7 +9,7 @@ As we embark on a new journey, we are reminded of the importance of taking actio
 2. "It appears that they arrived on a Monday."
 3. "Compare notes, 2 Corinthians 2:12, ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This, compared with 1 Corinthians 16:8, shows that the three months spent at Corinth were the winter months."
 2. "The vivid style of one now present will be here again observed."
 3. "Paul occupying himself, doubtless, in refreshing and strengthening fellowship with the brethren during the interval."
@@ -52,4 +52,4 @@ As we embark on a new journey, we are reminded of the importance of taking actio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

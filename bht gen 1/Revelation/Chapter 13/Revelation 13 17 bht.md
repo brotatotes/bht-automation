@@ -4,7 +4,7 @@
 In this verse, various commentators shed light on the symbolic nature of the mark and its implications. They mention that the mark may be symbolic of allegiance, similar to the sealing of the saints on their forehead. It is associated with a power that seeks control over commerce and traffic, potentially making it subservient to its own purposes. Additionally, the mark could bear the name or number of the beast, representing a public profession of a specific religious system.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mark may be, as in the case of the sealing of the saints in the forehead, not a visible mark, but symbolical of allegiance."
 2. "So the sign of the cross in Popery."
 3. "Under the final Antichrist this shall come to pass in its most violent form."
@@ -40,4 +40,4 @@ In this verse, various commentators shed light on the symbolic nature of the mar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

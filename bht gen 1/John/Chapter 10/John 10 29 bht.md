@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the unshakeable security and protection that believers have in God. They highlight the power and authority of the Father, who has given believers to Jesus and continues to bestow blessings upon him. This giving is ongoing, underscoring the continuous flow of divine care and grace. The commentators stress that no external force can snatch believers out of the hands of God, emphasizing the ultimate safety and strength of the church, protected by the Father and Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The impossibility of true believers being lost, in the midst of all the temptations which they may encounter, does not consist in their fidelity and decision, but is founded upon the power of God."
 2. "Here the doctrine of predestination is presented in its sublime and sacred aspect; there is a predestination of the holy, which is taught from one end of the Scriptures to the other."
 3. "That will of man which receives and loves the commands of God is produced only by God's grace."
@@ -35,4 +35,4 @@ In this verse, the commentators emphasize the unshakeable security and protectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

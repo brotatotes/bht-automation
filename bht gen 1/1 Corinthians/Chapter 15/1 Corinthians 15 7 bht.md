@@ -9,7 +9,7 @@ This verse describes a significant appearance of Jesus to James, the brother of 
 2. "This is decisive for the much wider use of the term ἀπόστολος than as applying to the Twelve only"
 3. "a strong presumption that James...was not one of the Twelve"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "James swore he would not eat bread from the hour that he drank the cup of the Lord, till he should see Him rising again from the dead." - Jerome
 2. "The term here includes many others besides 'the Twelve' already enumerated: perhaps the seventy disciples." - Chrysostom
 3. "Seen of James—the Less, the brother of our Lord." - Galatians 1:19
@@ -47,4 +47,4 @@ These quotes provide insights into the appearance of Jesus to James, the credibi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

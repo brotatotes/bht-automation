@@ -9,7 +9,7 @@ The verse being described portrays a moment where the speaker, overcome by the p
 2. "This sense of unworthiness and self-loathing is ever the effect, in the depths of a heart not utterly hardened, of the Divine Power and presence."
 3. "Christ here appears as the ideal man, the second Adam of the eighth Psalm."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did Peter then wish Christ to leave him? Verily no. His all was wrapped up in Him."
 2. "It was rather, Woe is me, Lord! How shall I abide this blaze of glory?"
 3. "A sinner such as I am is not fit company for Thee."
@@ -57,4 +57,4 @@ The verse being described portrays a moment where the speaker, overcome by the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

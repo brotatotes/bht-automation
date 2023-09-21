@@ -11,7 +11,7 @@ In this verse, the importance of messengers representing the church and its miss
 
 3. "they, being the ἀπόστολοι τ . ἐκκλ ., are such representatives" - This quote clarifies that the Corinthians, as apostles of the church, serve as representatives of the churches, reinforcing their responsibility to uphold a positive example for others to follow.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Manifesting to them in the face of the churches the manifestation of your love" - This verse emphasizes the importance of demonstrating love to others in the context of the church community. It encourages believers to openly display their love for one another, serving as a powerful witness to the world.
 2. "And of our boasting on your behalf" - This phrase highlights the idea that the love and actions of the believers should be a source of pride and joy for the apostle or leader of the church. It suggests that the positive impact of their love should be celebrated and shared with others.
 3. "The manifestation of your love" - This phrase underscores the significance of love as a visible and tangible expression. It implies that love should not remain hidden or internalized but should be actively shown and demonstrated to others, particularly within the context of the church.
@@ -56,4 +56,4 @@ In this verse, the importance of messengers representing the church and its miss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

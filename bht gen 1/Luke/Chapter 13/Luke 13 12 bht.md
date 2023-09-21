@@ -9,7 +9,7 @@ In this Bible verse, Jesus exhibits both his power and compassion as he calls th
 2. "ἀπολέλ expresses the setting free of her muscles from the power which bound them down."
 3. "The laying on of the divine hands confers upon her strength to rise and stand upright."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus addresses the woman as 'Woman,' which may seem harsh to our modern ears, but in this context, it is a term of respect and honor. By using this term, Jesus acknowledges her as a person of worth and dignity, not just a nameless individual in the crowd."
 
 2. "The act of laying hands on the woman is significant. It symbolizes Jesus' compassion and healing power. It is a physical touch that conveys his willingness to reach out and restore her to wholeness. In this simple gesture, Jesus demonstrates his love and care for all who are suffering."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus exhibits both his power and compassion as he calls th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

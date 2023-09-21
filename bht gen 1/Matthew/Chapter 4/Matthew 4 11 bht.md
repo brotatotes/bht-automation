@@ -9,7 +9,7 @@ After experiencing a relentless series of temptations in the garden of Gethseman
 2. "The expression in Luke 10:18, ἐθεώρουν τὸν σατανᾶν ὡς ἀστραπὴν ἐκ τοῦ οὐρανοῦ πεσόντα, must be otherwise understood." 
 3. "διηκόνουν] viz. with food, as in the case of Elias, 1 Kings 19:6-7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And after having refused to claim the illegitimate ministration of angels in His behalf, oh, with what deep joy would He accept their services when sent, unasked, at the close of all this temptation, direct from Him whom He had so gloriously honored!"
 2. "What 'angels' food' would this repast be to Him!"
 3. "The fourth Gospel alone gives the true succession of events; not only recording those important openings of our Lord's public work which preceded the Baptist's imprisonment—extending to the end of the third chapter—but so specifying the passover which occurred during our Lord's ministry as to enable us to line off, with a large measure of certainty, the events of the first three Gospels according to the successive passovers which they embraced."
@@ -51,4 +51,4 @@ After experiencing a relentless series of temptations in the garden of Gethseman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

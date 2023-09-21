@@ -9,7 +9,7 @@ In this verse, the commentators stress the importance of leaders in the Church e
 2. "‘the heritage of God’ is taken as the meaning by Cyril (on Isaiah 3:12), Calv., Beza (and consequently E. V.), Grot., Benson, al. But the objections to this are, that κλῆροι could not be taken for portions of κλῆρος, and that θεοῦ could in this case hardly be wanting."
 3. "the tyrannizing could only apply to the portion over which their authority extended, but the good example would be seen and followed by the whole church: hence τῶν κλήρων in the prohibition, but τοῦ ποιμνίου in the exhortation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that we have dominion over your faith." - This quote highlights the humility and lack of pride that should be present in those who lead in the Church.
 
 2. "The flock, as one whole, is God's heritage, or flock in the singular. Regarded in relation to its component sheep, divided among several pastors, it is in the plural 'heritages'." - This quote emphasizes the interconnectedness of the Church and the shared responsibility of pastors to care for God's people.
@@ -63,4 +63,4 @@ These quotes highlight the importance of ministers of religion exercising author
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

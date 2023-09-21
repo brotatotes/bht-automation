@@ -9,7 +9,7 @@ The verse emphasizes that faith, not works of the law, is the key to sharing in 
 2. "πίστεως has the emphasis." 
 3. "To show their community with him in the blessing: τῷ πιστῷ, to show wherein the community consists, viz. FAITH."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They—and they alone." 
 2. "Faithful—implying what it is in which they are 'blessed together with him,' namely, faith, the prominent feature of his character."
 3. "The result to all who like him have it, is justification."
@@ -55,4 +55,4 @@ The verse emphasizes that faith, not works of the law, is the key to sharing in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

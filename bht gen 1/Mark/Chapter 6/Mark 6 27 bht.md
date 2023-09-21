@@ -11,7 +11,7 @@ In this verse, we witness the tragic and chilling demise of John the Baptist, ex
 
 Note: The provided commentary does not seem to be directly related to a specific Bible verse. Please provide the commentary for a specific verse so that I can extract the relevant quotes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed martyr! Dark and cheerless was the end reserved for thee: but now thou hast thy Master's benediction."
 2. "Blessed is he whosoever shall not be offended in Me" (Matthew 11:6).
 3. "But where are they in whose skirts is found thy blood?"
@@ -40,4 +40,4 @@ Note: The provided commentary does not seem to be directly related to a specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

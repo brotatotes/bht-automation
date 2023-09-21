@@ -9,7 +9,7 @@ This verse depicts the initial disbelief and skepticism of the disciples upon he
 2. "θεάομαι is not used by Mark." - The absence of this word in Mark's Gospel suggests a distinct perspective or emphasis in the portrayal of the events surrounding Jesus' resurrection.
 3. "ἀπιστέω is only used in Mar 16:16 and Luke 24:11; Luke 24:41, throughout the Gospels." - The consistent use of this word in the Gospels underscores the theme of disbelief or doubt among the disciples, adding depth to the narrative of Jesus' resurrection.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And they, when they had heard that he was alive, and had been seen of her, believed not." - This verse highlights the initial disbelief of the disciples upon hearing about Jesus' resurrection. It emphasizes the significance of their eventual transformation and unwavering conviction in proclaiming the resurrection, even at the risk of their own lives.
 
 2. "This, which is once and again repeated of them all, is most important in its bearing on their subsequent testimony to His resurrection at the risk of life itself." - The repetition of the disciples' initial disbelief underscores the weight of their later testimony. It demonstrates the profound impact of witnessing Jesus' resurrection and their unwavering commitment to proclaiming this truth, even in the face of persecution and potential death.
@@ -47,4 +47,4 @@ This verse depicts the initial disbelief and skepticism of the disciples upon he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

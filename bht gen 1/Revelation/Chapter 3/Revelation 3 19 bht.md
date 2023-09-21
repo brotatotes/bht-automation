@@ -9,7 +9,7 @@ This verse conveys a powerful message about the love of Christ and his desire fo
 2. "I love...in its fullest and most blessed sense."
 3. "Begin that life of zeal by an act, decisive and effective, of change of purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He scourgeth every son whom He receiveth. And shalt thou be an exception? If excepted from suffering the scourge, thou art excepted from the number of the sons" [AUGUSTINE].
 2. "This is an encouragement to Laodicea not to despair, but to regard the rebuke as a token for good, if she profit by it."
 3. "In the divine chastening, the sinner at one and the same time winces under the rod and learns righteousness."
@@ -54,4 +54,4 @@ This verse conveys a powerful message about the love of Christ and his desire fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

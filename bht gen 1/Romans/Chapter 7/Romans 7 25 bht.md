@@ -9,7 +9,7 @@ In this passage, the writer expresses gratitude to God, recognizing that only th
 2. "This exclamation and thanksgiving more than all convince me, that Paul speaks of none other than himself, and carries out as far as possible the misery of the conflict with sin in his members, on purpose to bring in the glorious deliverance which follows."
 3. "So then (as appears from the foregoing), I myself (I, who have said all this against and in disparagement of the law; I, who write of justification by faith without the deeds of the law) with my mind (indeed) serve the law of God, but with my flesh the law of sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's holy law is dear to my renewed mind, and has the willing service of my new man; although that corrupt nature which still remains in me listens to the dictates of sin."
 2. "Everyone feels that he cannot do the things that he would, yet is sensible that he is guilty for not doing them. Let any man test his power by the requisition to love God perfectly at all times. Alas! how entire our inability! Yet how deep our self-loathing and self-condemnation!"
 3. "The experimental discovery, in the latter stages of the Christian life, of [the Cross's] power to beat down and mortify inveterate corruption, to cleanse and heal from long-continued backslidings and frightful inconsistencies, and so to triumph over all that threatens to destroy those for whom Christ died, as to bring them safe over the tempestuous seas of this life into the haven of eternal rest—is attended with yet more heart-affecting wonder, draws forth deeper thankfulness, and issues in more exalted adoration of Him whose work Salvation is from first to last."
@@ -49,4 +49,4 @@ In this passage, the writer expresses gratitude to God, recognizing that only th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

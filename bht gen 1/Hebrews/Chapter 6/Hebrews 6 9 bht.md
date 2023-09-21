@@ -9,7 +9,7 @@ The commentator expresses his affection for the readers, addressing them as "bel
 2. "the better course as regards your moral state: or, the better fate, as regards your ultimate end."
 3. "the formula ἔχεσθαί τινος, ‘to be next to,’ ‘bordering on,’ has occasioned the participle ἐχόμενος to be used in the sense of akin to, partaking of the nature of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "LOVE to you prompts me in the strong warnings I have just given, not that I entertain unfavorable thoughts of you; nay, I anticipate better things of you." 
 2. "That ye are not thorn-bearing, or nigh unto cursing, and doomed unto burning, but heirs of salvation in accordance with God's faithfulness."
 3. "We are persuaded—on good grounds; the result of proof. Compare 1 Corinthians 9:2, 'I myself am persuaded of you, my brethren, that ye are full of goodness.'"
@@ -52,4 +52,4 @@ Note: The provided commentary does not include a specific Bible verse. Please pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

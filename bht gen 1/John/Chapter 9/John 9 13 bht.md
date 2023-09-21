@@ -9,7 +9,7 @@ The neighbors, out of hostility to Jesus, bring the formerly blind man to the Ph
 2. "The Pharisees here may have been the court presiding over the synagogue, or one of the lesser local courts of Sanhedrim."
 3. "Meyer regards them as some formal section of the Pharisees, as a body: but were there such?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Pharisees, being the religious leaders of the time, were often consulted on matters of religious significance. Their position of authority and influence made them a natural choice for people to bring their concerns or questions to."
 
 2. "Sitting in council suggests that the Pharisees were deliberating and making decisions as a group. This indicates that the matter brought to them was of importance and required their collective wisdom and judgment."
@@ -49,4 +49,4 @@ The neighbors, out of hostility to Jesus, bring the formerly blind man to the Ph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

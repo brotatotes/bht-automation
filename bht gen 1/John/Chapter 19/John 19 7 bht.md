@@ -11,7 +11,7 @@ In the midst of the trial of Jesus before Pilate, the Jewish leaders, realizing 
 
 3. "See Lev 24:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their criminal charges having come to nothing, they give up that point, and as Pilate was throwing the whole responsibility upon them, they retreat into their own Jewish law." 
 
 2. "By claiming equality with God, He ought to die; insinuating that it was Pilate's duty, even as civil governor, to protect their law from such insult." 
@@ -57,4 +57,4 @@ In the midst of the trial of Jesus before Pilate, the Jewish leaders, realizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, it is revealed that all believers, both Jews and Gentiles, are co
 2. "The omission of τῆς before ἐν will stagger no one: see Colossians 1:4, where the same expression occurs." 
 3. "The idea of ἐν χρ. Ἰησ. in that case has been already given by διὰ τῆς πίστεως."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye all" (Jews and Gentiles alike) are no longer "children" requiring a tutor, but SONS emancipated and walking at liberty.
 2. The term "sons" emphasizes the new status and relationship believers have with God through faith.
 3. This verse highlights the inclusive nature of salvation, extending to both Jews and Gentiles.
@@ -52,4 +52,4 @@ In this verse, it is revealed that all believers, both Jews and Gentiles, are co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

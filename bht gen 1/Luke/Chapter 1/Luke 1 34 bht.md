@@ -4,7 +4,7 @@
 A faithful and pure-hearted woman, filled with wonder and admiration, speaks up about the miraculous conception. Striving to understand the unbroken law of human birth, she seeks to unravel the mystery of the divine plan. With strong faith and instincts of maidenly purity, she poses her question not out of doubt, but a genuine desire to comprehend the extraordinary means by which this event will come to pass. Inquisitive yet believing, she offers her words as a testament to her trust in the fulfillment of God's promises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How, &c.—not the unbelief of Zacharias, 'Whereby shall I know this?' but, taking the fact for granted, 'How is it to be, so contrary to the unbroken law of human birth?'"
 2. "Instead of reproof, therefore, her question is answered in mysterious detail."
 3. "Her question is not treated as a doubt, but as a difficulty to be solved."
@@ -28,4 +28,4 @@ A faithful and pure-hearted woman, filled with wonder and admiration, speaks up 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the Christian virtues and ac
 2. "τοῦ ἔργου τῆς πίστεως: 'that work (energetic activity) which faith brings forth' (as Chrys. ἡ πίστις διὰ τῶν ἔργων δείκνυται)." 
 3. "τοῦ κόπου: probably towards the sick and needy strangers, not in the word and ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not an otiose assent; but a realizing, working faith; not 'in word only,' but in one continuous chain of 'work'." 
 2. "The Greek implies toil, or troublesome labor, which we are stimulated by love to bear."
 3. "Your 'faith, hope, and love' were not merely such as would pass for genuine before men, but 'in the sight of God,' the Searcher of hearts."
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the Christian virtues and ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentators describe the deceptive nature of Satan, who has 
 
 3. "Satan is the Power of darkness" - This quote contrasts God's light with Satan's darkness, symbolizing the opposing forces of good and evil in the spiritual realm. It underscores the spiritual battle between God and Satan.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "transforms himself" (compare  :-); habitually; the first occasion of his doing so was in tempting Eve.
 2. "Himself" is emphatical: If their master himself, who is the "prince of darkness," the most alien to light, does so.
 3. It is less marvellous in the case of them who are his servants.
@@ -57,4 +57,4 @@ In this verse, the commentators describe the deceptive nature of Satan, who has 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

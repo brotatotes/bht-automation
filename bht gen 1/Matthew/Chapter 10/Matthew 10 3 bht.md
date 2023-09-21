@@ -9,7 +9,7 @@ In this Bible verse, we encounter a diverse group of individuals who were called
 2. "Bartholomew is not his own name, but a patronymic." 
 3. "Thomas is identified with the Matthew of Matthew 9:9."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bartholomew is not so properly an individual's name as a family surname."
 2. "Matthew the publican... would have all to know how deep a debtor he had been to his Lord."
 3. "James the son of Alphaeus... must have been our Lord's cousin."
@@ -42,4 +42,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

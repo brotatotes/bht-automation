@@ -4,7 +4,7 @@
 In this verse, we see a vision where the Lamb, who is the Lord Jesus Christ, stands on Mount Zion, the heavenly dwelling place of God. The Lamb is portrayed as the Redeemer of his people, with the name of the Lamb and God inscribed on the foreheads of the victorious ones who belong to him. This holy seal serves as protection for this remnant according to the election of grace. The scene highlights the significance of the church above, reminding Christians of their connection to these grand prophetic events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lamb . . . on . . . Sion—having left His position 'in the midst of the throne,' and now taking His stand on Sion."
 2. "God's and Christ's name here answers to the seal 'upon their foreheads' in Revelation 7:3. As the 144,000 of Israel are 'the first-fruits,' so 'the harvest' is the general assembly of Gentile saints to be translated by Christ as His first act in assuming His kingdom."
 3. "The common affliction will draw closely together, in opposing the beast's worship, the Old Testament and New Testament people of God. Thus the way is paved for Israel's conversion."
@@ -45,4 +45,4 @@ In this verse, we see a vision where the Lamb, who is the Lord Jesus Christ, sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

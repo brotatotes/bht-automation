@@ -4,7 +4,7 @@
 The book being described is an open and unsealed prophetic book, intended to be read and understood by all. It carries a message for the Church, emphasizing the imminent fulfillment of prophecies and the need for believers to be prepared for the trials and persecutions they will face. It assures them of the ultimate triumph of their faith and provides comfort and hope in the midst of tribulations. The timing of these events is described as being near, with a sense of urgency imparted to the readers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The New Testament is the time of the end and fulfilment."
 2. "The Gentile Church, for which John wrote his Revelation, needs more to be impressed with the shortness of the period."
 3. "The Revelation points, on the one hand, to Christ's coming as distant, for it shows the succession of the seven seals, trumpets, and vials; on the other hand, it proclaims, 'Behold, I come quickly.'"
@@ -45,4 +45,4 @@ The book being described is an open and unsealed prophetic book, intended to be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

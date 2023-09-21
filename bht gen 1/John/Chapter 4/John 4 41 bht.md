@@ -4,7 +4,7 @@
 The verse described here portrays a profound impact made by Jesus' ministry, leading to a large-scale awakening and an abundance of believers. Commentators emphasize the significant increase in the number of people who recognized and followed Jesus as the Messiah. His teachings and supernatural knowledge were so powerful and impactful that they resulted in the genuine faith of many individuals. Jesus' words carried immense weight as they brought about a transformation and salvation for those who believed in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These Samaritans were the foundation of the Church afterwards built up there."
 2. "No miracle appears to have been wrought there (but unparalleled supernatural knowledge displayed)."
 3. "This incident is further remarkable as a rare instance of the Lord's ministry producing an awakening on a large scale."
@@ -35,4 +35,4 @@ The verse described here portrays a profound impact made by Jesus' ministry, lea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

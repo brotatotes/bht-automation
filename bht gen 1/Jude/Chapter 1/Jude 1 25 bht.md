@@ -4,7 +4,7 @@
 This Bible verse refers to the only God, our Savior, who is reached through the mediation of Jesus Christ our Lord. It emphasizes the eternal nature of God's presence and authority, extending beyond the present moment into all of time. Believers are encouraged to separate themselves from false teachings and ungodly influences, while actively defending the truth of the faith. Jesus Christ, truly God, is the wisdom of God and the author of all wisdom, honored and enthroned at the right hand of God, with dominion over all nature and providence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To the only God (the Father) who is our Savior through (that is, by the mediation of) Jesus Christ our Lord."
 2. "The sense is, To the only God (the Father) who is our Savior through (that is, by the mediation of) Jesus Christ our Lord."
 3. "The oldest manuscripts and Vulgate, after 'power,' have 'before all the age,' that is, before all time as to the past: 'and now,' as to the present; 'and to all the ages,' that is, forever, as to the time to come."
@@ -33,4 +33,4 @@ This Bible verse refers to the only God, our Savior, who is reached through the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

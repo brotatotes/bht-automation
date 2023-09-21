@@ -9,7 +9,7 @@ In this verse, various commentators shed light on the struggle against falsehood
 2. "Not 'against God,' but 'of, or concerning God.'" 
 3. "If in reality, as they assert."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Testified of God" - The commentary explains that this phrase refers to speaking concerning God, rather than speaking against God. This clarification helps to understand the intention behind the testimony.
 2. "The Greek preposition with the genitive implies, not direct antagonism, but indirect to the dishonor of God" - This quote further emphasizes that the testimony is not meant to directly oppose God, but rather to indirectly dishonor Him. It adds depth to the understanding of the verse.
 3. "It is not right to tell untrue stories, though they are told and seem for the glory of God" - This statement highlights the importance of truthfulness, even when it comes to stories that may appear to bring glory to God. It reminds readers to prioritize honesty in their testimonies.
@@ -43,4 +43,4 @@ In this verse, various commentators shed light on the struggle against falsehood
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

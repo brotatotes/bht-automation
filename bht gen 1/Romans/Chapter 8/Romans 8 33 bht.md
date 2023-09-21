@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the assurance and security of believer
 2. "Who is he that condemns them?" - The pres. part. as expressing the official employment, ‘is their accuser,’ is better than the fut., as corresponding more closely with δικαιῶν.
 3. "Christ who died, yea who rather is also risen, who also is at the right hand of God, who also intercedes for us?" - All the great points of our redemption are ranged together, from the death of Christ to His still enduring intercession, as reasons for negativing the question above. De W.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who shall lay anything to the charge of God's elect?" - This verse highlights the assurance and security of believers in God's election. It emphasizes that no one can bring any accusation or charge against those whom God has chosen.
 
 2. "In what sense this is meant will appear in the next chapter." - This quote suggests that the next chapter will provide further explanation and clarification regarding the concept of God's elect. It indicates that there is more to be revealed about the significance and implications of being chosen by God.
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the assurance and security of believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

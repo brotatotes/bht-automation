@@ -4,7 +4,7 @@
 After the Jewish dispensation expires, God promises to return and show favor to His people. He will rebuild the fallen tabernacle of David by raising up the Christ, who will establish a spiritual and eternal kingdom. This rebuilding signifies the revival of true religion, the expansion of the church through the conversion of both Jews and Gentiles, and the restoration of God's people to their former glory and blessings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simeon—a Hebrew variation of Simon, as in 2 Peter 1:1; (Greek), the Jewish and family name of Peter." 
 2. "hath declared how God at the first—answering to Peter's own expression 'a good while ago' (Acts 15:7)." 
 3. "did visit the Gentiles to take out of them—in the exercise of His adorable sovereignty. a people for his name—the honor of his name, or for His glory."
@@ -45,4 +45,4 @@ After the Jewish dispensation expires, God promises to return and show favor to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

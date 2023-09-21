@@ -9,7 +9,7 @@ In this verse, the commentators provide insights into the meaning of "flesh" and
 2. "we were children by nature, of wrath"
 3. "we were all concluded under and born in sin, and so actual objects of that wrath of God which is His mind against sin"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our conversation implies an outwardly more decorous course, than the open 'walk' in gross sins on the part of the majority of Ephesians in times past."
 2. "Not merely is it, we had our way of life fulfilling our fleshly desires, and so being children of wrath; but we were by nature originally 'children of wrath,' and so consequently had our way of life fulfilling our fleshly desires."
 3. "Paul shows that even the Jews, who boasted of their birth from Abraham, were by natural birth equally children of wrath as the Gentiles, whom the Jews despised on account of their birth from idolaters."
@@ -55,4 +55,4 @@ These quotes highlight the commentary's explanation of the different meanings of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

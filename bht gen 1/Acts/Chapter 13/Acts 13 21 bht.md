@@ -9,7 +9,7 @@ In the transition from judges to monarchy, the appointment of Saul from the trib
 2. "In the O. T. the length of Saul’s reign is not specified; 1Sa 7:2 gives no reason, as Bengel thinks, why Saul’s reign should have been less than twenty years."
 3. "Biscoe has well shewn (p. 399), that as Saul was a young man when anointed king, and Ishbosheth his youngest son (1Ch 8:33) was forty years old at his death (2Sa 2:10), his reign cannot have been much short of that period."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God gave... them Saul" - This highlights the divine intervention in the appointment of Saul as king, emphasizing that it was not a mere human decision.
 2. "of the tribe of Benjamin" - This detail emphasizes Saul's tribal affiliation, which is significant in understanding his role as king and his connection to the people of Israel.
 3. "forty years" - The mention of the length of Saul's reign adds historical context and aligns with the account given by Josephus, a Jewish historian, further validating the accuracy of the biblical narrative.
@@ -50,4 +50,4 @@ In the transition from judges to monarchy, the appointment of Saul from the trib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

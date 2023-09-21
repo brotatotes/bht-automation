@@ -9,7 +9,7 @@ The Bible verse describes the consequences of hoarding wealth without using it t
 2. "The rust, happening generally to metals, is predicated of gold and silver without care for exact precision."
 3. "In the consuming of your wealth, you see depicted your own."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your riches were of no profit to any, lying unemployed and so contracting rust."
 2. "The rust which once ate your riches, shall then gnaw your conscience, accompanied with punishment which shall prey upon your bodies for ever."
 3. "Ye have heaped together, not treasures as ye suppose, but wrath against the last days, namely, the coming judgment of the Lord."
@@ -59,4 +59,4 @@ Note: The commentary provided does not offer much depth or insight into the vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

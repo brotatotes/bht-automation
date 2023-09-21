@@ -9,7 +9,7 @@ This verse depicts a humble and teachable attitude, acknowledging the need for g
 2. "The reason of the negative which is understood."
 3. "γάρ gives the reason."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beautiful expression at once of humility and docility"
 2. "Invitation to Philip...being but the natural expression of this"
 3. "Come up and sit with him"
@@ -52,4 +52,4 @@ This verse depicts a humble and teachable attitude, acknowledging the need for g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

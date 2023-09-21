@@ -4,7 +4,7 @@
 The verse describes a group of angels who have received their instructions from God's sanctuary. They are adorned in beautiful garments, with clothes studded with precious stones and clothed in pure white linen, representing their holiness and service. Girded with golden girdles, they bear a high dignity and rest, resembling the Lord Himself in their appearance. As ministers and members of the Church, they execute God's judgment upon the evil and are clothed in the righteousness of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are by anticipation described according to their office."
 2. "On the principle that the harder reading is the one least likely to be an interpolation."
 3. "Resembling the Lord in this respect."
@@ -43,4 +43,4 @@ The verse describes a group of angels who have received their instructions from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

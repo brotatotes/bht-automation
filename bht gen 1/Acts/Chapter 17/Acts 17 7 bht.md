@@ -9,7 +9,7 @@ The accusation against the early Christians, brought by the Jews and presented b
 2. "This false charge seems to have been founded on Paul’s preaching much at Thessalonica concerning the triumphant παρουσία of Christ."
 3. "This appears again and again in his two Epistles: see 1 Thessalonians 1:10; 1 Thessalonians 2:19; 1Th 3:13; 1 Thessalonians 4:13-18; 1 Thessalonians 5:1-2; 2Th 1:5; 2 Thessalonians 1:7-10; 2 Thessalonians 2:1-12; and particularly 2 Thessalonians 2:5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All do contrary to the decrees of Caesar" - This phrase suggests that the actions of the early Christians were seen as a threat to the authority of Caesar. It highlights the tension between the kingdom of God and the kingdoms of this world.
 
 2. "There is another king, one Jesus" - This statement emphasizes the unique and exclusive kingship of Jesus. It implies that the early Christians recognized Jesus as their ultimate authority and ruler, even above earthly kings and rulers.
@@ -54,4 +54,4 @@ Note: The commentary provides historical context and insights into the accusatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

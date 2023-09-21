@@ -9,7 +9,7 @@ In this verse, we are reminded of the diversity of individuals who are called by
 2. "He calls attention to the fact that not many of you are wise according to the flesh, not many mighty, not many noble."
 3. "The whole history of the expansion of the church is in reality a progressive victory of the ignorant over the learned, the lowly over the lofty, until the emperor himself laid down his crown before the cross of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What Paul is dwelling on is the weakness of the instrumentality which the Lord employed to convert the world."
 2. "The whole history of the expansion of the Church is a progressive victory of the ignorant over the learned, the lowly over the lofty."
 3. "The wisdom of this world acquired by human study without the Spirit."
@@ -57,4 +57,4 @@ In this verse, we are reminded of the diversity of individuals who are called by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

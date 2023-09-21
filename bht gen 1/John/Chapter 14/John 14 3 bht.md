@@ -9,7 +9,7 @@ The Bible verse being described is about the promise of Jesus' return and the ho
 2. "The result of His coming again shall be His taking His people to Himself to be where He is."
 3. "His coming again is begun in His Resurrection, carried on in the spiritual life, further advanced when each by death is fetched away to be with Him, and fully completed at His coming in glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will come again and receive you unto myself" - This statement emphasizes the personal nature of Jesus' return. It signifies not only His physical appearance, but also the intimate connection between Him and His followers. It reassures believers that they will be personally received by Jesus Himself.
 2. "To come again to receive His people to Himself" - This highlights the purpose of Jesus' return, which is to gather His people to Himself. It signifies His desire to be with His followers and to have them in His presence. It shows His love and care for His people.
 3. "That where He is there they may be also" - This phrase emphasizes the ultimate goal of Jesus' return, which is to be united with His followers. It signifies the eternal dwelling of believers with Jesus, where they will be in His presence forever. It brings hope and comfort to believers, knowing that they will be with Jesus in the place where He is.
@@ -47,4 +47,4 @@ The Bible verse being described is about the promise of Jesus' return and the ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

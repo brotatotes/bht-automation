@@ -9,7 +9,7 @@ This powerful declaration of God's sovereignty and justice reminds us that even 
 2. "According to the present text the difficulty arises, that we must either take גּוֹיִם of the Jewish tribes, or construe הִרְנִין with an accus., instead of with לְ (Gesen.): the reading of the LXX may therefore be right."
 3. "In several passages where the Gentiles are spoken of prophetically, the Hebrew text has apparently been tampered with by the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice, ye Gentiles—along with his people—Israel." This verse highlights the unity between the Gentiles and the people of Israel, emphasizing that they are to rejoice together. It signifies the inclusion of the Gentiles into the blessings and promises of God's chosen people.
 
 2. "Though there is some difficulty in the Hebrew." This phrase acknowledges that there may be challenges in interpreting the original Hebrew text, indicating the need for careful study and understanding of the context to fully grasp the meaning of the verse.
@@ -63,4 +63,4 @@ This powerful declaration of God's sovereignty and justice reminds us that even 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

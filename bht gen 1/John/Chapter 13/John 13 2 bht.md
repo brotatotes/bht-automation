@@ -9,7 +9,7 @@ In the midst of a supper, while Judas had already made the wicked decision to be
 2. "Judas had before this covenanted with the Sanhedrim to betray Him, which must here be meant by the devil having put it into his heart." 
 3. "The fact is here stated, to enhance the love which Jesus showed in the following action."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "supper being ended—rather, 'being prepared,' 'being served,' or 'going on'; for that it was not 'ended' is plain from Luke 22:19." 
 
 2. "the devil having now—or, 'already'—put into the heart of Judas... to betray him—referring to the agreement he had already made with the chief priests." 
@@ -59,4 +59,4 @@ Note: The commentary provided is a combination of different explanations for eac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

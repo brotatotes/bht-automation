@@ -9,7 +9,7 @@ The verse being described is a call to leaders in the church to take heed to the
 2. "The question between θεοῦ and κυρίου rests principally on internal evidence which of the two is likely to have been the original reading."
 3. "The manuscript authority, now that it is certain that [105] has θεοῦ a prima manu, as also [106], is weighty on both sides."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe here how the personal is put before the pastoral care."
 2. "The distinction between these offices cannot be certainly traced till the second century, nor was it established till late in that century."
 3. "The transcendent sacredness of the Church of Christ is thus made to rest on the dignity of its Lord and the consequent preciousness of that blood which He shed for it."
@@ -61,4 +61,4 @@ The verse being described is a call to leaders in the church to take heed to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

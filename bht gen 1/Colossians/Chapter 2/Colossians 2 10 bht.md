@@ -4,7 +4,7 @@
 In Christ, believers find their fullness and completeness, lacking nothing in Him as highlighted by commentators. They receive an anointing and empowerment from Him, their ultimate source of spiritual authority. Christ's supremacy is emphasized over all other authorities, deserving sole worship and reverence. Believers are complete in Him, finding their fullness and perfection that can be obtained from His resources. The goal is to be filled with God in Christ, partaking in His fullness, and relying solely on Him for their needs.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are in Him (by virtue of union with Him) filled full" - This quote emphasizes the believers' complete fulfillment and sufficiency in Christ, highlighting the idea that they lack nothing in Him.
 
 2. "Believers receive of the divine unction which flows down from their Divine Head and High Priest" - This quote suggests that believers receive an anointing or empowerment from Christ, who is their ultimate source of spiritual authority and guidance.
@@ -51,4 +51,4 @@ In Christ, believers find their fullness and completeness, lacking nothing in Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

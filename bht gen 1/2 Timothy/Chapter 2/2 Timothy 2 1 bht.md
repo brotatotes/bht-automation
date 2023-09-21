@@ -9,7 +9,7 @@ In light of the previous chapter, we are called to rise above slothfulness and r
 2. "The true keeping of the deposit entrusted to thee will involve thy handing it on unimpaired to others, who may in their turn hand it on again."
 3. "Scripture has been God’s way of fixing tradition, and rendering it trustworthy at any distance of time; of obviating the very danger which in this Epistle we see so imminent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou therefore...shunning that of those who forsook me." 
 2. "Children ought to imitate their father." 
 3. "Be strong...implying an abiding state of power."
@@ -48,4 +48,4 @@ In light of the previous chapter, we are called to rise above slothfulness and r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

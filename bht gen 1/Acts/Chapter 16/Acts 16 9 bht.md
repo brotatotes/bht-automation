@@ -9,7 +9,7 @@ This vision, similar to one seen by Peter before, was not a dream but a supernat
 2. "The context precludes our understanding it as a dream."
 3. "Μακεδών known probably by the affecting words spoken by him. There would hardly be any peculiarity of dress by which a Macedonian could be recognized."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This visional Macedonian discovered himself by what he said. But it was a cry not of conscious desire for the Gospel, but of deep need of it and unconscious preparedness to receive it."
 2. "God had left the Gentile peoples to walk in their own ways. They had sought to gain salvation for themselves; but those who had carried it farthest along the paths of natural development were now pervaded by the feeling that all had indeed been vanity."
 3. "This voice cries from heathendom still to the Christian Church, and never does the Church undertake the work of missions, nor any missionary go forth from it, in the right spirit, save in obedience to this cry."
@@ -43,4 +43,4 @@ This vision, similar to one seen by Peter before, was not a dream but a supernat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

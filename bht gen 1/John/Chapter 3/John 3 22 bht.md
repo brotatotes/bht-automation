@@ -9,7 +9,7 @@ In this verse, Jesus transitions from the bustling city of Jerusalem to the coun
 2. "The rural districts of Judæa, in distinction from the metropolis." 
 3. "Perhaps He did not remain in one fixed spot."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The land of Judea refers to the rural parts of the province, highlighting the contrast between the bustling capital and the more secluded areas where John the Baptist was baptizing."
 2. "The term 'baptized' here is used in the same sense as explained in John 4:2, indicating a spiritual cleansing and initiation into a new way of life."
 3. "This verse emphasizes the significance of John's baptism and sets the stage for the subsequent conversation between John and his disciples."
@@ -59,4 +59,4 @@ In this verse, Jesus transitions from the bustling city of Jerusalem to the coun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

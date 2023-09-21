@@ -4,7 +4,7 @@
 In this powerful and miraculous verse, we see the divine authority given to the witnesses emphasized. They have the power to shut the heavens, mirroring Elijah's ability to control the rain. Additionally, they possess the ability to turn waters into blood, evoking the plagues of Egypt. Their judgment is comprehensive and all-encompassing, as they can smite the earth with all kinds of plagues as often as they desire. The potency of their power sets them apart from any previous prophets or figures, making them unique and impactful.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Authorized power" refers to the divine authority given to someone to exercise power or control. This implies that the power being discussed in the verse is not arbitrary or unauthorized but is backed by divine authority.
 2. The phrase "rain shower not" suggests that the earth will not receive any form of moisture or nourishment. This emphasizes the severity of the punishment being described in the verse.
 3. "Smite . . . with all plagues" indicates that the punishment will be comprehensive and encompass every kind of plague or affliction. This highlights the thoroughness and completeness of the judgment being described.
@@ -51,4 +51,4 @@ In this powerful and miraculous verse, we see the divine authority given to the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

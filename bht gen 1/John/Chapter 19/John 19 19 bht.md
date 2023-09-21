@@ -11,7 +11,7 @@ On the cross, a sign was displayed that read, "Jesus of Nazareth, the King of th
 
 3. "The sign on the cross not only declared Jesus' kingship, but it also revealed the irony of his reign. Jesus' kingdom is not of this world, and his power and authority are demonstrated through self-sacrifice and love, rather than through earthly might and domination."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These were the chief languages of the earth, and this secured that all spectators should be able to read it."
 2. "Stung by this, the Jewish ecclesiastics entreat that it may be so altered as to express, not His real dignity, but His false claim to it."
 3. "And thus, amidst the conflicting passions of men, was proclaimed, in the chief tongues of mankind, from the Cross itself and in circumstances which threw upon it a lurid yet grand light, the truth which drew the Magi to His manger, and will yet be owned by all the world!"
@@ -54,4 +54,4 @@ On the cross, a sign was displayed that read, "Jesus of Nazareth, the King of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the admonition to use worldly wealth for righteous purpose
 2. "In bringing up the example into the purer air which the sons of light breathe, its grosser parts drop off, and the finer only remain."
 3. "Deeds then of charity and mercy are to be our spiritual shrewdness, by which we may turn to our account the ἄδικον μαμωνᾶ, providing ourselves with friends out of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Turn to your advantage; that is, as the steward did, 'by showing mercy to the poor'." 
 2. "mammon of unrighteousness—treacherous, precarious."
 3. "those you have relieved may rise up as witnesses for you at the great day."
@@ -48,4 +48,4 @@ In this verse, we see the admonition to use worldly wealth for righteous purpose
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

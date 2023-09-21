@@ -9,7 +9,7 @@ On the other side of the sea, Jesus left the multitude astonished and puzzled as
 2. "πότε, as Stier remarks, includes πῶς in its meaning."
 3. "Our Lord leaves the question unanswered, because it was not for a sign to these people that He had miraculously crossed the lake."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "astonished at His being there, and wondering how He could have accomplished it"
 2. "they could not see how, unless He had travelled all night round the head of the lake alone, He could have reached Capernaum"
 3. "even then, how He could have arrived before themselves"
@@ -38,4 +38,4 @@ On the other side of the sea, Jesus left the multitude astonished and puzzled as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

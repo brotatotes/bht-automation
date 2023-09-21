@@ -9,7 +9,7 @@ The verse being described is about Jesus appointing seventy others and sending t
 2. "The number of seventy might perhaps have reference to the seventy elders of Israel, Exodus 24:1; Numbers 11:16."
 3. "All sorts of fanciful analogies have been found out and insisted on (and moreover forced into the text), which are not worth recounting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord—a becoming title here, as this appointment was an act truly lordly." 
 2. "The mission, unlike that of the Twelve, was evidently quite temporary." 
 3. "All the instructions are in keeping with a brief and hasty pioneering mission, intended to supply what of general preparation for coming events the Lord's own visit afterwards to the same 'cities and places' would not, from want of time, now suffice to accomplish."
@@ -50,4 +50,4 @@ The verse being described is about Jesus appointing seventy others and sending t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

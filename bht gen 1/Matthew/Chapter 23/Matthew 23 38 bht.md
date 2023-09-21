@@ -4,7 +4,7 @@
 The commentators describe a powerful warning given by Jesus about the temple and its impending destruction. They emphasize that the temple, once the house of God, is now deserted for its rejection of Him. Jesus declares that the city and the temple will become desolate, abandoned by God and doomed to ruin. This prophecy serves as a sign of God's judgment and the consequences of their actions. Ultimately, it demonstrates the consequence of forsaking God's presence and disregarding His warnings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, your house—the temple, beyond all doubt; but their house now, not the Lord's." 
 2. "is left unto you desolate—deserted, that is, of its Divine Inhabitant." 
 3. "But who is that? Hear the next words:"
@@ -38,4 +38,4 @@ The commentators describe a powerful warning given by Jesus about the temple and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

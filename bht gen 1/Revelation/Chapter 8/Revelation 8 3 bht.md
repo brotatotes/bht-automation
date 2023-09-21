@@ -4,7 +4,7 @@
 In this passage, we see the representation of Christ as the Mediator of the prayers of the saints, offering them up as incense that is pleasing to God. The angel is given the incense by Christ, symbolizing His meritorious obedience and death, which render the saints' prayers acceptable. The prayers of the saints, likened to incense, ascend alongside the abundant incense, signifying the multitude of prayers being offered. Through this angelic ministry, the prayers of the suffering church are united in calling on God, anticipating the approaching series of wonders and seeking His mercy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He, in Revelation, is always designated by one of His proper titles; though, doubtless, He is the only true High Priest, the Angel of the Covenant, standing before the golden altar of incense, and there, as Mediator, offering up His people's prayers, rendered acceptable before God through the incense of His merit."
 2. "The angel does not provide the incense; it is given to him by Christ, whose meritorious obedience and death are the incense, rendering the saints' prayers well pleasing to God."
 3. "Christ's merits alone can thus incense our prayers, though the angelic ministry be employed to attach this incense to the prayers."
@@ -45,4 +45,4 @@ In this passage, we see the representation of Christ as the Mediator of the pray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

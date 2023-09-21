@@ -4,7 +4,7 @@
 In this verse, we see the depiction of a significant event where different groups of people witness the exposed bodies of the witnesses. The commentators highlight how these spectators come from various nations and tribes, expressing joy, scorn, and contempt. The verse also emphasizes the duration of this spectacle, lasting for three and a half days, mirroring the prophetic timeline. While the witnesses' condition is deplorable and discomforting, the onlookers revel in their apparent defeat, displaying a fiendish and childish delight.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The peoples . . . may refer to those of the nations . . . who at the time shall hold possession of Palestine and Jerusalem."
 2. "The prophetic present."
 3. "Three and a half days answer to the three and a half years, the half of seven, the full and perfect number."
@@ -45,4 +45,4 @@ In this verse, we see the depiction of a significant event where different group
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

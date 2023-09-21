@@ -9,7 +9,7 @@ In this passage, Jesus is facing imminent danger from Herod, who is determined t
 2. "Considering his character, it is hardly possible that he should really have wished to kill one who was so popular."
 3. "The free-spokenness of the ancient world, which we meet with especially in the Hebrew prophets, allowed such strong expressions, without anything peculiarly offensive being found in them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was on His way out of Perea, east of Jordan, and in Herod's dominions, 'journeying towards Jerusalem.'"
 2. "Haunted by guilty fears, probably, Herod wanted to get rid of Him."
 3. "Our Lord saw through both of them, and sends the cunning ruler a message couched in dignified and befitting irony."
@@ -59,4 +59,4 @@ In this passage, Jesus is facing imminent danger from Herod, who is determined t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

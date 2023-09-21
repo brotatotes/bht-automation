@@ -4,7 +4,7 @@
 This passage emphasizes the inclusive nature of God's mercy and salvation. It emphasizes that God's plan of mercy is not limited to a specific group, but is extended to both Jews and Gentiles. The verse highlights the importance of confessing and giving praise to God, acknowledging His favor and grace in our lives. It also emphasizes the role of the Gentiles in God's redemptive plan, calling for them to glorify God and participate in His worship. The passage emphasizes the connection between the Old and New Testaments, underscoring the continuity of God's faithfulness throughout history.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gentiles might glorify God for his mercy." This quote highlights the purpose of God's plan of mercy, which includes both Jews and Gentiles. It emphasizes the idea that God's mercy is not limited to a specific group but is extended to all. 
 
 2. "God's plan of mercy embraced, from the first, the Gentiles along with the Jews." This quote emphasizes that God's plan of mercy was not an afterthought but was intended to include the Gentiles from the beginning. It shows that God's mercy is all-encompassing and not exclusive to a particular group. 
@@ -54,4 +54,4 @@ This passage emphasizes the inclusive nature of God's mercy and salvation. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

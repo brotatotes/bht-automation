@@ -4,7 +4,7 @@
 Jesus reassures a grieving woman that her brother shall rise again, skillfully drawing her into a meaningful conversation about resurrection. His words, tailored for her situation, highlight the personal relevance of the truth of resurrection. Jesus further establishes the profound connection between His own resurrection and the hope of resurrection for all believers, emphasizing the significance of His message. The commentators explain the assurance of eternal life, the transformative power of faith during trials, and the liberation from the bonds of death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus saith unto her, Thy brother shall rise again—purposely expressing Himself in general terms, to draw her out." This quote highlights Jesus' intention to engage the woman in a deeper conversation about her brother's resurrection.
 
 2. "He would have her feel that it was not a mere general truth which He was uttering, but a truth which had a special bearing upon her own case." This quote emphasizes Jesus' desire to make the truth of resurrection personal and relevant to the woman's situation.
@@ -35,4 +35,4 @@ Jesus reassures a grieving woman that her brother shall rise again, skillfully d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

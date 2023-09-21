@@ -9,7 +9,7 @@ In a parable that reflects human ambitions and earthly prosperity, a wealthy man
 2. "It was by God's blessing that he became thus rich, which might have been a real blessing, if he had known how to use it."
 3. "He had not been a wicked man, but he had been a worldly man, and that is enough to make any man a wicked man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1) "He deemed a life of secure and abundant earthly enjoyment the summit of human felicity."
 2) "He possessed the means of this, through prosperity in his calling, he flattered himself that he had a long lease of such enjoyment."
 3) "Nothing else is laid to his charge."
@@ -45,4 +45,4 @@ In a parable that reflects human ambitions and earthly prosperity, a wealthy man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

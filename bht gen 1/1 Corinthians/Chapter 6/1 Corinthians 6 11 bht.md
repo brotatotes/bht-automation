@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the transformative work that
 2. "Ye washed them off, but ye were sanctified, but ye were justified."
 3. "The spiritual washing in baptism, the sanctification of the children of God, the justification of the believer, are all wrought in the Name of the Lord Jesus, and are each and all the work of the Spirit of our God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have had yourselves washed." - This emphasizes the personal responsibility of the believers in seeking cleansing and sanctification.
 2. "The order of sanctification before justification shows that it must be so taken, and not in the sense of progressive sanctification." - This clarifies the sequence of sanctification and justification, highlighting that sanctification precedes justification.
 3. "He presents the grand ideal which those alone realized in whom the inward and the outward baptism coalesced." - This points to the ideal state where the outward act of baptism aligns with the inward transformation and communion with Christ.
@@ -48,4 +48,4 @@ The verse being described is a powerful reminder of the transformative work that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

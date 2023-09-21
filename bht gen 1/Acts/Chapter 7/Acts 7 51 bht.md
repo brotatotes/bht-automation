@@ -9,7 +9,7 @@ This passage describes the stubbornness and resistance of the Israelites through
 2. "Words and figures familiar to the prophets in speaking of the rebellious Israel."
 3. "Apparently a reference to Isaiah 63:10. The instances as yet had been confined to οἱ πατ. ὑμ.: now he has arrived at their own times."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye stiffnecked . . . ye do always resist the Holy Ghost, &c." - Stephen's words highlight the persistent resistance of the Israelites to the guidance of the Holy Spirit throughout their history.
 2. "As little farther light could have been thrown upon Israel's obstinacy from subsequent periods of the national history on the testimony of their own Scriptures." - The commentary suggests that the Israelites' stubbornness and resistance to the Holy Spirit were evident throughout their history, as recorded in their own Scriptures.
 3. "We should view this as the summing up, the brief import of the whole Israelitish history." - This quote emphasizes that Stephen's words serve as a concise summary of the Israelites' spiritual deafness and continuous resistance to the Holy Spirit throughout their entire history.
@@ -48,4 +48,4 @@ This passage describes the stubbornness and resistance of the Israelites through
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

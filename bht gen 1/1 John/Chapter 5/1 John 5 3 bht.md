@@ -9,7 +9,7 @@ The love of God is not a mere sentiment, but it is shown through our obedience t
 2. "And His commandments are not grievous."
 3. "In this victorious state, and in as far as they have advanced into it, in other words in proportion as the divine life is developed and dominant in them, do they find those commandments not grievous."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The love of God consists in this."
 2. "What makes them to the regenerate 'not grievous,' is faith which 'overcometh the world.'"
 3. "The reason why believers feel any degree of irksomeness in God's commandments is, they do not realize fully by faith the privileges of their spiritual life."
@@ -53,4 +53,4 @@ The love of God is not a mere sentiment, but it is shown through our obedience t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

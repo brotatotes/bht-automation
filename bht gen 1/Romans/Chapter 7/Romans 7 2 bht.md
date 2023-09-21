@@ -9,7 +9,7 @@ In this passage, commentators focus on the concept of marriage and its dissoluti
 2. "If the husband dies, she is set free from the law of the husband."
 3. "She is annulled from the law regarding the husband."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'if her husband be dead' refers to the death of the husband, which releases the wife from the marriage bond. This highlights the permanence and exclusivity of the marriage relationship, as death is the only event that can dissolve it."
 
 2. "The reference to Romans 7:3 emphasizes the biblical principle that a woman is free to remarry only if her husband has died. This verse underscores the importance of fidelity and commitment in marriage, as well as the significance of the marriage covenant."
@@ -61,4 +61,4 @@ In this passage, commentators focus on the concept of marriage and its dissoluti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

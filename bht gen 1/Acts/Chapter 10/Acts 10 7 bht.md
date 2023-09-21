@@ -9,7 +9,7 @@ In this Bible verse, we see an angelic vision that is treated as a real experien
 2. "εἰσελθόντα and ἀπῆλθ: denoting the real acts of the angel, not the mere deemings of Cornelius."
 3. "λαλῶν must be regarded as the imperfect participle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "showing the simplicity of his faith"
 2. "a devout soldier of them that waited on him continually"
 3. "having attached himself henceforth to Peter—whose influence in the composition of the second Gospel is attested by the earliest tradition, and is stamped on that Gospel itself"
@@ -38,4 +38,4 @@ In this Bible verse, we see an angelic vision that is treated as a real experien
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

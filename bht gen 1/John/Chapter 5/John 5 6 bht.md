@@ -9,7 +9,7 @@ In this verse, we see Jesus approaching a man who has been lying by a pool, in n
 2. "Our Lord did not thus appeal to his hearers' prejudices, and make His grace dependent on them."
 3. "The question is one of those by which He so frequently testified his compassion, and established (so to speak) a point of connexion between the spirit of the person addressed, and his own gracious purposes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He doubtless visited the spot just to perform this cure, so He knows where to find His patient, and the whole previous history of his case." 
 2. "Could anyone doubt that a sick man would like to be made whole, or that the patients came thither, and this man had returned again and again, just in hope of a cure? But our Lord asked the question." 
 3. "To fasten attention upon Himself, by making him detail his case to deepen in him the feeling of entire helplessness; by so singular a question to beget in his desponding heart the hope of a cure."
@@ -47,4 +47,4 @@ In this verse, we see Jesus approaching a man who has been lying by a pool, in n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, we are given a glimpse into a heavenly experience that is beyond human comprehension and impossible to put into words. The commentator's descriptions paint a picture of a divine realm known as paradise, where the blessed reside in a state of joy and rest. Though some heavenly words can be communicated, the unspeakable nature of these revelations indicates their extraordinary and incomprehensible nature. This encounter is a source of great consolation and strength for the apostle Paul, as he carries with him the anticipation of the glorious future that awaits him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "unspeakable—not in themselves, otherwise Paul could not have heard them; but as the explanation states, 'which it is not lawful . . . to utter' [ALFORD]." 
 2. "They were designed for Paul's own consolation, and not for communication to others." 
 3. "Some heavenly words are communicable (Exodus 34:6; Isaiah 6:3). These were not so."
@@ -43,4 +43,4 @@ In this Bible verse, we are given a glimpse into a heavenly experience that is b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

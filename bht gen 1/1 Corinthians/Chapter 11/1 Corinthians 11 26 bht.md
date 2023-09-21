@@ -9,7 +9,7 @@ The act of partaking in the Lord's Supper is a public declaration and remembranc
 2. "It is a proclamation of His death: and thus is a remembrance of Him."
 3. "The coming of the Lord as near at hand, in his own time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye publicly profess each of you, the Lord has died FOR ME" - This quote emphasizes that the Lord's Supper is a public declaration of personal faith in Christ's sacrifice for each individual.
 2. "The fact that we not only show the Lord's death in the supper, but eat and drink the pledges of it, could only be understood by the Jews, accustomed to such feasts after propitiatory sacrifices, as implying our personal appropriation therein of the benefits of that death." - This quote highlights the significance of eating and drinking in the Lord's Supper as a way of personally appropriating the benefits of Christ's death.
 3. "The supper joins the two closing periods of the Old and the New dispensations. The first and second comings are considered as one coming" - This quote connects the Lord's Supper to both the Old and New Testaments, emphasizing its role in bridging the gap between the two and anticipating the future coming of Christ.
@@ -57,4 +57,4 @@ The act of partaking in the Lord's Supper is a public declaration and remembranc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

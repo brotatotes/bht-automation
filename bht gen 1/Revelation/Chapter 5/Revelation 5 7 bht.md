@@ -9,7 +9,7 @@ In this symbolic vision, a book lies open on the hand of the One seated on the t
 2. "That 'das Buch userreichen' which Ebrard insists on, is found not here, but in the previous description: and to introduce it here, confuses the distinctness of the symbolism."
 3. "Vitringa’s enquiry, whether we are to imagine the Lamb to have had partly a human form and hands, is rightly dismissed by Düsterd. as 'unnöthig und geschmacklos'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The book lay on the open hand of Him that sat on the throne for any to take who was found worthy." 
 2. "The Lamb takes it from the Father in token of formal investiture into His universal and everlasting dominion as Son of man." 
 3. "This introductory vision thus presents before us, in summary, the consummation to which all the events in the seals, trumpets, and vials converge, namely, the setting up of Christ's kingdom visibly."
@@ -50,4 +50,4 @@ In this symbolic vision, a book lies open on the hand of the One seated on the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse, as described by the commentators, warns against engaging in pointless arguments and discussions that only serve to create friction and strife within the community. It denounces the corrupt minds of false teachers who prioritize material gain over true spirituality, falsely equating wealth with godliness. The verse urges believers to withdraw from these individuals and reject their misguided teachings, as they are detrimental to the pursuit of genuine faith and truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strifes of words" had already been mentioned so that he would not be likely to repeat the same idea (as in the English Version reading) again.
 2. The inmost source of the evil is in the perverted mind.
 3. They had had the truth, but through want of moral integrity and of love of the truth, they were misled by a pretended deeper gnosis (knowledge) and higher ascetical holiness, of which they made a trade.
@@ -47,4 +47,4 @@ These quotes highlight the corrupt and self-serving nature of false teachers, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

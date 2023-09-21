@@ -4,7 +4,7 @@
 The verse being described portrays individuals with mouths filled with anger and hostility, directing curses towards both God and their neighbors. Their words are characterized by bitterness and deceit, reflecting the corruption in their hearts. The verse underscores the connection between one's inner disposition and their speech, cautioning against rebellion, lack of love, and the destructive power of such words. It calls for a transformation of heart towards humility, forgiveness, and obedience to God's commands.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That mouth which should be 'most sweet' is filled with burning wrath against those whom it should only bless."
 
 2. "The mouth that should speak words of kindness and love is instead consumed by anger and hostility."
@@ -44,4 +44,4 @@ These quotes emphasize the deceitful nature of the wicked, their tendency to ble
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

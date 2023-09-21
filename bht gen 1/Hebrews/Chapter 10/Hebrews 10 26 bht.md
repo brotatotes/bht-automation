@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the severity and consequences of
 2. "It is most important here to keep this cardinal point distinctly in mind: that the ἑκουσίως ἁμαρτάνοντες are not mere professors of religion, but real converts." 
 3. "He has in fact, as Del. observes, shut the door of repentance behind him, by the very fact of his being in an abiding state of willing sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There the warning was that if there be not diligence in progressing, a falling off will take place, and apostasy may ensue: here it is, that if there be lukewarmness in Christian communion, apostasy may ensue."
 2. "A violation not only of the law, but of the whole economy of the New Testament."
 3. "To fall away and apostatize to Judaism or infidelity, is not a sin of ignorance, or error of infirmity, but a deliberate sinning against the Spirit."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the severity and consequences of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

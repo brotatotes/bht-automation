@@ -9,7 +9,7 @@ As the magi followed the star, it went before them, guiding their journey with p
 2. "Or it may even mean, ‘over the whole town of Bethlehem.’"
 3. "If it is to be understood as standing over the house, and thus indicating to the magi the position of the object of their search, the whole incident must be regarded as miraculous."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yet God ordered this too, lest the news should be blabbed, and reach the tyrant's ears, before the Babe could be placed beyond his reach. Thus are the very errors and crimes and cold indifferences of men all overruled."
 2. "And, lo, the star, which they saw in the east—implying apparently that it had disappeared in the interval."
 3. "Went before them, and stood over where the young child was—Surely this could hardly be but by a luminous meteor, and not very high."
@@ -42,4 +42,4 @@ As the magi followed the star, it went before them, guiding their journey with p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

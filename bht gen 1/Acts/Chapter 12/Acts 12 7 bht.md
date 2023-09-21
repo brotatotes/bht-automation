@@ -9,7 +9,7 @@ In this verse, an angel of the Lord appears to Peter, accompanied by a radiant l
 2. "The light accompanied, or perhaps, as suggested here in syr-marg, shone from, the angel." 
 3. "The chamber."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The angel of the Lord came upon him" - This phrase highlights the unexpected nature of the angel's visit, emphasizing the divine intervention in Peter's situation.
 2. "His chains fell off" - This quote showcases the miraculous power of the angel, freeing Peter from his physical restraints and symbolizing liberation from bondage.
 3. "Cast thy garment" - This instruction reveals the angel's concern for Peter's well-being, urging him to put on his tunic before leaving, indicating a practical and caring approach.
@@ -55,4 +55,4 @@ In this verse, an angel of the Lord appears to Peter, accompanied by a radiant l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

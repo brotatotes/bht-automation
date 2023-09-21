@@ -9,7 +9,7 @@ The verse being described is Matthew 5:9 - "Blessed are the peacemakers, for the
 2. "shall (not only be, but also) be called" - Being recognized as a peacemaker is not just a title, but a recognition of the reality of their character and actions.
 3. "the wisdom from above is πρῶτον ἁγνή, ἔπειτα εἰρηνική" - True wisdom, which includes being a peacemaker, is characterized by purity and a commitment to peace, without compromising with evil.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed are the peacemakers—who not only study peace, but diffuse it." 
 2. "Of all these beatitudes this is the only one which could hardly be expected to find its definite ground in the Old Testament; for that most glorious character of God, the likeness of which appears in the peacemakers, had yet to be revealed."
 3. "When this reconciliation actually takes place, and one has 'peace with God through our Lord Jesus Christ'—even 'the peace of God which passeth all understanding'—the peace-receivers become transformed into peace-diffusers."
@@ -59,4 +59,4 @@ These quotes emphasize the qualities and actions of peacemakers, highlighting th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

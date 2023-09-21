@@ -9,7 +9,7 @@ In this verse, Jesus is depicted carrying the crossbeam of the cross for himself
 2. "The act of carrying the cross was not only a physical burden, but also a symbolic representation of the weight of sin that Jesus would bear on behalf of humanity."
 3. "This act of self-sacrifice demonstrates Jesus' willingness to take on the burdens of others and to fulfill the purpose for which he came into the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On arriving at the place, 'they gave Him vinegar to drink mingled with gall [wine mingled with myrrh, Mark 15:23], and when He had tasted thereof, He would not drink' (Matthew 27:34). This potion was stupefying, and given to criminals just before execution, to deaden the sense of pain."
 2. "But our Lord would die with every faculty clear, and in full sensibility to all His sufferings. Thou wilt feel all, that Thou may'st pity all; And rather would'st Thou wrestle with strong pain Than overcloud Thy soul, So clear in agony, Or lose one glimpse of Heaven before the time."
 3. "O most entire and perfect Sacrifice, Renewed in every pulse."
@@ -56,4 +56,4 @@ In this verse, Jesus is depicted carrying the crossbeam of the cross for himself
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

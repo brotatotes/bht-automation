@@ -9,7 +9,7 @@ In this verse, a group of disciples, namely Simon (Peter), Andrew, James, and Jo
 2. "Their inclusion in this verse highlights their special relationship with Jesus and their role as witnesses to the events that would unfold." 
 3. "By mentioning them specifically, the author emphasizes the importance of their testimony and their unique perspective on Jesus' ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pressed after Him" - This phrase emphasizes the eagerness and determination of Simon and his companions to follow Jesus. It suggests a sense of urgency and a strong desire to be close to Him.
 
 2. "The multitudes sought after Him" - This quote from Luke's account highlights the widespread popularity and interest in Jesus. It indicates that people from various places were seeking Him, further emphasizing His significance and impact.
@@ -46,4 +46,4 @@ In this verse, a group of disciples, namely Simon (Peter), Andrew, James, and Jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

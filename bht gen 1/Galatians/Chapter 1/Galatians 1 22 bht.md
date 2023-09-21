@@ -4,7 +4,7 @@
 In this Bible verse, the author expresses their lack of recognition in the early Christian communities in Judea, particularly outside of Jerusalem. They make it clear that they had not been instructed by the apostles and were not known among the churches of Judea. Despite their transformation and the astonishing change in their life, some slanderers questioned their credibility. The verse also highlights the distinction between Jerusalem and the churches in the rest of Judea, emphasizing the apostle Peter's potential role in planting these churches.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I was even unknown in the churches of Judea." This quote highlights the author's lack of recognition and influence among the early Christian communities in Judea, emphasizing his distance from being a disciple of the apostles.
 
 2. "Excepting Jerusalem, which were the chief scene of their labors." This quote points out that the author's limited recognition was an exception in Jerusalem, where the apostles had a significant presence and impact.
@@ -45,4 +45,4 @@ In this Bible verse, the author expresses their lack of recognition in the early
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

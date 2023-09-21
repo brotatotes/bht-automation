@@ -4,7 +4,7 @@
 The verse being described emphasizes the importance of imitating the example set by Paul and other followers of Christ. It encourages individuals to actively engage with the teachings of the Bible, marking them and making them a part of their lives. This involves not only reading and understanding the words, but actively seeking to apply them and allow them to shape one's thoughts, actions, and character. By following the example of faithful followers, individuals can grow in their faith and strive to become more like Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Imitate me no farther than as I imitate Christ."
 2. "My fellow imitators of God" or "Christ"; "imitators of Christ together with me."
 3. "Those who are walking so as you have an example in us."
@@ -58,4 +58,4 @@ Note: The commentary is not complete. Please provide the rest of the commentary 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

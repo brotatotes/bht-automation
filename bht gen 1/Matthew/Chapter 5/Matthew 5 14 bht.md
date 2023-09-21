@@ -9,7 +9,7 @@ Believers are described as the light of the world, entrusted with spreading the 
 2. "His ministers are λύχνοι, John 5:35, and φωστῆρες, Philippians 2:15, receiving their light, and only burning for a time." 
 3. "But the CHURCH OF GOD, the city on a hill, in allusion to their present situation, on a mountain, is most probably the leading thought."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are the light of the world" - This title is expressly said to be unsuitable even to the highest of all the prophets, emphasizing the unique role of disciples in shining with Christ's light upon the world.
 2. "Christians are said to 'shine' as luminaries in the world" - Christians are compared to luminaries, highlighting their external influence and the radiance they bring to the vast and variegated surface of the world.
 3. "A city that is set on a hill cannot be hid" - Just as a city on a hill is built to be seen by many eyes, disciples are called to be visible and impactful in their role as the light of the world.
@@ -50,4 +50,4 @@ Believers are described as the light of the world, entrusted with spreading the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, Jesus emphasizes the significance of even small acts of kindnes
 2. "ἐν ὀνόματι ὅτι signifies by reason that, but not without an allusion to τ . ὄνομά μου, which furnishes the reason."
 3. "χριστ . ἐστέ] The only place in the Gospels where this expression is used. Paul has it: see reff. and Romans 8:9; 1 Corinthians 3:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward." This quote highlights the importance of even the smallest acts of kindness done in the name of Christ, assuring that they will not go unrewarded.
 
 2. "What follows appears to have no connection with the incidental reproof of John immediately preceding." This quote acknowledges the lack of apparent connection between the previous incident and the subsequent teaching, indicating a shift in focus or topic.
@@ -47,4 +47,4 @@ In this passage, Jesus emphasizes the significance of even small acts of kindnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

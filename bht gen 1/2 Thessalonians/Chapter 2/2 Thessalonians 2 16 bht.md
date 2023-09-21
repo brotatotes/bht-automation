@@ -4,7 +4,7 @@
 This verse refers to a prayer offered to the Saviour, recognizing Christ as the source of comfort and the Father as the bestower of blessings. Grace is the foundation and element of God's gift, which brings everlasting consolation and good hope for the future. It emphasizes that seeking God's blessings through Christ is essential, and that God's love and grace ensure the efficacy of our prayers and provide constant comfort and hope. The verse also assures believers that God will fulfill their prayers and grant them perseverance in their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "himself—by His own might, as contrasted with our feebleness; ensuring the efficacy of our prayer." 
 2. "everlasting consolation—not transitory, as worldly consolations in trials. This for all time present, and then 'good hope' for the future."
 3. "Grace is the element in which the gift was made."
@@ -43,4 +43,4 @@ This verse refers to a prayer offered to the Saviour, recognizing Christ as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

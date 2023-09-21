@@ -11,7 +11,7 @@ The verse being described is one in which Saul, a notorious persecutor of Christ
 
 3. "The mention of Saul's name would have struck terror into the hearts of the believers, as they knew the extent of his hostility towards them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The terror not only of the great persecutor's name" - This quote highlights the fear and intimidation associated with the persecutor's reputation and power.
 2. "This commission to Damascus" - This quote suggests that the authority given to the persecutor extended beyond just his name, indicating the extent of his power and influence.
 3. "Travelled before him from the capital to the doomed spot" - This quote emphasizes the widespread knowledge and anticipation of the persecutor's arrival, creating a sense of impending doom.
@@ -49,4 +49,4 @@ The verse being described is one in which Saul, a notorious persecutor of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

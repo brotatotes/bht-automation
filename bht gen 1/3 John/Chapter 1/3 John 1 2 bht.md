@@ -4,7 +4,7 @@
 This verse suggests that the well-being of the physical body should be desired just after the prosperity of one's soul. It is a prayer that encompasses both spiritual and physical prosperity, wishing for success in worldly matters and bodily health to be in alignment with the growth and righteousness of the soul. It reflects the understanding that physical well-being is important for the enjoyment of other blessings, and highlights the idea that true prosperity is dependent on the blessings and grace of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Of course, since his soul’s prosperity is presupposed, 'above all things' does not imply that John wishes Gaius’ bodily health above that of his soul, but as the first object to be desired next after spiritual health."
 2. "I know you are prospering in the concerns of your soul. I wish you similar prosperity in your body."
 3. "Perhaps John had heard from the brethren that Gaius was in bad health, and was tried in other ways, to which the wish refers."
@@ -33,4 +33,4 @@ This verse suggests that the well-being of the physical body should be desired j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

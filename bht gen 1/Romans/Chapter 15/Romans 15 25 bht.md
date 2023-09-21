@@ -9,7 +9,7 @@ The verse being described is about Paul's intention to go to Jerusalem and minis
 2. "See Acts 19:21; Act 24:17; 2 Corinthians 8:19." 
 3. "He treats the whole action as already begun."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ministering to the saints" refers to Paul's intention to provide support and assistance to the believers in Jerusalem. This highlights the importance of caring for and serving fellow believers in the Christian community.
 
 2. Paul's decision to go to Jerusalem demonstrates his commitment to fulfilling his calling and carrying out the work of ministry. It serves as a reminder that ministry often requires sacrifice and a willingness to go where God leads, even if it means facing challenges and hardships.
@@ -45,4 +45,4 @@ The verse being described is about Paul's intention to go to Jerusalem and minis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

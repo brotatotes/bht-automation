@@ -9,7 +9,7 @@ In Acts, there is a mention of seventy-five souls, a number that encompasses Jac
 2. "The remarks of Jerome are curious: he is arguing, on Gen. l. c., that the number really was seventy."
 3. "When we come to understand μετεκαλέσατο … πᾶσαν τὴν συγγένειαν ἐν ψυχαῖς ἑβδομηκονταπέντε, as represented by including, for a purpose, those already in Egypt, it seems to me that a stigma is cast on St. Stephen far more serious than that of mere numeral inaccuracy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Threescore and fifteen souls" - This phrase refers to the total number of individuals who went down to Egypt with Jacob. It includes not only Jacob's immediate family but also the descendants of Joseph's two sons. 
 
 2. "According to the Septuagint version" - Stephen, in his speech, is using the Greek translation of the Old Testament known as the Septuagint. This version includes the additional five children and grandchildren of Joseph's sons, which is why the total number is higher than what is mentioned in the Hebrew text.
@@ -61,4 +61,4 @@ In Acts, there is a mention of seventy-five souls, a number that encompasses Jac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

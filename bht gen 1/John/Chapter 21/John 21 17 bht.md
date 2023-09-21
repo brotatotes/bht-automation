@@ -9,7 +9,7 @@ In this passage, we witness a poignant exchange between Jesus and Peter. Jesus' 
 2. "πάντα οἶδας" - "You know all things."
 3. "φιλεῖς" - "Do you love?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not till now would Peter discern the object of this succession of thrusts."
 2. "The third time reveals it all, bringing up such a rush of dreadful recollections before his view."
 3. "It was fitting that he should it was meant that he should."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

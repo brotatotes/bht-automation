@@ -4,7 +4,7 @@
 The verse describes the contrast between the unbelief of the Jews and the mercy shown to the Gentiles. It emphasizes the purpose of God's mercy, which is to ultimately bring the Jews back to faith. The verse also highlights the ongoing state of unbelief and blindness among the Jews, but assures that their current condition is not an obstacle to receiving God's mercy. It underlines the parallel between the unbelief of the Gentiles, which did not hinder their receiving mercy, and the future mercy that will be extended to the Jews.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle has hitherto dwelt upon the unbelief of the Jews as making way for the faith of the Gentiles—the exclusion of the one occasioning the reception of the other."
 2. "Now, opening a more cheering prospect, he speaks of the mercy shown to the Gentiles as a means of Israel's recovery."
 3. "It will be by the instrumentality of believing Gentiles that Israel as a nation is at length to 'look on Him whom they have pierced and mourn for Him,' and so to 'obtain mercy.'"
@@ -37,4 +37,4 @@ The verse describes the contrast between the unbelief of the Jews and the mercy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the implications of an individual 
 2. "By the increase of sorrow which will come on the continuance of his punishment."
 3. "It does not set any definite result of the excessive sorrow before them, but leaves them to imagine such possible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'with overmuch sorrow' refers to the excessive grief and sadness experienced by the individual mentioned in the verse." 
 
 2. "The use of the possessive pronoun 'his' emphasizes that the sorrow being referred to is personal and specific to the individual." 
@@ -52,4 +52,4 @@ In this verse, the commentators shed light on the implications of an individual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

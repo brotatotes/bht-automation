@@ -4,7 +4,7 @@
 In this verse, Jesus warns against seeking titles and positions of authority for personal glory. He emphasizes the importance of humility and recognizing God as the ultimate source of wisdom. Jesus highlights the equality among his disciples, urging them to avoid distinctions and ranks. The focus should be on pursuing knowledge and understanding, rather than seeking recognition or positions of power. Jesus reminds his followers that they are all brothers and sisters, equal in God's eyes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The title 'Rabbi' was a term of respect and honor given to Jewish teachers and scholars. Jesus warns against seeking titles and positions of authority for the sake of personal glory. He emphasizes the importance of humility and recognizing God as the ultimate source of wisdom and guidance." 
 
 2. "By calling God their 'Master,' Jesus reminds his disciples that they are not the ultimate authority in matters of faith and knowledge. They are to submit themselves to God's teachings and rely on Him as their true guide."
@@ -35,4 +35,4 @@ In this verse, Jesus warns against seeking titles and positions of authority for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

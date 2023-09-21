@@ -9,7 +9,7 @@ This verse portrays Jesus healing a man who had been sick for thirty-eight years
 2. "The χεῖρόν τι gives us an awful glimpse of the severity of God's judgments."
 3. "The severity of God's judgments can be seen in Matthew 12:45."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, there Himself for His own ends, 'findeth him there'—not all accidentally, be assured."
 2. "A glimpse this of the reckless life he had probably led before his thirty-eight years' infirmity had come upon him."
 3. "Fearful illustration this of 'the severity of God,' but glorious manifestation of our Lord's insight into 'what was in man.'"
@@ -53,4 +53,4 @@ This verse portrays Jesus healing a man who had been sick for thirty-eight years
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

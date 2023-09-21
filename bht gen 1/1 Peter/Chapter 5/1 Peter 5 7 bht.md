@@ -9,7 +9,7 @@ The verse being described suggests that true humility involves surrendering our 
 2. "μέριμνα, by which the spirit μερίζεται, part for God, part for unbelief, is in fact an exalting self against Him."
 3. "He careth for you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The advantage flowing from humbling ourselves under God's hand (1 Peter 5:6) is confident reliance on His goodness."
 2. "Exemption from care goes along with humble submission to God."
 3. "Care is a burden which faith casts off the man on his God."
@@ -53,4 +53,4 @@ The verse being described suggests that true humility involves surrendering our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

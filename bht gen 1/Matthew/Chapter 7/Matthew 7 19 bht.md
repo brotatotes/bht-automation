@@ -4,7 +4,7 @@
 In this verse, the imagery of a tree and its fruit serves as a powerful metaphor for the moral and spiritual condition of individuals. It highlights the urgency of bearing good fruit in our lives and emphasizes the consequences that await those who do not. It calls us to examine our actions and ensure that they align with God's teachings and values, reminding us of the importance of fulfilling our responsibilities and making a positive impact in the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The imagery of the tree and its fruit is a powerful metaphor for the moral and spiritual condition of individuals. Just as a tree is known by its fruit, so too are people known by their actions and the impact they have on others."
 2. "The act of being 'hewn down' and 'cast into the fire' symbolizes the judgment and consequences that await those who do not produce good fruit. It serves as a reminder of the importance of living a life of righteousness and making positive contributions to the world."
 3. "This verse highlights the urgency of bearing good fruit in our lives. It calls us to examine our actions and ensure that they align with the values and teachings of God. It challenges us to be intentional in our choices and strive for a life that is pleasing to Him."
@@ -30,4 +30,4 @@ In this verse, the imagery of a tree and its fruit serves as a powerful metaphor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

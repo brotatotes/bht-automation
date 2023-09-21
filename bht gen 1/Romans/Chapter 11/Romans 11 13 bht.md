@@ -9,7 +9,7 @@ In this verse, the speaker addresses the gentiles, emphasizing their role as an 
 2. "I am speaking to you the Gentiles. Inasmuch therefore, I honor mine office, if by any means I may provoke to jealousy mine own flesh and may save some of them."
 3. "By striving for their conversion and edification at all times, by introducing a reference to them and their part in the divine counsels, even when speaking of mine own people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Another proof that this Epistle was addressed to Gentile believers."
 2. "I magnify mine office."
 3. "The clause beginning with 'inasmuch' should be read as a parenthesis."
@@ -55,4 +55,4 @@ In this verse, the speaker addresses the gentiles, emphasizing their role as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

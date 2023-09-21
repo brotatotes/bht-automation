@@ -11,7 +11,7 @@ In this verse, a woman pours a fragrant and extravagant ointment on Jesus' feet,
 4. "In contrast to Matthew and Mark, this verse mentions the woman anointing Jesus' feet instead of his head." 
 5. "For more information on this, see the note on Luke 7:38."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Spikenard, or pure nard, was a celebrated aromatic." 
 2. "The only use of this was to refresh and exhilarate—a grateful compliment in the East, amidst the closeness of a heated atmosphere, with many guests at a feast."
 3. "Such was the form in which Mary's love to Christ, at so much cost to herself, poured itself out."
@@ -54,4 +54,4 @@ In this verse, a woman pours a fragrant and extravagant ointment on Jesus' feet,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

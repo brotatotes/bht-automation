@@ -11,7 +11,7 @@ In this verse, commentators highlight the role of the Holy Spirit as a witness, 
 
 3. "The Spirit's witness is not just a feeling or emotional experience, but a deep conviction rooted in the truth of God's Word." - This quote emphasizes that the Spirit's testimony is not based on subjective feelings, but on the objective truth found in Scripture.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Save that the Holy Ghost witnesseth in every city" - The Holy Ghost provides prophetic utterances from city to city, serving as a witness to the truth of the gospel. (Acts 11:4, Acts 21:10, Acts 21:11)
 
 2. "Analogous premonitions of coming events are not unknown to the general method of God's providence" - God often gives warnings or signs of future events, which can help prepare and strengthen the spirit of the apostle.
@@ -52,4 +52,4 @@ In this verse, commentators highlight the role of the Holy Spirit as a witness, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

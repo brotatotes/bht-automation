@@ -9,7 +9,7 @@ In this Bible verse, the commentator descriptions reveal that Jesus is not just 
 2. "Christ, by abolishing the first, abolished the other also."
 3. "He might incorporate the two, reconciled in Him to God, into one new man, the old man to which both belonged, the enemy of God, having been slain in His flesh on the Cross."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Himself alone, pre-eminently, and none else." 
 2. "He took both into Himself, and reconciled them, united, to God, by His assuming our nature and our penal and legal liabilities."
 3. "The twofold wall represented the Sinaitic law, which both severed all men, even the Jews, from access to God (through sin, which is the violation of the law), and also separated the Gentiles from the Jews."
@@ -55,4 +55,4 @@ In this Bible verse, the commentator descriptions reveal that Jesus is not just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

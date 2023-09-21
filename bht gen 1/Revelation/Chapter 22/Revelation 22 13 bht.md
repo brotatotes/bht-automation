@@ -4,7 +4,7 @@
 In this verse, the eternal nature of Jesus is emphasized through various phrases and descriptions. He is referred to as "the Alpha and the Omega," signifying his existence from beginning to end, with no one before or after him. As "the First and the Last," he is recognized as the ultimate source and final destination of all things, highlighting his authority and sovereignty over creation. Through these declarations, Jesus' divine glory and eternal nature are unmistakably revealed, serving as a clear and undeniable testament to his deity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Alpha and the Omega." - This phrase, used in various translations of the Bible, emphasizes the eternal nature of God and Jesus. It signifies that God is the beginning and the end, the first and the last, and there is no one before or after Him.
 
 2. "the First and the Last, the Beginning and the End." - This alternate translation further emphasizes the eternal nature of God and Jesus. It highlights their role as the ultimate source and final destination of all things, indicating their authority and sovereignty over creation.
@@ -42,4 +42,4 @@ In this verse, the eternal nature of Jesus is emphasized through various phrases
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

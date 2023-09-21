@@ -11,7 +11,7 @@ In this verse, individuals are diligently instructed by anti-Pauline Judaizers, 
 
 3. "The dat. of the rule, or form, after which" - This phrase highlights the significance of adhering to a specific set of customs or practices. It implies that the individuals mentioned in the verse were instructed in accordance with a particular set of rules or traditions, emphasizing the importance of following established guidelines.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are informed... that thou teachest all the Jews which are among the Gentiles." 
 2. "This calumny of the unbelieving Jews would find easy credence among the Christian zealots for Judaism." 
 3. "The accusation was that Paul was teaching the Jews to forsake Moses."
@@ -50,4 +50,4 @@ In this verse, individuals are diligently instructed by anti-Pauline Judaizers, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Esau, known for his profanity and disregard for sacred matters, sold his birthri
 2. "A profane person is a man of low views, who has no appreciation of any high or divine thing."
 3. "Esau sold his own birthright, his rights of primogeniture, for one meal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fornication is nearly akin to gluttony, Esau's sin. He profanely cast away his spiritual privilege for the gratification of his palate." 
 2. "The smallness of the inducement only aggravates the guilt of casting away eternity for such a trifle, so far is it from being a claim for mercy." 
 3. "One single act has often the greatest power either for good or for evil."
@@ -55,4 +55,4 @@ Esau, known for his profanity and disregard for sacred matters, sold his birthri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

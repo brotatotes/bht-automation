@@ -9,7 +9,7 @@ In this verse, Jesus confronts the Jews about their true spiritual lineage and r
 2. "They see that a spiritual paternity must be meant, and accordingly refer to God as their Father."
 3. "And spiritually the τέκνα πορνείας, ref. Hosea, are idolaters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We be not born of fornication." - This phrase emphasizes that the people speaking are not illegitimate in their religious heritage. They are not merely pretending to be God's people, but are truly descended from Abraham, God's chosen. 
 
 2. "We have one Father, God." - This statement highlights the unity and common ancestry of the people. They all share the same Father, God, which strengthens their claim to be the true children of God.
@@ -61,4 +61,4 @@ Note: The provided commentary is an analysis of John 8:41-42.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this passage, the speaker expresses a longing to be physically present, wishi
 
 3. "The verb is passive: Meyer quotes Demosth. p. 830. 2, πολλὰ τοίνυν ἀπορηθεὶς περὶ τούτων κ . καθ ʼ ἕκαστον ἐξελεγχόμενος, and Sir 18:7, ὅταν παύσηται, τότε ἀπορηθήσεται."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speaking face to face is so much more effective towards loving persuasion than writing."
 2. "Adapting my tone of voice to what I saw in person your case might need."
 3. "I am perplexed about you, namely, how to deal with you, what kind of words to use, gentle or severe, to bring you back to the right path."
@@ -57,4 +57,4 @@ In this passage, the speaker expresses a longing to be physically present, wishi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

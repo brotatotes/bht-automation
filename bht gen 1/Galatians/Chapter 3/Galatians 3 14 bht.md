@@ -9,7 +9,7 @@ The verse being described is one that speaks of the blessing promised to Abraham
 2. "We might receive through our faith the promise of the Spirit."
 3. "This 'receiving the promise of the Spirit' distinctly refers back to Galatians 3:2, where he asked them whether they received the Spirit by the works of the law, or by the hearing of faith?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ becoming a curse for us" - This phrase highlights the sacrificial nature of Christ's death, as he took upon himself the curse that was meant for us. It emphasizes the depth of his love and the extent to which he was willing to go to save us.
 
 2. "The blessing of Abraham...might come in Christ Jesus" - This quote connects the promise of justification by faith, which was given to Abraham, with the coming of Christ. It shows that through Christ, both Jews and Gentiles can receive the same blessing that was promised to Abraham.
@@ -59,4 +59,4 @@ The verse being described is one that speaks of the blessing promised to Abraham
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see angels leaving the heavenly scene to pour out their vials 
 2. "The γῆ, which before in Rev 16:1 was general, is now particular, and correlative with the objects of the other vials."
 3. "There came an evil and painful sore upon the men that had the mark of the beast and that worshipped his image."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reason why the sixth Egyptian plague is the first here is because it was directed against the Egyptian magicians, Jannes and Jambres, so that they could not stand before Moses; and so here the plague is sent upon those who in the beast worship had practiced sorcery."
 2. "As they submitted to the mark of the beast, so they must bear the mark of the avenging God."
 3. "This first vial is subsequent to the period of the beast's rule."
@@ -48,4 +48,4 @@ In this verse, we see angels leaving the heavenly scene to pour out their vials 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, a gathering of Jewish religious leaders has come to observe and scrutinize Jesus, not with a teachable spirit, but with a venomous and murderous feeling. They reason within themselves, engaging in a thoughtful dialogue with themselves, and their skepticism and doubt are evident in their hearts. Jesus recognizes the hostile atmosphere and is aware of their thoughts and intentions, demonstrating his divine knowledge and authority. These scribes, with their lack of faith and desire to trap Jesus, serve as a cautionary tale, symbolizing the danger of putting darkness for light and the consequences of being blind guides.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those Jewish ecclesiastics who, as Luke told us, 'were come out of every village of Galilee, and Judea, and Jerusalem,' to make their observations upon this wonderful Person, in anything but a teachable spirit." 
 
 2. "Their venomous and murderous feeling had not showed itself." 
@@ -44,4 +44,4 @@ In this verse, a gathering of Jewish religious leaders has come to observe and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

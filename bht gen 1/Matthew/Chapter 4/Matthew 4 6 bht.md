@@ -11,7 +11,7 @@ The verse being described highlights the universal significance of the message, 
 
 3. "à fortiori to the Son of God" - The verse holds even more significance when applied to the Son of God, highlighting the elevated status and responsibility of Jesus in fulfilling the role of a servant of God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan himself with a Bible under his arm and a text in his mouth!"
 2. "The tempter, having felt the power of God's Word in the former temptation, was eager to try the effect of it from his own mouth."
 3. "Not a few good expositors have thought that this omission was intentional, to conceal the fact that this would not have been one of 'His ways,' that is, of duty."
@@ -55,4 +55,4 @@ The verse being described highlights the universal significance of the message, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

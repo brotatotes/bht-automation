@@ -9,7 +9,7 @@ In this Bible verse, we see the theme of forgiveness and the difference between 
 2. "The insignificance of the sum is to show us how trifling any offense against one another is in comparison to the vastness of our sin against God."
 3. "The expression 'if you owe anything' is a haughty expression of one ashamed to meet the mention of the paltry sum really owing, and by this very expression generalizing his unforgiving treatment to all who owed him aught."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark the difference here. The first case is that of master and servant; in this case, both are on a footing of equality."
 2. "If Jewish money is intended, this debt was to the other less than one to a million."
 3. "Mark the mercilessness even of the tone."
@@ -38,4 +38,4 @@ In this Bible verse, we see the theme of forgiveness and the difference between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

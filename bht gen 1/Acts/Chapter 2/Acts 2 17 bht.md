@@ -9,7 +9,7 @@ In the closing period of the world, known as the last days, the Messiah would es
 2. "It is a later form of the future."
 3. "The two clauses, κ . οἱ νεαν . and κ . οἱ πρεσβ ., are transposed in the LXX."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the last days—meaning, the days of the Messiah... constituting the final dispensation of God's kingdom on earth."
 2. "Pour out of my Spirit—in contrast with the mere drops of all preceding time."
 3. "Sons... daughters... young men... old men... servants... handmaidens—without distinction of sex, age, or rank."
@@ -55,4 +55,4 @@ In the closing period of the world, known as the last days, the Messiah would es
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

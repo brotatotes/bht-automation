@@ -4,7 +4,7 @@
 Amidst the intense questioning and examination, the accused man, believed to be guilty of a crime, raises a vital question, urging the one in authority to carefully consider their course of action. The urgency of the situation and the potential repercussions are emphasized, as the accused's status as a Roman citizen adds a new layer of complexity and consequences. Ultimately, this moment serves as a sharp warning, reminding us to reflect on our actions and treat others with respect and dignity, as they too are servants of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Examined by scourging—according to the Roman practice." 
 2. "That he might know wherefore they cried so—Paul's speech being to him in an unknown tongue."
 3. "He concluded from the horror which it kindled in the vast audience that he must have been guilty of some crime."
@@ -33,4 +33,4 @@ Amidst the intense questioning and examination, the accused man, believed to be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

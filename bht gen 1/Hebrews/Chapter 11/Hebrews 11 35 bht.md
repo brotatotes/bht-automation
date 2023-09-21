@@ -9,7 +9,7 @@ In this verse, we see the remarkable display of faith demonstrated by women who 
 2. "Others were broken on the wheel, not accepting the deliverance offered to them." 
 3. "That they might obtain a better resurrection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, in :-, makes especial mention of the fact that Elijah was sent to an alien from Israel, a woman of Sarepta."
 2. "Thus Paul may quote this as an instance of Elijah's faith, that at God's command he went to a Gentile city of Sidonia (contrary to Jewish prejudices), and there, as the fruit of faith, not only raised her dead son, but received her as a convert into the family of God."
 3. "A better resurrection—than that of the women's children 'raised to life again'; or, than the resurrection which their foes could give them by delivering them from death."
@@ -45,4 +45,4 @@ In this verse, we see the remarkable display of faith demonstrated by women who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

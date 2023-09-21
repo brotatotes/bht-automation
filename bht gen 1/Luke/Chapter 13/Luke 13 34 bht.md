@@ -4,7 +4,7 @@
 The verse being described is a heartfelt plea from Jesus to the city of Jerusalem. It emphasizes his deep desire to gather and protect its inhabitants despite their history of rejecting and persecuting God's messengers. Jesus uses the metaphor of a protective hen gathering her chicks to illustrate his love and longing for their well-being. However, their refusal to accept his offer of salvation brings tragic consequences, as the city is left desolate. Jesus' repeated visits to Jerusalem demonstrate his unwavering commitment to bringing unity and salvation to its people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it!" - This quote highlights the deep sorrow and anguish of Jesus towards Jerusalem, a city that has a history of rejecting and persecuting God's messengers.
 
 2. "How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!" - This quote portrays Jesus' longing to protect and care for the people of Jerusalem, comparing himself to a mother hen who gathers her chicks under her wings. It emphasizes his love and desire for their well-being.
@@ -41,4 +41,4 @@ The verse being described is a heartfelt plea from Jesus to the city of Jerusale
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

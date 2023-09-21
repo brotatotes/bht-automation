@@ -9,7 +9,7 @@ In this verse, the future revelation of Jesus Christ as the ultimate Shepherd is
 2. "The everlasting, or unfading, flower."
 3. "That we shall share His glory, is a point constantly insisted on by St. Peter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith serves the Lord while still unseen."
 2. "Our crown is distinguished from theirs in that it is 'incorruptible' and 'fadeth not away,' as the leaves of theirs soon did."
 3. "Not a kingly 'crown' (a different Greek word, diadema): the prerogative of the Lord Jesus."
@@ -51,4 +51,4 @@ In this verse, the future revelation of Jesus Christ as the ultimate Shepherd is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

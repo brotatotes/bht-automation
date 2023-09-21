@@ -9,7 +9,7 @@ Through union with Christ in death, believers experience freedom from the guilt 
 2. "I express δεδικ . by this periphrasis in both cases, because I believe that all this is implied in it: ‘is acquitted,’ ‘has his quittance,’ from sin, so that Sin (personified) has no more claims on him, either as a creditor or as a master: cannot detain him for debt, nor sue him for service."
 3. "A larger reference is thus given to δεδικ . than the purposes of the present argument, which is treating of the power, not the guilt of sin, required: but that it is so, lies in the nature of ἁμαρτία, the service of which is guilt, and the deliverance from whose service necessarily brings with it acquittal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As death dissolves all claims, so the whole claim of sin, not only to 'reign unto death,' but to keep its victims in sinful bondage, has been discharged once for all."
 2. "The believer's penal death in the death of Christ...has set them free from sin."
 3. "The believer is no longer a 'debtor to the flesh to live after the flesh'."
@@ -55,4 +55,4 @@ Through union with Christ in death, believers experience freedom from the guilt 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author exhorts the reader to not be ashamed of their faith an
 2. "He is able to keep my deposit." 
 3. "I am persuaded that He is able to keep my deposit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shame is the companion of fear; if fear be overcome, false shame flees."
 2. "The cause of God's servants is the cause of God Himself."
 3. "Think not that thou hast to bear these afflictions by thine own power; nay, it is by the power of God."
@@ -57,4 +57,4 @@ In this verse, the author exhorts the reader to not be ashamed of their faith an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Parable depicts a man stumbling upon a hidden treasure, unexpectedly and wit
 2. "Having found this, for joy of it he becomes possessor, not of the treasure without the field but of the field at all hazards, to secure the treasure which is in it."
 3. "He possesses himself of the means of grace provided in that branch of the Church, where, to use a common expression, he has 'gotten his good:' he makes that field his own."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of heaven is like unto treasure hid in a field—no uncommon thing in unsettled and half-civilized countries, even now as well as in ancient times, when there was no other way of securing it from the rapacity of neighbors or marauders."
 2. "The which when a man hath found—that is, unexpectedly found."
 3. "He hideth, and for joy thereof—on perceiving what a treasure he had lighted on, surpassing the worth of all he possessed."
@@ -50,4 +50,4 @@ The Parable depicts a man stumbling upon a hidden treasure, unexpectedly and wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

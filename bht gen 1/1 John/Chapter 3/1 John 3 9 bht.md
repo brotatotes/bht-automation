@@ -4,7 +4,7 @@
 The verse describes the transformative power of being born of God. It highlights the incompatibility between sin and regeneration, as those begotten of God cannot habitually sin. The divine seed of loving faith abides in them, leading them to cleanse away every sin and resist it. This new life in God generates a hatred for sin and an unceasing desire to live righteously, as the grace of the Spirit opposes and prevents sin. Through inflexible perseverance and the workmanship of the Holy Spirit, the regenerate person is preserved from the temptations and corruptions that sin brings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be begotten of God and to sin, are states mutually excluding one another."
 2. "The regenerate show the utter incompatibility of sin with regeneration, by cleansing away every sin into which they may be betrayed by the old nature, at once in the blood of Christ."
 3. "The regenerate life is incompatible with sin, and gives the believer a hatred for sin in every shape, and an unceasing desire to resist it."
@@ -45,4 +45,4 @@ The verse describes the transformative power of being born of God. It highlights
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

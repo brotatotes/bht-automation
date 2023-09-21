@@ -9,7 +9,7 @@ During the time of the visit of Barnabas and Saul to Jerusalem, there was a shor
 2. "His character, as given by Josephus, is important as illustrating the present chapter: he was generous in his gifts, ambitious to gain the favor of nations, and enjoyed being praised and living a life of luxury."
 3. "This character will abundantly account for his persecuting the Christians, who were so odious to the Jews, and for his vain-glorious acceptance of the impious homage of the people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod the king—grandson of Herod the Great, and son of Aristobulus." 
 2. "For thirty years before this there was no king at Jerusalem exercising supreme authority over Judea."
 3. "There was never afterwards, save during the three last years of Herod's life, within which the transactions occurred."
@@ -48,4 +48,4 @@ During the time of the visit of Barnabas and Saul to Jerusalem, there was a shor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

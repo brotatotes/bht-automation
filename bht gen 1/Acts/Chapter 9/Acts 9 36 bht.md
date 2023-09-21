@@ -11,7 +11,7 @@ In this verse, a woman named Tabitha, also known as Dorcas, is described. The us
 
 These quotes provide historical context and background information about the city of Joppa, highlighting its significance and the events that shaped its history.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tabitha...Dorcas—the Syro-Chaldaic and Greek names for an antelope or gazelle, which, from its loveliness, was frequently employed as a proper name for women."
 2. "Doubtless the interpretation, as here given, is but an echo of the remarks made by the Christians regarding her—how well her character answered to her name."
 3. "Full of good works and alms-deeds—eminent for the activities and generosities of the Christian character."
@@ -59,4 +59,4 @@ These quotes provide historical context about Joppa, describe the prosperity and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

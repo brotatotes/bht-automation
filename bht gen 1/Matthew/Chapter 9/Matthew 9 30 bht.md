@@ -9,7 +9,7 @@ In this Bible verse, the actions of Jesus and the subsequent response of the ind
 2. "No doubt the two men were guilty of an act of disobedience in thus breaking the Lord’s solemn injunction: for obedience is better than sacrifice; the humble observance of the word of the Lord, than the most laborious and wide-spread will-worship after man’s own mind and invention."
 3. "Trench (Miracles, p. 197) well remarks, that the fact of almost all the Romish interpreters having applauded this act, is 'very characteristic, and rests on very deep differences.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And their eyes were opened: and Jesus straitly charged them." - The phrase "their eyes were opened" signifies a profound revelation or understanding that occurred to the individuals. 
 
 2. "The expression is very strong, denoting great earnestness." - This comment emphasizes the intensity and seriousness with which Jesus charged them. 
@@ -47,4 +47,4 @@ In this Bible verse, the actions of Jesus and the subsequent response of the ind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

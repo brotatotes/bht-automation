@@ -9,7 +9,7 @@ In this verse, a familiar saying is used to illustrate the division of labor and
 2. "John’s usage however is to join ὁ λόγ . ὁ ἀληθινός." 
 3. "We may also take the words, without doing any violence to the art. before ἀληθινός, 'Herein is that saying the true one.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here is revealed another of our common infirmities to which the Lord was subject—hunger."
 2. "Fatigue and thirst we saw He felt."
 3. "While the woman was away."
@@ -57,4 +57,4 @@ In this verse, a familiar saying is used to illustrate the division of labor and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

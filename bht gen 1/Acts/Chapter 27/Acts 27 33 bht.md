@@ -9,7 +9,7 @@ In the midst of treacherous waters and imminent danger, the apostle Paul took on
 2. "All would, on the approaching day, have their strength fully taxed: which therefore needed recruiting by food."
 3. "The following expressions, ἄσιτ . διατ ., μηθ . προσλ ., are spoken hyperbolically, and cannot mean literally that they had abstained entirely from food during the whole fortnight."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul—now looked up to by all the passengers as the man to direct them."
 2. "besought them all to take meat—"partake of a meal."
 3. "saying, This is the fourteenth day ye have tarried—"waited for a breathing time."
@@ -55,4 +55,4 @@ In the midst of treacherous waters and imminent danger, the apostle Paul took on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

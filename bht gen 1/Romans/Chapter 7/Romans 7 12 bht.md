@@ -11,7 +11,7 @@ The commandment discussed in these commentaries is described as holy, just, and 
 
 (Note: The commentary is quite complex and difficult to understand without further context. These quotes provide some insights into the understanding of the verse, but may not fully capture the depth of the commentary.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is indeed good, and the commandment is holy, and just, and good." This quote emphasizes the positive qualities of the law and the commandment, highlighting their righteousness and moral value.
 
 2. "So that the law is indeed good." This quote emphasizes the goodness of the law, suggesting that it serves a beneficial purpose.
@@ -61,4 +61,4 @@ The commandment discussed in these commentaries is described as holy, just, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

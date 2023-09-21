@@ -9,7 +9,7 @@ Pilate, the Roman governor, confronts the Jewish leaders, demanding a clear accu
 2. "From the time when Archelaus was deposed (A.D. 6 or 7), and Judæa became a Roman province, it would follow by the Roman law that the Jews lost the power of life and death."
 3. "Pilate seems to have judged these cases at his visits during the festivals; which would fall conveniently for the purpose, it being the custom in Jerusalem, to execute great criminals at the Feasts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pilate went out to them, and said, What accusation bring ye against this man?" - This question from Pilate shows his desire to understand the specific charges against Jesus, highlighting his commitment to justice and fairness.
 
 2. "State your charge." - Pilate's request for a clear and concise accusation emphasizes the importance of presenting evidence and making a coherent case, reflecting the principles of a fair legal process.
@@ -57,4 +57,4 @@ Pilate, the Roman governor, confronts the Jewish leaders, demanding a clear accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

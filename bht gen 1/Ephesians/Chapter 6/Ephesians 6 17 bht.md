@@ -9,7 +9,7 @@ The verse being described speaks of the helmet of salvation, a subjective and ap
 2. "the sword of the Spirit, which is the word of God, the Gospel"
 3. "praying in every season in the Spirit, and thereunto watching in all importunity and supplication concerning all saints"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The head of the soldier was among the principal parts to be defended, as on it the deadliest strokes might fall, and it is the head that commands the whole body."
 2. "The head is the seat of the mind, which, when it has laid hold of the sure Gospel 'hope' of eternal life, will not receive false doctrine, or give way to Satan's temptations to despair."
 3. "There is no armor specified for the back, but only for the front of the body; implying that we must never turn our back to the foe; our only safety is in resisting ceaselessly."
@@ -55,4 +55,4 @@ The verse being described speaks of the helmet of salvation, a subjective and ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Believers have encountered the transformative power of the Word of God, finding 
 2. "The Writer may have had in view...the wholesome and soul-preserving utterance of God in the gospel."
 3. "The δυνάμεις of this ‘world to come’ will be...spiritual powers bestowed in virtue of the indwelling Spirit to arm the Christian for his conflict with sin, the world, and the devil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We do not yet enjoy all the fulness of Christ, but only have a taste OF Him, the heavenly gift now; but believers may taste the whole word of God already, namely, God's 'good word of promise.'" 
 2. "The world to come stands in contrast to the course of this world, altogether disorganized because God is not its spring of action and end."
 3. "By faith, Christians make the world to come a present reality, though but a foretaste of the perfect future."
@@ -42,4 +42,4 @@ Believers have encountered the transformative power of the Word of God, finding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

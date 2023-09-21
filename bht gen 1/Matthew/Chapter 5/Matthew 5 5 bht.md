@@ -9,7 +9,7 @@ In this verse, commentators emphasize that the meekness Jesus describes goes bey
 2. "This meekness is not mere outward lowliness of demeanour, but that true πραΰτης of Ephesians 4:2, whose active side is ἀγάπη, and its passive side μακροθυμία."
 3. "That kingdom of God which begins in the hearts of the disciples of Christ, and is not ἐκ τοῦ κόσμου τούτου, shall work onwards till it shall become actually a kingdom over this earth, and its subjects shall inherit the earth: first in its millennial, and finally in its renewed and blessed state for ever."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is impossible, indeed, that 'the poor in spirit' and 'the mourners' in Zion should not at the same time be 'meek'; that is to say, persons of a lowly and gentle carriage."
 2. "Towards men this disposition is the opposite of high-mindedness, and a quarrelsome and revengeful spirit; it 'rather takes wrong, and suffers itself to be defrauded.'"
 3. "Even in the Psalm from which these words are taken the promise to the meek is not held forth as an arbitrary reward, but as having a kind of natural fulfillment."
@@ -53,4 +53,4 @@ In this verse, commentators emphasize that the meekness Jesus describes goes bey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse highlights the contrast between living for oneself and living for Chr
 2. "ἑαυτῷ and κυρίῳ are datives commodi."
 3. "ζῇν and ἀποθνήσκειν represent the whole sum of our course on earth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For none of us—Christians liveth to himself." - This quote emphasizes that as Christians, we are not meant to live solely for ourselves. Our lives should be directed towards serving and loving others, rather than being self-centered.
 
 2. "To dispose of himself or shape his conduct after his own ideas and inclinations." - This quote highlights the importance of not being driven solely by our own desires and preferences. Instead, we should seek to align our actions and behavior with God's will and the well-being of others.
@@ -57,4 +57,4 @@ These quotes highlight the importance of unity and charity among Christians, eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

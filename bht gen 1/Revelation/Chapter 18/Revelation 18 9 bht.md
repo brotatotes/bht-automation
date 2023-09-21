@@ -4,7 +4,7 @@
 In this verse, the faithless and self-indulgent Church is condemned for its alliance with the great men of the world. The destruction of Babylon will lead to intense mourning and lamentation, symbolized by the weeping and wailing of kings. The catastrophic event will be characterized by the engulfing smoke of burning, signifying the severe consequences of Babylon's ruin. The fall of Babylon will also bring judgment upon earthly and idolatrous kings who were in communion with the Church of Rome. This event will serve as a signal for the imminent overthrow of thrones across Europe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The faithless Church, instead of reproving, connived at the self-indulgent luxury of the great men of this world, and sanctioned it by her own practice."
 2. "Contrast the world's rejoicing over the dead bodies of the two witnesses who had tormented it by their faithfulness, with its lamentations over the harlot who had made the way to heaven smooth."
 3. "Men's carnal mind relishes a religion like that of the apostate Church, which gives an opiate to conscience, while leaving the sinner license to indulge his lusts."
@@ -28,4 +28,4 @@ In this verse, the faithless and self-indulgent Church is condemned for its alli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

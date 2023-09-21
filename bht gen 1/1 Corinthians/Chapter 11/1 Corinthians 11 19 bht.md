@@ -9,7 +9,7 @@ In the midst of the Corinthians, dissensions and divisions were inevitable, mani
 2. "It does not appear... that such separations had yet taken place among the Corinthians. Nor even in Clement’s Epistle, forty years after this, do we find any allusion to such, but only, as here, to a general spirit of dissension and variance."
 3. "That the approved [also] may be made manifest among you; viz. through a better and nobler spirit being shown by them, than by the contentious and separatists."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Heresies" had not yet its technical sense ecclesiastically, referring to doctrinal errors: it means confirmed schisms.
 2. The "must be" arises from sin in professors necessarily bearing its natural fruits: these are overruled by God to the probation of character of both the godly and the ungodly, and to the discipline of the former for glory.
 3. ST. AUGUSTINE'S rule is a golden rule as regards questions of heresy and catholicity: "In doubtful questions, liberty; in essentials, unity; in all things, charity."
@@ -57,4 +57,4 @@ In the midst of the Corinthians, dissensions and divisions were inevitable, mani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This Bible verse, according to various commentators, emphasizes the importance of sincerity, honesty, and straightforwardness in preaching the Gospel of Christ. The verse encourages the rejection of deceit, craftiness, and trickery in delivering the message of truth. The goal is to appeal to the conscience of all individuals, presenting the truth openly and clearly, without hiding or altering it. The focus is on demonstrating the purity and integrity of the Gospel, disregarding the corrupt inclinations of others and relying solely on God's judgment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am not ashamed of the Gospel of Christ" (Romans 1:16). Shame would lead to hiding.
 2. "We use great plainness of speech" (Romans 1:16). By manifesting the truth, we avoid deceitful handling of the word of God.
 3. "Commending ourselves to the verdict of every man's conscience" (2 Corinthians 3:1). Our actions and words should appeal to the conscience of others, not just their carnal judgment.
@@ -51,4 +51,4 @@ This Bible verse, according to various commentators, emphasizes the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

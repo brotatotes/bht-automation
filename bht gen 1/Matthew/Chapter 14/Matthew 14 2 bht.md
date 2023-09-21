@@ -9,7 +9,7 @@ In this verse, a significant statement is made, emphasizing the miraculous resur
 2. "There is no inconsistency in these accounts" - This statement reassures the reader that the different accounts of Herod's reaction do not contradict each other, providing clarity and understanding.
 3. "There is no allusion here to metempsychosis" - This clarification dismisses any potential confusion or misinterpretation regarding the concept of metempsychosis, ensuring a correct understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The murdered prophet haunted his guilty breast like a specter and seemed to him alive again and clothed with unearthly powers in the person of Jesus."
 2. "HEARING OF THE BAPTIST'S DEATH, JESUS CROSSES THE LAKE WITH TWELVE, AND MIRACULOUSLY FEEDS FIVE THOUSAND."
 3. "JESUS CROSSES TO THE WESTERN SIDE OF THE LAKE WALKING ON THE SEA—INCIDENTS ON LANDING."
@@ -48,4 +48,4 @@ In this verse, a significant statement is made, emphasizing the miraculous resur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

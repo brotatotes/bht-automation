@@ -4,7 +4,7 @@
 In this verse, we are reminded to be vigilant and prepared for the coming of the Son of Man, both in death and in the final judgment. We are urged to watch and be alert, not knowing the exact timing of these events. Being ready requires more than mere knowledge or understanding, but also the presence of the Holy Spirit in our hearts. Even in moments of rest, our hearts should remain awake and attentive. True security comes from maintaining this watchfulness, rather than being complacent or negligent.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Watch therefore; for ye know neither the day nor the hour wherein the Son of man cometh—This, the moral or practical lesson of the whole parable, needs no comment."
 2. "It is not, therefore, without good reason that they appear in their actual order—that of the Virgins first, and of the Talents following—since it is the sole condition of a profitable outward activity for the kingdom of God, that the life of God be diligently maintained within the heart."
 3. "the virgins were represented as waiting for their Lord, we have the servants working for Him; there the inward spiritual life of the faithful was described; here his external activity."
@@ -44,4 +44,4 @@ Overall, these quotes emphasize the importance of vigilance, readiness, and reli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators emphasize the significance of prayer and the role of
 2. "Prayer is an essential part of the process of laying on of hands."
 3. "The act of laying on of hands is a physical expression of the prayer being offered."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the baptism of adults presupposed 'the renewing of the Holy Ghost,' this communication of the Holy Ghost by the laying on of the apostles' hands was clearly a superadded thing."
 2. "It was only occasional, so it was invariably attended with miraculous manifestations."
 3. "In the present case, an important object was served by it - 'the sudden appearance of a body of baptized disciples in Samaria, by the agency of one who was not an apostle, requiring the presence and power of apostles to perform their special part as the divinely appointed founders of the Church'."
@@ -45,4 +45,4 @@ In this verse, commentators emphasize the significance of prayer and the role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

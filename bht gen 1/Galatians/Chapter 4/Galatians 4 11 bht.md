@@ -9,7 +9,7 @@ This verse captures the heartfelt concern and deep affection of the apostle for 
 2. "The indicative assumes the fact which μή πως deprecates."
 3. "There is no attraction in the construction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My fear is not for my own sake, but for yours." This quote highlights the selfless concern of the speaker, showing that their primary focus is on the well-being of others rather than themselves.
 
 2. "Lest haply." This phrase emphasizes the sense of caution and the desire to prevent any potential harm or negative outcome.
@@ -57,4 +57,4 @@ This verse captures the heartfelt concern and deep affection of the apostle for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

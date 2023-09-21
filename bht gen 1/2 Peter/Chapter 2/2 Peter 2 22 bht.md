@@ -11,7 +11,7 @@ The Bible verse being described is a proverb that warns against the foolishness 
 
 3. "The washed sow to the mire." - This phrase suggests that even after being cleansed, some individuals are naturally drawn back to their sinful habits. It implies that true transformation requires a change of heart and not just external purification.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Dogs and swine they were before, and dogs and swine they will continue." This quote highlights the unchanging nature of certain individuals who persist in their foolish and sinful ways, comparing them to dogs and swine.
 2. "They 'scarcely' have escaped from their filthy folly, when they again are entangled in it." This quote emphasizes the fleeting nature of their escape from their sinful behavior, as they quickly become entangled in it once again.
 3. "Then they seduce others who have in like manner 'for a little time escaped from them that live in error'." This quote points out how these individuals not only fall back into their own folly but also lead others astray who had briefly escaped from similar errors.
@@ -57,4 +57,4 @@ The Bible verse being described is a proverb that warns against the foolishness 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

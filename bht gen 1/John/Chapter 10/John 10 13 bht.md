@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the contrast between the hireling, motivated by personal gain and lacking genuine care for the flock, and the true shepherd who is the door of the sheepfold. The hireling flees in times of danger, having no commitment or love for the sheep, while the good shepherd, Jesus, provides protection and security for his followers. The hireling is solely concerned with his own interests, while the true shepherd embodies sacrificial love and concern for the well-being of the flock.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the door of the sheep—that is, the way in to the fold, with all blessed privileges, both for shepherds and sheep." 
 
 2. "The image of Jesus as the door emphasizes his role as the only means of access to God and the blessings of salvation." 
@@ -51,4 +51,4 @@ In this verse, the commentators emphasize the contrast between the hireling, mot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

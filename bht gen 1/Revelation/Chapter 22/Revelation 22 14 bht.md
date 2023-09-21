@@ -4,7 +4,7 @@
 Commentators have shared insightful perspectives on a Bible verse without mentioning which verse they were referring to. They highlight the significance of obeying God's commandments and how it relates to salvation. Obedience, not works, grants individuals the privilege and authority to partake in eternal life. The verse reveals that those who diligently purify themselves, following God's commandments, strive for righteousness. The reward is not just access to the tree of life, but also the entrance to the heavenly city. Obedience brings blessings, happiness, and a restored relationship with God, leading to eternal life and communion with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed are they that wash their robes, namely, in the blood of the Lamb." (Revelation 7:14) - This reading takes away the pretext for the notion of salvation by works.
 2. "God's first and grand Gospel 'commandment' is to believe on Jesus." - The English Version reading is quite compatible with salvation by grace.
 3. "The right, or privilege, is founded, not on our merits, but on God's grace." - Our right to the tree of life is due to what He has done for us, not our own doings.
@@ -45,4 +45,4 @@ Commentators have shared insightful perspectives on a Bible verse without mentio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

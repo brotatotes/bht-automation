@@ -9,7 +9,7 @@ In the midst of a powerful and compelling discourse, Peter, together with the ot
 2. "πειθαρχεῖν] much stronger than ἀκούειν, as their conduct, in persisting after prohibition, had been more marked and determined."
 3. "θεῷ opposed to τῆς διδ. ὑμῶν of the H. P.; and to ἀνθρώπου τούτου. In the background, there would be the command of the angel, but it is not alleged: the great duty of preaching the Gospel of Christ is kept on its highest grounds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's sermon on the day of Pentecost is a powerful demonstration of the fulfillment of Old Testament prophecies in the life, death, and resurrection of Jesus Christ."
 2. "Peter's emphasis on the resurrection of Jesus is a crucial aspect of his message, as it not only validates Jesus' claims to be the Messiah but also provides hope and assurance for believers."
 3. "The outpouring of the Holy Spirit on the day of Pentecost is a significant event that marks the beginning of the new covenant and the empowerment of believers to carry out the mission of spreading the gospel."
@@ -55,4 +55,4 @@ In the midst of a powerful and compelling discourse, Peter, together with the ot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a powerful expression of the acknowledgement, lament, and transformation experienced by the souls under the altar. They affirm the righteousness of God's judgments, acknowledging His perfect justice. Their initial cry reflects their intense longing for justice and vindication. However, this lament is ultimately transformed into a song of praise, as they recognize and celebrate the faithfulness and triumph of God's righteous judgments. It is a testament to the transformative power of God's righteousness on the hearts and souls of those who trust in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of opposing and lessening, she promoted the sinful life and decay of the world by her own earthliness, allowing the salt to lose its savor."
 2. "A particular application of the principle (Genesis 9:5)."
 3. "Literally shed by the Old Testament adulterous Church, and by the New Testament apostate Church; also virtually, though not literally, by all who, though called Christians, hate their brother, or love not the brethren of Christ, but shrink from the reproach of the cross, and show unkindness towards those who bear it."
@@ -48,4 +48,4 @@ The verse being described is a powerful expression of the acknowledgement, lamen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

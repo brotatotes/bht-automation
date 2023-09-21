@@ -11,7 +11,7 @@ In this Bible verse, the apostle Paul raises the objection of whether we should 
 
 3. "This objection challenges the idea that we can continue in sin and still receive an abundance of God's grace." (ch. Romans 5:20)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shall we continue in sin, that grace may abound?" - This objection to the apostle's doctrine of salvation through grace alone has been raised throughout history. It is a plausible objection, but the apostle will demonstrate that it is a total perversion of the true doctrine of grace. 
 
 2. "Had the apostle's doctrine been that salvation depends on our good works, no such objection could have been made." - If salvation were based on our own efforts and good works, then the objection of continuing in sin to increase grace would not have been applicable. 
@@ -59,4 +59,4 @@ In this Bible verse, the apostle Paul raises the objection of whether we should 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

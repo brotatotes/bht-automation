@@ -4,7 +4,7 @@
 In this Bible verse, we see the importance of holding on to faith and maintaining a good conscience. Faith is compared to a precious liquor, while a good conscience is described as a clean glass. However, there are those who willingly reject and thrust away their faith, choosing to retain their sins instead. Without faith and a good conscience, there is a risk of shipwrecking one's belief.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is like a very precious liquor; a good conscience is the clean, pure glass that contains it." 
 2. "The loss of good conscience entails the shipwreck of faith." 
 3. "They thrust it from them as a troublesome monitor. It reluctantly withdraws, extruded by force, when its owner is tired of its importunity, and is resolved to retain his sin at the cost of losing it."
@@ -48,4 +48,4 @@ In this Bible verse, we see the importance of holding on to faith and maintainin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

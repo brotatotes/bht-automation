@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes God's intimate knowledge and understanding of the innermost thoughts and intentions of a person's heart. It highlights His omniscience and ability to discern the true nature of individuals, going beyond mere outward appearances. This verse also reveals God's acceptance and inclusion of all believers, regardless of their background or ethnicity, signifying His impartiality and grace. It further emphasizes the transformative power of God's acceptance, as evidenced by the bestowal of the Holy Spirit upon believers, validating their faith and enabling them to live out their faith with power and purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The real question for admission to full standing in the visible Church is the state of the heart."
 2. "No principle of admission to church privileges which reverses this can be sound."
 3. "God, which knoweth the hearts."
@@ -49,4 +49,4 @@ The Bible verse being described emphasizes God's intimate knowledge and understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

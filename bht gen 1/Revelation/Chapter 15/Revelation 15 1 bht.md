@@ -4,7 +4,7 @@
 In this verse, the commentator's remarks emphasize the finality and significance of the seven plagues. They are described as the culmination of God's judgment, bringing about the completion of His wrath. These plagues are not arbitrary, but part of a predetermined plan, as foreseen and decided by God. The vision is a sign of future events, representing the coming of Christ and the destruction of antichrist. The number seven symbolizes completeness and finality. Through these plagues, God's longsuffering is replaced by His righteous wrath against His enemies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The seven last plagues... are the last." - This emphasizes that the seven plagues mentioned in the verse are the final ones, indicating the culmination of God's judgment.
 2. "The prophetical past for the future... so sure of accomplishment is His word." - This highlights the certainty and reliability of God's word, suggesting that what is spoken of as past in prophecy is as good as done.
 3. "There are no more plagues after these until the Lord's coming in judgment." - This statement clarifies that the plagues mentioned in the verse are the final ones before the Lord's coming, indicating the significance and finality of these events.
@@ -43,4 +43,4 @@ In this verse, the commentator's remarks emphasize the finality and significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

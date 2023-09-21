@@ -9,7 +9,7 @@ As the high priest stood up in the midst of the gathering, he sought to demonstr
 2. "Understanding the correct punctuation and construction is crucial for interpreting the verse accurately." 
 3. "Referencing the note on Matthew 26:62 will provide valuable insights into the intended meaning of the verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Clearly, they felt that their case had failed."
 2. "By this artful question the high priest hoped to get from His own mouth what they had in vain tried to obtain from their false and contradictory witnesses."
 3. "But in this, too, they failed."
@@ -34,4 +34,4 @@ As the high priest stood up in the midst of the gathering, he sought to demonstr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

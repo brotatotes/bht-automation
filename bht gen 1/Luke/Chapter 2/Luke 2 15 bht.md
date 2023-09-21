@@ -9,7 +9,7 @@ In this Bible verse, commentators describe a group of shepherds who were visited
 2. "Such distinctions are not usual, whereas the redundant ἄνθρ . is."
 3. "Οἱ ποιμένες specifies what οἱ ἄνθρ . stated generally: the men, viz. the shepherds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lovely simplicity of devoutness and faith this!"
 2. "They are not taken up with the angels, the glory that invested them, and the lofty strains with which they filled the air."
 3. "Let us go and see this thing which is come to pass, which the Lord hath made known unto us."
@@ -50,4 +50,4 @@ In this Bible verse, commentators describe a group of shepherds who were visited
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

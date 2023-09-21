@@ -9,7 +9,7 @@ Amidst the darkness and corruption of Nero's court, it is remarkable that the gr
 2. "This is much more likely, than that any of the actual family of Nero should have embraced Christianity."
 3. "The reason of these being specified is not plain: the connexion perhaps between a colonia, and some of the imperial household, might account for it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "they that are of Cæsar's household—the slaves and dependents of Nero who had been probably converted through Paul's teaching while he was a prisoner in the Prætorian barrack attached to the palace."
 2. "Philippi was a Roman 'colony,' hence there might arise a tie between the citizens of the mother city and those of the colony; especially between those of both cities who were Christians, converted as many of them were by the same apostle, and under like circumstances, he having been imprisoned at Philippi, as he now is at Rome."
 
@@ -44,4 +44,4 @@ Amidst the darkness and corruption of Nero's court, it is remarkable that the gr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

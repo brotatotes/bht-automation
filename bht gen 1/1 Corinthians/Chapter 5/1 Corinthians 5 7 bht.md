@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul exhorts the Corinthians to purge themselve
 2. "That ye may be a new lump (opposed to the παλαιὸς ἄνθρωπος of old and dissolute days), as ye are (normally and by your Christian profession) unleavened (i.e. dead to sin and free from it)."
 3. "The ordinances of the old law are to him not points on whose actual observance to ground spiritual lessons, but things passed away in their literal acceptance, and become spiritual verities in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ our Passover has been (English Version, 'is') sacrificed for us"; that is, as the Jews began the days of unleavened bread with the slaying of the Passover lamb, so, Christ our Passover having been already slain, let there be no leaven of evil in you who are the 'unleavened lump.'"
 2. "The time of keeping feast among us Christians, corresponding to the Jewish Passover, is not limited, as the latter, to one season, but is ALL our time; for the transcendent benefits of the once-for-all completed sacrifice of our Passover Lamb extends to all the time of our lives and of this Christian dispensation."
 3. "For even... a more cogent one for purging out every leaven of evil; namely, that Christ has been already sacrificed, whereas the old leaven is yet unremoved, which ought to have been long ago purged out."
@@ -56,4 +56,4 @@ In this Bible verse, the apostle Paul exhorts the Corinthians to purge themselve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

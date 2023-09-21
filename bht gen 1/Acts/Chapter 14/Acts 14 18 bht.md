@@ -4,7 +4,7 @@
 In the early days of the Christian Church, idolatrous tendencies quickly emerged, despite the clear rejection of such practices by Peter and other believers. The zeal of the people to honor false gods was so strong that it bordered on an untamed madness. The arguments presented against idol worship, along with the arduous efforts to dissuade the people, demonstrated the fervent struggle to prevent them from engaging in sacrificial offerings. It was a harrowing ordeal, but ultimately, their dedication to the one true living God prevailed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In spite of this, and Peter's repudiation of all such honor (Acts 10:26), how soon idolatrous tendencies began to show themselves in the Christian Church."
 2. "At length to be systematized and enjoined in the Church of Rome!"
 3. "How soon idolatrous tendencies began to show themselves in the Christian Church."
@@ -33,4 +33,4 @@ In the early days of the Christian Church, idolatrous tendencies quickly emerged
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

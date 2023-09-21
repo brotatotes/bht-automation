@@ -4,7 +4,7 @@
 The verse described here speaks of believers who endure labor, reproach, and suffering due to their unwavering hope in God. With dedicated effort and perseverance, they strive against sin, Satan, and false teachings. Although God is the Savior of all humanity in a providential sense, believers experience His saving power in a deeper way. They trust in Him, facing worldly opposition, while acknowledging His role as the preserver of all and the one who offers eternal salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reason why 'we both labor and suffer reproach is because we have rested, and do rest our hope, on the living God." 
 2. "Their 'labor and reproach' are not inconsistent with their having from the living God, their Saviour, even in this life."
 3. "He is the Saviour of all men potentially; of believers alone effectually."
@@ -50,4 +50,4 @@ The verse described here speaks of believers who endure labor, reproach, and suf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

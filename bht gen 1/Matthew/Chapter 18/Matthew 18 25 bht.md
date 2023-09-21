@@ -9,7 +9,7 @@ In this verse, we see a depiction of the desperate circumstances faced by a debt
 2. "The imprisonment also, and the tormentors, Matthew 18:30; Matthew 18:34, favour this view, forming no part of the Jewish law."
 3. "ἀποδοθῆναι, impersonal, as in E. V., payment to be made."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the severity of the debtor's situation, as he is not only facing the possibility of being sold into slavery, but also his wife, children, and all his possessions. It emphasizes the desperate consequences of not being able to pay one's debts." 
 
 2. "The reference to 2 Kings 4:1 and Nehemiah 5:8 serves as a reminder of similar situations in the Old Testament where people faced financial hardships and were unable to repay their debts. This context helps to illustrate the seriousness of the debtor's predicament in this parable." 
@@ -59,4 +59,4 @@ In this verse, we see a depiction of the desperate circumstances faced by a debt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

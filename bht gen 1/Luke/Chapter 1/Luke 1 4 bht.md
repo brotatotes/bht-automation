@@ -9,7 +9,7 @@ Luke's Gospel was written with the purpose of providing Theophilus with a compre
 2. "κατηχήθης literally, catechized, ‘catechetically taught.’"
 3. "λόγων is not to be rendered ‘things:’ neither it, nor ῥῆμα, nor דָּבָר, ever has this meaning, as is commonly but erroneously supposed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that thou mightest know—'know thoroughly.'" - This quote emphasizes the importance of deep understanding and knowledge, suggesting that the purpose of the instruction is to ensure a comprehensive grasp of the teachings.
 2. "hast been instructed—orally instructed—literally, 'catechized' or 'catechetically taught.'" - This quote highlights the method of instruction, indicating that it was done through oral communication and likely involved a systematic teaching process known as catechesis.
 3. "ANNOUNCEMENT OF THE FORERUNNER." - This quote signifies the introduction of the forerunner, implying that the instruction received is preparing the way for someone or something significant to come.
@@ -44,4 +44,4 @@ Luke's Gospel was written with the purpose of providing Theophilus with a compre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

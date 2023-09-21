@@ -11,7 +11,7 @@ The speaker in this verse is acknowledging the contradiction between their desir
 
 3. "The law prohibits what I also dislike." - This quote underscores the speaker's agreement with the law, as it prohibits actions that they themselves find undesirable.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If then I do that which I would not—" This phrase highlights the struggle between one's desires and their actions, emphasizing the internal conflict that arises when one's actions contradict their intentions.
 2. "I consent unto the law that it is good—" This statement acknowledges the inherent goodness of the law, indicating an acceptance of its moral authority and the recognition of its positive influence on one's life.
 3. "The judgment of my inner man going along with the law." This phrase suggests that the inner conscience or moral compass aligns with the principles of the law, indicating a recognition of the law's righteousness and the desire to adhere to its standards.
@@ -63,4 +63,4 @@ The speaker in this verse is acknowledging the contradiction between their desir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

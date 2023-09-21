@@ -4,7 +4,7 @@
 The Bible verse being described is a prophecy about ten kings or kingdoms that will rise up after the fall of the Roman Empire. These kings are not ordinary rulers, but rather possess a distinctive power and authority. This period of their rule is temporary, symbolizing the transient nature of their administration. These kings are also associated with the antichristian powers of the earth, and they exhibit the same ungodly spirit as Rome and the preceding world powers. This description highlights the unique qualities of these kings and their significant role in the unfolding of future events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ten kingdoms are not, therefore, ten which arose in the overthrow of Rome (heathen), but are to rise out of the last state of the fourth kingdom under the eighth head." 
 2. "They have the name of kings, but not with undivided kingly power."
 3. "Antichrist is in existence long before the fall of Babylon; but it is only at its fail he obtains the vassalage of the ten kings."
@@ -38,4 +38,4 @@ The Bible verse being described is a prophecy about ten kings or kingdoms that w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

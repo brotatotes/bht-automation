@@ -4,7 +4,7 @@
 The verse being described is a call to action - a call to put to death the sinful desires, thoughts, and actions within oneself. It emphasizes the urgency of this task, as failing to do so will result in spiritual death. The commentary highlights that this process requires the assistance of the Holy Spirit and expresses the transformative power of the gospel in sanctifying the soul. By actively mortifying the deeds of the flesh, believers can experience a more abundant life of faith and the promise of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye do not kill sin, it will kill you." 
 2. "The sanctification of believers... has its living spring in the indwelling of the Spirit of Christ."
 3. "The bent of the thoughts, affections, and pursuits, is the only decisive test of character."
@@ -63,4 +63,4 @@ The verse being described is a call to action - a call to put to death the sinfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

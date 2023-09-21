@@ -4,7 +4,7 @@
 The verse being described reminds us of the importance of genuine inner transformation and integrity, rather than superficial displays of righteousness. The commentators highlight how the external actions should be a reflection of the inward purity. They emphasize the need to cleanse the heart first, as outward morality without inner purity is hollow. Ultimately, the verse exposes the hypocrisy of those who perform outward acts of devotion but fail to truly live according to the teachings they claim to follow.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He to whom belongs the outer life, and of right demands its subjection to Himself, is the inner man less His?"
 2. "A remarkable example this of our Lord's power of drawing the most striking illustrations of great truths from the most familiar objects and incidents in life."
 3. "Our Lord bids them exemplify the opposite character, and then their outside, ruled by this, would be beautiful in the eye of God."
@@ -35,4 +35,4 @@ The verse being described reminds us of the importance of genuine inner transfor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

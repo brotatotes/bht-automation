@@ -9,7 +9,7 @@ This verse comes from an epistle written by an affectionate and revered apostle 
 2. "The gen. plur. of the persons constituting the church occurs only in the addresses of these two Epistles."
 3. "The ἐν, as usual, denotes communion and participation in, as the element of spiritual life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An undesigned propriety in the Epistles, evincing genuineness."
 2. "So realizing was their Christian faith, that they were able hourly to look for the Lord Jesus."
 3. "This marks that they were no longer heathen."
@@ -53,4 +53,4 @@ This verse comes from an epistle written by an affectionate and revered apostle 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

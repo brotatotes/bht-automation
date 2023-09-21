@@ -9,7 +9,7 @@ The Holy Spirit, the Spirit of truth, guides believers into the complete truth, 
 2. "ὁ κόσμος = οἱ ψυχικοί...have no receptivity of the things of God" - The term "world" refers to those who live according to their fleshly desires and minds, lacking the ability to understand or receive the things of God.
 3. "γινώσκετε...spoken of their state as disciples opposed to the world" - The present tense of "know" is used to describe the disciples' ongoing state of being separate from the world as followers of Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whom the world cannot receive" - This quote highlights the exclusivity of the Holy Spirit's presence in believers. The world, with its limited understanding and rejection of spiritual things, cannot receive the Spirit. 
 
 2. "He dwelleth with you" - This quote emphasizes the present reality of the Holy Spirit's presence among the disciples. Even before the fullness of the Spirit was poured out, Jesus assures them that the Spirit is already dwelling with them.
@@ -55,4 +55,4 @@ The Holy Spirit, the Spirit of truth, guides believers into the complete truth, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

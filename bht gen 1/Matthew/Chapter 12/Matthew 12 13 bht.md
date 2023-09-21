@@ -9,7 +9,7 @@ In this verse, Jesus performs a miraculous healing by commanding a man with a wi
 2. "The stretching forth the hand was to prove its soundness, which the divine power wrought in the act of stretching it forth."
 3. "Thus his enemies were disappointed, having no legal ground against Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power to obey going forth with the word of command." This quote highlights the authority and effectiveness of Jesus' command to the man. It emphasizes the power behind Jesus' words and the immediate response of the man to stretch forth his hand.
 
 2. "The poor man, having faith in this wonderful Healer...disregarded the proud and venomous Pharisees." This quote emphasizes the faith of the man in Jesus as the Healer and his ability to rise above the criticism and judgment of the Pharisees. It showcases the contrast between the man's humility and the Pharisees' pride.
@@ -42,4 +42,4 @@ In this verse, Jesus performs a miraculous healing by commanding a man with a wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

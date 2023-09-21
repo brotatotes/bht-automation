@@ -11,7 +11,7 @@ The verse in question captures the resistance and rejection Moses faced from the
 
 3. "The more Israel resists the Spirit, the deeper they sink into spiritual darkness and rebellion, hindering their ability to experience the blessings and favor of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The life of Moses is represented as embracing three periods, of forty years each; the Jewish writers say the same; and though this is not expressly stated in the Old Testament, his age at death, one hundred twenty years (Deuteronomy 34:7), agrees with it."
 2. "It came into his heart to visit his brethren—his heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
 3. "His heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
@@ -51,4 +51,4 @@ These quotes provide insights into the disrespectful attitude towards Moses and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

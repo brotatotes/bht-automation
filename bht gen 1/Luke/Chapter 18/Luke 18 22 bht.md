@@ -4,7 +4,7 @@
 In this verse, a conversation takes place with a ruler who lacked one fundamental thing. Jesus, looking upon him with love, revealed the deep need in his heart and challenged him to sell all his possessions to free himself from his love of the world. This was a specific trial designed to expose his attachment and direct him towards a life of selfless devotion to God's glory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "lackest . . . one thing—Ah! but that a fundamental, fatal lack." 
 2. "sell, &c.—As riches were his idol, our Lord, who knew it from the first, lays His great authoritative grasp at once upon it, saying, 'Now give Me up that, and all is right.'"
 3. "No general direction about the disposal of riches, then, is here given, save that we are to sit loose to them and lay them at the feet of Him who gave them."
@@ -33,4 +33,4 @@ In this verse, a conversation takes place with a ruler who lacked one fundamenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

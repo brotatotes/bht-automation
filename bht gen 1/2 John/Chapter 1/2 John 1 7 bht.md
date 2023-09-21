@@ -10,7 +10,7 @@ The verse being described is a warning against deceivers who deny the truth of J
 3. "He who denies the ἔρχεσθαι ἐν σαρκί, denies the possibility of the Incarnation: he who denies the ἐλθεῖν or ἐληλυθέναι, denies its actuality."
 4. "This is the deceiver and the antichrist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love and truth go hand in hand."
 2. "He who denies Christ's coming in the flesh, denies the possibility of the incarnation."
 3. "The denial of the reality of His manifestation in the flesh, at His first coming, and of His personal advent again, constitutes Antichrist."
@@ -53,4 +53,4 @@ These quotes highlight the connection between love, obedience, and truth. They e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, believers are encouraged to view their suffering for the sake of 
 2. "The Spirit of glory, which is also the Spirit of God."
 3. "The Spirit of glory...resteth upon you, as on Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let your suffering be on account of Christ, not on account of evil-doing."
 2. "Reproach affects noble minds more than loss of goods, or even bodily sufferings."
 3. "Believers may well overcome the 'reproach'... seeing that 'the Spirit of glory' rests upon them, as upon Him."
@@ -55,4 +55,4 @@ In this verse, believers are encouraged to view their suffering for the sake of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

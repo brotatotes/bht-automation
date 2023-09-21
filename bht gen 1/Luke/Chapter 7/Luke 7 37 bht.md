@@ -4,7 +4,7 @@
 In this Bible verse, an unnamed woman pours expensive perfume on Jesus' head as an act of love and devotion. While some commentators debate her identity, it is clear that her action signifies her recognition of Jesus' divinity and her reverence for him as the Messiah. Despite the disciples' misunderstanding, Jesus acknowledges the woman's act as a powerful act of worship, contrasting their lack of understanding with her profound devotion. This moment serves as a powerful reminder of the depth of love and gratitude that can be expressed towards Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no ground whatever for the popular notion that this woman was Mary Magdalene, nor do we know what her name was." 
 2. "The ointment has here a peculiar interest, as the offering by a penitent of what had been an accessory in her unhallowed work of sin." 
 3. "The ointment was a symbol of her repentance and love for Jesus, a way for her to express her gratitude and devotion."
@@ -50,4 +50,4 @@ In this Bible verse, an unnamed woman pours expensive perfume on Jesus' head as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

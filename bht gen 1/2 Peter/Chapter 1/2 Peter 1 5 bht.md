@@ -9,7 +9,7 @@ For this powerful verse, we are reminded by renowned commentators of the need fo
 2. "Fides, Dei donum: ideo non jubemur subministrare fidem, sed in fide fructus illos, qui septem enumerantur: fide chorum ducente, amore concludente."
 3. "Probably that practical discriminating knowledge, of which it is said Ephesians 5:17, μὴ γίνεσθε ἄφρονες, ἀλλὰ συνίετε τί τὸ θέλημα τοῦ κυρίου: 'quæ malum a bono secernit, et mali fugam docet.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And for this very reason," namely, "seeing that His divine power hath given unto us all things that pertain to life and godliness" (2 Peter 1:3).
 2. "Each grace being assumed, becomes the stepping stone to the succeeding grace: and the latter in turn qualifies and completes the former."
 3. "Faith leads the band; love brings up the rear."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite fragmented and lacks a clear structure. A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

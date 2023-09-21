@@ -9,7 +9,7 @@ Sin is rebellion against God's authority and a violation of His holy law. It enc
 2. "The assertions are all perfectly general, and regard, in the true root and ideal, every sin whatever." 
 3. "The sinner goes counter to (this and all other) law: indeed the two terms, sin and lawlessness, are synonymous and convertible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Birth from God involves self-purification; he now shows where sin, that is, the want of self-purification, is, there is no birth from God."
 2. "Whosoever committeth sin...transgresseth...the law...and so shows he has no such hope of being hereafter pure as God is pure, and, therefore, that he is not born of God."
 3. "The Greek 'sin' (hamartia) is literally, 'a missing of the mark.' God's will being that mark to be ever aimed at."
@@ -61,4 +61,4 @@ Note: The commentary is quite long and contains repetitive information. I have s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators emphasize the importance of clear and understandable
 2. "But the technical rendering, by means of the tongue (in the sense of γλώσσῃ λαλεῖν), is allowable."
 3. "This periphrasis of the future implies, ye will be, so long as ye speak, speaking, ... On εἰς ἀέρα, see ref.: it implies the non-reception by hearers of what is said."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye—who have life" - The commentary highlights the contrast between those who have life and "things without life," emphasizing the significance of human existence.
 2. "By the tongue—the language which ye speak in" - This quote emphasizes the role of speech and communication in the verse, drawing attention to the power and impact of words.
 3. "Ye shall speak—Ye will be speaking into the air" - The commentary suggests that speaking in vain or without purpose is akin to speaking into the air, highlighting the importance of meaningful and intentional communication.
@@ -45,4 +45,4 @@ Note: The commentary provides insights on the importance of clear and understand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

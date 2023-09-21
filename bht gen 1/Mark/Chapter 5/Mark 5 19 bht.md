@@ -11,7 +11,7 @@ A man is sent to his own house, to his friends and family, proclaiming the great
 
 3. "His example may in former times have been prejudicial to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be a missionary for Christ, in the region where he was so well known and so long dreaded, was a far nobler calling than to follow Him where nobody had ever heard of him." 
 2. "Other trophies not less illustrious could be raised by the same power and grace." 
 3. "Jesus suffered him not."
@@ -43,4 +43,4 @@ A man is sent to his own house, to his friends and family, proclaiming the great
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

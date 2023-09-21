@@ -9,7 +9,7 @@ The verse describes a conversation between Jesus and Nicodemus, a well-known and
 2. "Or is it possible that ὁ διδάσκαλος may merely be meant as one of οἱ διδάσκαλοι?"
 3. "Still less can I with Bp. Middleton, Gr. Art. pp. 242 3, believe any blame conveyed in the title."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question clearly implies that the doctrine of regeneration is so far disclosed in the Old Testament that Nicodemus was culpable in being ignorant of it."
 2. "Nor is it merely as something that should be experienced under the Gospel that the Old Testament holds it forth—as many distinguished critics allege, denying that there was any such thing as regeneration before Christ."
 3. "For our Lord's proposition is universal, that no fallen man is or can be spiritual without a regenerating operation of the Holy Ghost, and the necessity of a spiritual obedience under whatever name, in opposition to mere mechanical services, is proclaimed throughout all the Old Testament."
@@ -48,4 +48,4 @@ The verse describes a conversation between Jesus and Nicodemus, a well-known and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

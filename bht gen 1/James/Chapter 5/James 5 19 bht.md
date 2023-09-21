@@ -11,7 +11,7 @@ Brethren, be cautious of being led astray from the truth, whether in doctrine or
 
 3. "...and one convert him (turn him back to the truth, reff.)": This quote highlights the responsibility of fellow believers to help those who have been led astray to return to the truth. It emphasizes the importance of supporting and guiding one another in the faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blessing of reclaiming an erring sinner by the mutual consent and intercessory prayer just recommended."
 2. "Do err—more literally, 'be led astray.'"
 3. "Everyone ought to seek the salvation of everyone [BENGEL]."
@@ -45,4 +45,4 @@ Brethren, be cautious of being led astray from the truth, whether in doctrine or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

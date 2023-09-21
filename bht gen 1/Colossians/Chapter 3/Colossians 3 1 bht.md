@@ -9,7 +9,7 @@ In this verse, believers are urged to seek heavenly things and prioritize eterna
 2. "If you are united to Him, you will be tending to Him; and He is in heaven."
 3. "The only real life of the Christian is his resurrection life in and with Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If then ye have been once for all raised up (Greek, aorist tense) together with Christ" (namely, at your conversion and baptism, Romans 6:4).
 2. "Where Christ is, sitting on the right of God" (Ephesians 1:20). The Head being quickened, the members are also quickened with Him.
 3. "We are already seated there in Him as our Head; and hereafter shall be seated by Him, as the Bestower of our bliss."
@@ -57,4 +57,4 @@ In this verse, believers are urged to seek heavenly things and prioritize eterna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

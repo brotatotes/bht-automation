@@ -9,7 +9,7 @@ In this verse, a commentator notes the connection between the disciples' baptism
 2. "It was preparatory to the public ministry of our Lord properly so called, which began in Galilee after the imprisonment of John."
 3. "As John’s commission was now on the wane, so our Lord’s was expanding."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Master, this man tells us that He to whom thou barest such generous witness beyond Jordan is requiting thy generosity by drawing all the people away to Himself." 
 2. "At this rate, thou shalt soon have no disciples at all." 
 3. "The reply to this is one of the noblest and most affecting utterances that ever came from the lips of man."
@@ -48,4 +48,4 @@ In this verse, a commentator notes the connection between the disciples' baptism
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

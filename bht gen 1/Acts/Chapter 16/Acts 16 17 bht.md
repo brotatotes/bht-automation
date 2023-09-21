@@ -9,7 +9,7 @@ In this commentary on the Bible verse, multiple commentators provide diverse ins
 2. "The evil spirit knew and confessed the power of God and His Christ, whether in His own Person or that of His servants." 
 3. "The same account to be given of both: viz. that the evil spirit knew and confessed the power of God and His Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These men are servants of the most high God" - This statement is a glorious testimony to the authority and power of God. It highlights the divine nature of the men and their connection to the highest authority in the universe.
 
 2. "This did she many days" - The repetition of the woman's actions over many days emphasizes her persistence and dedication in proclaiming the truth. It shows her commitment to spreading the message of God and her determination to make a lasting impact.
@@ -49,4 +49,4 @@ In this commentary on the Bible verse, multiple commentators provide diverse ins
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

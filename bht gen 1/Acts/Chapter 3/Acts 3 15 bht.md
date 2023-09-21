@@ -4,7 +4,7 @@
 In this verse, a glorious paradox is described, as the auditors are confronted with a piercing truth. Jesus, the Prince of life, was demanded to be released by the people who requested a murderer, but instead, they chose to kill the Author of life. The term "Prince" implies not only leadership, but also the cause and author of life itself. Jesus, the source of all life, is witnessed by those who have seen Him risen from the dead, displaying His power over death and fulfilling His purpose as the giver of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorious paradox"
 2. "piercing to the conscience"
 3. "how piercing to the conscience of the auditors"
@@ -38,4 +38,4 @@ In this verse, a glorious paradox is described, as the auditors are confronted w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

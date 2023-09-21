@@ -9,7 +9,7 @@ In this Bible verse, the commentator remarks on the transformative power of grie
 2. "'With reference to God,' see ref. Rom. and note: 'secundum, hic significat sensum animi Deum spectantis et sequentis,' Bengel."
 3. "The divine purpose of their grief is indicated; 'God so brought it about, in order that your grief occasioned by me might have, not an injurious, but a beneficial effect.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I rejoice NOW, not that ye were caused sorrow, but that your sorrow resulted in your repentance."
 2. "Your sorrow having regard to God, and rendering your mind conformable to God."
 3. "To the end that ye might in nothing receive damage from us."
@@ -48,4 +48,4 @@ In this Bible verse, the commentator remarks on the transformative power of grie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

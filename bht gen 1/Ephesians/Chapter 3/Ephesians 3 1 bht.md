@@ -4,7 +4,7 @@
 In this passage, Paul reflects on his imprisonment and the reason behind it. The commentators emphasize the Messiahship of Christ, the significance of Paul's imprisonment for the Gentiles, and his role as an agent of the Spirit. They highlight Paul's dedication in proclaiming the gospel to the Gentiles and the sacrifices he made, even in captivity. The description underscores the unity of believers, the unique role of Jesus as the Messiah, and Paul's mission to reach out to the Gentiles. It emphasizes the honor and glory found in suffering for Christ and the value of community and fellowship among believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He here marks the Messiahship of 'Christ,' maintained by him as the origin of his being a 'prisoner,' owing to the jealousy of the Jews being roused at his preaching it to the Gentiles." 
 2. "His very bonds were profitable to ('for' or 'in behalf of you') Gentiles." 
 3. "'I Paul,' expresses the agent employed by the Spirit to enlighten them, after he had been first enlightened himself by the same Spirit."
@@ -54,4 +54,4 @@ In this passage, Paul reflects on his imprisonment and the reason behind it. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

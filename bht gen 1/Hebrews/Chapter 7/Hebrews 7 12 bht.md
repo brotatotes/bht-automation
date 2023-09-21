@@ -9,7 +9,7 @@ The verse under examination discusses the inevitable consequences of a change in
 2. "Not 'of law,' which would be decidedly wrong, and would require τοῦ νόμου, as in a general sentence, implying 'the law' of the particular case in view; νόμου, anarthrous, means that law, which had already begun to be used as a proper name, the well-known law of Moses."
 3. "The connexion is with the parenthesis in Hebrews 7:11, which was inserted to prepare the way for our verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These presuppose a change or transference of the priesthood, and this carries with it a change also of the law." 
 2. "The priesthood and the law are inseparably bound up together, both standing and falling together." 
 3. "This is his answer to those who might object, What need was there of a new covenant?"
@@ -59,4 +59,4 @@ The verse under examination discusses the inevitable consequences of a change in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

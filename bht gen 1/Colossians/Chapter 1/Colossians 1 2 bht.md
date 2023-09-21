@@ -9,7 +9,7 @@ In this verse, the commentator highlights the significance of being addressed as
 2. "καὶ πιστοῖς ἀδελφοῖς ἐν χριστῷ seems to be a specifying clause, ‘viz. to the &c.:’ or perhaps added merely on account of the natural diplomatic character of an opening address."
 3. "ἐν χριστῷ belongs closely to πιστοῖς ἀδελφοῖς or perhaps rather to ἀδελφοῖς alone, as Philippians 1:14; no article before ἐν χριστῷ being wanted, because no distinction between these and any other kind of brethren is needed the idea ἀδελφὸς - ἐν - χριστῷ being familiar."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As 'saints' implies union with God, so 'the faithful brethren' implies union with Christian men." [BENGEL]
 
 2. "The Lord Jesus Christ" is supported by some oldest manuscripts, although it is omitted by others of equal antiquity. [BENGEL]
@@ -46,4 +46,4 @@ In this verse, the commentator highlights the significance of being addressed as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

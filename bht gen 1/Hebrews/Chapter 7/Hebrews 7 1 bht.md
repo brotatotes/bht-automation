@@ -4,7 +4,7 @@
 In this Bible verse, we encounter a mysterious figure named Melchizedek who serves as both a king and a priest. This unique combination of roles foreshadows the coming of Jesus Christ, who is described as the ultimate King and High Priest. Melchizedek's significance is further highlighted in a Messianic psalm, which emphasizes the superiority of Jesus' priesthood over the Levitical priesthood. The mention of Melchizedek in this verse serves as a powerful argument for the superiority of Jesus' priesthood, showcasing his eternal nature and his ability to bring righteousness and blessings to his people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ unites these offices in their highest sense, and so restores the patriarchal union of these offices."
 2. "This title of God, 'the Most High,' handed down by tradition from the primitive revelation, appears in the Phoelignician god 'Elion,' that is, Most High. It is used to imply that the God whom Melchisedec served is THE TRUE GOD, and not one of the gods of the nations around."
 3. "As priest he first blessed Abraham on God's part; next he blessed God on Abraham's part: a reciprocal blessing. Not a mere wish, but an authoritative and efficacious intercession as a priest."
@@ -45,4 +45,4 @@ In this Bible verse, we encounter a mysterious figure named Melchizedek who serv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

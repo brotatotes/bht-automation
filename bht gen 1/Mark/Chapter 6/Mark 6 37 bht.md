@@ -9,7 +9,7 @@ In this verse, we see the disciples' limited understanding of the situation. The
 2. "How could he, having done so, and with his love for accurate detail, have so generalized the particular account of Philip's question?"
 3. "That generalization was in the account which he used, and the circumstance was more exactly related by John."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give ye them to eat—doubtless said to prepare them for what was to follow." This quote highlights the intention behind Jesus' statement, emphasizing that he was setting the stage for a miracle to occur.
 2. "Shall we go and buy two hundred pennyworth of bread, and give them to eat?" This quote showcases the disciples' disbelief and lack of understanding of Jesus' power to provide for the multitude.
 3. "Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little." This quote reveals Philip's practical thinking and limited perspective, failing to recognize the magnitude of Jesus' ability to multiply the loaves and fishes.
@@ -30,4 +30,4 @@ In this verse, we see the disciples' limited understanding of the situation. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

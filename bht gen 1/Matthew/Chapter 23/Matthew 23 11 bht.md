@@ -9,7 +9,7 @@ The Bible verse being described speaks of true greatness and leadership in the k
 2. "He who of all the Heads of sects has most notably violated this whole command."
 3. "Calls himself 'servus servorum Dei'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But he that is greatest among you shall be your servant" - This verse emphasizes the paradoxical nature of leadership in the kingdom of God, where greatness is measured by service rather than authority or power.
 
 2. "Shall show that he is so by becoming your servant" - This quote highlights the importance of actions over words in demonstrating true greatness. It challenges individuals in positions of leadership to humbly serve others as a tangible expression of their greatness.
@@ -44,4 +44,4 @@ The Bible verse being described speaks of true greatness and leadership in the k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

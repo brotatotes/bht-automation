@@ -9,7 +9,7 @@ The disciples' hearts were overwhelmed with sorrow, completely consumed by the a
 2. "These are the same disciples who afterwards when their risen Lord had ascended to heaven, without any pang at parting with Him, returned with great joy to Jerusalem."
 3. "While he reproves them for neglecting to ask where he was going, he shows them that he had made it very clear to them. While he blames their negligence, he also offers an excuse, that it arises from such intense sadness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sorrow had too much paralyzed them" - The commentary highlights how sorrow had overwhelmed the disciples, causing them to become immobilized and unable to take action. 
 
 2. "He would rouse their energies" - This quote emphasizes that Jesus wanted to awaken and invigorate the disciples, encouraging them to overcome their sorrow and regain their strength. 
@@ -32,4 +32,4 @@ The disciples' hearts were overwhelmed with sorrow, completely consumed by the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

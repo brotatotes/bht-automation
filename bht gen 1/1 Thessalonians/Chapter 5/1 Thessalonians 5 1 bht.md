@@ -9,7 +9,7 @@ The verse under discussion emphasizes the significance of understanding the spec
 2. "They had no need, for the reason stated below: that St. Paul had already by word of mouth taught them as much as could be known."
 3. "St. Paul had imparted to them the full knowledge of the Gospel, and had made known to them all that was necessary for their salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Times" refers to chronological periods, while "seasons" refers to opportune times. This distinction highlights the difference between quantity and quality in terms of time. (Daniel 7:12; Acts 1:7)
 2. Those who are watchful and prepared do not need to be told when the hour will come, as they are always ready. (BENGEL)
 3. The word "cometh" emphasizes the swift and certain arrival of the event being referred to.
@@ -55,4 +55,4 @@ The verse under discussion emphasizes the significance of understanding the spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

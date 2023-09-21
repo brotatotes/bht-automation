@@ -4,7 +4,7 @@
 This verse highlights the significance of our words and the impact they have on our character and purity. Our Lord emphasizes the importance of listening and understanding the fundamental and universal truth that this verse refers to. It teaches the importance of moral purity and warns against the perversion of the Mosaic law, where the focus shifts to external rituals rather than inner righteousness. Sin, originating from the heart, whether expressed through words or actions, is what defiles a person and renders them loathsome in the sight of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man." - This verse emphasizes the importance of our words and the impact they have on our character and purity.
 
 2. "If any man have ears to hear, let him hear." - This invitation to listen and understand highlights the significance of the message being conveyed and the need for attentive and receptive hearts.
@@ -30,4 +30,4 @@ This verse highlights the significance of our words and the impact they have on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the author recalls a significant event that reminded him of the genuine and sincere faith that resides within Timothy. The mention of Timothy's grandmother emphasizes the multi-generational aspect of faith, underscoring the influence of previous generations. The author's persuasion about the enduring presence of faith in Timothy reinforces the idea that faith is not temporary, but a permanent and settled attribute. The verse also hints at the connection between Judaism and Christianity, highlighting the continuity of belief systems.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When I called to remembrance" - implying that some recent incident had reminded him of the sincerity of Timothy's faith.
 2. "The faith of the one parent sanctified the child" - highlighting the impact of Timothy's mother's faith on him.
 3. "The mention of the faith of his mother and grandmother is designed as an incentive to stir up his faith" - emphasizing the purpose of mentioning Timothy's family's faith as a motivation for him.
@@ -52,4 +52,4 @@ In this verse, the author recalls a significant event that reminded him of the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

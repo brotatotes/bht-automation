@@ -9,7 +9,7 @@ In this verse, the apostle Paul expresses gratitude for not personally baptizing
 2. "I am (now) thankful to God, who so ordered it that I did not [baptize Crispus and Gaius]."
 3. "Crispus, the former ruler of the synagogue, Acts 18:8. Gaius, afterwards the host of the Apostle, and of the church, Romans 16:23."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I thank God's providence, who so ordered it that I baptized none of you but Crispus and Gaius." 
 2. "Baptizing was the office of the deacons rather than of the apostles, whose office was that of establishing and superintending generally the churches." 
 3. "Crispus and Gaius were probably among the first converts, and hence were baptized by Paul himself, who founded the church."
@@ -45,4 +45,4 @@ In this verse, the apostle Paul expresses gratitude for not personally baptizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

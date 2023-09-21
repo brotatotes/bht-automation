@@ -9,7 +9,7 @@ In the midst of a buzzing and murmuring crowd, opinions clash regarding the iden
 2. "ἀγαθός ἐστιν" - their view that Jesus is good, expressed as a mild protest against His enemies.
 3. "πλανᾷ τὸν ὄχλον" - possibly in reference to the feeding of and then the discourse to the multitude, which had given so much offence.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "much murmuring—buzzing."
 2. "the natural expression of a Jewish writer, indicating without design the crowded state of Jerusalem at this festival."
 3. "a good man . . . Nay . . . deceiveth the people—the two opposite views of His claims, that they were honest, and that they were an imposture."
@@ -57,4 +57,4 @@ In the midst of a buzzing and murmuring crowd, opinions clash regarding the iden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

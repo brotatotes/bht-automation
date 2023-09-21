@@ -9,7 +9,7 @@ In the early stages of the gospel's proclamation, the Philippians displayed a sp
 2. "That they did not, is by and by expressly asserted: ἐν ἀρχῇ τοῦ εὐαγγελίου, penes vos, Beng.: he places himself in their situation; dates from (so to speak) their Christian era."
 3. "No church communicated with me as to (in) an account of giving and receiving...ye alone opened such an account with me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye also know (as well as I do myself)."
 2. "The giving was all on your part; the receiving was all on mine."
 3. "We are not to wait for others in a good work, saying, 'I will do so, when others do it.' We must go forward, though alone."
@@ -57,4 +57,4 @@ In the early stages of the gospel's proclamation, the Philippians displayed a sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

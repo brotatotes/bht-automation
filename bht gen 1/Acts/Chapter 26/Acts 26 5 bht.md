@@ -11,7 +11,7 @@ In this Bible verse, we learn about a man who was once a fervent Pharisee, known
 
 3. "In this passage, the word 'αἵρεσις' is used in a neutral sense, not implying any negative connotation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It being a strong point in his favor."
 2. "The strictest."
 3. "To meet the charge."
@@ -47,4 +47,4 @@ In this Bible verse, we learn about a man who was once a fervent Pharisee, known
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

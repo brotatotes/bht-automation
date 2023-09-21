@@ -9,7 +9,7 @@ The verse under consideration illuminates the unparalleled beauty and richness o
 2. "All true adornment of man must be unfolded from within by the same Almighty Spirit."
 3. "As nothing from without can defile a man, so neither can anything from without adorn him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even Solomon in all his glory was not arrayed like one of these." This quote highlights the incomparable beauty and splendor of the flowers and how they surpass even the grandeur of King Solomon. 
 
 2. "What incomparable teaching!" This quote emphasizes the profound wisdom and significance of Jesus' words, suggesting that they should be appreciated and understood in their own transparent clarity and rich simplicity. 
@@ -49,4 +49,4 @@ The verse under consideration illuminates the unparalleled beauty and richness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Before the law came into effect, there was a period when sin seemed dormant and 
 2. "I would extend the limits further, and say that he speaks of all that time, be it mere childhood or much more, before the law began its work within him."
 3. "But I was alive without the law once; but when the commandment came, sin sprung into life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the days of my ignorance, when, in this sense, a stranger to the law, I deemed myself a righteous man, and, as such, entitled to life at the hand of God."
 2. "Forbidding all irregular desire; for the apostle sees in this the spirit of the whole law."
 3. "Came to life; in its malignity and strength it unexpectedly revealed itself, as if sprung from the dead."
@@ -53,4 +53,4 @@ Before the law came into effect, there was a period when sin seemed dormant and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

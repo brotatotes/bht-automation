@@ -9,7 +9,7 @@ In this verse, the commentator mentions the profound love between the Father and
 2. "The Lord sets forth to us the unfolding of the will and purposes of the Father." 
 3. "This manifestation will go on increasing in majesty, that the wonder which now is excited in you by these works may be brought out to its full measure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As love has no concealments, so it results from the perfect fellowship and mutual endearment of the Father and the Son."
 2. "The Father communicates to the Son all His counsels, and what has been thus shown to the Son is by Him executed in His mediatorial character."
 3. "Their oneness of interest is no unconscious or involuntary thing, but a thing of glorious consciousness, will, and love, of which the Persons themselves are the proper Objects."
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

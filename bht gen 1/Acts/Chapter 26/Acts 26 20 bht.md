@@ -9,7 +9,7 @@ This verse describes the universal call to repentance, extending to both Jews an
 2. "εἰς belongs to ἀπήγγελλον (De W.), not to τοῖς (ἐν Δαμ.), as Meyer." 
 3. "εἰς can indicate the direction or purpose of the proclamation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His object was to mention first the places where his former hatred of the name of Christ was best known."
 2. "The mention of the Gentiles, so unpalatable to his audience, is reserved to the last."
 3. "A brief description of conversion and its proper fruits, suggested, probably, by the Baptist's teaching."
@@ -45,4 +45,4 @@ This verse describes the universal call to repentance, extending to both Jews an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

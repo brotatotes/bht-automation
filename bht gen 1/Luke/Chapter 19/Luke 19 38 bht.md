@@ -11,7 +11,7 @@ The verse described is a momentous declaration full of Messianic anticipation an
 
 3. "The inclusion of 'ἐν οὐρανῷ' highlights the transcendence of God and His authority over all things, both in heaven and on earth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hosanna," that is, "Save now," the words of Mark 11:10, which were understood to refer to Messiah.
 2. "To the Son of David, blessed is He that cometh in the name of the Lord," a salutation that recognizes Jesus as the promised Deliverer.
 3. The greeting of "peace" echoes the angelic proclamation at Jesus' birth (Luke 2:13).
@@ -44,4 +44,4 @@ The verse described is a momentous declaration full of Messianic anticipation an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

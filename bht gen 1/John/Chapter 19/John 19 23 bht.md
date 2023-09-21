@@ -4,7 +4,7 @@
 In the crucifixion scene, the soldiers divide and distribute Jesus' garments, including his seamless and valuable vesture. This seamless nature signifies the unity and completeness of Jesus' mission and also points to his divine unity with God. The casting of lots for the vesture unknowingly fulfills the prophecy, highlighting the divine plan and sovereignty at work. Overall, the vesture serves as a reminder of Jesus' sacrifice, fulfillment of prophecies, and his divine nature as the Son of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Then the soldiers, when they had crucified Jesus, took his garments, and made four parts; to every soldier—a part, and also his coat." This quote highlights the division of Jesus' garments among the soldiers, emphasizing the fulfillment of the prophecy in Psalm 22:18.
 2. "Without seam, woven from the top throughout—perhaps denoting considerable skill and labor as necessary to produce such a garment." This quote sheds light on the significance of Jesus' seamless tunic, suggesting that it was a well-crafted and valuable piece of clothing.
 3. "The work probably of one or more of the women who ministered in such things unto Him." This quote suggests that the seamless tunic may have been made by the women who supported and served Jesus, highlighting their devotion and care for Him.
@@ -54,4 +54,4 @@ In the crucifixion scene, the soldiers divide and distribute Jesus' garments, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

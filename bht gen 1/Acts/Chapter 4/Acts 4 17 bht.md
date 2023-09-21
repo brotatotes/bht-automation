@@ -9,7 +9,7 @@ In the face of opposition and threats, the early Christians faced the challenge 
 2. "The construction of ἀπειλέω with an infin., stated by Dr. Bloomf. to be ‘so rare that even the best lexx. scarcely adduce an example.’ is its ordinary construction."
 3. "The use of the middle in the active sense is confined to later Greek."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But that it spread no further." - This quote highlights the fear and desperation of those who wanted to suppress the spread of the message. It shows their concern about the growing influence of the disciples and their determination to stop it.
 
 2. "Let us straitly—strictly threaten." - This quote emphasizes the oppressive tactics used by those in power to intimidate and silence the disciples. It reveals the lengths they were willing to go to maintain control and prevent the message from being proclaimed.
@@ -52,4 +52,4 @@ In the face of opposition and threats, the early Christians faced the challenge 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

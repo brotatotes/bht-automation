@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of walking in the Spirit and
 2. "It is the Holy Spirit of God."
 3. "The Spirit and the flesh exclude one another."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Walk in the Spirit—Greek, 'By (the rule of) the (Holy) Spirit.'"
 2. "The best way to keep tares out of a bushel is to fill it with wheat."
 3. "The spirit and the flesh mutually exclude one another."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of walking in the Spirit and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, there is a clear distinction between those who are spiritua
 2. "Nor are the expressions to be taken in a spiritual sense...the repetition of the same verbs as subjects and predicates shews that νυκτός is merely a designation of time, and to be taken literally."
 3. "Spiritual sleep and intoxication belong to the state of darkness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To sleep by day would imply great indolence; to be drunken by day, great shamelessness."
 2. "We Christians profess to be day people, not night people; therefore our work ought to be day work, not night work."
 3. "Our conduct such as will bear the eye of day, and such has no need of the veil of night."
@@ -50,4 +50,4 @@ In this Bible verse, there is a clear distinction between those who are spiritua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

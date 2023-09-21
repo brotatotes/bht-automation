@@ -1,7 +1,7 @@
 # 1 Corinthians 14:29 Commentary Help Text
 
 ## BHT:
-Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson Fausset Brown: "Judge—by their power of 'discerning spirits'... whether the person prophesying was really speaking under the influence of the Spirit." Combining insights from commentators Henry Alford and Jamieson Fausset Brown, the Bible verse discussed highlights the importance of discernment in evaluating prophetic utterances. It encourages believers to carefully judge and discern whether the spirits behind these messages are truly from God. Additionally, the verse prohibits certain practices in relation to prophecy, ensuring order and edification within the church community.
+Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson-Fausset-Brown: "Judge—by their power of 'discerning spirits'... whether the person prophesying was really speaking under the influence of the Spirit." Combining insights from commentators Henry Alford and Jamieson-Fausset-Brown, the Bible verse discussed highlights the importance of discernment in evaluating prophetic utterances. It encourages believers to carefully judge and discern whether the spirits behind these messages are truly from God. Additionally, the verse prohibits certain practices in relation to prophecy, ensuring order and edification within the church community.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson Fausse
 2. "He does not wish to seem as if he were limiting this most edifying of the gifts."
 3. "Such would exercise that gift, to determine whether the spirit was of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two or three—at one meeting... and these 'one by one,' in turn." 
 2. "Paul gives here similar rules to the prophets, as previously to those speaking in unknown tongues."
 3. "Judge—by their power of 'discerning spirits'... whether the person prophesying was really speaking under the influence of the Spirit."
@@ -60,4 +60,4 @@ Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson Fausse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

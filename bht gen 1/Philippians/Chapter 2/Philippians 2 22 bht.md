@@ -4,7 +4,7 @@
 Timothy is described as having a multifaceted role, being both a beloved son and a fellow laborer in the ministry. This unique relationship with the apostle Paul demonstrates a deep sense of trust and partnership in spreading the message of the Gospel. Timothy's involvement extends beyond mere servanthood, as he is entrusted with important responsibilities, reflecting the intimate bond between him and Paul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As a child (serveth) a father."
 2. "Served with me" in modesty.
 3. "Servants of God WITH one another."
@@ -52,4 +52,4 @@ These quotes highlight the personal experience and qualifications of Timothy, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

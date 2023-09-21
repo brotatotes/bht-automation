@@ -9,7 +9,7 @@ The passage describes a specific brother who is well-regarded and commended by a
 2. "Who this was, we know not."
 3. "It may have been Trophimus, who accompanied Paul into Asia and to Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that the person here referred to was 'chosen of the churches' as their trustee to travel with Paul in conveying the contribution to Jerusalem, implies that he had resided among them some time before: this is true of Luke, who after parting from Paul at Philippi...six years before, is now again found in his company in Macedonia."
 2. "In the interim he had probably become so well known that 'his praise was throughout all the churches.'"
 3. "He who is faithful in the Gospel will be faithful also in matters of inferior importance."
@@ -56,4 +56,4 @@ The passage describes a specific brother who is well-regarded and commended by a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

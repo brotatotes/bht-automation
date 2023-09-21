@@ -9,7 +9,7 @@ In this verse, Jesus assures his disciples that some of them will witness the es
 2. "The fact is, there is a reference back in this discourse to that in ch. 10, and the coming here spoken of is the same as that in Mat 16:23 there."
 3. "This is denied by Wordsw., who substitutes for the simple sense of οὐ μὴ γεύσ . θαν . the fanciful expositions, 'shall not feel its bitterness,' 'shall not taste of the death of the soul,' and then, thus interpreting, gives the prophecy the very opposite of its plain sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There be some standing here which shall not taste of death, till they see the Son of man coming in his kingdom." - This verse refers to the establishment and progress of Christ's kingdom in the lifetime of some present, a pledge of His final coming in glory.
 
 2. "Till they see the kingdom of God come with power." - The reference is to the victorious progress of the new kingdom of Christ, which would bring about significant changes on earth.
@@ -48,4 +48,4 @@ In this verse, Jesus assures his disciples that some of them will witness the es
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

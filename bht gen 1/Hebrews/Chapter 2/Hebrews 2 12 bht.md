@@ -4,7 +4,7 @@
 The verse being described is one where Messiah addresses his brethren and promises to declare the name of the Father. Commentators agree that this verse refers to Christ's disciples, followers, and even all the saints. It signifies Christ's prophetic office and his preaching of the Gospel. The verse also highlights Christ's participation in public worship and his role in leading and inspiring praise among believers. Through his teachings and the proclamation of God's praises, Christ encourages all to join in praising the Father's glorious name.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Messiah declares the name of the Father, not known fully as Christ's Father, and therefore their Father, till after His crucifixion." 
 2. "Among His brethren ('the Church,' that is, the congregation), that they in turn may praise Him." 
 3. "Passes from Christ's sufferings to His triumph, prefigured by the same in the experience of David."
@@ -50,4 +50,4 @@ The verse being described is one where Messiah addresses his brethren and promis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described captures the transformative power of God's truth and salvation. It portrays those who are trapped in the snare of the devil, intoxicated by errors and heresies. However, through the awakening of their spiritual senses, they are rescued from this captivity and brought into the willing obedience to Christ. This verse vividly portrays the contrast between the bondage of sin and the liberating freedom found in Christ, urging individuals to awaken from their spiritual slumber and embrace the salvation offered by God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Awake to soberness, namely from the spiritual intoxication whereby they have fallen into the snare of the devil."
 2. "That they may awake... taken as saved (and willing) captives by him, so as to follow the will of HIM."
 3. "Instead of Satan's thrall comes the free and willing captivity of obedience to Christ."
@@ -49,4 +49,4 @@ The verse being described captures the transformative power of God's truth and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

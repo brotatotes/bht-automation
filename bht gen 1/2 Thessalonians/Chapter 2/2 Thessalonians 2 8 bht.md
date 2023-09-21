@@ -9,7 +9,7 @@ In anticipation of the removal of restraining powers, a time of upheaval and cha
 2. "the mere outburst of His presence shall bring the adversary to nought"
 3. "the emphasis is on τότε"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How awful that He whose very name means God-Saviour, should appear as the Destroyer; but the salvation of the Church requires the destruction of her foe."
 2. "As the advancing fire, while still at a distance consumes little insects by its mere heat, so Christ's mere approach is enough to consume Antichrist."
 3. "The first outburst of His advent—the first gleam of His presence—is enough to abolish utterly all traces of Antichrist, as darkness disappears before the dawning day."
@@ -55,4 +55,4 @@ In anticipation of the removal of restraining powers, a time of upheaval and cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

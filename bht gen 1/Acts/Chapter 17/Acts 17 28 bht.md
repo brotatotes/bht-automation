@@ -9,7 +9,7 @@ In this verse, we are reminded of our constant and vital dependence on God. Thro
 2. "Out of God we should have no Life, nor even movement, nay, not any existence at all." 
 3. "The absolute dependence for everything of man on God, and thence the absurdity of supposing the Godhead like to the works of his (man’s) hands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For in him we live, and move, and have our being—(or, more briefly, 'exist')." - This quote highlights the idea that God is not only the source of life but also the underlying principle that sustains our existence and every motion in the world.
 
 2. "God is the living, immanent Principle of all these in men." - This quote emphasizes that God is not distant or detached from humanity but is actively present and involved in every aspect of our lives.
@@ -52,4 +52,4 @@ In this verse, we are reminded of our constant and vital dependence on God. Thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

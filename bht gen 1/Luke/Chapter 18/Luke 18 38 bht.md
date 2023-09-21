@@ -4,7 +4,7 @@
 This verse portrays Jesus as the long-awaited descendant of David, the Messiah who came to establish God's kingdom on earth. It emphasizes Jesus' divine authority and supremacy, acknowledged by David himself. The verse highlights the duality of Jesus as both fully human, a descendant of David, and fully divine, the Lord. The blind man recognizes Jesus as the Messiah and seizes the opportunity to ask for healing, acknowledging his own pitiful state and hoping for an act of great mercy and goodness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The title 'Son of David' is a Messianic title, indicating that Jesus is the long-awaited descendant of David who would come to establish God's kingdom on earth." 
 
 2. "By calling Jesus 'Lord,' David acknowledges Jesus' divine authority and supremacy, even though he is his earthly descendant." 
@@ -24,4 +24,4 @@ This verse portrays Jesus as the long-awaited descendant of David, the Messiah w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described highlights the idea that the true meaning and understa
 2. "The allegory of ch. 3 is continued, the hiding of the gospel by the vail placed before the understanding." 
 3. "The vail represents the spiritual blindness and hardness of heart that prevents people from truly understanding and accepting the gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hid" is said of that withdrawn from view altogether.
 2. "Veiled," of a thing within reach of the eye, but covered over so as not to be seen.
 3. In itself, the Gospel is quite plain.
@@ -55,4 +55,4 @@ The verse being described highlights the idea that the true meaning and understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

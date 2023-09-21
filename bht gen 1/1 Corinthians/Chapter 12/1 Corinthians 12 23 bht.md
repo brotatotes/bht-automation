@@ -9,7 +9,7 @@ In this verse, the commentators explore the concept of bestowing abundant honor 
 2. "Honouring them more than the face, the noblest part, which we do not clothe." 
 3. "Even the poorest, if they have a naked body, would not be ashamed to show those parts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We think" the feet and the belly "less honorable," though not really so in the nature of things.
 2. Bestow... honour - putting shoes on the feet, and clothes to cover the belly.
 3. Uncomely parts - the secret parts: the poorest, though unclad in the rest of the body, cover these.
@@ -61,4 +61,4 @@ These quotes highlight the imagery and linguistic nuances used in the commentary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Amplias, mentioned in this verse, was beloved by the apostle Paul, not for super
 2. "fellow-workman in (the work of) Christ."
 3. "approved (by trial) in (the work of) Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Amplias—a contracted form of 'Ampliatus.'" This quote highlights the significance of the name Amplias and provides insight into the historical context of the verse.
 
 2. "My beloved in the Lord—an expression of dear Christian affection." This quote emphasizes the deep bond and love shared between the writer and Amplias, revealing the strong sense of community and unity within the early Christian church.
@@ -42,4 +42,4 @@ Amplias, mentioned in this verse, was beloved by the apostle Paul, not for super
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

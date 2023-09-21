@@ -9,7 +9,7 @@ This verse calls us to find our true worth and value in God alone, recognizing t
 2. "Closes the description of God's dealing in this matter."
 3. "He now reverts to the subject of his own preaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "glory in . . . Lord—
 	(Jeremiah 9:23; Jeremiah 9:24)
 	—in opposition to 'flesh glorying in His presence'"
@@ -68,4 +68,4 @@ This verse calls us to find our true worth and value in God alone, recognizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

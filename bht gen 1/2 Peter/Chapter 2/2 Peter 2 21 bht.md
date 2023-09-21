@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the consequences of turning away from 
 2. "The holy commandment, the moral law of the gospel, is designated as such because it is of moral corruption that the Apostle is treating." 
 3. "The emphasis is on the commandment being delivered to them, highlighting the importance and responsibility that comes with knowing and receiving it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the way of righteousness—"the way of truth" (2 Peter 2:2)." 
 2. "from the holy commandment—the Gospel which enjoins holiness; in opposition to their corruption." 
 3. "delivered—once for all; admitting no turning back."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the consequences of turning away from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse encourages deep understanding and reflection. It emphasizes the need 
 2. "It is the preparatory step to συνιέναι, id. ib. note, and p. 59, which is 'ein den Zusammenhang mit seinen Grunden und Folgen begreifendes Erkennen.'" - Beck, Biblische Seelenlehre, p. 59.
 3. "For the Lord (Christ) shall give thee thorough understanding (on σύνεσις, see citation from Beck above) in all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consider the force of the illustrations I have given... as applying to thyself in thy ministry."
 2. "Thou canst understand my meaning so as personally to apply it to thyself for the Lord will give thee understanding when thou seekest it from Him 'in all things.'"
 3. "Not intellectual perception, but personal appropriation of the truths metaphorically expressed, was what he needed to be given him by the Lord."
@@ -52,4 +52,4 @@ This verse encourages deep understanding and reflection. It emphasizes the need 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

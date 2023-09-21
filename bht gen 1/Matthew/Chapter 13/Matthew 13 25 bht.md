@@ -9,7 +9,7 @@ In this verse, the commentator's insights reveal a parable about the mixing of g
 2. "ἐπέσπ. ‘superseminavit,’ sowed over the first seed."
 3. "Our Lord was speaking of an act of malice practised in the East: persons of revengeful disposition watch the ground of a neighbour being ploughed, and in the night following sow destructive weeds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This parable teaches us that in the world there is a mixture of good and evil, of true Christians and hypocrites, of wheat and tares, which are not to be separated until the end of the world." 
 
 2. "The enemy sowed tares among the wheat while men slept, signifying that false teachers and corrupt doctrines often enter the church unnoticed, taking advantage of spiritual negligence and lack of discernment."
@@ -47,4 +47,4 @@ In this verse, the commentator's insights reveal a parable about the mixing of g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

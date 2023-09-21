@@ -9,7 +9,7 @@ This Bible verse, described by various commentators, reveals the significance of
 2. "The words and idioms of another tongue contain allusions and national peculiarities which never could have been in the mind of one speaking in a different language."
 3. "The clue which joins these has been lost to us: and in this, only those will find any stumbling-block, whose faith in the veracity of the Evangelists is very weak indeed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In those days—of expectant prayer, and probably towards the close of them, when the nature of their future work began more clearly to dawn upon them." 
 2. "The Holy Ghost, already 'breathed' on the Eleven, was stirring in Peter, who was to be the leading spirit of the infant community." 
 3. "Many, therefore, of the 'five hundred brethren' who saw their risen Lord 'at once' must have remained in Galilee."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

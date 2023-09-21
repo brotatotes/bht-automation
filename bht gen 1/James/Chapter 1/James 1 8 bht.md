@@ -9,7 +9,7 @@ The Bible verse describes a person who is double-minded, wavering, and unstable 
 2. "The use of δίψυχος spread onwards in the Fathers."
 3. "The διακρίνεσθαι arises out of the διψυχία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He (the waverer) is a man double-minded, unstable."
 2. "A man double-minded, unstable in all his ways!"
 3. "It is not a hypocrite that is meant, but a fickle, 'wavering' man, as the context shows."
@@ -57,4 +57,4 @@ The Bible verse describes a person who is double-minded, wavering, and unstable 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ During Jesus' last journey from Galilee to Jerusalem, he entered a certain villa
 2. "Jesus, as we know that He afterwards did, so now probably, when at Jerusalem (at the feast of Dedication), abode at Bethany."
 3. "He 'loved' Martha and Mary and Lazarus and this word implies surely hospitality and intercourse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethany, the certain village mentioned in John 11:1, is significant because it is the place where Jesus was received into the house of Mary and Martha." 
 
 2. "The fact that the house belonged to Martha indicates her role as the hostess and suggests that she was the older sister."
@@ -52,4 +52,4 @@ During Jesus' last journey from Galilee to Jerusalem, he entered a certain villa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

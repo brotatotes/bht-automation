@@ -4,7 +4,7 @@
 In this verse, we are reminded of the duality between the lower and higher forms of life, encompassing the temporal and eternal, natural and spiritual aspects. It highlights the active role of God in deliberately saving and delivering individuals, emphasizing the value of the soul and the eternal redemption brought about through salvation. This challenges us to examine our priorities, willingness to sacrifice our own desires, and embrace a selfless and radical way of living for the sake of Christ. It calls for a daily surrender, denying ourselves and our own wills in pursuit of a deeper relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The pith of this maxim depends...on the double sense attached to the word 'life,' a lower and a higher, the natural and the spiritual, temporal and eternal."
 2. "An entire sacrifice of the lower, or a willingness to make it, is indispensable to the preservation of the higher life."
 3. "He who cannot bring himself to surrender the one for the sake of the other shall eventually lose both."
@@ -32,4 +32,4 @@ In this verse, we are reminded of the duality between the lower and higher forms
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

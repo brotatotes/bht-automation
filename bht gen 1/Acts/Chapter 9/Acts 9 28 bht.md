@@ -4,7 +4,7 @@
 In Jerusalem, Paul had a close relationship with the early Christian community, actively participating in their fellowship and mission. He spent fifteen days lodging with Peter, seeking guidance and establishing personal connections. This visit was significant for Paul as it allowed him to validate his apostleship and gain approval from the Jerusalem leaders, marking a pivotal moment in his ministry. The disciples accepted him and opened doors for him, emphasizing the transformative power of forgiveness and the unity within the community of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was with them, coming in and going out at Jerusalem" - This phrase emphasizes the close relationship between Paul and the early Christian community in Jerusalem. It shows that Paul was not an outsider or a lone wolf, but rather actively involved in the life of the church.
 2. "For fifteen days, lodging with Peter" - This detail highlights the personal connection between Paul and Peter, one of the prominent leaders of the early church. It suggests that Paul sought fellowship and guidance from those who were already established in the faith, demonstrating his humility and willingness to learn from others.
 3. "The significance of this visit is that it allowed Paul to establish his credentials as an apostle and to receive the approval and recognition of the Jerusalem leaders" - This comment underscores the importance of Paul's visit to Jerusalem. It was a pivotal moment in his ministry, where he gained validation and acceptance from the leaders of the church. This recognition would later play a crucial role in Paul's mission to the Gentiles.
@@ -35,4 +35,4 @@ In Jerusalem, Paul had a close relationship with the early Christian community, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

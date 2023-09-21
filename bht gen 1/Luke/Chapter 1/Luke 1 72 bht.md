@@ -9,7 +9,7 @@ This verse speaks of God's fulfillment of His promised mercy and His faithful co
 2. "Or with Euthym, Bleek, alli., as epexegetic, and equivalent to ἐν τῷ ποιῆσαι, or in English to a participial clause, 'performing,' &c."
 3. "For a similar use of the infinitive, see Luke 1:54."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mercy promised" refers to God's compassionate and forgiving nature, which He extends to His people. It is a reminder that God's love and grace are always available to those who seek Him.
 
 2. "His holy covenant" signifies the sacred agreement between God and His people. It represents the unbreakable bond and commitment that God has made to His chosen ones, ensuring their salvation and redemption.
@@ -42,4 +42,4 @@ This verse speaks of God's fulfillment of His promised mercy and His faithful co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

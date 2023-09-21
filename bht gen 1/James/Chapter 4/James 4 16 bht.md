@@ -9,7 +9,7 @@ In this verse, the commentators warn against the arrogant and presumptuous boast
 2. "The ἀλαζονεία is the source, but not the material of the boasting."
 3. "All such boasting is wicked."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice in . . . boastings" - The commentary highlights the arrogance and presumptions of boasting, emphasizing that it is based on vain and uncertain future expectations. 
 
 2. "Ye boast in arrogant presumptions" - This quote further emphasizes the commentary's point about the prideful and presumptuous nature of boasting. 
@@ -52,4 +52,4 @@ These quotes highlight the commentary's emphasis on the folly of relying solely 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

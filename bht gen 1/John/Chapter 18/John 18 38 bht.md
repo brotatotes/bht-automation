@@ -9,7 +9,7 @@ In the midst of Jesus' trial before Pilate, the Roman governor, the question of 
 2. "It was rather an inability than an unwillingness to find the truth."
 3. "Pilate mocks both the Witness to the Truth, and the haters of the Truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou stirrest the question of questions, which the thoughtful of every age have asked, but never man yet answered."
 2. "The only certainty...is that nothing is certain, nor more miserable than man, nor more proud."
 3. "The revelation of the eternal truth alone was able to breathe new life into ruined human nature, and that in the apprehension of complete redemption."
@@ -53,4 +53,4 @@ In the midst of Jesus' trial before Pilate, the Roman governor, the question of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the Apostle speaks of the last time, referring to the closing per
 2) "Among these may be mentioned Calvin, and many of the elder Commentators, who understand the latter dispensation: the time from Christ’s advent in the flesh to His coming to judgment."
 3) "The Apostle is speaking of his time as being the last time, seeing that the signs of the last time were rife in it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each successive age has had in it some of the signs of 'the last time' which precedes Christ's coming, in order to keep the Church in continual waiting for the Lord."
 2. "Antichrist is interpreted in two ways: a false Christ or an adversary of Christ, claiming to himself what belongs to Christ, and wishing to substitute himself for Christ as the supreme object of worship."
 3. "The Antichristian principle appeared then, as now, in evil men and evil teachings and writings; but still 'THE Antichrist' means a hostile person, even as 'THE Christ' is a personal Savior."
@@ -53,4 +53,4 @@ In this verse, the Apostle speaks of the last time, referring to the closing per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

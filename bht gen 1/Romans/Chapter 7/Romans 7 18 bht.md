@@ -11,7 +11,7 @@ In this verse, the speaker acknowledges that there is no inherent goodness in th
 
 3. "But to perform that which is good, is not (present with me)." This quote succinctly captures the speaker's inability to consistently act in accordance with their desire to do good, further illustrating the struggle between the flesh and the spirit.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I know that there dwelleth not in me, that is in my flesh, any good." - The commentary highlights the recognition that there is no inherent goodness in human flesh, emphasizing the fallen nature of humanity.
 
 2. "I find not... this corrupt self is not my true self; it is but sin dwelling in my real self, as a renewed man." - This quote emphasizes the distinction between the corrupt self and the true self, indicating that sin is not the essence of the renewed individual.
@@ -57,4 +57,4 @@ In this verse, the speaker acknowledges that there is no inherent goodness in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

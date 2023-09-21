@@ -4,7 +4,7 @@
 At a specific hour, in a state of deep spiritual devotion, the author had a clear and certain vision. This vision held significance within the religious practices of the time. Meanwhile, in a city by the sea, a humble tanner's house served as a lodging for the author. The tanner's occupation, though regarded as unclean, did not prevent him from extending hospitality to strangers. In this ordinary setting, the tanner would be instrumental in guiding the author and his family toward their salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saw . . . evidently—"distinctly." This emphasizes the clarity and certainty of the vision that the author is describing."
 2. "The ninth hour of the day—three o'clock, the hour of the evening sacrifice. This provides context for the timing of the vision and highlights its significance within the religious practices of the time."
 3. "But he had been 'fasting until that hour,' perhaps from the sixth hour. This suggests that the author was in a state of deep spiritual devotion and preparation before receiving the vision, adding depth to the significance of the encounter."
@@ -40,4 +40,4 @@ At a specific hour, in a state of deep spiritual devotion, the author had a clea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

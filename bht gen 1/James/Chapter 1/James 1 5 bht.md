@@ -9,7 +9,7 @@ In this Bible verse, the writer encourages believers to seek wisdom from God wit
 2. "For what is meant by wisdom here, see James 3:15-17." 
 3. "This of course would include that other: but as Semler, 'Non tantum significat molestam commemorationem beneficiorum, sed etiam qualemcunque reprehensionem.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any of you want wisdom, namely, the wisdom whereby ye may 'count it all joy when ye fall into divers temptations,' and 'let patience have her perfect work.'"
 2. "God gives without adding aught which may take off from the graciousness of the gift."
 3. "He gives to the humble suppliant without upbraiding him with his past sin and ingratitude, or his future abuse of God's goodness."
@@ -55,4 +55,4 @@ In this Bible verse, the writer encourages believers to seek wisdom from God wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

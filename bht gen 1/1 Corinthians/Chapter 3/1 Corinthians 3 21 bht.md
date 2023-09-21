@@ -9,7 +9,7 @@ This verse cautions against idolizing human leaders and dividing into factions b
 2. "Boasting in men is explained to mean not to boast in one person over another."
 3. "Such boasting is a degradation to those who are heirs of all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let no man glory in men... He that glorieth, let him glory in THE LORD." - The true object of glorying is in the Lord, not in human beings. (1 Corinthians 1:31)
 2. "For you to glory thus in men, is lowering yourselves from your high position as heirs of all things." - Glorifying men diminishes your status as heirs of all things. (1 Corinthians 3:21)
 3. "All men (including your teachers) belong to Christ, and therefore to you, by your union with Him." - Through your union with Christ, all men, including teachers, belong to you. (1 Corinthians 3:21)
@@ -61,4 +61,4 @@ These quotes shed light on the importance of humility, the dangers of idolizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

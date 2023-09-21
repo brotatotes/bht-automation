@@ -9,7 +9,7 @@ In this Bible verse, an unnamed commentator emphasizes the commitment and dedica
 2. "They were not far from the famous pass, called the 'Cilician gates,' which leads direct into that province."
 3. "Notwithstanding all that had befallen him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They revisited the places where he had been reviled and persecuted, but where he had left as sheep in the desert the disciples whom his Master had enabled him to gather."
 2. "They needed building up and strengthening in the faith, comforting in the midst of their inevitable suffering, and fencing round by permanent institutions."
 3. "Undaunted therefore by the dangers that awaited them, our missionaries return to them, using words of encouragement which none but the founders of a true religion would have ventured to address to their earliest converts, that 'we can only enter into the kingdom of God by passing through much tribulation'."
@@ -45,4 +45,4 @@ In this Bible verse, an unnamed commentator emphasizes the commitment and dedica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

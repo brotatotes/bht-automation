@@ -9,7 +9,7 @@ The verse described by these commentators portrays a situation where people are 
 2. "They quite seem to think that the food which is to endure for ever is to be spiritually interpreted."
 3. "τὰ ἔργα τοῦ θεοῦ must not be taken to mean ‘the works which God works,’ but... the works well pleasing to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What shall we do . . . the works of God—such works as God will approve." 
 2. "Different answers may be given to such a question, according to the spirit which prompts the inquiry." 
 3. "Here our Lord, knowing whom He had to deal with, shapes His reply accordingly."
@@ -61,4 +61,4 @@ The verse described by these commentators portrays a situation where people are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

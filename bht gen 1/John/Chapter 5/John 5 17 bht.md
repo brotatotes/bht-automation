@@ -9,7 +9,7 @@ The verse being described emphasizes the continuous and tireless nature of God's
 2. "He, the only-begotten of the Father, doing the works of God in the world, stands on higher ground, and hallows, instead of breaking the Sabbath, by thus working on it."
 3. "Abstinence from outward work belongs not to the idea of a Sabbath, it is only more or less the necessary condition of it for beings so framed as ever to be in danger of losing the true collection and rest of the spirit in the multiplicity of earthly toil and business."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The creative and conservative activity of My Father has known no sabbath-cessation from the beginning until now." 
 
 2. "The 'I' is emphatic; 'The creative and conservative activity of My Father has known no sabbath-cessation from the beginning until now, and that is the law of My working.'"
@@ -61,4 +61,4 @@ These quotes collectively emphasize the perpetual and unceasing nature of God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

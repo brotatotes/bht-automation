@@ -9,7 +9,7 @@ In this passage, we encounter Peter's confusion and lack of understanding about 
 2. "ἀκ  .   δὲ ὕστ  ., alluding probably both to the future reception of His Apostle into His glory."
 3. "and to the particular path by which he should come to that glory; as in ch. John 21:18-19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter said—seeing plainly in these directions how to behave themselves, that He was indeed going from them." 
 2. "Lord, whither guest thou?—having hardly a glimmer of the real truth." 
 3. "Jesus answered, . . . thou canst not follow me now, but thou shalt follow me afterwards—How different from what He said to the Jews: 'Whither I go ye cannot come' (John 8:21)."
@@ -45,4 +45,4 @@ In this passage, we encounter Peter's confusion and lack of understanding about 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

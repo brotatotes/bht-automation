@@ -4,7 +4,7 @@
 This verse describes Jesus as the true bread that came down from heaven, emphasizing his divine origin and significance. Jesus contrasts his provision as the bread of life with the temporary sustenance provided by the manna in the wilderness, highlighting the eternal life that comes from partaking in him. This statement reveals Jesus' role as the ultimate source of spiritual sustenance, surpassing earthly nourishment and offering everlasting life to those who believe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord, instead of softening down His figurative sublimities, or even putting them in naked phraseology, leaves the great truths of His Person and Office, and our participation of Him and it, enshrined for all time in those glorious forms of speech."
 2. "When we attempt to strip the truth of these figures, figures though they be, it goes away from us, like water when the vessel is broken."
 3. "Our wisdom lies in raising our own spirit, and attuning our own ear, to our Lord's chosen modes of expression."
@@ -45,4 +45,4 @@ This verse describes Jesus as the true bread that came down from heaven, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

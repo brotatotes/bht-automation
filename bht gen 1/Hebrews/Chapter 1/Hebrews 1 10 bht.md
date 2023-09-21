@@ -9,7 +9,7 @@ In the beginning, the eternal and unchangeable power and majesty of the Son are 
 2. "The citation [of Psalm 102:25-27] is made in proof of the eternal and unchangeable power and majesty of the Son." 
 3. "The earth and the heavens are works of thine hands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is preached even in passages where many might contend that the Father was principally intended" [BENGEL].
 2. "Thou in the beginning, O Lord," which throws the "Lord" into emphasis.
 3. "The heavens, as a woven veil or curtain spread out."
@@ -48,4 +48,4 @@ In the beginning, the eternal and unchangeable power and majesty of the Son are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

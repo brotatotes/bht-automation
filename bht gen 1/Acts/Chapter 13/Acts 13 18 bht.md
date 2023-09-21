@@ -11,7 +11,7 @@ Description: This verse speaks of God's nurturing and patient love for His peopl
 
 3. "The expansion of the same image in Numbers 11:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cherished he them" - This phrase suggests a tender and nurturing relationship between God and the Israelites, similar to that of a nurse and an infant. It highlights God's care and protection towards his people throughout their journey in the wilderness.
 
 2. "Forty years suffered he their manners" - This phrase emphasizes the long-suffering nature of God towards the Israelites' rebellious behavior. Despite their constant complaints and disobedience, God patiently endured their actions and continued to provide for their needs.
@@ -67,4 +67,4 @@ Note: The commentary is not attributed to any specific source or author.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This passage, described by various commentators, reveals the consequences of being an unprofitable servant who does not use their God-given talents. The unprofitable servant is portrayed as one who does not serve their Master and is cast out into outer darkness, signifying the ultimate judgment and punishment for rejecting God's grace. The phrase "weeping and gnashing of teeth" represents the deep regret and anguish felt by those who recognize the gravity of their rejection. The parable serves as a warning to believers to faithfully utilize their gifts and opportunities, lest they suffer eternal consequences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The unprofitable servant, the useless servant, that does his Master no service."
 2. "Into outer darkness, the darkness which is outside."
 3. "There shall be weeping and gnashing of teeth."
@@ -50,4 +50,4 @@ Note: The commentary does not provide specific verse references, so the quotes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

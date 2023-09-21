@@ -9,7 +9,7 @@ In this verse, the apostle Paul emphasizes the unity of humanity, stating that G
 2. "Though of all people the Jews were the most distinguished in their covenant state from other nations of the earth, yet to them only was given the revelation of the true history of mankind, as all created of one blood."
 3. "He who was before the Creator, then the Preserver, is now the Governor of all men: prescribing to each nation its space to dwell in, and its time of endurance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Holding with the Old Testament teaching, that in the blood is the life, the apostle sees this life stream of the whole human race to be one, flowing from one source." 
 2. "The apostle here opposes both Stoical Fate and Epicurean Chance, ascribing the periods and localities in which men and nations flourish to the sovereign will and prearrangements of a living God." 
 3. "God has determined the times before appointed and the bounds of their habitation."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes the unity of humanity, stating that G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

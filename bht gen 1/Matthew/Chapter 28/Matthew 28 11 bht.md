@@ -11,7 +11,7 @@ Amidst their active mission and obedience, the disciples were on the move, conti
 
 3. "The use of the present tense verb 'going' emphasizes the ongoing nature of their mission. It implies that the disciples were not just going on a one-time journey, but rather a continuous journey of spreading the message of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simple, unsophisticated soldiers! How could ye imagine that such a tale as ye had to tell would not at once commend itself to your scared employers?"
 2. "Had they doubted this for a moment, would they have ventured to go near them, knowing it was death to a Roman soldier to be proved asleep when on guard?"
 3. "And of course that was the only other explanation of the case."
@@ -51,4 +51,4 @@ These quotes highlight the irony and significance of the guards being the ones t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

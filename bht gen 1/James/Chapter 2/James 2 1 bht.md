@@ -9,7 +9,7 @@ In this verse, the commentaries highlight the importance of equality among Chris
 2. "Surely he will not do more signs?" (John 7:31)
 3. "The fault itself, as here intended, is easily explained by the context, where an example is taken of one kind of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The equality of all Christians as 'brethren' forms the groundwork of the admonition."
 2. "James grounds Christian practice on Christian faith."
 3. "The glory of Christ resting on the poor believer should make him be regarded as highly by 'brethren' as his richer brother; nay, more so, if the poor believer has more of Christ's spirit than the rich brother."
@@ -57,4 +57,4 @@ These quotes provide insights into the commentary's discussion of the verse, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

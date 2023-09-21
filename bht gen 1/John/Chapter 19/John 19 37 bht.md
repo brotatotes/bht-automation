@@ -9,7 +9,7 @@ The Bible verse described here is a powerful prophecy fulfilled in Jesus' crucif
 2. "The ὄψονται does not refer to the Roman soldiers, but to the repentant in the world."
 3. "The act was done διὰ χειρὸς ἀνόμων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And there is a remarkable nicety in the choice of the words employed both by the prophet and the Evangelist for 'piercing.'"
 2. "How suitable this was to express the action of the Roman soldier, is manifest."
 3. "How striking are these small niceties!"
@@ -47,4 +47,4 @@ The Bible verse described here is a powerful prophecy fulfilled in Jesus' crucif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

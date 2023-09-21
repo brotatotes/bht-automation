@@ -4,7 +4,7 @@
 In this verse, witnesses ascend to heaven in a cloud, resembling Jesus' ascension and exemplifying the glory bestowed upon them. The ascension is witnessed by both friends and enemies, making it a public display of triumph that parallels the rapture described by Paul. This event marks the emergence of a new era, initially appearing obscure but ultimately bringing joy and praise to all, even to the regret of those who opposed these witnesses. The voice calling them to ascend reinforces the importance of their message, ensuring it is heard by all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I prefer taking the article as definitely alluding to THE cloud which received Jesus at His ascension." 
 2. "As they resembled Him in their three and a half years' witnessing, their three and a half days lying in death, so also in their ascension is the translation and transfiguration of the sealed of Israel and the elect of all nations, caught up out of the reach of the Antichristian foe." 
 3. "The Church caught up to meet the Lord in the air, and transfigured in body, is justified by her Lord before the world."
@@ -40,4 +40,4 @@ In this verse, witnesses ascend to heaven in a cloud, resembling Jesus' ascensio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

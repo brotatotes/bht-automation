@@ -4,7 +4,7 @@
 In this verse, the divine intention behind the creation of human beings as male and female is emphasized. The belief in the origin and sacredness of marriage is highlighted, as well as the importance of understanding and studying the Scriptures. It is pointed out that the Pharisees' question is answered by referring to the original creation of man and the institution of marriage as an indissoluble union between one man and one woman. This verse condemns polygamy and emphasizes the unity and permanence of the marital bond.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that made them made them from the beginning a male and a female." This quote emphasizes the divine intention behind the creation of human beings as male and female, highlighting the complementary nature of the genders.
 
 2. "Have ye not read?" This quote highlights Jesus' expectation that his audience should be familiar with the Scriptures and draws attention to the importance of studying and understanding the Word of God.
@@ -35,4 +35,4 @@ In this verse, the divine intention behind the creation of human beings as male 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

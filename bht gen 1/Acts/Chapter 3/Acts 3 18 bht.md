@@ -9,7 +9,7 @@ The Old Testament prophets collectively and explicitly foretold the suffering an
 2. "The prophets are here regarded as one body, actuated by one Spirit."
 3. "The sum of God’s purpose, shewn by their testimony, is, that HIS CHRIST should suffer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The doctrine of a SUFFERING MESSIAH was totally at variance with the current views of the Jewish Church, and hard to digest even by the Twelve, up to the day of their Lord's resurrection."
 2. "Our preacher himself revolted at it, and protested against it, when first nakedly announced, for which he received a terrible rebuke."
 3. "Here he affirms it to be the fundamental truth of ancient prophecy realized unwittingly by the Jews themselves, yet by a glorious divine ordination."
@@ -48,4 +48,4 @@ The Old Testament prophets collectively and explicitly foretold the suffering an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

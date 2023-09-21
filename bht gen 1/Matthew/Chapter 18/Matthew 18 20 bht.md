@@ -9,7 +9,7 @@ In this verse, Jesus speaks of the power and significance of gathering in His na
 2. "Establishes at once a canon against pseudo-catholicism in all its forms."
 3. "ἐκεῖ εἰμί must be understood of the presence of the Spirit and Power of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord had been speaking of church meetings before which the obstinate perversity of a brother was in the last resort to be brought, and whose decision was to be final—such honor does the Lord of the Church put upon its lawful assemblies."
 2. "But not these assemblies only does He deign to countenance and honor. For even two uniting to bring any matter before Him shall find that they are not alone, for My Father is with them, says Jesus."
 3. "Let them bring all such matters—yea, and everything whatsoever by which either their own loving relationship to each other, or the good of His kingdom at large, might be affected—to their Father in heaven; and if they be but agreed in petitioning Him about that thing, it shall be done for them of His Father which is in heaven."
@@ -58,4 +58,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

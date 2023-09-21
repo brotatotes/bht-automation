@@ -4,7 +4,7 @@
 In this Bible verse, there is an accumulation, not a mere succession, of plagues. Each fresh plague is accompanied by the continuance of the preceding plagues, highlighting the stubbornness of those who refuse to repent even in the face of intense suffering. The people blaspheme the God of heaven, revealing their rebellion and hardened hearts. Their lack of repentance is not due to a lack of opportunity or understanding, but rather a deliberate choice to continue in their sinful ways. Despite their physical and spiritual pain, they curse their King and God, refusing to acknowledge His authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each fresh plague was accompanied with the continuance of the preceding plagues: there was an accumulation, not a mere succession, of plagues."
 2. "This shows that each fresh plague was accompanied with the continuance of the preceding plagues."
 3. "There was an accumulation, not a mere succession, of plagues."
@@ -44,4 +44,4 @@ In this Bible verse, there is an accumulation, not a mere succession, of plagues
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

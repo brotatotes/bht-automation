@@ -4,7 +4,7 @@
 This parable, disputed but pregnant in its meaning, illustrates the relentless pursuit of the Good Shepherd to recover the lost, emphasizing the value Jesus places on each individual. It reveals the duty of his disciples, teaching them to bear with imperfections and endeavor to bring back those who have wandered. The parable reflects God's unwavering love and joy upon finding the lost, highlighting His special care for even the most insignificant. It is a powerful reminder that no one is beyond redemption and that God's love knows no bounds.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is another of those pregnant sayings which our Lord uttered more than once." 
 2. "The object here is to show, when found, how reluctant He is to lose it." 
 3. "The parable of the lost sheep in Matthew 18:12-14 is a delightful illustration of what the good Shepherd will do when even one of His sheep is lost."
@@ -49,4 +49,4 @@ This parable, disputed but pregnant in its meaning, illustrates the relentless p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse concludes a severe Epistle with an expression of affection and love. 
 2. "ἐν χρ. Ἰησ. - that is, my love is not human or fleshly, but spiritual and in Christ."
 3. "ἀλλὰ καὶ φιλεῖ καὶ περιλαμβάνει πόῤῥωθεν αὐτοὺς ὄντας - but he both loves them and embraces them from afar."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His very rebukes were prompted by love, and therefore are altogether in harmony with the profession of love here made."
 2. "It was love in Christ Jesus, and therefore embraced 'all' who loved Him."
 3. "BENGEL conjectures that perhaps, however, it was sent from Philippi because the deputies of the Corinthians had accompanied Paul thither."
@@ -30,4 +30,4 @@ Note: The commentary provides additional context and explanations for the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

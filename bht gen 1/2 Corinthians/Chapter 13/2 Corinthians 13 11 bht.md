@@ -9,7 +9,7 @@ In this verse, believers are encouraged to rejoice in the Lord with spiritual jo
 2. "Take comfort; a recurrence in the end of the Epistle to the spirit with which it began; see ch. 2 Corinthians 1:6-7, and, for the need they had of comfort, ch. 2 Corinthians 7:8-13."
 3. "This is better than 'comfort (or 'exhort') one another,' which would more naturally be expressed by παρακαλεῖτε ἀλλήλους, or ἑαυτούς, see 1 Thessalonians 4:18; 1 Thessalonians 5:11; Hebrews 3:13; also Heb 10:25 and note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Farewell" in Greek also means "rejoice," emphasizing the joy that comes from bidding farewell and being helpers of others' joy (2 Corinthians 1:24; Philippians 4:4).
 2. The command to "be perfect" implies the need to continually work on and improve one's Christian character, filling up what is lacking (Ephesians 4:13).
 3. The exhortation to "be of good comfort" echoes similar encouragements in other passages, emphasizing the importance of finding comfort and encouragement in difficult times (2 Corinthians 1:6; 2 Corinthians 7:8-13; 1 Thessalonians 4:18).
@@ -54,4 +54,4 @@ In this verse, believers are encouraged to rejoice in the Lord with spiritual jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

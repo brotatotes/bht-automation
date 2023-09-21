@@ -9,7 +9,7 @@ The verse being described emphasizes the deep-rooted bitterness and resentment o
 2. "The gall which is the very seat and essence of bitterness, a very gall of bitterness."
 3. "The poison of serpents was considered to be seated in their gall."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "in the gall of bitterness" - This phrase emphasizes the deep-rooted bitterness and resentment that the person is consumed by. It suggests a state of intense emotional pain and anguish.
 
 2. "bond of iniquity" - This phrase highlights the enslavement to sin and wrongdoing that the person is trapped in. It implies a sense of being bound and unable to break free from the cycle of sinful behavior.
@@ -52,4 +52,4 @@ These quotes highlight the idea that a single sin can reveal the absence of true
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

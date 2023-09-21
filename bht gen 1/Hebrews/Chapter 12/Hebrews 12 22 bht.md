@@ -9,7 +9,7 @@ The Bible verse being described speaks of believers being reconciled through Chr
 2. "Mount Sion, the abode of God which He loved and where He will abide continually."
 3. "He is its maker and builder, ch. Hebrews 11:10; nor only so, but also evermore dwells in it with the light of His presence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers being like the angels, 'sons of God,' are so their 'equals'." 
 2. "Being reconciled through Christ, [believers] are adopted into God's great and blessed family." 
 3. "Angels and saints together constitute the ten thousands."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of believers being reconciled through Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

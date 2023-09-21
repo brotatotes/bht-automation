@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of speaking the truth in lov
 2) "It is almost impossible to express it satisfactorily in English."
 3) "ἐν ἀγάπη is added, as the element in which the Christian ἀληθεύειν must take place: it is not and cannot be an ἀληθεύειν at all hazards a ‘fiat justitia, ruat cœlum’ truthfulness: but must be conditioned by love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Truth in word and act, love in manner and spirit, are the Christian's rule."
 2. "There is growth only in the spiritually alive, not in the dead."
 3. "More and more incorporated with Him, and become one with Him."
@@ -61,4 +61,4 @@ The verse being described emphasizes the importance of speaking the truth in lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

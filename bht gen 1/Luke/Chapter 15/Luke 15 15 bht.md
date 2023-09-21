@@ -9,7 +9,7 @@ In this verse, a person sinks deeper and deeper, becoming a despised servant of 
 2. "Is there here any hint at the situation of the publicans?" 
 3. "He attached himself. Notice the abrupt change of subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His pride not yet humbled, unable to brook the shame of a return." 
 2. "Glad to keep life anyhow, behold the son sank into a swineherd." 
 3. "He who begins by using the world as a servant, to minister to his pleasure, ends by reversing the relationship."
@@ -48,4 +48,4 @@ In this verse, a person sinks deeper and deeper, becoming a despised servant of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -7,7 +7,7 @@ In this verse, commentators highlight the differing estimation of the gifts of p
 ### Henry Alford:
 1. "ζηλοῦτε" and "μὴ κωλύετε" express the different estimations in which he held the two gifts.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Covet—earnestly desire." - This phrase emphasizes the strong desire that should be placed on the gift of prophecy, highlighting its importance and value.
 2. "Stronger than 'forbid not'." - This phrase suggests that the command to earnestly desire prophecy is even more significant than the command to not forbid speaking in tongues, indicating the superiority of prophecy over tongues.
 3. "Marking how much higher he esteemed 'prophecy' than 'tongues'." - This statement reveals the elevated regard the writer had for the gift of prophecy, emphasizing its superiority over the gift of tongues.
@@ -43,4 +43,4 @@ In this verse, commentators highlight the differing estimation of the gifts of p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

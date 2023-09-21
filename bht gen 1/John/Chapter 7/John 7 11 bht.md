@@ -9,7 +9,7 @@ In this verse, a particular group of Jews, namely the rulers and leaders from Je
 2. "Their question itself (ἐκεῖνος) shews a hostile spirit." 
 3. "The commentary highlights the hostile spirit of the Ἰουδ. by emphasizing their question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jews—the rulers." - This phrase highlights the specific group of Jews who were seeking Jesus, emphasizing their authority and power in society.
 2. "sought him—for no good end." - This quote suggests that the intentions of those seeking Jesus were malicious or harmful, indicating that they were not genuinely interested in his teachings or well-being.
 3. "Where is He?—He had not been at Jerusalem for probably a year and a half." - This statement provides context by revealing that Jesus had been absent from Jerusalem for a significant period of time, making the question of his whereabouts more significant and raising curiosity about his sudden appearance.
@@ -52,4 +52,4 @@ In this verse, a particular group of Jews, namely the rulers and leaders from Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

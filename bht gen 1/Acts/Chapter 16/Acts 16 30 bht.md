@@ -9,7 +9,7 @@ The person asking the question shows a marked change in attitude and respect tow
 2. "The circumstantiality of the account shows that some eye-witness related it."
 3. "His question, connected with the ὁδὸν σωτηρίας of the dæmoniac in Acts 16:17, makes it necessary to infer... he had previously become acquainted with the subject of their preaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Only one explanation of it can be given—that he had become all at once alarmed about his spiritual state, and that though, a moment before, he was ready to plunge into eternity with the guilt of self-murder on his head, without a thought of the sin he was committing and its awful consequences, his unfitness to appear before God, and his need of salvation, now flashed full upon his soul and drew from the depths of his spirit the cry here recorded."
 2. "Then despair seizing him at the sight of the open doors, the sword of self-destruction was suddenly arrested by words from one of those prisoners such as he would never imagine could be spoken in their circumstances—words evidencing something divine about them."
 3. "Then would flash across him the light of a new discovery; 'That was a true cry which the Pythoness uttered, 'These men are the servants of the most high God, which show unto us the way of salvation! That I now must know, and from them, as divinely sent to me, must I learn that way of salvation!'"
@@ -50,4 +50,4 @@ The person asking the question shows a marked change in attitude and respect tow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

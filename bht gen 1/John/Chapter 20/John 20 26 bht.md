@@ -9,7 +9,7 @@ The passage being described is about a significant appearance of Jesus to His di
 2. "The eight days’ interval is the first testimony of the recurring day of the Resurrection being commemorated by the disciples: but, it must be owned, a weak one; for in all probability they had been thus assembled every day during the interval."
 3. "It forms however an interesting opening of the history of THE LORD’S DAY, that the Lord Himself should have thus selected and honoured it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their Lord designedly reserved His second appearance among them till the recurrence of His resurrection day, that He might thus inaugurate the delightful sanctities of THE LORD'S DAY."
 2. "Jesus stood in the midst, and said, Peace be unto you."
 3. "This salutation was doubtless intended to dispel their fears, to assure them of His love and forgiveness, and to prepare them for the communication He was about to make."
@@ -63,4 +63,4 @@ The passage being described is about a significant appearance of Jesus to His di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

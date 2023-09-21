@@ -9,7 +9,7 @@ In this passage, there is a sense of lamentation and regret over the missed oppo
 2. "καὶ σύ, thou also, as well as these My disciples." 
 3. "καί γε, et quidem even: Hartung remarks, Partikellehre i. 397, that this expression is confined to the Attic dialect."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At least in this, &c.—even at this moving moment." 
 2. "Thy peace—thinking perhaps of the name of the city." 
 3. "Now...hid—It was His among His last open efforts to 'gather them,' but their eyes were judicially closed."
@@ -52,4 +52,4 @@ In this passage, there is a sense of lamentation and regret over the missed oppo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

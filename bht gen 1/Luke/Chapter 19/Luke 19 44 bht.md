@@ -9,7 +9,7 @@ In this passage, commentators describe a vivid prophecy of the destruction of Je
 2. "Not, ‘because of thy sins and rebellions; those might be all blotted out, hadst thou known, recognized, the time of thy visiting by Me."
 3. "It brings at once here before us the coming seeking fruit, and the returning of the Lord of the vineyard."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mine eye affecteth mine heart" - This quote highlights the connection between the eyes and the heart, showing how emotions can be stirred by what is seen. It suggests that Jesus, in His humanity, experienced deep emotions that were visible through His tears.
 2. "Under this sympathetic law of the relation of mind and body" - This quote suggests that there is a natural connection between the mind and the body, where emotions can manifest physically. It implies that Jesus, being fully human, was subject to this connection and experienced the full range of human emotions.
 3. "He yielded Himself alike freely to both" - This quote emphasizes Jesus' willingness to fully experience both profound joy and deep sorrow. It suggests that He did not hold back or suppress His emotions, but allowed Himself to be fully present in each moment, whether it be in moments of joy or moments of sorrow.
@@ -45,4 +45,4 @@ In this passage, commentators describe a vivid prophecy of the destruction of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

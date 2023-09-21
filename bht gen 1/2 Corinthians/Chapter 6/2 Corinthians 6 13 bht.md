@@ -9,7 +9,7 @@ Now for a recompense of the same --- Of my paternal tenderness. I speak as to my
 2. "ὡς τέκνοις λ. explains ἀντιμισθίαν, it being naturally expected of children that they should requite the love and care of their parents, by corresponding love and regard."
 3. "The sense seems to be compounded of τὸν αὐτὸν τρόπον and ἀντιμισθίαν, In the same manner, as a return for my largeness of heart to you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As a recompense in the same kind... be enlarged also yourselves" - This verse suggests that the reciprocation of love and kindness is expected, just as children would naturally respond to their parents' love with similar love. It emphasizes the importance of responding to love with love.
 
 2. "In the same way" - This phrase highlights the idea that the response should mirror the original action. It implies that the enlargement of one's heart should be done in a similar manner as the love received.
@@ -52,4 +52,4 @@ These quotes highlight the loving and caring nature of the speaker, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

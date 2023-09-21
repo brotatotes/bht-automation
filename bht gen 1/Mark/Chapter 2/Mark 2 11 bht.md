@@ -9,7 +9,7 @@ In this passage, Jesus speaks with authority, commanding a paralyzed man to aris
 2. "The words are precisely those used, as so often in Mark, and denote the turning to the paralytic and addressing him."
 3. "There may have been something in his state, which required the emphatic address."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This taking up the portable couch, and walking home with it, was designed to prove the completeness of the cure." 
 2. "The command to 'arise' signifies not only physical healing but also a call to a new life, a new beginning." 
 3. "By instructing the man to 'go thy way into thine house,' Jesus emphasizes the importance of returning to one's own community and fulfilling one's responsibilities."
@@ -25,4 +25,4 @@ In this passage, Jesus speaks with authority, commanding a paralyzed man to aris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

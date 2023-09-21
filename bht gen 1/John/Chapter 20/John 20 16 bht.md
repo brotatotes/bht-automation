@@ -9,7 +9,7 @@ In this Bible verse, Jesus addresses Mary by name, speaking to her with his usua
 2. "That she gives way to no impassioned exclamations, but pours out her satisfaction and joy in this one word, is also according to the deepest psychological truth."
 3. "It was the former name with which He called her: His former appellation in which she replied; and now she seeks to renew the former intercourse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary—It is not now the distant, though respectful, 'Woman.' It is the oft-repeated name, uttered, no doubt, with all the wonted manner, and bringing a rush of unutterable and overpowering associations with it."
 2. "Rabboni!—But that single word of transported recognition was not enough for woman's full heart."
 3. "Not knowing the change which had passed upon Him, she hastens to express by her action what words failed to clothe; but she is checked."
@@ -61,4 +61,4 @@ These quotes highlight the personal relationship between Jesus and his followers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

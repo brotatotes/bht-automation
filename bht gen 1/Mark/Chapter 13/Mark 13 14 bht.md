@@ -9,7 +9,7 @@ In this verse, the abomination of desolation is described as something morally r
 2. "In connexion with the reading ἑστηκότα in the text, the Oxf. Catena explains τὸ βδέλ . τῆς ἐρημ . by τὸν ἀνδριάντα τοῦ τότε τὴν πόλιν ἑλόντος." 
 3. "The Oxf. Catena explains τὸ βδέλ . τῆς ἐρημ . as 'the statue of the one who then captured the city.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye shall see it besieged, and the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not—that is, as explained in Matthew, 'standing in the holy place.'" 
 2. "That 'the abomination of desolation' here alluded to was intended to point to the Roman ensigns, as the symbols of an idolatrous, and so unclean pagan power, may be gathered by comparing what Luke says in the corresponding verse." 
 3. "The ecclesiastical historian, EUSEBIUS, early in the fourth century, tells us that the Christians fled to Pella, at the northern extremity of Perea, being 'prophetically directed'—perhaps by some prophetic intimation more explicit than this, which would be their chart—and that thus they escaped the predicted calamities by which the nation was overwhelmed."
@@ -42,4 +42,4 @@ In this verse, the abomination of desolation is described as something morally r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

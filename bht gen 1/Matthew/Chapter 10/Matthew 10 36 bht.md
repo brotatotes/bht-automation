@@ -9,7 +9,7 @@ Amidst the upheaval and challenges of the times, this verse warns us of the pote
 2. "The article is generic" (Quote 2)
 3. "The article is rightly rendered in the E. V. ‘a man’s foes,’ &c." (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And a man's foes shall be they of his own household" - This verse highlights the painful reality that sometimes our greatest opposition can come from those closest to us, even within our own families.
 2. "Hence would arise the necessity of a choice between Christ and the nearest relations" - The commentary emphasizes the difficult decision that believers may face when their faith in Christ conflicts with the expectations or beliefs of their family members.
 3. "which would put them to the severest test" - This quote underscores the challenging nature of the choice, suggesting that it would be a test of loyalty and commitment to Christ.
@@ -30,4 +30,4 @@ Amidst the upheaval and challenges of the times, this verse warns us of the pote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

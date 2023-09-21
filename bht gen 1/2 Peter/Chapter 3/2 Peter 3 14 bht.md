@@ -9,7 +9,7 @@ As we eagerly await the coming of Christ, we are called to diligently pursue a l
 2. "The form of expression reminds us forcibly of Matthew 22:11 ff." 
 3. "In peace among yourselves, in peace with yourselves, in peace for yourselves, with God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that ye . . . be found of him—"in His sight" [ALFORD], at His coming; plainly implying a personal coming."
 2. "without spot—at the coming marriage feast of the Lamb, in contrast to :-, 'Spots they are and blemishes while they feast,' not having on the King's pure wedding garment."
 3. "in peace—in all its aspects, towards God, your own consciences, and your fellow men, and as its consequence eternal blessedness: 'the God of peace' will effect this for you."
@@ -59,4 +59,4 @@ As we eagerly await the coming of Christ, we are called to diligently pursue a l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

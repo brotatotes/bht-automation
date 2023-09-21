@@ -9,7 +9,7 @@ Secretaries work in an office environment. They are responsible for administrati
 2) "Faith is not the crowning item in such a list, but the first and most elementary."
 3) "This is the only example in the Gospels in which the Apostles are marked out as requesting or saying anything to the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Increase our faith—moved by the difficulty of avoiding and forgiving 'offenses.'" 
 2. "This is the only instance in which a spiritual operation upon their souls was solicited of Christ by the Twelve." 
 3. "A kindred and higher prayer had been offered before, by one with far fewer opportunities."
@@ -47,4 +47,4 @@ Secretaries work in an office environment. They are responsible for administrati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described speaks of the manifestation of God's righteousness, which st
 2. "χωρὶς νόμου] without the (help of the) law, 'independently of the law:’ not 'without the works of the law;' for here it is not the way to the δικ. θεοῦ which is spoken of (which is faith), but that δικ. itself."
 3. "The perfect sets forth the manifestation of this righteousness in history as an accomplished and still enduring fact the ἀποκαλύπτεται of ch. Rom 1:17 denotes the continual unfolding of this righteousness in the hearts and lives of faithful believers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The righteousness of God is a righteousness to which our obedience to the law contributes nothing whatever."
 2. "This justifying righteousness, though new, as only now fully disclosed, is an old righteousness, predicted and foreshadowed in the Old Testament."
 3. "The Old Testament Scriptures attest to the manifestation of this righteousness."
@@ -55,4 +55,4 @@ The verse described speaks of the manifestation of God's righteousness, which st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

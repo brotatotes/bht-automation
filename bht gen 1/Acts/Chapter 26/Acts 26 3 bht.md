@@ -9,7 +9,7 @@ The verse being described is an exchange between Paul and King Agrippa, who is k
 2. "ἐν σοὶ νῦν ἔστιν ἢ καταδουλῶσαι Ἀθήνας, ἢ ἐλευθέρας ποιήσαντα μνημόσυνον λιπέσθαι κ . τ . λ."
 3. "ἐν σοὶ νῦν ἔστιν ἢ καταδουλῶσαι Ἀθήνας, ἢ ἐλευθέρας ποιήσαντα μνημόσυνον λιπέσθαι κ . τ . λ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know thee to be expert" - This suggests that the person being addressed has a deep understanding and knowledge of the subject matter. It implies that they are well-versed and experienced in the topic being discussed.
 
 2. "His father was zealous for the law" - This highlights the importance of the person's family background and their inherited devotion to religious principles. It suggests that their upbringing and lineage have shaped their character and commitment to their beliefs.
@@ -49,4 +49,4 @@ The verse being described is an exchange between Paul and King Agrippa, who is k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

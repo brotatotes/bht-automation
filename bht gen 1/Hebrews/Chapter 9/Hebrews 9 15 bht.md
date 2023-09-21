@@ -9,7 +9,7 @@ In this verse, we learn about the pre-eminent spiritual virtue of Christ's redee
 2. "The object of the new covenant is an eternal inheritance."
 3. "Before a new inheritance by testament could come in, there must be a propitiation of all these former transgressions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because of the all-cleansing power of His blood, this fits Him to be Mediator of the new covenant, which secures both forgiveness for the sins not covered by the former imperfect covenant or testament, and also an eternal inheritance to the called."
 2. "At the moment that His death took place, the necessary effect is, 'the called receive the (fulfilment of the) promise.'"
 3. "Before the inheritance by the New Testament could come in, there must be redemption of the transgressions committed under the first testament, for the propitiatory sacrifices under the first testament reached only as far as removing outward ceremonial defilement."
@@ -53,4 +53,4 @@ In this verse, we learn about the pre-eminent spiritual virtue of Christ's redee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

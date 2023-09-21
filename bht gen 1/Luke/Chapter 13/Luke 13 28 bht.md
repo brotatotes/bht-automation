@@ -4,7 +4,7 @@
 This verse teaches us that the kingdom of heaven is open to all who have faith in Jesus Christ, regardless of their background or ethnicity. It emphasizes that rejection of the invitation to enter the kingdom has severe consequences, leading to a state of separation from God and his blessings. It also cautions against being influenced by worldly power and highlights the importance of recognizing and accepting Jesus as the true King and Savior. Ultimately, it is a reminder that salvation is not attained through religious affiliation or lineage, but through personal faith in God's grace and mercy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse is a reminder that the kingdom of heaven is not limited to a specific group of people, but is open to all who have faith in Jesus Christ."
 2. "The reference to 'outer darkness' in this verse suggests a place of separation from God and his blessings, highlighting the consequences of rejecting the invitation to enter the kingdom of heaven."
 3. "The message to Herod serves as a cautionary tale, emphasizing the importance of recognizing and accepting Jesus as the true King and Savior, rather than being swayed by worldly power and influence."
@@ -37,4 +37,4 @@ This verse teaches us that the kingdom of heaven is open to all who have faith i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

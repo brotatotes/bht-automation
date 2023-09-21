@@ -4,7 +4,7 @@
 In this verse, there is a clear division and disagreement among the people regarding the identity of Jesus. Some recognized him as a prophet, acknowledging his extraordinary nature. Others went even further and boldly declared him to be the long-awaited Messiah. However, there were those who objected, raising doubts about his origins and fulfilling the words of Christ from Luke 12:51. This verse captures the diverse range of beliefs and reactions to Jesus, revealing the complexity and depth of the divisions among the people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many . . . when they heard this . . . said, Of a truth, &c.—The only wonder is they did not all say it." 
 2. "Their minds were blinded." 
 3. "The blindness of the Jews, as a nation, was judicial, and the judicial act was the consequence of their own voluntary and persistent rejection of the truth."
@@ -30,4 +30,4 @@ In this verse, there is a clear division and disagreement among the people regar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

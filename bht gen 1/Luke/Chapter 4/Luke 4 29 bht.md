@@ -4,7 +4,7 @@
 In the midst of a tumultuous synagogue service, the people rose up in great wrath and forcefully expelled Jesus, as if he were a criminal deserving of death. They led Him outside the city, intending to inflict the severest punishment upon Him. This violent reaction of the crowd mirrored the chaotic nature of their actions, disregarding proper protocol and displaying their strong rejection of Jesus. Such was the response Jesus received for daring to challenge the beliefs and traditions of the religious authorities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rose up—broke up the service irreverently and rushed forth." 
 2. "Thrust him—with violence, as a prisoner in their hands." 
 3. "Nazareth, though not built on the ridge of a hill, is in part surrounded by one to the west, having several such precipices."
@@ -44,4 +44,4 @@ In the midst of a tumultuous synagogue service, the people rose up in great wrat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

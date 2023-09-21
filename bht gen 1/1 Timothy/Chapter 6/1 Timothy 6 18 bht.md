@@ -4,7 +4,7 @@
 The verse is a call to action, urging individuals to actively engage in acts of kindness and generosity. It emphasizes the importance of being ready and willing to share resources with others, as well as participating in communal efforts of charity and benevolence. The verse highlights that true wealth lies not in worldly possessions, but in the accumulation of virtuous actions and good works. It serves as a reminder to embody a spirit of compassion and to actively seek opportunities to make a positive impact in the lives of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do good—like God Himself" (Psalms 119:68; Acts 14:17) and Christ (Acts 10:38).
 2. "Rich in good works—so 'rich in faith,' which produces good works" (Acts 10:38).
 3. "Ready to distribute—free givers; the heart not cleaving to possessions, but ready to impart to others."
@@ -52,4 +52,4 @@ The verse is a call to action, urging individuals to actively engage in acts of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Those who lack the virtues and graces described in this verse are blind and spir
 2. "He to whom these are not present is blind, lacks discernment altogether of his own state as a member or Christ and inheritor of heaven."
 3. "Having incurred forgetfulness of the purification of his former sins, i.e. of the fact of his ancient, pre-Christian, sins having been purged away in his baptism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confirming the need of these graces by the fatal consequences of the want of them."
 2. "He closes his eyes as unable to see distant objects (namely, heavenly things), and fixes his gaze on present and earthly things which alone he can see."
 3. "The continually present sense of one's sins having been once for all forgiven, is the strongest stimulus to every grace."
@@ -57,4 +57,4 @@ Note: The commentary is about 2 Peter 1:9.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

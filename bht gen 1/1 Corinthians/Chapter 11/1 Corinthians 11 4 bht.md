@@ -9,7 +9,7 @@ In this verse, individuals are advised not to cover their heads when praying or 
 2. "The Jews when praying in public put over their heads a veil, called the Tallith, to show their reverence before God and their unworthiness to look on Him."
 3. "καταισχ. τ. κεφ. αὐτοῦ] dishonours his Head, i.e. Christ: not, his own head literally, except in so far as the literal and metaphorical senses are both included, the (literal) head of the man being regarded as the representative of his spiritual Head."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Praying in public and prophesying, which refers to preaching, are both spiritual activities that should be done in alignment with the guidance of the Holy Spirit." 
 2. "The custom of men being uncovered in worship was a Greek tradition, while the Jews wore a veil to show reverence and unworthiness before God." 
 3. "By wearing a covering or veil, a man dishonors his head, which is the principal part of his body, and it signifies subjection. This prevents him from looking upwards to his Spiritual Head, Christ, to whom he owes his submission."
@@ -55,4 +55,4 @@ In this verse, individuals are advised not to cover their heads when praying or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

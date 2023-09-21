@@ -11,7 +11,7 @@ In this verse, it is described how despite the physical decay of the body, the i
 
 Note: The commentary is referencing 2 Corinthians 4:16.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We faint not—notwithstanding our sufferings."
 2. "The outward man—the body, the flesh."
 3. "The inward man—our spiritual and true being, the 'life' which even in our mortal bodies 'manifests the life of Jesus.'"
@@ -55,4 +55,4 @@ Note: The commentary is referencing 2 Corinthians 4:16.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

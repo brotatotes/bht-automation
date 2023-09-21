@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the profound impact of Christ's manifestation and presence on earth, explaining that through his appearing, he abolished death, transforming it from a feared enemy into a welcomed friend. They emphasize that through the gospel, Christ has brought to light the true nature of life and immortality, revealing the eternal blessings he has purchased for his people. The verse speaks to the hidden purpose of God's salvation, the revelation of truth through faith, and the life-giving power of the gospel message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek article before 'death' implies that Christ abolished death, not only in some particular instance, but in its very essence, being, and idea, as well as in all its aspects and consequences."
 2. "The carrying out of the abolition of death into full effect is to be at the resurrection."
 3. "Before the Gospel revelation from God, man, by the light of nature, under the most favorable circumstances, had but a glimmering idea of the possibility of a future being of the soul, but not the faintest idea of the resurrection of the body."
@@ -54,4 +54,4 @@ These quotes provide insights into the manifestation of God's grace, the defeat 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

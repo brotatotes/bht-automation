@@ -11,7 +11,7 @@ In this verse, the commentator quotes various sources to describe the attributes
 
 Note: The commentary is quite lengthy and complex, so I have selected three quotes that capture the essence of the author's thoughts on the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeketh his own glory" - This phrase refers to someone who is primarily concerned with promoting and exalting themselves, rather than seeking the glory and honor of God. It highlights the selfishness and self-centeredness of such individuals.
 
 2. (See on John 5:41) - This reference points to another verse in the Gospel of John, where Jesus rebukes the religious leaders for seeking their own glory instead of recognizing and honoring the true glory that comes from God. It emphasizes the importance of humility and recognizing that true glory comes from God alone.
@@ -65,4 +65,4 @@ These quotes highlight the importance of seeking God's glory rather than one's o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

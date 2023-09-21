@@ -4,7 +4,7 @@
 The verse being described is a letter written by an apostle, characterized by personal communication and a longing for face-to-face interaction. The author acknowledges the limitations of writing, expressing a desire to share deeper truths in person. The letter is handwritten, containing important instructions with a purposeful choice of topics. It is evident that the author intends to bring joy and a sense of fulfillment to the recipients through their future encounter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A heart full of love pours itself out more freely face to face, than by letter." 
 2. "Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you."
 3. "On other occasions his writing the glad truths was for the same purpose."
@@ -35,4 +35,4 @@ The verse being described is a letter written by an apostle, characterized by pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

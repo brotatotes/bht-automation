@@ -9,7 +9,7 @@ The passage being described is centered around the concept of Jesus as the livin
 2. "The flesh here, and the eating of the flesh, are distinct from the blood, and the drinking of the blood. It is then only through or after the Death of the Lord, that by any propriety of language, His Flesh could be said to be eaten."
 3. "But this Bread is living Bread; not dead flesh, but living Flesh. And therefore manducation by the teeth materially is not to be thought of here; but some kind of eating by which the living Flesh of the Son of God is made the living sustenance of those who partake of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "THE BREAD WHICH I WILL GIVE IS MY FLESH, WHICH I WILL GIVE FOR THE LIFE OF THE WORLD." - Jesus explicitly introduces His sacrificial death as the means by which He becomes the Bread of life to humanity. This highlights the significance of His flesh as possessing life-giving virtue.
 
 2. "From this time we hear no more (in this discourse) of 'Bread'; this figure is dropped, and the reality takes its place." - The figure of bread is replaced by the reality of Jesus Himself. This emphasizes the transition from symbolic representation to the actual substance of Jesus as the source of eternal life.
@@ -55,4 +55,4 @@ The passage being described is centered around the concept of Jesus as the livin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

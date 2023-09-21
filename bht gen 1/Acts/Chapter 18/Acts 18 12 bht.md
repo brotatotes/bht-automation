@@ -9,7 +9,7 @@ In this Bible verse, we encounter a remarkable scene involving an influential fi
 2. "Achaia, a Roman province, contained Hellas and the Peloponnesus, and embraced all their Grecian dominions."
 3. "The 'βῆμα' mentioned in this narrative refers to a seat used by Roman magistrates, either fixed in a public place or moveable to be placed wherever they sat in a judicial character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gallio was the deputy—the proconsul." (12-17)
 2. "He was brother to the celebrated philosopher SENECA, the tutor of Nero." (12-17)
 3. "Who passed sentence of death on both." (12-17)
@@ -53,4 +53,4 @@ In this Bible verse, we encounter a remarkable scene involving an influential fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

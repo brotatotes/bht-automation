@@ -9,7 +9,7 @@ The verse being described is one where the commentator quotes highlight the conc
 2. "Would not the Apostle have more naturally written, 'You would, if possible, have pulled out your own eyes, and have given them to me'?"
 3. "The inference then of any ocular disease from these words themselves seems to me precarious."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Of what value was your congratulation of yourselves, on account of your having among you me, the messenger of the Gospel, considering how entirely you have veered about since?"
 2. "Once you counted yourselves blessed in being favored with my ministry."
 3. "You would have plucked out your own eyes—one of the dearest members of the body—so highly did you value me: a proverbial phrase for the greatest self-sacrifice."
@@ -55,4 +55,4 @@ The verse being described is one where the commentator quotes highlight the conc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

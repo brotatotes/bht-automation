@@ -9,7 +9,7 @@ The passage describes a significant gathering of influential figures, including 
 2. "The Sanhedrim: see Matthew 2:4; Matthew 26:59; ch. Acts 5:21."
 3. "I believe it merely implies that the meeting was not held in the temple, but in the city."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their rulers" refers to the members of the Sanhedrin, the Jewish council of religious leaders and elders.
 2. The Sanhedrin was a regular meeting place for the rulers, indicating the importance and authority of this group.
 3. The mention of the Sanhedrin in this verse suggests that the actions and decisions made by the rulers had significant implications for the early Christian community.
@@ -47,4 +47,4 @@ The passage describes a significant gathering of influential figures, including 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

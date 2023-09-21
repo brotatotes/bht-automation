@@ -4,7 +4,7 @@
 In this Bible verse, the commentator quotes emphasize that the speaker, who is referred to as a minister or servant, recognizes their role as a steward entrusted with a specific responsibility by God. They fulfill this role by fully preaching the message given to them, ensuring that all receive the blessings of the gospel. The verse also highlights that this ministry is not self-appointed, but rather a result of God's choosing, and it is carried out in alignment with God's divine plan and purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I was made a minister": Paul acknowledges his role as a steward, entrusted with the responsibility of dispensing the goods of God to the believers in the Church (Luke 12:42; 1 Corinthians 4:1; 1 Corinthians 4:2; 1 Corinthians 9:17; Ephesians 3:2).
 
 2. "To bring it fully to all": Paul's purpose is to fulfill his stewardship by fully preaching the message given to him, ensuring that the Gentiles also receive the blessings and benefits of the gospel (Colossians 1:27; Romans 15:16).
@@ -51,4 +51,4 @@ In this Bible verse, the commentator quotes emphasize that the speaker, who is r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

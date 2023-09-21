@@ -9,7 +9,7 @@ In this passage, the commentators provide insights into the intense and perilous
 2. "Upon reaching Clauda, they availed themselves of the smooth water under its lee, to prepare the ship to resist the fury of the storm."
 3. "Their first care was to secure the boat by hoisting it on board. This had not been done at first, because the weather was moderate, and the distance they had to go, short."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We had much work to come by—that is, to hoist up and secure." This quote highlights the challenging and laborious task the sailors faced in trying to bring the boat to safety. It emphasizes the physical effort required in the midst of a raging storm.
 
 2. "The boat—now become necessary." This quote suggests that the boat, which may have been overlooked or deemed unnecessary before, suddenly became vital for their survival. It underscores the urgency and importance of having the boat in such dire circumstances.
@@ -52,4 +52,4 @@ In this passage, the commentators provide insights into the intense and perilous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

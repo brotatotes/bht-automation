@@ -9,7 +9,7 @@ The commentator quotes provide insight into a verse that conveys the writer's he
 2. "that we may mutually refresh ourselves, I after my dangers and deliverance, you after your anxieties for me." - the desire for mutual refreshment after experiencing dangers and anxieties. 
 3. "But the text is in some confusion." - acknowledging the confusion in the text.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That I may come unto you with joy by the will of God." - This quote highlights the Apostle's desire to visit the readers and the importance of God's will in his plans.
 2. "With you refresh myself." - This phrase emphasizes the mutual benefit and support that Paul expects to receive from the readers, as he seeks refreshment after his labors and anxieties.
 3. "Be refitted for future service." - This quote underscores the purpose of Paul's desire to be refreshed by the readers, as he seeks to be equipped and prepared for future ministry.
@@ -54,4 +54,4 @@ The commentator quotes provide insight into a verse that conveys the writer's he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

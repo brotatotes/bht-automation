@@ -9,7 +9,7 @@ The verse being described is one in which the disciples are struggling to cast o
 2. "That there are kinds, more and less malicious, of evil spirits, we find from Mat 12:45 and the pertinacity and cruelty of this one showed him to belong to the worst kind."
 3. "The Lord’s saying here (if the doubtful words are to stand) is rather for their after guidance, than their present; for they could not fast while He was with them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This kind of evil spirits cannot be expelled, or so desperate a case of demoniacal possession cannot be cured, but by prayer and fasting."
 2. "Great and difficult duties require special preparation and self-denial."
 3. "Though nothing is impossible to faith, yet such a height of faith as is requisite for such triumphs is not to be reached either in a moment or without effort."
@@ -35,4 +35,4 @@ The verse being described is one in which the disciples are struggling to cast o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

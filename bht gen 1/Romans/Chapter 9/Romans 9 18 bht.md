@@ -9,7 +9,7 @@ In this verse, the commentators provide insights into the concept of God's sover
 2. "Whatever difficulty there lies in this assertion, that God hardeneth whom He will, lies also in the daily course of His Providence, in which we see this hardening process going on in the case of the prosperous ungodly man."
 3. "The fact is patent, whether declared by revelation or read in history: but to the solution of it, and its reconciliation with the equally certain fact of human responsibility, we shall never attain in this imperfect state."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The result then is that He hath mercy on whom he will have mercy, and whom he will he hardeneth." This quote highlights the concept of God's sovereignty in choosing whom to show mercy and whom to harden.
 
 2. "By judicially abandoning them to the hardening influence of sin itself." This quote explains how God allows individuals to be hardened by their own sinful choices, emphasizing the consequences of their actions.
@@ -59,4 +59,4 @@ Note: The commentary provides insights into the emphasis on God's will, the impl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

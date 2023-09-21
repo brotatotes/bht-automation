@@ -9,7 +9,7 @@ In this verse, Jesus is depicted as the stronger man who has come to bind and ov
 2. "See also Isaiah 53:12 (LXX); Isaiah 49:24-25."
 3. "When the sign (║) occurs in a reference, it is signified that the word occurs in the parallel place in the other Gospels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The strong man's house represents the world, which is under the control of Satan. Jesus is the stronger man who has come to bind Satan and plunder his possessions." 
 
 2. "This verse emphasizes the power and authority of Jesus over the forces of evil. He is able to enter into the domain of the enemy and overcome him, setting free those who were held captive." 
@@ -47,4 +47,4 @@ In this verse, Jesus is depicted as the stronger man who has come to bind and ov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

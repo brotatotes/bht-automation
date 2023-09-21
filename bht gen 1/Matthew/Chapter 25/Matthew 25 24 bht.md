@@ -4,7 +4,7 @@
 In this Bible verse, the commentator describes a person who sees God as harsh and demanding, attributing their own shortcomings to Him. They view God as a hard master, expecting more than they are capable of. However, the commentator notes that God is not a niggardly or exacting figure, but rather generous with His grace and gifts. The verse serves as a reminder that everyone is accountable for their own talents and should use them for the good of others and to honor God, rather than making excuses or blaming Him for their own failures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I knew thee that thou art an hard man—harsh."
 2. "The sense is obvious: 'I knew thou wast one whom it was impossible to serve, one whom nothing would please: exacting what was impracticable, and dissatisfied with what was attainable.'"
 3. "Thus do men secretly think of God as a hard Master, and virtually throw on Him the blame of their fruitlessness."
@@ -50,4 +50,4 @@ Note: The commentary is about Matthew 25:24.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

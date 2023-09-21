@@ -9,7 +9,7 @@ Through the act of baptism, the Israelites were both physically and spiritually 
 2. "Just as we Christians by our baptism are bound in a solemn covenant with God, and enter His Church under the Gospel as brought in by Christ."
 3. "The cloud and the sea were both aqueous; and this point of comparison being obtained, serves the Apostle to indicate the outward symbols of their initiation into the church under the government of Moses as the servant of God, and to complete the analogy with our baptism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people were led to believe in Moses as God's servant by the miracle of the cloud protecting them, and by their being conducted under him safely through the Red Sea; therefore they are said to be 'baptized unto' him."
 2. "There is a resemblance between the symbols also: for the cloud and sea consist of water, and as these took the Israelites out of sight, and then restored them again to view, so the water does to the baptized."
 3. "Christ is the pillar cloud that screens us from the heat of God's wrath. Christ as 'the light of the world' is our 'pillar of fire' to guide us in the darkness of the world. As the rock when smitten sent forth the waters, so Christ, having been once for all smitten, sends forth the waters of the Spirit."
@@ -52,4 +52,4 @@ Through the act of baptism, the Israelites were both physically and spiritually 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Prayer in the name of Jesus is not a mere formula, but a profound understanding 
 2. "It is a fulness of joy peculiar to the dispensation of the Spirit, to be able so to do."
 3. "See Matthew 7:7, and mark the difference between the command then and now, that 'in my name' is added."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prayer in the name of Christ, and prayer to Christ, presuppose His glorification." 
 
 2. "Ask when I am gone, 'in My name.'" 
@@ -52,4 +52,4 @@ Prayer in the name of Jesus is not a mere formula, but a profound understanding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described portrays a scene where a singular voice is heard, coming from the four corners of the golden altar. This altar symbolizes the intercession of Christ, constantly appearing before God for the saints. The voice signifies the impending execution of God's wrath, indicating that there will be no further delay in its fulfillment. This event takes place under the sixth angel's sounding, representing the second woe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's revelation, though in its aspects fourfold, still has but one and the same voice."
 2. "The martyrs' cry for the avenging of their blood from the altar reaching its consummation under the sixth seal and sixth trumpet."
 3. "The saints' prayerful cry from the four quarters of the world, incensed by the angel, and ascending to God from the golden altar of incense, bringing down fiery judgments."
@@ -40,4 +40,4 @@ The verse being described portrays a scene where a singular voice is heard, comi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

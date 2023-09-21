@@ -9,7 +9,7 @@ By believing in Him, everyone is justified from all sins, surpassing the limitat
 2. "Christ shall do for you all that the law could not do: leaving it for inference, or for further teaching, that this was absolutely ALL: that the law could do nothing." 
 3. "δικαιοῦν ἀπὸ ἁμαρτίας was not in any sense, and could not be, the office of the law, by which came the knowledge of sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By him the believer is absolved from all charges of the law."
 2. "By Christ the believer is justified from all things, whereas the law justifies from nothing."
 3. "The deeper sense of justification, the positive side of it, is reserved for the Epistles, addressed to the justified themselves."
@@ -56,4 +56,4 @@ By believing in Him, everyone is justified from all sins, surpassing the limitat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

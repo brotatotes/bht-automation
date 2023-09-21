@@ -9,7 +9,7 @@ In this verse, we see the demonstration of God's pure mercy and sovereign will i
 2. "God's mercy is pure mercy without any desert on man's part."
 3. "His will being the only assignable cause of the selection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There can be no unrighteousness in God's choosing whom He will, for to Moses He expressly claims the right to do so."
 2. "Yet it is worthy of notice that this is expressed in the positive rather than the negative form: not, 'I will have mercy on none but whom I will'; but, 'I will have mercy on whomsoever I will.'"
 3. "God's mercy and compassion are not limited or restricted by human standards or expectations."
@@ -57,4 +57,4 @@ In this verse, we see the demonstration of God's pure mercy and sovereign will i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

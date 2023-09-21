@@ -11,7 +11,7 @@ In this verse, there is a warning to be vigilant and cautious, not to be led ast
 
 3. "The reward laid up for faithfulness, and for everything done in His name, must be understood, which is reckoned of grace, and not of debt." - The reward is not based on human merit or works, but on faithfulness and everything done in the name of Christ. It is a reward of grace, not something earned or owed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Look to yourselves — amidst the widespread prevalence of deception so many being led astray." 
 2. "Look that ye lose not the believing state of 'truth and love,' which WE (as God’s workmen) were the instruments of working in you." 
 3. "There are degrees of heavenly reward proportioned to the degrees of capability of receiving heavenly blessedness."
@@ -55,4 +55,4 @@ Overall, these quotes emphasize the need for self-reflection, the potential cons
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

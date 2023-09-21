@@ -4,7 +4,7 @@
 This verse describes how the writings of Paul in this Epistle align with his previous letters, ensuring consistency in his message. Paul refutes suspicions that he writes differently in private, emphasizing the importance of his public letters. The commentators highlight the sincerity and uprightness of Paul's character, appealing to the readers' recognition and understanding of his teachings. The depth of engagement with the text is emphasized, inviting readers to comprehend and apply its meaning. Despite challenges, Paul hopes to continue walking in a manner that aligns with the Gospel, proving his sincerity until the end.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We write none other things than what ye read (in my former Epistle)..." - This commentary suggests that Paul's writings in this Epistle are consistent with his previous letters, ensuring that there is no discrepancy in his message.
 2. "Paul had been suspected of writing privately to some individuals in the Church in a different strain from that of his public letters..." - The commentary highlights the suspicion that Paul may have been writing different messages privately, emphasizing the importance of his public letters as the true representation of his teachings.
 3. "None other things than what ye know by reading, or even know as a matter of fact..." - This quote emphasizes the idea that the readers should be able to recognize the consistency between Paul's previous and present Epistles, both in their written content and in Paul's actions.
@@ -47,4 +47,4 @@ This verse describes how the writings of Paul in this Epistle align with his pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, we see the Apostle Paul expressing his fear and concern about the
 
 3. "Made him fear lest even the ministration with which he was charged might not prove acceptable to them" - This quote reveals Paul's concern that his role as a minister might not be well-received by the Jews, indicating his desire for his message to be accepted and embraced by all.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That I may be delivered from them that do not believe... by believing it." 
 2. "He saw the storm that was gathering over him in Judea... the event too clearly showed the correctness of these apprehensions." 
 3. "And that my service which I have for Jerusalem... may be accepted of the saints."
@@ -57,4 +57,4 @@ In this verse, we see the Apostle Paul expressing his fear and concern about the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

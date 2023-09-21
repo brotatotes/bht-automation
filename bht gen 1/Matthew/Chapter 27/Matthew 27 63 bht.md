@@ -4,7 +4,7 @@
 In this passage, the commentators provide insights into the reactions and perceptions of different individuals towards Jesus. The Jewish leaders persistently referred to Jesus as a "deceiver" even after His death, viewing His execution as evidence against His claims. On the other hand, the disciples struggled to remember His teachings and comprehend His words, as evidenced by their confusion over His reference to the temple of His body. Despite the mockery and misconception surrounding Jesus, His triumph and victory were spoken of in triumphant language, bringing hope and light out of the darkness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Never, remarks BENGEL, will you find the heads of the people calling Jesus by His own name."
 2. "Important testimony this, from the lips of His bitterest enemies, to the reality of Christ's death; the corner-stone of the whole Christian religion."
 3. "I rise," in the present tense, thus reporting not only the fact that this prediction of His had reached their ears, but that they understood Him to look forward confidently to its occurring on the very day named."
@@ -48,4 +48,4 @@ In this passage, the commentators provide insights into the reactions and percep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

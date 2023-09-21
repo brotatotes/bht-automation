@@ -9,7 +9,7 @@ In this passage, a king named Herod appears before a crowd in Caesarea, dressed 
 2. "The circumstance related in our text...shews an accuracy of detail."
 3. "Having prefaced his quotation...he cites thus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod's oration to the Tyrians and Sidonians highlights his desire for political favor and support from neighboring regions." 
 
 2. "This verse emphasizes Herod's cunning and manipulation, as he strategically chooses a 'set day' to deliver his speech, likely to maximize his audience and make a lasting impression." 
@@ -55,4 +55,4 @@ In this passage, a king named Herod appears before a crowd in Caesarea, dressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

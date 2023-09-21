@@ -10,7 +10,7 @@ The commentary on this Bible verse highlights the importance of love and unity i
 2) "He that loveth his own wife, loveth himself...for no man ever hated his own flesh." 
 3) "Christ nourishes and cherishes the church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Husbands also ought to love their own wives as their own bodies." This emphasizes the importance of husbands loving their wives in the same way they love themselves, highlighting the unity and bond between them.
 2. "He that loveth his wife loveth himself." This statement reveals the interconnectedness of love between a husband and wife, suggesting that by loving his wife, a husband is ultimately loving himself.
 3. "There is the same love and the same union of body between Christ and the Church." This comparison between the love of a husband and wife and the love between Christ and the Church underscores the depth and significance of marital love, drawing a parallel to the divine love and unity.
@@ -62,4 +62,4 @@ The commentary on this Bible verse highlights the importance of love and unity i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

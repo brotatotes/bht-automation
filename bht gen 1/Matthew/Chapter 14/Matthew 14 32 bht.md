@@ -11,7 +11,7 @@ In this powerful verse, Jesus demonstrates His authority over the natural elemen
 
 3. "This verse serves as a reminder that Jesus is not only the Savior who rescues us from our sins, but also the One who guides and directs our lives. Just as He brought the disciples safely to their destination, He is able to lead us to the places and purposes He has for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse demonstrates the power and authority of Jesus over the natural elements. Just as he calmed the stormy sea, he can bring peace and stillness to the storms of our lives." 
 
 2. "The wind ceasing immediately upon Jesus entering the boat shows that his presence brings a sense of calm and tranquility. It reminds us that when we invite Jesus into our lives, he can bring an end to the chaos and turmoil we may be experiencing." 
@@ -47,4 +47,4 @@ In this powerful verse, Jesus demonstrates His authority over the natural elemen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

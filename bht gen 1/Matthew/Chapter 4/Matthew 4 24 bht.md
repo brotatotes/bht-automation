@@ -9,7 +9,7 @@ Jesus' ministry extended throughout the province of Syria, transcending the bord
 2. "The σεληνιαζόμενοι were probably epileptics: see an instance in ch. Mat 17:14." 
 3. "When the sign (║) occurs in a reference, it is signified that the word occurs in the parallel place in the other Gospels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And his fame went throughout all Syria—reaching first to the part of it adjacent to Galilee, called Syro-Phoelignicia (Mark 7:26), and thence extending far and wide." 
 2. "Those that were taken—for this is a distinct class, not an explanation of the 'unwell' class, as our translators understood it." 
 3. "These healings were at once His credentials and illustrations of 'the glad tidings' which He proclaimed."
@@ -45,4 +45,4 @@ Jesus' ministry extended throughout the province of Syria, transcending the bord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the apostle Paul seeks the peace that comes from being reconciled to God through the everlasting covenant and prays for believers to experience the resulting peace among themselves. The commentator emphasizes that God, as the God of peace, is the one who grants peace, happiness, and prosperity. Despite not having personally been to Rome, Paul had many friends there, highlighting the significance of Rome during that time. The verse also expresses the desire for believers to have peace in their consciences, unity, and harmony.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The peace here sought is to be taken in its widest sense: the peace of reconciliation to God, first, 'through the blood of the everlasting covenant'; then the peace which that reconciliation diffuses among all the partakers of it." 
 2. "How close the bond which the one spirit draws between ministers and people—how wide the separation produced by the other!" 
 3. "Though the debt we owe to those by whom we have been brought to Christ can never be discharged, we should feel it a privilege when we render them any lower benefit in return."
@@ -35,4 +35,4 @@ In this verse, the apostle Paul seeks the peace that comes from being reconciled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

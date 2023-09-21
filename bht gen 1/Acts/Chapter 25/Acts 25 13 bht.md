@@ -9,7 +9,7 @@ In this Bible verse, we encounter King Agrippa II, the son of the infamous Herod
 2. "Herod Agrippa II offended the Jews by constructing his palace in Jerusalem so that it overlooked the temple." 
 3. "Berenice, the daughter of Herod Agrippa I, had a complicated marital history, including marriages to her uncle and the king of Cilicia, and she was later the mistress of Vespasian and Titus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "King Agrippa—great-grandson of Herod the Great, and Drusilla's brother." 
 2. "On his father's awful death, being thought too young to succeed, Judea was attached to the province of Syria." 
 3. "She was married to her uncle Herod, king of Chalcis, on whose death she lived with her brother Agrippa—not without suspicion of incestuous intercourse, which her subsequent licentious life tended to confirm."
@@ -57,4 +57,4 @@ In this Bible verse, we encounter King Agrippa II, the son of the infamous Herod
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

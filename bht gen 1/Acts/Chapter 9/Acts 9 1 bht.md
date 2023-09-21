@@ -9,7 +9,7 @@ This remarkable Bible verse describes the profound transformation undergone by S
 2. "As σοὶ πιστεύσας, μεταναστάς, Œd. Col. 172, where Hermann remarks, 'Si recte observavi, ea est hujus constructionis ratio, ut præcedat illud participium, quod, separatim enunciata sententia, indicativus esse verbi debet: ut hoc loco sensus sit, ὅτι σοὶ ἐπίστευσα, μεταναστάς.'" 
 3. "τῷ ἀρχιερεῖ. See table in Prolegg, to Acts; it would be Theophilus, brother and successor to Jonathan, who succeeded Caiaphas, Jos. Antt. xviii. 5. 3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The emphatic 'yet' is intended to note the remarkable fact, that up to this moment his blind persecuting rage against the disciples of the Lord burned as fiercely as ever."
 2. "The word 'slaughter' here points to cruelties not yet recorded, but the particulars of which are supplied by himself nearly thirty years afterwards."
 3. "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities."
@@ -52,4 +52,4 @@ This remarkable Bible verse describes the profound transformation undergone by S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

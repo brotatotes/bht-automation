@@ -9,7 +9,7 @@ In this verse, the commentator's insights bring a deeper understanding of the me
 2. "It has been said, that it is only in Epistles addressed to the Asiatic churches, that such exhortations are found: but in this remark the entirely general character of the Epistle to the Ephesians is forgotten."
 3. "Besides, the exhortations of the Epistle to Titus cannot be so completely severed from these as to be set down in another category, as Eadie has endeavoured to do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give—Greek 'render': literally, 'afford.'"
 2. "Equal—that is, as the slaves owe their duties to you, so you equally owe to them your duties as masters."
 3. "Knowing— ( :-). Ye also—as well as they."
@@ -53,4 +53,4 @@ In this verse, the commentator's insights bring a deeper understanding of the me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

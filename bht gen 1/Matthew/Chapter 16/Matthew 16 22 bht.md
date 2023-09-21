@@ -9,7 +9,7 @@ In this Bible verse, we see Peter's swift transition from faith to weakness, as 
 2. "ἵλεώς σοι] Supply εἴη ὁ θεός. ἵλεως with a dative is practically equivalent to the Hebrew חָלִילָה לְּ, for which the LXX have sometimes used it."
 3. "I cannot think with Winer (§ 56. 3) that this means, ‘absit, ne accidat;’ it is an authoritative declaration, as it were, on Peter’s part, This shall not happen to Thee, implying that he knew better, and could ensure his Divine Master against such an event."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Presuming on the distinction just conferred on him; showing how unexpected and distasteful to them all was the announcement."
 2. "Affectionately, yet with a certain generous indignation, to chide Him."
 3. "The same spirit that prompted him in the garden to draw the sword in His behalf."
@@ -45,4 +45,4 @@ In this Bible verse, we see Peter's swift transition from faith to weakness, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

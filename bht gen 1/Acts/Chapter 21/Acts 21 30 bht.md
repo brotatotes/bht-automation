@@ -9,7 +9,7 @@ In this Bible verse, a commotion erupts in the temple as people become aware of 
 2. "The right of asylum was only for murder unawares."
 3. "By Act 21:14 there, and by Joab's fleeing to the altar, 1 Kings 2:28 ff., we see that it was resorted to on other occasions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The shutting of the doors of the temple symbolizes the separation between the sacred and the profane, highlighting the significance of the holy place and the need to protect it from the evil intentions of the mob."
 2. "By forcibly removing Paul from the temple, the mob sought to silence his message and prevent the spread of the Gospel, revealing their fear of the transformative power of the Word of God."
 3. "The attempt to murder Paul within the temple precincts underscores the lengths to which the enemies of the Gospel were willing to go in order to eliminate its influence and undermine the faith of believers."
@@ -55,4 +55,4 @@ In this Bible verse, a commotion erupts in the temple as people become aware of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

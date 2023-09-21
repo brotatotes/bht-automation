@@ -9,7 +9,7 @@ The commentary emphasizes the role of the preachers as humble servants, acknowle
 2. "We are your servants for Jesus' sake, on account of Him and His work." 
 3. "The contrast between Christ Jesus as Lord and ourselves as your servants."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their blindness is not our fault, as if we had self-seeking aims in our preaching."
 2. "Preach... Christ as Lord."
 3. "Lord, or Master, is the correlative term to servants."
@@ -54,4 +54,4 @@ These quotes highlight the apostles' humility and their focus on preaching the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

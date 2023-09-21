@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the meaning behind the phrases use
 2. "In those places they had not literally called Him Beelzebub, but He speaks of their mind and intention in those charges." 
 3. "They may however have literally done so on other unrecorded occasions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is enough for the disciple that he be as his master, and the servant as his lord." 
 2. "As all idolatry was regarded as devil worship, so there seems to have been something peculiarly satanic about the worship of this hateful god, which caused his name to be a synonym of Satan."
 3. "Three relations in which Christ stands to His people are here mentioned: He is their Teacher—they His disciples; He is their Lord—they His servants; He is the Master of the household—they its inmates."
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the meaning behind the phrases use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

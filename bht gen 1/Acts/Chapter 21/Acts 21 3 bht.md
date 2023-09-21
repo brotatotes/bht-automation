@@ -9,7 +9,7 @@ This passage describes a journey taken by the apostle Paul and his companions to
 2. "This city, so well known for its commercial importance and pride, and so often mentioned in the O. T. prophets, was now a free town of the province of Syria."
 3. "The pres. part. indicates the intention, as διαπερῶν before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When we discovered"—sighted, as the phrase is.
 2. "Sailed into"—unto Syria, and landed at Tyre—the celebrated seat of maritime commerce for East and West.
 3. "There the ship was to unlade her burden"—which gave the apostle time for what follows.
@@ -47,4 +47,4 @@ This passage describes a journey taken by the apostle Paul and his companions to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described speaks of the contrast between Adam and Christ a
 2. "The antithesis is merely between the bringing in of death by Adam, and of life (its opposite) by Christ."
 3. "No consequence, whether on the side of death or of life, is brought into consideration. That death physical involved death eternal that life eternal (in its only worthy sense) involves bliss eternal, is not so much as thought of, while the two great opposites, Death and Life, are under consideration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Adam all—in union of nature with Adam, as representative head of mankind in their fall." 
 2. "In Christ . . . all—in union of nature with Christ, the representative head of mankind in their recovery." 
 3. "The life brought in by Christ is co-extensive with the death brought in by Adam."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of the contrast between Adam and Christ a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

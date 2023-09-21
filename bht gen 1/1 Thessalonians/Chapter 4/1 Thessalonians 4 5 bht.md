@@ -9,7 +9,7 @@ This verse, rich with commentary, speaks of avoiding selfish desires and lustful
 2. "The association in the same category which the particle supposes."
 3. "The fact as logically interwoven with the course of the context."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ignorance of true religion is the parent of unchastity."
 2. "A people's morals are like the objects of their worship."
 3. "A people's morals are like the objects of their worship."
@@ -52,4 +52,4 @@ This verse, rich with commentary, speaks of avoiding selfish desires and lustful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

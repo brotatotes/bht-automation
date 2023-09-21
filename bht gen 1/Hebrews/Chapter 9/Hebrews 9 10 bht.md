@@ -9,7 +9,7 @@ The verse being described is about the limitations of the precepts and external 
 2. "They regarded material things, gifts, sacrifices, meats, drinks, washings, which from their very nature could only affect the outward, not the inward man."
 3. "When all these things would be better arranged, the substance put where the shadow was before, the sufficient grace where the insufficient type."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rites of meats, &c., go side by side with the sacrifices."
 2. "Usage subsequently to the law added many observances as to meats and drinks."
 3. "Carnal ordinances" stand in apposition to "sacrifices."
@@ -55,4 +55,4 @@ The verse being described is about the limitations of the precepts and external 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

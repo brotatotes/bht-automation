@@ -9,7 +9,7 @@ In this verse, the commentators warn of the danger of being led astray by false 
 2. "Take heed...lest you be led away together with the error of the lawless."
 3. "You fall from your own steadfastness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye—warned by the case of those 'unlearned and unstable' persons"
 2. "led away with—the very term, as Peter remembers, used by Paul of Barnabas' being 'carried,' Greek, 'led away with' Peter and the other Jews in their hypocrisy."
 3. "fall from—(grace, Galatians 5:4: the true source of) 'steadfastness' or stability in contrast with the 'unstable' (2 Peter 3:16): 'established' (2 Peter 1:12): all kindred Greek terms."
@@ -48,4 +48,4 @@ In this verse, the commentators warn of the danger of being led astray by false 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

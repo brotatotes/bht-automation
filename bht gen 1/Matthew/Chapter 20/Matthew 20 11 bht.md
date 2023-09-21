@@ -4,7 +4,7 @@
 In this verse, commentators describe a parable that highlights human tendencies of entitlement, ingratitude, and comparison. The murmuring laborers reveal ingratitude instead of appreciating the generosity of the householder. The parable reminds us that God's grace is freely given and should not be envied or resented. It challenges us to examine our hearts and attitudes, urging contentment and gratitude for the blessings we have received rather than comparing ourselves to others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The murmuring of the laborers against the householder reveals a sense of entitlement and ingratitude. It highlights the human tendency to compare and complain, rather than appreciating the generosity of the householder."
 2. "This verse reminds us that God's grace is not based on our merit or performance. It is a gift freely given, and we should not be envious or resentful when others receive the same grace."
 3. "The parable challenges us to examine our own hearts and attitudes. Are we content with the blessings we have received, or do we constantly compare ourselves to others? Are we grateful for God's goodness, or do we grumble when others seem to receive more?"
@@ -28,4 +28,4 @@ In this verse, commentators describe a parable that highlights human tendencies 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

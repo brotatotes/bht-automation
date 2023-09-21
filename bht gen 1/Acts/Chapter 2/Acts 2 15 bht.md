@@ -9,7 +9,7 @@ At the early hour of 9 in the morning, the disciples were gathered in prayer, a 
 2. "The ordinary intent of such a defense is the improbability of intoxication at that hour of the morning." 
 3. "This verse highlights the importance of prayer in the Jewish culture."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These are not drunken" - The commentary explains that the phrase refers to the body of disciples, not just the Eleven. This highlights the fact that the disciples were not acting in a drunken manner, but rather were experiencing something supernatural and extraordinary.
 
 2. "The third hour" - The commentary points out that this refers to 9 A.M. This detail helps to establish the specific time of the events described in the verse, adding a sense of historical context to the narrative.
@@ -55,4 +55,4 @@ At the early hour of 9 in the morning, the disciples were gathered in prayer, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

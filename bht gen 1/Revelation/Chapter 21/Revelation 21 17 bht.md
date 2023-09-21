@@ -4,7 +4,7 @@
 The Bible verse being described is a vision of the New Jerusalem, a city surrounded by a wall. Commentators highlight that the wall is considerably lower than the city itself, symbolizing the city's immense height and security. It is emphasized that the angel measures the city using a standard human measurement, emphasizing that the New Jerusalem is meant to be the dwelling place of people. The number 144, which is a multiple of 12, is seen as significant, representing completeness and perfection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wall is far beneath the height of the city."
 2. "The ordinary measure used by men is the measure here used by the angel."
 3. "Men shall then be equal to the angels."
@@ -38,4 +38,4 @@ The Bible verse being described is a vision of the New Jerusalem, a city surroun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

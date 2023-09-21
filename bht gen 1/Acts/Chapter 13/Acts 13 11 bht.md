@@ -9,7 +9,7 @@ In this verse, a man is struck with temporary blindness as a punishment and mean
 2. "In the same precise and gradual manner is the healing of the lame man, ch. Acts 3:8, described: ἔστη (first), κ. περιεπάτει. So here, first a dimness came on him, then total darkness."
 3. "We may conceive this to have been evinced by his gestures and manner under the infliction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hand of the Lord is upon thee, and thou shalt be blind for a season" - This judgment serves as a merciful means to lead him to repentance, highlighting the divine intention behind the temporary blindness. 
 
 2. "The tradition that it did is hardly to be depended on" - The commentary questions the reliability of the tradition that the blindness actually led to repentance, suggesting that it may not be a reliable account.
@@ -57,4 +57,4 @@ In this verse, a man is struck with temporary blindness as a punishment and mean
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

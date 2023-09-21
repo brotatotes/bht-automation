@@ -9,7 +9,7 @@ In this Bible verse, the writer fervently implores someone to come to their loca
 2. "Meyer remarks, perhaps the Corinthians had expressly desired that Apollos should be sent to them."
 3. "The present καιρός not seeming to him a suitable one: apparently on account of the divisions hinted at in the beginning of the Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apollos was not at Ephesus when Paul wrote... Probably Apollos' unwillingness to go to Corinth at this time was because, being aware of the undue admiration of his rhetorical style which led astray many at Corinth, he did not wish to sanction it."
 2. "Paul's noble freedom from all selfish jealousy led him to urge Apollos to go; and, on the other hand, Apollos, having heard of the abuse of his name at Corinth to party purposes, perseveringly refused to go."
 3. "Paul, of course, could not state in his letter particularly these reasons in the existing state of division prevalent there. He calls Apollos 'brother' to mark the unity that was between the two."
@@ -52,4 +52,4 @@ In this Bible verse, the writer fervently implores someone to come to their loca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

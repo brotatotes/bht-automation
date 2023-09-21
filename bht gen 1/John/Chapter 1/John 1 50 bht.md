@@ -4,7 +4,7 @@
 In response to the man's profound faith, Jesus expresses admiration and astonishment. He assures the man that he will witness even more remarkable things than what he has already seen. This promise implies that the man's journey with Jesus will lead to deeper insights into Jesus' identity, character, and divine attributes. It signifies the extraordinary growth of divine revelation that will be shared with all believers, and the ever-increasing blessings and judgment that await them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because I said, &c." - This phrase expresses admiration for the quick conviction of the people based solely on Jesus' words.
 
 2. "So quickly convinced, and on this evidence only?" - The commentary highlights the astonishment at how readily the people believed in Jesus' words without any additional proof.
@@ -44,4 +44,4 @@ These quotes highlight Jesus' response to the man's faith, expressing approval a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

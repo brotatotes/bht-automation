@@ -11,7 +11,7 @@ This verse portrays the powerful transformation brought about by the arrival of 
 
 These quotes highlight the importance of understanding the context and purpose of the song of praise in the verse, cautioning against misinterpretation and emphasizing its significance in expressing hope and gratitude for salvation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "St. Luke, of all the Evangelists, should have obtained and recorded these inspired utterances of Zacharias and Mary." 
 2. "This is in accordance with his character and habits, as indicated in Matthew 4:13-40.4.17." 
 3. "Luke's purpose in including these inspired utterances is to highlight the divine intervention and fulfillment of prophecy in the birth of Jesus."
@@ -52,4 +52,4 @@ These quotes highlight the importance of understanding the context and purpose o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

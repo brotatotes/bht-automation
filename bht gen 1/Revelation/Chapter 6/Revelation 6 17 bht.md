@@ -4,7 +4,7 @@
 The verse being described depicts the culmination of divine judgment and the outpouring of God's righteous anger. It is a response to the cries of the martyrs who have suffered for their faith, a vindication of their righteousness and a judgment upon their persecutors. The question "Who shall be able to stand?" emphasizes the overwhelming power and authority of God and the Lamb, highlighting the impossibility of anyone being able to withstand the divine judgment and escape the consequences of their actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After the Lord has exhausted all His ordinary judgments, the great day of the Lord itself shall come."
 2. "The sixth seal brings us to the verge of the Lord's coming."
 3. "Before He actually inflicts the blow in person, 'the elect' must be 'gathered' out."
@@ -34,4 +34,4 @@ These quotes provide insights into the significance of the great day of God's wr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

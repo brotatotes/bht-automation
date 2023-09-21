@@ -9,7 +9,7 @@ In this verse, we are reminded of the contradiction and moral incongruity that a
 2. "By this resuming and collocation of the two opposite acts, the inconsistency is further shewn."
 3. "These things, my brethren, ought not so to take place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tongue, says ÆSOP, is at once the best and the worst of things." 
 2. "Life and death are in the power of the tongue." 
 3. "An appeal to their consciences by their brotherhood in Christ."
@@ -47,4 +47,4 @@ In this verse, we are reminded of the contradiction and moral incongruity that a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

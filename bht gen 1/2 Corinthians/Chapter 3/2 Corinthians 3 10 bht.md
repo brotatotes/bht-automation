@@ -9,7 +9,7 @@ The glory of the old covenant and the ministry of Moses, though once magnificent
 2. "That which has been glorified has no glory in this particular department."
 3. "The glorified is unglorified in this case."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law, which has been glorified at Sinai in Moses' person, has now lost its glory in this respect by reason of the surpassing glory of the Gospel."
 2. "The light of the stars and moon fades in the presence of the sun."
 3. "The ministration of condemnation, the law, has been surpassed by the glory of the Gospel."
@@ -55,4 +55,4 @@ The glory of the old covenant and the ministry of Moses, though once magnificent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

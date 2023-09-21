@@ -9,7 +9,7 @@ In this verse, commentators reveal that there are two contrasting types of indiv
 2. "The latter does not abide in the house for ever: it is not his right nor his position." 
 3. "‘But the son abideth ever.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If your connection with the family of God be that of BOND-SERVANTS, ye have no natural tie to the house; your tie is essentially uncertain and precarious."
 2. "The SON'S relationship to the FATHER is a natural and essential one; it is an indefeasible tie; His abode in it is perpetual and of right."
 3. "If, then, ye would have your connection with God's family made real, rightful, permanent, ye must by the Son be manumitted and adopted as sons and daughters of the Lord Almighty."
@@ -55,4 +55,4 @@ In this verse, commentators reveal that there are two contrasting types of indiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators highlight the stark contrast between the former 
 2. "The God in whom you now believe is a living and speaking God...how should you know anything of such spiritual speech or gifts at all, who have been accustomed to dumb idols?"
 3. "These last words seem to me to imply the absence of all fixed principle in the oracles of Heathendom, such as he is about to announce as regulating and furnishing the criterion of the spiritual gifts of Christendom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye were blindly transported hither and thither at the will of your false guides."
 2. "Contrasted with the living God who 'speaks' in the believer by His Spirit."
 3. "The heathen oracles led their votaries at random, without any definite principle."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

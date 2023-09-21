@@ -9,7 +9,7 @@ The Bible verse being described here portrays the downfall of angels who had onc
 2. "The fact alluded to is probably that which is obscurely indicated in Genesis 6:2."
 3. "The ὑπό in both cases is to be accounted for by the darkness being considered as brooding over them, and they under it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their own principality" implies that the angels aspired higher than the dignity assigned to them under the Son of God. (Quote 1)
 2. The phrase "sons of God" in Genesis 6:2 refers to the Sethites, not angels. (Quote 2)
 3. The sin of the apostate angels, their ambition and falling away from God, is spiritually analogous to the sin of the Sodomites. (Quote 3)
@@ -52,4 +52,4 @@ The Bible verse being described here portrays the downfall of angels who had onc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a city known for its trade and purple dyes, the Son of God, with eyes like a flame, addresses a church influenced by idolatry and licentiousness. The rebuke from the Son of God carries authority, for his penetrating gaze sees the depths of every heart. With feet like burnished brass, symbolizing immense strength, he confronts the challenges facing the church and asserts his proper deity against false worship. The light of his Gospel doctrine breaks through the darkness of false teachings, inspiring awe and reverence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lydia, the purple-seller of this city, having been converted at Philippi, a Macedonian city, was probably the instrument of first carrying the Gospel to her native town."
 2. "The title 'Son of God' is from Psalms 2:7, which is referred to in Revelation 2:27."
 3. "The attribute, 'eyes like a flame,' answers to Revelation 2:27, 'I am He which searcheth the reins and hearts.'"
@@ -44,4 +44,4 @@ In a city known for its trade and purple dyes, the Son of God, with eyes like a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

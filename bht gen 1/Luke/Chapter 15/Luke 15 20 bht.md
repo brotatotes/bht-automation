@@ -9,7 +9,7 @@ In this Bible verse, a son resolves to return to his father and immediately acts
 2. "Who can say whether this itself was not a seeking? whether his courage would have held out to the meeting?"
 3. "On what follows, see especially Jeremiah 3:12; James 4:8; Genesis 46:29; 2 Samuel 14:33."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Father recognizes His own child in us, and bounds to meet us—not saying, Let him come to Me and sue for pardon first, but Himself taking the first step."
 2. "What! In all his filth? Yes. In all his rags? Yes. In all his haggard, shattered wretchedness? Yes. 'Our Father who art in heaven,' is this Thy portraiture? It is even so."
 3. "Because it is so, I wonder not that such incomparable teaching hath made the world new."
@@ -55,4 +55,4 @@ In this Bible verse, a son resolves to return to his father and immediately acts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

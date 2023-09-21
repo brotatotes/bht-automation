@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the futility and anxiety of worrying about material needs and the length of one's life. The mention of a cubit as a measurement in biblical times underscores the insignificance of human efforts in altering the course of life. Instead, the verse urges us to trust in God's providence and focus on seeking His guidance rather than being consumed by needless worry. The interpretation of "stature" as referring to age rather than physical height further emphasizes the importance of trusting in God's timing and care for our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Corroding solicitude will not bring you the least of the things ye fret about, though it may double the evil of wanting them."
 2. "If not the least, why vex yourselves about things of more consequence?"
 3. "Fretting and worrying will not change the outcome, but it can worsen the situation."
@@ -39,4 +39,4 @@ These quotes highlight the interpretation of the word "stature" in the verse as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

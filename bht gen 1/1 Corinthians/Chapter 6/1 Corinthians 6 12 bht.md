@@ -9,7 +9,7 @@ In this verse, the commentator quotes Paul stating, "All things are lawful for m
 2. "The μοι is spoken in the person of Christians generally."
 3. "I will not be deprived of my freedom by any practice; i.e. indulge in any practice which shall mar this liberty and render it no real freedom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things are in my power, but I will not be brought under the power of any of them." 
 2. "The 'power' ought to be in the hands of the believer, not in the things which he uses."
 3. "Unlawful things ruin thousands; 'lawful' things (unlawfully used), ten thousands."
@@ -61,4 +61,4 @@ In this verse, the commentator quotes Paul stating, "All things are lawful for m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

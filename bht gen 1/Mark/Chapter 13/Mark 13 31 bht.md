@@ -4,7 +4,7 @@
 In this passage, the words of Jesus are depicted as surpassing the transient nature of the world. His divine authority and eternal words contrast with the impermanence of heaven and earth. The verse conveys the certainty and irreversibility of Christ's predictions, particularly in relation to the calamities and destruction that were to befall the Jewish nation. Ultimately, this passage echoes the importance of being prepared for the final day of judgment and redemption as emphasized by Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Heaven and earth shall pass away; but my words shall not pass away." - This quote emphasizes the divine authority of Jesus and the eternal nature of His words, contrasting them with the temporary nature of the world.
 2. "His language rises and swells beyond all temporal and partial vengeance, beyond all earthly deliverances and enlargements, and ushers us resistlessly into the scenes of the final day." - This quote highlights how Jesus' words transcend earthly matters and point towards the ultimate day of judgment and redemption.
 3. "Preparation for 'THAT DAY' is what our Lord designs to inculcate." - This quote underscores the central message of the passage, which is the importance of being prepared for the final day of judgment and redemption.
@@ -20,4 +20,4 @@ In this passage, the words of Jesus are depicted as surpassing the transient nat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

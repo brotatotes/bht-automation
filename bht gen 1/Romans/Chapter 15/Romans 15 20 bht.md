@@ -9,7 +9,7 @@ The Bible verse being described is about an apostle's burning desire to spread t
 2. "The citation is from the LXX, περὶ αὐτοῦ referring to ὁ παῖς μου, Romans 15:13, but being unrepresented in the Heb."
 3. "Our E. V. renders: 'That which had not been told them, shall they see: and that which they had not heard, shall they consider.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Making it my study so to preach the Gospel, not where Christ was [already] named, that I might not build upon another man's foundation." 
 2. "To whom no tidings of Him came, they shall see." 
 3. "Paul's desire was to bring the message of Christ to those who had not yet heard, to reach the unreached and share the good news with those who had not yet received it."
@@ -53,4 +53,4 @@ The Bible verse being described is about an apostle's burning desire to spread t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

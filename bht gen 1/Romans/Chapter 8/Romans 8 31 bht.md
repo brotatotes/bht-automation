@@ -9,7 +9,7 @@ This passage is a powerful affirmation of the unwavering love and protection tha
 2. "If God is for us, who is against us?" 
 3. "God's love on behalf of the believer has been proved in having foreknown, predestinated, called, justified, glorified us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This whole passage...strikes all thoughtful interpreters and readers, as transcending almost every thing in language." 
 2. "If God be for us, who can be against us?" 
 3. "What strong consolation is here!"
@@ -50,4 +50,4 @@ This passage is a powerful affirmation of the unwavering love and protection tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

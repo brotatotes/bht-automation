@@ -8,7 +8,7 @@ In this Bible verse, there are two prophets named Judas and Silas. These prophet
 1. "The reason for their superadding to the appointed business of their mission the work of exhorting and edifying."
 2. "On προφ ., see ch. Acts 11:27 ; Acts 13:1 ; Ephesians 2:20 , and notes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judas and Silas, being prophets themselves—that is, inspired teachers."
 2. "exhorted the brethren with many words—"much discourse.""
 3. "and confirmed them—opening up, no doubt, the great principle involved in the controversy now settled, of gratuitous salvation, or the purification of the heart by faith alone."
@@ -47,4 +47,4 @@ In this Bible verse, there are two prophets named Judas and Silas. These prophet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

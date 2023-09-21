@@ -9,7 +9,7 @@ The women, filled with love and dedication for Jesus, set out for the sepulcher 
 2. "Even Greswell virtually acknowledges a difficulty here."
 3. "Its peculiarities are so great, that in many passages, while the sense remains for the most part unaltered, hardly three words together are the same as in the commonly received text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Very early in the morning" - This phrase emphasizes the urgency and eagerness of the women to visit the sepulchre. It shows their dedication and love for Jesus, as they were willing to go at the earliest possible time to honor Him.
 
 2. "At the rising of the sun" - Although not literally at the exact moment of sunrise, this phrase signifies the beginning of a new day and a new era. It symbolizes the hope and resurrection that Jesus brings, as the sun rises to dispel darkness and bring light.
@@ -49,4 +49,4 @@ The women, filled with love and dedication for Jesus, set out for the sepulcher 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

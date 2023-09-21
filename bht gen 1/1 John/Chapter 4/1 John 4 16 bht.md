@@ -9,7 +9,7 @@ In this verse, the commentators highlight the transformative power of faith and 
 2) "God is Love, and he that abideth in love abideth in God and God (abideth) in him."
 3) "And here, as there, ἀγάπη is in its widest abstract sense. Its two principal manifestations are, love to God, and love to one another: but this saying is of Love absolute."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True faith, according to John, is a faith of knowledge and experience: true knowledge is a knowledge of faith."
 2. "Faith is a faith of knowledge and experience."
 3. "True knowledge is a knowledge of faith."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the transformative power of faith and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

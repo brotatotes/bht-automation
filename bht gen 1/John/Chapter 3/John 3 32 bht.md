@@ -4,7 +4,7 @@
 The commentators collectively provide insights into a Bible verse without explicitly mentioning which verse it is. According to these commentaries, the verse in question speaks of the limited reception and understanding of Jesus' testimony. John the Baptist expresses disappointment that only a few people come to Jesus. The commentators highlight the challenge of spreading the message of faith and note that many may appear to follow Christ initially but do not possess genuine, lasting faith. They emphasize the necessity of true faith in receiving and understanding Jesus' testimony.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John's disciples had said, 'All come to Him'... The Baptist here virtually says, Would it were so, but alas! they are next to 'none'." 
 2. "They were far readier to receive himself, and obliged him to say, I am not the Christ, and he seems pained at this." 
 3. "The Baptist here virtually says, Would it were so, but alas! they are next to 'none'."
@@ -45,4 +45,4 @@ The commentators collectively provide insights into a Bible verse without explic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

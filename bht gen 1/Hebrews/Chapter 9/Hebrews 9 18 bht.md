@@ -9,7 +9,7 @@ This verse discusses the dedication and ratification of the first covenant, cont
 2. "ἐγκαινίζω is an Alexandrine verb: used in the LXX for to re-create or make anew: also for to put forth as new, to inaugurate."
 3. "Notice that the reference is, here, simply to the first encænia of the law when it was put forth as new: not to any subsequent renewal of sacrifices by death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Old Testament strictly and formally began on that day of inauguration."
 2. "Where the disposition, or arrangement, is ratified by the blood of another, namely, of animals, which cannot make a covenant, much less make a testament, it is not strictly a testament."
 3. "When regarded as the typical representative of the new, [the Old Testament] is strictly a Testament."
@@ -55,4 +55,4 @@ This verse discusses the dedication and ratification of the first covenant, cont
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

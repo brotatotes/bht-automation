@@ -9,7 +9,7 @@ In the city of Jerusalem, there was a man named Mnason, a longtime follower of J
 2. "Both renderings are legitimate: and it is difficult to choose between them."
 3. "ἀρχαίῳ probably implies that he had been a disciple ἐξ ἀρχῆς, and had accompanied our Lord during His ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One Mnason of Cyprus, an old disciple, c.—not an 'aged' disciple, but probably 'a disciple of old standing,' perhaps one of the three thousand converted on the day of Pentecost, or, more likely still, drawn to the Saviour Himself during His lifetime." 
 2. "The apostle was full of anxiety about this visit to Jerusalem, from the numerous prophetic intimations of danger awaiting him, and having reason to expect the presence at this feast of the very parties from whose virulent rage he had once and again narrowly escaped with his life." 
 3. "Hence we find him asking the Roman Christians to wrestle with him in prayer, 'for the Lord Jesus Christ's sake, and for the love of the Spirit, that he might be delivered from them that believed not in Judea,' as well as 'that his service which he had for Jerusalem (the great collection for the poor saints there) might be accepted of the saints'."
@@ -50,4 +50,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

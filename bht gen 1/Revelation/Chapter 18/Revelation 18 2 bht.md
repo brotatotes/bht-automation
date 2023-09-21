@@ -4,7 +4,7 @@
 Amidst the chaos of an inevitable and momentous downfall, Babylon is described as a place where great power and authority once resided. The repetition of the phrase "fallen, fallen" underscores the certainty and magnitude of its demise. The imagery of Babylon as a dwelling place for demons and a haven for all kinds of impurity captures the moral degradation and spiritual corruption that now pervade the city. As the grand city crumbles, one is left to ponder the consequences of aligning oneself with a fallen and corrupt power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with a mighty voice" - This variant reading emphasizes the power and strength of the fall, indicating a significant event.
 2. "is fallen, is fallen" - This repetition highlights the certainty and inevitability of Babylon's downfall, drawing parallels to similar prophecies in Isaiah and Jeremiah.
 3. "devils" - The Greek term "demons" suggests that the forces at work in Babylon's downfall are not merely human, but supernatural in nature.
@@ -54,4 +54,4 @@ Amidst the chaos of an inevitable and momentous downfall, Babylon is described a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

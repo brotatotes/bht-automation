@@ -9,7 +9,7 @@ This verse reveals that the person mentioned will undergo significant suffering 
 2. "The fulfilment is testified by Paul in Acts 20:23; Acts 20:25; Acts 21:11." 
 3. "Paul's testimony confirms the fulfilment of this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will show him...how great things he must suffer for my name" - This quote highlights the idea that suffering is a necessary part of following Jesus and proclaiming his name. It suggests that suffering is not to be avoided or seen as a burden, but rather embraced as an honor and privilege.
 
 2. "Much he has done against that Name; but now, when I show him what great things he must suffer for that Name" - This quote emphasizes the transformation that occurs when someone who has opposed the name of Jesus becomes willing to suffer for that same name. It implies that suffering can lead to a change of heart and a deepening of faith.
@@ -59,4 +59,4 @@ This verse reveals that the person mentioned will undergo significant suffering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

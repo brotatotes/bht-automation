@@ -11,7 +11,7 @@ The verse described emphasizes the voluntary nature of Jesus' sacrifice and the 
 
 3. "The ἐξουσία in both these cases being the ἐντολή, appointment, ordinance of the Father, from the counsel of whose will the whole mediatorial office of Christ sprung."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is impossible for language more plainly and emphatically to express the absolute voluntariness of Christ's death."
 2. "Here lay the glory of His sacrifice, that it was purely voluntary."
 3. "The claim of 'power to take it again' is no less important, as showing that His resurrection, though ascribed to the Father, in the sense we shall presently see, was nevertheless His own assertion of His own right to life as soon as the purposes of His voluntary death were accomplished."
@@ -63,4 +63,4 @@ Note: The commentary provides a deeper understanding of the verse by explaining 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this powerful verse, a woman who had been cured of a long-standing illness by
 2. "Her confession ἐνώπ. παν. τ. λ., is very striking here, as showing us that Christ will have Himself openly confessed, and not only secretly sought."
 3. "Our Christian life is not, as it is sometimes called, merely 'a thing between ourselves and God,' but a good confession, to be witnessed ἐνώπιον παν. τ. λ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This, though a great trial to the shrinking modesty of the believing woman, was just what Christ wanted in dragging her forth, her public testimony to the facts of her case."
 2. "Her public testimony to the facts of her case - both her disease, with her abortive efforts at a cure, and the instantaneous and perfect relief which her touch of the Great Healer had brought her."
 3. "The instantaneous and perfect relief which her touch of the Great Healer had brought her."
@@ -40,4 +40,4 @@ In this powerful verse, a woman who had been cured of a long-standing illness by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

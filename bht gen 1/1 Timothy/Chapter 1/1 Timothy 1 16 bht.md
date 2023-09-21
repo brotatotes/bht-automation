@@ -11,7 +11,7 @@ This verse showcases the purpose of God's mercy and long-suffering through the l
 
 3. "for an example of those who should believe on Him to life eternal" - This quote reveals that Paul's life serves as a sample or ensample for those who would believe in Christ and receive eternal life.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As I was 'foremost' in sin, so God has made me the 'foremost' sample of mercy."
 2. "A pattern to assure the greatest sinners of the certainty that they shall not be rejected in coming to Christ."
 3. "Belief rests ON Him as the only foundation on which faith relies."
@@ -55,4 +55,4 @@ This verse showcases the purpose of God's mercy and long-suffering through the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

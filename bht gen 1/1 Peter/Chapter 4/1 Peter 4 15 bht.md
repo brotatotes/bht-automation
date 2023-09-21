@@ -9,7 +9,7 @@ In this verse, the commentators highlight the importance of living a righteous l
 2. "The word probably alludes to the ἐπίσκοπος of the church, combining it with ἀλλοτριο -, to show the incongruity."
 3. "Some Christians, out of thoughtlessness, rashness, and levity, inquired too curiously into the actions of unbelievers, as their neighbors, and condemned them at their own discretion, wanting to be their judges, which did not pertain to their calling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reproached in the name of Christ" - This phrase highlights the potential consequences that Christians may face for their faith, including being reproached or criticized because of their association with Christ.
 2. "Christians, from mistaken zeal, under the plea of faithfulness, might readily step out of their own calling and make themselves judges of the acts of unbelievers." - This quote warns against the danger of Christians overstepping their boundaries and becoming judgmental towards non-believers, emphasizing the importance of focusing on one's own calling and not meddling in the affairs of others.
 3. "Literally, 'a bishop in what is (not his own, but) another's' province" - This phrase uses the metaphor of a bishop to illustrate the idea of someone taking on a role or responsibility that does not belong to them, further emphasizing the need for Christians to stay within their own sphere of influence and not interfere in the affairs of others.
@@ -59,4 +59,4 @@ These quotes shed light on the significance of the verse, emphasizing the import
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In a grand and opulent display, with great pomp and splendor, accompanied by mil
 2. "ἀκροατήριον after the Latin 'auditorium:' perhaps no fixed hall of audience, but the chamber or saloon set apart for this occasion."
 3. "In Antioch, the residence of the Præses of Syria, the new mother church of Jewish and Gentile Christians was flourishing; here, in Cæsarea, the residence of the procurator, the testimony which had begun in the house of Cornelius the centurion, had now risen upward, till it comes before this brilliant assembly of all the local authorities, in the presence of the last king of the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the same city in which their father, on account of his pride, had perished, eaten up by worms." This quote highlights the irony of Agrippa and Bernice's arrival in the city where their father had met a tragic end due to his pride.
 2. "This was the most dignified and influential audience Paul had yet addressed." This quote emphasizes the significance of the audience that Paul was about to speak to, indicating the importance of his message and the potential impact it could have.
 3. "The prediction (Acts 9:15) was fulfilled, though afterwards still more remarkably at Rome." This quote refers to the fulfillment of a prophecy and suggests that Paul's encounter with Agrippa and Bernice was part of a larger plan leading to his eventual journey to Rome.
@@ -50,4 +50,4 @@ In a grand and opulent display, with great pomp and splendor, accompanied by mil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

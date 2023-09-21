@@ -4,7 +4,7 @@
 The verse being described by the commentators stresses the selflessness of the speaker, who is willing to delay their entrance into blessedness for the sake of serving others. It emphasizes their commitment to remaining in the flesh, acknowledging its temporary nature and the importance of fulfilling their purpose in the material world. Despite a desire to be with Christ, the speaker recognizes the value of continuing to live for the benefit of others, believing that their presence and influence can bring about positive change in the church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To abide" means to continue somewhat longer. The commentator suggests that the speaker is willing to delay their entrance into blessedness for the sake of being of service to others.
 2. The phrase "for your sake" emphasizes the selflessness of the speaker, indicating that they are willing to sacrifice their own happiness for the benefit of others.
 3. The commentator reassures that even if the speaker delays their entrance into heaven, they will eventually attain it.
@@ -44,4 +44,4 @@ The verse being described by the commentators stresses the selflessness of the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

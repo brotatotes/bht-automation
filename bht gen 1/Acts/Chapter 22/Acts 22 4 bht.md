@@ -4,7 +4,7 @@
 This passage describes a dramatic transformation of a persecutor of Christians into a great champion of the faith. The term "this Way" refers to the early Christian movement, emphasizing that following Jesus was not just a set of beliefs, but a way of life. The admission of past wrongdoings highlights the humbling reminder that no one is beyond God's mercy and forgiveness. It also serves as a testimony of God's transformative work, encouraging us to confront our own shortcomings and seek God's forgiveness and transformation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'I persecuted, c.' refers to Paul's past as a persecutor of Christians, particularly evident in his role in the stoning of Stephen (Acts 7:58-8:1). This admission highlights the transformative power of God's grace, as Paul went from being a persecutor to becoming one of the greatest champions of the Christian faith." 
 
 2. "Paul's acknowledgment of his past actions serves as a reminder that no one is beyond the reach of God's mercy and forgiveness. It is a humbling reminder that even those who have committed great wrongs can be redeemed and used by God for His purposes."
@@ -51,4 +51,4 @@ This passage describes a dramatic transformation of a persecutor of Christians i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

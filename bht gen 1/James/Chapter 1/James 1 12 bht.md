@@ -9,7 +9,7 @@
 2. "The crown is life eternal: 'vitæ illius,' of that life of which we know, which is glorious and eternal." 
 3. "He promised to them that love Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not the 'falling into divers temptations' is the matter for 'joy,' but the enduring of temptation 'unto the end.'" 
 2. "When he has passed through the 'trying,' his 'faith' having finally gained the victory." 
 3. "The crown implies a kingdom, the highest and eternal life."
@@ -53,4 +53,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

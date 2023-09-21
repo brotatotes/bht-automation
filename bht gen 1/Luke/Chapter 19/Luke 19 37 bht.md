@@ -9,7 +9,7 @@ The verse being described is a scene of the multitude praising God with joy and 
 2. "The δύναμις, which dwelt mostly on their minds, was the raising of Lazaraus."
 3. "we must understand him to mean, all that they had seen during their journey with Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The language here is very grand, intended to express a burst of admiration far wider and deeper than ever had been witnessed before."
 
 2. "The whole multitude was filled with awe and wonder, unable to fully comprehend the magnitude of what they had just witnessed."
@@ -47,4 +47,4 @@ The verse being described is a scene of the multitude praising God with joy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

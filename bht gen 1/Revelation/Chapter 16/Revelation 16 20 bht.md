@@ -4,7 +4,7 @@
 In this gripping verse, the cataclysmic judgment of God unfolds as islands vanish and mountains are eradicated from existence. The severity of this event surpasses any previous mention, symbolizing the ultimate culmination of divine retribution. It signifies not only the dissolution of the world, but also the eradication of all antichristian powers, bringing low every high mountain and hill. With every island and mountain fleeing away, the face of the earth is forever transformed, yet this is merely a precursor to the impending end of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Plainly parallel to :-, and by anticipation descriptive of the last judgment."
 2. "The mountains—rather as Greek, 'there were found no mountains.'"
 
@@ -39,4 +39,4 @@ Note: The commentary provided is quite short, so I have included the two most re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

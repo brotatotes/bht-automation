@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the power, growth, and development of
 2. "The man then is just the farmer or husbandman, hardly admitting an interpretation, but necessary to the machinery of the parable."
 3. "If a meaning must be assigned, the best is 'human agency' in general."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So is the kingdom of God, as if a man should cast seed into the ground; and should sleep, and rise night and day—go about his other ordinary occupations, leaving it to the well-known laws of vegetation under the genial influences of heaven." 
 
 2. "This is the sense of 'the earth bringing forth fruit of herself,' in Mark 4:28."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the power, growth, and development of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

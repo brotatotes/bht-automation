@@ -9,7 +9,7 @@ In this verse, believers are reminded that they belong to Christ and are under H
 2. "The inference that we are His property applies to all aspects of our lives, including eating or abstaining, observing days or not observing them." 
 3. "No matter what we do or don't do, we belong to Christ and are under His authority."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For Christ is here—in the most emphatic terms, and yet in the most unimpassioned tone—held up as the supreme Object of the Christian's life, and of his death too."
 2. "Nor does Paul teach this here, but rather appeals to it as a known and recognized fact, of which he had only to remind his readers."
 3. "And since the apostle, when he wrote these words, had never been at Rome, he could only know that the Roman Christians would assent to this view of Christ, because it was the common teaching of all the accredited preachers of Christianity, and the common faith of all Christians."
@@ -47,4 +47,4 @@ In this verse, believers are reminded that they belong to Christ and are under H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus addresses a woman who had touched his garment to be healed.
 2. "as a solemn ratification of the healing" - Jesus' words serve as a formal confirmation of the miraculous healing that the woman had received, emphasizing the significance and authenticity of the event.
 3. "as it were surreptitiously obtained" - The commentary suggests that the woman's healing may have been perceived as somewhat secretive or unauthorized, making Jesus' words all the more important in validating her miraculous restoration.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Daughter—'be of good comfort' ( :-)."
 2. "Thy faith hath made thee whole; go in peace, and be whole of thy plague."
 3. "But what a glorious dismissal from the lips of Him who is 'our Peace' is that, 'Go in peace!'"
@@ -45,4 +45,4 @@ In this verse, Jesus addresses a woman who had touched his garment to be healed.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

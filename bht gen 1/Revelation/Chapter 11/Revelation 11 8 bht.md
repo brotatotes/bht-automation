@@ -4,7 +4,7 @@
 In this verse, the bodies of those who opposed God's message are left unburied, subjecting them to disgrace and contempt. The great city being referred to is Jerusalem, designated as spiritually akin to Sodom and Egypt, symbolizing its moral corruption. It is ironic that this is the same city where Jesus was crucified, highlighting the rejection of God's message. The city of Rome is also mentioned, symbolizing the extensive reach of the antichristian empire. The description includes both spiritual and historical elements, depicting the public silencing and degradation of those who oppose God's truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two fallen in one cause are considered as one."
 2. "It must, therefore, have an anticipatory reference to the mystical Babylon."
 3. "This identifies the city as Jerusalem, though the Lord was crucified outside of the city."
@@ -49,4 +49,4 @@ In this verse, the bodies of those who opposed God's message are left unburied, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

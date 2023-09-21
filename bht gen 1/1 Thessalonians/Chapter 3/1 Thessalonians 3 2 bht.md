@@ -9,7 +9,7 @@ This verse describes a faithful and diligent minister of God, commended for his 
 2. "There does not appear to be any special reason for this honorable mention of Timotheus...further than the disposition to speak thus highly of him on the part of the Apostle."
 3. "In order to confirm you, and exhort on behalf of your faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gospel ministers do the work of God with Him, for Him, and under Him."
 2. "He speaks thus highly of one so lately ordained, both to impress the Thessalonians with a high respect for the delegate sent to them, and to encourage Timothy."
 3. "The Greek for 'comfort' includes also the idea, 'exhort.' The Thessalonians in their trials needed both."
@@ -45,4 +45,4 @@ Note: The commentary provided is quite fragmented, making it difficult to extrac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

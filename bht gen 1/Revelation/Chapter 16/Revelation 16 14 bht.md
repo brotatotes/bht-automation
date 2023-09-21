@@ -4,7 +4,7 @@
 In this passage, a group of spirits of demons, influenced by their father the devil, are depicted as performing signs and lying wonders to deceive and lead astray. They are identified as followers of the antichrist, spreading false doctrines and gathering people for a great battle against God. These evil spirits hold the power to perform supernatural acts, acted upon by the devil himself, and seek to stir up chaos and destruction in the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, in permitting Satan's miracles, as in the case of the Egyptian magicians who were His instruments in hardening Pharaoh's heart, gives the reprobate up to judicial delusion preparatory to their destruction."
 2. "As Aaron's rod was changed into a serpent, so were those of the Egyptian magicians. Aaron turned the water into blood so did the magicians. Aaron brought up frogs; so did the magicians. With the frogs their power ceased."
 3. "So this, or whatever is antitypical to it, will be the last effort of the dragon, beast, and false prophet."
@@ -40,4 +40,4 @@ These quotes highlight the nature of the spirits of devils, their connection to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

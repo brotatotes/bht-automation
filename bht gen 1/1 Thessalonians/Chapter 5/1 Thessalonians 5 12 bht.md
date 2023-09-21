@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the significance of recognizing and re
 2. "ἐν κυρίῳ, as the element in which, the matter with regard to which, their presidency takes place: = 'in divine things.'"
 3. "οὐκ ἐν τοῖς κοσμικοῖς, ἀλλʼ ἐν τοῖς κατὰ κύριον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We beseech you," as if it were a personal favor, making the cause of the Thessalonian presbyters his own.
 2. Recognize their office, and treat them accordingly with reverence and liberality in supplying their needs.
 3. The ministers are laboring, overseeing, and admonishing the church, with gentle yet faithful admonition in divine matters.
@@ -57,4 +57,4 @@ These quotes emphasize the importance of recognizing and acknowledging those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described is a cautionary message to a church that is self-sufficient and spiritually blind. The commentators emphasize the danger of the church's lukewarm state, their misplaced pride in material wealth, and their ignorance of their true spiritual poverty. The verse highlights the need for humility, seeking counsel, and recognizing their need for true riches found in God. The message serves as a reminder that our own perception of our spiritual state may not align with God's view, urging self-reflection and a reevaluation of our priorities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Self-sufficiency is the fatal danger of a lukewarm state."
 2. "The riches on which they prided themselves were spiritual riches."
 3. "How different Christ's estimate of men, from their own estimate of themselves."
@@ -44,4 +44,4 @@ The Bible verse being described is a cautionary message to a church that is self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

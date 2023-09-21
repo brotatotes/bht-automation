@@ -9,7 +9,7 @@ After Moses' flight from Egypt, he found himself in a desert region near Sinai a
 2. "Jethro, Moses' father-in-law, comes to visit Moses from a distance." 
 3. "Moses had two sons."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses' flight from Egypt was not an act of cowardice, but a necessary step to preserve his life and fulfill his destiny as the deliverer of Israel."
 2. "Pharaoh's attempt to kill Moses highlights the intense opposition and resistance that often accompanies God's chosen instruments of deliverance."
 3. "Moses' escape from Egypt foreshadows the future deliverance of the Israelites from the oppressive hand of Pharaoh, as well as the ultimate deliverance of humanity from the power of sin and death through Jesus Christ."
@@ -35,4 +35,4 @@ After Moses' flight from Egypt, he found himself in a desert region near Sinai a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

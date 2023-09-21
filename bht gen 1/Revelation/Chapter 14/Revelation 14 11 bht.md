@@ -4,7 +4,7 @@
 The verse being described speaks of the eternal nature and unending torment that awaits those who reject God and choose to follow evil. It emphasizes that there will be no relief or escape from this punishment, highlighting the perpetual suffering and remorse experienced by the wicked. The smoke of their torment ascends forever, symbolizing the discomfort and distress that they endure. This verse serves as a warning against turning away from God and the severe consequences that await those who do.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ever and ever—Greek, 'unto ages of ages.'" - This quote highlights the eternal nature of the statement. It emphasizes that the duration of the events described in the verse will extend throughout all ages, emphasizing their significance and permanence.
 
 2. "No rest day nor night—Contrast the very different sense in which the same is said of the four living creatures in heaven, 'They rest not day and night, saying, Holy, holy, holy'; yet they do 'rest' in another sense." - This quote draws attention to the contrasting meanings of "rest" in different contexts. It suggests that while the four living creatures in heaven find rest in their worship and praise, those who are lost have no rest from sin and its consequences.
@@ -49,4 +49,4 @@ The verse being described speaks of the eternal nature and unending torment that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

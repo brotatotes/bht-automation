@@ -4,7 +4,7 @@
 In this verse, commentators shed light on the symbolic meaning behind the imagery used. The ships represent churches, highlighting the importance of faith communities in guiding believers. The sea symbolizes the journey of life, emphasizing the need for God's guidance and direction. The destruction depicted signifies the downfall and desolation of a powerful nation or empire, impacting all levels of society and causing great loss. Ultimately, this verse serves as a reminder of the spiritual well-being that comes from nurturing our souls and sharing the message of God's love and faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The symbolical interpreters take the ships here to be churches."
 2. "The first churches were in the shape of an inverted ship."
 3. "The Greek for destroyed is also used of heretical corruptings."
@@ -40,4 +40,4 @@ In this verse, commentators shed light on the symbolic meaning behind the imager
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

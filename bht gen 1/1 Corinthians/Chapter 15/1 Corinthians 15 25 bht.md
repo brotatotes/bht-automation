@@ -11,7 +11,7 @@ The Bible verse being described contains the message that Christ's mediatorial k
 
 3. "It is otherwise with ὑπέταξεν, 1 Corinthians 15:27; see there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Scripture foretells it" - This quote highlights the authority and reliability of the Bible in predicting future events, including the ultimate triumph of Christ over his enemies. 
 
 2. "There will be no further need of His mediatorial kingdom" - This quote suggests that the purpose of Christ's mediatorial kingdom will be fulfilled, indicating the completion of God's plan of salvation. 
@@ -56,4 +56,4 @@ The Bible verse being described contains the message that Christ's mediatorial k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

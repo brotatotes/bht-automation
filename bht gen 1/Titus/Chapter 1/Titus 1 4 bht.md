@@ -11,7 +11,7 @@ In this verse, there is a profound relationship between the author and Titus, de
 
 3. "grace and peace from God the Father and Christ Jesus our Savior" - This closing statement expresses the author's desire for God's grace and peace to be upon Titus, indicating a heartfelt prayer for his well-being and spiritual growth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Titus, mine own son—Greek, 'my genuine child'...converted by my instrumentality." 
 2. "after the common faith—a genuine son in respect to (in virtue of) the faith common to all the people of God, comprising in a common brotherhood Gentiles as well as Jews."
 3. "Grace, mercy, and peace—'mercy' is omitted in some of the oldest manuscripts. But one of the best and oldest manuscripts supports it."
@@ -59,4 +59,4 @@ In this verse, there is a profound relationship between the author and Titus, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

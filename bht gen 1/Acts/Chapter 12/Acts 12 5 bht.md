@@ -9,7 +9,7 @@ Through scenes of danger and persecution, the faithful believers demonstrated un
 2. "The use of this verse in the context of previous discussions highlights the importance of understanding the broader context in which it is situated."
 3. "The implications of this verse extend beyond the immediate context, inviting readers to consider the larger implications and applications of the message being conveyed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "prayer was made without ceasing—rather, 'instant,' 'earnest,' 'urgent' (Margin); as in Luke 22:44; Acts 26:7; 1 Peter 4:8 (see Greek)." 
 2. "of the church unto God for him—not in public assembly, for it was evidently not safe to meet thus; but in little groups in private houses, one of which was Mary's (Acts 12:12)." 
 3. "And this was kept up during all the days of unleavened bread."
@@ -55,4 +55,4 @@ Note: The commentary does not have a clear verse reference, so the quotes are nu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

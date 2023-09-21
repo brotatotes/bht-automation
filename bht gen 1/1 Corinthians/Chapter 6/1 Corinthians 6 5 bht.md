@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes reveal a sense of shame and irony to
 2. "Are you come to this, that you are obliged to have no wise man among you who shall be able to decide between his brother?"
 3. "It prevents the apparent inference, which might be made if τῶν ἀδελφῶν αὐτοῦ were used, that one wise man was to be appointed universal arbitrator, and confines the appointment of the arbitrator to each possibly arising case respectively."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To shame you out of your present unworthy course of litigation before the heathen, I have said, 'Set the least esteemed in the Church to judge.' Better even this, than your present course." 
 2. "Are you in such a helpless state that, c.?" 
 3. "Not a wise man, though ye admire 'wisdom' so much on other occasions."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes reveal a sense of shame and irony to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

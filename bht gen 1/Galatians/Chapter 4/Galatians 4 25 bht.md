@@ -9,7 +9,7 @@ The Bible verse being described is a biblical passage that draws parallels betwe
 2. "For Sina is a mountain in Arabia." 
 3. "Corresponds with the present Jerusalem, for she is in slavery with her children."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sinai, with its rugged rocks, far removed from the promised land, was well suited to represent the law which inspires with terror, and the spirit of bondage."
 2. "Jerusalem which now is, that is, the Jerusalem of the Jews, having only a present temporary existence, in contrast with the spiritual Jerusalem of the Gospel, which in germ, under the form of the promise, existed ages before, and shall be forever in ages to come."
 3. "As Hagar was in bondage to her mistress, so Jerusalem that now is, is in bondage to the law, and also to the Romans: her civil state thus being in accordance with her spiritual state."
@@ -50,4 +50,4 @@ The Bible verse being described is a biblical passage that draws parallels betwe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

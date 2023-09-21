@@ -9,7 +9,7 @@ Jesus, through the use of parables, delivered a multitude of teachings that were
 2. "The parable was spoken during a specific time of Jesus' teaching, emphasizing its relevance to the context and audience." 
 3. "By choosing this parable, Jesus intends to convey a profound message that resonates with the people and leaves a lasting impact."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Parables are like windows into the kingdom of God, allowing us to see and understand spiritual truths in a relatable and memorable way." 
 
 2. "The parable of the sower reminds us that the effectiveness of God's Word in our lives depends on the condition of our hearts. Are we receptive and open to receiving and applying His teachings?"
@@ -44,4 +44,4 @@ These quotes highlight the effectiveness and significance of Jesus' teachings, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

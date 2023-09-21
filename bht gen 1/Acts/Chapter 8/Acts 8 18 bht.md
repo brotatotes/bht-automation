@@ -9,7 +9,7 @@ In this verse, we see the story of Simon, who attempted to purchase the power of
 2. "He regarded the capability of imparting the Holy Spirit, rightly, as something conferred, as a derived power, but wrongly, as one to be obtained by an external method, without an inward disposition."
 3. "Clearly, from the narrative, Simon himself did not receive the Spirit by the laying on of hands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hence the term simony, to denote trafficking in sacred things."
 2. "The term simony chiefly refers to the purchase of ecclesiastical offices."
 3. "Simony is the act of offering money in exchange for sacred things."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

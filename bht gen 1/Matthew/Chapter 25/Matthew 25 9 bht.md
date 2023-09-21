@@ -4,7 +4,7 @@
 In this verse, two groups are engaged in a conversation about oil. The wise group, recognizing the limited supply, kindly refuses to share, prompting the foolish group to realize that there might not be enough for all. The commentators emphasize the need for personal responsibility and reliance on God's grace. They caution against seeking salvation from others or relying solely on our own virtues. Ultimately, the verse encourages us to approach God to obtain the grace and salvation freely offered to us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A truly wise answer this. 'And what, then, if we shall share it with you? Why, both will be undone.'" 
 2. "It is merely a friendly way of reminding them of the proper way of obtaining the needed and precious article, with a certain reflection on them for having it now to seek." 
 3. "Now, since what we pay the demanded price for becomes thereby our own property, the salvation which we thus take gratuitously at God's hands, being bought in His own sense of that word, becomes ours thereby in inalienable possession."
@@ -43,4 +43,4 @@ In this verse, two groups are engaged in a conversation about oil. The wise grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

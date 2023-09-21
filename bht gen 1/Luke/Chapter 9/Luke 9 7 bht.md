@@ -11,7 +11,7 @@ The verse being described is Matthew 14:1-2, which discusses the fame and recogn
 
 3. "ὑπʼ αὐτοῦ, of the re, though a gloss, points to the right account of the matter." This quote acknowledges that the mention of "ὑπʼ αὐτοῦ" in the text, although a gloss or explanatory note, correctly indicates the authority and power behind the miracles performed by the disciples.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "perplexed—at a loss, embarrassed." This quote highlights the emotional state of those who were discussing the resurrection of John the Baptist. It shows that they were confused and unsure about what had happened.
 
 2. "said of some, that John was risen." This quote reveals one of the opinions circulating about the fate of John the Baptist. It shows that some people believed he had been resurrected, which adds to the mystery and intrigue surrounding his death.
@@ -44,4 +44,4 @@ The verse being described is Matthew 14:1-2, which discusses the fame and recogn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ We have a great High Priest, surpassing all others, for He is Jesus, the Son of 
 2. "In this fact, His greatness is substantiated."
 3. "Let us hold fast the confession of our Christian faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, as our Forerunner, already spiritually, and hereafter in actual presence, body, soul, and spirit, brings His people into the heavenly rest."
 2. "Let us take hold of our profession, that is, of the faith and hope which are subjects of our profession and confession."
 3. "The accustative follows when the sense is 'hold fast'."
@@ -55,4 +55,4 @@ We have a great High Priest, surpassing all others, for He is Jesus, the Son of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

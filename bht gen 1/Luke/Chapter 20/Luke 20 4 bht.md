@@ -4,7 +4,7 @@
 The baptism described here is a significant and symbolic act, confirming the message and mission of John. It is a powerful symbol of repentance, preparing people for the coming of the Messiah. Through this baptism, John called for a radical change of heart and a commitment to live according to God's will. This act of baptism holds deep authority, either from heaven or of men, and is connected to the divine authority seen in Jesus' ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The baptism of John was not merely a ritual act, but a symbol of his entire ministry and mission. It served as a seal, confirming the message he preached and the work he was called to do."
 
 2. "John's baptism was a powerful symbol of repentance and preparation for the coming of the Messiah. It was a visible sign of turning away from sin and turning towards God, a tangible expression of the inner transformation that was needed in order to receive the grace and forgiveness offered through Jesus."
@@ -20,4 +20,4 @@ The baptism described here is a significant and symbolic act, confirming the mes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

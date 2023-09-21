@@ -4,7 +4,7 @@
 In this verse, we are reminded not to be quick to judge or condemn others for their imperfections. Instead, we should first examine our own lives and address our own shortcomings. The metaphor of a mote in our brother's eye represents the small faults or shortcomings that we tend to focus on and criticize in others, while the beam in our own eye symbolizes the larger faults or sins that we often overlook in ourselves. This verse challenges us to practice self-reflection, humility, and grace when approaching others, rather than adopting a critical and judgmental attitude.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mote in our brother's eye represents the small faults or shortcomings that we tend to focus on and criticize in others. It is a reminder that we should not be quick to judge or condemn others for their imperfections."
 
 2. "The beam in our own eye symbolizes the larger faults or sins that we often overlook in ourselves. It serves as a cautionary reminder to examine our own lives and address our own shortcomings before pointing out the faults of others."
@@ -47,4 +47,4 @@ In this verse, we are reminded not to be quick to judge or condemn others for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

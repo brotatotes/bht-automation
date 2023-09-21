@@ -9,7 +9,7 @@ The commandment emphasized here is the call to love one another. It is referred 
 2. "The same kind of love was prescribed in the O.T.: ‘as thyself’ is the highest measure of love."
 3. "The new commandment differs from the old, not in degree or extent, but in being the commandment of the new covenant, the first-fruit of the Spirit in the new dispensation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another—This was the new feature of it." 
 2. "Christ's love to His people in giving His life a ransom for them was altogether new, and consequently as a Model and Standard for theirs to one another."
 3. "It is not, however, something transcending the great moral law, which is 'the old commandment,' but that law in a new and peculiar form."
@@ -55,4 +55,4 @@ These quotes emphasize the uniqueness and significance of the commandment to lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

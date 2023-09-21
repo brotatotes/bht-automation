@@ -9,7 +9,7 @@ In this verse, commentators emphasize the futility of human efforts in controlli
 2. "The application of measures of space to time is not uncommon."
 3. "The words do not relate to the stature, but to the time of life of each hearer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Which of you, by taking thought, can add one cubit unto his stature?" - The commentary suggests that "stature" in this verse does not refer to physical height, but rather to the length of one's life. 
 
 2. "To compare the length of life to measures of this nature is not foreign to the language of Scripture." - The commentary points out that the Bible often uses figurative language to describe the length of one's life, such as in Psalms 39:5 and 2 Timothy 4:7.
@@ -50,4 +50,4 @@ In this verse, commentators emphasize the futility of human efforts in controlli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

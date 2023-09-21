@@ -4,7 +4,7 @@
 In this Bible verse, a Roman chief captain or centurion, known for his authority and influence in the military, plays a significant role. His presence highlights the power of the Roman Empire and his own humility and faith in Jesus. The verse also emphasizes the providence of God amidst the chaos of human affairs. Additionally, the verse describes the equitable actions of the chief captain, in contrast to the unjust treatment Paul received from the Jews. Overall, this passage showcases the interplay of human authority, divine intervention, and the transformative power of faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief captain, or tribune of the Roman cohort, held a position of authority and power in the Roman military hierarchy."
 2. "The Roman cohort consisted of one thousand men, making the chief captain a significant figure in the military structure."
 3. "This mention of the chief captain highlights the presence and influence of the Roman Empire in the biblical narrative."
@@ -42,4 +42,4 @@ In this Bible verse, a Roman chief captain or centurion, known for his authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

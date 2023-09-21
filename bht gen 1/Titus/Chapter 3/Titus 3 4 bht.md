@@ -9,7 +9,7 @@ In this verse, the commentators reveal the profound nature of God's love and the
 2. "The font is the 'laver of regeneration,' because it is the vessel consecrated to the use of that Sacrament whereby, in its completeness as a Sacrament, the new life unto God is conveyed."
 3. "Baptism is taken as in all its completion, the outward visible sign accompanied by the inward spiritual grace; and as thus complete, it not only represents, but is, the new birth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To show how little reason the Cretan Christians had to be proud of themselves, and despise others not Christians."
 2. "It is to the 'kindness and love of God,' not to their own merits, that they owe salvation."
 3. "Teaching us to have such 'love (benevolence) toward man,' 'showing all meekness unto all men,' even as God had 'toward man'; opposed to the 'hateful and hating' characteristics of unrenewed men, whose wretchedness moved God's benevolent kindness."
@@ -55,4 +55,4 @@ In this verse, the commentators reveal the profound nature of God's love and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the fulness of time, Jesus came unto his own country, city, and temple, expec
 2. "But abundance of passages bear out the meaning which makes τὰ ἴδια His own inheritance or possession, i.e. Judæa; and οἱ ἴδιοι, the Jews."
 3. "And thus ἦλθεν forms a nearer step in the approach to the declaration in John 1:14. He came to His own."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His own" refers to Jesus' possessions, including his land, city, temple, and Messianic rights.
 2. "His own" also refers to the Jews, who were considered God's chosen people.
 3. The Jews, as God's chosen witnesses, did not receive Jesus on a national level.
@@ -52,4 +52,4 @@ In the fulness of time, Jesus came unto his own country, city, and temple, expec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

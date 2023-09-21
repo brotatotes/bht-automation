@@ -11,7 +11,7 @@ In this Bible verse, we see the manifestation of divine providence as Paul, with
 
 3. "The centurion, as a servant of divine providence, showed favor to Paul by pardoning the captives. This act of mercy was a testament to Paul's credibility and the importance of his words." - Bengel.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was wrestling in prayer, not for himself only and the cause in which he was going a prisoner to Rome, but with true magnanimity of soul for all his shipmates; and God heard him, 'giving him' all that sailed with him."
 2. "What a contrast to this is the speech of Cæsar in similar circumstances to his pilot, bidding him keep up his spirit because he carried Cæsar and Cæsar's fortune!"
 3. "From the explicit particulars—that the ship would be lost, but not one that sailed in it, and that they 'must be cast on a certain island'—one would conclude a visional representation of a total wreck, a mass of human beings struggling with the angry elements, and one and all of those whose figures and countenances had daily met his eye on deck, standing on some unknown island shore."
@@ -52,4 +52,4 @@ In this Bible verse, we see the manifestation of divine providence as Paul, with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

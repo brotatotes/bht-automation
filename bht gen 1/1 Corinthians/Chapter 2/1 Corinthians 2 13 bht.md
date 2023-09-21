@@ -9,7 +9,7 @@ This passage describes the powerful and divine nature of the words spoken and wr
 2. "Interpreting spiritual things to the spiritual." 
 3. "Exponentes ea quæ Prophetæ Spiritu Dei acti dixere, per ea quæ Christus suo Spiritu nobis aperuit." (Translation: "Expounding the things which the Prophets, moved by the Spirit of God, have spoken, by the things which Christ, moved by His own Spirit, has revealed to us.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We not only know by the Holy Ghost, but we also speak the 'things freely given to us of God'." 
 2. "Comparing spiritual things with spiritual." 
 3. "Spirit-taught men alone can comprehend spiritual truths."
@@ -57,4 +57,4 @@ This passage describes the powerful and divine nature of the words spoken and wr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

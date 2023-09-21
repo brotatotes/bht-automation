@@ -11,7 +11,7 @@ The Bible verse being described is a powerful reminder of believers' identity as
 
 3. "ὁ πατήρ is not a mere Greek explanation of Ἀββᾶ, but an address by His name of relation, of Him to whom the term Ἀββᾶ was used more as a token of affection than as conveying its real meaning of 'my father.'" - This clarifies that "Abba Father" is not just a linguistic explanation, but a heartfelt address to God as a loving and intimate Father.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gift of the Spirit of prayer is the consequence of our adoption."
 2. "The Spirit of God's only Begotten Son in your hearts, sent from, and leading you to cry to, the Father, attests your sonship by adoption."
 3. "The believers' prayer is His prayer: hence arises its acceptability with God."
@@ -59,4 +59,4 @@ These quotes emphasize the role of the Holy Spirit in confirming our adoption as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

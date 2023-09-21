@@ -4,7 +4,7 @@
 In a moment of fear and desperation, Peter's denial of Jesus reaches a heartbreaking depth. He goes as far as wishing curses upon himself, disowning the very person he once professed to love. The intensity of his words reflects his attempt to distance himself from Jesus, betraying their close friendship. This cautionary tale reminds us of the frailty of human nature and the need to remain steadfast in our faith, even in the face of adversity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The depth of Peter's denial is revealed in his willingness to wish a curse upon himself if he was lying about knowing Jesus. This shows the extent to which fear and self-preservation had gripped him in that moment." 
 
 2. "By taking a solemn oath, Peter was attempting to convince those around him that he had no association with Jesus. This desperate act further emphasizes his denial and betrayal of his close friend and teacher." 
@@ -34,4 +34,4 @@ In a moment of fear and desperation, Peter's denial of Jesus reaches a heartbrea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

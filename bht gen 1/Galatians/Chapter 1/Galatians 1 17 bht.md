@@ -9,7 +9,7 @@ In this verse, the author, without explicitly mentioning the verse, describes Pa
 2. "Its object does not seem to have been the preaching of the gospel, but preparation for the apostolic work."
 3. "Here we must apparently take it in the wider sense, and understand that part of the Arabian desert which nearly bordered on Damascus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is curiously confirmatory of the legitimacy of taking 'many days' to stand for 'three years,' that the same phrase exactly occurs in the same sense in 1 Kings 2:38; 1 Kings 2:39."
 2. "This was a country of the Gentiles; here doubtless he preached as he did before and after at Damascus: thus he shows the independence of his apostolic commission."
 3. "His familiarity with the scene of the giving of the law, and the meditations and revelations which he had there, appear in Galatians 4:24; Galatians 4:25; Hebrews 12:18."
@@ -55,4 +55,4 @@ In this verse, the author, without explicitly mentioning the verse, describes Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

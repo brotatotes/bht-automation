@@ -4,7 +4,7 @@
 In this Bible verse, the author, possibly Paul, mentions their intention to remain at Ephesus until Pentecost. The commentators highlight the significance of Ephesus as the origin of this letter and the mention of Pentecost as a specific timeframe for the author's plans. They speculate that the decision to stay in Ephesus until Pentecost may have been influenced by the abundance of people gathered there during that festival, providing an opportunity for the author to preach the Gospel. The allusion to Pentecost also helps date the Epistle and emphasizes the author's purpose in staying at Ephesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "at Ephesus—whence Paul writes this Epistle."
 2. "He seems to have stayed as he here purposes: for just when the tumult which drove him away broke out, he was already intending to leave Ephesus."
 3. "Combined with 1 Corinthians 5:7; 1 Corinthians 5:8, this verse fixes the date of this Epistle to a few weeks before Pentecost, and very soon after the Passover."
@@ -49,4 +49,4 @@ In this Bible verse, the author, possibly Paul, mentions their intention to rema
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

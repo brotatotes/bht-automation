@@ -11,7 +11,7 @@ This verse speaks of the unconditional love and relentless pursuit of God for th
 
 3. "This verse reminds us that no one is beyond the reach of God's grace and mercy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What encouragement is there in this narrative to hope for unexpected conversions?"
 2. "This parable was spoken to the promiscuous crowd; that, to the Twelve alone."
 3. "Plainly, therefore, the intended lesson is different; the one illustrating equal fidelity with different degrees of advantage; the other, different degrees of improvement of the same opportunities; yet with all this difference, the parables are remarkably similar."
@@ -51,4 +51,4 @@ These quotes highlight the significance of Jesus as the Son of Man, his mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

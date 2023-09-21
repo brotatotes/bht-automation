@@ -9,7 +9,7 @@ In a moment of extraordinary solemnity, someone opens their mouth to address a s
 2. "For the first time I now clearly, in its fulness and at a living fact, apprehend the truth of what I read in the Scripture."
 3. "Grasp by experience the truth of what I read in the Scripture."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have it now demonstrated before mine eyes."
 2. "I see there is no capricious favoritism with God."
 3. "I see that God has respect only to personal character and state in the acceptance of men, national and ecclesiastical distinctions being of no account."
@@ -53,4 +53,4 @@ In a moment of extraordinary solemnity, someone opens their mouth to address a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

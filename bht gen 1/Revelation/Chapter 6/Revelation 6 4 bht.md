@@ -4,7 +4,7 @@
 In this verse, we see a vivid portrayal of bloodshed and conflict. The color of the horse, red, signifies carnage and discord, symbolizing the suffering state of the church. It represents the taking away of peace from the Roman empire, leading to civil discord and mutual slaughter. Ultimately, this period of war and bloodshed clears the way for the coming of Christ's kingdom, as the saints endure amidst the judgments of the earth. The verse reminds us of the consequences of war and the endurance required in turbulent times.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The color of the horse in each case answers to the mission of the rider."
 2. "The white horse of Christ's bloodless victories is soon followed, through man's perversion of the Gospel, by the red horse of bloodshed."
 3. "The red horse of bloodshed is overruled to the clearing away of the obstacles to Christ's coming kingdom."
@@ -39,4 +39,4 @@ In this verse, we see a vivid portrayal of bloodshed and conflict. The color of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

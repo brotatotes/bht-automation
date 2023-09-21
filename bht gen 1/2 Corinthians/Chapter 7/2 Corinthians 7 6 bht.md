@@ -11,7 +11,7 @@ The verse being described is a reflection on the role of God in comforting the l
 
 3. "ἐν, not 'by,' but in, as the conditional element or vehicle of the consolation. So also [twice] in the next verse." This quote explains the significance of the preposition "ἐν" as denoting the condition or means through which consolation is received, emphasizing the contextual interpretation of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that comforteth those that are cast down, even God." - This quote highlights the role of God as the ultimate source of comfort for those who are feeling down or discouraged. It emphasizes that God is the one who provides solace and support in times of distress.
 
 2. "Those that are of a high spirit are not susceptible of such comfort." - This quote suggests that individuals who have a proud or arrogant disposition may not be open to receiving comfort from God or others. It implies that humility and a willingness to acknowledge one's need for comfort are important in seeking solace from God.
@@ -49,4 +49,4 @@ Note: The commentary provided is incomplete and does not reference a specific Bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

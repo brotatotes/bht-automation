@@ -9,7 +9,7 @@ In this verse, we see the joyful contrast presented abruptly without any connect
 2. "They only were under the curse of Galatians 3:10, and they being by Christ redeemed from that curse, the blessing of Abraham (justification by faith), which was always destined by God to flow through the Jews to the Gentiles, was set at liberty thus to flow out to the Gentiles."
 3. "The form of the idea is, the Law (personified) held us (Jews) under its curse; (out of this) Christ bought us, BECOMING (emphatic, standing first) a curse (not ἐπικατάρατος, concrete, but κατάρα, abstract, to express that he became not only accursed, but the curse, coextensive with the disability which affected us) for us (the JEWS again. Not, as many older Commentators, and Rück., Olsh., Peile, &c., ‘instead of us,’ but ‘on our behalf.’ It was in our stead; but that circumstance is not expressed by ὑπέρ used of Christ’s death for us see reff. and Ellic.’s note; and Usteri, Paulin. Lehrbegriff, p. 115 ff.)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ," who "has redeemed us from its curse."
 2. "The curse of its non-fulfilment affects the Gentiles through the Jews."
 3. "The curse had to be removed from off the heathen, too, as well as the Jews, in order that the blessing, through Abraham, might flow to them."
@@ -53,4 +53,4 @@ In this verse, we see the joyful contrast presented abruptly without any connect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a commentator points out the humility of Peter, who acknowl
 2. "I am no rich man, nor have I silver or gold to give thee." - Commentary. (Peter acknowledging his own lack of material wealth)
 3. "The name of Jesus is that in which, by the power of which, the 'rise up and walk' is to be accomplished." - Commentary. (Highlighting the significance and power of the name of Jesus)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Silver and gold have I none, but such as I have give I thee—What a lofty superiority breathes in these words!"
 2. "In the name of Jesus Christ of Nazareth rise up and walk—These words, uttered with supernatural power, doubtless begat in this poor man the faith that sent healing virtue through his diseased members."
 
@@ -56,4 +56,4 @@ In this Bible verse, a commentator points out the humility of Peter, who acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

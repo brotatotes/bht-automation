@@ -9,7 +9,7 @@ In this passage, the commentators reveal that the verse addresses the danger of 
 2. "The present, ἐὰν περιτέμνησθε, implies the continuance of a habit, q. d. if you will go on being circumcised."
 3. "Nothing can be more directly opposed than this verse to the saying of the Judaizers, Acts 15:1."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I Paul—Though you now think less of my authority, I nevertheless give my name and personal authority as enough by itself to refute all opposition of adversaries."
 2. "Circumcision here is not regarded simply by itself, but as the symbol of Judaism and legalism in general. If this be necessary, then the Gospel of grace is at an end."
 3. "For righteousness of works and justification by faith cannot co-exist. 'He who is circumcised [for justification] is so as fearing the law, and he who fears, disbelieves the power of grace, and he who disbelieves can profit nothing by that grace which he disbelieves.'"
@@ -55,4 +55,4 @@ These quotes highlight the central message of the commentary, emphasizing that r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

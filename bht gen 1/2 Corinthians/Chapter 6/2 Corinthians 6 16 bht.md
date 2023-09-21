@@ -9,7 +9,7 @@ The Bible verse being described is a passage about the temple of God and the nee
 2. "Between you, the Church of God." 
 3. "Idols, as the lords and ἐπώνυμοι of the heathen world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Agreement—accordance of sentiments."
 2. "The temple of God—that is, you believers."
 3. "God's dwelling in the body and soul of saints may be illustrated by its opposite, demoniacal possession of body and soul."
@@ -53,4 +53,4 @@ The Bible verse being described is a passage about the temple of God and the nee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, it is revealed that one of the prominent apostles, Peter, c
 
 3. "Peter was married, see Matthew 8:14. A beautiful tradition exists of his encouraging his wife who was led to death, by saying μέμνησο, ὦ αὕτη, τοῦ κυρίου." - Clem [39] Alex. Strom. vii. § 11 (63), p. 868 P. Euseb. H. E. iii. 30. Clem [40] Alex. Strom, iii. § 6 (52), p. 535 P.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul implies he did not exercise his undoubted right to marry and 'lead about' a believer, for the sake of Christian expediency, as well to save the Church the expense of maintaining her in his wide circuits, as also that he might give himself more undistractedly to building up the Church of Christ."
 2. "Contrast the Corinthians' want of self-sacrifice in the exercise of their 'liberty' at the cost of destroying, instead of edifying, the Church."
 3. "A confutation of Peter's self-styled followers, the Romanists, who exclude the clergy from marriage."
@@ -61,4 +61,4 @@ Note: The commentary is about 1 Corinthians 9:5.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

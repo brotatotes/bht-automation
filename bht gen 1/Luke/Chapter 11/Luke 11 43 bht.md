@@ -11,7 +11,7 @@ This verse depicts the condemnation of the Pharisees' desire for recognition and
 
 3. "Jesus, in his teachings, exposed the hypocrisy of the scribes and Pharisees, warning his disciples not to follow their example but to humbly serve others instead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The desire for recognition and honor is a common human trait, but Jesus reminds us that true greatness is found in humility and service." 
 2. "Jesus challenges the cultural norms of his time by teaching that the greatest should be the servant of all." 
 3. "In a world that values status and power, Jesus calls us to value humility and love for others above all else."
@@ -41,4 +41,4 @@ These quotes collectively emphasize the Pharisees' love for status, recognition,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

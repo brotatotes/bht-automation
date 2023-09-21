@@ -9,7 +9,7 @@ The commentators provide insight into a Bible verse about repentance and the fru
 2. "The call to bear fruits worthy of repentance is a reminder that true repentance involves a change of heart and a transformation of one's actions." 
 3. "Repentance is not merely a verbal confession or a momentary feeling of remorse, but a genuine turning away from sin and a commitment to live in accordance with God's will."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bring forth therefore fruits—the true reading clearly is 'fruit'; meet for repentance." 
 2. "John now being gifted with a knowledge of the human heart, like a true minister of righteousness and lover of souls here directs them how to evidence and carry out their repentance, supposing it genuine." 
 3. "In the following verses warns them of their danger in case it were not."
@@ -50,4 +50,4 @@ The commentators provide insight into a Bible verse about repentance and the fru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

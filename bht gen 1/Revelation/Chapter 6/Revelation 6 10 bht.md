@@ -4,7 +4,7 @@
 In this Bible verse, the elect are depicted as crying out to God day and night, seeking justice and vengeance for their cause, even though they bear long with it. Their cry reflects the sentiment of the Old Testament, as they appeal to God as their Master, acknowledging His holiness and truth. The martyrs' fervent cry is a pure and suitable desire, longing for the righteous judgments of God to be executed against their enemies on earth. Thus, their prayer is transformed into a thanksgiving, as they trust in God's attributes and His ultimate justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The elect...cry day and night to God, who will assuredly, in His own time, avenge His and their cause, 'though He bear long with them.'" 
 2. "The glory even of those in Paradise will only be complete when Christ's and the Church's foes are cast out, and the earth will become Christ's kingdom at His coming to raise the sleeping saints."
 3. "He has them and their foes and all His creatures as absolutely at His disposal, as a master has his slaves."
@@ -40,4 +40,4 @@ In this Bible verse, the elect are depicted as crying out to God day and night, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

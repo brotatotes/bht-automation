@@ -9,7 +9,7 @@ The Bible verse describes the focused and purposeful Christian journey, with a c
 2. "so fight I, as not striking the air" - This imagery highlights the need for focused and effective spiritual warfare, engaging in real battles against the enemy rather than engaging in empty or futile efforts.
 3. "in both places οὐκ is used and not μή, as importing the matter of fact" - This explanation clarifies the use of "οὐκ" instead of "μή" in the verse, indicating that the author is stating a factual reality rather than expressing a possibility or potential outcome.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I, for my part, in all my acts, whether in my becoming 'all things to all men,' or in receiving no sustenance from my converts, have a definite end in view, namely, to 'gain the more.'" 
 2. "He who runs with a clear aim, looks straightforward to the goal, makes it his sole aim, casts away every encumbrance, is indifferent to what the by-standers say, and sometimes even a fall only serves to rouse him the more."
 3. "The real adversary is Satan acting on us through the flesh."
@@ -53,4 +53,4 @@ The Bible verse describes the focused and purposeful Christian journey, with a c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

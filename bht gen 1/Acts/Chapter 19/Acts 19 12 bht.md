@@ -9,7 +9,7 @@ In this verse, we encounter a distinction between diseases and possession by evi
 2. "Diseases, and possession by evil spirits, are here plainly distinguished from each other."
 3. "All miraculous working is an exertion of the direct power of the All-powerful; a suspension by Him of His ordinary laws."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God wrought these miracles" merely "by the hands of Paul" - This quote highlights that the miracles performed by Paul were not the result of any magical or supernatural power, but rather the work of God through Paul's hands.
 
 2. "The name of Jesus was the secret of all his miracles" - This quote emphasizes that the power behind Paul's miracles was not in himself, but in the name of Jesus. It underscores the importance of recognizing Jesus as the source of all miraculous works.
@@ -52,4 +52,4 @@ In this verse, we encounter a distinction between diseases and possession by evi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

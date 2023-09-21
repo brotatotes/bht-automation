@@ -9,7 +9,7 @@ In this verse, the commentator quotes from various theologians to construct a de
 2. "Our being new begotten in love is not only the effect of a sense of His past love, but is the effect of that love itself."
 3. "We love because He first loved us (viz. in the sending of His Son)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We love, because He first loved us in sending His Son." 
 2. "He was the first to love us: this thought ought to create in us love casting out fear." 
 3. "Love alike Him, and the brethren, and our fellow men."
@@ -55,4 +55,4 @@ In this verse, the commentator quotes from various theologians to construct a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

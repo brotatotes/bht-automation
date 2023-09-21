@@ -9,7 +9,7 @@ The verse being described is about the expectation and anticipation of the full 
 2. "And the symbolism of the N.T. is fully satisfied by the interpretation. Granted that the water is the water of life, what is that life but the life of the Spirit?"
 3. "It is lamentable to see such able and generally right-minded Commentators as Lücke carping at the interpretation of an Apostle, and the one Apostle who perhaps of all men living had the deepest insight into the wonderful analogies of spiritual things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By His direct personal agency, [the Spirit] opens up this spring of living waters in the human spirit."
 2. "It is only in believing connection with Christ that anyone 'receives' the Spirit."
 3. "The departure of Christ to the Father was indispensable to the giving of the Spirit, and this illustrious Gift was God's intimation to the world that He whom it had cast out, crucified, and slain, was 'His Elect, in whom His soul delighted.'"
@@ -57,4 +57,4 @@ These quotes highlight the interpretation of the word "spirit" in the verse as r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

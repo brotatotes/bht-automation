@@ -9,7 +9,7 @@ Commentators provide insight into a Bible verse that speaks of the contrast betw
 2. "βδέλυγ. ἐνώπιον τ. θεοῦ to χαρὰ ἐνώπιον τ. ἀγγ. τοῦ θεοῦ, ch. Luke 15:10" - This quote suggests that the disgust or abomination before God can be transformed into joy in the presence of the angels of God, indicating the possibility of redemption and reconciliation.
 3. "See last note, end." - This quote refers to a previous note that likely provides additional insights or explanations about the verse, encouraging readers to refer to it for a deeper understanding.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Justify yourselves—make a show of righteousness." This quote highlights the idea that people often try to present themselves as righteous or morally upright, even if their actions do not align with their true character. It suggests that there is a tendency to prioritize appearances and gain approval from others rather than focusing on genuine righteousness.
 
 2. "Highly esteemed among men—generally carried away by plausible appearances." This quote emphasizes the tendency of individuals to seek validation and recognition from others. It suggests that people are often swayed by superficial qualities and are easily impressed by outward displays of righteousness, even if they may not accurately reflect a person's true character or intentions.
@@ -56,4 +56,4 @@ Commentators provide insight into a Bible verse that speaks of the contrast betw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

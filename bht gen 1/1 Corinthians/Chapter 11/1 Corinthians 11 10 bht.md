@@ -9,7 +9,7 @@ In this verse, women are encouraged to wear a veil or cover their heads in publi
 2. "In the Christian assemblies, the holy angels of God are present, and delighting in the due order and subordination of the ranks of God's servants."
 3. "The Apostle has before his mind the order of the universal church, and prefers when speaking of the assemblies of Christians, to adduce those beings who, as not entering into the gradation which he has here described, are conceived as spectators of the whole, delighted with the decency and order of the servants of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Power on her head—the kerchief: French couvre chef, head-covering, the emblem of 'power on her head'; the sign of her being under man's power, and exercising delegated authority under him."
 2. "Paul had before his mind the root-connection between the Hebrew terms for 'veil' (radid), and 'subjection' (radad)."
 3. "Because of the angels—who are present at our Christian assemblies and delight in the orderly subordination of the several ranks of God's worshippers in their respective places, the outward demeanor and dress of the latter being indicative of that inward humility which angels know to be most pleasing to their common Lord."
@@ -48,4 +48,4 @@ In this verse, women are encouraged to wear a veil or cover their heads in publi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

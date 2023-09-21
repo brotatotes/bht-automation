@@ -4,7 +4,7 @@
 In this passage, the Pharisees and Sadducees, united in their opposition against Jesus, question him with malicious intent and seek to trap him with their deceptive inquiries, demanding a sign from heaven. Their actions highlight their skepticism and desire to discredit Jesus, testing his wisdom and authority. Despite opposition, Jesus remains resolute in his mission, teaching and demonstrating God's love and truth, unfazed by their attempts to undermine him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The seeking of him a sign from heaven, tempting him—not in the least desiring evidence for their conviction, but hoping to entrap Him."
 2. "Hypocrites! ye can discern the face of the sky; but can ye not discern the signs of the times?"
 3. "The same simplicity of purpose and careful observation of the symptoms of approaching events which they showed in common things would enable them to 'discern the signs of the times'—or rather 'seasons,' to which the prophets pointed for the manifestation of the Messiah."
@@ -44,4 +44,4 @@ In this passage, the Pharisees and Sadducees, united in their opposition against
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

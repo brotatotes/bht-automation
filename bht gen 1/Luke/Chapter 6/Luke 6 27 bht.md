@@ -4,7 +4,7 @@
 In this verse, Jesus addresses a diverse audience, highlighting the inclusivity of his teachings. He emphasizes the importance of actively listening and understanding his words, as well as the need to separate oneself from the teachings of the religious leaders of the time. Jesus introduces a new way of thinking by promoting love for enemies and doing good to those who hate you, overturning the prevailing notions of hatred and revenge. His message extends to all people, regardless of their background or status, inviting them to embrace a transformative and universal love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God's ways are not our ways. We may not always understand why certain things happen in our lives, but we can trust that God is in control and has a purpose for everything." 
 
 2. "This passage teaches us the importance of seeking God's guidance and wisdom in our decisions. We should not rely on our own understanding, but rather acknowledge God in all our ways and trust Him to direct our paths."
@@ -46,4 +46,4 @@ In this verse, Jesus addresses a diverse audience, highlighting the inclusivity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

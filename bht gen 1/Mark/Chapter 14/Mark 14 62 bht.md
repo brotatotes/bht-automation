@@ -11,7 +11,7 @@ In this verse, we find Jesus asserting his divine identity as the Son of God, pr
 
 3. "This omission serves as a reminder that the words of Jesus are not bound by the constraints of human understanding or the limitations of a specific historical context, but rather they speak to the universal and timeless truths of God's kingdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye say [it], for I am [so]." - This quote highlights the response of Jesus to the question of whether He is the Christ. It emphasizes the certainty of His identity as the Messiah, despite the unfairness of the proceedings against Him.
 
 2. "Hereafter shall ye see the Son of man sit on the right hand of power, and coming in the clouds of heaven." - This quote points to the future glory and authority of Jesus as the Son of Man. It alludes to His second coming and the fulfillment of His divine purpose.
@@ -44,4 +44,4 @@ In this verse, we find Jesus asserting his divine identity as the Son of God, pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

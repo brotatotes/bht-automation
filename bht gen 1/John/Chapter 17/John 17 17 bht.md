@@ -9,7 +9,7 @@ The verse being described is a prayer for sanctification, the process of being s
 2. "In HIM it was that pure and entire self-consecration by His submission to the Father’s holy will, the entire possession of His sinless humanity with the living and speaking Truth of God, which should be at the same time the efficient cause of their sanctification and their Pattern."
 3. "He does not merely leave them in the world, but sends them into it, to witness to this same truth of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sanctify them" is a prayer for the advancement and completion of their sanctification, a positive request for their spiritual growth and transformation.
 2. The truth of God's revealed word is the medium or element through which sanctification occurs, emphasizing the importance of aligning oneself with God's truth.
 3. The statement "thy word is truth" highlights the reliability and trustworthiness of God's word as the ultimate source of truth, echoing similar sentiments expressed in other biblical passages.
@@ -53,4 +53,4 @@ The verse being described is a prayer for sanctification, the process of being s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

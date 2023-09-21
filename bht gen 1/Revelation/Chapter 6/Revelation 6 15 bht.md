@@ -4,7 +4,7 @@
 In this Bible verse, commentators describe a scene of impending judgment and fear. Even the wealthy and powerful, who are typically considered strong and fearless, will be filled with terror. People from all walks of life, including kings, nobles, and those in positions of power, will desperately seek refuge in the most unlikely places. This widespread fear and desperate attempt to escape judgment showcases the inescapable consequences of one's actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Where was now the spirit of those whom the world has so greatly feared?"
 2. "The three oldest manuscripts, A, B, C, transpose thus, 'chief captains . . . rich men.'"
 3. "The three oldest manuscripts, A, B, and C read, 'strong' physically."
@@ -37,4 +37,4 @@ In this Bible verse, commentators describe a scene of impending judgment and fea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

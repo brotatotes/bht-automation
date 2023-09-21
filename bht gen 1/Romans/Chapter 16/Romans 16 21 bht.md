@@ -9,7 +9,7 @@ In this verse, the mention of Timothy as Paul's fellow laborer emphasizes their 
 2. "Jason may be the same who is mentioned as the host of Paul and Silas at Thessalonica." 
 3. "A 'Sopater (son) of Pyrrhus of Berœa' occurs, but it is quite uncertain whether this Sosipater is the same person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Timotheus, my work-fellow—"my fellow labourer"; see Philippians 2:22. The apostle mentions him here rather than in the opening address to this church, as he had not been at Rome." [BENGEL]
 2. "The person meant seems to be 'Lucius of Cyrene,' who was among the 'prophets and teachers' at Antioch with our apostle, before he was summoned into the missionary field." [BENGEL]
 3. "Jason had probably accompanied or followed the apostle from Thessalonica to Corinth." [BENGEL]
@@ -63,4 +63,4 @@ These quotes provide insights into the close relationships and significant contr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

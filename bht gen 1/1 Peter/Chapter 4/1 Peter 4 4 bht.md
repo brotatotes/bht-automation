@@ -10,7 +10,7 @@ Commentators provide a deeper understanding of the Bible verse by highlighting t
 3. "That you run not with them to the same slough of profligacy."
 4. "Speaking evil of you: 'jactantes convicia in vos superbiæ, singularitatis, occultæ impietatis,' &c. Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abandonment of your former walk."
 2. "Run not with them - eagerly, in troops."
 3. "Speaking evil - charging you with pride, singularity, hypocrisy, and secret crimes."
@@ -58,4 +58,4 @@ Commentators provide a deeper understanding of the Bible verse by highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

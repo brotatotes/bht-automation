@@ -9,7 +9,7 @@ In the story described by the commentators, a person experiences a famine that r
 2. "The famine, in the interpretation, is to be subjectively taken; he begins to be in want, to feel the emptiness of soul."
 3. "The famine precedes either utter abandonment or true penitence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A mysterious providence holding back the famine till he was in circumstances to feel it in all its rigor."
 2. "Like Jonah, whom the storm did not overtake till on the mighty deep at the mercy of the waves, does the sinner feel as if 'the stars in their courses were fighting against' him."
 3. "In want—the first stage of his bitter experience, and preparation for a change."
@@ -48,4 +48,4 @@ In the story described by the commentators, a person experiences a famine that r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

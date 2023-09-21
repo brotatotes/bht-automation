@@ -9,7 +9,7 @@ Commentators describe the humble confession of John the Baptist, who openly decl
 2. "The importance of his testimony, which was so publicly and officially delivered."
 3. "The way in which he depreciated himself in comparison with Him who came after him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While many were ready to hail him as the Christ, he neither gave the slightest ground for such views, nor the least entertainment to them."
 2. "He did not confess to being the Christ, despite the expectations and desires of the people."
 3. "Jesus remained firm in his identity and purpose, refusing to be swayed by the opinions and pressures of others."
@@ -52,4 +52,4 @@ Commentators describe the humble confession of John the Baptist, who openly decl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Believers are no longer strangers or sojourners, but are fellow-citizens with th
 
 3. "having been built upon the foundation of the Apostles and Prophets" - The commentary discusses different interpretations of this phrase, ultimately concluding that the genitive should be understood as possessive, meaning that the Apostles and Prophets are part of the foundation upon which believers are built. This quote highlights the important role of the Apostles and Prophets in the establishment of the Christian faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sojourners" refers to foreigners or those who are not members of the household, contrasting with "members of the household" and emphasizing the idea of being strangers in a foreign land.
 2. The addition of "are" in the phrase "but are with the saints" emphasizes the present reality of being united with the community of believers.
 3. The mention of God as the Father in contrast to Jesus Christ and the Holy Spirit highlights the Trinitarian nature of God and the different roles each person of the Trinity plays in the believers' lives.
@@ -56,4 +56,4 @@ Believers are no longer strangers or sojourners, but are fellow-citizens with th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

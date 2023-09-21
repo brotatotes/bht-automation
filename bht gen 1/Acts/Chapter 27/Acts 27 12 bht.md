@@ -9,7 +9,7 @@ This verse describes a haven that serves as a refuge for people from all directi
 2. "For this purpose the anchorage was εὔθετος, and in it they had actually ridden out the storm, before they left it."
 3. "The direction then is towards the spot indicated, just as in the present case it is in that of the motion indicated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Phenice—'Phenix,' now called Lutro." 
 2. "If this means that it was open to the west, it would certainly not be good anchorage!"
 3. "It is thought therefore to mean that a wind from that quarter would lead into it, or that it lay in an easterly direction from such a wind."
@@ -54,4 +54,4 @@ These quotes provide insights into the unsuitability of the Fair Havens for wint
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

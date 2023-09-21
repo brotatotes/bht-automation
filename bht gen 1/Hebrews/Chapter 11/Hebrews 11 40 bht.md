@@ -9,7 +9,7 @@ The Bible verse describes how God has provided something better for us, connecti
 2. "The design of God in this provision of something better for us was, that they, the O. T. saints, should not be perfected without us, i.e. independently of the N. T. salvation of which we are partakers, cut off from Christ’s universal Church of which we are members."
 3. "Their and our perfection was all brought in at the same time, when Christ μιᾷ προσφορᾷ ἐτελείωσεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They had not in this world, 'apart from us,' the clear revelation of the promised salvation actually accomplished, as we now have it in Christ."
 2. "The connection is, You, Hebrews, may far more easily exercise patience than Old Testament believers; for they had much longer to wait, and are still waiting until the elect are all gathered in; you, on the contrary, have not to wait for them."
 3. "Though the Old Testament worthies attained such eminence by faith, they are not above us in privileges, but the reverse."
@@ -40,4 +40,4 @@ The Bible verse describes how God has provided something better for us, connecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

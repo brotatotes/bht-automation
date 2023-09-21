@@ -9,7 +9,7 @@ This passage cautions believers to exercise caution and consider the impact of t
 2. "The particular πρόσκομμα in this case would be, the tempting them to act against their conscience."
 3. "A practice above all others dangerous to a Christian."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very indifference of meats, which I concede, is the reason why ye should 'take heed' not to tempt weak brethren to act against their conscience." 
 2. "This liberty of yours—the watchword for lax Corinthians." 
 3. "The indifference of meats...constitutes sin."
@@ -47,4 +47,4 @@ These quotes emphasize the importance of being mindful of others' weaknesses and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

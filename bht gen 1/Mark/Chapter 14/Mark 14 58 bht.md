@@ -9,7 +9,7 @@ In this verse, the commentators highlight the significance of Christ's words and
 2. "The words are quite as likely to have been uttered by the Lord as they here stand."
 3. "The allusion is probably to Daniel 2:34."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Eager as His enemies were to find criminal matter against our Lord, they had to go back to the outset of His ministry, His first visit to Jerusalem, more than three years before this."
 2. "Even then, they fix only on one speech, of two or three words, which they dared to adduce against Him."
 3. "It is next to certain that the ecclesiastics, who were the prosecutors in this case, did not believe that this was His meaning."
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the significance of Christ's words and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

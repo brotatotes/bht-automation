@@ -9,7 +9,7 @@ Description: The verse being described addresses the issue of idleness and being
 2. "Socrates ἀδικεῖ κ . περιεργάζεται ζητῶν τά τε ὑπὸ γῆς κ . τὰ ἐπουράνια, κ . τὸν ἥττω λόγον κρείττω ποιῶν, κ . ἄλλους ταὐτὰ ταῦτα διδάσκων"
 3. "busy only with what is not their own business"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doing none of their own business, yet overdoing in the business of others." 
 2. "Busy about everyone's business but their own." 
 3. "Idleness is the parent of busybodies."
@@ -57,4 +57,4 @@ Description: The verse being described addresses the issue of idleness and being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a certain Pharisee, highly esteemed and renowned as a wise and kn
 2. "Ecclesiastical tradition suggests that Gamaliel became a Christian and was baptized by Peter and John, but the Jewish accounts indicate that he died as a Pharisee." 
 3. "Considering Gamaliel's opposition to the prevalent faction of Sadduceism and his wise and enlightened nature, it is unlikely that he favored the Apostles as followers of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gamaliel was known for his wisdom, being celebrated in Jewish writings. This reputation adds weight to his words and suggests that his advice should be taken seriously." 
 
 2. "Being the grandson of Hillel, another renowned rabbi, Gamaliel had a prestigious lineage that further enhances his authority in the eyes of the people." 
@@ -59,4 +59,4 @@ In this verse, a certain Pharisee, highly esteemed and renowned as a wise and kn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we find a prophetic assurance and encouragement that the God of s
 2. "A similitude from Genesis 3:15" - συντρ  .   τ  .   σατ  . is a similitude from Genesis 3:15.
 3. "A prophetic assurance and encouragement" - συντρίψει, not as Stuart, ‘for optative,’ nor does it express any wish, but a prophetic assurance and encouragement in bearing up against all adversaries, that it would not be long before the great Adversary himself would be bruised under their feet.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle encourages the Romans to persevere in resisting the wiles of the devil with the assurance that, as good soldiers of Jesus Christ, they are 'shortly' to receive their discharge, and have the satisfaction of 'putting their feet upon the neck' of that formidable enemy."
 2. "Though the apostle here styles Him who is thus to bruise Satan, the God of peace,' with special reference to the 'divisions' by which the church at Rome was in danger of being disturbed, this sublime appellation of God has here a wider sense, pointing to the whole 'purpose for which the Son of God was manifested, to destroy the works of the devil.'"
 3. "Indeed this assurance is but a reproduction of the first great promise, that the Seed of the woman should bruise the Serpent's head."
@@ -54,4 +54,4 @@ In this verse, we find a prophetic assurance and encouragement that the God of s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

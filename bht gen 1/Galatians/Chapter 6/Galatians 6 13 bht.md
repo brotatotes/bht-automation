@@ -9,7 +9,7 @@ This description focuses on the motives and intentions of those advocating for c
 2. "That in your flesh they may make their boast." 
 3. "In this way they escaped the scandal of the Cross at the hands of the Jews, by making in fact their Christian converts into Jewish proselytes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They arbitrarily selected circumcision out of the whole law, as though observing it would stand instead of their non-observance of the rest of the law."
 2. "That they may glory in your flesh - namely, in the outward change which they have effected in bringing you over to their own Jewish-Christian party."
 3. "The outward change (opposed to an inward change wrought by the SPIRIT)."
@@ -55,4 +55,4 @@ These quotes highlight the motives behind the proponents of circumcision, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

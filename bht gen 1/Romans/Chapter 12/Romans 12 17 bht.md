@@ -9,7 +9,7 @@ In this verse, the Apostle exhorts Christians to refrain from repaying evil with
 2. "The construction is resumed." 
 3. "From ref. Prov., which has ἐνώπιον κυρίου καὶ ἀνθρώπων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Recompensing" - The commentary suggests that Christians should recompense or repay others for their actions, just as God has shown grace and mercy to them.
 2. "Providing" - The commentary emphasizes the importance of Christians providing honorable things, indicating that they should strive to act in a way that is morally upright and respectable.
 3. "In the sight of all men" - The commentary highlights the need for Christians to conduct themselves in a manner that commands the respect and admiration of others, reflecting the teachings of Proverbs 3:4.
@@ -63,4 +63,4 @@ In this verse, the Apostle exhorts Christians to refrain from repaying evil with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

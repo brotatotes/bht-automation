@@ -9,7 +9,7 @@ In an unknown location, an individual faced dangers and challenges. During their
 2. "During it the Epistle to the Romans was written."
 3. "This purpose, of going from Corinth to Palestine by sea, is implied ch. Acts 19:21, and 1 Corinthians 16:3-7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some rough work he anticipated on his arrival at Corinth...though he had reason to expect satisfaction on the whole." 
 2. "This period was rendered further memorable by the despatch of the EPISTLE TO THE ROMANS, written during his stay at Corinth."
 3. "He had intended to embark...for Palestine, on his route to Jerusalem...But having detected some conspiracy against his life by his bitter Jewish enemies...he changed his plan and determined 'to return' as he had come, 'through Macedonia.'"
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it signific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

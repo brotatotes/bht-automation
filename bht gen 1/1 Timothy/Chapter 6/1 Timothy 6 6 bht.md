@@ -9,7 +9,7 @@ The Bible verse being described here emphasizes the importance of godliness acco
 2. "The πορισμός is in the very fact of possessing piety joined with contentment."
 3. "Being able to dispense with those things which we cannot carry away with us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Piety is not merely gain, but great means of gain: not the gaining which they pursue, and which makes men to be discontented with their present possessions, and to use religion as 'a cloak of covetousness' and means of earthly gain, but the present and eternal gain which piety, whose accompaniment is contentment, secures to the soul."
 2. "Not merely contentment is great gain, but 'piety with contentment'; for piety not only feels no need of what it has not, but also has that which exalts it above what it has not."
 3. "True happiness lies in piety, but this sufficiency [supplied by God, with which moreover His people are content] is thrown into the scale as a kind of overweight."
@@ -57,4 +57,4 @@ The Bible verse being described here emphasizes the importance of godliness acco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

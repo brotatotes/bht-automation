@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the evidence of God's existence 
 2. "He relates that in one city of Lycaonia, where water was reached by digging the wells very deep, it was sold for money."
 3. "The idea of Mr. Humphry, that the conclusion of this speech is a citation from some lyric poet, seems improbable on other accounts, and is rendered more so by the above-noticed propriety."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the heinousness of idolatry is represented as so much less in the heathen, by how much they were outside the pale of revealed religion, he takes care to add that the heathen have divine 'witness' enough to leave them 'without excuse.'" 
 2. "He did good—scattering His beneficence everywhere and in a thousand forms." 
 3. "Rain from heaven, and fruitful seasons—on which human subsistence and all human enjoyment depend." 
@@ -59,4 +59,4 @@ In this Bible verse, the commentators highlight the evidence of God's existence 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

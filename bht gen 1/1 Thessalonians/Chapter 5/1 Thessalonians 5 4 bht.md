@@ -9,7 +9,7 @@ The verse being described is about the contrast between believers who have been 
 2. "τῷ παραβολικῷ ἐπέμεινε σχήματι, κ. σκότος μὲν καλεῖ τὴν ἄγνοιαν, ἡμέραν δὲ τὴν γνῶσιν." 
 3. "ἵνα gives the purpose in the divine arrangement: for with God all results are purposed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not in darkness - not in darkness of understanding (that is, spiritual ignorance) or of the moral nature (that is, a state of sin)." 
 2. "That day - the day of the Lord, in contrast to 'darkness.'" 
 3. "Overtake - unexpectedly."
@@ -59,4 +59,4 @@ The verse being described is about the contrast between believers who have been 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul passionately pleads with his audience, urg
 2. "I am minded to be bold towards those who reckon us as walking according to the flesh." 
 3. "Paulum, quando præsens erat, sive captandæ gratiæ causa, sive quod timeret offendere, vel simili affectu humano prohibitum fuisse, ne potestatem exerceret, quam absens per literas venditabat."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I beseech you—Intimating that, as he can beseech in letters, so he can be severe in their presence."
 2. "That I may not be—that I may not have to be bold, &c."
 3. "As if we walked according to the flesh—His Corinthian detractors judged of him by themselves, as if he were influenced by fleshly motives, the desire of favor or fear of giving offense, so as not to exercise his authority when present."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy and complex, so it was challengin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of action and obedience, rat
 2. "The correct English for οἱ ἀκροαταὶ νόμου is hearers of the law, and for οἱ ποιηταὶ νόμου, doers of the law."
 3. "His dictum, that such an expression as οἱ ἀκροαταὶ νόμου is inadmissible, will hardly in our day be considered as deciding the matter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The condemnation of as many of them as are found sinners at the last involves no difficulty." 
 2. "The heathen...show how deeply [the law] is engraven on their moral nature."
 3. "Their condemnation also for all the sin in which they live and die will carry its dreadful echo in their own breasts."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of action and obedience, rat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see a scene of worship where the elders and living creatures fall down before the Lamb, giving Him honor and adoration. The elders hold golden bowls full of incense, representing the prayers of the saints. The imagery draws from the tabernacle service, symbolizing the act of presenting our prayers to God. Surrounding the Lamb and the elders are angels, emphasizing the majestic nature of this worshipful scene.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "fell down before the Lamb—who shares worship and the throne with the Father."
 2. "prayers of saints—as the angel offers their prayers with incense."
 3. "Though they be employed by God in some way unknown to us to present our prayers, yet we are told to pray only to Him."
@@ -43,4 +43,4 @@ In this verse, we see a scene of worship where the elders and living creatures f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful proclamation of the unity and supremacy 
 2. "He is over all, in his sovereignty as the FATHER."
 3. "All these are the work of the Father: it is He who in direct sovereignty is over all He who is glorified in the filling of all things by the Son: He who is revealed by the witness of the indwelling Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'one God over all' (in His sovereignty and by His grace) is the grand source and crowning apex of unity."
 2. "Christ 'who filleth all things'... is 'a propitiation' for all men."
 3. "God is 'Father' both by generation (as Creator) and regeneration."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

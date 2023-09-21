@@ -9,7 +9,7 @@ In this verse, the unnamed city is addressed, which commentators believe to be C
 2. "The comparison between sinful Israel and Sodom is common in the O.T."
 3. "This declaration of the Lord of all events opens to us an important truth, that the destruction of Sodom was brought about... by the iniquity of its inhabitants, who, had they turned and repented, might have averted their doom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "which art exalted unto heaven—Not even of Chorazin and Bethsaida is this said."
 2. "For since at Capernaum Jesus had His stated abode during the whole period of His public life which He spent in Galilee, it was the most favored spot upon earth, the most exalted in privilege."
 3. "if the mighty works, which have been done in thee, had been done in Sodom—destroyed for its pollutions. it would have remained until this day—having done no such violence to conscience, and so incurred unspeakably less guilt."
@@ -45,4 +45,4 @@ In this verse, the unnamed city is addressed, which commentators believe to be C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

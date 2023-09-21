@@ -9,7 +9,7 @@ This verse describes qualities expected in a minister, focusing on their relatio
 2. "Not a striker (this word also may have a literal and narrower, or a metaphorical and wider sense)." 
 3. "Forbearing (reasonable and gentle)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not given to wine—The Greek includes besides this, not indulging in the brawling, violent conduct towards others, which proceeds from being given to wine."
 2. "No striker—with either hand or tongue: not as some teachers pretending a holy zeal."
 3. "Not covetous—Greek, 'not a lover of money,' whether he have much or little."
@@ -48,4 +48,4 @@ This verse describes qualities expected in a minister, focusing on their relatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

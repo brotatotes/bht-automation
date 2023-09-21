@@ -11,7 +11,7 @@ The passage in question in Romans speaks to the inherent limitations of the law 
 4. "God’s condemnation of sin in the flesh by Christ is stated in Rom 8:3 as the ground of (Rom 8:2) my being freed from the law of sin and death."
 5. "Christ’s victory over sin is mine, by my union with Him and participation in His Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law could irritate our sinful nature into more virulent action, but it could not secure its own fulfillment."
 2. "God took the method now to be described for attaining that end."
 3. "He was made in the reality of our flesh, but only in the likeness of its sinful condition."
@@ -69,4 +69,4 @@ The passage in question in Romans speaks to the inherent limitations of the law 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

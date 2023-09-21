@@ -9,7 +9,7 @@ The verse being described speaks about the potential expulsion and persecution f
 2. "Your name: either your collective name as Christians, to which Peter seems to refer."
 3. "Your individual name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Separate you—whether from their Church, by excommunication, or from their society; both hard to flesh and blood." 
 2. "For the Son of man's sake—Compare Matthew 5:11, 'for MY SAKE'; and immediately before, 'for righteousness' sake' (Luke 6:10)." 
 3. "Christ thus binds up the cause of righteousness in the world with the reception of Himself."
@@ -40,4 +40,4 @@ The verse being described speaks about the potential expulsion and persecution f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

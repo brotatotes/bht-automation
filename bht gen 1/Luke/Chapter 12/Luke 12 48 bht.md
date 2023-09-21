@@ -4,7 +4,7 @@
 In this verse, various commentators shed light on the concept of accountability and the consequences of knowledge and responsibility. The verse suggests that those with more knowledge and opportunities will face stricter punishment if they neglect their calling, while those with fewer opportunities will be judged according to their available understanding. It emphasizes the importance of stewardship and the expectation of utilizing one's gifts and resources wisely. Ultimately, it challenges us to be mindful of our responsibilities and to strive for growth and improvement in accordance with the blessings we have been entrusted with.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some knowledge is presupposed both in the name 'servant' of Christ, and his being liable to punishment at all."
 2. "Degrees of future punishment proportioned to the knowledge sinned against."
 3. "Even heathens are not without knowledge enough for future judgment."
@@ -42,4 +42,4 @@ In this verse, various commentators shed light on the concept of accountability 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

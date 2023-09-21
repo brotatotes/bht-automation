@@ -9,7 +9,7 @@ For those who are determined to live in accordance with the will of God and to g
 2. "All who are minded to live piously in Christ Jesus shall be persecuted."
 3. "Extra Jesum Christum nulla pietas" (Translation: "There is no piety outside of Jesus Christ.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If he wishes to live godly in Christ, he must make up his mind to encounter persecution."
 2. "So far should persecution be from being a stumbling-block to Timothy, he should consider it a mark of the pious."
 3. "The piety which derives its vigor directly from Christ is as odious to modern Christians as it was to the ancient Jews."
@@ -59,4 +59,4 @@ For those who are determined to live in accordance with the will of God and to g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

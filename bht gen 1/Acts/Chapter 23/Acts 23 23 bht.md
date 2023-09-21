@@ -11,7 +11,7 @@ A large number of foot soldiers were prepared urgently for a mission to Caesarea
 
 3. "Meyer, a sort of light-armed troops, rorarii or velites, either jaculatores or funditores."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Roman officials felt their honor concerned in the preservation of the public peace." 
 2. "The danger of an attempted rescue would seem to require it." 
 3. "The force at Jerusalem was large enough to spare this convoy."
@@ -49,4 +49,4 @@ These quotes shed light on the significance of the mission, the preparations mad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

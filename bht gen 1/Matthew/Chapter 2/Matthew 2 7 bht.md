@@ -9,7 +9,7 @@ In this verse, we read about a ruler who, motivated by a mixture of fear and evi
 2. "The use of the word 'duration' suggests that the length of time the star was visible played a role in their calculations." 
 3. "The positioning of the word 'the time' between the article and its noun indicates that it refers back to the specific moment when they saw the star."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod has so far succeeded in his murderous design: he has tracked the spot where lies his victim, an unconscious babe."
 2. "The one he had got from the Sanhedrim; the other he will have from the sages; but secretly, lest his object should be suspected and defeated."
 3. "And now he thinks he is succeeding to a wish, and shall speedily clutch his victim; for at so early an age as they indicate, He would not likely have been removed from the place of His birth."
@@ -45,4 +45,4 @@ Note: The commentary is quite long, so I had to select the most relevant and imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

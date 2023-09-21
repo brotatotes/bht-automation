@@ -13,7 +13,7 @@ The universal acknowledgement of Jesus Christ as Lord is emphasized, even by tho
 
 (Note: The commentary is quite brief, so only three quotes were extracted.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In every way He shall be acknowledged as Lord." 
 2. "As none can fully do so 'but by the Holy Ghost', the spirits of good men who are dead, must be the class directly meant."
 3. "The grand end of Christ's mediatorial office and kingdom, which shall cease when this end shall have been fully realized."
@@ -61,4 +61,4 @@ The universal acknowledgement of Jesus Christ as Lord is emphasized, even by tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul addresses the presence of false brethren w
 2. "Men who crept in to spy out our freedom which we have in Christ Jesus, with intent to enslave us utterly."
 3. "To whom not even for one hour did we yield with the subjection required of us, that the truth of the Gospel might abide with you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What I did concerning Titus (namely, by not permitting him to be circumcised) was not from contempt of circumcision, but 'on account of the false brethren' who, had I yielded to the demand for his being circumcised, would have perverted the case into a proof that I deemed circumcision necessary."
 2. "Unawares, in an underhand manner brought in."
 3. "If they had found that we circumcised Titus through fear of the apostles, they would have made that a ground for insisting on imposing the legal yoke on the Gentiles."
@@ -54,4 +54,4 @@ In this Bible verse, the apostle Paul addresses the presence of false brethren w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

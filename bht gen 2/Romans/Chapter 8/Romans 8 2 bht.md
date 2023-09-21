@@ -8,7 +8,7 @@ The law of the Spirit of life in Christ Jesus refers to the gospel which acts as
 1. "The law of the Spirit of life freed me in Jesus Christ."
 2. "This 'law of the Spirit of life' having freed him from the law of sin and death, so that he serves another master, all claim of sin on him is at an end he is acquitted, and there is no condemnation for him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 2. "the law of the Spirit of life in Christ Jesus" means, "that new principle of action which the Spirit of Christ has opened up within us—the law of our new being."
 3. This "sets us free... from the enslaving power of that corrupt principle which carries death in its bosom."
 4. The principle of spiritual life prevails against and brings into captivity the principle of spiritual death—"leading captivity captive."
@@ -68,4 +68,4 @@ The law of the Spirit of life in Christ Jesus refers to the gospel which acts as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

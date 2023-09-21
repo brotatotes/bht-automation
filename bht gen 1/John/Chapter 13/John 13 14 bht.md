@@ -11,7 +11,7 @@ The commentators bring insight to a verse about Jesus washing his disciples' fee
 
 Note: The commentary is quite long, so I have selected three quotes that provide a concise understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If I then—the Lord." - This quote emphasizes the authority and superiority of Jesus as the Lord, setting the stage for the lesson he is about to teach his disciples.
 2. "Have washed your feet—the servants'." - This quote highlights the humility of Jesus, who, despite being the Lord, takes on the role of a servant by washing the feet of his disciples.
 3. "Ought to wash one another's feet—not in the narrow sense of a literal washing, profanely caricatured by popes and emperors, but by the very humblest real services one to another." - This quote clarifies that the act of washing one another's feet goes beyond a literal interpretation and instead symbolizes the importance of humbly serving and caring for one another in any way possible.
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

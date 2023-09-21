@@ -9,7 +9,7 @@ The verse being described talks about entering into a future rest promised by Go
 2. "The Writer is leading on to the inference, that the entering into God’s rest is a thing YET FUTURE for God’s people."
 3. "The sabbatism of God’s people is YET FUTURE and reserved for that time when they shall rest from their labours, as God from His."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promised 'rest' has not yet been entered into."
 2. "Faith is the indispensable qualification for entering [the rest]."
 3. "There must be meant a rest still future, namely, that which 'remaineth for the people of God' in heaven."
@@ -48,4 +48,4 @@ The verse being described talks about entering into a future rest promised by Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes a man named Apollos who possessed knowledge about Jesus up 
 2. "The mistake of supposing that he did not know Jesus to be the Messiah has arisen from the description of his subsequent work at Corinth."
 3. "He knew and taught accurately the facts respecting Jesus, but of the consequences of that which he taught, he had no idea."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was instructed, probably, by some disciple of the Baptist, in the whole circle of John's teaching concerning Jesus, but no more: he had yet to learn the new light which the outpouring of the Spirit at Pentecost had thrown upon the Redeemer's death and resurrection."
 2. "His heart warm, and conscious, probably, of his gifts and attainments, he burned to impart to others the truth he had himself received."
 3. "He spake and taught diligently—rather, 'accurately'."
@@ -55,4 +55,4 @@ Note: The commentary is from John Calvin's "Commentaries on the Acts of the Apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

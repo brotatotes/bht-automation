@@ -4,7 +4,7 @@
 In this Bible verse, the commentator highlights the importance of balancing generosity and self-sufficiency. It emphasizes the need for everyone to contribute according to their ability, ensuring that the burden is not unfairly placed on a few. The verse also serves as a reminder that true generosity goes beyond mere monetary assistance, emphasizing the importance of compassion and support for those in need. This passage encourages a thoughtful and balanced approach to giving, ensuring that the well-being of both the giver and the recipient is considered.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My aim is not that others may be relieved at the cost of your being 'distressed'." 
 2. "The golden rule is, 'Love thy neighbour as thyself,' not more than thyself." 
 3. "Love should not be a burden that causes distress, but a selfless act of caring for others."
@@ -44,4 +44,4 @@ In this Bible verse, the commentator highlights the importance of balancing gene
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

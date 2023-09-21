@@ -9,7 +9,7 @@ This verse speaks of the Lord's omniscience and ability to rescue the faithful f
 2. "The expression indicates both the apprehension of the manner of the act and the power to perform it."
 3. "To reserve unrighteous men under punishment to the day of judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is at no loss for means, even when men see no escape."
 2. "Sin is already its own penalty; hell will be its full development."
 3. "He is at no loss for means, even when men see no escape."
@@ -55,4 +55,4 @@ This verse speaks of the Lord's omniscience and ability to rescue the faithful f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

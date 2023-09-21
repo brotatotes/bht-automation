@@ -4,7 +4,7 @@
 In the face of opposition and threat, Peter and John exhibited an unwavering determination to proclaim the message they had witnessed firsthand. Their conviction and loyalty to Christ were so deeply rooted that they saw no alternative but to boldly speak the truth. Their resolute commitment to God's calling, even in the face of potential harm, illustrates the unyielding character of these apostles and their unwavering allegiance to the message of Christ's salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is here a wonderful union of sober, respectful appeal to the better reason of their judges."
 2. "Calm, deep determination to abide the consequences of a constrained testimony."
 3. "Betokens a power above their own resting upon them, according to promise."
@@ -33,4 +33,4 @@ In the face of opposition and threat, Peter and John exhibited an unwavering det
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

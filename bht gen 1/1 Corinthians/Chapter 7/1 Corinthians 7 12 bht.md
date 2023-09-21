@@ -9,7 +9,7 @@ In addressing a specific context of mixed marriages, the verse advises against d
 2. "I, i.e. I Paul, in my apostolic office, under the authority of the Holy Spirit, not the Lord, i.e. not Christ by any direct command spoken by Him."
 3. "But to the rest I say (I, not the Lord)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rest" refers to those who are involved in mixed marriages with unbelievers, a topic that the Corinthians had inquired about. This shows that the commentary is addressing a specific context and situation.
 
 2. The phrase "not the Lord" indicates that there is no direct command from Jesus on this particular issue. This suggests that the commentary is acknowledging the absence of explicit guidance from scripture.
@@ -56,4 +56,4 @@ In addressing a specific context of mixed marriages, the verse advises against d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

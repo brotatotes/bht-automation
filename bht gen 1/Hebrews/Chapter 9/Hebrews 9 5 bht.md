@@ -9,7 +9,7 @@ In this verse, the Bible mentions the cherubim of glory, which symbolize the cre
 2. "The δόξα is the Shechinah, or bright cloud of glory, in which Jehovah appeared between the cherubic forms." (Œc., Cyril, Thl.)
 3. "The mercy-seat...the spot where He, the God of the covenant, met with Israel, the people of the covenant." (Philo de Prof., Vita Mos., Thl.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cherubim—representing the ruling powers by which God acts in the moral and natural world." 
 2. "They were of one piece with the mercy seat, even as the Church is one with Christ: their sole standing is on the blood-sprinkled mercy seat; they gaze down at it as the redeemed shall forever." 
 3. "The mercy seat—Greek, 'the propitiatory': the golden cover of the ark, on which was sprinkled the blood of the propitiatory sacrifice on the day of atonement; the footstool of Jehovah, the meeting place of Him and His people."
@@ -55,4 +55,4 @@ In this verse, the Bible mentions the cherubim of glory, which symbolize the cre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

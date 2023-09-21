@@ -4,7 +4,7 @@
 The verse described showcases the profound relationship between the Father and the Son, as well as the intimate understanding shared between them. It highlights the self-sacrifice of the Son, who gives his life as an atoning sacrifice for his followers. The verse emphasizes the depth of knowledge and love that exists between the Father and the Son, extending to a similar level of understanding that disciples can have with the Son. The verse also emphasizes the clarity of the Son's mission, repeating the statement of laying down his life for his followers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What claim to absolute equality with the Father could exceed this?"
 2. "How sublime this, immediately following the lofty claim of the preceding clause!"
 3. "It is the riches and the poverty of 'the Word made flesh'—one glorious Person reaching at once up to the Throne and down even to the dust of death, 'that we might live through Him.'"
@@ -43,4 +43,4 @@ The verse described showcases the profound relationship between the Father and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

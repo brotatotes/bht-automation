@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the delicate balance between faith a
 2. "There is no contradiction, in this licence of breaking off such a marriage, to the command of our Lord in Matthew 5:32, because the Apostle expressly asserts, 1 Corinthians 7:12, that our Lord’s words do not apply to such marriages as are here contemplated."
 3. "Not a word here said can be so strained as to imply any licence to contract marriages with unbelievers. Only those already contracted are dealt with."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer does not lie under the same obligation in the case of a union with an unbeliever, as in the case of one with a believer."
 2. "Our Christian calling is one that tends to 'peace', not quarrelling."
 3. "Better still it would be not to enter into such unequal alliances at all."
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the delicate balance between faith a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

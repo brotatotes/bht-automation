@@ -9,7 +9,7 @@ In the midst of a chaotic scene at the fortress of Antonia, the events described
 2. "For a full history and description of the fortress of Antonia, see Robinson, i. pp. 431, 435; Williams, Holy City, i. 99; ii. 403 411; Howson, ii. 311."
 3. "Wordsworth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The difficulty would be so to state his crimes as to justify their proceedings to a Roman officer."
 2. "The fort was built by Herod on a high rock at the northwest corner of the great temple area, and called after Mark Antony."
 3. "The barracks, or that part of the fortress of Antonia appropriated to the soldiers."
@@ -50,4 +50,4 @@ In the midst of a chaotic scene at the fortress of Antonia, the events described
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

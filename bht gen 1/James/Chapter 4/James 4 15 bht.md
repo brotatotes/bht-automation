@@ -11,7 +11,7 @@ This passage calls us to be mindful of the power of our words, urging us to choo
 
 3. "The folly of their conduct." - This quote suggests that the previous verse served as a reminder of the foolishness of their behavior, setting the stage for the commentary that follows.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This refers to 'ye that say' (James 4:13)." 
 2. "The boasters spoke as if life, action, and the particular kind of action were in their power, whereas all three depend entirely on the will of the Lord."
 3. "The best manuscripts read, 'We shall both live and do,' &c."
@@ -61,4 +61,4 @@ This passage calls us to be mindful of the power of our words, urging us to choo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

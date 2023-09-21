@@ -9,7 +9,7 @@ The role of a Christian bishop is multifaceted, encompassing both prayer and pre
 2. "This shows that the study of prayer is not in vain commended to the ministers of the word." - Calvin.
 3. "The ministry of the word is in opposition to the ministry of tables."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prayer is not just a personal practice, but a communal act. When we come together in public prayer, we are not only expressing our own needs and desires, but also joining in unity with others to seek God's guidance and blessings."
 
 2. "Giving ourselves to prayer means dedicating our time and energy to this spiritual discipline. It requires intentionality and perseverance, as we consistently seek God's presence and listen for His voice."
@@ -58,4 +58,4 @@ The role of a Christian bishop is multifaceted, encompassing both prayer and pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

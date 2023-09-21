@@ -9,7 +9,7 @@ The verse being described talks about the presence of zeal for God, but also emp
 2. "Not according to knowledge."
 3. "Accurate apprehension of the way of righteousness as revealed to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I bear them record... that they have a zeal of God, but not according to knowledge." 
 2. "He alludes to this well-meaning of his people, notwithstanding their spiritual blindness, not certainly to excuse their rejection of Christ and rage against His saints, but as some ground of hope regarding them."
 3. "He alludes to this well-meaning of his people, notwithstanding their spiritual blindness, not certainly to excuse their rejection of Christ and rage against His saints, but as some ground of hope regarding them."
@@ -61,4 +61,4 @@ Overall, these quotes highlight the importance of balancing zeal and knowledge, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

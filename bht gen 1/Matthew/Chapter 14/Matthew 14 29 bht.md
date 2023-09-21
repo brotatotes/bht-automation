@@ -4,7 +4,7 @@
 When Peter stepped out of the boat to walk on water towards Jesus, it was an act of faith and trust in Jesus' miraculous power. By defying the limitations of human understanding and embracing the supernatural power of God, Peter demonstrated his willingness to take risks. Even when Peter's faith faltered and he started to sink, Jesus was there to rescue him. This experience reminds us that when we step out in faith, we can rely on Jesus to lift us up and never leave us alone in our struggles.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's willingness to step out of the boat and walk on water demonstrates his faith and trust in Jesus. It is a powerful reminder that when we are willing to take risks and step out in faith, we can experience the miraculous power of God in our lives." 
 
 2. "Walking on water was not about defying the laws of nature, but rather about defying the limitations of human understanding and embracing the supernatural power of God. It was a tangible manifestation of the truth that with God, all things are possible." 
@@ -30,4 +30,4 @@ When Peter stepped out of the boat to walk on water towards Jesus, it was an act
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

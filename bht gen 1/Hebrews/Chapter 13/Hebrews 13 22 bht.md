@@ -9,7 +9,7 @@ Commentators describe a verse in the Bible as a plea to the readers to patiently
 2. "ἀσμένως δέξασθε τὰ παρ ʼ ἐμοῦ γράμματα" (Receive joyfully the letters from me).
 3. "The expression λόγος παρακλήσεως applies without doubt to the whole Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Suffer the word—The Hebrews not being the section of the Church assigned to Paul (but the Gentiles), he uses gentle entreaty, rather than authoritative command." 
 2. "Few words—compared with what might be said on so important a subject. Few, in an Epistle which is more of a treatise than an Epistle." 
 3. "On the seeming inconsistency with Galatians 6:11, compare Note, see on Galatians 6:11."
@@ -57,4 +57,4 @@ Commentators describe a verse in the Bible as a plea to the readers to patiently
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

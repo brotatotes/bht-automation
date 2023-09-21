@@ -9,7 +9,7 @@ In this verse, we discover that Jesus, through His incarnation and exaltation, s
 2. "The whole O. T. dispensation is related to the N. T. dispensation, as the angels to the Son. In the former, mankind, and Israel also, stands separated from God by sin; and angels, divine messengers (cf. “the angel of the covenant”), stand as mediators between man and God."
 3. "The argument of the Writer necessarily then leads him to shew how both Mediators, the angel of the O. T. covenant, and Moses, found their higher unity in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being made . . . better—by His exaltation by the Father."
 2. "His humbled form (at which the Jews might stumble) is no objection to His divine Messiahship."
 3. "The manifestations of God by angels in the Old Testament did not bring man and God into personal union, as the manifestation of God in human flesh does."
@@ -55,4 +55,4 @@ In this verse, we discover that Jesus, through His incarnation and exaltation, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

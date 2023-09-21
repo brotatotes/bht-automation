@@ -4,7 +4,7 @@
 The verse describes a woman who is tormented and in pain, symbolizing the Church. She is pregnant with a numerous seed, representing the church's growth and enlargement. The woman's travail and birth pains signify the earnest cries, fervent prayers, and laborious efforts of the church in bringing forth souls to Christ. Furthermore, the image of the woman in travail also reflects the persecutions endured by the early apostles and subsequent ministers of the Gospel. The verse captures the church's longing for the coming of Christ's kingdom, groaning and travailing for His appearance as the Shepherd and King of all nations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "tormented" (basanizomene) - DE BURGH explains this of the bringing in of the first-begotten into the world AGAIN, when Israel shall at last welcome Him.
 2. "the man-child shall rule all nations with the rod of iron" - a reference to Christ's second coming to the Jewish Church, the believing remnant of Israel.
 3. "almost without travail-pangs, she receives (at His second advent), as if born to her, Messiah and a numerous seed" - the Jewish Church will receive the Messiah and a numerous seed, almost effortlessly, at His second coming.
@@ -43,4 +43,4 @@ The verse describes a woman who is tormented and in pain, symbolizing the Church
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

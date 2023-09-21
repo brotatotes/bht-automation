@@ -9,7 +9,7 @@ The verse signifies the unique fulfillment of Jesus' prophecies and the divine p
 2. "This whole section, John 18:28-32, serves to show how the divine purpose was accomplished."
 3. "The divine purpose was accomplished through the crucifixion of Jesus, which fulfilled the prophecies and brought about salvation for humanity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That the saying . . . might be fulfilled which he spake, signifying what death he should die" - This quote highlights the fulfillment of Jesus' prophecy about his death by crucifixion, emphasizing the significance of this mode of execution.
 2. "By crucifixion (John 12:32; John 12:33; Matthew 20:19); which being a Roman mode of execution" - This quote explains that crucifixion was a Roman method of execution, providing historical context to understand the significance of Jesus' death.
 3. "The Jewish mode in such cases as this was by stoning" - This quote contrasts the Roman method of crucifixion with the Jewish method of execution by stoning, further highlighting the uniqueness of Jesus' death.
@@ -59,4 +59,4 @@ The verse signifies the unique fulfillment of Jesus' prophecies and the divine p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators emphasize the importance of marriage as a means to a
 2. "But on account of [the] fornications let each man possess her own wife, and let each woman possess his own husband."
 3. "The ἐχέτω is not concessive, but imperative; not ‘habere liceat,’ but ‘habeto.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The general rule is given to avoid fornication." 
 2. "Unmarried persons might be tempted due to the prevalence of fornication in Corinth."
 3. "The dignity of marriage is set forth by Paul, as it signifies the mystical union between Christ and the Church."
@@ -48,4 +48,4 @@ In this verse, commentators emphasize the importance of marriage as a means to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

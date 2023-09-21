@@ -9,7 +9,7 @@ In this Bible verse, we see Barnabas and Paul coming together, possibly due to t
 2. "Only Peter, and James the Lord's brother, Galatians 1:18-19. Probably there were no other Apostles there at the time: if there were, it is hardly conceivable that Saul should not have seen them." 
 3. "Perhaps he never saw in the flesh any other of the Apostles after his conversion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas being of Cyprus, which was within a few hours' sail of Cilicia, and annexed to it as a Roman province, and Saul and he being Hellenistic Jews and eminent in their respective localities, they may very well have been acquainted with each other before this."
 2. "What is here said of Barnabas is in fine consistency with the 'goodness' ascribed to him and with the name 'son of consolation,' given him by the apostles."
 3. "After Peter and James were satisfied, the disciples generally would at once receive him."
@@ -56,4 +56,4 @@ In this Bible verse, we see Barnabas and Paul coming together, possibly due to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

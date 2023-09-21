@@ -4,7 +4,7 @@
 In this Bible verse, Jesus and his disciples discreetly passed through Galilee, intentionally avoiding public attention and prioritizing quality time for teaching and preparation. Jesus was deliberate in keeping his actions concealed and desired privacy in order to instruct his disciples. This journey through Galilee allowed for intimate conversations and reminders of important truths, while also emphasizing the certainty of Jesus' imminent suffering and crucifixion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By comparing Matthew 17:22; Matthew 17:23; Luke 9:43; Luke 9:44 with this, we gather, that as our Lord's reason for going through Galilee more privately than usual on this occasion was to reiterate to them the announcement which had so shocked them at the first mention of it."
 2. "Thus, this was His reason for enjoining silence upon them as to their present movements."
 3. "He wanted to familiarize them with it by little and little."
@@ -48,4 +48,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

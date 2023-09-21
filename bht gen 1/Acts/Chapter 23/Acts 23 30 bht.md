@@ -11,7 +11,7 @@ Amidst a future plot or conspiracy that will be revealed, Paul exercises strateg
 
 3. "ἐπιβουλὴν ἔσεσθαι" - The phrase "ἐπιβουλὴν ἔσεσθαι" means that there will be a future plot or conspiracy. It implies that even after one plan is exposed, there may still be other schemes or hidden agendas that will arise.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "gave commandment to his accusers" - This shows that Paul had enough influence and authority to give instructions to those who were accusing him. It highlights his strategic thinking and ability to navigate difficult situations.
 
 2. "to say before thee" - This phrase emphasizes the importance of presenting a clear and consistent message. Paul wanted to ensure that his accusers would speak in a way that aligned with his own defense, demonstrating his desire for fairness and justice.
@@ -49,4 +49,4 @@ Amidst a future plot or conspiracy that will be revealed, Paul exercises strateg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

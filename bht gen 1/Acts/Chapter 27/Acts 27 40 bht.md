@@ -10,7 +10,7 @@ In the face of a treacherous sea journey, the sailors take decisive action. They
 3) "They raised their ἀρτέμων to the wind...the ‘artemon’ was the foresail of the ancient ships."
 4) "They made for the beach...to steer to land."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cut the anchors (away), they left them in the sea." - The crew took a bold step by cutting the anchors and leaving them behind, symbolizing their commitment to the sea and their journey ahead.
 
 2. "Loosed the rudder bands." - The crew had to release the secure lashings of the paddles used for steering the ship, indicating their readiness to navigate through the challenges they would face.
@@ -54,4 +54,4 @@ In the face of a treacherous sea journey, the sailors take decisive action. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

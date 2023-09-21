@@ -9,7 +9,7 @@ The Bible verse being described is one that highlights the difference between ea
 2. "The becoming partakers of God’s holiness is manifestly to be taken subjectively: becoming holy like Him." 
 3. "Surely the true antithesis is that pointed out by the order of the clauses themselves, and by their correspondence: 1. πρὸς ὀλίγας ἡμέρας and ἐπὶ τὸ συμφέρον: 2. κατὰ τὸ δοκοῦν αὐτοῖς and εἰς τὸ μεταλ. τ. ἁγ. αὐτοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their rule of chastening is what may seem fit to their own often erring judgment, temper, or caprice."
 2. "The two defects of human education are: (1) the prevalence in it of a view to the interests of our short earthly term of days; (2) the absence in parents of the unerring wisdom of our heavenly Father."
 3. "To become holy like God is tantamount to being educated for passing eternity with God."
@@ -55,4 +55,4 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

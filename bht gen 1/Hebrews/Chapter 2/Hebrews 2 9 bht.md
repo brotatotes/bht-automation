@@ -4,7 +4,7 @@
 We see Jesus, the God-Man, crowned with glory and honor as a reward for His suffering death. He became lower than the angels, who cannot suffer or die, in order to fulfill His purpose as the Redeemer for every person that has ever lived. His exaltation after suffering death is the perfect fulfillment of His work, demonstrating God's grace and love for humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We behold (by faith: a different Greek verb from that for 'we see,' which expresses the impression which our eyes passively receive from objects around us; whereas, 'we behold,' or 'look at,' implies the direction and intention of one deliberately regarding something which he tries to see." 
 2. "He is already crowned, though unseen by us, save by faith; hereafter all things shall be subjected to Him visibly and fully."
 3. "His exaltation after sufferings is the perfecting or consummation of His work for us: without it His death would have been ineffectual; with it, and from it, flows the result that His tasting of death is available for every man."
@@ -45,4 +45,4 @@ We see Jesus, the God-Man, crowned with glory and honor as a reward for His suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

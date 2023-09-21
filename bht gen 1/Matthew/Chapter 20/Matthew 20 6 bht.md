@@ -4,7 +4,7 @@
 In this verse, the uniqueness and urgency of the eleventh hour are emphasized. It challenges our sense of fairness and justice, reminding us that God's ways are not our ways. This parable teaches us that God's grace is not limited by our understanding or expectations. It highlights the problem of unemployment and acknowledges the significance of the issue. Ultimately, it serves as a reminder that it is never too late to respond to God's call and that His invitation to salvation is always open.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A most unusual hour for offering and engaging." This quote highlights the uniqueness of the eleventh hour, emphasizing that it is not the typical time for people to be hired or to offer themselves for work.
 
 2. "Why stand ye here all the day idle?" This quote captures the question posed to those standing idle, emphasizing the need for action and productivity instead of idleness.
@@ -41,4 +41,4 @@ In this verse, the uniqueness and urgency of the eleventh hour are emphasized. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

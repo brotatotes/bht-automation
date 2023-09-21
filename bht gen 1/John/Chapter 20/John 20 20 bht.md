@@ -4,7 +4,7 @@
 Through the visible wounds on his body, the risen Jesus provided tangible evidence of his resurrection, confirming his identity to the disciples and dispelling any doubt of his bodily resurrection. This display not only brought them joy and gladness but also connected his present glorification with his past suffering, emphasizing the depth of his love and sacrifice for humanity. The disciples, initially disbelieving for joy, were transformed by this manifestation and prepared for further revelations of his grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He showed them his hands and his side—not only as ocular and tangible evidence of the reality of His resurrection, but as through 'the power of that resurrection' dispensing all His peace to men." 
 
 2. "Through the visible wounds on his body, Jesus not only proved his resurrection but also demonstrated the transformative power of his resurrection, bringing peace to all who believe in him." 
@@ -40,4 +40,4 @@ Through the visible wounds on his body, the risen Jesus provided tangible eviden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

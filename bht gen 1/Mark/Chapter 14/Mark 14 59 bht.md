@@ -9,7 +9,7 @@ The witnesses' testimonies presented lack consistency and reliability as they di
 2. "They varied in the terms in which it was expressed."
 3. "In asserting this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not even as to so brief a speech, consisting of but a few words, was there such a concurrence in their mode of reporting it as to make out a decent case."
 2. "For every one must see that a very slight turn, either way, given to such words, would make them either something like indictable matter, or else a ridiculous ground for a criminal charge."
 3. "Either give them a colorable pretext for the charge of impiety which they were bent on making out, or else make the whole saying appear, on the worst view that could be taken of it, as merely some mystical or empty boast."
@@ -28,4 +28,4 @@ The witnesses' testimonies presented lack consistency and reliability as they di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

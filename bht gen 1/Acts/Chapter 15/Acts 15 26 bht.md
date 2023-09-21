@@ -9,7 +9,7 @@ The verse being described is an account of Paul and Barnabas, who demonstrated g
 2. "This is mentioned to show that Paul and Barnabas could have no other motive than that of serving the Lord Jesus Christ, and to awaken trust in the minds of the churches."
 3. "But, although this was so, the Apostles and Elders did not think proper to send only Paul and Barnabas, but as direct authorities from themselves, Judas and Silas also, who might by word confirm the contents of the Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Men that have hazarded—literally, 'rendered up,' as in will they did. their lives for the name of our Lord Jesus Christ—Noble testimony to those beloved men!"
 2. "It was doubtless prompted more immediately by the narrative they had just listened to from their own lips and judiciously inserted in this letter, to give them the highest weight as the bearers of it, along with their own deputies."
 3. "Mark here how considerate and tender it was to send men who would be able to say of Barnabas and Paul what could not be expected to come from themselves."
@@ -45,4 +45,4 @@ The verse being described is an account of Paul and Barnabas, who demonstrated g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

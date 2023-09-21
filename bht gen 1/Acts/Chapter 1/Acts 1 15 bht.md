@@ -9,7 +9,7 @@ In the days following the Ascension and leading up to Pentecost, there was an in
 2. "The frequent use of 'τε' in Acts should be considered, even when 'δέ' seems more appropriate." 
 3. "The term 'ὀνομάτων' refers to the names of persons, but it is unlikely to be used unless the number is small."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In those days—of expectant prayer, and probably towards the close of them, when the nature of their future work began more clearly to dawn upon them." 
 2. "The Holy Ghost, already 'breathed' on the Eleven, was stirring in Peter, who was to be the leading spirit of the infant community." 
 3. "Many, therefore, of the 'five hundred brethren' who saw their risen Lord 'at once' must have remained in Galilee."
@@ -53,4 +53,4 @@ In the days following the Ascension and leading up to Pentecost, there was an in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

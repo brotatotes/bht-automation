@@ -11,7 +11,7 @@ In this Bible verse, it is revealed that through the crucifixion of Jesus, our o
 
 3. "The body of sin refers to the body that serves sin, in which sin rules or is manifested. It is not the seat or source of sin, but rather the instrument through which sin operates. The goal is to no longer be in bondage to sin, to no longer be slaves to its dominion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our old selves" that is, "all that we were in our old unregenerate condition, before union with Christ."
 2. "Sin as it dwells in us in our present embodied state, under the law of the fall."
 3. "To the end that henceforth we should not serve sin, 'be in bondage to sin'."
@@ -55,4 +55,4 @@ In this Bible verse, it is revealed that through the crucifixion of Jesus, our o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

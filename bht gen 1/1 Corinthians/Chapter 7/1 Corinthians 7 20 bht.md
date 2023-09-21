@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the concept of a divine call and the
 2. "The κλῆσις of a circumcised person would be a calling in circumcision, and by this he was to abide."
 3. "ἐν τῇ ... ἐν ταύτῃ] See ch. 1 Corinthians 6:4; emphatic."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same calling" refers to the fact that regardless of one's social or cultural background, all believers are called to the same faith in Christ. This highlights the universality of the Gospel message and the equality of all believers before God.
 
 2. "The condition from which he is called a Jew, a Greek, a slave, or a freeman" emphasizes that one's earthly status or position does not define their worth in the eyes of God. It reminds us that salvation is not dependent on external factors, but on the grace of God.
@@ -52,4 +52,4 @@ In this Bible verse, commentators emphasize the concept of a divine call and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

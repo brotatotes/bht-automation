@@ -9,7 +9,7 @@ In this verse, believers gathered together to share their experiences and seek s
 2. "Not, as Meyer supposes, literally all speaking together in a known formula of prayer, but led by someone, and all assenting."
 3. "Thou art God who hast made: not Thou O God who hast made: in this latter case, the first sentence would go on to the end of Acts 4:26, and there abruptly end, without any prayer being expressed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe the two opposite classes, representing the two interests which were about to come into deadly conflict."
 2. "The release of Peter and John highlights the clash between the followers of Jesus and the religious authorities of the time."
 3. "This verse sets the stage for the intense conflict that is about to unfold between the early Christians and the religious establishment."
@@ -47,4 +47,4 @@ In this verse, believers gathered together to share their experiences and seek s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

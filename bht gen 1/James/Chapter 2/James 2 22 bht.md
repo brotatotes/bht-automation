@@ -9,7 +9,7 @@ The verse being described is a powerful declaration about the interplay between 
 2. "The Apostle’s argument; which is, that faith is developed and brought to perfection by obedience."
 3. "Faith without obedience is dead, until obedience, the spirit, sets faith in motion: then faith, like the limbs of the body, moves with and works with the acts of obedience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the two clauses which follow, emphasize 'faith' in the former, and 'works' in the latter, to see the sense." 
 2. "By works was faith made perfect - not was vivified, but attained its fully consummated development, and is shown to be real."
 3. "The germ really, from the first, contains in it the full-grown tree, but its perfection is not attained till it is matured fully."
@@ -57,4 +57,4 @@ These quotes highlight the relationship between faith and works, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

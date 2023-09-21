@@ -11,7 +11,7 @@ From my youth, which was from the beginning, the speaker's deep connection to th
 
 3. "By using μὲν οὖν, the speaker acknowledges the previous arguments or objections and is now ready to address them in his defense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From my youth, which was at the first . . . at Jerusalem, know all the Jews." - This quote highlights Paul's deep connection to Jerusalem and the Jewish community, emphasizing his intimate knowledge of Jewish customs and traditions.
 
 2. "Which knew me from the beginning." - This quote emphasizes the long-standing relationships Paul had with the Jews in Jerusalem, indicating that he was well-known and respected among them.
@@ -61,4 +61,4 @@ From my youth, which was from the beginning, the speaker's deep connection to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

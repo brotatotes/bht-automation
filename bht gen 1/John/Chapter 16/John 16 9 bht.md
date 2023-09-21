@@ -9,7 +9,7 @@ The verse being described highlights the root sin of unbelief in Christ as the S
 2. "Mankind being alien from God by nature, the first step towards their recovery must be to lay hold on that only safety which He has provided for them; and that laying hold is faith."
 3. "This unbelief is not a mere want of historical faith, but unbelief in its very root, the want of a personal and living recognition of Jesus as the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All sin has its root in unbelief."
 2. "The most aggravated form of unbelief is the rejection of Christ."
 3. "The Spirit...does consummate and intensify the sense of all other sins."
@@ -45,4 +45,4 @@ Note: The commentary provided is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Without explicitly mentioning the Bible verse, the passage in question describes
 
 3. "The disciples' amazement at the withering of the fig tree reflects their growing understanding of Jesus' divine authority. It serves as a reminder that even those who were closest to Jesus needed to continually be amazed and awed by his power, reinforcing the idea that faith is not a one-time event but an ongoing journey of discovery and awe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word in Luke is stronger—'choked,' 'stifled Him.' This emphasizes the overwhelming crowd that surrounded Jesus, making it difficult for Him to move or breathe."
 
 2. "The phrase 'much people followed him' highlights the popularity of Jesus and the large number of people who were eager to be near Him and witness His miracles."
@@ -37,4 +37,4 @@ Without explicitly mentioning the Bible verse, the passage in question describes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

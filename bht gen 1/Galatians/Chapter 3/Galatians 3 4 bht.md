@@ -9,7 +9,7 @@ These commentaries highlight the struggles and sacrifices made by the Galatians 
 2. "Let not such grace have been received in vain."
 3. "If it be really in vain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have ye suffered so many things...in vain" - The Galatians had endured persecution and suffering for their faith, and the commentator suggests that this suffering would be in vain if they were to fall from grace. This highlights the importance of remaining steadfast in their faith and not turning back to legalism.
 
 2. "If it be really in vain" - The commentator presents the possibility that the suffering experienced by the Galatians may indeed have been in vain. This raises the question of whether their faith and endurance will ultimately be rewarded or if it will be rendered meaningless.
@@ -60,4 +60,4 @@ Note: The commentary provided is a paraphrase of the verse and does not directly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

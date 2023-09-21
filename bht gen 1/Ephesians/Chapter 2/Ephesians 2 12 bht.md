@@ -9,7 +9,7 @@ The passage being described highlights the previous state of the Gentiles before
 2) "alienated from the commonwealth of Israel, that commonwealth which is designated by the term Israel."
 3) "strangers from the covenants of the promise, not having hope and without God in the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expression, 'alienated from,' takes it for granted that the Gentiles, before they had apostatized from the primitive truth, had been sharers in light and life."
 2. "The promise' is singular, to signify that the covenant, in reality, and substantially, is one and the same at all times, but only different in its accidents and external circumstances."
 3. "The CONJECTURES of heathen philosophers as to a future life were at best vague and utterly unsatisfactory. They had no divine 'promise,' and therefore no sure ground of 'hope'."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of Christ as the foundation of hope and sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

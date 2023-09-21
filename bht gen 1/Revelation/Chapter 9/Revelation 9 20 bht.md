@@ -4,7 +4,7 @@
 In this verse, the ungodly are compared to Pharaoh, stubbornly refusing to repent even in the face of plagues. Their persistent idolatry and refusal to abandon the works of their own hands are seen as a cover for the presence of lurking demons. Despite being spared from calamity, they remained unchanged in their creed and conduct, persisting in the worship of idols and unclean spirits. This idolatry is condemned as the worship of devils, even though the idols themselves are lifeless and powerless.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ungodly, like Pharaoh, harden their hearts against repentance, even in the face of plagues." 
 
 2. "The idols made by their hands, especially the image of the beast, are the works of their hands that they refuse to give up." 
@@ -32,4 +32,4 @@ Note: The commentary provided does not explicitly mention the Bible verse being 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

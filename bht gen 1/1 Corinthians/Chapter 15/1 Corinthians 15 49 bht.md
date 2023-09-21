@@ -11,7 +11,7 @@ The verse in question emphasizes the importance of understanding the reason behi
 
 3. "The resurrection instant" - This phrase alludes to the future hope of resurrection. It implies that the struggles endured in this life will be overshadowed by the joy and glory of the resurrection, suggesting that there is a greater fulfillment and eternal life awaiting believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The conformity to the image of the heavenly Representative man is to be begun here in our souls, in part, and shall be perfected at the resurrection in both bodies and souls."
 2. "It implies the divine appointment and faith assenting to it."
 3. "An exhortation, and yet implying a promise."
@@ -63,4 +63,4 @@ The verse in question emphasizes the importance of understanding the reason behi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

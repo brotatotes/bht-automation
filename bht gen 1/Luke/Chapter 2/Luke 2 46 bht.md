@@ -9,7 +9,7 @@ In this Bible verse, Jesus goes missing and is later found in the temple, sittin
 2. "In one of the rooms attached to the temple, where the Rabbis taught their schools."
 3. "No stress must be laid on 'ἐν μέσῳ'; it is only among. Nor must it be supposed from 'ἐπερωτ.' that our Lord was acting the part of a master."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The beauty of Christ's example lies very much in His never at one stage of His life anticipating the duties of another."
 2. "Still there would be in His questions far more than in their answers."
 3. "Perhaps we shall not greatly err, if we suppose that 'the questions' which He now 'asked them' in return were just the germs of those pregnant questions with which He astonished and silenced them in after years."
@@ -57,4 +57,4 @@ These quotes provide insights into the context and actions of Jesus during his t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

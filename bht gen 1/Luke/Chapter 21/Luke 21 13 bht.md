@@ -9,7 +9,7 @@ The verse under discussion conveys the idea that challenges and opposition faced
 2. "The use of the dative case in 'αὐτοῖς' indicates that the testimony is directed against someone or something."
 3. "This commentary suggests that the testimony is a witness against those who may doubt or challenge the author's faithfulness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse highlights the idea that believers have the privilege and responsibility to bear witness to their faith, even in the face of opposition or persecution."
 2. "It emphasizes the importance of living out one's faith in a way that testifies to the truth and power of the Gospel."
 3. "This verse reminds us that our lives should serve as a testimony to the transformative work of Christ in us, and that we should be ready to share our faith with others, regardless of the circumstances."
@@ -45,4 +45,4 @@ The verse under discussion conveys the idea that challenges and opposition faced
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

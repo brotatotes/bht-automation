@@ -4,7 +4,7 @@
 In this verse, the commentators highlight how Jesus presses the disciples to express their specific requests openly, even though He already knows what is in their hearts. His question encourages them to openly declare their desires, demonstrating the importance of honesty and transparency in approaching Him. Jesus desires the disciples to voice their petitions aloud as part of the process of seeking His assistance, emphasizing the value of open communication in their relationship with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord will have the unseemly petition uttered before all."
 2. "Though well aware what was in their mind and their mother's."
 3. "What would ye that I should do for you?"
@@ -18,4 +18,4 @@ In this verse, the commentators highlight how Jesus presses the disciples to exp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

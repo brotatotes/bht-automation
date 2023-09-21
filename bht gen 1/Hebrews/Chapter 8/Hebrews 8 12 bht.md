@@ -9,7 +9,7 @@ In this verse, God is described as establishing a new covenant, superseding the 
 2. "In other places also is the verb סָלַח given in the LXX by the formula ἵλεώς εἰμι: always of God only, in reference to men."
 3. "I will make mention no more."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord."
 2. "Sin being abolished, sinners obtain grace."
 3. "The Hebrew, 'salach,' is always used of God only in relation to men."
@@ -52,4 +52,4 @@ In this verse, God is described as establishing a new covenant, superseding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

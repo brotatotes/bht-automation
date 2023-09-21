@@ -4,7 +4,7 @@
 In this verse, the importance of belief, hearing, preaching, and divine mission in relation to calling upon God is emphasized. The necessity of faith in Christ through hearing the message of the gospel is highlighted, along with the crucial role of preachers and the divine calling to proclaim the word of God. Through powerful and persuasive reasoning, the verse presents a compelling plea for missions and the ongoing relevance of sharing the gospel with others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How then shall they call on him in whom they have not believed?" - This quote highlights the importance of belief in order to have a relationship with God. It emphasizes the need for faith before one can call upon God.
 
 2. "But this calling implies believing, and believing hearing, and hearing preaching, and preaching a mission to preach." - This quote explains the interconnectedness of belief, hearing, and preaching. It emphasizes that preaching is necessary for others to hear and believe in the message of God.
@@ -46,4 +46,4 @@ In this verse, the importance of belief, hearing, preaching, and divine mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

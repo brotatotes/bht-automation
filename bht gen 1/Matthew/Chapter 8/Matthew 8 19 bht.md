@@ -9,7 +9,7 @@ This Bible verse describes a encounter between Jesus and a scribe who expresses 
 2. "Every such difficulty... is a valuable index and guide to the humble searcher after truth."
 3. "It is one of those cases where the attempts of the Harmonists do violence to every principle of sound historical criticism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This scribe, like many others, was attracted to Jesus and desired to become his disciple. He expressed his willingness to follow Jesus wherever he went, indicating a strong commitment and dedication to the cause of Christ."
 
 2. "However, Jesus knew the heart of this scribe and understood that his commitment might not be as genuine as it appeared. Jesus responded with a cautionary statement, reminding the scribe of the sacrifices and challenges that come with following him."
@@ -49,4 +49,4 @@ This Bible verse describes a encounter between Jesus and a scribe who expresses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

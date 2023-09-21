@@ -4,7 +4,7 @@
 This verse describes the unwavering dedication of Paul to fulfilling his calling, even in the face of danger. He combines faith in God's protection with practical wisdom, utilizing the means and resources available to him. Despite being divinely assured of safety, Paul does not neglect his own responsibilities and takes active measures to secure his well-being. His actions exemplify the importance of striking a balance between relying on God's promises and using our own wisdom and diligence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though divinely assured of safety, he never allows this to interfere with the duty he owed to his own life and the work he had yet to do."
 2. "Paul's commitment to his mission and his sense of responsibility towards his own life is evident in his actions."
 3. "This verse highlights Paul's unwavering dedication to his calling, even in the face of danger."
@@ -45,4 +45,4 @@ This verse describes the unwavering dedication of Paul to fulfilling his calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

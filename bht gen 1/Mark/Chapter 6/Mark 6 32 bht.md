@@ -4,7 +4,7 @@
 In this Bible verse, the disciples, filled with enthusiasm, obediently followed Jesus to a secluded and desert-like place near Bethsaida, away from the bustling crowds and noise of the city. They embarked on a boat, seeking privacy and a moment of respite. Jesus intentionally led them to this remote location, emphasizing the importance of finding moments of solitude, trust, and reflection in their discipleship journey. This act of departure symbolized their willingness to leave behind comfort and security, obedience to Jesus' call, and their readiness to venture into the unknown realm of faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "over the Sea of Galilee, which is the Sea of Tiberias," says John ( :-), the only one of the Evangelists who so fully describes it"
 2. "This "desert place" is more definitely described by Luke (Luke 9:10) as "belonging to the city called Bethsaida."
 3. "This town lay on its northeastern side, near where the Jordan empties itself into it: in Gaulonitis, out of the dominions of Herod Antipas, and within the dominions of Philip the Tetrarch (Luke 9:10- :), who raised it from a village to a city, and called it Julia, in honor of Julia, the daughter of Augustus."
@@ -39,4 +39,4 @@ In this Bible verse, the disciples, filled with enthusiasm, obediently followed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

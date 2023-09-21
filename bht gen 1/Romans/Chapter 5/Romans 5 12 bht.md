@@ -9,7 +9,7 @@ In this Bible verse, we see the contrast between the introduction of sin and dea
 2. "Death extended to all men, as a consequence of the fact, that, posito, that, = because, all have sinned."
 3. "Sin, as above remarked, is here, throughout, both original and actual: in the seed, as planted in the nature by the sin of our forefather: and in the fruit, as developed by each conscious responsible individual in his own practice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Things being so; referring back to the whole preceding argument."
 2. "Death reaches every individual of the human family, as the penalty due to himself."
 3. "Instead of this, we have a digression, extending to five verses, to illustrate the important statement."
@@ -54,4 +54,4 @@ In this Bible verse, we see the contrast between the introduction of sin and dea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

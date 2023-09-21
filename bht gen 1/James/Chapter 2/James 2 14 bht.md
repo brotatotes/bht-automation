@@ -11,7 +11,7 @@ The verse under consideration questions the worthiness of a professed faith devo
 
 3. "Here, and not in λέγῃ, nor in ἡ πίστις, lies the true key to the nullity of the faith in question." - This statement clarifies that the true problem lies not in the declaration of faith or the concept of faith itself, but in the absence of corresponding works.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "James here, passing from the particular case of 'mercy' or 'love' violated by 'respect of persons,' combats the Jewish tendency to substitute a lifeless, inoperative acquaintance with the letter of the law, for change of heart to practical holiness, as if justification could be thereby attained."
 2. "Whether James individually designed it or not, the Holy Spirit by him combats not Paul, but those who abuse Paul's doctrine. The teaching of both alike is inspired, and is therefore to be received without wresting of words; but each has a different class to deal with; Paul, self-justiciaries; James, Antinomian advocates of a mere notional faith."
 3. "What doth it profit—literally, 'What is the profit?' though a man say he hath faith; referring to a mere profession of faith, such as was usually made at baptism. The inoperative profession of sympathy answering to the inoperative profession of faith."
@@ -57,4 +57,4 @@ The verse under consideration questions the worthiness of a professed faith devo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

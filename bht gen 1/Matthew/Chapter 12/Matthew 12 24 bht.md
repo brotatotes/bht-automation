@@ -9,7 +9,7 @@ In this verse, we witness a confrontation between Jesus and the scribes from Jer
 2. "There remained nothing to say but that which we find in the N.T. the adversaries of our Lord continually did say, namely, that these works were works of hell."
 3. "The adversaries of our Lord continually did say, namely, that these works were works of hell."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This had been a hostile party of the ecclesiastics, who had come all the way from Jerusalem to collect materials for a charge against Him."
 2. "Two things are here implied—first, that the bitterest enemies of our Lord were unable to deny the reality of His miracles; and next, that they believed in an organized infernal kingdom of evil, under one chief."
 3. "Stung by the unsophisticated testimony of 'all the people,' they had no way of holding out against His claims but by the desperate shift of ascribing His miracles to Satan."
@@ -45,4 +45,4 @@ In this verse, we witness a confrontation between Jesus and the scribes from Jer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

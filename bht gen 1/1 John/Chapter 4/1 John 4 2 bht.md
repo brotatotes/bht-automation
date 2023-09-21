@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the importance of discernment in recognizing the true teachings of God. They highlight the need for believers to perceive and understand the truth, as well as to confess and acknowledge Jesus Christ's incarnation as the foundation of the entire doctrine. They emphasize that this confession is not merely a human acknowledgment, but a divine truth rooted in the authority of God. Through this verse, believers are encouraged to stay connected to Christ and to hold onto the knowledge of His true nature in order to avoid deception and uphold the essence of true faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every spirit—that is, Every teacher claiming inspiration by the HOLY SPIRIT."
 2. "Jesus Christ is come in the flesh—a twofold truth confessed, that Jesus is the Christ, and that He is come in the flesh."
 3. "To deny the reality of His flesh is to deny His love, and so cast away the root which produces all true love on the believer's part."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of discernment in recognizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

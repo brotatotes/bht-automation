@@ -9,7 +9,7 @@ In this passage, commentators provide insights into the nature of the wine provi
 2. "The account of the practice referred to is, that the palates of men become after a while dull, and cannot distinguish between good wine and bad."
 3. "With regard to the word μεθυσθῶσιν, while there is no reason here to press its ordinary meaning, so neither is there any to shrink from it, as uttered by the ἀρχιτρίκλινος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The good wine...until now" - This phrase highlights the superior quality of the wine Jesus provided, surpassing anything previously tasted at the feast. It emphasizes the abundance and excellence of God's blessings, which are often revealed unexpectedly and surpass our human expectations.
 
 2. "Testifying...that it was real wine" - This quote emphasizes that the wine Jesus provided was not a mere illusion or imitation. It affirms the authenticity of God's blessings and reminds us that God's provision is genuine and trustworthy.
@@ -43,4 +43,4 @@ These quotes highlight the commentator's perspective on the passage, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

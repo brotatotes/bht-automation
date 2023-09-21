@@ -10,7 +10,7 @@ The commentators offer insights into the perception of the Messiah's origin and 
 2. "They may allude to Isaiah 53:8."
 3. "At all events we see here, that the Jews regarded their Messiah not as a mere man, but one to be supernaturally sent into the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Messiah's origin would be mysterious (not altogether wrong)" - The commentary suggests that while there was a belief that the Messiah's origin would be mysterious, it was not entirely accurate. This quote highlights the misconception surrounding Jesus' identity as the Messiah.
 
 2. "They concluded that Jesus could not be He" - The commentary points out that because the people knew about Jesus' family in Nazareth, they doubted that he could be the Messiah. This quote emphasizes the skepticism and disbelief among the people.
@@ -61,4 +61,4 @@ The commentators offer insights into the perception of the Messiah's origin and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

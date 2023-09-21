@@ -4,7 +4,7 @@
 This Bible verse, described by various commentators, emphasizes the importance of wholehearted commitment, focusing on God's kingdom, and avoiding worldly distractions. It warns against becoming entangled in worldly cares, being consumed by desires, sorrows, and affections that hinder one's ability to follow Christ. To be fit for the kingdom of God, one must have an unwavering dedication to God's work, letting go of worldly attachments, and actively participating in advancing His kingdom. The verse calls for undivided attention and an intentional focus on serving God, without allowing oneself to be pulled back into worldly pursuits.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man, c.—As ploughing requires an eye intent on the furrow to be made, and is marred the instant one turns about, so will they come short of salvation who prosecute the work of God with a distracted attention, a divided heart."
 2. "Though the reference seems chiefly to ministers, the application is general."
 3. "It is not actual return to the world, but a reluctance to break with it."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of wholehearted commitment and sacrifice i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

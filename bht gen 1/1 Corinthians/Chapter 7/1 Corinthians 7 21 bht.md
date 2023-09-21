@@ -4,7 +4,7 @@
 In this passage, the commentators emphasize the attitude and choices of a servant or slave. They urge servants to find contentment in their circumstances, not being troubled or anxious about their status. They also emphasize the importance of seeking freedom in a lawful and honorable manner, advising against illegal methods. If an opportunity for freedom presents itself, it is recommended to embrace it, as long as it aligns with the principles of Christ. Ultimately, the goal is to serve God faithfully and make responsible choices that enhance one's ability to serve Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let it not be a trouble to thee that thou art a servant or slave."
 2. "Contentment under one's existing condition, though undesirable, since in our union with Christ all outward disparities of condition are compensated."
 3. "Be not unduly impatient to cast off 'even' thy condition as a servant by unlawful means; as, for example, Onesimus did by fleeing."
@@ -45,4 +45,4 @@ Note: The commentary is not very clear and some parts are ambiguous, so the quot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

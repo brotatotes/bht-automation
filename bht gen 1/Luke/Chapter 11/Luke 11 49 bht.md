@@ -4,7 +4,7 @@
 The verse being described is a passage where Jesus speaks confidently, embodying the wisdom of God. He declares His intention to send prophets and apostles, both in the Old and New Testaments, as instruments of divine authority and purpose. This verse emphasizes the continuity of God's communication with humanity throughout history and the establishment of a new era of messengers who would carry the message of Christ and lay the foundation of the Christian church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As there seems plainly an allusion to ancient warnings of what God would do with so incorrigible a people, so here Christ, stepping majestically into the place of God, so to speak, says, 'Now I am going to carry all that out.'" 
 2. "Could this be other than the Lord of Israel in the flesh?" 
 3. "Christ, in His judicial capacity, is represented as sending forth His messengers to execute His judgments upon the guilty city."
@@ -36,4 +36,4 @@ The verse being described is a passage where Jesus speaks confidently, embodying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

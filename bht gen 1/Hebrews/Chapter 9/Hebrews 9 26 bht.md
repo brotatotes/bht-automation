@@ -9,7 +9,7 @@ This verse speaks of the eternal and timeless nature of sin and the need for a s
 2. "The theatre of Christ’s sufferings is of necessity this present world, pointing out that those supposed repeated sufferings must necessarily in that case take place within the temporal limits indicated by ἀπὸ καταβολῆς κόσμου."
 3. "Between the first and second coming of Christ, the N. T. Scriptures know of no intermediate interposition of the divine dealings with men: in Him we are τέλειοι, and at His appearing, our αἰῶνες had their συντέλεια."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His oblation of Himself before God was once for all (that is, the bringing in of His blood into the heavenly Holy of Holies), and therefore the preliminary suffering was once for all."
 2. "The continued sins of men, from their first creation, would entail a continual suffering on earth, and consequent oblation of His blood in the heavenly holiest place, since the foundation of the world, if the one oblation 'in the fulness of time' were not sufficient."
 3. "The offering of Christ was a thing once done that it might be thought of for ever."
@@ -51,4 +51,4 @@ This verse speaks of the eternal and timeless nature of sin and the need for a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -12,7 +12,7 @@ The passage under consideration expresses the idea of trust and dependence on Go
 
 3. "So that our passage forms a notable instance of the prophetic office of Christ being taken as the antitype of the official words and acts of all the Prophets, just as His kingly office fulfils and takes up all that is said and done by the theocratic Kings, and His priestly office accomplishes all the types and ordinances of the O. T. Priesthood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will put my trust in Him" expresses His filial confidence in God as His Father, to whom He flees from His sufferings, and is not disappointed; which His believing brethren imitate, trusting solely in the Father through Christ, and not in their own merits.
 
 2. Each fresh aid given Him assured Him, as it does them, of aid for the future, until the complete victory was obtained over death and hell.
@@ -58,4 +58,4 @@ The passage under consideration expresses the idea of trust and dependence on Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, one commentator emphasizes the significance of prioritizing one's spiritual well-being and choosing the path that leads to salvation. Another commentator highlights the importance of nurturing and protecting one's soul above worldly concerns. A third commentator poses a thought-provoking question, urging readers to reflect on their own choices and actions in relation to choosing the good part. Together, these insights remind us to prioritize our spiritual growth and seek a deep relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Short work and little of it suffices for Me" - The commentary suggests that this phrase goes beyond the idea of economy and highlights the insignificance of elaborate preparation for this life compared to another.
 2. "Choosing the better" - Mary's choice of sitting at Jesus' feet is considered better than Martha's busy serving because it is a higher way of serving and pleasing the Lord.
 3. "Mary's choice would never be taken away" - Unlike Martha's service, which would end with her life, Mary's choice to prioritize the spiritual and eternal would endure. Both choices are valued, but Mary's represents the contemplative aspect of the Christian character while Martha's represents the active aspect.
@@ -45,4 +45,4 @@ In this Bible verse, one commentator emphasizes the significance of prioritizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

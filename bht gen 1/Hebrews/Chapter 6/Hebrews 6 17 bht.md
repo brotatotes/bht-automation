@@ -9,7 +9,7 @@ In this Bible verse, God goes to great lengths to ensure the certainty of our sa
 2. "The unchangeableness of His counsel." 
 3. "God came in as a middle person between Himself and Abraham."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, in accommodation to their manner of confirming covenants, superadded to His sure word His oath: the 'TWO immutable things'." 
 2. "His word would have been amply enough; but, to make assurance doubly sure, He 'interposed with an oath'." 
 3. "He acted as Mediator, coming between Himself and us; as if He were less, while He swears, than Himself by whom He swears."
@@ -53,4 +53,4 @@ In this Bible verse, God goes to great lengths to ensure the certainty of our sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

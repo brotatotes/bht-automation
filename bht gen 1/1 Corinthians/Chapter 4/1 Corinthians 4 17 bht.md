@@ -9,7 +9,7 @@ The passage describes a spiritual bond between Paul and Timothy, highlighting Ti
 2. "Timothy, by being himself a close imitator of the Christian virtues and teaching of his and their spiritual father, would bring to their minds his well-known character, and way of teaching, which they seemed to have well-nigh forgotten."
 3. "To shew the importance of this his manner of teaching, he reminds them of his unvarying practice of it: and as he was guided by the Spirit, by inference, of its universal necessity in the churches."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul purposed . . . when he had passed through Macedonia and Achaia, to go to Jerusalem. So he sent into Macedonia Timotheus and Erastus." - This passage highlights the connection between Paul's journey and Timothy's mission, establishing the authenticity of both the Epistle and the historical account.
 2. "My son, beloved and faithful in the Lord." - This phrase emphasizes the close spiritual relationship between Paul and Timothy, indicating Timothy's conversion by Paul and his loyalty to the faith.
 3. "Timothy, from his spiritual connection with Paul, as converted by him, was best suited to remind them of the apostle's walk and teaching." - Timothy's role in reminding the Corinthians of Paul's teachings and example is emphasized, highlighting his unique position as someone who can bring them into remembrance.
@@ -52,4 +52,4 @@ The passage describes a spiritual bond between Paul and Timothy, highlighting Ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

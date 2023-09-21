@@ -4,7 +4,7 @@
 In this Bible verse, we see a powerful call by Jesus to follow Him, compelling the disciples to leave behind their comfortable lives. The commentators highlight the significance of the disciples leaving their father and their ship, illustrating their willingness to prioritize Jesus over earthly possessions. This act of obedience and complete surrender to Christ's call demonstrates their sincere commitment and devotion. It is a reminder of how God chooses ordinary individuals, like fishermen, to carry out His divine plans and fulfill His promises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They left their father Zebedee in the ship with the hired servants" - Mark 1:20. This shows that the family was in easy circumstances.
 2. "Here, Christ calls Andrew: there, Andrew solicits an interview with Christ." This highlights the difference between the two callings and clarifies that they were not the same event.
 3. "Here, John is called along with James his brother: there, John is called along with Andrew, after having at their own request had an interview with Jesus." This further emphasizes the distinction between the two callings and the sequence of events.
@@ -39,4 +39,4 @@ Note: The commentary is not well-written and contains some errors, but I have ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

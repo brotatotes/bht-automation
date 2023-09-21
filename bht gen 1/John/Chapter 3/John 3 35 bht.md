@@ -11,7 +11,7 @@ This verse speaks of the deep, inherent love that the Father has for the Son, a 
 
 3. "Traces in the synoptic narrative, which is confessedly, in its main features, independent of him." - This statement acknowledges that even though John's expression may have originated from a higher source, it can also be found in the synoptic narrative. It suggests that there are common threads and connections between John's writings and the other Gospels.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Father loveth, &c." - This verse highlights the profound love of the Father for the Son, which serves as the foundation for the act of delivering over all things into the hands of the Son.
 2. "The deep spring of that august act" - This phrase emphasizes the significance and grandeur of the act of delivering over all things to the Son, which is rooted in the Father's incomprehensible love for the Son.
 3. "The Father's ineffable 'love of the Son'" - This expression underscores the indescribable and immeasurable love that the Father has for the Son, emphasizing the depth and intensity of their relationship.
@@ -49,4 +49,4 @@ This verse speaks of the deep, inherent love that the Father has for the Son, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

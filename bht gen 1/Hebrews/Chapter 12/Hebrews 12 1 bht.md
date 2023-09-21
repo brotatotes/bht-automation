@@ -9,7 +9,7 @@ In this verse, the author urges us, as Christians, to run our race with patience
 2. "The motive, as far as this clause supplies one, is gone."
 3. "The best note on the whole idea and imagery is that of Schlichting: 'Introducit nos veluti in theatrum quoddam amplissimum, in quod magna spectatorum turba confluxerit, quæ, omnibus locis et subselliis repletis, veluti nubes quædam densa in medio certantibus circumfusa videatur.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'witnesses' answer to the spectators pressing round to see the competitors in their contest for the prize."
 2. "Those 'witnessed of' become in their turn 'witnesses' in a twofold way: attesting by their own case the faithfulness of God to His people, and witnessing our struggle of faith."
 3. "Carnal and worldly lusts, and all, whether from without or within, that would impede the heavenly runner, are the spiritual weight to be laid aside."
@@ -52,4 +52,4 @@ In this verse, the author urges us, as Christians, to run our race with patience
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

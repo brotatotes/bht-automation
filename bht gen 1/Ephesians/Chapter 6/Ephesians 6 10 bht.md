@@ -4,7 +4,7 @@
 In this verse, believers are urged to find their strength in the Lord and rely on His power. It emphasizes that our own strength is inadequate and that we must depend on the strength that comes from Christ. We are encouraged to meditate on His strength, pray for it, wait on Him, exercise faith, and rely on the empowering work of the Holy Spirit. It is through these practices that we can access the power and might of God, which is necessary for the battles we face in the spiritual realm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase occurs nowhere else in the Epistle (see, however, Ephesians 6:23); if genuine, it is appropriate here in the close of the Epistle, where he is urging his fellow soldiers to the good fight in the Christian armor."
 2. "Most of the oldest manuscripts for 'finally,' read, 'henceforward,' or 'from henceforth' (Ephesians 6:23- :)."
 3. "Be strong—Greek, 'be strengthened.'"
@@ -50,4 +50,4 @@ In this verse, believers are urged to find their strength in the Lord and rely o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

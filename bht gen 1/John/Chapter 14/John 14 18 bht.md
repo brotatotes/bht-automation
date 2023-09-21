@@ -9,7 +9,7 @@ In this verse, the commentator remarks on the loving relationship between Jesus 
 2. "This makes ἔρχομαι, I am coming, plain, as applying to the coming by the Spirit, who is one with Christ; not only the ultimate personal coming, which is but the last step of the ἔρχομαι, nor only the bodily coming again to them and not to the world at the Resurrection, which was but a pledge of His lasting presence in the Spirit."
 3. "ἔρχομαι is (as there) the complex of these the great Revisitation, in all its blessed progress."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will not leave you comfortless—in a bereaved and desolate condition; or (as in Margin) 'orphans.'" 
 2. "I come" or "am coming" to you; that is, plainly by the Spirit, since it was to make His departure to be no bereavement."
 3. "The coming of the Spirit was to be a personal coming of Christ Himself, in the mighty power of His Spirit, to dwell in them and be their abiding Comforter."
@@ -59,4 +59,4 @@ Note: The commentary is referencing the verse John 14:18.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

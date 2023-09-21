@@ -11,7 +11,7 @@ The Gospel message is being described in this verse, with commentators emphasizi
 
 Note: The commentary is not complete, so I have provided the best quotes based on the given information.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "supper-time . . . all now ready" - This phrase suggests that the preparations for the Gospel call are reaching their culmination, indicating that the time for the fulfillment of God's plan is at hand.
 
 2. "pointing undoubtedly to the now ripening preparations" - The commentator emphasizes that the signs and events leading up to the Gospel call are clear and unmistakable, indicating that God's plan is unfolding according to His timing.
@@ -42,4 +42,4 @@ Note: The commentary is not complete, so I have provided the best quotes based o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse portrays the dramatic exclusion of an individual from the community of believers, paralleling the story of Naboth's vineyard. The imagery symbolizes the rejection of this person as the Messiah and their denial of their Jewish heritage. Their adversaries deliver this individual to the Gentiles, causing great provocation and anger. The ultimate consequence is their crucifixion outside the city walls, bearing the reproach of our sins. (Word count: 65)
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of casting someone out of the vineyard symbolizes the rejection and exclusion of that person from the community of believers." 
 
 2. "This imagery is reminiscent of the Old Testament story of Naboth's vineyard, where King Ahab coveted the vineyard and had Naboth unjustly killed to take possession of it." 
@@ -20,4 +20,4 @@ This verse portrays the dramatic exclusion of an individual from the community o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

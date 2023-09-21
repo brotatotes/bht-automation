@@ -9,7 +9,7 @@ In this verse, the commentators highlight that Christians are exalted to the dig
 2. "The βασιλείαν was the collective description: ἱερεῖς is the individual designation."
 3. "To Him who is God and His Father: or, to His God and Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He made us (to be) a kingdom." - The saints shall constitute peculiarly a kingdom of God, and shall themselves be kings. They shall share His King-Priest throne in the millennial kingdom.
 2. "The priesthood is the continuous ground and legitimization of their kingship." - The saints are kings because they are priests, serving God day and night in His temple.
 3. "All shall have nearest access to Him. All persons and things shall be holy to the Lord." - The distinction of priests and people, nearer and more remote from God, shall cease.
@@ -43,4 +43,4 @@ In this verse, the commentators highlight that Christians are exalted to the dig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author reflects on the purpose and outcome of their personal 
 2. "τὰ κατʼ ἐμέ - my affairs."
 3. "μᾶλλον - rather (than the contrary): not, ‘more now than before,’ as Hoelemann, which would be expressed by μᾶλλον ἤδη or νῦν μᾶλλον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith takes in a favorable light even what seems adverse." 
 2. "He removes this fear." 
 3. "So far is my imprisonment from hindering the Gospel."
@@ -59,4 +59,4 @@ In this verse, the author reflects on the purpose and outcome of their personal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

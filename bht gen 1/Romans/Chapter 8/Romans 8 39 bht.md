@@ -4,7 +4,7 @@
 In this awe-inspiring chapter, we find the assurance that nothing, not even the most hostile power or circumstance, can tear us away from the everlasting love of God. The love of Christ prevails over any influence or trial we may face, guaranteeing our eternal security. It is through Christ that we are united to God, and this bond assures us of the unchanging kindness and unfailing love of the Father. No created being, whether in heaven or on earth, can separate us from this love, for it is an inseparable union that transcends all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus does this wonderful chapter, with which the argument of the Epistle properly closes, leave us who are 'justified by faith' in the arms of everlasting Love, whence no hostile power or conceivable event can ever tear us."
 2. "To whatever conformity to the Son of God in dignity and glory, believers are or shall hereafter be raised, it will be the joy of everyone of them, as it is most fitting, 'that in all things He should have the pre-eminence.'"
 3. "However difficult it may be for finite minds to comprehend the emotions of the Divine Mind, let us never for a moment doubt that in 'not sparing His own Son, but delivering Him up for us all,' God made a real sacrifice of all that was dearest to His heart, and that in so doing He meant for ever to assure His people that all other things which they need...will in due time be forthcoming."
@@ -40,4 +40,4 @@ In this awe-inspiring chapter, we find the assurance that nothing, not even the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

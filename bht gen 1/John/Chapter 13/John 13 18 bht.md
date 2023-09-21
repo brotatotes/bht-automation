@@ -9,7 +9,7 @@ The Savior, knowing the hearts of his disciples, speaks to them about the coming
 2. "The ἐγώ is emphatic; and the reason of its emphasis is given in John 13:19."
 3. "This is another instance of the direct and unhesitating application of the words of the Psalms by our Lord to Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But that the scripture may be fulfilled—that is, one has been added to your number, by no accident or mistake, who is none of Mine, but just that he might fulfil his predicted destiny."
 2. "He that eateth bread with me—'did eat of my bread' (John 13:18), as one of My family; admitted to the nearest familiarity of discipleship and of social life."
 3. "The eating bread derives a fearful meaning from the participation in the sacramental supper, a meaning which must be applied for ever to all unworthy communicants, as well as to all betrayers of Christ who eat the bread of His Church."
@@ -55,4 +55,4 @@ The Savior, knowing the hearts of his disciples, speaks to them about the coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

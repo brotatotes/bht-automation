@@ -4,7 +4,7 @@
 The given glory mentioned in this verse encompasses the present indwelling Spirit of Christ for believers, emphasizing acceptance, holiness, and grace. It aims to unite believers into a unity resembling the unity between God the Father and God the Son. This glory restores the image of God in believers, engraving the likeness of the glory of the Father. It is not found in worldly honor or station but in self-sacrificing love and the ability to love and sacrifice for the good of others. Christians, filled with the fullness of grace and truth, reflect the glory of the only begotten Son.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The glory which thou gavest—hast given." - This quote highlights the idea that the glory given to believers is not just a future heavenly state, but the present indwelling Spirit of Christ. It emphasizes the acceptance, holiness, and grace that comes with this glory.
 
 2. "I have given them, that they may be one, even as we are one." - This quote reveals that the purpose of this given glory is to bring believers into a unity similar to the unity between God the Father and God the Son. It emphasizes the importance of unity among believers.
@@ -45,4 +45,4 @@ The given glory mentioned in this verse encompasses the present indwelling Spiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

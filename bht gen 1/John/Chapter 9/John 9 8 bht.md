@@ -9,7 +9,7 @@ The verse being described is about a blind man who was a well-known native of Je
 2. "The reading τυφλός was most likely a correction of some one who thought προσαίτης did not express plainly enough the change in him."
 3. "The question of identity would be much more likely to turn on whether he was really the person who had sat and begged (the blindness being involved in it), than on the fact of his having been blind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The neighbours therefore . . . said, Is not this he that sat and begged" - This quote highlights the recognition of the blind beggar by his neighbors, emphasizing the significance of his transformation from a marginalized and dependent individual to someone who can now see and potentially lead a different life.
 
 2. "Here are a number of details to identify the newly seeing with the long-known blind beggar" - This quote suggests that the identification of the blind beggar as the one who can now see is based on various specific details, indicating the thoroughness of the neighbors' observation and their certainty about his transformation.
@@ -54,4 +54,4 @@ The verse being described is about a blind man who was a well-known native of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

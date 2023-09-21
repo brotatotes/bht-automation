@@ -9,7 +9,7 @@ The Bible verse being described is a powerful promise to believers that their fa
 2. "Behold, I place in Zion a chief corner-stone, chosen, had in honour."
 3. "He that believeth on Him shall not be ashamed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because it is contained in Scripture."
 2. "Calling attention to the glorious announcement of His eternal counsel."
 3. "Christ is said to be, to believers, 'precious.'"
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful promise to believers that their fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

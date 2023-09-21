@@ -10,7 +10,7 @@ In this Bible verse, Pilate is struck by the words of majesty and mildness spoke
 3. "This was a terrible saying, especially under Tiberius, with whom (Tacit. Ann. iii. 38) 'majestatis crimen omnium accusationum complementum erat.'"
 4. "This was true: their application of it to Christ a lie. But words, not facts, are taken into account by tyrants, and this Pilate knew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was equivalent to a threat of impeachment, which we know was much dreaded by such officers as the procurators, especially of the character of Pilate or Felix."
 2. "It also consummates the treachery and disgrace of the Jewish rulers, who were willing, for the purpose of destroying Jesus, to affect a zeal for the supremacy of a foreign prince."
 3. "He brought Jesus forth, and sat down in the judgment seat—that he might pronounce sentence against the Prisoner, on this charge, the more solemnly."
@@ -51,4 +51,4 @@ In this Bible verse, Pilate is struck by the words of majesty and mildness spoke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentators provide insights into the practicality and significance of the instructions given. They highlight the need for preparation and readiness, both physically and mentally, to follow Jesus promptly and without hesitation. The actions of girding oneself with a garment, binding on sandals, and casting on an outer garment symbolize the intentional and deliberate commitment to serving and following Christ. The verse underscores the importance of being prepared and responsive, even when faced with unexpected interruptions or challenges.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In such graphic minuteness of detail we have a charming mark of reality."
 2. "The rapidity and curtness of the orders, and the promptitude with which they were obeyed, betoken the despatch which, in the circumstances, was necessary."
 3. "The commentary highlights the importance of following Jesus promptly and without hesitation."
@@ -48,4 +48,4 @@ These quotes highlight the practical instructions given to the reader, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

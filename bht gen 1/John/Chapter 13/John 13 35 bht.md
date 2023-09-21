@@ -9,7 +9,7 @@ Through the lens of different commentators, this Bible verse emphasizes the impo
 2. "The world, notwithstanding this proof of His presence among them, shall hate them."
 3. "Brotherly love is the true sign to them of being children of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By this shall all men know that ye are my disciples—the disciples of Him who laid down His life for those He loved." 
 2. "If ye have love one to another—for My sake, and as one in Me; for to such love men outside the circle of believers know right well they are entire strangers." 
 3. "Alas, how little of it there is even within this circle!"
@@ -50,4 +50,4 @@ Through the lens of different commentators, this Bible verse emphasizes the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

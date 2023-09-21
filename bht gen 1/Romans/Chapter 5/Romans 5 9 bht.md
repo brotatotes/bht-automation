@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the profound implications of Jesus' sacrifice and the concept of justification before God. They highlight that by Jesus shedding His blood, we are declared righteous, reconciled to God, and saved from His wrath. The magnitude of these blessings is emphasized, underscoring the incredible love and grace of God towards us. The commentators also discuss the significance of God's wrath, emphasizing that it is not a human passion but a just response to sin. Finally, they portray our justification as a result of Christ's atoning death, which satisfies God's law and justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being justified by his blood" means that through the sacrifice of Jesus, we are declared righteous before God, our sins are forgiven, and we are reconciled to Him. This is a powerful reminder of the incredible love and grace of God towards us.
 
 2. "Saved from wrath through him" refers to the deliverance from God's righteous anger and judgment that we experience as believers. It is through Jesus that we are rescued from the consequences of our sins and can have eternal life with Him.
@@ -49,4 +49,4 @@ In this verse, commentators emphasize the profound implications of Jesus' sacrif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

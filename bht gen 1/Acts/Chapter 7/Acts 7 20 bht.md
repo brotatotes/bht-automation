@@ -9,7 +9,7 @@ During a sad but seasonable time, amidst sorrow and hardship, God's perfect timi
 2. "Philo de vita Mos. § 3, vol. ii. p. 83, says, γεννηθεὶς οὖν ὁ παῖς εὐθὺς ὄψιν ἐνέφῃνεν ἀστειοτέραν ἢ κατ ʼ ἰδιώτην." 
 3. "Hesiod, Op. 825, ἀναίτιος ἀθανάτοισιν, and Æsch. Agam. 352, θεοῖς ἀναμπλάκητος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In which time—of deepest depression." - This quote highlights the context of Moses' birth, emphasizing the challenging circumstances in which he was born.
 2. "Moses was born—the destined deliverer." - This quote emphasizes the significance of Moses' birth, indicating that he was chosen by God to be the one who would deliver the Israelites.
 3. "Exceeding fair—literally, 'fair to God' (Margin), or, perhaps, divinely 'fair'." - This quote suggests that Moses' beauty was not just physical but also had a divine aspect to it, further emphasizing his special status in God's plan.
@@ -55,4 +55,4 @@ During a sad but seasonable time, amidst sorrow and hardship, God's perfect timi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

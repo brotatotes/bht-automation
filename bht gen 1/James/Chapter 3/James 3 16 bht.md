@@ -9,7 +9,7 @@ In this verse, the presence of envy and strife is depicted as a catalyst for con
 2. "Emulation and rivalry lead to anarchy and restless disturbance." 
 3. "Emulation and rivalry give rise to every evil thing or deed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The envious man stands in his own light. He thinks his candle cannot shine in the presence of another's sun."
 2. "He aims directly at men, obliquely at God, who makes men to differ."
 3. "James does not honor such effects of this earthly wisdom with the name 'fruit,' as he does in the case of the wisdom from above."
@@ -52,4 +52,4 @@ In this verse, the presence of envy and strife is depicted as a catalyst for con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

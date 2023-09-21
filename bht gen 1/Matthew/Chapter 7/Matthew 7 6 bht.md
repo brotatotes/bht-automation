@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes warn against giving sacred teachings
 2. "Thus interpreted, the saying would be one full of meaning to the Jews."
 3. "Give not that which is holy to dogs, then, as a humble hearer might be disposed to reply, 'If this last be a measure of the divine dealings, what bounties can I expect at God's hand?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give not that which is holy unto the dogs—savage or snarling haters of truth and righteousness."
 2. "Neither cast ye your pearls before swine—the impure or coarse, who are incapable of appreciating the priceless jewels of Christianity."
 3. "Religion is brought into contempt, and its professors insulted, when it is forced upon those who cannot value it and will not have it."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes warn against giving sacred teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

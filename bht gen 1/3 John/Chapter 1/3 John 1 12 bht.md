@@ -9,7 +9,7 @@ This Bible verse is about Demetrius, who is well-regarded and respected by all. 
 2) "The objective Truth of God, which is the divine rule of the walk of all believers, gives a good testimony to him who really walks in the truth."
 3) "His form, thus seen in the mirror of God’s Truth, in which the perfect form of Christ is held up to us, appeared in the likeness of Christ; so that the mirror itself seemed to place in a clear light his Christian virtue and uprightness, and thus to bear witness to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel standard of truth bears witness to him that he walks conformably to it, in acts of real love, hospitality to the brethren." 
 2. "He that doeth truth cometh to the light, that his deeds may be made manifest that they are wrought in God." 
 3. "The oldest manuscripts read, 'thou knowest.'"
@@ -46,4 +46,4 @@ This Bible verse is about Demetrius, who is well-regarded and respected by all. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

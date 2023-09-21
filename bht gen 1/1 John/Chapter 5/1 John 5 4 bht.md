@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the victory that believers h
 2. "The whole mass of the born of God conquer the world: therefore none of us need contemplate failure, or faint under his struggle as a hard one."
 3. "The victory which hath conquered the world is this, our faith...wherever there is faith there is victory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sue for the whole body of the regenerate is victory over every opposing influence."
 2. "There is a present joy to each believer in keeping [the commandments] which makes them 'not grievous.'"
 3. "The Father has given, as it were, the whole mass to the Son, that all whom He gave may be one whole: that universal whole the Son singly evolves, in the execution of the divine plan."
@@ -51,4 +51,4 @@ The verse being described is a powerful reminder of the victory that believers h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

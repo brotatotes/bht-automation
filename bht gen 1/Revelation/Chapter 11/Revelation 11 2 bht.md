@@ -4,7 +4,7 @@
 In this verse, the commentators provide insights into the meaning of the passage. The court, which is not to be measured, symbolizes the false members of the church, those who bear no fruit. The reference to the Gentiles in the outer court signifies the spreading influence of the church to the nations. The mention of the holy city being trampled upon refers to the future tribulations and challenges faced by the Christian church. Ultimately, the verse portrays a distinction between true worshippers and false believers, as well as the trials faced by the church throughout history.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The court...outside the Holy Place...is not to be measured; whereas the Holy Place is." 
 2. "The different epochs marked by the 2300, 1335, 1290, and 1260 days, will not be fully cleared up till the grand consummation."
 3. "The three and a half, in a word, marks the time in which the earthly rules over the heavenly kingdom."
@@ -46,4 +46,4 @@ In this verse, the commentators provide insights into the meaning of the passage
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

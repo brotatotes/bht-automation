@@ -9,7 +9,7 @@ In this verse, we are reminded that everything, whether favorable or challenging
 2. "Thanksgiving is the highest and noblest offering of the Church to God's glory."
 3. "That this may be rendered, in the best sense, as the result of the working of grace which has become abundant by means of the many recipients, is the great end of the Christian ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That grace (the grace which preserves us in trials and works life in you), being made the greater (multiplied), by means of the greater number (of its recipients), may cause the thanksgiving to abound to the glory of God." [CHRYSOSTOM]
 2. "That grace, being made the greater (multiplied) on account of the thanksgiving of the greater number (for grace already received), may abound (abundantly redound) to," c.
 3. "Thanksgiving invites more abundant grace."
@@ -57,4 +57,4 @@ In this verse, we are reminded that everything, whether favorable or challenging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

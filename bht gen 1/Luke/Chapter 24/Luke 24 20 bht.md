@@ -9,7 +9,7 @@ The verse being described depicts the collaboration between the Jewish religious
 2. "That 'they say our, not as excluding, but as including the stranger,' as alleged in some former Editions, is not a safe view from the evidently exclusive use of ἡμεῖς in the next verse."
 3. "παρέδωκαν, to Pilate."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words imply the earnest discussion that had appeared in their manner."
 2. "The communication between the disciples and Jesus was not just casual conversation, but a deep and meaningful discussion."
 3. "Their manner of communication showed their genuine interest and concern for the topic at hand."
@@ -41,4 +41,4 @@ The verse being described depicts the collaboration between the Jewish religious
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ At that day, when the Spirit's coming is manifested, a new era of knowledge and 
 2. "If any particular day is to be thought of, it would naturally be the Pentecost."
 3. "No particular day: but 'each of these periods'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At that day—of the Spirit's coming." - This quote highlights the future event of the coming of the Holy Spirit, which will bring about a deeper understanding and knowledge.
 2. "ye shall know that I am in my Father, ye in me, I in you" - This quote emphasizes the interconnectedness and unity between Jesus, the Father, and the believers. It speaks to the intimate relationship and oneness that is experienced through faith.
 3. "See on :-" - This quote refers to a cross-reference, indicating that there is further explanation or insight to be found in another part of the commentary or in another verse. It encourages the reader to explore and delve deeper into the context and meaning of the verse.
@@ -50,4 +50,4 @@ At that day, when the Spirit's coming is manifested, a new era of knowledge and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

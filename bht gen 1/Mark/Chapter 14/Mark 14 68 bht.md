@@ -9,7 +9,7 @@ In this verse, a person is depicted denying any association with Jesus despite b
 2. "The omission of the words καὶ ἀλ. ἐφ. appears to be an attempt to harmonize the accounts."
 3. "An union of two separate answers, which form the 1st and 2nd in Matthew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he went out into the porch—the vestibule leading to the street—no doubt finding the fire-place too hot for him; possibly also with the hope of escaping—but that was not to be, and perhaps he dreaded that, too." 
 2. "Doubtless by this time his mind would be getting into a sea of commotion, and would fluctuate every moment in its resolves." 
 3. "This, then, was the First Denial."
@@ -44,4 +44,4 @@ These quotes collectively shed light on Peter's denial of Jesus, his confusion, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

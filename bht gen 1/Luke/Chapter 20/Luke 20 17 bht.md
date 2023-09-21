@@ -9,7 +9,7 @@ In this verse, we see the profound irony of Jesus being rejected by religious le
 2. "How then, supposing your wish to be fulfilled, could this which is written come to pass?" 
 3. "The verse challenges the reader to consider the implications of their desires in light of the written word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Kingdom of God is here a Temple, in the erection of which a certain stone, rejected as unsuitable by the spiritual builders, is, by the great Lord of the House, made the keystone of the whole."
 2. "On that Stone the builders were now 'falling' and being 'broken'...sustaining great spiritual hurt."
 3. "Soon that Stone should fall upon them and grind them to powder...in their corporate capacity in the tremendous destruction of Jerusalem, but personally, as unbelievers, in a more awful sense still."
@@ -53,4 +53,4 @@ In this verse, we see the profound irony of Jesus being rejected by religious le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

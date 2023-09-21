@@ -4,7 +4,7 @@
 In this verse, the imagery used emphasizes the preparation needed to make way for the Lord, through leveling and smoothing obstacles. Clear metaphors of valleys being lifted up and mountains being made low illustrate the call to prepare for God's coming. The verse speaks of humbling the proud and exalting the humble, rectifying distorted paths, and filling valleys with divine consolation. This is a proclamation urging the people to clear and improve the old roads or make new ones, directing them to right ways and paths of righteousness and truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every valley, &c.—levelling and smoothing" - This quote highlights the imagery used in the verse, emphasizing the idea of preparing the way for the Lord by leveling and smoothing out obstacles. 
 
 2. "Obvious figures, the sense of which is in the first words of the proclamation" - This quote suggests that the figures of valleys being lifted up and mountains and hills being made low are clear metaphors for preparing the way for the Lord. 
@@ -37,4 +37,4 @@ In this verse, the imagery used emphasizes the preparation needed to make way fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

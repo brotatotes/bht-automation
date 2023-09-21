@@ -4,7 +4,7 @@
 In the midst of their imprisonment, the prisoners endured physical abuse, with many stripes laid upon them, as if their suffering was not enough to satisfy their captors. Their Roman citizenship seemed to be disregarded or overlooked in the chaos, further highlighting the injustices they faced. It is suggested that the charging of the jailer may have been more driven by a need to appease the crowd rather than a genuine belief in the guilt of the prisoners, raising doubts about the true motives behind their treatment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The bleeding wounds from which they were not washed till it was done by the converted jailer." 
 2. "Pestilential cells, damp and cold, from which the light was excluded, and where the chains rusted on the prisoners." 
 3. "One such place may be seen to this day on the slope of the Capitol at Rome."
@@ -48,4 +48,4 @@ In the midst of their imprisonment, the prisoners endured physical abuse, with m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -8,7 +8,7 @@ The verse described emphasizes the theme of joy in the Lord throughout the Epist
 1. "AGAIN I Will say it: referring to ch. Philippians 3:1, where see note." 
 2. "It is the ground-tone of the Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joy is the predominant feature of the Epistle."
 2. "Joy is the predominant feature of the Epistle."
 3. "Joy is the predominant feature of the Epistle."
@@ -45,4 +45,4 @@ The verse described emphasizes the theme of joy in the Lord throughout the Epist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

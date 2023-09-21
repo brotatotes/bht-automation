@@ -9,7 +9,7 @@ The writer of this verse expresses a genuine longing and affection for the recip
 2. "Whether there was any special reason, more than affection, which made Epaphroditus anxious to return on account of this, we cannot say."
 3. "See note on ref. Matt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Inasmuch as he was longing after you all."
 2. "The Greek expresses the being worn out and overpowered with heavy grief."
 3. "He felt how exceedingly saddened you would be in hearing it; and he now is hastening to relieve your minds of the anxiety."
@@ -57,4 +57,4 @@ The writer of this verse expresses a genuine longing and affection for the recip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

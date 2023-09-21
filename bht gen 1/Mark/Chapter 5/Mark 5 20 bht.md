@@ -9,7 +9,7 @@ A man, who had been healed from demonic possession by Jesus, became a preacher t
 2. "He commands the man to tell this, for He was little known in Peræa where it happened."
 3. "He would have no consequences to fear, as in Galilee, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "how great things Jesus had done for him: and all men did marvel" - This quote highlights the impact of Jesus' miracles on the man who was healed. It shows that the man was so amazed by what Jesus had done for him that he couldn't help but share the news with everyone around him.
 
 2. "Throughout that considerable region did this monument of mercy proclaim his new-found Lord" - This quote emphasizes the man's transformation from being possessed by demons to becoming a living testimony of Jesus' mercy. It suggests that his healing became a symbol of hope and faith for others in the region.
@@ -42,4 +42,4 @@ A man, who had been healed from demonic possession by Jesus, became a preacher t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

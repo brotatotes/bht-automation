@@ -9,7 +9,7 @@ This verse raises the question of whether the coming of the speaker will be in j
 2. "He speaks as a father: τί ἐστιν, ἐν ῥάβδῳ? ἐν κολάσει, ἐν τιμωρίᾳ."
 3. "Generally, and by De Wette, explained, a gentle spirit, meaning by πνεῦμα his own spirit: but Meyer has remarked, that in every place in the N. T. where πνεῦμα is joined with an abstract genitive, it imports the Holy Spirit, and the abstract genitive refers to the specific working of the Spirit in the case in hand."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Must I come IN displeasure to exercise the rod, or IN love, and the Spirit of meekness." 
 2. "The Greek preposition is used in both clauses." 
 3. "The Spirit of meekness."
@@ -61,4 +61,4 @@ This verse raises the question of whether the coming of the speaker will be in j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

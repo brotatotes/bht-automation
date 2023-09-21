@@ -9,7 +9,7 @@ In this verse, the commentators describe the concept of enduring trials and pati
 2. "Do not limit your attention to Job's sufferings, but look on to the end and see the mercy shown him by God."
 3. "This remembrance of God's pity and mercy would encourage them also to hope that whatever their sufferings, the τέλος κυρίου might prove similar in their own case."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those who in past days, like the prophets and Job, have endured trials."
 2. "He here reverts to the subject which he began with."
 3. "Though he showed much of impatience, yet he always returned to this, that he committed himself wholly to God, and at last showed a perfect spirit of enduring submission."
@@ -61,4 +61,4 @@ In this verse, the commentators describe the concept of enduring trials and pati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

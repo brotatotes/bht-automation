@@ -9,7 +9,7 @@ This verse discusses the significance of the first commandment and the underlyin
 2. "This was one of the μάχαι νομικαί (Tit 3:9), which was the greatest commandment. The Scribes had many frivolous enumerations and classifications of the commands of the law."
 3. "πάντων, not πασῶν: πρώτη - πάντων is treated almost as one word, so that πάντων does not belong to ἐντ. understood, but, q. d. ‘first-of-all of the commandments.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When Matthew ( :-) therefore says he came 'tempting,' or 'trying him,' as one of the Pharisaic party who seemed to enjoy the defeat He had given to the Sadducees, we may suppose that though somewhat priding himself upon his insight into the law, and not indisposed to measure his knowledge with One in whom he had not yet learned to believe, he was nevertheless an honest-hearted, fair disputant."
 2. "Which is the first commandment of all?—first in importance; the primary, leading commandment, the most fundamental one. This was a question which, with some others, divided the Jewish teachers into rival schools."
 3. "Our Lord's answer is in a strain of respect very different from what He showed to cavillers—ever observing His own direction, 'Give not that which is holy to the dogs, neither cast ye your pearls before swine; lest they trample them under their feet, and turn again and rend you' (Matthew 7:6)."
@@ -47,4 +47,4 @@ This verse discusses the significance of the first commandment and the underlyin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

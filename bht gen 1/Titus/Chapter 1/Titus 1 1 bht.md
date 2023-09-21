@@ -9,7 +9,7 @@ The verse described here speaks of a servant of God, an apostle of Jesus Christ,
 2. "The best sense seems to be that which he gives, that of reference, ‘with regard to,’ i.e. to bring about, cherish, and perfect: nearly in the same sense as εἰς ὑπακοὴν πίστεως, Romans 1:5."
 3. "Paul, a servant of God, but an Apostle of Jesus Christ, for the faith of the elect of God and the thorough knowledge of the truth which is according to piety."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The full expression of his apostolic office answers, in both Epistles, to the design, and is a comprehensive index to the contents." 
 2. "This election has its ground, not in anything belonging to those thus distinguished, but in the purpose and will of God from everlasting." 
 3. "The acknowledging of the truth" is for promoting the full knowledge of the Christian truth.
@@ -55,4 +55,4 @@ The verse described here speaks of a servant of God, an apostle of Jesus Christ,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

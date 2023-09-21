@@ -11,7 +11,7 @@ In this verse, the irony of being "free from righteousness" is highlighted, reve
 
 3. "It does not appear, till the end of that freedom is declared." - This quote suggests that the true nature of this freedom is only revealed later in the passage, indicating that there is more to be understood about the concept of freedom in relation to sin and righteousness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Since no servant can serve two masters, much less where their interests come into deadly collision, and each demands the whole man, so, while ye were in the service of Sin ye were in no proper sense the servants of Righteousness, and never did it one act of real service."
 2. "Whatever might be your conviction of the claims of Righteousness, your real services were all and always given to Sin."
 3. "Thus had ye full proof of the nature and advantages of Sin's service."
@@ -57,4 +57,4 @@ In this verse, the irony of being "free from righteousness" is highlighted, reve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

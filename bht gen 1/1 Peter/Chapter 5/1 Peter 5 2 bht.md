@@ -9,7 +9,7 @@ Following the counsel of various commentators, the verse encourages the shepherd
 2. "He orders them to feed the flock of God, not generally, nor œcumenically, but locally, as far as concerned that part of it found among them."
 3. "Prompted by a desire not of gain, but of good to the flock; ready and enthusiastic, as the children of Israel, and even the workmen, gave their services eagerly and gratuitously to build the tabernacle of old."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feed—Greek, 'Tend as a shepherd,' by discipline and doctrine."
 2. "The dignity is marked by the term 'elder'; the duties of the office, to tend or oversee, by 'bishop.'"
 3. "Necessity is laid upon them, but willingness prevents it being felt, both in undertaking and in fulfilling the duty."
@@ -57,4 +57,4 @@ These quotes shed light on the responsibility of shepherding the flock with sinc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is a promise of God's continuous support and str
 2. "i.e. εἰς τὸ εἶναι ὑμᾶς ἀνεγκ .; so ἀπεκατεστάθη ὑγιής , Matthew 12:13."
 3. "To the end, see reff. i.e. to the συντέλεια τ . αἰῶνος, not merely ‘to the end of your lives.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After that day there is no danger." 
 2. "Now is our day to work, and the day of our enemies to try us."
 3. "Then will be the day of Christ, and of His glory in the saints."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I had to condense it into three quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

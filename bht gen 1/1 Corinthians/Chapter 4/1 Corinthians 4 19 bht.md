@@ -9,7 +9,7 @@ The commentator quotes point to a Bible verse where the speaker is expressing th
 2. "ταχέως] How soon, see ch. 1 Corinthians 16:8."
 3. "γνώσομαι] I will inform myself of not the words of those who are puffed up (those I care not for), but their power: whether they are really mighty in the Spirit, or not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But come I will" - an emphatical negation of their supposition (1 Corinthians 4:18).
 2. "If the Lord will" - a wise proviso (James 4:15). He does not seem to have been able to go as soon as he intended.
 3. "But the power" - I care not for their high-sounding "speech," "but" what I desire to know is "their power," whether they be really powerful in the Spirit, or not. The predominant feature of Grecian character, a love for power of discourse, rather than that of godliness, showed itself at Corinth.
@@ -50,4 +50,4 @@ The commentator quotes point to a Bible verse where the speaker is expressing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

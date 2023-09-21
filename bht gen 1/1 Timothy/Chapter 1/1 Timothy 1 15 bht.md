@@ -11,7 +11,7 @@ Faithful is the saying, worthy of all acceptance, that Christ came into the worl
 
 3. "of whom I am chief" - This expresses the deep humility of the speaker, acknowledging themselves as the foremost sinner.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful is the saying." - This phrase emphasizes the trustworthiness and reliability of the message being conveyed. It highlights the faithfulness of God to His word and the credibility of the statement being made.
 
 2. "Acceptation - reception (as of a boon) into the heart, as well as the understanding, with all gladness." - This quote explains that accepting the message of salvation through Christ involves not only intellectual understanding but also a heartfelt reception with joy and gladness.
@@ -61,4 +61,4 @@ Faithful is the saying, worthy of all acceptance, that Christ came into the worl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

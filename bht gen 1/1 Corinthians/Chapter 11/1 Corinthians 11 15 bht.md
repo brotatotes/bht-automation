@@ -9,7 +9,7 @@ In this verse, commentators speak of the cultural significance of long hair for 
 2. "The περιβόλαιον is properly a wrapper, or enveloping garment." 
 3. "In this passage, the Apostle would refer to the 'peplum,' which the Grecian women used ordinarily as a shawl, but on public occasions as a hood also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her long hair shows she ought to cover her head as much as possible." 
 2. "The will ought to accord with nature." 
 3. "Not that she does not need additional covering."
@@ -45,4 +45,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described depicts a time of fearful sights and signs from heaven
 
 3. "ἀπʼ οὐρ. belongs to both φόβηθ. and σημ." This quote reiterates the importance of understanding the shared connection between the fear and the signs from heaven, reinforcing the idea that they are intertwined in the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do not be terrified" - This quote encourages believers to have faith and not be overwhelmed by fear or anxiety in the face of difficult circumstances. (Luke 21:19)
 2. "Worse must come before all is over" - This quote reminds readers that there may be more challenges or trials to come before reaching a resolution or ultimate victory. (Matthew 24:6; Mark 13:7)
 3. "Not by and by, not yet" - This quote emphasizes the need for patience and endurance, as immediate relief or resolution may not be forthcoming. (Matthew 24:6; Mark 13:7)
@@ -50,4 +50,4 @@ The verse being described depicts a time of fearful sights and signs from heaven
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

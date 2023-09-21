@@ -9,7 +9,7 @@ This warning emphasizes the consequences of destroying the temple of God, either
 2. "φθερεῖ, either by temporal death (Mey.), as in ch. 1 Corinthians 11:30; or by spiritual death, which is more probable, seeing that the figurative temple is spoken of, not (as Mey.) the material temple: and as temporal death was the punishment for defiling the material temple (Exodus 28:43. Lev 16:2 al. fr.), so spiritual death for marring or defiling of God’s spiritual temple."
 3. "οἵτινες, i.e. ἅγιοι, not, 'which temple are ye,' which would be tautological after 1 Corinthians 3:16, and would hardly be expressed by οἵτινες, 'ut qui,' or 'quales.' Meyer well remarks, that οἵτινές ἐστε ὑμεῖς is the minor proposition of a syllogism: 'Whoever mars the temple of God, him will God destroy, because His temple is holy; but ye also, as His ideal temple, are holy: therefore, whoever mars you, shall be destroyed by God.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God repays in kind by a righteous retaliation. The destroyer shall himself be destroyed."
 2. "The destroyers here are distinct from the unwise or unskilful builders. The latter held fast the foundation and, therefore, though they lose their work of superstructure and the special reward, yet they are themselves saved."
 3. "Any Christian who violates the sanctity of the spiritual temple shall perish eternally."
@@ -54,4 +54,4 @@ This warning emphasizes the consequences of destroying the temple of God, either
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

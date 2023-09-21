@@ -11,7 +11,7 @@ In the bustling city of Corinth, known for its influence, power dynamics, and po
 
 3. "By understanding the historical and geographical context of Corinth, we can better appreciate the challenges and opportunities faced by the early Christian community in this bustling city."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Came to Corinth—rebuilt by Julius Cæsar on the isthmus between the Ægean and Ionian Seas." 
 2. "A large and populous mercantile city, and the center of commerce alike for East and West."
 3. "Such a city was a noble field for the Gospel, which, once established there, would naturally diffuse itself far and wide."
@@ -52,4 +52,4 @@ In the bustling city of Corinth, known for its influence, power dynamics, and po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

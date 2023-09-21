@@ -13,7 +13,7 @@ The Bible verse being described is a powerful declaration of God's work of recon
 
 (Note: The commentary is quite lengthy, so I have selected three quotes that capture the essence of the author's thoughts on the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If that part of the Saviour's work which cost Him His blood, and which had to be wrought for persons incapable of the least sympathy either with His love or His labors in their behalf—even our 'justification,' our 'reconciliation'—is already completed; how much more will He do all that remains to be done, since He has it to do, not by death agonies any more, but in untroubled 'life,' and no longer for enemies, but for friends—from whom, at every stage of it, He receives the grateful response of redeemed and adoring souls?"
 
 2. "To be 'saved from wrath through Him,' denotes here the whole work of Christ towards believers, from the moment of justification, when the wrath of God is turned away from them, till the Judge on the great white throne shall discharge that wrath upon them that 'obey not the Gospel of our Lord Jesus Christ'; and that work may all be summed up in 'keeping them from falling, and presenting them faultless before the presence of His glory with exceeding joy' (Judges 1:24): thus are they 'saved from wrath through Him.'"
@@ -59,4 +59,4 @@ The Bible verse being described is a powerful declaration of God's work of recon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

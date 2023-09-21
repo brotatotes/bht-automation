@@ -9,7 +9,7 @@ Through their actions, believers serve as a living testimony, more convincing th
 2. "The plural seems to be used... of Paul himself only." 
 3. "Known and read by all men... his success among them was his letter of recommendation to them as well as to others from them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your conversion through my instrumentality, and your faith which is 'known of all men' by widespread report, and which is written by memory and affection on my inmost heart and is borne about wherever I go, is my letter of recommendation." 
 
 2. "There is not so powerful a sermon in the world, as a consistent Christian life. The eye of the world takes in more than the ear. Christians' lives are the only religious books the world reads." 
@@ -58,4 +58,4 @@ Through their actions, believers serve as a living testimony, more convincing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

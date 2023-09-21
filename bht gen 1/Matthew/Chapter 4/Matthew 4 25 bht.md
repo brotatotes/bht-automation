@@ -9,7 +9,7 @@ In a region known for its ten cities, a diverse multitude gathers to hear Jesus 
 2. "Josephus appears not to include Damascus in Decapolis, for he calls Scythopolis μεγίστη τῆς Δεκαπόλεως (B. J. iii. 9. 7): and Cellarius thinks Cæsarea Philippi and Gergesa should be substituted for Damascus and Raphana."
 3. "πέραν τ . Ἰορδ .: Peræa. The country east of the Jordan, between the rivers Jabbok and Arnon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The more immediate object for which this is here mentioned is, to give the reader some idea both of the vast concourse and of the varied complexion of eager attendants upon the great Preacher." 
 2. "On the importance which our Lord Himself attached to this first preaching circuit, and the preparation which He made for it."
 3. "Thus not only was all Palestine upheaved, but all the adjacent regions."
@@ -47,4 +47,4 @@ In a region known for its ten cities, a diverse multitude gathers to hear Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

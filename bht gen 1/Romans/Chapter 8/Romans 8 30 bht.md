@@ -9,7 +9,7 @@ The Bible verse being described is focused on the inseparable connection between
 2. "The aorist ἐδόξασεν being used, as the other aorists, to imply the completion in the divine counsel of all these, which are to us, in the state of time, so many successive steps, simultaneously and irrevocably." 
 3. "So we have the perfect in John 17:10; Joh 17:22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In 'predestinating us to be conformed to the image of His Son' in final glory, He settled all the successive steps of it."
 2. "The word 'called'... always means 'internally, effectually, savingly called.' It denotes the first great step in personal salvation and answers to 'conversion.'"
 3. "And all this is viewed as past; because, starting from the past decree of 'predestination to be conformed to the image of God's Son' of which the other steps are but the successive unfoldings—all is beheld as one entire, eternally completed salvation."
@@ -50,4 +50,4 @@ The Bible verse being described is focused on the inseparable connection between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

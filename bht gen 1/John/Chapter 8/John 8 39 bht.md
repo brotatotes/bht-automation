@@ -4,7 +4,7 @@
 This verse addresses the relationship between believers and their identity as children of Abraham. It highlights the distinction between physical lineage and spiritual adoption. The commentators emphasize that true sonship is not based on bloodline alone, but on faith and imitation of Abraham's character. They also note that rejection of God's word and lack of mercy are indicators of a false claim to belonging to Abraham's lineage. True children of Abraham are those who exhibit faith, mercy, and obedience, reflecting the character of their father.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye were Abraham's children, ye would do the works of Abraham." 
 2. "He knew they were Abraham's children, that is, according to the flesh."
 3. "The children of his faith and holiness they were not, but the reverse."
@@ -45,4 +45,4 @@ This verse addresses the relationship between believers and their identity as ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

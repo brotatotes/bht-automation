@@ -9,7 +9,7 @@ Life is uncertain and transient, like a fleeting vapor or mist. As human beings,
 2. "ye are (ye yourselves: so that any thing of yours, even your life, must partake of the same instability and transitoriness."
 3. "a vapour, which appeareth for a little time, afterwards as it appeared, so (this is the force of καί, 'vanishing as it came;'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What nature is your life? That is, how evanescent it is."
 2. "Ye yourselves are transitory; so everything of yours, even your life, must partake of the same transitoriness."
 3. "Afterwards vanishing as it came."
@@ -50,4 +50,4 @@ Life is uncertain and transient, like a fleeting vapor or mist. As human beings,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

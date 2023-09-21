@@ -9,7 +9,7 @@ Let your speech be uplifting and beneficial, focusing on edification and progres
 2. "Whatever saying is good for edification of the present need." 
 3. "That it may give grace to them that hear."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Without the salt of grace, [communication] becomes corrupt."
 2. "Even words good in themselves must be introduced seasonably lest by our fault they prove injurious instead of useful."
 3. "Our words should be as nails fastened in a sure place, words suiting the present time and the present person, being 'for the edifying of the occasion'."
@@ -58,4 +58,4 @@ These quotes highlight the importance of speaking words that are beneficial, edi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

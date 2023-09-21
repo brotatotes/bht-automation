@@ -9,7 +9,7 @@ This passage describes a ship that originated from the bustling city of Alexandr
 2. "the coast is bold and safe, and the elevation of the mountains makes it visible at a great distance; it abounds in harbours, while the sinuosities of its shores and the westerly current would enable them, if the wind was at all off the land, to work to windward"
 3. "Myra lies due N. from Alexandria, and its bay is well calculated to shelter a wind-bound ship"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As Egypt was the granary of Italy, and this vessel was laden with wheat, we need not wonder it was large enough to carry two hundred seventy-six souls, passengers and crew together."
 2. "The Egyptian merchantmen, among the largest in the Mediterranean, were equal to the largest merchantmen in our day."
 3. "It may seem strange that on their passage from Alexandria to Italy they should be found at a Lycian port. But even still it is not unusual to stand to the north towards Asia Minor, for the sake of the current."
@@ -47,4 +47,4 @@ This passage describes a ship that originated from the bustling city of Alexandr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

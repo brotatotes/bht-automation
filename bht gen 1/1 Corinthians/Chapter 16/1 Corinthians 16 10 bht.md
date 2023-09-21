@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul urges the Corinthians to warmly receive Ti
 2. "His youth occurs to us, mentioned 1 Timothy 4:12; but even that is not enough, and would hardly be intended here, without some reference to it."
 3. "De Wette’s conjecture may not be without foundation, that he was perhaps of a timid disposition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The undesigned coincidence between the Epistle and the history, and the clearing up of the meaning of the former (which does not mention the journey to Macedonia at all) by the latter, is a sure mark of genuineness."
 2. "The 'IF Timothy come,' implies uncertainty."
 3. "Titus' presence would thus make amends for the disappointment as to the intended visit of Timothy and would disarm adversaries of a charge in this respect."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul urges the Corinthians to warmly receive Ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

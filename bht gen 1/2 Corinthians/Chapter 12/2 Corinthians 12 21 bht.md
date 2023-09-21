@@ -9,7 +9,7 @@ In these commentaries, we see a common theme of the Corinthians' struggle with s
 2. "The fut. (ref.) indicates an assumption that the supposed case will really be. That this humbling, and not that of being obliged to punish, is intended, seems evident: the exercise of judicial authority being no humiliation, but the contrary, and humiliation being the natural result of want of success."
 3. "I believe he uses πολλοὺς τῶν προημαρτηκότων as a mild expression for τοὺς πολλοὺς τοὺς προημαρτηκότας, and that we must not therefore press too closely the enquiry as to what the genus οἱ προημ. is, of which the πολλοί are the species."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The faithful pastor is 'humbled' at, and 'bewails' the falls of his people, as though they were his own."
 2. "The indicative implies that the supposition will actually be so."
 3. "Uncleanness, for example, of married persons; fornication, among the unmarried."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the Corinthians' disrespect 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

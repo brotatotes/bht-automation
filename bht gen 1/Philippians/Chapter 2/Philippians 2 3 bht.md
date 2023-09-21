@@ -9,7 +9,7 @@ In this passage, the commentator highlights the importance of humility and unity
 2. "By means of humility of mind, esteeming one another superior to yourselves."
 3. "Regarding not their own matters, but each also the matters of others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thinking nothing in the way of strife" - The commentary suggests that we should avoid engaging in factious intrigue or self-seeking behavior, as it goes against the good and bad thoughts that characterize our actions before God.
 
 2. "The man 'lowly of mind' as to his spiritual life is independent of men, and free from all slavish feeling, while sensible of his continual dependence on God." - This quote highlights the importance of humility in recognizing our dependence on God and freeing ourselves from the need for validation from others.
@@ -57,4 +57,4 @@ In this passage, the commentator highlights the importance of humility and unity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

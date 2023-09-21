@@ -9,7 +9,7 @@ In this verse, the duty of offering sacrifices for sins is highlighted, emphasiz
 2. "Such was the ordinance of the law."
 3. "Leave it to the Writer himself...to determine how far these requisites are satisfied in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By reason hereof" refers to the weakness and imperfection of the Levitical priesthood, highlighting the superiority of our High Priest, Jesus. (13 words)
 
 2. Our High Priest not only offers sacrifices for the people but also for Himself, emphasizing His perfect and sinless nature. (16 words)
@@ -51,4 +51,4 @@ In this verse, the duty of offering sacrifices for sins is highlighted, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

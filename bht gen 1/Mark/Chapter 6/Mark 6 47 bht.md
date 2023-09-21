@@ -4,7 +4,7 @@
 In the midst of a stormy night on a turbulent sea, the disciples found themselves battling against the wind, filled with distress as their Master was not with them. Despite their initial hope that Jesus would join them, he remained alone on the land after praying on the mountains. With no humanly possible way for Jesus to reach them, the stage was set for the forthcoming miracle of Jesus walking on water, demonstrating his authority and power over the forces of nature.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It had come even when the disciples embarked."
 2. "Perhaps they made no great effort to push across at first, having a lingering hope that their Master would yet join them."
 3. "And the sea arose, by reason of a great wind that blew."
@@ -25,4 +25,4 @@ In the midst of a stormy night on a turbulent sea, the disciples found themselve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

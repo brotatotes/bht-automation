@@ -9,7 +9,7 @@ This verse reflects the universal application of prophetic writings to Jesus as 
 2. "It seems to have been a received axiom of interpretation (which has, by its adoption in the N.T., received the sanction of the Holy Spirit Himself, and now stands for our guidance), that the subject of all allusions, the represented in all parables and dark sayings, was He who was to come, or the circumstances attendant on His advent and reign."
 3. "ἵνα must not be explained away; it never denotes the event or mere result, but always the purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Evangelist here quotes directly from the Hebrew, warily departing from the Septuagint, which renders the words, 'From Egypt have I recalled his children,' meaning Israel's children."
 2. "The prophet is reminding his people how dear Israel was to God in the days of his youth; how Moses was bidden to say to Pharaoh, 'Thus saith the Lord, Israel is My son, My first-born.'"
 3. "Viewing the words in this light, even if our Evangelist had not applied them to the recall from Egypt of God's own beloved, Only-begotten Son, the application would have been irresistibly made by all who have learnt to pierce beneath the surface to the deeper relations which Christ bears to His people, and both to God."
@@ -50,4 +50,4 @@ This verse reflects the universal application of prophetic writings to Jesus as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

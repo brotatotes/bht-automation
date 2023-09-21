@@ -9,7 +9,7 @@ The verse being described focuses on the role of prophecy in speaking to the edi
 2. "παραμυθία occurs Plato, Axioch. p. 365, ἀσθενῆ τὴν ψυχήν, πάνυ ἐνδεᾶ παραμυθίας." 
 3. "And Ælian, V. H. xii. 1, fin., παρεμυθήσατο Ἀρταξέρξην, κ. τὸ τῆς λύπης ἰάσατο πάθος, εἴξαντος τοῦ βας. τῇ κηδεμονίᾳ, κ. τῇ παραμυθίᾳ πεισθέντος συνετῶς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But—on the other hand."
 2. "The two principal species given are 'exhortation' to remove sluggishness, 'comfort' or consolation to remove sadness."
 3. "Omit 'to'."
@@ -43,4 +43,4 @@ The verse being described focuses on the role of prophecy in speaking to the edi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

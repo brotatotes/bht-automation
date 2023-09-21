@@ -9,7 +9,7 @@ In this Bible verse, we witness an intriguing scene where Nicodemus disrupts the
 2. "We must now regard it as fragmentary, forming the beginning of the account of the woman taken in adultery."
 3. "Taken in conjunction with what follows, I should say that they indicate some time during the last days of the Lord’s ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Finding their plot could not at that time be carried into effect." This quote highlights the temporary setback faced by the chief priests and their failed attempt to execute their plan against Jesus. 
 
 2. "Is your rage thus impotent, ye chief priests?" This quote questions the effectiveness of the chief priests' anger and emphasizes their frustration and inability to achieve their desired outcome.
@@ -55,4 +55,4 @@ In this Bible verse, we witness an intriguing scene where Nicodemus disrupts the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

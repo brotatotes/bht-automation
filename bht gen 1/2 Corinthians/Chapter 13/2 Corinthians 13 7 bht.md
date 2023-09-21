@@ -9,7 +9,7 @@ The verse being described is a heartfelt plea for the readers to live a righteou
 2. "And the purpose of this my prayer is not to gain any repute by your Christian graces, but that you may be highly endowed with them, and (if it so happen) we may be as of no repute."
 3. "We pray... not in order that we may appear δόκιμοι, it follows that the appearing δόκιμοι would be a result of the fulfilment of the prayer, viz. of your doing no evil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that we should appear approved, but for your good."
 2. "We do not pray that we may appear approved, but that ye should do what is right."
 3. "Though we be as reprobates, incapable of affording proof of Christ speaking in us."
@@ -59,4 +59,4 @@ These quotes highlight Paul's selfless desire for the Corinthians to do what is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

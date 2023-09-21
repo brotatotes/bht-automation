@@ -9,7 +9,7 @@ In a moment of great significance, Peter and the eleven disciples step forward, 
 2. "De Wette concludes from this, that the Apostles had not themselves spoken with tongues, as being an inferior gift."
 3. "ἄνδρες Ἰουδ.] the Jews, properly so called: native dwellers in Jerus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, standing up with the eleven—in advance, perhaps, of the rest." This suggests that Peter took a leadership role among the disciples, stepping forward to address the crowd. (14-21)
 
 2. "Peter's boldness and confidence in speaking to the crowd demonstrated his transformation from a fearful denier of Jesus to a courageous disciple." This highlights the personal growth and faith development of Peter. (14-21)
@@ -58,4 +58,4 @@ Note: The provided commentary is quite long, so I had to select only three quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

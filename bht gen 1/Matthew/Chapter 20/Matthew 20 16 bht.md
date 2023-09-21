@@ -9,7 +9,7 @@ In this Bible verse, Jesus teaches about the inversion of positions and the impo
 2. "The first were last in these same respects."
 3. "While multitudes are called into the vineyard, many, by murmuring and otherwise disgracing their calling, will nullify it, and so, although first by profession and standing, will not be of the number of the elect: although called, will not be chosen."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take heed lest by indulging the spirit of these murmurers at the penny given to the last hired, ye miss your own penny, though first in the vineyard; while the consciousness of having come in so late may inspire these last with such a humble frame, and such admiration of the grace that has hired and rewarded them at all, as will put them into the foremost place in the end."
 
 2. "Many receive the invitations of the Gospel whom God has never 'chosen to salvation through sanctification of the Spirit and belief of the truth.' But what, it may be asked, has this to do with the subject of our parable? Probably this—to teach us that men who have wrought in Christ's service all their days may, by the spirit which they manifest at the last, make it too evident that, as between God and their own souls, they never were chosen workmen at all."
@@ -54,4 +54,4 @@ These quotes highlight the idea that in the kingdom of God, rewards are not base
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

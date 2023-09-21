@@ -4,7 +4,7 @@
 This verse emphasizes the need for believers to have a healthy fear of God, who has the power to cast into hell. It is a reminder that even as believers, we should recognize and reverence God's authority and judgment. This fear is not limited to unbelievers, but also extends to true believers as a motivation for righteous living. Ultimately, it is the fear of God that enables us to withstand the fears of the world and remain faithful to our duty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear Him . . . Fear Him—how striking the repetition here! Only the one fear would effectually expel the other."
 2. "To play false with one's convictions to save one's life, may fail of its end after all, for God can inflict a violent death in some other and equally formidable way."
 3. "Fear of hell is a divinely authorized and needed motive of action even to Christ's 'friends'."
@@ -42,4 +42,4 @@ This verse emphasizes the need for believers to have a healthy fear of God, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

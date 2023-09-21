@@ -4,7 +4,7 @@
 The verse being described highlights the inclusive and all-encompassing nature of the Gospel message, inviting people from diverse backgrounds and moral standings. It emphasizes that the Gospel call is extended to both the good and the bad, highlighting the universal need for salvation. The verse also emphasizes the completeness and abundance of God's provision, inviting all kinds of people to partake in the wedding celebration of the Gospel. The diligent efforts of the servants in executing their master's orders underscore the unity, collective effort, and passion with which the disciples spread the message of Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel call fetched in Jews, Samaritans, and outlying heathen alike." This quote highlights the inclusive nature of the Gospel message, reaching out to all people regardless of their background or moral standing.
 
 2. "Without making any distinction between open sinners and the morally correct." This quote emphasizes that the invitation to the Kingdom of God is extended to everyone, regardless of their past mistakes or current righteousness.
@@ -47,4 +47,4 @@ The verse being described highlights the inclusive and all-encompassing nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

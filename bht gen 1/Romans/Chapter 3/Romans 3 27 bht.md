@@ -9,7 +9,7 @@ In this verse, the contrast is made between the law of works and the law of fait
 2. "By what law (is it excluded)? (is it by that) of works? No, but by the law of faith."
 3. "Abraham was justified, not by works, so as to have whereof to boast, but by faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Where is boasting then? . . . excluded." - This quote highlights the idea that boasting is not allowed in matters of faith. It suggests that salvation is not achieved through personal achievements or works, but rather through faith in God.
 
 2. "By what law?—on what principle or scheme? of works? Nay; but by the law of faith." - This quote emphasizes that the law of faith is the guiding principle, rather than the law of works. It suggests that faith in God is the key to salvation, rather than relying on one's own efforts or accomplishments.
@@ -58,4 +58,4 @@ These quotes emphasize that boasting has no place in the lives of both Jews and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

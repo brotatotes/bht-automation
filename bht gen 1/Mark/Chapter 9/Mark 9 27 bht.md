@@ -11,7 +11,7 @@ In this Bible verse, we see Jesus extending his divine hand to take hold of a ch
 
 3. "The reference to Revelation 1:17, where John falls at the feet of the glorified Jesus, highlights the awe-inspiring nature of encountering the divine. It reminds us that in the presence of God, we are humbled and reminded of our own frailty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus' act of taking the boy by the hand is a powerful symbol of his compassion and willingness to help those in need. It shows his personal involvement and intimate connection with the individual." 
 
 2. "The act of lifting the boy up not only demonstrates Jesus' physical strength, but also his ability to lift people out of their despair and bring them to a place of healing and restoration." 
@@ -34,4 +34,4 @@ In this Bible verse, we see Jesus extending his divine hand to take hold of a ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

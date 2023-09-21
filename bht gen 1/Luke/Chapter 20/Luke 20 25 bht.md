@@ -4,7 +4,7 @@
 This profound verse calls for a balanced and responsible approach to our civic and spiritual duties. It reminds us to fulfill our obligations to earthly authorities by contributing to society and respecting those in positions of power. Simultaneously, it urges us to prioritize our spiritual responsibilities, offering our worship and devotion to God. The verse is remarkable for its clarity, brevity, and weight, presenting a timeless principle that harmonizes our earthly and divine responsibilities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Putting it in this general form, it was impossible for sedition itself to dispute it, and yet it dissolved the snare." 
 2. "How much there is in this profound but to them startling addition to the maxim." 
 3. "How incomparable is the whole for fulness, brevity, clearness, weight!"
@@ -20,4 +20,4 @@ This profound verse calls for a balanced and responsible approach to our civic a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

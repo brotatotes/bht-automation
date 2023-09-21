@@ -11,7 +11,7 @@ This verse showcases the diverse range of individuals who exemplified faith thro
 
 3. "The order is not chronological...The reason for this may be the greater celebrity of Gideon as a champion of the faith than of Barak, and of Samson than of Jephthah." - The commentator explains the non-chronological order of the names, suggesting that it may be based on the level of fame and prominence of each individual.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He accumulates collectively some out of many examples of faith."
 2. "Gideon—put before Barak, not chronologically, but as being more celebrated."
 3. "David, the warrior king and prophet, forms the transition from warrior chiefs to the 'prophets,' of whom 'Samuel' is mentioned as the first."
@@ -52,4 +52,4 @@ This verse showcases the diverse range of individuals who exemplified faith thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse presents a paradoxical choice between preserving one's earthly life at the expense of one's faith, and sacrificing one's life for the sake of Christ. Commentators emphasize the importance of renouncing oneself and prioritizing spiritual life over worldly desires. They warn against seeking temporary comforts or compromising one's beliefs, as it may ultimately lead to eternal loss. However, those who are willing to surrender their lives for Christ and the Gospel will find true life and eternal rewards in heaven.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For whosoever will save his life shall lose it, and whosoever will lose his life for my sake shall find it." - This verse emphasizes the paradoxical nature of following Jesus. It challenges the notion of self-preservation and highlights the importance of sacrificing one's life for the sake of Christ.
 
 2. "A suffering and dying Messiah liketh you ill; but what if His servants shall meet the same fate?" - This quote highlights the discomfort and resistance that people may have towards the idea of a suffering Messiah. It prompts readers to consider the implications of following Jesus, including the possibility of facing persecution and even death.
@@ -46,4 +46,4 @@ This verse presents a paradoxical choice between preserving one's earthly life a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

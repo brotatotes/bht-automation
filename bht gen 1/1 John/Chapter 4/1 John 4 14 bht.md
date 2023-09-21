@@ -4,7 +4,7 @@
 This verse speaks of the Father sending His Son to be the Savior of the world, with the indwelling Spirit as internal evidence. The commentators emphasize the witness of the apostles, the contemplation of God's love manifested in Jesus, and the recognition of Jesus as the Savior. They highlight the importance of recognizing and accepting Jesus as the foundation for a deep relationship with God, experiencing freedom from sin, and partaking in the communion of the Spirit through the confession of Jesus as the Son of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The internal evidence of the indwelling Spirit is corroborated by the external evidence of the eye-witnesses to the fact of the Father having 'sent His Son to be the Savior of the world.'" 
 
 2. "Seen—Greek, 'contemplated,' 'attentively beheld'."
@@ -45,4 +45,4 @@ This verse speaks of the Father sending His Son to be the Savior of the world, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

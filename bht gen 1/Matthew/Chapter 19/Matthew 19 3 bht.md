@@ -9,7 +9,7 @@ The question presented to Jesus by the Pharisees, as depicted by commentators, w
 2. "It was also, says De Wette, a delicate question in the place where our Lord now was, in the dominions of Herod Antipas."
 3. "κ. πᾶσαν αἰτ., as E. V., for every cause; i.e. is any charge which a man may choose to bring against his wife to justify him in divorcing her?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two rival schools were divided on this question." 
 2. "A delicate one, as DE WETTE pertinently remarks." 
 3. "In the dominions of Herod Antipas."
@@ -53,4 +53,4 @@ The question presented to Jesus by the Pharisees, as depicted by commentators, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

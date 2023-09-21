@@ -11,7 +11,7 @@ In this passage, Jesus embarks on a journey, venturing through various regions t
 
 3. "We have the same journey related Matthew 15:29; and κωφοὺς λαλοῦντας mentioned among the miracles, for which the people glorified the God of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And again, departing from the coasts of Tyre, He came through Sidon to the Sea of Galilee." - This alternative reading suggests that Jesus took a detour through Sidon before reaching the Sea of Galilee, raising questions about the purpose of this journey.
 
 2. "Here Matthew... introduces some particulars, from which we learn that it was only one of a great number." - Matthew's account reveals that the healing of the deaf and dumb man was just one of many miraculous healings that Jesus performed during this time.
@@ -51,4 +51,4 @@ In this passage, Jesus embarks on a journey, venturing through various regions t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

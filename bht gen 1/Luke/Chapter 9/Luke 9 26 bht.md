@@ -9,7 +9,7 @@ This Bible verse speaks of the consequences of being ashamed of Jesus and His te
 2. "The glory of God, which accompanies Him as coming down from God's Throne."
 3. "The glory of the angels, who surround Him with their brightness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sense of shame is one of the strongest in our nature, one of the social affections founded on our love of reputation, which causes instinctive aversion to what is fitted to lower it."
 2. "When Christ and 'His words'—Christianity, especially in its more spiritual and uncompromising features—are unpopular, the same instinctive desire to stand well with others begets the temptation to be ashamed of Him."
 3. "He will disown him before the most august of all assemblies, and put him to 'shame and everlasting contempt'."
@@ -33,4 +33,4 @@ This Bible verse speaks of the consequences of being ashamed of Jesus and His te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

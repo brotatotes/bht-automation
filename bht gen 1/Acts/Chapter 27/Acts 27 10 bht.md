@@ -9,7 +9,7 @@ The centurion displayed remarkable faith in Jesus, not relying on his own power 
 2. "μετὰ ὕβρεως is interpreted by Meyer as subjective ‘accompanied with presumption on our part:’ but not to mention that this would be a very unusual sense, Acts 27:21, κερδῆσαι τὴν ὕβριν ταύτ. κ. τ. ζημίαν, is decisive (De W.) against it."
 3. "ὅτι … μέλλειν] A mixing of two constructions, see Winer, edn. 6, § 44. 8, remark 2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sirs, I perceive, that this voyage will be with hurt and much damage." - The commentator notes that this statement was not based on divine communication, but rather on the speaker's good judgment and experience. 
 
 2. "Not by any divine communication." - This quote emphasizes that the decision was not influenced by any divine revelation. 
@@ -47,4 +47,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

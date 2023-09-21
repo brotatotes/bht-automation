@@ -11,7 +11,7 @@ This verse describes the state of humanity, highlighting our incessant temptatio
 
 3. "The expression 'working in the sons of disobedience' implies that disobedience is not merely an accidental quality, but the source and spring of their lives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The age" regulates "the world" - the present system of this world is alien from God and controlled by the wicked one.
 2. Christ's ascension cast Satan out of heaven - he can no longer accuse the justified brethren in heaven, so he assails them on earth with trials and temptations.
 3. The powers of the air are the embodiment of the evil "spirit" - they are the ruling principle of unbelievers, especially the heathen, and their disobedience is a manifestation of this spirit.
@@ -55,4 +55,4 @@ This verse describes the state of humanity, highlighting our incessant temptatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

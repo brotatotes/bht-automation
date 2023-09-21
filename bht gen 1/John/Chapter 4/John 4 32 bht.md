@@ -4,7 +4,7 @@
 Jesus speaks of having sustenance that goes beyond physical food, a spiritual nourishment that comes from fulfilling God's will. His reference to "meat" symbolizes the conversion of the Samaritan woman and the gathering of souls. Jesus finds great satisfaction and delight in bringing people to faith, to the point where he is consumed by these spiritual matters and has no desire for physical nourishment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Meat ye know not of—What spirituality of mind!"
 2. "I have been eating all the while, and such food as ye dream not of."
 3. "He knows what they are saying though He hears it not."
@@ -48,4 +48,4 @@ Jesus speaks of having sustenance that goes beyond physical food, a spiritual no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

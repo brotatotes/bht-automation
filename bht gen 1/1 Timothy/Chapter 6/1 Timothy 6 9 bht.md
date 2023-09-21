@@ -9,7 +9,7 @@ The Bible verse describes the dangers of the desire to be rich. It warns that th
 2. "Many foolish and hurtful lusts...sink men into destruction and perdition." 
 3. "Hurtful, as inflicting injury on all a man's best interests."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This wishing (not the riches themselves) is fatal to 'contentment'." 
 2. "The falling into [temptation] is what we are to pray against."
 3. "He falls into 'the snare of the devil'."
@@ -53,4 +53,4 @@ The Bible verse describes the dangers of the desire to be rich. It warns that th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

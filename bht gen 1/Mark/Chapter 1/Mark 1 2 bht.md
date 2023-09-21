@@ -4,7 +4,7 @@
 This verse speaks of a messenger who will prepare the way for the Lord, often understood to be John the Baptist. The suddenness of the Lord's arrival reminds us that God's timing is unpredictable. The refining process mentioned symbolizes God's work of purifying and transforming his people, while highlighting the importance of repentance and turning back to God. Ultimately, this verse points to Jesus Christ, who fulfilled the role of the messenger and brought salvation to all who believe. It is a reminder of God's faithfulness and his desire to draw near to his people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, I send my messenger before thy face, which shall prepare thy way before thee." - This verse from Malachi 3:1 highlights the role of a messenger who will pave the way for the coming of the Lord. It emphasizes the importance of preparation and anticipation for the arrival of God's presence.
 
 2. "Prepare thy way before thee." - This phrase, also found in Isaiah 40:3, emphasizes the need to make way for the Lord in our lives. It suggests that we should remove any obstacles or hindrances that may prevent us from fully experiencing God's presence and receiving His blessings.
@@ -36,4 +36,4 @@ This verse speaks of a messenger who will prepare the way for the Lord, often un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

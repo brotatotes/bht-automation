@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes the contrast between the law and faith. The commentators highlight that the law does not require faith but instead focuses on obedience and actions. They emphasize that the law and faith have different purposes and approaches, with the law demanding obedience and actions while faith centers around belief. The verse illustrates this distinction by referencing Leviticus 18:5, which emphasizes following the statutes and ordinances rather than emphasizing belief or faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many depended on the law although they did not keep it." 
 2. "Without doing, saith Paul, it is of no use to them." 
 3. "It is not enough to simply have knowledge of the law, one must also put it into practice."
@@ -38,4 +38,4 @@ The Bible verse being described emphasizes the contrast between the law and fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

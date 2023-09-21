@@ -4,7 +4,7 @@
 Jesus' birth in Bethlehem is a crucial aspect of his identity as the Messiah. It not only fulfills the prophecy of Micah 5:2, but also serves as a reminder of Herod's brutal attempt to extinguish the hope and redemption that Jesus brings. Despite objections from some, the evidence of Jesus' lineage, birthplace, and fulfillment of ancient prophecies solidifies his identity as the David-descended, Bethlehem-born Savior.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We accept this spontaneous testimony to our David-descended, Bethlehem-born Saviour."
 2. "Had those who gave it made the inquiry which the case demanded, they would have found that Jesus 'came out of Galilee' and 'out of Bethlehem' both, alike in fulfilment of prophecy as in point of fact."
 3. "Matthew 2:23 and Matthew 4:13-16 provide further evidence of Jesus fulfilling the prophecy of coming from Bethlehem."
@@ -30,4 +30,4 @@ Jesus' birth in Bethlehem is a crucial aspect of his identity as the Messiah. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

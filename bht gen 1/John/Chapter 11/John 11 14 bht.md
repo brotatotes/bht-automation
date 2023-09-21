@@ -4,7 +4,7 @@
 In this verse, the straightforwardness and clarity of the statement is emphasized, highlighting the finality and completed nature of death. Despite using a simple metaphor that should have been easily understood, the disciples were unable to grasp its meaning due to their present state of mind. With patience and without reproach, Jesus plainly tells them that Lazarus has already passed away. It showcases Christ's astonishing patience and generosity in bearing with their ignorance and serves as a foreshadowing of his own resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sleep is the death of the saints, in the language of heaven."
 2. "Incomparable is the generosity of the divine manner of discoursing."
 3. "Scripture often has to descend to the more miserable style of human discourse."
@@ -28,4 +28,4 @@ In this verse, the straightforwardness and clarity of the statement is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

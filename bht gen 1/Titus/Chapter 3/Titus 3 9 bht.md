@@ -11,7 +11,7 @@ The verse in discussion warns against engaging in pointless debates and argument
 
 3. "For they are unprofitable and vain" - The commentary highlights the futility of getting caught up in discussions that do not contribute to spiritual growth or understanding.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Avoid foolish and insipid talk, producing no moral fruit." 
 2. "Not so much direct heresy as profitless discussions about genealogies of aeons, which ultimately led to Gnosticism." 
 3. "Strivings about the law, about the authority of the 'commandments of men,' and the mystical meaning of the various parts of the law in connection with the 'genealogies'."
@@ -54,4 +54,4 @@ The verse in discussion warns against engaging in pointless debates and argument
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

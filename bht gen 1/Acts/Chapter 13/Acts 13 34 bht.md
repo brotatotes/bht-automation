@@ -9,7 +9,7 @@ The Bible verse being described highlights the victorious resurrection of Christ
 2. "The clause answers even more remarkably to Romans 6:9."
 3. "The word ‘holy’ should have been preserved in the E. V., as answering to τὸν ὅσιόν σου below; the mercies of David, holy and sure: or my holy promises which I made sore unto David."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ being raised from the dead dieth no more, death hath no more dominion over him." - This quote highlights the victory of Christ over death and how his resurrection ensures that he will never return to corruption.
 2. "The word rendered 'mercies' is peculiar, denoting the sanctity of them, as comprehending the whole riches of the new covenant." - This quote emphasizes the depth and significance of the mercies promised to David, which encompass the entirety of the blessings in the new covenant.
 3. "They presuppose it; for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death." - This quote explains how the promise of an eternal kingdom to David necessitates the resurrection of Christ, as the ruler of that kingdom cannot be held captive by death.
@@ -57,4 +57,4 @@ The Bible verse being described highlights the victorious resurrection of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

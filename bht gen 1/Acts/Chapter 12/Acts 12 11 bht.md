@@ -9,7 +9,7 @@ In this passage, the speaker has a moment of awakening and self-awareness after 
 2. "He was before in the half consciousness of one who is dreaming and knows that it is a dream."
 3. "In his case, the dream was the truth, and his supposition the unreality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When Peter was come to himself—recovered from his bewilderment, and had time to look back upon all the steps that had followed each other in such rapid succession."
 2. "Now I know of a surety, that the Lord hath sent his angel, and hath delivered me, &c.—another evidence that Peter expected nothing but to seal his testimony with his blood on this occasion."
 3. "Peter's experience serves as a reminder that even in the face of seemingly impossible situations, God is able to deliver and protect His faithful servants."
@@ -50,4 +50,4 @@ In this passage, the speaker has a moment of awakening and self-awareness after 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

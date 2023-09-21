@@ -4,7 +4,7 @@
 In the Bible verse, a divine being's manifestation overwhelms fallen man, restoring his strength through a powerful touch. The verse refers to the One who is both the first by creation and the last by retribution. This divine being is the first because before Him, there was no formed God, and the last because after Him, there will be no other. The verse highlights that even amidst the awe-inspiring display of divine power, the assurance of our Redeemer's nearness brings peace to the soul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So fallen is man that God's manifestation of His glorious presence overwhelms him."
 2. "The 'touch' of His hand, as of old, imparted strength."
 3. "'the First by creation, the Last by retribution: the First, because before Me there was no God formed; the Last, because after Me there shall be no other: the First, because from Me are all things; the Last, because to Me all things return' [RICHARD OF ST. VICTOR]."
@@ -33,4 +33,4 @@ In the Bible verse, a divine being's manifestation overwhelms fallen man, restor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

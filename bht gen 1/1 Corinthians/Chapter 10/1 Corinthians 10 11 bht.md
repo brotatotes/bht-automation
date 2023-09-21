@@ -9,7 +9,7 @@ The mentioned verse refers to a significant period, the last dispensation, in wh
 2. "The plural συνέβαινον expresses the plurality of events separately happening: the singular ἐγράφη, their union in the common record of Scripture." - Commentary
 3. "The ends of the ages of this world's lifetime." - Chrys
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ends of the world—literally, 'of the ages'; the New Testament dispensation in its successive phases (plural, 'ends') being the winding up of all former 'ages.'"
 2. "No new dispensation shall appear till Christ comes as Avenger and Judge; till then the 'ends,' being many, include various successive periods."
 3. "As we live in the last dispensation, which is the consummation of all that went before, our responsibilities are the greater."
@@ -59,4 +59,4 @@ The mentioned verse refers to a significant period, the last dispensation, in wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

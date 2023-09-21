@@ -9,7 +9,7 @@ The verse being described speaks of the complete and unlimited nature of God's a
 2) "the reconciliation is predicated of the whole universe, including angelic as well as human beings, unreasoning and lifeless things, as well as organized and intelligent"
 3) "sinful creation is, in the strictest sense, reconciled, from being at enmity: sinless creation, ever at a distance from his unapproachable purity, is lifted into nearer participation and higher glorification of Him, and is thus reconciled"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gnostics used the term 'fulness,' for the assemblage of emanations, or angelic powers, coming from God. The Spirit presciently by Paul warns the Church, that the true 'fulness' dwells in Christ alone." 
 2. "For two reasons Christ is Lord of the Church: (1) Because the fulness of the divine attributes dwells in Him, and so He has the power to govern the universe; (2) Because what He has done for the Church gives Him the right to preside over it." 
 3. "This indwelling of the Godhead in Christ is the foundation of the reconciliation by Him."
@@ -57,4 +57,4 @@ The verse being described speaks of the complete and unlimited nature of God's a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

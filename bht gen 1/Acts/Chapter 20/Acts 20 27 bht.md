@@ -4,7 +4,7 @@
 In this verse, the speaker passionately proclaims their dedication to sharing God's message of salvation and the kingdom of Christ. They express their unwavering commitment to declaring the entirety of God's counsel, not holding back any truth or withdrawing it from view. With a sense of urgency and responsibility, they emphasize the importance of imparting this divine guidance to others, acknowledging that their actions have potentially saved lives and brought about spiritual growth. Their declaration reveals a deep sense of purpose, driven by a genuine concern for the well-being and redemption of souls.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's way of salvation, and His kingdom of souls saved by His Son Jesus Christ."
 2. "Declare all the counsel of God."
 3. "See Acts 20:28."
@@ -45,4 +45,4 @@ In this verse, the speaker passionately proclaims their dedication to sharing Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

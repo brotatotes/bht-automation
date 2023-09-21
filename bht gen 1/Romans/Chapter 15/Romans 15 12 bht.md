@@ -4,7 +4,7 @@
 This verse speaks of a significant and important descendant, a "root of Jesse," who will rise from Jesse's lineage, specifically David, and bring restoration to God's people. The Messiah, a sprout from the despised root, will stand as a banner and reign, bringing hope to both Jews and Gentiles. This prophecy confirms the calling of the Gentiles and encourages unity among believers, while also emphasizing the future blessings and hope that the Gentiles have through their faith in Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There shall be a 'the' root of Jesse" - This phrase emphasizes that the one who will rise from Jesse's lineage is not just any descendant, but someone significant and important.
 2. "He that is sprung from Jesse" - This clarifies that the reference is to David, Jesse's son, who is a key figure in the lineage leading to Jesus.
 3. "So the Septuagint in substantial, though not verbal, agreement with the original" - This highlights the agreement between the Septuagint (Greek translation of the Hebrew Bible) and the original Hebrew text, reinforcing the reliability of the prophecy.
@@ -48,4 +48,4 @@ This verse speaks of a significant and important descendant, a "root of Jesse," 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

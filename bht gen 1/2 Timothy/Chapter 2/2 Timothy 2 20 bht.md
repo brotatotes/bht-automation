@@ -9,7 +9,7 @@ In the context of a great house, the Church of God, we find a mixture of people 
 2. "In the visible church there are many unworthy members."
 3. "There are not only vessels of gold and silver, but also of wood and earthenware; and some for honour, some for dishonour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable of the sweep-net gathering together of every kind, good and bad: as the good and bad cannot be distinguished while under the waves, but only when brought to shore, so believers and unbelievers continue in the same Church, until the judgment makes the everlasting distinction."
 2. "The ark of Noah is a type of the Church; as in the former there were together the leopard and the kid, the wolf and the lamb; so in the latter, the righteous and sinners, vessels of gold and silver, with vessels of wood and earth."
 3. "Vessels of gold and silver—precious and able to endure fire. Vessels of wood and earth—worthless, fragile, and soon burnt."
@@ -53,4 +53,4 @@ In the context of a great house, the Church of God, we find a mixture of people 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

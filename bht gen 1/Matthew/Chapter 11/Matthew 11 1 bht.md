@@ -9,7 +9,7 @@ The Bible verse being described here is about the mission of the twelve disciple
 2. "The choosing had taken place some time before, but is not anywhere distinctly detailed by the Evangelists."
 3. "On the characteristic differences between this discourse and that delivered to the Seventy, see notes there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They departed, and went through the towns, preaching the Gospel, and healing everywhere." (Luke)
 2. "And they cast out many devils (demons) and anointed with oil many that were sick, and healed them." (Mark)
 3. "It was unction, indeed, but, as BENGEL remarks, it was something very different from what Romanists call extreme unction."
@@ -48,4 +48,4 @@ The Bible verse being described here is about the mission of the twelve disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

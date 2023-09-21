@@ -11,7 +11,7 @@ The verses being described highlight the significance of engaging with the book 
 
 3. "Unto Him that loveth us and washed (or, loosed) us from our sins in His blood" - This powerful statement highlights Christ's immeasurable love for us and the cleansing power of His blood in forgiving and freeing us from our sins. It showcases the transformative nature of His sacrifice.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A special blessing attends him who reads or hears the apocalyptic 'prophecy' with a view to keeping the things therein."
 2. "Even though he find not the key to its interpretation, he finds a stimulus to faith, hope, and patient waiting for Christ."
 3. "Note: the term 'prophecy' has relation to the human medium or prophet inspired, here John: 'Revelation' to the Divine Being who reveals His will, here Jesus Christ."
@@ -52,4 +52,4 @@ The verses being described highlight the significance of engaging with the book 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

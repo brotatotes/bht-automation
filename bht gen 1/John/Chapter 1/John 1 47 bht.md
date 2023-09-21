@@ -9,7 +9,7 @@ Behold, an Israelite indeed! This sincere and genuine individual embodies the tr
 2. "He alluded therefore to the smallness and insignificance of the town in proportion to the great things which were now predicated of it."
 3. "Nazareth is never named in the O.T. nor in Josephus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "an Israelite indeed . . . no guile" - This phrase highlights the genuine and sincere nature of the person being described. They are not just an Israelite by birth or tradition, but they embody the true spirit of being a follower of God.
 2. "with a guileless simplicity" - This phrase emphasizes the purity and innocence of the person's heart. They are not deceitful or cunning, but rather have a straightforward and honest approach to their faith.
 3. "ready to follow wherever truth might lead him" - This statement reveals the person's openness and willingness to seek and embrace the truth, regardless of where it may lead them. They are not bound by preconceived notions or biases, but are eager to listen and obey God's voice.
@@ -45,4 +45,4 @@ Behold, an Israelite indeed! This sincere and genuine individual embodies the tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

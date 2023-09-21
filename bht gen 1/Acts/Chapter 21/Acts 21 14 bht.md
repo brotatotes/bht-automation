@@ -9,7 +9,7 @@ In this verse, the commentators highlight the use of the Lord's Prayer by the Ch
 2. "The Lord’s prayer was used by the Christians of the apostolic age."
 3. "The Lord’s prayer was used by the Christians of the apostolic age."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such dramatic methods of announcing important future events would bring the old prophets to remembrance."
 2. "This prediction and that at Tyre were intended, not to prohibit him from going, but to put his courage to the test."
 3. "When he stood the test, to deepen and mature it."
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

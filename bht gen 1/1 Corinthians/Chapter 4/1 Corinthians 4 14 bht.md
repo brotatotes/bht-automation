@@ -11,7 +11,7 @@ This verse is a gentle but firm admonition, urging the readers to reflect on the
 
 Note: The commentary provided is not directly related to a specific Bible verse. Please provide the specific verse or passage for a more accurate response.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Admonish" instead of "warn" implies a gentle and loving approach to correction, like a father guiding his beloved sons.
 2. The goal is to avoid provoking anger, emphasizing the importance of maintaining a positive and respectful relationship.
 3. The Corinthians should feel a sense of shame when comparing their spiritual state to that of Paul, highlighting the need for growth and improvement.
@@ -57,4 +57,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

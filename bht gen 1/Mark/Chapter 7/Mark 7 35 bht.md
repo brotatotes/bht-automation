@@ -9,7 +9,7 @@ In this verse, a hindrance prevented someone from speaking correctly and being a
 2. "The hindrance could have been a physical ailment, such as a speech impediment or a stammer."
 3. "It is also possible that the hindrance was a spiritual or emotional struggle, such as fear or doubt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And straightway his ears were opened—This is mentioned first as the source of the other derangement." 
 2. "and the string of his tongue was loosed, and he spake plain—The cure was thus alike instantaneous and perfect." 
 3. "The miracle was wrought by a word, and that word was spoken in the hearing of the deaf man."
@@ -45,4 +45,4 @@ In this verse, a hindrance prevented someone from speaking correctly and being a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

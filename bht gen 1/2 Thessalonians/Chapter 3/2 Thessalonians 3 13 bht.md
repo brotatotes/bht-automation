@@ -9,7 +9,7 @@ In this Bible verse, the message is clear: do not tire or hesitate when it comes
 2. "Chrys.'s meaning is surely far-fetched: στέλλεσθε μέν, φησιν, ἀπʼ αὐτῶν κ. ἐπιτιμᾶτε αὐτοῖς, μὴ μὴν περιΐδητε λιμῷ διαφθαρέντας."
 3. "On ἐγκ. and ἐκκ. see notes on 2Co 4:1 and Galatians 6:9."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not cowardly in doing well." - This quote emphasizes the importance of not being afraid or hesitant when it comes to doing good deeds. It encourages individuals to be bold and courageous in their actions, showing that they are not afraid to stand up for what is right.
 
 2. "Do not culpably neglect to do well." - This quote highlights the idea that neglecting to do good is a deliberate choice and is seen as blameworthy. It suggests that individuals have a responsibility to actively engage in acts of kindness and righteousness, rather than passively ignoring opportunities to do good.
@@ -50,4 +50,4 @@ In this Bible verse, the message is clear: do not tire or hesitate when it comes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

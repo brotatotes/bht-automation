@@ -4,7 +4,7 @@
 In the context of the verse, the law given by Moses acted as a schoolmaster, leading God's people to the borders of the heavenly Canaan. However, it is superseded by Joshua/Jesus, who leads believers into their inheritance. Faith, the gospel dispensation, liberates believers from the burdensome rituals and condemnation of the Mosaic law. Now, under Christ's reign, believers no longer need the law as a schoolmaster, as faith in Him becomes their guide and principle.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses the lawgiver cannot bring us into the heavenly Canaan though he can bring us to the border of it." 
 2. "At that point he is superseded by Joshua, the type of Jesus, who leads the true Israel into their inheritance." 
 3. "The law leads us to Christ, and there its office ceases."
@@ -35,4 +35,4 @@ In the context of the verse, the law given by Moses acted as a schoolmaster, lea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

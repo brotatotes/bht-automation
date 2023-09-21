@@ -9,7 +9,7 @@ In this verse, we see the significance of the Christian faith and its unique app
 2. "Tyrannus may have been a Gentile sophist, as commonly supposed."
 3. "The Codex Vaticanus, No. 1209 in the Vatican Library at Rome, was apparently copied in Egypt and is on vellum. It contains the Old and New Testaments, but is deficient in certain portions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "implying that others, probably a large number, believed."
 2. "departed—from the synagogue, as at Corinth (Acts 18:7)."
 3. "withdrawing to a separate place of meeting, for the sake both of the converts already made, and the unsophisticated multitude."
@@ -52,4 +52,4 @@ These quotes highlight the resistance and stubbornness faced by Paul in Ephesus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

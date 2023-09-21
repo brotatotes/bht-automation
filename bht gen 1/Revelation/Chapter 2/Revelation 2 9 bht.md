@@ -4,7 +4,7 @@
 In this verse, the commentator's observations shed light on the experiences and qualities of the recipients. The believers referenced had both rich and poor members, illustrating God's impartiality. The verse speaks to the perseverance and loyalty of the Christians amid tribulation and persecution, showcasing their faith and constancy. Additionally, it examines the distinction between those who claim to be true followers but exhibit enmity and the faithful church in Smyrna. Through poverty and trials, the believers are affirmed as rich in faith, grace, and good works, their wealth emanating from their relationship with Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There are both poor rich-men, and rich poor-men in God's sight."
 2. "The Jews, who might have been 'the Church of God,' had now, by their opposition and unbelief, become the synagogue of Satan."
 3. "So 'the throne of Satan' represents the heathens' opposition to Christianity; 'the depths of Satan,' the opposition of heretics."
@@ -43,4 +43,4 @@ In this verse, the commentator's observations shed light on the experiences and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

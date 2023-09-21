@@ -9,7 +9,7 @@ The verse being described is a statement of unwavering faith and trust in the Lo
 2. "See above, Philippians 2:19" - This reference directs readers to a previous verse that provides further context or explanation for the current statement. (Quote 2)
 3. "καί" - This conjunction introduces Timothy as another individual mentioned in addition to the previous person, emphasizing his significance in the context. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'also myself—as well as Timothy' emphasizes the personal involvement and commitment of the writer. It shows that the writer is not just giving instructions from a distance, but is actively participating in the situation alongside Timothy."
 
 2. "By including himself in the statement, the writer is demonstrating his willingness to share in the challenges and difficulties that Timothy may face. This highlights the writer's empathy and support for Timothy, and reinforces the idea of a shared journey in their mission."
@@ -44,4 +44,4 @@ The verse being described is a statement of unwavering faith and trust in the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

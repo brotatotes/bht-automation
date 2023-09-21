@@ -9,7 +9,7 @@ The verse being described is a reminder to shift our focus from the temporary an
 2. "The things which are seen are temporary, but the things which are not seen are eternal." 
 3. "Nihil horum stabile nec solidum est … Mittamus animum ad ea, quæ æterna sunt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We mind not the things seen, whether affliction or refreshment come, so as to be seduced by the latter, or deterred by the former." 
 2. "Not 'the invisible things' of Philippians 3:19, but the things which, though not seen now, shall be so hereafter." 
 3. "Temporal—rather, 'for a time'; in contrast to eternal."
@@ -56,4 +56,4 @@ The verse being described is a reminder to shift our focus from the temporary an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

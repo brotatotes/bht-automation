@@ -9,7 +9,7 @@ In this Bible verse, we find a compelling story of friends who go to great lengt
 2. "The genitive of place, which is mostly poetical."
 3. "See Kühner, Gramm. § 523."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The housetop, in biblical times, was a common place for people to gather and socialize. It was a space where one could find solitude and peace, away from the hustle and bustle of daily life."
 2. "The act of removing the tiling to lower the paralytic man through the roof demonstrates the friends' determination and faith in Jesus. It symbolizes their willingness to go to great lengths to bring their friend to Jesus for healing."
 3. "The phrase 'before Jesus' signifies the importance of being in the presence of the Lord. It implies a sense of reverence and awe, acknowledging Jesus as the ultimate authority and source of healing and salvation."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite technical and may not provide significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

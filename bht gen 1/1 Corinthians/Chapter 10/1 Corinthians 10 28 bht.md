@@ -1,7 +1,7 @@
 # 1 Corinthians 10:28 Commentary Help Text
 
 ## BHT:
-In considering these commentaries from Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, Philip Schaff, Archibald T. Robertson, John Gill, and John Wesley, we gain a deeper understanding of the Bible verse. It highlights the importance of not causing offense or harm to others, particularly those who may have a weaker or more sensitive conscience. It urges believers to be considerate of the beliefs and feelings of others, avoiding actions that may cause stumbling or distress. The verse emphasizes the significance of maintaining a clear conscience for oneself, while also prioritizing the well-being and spiritual growth of others.
+In considering these commentaries from Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, Philip Schaff, Archibald T. Robertson, John Gill, and John Wesley, we gain a deeper understanding of the Bible verse. It highlights the importance of not causing offense or harm to others, particularly those who may have a weaker or more sensitive conscience. It urges believers to be considerate of the beliefs and feelings of others, avoiding actions that may cause stumbling or distress. The verse emphasizes the significance of maintaining a clear conscience for oneself, while also prioritizing the well-being and spiritual growth of others.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,7 +10,7 @@ In considering these commentaries from Henry Alford, Jamieson Fausset Brown, Alb
 3. "On account of the man who informed you, and (καί specifying the particular point or points to which the more general preceding clause applies: as, τῶνδε εἵνεκα, καὶ γῆς ἱμέρῳ … καὶ μάλιστα τῷ χρηστηρίῳ πίσυνος ἐών, καὶ τίσασθαι θέλων…"
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man—a weak Christian at table, wishing to warn his brother." - This quote highlights the context of the verse, emphasizing the concern for the weaker brother's conscience.
 
 2. "Offered in sacrifice unto idols—The oldest manuscripts omit 'unto idols.'" - This quote points out the textual variation in the manuscripts, providing insight into the possible variations in the wording of the verse.
@@ -55,4 +55,4 @@ In considering these commentaries from Henry Alford, Jamieson Fausset Brown, Alb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

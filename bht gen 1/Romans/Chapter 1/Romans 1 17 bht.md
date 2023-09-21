@@ -9,7 +9,7 @@ In this powerful verse, the Gospel is presented as the revelation of God's right
 2. "God justifies for Christ’s sake on condition of faith in Him as Mediator: the result of His justification is righteousness from faith."
 3. "Righteousness by faith is not a new idea, but found in the prophets. All faith is one, in whatever word or act of God reposed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For therein is the righteousness of God revealed—that is (as the whole argument of the Epistle shows), GOD'S JUSTIFYING RIGHTEOUSNESS." 
 2. "The righteousness of God is in the gospel message, revealed (to be) from (or 'by') faith to (or 'for') faith," that is, "in order to be by faith received." 
 3. "The just shall live by faith—This golden maxim of the Old Testament is thrice quoted in the New Testament—here Galatians 3:11; Hebrews 10:38—showing that the gospel way of 'LIFE BY FAITH,' so far from disturbing, only continued and developed the ancient method."
@@ -57,4 +57,4 @@ In this powerful verse, the Gospel is presented as the revelation of God's right
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

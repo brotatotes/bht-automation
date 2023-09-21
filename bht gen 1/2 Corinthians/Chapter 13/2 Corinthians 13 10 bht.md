@@ -9,7 +9,7 @@ The verse under consideration is a reminder of the author's desire for perfectio
 2. "I do not wish to act sharply in my letters, but in my actions." 
 3. "The reason why he did not wish to act sharply is because the power would seem to be exercised in a direction contrary to that intended by Him who gave it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I wish the 'sharpness' to be in my letters rather than in deeds." - This quote highlights the author's intention to convey strong and impactful messages through their writing, rather than resorting to harsh actions or confrontations.
 
 2. "For building up... not for casting down." - This quote emphasizes the author's desire for their words to be constructive and uplifting, rather than destructive or critical. It suggests a focus on promoting growth and positive change.
@@ -54,4 +54,4 @@ The verse under consideration is a reminder of the author's desire for perfectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

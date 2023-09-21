@@ -4,7 +4,7 @@
 In this verse, a mother figure, Rachel, is depicted as rising from the grave to mourn her lost children, symbolizing the anguish experienced by the Israelites due to captivity and impending calamities. The commentators emphasize the idea of divine consolation amidst tribulations, highlighting the eventual appearance of Christ as a redeemer and the unchanging nature of God's love. They also draw parallels between past and present calamities, underscoring the preservation of God's children despite persecution. Ultimately, this verse reflects on the sorrowful state of the people while offering hope and reassurance in the face of adversity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rachel, the mother of Joseph and Benjamin, was buried in the neighborhood of Bethlehem, where her sepulchre is still shown. She is figuratively represented as rising from the tomb and uttering a double lament for the loss of her children—first, by a bitter captivity, and now by a bloody death."
 2. "O ye mothers of Bethlehem! methinks I hear you asking why your innocent babes should be the ram caught in the thicket, while Isaac escapes. I cannot tell you, but one thing I know, that ye shall, some of you, live to see a day when that Babe of Bethlehem shall be Himself the Ram, caught in another sort of thicket, in order that your babes may escape a worse doom than they now endure."
 3. "And if these babes of yours be now in glory, through the dear might of that blessed Babe, will they not deem it their honor that the tyrant's rage was exhausted upon themselves instead of their infant Lord?"
@@ -44,4 +44,4 @@ In this verse, a mother figure, Rachel, is depicted as rising from the grave to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

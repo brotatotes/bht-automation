@@ -4,7 +4,7 @@
 The verse being described is set in motion by Joseph's journey from Galilee to Bethlehem, which is significant as the city of David. Not only is the distance between Bethlehem and Jerusalem highlighted, but also the importance of Joseph's lineage is emphasized, as he is of the house and lineage of David. By fulfilling the prophecy in Micah, the choice of Bethlehem as Jesus' birthplace holds profound significance in the narrative.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joseph, who was of the royal line, go to Bethlehem" - This quote highlights the significance of Joseph's lineage and how it connects to the prophecy of the Messiah being born in Bethlehem. 
 
 2. "Mary too...probably, for personal enrollment, as herself an heiress" - This quote suggests that Mary's journey to Bethlehem was not solely due to Joseph's lineage, but also because of her own status as an heiress. It adds depth to the understanding of why Mary would undertake such a journey in her condition.
@@ -39,4 +39,4 @@ The verse being described is set in motion by Joseph's journey from Galilee to B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

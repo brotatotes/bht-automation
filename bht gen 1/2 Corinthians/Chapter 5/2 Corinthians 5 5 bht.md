@@ -11,7 +11,7 @@ This passage speaks of the transformative work of God in the hearts of believers
 
 3. "The end itself, which he individually, or in common with others then living, wishes accomplished in this particular form of ἐπενδύσασθαι, is, under whatever form brought about, that for which all the preparation, by grace, of Christians, is carried on, and to which the earnest of the Spirit points forward."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "wrought us—framed us by redemption, justification, and sanctification."
 2. "unto what is mortal of us being swallowed up in life."
 3. "It is the Spirit (as 'the first-fruits') who creates in us the groaning desire for our coming deliverance and glory."
@@ -54,4 +54,4 @@ This passage speaks of the transformative work of God in the hearts of believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

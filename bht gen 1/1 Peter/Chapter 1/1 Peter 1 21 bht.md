@@ -11,7 +11,7 @@ The verse being described focuses on the foundation of faith and hope in God thr
 
 3. "Closely accordant with this is St. Peter's first public speech in the Acts 2:22 ff., where all that has happened to Christ is referred to God as the doer of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through Christ: His Spirit, obtained for us in His resurrection and ascension, enabling us to believe."
 2. "By this faith the ungodly is justified, so that thenceforth faith itself begins to work by love."
 3. "The raising of Jesus by God is the special ground of our 'believing': because by it God declared openly His acceptance of Him as our righteous substitute."
@@ -57,4 +57,4 @@ The verse being described focuses on the foundation of faith and hope in God thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse described in these commentaries highlights the unfaithfulness an
 2. "the refusing to work a miracle to satisfy them, affect the nature or signification of those wrought on different occasions"
 3. "the sign of Jonas is the most remarkable foreshadowing in the O.T. of the resurrection of our Lord"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Surely as a wife treacherously departeth from her husband, so have ye dealt treacherously with Me, O house of Israel, saith the Lord." - This commentary explains the relationship between Jesus and the covenant-people, highlighting the treacherous behavior of the generation.
 2. "In the eye of Jesus this class were but the spokesmen of their generation, the exponents of the reigning spirit of unbelief." - This quote emphasizes that those seeking a sign were representative of the prevailing unbelief in that generation.
 3. "No sign be given to it, but the sign of the prophet Jonas." - This statement reveals that the only sign that will be given to the generation is the sign of the prophet Jonah.
@@ -49,4 +49,4 @@ The Bible verse described in these commentaries highlights the unfaithfulness an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

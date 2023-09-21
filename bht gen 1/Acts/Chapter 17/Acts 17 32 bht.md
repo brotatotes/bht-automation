@@ -9,7 +9,7 @@ In the face of diverse reactions, Paul spoke of a doctrine that philosophers rid
 2. "We must not allot these two parties as some have done, the former to the Epicureans, the latter to the Stoics: the description is general."
 3. "The hearing not having taken place is no proof that it was not intended at the time: and the distinction between these and the mockers seems to imply that they were in earnest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Resurrection, which presupposes the vanity of the present life, and is nothing but life out of the death of all that sin has blighted, could have no charm for the true Greek."
 2. "It gave the death blow to his fundamental and most cherished ideas; nor until these were seen to be false and fatal could the Resurrection, and the Gospel of which it was a primary doctrine, seem otherwise than ridiculous."
 3. "They probably, like Felix, feared to hear more, lest they should be constrained to believe unwelcome truths."
@@ -57,4 +57,4 @@ In the face of diverse reactions, Paul spoke of a doctrine that philosophers rid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

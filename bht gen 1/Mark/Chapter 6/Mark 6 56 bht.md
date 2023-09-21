@@ -9,7 +9,7 @@ In various towns, cities, and fields, Jesus was sought out by the sick and despe
 2. "See remarks on this in Klotz, Devar. ii. p. 145 f."
 3. "Cf. reff. and Lucian, Dial. mort. ix. 2, μακάριος ἦν αὐτῶν ὅντινα ἂν καὶ μόνον προσέβλεψα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having heard, no doubt, of what the woman with the issue of blood experienced on doing so"
 2. "All this they continued to do and to experience while our Lord was in that region."
 3. "the people sought to enthrone Him!"
@@ -42,4 +42,4 @@ These quotes highlight the diverse locations where Jesus went to heal the sick, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

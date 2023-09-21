@@ -11,7 +11,7 @@ This verse highlights the importance of perseverance and steadfastness in the fa
 
 3. "which was preached in the whole creation which is under the heaven, of which I Paul became a minister" - This quote emphasizes the universality of the Gospel message and Paul's role as a minister of this message.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Assuming that not otherwise shall ye be so presented at His appearing."
 2. "Grounded...fixed on the foundation."
 3. "The hope of the gospel...which ye have heard...which was preached to every creature...whereof I...am...a minister."
@@ -61,4 +61,4 @@ This verse highlights the importance of perseverance and steadfastness in the fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

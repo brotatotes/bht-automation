@@ -4,7 +4,7 @@
 This verse describes the confrontation between John the Baptist and Herod, revealing the unwavering fidelity and moral courage of John as he reproved Herod for his wickedness. Despite John's plainness in exposing Herod's sins, Herod continued to indulge in evil actions. The use of strong words highlights the seriousness of the situation and emphasizes the completed and destructive nature of Herod's wrongdoing. This verse demonstrates the reward and acceptance that await faithful ministers of truth, even when the message of reproof is met with resistance and hostility.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "important fact here only mentioned, showing how thoroughgoing was the fidelity of the Baptist to his royal hearer"
 2. "strong must have been the workings of conscience in that slave of passion"
 3. "notwithstanding such plainness, he 'did many things and heard John gladly'"
@@ -40,4 +40,4 @@ This verse describes the confrontation between John the Baptist and Herod, revea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

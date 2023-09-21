@@ -9,7 +9,7 @@ In this verse, the commentator's insights shed light on the profound meaning of 
 2. "διὰ θεοῦ combines, on behalf of our race, the whole before-mentioned agency of the Blessed Trinity: the Father has sent the Son and the Spirit, the Son has freed us from the law, the Spirit has completed our sonship."
 3. "Thus the redeemed are heirs through the tri-une God Himself, not through the law, nor through fleshly descent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such an individual appropriation of this comforting truth God grants in answer to them who cry, 'Abba, Father.'"
 2. "This combines on behalf of man, the whole before-mentioned agency, of THE TRINITY: the Father sent His Son and the Spirit; the Son has freed us from the law; the Spirit has completed our sonship."
 3. "Thus the redeemed are heirs THROUGH the Triune GOD, not through the law, nor through fleshly descent."
@@ -55,4 +55,4 @@ Note: The provided commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

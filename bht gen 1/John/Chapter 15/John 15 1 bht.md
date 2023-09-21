@@ -9,7 +9,7 @@ In this Bible verse, the beautiful and intricate relationship between Jesus and 
 2. "The material creations of God are only inferior examples of that finer spiritual life and organism in which the creature is raised up to partake of the divine nature."
 3. "ὁ γεωργός, not only the tiller of the land, but the vine-planter and dresser; He who has originated the relation between the vine and branches by planting the Vine in this earth, and who looks for and ensures the bringing forth of fruit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spiritual oneness of Christ and His people, and His relation to them as the Source of all their spiritual life and fruitfulness, are here beautifully set forth."
 2. "I am the true vine—of whom the vine of nature is but a shadow."
 3. "My Father is the husbandman—the great Proprietor of the vineyard, the Lord of the spiritual kingdom."
@@ -50,4 +50,4 @@ In this Bible verse, the beautiful and intricate relationship between Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentators offer insights into the Bible verse without directly disclosing
 2. "The true meaning is to be found by taking into account the answer of Nicodemus, who obviously understood it of a new birth in mature life."
 3. "Born afresh would be a better rendering than 'born again,' being closer to the meaning of ἄνωθεν, 'from the very beginning; unless a man begin his life anew altogether, he cannot..."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This blunt and curt reply was plainly meant to shake the whole edifice of the man's religion, in order to lay a deeper and more enduring foundation."
 2. "Had the man been less sincere, this would certainly have repelled him but with persons in his mixed state of mind... such methods speed better than more honeyed words and gradual approaches."
 3. "Be born again... undergo a fundamental and permanent revolution."
@@ -57,4 +57,4 @@ The commentators offer insights into the Bible verse without directly disclosing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -5,7 +5,7 @@ Description:
 In this verse, a woman, filled with overwhelming joy upon hearing Peter's voice, rushes to share the news of his arrival with others. Her actions reveal the deep familiarity and close relationship she has with Peter, as well as her eagerness to spread the joyous news. The verse also highlights the authority and leadership of Peter, as he commands the woman to open the door. Through this interaction, the verse symbolizes doors as opportunities for embracing new possibilities and welcoming the presence of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "opened not for gladness, but ran in and told" - This verse highlights the urgency and excitement of the person who received the news. It shows that the news was so important and significant that they couldn't contain their joy and had to share it immediately.
 
 2. "How exquisite is this touch of nature!" - The commentator appreciates the realism and authenticity of this scene. It captures the human response of wanting to share good news with others, emphasizing the genuine emotions and reactions of the characters involved.
@@ -48,4 +48,4 @@ In this verse, a woman, filled with overwhelming joy upon hearing Peter's voice,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, we see the Apostle Paul arriving in Rome as a prisoner, whe
 4. "Both encouragement as to his own arrival, as a prisoner, in the vast metropolis, in seeing such affection, to which he was of all men most sensible."
 5. "Encouragement as to his great work so long contemplated, and now about to commence in Rome, in seeing so promising a beginning for him to build on."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How sensitive he was to such Christian affection all his Epistles show."
 2. "His long-cherished purpose to 'see Rome'... being now about to be auspiciously realized."
 3. "The divine pledge that in this he should be gratified."
@@ -52,4 +52,4 @@ In this Bible verse, we see the Apostle Paul arriving in Rome as a prisoner, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

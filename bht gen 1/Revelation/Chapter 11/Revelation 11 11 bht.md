@@ -4,7 +4,7 @@
 The verse being described is a powerful scene of divine intervention and restoration. The Spirit of life, likened to the breath of God, enters into a once lifeless group, reviving them and giving them the power to prophesy. This image draws parallels to the resurrection of Israel and the life-giving power of God. As these witnesses stand up with renewed strength and strike fear into beholders, their presence testifies to the undeniable support and protection of God. The awe-inspiring display instills profound reverence, confirms the visible presence of God, and reassures His people that He is on their side.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit of life—the same which breathed life into Israel's dry bones, Ezekiel 37:10; Ezekiel 37:11 (see on Ezekiel 37:11- :), 'Breath came into them.' The passage here, as there, is closely connected with Israel's restoration as a nation to political and religious life."
 2. "The allusion to be to Israel's resurrection, in contrast to 'the times of the Gentiles' wherein these 'tread under foot the holy city.'"
 3. "Such as fell on the soldiers guarding Christ's tomb at His resurrection (Ezekiel 37:10- :), when also there was a great earthquake (Ezekiel 37:10- :)."
@@ -49,4 +49,4 @@ The verse being described is a powerful scene of divine intervention and restora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

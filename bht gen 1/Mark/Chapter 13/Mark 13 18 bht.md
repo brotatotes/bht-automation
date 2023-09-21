@@ -9,7 +9,7 @@ In this verse, the importance of timing, seeking God's guidance, and prioritizin
 2. "Matt. adds μηδὲ ἐν σαββάτῳ." 
 3. "Mark wrote mostly for Gentile readers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray ye that your flight be not in the winter" - This quote highlights the importance of timing in the context of the verse. It emphasizes the need to pray for favorable conditions during their escape, as winter could make their flight more dangerous and difficult.
 
 2. "Making escape perilous, or tempting you to delay your flight" - This quote emphasizes the potential risks and challenges that could arise if their flight coincides with the winter season. It warns against the temptation to delay their escape due to the harsh conditions, urging them to prioritize their safety.
@@ -27,4 +27,4 @@ In this verse, the importance of timing, seeking God's guidance, and prioritizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

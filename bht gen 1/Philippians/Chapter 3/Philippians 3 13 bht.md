@@ -9,7 +9,7 @@ This verse emphasizes the importance of self-reflection and humility in the purs
 2. "Forgetting the things behind" - Paul uses the image of a runner in a race, emphasizing the need to let go of past failures and successes in order to focus on the present and future.
 3. "Ever reaching out towards the things before" - Paul encourages a continual striving and pursuit of spiritual growth and maturity, never becoming complacent or stagnant in one's faith journey.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who counts himself perfect, must deceive himself by calling sin infirmity."
 2. "Looking back is sure to end in going back."
 3. "The Christian is always humbled by the contrast between what he is and what he desires to be."
@@ -59,4 +59,4 @@ These quotes highlight Paul's humility, his rejection of false teachings, and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

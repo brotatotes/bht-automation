@@ -4,7 +4,7 @@
 In this Bible verse, we see a glimpse of Melchisedec, a king-priest who serves as both a sample of God's preservation amidst apostasy and a connecting link between two dispensations. The name "Melchizedek" is significant, as it means "King of righteousness." As a king of peace, he brings a peace that is the fruit of righteousness. His priesthood continues in Christ forever, exemplifying the union of righteousness and peace in the Messiah. This passage highlights the unique and meaningful role of Melchizedek, providing a glimpse into the intricate design of God's plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Melchisedec is a sample of how God preserves, amidst general apostasy, an elect remnant."
 2. "The meeting of Melchisedec and Abraham is the connecting link between two dispensations."
 3. "Melchisedec's priesthood continueth in Christ for ever."
@@ -40,4 +40,4 @@ In this Bible verse, we see a glimpse of Melchisedec, a king-priest who serves a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

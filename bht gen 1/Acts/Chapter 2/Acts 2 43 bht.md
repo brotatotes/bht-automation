@@ -9,7 +9,7 @@ Description: The verse being described portrays the impact of the early Christia
 2. "φόβος, dread, reverential astonishment, at the effect produced by the outpouring of the Spirit."
 3. "On the [anticipatory character or the] latter part of the verse see general remarks at the beginning of this section."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear came upon every soul—A deep awe rested upon the whole community." This quote highlights the profound impact of fear that gripped every individual, emphasizing the intensity and universality of the emotion experienced by the people.
 
 2. "The fear that came upon every soul was not a paralyzing terror, but a reverential awe in the presence of God's power and judgment." This quote clarifies that the fear mentioned is not a debilitating terror, but rather a respectful and humbling recognition of God's authority and the consequences of His actions.
@@ -63,4 +63,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

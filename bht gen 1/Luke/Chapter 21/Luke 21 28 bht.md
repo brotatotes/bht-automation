@@ -9,7 +9,7 @@ In this Bible verse, the commentators describe the anticipation and joy surround
 2. "The fulfillment of God's plan through my coming."
 3. "The finalization of all things through my manifestation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Redemption—from the oppression of ecclesiastical despotism and legal bondage by the total subversion of the Jewish state and the firm establishment of the evangelical kingdom." 
 2. "But the words are of far wider and more precious import." 
 3. "What this was intended to mean, interpreters are not agreed. But as before Christ came to destroy Jerusalem, some appalling portents were seen in the air, so before His personal appearing it is likely that something analogous will be witnessed, though of what nature it is vain to conjecture."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators describe the anticipation and joy surround
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

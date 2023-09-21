@@ -4,7 +4,7 @@
 In this mysterious verse, we find a depiction of the Church, symbolized as a woman, being protected by two wings. These wings are not just any wings, but they represent the eastern and western divisions of the mighty Roman Empire. The Church, during a time of persecution, found refuge and spread rapidly across various regions. It is clear that the verse emphasizes the endurance and strength of the Church, even amidst tribulations, as it perseveres on its journey, supported by the divine wings of protection and guidance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Alluding to Revelation 12:14, the commentary suggests that the Old Testament Church, as well as the New Testament Church, is included in 'the woman.' All believers are included."
 2. "The flight of the woman into the wilderness represents the passing of the kingdom of God from the Jews to the Gentiles. This is similar to Mary's flight with her child from Judea into Egypt."
 3. "The Church's journey in the wilderness, lasting for forty-two months or 1260 days, is seen as a period of protection and oppression by the world power. It is a time of sojourning before reaching the millennial rest."
@@ -40,4 +40,4 @@ In this mysterious verse, we find a depiction of the Church, symbolized as a wom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

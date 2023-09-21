@@ -4,7 +4,7 @@
 This passage describes a message that carries a sense of both privilege and responsibility. It is intended for a wide audience, encompassing both the chosen disciples and anyone who is willing to listen. The message emphasizes the importance of being faithful, wise, and diligent in fulfilling one's responsibilities, managing resources prudently, and carrying out tasks with integrity. While God pronounces His servants blessed, there is a reminder that one must continue in faithfulness and obedience, as there is a possibility of losing everything and facing eternal destruction.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question arises as to whether the message is meant for a select few, such as the Twelve disciples, or for all who are present in the vast audience. This distinction is crucial in understanding the intended scope of the message." 
 
 2. "The phrase 'unto us' suggests a personal and intimate connection, implying that the message is directed specifically towards those who have been chosen and called by Jesus. It signifies a special privilege and responsibility that comes with being a disciple." 
@@ -27,4 +27,4 @@ This passage describes a message that carries a sense of both privilege and resp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

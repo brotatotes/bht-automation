@@ -4,7 +4,7 @@
 The verse being described emphasizes the disciple's need for emotional support, as he finds relief in expressing his thoughts and struggles. The disciple's doubts and concerns are expressed in a pessimistic manner, reflecting his despondent state of mind. Jesus desires the disciple to open up, signaling his willingness to listen and provide guidance. The verse also highlights Jesus' power and authority, as he is described as both mighty in words and in actions, distinguished as a prophet publicly recognized by God and the people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feeling it a relief to have someone to unburden his thoughts and feelings to" - This highlights the disciple's need for emotional support and the comfort found in sharing one's struggles with others.
 2. "Goes over the main facts in his own desponding style" - This suggests that the disciple is expressing his doubts and concerns in a pessimistic manner, reflecting his state of mind at that moment.
 3. "This was just what our Lord wished" - This implies that Jesus desired the disciple to open up and express his thoughts, indicating Jesus' willingness to listen and provide guidance.
@@ -33,4 +33,4 @@ The verse being described emphasizes the disciple's need for emotional support, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

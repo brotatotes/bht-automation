@@ -9,7 +9,7 @@ The verse being described focuses on the challenges faced by the righteous in th
 2. "if the righteous is with difficulty saved...our salvation, however difficult and apparently impossible, is as certain as Christ’s own triumph."
 3. "the ungodly and sinner...the same person is meant by both."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'scarcely' marks the severity of the ordeal, and the unlikelihood (in a mere human point of view) of the righteous sustaining it; but the righteousness of Christ and God's everlasting covenant make it all sure."
 2. "ungodly—having no regard for God; negative description."
 3. "sinner—loving sin; positive; the same man is at once God-forgetting and sin-loving."
@@ -50,4 +50,4 @@ The verse being described focuses on the challenges faced by the righteous in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

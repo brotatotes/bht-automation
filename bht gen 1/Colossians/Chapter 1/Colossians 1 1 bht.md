@@ -9,7 +9,7 @@ Through the will of God, along with Timothy, and referred to as the brother, thi
 2. "καὶ Τιμόθεος" - And Timothy.
 3. "ὁ ἀδελφός" - The brother.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Timothy... had been companion of Paul in his first tour through Phrygia, in which Colosse was." 
 2. "Hence the Colossians seem to have associated him with Paul in their affections, and the apostle joins him with himself in the address."
 3. "Neither, probably, had seen the Colossian Church but had seen, during their tour through Phrygia, individual Colossians, as Epaphras, Philemon, Archippus, and Apphia."
@@ -40,4 +40,4 @@ Through the will of God, along with Timothy, and referred to as the brother, thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

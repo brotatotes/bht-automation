@@ -9,7 +9,7 @@ In the midst of divine revelation and the presence of Moses and Elijah, Jesus sp
 2. "The command itself is related in Matthew 17:9 and Mark 9:9." 
 3. "Luke's account provides the outcome of the command, showing the obedience and faith of the disciples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their work is done, and they have disappeared from the scene, feeling no doubt with their fellow servant the Baptist, 'He must increase, but I must decrease.'" 
 2. "The cloud too is gone, and the naked majestic Christ, braced in spirit, and enshrined in the reverent affection of His disciples, is left—to suffer!" 
 3. "kept it close—feeling, for once at least, that such things were unmeet as yet for the general gaze."
@@ -40,4 +40,4 @@ In the midst of divine revelation and the presence of Moses and Elijah, Jesus sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

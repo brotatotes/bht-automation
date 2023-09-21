@@ -9,7 +9,7 @@ In this verse, we see the Israelites' lack of faith as they turn away from God d
 2. "The plural is used categorically: not perhaps without implying also, that the only two religions were, the worship of Jehovah, and that of idols, a multitude."
 3. "In the οὗτος may be implied, as Meyer suggests, 'who was the strong opponent of idolatry.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the stone which the builders refused is made the head of the corner" - This quote refers to the rejection of Moses by the Israelites, highlighting the irony that the one they rejected became their leader and judge. It draws a parallel to the Psalm verse, emphasizing the significance of this rejection and subsequent elevation.
 2. "This Moses whom they refused" - This quote emphasizes the rejection of Moses by the Israelites, highlighting their disbelief and resistance towards him as a leader and judge. It sets the stage for understanding the subsequent events and the significance of Moses' role.
 3. "Who made thee a ruler and a judge" - This quote reflects the skepticism and doubt of the Israelites towards Moses' authority. It underscores their resistance to accepting him as a leader and judge, further emphasizing the theme of rejection and its consequences.
@@ -57,4 +57,4 @@ Note: The commentary is a bit lengthy, so I have selected quotes that highlight 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

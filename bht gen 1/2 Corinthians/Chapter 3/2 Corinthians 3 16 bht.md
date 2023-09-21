@@ -9,7 +9,7 @@ When the heart of Israel turns to the Lord through faith, the veil of spiritual 
 2. "When their heart goes in to speak with God, ceases to contemplate the dead letter, and begins to commune with the Spirit of the old covenant, then the vail is removed, as it was from the face of Moses."
 3. "The choice of the same words as those of the LXX, shews the closeness of the comparison."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whensoever their heart turns to the Lord, the veil is taken away." 
 2. "Whenever the Israelites turn to the Lord, who is the Spirit of the law, the veil is taken off their hearts in the presence of the Lord."
 3. "By the Spirit, they commune with God and with the inner spirit of the Mosaic covenant."
@@ -65,4 +65,4 @@ These quotes highlight the future hope of the Jewish people's conversion to Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

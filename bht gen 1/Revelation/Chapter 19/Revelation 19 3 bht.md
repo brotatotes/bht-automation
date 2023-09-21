@@ -4,7 +4,7 @@
 In this verse, we find repeated expressions of praise for a significant event that signifies the final destruction of the great enemy of the church. The imagery of ascending smoke symbolizes the eternal nature of God's judgment and the thorough obliteration of a rebellious city. The everlasting duration of this punishment serves as a warning to those who oppose God's will, illustrating the dire consequences of their rebellion. Ultimately, this verse conveys the seriousness and certainty of God's judgment, emphasizing the unyielding nature of His justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Again" emphasizes the repetition or continuation of the action being described, highlighting its significance or importance.
 2. "Rose up" suggests a sense of movement or ascent, indicating a change in position or status.
 3. "For ever and ever" conveys the idea of eternal or everlasting duration, emphasizing the timeless nature of the event or state being described.
@@ -40,4 +40,4 @@ In this verse, we find repeated expressions of praise for a significant event th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

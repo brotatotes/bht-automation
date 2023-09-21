@@ -11,7 +11,7 @@ This verse depicts the coming of the Son of man in a sudden and universal manner
 
 3. "The use of the ellipsis (...) in the commentary indicates that certain words have been omitted. This draws attention to the fact that the supplied words are necessary for a complete understanding of the verse, emphasizing the importance of context in interpreting biblical passages."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord speaks here of His coming and manifestation in a prophetically indefinite manner."
 2. "When the whole polity of the Jews, civil and ecclesiastical alike, was broken up at once, and its continuance rendered impossible by the destruction of Jerusalem, it became as manifest to all as the lightning of heaven that the kingdom of God had ceased to exist in its old, and had entered on a new and perfectly different form."
 3. "So it may be again, ere its final and greatest change at the personal coming of Christ, and of which the words in their highest sense are alone true."
@@ -51,4 +51,4 @@ This verse depicts the coming of the Son of man in a sudden and universal manner
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

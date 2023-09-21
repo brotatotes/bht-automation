@@ -9,7 +9,7 @@ On a significant date in April, our Lord was born after the spring rains, when t
 2. "Before this time there would be abundance of grass in the pastures the spring rains being over: but much after it, and till after the autumnal equinox again, the pastures would be comparatively bare."
 3. "ἀγρ. spending the night in the open field."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From about passover time in April until autumn, the flocks pastured constantly in the open fields, the shepherds lodging there all that time."
 2. "Were these shepherds chosen to have the first sight of the blessed Babe without any respect of their own state of mind? That, at least, is not God's way."
 3. "Thus was Nathanael engaged, all alone but not unseen, under the fig tree, in unconscious preparation for his first interview with Jesus."
@@ -45,4 +45,4 @@ On a significant date in April, our Lord was born after the spring rains, when t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

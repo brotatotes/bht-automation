@@ -4,7 +4,7 @@
 The verse being described in these commentaries emphasizes the profound focus and admiration that John the disciple had for Jesus, as he fixed his eyes intently on Him. The verse also highlights the role of John as a messenger, directing attention to Jesus as the Lamb of God. Furthermore, it emphasizes the purpose of Jesus' mission, which is to take away the sins of the world. Overall, this verse captures the deep significance of Jesus as the central figure in our faith, inviting us to behold Him and find salvation in His sacrificial work.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having fixed his eyes, with significant gaze, on Jesus" - This quote emphasizes the intense focus and attention that the disciple had on Jesus, suggesting a deep level of interest and admiration.
 2. "To have done this once was humility enough" - This quote highlights the humility of the disciple in not immediately approaching Jesus, recognizing that one act of humility was sufficient.
 3. "The repetition of that wonderful proclamation... could only have been meant as a gentle hint to go after Him" - This quote suggests that the repetition of the proclamation was a subtle invitation for the disciples to follow Jesus, indicating the importance and significance of His presence.
@@ -37,4 +37,4 @@ The verse being described in these commentaries emphasizes the profound focus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

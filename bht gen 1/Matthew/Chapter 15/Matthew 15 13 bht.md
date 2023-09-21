@@ -9,7 +9,7 @@ The verse being described speaks of the need for discernment in distinguishing b
 2. "Seed, plant, &c., are compared to doctrine, which however in its growth becomes identified with, and impersonated by, its recipients and disseminators."
 3. "See this illustrated in notes on the parable of the sower, ch. 13 'φυτόν, naturâ: φυτεία, curâ.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every plant, which my heavenly Father hath not planted, shall be rooted up." - This quote emphasizes that anything that is not from God will eventually be removed and destroyed. It highlights the idea that God's authority and plan will ultimately prevail.
 
 2. "Their corrupt teaching is already doomed: the garden of the Lord upon earth, too long cumbered with their presence, shall yet be purged of them and their accursed system." - This quote suggests that false teachings and systems will eventually be eradicated. It conveys the belief that God will cleanse and restore His true teachings and principles.
@@ -44,4 +44,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

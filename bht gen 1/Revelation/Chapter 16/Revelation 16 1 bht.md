@@ -11,7 +11,7 @@ In the grand vision of Revelation, a powerful voice resounds from the heavenly t
 
 3. "Just as the angel cast fire from the altar into the earth before the series of trumpets, the pouring out of the vials represents a similar act of divine intervention." - The pouring out of the vials is a powerful act of God's intervention and judgment upon the earth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These seven vials (the detailed expansion of the vintage, Revelation 14:18-20) being called 'the last,' must belong to the period just when the term of the beast's power has expired...close to the end or coming of the Son of man." 
 2. "The first four are more general, affecting the earth, the sea, springs, and the sun, not merely a portion of these natural bodies, as in the case of the trumpets, but the whole of them; the last three are more particular, affecting the throne of the beast, the Euphrates, and the grand consummation." 
 3. "Some of these particular judgments are set forth in detail in the seventeenth through twentieth chapters."
@@ -60,4 +60,4 @@ In the grand vision of Revelation, a powerful voice resounds from the heavenly t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

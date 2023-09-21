@@ -9,7 +9,7 @@ Believers have been chosen by God to receive an inheritance, predestined accordi
 2. "We were made an (God's) inheritance."
 3. "Having been predestined according to the purpose of Him who works all things according to the counsel of His will."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We were made to have an inheritance" - emphasizes the idea that believers have been chosen by God to receive an inheritance, highlighting the special relationship between God and His people.
 2. "The Church existed in the mind of God eternally, before it existed in creation" - highlights the predestined nature of the Church and the divine plan that was in place even before the world was created.
 3. "Not arbitrary caprice, but infinite wisdom ('counsel') joined with sovereign will" - emphasizes that God's purpose and plan for the Church is not based on random decisions, but on His perfect wisdom and sovereign will.
@@ -53,4 +53,4 @@ Believers have been chosen by God to receive an inheritance, predestined accordi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

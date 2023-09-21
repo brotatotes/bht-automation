@@ -9,7 +9,7 @@ Between the cities of Tyre and Sidon lies the village of Zarephath, known today 
 2. "The ancient city seems to have been on the coast."
 3. "Sarepta was strategically located between Tyre and Sidon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Save . . . saving—"but only." (Compare Mark 13:32, Greek.)"
 2. "Sarepta—"Zarephath" (1 Kings 17:9), a heathen village between Tyre and Sidon."
 3. "(See 1 Kings 17:9- :.)"
@@ -44,4 +44,4 @@ Between the cities of Tyre and Sidon lies the village of Zarephath, known today 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

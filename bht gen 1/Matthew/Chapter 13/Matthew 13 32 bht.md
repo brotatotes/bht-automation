@@ -9,7 +9,7 @@ In this parable, the smallest of all seeds, the mustard seed, represents somethi
 2. "This parable... has a double reference: general and individual."
 3. "The individual application of the parable points to the small beginnings of divine grace; a word, a thought, a passing sentence, may prove to be the little seed which eventually fills and shadows the whole heart and being."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye had faith as a grain of mustard seed, that is, 'never so little faith.'" 
 2. "This is added, no doubt, to express the amplitude of the tree." 
 3. "Is it straining the parable to suppose that, besides the wonderful growth of His kingdom, our Lord selected this seed to illustrate further the shelter, repose, and blessedness it is destined to afford to the nations of the world?"
@@ -37,4 +37,4 @@ In this parable, the smallest of all seeds, the mustard seed, represents somethi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

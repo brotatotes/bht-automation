@@ -4,7 +4,7 @@
 In this Bible verse, we witness the culmination of God's judgment on the wicked departed, depicted as the sixth seal. With the imagery of earthquakes and the darkening of the sun and moon, the verse symbolizes the removal of Paganism and idolatry from the Roman empire. Through the shaking of mutable things, the divine sets the stage for the establishment of an unshakable order. St. John's vision reveals the impending end of the world to the spirits of the departed, without any awareness of this cosmic event on earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sword, famine, and pestilence, answer to martyrdoms."
 2. "This passage answers to the imagery describing the portents of the immediate coming of the day of the Lord."
 3. "The shaking of these mutable things being the necessary preliminary to the setting up of those things which cannot be shaken."
@@ -33,4 +33,4 @@ In this Bible verse, we witness the culmination of God's judgment on the wicked 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

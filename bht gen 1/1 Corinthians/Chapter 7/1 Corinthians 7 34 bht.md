@@ -9,7 +9,7 @@ In this Bible verse, commentators discuss the distinction between married and un
 2. "The judgment of marriage here pronounced by the Apostle must be taken...with its accompanying conditions." 
 3. "Meanwhile they stand here on the sacred page as a lesson to us how to regard, though in circumstances somewhat changed, our worldly relations."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The unmarried and the married man differ in their respective duties."
 2. "Indeed, a woman undergoes a greater change of condition than a man in contracting marriage."
 3. "A woman undergoes a greater change of condition than a man in contracting marriage."
@@ -48,4 +48,4 @@ In this Bible verse, commentators discuss the distinction between married and un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are reminded that God's knowledge and judgment are far g
 2. "The condemning testimony of our conscience is not alone, but is a token of One sitting above our conscience and greater than our conscience: because our conscience is but the faint echo of His voice who knoweth all things: if it condemn us, how much more He?"
 3. "The doing of such works is the working of the life of Christ in us: they are its sign, they its fruits: they are not of us, but of it and of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lord, Thou knowest all things: thou knowest that I love Thee." - Peter's appeal to the all-knowing God, acknowledging his love despite his past sin of denying the Lord.
 
 2. "If our heart judges us unfavorably, we may be sure that He, knowing more than our heart knows, judges us more unfavorably still." - The condemning testimony of our conscience is not alone, but is the echo of the voice of God who is greater and knows all things.
@@ -52,4 +52,4 @@ In this Bible verse, we are reminded that God's knowledge and judgment are far g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is Luke 17:20-21. This passage speaks about the nature
 2. "μετὰ παρατηρ. ] with (accompanied with) anticipation, or observation. The cognate verb is used ch. Luk 14:1 of the Pharisees ‘watching’ Jesus."
 3. "The Pharisees were not sincerely seeking knowledge or understanding; their motive was to trap Jesus and find a reason to accuse Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To meet the erroneous views not only of the Pharisees, but of the disciples themselves, our Lord addresses both, announcing the coming of the kingdom under different aspects."
 2. "It cometh not with observation—with watching or lying in wait, as for something outwardly imposing and at once revealing itself."
 3. "The kingdom of God, in its first stage, would come silently, secretly, and imperceptibly, like the silent growth of the seed sown in the earth."
@@ -57,4 +57,4 @@ The verse being described is Luke 17:20-21. This passage speaks about the nature
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the act of eating the roll symbolizes the complete assimilation and thorough consideration of its contents. The sweetness of the Word of God is initially embraced, bringing pleasure and spiritual nourishment. However, along with the sweetness, there comes bitterness, representing the judgment and the hardships that follow. The revelation of divine truth is both pleasing and challenging, requiring a careful and thoughtful response.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His finding the roll sweet to the taste at first, is because it was the Lord's will he was doing, and because, divesting himself of carnal feeling, he regarded God's will as always agreeable, however bitter might be the message of judgment to be announced." 
 2. "The thought that God would be glorified gave him the sweetest pleasure. Yet, afterwards the belly, or carnal natural feeling, was embittered with grief at the prophecy of the coming bitter persecutions of the Church." 
 3. "The revelation of the secrets of futurity is sweet to one at first, but bitter and distasteful to our natural man, when we learn the cross which is to be borne before the crown shall be won."
@@ -45,4 +45,4 @@ In this verse, the act of eating the roll symbolizes the complete assimilation a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

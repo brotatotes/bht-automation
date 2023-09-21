@@ -4,7 +4,7 @@
 This verse describes the hypocrisy of certain individuals, comparing them to whitened sepulchres or graves. Despite their outward appearance of beauty and influence, they are filled with corruption and deadness within. Their actions and character contradict their public image, as they conceal their inner decay behind a facade of righteousness and respectability. The metaphor exposes the shallowness of their piety and serves as a reminder to value genuine purity over superficial appearances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With all their fair show their hearts were full of corruption!"
 2. "Ye be witnesses that ye have inherited, and voluntarily served yourselves heirs to, the truth-hating, prophet-killing, spirit of your fathers."
 3. "They were witnesses to themselves that they were the children of them that killed the prophets, convicting themselves daily of as exact a resemblance in spirit and character to the very classes over whose deeds they pretended to mourn."
@@ -47,4 +47,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

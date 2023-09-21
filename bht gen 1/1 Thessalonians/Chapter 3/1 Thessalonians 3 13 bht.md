@@ -9,7 +9,7 @@ The verse being described in these commentaries speaks of the desire for believe
 2. "The sphere in which the blamelessness is to be shown: not to στηρίξαι." 
 3. "This ensures the genuineness of this absence of blame in holiness: that it should be not only before men, but also before God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "May your holiness be such as will stand His searching scrutiny."
 2. "We must have 'holiness' if we are to be numbered with His holy ones or 'saints.'"
 3. "This verse shows that 'love' is the spring of true 'holiness'."
@@ -53,4 +53,4 @@ The verse being described in these commentaries speaks of the desire for believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

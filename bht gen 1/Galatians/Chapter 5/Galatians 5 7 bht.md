@@ -4,7 +4,7 @@
 The believers mentioned in this verse were once fervently committed to their Christian journey, making great strides in their faith and striving to run the race of the Christian life with dedication. However, they have been hindered and sidetracked by external influences that have caused them to deviate from the true path. The verse serves as a call for these believers to reflect on what has led them astray and to renew their commitment to the pursuit of truth and obedience to the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye were running well" - This phrase refers to the Corinthians' initial progress in their Christian journey, highlighting their previous commitment and dedication to the Gospel race.
 2. "Hinder by breaking up a road" - This vivid imagery emphasizes the disruptive nature of those who oppose the true Gospel, likening them to those who obstruct a path by destroying it.
 3. "Not submit yourselves to the true Gospel way of justification" - This phrase highlights the importance of obedience to the truth of the Gospel, emphasizing the need to align one's beliefs and actions with the teachings of Jesus.
@@ -50,4 +50,4 @@ The believers mentioned in this verse were once fervently committed to their Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

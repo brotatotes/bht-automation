@@ -11,7 +11,7 @@ If the dead rise not, then is not Christ raised. This verse reaffirms the logica
 
 3. "By repeating the inference, the author ensures that the reader fully grasps the logical conclusion being drawn from the previous statement." This quote highlights the intention behind the repetition, which is to ensure that the reader comprehends and internalizes the logical conclusion being drawn from the preceding statement.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition implies the unanswerable force of the argument."
 2. "The repetition serves to emphasize the importance and significance of the point being made."
 3. "By repeating the statement, the author is driving home the undeniable truth of the argument."
@@ -37,4 +37,4 @@ If the dead rise not, then is not Christ raised. This verse reaffirms the logica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

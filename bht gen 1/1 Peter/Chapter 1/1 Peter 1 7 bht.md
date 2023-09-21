@@ -9,7 +9,7 @@ Faith, more precious than perishable gold, is tested and refined through fiery t
 2. "Gold though perishable yet needs fire to try it, how much more does your faith, which is being proved for eternity, need a fiery trial?" 
 3. "May be found unto praise and glory and honour in the revelation of Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That your faith so proved 'may be found unto praise,' c., namely, the praise to be bestowed by the Judge."
 2. "If gold, though perishing, is yet tried with fire in order to remove dross and test its genuineness, how much more does your faith, which shall never perish, need to pass through a fiery trial to remove whatever is defective, and to test its genuineness and full value?"
 3. "At Christ's revelation shall take place also the revelation of the sons of God."
@@ -57,4 +57,4 @@ These quotes highlight the preciousness of faith, the refining process it underg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

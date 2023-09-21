@@ -9,7 +9,7 @@ As joint heirs with Christ, we are partakers of a great inheritance from God, on
 2. "The N.T. sets forth this view, making the redeemed equal to Christ, and Christ's possessions, theirs."
 3. "In the joint-heirship we must not bring out this point, that Christ is the rightful Heir, who shares His inheritance with the other children of God: it is as adoptive children that they get the inheritance, and Christ is so far only the means of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "heirs of God—of our Father's kingdom." 
 2. "joint-heirs with Christ—as the 'First-born among many brethren' and as 'Heir of all things'." 
 3. "if so be that we suffer—'provided we be suffering with Him'."
@@ -59,4 +59,4 @@ These quotes highlight the idea that as children of God, we are treated as heirs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

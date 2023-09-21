@@ -9,7 +9,7 @@ In this verse, commentators emphasize the assurance and confidence that believer
 2. "The perf. reaches through all our past prayers to this moment. All these we ἔχομεν: not one of them is lost: He has heard, He has answered them all: we know that we have them in the truest sense, in possession." 
 3. "The παρ ʼ αὐτοῦ belongs, by the arrangement of the words, to ᾐτήκαμεν, not to ἔχομεν, as Huther."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have, as present possessions, everything whatsoever we desired (asked) from Him."
 2. "Not one of our past prayers offered in faith, according to His will, is lost."
 3. "Like Hannah, we can rejoice over them as granted even before the event; and can recognize the event when it comes to pass, as not from chance, but obtained by our past prayers."
@@ -48,4 +48,4 @@ In this verse, commentators emphasize the assurance and confidence that believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the commentators describe the consequences faced by those who reject their initial faith and choose a path contrary to their commitment to God's service. They emphasize the importance of wholeheartedly dedicating oneself to God, considering it the most virtuous way. The Spirit of God is seen as guiding believers towards excellence, providing direction and purpose. The commentators encourage believers to make a sincere and unwavering commitment to live in accordance with the highest standards of Christian faith, cautioning against compromising their devotion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having—Bringing on themselves, and so having to bear as a burden (judgment from God), weighing like a load on them."
 2. "There could be no hardship at the age of sixty or upwards in not marrying again, for the sake of serving better the cause of Christ as presbyteresses."
 3. "The widow-presbyteresses, moreover, engaged to remain single, not as though single life were holier than married life, but because the interests of Christ's cause made it desirable."
@@ -54,4 +54,4 @@ In this Bible verse, the commentators describe the consequences faced by those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

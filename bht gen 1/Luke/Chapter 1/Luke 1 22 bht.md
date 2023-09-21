@@ -9,7 +9,7 @@ In this Bible verse, the commentator remarks on the visible excitement and unusu
 2. "His 'not being able to speak,' must mean, in answer to the enquiries which his unusual appearance prompted."
 3. "This answer he gave by a sign: and the question was also by signs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being speechless and deaf, Zechariah was unable to communicate his experience to others, leaving him isolated in his own thoughts and emotions."
 2. "This silence forced Zechariah to reflect deeply on the angel's message and the significance of his son's birth, allowing him to develop a profound understanding of God's plan."
 3. "By taking away Zechariah's ability to speak, God was teaching him the importance of listening and humility, reminding him that true communication with God requires not only words but also a receptive heart."
@@ -45,4 +45,4 @@ These quotes highlight the significance of Zechariah's inability to speak and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

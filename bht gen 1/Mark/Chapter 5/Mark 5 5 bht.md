@@ -4,7 +4,7 @@
 Amidst the cries, self-inflicted pain, and incessant torments described by commentators, a vivid picture emerges of a man in a state of utter desperation and madness. The haunting echoes of his shrieks, coupled with his relentless self-destruction, paint a bleak portrait of one consumed by an unclean spirit. This man, a striking symbol of the unregenerate, personifies the madness and hostility that often characterizes those who stand against God and the righteous. In his dwelling among the spiritually dead, he embodies the tragic fate of those trapped in the bondage of sin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Terrible as he was to others, he himself endured untold misery." 
 2. "He sought relief in tears and self-inflicted torture." 
 3. "Night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
@@ -31,4 +31,4 @@ Amidst the cries, self-inflicted pain, and incessant torments described by comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

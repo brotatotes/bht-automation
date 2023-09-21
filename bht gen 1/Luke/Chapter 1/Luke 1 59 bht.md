@@ -11,7 +11,7 @@ The people, in their sincere effort and genuine desire to seek God's presence an
 
 3. "The names of children were given at circumcision, because, at the institution of that rite, the names of Abram and Sarai were changed to Abraham and Sarah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law was observed, even though the eighth day after birth should be a sabbath." 
 2. "The naming of children at baptism has its origin in the Jewish custom at circumcision." 
 3. "The names of Abram and Sarai were changed at its first performance."
@@ -56,4 +56,4 @@ The people, in their sincere effort and genuine desire to seek God's presence an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the early days of Christianity, Paul's departure caused a stir, indicating the significant impact of the Christian teachings on society. Known as "the way," this exclusive path emphasized followers' commitment to living according to the teachings of Jesus. The term "the way" signified the disciples of Christ and their unique lifestyle, provoking discussions and commotion among people. The Christian doctrine's growth led to a transformative and attention-grabbing movement that called believers to live by the way of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same time—of Paul's proposed departure." This quote highlights the timing of Paul's departure and sets the context for the following discussion.
 2. "About that—'the' way." This quote suggests that the new religion, Christianity, was referred to as "the way" during that time, as mentioned in other passages in Acts.
 3. "So the new religion seemed then to be designated." This quote emphasizes that the term "the way" was used to designate the new religion of Christianity, as seen in Acts 9:2, Acts 22:4, and Acts 24:14.
@@ -47,4 +47,4 @@ In the early days of Christianity, Paul's departure caused a stir, indicating th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the significance of the name of Go
 2. "The name is of course that of Christ: not that of 'God,' as Storr and Schulthess, nor that of 'brethren,' as some."
 3. "So that if ye thus dishonour the poor in comparison with the rich, you are, 1. contravening the standard of honour which God sets up in His dealings: 2. opposing your own interest: 3. helping to blaspheme the name of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rich heathen must here chiefly be meant for none others would directly blaspheme the name of Christ."
 2. "Only indirectly rich Christians can be meant, who, by their inconsistency, caused His name to be blasphemed."
 3. "They who dishonor God's name by wilful and habitual sin, 'take (or bear) the Lord's name in vain.'"
@@ -63,4 +63,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, there is a description of a hostile movement and impetuous excite
 2. "συνιδόντες, rightly rendered in E. V. they were ware of it."
 3. "It would be strange if they were not, if an assault had been made on them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "an impetuous movement" with a view to stoning them
 2. "Once I was stoned," and that was at Lystra
 3. PALEY'S remarks—Horæ Paulinæ—on this singular coincidence between the Epistle and the history are very striking
@@ -50,4 +50,4 @@ In this verse, there is a description of a hostile movement and impetuous excite
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

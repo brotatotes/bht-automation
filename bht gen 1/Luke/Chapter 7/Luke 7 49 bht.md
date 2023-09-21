@@ -8,7 +8,7 @@ In this verse, a question arises in a reverential spirit, possibly alluding to t
 1. "This appears to have been said, not in a hostile, but a reverential spirit." 
 2. "Perhaps the καί alludes to the miracles wrought in the presence of John’s messengers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No wonder they were startled to hear One who was reclining at the same couch, and partaking of the same hospitalities with themselves, assume the awful prerogative of 'even forgiving sins.'" 
 
 2. "Though there be degrees of guilt, insolvency, or inability to wipe out the dishonor done to God, is common to all sinners." 
@@ -49,4 +49,4 @@ In this verse, a question arises in a reverential spirit, possibly alluding to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

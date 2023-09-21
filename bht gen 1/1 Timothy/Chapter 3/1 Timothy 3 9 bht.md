@@ -4,7 +4,7 @@
 The verse being described is about the importance of holding onto the faith as a revealed mystery, which requires a pure conscience and sincere fear of God. This mystery of the faith is the subject matter of the Christian doctrine, revealed by divine revelation and kept hidden until the appointed time. It emphasizes the need for steadfastness in beliefs, remaining unwavering in trust and confidence, and living a holy life in accordance with God's will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mystery of the faith—holding the faith, which to the natural man remains a mystery, but which has been revealed by the Spirit to them." - This quote highlights the idea that faith is not something easily understood by the natural man, but it is a mystery that is revealed by the Spirit.
 
 2. "In a pure conscience." - This quote emphasizes the importance of having a pure conscience, free from anything base or foreign, in order to hold onto the faith.
@@ -52,4 +52,4 @@ The verse being described is about the importance of holding onto the faith as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

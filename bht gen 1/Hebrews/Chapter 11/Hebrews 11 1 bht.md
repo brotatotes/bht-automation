@@ -9,7 +9,7 @@ Faith is the assurance that makes unseen things present and gives reality to thi
 2. "Faith is the demonstration to us of that which we do not see."
 3. "Hope exists independently of faith, but derives its reality, and is ripened into confidence, by its means."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith substantiates promises of God which we hope for, as future in fulfillment, making them present realities to us."
 2. "True faith infers the reality of the objects believed in and hoped for."
 3. "Faith is an assent unto truths credible upon the testimony of God, delivered unto us in the writings of the apostles and prophets."
@@ -53,4 +53,4 @@ Faith is the assurance that makes unseen things present and gives reality to thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

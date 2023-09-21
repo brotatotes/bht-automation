@@ -13,7 +13,7 @@ The verse being described is a warning about the love of money and its potential
 
 These quotes provide insights into the destructive nature of the love of money and its potential consequences on faith and well-being.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The love of money is a root of all evils." - This quote highlights the distinction between money itself and the love of money, emphasizing that it is the desire to be rich that can lead to various evils.
 2. "Love of money destroys faith, the root of all that is good." - This quote emphasizes the detrimental effect that the love of money can have on one's faith, which is the foundation of all that is good.
 3. "The prosperity of fools destroys them." - This quote suggests that the pursuit of wealth without wisdom can ultimately lead to destruction and perdition.
@@ -63,4 +63,4 @@ Note: The commentary provided does not specify the specific Bible verse being di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

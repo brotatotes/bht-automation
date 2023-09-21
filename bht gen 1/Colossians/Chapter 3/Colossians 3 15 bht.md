@@ -4,7 +4,7 @@
 The verse being described is a powerful reminder of the peace that comes from God. It emphasizes that this peace is not merely a state of calmness, but rather a guiding force that has the ability to govern and control our hearts. By allowing the peace of God to rule in our lives, it becomes the umpire that arbitrates conflicts within us, bringing harmony and tranquility to our emotions and thoughts. This peace is a reward that flows from our love for God and our obedience to His commands, and it beckons us to constantly cultivate an attitude of gratitude.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The peace of God. Therefore Christ is God. Peace was His legacy to His disciples before He left them."
 2. "Peace follows love."
 3. "Let the peace of Christ act as umpire when anger, envy, and such passions arise; and restrain them."
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the peace that comes from Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

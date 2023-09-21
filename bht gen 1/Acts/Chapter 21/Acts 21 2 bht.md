@@ -4,7 +4,7 @@
 With determination and unwavering commitment, the apostle set forth on a ship bound for Phoenicia, near the land of Israel. It is evident that circumstances favored Paul as he found another vessel and wasted no time boarding it. This journey held geographical and historical significance, as Phoenicia was a region that originally belonged to Canaan. This highlights the apostle's dedication to spreading the message of Christ, making the voyage a pivotal part of his mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their former one going no farther, probably." 
 2. "One would almost think this extracted from a journal of the voyage, so graphic are its details." 
 3. "Finding a ship... went abroad."
@@ -42,4 +42,4 @@ With determination and unwavering commitment, the apostle set forth on a ship bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

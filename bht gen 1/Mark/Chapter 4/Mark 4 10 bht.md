@@ -11,7 +11,7 @@ When he was alone, Jesus intentionally sought solitude and withdrew apart from t
 
 3. "His disciples." This term encompasses all those who followed Jesus and learned from him. It emphasizes the broader community of believers who were not part of the inner circle of the twelve, but still had a personal relationship with Jesus and were committed to following him. It conveys the idea that discipleship is not limited to a select few, but open to all who choose to follow Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable of the sower was of that fundamental, comprehensive, and introductory character."
 2. "The reply would seem to intimate that this parable of the sower was of that fundamental, comprehensive, and introductory character."
 3. "Reason for Teaching in Parables."
@@ -49,4 +49,4 @@ When he was alone, Jesus intentionally sought solitude and withdrew apart from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

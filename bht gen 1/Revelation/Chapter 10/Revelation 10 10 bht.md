@@ -4,7 +4,7 @@
 In this verse, a specific book is mentioned, described as bitter and containing intense bitterness. Receiving and delivering its message brings on bitter persecutions, trials, and woe. While the nature of the tidings may be bitter and result in suffering, the book also contains a message of hope and joy, revealing the glorious state of the church and the kingdom of Christ. The Gospel, similar to this book, can bring both pleasure and pain, as it is sweet in the mouth but bitter in the belly, causing grief and sorrow to preachers and believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The little book" refers to a specific book mentioned in the Bible. (Quote 10)
 2. The book was bitter, indicating that it contained difficult or unpleasant information. (Quote 10)
 3. The Greek word used suggests that the bitterness of the book was intense. (Quote 10)
@@ -33,4 +33,4 @@ In this verse, a specific book is mentioned, described as bitter and containing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

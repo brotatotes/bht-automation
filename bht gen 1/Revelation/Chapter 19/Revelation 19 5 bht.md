@@ -4,7 +4,7 @@
 A voice emerges from the throne, possibly from the four living creatures, calling for the praise of God. This praise is not only for God's judgment of the great whore, but also for His victorious reign as the Lord God, the Almighty. It signifies a moment of divine triumph and the fulfillment of God's sovereign power and authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Praise our God" - This commentary draws a parallel between the act of praise performed by the Levites in the Old Testament and the praise being offered to God in this verse. It highlights the significance and solemnity of praising God, especially when His divine glory fills the house of God.
 
 2. "Out from the throne" - This quote emphasizes the source of the praise, which is coming directly from the throne of God. It suggests that the praise being offered is of utmost importance and carries great weight and authority.
@@ -53,4 +53,4 @@ These quotes provide insights into the context and significance of the verse, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

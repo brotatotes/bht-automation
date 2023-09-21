@@ -9,7 +9,7 @@ This verse captures the growth and development of Jesus, both in terms of his ph
 2. "The body advances in stature, and the soul in wisdom." - Cyril.
 3. "Becoming filled." - Luk 2:52.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His mental development kept pace with His bodily"
 2. "the grace of God...rested manifestly and increasingly upon Him"
 3. "Solitary flowered out of the wonderful enclosed garden of the thirty years, plucked precisely there where the swollen bud, at a distinctive crisis (at twelve years of age), bursts into flower."
@@ -55,4 +55,4 @@ These quotes highlight the growth and development of Jesus' human soul, his wisd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

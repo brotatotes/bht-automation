@@ -4,7 +4,7 @@
 This passage describes a renowned church that was situated in Ephesus, a city renowned for its temple of Diana and bustling markets. The commentator remarks on the church's commendable qualities of patience, opposition to evil, and discernment of false apostles. However, they are reproved for losing their initial fervor for Christ. The description emphasizes Christ's active role in protecting and guiding the church, mirroring the high priest's movements in the sanctuary. The verse draws attention to Christ's power and his ability to retain his people under his care, symbolized by his presence among the churches.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ephesus—famed for the temple of Diana, one of the seven wonders of the world."
 2. "The title of Christ here as 'holding fast the seven stars... and walking in the midst of the seven candlesticks' accords with the beginning of His address to the seven churches representing the universal Church."
 3. "Walking expresses His unwearied activity in the Church, guarding her from internal and external evils, as the high priest moved to and fro in the sanctuary."
@@ -43,4 +43,4 @@ This passage describes a renowned church that was situated in Ephesus, a city re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

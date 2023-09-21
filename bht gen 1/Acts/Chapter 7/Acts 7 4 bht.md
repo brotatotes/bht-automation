@@ -9,7 +9,7 @@ The Bible verse being described is when Abraham fully settles in Canaan after th
 2. "The subterfuge of understanding the spiritual death of Terah, who is, as a further hypothesis, supposed to have relapsed into idolatry at Haran, appears to have originated with the Rabbis."
 3. "The way in which the difficulty has been met by Wordsworth and others, viz. that we have no right to assume that Abram was born when Terah was 70, but may regard him as the youngest son, would leave us in this equally unsatisfactory position."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham's settlement in Canaan was not contingent on the death of his father, but rather a divine transaction between him and Jehovah." 
 
 2. "The timing of Abraham's move to Canaan after his father's death highlights the significance of God's calling and the establishment of the land as the promised inheritance." 
@@ -52,4 +52,4 @@ The Bible verse being described is when Abraham fully settles in Canaan after th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

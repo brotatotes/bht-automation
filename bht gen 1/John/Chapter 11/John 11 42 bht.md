@@ -4,7 +4,7 @@
 In this particular Bible verse, the speaker expresses their unwavering faith in their relationship with God, knowing that their prayers are always heard. Their public prayer serves not as a display of doubt, but as a demonstration of their complete dependence on God. This intimate connection with God is evident in their actions and decisions, as they seek to benefit others and bring glory to God. The verse also highlights the broad appeal and impact of their ministry, with a diverse crowd gathered to listen to their teachings and witness their miracles.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yet, I knew that thou hearest me always." This quote highlights the unwavering faith and confidence Jesus had in His relationship with God, knowing that His prayers were always heard.
 2. "His doing even this, in the audience of the people, was not from any doubt of the prevalency of His prayers in any case." This quote emphasizes that Jesus' public prayer was not a display of doubt, but rather a demonstration of His complete dependence on His Father.
 3. "To show the people that He did nothing without His Father, but all by direct communication with Him." This quote underscores the importance of Jesus' intimate connection with God and His reliance on Him for every action and decision.
@@ -40,4 +40,4 @@ In this particular Bible verse, the speaker expresses their unwavering faith in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

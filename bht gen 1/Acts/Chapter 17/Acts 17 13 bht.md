@@ -9,7 +9,7 @@ In this Bible verse, we see the persistence and aggressive nature of the unbelie
 2. "They came, and stirred up there also... no journey having been related of them before, but a precisely similar act of exciting the people." 
 3. "From the distance, some time must have elapsed before this could take place: and that some time did elapse, we may gather from 1 Thessalonians 2:18, where Paul relates that he made several attempts to revisit the Thessalonians."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews of Thessalonica came thither also" - This quote highlights the persistence and determination of the Jews in their opposition to the message of the Gospel. It shows that they were actively seeking to disrupt and hinder the spread of Christianity.
 
 2. "Like hunters upon their prey" - This vivid imagery portrays the aggressive and predatory nature of the Jews' actions. It suggests that they were relentless in their pursuit of undermining the work of the apostles and causing trouble for the early Christian community.
@@ -52,4 +52,4 @@ In this Bible verse, we see the persistence and aggressive nature of the unbelie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described paints a vivid picture of the overthrow of the beast and its followers, with the portrayal of two opposing armies prepared for battle. Interestingly, the description focuses on the aftermath of the conflict, highlighting the victory achieved without explicitly mentioning any actual fighting or engagement. This emphasizes the magnitude and triumph of the event, as well as the evident power of the victorious side.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the remnant—Greek, 'the rest,' that is, 'the kings and their armies'": This quote highlights the specific group being referred to as the remnant, which consists of the kings and their armies. It helps to clarify the identity of those included in this category.
 
 2. "classed together in one indiscriminate mass": This quote emphasizes that the remnant is not individually distinguished or separated, but rather grouped together as a collective entity. It suggests a sense of unity or uniformity among them.
@@ -49,4 +49,4 @@ The verse being described paints a vivid picture of the overthrow of the beast a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

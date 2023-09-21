@@ -9,7 +9,7 @@ In this verse, the commentator remarks on the significance of Jesus' birth, emph
 2. "γένεσις must be understood in a wide sense, as nearly identical in meaning with γέννησις; as “= ‘origo,’ not merely ‘birth,’” Me."
 3. "Here to be understood of living together in one house as man and wife; the deductio in domum mariti."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Holy Ghost is a living conscious Person."
 2. "In the unity of the Godhead, He is distinct both from the Father and the Son."
 3. "On the miraculous conception of our Lord."
@@ -50,4 +50,4 @@ These quotes highlight the cultural and legal significance of betrothal in bibli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

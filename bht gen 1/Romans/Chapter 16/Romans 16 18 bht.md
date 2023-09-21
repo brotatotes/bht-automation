@@ -11,7 +11,7 @@ This verse describes individuals who are skilled in speaking persuasively and us
 
 3. "Or perhaps 'eulogies' (flatteries), as Pind. Nem. Romans 4:8, οὐδὲ θερμὸν ὕδωρ τόσον | γε μαλθακὰ τεύχει | γυῖα, τόσσον εὐλογία φόρ | μιγγι συνάορος." - "Or perhaps 'eulogies' (flatteries), as in Pindar's Nemean Ode 4:8, 'Not even warm water softens limbs so much, nor does eulogy mix with the same drink.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord Christ" appears to be the true reading.
 2. "Living for low ends of their own."
 3. "By good words and fair speeches deceive the simple."
@@ -56,4 +56,4 @@ This verse describes individuals who are skilled in speaking persuasively and us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

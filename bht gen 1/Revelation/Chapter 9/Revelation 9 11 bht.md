@@ -4,7 +4,7 @@
 In this passage, we are introduced to a group of locusts who have a powerful king ruling over them, referred to as the "angel" or "false prophet Mahomet." This king, known as Abaddon or Apollyon, personifies destruction and is associated with the dark and gloomy depths of the abyss. He has the authority to command the locusts, tormenting and afflicting the ungodly. Notably, this king is distinct from Satan himself, emphasizing his role as a powerful force of devastation and ruin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They have as king over them the angel, c. Satan."
 2. "The locusts are supernatural instruments in the hands of Satan to torment, and yet not kill, the ungodly."
 3. "The locusts mean evil spirits again permitted to come forth on earth and afflict men with various plagues."
@@ -40,4 +40,4 @@ In this passage, we are introduced to a group of locusts who have a powerful kin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

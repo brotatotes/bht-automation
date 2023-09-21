@@ -4,7 +4,7 @@
 The Bible verse being described is a verse about the spirit of adoption, freedom, and confidence given by God. Commentators emphasize the contrast between this spirit and a spirit of bondage or fear. They explain that the Holy Spirit is not a spirit of bondage but rather brings freedom, calmness, and confidence in our relationship with God. Believers are invited to call God their Father with intimate familiarity and reverence. This spirit of adoption is available to all, welcoming both Jews and Gentiles into God's family.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spirit ye received was not a spirit of bondage."
 2. "Such was your condition before ye believed, living in legal bondage, haunted with incessant forebodings under a sense of unpardoned sin."
 3. "The word 'cry' is emphatic, expressing the spontaneousness, the strength, and the exuberance of the final emotions."
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

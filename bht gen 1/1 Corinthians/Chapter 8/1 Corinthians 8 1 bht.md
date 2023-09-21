@@ -9,7 +9,7 @@ In this Bible verse, the commentators shed light on the importance of understand
 2. "Partaking of them was an abomination among the Jews...and was forbidden by the Apostles and elders assembled at Jerusalem."
 3. "It shows how little such decisions were at that time regarded as lastingly binding on the whole church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The infirmities of such should be respected."
 2. "Christians were constantly exposed to the temptation of receiving them, which was forbidden."
 3. "Knowledge puffeth up—when without 'love'."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators shed light on the importance of understand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

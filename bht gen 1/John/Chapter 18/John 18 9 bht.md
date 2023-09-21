@@ -9,7 +9,7 @@ In this Bible verse, Jesus speaks about the preservation and care He has for His
 2. "The words unquestionably had a much deeper meaning than any belonging to this occasion."
 3. "To 'fulfil' a prophecy is not to exhaust its capability of being again and again fulfilled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reference is to such sayings as John 6:39; John 17:12; showing how conscious the Evangelist was, that in reporting his Lord's former sayings, he was giving them not in substance merely, but in form also."
 2. "Observe, also, how the preservation of the disciples on this occasion is viewed as part that deeper preservation undoubtedly intended in the saying quoted."
 3. "The saying might be fulfilled which he spake, Of them which thou gavest me have I lost none."
@@ -54,4 +54,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

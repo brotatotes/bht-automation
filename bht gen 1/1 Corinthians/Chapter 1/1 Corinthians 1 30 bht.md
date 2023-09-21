@@ -11,7 +11,7 @@ The Bible verse being described is a powerful reminder of God's role in our spir
 
 3. "Both righteousness and sanctification... form one whole" - The commentary emphasizes the inseparable connection between righteousness and sanctification in the Christian life, and how they work together to complete our justification before God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not 'in the flesh' (1 Corinthians 1:26; 1 Corinthians 1:29)."
 2. "By it we become 'wise unto salvation,' owing to His wisdom in originating and executing the plan, whereas once we were 'fools.'"
 3. "Now sanctification is perfect in principle, but not in attainment."
@@ -57,4 +57,4 @@ The Bible verse being described is a powerful reminder of God's role in our spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

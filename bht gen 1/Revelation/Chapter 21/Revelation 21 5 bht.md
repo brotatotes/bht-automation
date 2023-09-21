@@ -4,7 +4,7 @@
 In this verse, a powerful proclamation is made by the One who sits on the throne. The significance of this moment is highlighted as it is the first direct speech attributed to Him. The command is given to write down the forthcoming words, emphasizing the importance of preserving and sharing this message. The assurance is given that these sayings are trustworthy and true, embodying the faithful and reliable nature of the words spoken.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul."
 2. "True and faithful" (literally, "genuine").
 3. "Changed from the old."
@@ -47,4 +47,4 @@ In this verse, a powerful proclamation is made by the One who sits on the throne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse highlights the potential suffering that believers may face for their 
 2. "Blessed are ye... immo potius auget." 
 3. "Be not affected in heart by the fear which they strive to inspire into you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promises of this life extend only so far as it is expedient for us that they should be fulfilled" - Calvin
 2. "Not the suffering, but the cause for which one suffers, makes the martyr" - Augustine
 3. "Not even can suffering take away your blessedness, but rather promotes it"
@@ -60,4 +60,4 @@ This verse highlights the potential suffering that believers may face for their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

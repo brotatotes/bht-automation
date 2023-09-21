@@ -9,7 +9,7 @@ In a time when the world scoffed and disbelieved, Noah, driven by his unwavering
 2. "By which faith, he condemned the world and became heir of the righteousness which is according to faith."
 3. "Noah is the first in Scripture who is called δίκαιος, as Philo, πρῶτος οὗτος δίκαιος ἐν ταῖς ἱεραῖς ἀνεῤῥήθη γραφαῖς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moved with fear—not mere slavish fear, but as in Hebrews 8:5, 'reverential fear': opposed to the world's sneering disbelief of the revelation, and self-deceiving security." 
 
 2. "For since he believed and was saved, so might they have believed and been saved, so that their condemnation by God is by his case shown to be just." 
@@ -52,4 +52,4 @@ In a time when the world scoffed and disbelieved, Noah, driven by his unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

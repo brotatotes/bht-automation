@@ -9,7 +9,7 @@ The Bible verse being described tells of a significant event in history, the gre
 2. "The Apostle’s argument is, as against the assertors of the world’s endurance for ever, that it has once been destroyed, so that their assertion is thereby invalidated."
 3. "Only thus, as Huther observes, does the verse come in logically as a contradiction to the saying of the scoffers, πάντα οὕτως διαμένει ἀπʼ ἀρχῆς κτίσεως"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By means of which heavens and earth... the then world perished." 
 2. "The earth was deluged by that water out of which it had originally risen." 
 3. "The flood... broke up the fountains of the great deep and opened the windows of heaven."
@@ -53,4 +53,4 @@ The Bible verse being described tells of a significant event in history, the gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this thought-provoking verse, Jesus masterfully challenges his opponents with a question that exposes their biases and demands self-reflection. By redirecting the conversation and evading their trap, he showcases his wisdom and ability to disrupt the status quo. Jesus emphasizes the authority of John's ministry, urging his listeners to consider whether it was ordained by God or merely of human origin. Through this exchange, Jesus not only reveals the power of dialogue and open-mindedness but also highlights the significance of John's testimony, establishing Jesus' identity as the long-awaited Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, in his infinite wisdom, turns the tables on his opponents by posing a question of his own. This not only reveals his astute understanding of human nature but also highlights his ability to challenge the status quo and provoke deeper reflection." 
 
 2. "By responding with a question, Jesus invites his listeners to engage in critical thinking and self-reflection. He encourages them to consider the implications of their own beliefs and actions, forcing them to confront their own biases and prejudices." 
@@ -35,4 +35,4 @@ In this thought-provoking verse, Jesus masterfully challenges his opponents with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

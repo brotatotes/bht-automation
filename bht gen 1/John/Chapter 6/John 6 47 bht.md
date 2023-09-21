@@ -11,7 +11,7 @@ Through belief in Christ, one can truly experience an immediate and present poss
 
 3. "This verse reminds us that Jesus is the ultimate source of spiritual nourishment and satisfaction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believing in Jesus is not just an intellectual assent to the facts about Him, but a deep trust and reliance on Him for salvation and eternal life."
 2. "When we believe in Jesus, we are not only saved from the penalty of sin, but we also receive the gift of the Holy Spirit who empowers us to live a transformed life."
 3. "The belief in Jesus as the Son of God and the Savior of the world is not a one-time event, but an ongoing relationship of trust and surrender to Him."
@@ -44,4 +44,4 @@ Through belief in Christ, one can truly experience an immediate and present poss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

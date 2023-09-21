@@ -11,7 +11,7 @@ In this verse, commentators explain that the verse pertains to the resurrection 
 
 3. "This verse should not be interpreted in the same way as Mark 12:23; the context here is different."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marriage is ordained to perpetuate the human family; but as there will be no breaches by death in the future state, this ordinance will cease."
 2. "But as the subject is death and resurrection, we are not warranted to extend the equality here taught beyond the one point—the immortality of their nature."
 3. "A beautiful clause is added in Luke—'and are the children of God'—not in respect of character, which is not here spoken of, but of nature—'being the children of the resurrection,' as rising to an undecaying existence and so being the children of their Father's immortality."
@@ -37,4 +37,4 @@ In this verse, commentators explain that the verse pertains to the resurrection 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, we see the complexities within the genealogies and names that establish the lineage of Jesus. The confusion around the identity of Salathiel and Matthat is evident, as they are referred to as both fathers and sons. However, these complexities serve an important purpose in fulfilling God's promise of a Savior from the line of David. Despite debates among commentators, the presence of these names in various ancient exemplars and versions adds to the rich tapestry of Jewish history and the fulfillment of prophecy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salathiel is called the son, while in Ezra 3:2, he is called the father of Zerubbabel. But they are probably different persons." 
 2. "The genealogies in the Bible can sometimes be complex and confusing, but they serve an important purpose in establishing the lineage of Jesus." 
 3. "Through the genealogy of Jesus, we see the fulfillment of God's promise to bring forth a Savior from the line of David."
@@ -23,4 +23,4 @@ In this Bible verse, we see the complexities within the genealogies and names th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

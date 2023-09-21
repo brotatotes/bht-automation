@@ -9,7 +9,7 @@ In this Bible verse, a man expresses his faith in Jesus as the Messiah and ackno
 2. "What is really astounding, is the power and strength of that faith, which, amidst shame and pain and mockery, could thus lift itself to the apprehension of the Crucified as this King."
 3. "It is remarkable how, in three following sayings, the Lord appears as Prophet, Priest, and King: as Prophet, to the daughters of Jerusalem; as Priest, interceding for forgiveness; as King, acknowledged by the penitent thief, and answering his prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'kingdom' referred to was one beyond the grave for it is inconceivable that he should have expected Him to come down from the cross to erect any temporal kingdom."
 2. "He does not presume to ask a place in that kingdom, though that is what he means, but with a humility quite affecting, just says, 'Lord, remember me when,' &c."
 3. "Now contrast with this bright act of faith the darkness even of the apostles' minds, who could hardly be got to believe that their Master would die at all, who now were almost despairing of Him, and who when dead had almost buried their hopes in His grave."
@@ -59,4 +59,4 @@ Note: The commentary was not numbered, so I numbered the quotes for easier refer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

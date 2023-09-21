@@ -11,7 +11,7 @@ In this verse, the commentators shed light on the significance of sinning agains
 
 3. "τύπτοντες] smiting: τί γὰρ ἀπηνέστερον ἀνθρώπου γένοιτʼ ἂν τὸν νοσοῦντα τύπτοντος?" This quote poses a rhetorical question that highlights the severity of the action described in the verse, emphasizing the impact of smiting someone who is already sick.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wound their weak conscience—literally, 'smite their conscience, being (as yet) in a weak state.' It aggravates the cruelty of the act that it is committed on the weak, just as if one were to strike an invalid."
 2. "Against Christ—on account of the sympathy between Christ and His members."
 3. "The connection between Christ and His followers is so intimate that any harm done to them is considered as being done to Christ Himself."
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the significance of sinning agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

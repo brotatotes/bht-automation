@@ -9,7 +9,7 @@ In this passage, Jesus speaks to Nicodemus, explaining the necessity of being bo
 2. "He inherited the weakness of the flesh, but His spirit was not, like that of sinful man, alien from holiness and God; and therefore on Him no second birth passed."
 3. "His obedience was accepted as perfect, and the good pleasure of the Father rested on Him. Therefore He includes not Himself in this necessity for the new birth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If a spiritual nature only can see and enter the kingdom of God if all we bring into the world with us be the reverse of spiritual; and if this spirituality be solely of the Holy Ghost, no wonder a new birth is indispensable."
 2. "Ye, says Jesus, not we."
 3. "This is remarkable, showing that our Lord meant to hold Himself forth as 'separate from sinners.'"
@@ -59,4 +59,4 @@ These quotes highlight the astonishment and disbelief of Nicodemus upon hearing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

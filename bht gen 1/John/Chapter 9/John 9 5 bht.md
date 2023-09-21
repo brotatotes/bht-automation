@@ -9,7 +9,7 @@ In this verse, Jesus proclaims himself as the Resurrection and the Life, the sou
 2. "He sets forth Himself as the source of the archetypal spiritual light."
 3. "The natural, now about to be conferred, is only a derivation and symbol."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As long as I am in the world, I am the light of the world" - Jesus declares himself as the source of spiritual light, displaying his glory and fidelity during his earthly existence. 
 2. "He must make full proof of His fidelity while His earthly career lasted" - Jesus had to demonstrate his faithfulness and fulfill his mission on earth before his departure. 
 3. "He sets Himself forth as the source of the archetypal spiritual light" - Jesus is not only the giver of the natural light but also the origin of the ultimate spiritual light, of which the earthly light is just a representation.
@@ -55,4 +55,4 @@ In this verse, Jesus proclaims himself as the Resurrection and the Life, the sou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

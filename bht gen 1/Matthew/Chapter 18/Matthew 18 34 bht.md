@@ -9,7 +9,7 @@ In this Bible verse, a servant incurs enormous debt, but is shown great mercy an
 2. "He who falls from a state of grace falls into a state of condemnation, and is overwhelmed with 'all that debt,' not of this or that actual sin formerly remitted, but of a whole state of enmity to God."
 3. "The motive held up in this parable could only have full light cast on it by the great act of Atonement which the Lord was about to accomplish."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The lord's anger and delivery of the servant to the tormentors illustrate the severity of the treatment he believed was warranted for the servant's actions."
 2. "The phrase 'till he should pay all that was due unto him' emphasizes the need for complete restitution, suggesting that the servant's debt was not just financial but also moral."
 3. "This verse highlights the consequences of not showing mercy and forgiveness, as the servant is subjected to torment until he fully satisfies his debt."
@@ -53,4 +53,4 @@ In this Bible verse, a servant incurs enormous debt, but is shown great mercy an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

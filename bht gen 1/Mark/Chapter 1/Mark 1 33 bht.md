@@ -4,7 +4,7 @@
 The verse describes a scene where the entire city gathers at the door, eagerly witnessing the miracles and seeking healing from Jesus. The commentator remarks on the authenticity of the account and praises the descriptive language used, vividly portraying the communal aspect of faith and the inclusivity of Jesus' ministry. It highlights the impact of Jesus' teachings and miracles, as well as the growing curiosity and expectation of the people. The crowd represents a vivid and lively prospect, though the commentator also contemplates the possibility that the initial excitement may fade without lasting impact.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And all the city was gathered together at the door" - This shows the immense popularity and impact of Jesus' healing ministry, as people from the entire city flocked to witness the miracles and bring their sick loved ones for healing. It highlights the widespread recognition of Jesus' power and the desperation of those seeking his help.
 
 2. "This bespeaks the presence of an eye-witness" - The commentator emphasizes the authenticity and reliability of the account, suggesting that the writer of the Gospel of Mark was likely an eyewitness to these events. This adds credibility to the narrative and reinforces the historical significance of Jesus' ministry.
@@ -42,4 +42,4 @@ The verse describes a scene where the entire city gathers at the door, eagerly w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

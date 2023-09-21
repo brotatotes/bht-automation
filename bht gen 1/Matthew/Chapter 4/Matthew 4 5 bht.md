@@ -11,7 +11,7 @@ In this verse, Jesus is taken by Satan to the holy city, Jerusalem, and to the h
 
 Note: The commentary provided is quite lengthy and contains a lot of technical details and references. I have selected three quotes that provide insights into the order of the temptations, the location of the temptation, and the nature of the temptation itself.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The holy city, the seat of the temple, the metropolis of all Jewish worship."
 2. "Whether this refers to the highest summit of the temple, which bristled with golden spikes, or another peak on Herod's royal portico overhanging the ravine of Kedron, at the valley of Hinnom."
 3. "An immense tower built on the very edge of this precipice, from the top of which one could not look to the bottom."
@@ -57,4 +57,4 @@ Note: The commentary provided is incomplete and does not contain enough informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

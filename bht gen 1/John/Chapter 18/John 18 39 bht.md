@@ -9,7 +9,7 @@ In John 18:39, we see the repeated accusation of Jesus by the chief priests and 
 2. "The sending to Herod, and second proclamation of His innocence by Pilate."
 3. "For an instructive specimen of the variations in the Gospel narratives, the four accounts of this incident."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On the typical import of the choice of Christ to suffer, by which Barabbas was set free."
 2. "See the sixteenth chapter of Leviticus, particularly verse -, where the subject is the sin offering on the great day of atonement."
 3. "The choice to release Barabbas at the Passover has symbolic significance, pointing to the ultimate sacrifice of Christ for the sins of humanity."
@@ -47,4 +47,4 @@ Note: The commentary is about John 18:39.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

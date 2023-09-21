@@ -4,7 +4,7 @@
 The Bible verse under consideration reveals that the oath of God preceded the forty years, and it extended beyond the exclusion of unbelieving individuals from the land of rest. The rest promised to the believers is yet to come. When God swore with determination and certainty, He established a punishment that matched their disobedient acts. This punishment of being deprived of God's promised rest in the land of Canaan was a direct consequence of their continuous offenses. The acts and the corresponding punishment are inseparable, forming two sides of the same coin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The oath of God preceded the forty years."
 2. "The threat extended farther than the exclusion of the unbelieving from the literal land of rest."
 3. "The rest promised to the believing in its full blessedness was, and is, yet future."
@@ -40,4 +40,4 @@ The Bible verse under consideration reveals that the oath of God preceded the fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

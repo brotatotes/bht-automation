@@ -4,7 +4,7 @@
 The verse speaks of glorifying the name of our Lord Jesus Christ, highlighting the inseparable unity of God and Jesus. As commentators explain, this glorification is achieved through obedience, patience, and good works that reflect His love and power. It is not simply a label, but encompasses the essence of His character. When believers live in a way that showcases His transformative work, His name is made known to the world, and they become living testimonies of His grace, drawing others to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The name of our Lord Jesus—Our Lord Jesus in His manifested personality as the God-man." 
 2. "The believer's graces redound to Christ's glory, and His glory, as their Head, reflects glory on them as the members." 
 3. "There is but one Greek article to both, implying the inseparable unity of God and the Lord Jesus."
@@ -52,4 +52,4 @@ The verse speaks of glorifying the name of our Lord Jesus Christ, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

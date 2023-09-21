@@ -11,7 +11,7 @@ In this verse, Jesus displays his divine knowledge and understanding by perceivi
 
 3. "That our Lord here in the most solemn manner re-asserts and confirms the truths respecting the kingdom of evil which the Jews also held. The βασιλεῖαι are so set parallel with one another, that the denial of the reality of the one with its ἄρχων, or the supposing it founded merely in assent on the part of our Lord to Jewish notions, inevitably brings with it the same conclusions with regard to the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every kingdom divided against itself is brought to desolation" - This quote emphasizes the destructive nature of division and highlights the importance of unity in maintaining strength and stability.
 2. "Every city or house divided against itself shall not stand" - This quote extends the concept of unity to the household level, emphasizing the need for harmony and cooperation within families and communities.
 3. "House," that is, "household" - This quote clarifies that the term "house" in the verse refers to a household, reinforcing the idea that unity and harmony should prevail within families.
@@ -49,4 +49,4 @@ Note: The provided commentary is quite technical and may not be easily understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

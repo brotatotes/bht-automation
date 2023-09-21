@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the deep devotion of the Ephesians to their goddess Diana. They refused to inscribe the name of Alexander the Great on her temple, demonstrating their unwavering loyalty to her. The Ephesians' refusal showcases the power of religious beliefs and the influence they had on shaping their actions. The vivid imagery of the idol of Diana, with her many breasts and ancient symbols, reminds readers of the unique characteristics of this goddess. The reiteration of their cries and the argumentative protest by the artisans further emphasize the intensity of their devotion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great is Diana of the Ephesians" - This civic cry reflects the pride of the Ephesians in their temple dedicated to the goddess Diana. It highlights their refusal to inscribe the name of Alexander the Great on the temple, even though he offered them great riches in return. (28, 29)
 2. The refusal to inscribe Alexander's name on the temple demonstrates the deep reverence and devotion the Ephesians had for Diana. It signifies their unwavering loyalty and commitment to their goddess. (28, 29)
 3. The Ephesians' refusal to compromise their devotion to Diana, even in the face of great material gain, showcases the power and influence of religious beliefs in shaping their actions and decisions. It serves as a reminder of the strong hold that faith can have on individuals and communities. (28, 29)
@@ -40,4 +40,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Jesus challenges the Galileans to move beyond mere belief in signs and wonders and to have a deep, genuine faith in him. Despite their persistent unbelief and demand for more miracles, Jesus calls them to trust in his words and teachings without the need for extraordinary signs. The Samaritans, on the other hand, were commended for their faith that went beyond the miraculous, demonstrating that true belief is grounded in a personal relationship with Jesus and an understanding of his character and teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He did believe, both as his coming and his urgent entreaty show."
 2. "How imperfectly we shall see; and our Lord would deepen his faith."
 3. "Seemingly rough answer as He made to Nicodemus."
@@ -42,4 +42,4 @@ Jesus challenges the Galileans to move beyond mere belief in signs and wonders a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

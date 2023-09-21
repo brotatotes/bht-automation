@@ -9,7 +9,7 @@ In this particular Bible verse, there is a discussion about the knowledge and co
 2. "By ἕως ἄρτι, it is shown that these ἀσθενεῖς must have belonged to the Gentile part of the Corinthian church."
 3. "Had they been Jewish converts, it would not have been συνείδησις τοῦ εἰδώλου which would have troubled them, but apparent violation of the Mosaic law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though to us who 'have knowledge' all meats are indifferent, yet 'this knowledge is not in all' in the same degree as we have it."
 2. "Some Gentile Christians, whether from old association of ideas or misdirected conscience, when they ate such meats, ate them with some feeling as if the idol were something real."
 3. "If they ate it unconscious at the time that it had been offered to idols, there would be no defilement of conscience. But conscious of what it was, and not having such knowledge as other Corinthians boasted of, they by eating them sin against conscience."
@@ -63,4 +63,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse emphasizes the importance of submitting to authority figures, recogni
 2. "The right understanding of διὰ κύριον, as applying to all, forbids this view. For thus we should obey the king as ὑπερέχων, no mention of the Lord being made, whereas rulers are to be obeyed as sent by the Lord."
 3. "A governor could surely not be said to be sent διὰ κυρίου for (to bring about) vengeance on evil-doers, and praise of well-doers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No tyranny ever has been so unprincipled as that some appearance of equity was not maintained in it; however corrupt a government be, God never suffers it to be so much so as not to be better than anarchy." 
 2. "Tyranny harasses many, but anarchy overwhelms the whole state." 
 3. "Every government recognizes the excellence of truly Christian subjects."
@@ -55,4 +55,4 @@ These quotes highlight the reasons for submitting to governors and officials, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

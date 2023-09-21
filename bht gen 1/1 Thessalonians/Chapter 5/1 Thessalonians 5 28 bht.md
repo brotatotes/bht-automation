@@ -11,7 +11,7 @@ The verse under consideration reveals the triune nature of God - the Father, the
 
 3. "The grace of the Lord Jesus Christ refers to the unmerited favor and divine empowerment that believers receive through their faith in Jesus. It is through His grace that they are saved and enabled to live a life pleasing to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul ends as he began with 'grace.'" 
 2. "The oldest manuscripts omit 'Amen,' which probably was the response of the Church after the public reading of the Epistle."
 3. "The subscription is a comparatively modern addition. The Epistle was not, as it states, written from Athens, but from Corinth; for it is written in the names of Silas and Timothy (besides Paul), who did not join the apostle before he reached the latter city."
@@ -42,4 +42,4 @@ The verse under consideration reveals the triune nature of God - the Father, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

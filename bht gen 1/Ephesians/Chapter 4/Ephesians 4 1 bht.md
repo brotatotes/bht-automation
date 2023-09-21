@@ -9,7 +9,7 @@ In this verse, the author, Paul, beseeches the believers to live in accordance w
 2. "I can only extract one sentence here, to put the reader on his guard: 'Chrys. is in fact bringing in pride again under the disguise of humility, when he characterizes it as a making of ourselves small when we are great.'"
 3. "μακροθυμία consists in not taking swift vengeance, but leaving to an offender a place for repentance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What the world counted ignominy, he counts the highest honor, and he glories in his bonds for Christ, more than a king in his diadem."
 2. "His bonds, too, are an argument which should enforce his exhortation."
 3. "The exhortations of this part of the Epistle are built on the conscious enjoyment of the privileges mentioned in the former part."
@@ -57,4 +57,4 @@ In this verse, the author, Paul, beseeches the believers to live in accordance w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see shepherds who receive an extraordinary message from angelic beings. Despite their humble occupation, they respond in a manner that is both faithful and zealous. Their obedience and praise to God serve as an example for us all, reminding us to actively seek the truth, to share it with others, and to let the transformative power of divine encounters have a lasting impact in our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Theirs was a song too, probably some canticle from the Psalter—meet vehicle for the swelling emotions of their simple hearts at what 'they had heard and seen.'" 
 2. "In the act of circumcising Him, which was a symbolical and bloody removal of the body of sin, we have a tacit intimation that they 'had need'... to be circumcised by Him 'with the circumcision made without hands, in the putting off of the body [of the sins] of the flesh by the circumcision of Christ.'"
 3. "Jesus thus bore about with Him in His very flesh the seal of a voluntary obligation to do the whole law—by Him only possible in the flesh since the fall."
@@ -40,4 +40,4 @@ In this verse, we see shepherds who receive an extraordinary message from angeli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

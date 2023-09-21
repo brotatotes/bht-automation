@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the contrast between seeking temporary
 2. "It is important to bear in mind that the ἐργάζεσθαι spoken of above, which also applies to this, was not a 'working for,' or 'bringing about of,' but a following Christ in order to obtain."
 3. "If this βρῶσις remains to eternal life, it must be spiritual food."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "taking that title of Himself which denoted His incarnate life."
 2. "in the sense of John 6:51."
 3. "marked out and authenticated for that transcendent office, to impart to the world the bread of an everlasting life."
@@ -60,4 +60,4 @@ These quotes emphasize the importance of seeking spiritual sustenance and eterna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

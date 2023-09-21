@@ -4,7 +4,7 @@
 This verse describes the speaker as a chosen preacher, teacher, and apostle who is appointed to proclaim the truths of the Gospel and teach not only to Jews but also to the Gentiles. The commentary emphasizes the significance of Paul's role, highlighting his faithful and powerful preaching, his commission as an apostle both to Jesus Christ and to the Gentiles, and his distinction as a prominent teacher of the Gentiles among the other apostles. The verse underscores the universal nature of Paul's mission, his dedication to spreading the Gospel, and his authority in delivering the message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am appointed—Greek, 'I was appointed.'" - This quote highlights the fact that the speaker was chosen and designated for a specific purpose, emphasizing the divine authority behind their role.
 
 2. "preacher—Greek, 'herald.'" - This quote reveals that the speaker's role is not just to share information, but to proclaim and announce a message with authority and urgency.
@@ -53,4 +53,4 @@ This verse describes the speaker as a chosen preacher, teacher, and apostle who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

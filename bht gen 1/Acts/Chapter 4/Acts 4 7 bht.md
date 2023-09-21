@@ -9,7 +9,7 @@ In the midst of a semicircular assembly, the religious leaders confront the disc
 2. "By what manner of name was the miracle spoken?"
 3. "This refers specifically to the miracle, and that only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By what power or name have ye done this" - This question posed by the religious leaders acknowledges the undeniable reality of the miracle that had taken place. It shows their recognition that something extraordinary had occurred. 
 
 2. "Thus admitting the reality of the miracle" - The commentary highlights the fact that the question asked by the religious leaders is an indirect admission of the truth of the miracle. It implies that they cannot deny the supernatural power behind the miracle.
@@ -59,4 +59,4 @@ In the midst of a semicircular assembly, the religious leaders confront the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

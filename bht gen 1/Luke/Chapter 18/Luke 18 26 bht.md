@@ -4,7 +4,7 @@
 This verse examines the challenge of salvation, suggesting that it is not attainable through human power alone, but through divine intervention. The disciples express their astonishment and disbelief at Jesus' statement regarding the difficulty for a rich person to enter the kingdom of God. Their question reveals their struggle to comprehend how someone who is often perceived as favored by God could face such a barrier. It emphasizes the need to reassess societal assumptions and align with Jesus' radical teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At that rate none can be saved": This quote highlights the skepticism and doubt that arises when considering the difficulty of salvation. It emphasizes the human perspective and the limitations of human power in achieving salvation.
 
 2. "Well, it does pass human power, but not divine": This quote suggests that while salvation may seem impossible from a human standpoint, it is not beyond the power of God. It emphasizes the need to rely on divine intervention and grace for salvation.
@@ -25,4 +25,4 @@ This verse examines the challenge of salvation, suggesting that it is not attain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the power of persistence and shameless
 2. "It should be shamelessness."
 3. "It is presupposed here that the postulant goes on knocking and asking."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Persisting in the face of all that seemed reasonable, and refusing to take a denial."
 2. "His reluctance once overcome, all the claims of friendship and necessity are felt to the full."
 3. "If the churlish and self-indulgent... can after a positive refusal, be won over, by sheer persistency, to do all that is needed, how much more may the same determined perseverance in prayer be expected to prevail with Him."
@@ -45,4 +45,4 @@ In this verse, the commentator emphasizes the power of persistence and shameless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

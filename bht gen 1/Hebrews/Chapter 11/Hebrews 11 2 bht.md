@@ -9,7 +9,7 @@ In this verse, the profound worth of faith is emphasized, as it is the noble for
 2. "In this it was, that the elders were testified of."
 3. "The usage is principally that of St. Luke."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The elders," whom we all revere so highly. "Paul shows how we ought to seek in all its fulness, under the veil of history, the essential substance of the doctrine sometimes briefly indicated" [BENGEL].
 
 2. Not only men, but God, gave testimony to their faith. Thus they being testified of themselves have become "witnesses" to all others [Hebrews 12:1].
@@ -55,4 +55,4 @@ In this verse, the profound worth of faith is emphasized, as it is the noble for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ True worship is not confined to a specific location or time but is a continuous 
 2. "The ἐν πνεύματι καὶ ἀληθείᾳ is, in its first meaning, opposed to ἐν ἔθει καὶ ψεύδει, and denotes the earnestness of spirit with which the true worshippers shall worship."
 3. "This seeking on the part of the Father naturally brings in the idea, in the woman’s answer, of the Messiah, by Whom He seeks His true worshippers to gather them out of the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hour cometh" - Jesus is hinting to the woman that a significant change is about to take place, signaling the arrival of a new era or economy.
 2. "This new economy was in some sense being set up" - The commentary suggests that Jesus is establishing a new order or system that will bring about a transformation in the way people understand and relate to God.
 3. "He was the Christ" - Jesus reveals his true identity to the woman, confirming that he is the long-awaited Messiah. This revelation further emphasizes the significance of the impending change and the role Jesus will play in it.
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

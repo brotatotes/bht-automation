@@ -9,7 +9,7 @@ The verse being described highlights the historical examples of the Israelites a
 2. "The use of the substantive forcibly depicts the habit of lusting after evil things." 
 3. "They were figures of us, not types in the sense of material representation and ultimate spiritual reality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our examples—samples to us of what will befall us, if we also with all our privileges walk carelessly."
 2. "Lust—the fountain of all the four other offenses enumerated, and therefore put first."
 3. "These are included in the 'evil things,' not that they are so in themselves, but they became so to the Israelites when they lusted after what God withheld, and were discontented with what God provided."
@@ -56,4 +56,4 @@ Note: The commentary provided is not a complete commentary on the verse. It is r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

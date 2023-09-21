@@ -9,7 +9,7 @@ In this verse, the commentators highlight the paradoxical nature of the knowledg
 2. "He does not know it so as to reveal it to us."
 3. "The account given by the orthodox Lutherans, as represented by Meyer, that our Lord knew this κατὰ κτῆσιν, but not κατὰ χρῆσιν, is right enough if at the same time it is carefully remembered, that it was this κτῆσις of which He emptied Himself when He became man for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But of that day and that hour—that is, the precise time. knoweth no man—literally, no one." 
 2. "This very remarkable statement regarding 'the Son' is peculiar to Mark." 
 3. "Whether it means that the Son was not at that time in possession of the knowledge referred to, or simply that it was not among the things which He had received to communicate—has been a matter of much controversy."
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the paradoxical nature of the knowledg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the appointed time, God sent forth His Son, Jesus, who was of divine origin a
 2. "ἐξαπέστ  . cannot, however little, for the purposes of the present argument, the divine side of our Lord’s mission is to be pressed, mean any thing less than  sent forth from Himself."
 3. "γενόμ  .   ἐκ γυν  . will not bear being pressed, as Calv., Grot., Estius, al., have done... it is Christ’s HUMANITY which is the point insisted on, not His being born of a virgin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God does nothing prematurely, but, foreseeing the end from the beginning, waits till all is ripe for the execution of His purpose."
 2. "Had Christ come directly after the fall, the enormity and deadly fruits of sin would not have been realized fully by man, so as to feel his desperate state and need of a Saviour."
 3. "Sin was fully developed. Man's inability to save himself by obedience to the law, whether that of Moses, or that of conscience, was completely manifested."
@@ -64,4 +64,4 @@ This quote suggests that Jesus willingly subjected Himself to the requirements a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

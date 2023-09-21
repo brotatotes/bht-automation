@@ -9,7 +9,7 @@ In this verse, a powerful and majestic angel appears before the guards who were 
 2. "Just as the angel in John 7:13 and Hebrews 2:15, the focus is on the work and mission of the angel, not on himself."
 3. "The angel's actions are in alignment with God's will and serve to bring about His plans and purposes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And for fear of him the keepers did shake, and became as dead men" - This verse highlights the overwhelming power and presence of Jesus. It shows that even the guards, who were supposed to be strong and vigilant, were struck with fear and rendered helpless in His presence.
 
 2. "Is the sepulchre 'sure' now, O ye chief priests?" - This question challenges the chief priests who had sealed the tomb and placed guards to ensure its security. It implies that their efforts to prevent Jesus' resurrection were futile, as the power of God cannot be contained or controlled by human means.
@@ -48,4 +48,4 @@ In this verse, a powerful and majestic angel appears before the guards who were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

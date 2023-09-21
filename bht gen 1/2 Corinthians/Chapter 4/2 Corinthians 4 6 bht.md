@@ -9,7 +9,7 @@ The verse describes how God, who is the source of light and creator of all thing
 2. "The only true effulgence of the divine glory is from the face of Christ." 
 3. "The physical creation bearing an analogy to the spiritual."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is God who commanded light, Himself our Light and Sun, as well as the Creator of light."
 2. "The physical world answers to the spiritual."
 3. "Christ is the manifestation of the glory of God, as His image. The only true and full manifestation of God's brightness and glory is 'in the face of Jesus'."
@@ -49,4 +49,4 @@ The verse describes how God, who is the source of light and creator of all thing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

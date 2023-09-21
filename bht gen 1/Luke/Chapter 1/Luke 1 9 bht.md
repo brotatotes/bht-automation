@@ -4,7 +4,7 @@
 In this Bible verse, a priest is chosen by lot to have the honor of burning incense in the temple. This task, assigned only once in a priest's lifetime, is a highly esteemed part of the priest's service. As the priest ascends the steps to the Holy Place, he spreads coals on the golden altar and arranges the incense. Inside the Holy Place, surrounded by silence, the priest waits for the moment to burn the incense, symbolizing the sweet savor of prayers ascending to God through the sacrifice of the Mediator.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His lot was to burn incense—The part assigned to each priest in his week of service was decided by lot." 
 2. "This was the most distinguished part of the service." 
 3. "While the smoke of it ascended, to make intercession for the people."
@@ -44,4 +44,4 @@ In this Bible verse, a priest is chosen by lot to have the honor of burning ince
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

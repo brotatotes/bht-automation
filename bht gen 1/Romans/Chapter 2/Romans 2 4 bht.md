@@ -9,7 +9,7 @@ The verse being described speaks of God's long-suffering and goodness, which are
 2. "His intent in [His long-suffering] is to lead thee to repentance."
 3. "It is a wilful and guilty ignorance, not merely an inconsiderateness, which is blamed in the question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The goodness of God leads us to repentance, not His wrath or judgment." 
 2. "God's goodness is meant to draw us closer to Him, to make us realize our need for repentance and forgiveness." 
 3. "It is through experiencing God's goodness that we are moved to turn away from our sins and seek His forgiveness."
@@ -53,4 +53,4 @@ The verse being described speaks of God's long-suffering and goodness, which are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

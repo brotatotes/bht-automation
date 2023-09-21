@@ -4,7 +4,7 @@
 When the good seed is sown, there is a parallel growth of both wheat and tares, revealing the coexistence of good and evil in the world. The appearance of the tares during the growth of the wheat serves as a reminder that evil will always attempt to infiltrate and corrupt what is good. The true nature of the tares becomes apparent at the time of harvest, exposing their unfruitfulness and harmful principles.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The growth in both cases running parallel, as antagonistic principles are seen to do." 
 2. "The appearance of the tares alongside the wheat demonstrates the coexistence of good and evil in the world." 
 3. "The presence of the tares serves as a reminder that evil will always try to infiltrate and corrupt what is good."
@@ -35,4 +35,4 @@ When the good seed is sown, there is a parallel growth of both wheat and tares, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

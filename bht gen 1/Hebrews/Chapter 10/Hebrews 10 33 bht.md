@@ -9,7 +9,7 @@ This verse describes the experiences of the believers in Corinth who were subjec
 2. "The word θεατρίζω may therefore be literally taken, if the Epistle was written to Rome, after the Neronian persecution."
 3. "There is something of purpose in γενηθέντες, almost a middle sense, 'having made yourselves.' It is a fine encomium on their Christian sympathy and love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The persecutions here referred to seem to have been endured by the Hebrew Christians at their first conversion, not only in Palestine, but also in Rome and elsewhere, the Jews in every city inciting the populace and the Roman authorities against Christians."
 2. "Gazing-stock—as in a theater (so the Greek): often used as the place of punishment in the presence of the assembled multitudes."
 3. "Ye became—of your own accord: attesting your Christian sympathy with your suffering brethren."
@@ -50,4 +50,4 @@ This verse describes the experiences of the believers in Corinth who were subjec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

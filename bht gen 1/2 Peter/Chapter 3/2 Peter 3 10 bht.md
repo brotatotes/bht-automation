@@ -11,7 +11,7 @@ On the day of the Lord, the coming of Jesus will be sudden and unexpected, like 
 
 3. "the earth and the works in it shall be burned up" - This imagery conveys the complete destruction and annihilation of the earth and everything in it, emphasizing the finality and irreversibility of the judgment that will take place on the day of the Lord.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The day of the Lord" comprehends the whole series of events, beginning with the pre-millennial advent, and ending with the destruction of the wicked, and final conflagration, and general judgment.
 2. The day of the Lord SHALL come and be present, emphatically, despite the mockers and the delay.
 3. The coming of the day of the Lord will be sudden, like a thief, as Peter remembers and repeats his Lord's image.
@@ -57,4 +57,4 @@ On the day of the Lord, the coming of Jesus will be sudden and unexpected, like 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

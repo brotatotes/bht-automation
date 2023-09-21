@@ -13,7 +13,7 @@ This description focuses on the inclusivity and timing of God's call to differen
 
 4. "This verse reminds us that God has a specific time and purpose for everything. It encourages us to trust in His timing and to be obedient to His call, knowing that He will equip and guide us in fulfilling His mission."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This parable challenges our human sense of fairness and justice, reminding us that God's grace is not bound by our concepts of merit or deserving." 
 
 2. "The parable teaches us that God's generosity is not limited by time or circumstance. He is willing to bless and reward those who come to Him at any point in their lives, regardless of how late or early it may be." 
@@ -46,4 +46,4 @@ These quotes emphasize the equal treatment and blessings that believers receive 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

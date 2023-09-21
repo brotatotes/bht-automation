@@ -9,7 +9,7 @@ The verse being described here emphasizes the significance of the "mind of Chris
 2. "But we (πνευματικοί, among whom he includes himself and the other Apostles) have the mind of Christ: the same mind, in our degree of apprehensiveness of it, by the imparting of His Spirit, which is in Him, and so can judge all things."
 3. "The νοῦς κυρίου is the spiritual intent and designs of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spiritual man 'is judged of no man.' In order to judge the spiritual man, the ordinary man must 'know the mind of the Lord.' But 'who of ordinary men knows' that?" 
 2. "Natural men who judge spiritual men, living according to the mind of God ('We have the mind of Christ'), are virtually wishing to instruct God, and bring Him to another mind, as counsellors setting to right their king." 
 3. "We have the mind of Christ - in our degree of capability to apprehend it. Isaiah 40:13; Isaiah 40:14 refers to JEHOVAH: therefore, as it is applied here to Christ, He is Jehovah."
@@ -59,4 +59,4 @@ The verse being described here emphasizes the significance of the "mind of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

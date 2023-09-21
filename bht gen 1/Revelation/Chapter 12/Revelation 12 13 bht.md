@@ -4,7 +4,7 @@
 The verse describes a moment when Satan, filled with fury and realizing his defeat, directs his persecution towards the church on earth. This persecution takes the form of intensified rage and opposition, seen in the rise of the papacy and the persecutions under it. Despite these trials, the church remains resilient, symbolized by the child who represents the ultimate progress and extension of the church. This period of persecution, following the flight of the woman, marks a significant chapter in the history of the church, showcasing the dragon's relentless pursuit of God's people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Resuming from the thread of the discourse, which had been interrupted by the episode, Revelation 12:7-12." 
 
 2. "Giving in the invisible world the ground of the corresponding conflict between light and darkness in the visible world."
@@ -35,4 +35,4 @@ The verse describes a moment when Satan, filled with fury and realizing his defe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

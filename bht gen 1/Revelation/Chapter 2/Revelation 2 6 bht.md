@@ -9,7 +9,7 @@ In this Bible verse, the commentator notes the tenderness of Jesus and His compa
 2. "It would have been well with the church, had this always been remembered."
 3. "This strong expression in the mouth of our Lord unquestionably points at deeds of abomination and impurity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We should hate men's evil deeds, not hate the men themselves."
 2. "Revelation abounds in such duplicate Hebrew and Greek names: as Apollyon, Abaddon: Devil, Satan: Yea (Greek, 'Nai'), Amen."
 3. "These symbolical Nicolaitanes, or followers of Balaam, abused Paul's doctrine of the grace of God into a plea for lasciviousness."
@@ -43,4 +43,4 @@ In this Bible verse, the commentator notes the tenderness of Jesus and His compa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

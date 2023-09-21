@@ -9,7 +9,7 @@ In this Bible verse, God's rich and abundant mercy is emphasized, as commentator
 2. "He vivified us together with Christ, in the one act and fact of His resurrection He raised all His people to spiritual life, and in that to victory over death."
 3. "By grace ye are saved, not 'are being saved,' because we have passed from death unto life: salvation is to the Christian not a future but a past thing, realized in the present by faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, who is rich in mercy." 
 2. "This was the special ground of God's saving us; as 'rich in mercy' was the general ground."
 3. "Mercy takes away misery; love confers salvation."
@@ -60,4 +60,4 @@ In this Bible verse, God's rich and abundant mercy is emphasized, as commentator
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse describes a moment when the people were unable to bear the stern and t
 
 Note: The commentary provides a grammatical analysis of the verse, discussing the voice of the participle and the citation of Exodus 19:12-13. It also highlights the severity of the command and the consequences of touching the mountain.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A stern interdictory mandate is meant."
 2. "The full interdict in Exodus 19:12 Exodus 19:13 is abbreviated here."
 3. "The beast's punishment, namely, the being thrust through with a dart, being left to be understood."
@@ -51,4 +51,4 @@ Note: The commentary provides a grammatical analysis of the verse, discussing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

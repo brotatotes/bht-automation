@@ -9,7 +9,7 @@ The passage described in the commentaries focuses on the joy and selflessness of
 2. "Not that I seek the gift, but I do seek the fruit which abounds to your account."
 3. "The result of your labor for me in the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not that I seek after the gift, but I do seek after the fruit that aboundeth to your account." - The focus is not on receiving material gifts, but on the spiritual growth and development of the believers. The emphasis is on the lasting impact and eternal rewards that come from bearing spiritual fruit.
 
 2. "What I do seek is your spiritual good, in the abounding of fruits of your faith." - The commentator highlights the genuine concern of the writer for the spiritual well-being of the readers. The desire is for their faith to produce an abundance of fruit, indicating a deep and thriving relationship with God.
@@ -52,4 +52,4 @@ The passage described in the commentaries focuses on the joy and selflessness of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

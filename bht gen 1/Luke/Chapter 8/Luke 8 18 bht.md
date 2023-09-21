@@ -4,7 +4,7 @@
 In this verse, a weighty precept is given about the manner of hearing and the importance of spiritual knowledge. One commentator emphasizes the caution against careless listening and the need to preach what is heard. Another commentator adds that those who already possess knowledge and the ability to preach will receive even more, while those who lack spiritual understanding will lose even what they think they have. The significance of this message is highlighted by the use of the word "seemeth," which serves to amplify and strengthen its meaning.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The precept is very weighty."
 2. "The 'having' of Matthew 13:12 and this 'thinking he hath' are not different."
 3. "Hanging loosely on him, and not appropriated, it is and is not his."
@@ -35,4 +35,4 @@ In this verse, a weighty precept is given about the manner of hearing and the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

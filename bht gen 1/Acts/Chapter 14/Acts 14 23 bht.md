@@ -9,7 +9,7 @@ When Paul and Barnabas were establishing new churches, they appointed elders thr
 2. "Nor is there any reason here for departing from the usual meaning of electing by show of hands."
 3. "The Apostles may have admitted by ordination those presbyters whom the churches elected."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As there is no evidence in the New Testament that the word had then lost its proper meaning, as this is beyond doubt its meaning in Acts 14:23, and as there is indisputable evidence that the concurrence of the people was required in all elections to sacred office in the earliest ages of the Church, it is perhaps better to understand the words to mean, 'when they had made a choice of elders,' that is, superintended such choice on the part of the disciples."
 2. "This last clause confirms our interpretation of the former. For if 'ordination' was by prayer and fasting (see Acts 13:3), why should it be said they first 'ordained elders,' and after that 'prayed with fasting?' Whereas if the first clause refer to the choice and the second to the ordination, all is natural."
 3. "They commended—'committed' them—that is, all these churches. To the Lord—Jesus."
@@ -57,4 +57,4 @@ When Paul and Barnabas were establishing new churches, they appointed elders thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

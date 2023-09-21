@@ -11,7 +11,7 @@ The people are seeking confirmation of John the Baptist's role as the anticipate
 
 3. "By asking John if he is the prophet, the people are seeking confirmation of his role and purpose in relation to the coming of the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reference to 'that prophet' in verse 14 is a clear allusion to the prophecy in Deuteronomy 18:15, where Moses foretells the coming of a prophet like himself. This prophet is none other than Jesus, who fulfills this prophecy in his role as the ultimate mediator between God and humanity."
 
 2. "By referring to Jesus as 'that prophet,' the author of John's Gospel is emphasizing the unique and authoritative nature of Jesus' teachings. Just as Moses was the mediator of the Old Covenant, Jesus is the mediator of the New Covenant, bringing a message of salvation and reconciliation to all who believe in him."
@@ -53,4 +53,4 @@ The people are seeking confirmation of John the Baptist's role as the anticipate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

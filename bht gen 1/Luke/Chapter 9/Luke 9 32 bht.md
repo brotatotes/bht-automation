@@ -9,7 +9,7 @@ In this verse, the disciples are described as being heavy with sleep, yet trying
 2. "It was not merely a vision, seen in sleep."
 3. "The word occurs in this sense in Herodian iii. 4, πάσης τῆς νυκτὸς … διαγρηγορήσαντες."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But having kept awake" - This translation suggests that the disciples were actively staying awake, indicating their alertness and attentiveness to the situation.
 2. "Having roused themselves up" - This phrase implies that the disciples actively shook off their drowsiness, emphasizing their active participation in witnessing the event.
 3. "Eye-witnesses of His majesty" - This phrase highlights the significance of the disciples' experience, emphasizing that they were privileged to see and witness the glory of Jesus firsthand.
@@ -45,4 +45,4 @@ In this verse, the disciples are described as being heavy with sleep, yet trying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

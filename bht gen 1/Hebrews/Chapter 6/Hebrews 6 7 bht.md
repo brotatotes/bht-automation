@@ -4,7 +4,7 @@
 The Bible verse describes how receiving and embracing the seed of the Gospel can lead to spiritual growth and fruitfulness. It emphasizes that just as the earth drinks in rain and produces a blade and eventually ripe crops, believers who receive the Gospel into their hearts and bring forth genuine growth will continually progress until they bear fruit. However, those who reject or corrupt the Gospel reveal themselves as reprobates. The verse encourages prompt and joyful acceptance of the Gospel, highlighting its transformative power in softening hardened hearts and bringing abundant fruitfulness to barren souls.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'oft' implies, on God's part, the riches of His abounding grace ('coming' spontaneously, and often); and, on the apostate's part, the wilful perversity whereby he has done continual despite to the oft-repeated motions of the Spirit."
 2. "The rain of heaven falls both on the elect and the apostates."
 3. "The heart of man is the earth; man is the dresser; herbs are brought forth meet, not for the dresser, by whom, but for God, the owner of the soil, for whom it is dressed."
@@ -38,4 +38,4 @@ The Bible verse describes how receiving and embracing the seed of the Gospel can
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

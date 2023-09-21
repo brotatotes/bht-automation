@@ -9,7 +9,7 @@ In this Bible verse, believers are urged to walk in wisdom and behave prudently 
 2. "signifying simply in relation to, in the intercourse of life."
 3. "The opportunity for what, will be understood in each case from the circumstances, and our acknowledged Christian position as watching for the cause of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In wisdom—practical Christian prudence." 
 2. "The brethren, through love, will make allowances for an indiscreet act or word of a brother; the world will make none." 
 3. "Therefore be the more on your guard in your intercourse with the latter, lest you be a stumbling-block to their conversion." 
@@ -54,4 +54,4 @@ In this Bible verse, believers are urged to walk in wisdom and behave prudently 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

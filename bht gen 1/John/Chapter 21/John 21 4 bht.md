@@ -9,7 +9,7 @@ As day was breaking, Jesus stood on the shore, but the disciples, in their dimly
 2. "The ἐστιν after ᾔδεισαν is quite in John’s manner."
 3. "See reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus stood—(Compare John 20:19; John 20:26)." 
 2. "but the disciples knew not it was Jesus—Perhaps there had been some considerable interval since the last manifestation."
 3. "having agreed to betake themselves to their secular employment, they would be unprepared to expect Him."
@@ -56,4 +56,4 @@ Note: The commentary provides explanations and clarifications about the translat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

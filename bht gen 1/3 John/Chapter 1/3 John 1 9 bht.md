@@ -4,7 +4,7 @@
 The verse being described portrays an individual named Diotrephes who seeks to have power and control within the church. Diotrephes is characterized by his ambition, self-centeredness, and disregard for others, as he rejects the authority and recommendations of the Apostle John. His actions serve as a manifestation of the evil that has already begun to corrupt the church, highlighting the importance of humility and selflessness within religious communities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That Epistle was not designed by the Spirit for the universal Church, or else it would have been preserved." 
 2. "Loveth... pre-eminence — through ambition. Evidently occupying a high place in the Church where Gaius was."
 3. "Receiveth us not — virtually, namely, by not receiving with love the brethren whom we recommended to be received."
@@ -45,4 +45,4 @@ The verse being described portrays an individual named Diotrephes who seeks to h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the manifestation of God is depicted as a flame of fire, symbolizing his bright glory and consuming vengeance against his foes. The verse describes the unbelieving Jews and all who disobey the truth as those who do not know God and remain in heathen ignorance. The punishment of the ungodly is represented by fire, portraying the endless torture and misery of the damned. Those who have been exposed to the light of the Gospel but have rejected it will face aggravated condemnation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This flame of fire accompanied His manifestation in the bush; also His giving of the law at Sinai. Also it shall accompany His revelation at His advent, symbolizing His own bright glory and His consuming vengeance against His foes."
 2. "Not of course those involuntarily not knowing God, but those wilfully not knowing Him, as Pharaoh, who might have known God if he would, but who boasted 'I know not the Lord.'"
 3. "Primarily the unbelieving Jews; secondarily, all who obey not the truth."
@@ -52,4 +52,4 @@ In this Bible verse, the manifestation of God is depicted as a flame of fire, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

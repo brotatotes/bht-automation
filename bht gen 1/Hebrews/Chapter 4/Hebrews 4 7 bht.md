@@ -4,7 +4,7 @@
 In this passage, the verse being described is one that speaks of a certain day appointed by God for His promises to be fulfilled. The verse emphasizes the urgency and importance of responding to God's voice in the present moment. It also highlights the historical context and the long-awaited fulfillment of God's promises, indicating that obedience and faithfulness are required to receive the promised blessings. The verse further reminds readers that the offer of rest is not limited to a particular group but is available to all who will hear God's voice and respond.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He limited a certain day, 'To-day.'" - This quote highlights the idea that God has set a specific time for His promises to be fulfilled, emphasizing the urgency and importance of responding to His voice.
 2. "In (the Psalm of) David saying after so long a time." - This quote emphasizes the historical context and the long-awaited fulfillment of God's promises, indicating that the fulfillment of the promise is significant and worth paying attention to.
 3. "To-day if ye hear His voice." - This quote emphasizes the need to actively listen and respond to God's voice in the present moment, suggesting that obedience and faithfulness are required to receive the promised blessings.
@@ -52,4 +52,4 @@ In this passage, the verse being described is one that speaks of a certain day a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

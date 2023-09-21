@@ -9,7 +9,7 @@ The Bible verse describes the condition of someone who harbors hatred towards th
 2. "He goeth, because the darkness blinded his eyes." 
 3. "It is no new effect of a state into which he has lately come, but the long past work of a state which is supposed to be gone by, and is not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He has never come out of 'the darkness'." This quote highlights the continuous state of darkness that the person is in. It emphasizes that they have not experienced any change or transformation.
 2. "Marks his outward walk and acts." This quote points out that the person's actions and behavior are a reflection of their state of darkness. It suggests that their actions are influenced by their spiritual condition.
 3. "Darkness not only surrounds, but blinds him." This quote emphasizes that the darkness is not just external, but it also affects the person internally. It suggests that their understanding and perception are impaired due to their spiritual blindness.
@@ -52,4 +52,4 @@ The Bible verse describes the condition of someone who harbors hatred towards th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

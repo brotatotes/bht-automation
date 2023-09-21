@@ -9,7 +9,7 @@ This verse speaks of a powerful transformation and testimony. The commentators h
 2. "εἴσοδος merely access, in the way of coming to them."
 3. "ζῶντι κ. ἀληθινῷ ζῶντα μὲν αὐτὸν ὠνόμασεν, ὡς ἐκείνων οὐ ζώντων. ἀληθινὸν δέ, ὡς ἐκείνων ψευδῶς θεῶν καλουμένων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For they themselves show of us what manner of entering in we had unto you" - The Thessalonians serve as a testament to the effectiveness of the apostles' ministry and the power of their message.
 2. "And how ye turned from idols to serve the living... God" - The Thessalonians' conversion from idolatry to worshiping the true and living God is a powerful example of their faith and transformation.
 3. "The living and true God" - This phrase emphasizes the contrast between the false gods the Thessalonians used to worship and the one true God they now serve. It highlights the significance of their conversion.
@@ -53,4 +53,4 @@ This verse speaks of a powerful transformation and testimony. The commentators h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

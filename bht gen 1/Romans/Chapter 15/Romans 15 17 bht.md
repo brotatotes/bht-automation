@@ -4,7 +4,7 @@
 The verse described in these commentaries speaks of a glorying that is not rooted in worldly achievements or personal accomplishments, but in the work and ministry of God. It emphasizes the recognition of one's dependence on God and the humility to attribute all success to Him. The verse highlights the importance of seeking knowledge and understanding in matters pertaining to God, acknowledging that there are aspects beyond human comprehension. It stresses that our true worth and significance lie in our relationship with Jesus Christ, who is the source of our purpose, strength, and hope.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have my glorying." - The author emphasizes that his source of pride and boasting is not in his own accomplishments or abilities, but in Christ Jesus. This highlights the humility and recognition of the author's dependence on God.
 
 2. "In those things which pertain to God." - The commentary emphasizes that the author's glorying is not in worldly achievements, but in the things that are related to God's work and ministry. This highlights the author's focus on spiritual matters and his dedication to serving God.
@@ -52,4 +52,4 @@ The verse described in these commentaries speaks of a glorying that is not roote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

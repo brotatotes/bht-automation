@@ -9,7 +9,7 @@ In this passage, the speaker asserts their superior status and experience compar
 2. "He therefore repudiates it even more strongly than the τολμῶ κἀγώ."
 3. "Both are now assumed to be ministers: but if so, Paul is a minister in a much higher degree, more faithful, more self-denying, richer in gifts and divine tokens, than they."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I speak as if beside myself" - This phrase emphasizes the intensity and passion with which Paul speaks about his ministry. It suggests that his dedication and commitment to spreading the Gospel may seem foolish or irrational to some, but it is driven by a deep conviction.
 2. "More faithful and self-denying" - Paul highlights his unwavering faithfulness and willingness to sacrifice for the sake of his ministry. This implies that he has endured hardships and challenges that have tested his commitment to the Gospel.
 3. "In prisons above measures, in stripes more abundantly" - This phrase underscores the physical suffering and persecution that Paul has endured for his faith. It indicates that he has been imprisoned multiple times and has been subjected to severe beatings, emphasizing the extent of his suffering for the sake of the Gospel.
@@ -55,4 +55,4 @@ In this passage, the speaker asserts their superior status and experience compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

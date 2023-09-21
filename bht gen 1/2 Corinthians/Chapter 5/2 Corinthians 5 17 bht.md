@@ -9,7 +9,7 @@ In this verse, believers are described as being "in Christ," which signifies a c
 2. "He is a new creature, the act implying here the result of the act." 
 3. "The old things have passed away, behold, they have become new."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As Christ has entered on His new heavenly life by His resurrection and ascension, so all who are 'in Christ' are new creatures."
 2. "New in the Greek implies a new nature quite different from anything previously existing."
 3. "Old things are selfish, carnal views of ourselves, of other men, and of Christ."
@@ -59,4 +59,4 @@ In this verse, believers are described as being "in Christ," which signifies a c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

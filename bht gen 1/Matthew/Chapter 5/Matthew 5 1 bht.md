@@ -9,7 +9,7 @@ In this well-known verse, Jesus goes up to a mountain, intentionally choosing a 
 2. "That two discourses wholly distinct should contain so much in common, seems unlikely and unnatural."
 3. "The introduction of the discourse in Luke by the words ἐγένετο δὲ ἐν ταῖς ἡμέραις ταύταις (which I maintain to be, on Luke 6:12, not only possibly, but expressly indefinite, and to indicate that the event so introduced may have happened at any time during the current great period of our Lord’s ministry, before, during, or after, those last narrated,) allows us great latitude in assigning Luke’s discourse to any precise time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So charming is the whole landscape that the descriptions of it, from JOSEPHUS downwards [Wars of the Jews, 4.10,8], are apt to be thought a little colored."
 2. "Already a large circle, more or less attracted and subdued by His preaching and miracles, in addition to the smaller band of devoted adherents."
 3. "By the power of His matchless word, were constrained to forsake their all for the Lord Jesus."
@@ -53,4 +53,4 @@ In this well-known verse, Jesus goes up to a mountain, intentionally choosing a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this parable, the kingdom of heaven is compared to a man who sowed good seed 
 
 3. "like the whole circumstances about to be detailed" - This phrase suggests that the parable is about to provide a comprehensive and detailed account of the situation, setting the stage for a deeper understanding of the message being conveyed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of heaven is likened unto a man which sowed good seed in his field." This parable illustrates the concept of the kingdom of heaven as a field where good seed is sown. It emphasizes the importance of sowing good seed, representing the spreading of the gospel and living a righteous life.
 
 2. "The field is the world." This quote highlights the expansive nature of the field, representing the entire world. It reminds us that the kingdom of heaven is not limited to a specific location or group of people, but encompasses all of humanity.
@@ -58,4 +58,4 @@ Overall, this commentary highlights the significance of the parable in illustrat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

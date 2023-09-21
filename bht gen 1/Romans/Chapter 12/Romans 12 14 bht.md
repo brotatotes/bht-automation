@@ -9,7 +9,7 @@ The verse described here emphasizes the importance of not cursing or speaking il
 2. "Among the few references in the N. T. Epistles to the direct words of Christ there occur several to it."
 3. "The references to the Sermon on the Mount in the New Testament Epistles highlight its significance and influence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bless—that is, Call down by prayer a blessing on." 
 2. "This is taken from the Sermon on the Mount." 
 3. "The Sermon on the Mount... seems to have been the storehouse of Christian morality among the churches."
@@ -61,4 +61,4 @@ The verse described here emphasizes the importance of not cursing or speaking il
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a reminder not to be quick to judge others, as we may be guilty of the same faults. The commentators emphasize the hypocrisy of the servants who condemn deceit while being deceitful themselves. They also highlight how people often assume religion to be an imposture and ridicule those who believe. Additionally, the description points out that the Pharisees scornfully sneer at the officers and insult Christ, implying that their judgment is unwise.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deception of others is often more easily condemned than our own deceitfulness."
 2. "The outrage felt by the servants at being deceived highlights the hypocrisy of their own actions."
 3. "This verse serves as a reminder that we should not be quick to judge others, as we may be guilty of the same faults."
@@ -33,4 +33,4 @@ The verse being described is a reminder not to be quick to judge others, as we m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

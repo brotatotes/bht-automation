@@ -9,7 +9,7 @@ In this powerful scene, a widow faces the devastating loss of her only son. The 
 2. "The kings however of the house of David were buried in the city of David."
 3. "It was a denunciation on Jehoiakim that he should be buried with the burial of an ass, drawn and cast forth beyond the gates of Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Dead bodies, being ceremonially unclean, were not allowed to be buried within the cities." This highlights the cultural and religious practices of the time, shedding light on the significance of burial customs.
 2. "The funeral was usually on the same day as the death." This emphasizes the swift and immediate nature of funerals during that period, giving insight into the urgency and importance placed on honoring the deceased.
 3. "Told with delightful simplicity." This phrase captures the beauty and elegance of the storytelling, suggesting that the narrative is both engaging and easy to understand.
@@ -50,4 +50,4 @@ In this powerful scene, a widow faces the devastating loss of her only son. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

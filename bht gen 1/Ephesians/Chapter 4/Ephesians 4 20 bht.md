@@ -9,7 +9,7 @@ The verse in question describes the transformative power of learning Christ. It 
 2) "CHRIST Himself is the subject of all Christian preaching and all Christian learning."
 3) "If ye were taught in Him according to that which is truth in Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To know Christ Himself, is the great lesson of the Christian life."
 2. "Christ, in reference to His office, is here specified as the object of learning."
 3. "Jesus, as the person."
@@ -57,4 +57,4 @@ The verse in question describes the transformative power of learning Christ. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -8,7 +8,7 @@ In this verse, we see a vivid picture of a compassionate woman, beloved by widow
 1. "The widows of the place, for whom she made these garments."
 2. "ἐποίει 'was making,' i.e. used to make (i.e. weave): not 'had made.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All the widows—whom she had clad or fed." This quote highlights the compassionate and caring nature of Dorcas, who not only provided clothing and food for widows but also took care of their needs.
 2. "Stood by him weeping." This quote emphasizes the emotional impact of Dorcas' death on the widows, who were deeply saddened by the loss of someone who had been a source of support and comfort to them.
 3. "Showing the coats and garments which Dorcas had made." This quote reveals the tangible evidence of Dorcas' generosity and skill in making garments for others, demonstrating her dedication to serving and helping those in need.
@@ -56,4 +56,4 @@ In this verse, we see a vivid picture of a compassionate woman, beloved by widow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

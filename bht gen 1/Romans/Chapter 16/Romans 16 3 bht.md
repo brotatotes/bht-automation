@@ -4,7 +4,7 @@
 This verse mentions the couple Prisca and Aquila, known for their active involvement in the Christian community. Despite the wife being mentioned before the husband, commentators note that no significant meaning should be derived from this order. Prisca and Aquila were both skilled in tent making, and their shared profession contributed to their close partnership and joint ministry. They were esteemed by the apostle Paul, referred to as "helpers in Christ Jesus," for their dedicated service in promoting the Gospel and advancing the kingdom of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute Priscilla—The true reading here is 'Prisca' (as in :-), a contracted form of Priscilla, as 'Silas' of 'Silvanus.'" 
 2. "and Aquila my helpers—The wife is here named before the husband (as in Acts 18:18; Romans 16:26, according to the true reading; also in 2 Timothy 4:19), probably as being the more prominent and helpful to the Church." 
 3. "The wife is here named before the husband, probably as being the more prominent and helpful to the Church."
@@ -45,4 +45,4 @@ These quotes highlight the prominence of Prisca, the significance of Priscilla's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

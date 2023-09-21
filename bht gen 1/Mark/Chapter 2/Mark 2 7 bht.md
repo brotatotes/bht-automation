@@ -9,7 +9,7 @@ The verse in question confronts the accusation of blasphemy against Jesus for cl
 2. "The contrast between the two words highlights the author's intention to emphasize the extreme nature of the subject." 
 3. "This juxtaposition of words serves to create a powerful rhetorical effect, drawing the reader's attention to the significance of what is being described."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this second question they expressed a great truth."
 2. "That a man, to all appearances like one of themselves, should claim authority and power to forgive sins, they could not, on the first blush of it, but regard as in the last degree startling."
 3. "Our Lord deals with them as men entitled to such evidence, and supplies it; at the same time chiding them for rashness, in drawing harsh conclusions regarding Himself."
@@ -36,4 +36,4 @@ The verse in question confronts the accusation of blasphemy against Jesus for cl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the insignificance of sparrows is emphasized, highlighting their 
 2. "And yet, which birds do when struck violently, or when frozen, wet, or starved = die."
 3. "There is not one of them forgotten before God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are not two sparrows sold for a farthing?" - This verse highlights the insignificance of sparrows in terms of their monetary value, emphasizing their low worth in the eyes of humans.
 2. "And one of them shall not fall on the ground without your Father." - This quote emphasizes God's awareness and care for even the smallest and seemingly insignificant creatures, such as sparrows.
 3. "Not one of them is forgotten before God." - This statement emphasizes that God's knowledge and attention extend to every living being, reinforcing the idea that nothing escapes His notice or care.
@@ -38,4 +38,4 @@ In this verse, the insignificance of sparrows is emphasized, highlighting their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

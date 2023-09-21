@@ -11,7 +11,7 @@ The verse being described highlights the role of the Holy Spirit in revealing th
 
 These quotes highlight the symbolic nature of the sanctuary and emphasize that the true way to the holy places has not yet been revealed. They also indicate that the first tabernacle, representing the earthly worship, is still present.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Old Testament economy is represented by the holy place, the New Testament economy by the Holy of Holies."
 2. "Redemption, by Christ, has opened the Holy of Holies to all mankind."
 3. "The Spirit intimating that men should not think the way was yet opened."
@@ -52,4 +52,4 @@ These quotes highlight the symbolic nature of the sanctuary and emphasize that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

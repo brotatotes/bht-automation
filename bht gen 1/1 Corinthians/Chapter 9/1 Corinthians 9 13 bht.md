@@ -4,7 +4,7 @@
 In this passage, the commentators provide insights into the role of the priests in the temple and the expectation for support of the ministers of religion. They highlight the connection between the priests and the sacrificial offerings, emphasizing the importance of their role in the religious rituals. They also emphasize the necessity for Gentile converts to be knowledgeable about Jewish practices and traditions. The commentators stress the provision made for those dedicated to the service of God, both in the past with the Levitical priests and in the present with Gospel ministers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek especially applies to the former, the priests offering sacrifices."
 2. "A part of the victims going to the service of the altar, and the rest being shared by the priests."
 3. "The priests were considered partakers with the altar, as they were intimately involved in the sacrificial system."
@@ -45,4 +45,4 @@ In this passage, the commentators provide insights into the role of the priests 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

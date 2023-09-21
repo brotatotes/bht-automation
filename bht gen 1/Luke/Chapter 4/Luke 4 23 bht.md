@@ -9,7 +9,7 @@ In this Bible verse, commentators discuss the expectations and reproach faced by
 2. "The reproach was repeated under the Cross, with a strictly individual application."
 3. "Whether we read ἐν or εἰς, the preposition is equally local in its signification, in Capernaum, not 'in the case of Capernaum,' or 'to Capernaum.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Charity begins at home."
 2. "Strange rumors have reached our ears of Thy doings at Capernaum but if such power resides in Thee to cure the ills of humanity, why has none of it yet come nearer home, and why is all this alleged power reserved for strangers?"
 3. "His choice of Capernaum as a place of residence since entering on public life was, it seems, already well known at Nazareth; and when He did come thither, to give no displays of His power when distant places were ringing with His fame, wounded their pride."
@@ -55,4 +55,4 @@ In this Bible verse, commentators discuss the expectations and reproach faced by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

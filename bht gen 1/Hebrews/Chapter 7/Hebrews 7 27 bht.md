@@ -9,7 +9,7 @@ The verse being described depicts the uniqueness and completeness of Jesus' sacr
 2. "The true meaning is the simple one, that the allusion is to the daily offerings of the priests."
 3. "The most probable solution of the difficulty... is that καθʼ ἡμέραν belongs not to οἱ ἀρχιερεῖς, but only to Christ: 'who has not need day by day, as the high priests had year by year,' etc."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'daily' strictly belongs to Christ, not to the high priests, 'who needeth not daily, as those high priests (year by year, and their subordinate priests daily), to offer.'"
 2. "The high priest's double offering on the day of atonement, the bullock for himself, and the goat for the people's sins, had its counterpart in the TWO lambs offered daily by the ordinary priests."
 3. "The sufficiency of the one sacrifice to atone for all sins for ever, resulted from its absolute spotlessness."
@@ -54,4 +54,4 @@ Overall, these quotes emphasize the superiority of Jesus' sacrifice, which was o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

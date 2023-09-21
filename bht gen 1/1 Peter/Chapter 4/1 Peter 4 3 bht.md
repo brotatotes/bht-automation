@@ -9,7 +9,7 @@ The verse being described is about the need for a change in lifestyle after bein
 2. "The θέλημα is that which we may be overpersuaded into following, the θέλημα that which we are bound to obey." 
 3. "Walking as ye have done in lasciviousnesses, lusts, wine-bibbings, revellings, drinking-bouts, and nefarious idolatries."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter takes the lowest ground: for not even the past time ought to have been wasted in lust; but since you cannot recall it, at least lay out the future to better account."
 2. "Gentiles—heathen: which many of you were."
 3. "the Greek means petulant, immodest, wantonness, unbridled conduct: not so much filthy lust."
@@ -59,4 +59,4 @@ The verse being described is about the need for a change in lifestyle after bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

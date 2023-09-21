@@ -4,7 +4,7 @@
 In this verse, various commentators highlight the principle of abundance and scarcity, explaining that those who possess something and use it wisely will receive more, while those who neglect or misuse what they have will lose even what they have. The verse teaches the imperceptible growth of the word of God within a person's heart, leading to righteous actions. It emphasizes the importance of actively acquiring and maintaining possessions, gifts, and knowledge, as well as using them for the good of others and the glory of God, thereby increasing one's impact and spiritual growth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For he that hath, to him shall be given; and he that hath not, from him shall be taken even that which he hath." - This verse highlights the principle of abundance and scarcity, suggesting that those who possess something will receive more, while those who lack will lose even what they have.
 2. "This 'having' and 'thinking he hath' are not different; for when it hangs loosely upon him, and is not appropriated to its proper ends and uses, it both is and is not his." - The commentary emphasizes that true possession is not just about having something, but also about using it for its intended purpose. Merely possessing something without utilizing it effectively means that it is not truly owned.
 3. "This beautiful parable is peculiar to Mark. Its design is to teach the Imperceptible Growth of the word sown in the heart, from its earliest stage of development to the ripest fruits of practical righteousness." - The commentary explains the purpose of the parable, which is to illustrate the gradual and unseen growth of the word of God within a person's heart, leading to the manifestation of righteous actions.
@@ -42,4 +42,4 @@ In this verse, various commentators highlight the principle of abundance and sca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

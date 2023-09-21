@@ -9,7 +9,7 @@ This passage is a faithful saying, emphasizing the reliability and importance of
 2. "We toil and suffer reproach because we have fixed our hope on the living God, who is the Saviour of all men."
 3. "He is the same Saviour towards and of all, but these alone (believers) appropriate His salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful is the saying" confirms the promise attached to godliness, emphasizing the importance of this truth (1 Timothy 4:8).
 2. God is the Savior of those who believe, not only in the present life but also in the life to come (2 Timothy 2:11).
 3. This verse refutes the notion that godly men suffer loss in this life, reminding us that God is faithful to those who trust in Him (1 Timothy 4:9).
@@ -49,4 +49,4 @@ This passage is a faithful saying, emphasizing the reliability and importance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

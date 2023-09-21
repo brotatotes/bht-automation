@@ -9,7 +9,7 @@ To him that knows what is right and chooses not to do it, it is sin. This verse 
 2. "καλόν is not any positive good, as beneficence; but merely the opposite of πονηρόν."
 3. "It is not sins of omission that men are here convicted of, as so often mistakenly supposed: but the doing πονηρόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowledge without practice is imputed to a man as great and presumptuous sin."
 2. "Nothing more injures the soul than wasted impressions."
 3. "Feelings exhaust themselves and evaporate, if not embodied in practice."
@@ -45,4 +45,4 @@ To him that knows what is right and chooses not to do it, it is sin. This verse 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

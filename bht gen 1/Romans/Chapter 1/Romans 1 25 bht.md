@@ -9,7 +9,7 @@ The verse describes the degradation of worship and the perversion of the truth o
 2. "Both verbs belong to τῇ κτίσει; though σεβάζομαι would require an accusative, λατρεύω, the nearest, takes the government." 
 3. "The doxology expresses the horror of the Apostle at this dishonour, and puts their sin in a more striking light."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The truth concerning God into idol falsehood." 
 2. "Professing merely to worship the Creator by means of the creature, they soon came to lose sight of the Creator in the creature." 
 3. "How aggravated is the guilt of the Church of Rome, which, under the same flimsy pretext, does shamelessly what the heathen are here condemned for doing, and with light which the heathen never had!"
@@ -48,4 +48,4 @@ The verse describes the degradation of worship and the perversion of the truth o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the act of converting a sinner from the error of their ways is po
 
 3. "The Apostle wishes to put in its most striking abstract light the good deed thus done." - This statement highlights the significance of the act of converting a sinner. It is not merely a surface-level change, but a profound and impactful action that has far-reaching effects on the individual's soul and spiritual journey.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let him—the converted. know—for his comfort, and the encouragement of others to do likewise."
 2. "shall save—future. The salvation of the one so converted shall be manifested hereafter."
 3. "shall hide a multitude of sins—not his own, but the sins of the converted. The Greek verb in the middle voice requires this."
@@ -56,4 +56,4 @@ In this verse, the act of converting a sinner from the error of their ways is po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

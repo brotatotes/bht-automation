@@ -9,7 +9,7 @@ The passage under consideration involves Paul addressing Felix, who had been a j
 2. "This, which is also De Wette and Meyer’s arrangement, is far more natural than that of Kuin., Olsh., Heinr., &c., who suppose that the days which he had already spent at Cæsarea are not to be counted."
 3. "I mention this here, because these suppositions materially affect his arrangement of the twelve days."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou mayest understand—canst easily learn." - This quote emphasizes the ease with which one can comprehend the situation, highlighting the simplicity of the explanation.
 2. "The remaining period referred to (Acts 23:31- :)" - This quote alludes to the specific time frame mentioned in the verse, providing context for the events that took place.
 3. "For to worship—a very different purpose from that imputed to him." - This quote highlights the stark contrast between the accused purpose and the actual intention of the individual, shedding light on the misunderstanding surrounding the situation.
@@ -43,4 +43,4 @@ The passage under consideration involves Paul addressing Felix, who had been a j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

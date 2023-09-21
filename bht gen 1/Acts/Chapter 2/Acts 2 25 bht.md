@@ -9,7 +9,7 @@ In this psalm, the speaker expresses their unwavering trust and reliance on God,
 2. "To interpret the sayings of David (or indeed those of any one else) ‘historically,’ i.e. solely as referring to the occasion which gave rise to them, and having no wider reference, would be to establish a canon of interpretation wholly counter to the common sense of mankind."
 3. "David often spoke concerning himself; but THE SPIRIT WHO SPOKE IN DAVID, εἰς τὸν χριστόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "authenticated," "proved," or "demonstrated to be from God."
 2. "This is not a low view of our Lord's miracles, as has been alleged, nor inconsistent with His progress from humiliation to glory."
 3. "This view of Christ is here dwelt on to exhibit to the Jews the whole course of Jesus of Nazareth as the ordinance and doing of the God of Israel."
@@ -63,4 +63,4 @@ These quotes highlight the Messianic nature of the psalm and emphasize the unwav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

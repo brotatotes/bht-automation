@@ -4,7 +4,7 @@
 Based on various commentaries, the described Bible verse cautions against welcoming or supporting false teachers who propagate erroneous doctrines. These deceivers seek to infiltrate and subvert the true teachings of the Church. Believers are warned not to participate in their teachings, entertain them in their households, or offer them any form of support or encouragement. Instead, they are urged to exercise discernment, maintain separation from falsehood, and remain steadfast in the teachings of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True love is combined with hearty renunciation and separation from all that is false, whether persons or doctrines."
 2. "This is not said of those who were always aliens from the Church, but of those who wish to be esteemed brethren, and subvert the true doctrine."
 3. "The greeting salutation forbidden in the case of such a one is that usual among Christian brethren in those days, not a mere formality, but a token of Christian brotherhood."
@@ -40,4 +40,4 @@ Based on various commentaries, the described Bible verse cautions against welcom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

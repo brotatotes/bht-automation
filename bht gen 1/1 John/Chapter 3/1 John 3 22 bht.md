@@ -4,7 +4,7 @@
 Believers, as children of God, approach Him in prayer seeking His will, humbly surrendering their own. Their prayers, being the voice of the Spirit in them, are naturally and necessarily answered by God. As children of God, their prayers please Him, as they are evidence of their faith, showing that they walk in obedience and seek to please Him. The faithful receive from God, relying on Christ as the mediator, and they strive to discern His will and put it into practice, pleasing Him in their worship and obedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers, as such, ask only what is in accordance with God's will; or if they ask what God wills not, they bow their will to God's will, and so God grants them either their request, or something better than it."
 2. "Not as though our merits earned a hearing for our prayers, but when we are believers in Christ, all our works of faith being the fruit of His Spirit in us, are 'pleasing in God's sight'; and our prayers being the voice of the same Spirit of God in us, naturally and necessarily are answered by Him."
 3. "Our prayers being the voice of the same Spirit of God in us, naturally and necessarily are answered by Him."
@@ -40,4 +40,4 @@ Believers, as children of God, approach Him in prayer seeking His will, humbly s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

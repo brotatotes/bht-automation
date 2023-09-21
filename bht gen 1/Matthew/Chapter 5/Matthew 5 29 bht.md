@@ -9,7 +9,7 @@ In this verse, we are given a powerful admonition to resist and overcome the fir
 2. "He [Philo Judæus] had heard ἀπὸ θεσπεσίων ἀνδρῶν an interpretation of Deuteronomy 25:12, singularly agreeing with this verse: εἰκότως οὖν τὴν … χεῖρα.… ἀποκόπτειν διείρηται συμβολικῶς, οὐχ ὅπως ἀκρωτηριάζηται τὸ σῶμα στερόμενον ἀναγκαιοτάτου μέρους, ἀλλʼ ὑπὲρ τοῦ πάντας τῆς ψυχῆς ἀθέους τέμνειν λογισμούς."
 3. "We may observe here, that our Lord grounds His precept of the most rigid and decisive self-denial on the considerations of the truest self-interest, συμφέρελ σοι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if thy right eye—the readier and the dearer of the two. offend thee—be a 'trap spring,' or as in the New Testament, be 'an occasion of stumbling' to thee. pluck it out and cast it from thee—implying a certain indignant promptitude, heedless of whatever cost to feeling the act may involve."
 2. "For as one might put out his eyes without in the least quenching the lust to which they ministered, so, 'if thine eye be single, thy whole body shall be full of light,' and, when directed by a holy mind, becomes an 'instrument of righteousness unto God.'"
 3. "He who despises the warning to cast from him, with indignant promptitude, an offending member, will find his whole body 'cast,' with a retributive promptitude of indignation, 'into hell.'"
@@ -50,4 +50,4 @@ In this verse, we are given a powerful admonition to resist and overcome the fir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

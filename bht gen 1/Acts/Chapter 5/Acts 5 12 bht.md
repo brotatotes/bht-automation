@@ -9,7 +9,7 @@ The believers in the early church were united in their faith and commitment to C
 2. "The Apostles are the subject of the paragraph: and it is to set forth their unanimity and dignity that the description is given."
 3. "The Jewish people itself magnified them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Solomon's Porch was a covered colonnade on the east side of the outer court of the temple in Jerusalem. It was named after King Solomon, who was known for his wisdom and grandeur. This location was a popular gathering place for the people, providing shade and shelter from the elements. It was a place of community, where people could come together to worship, learn, and engage in conversation."
 
 2. "The significance of Solomon's Porch in the New Testament is that it was the setting for many important events and teachings of Jesus. It was a place where Jesus would often teach and interact with the people, sharing his wisdom and revealing his divine nature. It was a place where miracles happened, where the blind received sight and the lame walked. It was a place where the power and presence of God was tangible."
@@ -57,4 +57,4 @@ The believers in the early church were united in their faith and commitment to C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

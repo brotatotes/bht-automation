@@ -9,7 +9,7 @@ The Bible verse being described is focused on Jesus's desire for his disciples t
 2. "That their joy might...be uplifted and ennobled...even to fulness, to the extreme of their capability and satisfaction."
 3. "The indwelling of His Joy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Continue ye in my love" - This phrase emphasizes the ongoing nature of the disciples' relationship with Jesus. It implies not just an initial act of love, but a continuous abiding in His love.
 
 2. "Continue to love Me" - The commentary clarifies that the phrase actually means "Continue in the possession and enjoyment of My love to you." This highlights the reciprocal nature of the disciples' relationship with Jesus, where they are not only recipients of His love but also participants in loving Him.
@@ -57,4 +57,4 @@ The Bible verse being described is focused on Jesus's desire for his disciples t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

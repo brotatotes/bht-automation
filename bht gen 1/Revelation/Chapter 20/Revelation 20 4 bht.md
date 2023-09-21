@@ -4,7 +4,7 @@
 In this verse, there is a depiction of thrones, which are promised to the apostles as a symbol of their authority and reign. The souls of those who were martyred, specifically through beheading, are also mentioned as they await their resurrection and reunion with their bodies. This passage showcases the honor and reward given to those who faithfully testified to Jesus, implying that their suffering and death were in service of a greater purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though in one sense having to stand before the judgment-seat of Christ, yet in another sense they 'do not come into judgment, but have already passed from death unto life.'" 
 2. "From Psalms 49:11-15, I infer that 'souls' is here used in the strict sense of spirits disembodied when first seen by John though doubtless 'souls' is often used in general for persons, and even for dead bodies."
 3. "The martyrs are put first, because most like Jesus in their sufferings and death, therefore nearest Him in their life and reign; for Christ indirectly affirms there are relative degrees and places of honor in His kingdom, the highest being for those who drink his cup of suffering."
@@ -47,4 +47,4 @@ These quotes highlight the promise of thrones for the apostles, the mention of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

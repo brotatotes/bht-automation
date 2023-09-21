@@ -4,7 +4,7 @@
 This verse speaks of the supernatural knowledge possessed by Christ, describing His ability to discern the hidden depths of the human heart. He alone has the power to fully comprehend the thoughts, intentions, and character of each individual. This divine attribute of omniscience distinguishes Him as the ultimate Judge and Searcher of hearts, qualities that are denied to mere creatures. Through His intimate knowledge of mankind, Christ also reveals the inherent deceitfulness and wickedness of the human heart, emphasizing the need for His transformative work.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is impossible for language more clearly to assert of Christ what in Jeremiah 17:9; Jeremiah 17:10, and elsewhere, is denied of all mere creatures."
 2. "Christ's knowledge of what is in man is perfect and comprehensive, extending to the inmost recesses of the heart."
 3. "This divine attribute of omniscience qualifies Him alone to be the Searcher of hearts and the Judge of all."
@@ -49,4 +49,4 @@ This verse speaks of the supernatural knowledge possessed by Christ, describing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

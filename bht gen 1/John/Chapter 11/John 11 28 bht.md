@@ -11,7 +11,7 @@ In this passage, we see the urgency and personal connection between Jesus and La
 
 Note: The commentary provided is not in English. The quotes have been translated to the best of my ability.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Master is come and calleth for thee" - This quote highlights the urgency and importance of Jesus' arrival and his specific request for Lazarus. It emphasizes the personal relationship between Jesus and Lazarus, showing Jesus' deep care and concern for his friend.
 
 2. "The narrative does not give us this interesting detail" - This quote acknowledges that the specific detail of Jesus calling for Lazarus is not explicitly mentioned in the narrative. It highlights the significance of Martha's words in providing this additional insight, suggesting that her words offer a deeper understanding of the situation.
@@ -52,4 +52,4 @@ Note: The commentary provided is not in English. The quotes have been translated
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

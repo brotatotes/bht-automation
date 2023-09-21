@@ -9,7 +9,7 @@ In this verse, the author speaks to those who suffer for their faith, urging the
 2. "Let him not be ashamed, but let him glorify God in this name."
 3. "Even in ref. Mark, ἐν ὀνόματι ὅτι does not lose its allusion to the ὄνομα itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rise of the new name marked a new epoch in the Church's life, a new stage of its development, namely, its missions to the Gentiles."
 2. "To suffer for one's own faults is no honor—for Christ, is no shame."
 3. "But the honor is to be given to God, who counts him worthy of such an honor, involving exemption from the coming judgments on the ungodly."
@@ -55,4 +55,4 @@ In this verse, the author speaks to those who suffer for their faith, urging the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

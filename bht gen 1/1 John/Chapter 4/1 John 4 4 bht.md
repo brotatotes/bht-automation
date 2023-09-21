@@ -9,7 +9,7 @@ Believers have conquered the seductive influence of false teachers, demonstratin
 2. "Greater is He in you than he in the world."
 3. "He who is ἐκ τοῦ θεοῦ has God dwelling in him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye—emphatical: YE who confess Jesus: in contrast to 'them,' the false teachers."
 2. "overcome them—instead of being 'overcome and brought into (spiritual) bondage' by them."
 3. "he that is in you—God, of whom ye are."
@@ -53,4 +53,4 @@ Believers have conquered the seductive influence of false teachers, demonstratin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the city of Smyrna, a prosperous and wealthy center of commerce, the Church faced bitter afflictions and persecutions, which were compared to the bitter taste of myrrh. However, their sufferings for Christ were pleasing to Him, as the fragrance of myrrh. Despite their hardships, they were encouraged by the promise of being raised to life just as Christ, the "first and the last" who was once dead but is now alive, had conquered death. This assurance brings comfort and strength to face any challenges or persecutions, reminding them of Christ's triumph over death and His eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The allusions to persecutions and faithfulness unto death accord with this view." 
 2. "The attributes of Christ most calculated to comfort the Church of Smyrna under its persecutions." 
 3. "As death was to Him but the gate to life eternal, so it is to be to them."
@@ -43,4 +43,4 @@ In the city of Smyrna, a prosperous and wealthy center of commerce, the Church f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

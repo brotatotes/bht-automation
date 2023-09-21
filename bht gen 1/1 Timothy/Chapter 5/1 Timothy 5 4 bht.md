@@ -9,7 +9,7 @@ In this verse, the Bible instructs us on the importance of family responsibiliti
 2. "Either, ‘first of all duties,’ which seems supported by 1Ti 5:8 below; or first, before applying to the church for sustenance."
 3. "Let them, the children or grandchildren, learn first to be piously grateful to (these members of) their own families, and to give back returns (a return in each case) to their progenitors."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A widow indeed," as having children who ought to support her.
 2. "Nephews" in old English meant "grandchildren."
 3. "Let them learn," implies that abuses of this kind had crept into the Church, widows claiming Church support though they had children or grandchildren able to support them.
@@ -55,4 +55,4 @@ In this verse, the Bible instructs us on the importance of family responsibiliti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

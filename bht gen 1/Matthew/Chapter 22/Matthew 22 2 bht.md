@@ -11,7 +11,7 @@ In this parable, a certain king prepares a magnificent marriage feast for his so
 
 3. "On the whole imagery, cf. Psalms 45:1-17."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this parable, we see how the Lord is revealing Himself in ever clearer light as the central Person of the kingdom, giving here a far plainer hint than in the last parable of the nobility of His descent."
 2. "The last was a parable of the Old Testament history; and Christ is rather the last and greatest of the line of its prophets and teachers than the founder of a new kingdom."
 3. "Thus, as often, the two complete each other: this taking up the matter where the other left it."
@@ -57,4 +57,4 @@ In this parable, a certain king prepares a magnificent marriage feast for his so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Refrain from opposing these men and their work, for if it is a human endeavor it
 2. "the solemnity and fixedness of the divine purpose"
 3. "The whole plan, the scheme, of which this fact under your present cognizance, forms a part."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This neutral policy was true wisdom, in the then temper of the council."
 2. "Individual neutrality is hostility to Christ, as He Himself teaches."
 3. "Neutrality in matters of faith ultimately leads to nothing."
@@ -45,4 +45,4 @@ Refrain from opposing these men and their work, for if it is a human endeavor it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

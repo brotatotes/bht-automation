@@ -4,7 +4,7 @@
 In this Bible verse, Jesus is teaching about the sincerity and integrity of making vows and oaths. It is not the external act of swearing that matters, but rather the heart behind it. He emphasizes that the altar, temple, and gifts hold great significance, and by swearing by them, one is invoking the sacredness and holiness associated with them. Ultimately, any oath made by invoking a created thing is an implicit appeal to God, highlighting the accountability and seriousness of one's words in His presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of swearing by the altar, the gift, or the temple, was considered binding and carried great weight in Jewish culture. Jesus is pointing out that it is not the external act of swearing that matters, but the heart behind it."
 
 2. "Jesus is challenging his listeners to examine their motives and intentions when making oaths. He is emphasizing the importance of integrity and honesty, rather than relying on external rituals or oaths to validate one's words."
@@ -27,4 +27,4 @@ In this Bible verse, Jesus is teaching about the sincerity and integrity of maki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

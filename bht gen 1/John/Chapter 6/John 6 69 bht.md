@@ -9,7 +9,7 @@ The disciples express their unshakable faith, having witnessed Jesus' works and 
 2. "The idea however is found (ch. Joh 10:36)."
 3. "Their words appear to have been the first plain declaration of the fact, and so to have laid hold on the attention of the Apostles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There are seasons when one's faith is tried to the utmost, particularly by speculative difficulties; the spiritual eye then swims, and all truth seems ready to depart from us."
 2. "A clear perception that to abandon the faith of Christ is to face black desolation, ruin and death; and on recoiling from this, to be able to fall back, not merely on first principles and immovable foundations, but on personal experience of a Living Lord in whom all truth is wrapt up and made flesh for our very benefit—this is a relief unspeakable."
 3. "Under that blessed Wing taking shelter, until we are again fit to grapple with the questions that have staggered us, we at length either find our way through them, or attain to a calm satisfaction in the discovery that they lie beyond the limits of present apprehension."
@@ -50,4 +50,4 @@ The disciples express their unshakable faith, having witnessed Jesus' works and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

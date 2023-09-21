@@ -4,7 +4,7 @@
 In the midst of a treacherous storm at sea, Paul addresses his fellow sailors. Despite their prior disregard for his warnings, Paul assures them that they will find safety and reach their destination. His words reflect a deep trust and confidence in God's promises and power. Though the circumstances appear hopeless, faith relies not on what is seen or understood, but on the character and faithfulness of God. This active and unwavering faith also resonates with Paul's prayers, as he remains certain that he will bear witness in Rome.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hardships which the crew endured during a gale of such continuance, and their exhaustion from laboring at the pumps and hunger, may be imagined, but are not described" [SMITH].
 2. "Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened to me, &c.—not meaning to reflect on them for the past, but to claim their confidence for what he was now to say."
 3. "Paul's words imply that, though they had not heeded his warning, yet they had not sinned in not heeding it, because they had not known the danger of neglecting it" [JFB].
@@ -35,4 +35,4 @@ These quotes emphasize the importance of faith in God's promises and the confide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

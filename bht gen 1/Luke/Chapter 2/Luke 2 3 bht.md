@@ -4,7 +4,7 @@
 In this passage, individuals are seen traveling to their ancestral cities in order to be taxed. This showcases the wide-reaching impact of this event, emphasizing the significance of Jesus' birth for all humanity. The requirement for each person to return to their own city underscores the importance of lineage and fulfills Old Testament prophecies regarding the Messiah's birthplace. It also highlights the obedience and faithfulness of Joseph and Mary to the governing authorities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The city of his extraction, according to the Jewish custom, not of his abode." 
 
 2. "The Jewish custom of returning to one's ancestral city during a census was in contrast to the Roman method of staying in one's place of residence." 
@@ -39,4 +39,4 @@ In this passage, individuals are seen traveling to their ancestral cities in ord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

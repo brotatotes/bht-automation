@@ -9,7 +9,7 @@ In this Bible verses, commentators discuss the concept of being a "freeman" or a
 2. "Christ’s service is perfect freedom, and the Christian’s freedom is the service of Christ." 
 3. "The (actual) slave is (spiritually) free: the (actually) free is a (spiritual) slave."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord's freedman" - spiritually made free by the Lord from sin, the law, and circumcision.
 2. "Christ's servant" - love makes Christ's service perfect freedom.
 3. "Love makes Christ's service perfect freedom" - Matthew 11:29, Matthew 11:30, Galatians 5:13, 1 Peter 2:16.
@@ -48,4 +48,4 @@ In this Bible verses, commentators discuss the concept of being a "freeman" or a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

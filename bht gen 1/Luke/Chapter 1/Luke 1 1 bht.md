@@ -9,7 +9,7 @@ The Bible verse being described is a narrative account of the birth, life, actio
 2. "The fact of that failure is indeed implied in Luke’s description of his own work but that, more because it possessed completeness (whereas they were fragmentary) than from any difference in kind."
 3. "The use of the cognate noun πληροφορία supports this view: see 1 Thessalonians 1:5; Hebrews 6:11. There does not appear to be any reference to the filling of the sails of a ship, as Bp. Wordsw."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Set forth in order" means to draw up a narrative.
 
 ### Albert Barnes:
@@ -56,4 +56,4 @@ These quotes highlight the challenging nature of the task at hand, the comprehen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

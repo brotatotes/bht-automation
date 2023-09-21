@@ -9,7 +9,7 @@ In this verse, the passage describes the attitude and actions of Paul and his co
 2. "That the other Apostles did the same, need not necessarily be inferred from this passage, for he may be describing the state of all by himself as a sample; but it is conceivable, and indeed probable, that they did."
 3. "‘So far are we from vindicating to ourselves places of earthly honour and distinction, that we tamely submit to reproach, persecution, and evil repute; nay, we return blessing, and patience, and soft words.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "working with our own hands—namely, 'even unto this present hour'" - This quote highlights the fact that Paul was not only a preacher but also a worker. He did not rely on others for his needs but worked with his own hands, setting an example of diligence and self-sufficiency.
 
 2. "Ye yourselves know that these hands have ministered unto my necessities" - This quote emphasizes Paul's humility and willingness to serve. Despite being an apostle, he did not hesitate to do manual labor to provide for himself, showing his dedication to his mission and his commitment to not burden others.
@@ -59,4 +59,4 @@ In this verse, the passage describes the attitude and actions of Paul and his co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

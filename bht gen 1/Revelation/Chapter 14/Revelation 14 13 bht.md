@@ -4,7 +4,7 @@
 The Bible verse being described is a message of comfort and hope for believers who have died in the Lord. It emphasizes their blessedness and the eternal rest they now experience. They are described as having part in the first resurrection and sitting down to the marriage supper of the Lamb. While the phrase "dying in the Lord" may bring to mind the challenges they faced before death, the focus is on the glory and honor they receive in heaven. Their rest from toil and suffering is contrasted with the present life, where endurance is needed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their full blessedness is now 'from henceforth,' that is, FROM THIS TIME, when the judgment on the beast and the harvest gatherings of the elect are imminent."
 2. "Their eternal rest, or cessation from toils, is close at hand now."
 3. "They are blessed in being about to sit down to the marriage supper of the Lamb, and in having part in the first resurrection, and in having right to the tree of life."
@@ -38,4 +38,4 @@ The Bible verse being described is a message of comfort and hope for believers w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

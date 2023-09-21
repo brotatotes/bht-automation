@@ -9,7 +9,7 @@ In this verse, we see the account of Philip's departure after baptizing the Sama
 2. "The text clearly relates a supernatural disappearance of Philip."
 3. "The departure of Philip was miraculous."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To deny the miraculous nature of Philip's disappearance, is vain."
 2. "He had found Christ, and the key to the Scriptures; his soul was set free, and his discipleship sealed."
 3. "He felt himself a new man, and 'his joy was full.'"
@@ -55,4 +55,4 @@ In this verse, we see the account of Philip's departure after baptizing the Sama
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

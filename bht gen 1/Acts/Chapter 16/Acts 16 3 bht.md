@@ -9,7 +9,7 @@ In this verse, a young and talented man named Timothy is mentioned. He had a uni
 2. "That he might not at once, wherever he preached, throw a stumbling-block before the Jews."
 3. "There was here no concession in doctrine at all, and no reference whatever to the duty of Timotheus himself in the matter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had no relative ties which were of service to him in his work; his companions were few and changing; and though Silas would supply the place of Barnabas, it was no weakness to yearn for the society of one who might become, what Mark once appeared to be, a son in the Gospel."
 2. "His double connection, with the Jews by the mother's side and the Gentiles by the father's, would strike the apostle as a peculiar qualification for his own sphere of labor."
 3. "Had Timothy not been circumcised, a storm would have gathered round the apostle in his farther progress. His fixed line of procedure was to act on the cities through the synagogues; and to preach the Gospel to the Jew first and then to the Gentile."
@@ -52,4 +52,4 @@ In this verse, a young and talented man named Timothy is mentioned. He had a uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

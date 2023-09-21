@@ -4,7 +4,7 @@
 In a powerful and confrontational manner, Jesus addresses the religious leaders, whom he refers to as serpents and a brood of vipers. His choice of words reflects their deceitful and wicked nature, leaving no room for doubt about his disdain for their hypocritical actions. Jesus questions how they can possibly escape the severe judgment and punishment of hell, highlighting the inevitability and gravity of their impending doom. This stern warning serves as a wake-up call to the religious leaders and as a deterrent to others, aiming to expose the dangers of hypocrisy and ultimately lead to repentance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye serpents, ye generation of vipers" - This strong language used by Jesus emphasizes the severity of the religious leaders' hypocrisy and deceit.
 2. "How can ye escape the damnation of hell?" - Jesus poses a rhetorical question, highlighting the inevitability of their punishment and the impossibility of escaping it.
 3. "The only difference between their condemnation now and then was, that now they were ripe for their doom" - Jesus implies that the religious leaders had been given ample time to repent and change their ways, but now their judgment was imminent and unavoidable.
@@ -45,4 +45,4 @@ In a powerful and confrontational manner, Jesus addresses the religious leaders,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

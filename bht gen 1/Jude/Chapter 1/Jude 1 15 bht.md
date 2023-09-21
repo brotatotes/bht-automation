@@ -4,7 +4,7 @@
 This biblical verse describes the coming judgment of God, foretold by Enoch, where both the righteous and the ungodly will be held accountable for their actions and words. The judgment will be a definitive sentence, granting life and happiness to the righteous and condemning the wicked to death and misery. It will serve to convict the ungodly in their own consciences, as their ungodly deeds and hard speeches against God will be brought to light. This judgment is a cause for fear and watchfulness for the elect, as the wicked's audacious and insolent behavior is called into account.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enoch foretold Jehovah’s coming to judgment, so Lamech presumes on impunity in polygamy and murder." 
 2. "Hard speeches, such as are noticed in Jude 1:14-15, are characteristic of ungodly sinners." 
 3. "They who speak against God’s children are regarded by God as speaking against Himself."
@@ -43,4 +43,4 @@ This biblical verse describes the coming judgment of God, foretold by Enoch, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

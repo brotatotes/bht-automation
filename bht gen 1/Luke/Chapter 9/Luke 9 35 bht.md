@@ -4,7 +4,7 @@
 In this verse, a voice out of the cloud speaks, affirming the unique relationship between God the Father and Jesus, the chosen and beloved Son. The voice commands the disciples to listen to Jesus, indicating his divine authority and the necessity of following his teachings. The cloud and the voice emphasize the transcendence and mystery of God's presence, highlighting the supernatural nature of the event and the importance of the message being delivered. This revelation from God demands attention and response, reminding us of His active involvement in our lives and His desire to communicate with us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My beloved Son" - This phrase emphasizes the unique and special relationship between God the Father and Jesus. It highlights Jesus' divinity and authority as the Son of God.
 
 2. "Hear him" - This command emphasizes the importance of listening to Jesus' teachings and following his instructions. It implies that Jesus' words carry divine authority and should be heeded above all other voices or influences.
@@ -32,4 +32,4 @@ In this verse, a voice out of the cloud speaks, affirming the unique relationshi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

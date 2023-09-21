@@ -9,7 +9,7 @@ In this verse, we see a vivid portrayal of the Jewish opposition to the preachin
 2. "To the spirit in which they did it, viz. a contradictious and blaspheming one."
 3. "It is no Hebraism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews, zealots of exclusive Judaism."
 2. "There is nothing more awful than Jewish fury and execration of the name of Jesus of Nazareth, when thoroughly roused."
 3. "Jewish fury and execration of the name of Jesus of Nazareth, when thoroughly roused."
@@ -50,4 +50,4 @@ In this verse, we see a vivid portrayal of the Jewish opposition to the preachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

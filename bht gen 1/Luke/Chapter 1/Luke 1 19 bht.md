@@ -9,7 +9,7 @@ In this Bible verse, a significant angel named Gabriel, who stands in the presen
 2. "We first read of both Michael and Gabriel in the book of Daniel."
 3. "The fact being, that the persons and order of the angels were known long before, and their names formed matter of subsequent revelation to Daniel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gabriel—signifying 'man of God,' the same who appeared to Daniel at the time of incense and to Mary." 
 
 2. "Stand, &c.—as his attendant." 
@@ -61,4 +61,4 @@ In this Bible verse, a significant angel named Gabriel, who stands in the presen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

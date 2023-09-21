@@ -9,7 +9,7 @@ The verse being described can be found in the book of John. It highlights the ro
 2. "The voice of every true shepherd is heard by the sheep and he calls his own sheep by name."
 3. "This distinction between 'τὰ πρόβ' and 'τὰ ἴδια πρόβ' has given rise to exegetical and doctrinal mistakes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To him the porter openeth—that is, right of free access is given, by order of Him to whom the sheep belong."
 2. "The sheep hear his voice—This and all that follows, though it admits of important application to every faithful shepherd of God's flock, is in its direct and highest sense true only of 'the great Shepherd of the sheep.'"
 3. "In the first five verses, [Jesus] seems plainly, under the simple character of a true shepherd, to be drawing His own portrait."
@@ -55,4 +55,4 @@ The verse being described can be found in the book of John. It highlights the ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

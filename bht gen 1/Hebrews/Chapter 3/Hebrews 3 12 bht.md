@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the dangerous nature of an evil heart 
 2. "An evil heart (always wandering in the heart) belonging to, characteristic of, unbelief."
 3. "By using this solemn title of God, he not only warns them from Whom, and at what risk, they would depart, but also identifies the God whom they would leave, with Him who had so often called Himself by this name as the distinctive God of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The heart is not to be trusted."
 2. "Christ is faithful; therefore, saith Paul to the Hebrews, we ought not to be faithless as our fathers were under Moses."
 3. "To apostatize from Christ is to apostatize from the living God."
@@ -53,4 +53,4 @@ In this verse, the commentators emphasize the dangerous nature of an evil heart 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

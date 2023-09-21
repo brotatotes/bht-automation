@@ -4,7 +4,7 @@
 This verse speaks of a deep sorrow and grief that the writer carries in his heart, caused by the unbelief and rejection of his fellow countrymen. This heaviness is described as a consuming pain, relentlessly weighing upon his spirit. The writer's grief is not a fleeting emotion, but a continuous agony that accompanies him. Despite this sorrow, it is clear that the writer's concern is not born out of personal animosity, but rather a sincere desire for the salvation and spiritual well-being of those who have rejected the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The bitter hostility of his nation to the glorious Gospel."
 2. "The awful consequences of their unbelief."
 3. "Weighing heavily and incessantly upon his spirit."
@@ -48,4 +48,4 @@ This verse speaks of a deep sorrow and grief that the writer carries in his hear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

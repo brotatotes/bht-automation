@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse that emphasizes the importance of m
 2. "But a more fatal objection than any of the former is, that the context is entirely against the meaning. The ἁγιασμός has been explained to consist in ἀπέχεσθαι ἀπὸ τῆς πορνείας."
 3. "Thus the context would be satisfied, and the emphatic position of ἑαυτοῦ (as in 1Co 7:2); and κτᾶσθαι would retain its proper meaning: that each of you should know how to acquire his own vessel (for this purpose) in sanctification (κτᾶσθαι ἐν ἁγ . belong together) and honour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "know—by moral self-control."
 2. "that each should have his own wife so as to avoid fornication."
 3. "in sanctification—thus, 'his own' stands in opposition to dishonoring his brother by lusting after his wife."
@@ -49,4 +49,4 @@ The commentators shed light on a Bible verse that emphasizes the importance of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

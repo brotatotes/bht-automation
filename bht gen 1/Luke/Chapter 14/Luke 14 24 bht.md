@@ -9,7 +9,7 @@ By reaching out to those who are marginalized and overlooked, this verse extends
 2. "Our Lord speaks, with His usual λέγω γὰρ ὑμῖν, to the company present."
 3. "Half continuing the parable, half expounding it, substitutes Himself for the master of the feast, leaving it hardly doubtful who ἄνδρες ἐκεῖνοι οἱ κεκλημένοι are."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord here appears to throw off the veil of the parable, and proclaim the Supper His own, intimating that when transferred and transformed into its final glorious form, and the refusers themselves would give all for another opportunity, He will not allow one of them to taste it."
 2. "This parable must not be confounded with that of Proverbs 1:24-33; The Marriage Supper."
 3. "ADDRESS TO GREAT MULTITUDES TRAVELLING WITH HIM."
@@ -49,4 +49,4 @@ By reaching out to those who are marginalized and overlooked, this verse extends
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

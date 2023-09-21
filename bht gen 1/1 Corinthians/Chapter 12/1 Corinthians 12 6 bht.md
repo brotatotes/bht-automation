@@ -4,7 +4,7 @@
 In this verse, the commentators highlight how God is the source of all spiritual gifts and abilities, working in believers to manifest these gifts for the benefit of the church. They emphasize the diversity of God's works and the various manifestations of these gifts within the body of Christ. The commentators also note that all these gifts come from God alone, and it is through His power and agency that they are distributed and used collectively for the edification and growth of the church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same God who works in all believers is the one who operates and manifests these spiritual gifts." 
 2. "The Holy Spirit is the one who empowers and enables believers to exercise these gifts for the benefit of the body of Christ." 
 3. "These gifts are distributed to individuals, but they are meant to be used collectively for the edification and growth of the entire church."
@@ -45,4 +45,4 @@ These quotes emphasize the diversity of God's works and the various gifts and ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

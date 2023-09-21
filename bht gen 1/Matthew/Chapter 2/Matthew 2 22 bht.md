@@ -9,7 +9,7 @@ In the face of Archelaus' reign, regarded as king but withheld the title, and kn
 2. "It would certainly, on a first view, appear that this Evangelist was not aware that Nazareth had been before this the abode of Joseph and Mary."
 3. "I should prefer, however, believing, as more consistent, in foro conscientiæ, with the fair interpretation of our text, that St. Matthew himself was not aware of the events related in Luke 1:2, and wrote under the impression that Bethlehem was the original dwelling-place of Joseph and Mary."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Archelaus succeeded to Judea, Samaria, and Idumea; but Augustus refused him the title of king till it should be seen how he conducted himself; giving him only the title of ethnarch."
 2. "After ten years' defiance of the Jewish law and cruel tyranny, the people lodged heavy complaints against him, and the emperor banished him to Vienne in Gaul, reducing Judea again to a Roman province."
 3. "The province of Galilee was under the jurisdiction of Herod Antipas, the brother of Archelaus, his father having left him that and Perea, on the east side of the Jordan, as his share of the kingdom, with the title of tetrarch, which Augustus confirmed."
@@ -47,4 +47,4 @@ In the face of Archelaus' reign, regarded as king but withheld the title, and kn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

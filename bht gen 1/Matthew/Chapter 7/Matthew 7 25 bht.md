@@ -1,7 +1,7 @@
 # Matthew 7:25 Commentary Help Text
 
 ## BHT:
-In this verse, the commentary of Henry Alford highlights the significance of the "rock" as a recurring motif in Scripture, symbolizing the firm foundation of God. Jamieson Fausset Brown adds to this by emphasizing the need for a solid foundation in order to endure life's trials and challenges. Philip Schaff further emphasizes that building upon Christ provides stability and security. Lastly, John Gill assures us that if we are built upon the rock of Christ, we are safe and able to withstand the storms of life without being shaken from our foundation.
+In this verse, the commentary of Henry Alford highlights the significance of the "rock" as a recurring motif in Scripture, symbolizing the firm foundation of God. Jamieson-Fausset-Brown adds to this by emphasizing the need for a solid foundation in order to endure life's trials and challenges. Philip Schaff further emphasizes that building upon Christ provides stability and security. Lastly, John Gill assures us that if we are built upon the rock of Christ, we are safe and able to withstand the storms of life without being shaken from our foundation.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ In this verse, the commentary of Henry Alford highlights the significance of the
 2. "He founds his house on a rock, who, hearing the words of Christ, brings his heart and life into accordance with His expressed will, and is thus by faith in union with Him, founded on Him."
 3. "Whereas he who merely hears His words, but does them not, has never dug down to the rock, nor become united with it, nor has any stability in the hour of trial."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rain descended from above, the floods came from below, and the winds blew sweeping across." This vividly portrays the onslaught of trials and challenges that can come from all directions in life.
 2. "It fell not; for it was founded upon a rock." This emphasizes the importance of having a solid foundation in order to withstand the storms of life.
 3. "The house stood firm because it was built on a rock, symbolizing the stability and security that comes from building our lives on the solid foundation of God's truth and principles." This highlights the significance of building our lives on the unchanging and reliable truths of God's Word.
@@ -33,4 +33,4 @@ In this verse, the commentary of Henry Alford highlights the significance of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

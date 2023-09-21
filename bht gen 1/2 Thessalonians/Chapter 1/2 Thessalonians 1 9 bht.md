@@ -4,7 +4,7 @@
 The verse described in these commentaries speaks of a severe and everlasting punishment. It emphasizes the eternal nature of the destruction and separation from the presence and glory of the Lord. This punishment is seen as a just penalty to be paid, highlighting the seriousness of rejecting the Gospel and the consequences of sin. The presence and appearance of the Lord are depicted as terrifying and overpowering, causing the wicked to perish and seek refuge in vain. The verse also underscores the contrast between the glorious power of the Lord to save and to destroy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The presence of the Lord" is the source whence the sentence goes forth; "the glory of His power" is the instrument whereby the sentence is carried into execution.
 2. But ALFORD better interprets the latter clause, driven "from the manifestation of His power in the glorification of His saints."
 3. Cast out from the presence of the Lord is the idea at the root of eternal death, the law of evil left to its unrestricted working, without one counteracting influence of the presence of God.
@@ -50,4 +50,4 @@ These quotes emphasize the everlasting nature of the punishment mentioned in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

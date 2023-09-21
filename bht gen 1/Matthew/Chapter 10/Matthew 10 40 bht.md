@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the close relationship between Jesus 
 2. "There is a difference between the representation of Christ by His messengers, which at most is only official, and even then broken by personal imperfection and infirmity."
 3. "The perfect unbroken representation of the Eternal Father by His Blessed Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that receiveth you, entertaineth you, receiveth me; and he that receiveth me, receiveth him that sent me." This quote highlights the close relationship between Jesus and his disciples. It emphasizes that receiving and welcoming the disciples is equivalent to receiving and welcoming Jesus himself, and ultimately, the one who sent him.
 
 2. "As the treatment which an ambassador receives is understood and regarded as expressing the light in which he that sends him is viewed..." This quote draws a parallel between the disciples and ambassadors. It suggests that the way the disciples are received reflects the perception of Jesus and the one who sent him. It emphasizes the importance of hospitality and respect towards the messengers of God.
@@ -42,4 +42,4 @@ The Bible verse being described emphasizes the close relationship between Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

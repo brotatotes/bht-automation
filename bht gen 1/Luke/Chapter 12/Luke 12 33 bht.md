@@ -9,7 +9,7 @@ In this passage, Jesus instructs His followers to sell their possessions and giv
 2. "This is the true way of investing worldly wealth: 'He that giveth to the poor, lendeth to the Lord.'"
 3. "See on Matthew 6:19-21."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sell, &c.—This is but a more vivid expression of self-denial, and a stronger enforcement of the duty of renouncing all for Christ's sake."
 2. "Sell, &c.—This implies not only a willingness to part with earthly possessions, but a real separation from them, and a transfer of the heart's affections from them to Christ."
 3. "Sell, &c.—It is not the mere act of selling or giving away that is here enjoined, but the spirit of self-surrender and devotion to Christ which should prompt and accompany it."
@@ -52,4 +52,4 @@ In this passage, Jesus instructs His followers to sell their possessions and giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse holds a significant place in discussions on the Trinity, with comment
 2) "And this their one testimony is given by the purification in the water of baptism into His name, John 3:5; by the continual cleansing from all sin which we enjoy in and by His atoning blood: by the inward witness of His Spirit, which He hath given us."
 3) "The context, as above explained, is employed in setting forth the reality of the substance of the faith which overcomes the world, even of our eternal life in Jesus the Son of God. And this is shewn by a threefold testimony, subsisting in the revelation of the Lord Himself, and subsisting in us His people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two or three witnesses were required by law to constitute adequate testimony."
 2. "The triad specified pointing to a still Higher Trinity."
 3. "It is on earth that the context evidently requires the witness of the three, the Spirit, the water, and the blood, to be borne: mystically setting forth the divine triune witnesses, the Father, the Spirit, and the Son."
@@ -52,4 +52,4 @@ These quotes highlight the significance of the verse in relation to the doctrine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

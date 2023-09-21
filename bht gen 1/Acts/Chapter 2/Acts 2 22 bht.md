@@ -9,7 +9,7 @@ This passage describes a man known as Jesus of Nazareth, who is shown to be appr
 2. "ἀπό, not for ὑπό, here or any where else: but signifying the source whence, not merely the agency by which, the deed has place."
 3. "The whole connexion of the passage would besides be broken by this rendering: that connexion being, that the Man Jesus of Nazareth was by God demonstrated, by God wrought in among you, by God’s counsel delivered to death, by God raised up, finally, made Lord and Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a man approved of God—rather, 'authenticated,' 'proved,' or 'demonstrated to be from God.'" 
 2. "This is not a low view of our Lord's miracles, as has been alleged, nor inconsistent with [Scripture], but is in strict accordance with His progress from humiliation to glory, and with His own words in [Scripture]." 
 3. "This view of Christ is here dwelt on to exhibit to the Jews the whole course of Jesus of Nazareth as the ordinance and doing of the God of Israel."
@@ -50,4 +50,4 @@ This passage describes a man known as Jesus of Nazareth, who is shown to be appr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

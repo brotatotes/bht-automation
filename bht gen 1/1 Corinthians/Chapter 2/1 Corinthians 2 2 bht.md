@@ -13,7 +13,7 @@ In this verse, the focus is on Paul's unwavering commitment to center his preach
 
 (Note: The total word count of the quotes is 68 words)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only definite thing that I made it my business to know among you, was to know Jesus Christ (His person) and Him crucified (His office)" [ALFORD].
 2. "The historical fact of Christ's crucifixion had probably been put less prominently forward by the seekers after human wisdom in the Corinthian church, to avoid offending learned heathens and Jews."
 3. "Christ's person and Christ's office constitute the sum of the Gospel."
@@ -59,4 +59,4 @@ In this verse, the focus is on Paul's unwavering commitment to center his preach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, commentators highlight the need for vigilance against Satan
 
 3. "The personality and agency of the Adversary can hardly be recognized in plainer terms than in both these passages."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That we may have no advantage gained over us by Satan."
 2. "The loss of a single sinner is a common loss."
 3. "We are not without knowledge of his knowing schemes."
@@ -59,4 +59,4 @@ In this Bible verse, commentators highlight the need for vigilance against Satan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

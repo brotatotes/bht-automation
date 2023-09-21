@@ -9,7 +9,7 @@ In this intriguing passage, we witness the interaction between the Roman authori
 2. "According to tradition, the Sanhedrim ceased to hold their sessions in the temple about twenty-six years before this period."
 3. "Their present council-room was in the upper city, near the foot of the bridge leading across the ravine from the western cloister of the temple."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power to order a Sanhedrim to try this case, assumed by the Roman officers and acquiesced in on their part."
 2. "The chief priests and their council were commanded to appear, indicating the formal convening of the Sanhedrim."
 3. "This verse highlights the interaction between the Roman authorities and the Jewish religious leaders, showcasing the delicate balance of power and authority in the context of Jesus' trial."
@@ -45,4 +45,4 @@ In this intriguing passage, we witness the interaction between the Roman authori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

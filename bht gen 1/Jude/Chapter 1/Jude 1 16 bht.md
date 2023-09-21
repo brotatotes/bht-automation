@@ -9,7 +9,7 @@ The verse describes a group of individuals who constantly find fault with their 
 2. "Their mouth speaking great swelling things, admiring men's persons."
 3. "For the sake of advantage, holding mere outward appearances, dignities, of men in admiration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The secret of their murmuring and complaining is the restless insatiability of their desires."
 2. "Great swelling words - men's persons - their mere outward appearance and rank."
 3. "While they talk great swelling words, they are really mean and fawning towards those of wealth and rank."
@@ -59,4 +59,4 @@ The verse describes a group of individuals who constantly find fault with their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

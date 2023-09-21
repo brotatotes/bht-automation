@@ -4,7 +4,7 @@
 This letter, written by the apostle Peter, is sent by Silvanus, a faithful messenger and minister of the Gospel who preached to the churches. It is intended to confirm the true grace of God taught by Paul. Peter commends Silvanus as a reliable brother and messenger. The purpose of the letter is to reinforce obedience to the Gospel, ensuring that the readers firmly hold the grace of God and stand in it without any doubt. Peter's testimony endorses the teaching of Paul and affirms that this is the authentic gospel of God's grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Silvanus—Silas, the companion of Paul and Timothy: a suitable messenger by whom to confirm, as Peter here does, Paul's doctrine of 'the true grace of God' in the same churches."
 2. "Silvanus may have stood in a close relation to the churches in Asia, perhaps having taken the oversight of them after Paul's departure, and had afterwards gone to Peter, by whom he is now sent back to them with this Epistle."
 3. "The grace wherein we stand must be true, and our standing in it true also."
@@ -50,4 +50,4 @@ This letter, written by the apostle Peter, is sent by Silvanus, a faithful messe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

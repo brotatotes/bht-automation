@@ -4,7 +4,7 @@
 In this verse, Jesus tells a parable about the vineyard owner who will come and destroy the wicked husbandmen. This destruction signifies complete annihilation and is a severe judgment for those who reject God's authority. The religious leaders, upon hearing this, vehemently deny their involvement, not wanting to be implicated in such a crime. However, Jesus affirms that they will indeed carry out the prophesied rejection and killing of the heir. This parable serves as a warning of the consequences faced by those who oppose God's will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This answer was given by the Pharisees themselves, thus pronouncing their own righteous doom."
 2. "The kingdom of God should be taken from them, and given to a nation bringing forth the fruits thereof."
 3. "His whole meaning now bursting upon them."
@@ -40,4 +40,4 @@ In this verse, Jesus tells a parable about the vineyard owner who will come and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse acts as a powerful reminder that as followers of Christ, we will face
 2. "These things shall be the very beginning of the actual pangs themselves."
 3. "The whole difficulty has arisen from not rightly apprehending the force of ὠδίνων, as the death-throes of the end."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The book of Acts verifies all this." This quote suggests that the events described in the verse are supported by the book of Acts, providing historical evidence for their occurrence.
 
 2. "Brought before." This phrase implies that the individuals mentioned in the verse were presented or brought in front of someone, indicating a formal or legal process.
@@ -50,4 +50,4 @@ These quotes collectively illustrate the imminent persecution and suffering that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

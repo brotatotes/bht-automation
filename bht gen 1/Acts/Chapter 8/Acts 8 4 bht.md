@@ -9,7 +9,7 @@ The verse being described is Acts 8:4, which states, "Those who had been scatter
 2. "εὐαγγ. τ. λόγ.] Here first we become acquainted with the missionary language so frequent in the rest of the book."
 3. "τὸν λόγον, an expression very familiar among Christians when the book was written, for [the fuller one which must have prevailed at first] τ. λ. τοῦ θεοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that were scattered abroad went everywhere preaching" - This verse highlights the obedience of the believers in spreading the Gospel, even in the face of persecution. It emphasizes the importance of taking the message of Jesus to all corners of the world.
 
 2. "How often has the rage of Christ's enemies thus 'turned out rather unto the furtherance of the Gospel'" - This quote acknowledges the paradoxical nature of persecution, where the opposition faced by believers can actually lead to the advancement of the Gospel. It demonstrates how God can use even the most challenging circumstances for His purposes.
@@ -53,4 +53,4 @@ The verse being described is Acts 8:4, which states, "Those who had been scatter
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

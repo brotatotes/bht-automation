@@ -4,7 +4,7 @@
 The verse being described is a warning against following one's own selfish desires, prioritizing physical pleasures, and being consumed by worldly pursuits. It emphasizes the dire consequences that await those who indulge in sinful behavior, the spiritual emptiness that comes from prioritizing earthly desires over heavenly things, and the need to set our minds on the eternal instead of the temporary.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "destruction—everlasting at Christ's coming."
 2. "whose god is their belly—destroyed by God."
 3. "glory is in their shame—answers to 'whose God,' in the parallel clause."
@@ -57,4 +57,4 @@ These quotes highlight the consequences of bad principles and practices, the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

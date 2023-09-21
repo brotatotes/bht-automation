@@ -9,7 +9,7 @@ The temple described in the commentary is not a physical structure, but rather t
 2. "Are ye ignorant that... an expression of surprise arising out of their conduct."
 3. "Paul does not conceive... of the various churches as various temples of God, but of each Christian church as, sensu mystico, the temple of Jehovah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye are the temple" - Christians collectively form one vast temple, the spiritual dwelling place of God. 
 
 2. "The only one is the spiritual temple, the whole body of believing worshippers in which the Holy Spirit dwells" - The indwelling of God and the Holy Spirit are one, emphasizing the divine presence within believers. 
@@ -63,4 +63,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described here speaks of the significance of having the word of God abiding in oneself. Commentators highlight that this word refers not only to the Scriptures, but also to the testimony and revelation of God in various forms. They emphasize that truly believing and receiving this word allows it to take root and dwell within individuals, resulting in a deep understanding, obedience, and transformation. It is through this abiding word that believers find guidance, wisdom, and the ability to bear witness to the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not his word abiding in you" - The commentary highlights the rejection of Jesus by emphasizing that the religious leaders did not have the word of God abiding in them. This suggests that their lack of understanding and acceptance of Jesus was due to their failure to truly internalize and live by the teachings of the Scriptures.
 
 2. "passing now from the Witness to the testimony borne by Him" - This quote emphasizes the transition from the previous discussion about the witness of John the Baptist to the testimony given by Jesus himself. It suggests that Jesus' words and actions were a powerful testimony to his identity and mission.
@@ -54,4 +54,4 @@ Overall, the commentary highlights the significance of the rejection of Jesus by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

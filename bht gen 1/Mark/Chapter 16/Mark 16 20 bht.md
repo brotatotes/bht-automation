@@ -9,7 +9,7 @@ The apostles, fueled by divine partnership and the help of the Lord, spread the 
 2. "The Lord, i.e. Jesus."
 3. "The inference therefore seems to me to be, that it is an authentic fragment, placed as a completion of the Gospel in very early times."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord working with them" - This phrase emphasizes the divine partnership between the disciples and Jesus, highlighting the active involvement of God in their preaching efforts.
 2. "Confirming the word with signs following" - This statement underscores the authenticity and power of the disciples' message, as it was accompanied by miraculous signs that validated the truth of their words.
 3. "Lo, I am with you always!" - This promise from Jesus assures the disciples (and by extension, all believers) of His constant presence and support, providing comfort and encouragement as they carry out their mission.
@@ -57,4 +57,4 @@ The apostles, fueled by divine partnership and the help of the Lord, spread the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

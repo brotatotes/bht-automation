@@ -9,7 +9,7 @@ Being led by the Spirit empowers believers to live in holiness, free from the bo
 2. "If then ye are led by the Spirit, ye are not under the law." 
 3. "This interpretation is better than the merely practical one of Chrys., al., for it is a very different thing οὐ δεῖσθαι νόμου, from οὐκ εἶναι ὑπὸ νόμον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye are led (give yourselves up to be led) by the Spirit, ye are not under the law." - This quote highlights the freedom from the law that comes from being led by the Spirit. It emphasizes that when one follows the guidance of the Spirit, they are no longer bound by the constraints of the law.
 
 2. "For ye are not working the works of the flesh which bring one 'under the law'." - This quote emphasizes the contrast between the works of the flesh and the freedom from the law. It suggests that by avoiding the works of the flesh, one can avoid being under the law and its consequences.
@@ -59,4 +59,4 @@ These quotes highlight the role of the Spirit in guiding and leading believers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

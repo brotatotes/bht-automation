@@ -4,7 +4,7 @@
 In this verse, we are reminded to strengthen the remaining graces within us and revive the dying fruits of the Spirit. The church is encouraged to watch over themselves and hold onto the truths of the Gospel, for they may be on the brink of extinction. Despite a low state of religion, there are still vestiges of life within that need to be preserved and established. We must be vigilant and avoid falling into the sin of spiritual pride, so that our works may measure up to God's standard.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strengthen those thy remaining few graces, which, in thy spiritual deadly slumber, are not yet quite extinct."
 2. "The two oldest manuscripts read, 'were ready,' literally, 'were about to die,' namely, at the time when you 'strengthen' them."
 3. "Weighed in the balance of Him who requires living faith as the motive of works, and found wanting."
@@ -38,4 +38,4 @@ In this verse, we are reminded to strengthen the remaining graces within us and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, it is emphasized that Christ became human in order to destroy the
 2. "But for those who are not united to Him, death, retaining its character of a punishment for sin, retains also therewith all its manifold terrors."
 3. "These persons whom Christ died to free, were all subject to this bondage induced by the fear of death. And these in fact were, all mankind; to whom the potential benefit of Christ’s death extends."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who has thus been shown to be the 'Captain of salvation' to the 'many sons,' by trusting and suffering like them, must therefore become man like them, in order that His death may be efficacious for them."
 2. "The inner and more important element, the blood, as the more immediate vehicle of the soul, stands before the more palpable element, the flesh; also, with reference to Christ's blood-shedding with a view to which He entered into community with our corporeal life."
 3. "Christ made Himself a sort of hook to destroy the devil; for in Him there was His humanity to attract the devourer to Him, His divinity to pierce him, apparent weakness to provoke, hidden power to transfix the hungry ravisher."
@@ -57,4 +57,4 @@ These quotes highlight the significance of Jesus becoming human, his purpose to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

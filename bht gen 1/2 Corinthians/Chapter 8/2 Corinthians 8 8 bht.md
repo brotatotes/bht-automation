@@ -9,7 +9,7 @@ In this verse, the speaker urges the Corinthians to give generously and willingl
 2. "κατʼ ἐπιτ.] not, ‘in consequence of a command from God,’ as Dr. Burton, but, by way of command (1Co 7:6)."
 3. "διὰ τῆς is not = διὰ τήν, ‘by occasion of,’ as E. V.: but treats the ἑτέρων σπουδή as the instrument by which, in the way of emulation, the effect was to be produced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
 2. "By means of the forwardness of others, proving the sincerity of your love."
 3. "The former is the simpler construction in the Greek."
@@ -50,4 +50,4 @@ In this verse, the speaker urges the Corinthians to give generously and willingl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

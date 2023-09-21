@@ -9,7 +9,7 @@ In this Bible verse, a careful counting takes place after a miraculous event, sy
 2. "The careful counting which took place after the event."
 3. "Herein differing from what happened Luke 5:6, when it was broken."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The multitude and the size of the fishes they caught symbolically foreshadowed the vast success of their now fast approaching ministry, and this only as a beginning of successive draughts, through the agency of a Christian ministry, till, 'as the waters cover the sea, the earth should be full of the knowledge of the Lord.'"
 
 2. "And whereas, at the first miraculous draught, the net 'was breaking' through the weight of what it contained—expressive of the difficulty with which, after they had 'caught men,' they would be able to retain, or keep them from escaping back into the world—while here, 'for all they were so many, yet was not the net broken,' are we not reminded of such sayings as these: 'I give unto My sheep eternal life, and they shall never perish, neither shall any pluck them out of My hand' [LUTHARDT]?"
@@ -45,4 +45,4 @@ In this Bible verse, a careful counting takes place after a miraculous event, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In Acts, a man named Ananias was confronted by Peter for deceiving the Holy Ghos
 2. "He put it in his heart, placed it there where the springs of action are, and it passed out into an act."
 3. "Thine attempt to deceive was not to deceive us, men; but to deceive the Holy Ghost, God, abiding in His church, and in us its appointed superintendents."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We see how purely voluntary were all these sacrifices for the support of the infant community."
 2. "The lie was rather told to Him: language clearly implying both the distinct personality and the proper divinity of the Holy Ghost."
 3. "Language clearly implying both the distinct personality and the proper divinity of the Holy Ghost."
@@ -53,4 +53,4 @@ In Acts, a man named Ananias was confronted by Peter for deceiving the Holy Ghos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

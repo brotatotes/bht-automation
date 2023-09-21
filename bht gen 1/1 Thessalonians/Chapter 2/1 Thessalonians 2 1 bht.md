@@ -9,7 +9,7 @@ In this passage, various commentators shed light on the context and themes of th
 2. "It is evident...that this does not here apply to the fruits, but to the character of his preaching."
 3. "It probably expresses, that his εἴσοδος was and continued 'no empty scheme', but an earnest, bold, self-denying endeavor for their good."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only do strangers report it, but you know it to be true." 
 2. "It was full of 'power'." 
 3. "The permanent and continuing character of his preaching."
@@ -59,4 +59,4 @@ In this passage, various commentators shed light on the context and themes of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

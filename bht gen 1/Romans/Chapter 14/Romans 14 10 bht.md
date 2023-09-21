@@ -11,7 +11,7 @@ In this passage, the commentators emphasize the need for believers to refrain fr
 2. "The fact of Origen once citing it, decides nothing, in the presence of the expression βήματος τοῦ χριστοῦ in 2 Cor."
 3. "It seems probable that χριστοῦ has been substituted for θεοῦ in the later MSS. from 2 Corinthians 5:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But thou (the weaker believer), why judgest thou thy brother? And thou again (the stronger), why despisest thou thy brother?" - The commentary highlights the dynamic between the weaker and stronger believers, emphasizing the need for mutual understanding and respect.
 
 2. "For we shall all stand before the judgment-seat of Christ" - The commentary emphasizes the universal accountability of all believers before the judgment-seat of Christ, reminding readers of the ultimate authority and justice of God.
@@ -63,4 +63,4 @@ Note: The commentary seems to be referring to Romans 14:10-13, where the apostle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

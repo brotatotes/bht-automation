@@ -9,7 +9,7 @@ In this verse, we encounter Jesus extending an inviting and gracious offer to th
 2. "ἵνα διὰ τῆς ἐρωτήσεως οἰκειώσηται τούτους" - In order to familiarize them through questioning. [34]
 3. "εἰκὸς γὰρ αὐτοὺς ἐρυθριᾶν ἔτι καὶ ἀγωνιᾶν , ὡς ἀγνῶτας" - It is fitting for them to blush and struggle, as ignorant. [34]
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Come and see—His second utterance, more winning still." 
 2. "The hour is mentioned to show why they stayed out the day with him—because little of it remained." 
 3. "according to Jewish reckoning, which John follows."
@@ -44,4 +44,4 @@ In this verse, we encounter Jesus extending an inviting and gracious offer to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

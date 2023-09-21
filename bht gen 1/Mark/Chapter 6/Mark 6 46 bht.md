@@ -9,7 +9,7 @@ In a moment of solitude, Jesus withdrew to a mountain to pray, seeking communion
 2. "ἀποτάσσομαί σοι , ἔκφυλον πάνυ." 
 3. "χρὴ γὰρ λέγειν , ἀσπάζομαί σε."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He departed into a mountain to pray—thus at length getting that privacy and rest which He had vainly sought during the earlier part of the day." 
 2. "Opportunity also to pour out His soul in connection with the extraordinary excitement in His favor that evening." 
 3. "A place whence He might watch the disciples on the lake, pray for them in their extremity, and observe the right time for coming to them, in a new manifestation of His glory, on the sea."
@@ -37,4 +37,4 @@ In a moment of solitude, Jesus withdrew to a mountain to pray, seeking communion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

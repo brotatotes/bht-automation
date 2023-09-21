@@ -9,7 +9,7 @@ In this Bible verse, we learn that God has bestowed great honor and dignity upon
 2. "Man, who was left not far behind the divine attributes themselves, was also invested with kingly majesty on earth, put into the place of God Himself in sovereignty over the world." 
 3. "The angelic nature, being the lowest of that which is divine and heavenly, marks well the terminus just beneath which man is set."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Man, in his original creation, was set next beneath them." 
 2. "The man Jesus, though Lord of angels, when He emptied Himself of the externals of His Divinity, was in His human nature 'a little lower than the angels'." 
 3. "Crownedst him with glory and honour as the appointed kingly vicegerent of God over this earth."
@@ -43,4 +43,4 @@ In this Bible verse, we learn that God has bestowed great honor and dignity upon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

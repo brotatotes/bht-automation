@@ -11,7 +11,7 @@ In this verse, the psalmist, with deep anguish, cries out to God for deliverance
 
 Note: The commentary is not complete and may not make complete sense without further context.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "eaten me up—a glorious feature in the predicted character of the suffering Messiah" - This quote highlights the significance of the Messiah's suffering and how it is a glorious aspect of his character.
 
 2. "rising high even in some not worthy to loose the latchet of His shoes" - This quote emphasizes the exalted status of the Messiah, even surpassing those who are considered unworthy to perform the lowliest of tasks for him.
@@ -61,4 +61,4 @@ Note: The commentary provided does not provide much context or explanation for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

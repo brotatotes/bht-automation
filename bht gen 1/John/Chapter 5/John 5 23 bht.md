@@ -9,7 +9,7 @@ The verse being described emphasizes the equal honor and divine authority of Jes
 2. "He (the Son) is the Lord of life and the Judge of the world." 
 3. "Whosoever does not honor the Son with equal honor to that of the Father does not honor God at all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As he who believes that Christ in the foregoing verses has given a true account of His relation to the Father must of necessity hold Him entitled to the same honor as the Father."
 2. "It was the Father's express intention in making over all judgment to the Son, that men should thus honor Him."
 3. "He who does not honor the Son, does not honor the Father in fact, whatever he may imagine, and will be held as not doing it by the Father Himself."
@@ -53,4 +53,4 @@ The verse being described emphasizes the equal honor and divine authority of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

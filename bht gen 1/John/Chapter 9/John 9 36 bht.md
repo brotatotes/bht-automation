@@ -9,7 +9,7 @@ This seeker, driven by an eagerness to believe in the Son of God, seeks further 
 2. "True to his simple and guileless character, he asks for further information about Him." 
 3. "See reff. and Mark 10:26."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His reply is affirmative, and believing by anticipation, promising faith as soon as Jesus shall say who He is."
 2. "Believing by anticipation, promising faith as soon as Jesus shall say who He is."
 3. "Promising faith as soon as Jesus shall say who He is."
@@ -55,4 +55,4 @@ This seeker, driven by an eagerness to believe in the Son of God, seeks further 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

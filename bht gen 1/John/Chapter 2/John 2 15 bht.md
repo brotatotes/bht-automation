@@ -9,7 +9,7 @@ In this verse, Jesus enters the temple and drives out the animals, merchants, an
 2. "No other way was open with regard to them, than to order them to take their birds away."
 3. "This cleansing of the temple was in the direct course of His manifestation as the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not by this slender whip but by divine majesty was the ejection accomplished, the whip being but a sign of the scourge of divine anger" [GROTIUS].
 2. "Poured out... overthrew—thus expressing the mingled indignation and authority of the impulse."
 3. "The small cords used to tie up the cattle there collected."
@@ -48,4 +48,4 @@ In this verse, Jesus enters the temple and drives out the animals, merchants, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

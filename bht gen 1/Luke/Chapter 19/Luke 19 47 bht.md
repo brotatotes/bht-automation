@@ -4,7 +4,7 @@
 Jesus, with unwavering commitment and love, continuously sought those in need. He displayed dedication and persistence by actively reaching out to people, meeting them where they were. His daily presence in the temple demonstrated accessibility and availability, reflecting his desire for relationship and his commitment to spreading the truth. Despite the threat of opposition and hostility from religious authorities, Jesus remained steadfast in fulfilling his mission and teaching the despised multitude.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus' seeking was not a one-time event, but a continuous and ongoing action. He did not give up or grow weary in his pursuit of those who needed him. This demonstrates his unwavering commitment and love for humanity."
 
 2. "The fact that Jesus sought daily shows his dedication and persistence in reaching out to people. He did not wait for them to come to him, but actively went after them, meeting them where they were. This highlights his proactive approach to ministry."
@@ -37,4 +37,4 @@ Jesus, with unwavering commitment and love, continuously sought those in need. H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

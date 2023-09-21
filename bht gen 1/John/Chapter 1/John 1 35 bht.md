@@ -9,7 +9,7 @@ In this verse, we see the continuation of the narrative, with John the Baptist a
 2. "What they then heard seems to have made a powerful impression on their minds."
 3. "The repetition of the notice is now the signal for them to follow Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John stood at his accustomed place" - This highlights John's consistency and dedication in his role as a witness. He was steadfast and reliable, always present and ready to fulfill his purpose.
 
 2. "John stood" - This simple phrase emphasizes John's readiness and alertness. He was not passive or idle, but actively engaged in his mission to bear witness to the truth.
@@ -42,4 +42,4 @@ In this verse, we see the continuation of the narrative, with John the Baptist a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

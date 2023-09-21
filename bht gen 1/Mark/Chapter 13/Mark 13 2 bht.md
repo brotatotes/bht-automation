@@ -4,7 +4,7 @@
 The commentators describe a prophecy of the complete destruction of a magnificent and durable building. They emphasize the gradual and remarkable demolition that will leave no stone upon another. This prophecy serves as a sign of the end times and reminds us of the transient nature of earthly things. The immense strength and grandeur of the building are acknowledged, but its ultimate fate is sealed, highlighting the importance of focusing on the eternal rather than the temporary.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye call My attention to these things? I have seen them. Ye point to their massive and durable appearance: now listen to their fate."
 2. "There shall not be left one stone upon another, that shall not be thrown down."
 3. "Titus ordered the whole city and temple to be demolished; Eleazar wished they had all died before seeing that holy city destroyed by enemies' hands, and before the temple was so profanely dug up."
@@ -37,4 +37,4 @@ The commentators describe a prophecy of the complete destruction of a magnificen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

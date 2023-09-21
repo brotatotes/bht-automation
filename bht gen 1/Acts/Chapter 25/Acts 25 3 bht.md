@@ -9,7 +9,7 @@ In this Bible verse, a dangerous plot against Paul is revealed. The individuals 
 2. "ποιοῦντες, not for ποιήσοντες" - This distinction highlights that the individuals were not merely planning or intending to carry out the ambush, but were actively engaged in the process of making and contriving it.
 3. "The country was... full of sicarii" - This historical context from Josephus' Antiquities of the Jews reveals that the region mentioned in the verse was known for being filled with hired assassins, emphasizing the dangerous and volatile situation at that time.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It would seem that they had the insolence to ask him to have the prisoner executed even without a trial."
 2. "How deep must have been their hostility, when two years after the defeat of their former attempt, they thirst as keenly as ever for his blood!"
 3. "Their plea for having the case tried at Jerusalem, where the alleged offense took place, was plausible enough; but from Acts 25:10 it would seem that Festus had been made acquainted with their causeless malice."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

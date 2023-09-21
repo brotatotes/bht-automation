@@ -4,7 +4,7 @@
 The verse being described speaks of the happiness of those whose sins are forgiven and covered by the veil of divine mercy. It signifies the true joy and contentment that comes from experiencing the manifestation of God's pardon. With this forgiveness, one can endure life's challenges with cheerfulness and approach death with comfort, knowing that their iniquities have been wiped away.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "David here sings in express terms only of 'transgression forgiven, sin covered, iniquity not imputed'." 
 2. "As the negative blessing necessarily includes the positive, the passage is strictly in point." 
 3. "The passage highlights the comprehensive nature of God's forgiveness, covering all aspects of transgression, sin, and iniquity."
@@ -45,4 +45,4 @@ These quotes highlight the happiness and blessedness of those whose sins are for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

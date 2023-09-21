@@ -9,7 +9,7 @@ In this passage, commentators discuss the contrasting nature and roles of the fi
 2. "Nor does this militate against his teaching that death came into the world through sin. Romans 5:12. For had our first parents not sinned, they would have remained in Paradise, and would, by the use of the Tree of Life, which God had not forbidden them (Gen 2:16-17), have become immortal (Gen 3:22)." 
 3. "But they were driven out of Paradise, ere yet they had tasted of this tree (Gen 3:22), and so, according to the record in Genesis also, Death came into the world by sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Adam" means red earth.
 2. Humanity in Christ is generic. In Him man is impersonated in his true ideal as God originally designed him.
 3. Christ is the representative man, the federal head of redeemed man.
@@ -55,4 +55,4 @@ These quotes highlight the contrast between the first man (Adam) and the second 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

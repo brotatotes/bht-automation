@@ -4,7 +4,7 @@
 In this verse, the emphasis is on salvation from various enemies. These enemies include sin, which poses a threat to the soul and seeks its destruction, as well as Satan, the persistent adversary of humanity. The deliverance spoken of extends beyond physical foes to encompass liberation from the world's enmity and the bondage of the law. It also highlights the ultimate victory over death, the final enemy to be conquered. This salvation is not only a political or external one, but a profound transformation that safeguards against spiritual, emotional, and physical harm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is not a word in this noble burst of divine song about his own child; like Elisabeth losing sight entirely of self, in the glory of a Greater than both."
 2. "Lord God of Israel—the ancient covenant God of the peculiar people."
 3. "In the Old Testament, God is said to 'visit' chiefly for judgment, in the New Testament for mercy."
@@ -35,4 +35,4 @@ In this verse, the emphasis is on salvation from various enemies. These enemies 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

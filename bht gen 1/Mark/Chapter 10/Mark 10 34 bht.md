@@ -9,7 +9,7 @@ In this verse, we find the first clear indication of Jesus' impending death, whi
 2. "The ἄρας τὸν στ., so often alluded to, might have had now for them a deep meaning."
 3. "After τοῖς ἔθν., the subject of the verbs is τὰ ἔθνη."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The meaning of the words they could be at no loss to understand, but their import in relation to His Messianic kingdom they could not penetrate." 
 2. "That they should have clung so tenaciously to the popular notion of an 'unsuffering' Messiah, may surprise us; but it gives inexpressible weight to their after-testimony to a suffering and dying Saviour."
 3. "Singularly explicit as this announcement was, Luke says 'they understood none of these things; and this saying was hid from them, neither knew they the things which were spoken.'"
@@ -30,4 +30,4 @@ In this verse, we find the first clear indication of Jesus' impending death, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

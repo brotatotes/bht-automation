@@ -9,7 +9,7 @@ In this verse, a powerful symbol of judgment and vengeance, represented by an ea
 2. "the ungodly world, as distinguished from the church" - The woe is directed towards those who dwell upon the earth, referring to the ungodly world outside of the church. (Quote 2)
 3. "the source whence the woe springs" - The woe is a result of the remaining voices of the trumpet, indicating the source of the impending judgment. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An eagle: the symbol of judgment descending fatally from on high; the king of birds pouncing on the prey." 
 2. "John is compared in the cherubim (according to the primitive interpretation) to a flying eagle: Christ's divine majesty in this similitude is set forth in the Gospel according to John, His judicial visitations in the Revelation of John." 
 3. "The ungodly, the 'men of the world,' whose 'portion is in this life,' upon whom the martyrs had prayed that their blood might be avenged. Not that they sought personal revenge, but their zeal was for the honor of God against the foes of God and His Church."
@@ -50,4 +50,4 @@ Note: The commentary is about Revelation 8:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

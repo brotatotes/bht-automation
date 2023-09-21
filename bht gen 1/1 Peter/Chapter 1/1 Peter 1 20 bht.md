@@ -9,7 +9,7 @@ This verse speaks of the profound nature of God's plan of redemption through Chr
 2. "Who hath been foreordained indeed before the foundation of the world."
 3. "Manifested at the end of the times for your sakes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's eternal foreordination of Christ's redeeming sacrifice...are an additional obligation on us to our maintaining a holy walk, considering how great things have been thus done for us."
 2. "Redemption was no afterthought, or remedy of an unforeseen evil, devised at the time of its arising."
 3. "God's foreordaining of the Redeemer refutes the slander that, on the Christian theory, there is a period of four thousand years of nothing but an incensed God."
@@ -52,4 +52,4 @@ These quotes provide insights into the preexistence of Christ, God's foreknowled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

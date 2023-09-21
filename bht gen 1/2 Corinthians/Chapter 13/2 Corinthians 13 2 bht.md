@@ -11,7 +11,7 @@ The verse described in the commentaries highlights the writer's firm stance on a
 2. "The προείρηκα (perf. because the warning yet endured in force) refers to his second visit, and the προλέγω to his present condition of absence."
 3. "All the rest of you, who may not have actually sinned, but still require warning, on account of your own personal danger, connection with the προημαρτηκότες, etc."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have already said (at my second visit), and tell you (now) beforehand, AS (I did) WHEN I WAS PRESENT THE SECOND TIME, SO also NOW in my absence."
 2. "The antithesis between 'the second time' and 'now' is palpable."
 3. "These were probably the very words of his former threat which he now repeats again."
@@ -63,4 +63,4 @@ The verse described in the commentaries highlights the writer's firm stance on a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

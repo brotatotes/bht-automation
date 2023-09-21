@@ -4,7 +4,7 @@
 The Bible verse being described is one that emphasizes the importance of the condition of the heart in receiving and understanding the word of God. It highlights the reality of spiritual warfare and the presence of a personal enemy, symbolized by the devil, who seeks to hinder the reception and growth of the word. This verse also underscores the significance of internalizing the word, as those who merely hear it casually and without genuine willingness are easily distracted and forget what they have heard.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The great truth here taught is, that hearts all unbroken and hard are no fit soil for saving truth."
 2. "They apprehend it not as God's means of restoring them to Himself."
 3. "It penetrates not, makes no impression, but lies loosely on the surface of the heart, till the wicked one finds some frivolous subject by whose greater attractions to draw off the attention, and straightway it is gone."
@@ -30,4 +30,4 @@ The Bible verse being described is one that emphasizes the importance of the con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

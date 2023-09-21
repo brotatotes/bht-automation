@@ -9,7 +9,7 @@ The Bible verse being described in this paragraph is a passage that uses allegor
 2. "The only thing which really does create any difficulty in my mind, is, that Commentators with spiritual discernment, and appreciation of such a man as our Apostle, should content themselves with quietly casting aside his Scripture interpretation wherever, as here, it passes their comprehension."
 3. "The lesson to be drawn from this whole passage, as regards the Christian use of the O. T., is of an importance which can scarcely be overrated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These [women] are (that is, mean; omit 'the' with all the oldest manuscripts) two covenants."
 2. "The children of the free covenant of promise, answering to Sarah, are free; the children of the legal covenant of bondage are not so."
 3. "At the gloomy scene of the giving of the Law, he learned to appreciate, by contrast, the grace of the Gospel, and so to cast off all his past legal dependencies."
@@ -55,4 +55,4 @@ The Bible verse being described in this paragraph is a passage that uses allegor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

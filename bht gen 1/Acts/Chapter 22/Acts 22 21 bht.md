@@ -11,7 +11,7 @@ In the midst of Paul's desire to bring the Gospel to his fellow Jews, a vision f
 
 3. "This vision underscores the divine authority behind Paul's mission, emphasizing that his calling to the Gentiles was not a mere human decision, but a divine imperative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Depart for I will send thee far hence unto the Gentiles" - This quote highlights the redirection of the Apostle Paul's mission from focusing solely on Jerusalem to reaching out to the Gentiles. It emphasizes the significance of spreading the message of Christianity beyond the Jewish community.
 
 2. "Enough; thy testimony is not to be thrown away upon Jerusalem" - This quote suggests that the rejection of Paul's message by the Jews in Jerusalem led to a shift in his mission. It implies that Paul's efforts were better suited for reaching out to the Gentiles, who were more receptive to his teachings.
@@ -51,4 +51,4 @@ In the midst of Paul's desire to bring the Gospel to his fellow Jews, a vision f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

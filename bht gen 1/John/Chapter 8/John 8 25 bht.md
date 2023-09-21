@@ -9,7 +9,7 @@ In this verse, Jesus responds to the interrogations of the people, revealing the
 2. "λαλῶ will not bear this. It is never ‘to say’ simply, but ‘to discourse,’ or ‘to hold converse,’ ‘to speak.’"
 3. "He is the λόγος. His discourses are the revelation of Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who art thou?" - This question reveals the curiosity and skepticism of the people, as they hope to extract an explicit answer from Jesus. 
 
 2. "Hoping thus to extort an explicit answer" - The people's intention is to force Jesus to reveal his true identity and intentions, but they are ultimately disappointed in their quest for a straightforward response. 
@@ -57,4 +57,4 @@ In this verse, Jesus responds to the interrogations of the people, revealing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

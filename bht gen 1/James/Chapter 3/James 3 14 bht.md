@@ -13,7 +13,7 @@ In this verse, commentators emphasize the importance of maintaining a righteous 
 
 Note: The provided commentary is quite lengthy, but I have extracted three quotes that meet the requirements.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Kindly, generous emulation, or zeal, is not condemned, but that which is 'bitter'." 
 2. "To boast of your wisdom is virtually a lying against the truth (the gospel), while your lives belie your glorying." 
 3. "The same contentious Jewish Christians."
@@ -59,4 +59,4 @@ Note: The provided commentary is quite lengthy, but I have extracted three quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

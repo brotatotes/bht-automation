@@ -4,7 +4,7 @@
 In this Bible verse, individuals are encouraged to use their spiritual gifts, particularly the gift of prophecy, in a sequential and orderly manner. The verse emphasizes the accessibility of these gifts to all believers, highlighting the importance of individual participation and mutual respect. The purpose of prophesying is not self-promotion but to bring comfort and edification to others. The verse underscores the significance of learning and growth within the community, emphasizing the interactive nature of sharing and receiving spiritual gifts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ye can [if ye will] all prophesy one by one," - This quote highlights the potential for everyone to prophesy, emphasizing the inclusivity and accessibility of spiritual gifts.
 2. "giving way to one another" - This phrase emphasizes the importance of humility and mutual respect in the exercise of spiritual gifts, encouraging believers to yield to one another in order to create a harmonious and orderly environment.
 3. "let the first hold his peace" - This instruction reminds individuals to patiently wait their turn and not to dominate or interrupt others, promoting a spirit of self-control and consideration for others.
@@ -47,4 +47,4 @@ In this Bible verse, individuals are encouraged to use their spiritual gifts, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

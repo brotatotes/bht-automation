@@ -4,7 +4,7 @@
 This verse emphasizes the universal scope of Paul's witness, highlighting that his testimony is not limited to a specific group but extends to all people. It underscores the importance of spreading the message of Christ to everyone, regardless of their background. Paul's witness is not based on hearsay but on firsthand experience, as he personally saw and heard Jesus, making his testimony reliable and trustworthy. His encounter with Jesus resulted in him receiving the Gospel directly from Him, highlighting the divine origin and authenticity of his teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of our fathers hath chosen thee" - This phrase emphasizes the continuity between the old and new economies, highlighting that the new economy is not a separate entity but a continuation of God's plan.
 2. "Studiously linking the new economy upon the old" - This highlights the intentional connection between the old and new economies, suggesting that they are not separate or contradictory but rather part of a unified plan.
 3. "Both having one glorious Author" - This phrase underscores the idea that both the old and new economies have the same divine origin, emphasizing the unity and coherence of God's plan throughout history.
@@ -42,4 +42,4 @@ This verse emphasizes the universal scope of Paul's witness, highlighting that h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

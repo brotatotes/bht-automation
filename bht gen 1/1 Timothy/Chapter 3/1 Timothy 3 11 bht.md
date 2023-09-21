@@ -9,7 +9,7 @@ In this passage, commentators express their views on the qualities and roles of 
 2. "I decide then for (1): that these women are deaconesses."
 3. "grave, not slanderers, sober, faithful in all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For there is no reason that special rules should be laid down as to the wives of the deacons, and not also as to the wives of the bishops or overseers."
 2. "Thus it appears he requires the same qualifications in female deacons as in deacons, only with such modifications as the difference of sex suggested."
 3. "Faithful in all things—of life as well as faith. Trustworthy in respect to the alms committed to them and their other functions."
@@ -57,4 +57,4 @@ In this passage, commentators express their views on the qualities and roles of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

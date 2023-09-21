@@ -9,7 +9,7 @@ In this Bible verse, we see Jesus returning to His hometown, where He had been b
 2. "It was apparently the first time He had ever so taught in the synagogue at Nazareth."
 3. "The rising up was probably to show His wish to explain the Scripture; for so ἀναγν . imports."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As his custom was" - This phrase suggests that Jesus had a regular practice of attending the synagogue and participating in the reading of the Scriptures. It highlights his commitment to the Jewish religious traditions and his desire to engage with the community in worship.
 
 2. "Stood up for to read" - This action of standing up to read indicates Jesus' authority and respect for the Word of God. It demonstrates his willingness to take an active role in sharing and interpreting the Scriptures, showing his deep understanding and knowledge of the text.
@@ -55,4 +55,4 @@ In this Bible verse, we see Jesus returning to His hometown, where He had been b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

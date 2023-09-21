@@ -9,7 +9,7 @@ The verse described in these commentaries proclaims the exaltation of Jesus Chri
 2. "ὁ θεὸς ἐποίησεν, as before, is the ground-tone of the discourse."
 3. "The final clause sets in the strongest and plainest light the fact to which the discourse testifies ending with ὃν ὑμεῖς ἐσταυρώσατε, the remembrance most likely to carry compunction to their hearts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let all the house of Israel... know assuredly... that God hath made... this same Jesus, whom ye have crucified." 
 2. "To prove to them merely that Jesus was the Messiah might have left them all unchanged in heart."
 3. "But to convince them that He whom they had crucified had been by the right hand of God exalted, and constituted the 'LORD' whom David in spirit adored, to whom every knee shall bow, and the CHRIST of God, was to bring them to 'look on Him whom they had pierced and mourn for Him.'"
@@ -54,4 +54,4 @@ Note: The provided commentary is a compilation of various sentences and phrases 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

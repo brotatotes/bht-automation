@@ -9,7 +9,7 @@ In this Bible verse, we see a call for a thorough examination of the accused ind
 2. "The judge should be referred to the prisoner (for examination by torture on one who had already claimed his rights as a Roman citizen can hardly be intended) for the particulars laid to his charge."
 3. "Remarkably enough, we find Felix, Acts 24:22, putting off the trial till the arrival of Lysias."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here they insinuate that, instead of troubling Felix with the case, he ought to have left it to be dealt with by the Jewish tribunal; in which case his life would soon have been taken." 
 2. "By examining whom—Lysias, as would seem (Acts 24:22)." 
 3. "Referring all, as if with confidence, to Felix."
@@ -54,4 +54,4 @@ In this Bible verse, we see a call for a thorough examination of the accused ind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

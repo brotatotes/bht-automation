@@ -4,7 +4,7 @@
 The verse being described captures a significant moment after Jesus' betrayal, where He is handed over by Judas to a group of men and officers armed with swords and staves. It is noteworthy that this scene involves sinful men, and yet Jesus willingly puts Himself in their midst. This encounter is seen as necessary, as it aligns with God's decrees and the covenant commitments made by Christ. The gravity of this event is also underscored by angels referencing a specific sentence of Jesus, leading one to wonder why it wasn't fresh in the disciples' memory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How remarkable it is to hear angels quoting a whole sentence of Christ's to the disciples." 
 2. "Mentioning where it was uttered and wondering why it was not fresh in their memory." 
 3. "Doubtless it was in theirs."
@@ -23,4 +23,4 @@ The verse being described captures a significant moment after Jesus' betrayal, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

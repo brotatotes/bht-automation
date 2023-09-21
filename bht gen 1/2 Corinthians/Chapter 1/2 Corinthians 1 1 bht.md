@@ -9,7 +9,7 @@ In this passage, a commentator notes the relationship between Paul and Timothy, 
 2. "This, and the Epistle to the Galatians, were circular letters to all the believers in the respective countries."
 3. "The variation of expression in the two cases being accounted for by the circumstance that the matter of this Epistle concerned directly the church at Corinth, and indirectly all the saints in the province."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When writing to Timothy himself, he calls him 'my son'... He had been sent before to Macedonia, and had met Paul at Philippi... hence, the apostle was enabled to labor in the whole province of Achaia with such success as to establish several churches there." 
 2. "The Gentiles themselves, and Annæus Gallio, the proconsul, strongly testified their disapproval of the accusation brought by the Jews against Paul."
 3. "He addresses 'the Church in Corinth,' directly, and all 'the saints' in the province, indirectly."
@@ -55,4 +55,4 @@ In this passage, a commentator notes the relationship between Paul and Timothy, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

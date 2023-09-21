@@ -9,7 +9,7 @@ Amidst growing murmurs and wavering opinions among the multitude, the Pharisees,
 2. "The Sanhedrim (οἱ ἀρχ. κ. οἱ Φ.) send officers specially to lay hold on Him." 
 3. "The Pharisees' concern over the wavering of the multitude reveals their fear of losing control and influence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The murmuring of the people indicated their dissatisfaction and skepticism towards Jesus' actions, prompting Him to take action." 
 2. "The need to 'stop Him' suggests that the people were threatened by Jesus' influence and were determined to prevent Him from gaining more followers." 
 3. "This verse highlights the tension between Jesus' mission and the resistance He faced from those who opposed Him."
@@ -54,4 +54,4 @@ Amidst growing murmurs and wavering opinions among the multitude, the Pharisees,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -7,7 +7,7 @@ In this verse, the author expresses their unwavering devotion to prayer and thei
 ### Henry Alford:
 1. "If by any means...the end aimed at by it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Making request, if by any means now at length I may have a prosperous journey by the will of God, to come to you" - The author expresses his desire to visit the capital and acknowledges the obstacles he has faced in fulfilling this desire. (Romans 1:13; Romans 15:22)
 
 2. "Though long anxious to visit the capital, he met with a number of providential hindrances" - The author has been longing to visit the capital for a long time, but has faced various obstacles that were part of God's providential plan. (Romans 1:13; Romans 15:22)
@@ -59,4 +59,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

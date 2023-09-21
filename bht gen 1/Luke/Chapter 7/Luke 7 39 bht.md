@@ -9,7 +9,7 @@ In this Bible verse, a Pharisee invites Jesus as a guest but harbors doubts abou
 2. "The possibility of His knowing this and permitting it, never so much as occurs to him."
 3. "It was the touching by an unclean person which constituted the defilement. This is all that the Pharisee fixes on: his offence is merely technical and ceremonial."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Pharisee—who had formed no definite opinion of our Lord, and invited Him apparently to obtain materials for a judgment." 
 2. "Ha! I have Him now He plainly knows nothing of the person He allows to touch Him; and so, He can be no prophet." 
 3. "Not so fast, Simon; thou hast not seen through thy Guest yet, but He hath seen through thee."
@@ -38,4 +38,4 @@ In this Bible verse, a Pharisee invites Jesus as a guest but harbors doubts abou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

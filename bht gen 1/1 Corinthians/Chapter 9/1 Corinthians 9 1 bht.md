@@ -9,7 +9,7 @@ In this verse, the writer expresses his independence and apostolic authority, fi
 2. "His efficiency in the office, as having converted them to God."
 3. "They were his work as an Apostle, i.e. as the servant of the Lord enabled by the Lord, and SO IN THE LORD."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Am I not free? am I not an apostle?" - Paul emphasizes his freedom and apostolic authority, challenging the Corinthians to recognize his rights as an apostle.
 2. "I have seen Jesus" - Paul asserts that he has physically seen Jesus, highlighting the authenticity of his apostleship and his qualification as a witness of Christ's resurrection.
 3. "You are my work in the Lord" - Paul reminds the Corinthians that their conversion is a result of his work in the Lord, underscoring his role as an instrument in their spiritual transformation.
@@ -57,4 +57,4 @@ In this verse, the writer expresses his independence and apostolic authority, fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

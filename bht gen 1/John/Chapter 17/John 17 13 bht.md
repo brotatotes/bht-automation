@@ -9,7 +9,7 @@ In this verse, the speaker prays before departing from the world, expressing the
 2. "I pray this prayer in their hearing."
 3. "The reference to these words in 1 John 1:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such a strain befits rather the upper sanctuary than the scene of conflict." This quote highlights the extraordinary nature of Jesus' intercession for his followers. It suggests that his prayer is not just an ordinary request, but a divine act that transcends the earthly realm.
 
 2. "My joy, the joy I experience in knowing that such intercessions are to be made for them by their absent Lord." This quote emphasizes the deep joy that Jesus derives from interceding for his disciples. It reveals the profound love and care he has for them, even in his physical absence.
@@ -50,4 +50,4 @@ In this verse, the speaker prays before departing from the world, expressing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

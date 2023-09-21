@@ -9,7 +9,7 @@ In this verse, Jesus emphasizes that he does not seek or receive honor from men.
 2. "No such praise nor testimony accrues to Me." 
 3. "My glory is altogether from another source."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I receive not honour from men" - Jesus is highlighting the stark contrast between His purpose and the motives of those seeking human recognition. He is not driven by the desire for human applause or honor, but rather by a higher calling.
 
 2. "Contrasting His own end with theirs" - Jesus is drawing a clear distinction between His ultimate destiny and the goals of those seeking honor from men. While they may strive for earthly recognition, Jesus has a different purpose and outcome in mind.
@@ -52,4 +52,4 @@ In this verse, Jesus emphasizes that he does not seek or receive honor from men.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

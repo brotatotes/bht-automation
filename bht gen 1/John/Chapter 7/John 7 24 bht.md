@@ -9,7 +9,7 @@ In this verse, we are urged not to make hasty judgments based solely on outward 
 2. "κρίνετε implies habit in all your judgments." 
 3. "The aorist would enjoin right judgment on the present occasion, directing the attention on what had just happened."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judge not, &c.—that" - This quote highlights the importance of rising above the literal interpretation of the law and understanding its underlying spirit.
 
 2. "Rise above the letter" - This quote emphasizes the need to go beyond the surface meaning of the law and delve into its deeper significance.
@@ -56,4 +56,4 @@ In this verse, we are urged not to make hasty judgments based solely on outward 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

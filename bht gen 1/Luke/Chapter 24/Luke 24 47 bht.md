@@ -10,7 +10,7 @@ The Gospel message of repentance, forgiveness, and salvation in Christ extends t
 2. "See Acts 2:38; 'μετανοήσατε, καὶ βαπτισθήτω ἕκαστος ὑμῶν ἐπὶ τῷ ὀν. Ἰησοῦ χρ. εἰς ἄφεσιν ἁμαρτιῶν,' were the words of the first sermon preached at Jerusalem." 
 3. "The substance of the preaching of the Gospel literally corresponded to this description."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "beginning at Jerusalem—As the metropolis and heart of the then existing kingdom of God." 
 2. "As the great reservoir and laboratory of all the sin and crime of the nation, thus proclaiming for all time that there is mercy in Christ for the chief of sinners." 
 3. "there is mercy in Christ for the chief of sinners."
@@ -58,4 +58,4 @@ The Gospel message of repentance, forgiveness, and salvation in Christ extends t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

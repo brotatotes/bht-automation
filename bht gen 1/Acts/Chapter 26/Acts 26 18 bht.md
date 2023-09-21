@@ -9,7 +9,7 @@ In this verse, we see a powerful depiction of the transformative impact of the G
 2. "A third step: first the opening of the eyes next, the turning to God next, the receiving remission of sins and a place among the sanctified." 
 3. "Thus the great object of Paul’s preaching was to awaken and show the necessity and efficacy of πίστις ἡ εἰς ἐμέ. And fully, long ere this, had he recognized and acted on this his great mission."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole passage leans upon Isaiah 61:1."
 2. "Note the connection here between being 'turned from darkness' and 'from the power of Satan,' whose whole power over men lies in keeping them in the dark."
 3. "Faith is here made the instrument of salvation at once in its first stage, forgiveness, and its last, admission to the home of the sanctified; and the faith which introduces the soul to all this is emphatically declared by the glorified Redeemer to rest upon Himself—'FAITH, even THAT WHICH IS IN ME.'"
@@ -48,4 +48,4 @@ In this verse, we see a powerful depiction of the transformative impact of the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

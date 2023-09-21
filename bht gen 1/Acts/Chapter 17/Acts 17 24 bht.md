@@ -9,7 +9,7 @@ In this verse, the apostle Paul proclaims the true identity of the Creator of th
 2. "Only on the firm foundation of the Old Testament doctrine of Creation can we rightly build the New Testament doctrine of redemption."
 3. "Where Paul stood, he might see the celebrated colossal statue of Athena Polias, known by the Athenians as ἡ Θεά, standing and keeping guard with spear and shield in the enclosure of the Acropolis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle sets out with a sharp statement of the fact of creation as the central principle of all true religion—not less needed now, against the transcendental idealism of our day."
 2. "How different this from the blind Force or Fate to which all creatures were regarded as in bondage!"
 3. "This thought, so familiar to Jewish ears, and so elementary to Christians, would serve only more sharply to define to his heathen audience the spirituality of that living, personal God, whom he 'announced' to them."
@@ -61,4 +61,4 @@ These quotes highlight the different meanings of "the world" in the Bible, rangi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

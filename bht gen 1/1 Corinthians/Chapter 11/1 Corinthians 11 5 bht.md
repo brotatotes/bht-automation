@@ -11,7 +11,7 @@ In this Bible verse, the commentator highlights the significance of women coveri
 
 (Note: The commentary is discussing the concept of covering and uncovering in relation to the woman's head. It emphasizes the dishonor of the woman casting off the headship of the man and the importance of additional covering for decency. The use of the neuter form is explained as a way to convey a generic identity.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ordinary rule to them is: silence in public."
 2. "Mental receptivity and activity in family life are recognized in Christianity, as most accordant with the destiny of woman."
 3. "In putting away the veil, she puts away the badge of her subjection to man, which is her true 'honor'; for through him it connects her with Christ, the head of the man."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator highlights the significance of women coveri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

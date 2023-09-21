@@ -9,7 +9,7 @@ The individuals described in this passage are commended for their unwavering fai
 2. "Many promises indeed they did receive, Hebrews 11:33; but not THE PROMISE κατ ʼ ἐξοχήν, the promise of final salvation."
 3. "For them, final salvation was a thing purely future: for us, it is a thing present as well as future: present, in that it is once for all brought about by Christ’s offering of Himself, future, inasmuch as the unfolding of all the fulness of that which we possess, and the taking possession of it, when unfolded in its fulness, is for us yet to come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham did obtain the very thing promised in part, namely, blessedness in soul after death, by virtue of faith in Christ about to come."
 2. "The full blessedness of body and soul shall not be till the full number of the elect shall be accomplished, and all together, no one preceding the other, shall enter on the full glory and bliss."
 3. "The perfecting of believers in title, and in respect to conscience, took place once for all, at the death of Christ, by virtue of His being made by death perfect as Saviour."
@@ -50,4 +50,4 @@ The individuals described in this passage are commended for their unwavering fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

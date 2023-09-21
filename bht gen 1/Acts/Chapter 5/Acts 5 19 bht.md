@@ -4,7 +4,7 @@
 In the darkness of the night, a secret and urgent encounter unfolds. The mention of night adds an air of mystery and suspense to the narrative, as spiritual experiences often occur in unexpected and unconventional ways. The use of the word "angel" highlights the miraculous nature of the events, emphasizing the faithfulness and dedication of those involved. This divine intervention, carried out by one of God's ministering spirits, leads to an immediate and impactful outcome, affecting both the messengers and those who oppose them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of 'night' in this verse emphasizes the secrecy and urgency of the situation. It suggests that the events that follow are happening under the cover of darkness, adding a sense of mystery and suspense to the narrative." 
 
 2. "The use of 'by night' also highlights the faithfulness and dedication of Nicodemus. Despite the risks and potential consequences, he seeks out Jesus in the darkness, demonstrating his desire to understand and follow the teachings of Christ." 
@@ -42,4 +42,4 @@ Note: The commentary is not complete, but these quotes provide valuable insights
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

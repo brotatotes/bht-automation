@@ -11,7 +11,7 @@ In this verse, the commentators highlight the astonishment and wonder of the sit
 
 3. "you, whose business it is to know such things." - This phrase emphasizes the intended audience of the verse, emphasizing that the message is directed towards those who have knowledge and understanding of the subject matter.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had no need to say another word; but waxing bolder in defense of his Benefactor, and his views brightening by the very courage which it demanded."
 2. "So irresistible was his argument that their rage burst forth in a speech of intense Pharisaism."
 3. "Thou, a base-born, uneducated, impudent youth, teach us, the trained, constituted, recognized guides of the people in the things of God! Out upon thee!"
@@ -49,4 +49,4 @@ In this verse, the commentators highlight the astonishment and wonder of the sit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

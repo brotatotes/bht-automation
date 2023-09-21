@@ -11,7 +11,7 @@ In this verse, the commentators emphasize the contentment and simplicity that co
 
 3. "the fut. has an authoritative sense" - This quote explains that the future tense used in the verse carries an authoritative sense, implying that we should be satisfied and content with what we have. It suggests that being sufficiently provided is not just a suggestion, but a command to be obeyed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In contrast to the greedy gain-seekers."
 2. "We, as believers, shall have this."
 3. "Let us be content."
@@ -54,4 +54,4 @@ In this verse, the commentators emphasize the contentment and simplicity that co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

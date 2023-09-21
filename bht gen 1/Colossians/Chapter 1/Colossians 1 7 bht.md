@@ -9,7 +9,7 @@ The verse describes a faithful and knowledgeable individual who played a crucial
 2. "This love is emphatically a gift, and in its full reference the chief gift of the Spirit (Galatians 5:22; Rom 15:30), and is thus in the elemental region of the Spirit, as distinct from those unspiritual states of mind which are ἐν σαρκί."
 3. "He now proceeds, gently and delicately at first, to touch on matters needing correction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The omission in the oldest manuscripts implies that Epaphras alone was the founder of the Church at Colosse."
 2. "Epaphras may have been apprehended for his zealous labors in Asia Minor."
 3. "He is faithful in your behalf as a minister of Christ, hinting that he is one not to be set aside for the new and erroneous teachers."
@@ -50,4 +50,4 @@ The verse describes a faithful and knowledgeable individual who played a crucial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the individual seeks to justify himself and prove his compliance 
 2. "...wishing to carry out the purpose with which he asked at first, and to cover what otherwise would be his shame at being answered by so simple a reply..."
 3. "...by throwing on Jesus the definition of ὁ πλησίον, which was very narrowly and technically interpreted among the Jews, excluding Samaritans and Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Throwing on Jesus the definition of 'neighbor,' which the Jews interpreted very narrowly and technically, as excluding Samaritans and Gentiles."
 2. "The Jews interpreted [neighbor] very narrowly and technically."
 3. "Excluding Samaritans and Gentiles."
@@ -56,4 +56,4 @@ These quotes highlight the author's interpretation of the words "willing" and "n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

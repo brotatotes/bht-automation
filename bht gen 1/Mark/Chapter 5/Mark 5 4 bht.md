@@ -9,7 +9,7 @@ In this verse, we see a man who is possessed by a dark tyrant-power that gives h
 2. "The πέδαι are shackles for the feet, the ἁλύσεις chains in general, without specifying for what part of the body."
 3. "The πέδαι and ἁλύσεις were intended to physically restrain and confine a person, preventing them from moving freely."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The dark tyrant-power by which he was held clothed him with superhuman strength and made him scorn restraint."
 2. "Matthew says he was 'exceeding fierce, so that no man might pass by that way.'"
 3. "He was the terror of the whole locality."
@@ -35,4 +35,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

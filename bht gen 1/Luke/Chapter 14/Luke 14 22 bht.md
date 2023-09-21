@@ -11,7 +11,7 @@ In this Bible verse, we see the fulfillment of God's plan for salvation and the 
 
 3. "Bengel." This reference to Bengel indicates that the commentary is attributed to him. It provides context and credibility to the commentary, suggesting that Bengel is a respected and knowledgeable source on the subject matter.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "yet there is room—implying that these classes had embraced the invitation" - This quote highlights the fact that there is still space for more people to come and accept the invitation to the Master's table. It emphasizes the inclusivity and openness of the invitation, encouraging ministers to continue reaching out to others.
 
 2. "beautifully expressing the longing that should fill the hearts of ministers to see their Master's table filled" - This quote captures the deep desire that ministers should have to see more people accepting the invitation and joining the Master's table. It emphasizes the passion and dedication that ministers should have in their work.
@@ -52,4 +52,4 @@ In this Bible verse, we see the fulfillment of God's plan for salvation and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

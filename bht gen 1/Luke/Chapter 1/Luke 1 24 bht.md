@@ -4,7 +4,7 @@
 In this verse, a woman is described as hiding herself for a specific period of time, waiting for the fulfillment of a significant prophecy. She conceals her condition, secluding herself in order to fully experience the joy and assurance of the promised event. This act of hiding serves as a way for her to intimately connect with God, devoting herself to praising Him for His mercies and seeking a deeper understanding of His work. The verse alludes to the announcement of the coming of Christ, emphasizing the importance of this divine revelation in the biblical narrative.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hid five months—till the event was put beyond doubt and became apparent." This quote highlights the idea that the hiding of the five months was a period of waiting for the fulfillment of the prophecy. It suggests that there was a purpose in the delay, allowing for the certainty of the event to be established.
 
 2. "ANNUNCIATION OF CHRIST." This quote indicates that the verse is referring to the announcement of the coming of Christ. It implies that this event is significant and holds great importance in the biblical narrative.
@@ -56,4 +56,4 @@ In this verse, a woman is described as hiding herself for a specific period of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse, rich in blessings, describes the deep affection between Paul and Tim
 2. "ἔλεος and εἰρήνη are found joined in Galatians 6:16" - In which Epistle are so many similarities to these.
 3. "The expression θεὸς πατήρ, absolute, is found in St. Paul" - So that it belongs to all periods of his writing, but chiefly to the later.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mercy is grace of a more tender kind, exercised towards the miserable, the experience of which in one's own case especially fits for the Gospel MINISTRY." 
 2. "Grace has reference to the sins of men; 'mercy' to their misery. God extends His grace to men as they are guilty; His 'mercy' to them as they are miserable."
 3. "In the Pastoral Epistles 'Christ' is often put before 'Jesus,' to give prominence to the fact that the Messianic promises of the Old Testament, well known to Timothy, were fulfilled in Jesus."
@@ -53,4 +53,4 @@ This verse, rich in blessings, describes the deep affection between Paul and Tim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

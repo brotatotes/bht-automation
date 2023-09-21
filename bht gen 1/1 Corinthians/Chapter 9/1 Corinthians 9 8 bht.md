@@ -11,7 +11,7 @@ This verse challenges the reader to consider whether the words being spoken are 
 
 3. "The law too not say these things?" - This quote implies that the law itself, as a divine revelation, supports and affirms the truths that Paul is proclaiming, adding weight to his arguments.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I speak thus not merely according to human judgment, but with the sanction of the divine law also." This quote highlights the authority behind the speaker's words, emphasizing that they are not just personal opinions but are backed by divine authority.
 
 2. "I speak thus not merely according to human judgment." This quote emphasizes that the speaker's words are not based solely on human reasoning or limited understanding, suggesting a higher wisdom or perspective.
@@ -61,4 +61,4 @@ This verse challenges the reader to consider whether the words being spoken are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the crowd responds to Jesus, accusing him of being possesse
 2. "Their question, τίς σε ζητεῖ ἀποκτεῖναι, shows their ignorance of the purpose of their rulers."
 3. "It would not now be their policy to represent Him as possessed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people answered, Thou hast a devil: who goeth about to kill thee?" - This response from the multitude reveals their ignorance of the plot against Jesus and their misunderstanding of his words. It shows how easily people can be swayed by rumors and false accusations.
 2. "The people answered, Thou hast a devil: who goeth about to kill thee?" - This accusation of having a devil reflects the people's inability to comprehend the divine nature of Jesus and their tendency to resort to personal attacks instead of engaging in meaningful dialogue.
 3. "The people answered, Thou hast a devil: who goeth about to kill thee?" - This statement highlights the irony of the situation, as Jesus, the one who came to bring life and salvation, is being accused of being a murderer. It serves as a reminder of the world's misunderstanding and rejection of the true nature and purpose of Jesus.
@@ -59,4 +59,4 @@ In this Bible verse, the crowd responds to Jesus, accusing him of being possesse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

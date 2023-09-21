@@ -9,7 +9,7 @@ In this verse, we are reminded of the urgency to seek entrance into heaven befor
 2. "Hearing that the door is shut, ye begin to stand without and knock."
 3. "Ye are none of my family have no relationship with me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Master of the house is risen up and hath shut to the door—awfully sublime and vivid picture!"
 2. "At present he is represented as in a sitting posture, as if calmly looking on to see who will 'strive,' while entrance is practicable, and who will merely 'seek' to enter in."
 3. "Lord, Lord—emphatic reduplication, expressive of the earnestness now felt, but too late."
@@ -53,4 +53,4 @@ In this verse, we are reminded of the urgency to seek entrance into heaven befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

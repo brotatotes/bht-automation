@@ -9,7 +9,7 @@ In this particular Bible verse, someone with knowledge is seen participating in 
 2. "εἰδωλεῖον, as Ποσειδεῖον, Ἀπολλωνεῖον, Ἰσεῖον, &c."
 3. "ædificabitur, not without a certain irony, seeing it is accompanied by ἀσθενοῦς ὄντος, for thus the building up would be without solid foundation, a ruinosa ædificatio."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very knowledge which thou pridest thyself on will lead the weak after thy example to do that against his conscience."
 2. "His conscience, seeing he is weak."
 3. "You ought to have built up your brother in good: but by your example your building him up is the emboldening him to violate his conscience."
@@ -55,4 +55,4 @@ In this particular Bible verse, someone with knowledge is seen participating in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

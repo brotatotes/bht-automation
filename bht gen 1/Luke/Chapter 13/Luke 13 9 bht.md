@@ -9,7 +9,7 @@ In this verse, the commentator's insights bring to light the potential of the fi
 2. "In the collective sense, the sentence lingered." 
 3. "All judgment is committed to THE SON: it is not the work of the Holy Spirit to cut down and destroy, for He is the Giver of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Genuine repentance, however late, avails to save."
 2. "The final perdition of such as, after the utmost limits of reasonable forbearance, are found fruitless, will be pre-eminently and confessedly just."
 3. "The healing of the woman with an eighteen-year infirmity on the Sabbath serves as an example of God's power and mercy."
@@ -42,4 +42,4 @@ In this verse, the commentator's insights bring to light the potential of the fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

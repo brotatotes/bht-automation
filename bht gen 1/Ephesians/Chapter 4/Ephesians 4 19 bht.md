@@ -9,7 +9,7 @@ The verse being described portrays a state of moral apathy and hardened hearts, 
 2. "It accorded here with the hortatory object of the Apostle to bring into prominence that which happened on the side of their own free will." 
 3. "πλεονεξία, the desire of having more, is obviously a wider vice than mere covetousness, though this latter is generally its prominent form. It is self-seeking, or greed: in whatever direction this central evil tendency finds its employment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being past hope," or despairing, is the reading of the Vulgate; though not so well supported as English Version reading, "past feeling," which includes the absence of hope.
 2. Their giving themselves to it was punished in kind, God giving them up to it by withdrawing His preventing grace; their sin thus was made their punishment.
 3. It does not necessarily include lasciviousness; but it means intemperate, reckless readiness for it, and for every self-indulgence. "The first beginnings of unchastity."
@@ -57,4 +57,4 @@ The verse being described portrays a state of moral apathy and hardened hearts, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

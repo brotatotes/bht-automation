@@ -4,7 +4,7 @@
 The Apostle emphasizes the importance of honoring parents, stating that it leads to blessings and a prosperous life in various ways. While the promise of a long life is mentioned, it goes beyond mere longevity, extending to a spiritual and eternal dimension. This promise is not limited to a specific land or time but is universally applicable. It highlights the significance of obedience to parents in both the temporal and spiritual realms, ultimately leading to fulfillment and well-being in life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The godly are equally blessed in every land, as the Jews were in the land which God gave them."
 2. "This promise is always fulfilled, either literally, or by the substitution of a higher blessing, namely, one spiritual and eternal."
 3. "The substance and essence of the law are eternally in force: its accidents alone (applying to Israel of old) are abolished."
@@ -54,4 +54,4 @@ The Apostle emphasizes the importance of honoring parents, stating that it leads
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

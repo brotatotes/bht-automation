@@ -4,7 +4,7 @@
 The verse being described warns against tampering with the Scriptures, as doing so has severe consequences. The commentators stress the importance of preserving the authority and integrity of the book, emphasizing that altering or denying its message leads to being excluded from the blessings and promises described within. The verse also highlights the divine origin and eternal significance of the words written in the book, serving as a record of God's remembrance and judgement of all individuals.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "None of our manuscripts read this." 
 2. "Shall deprive him of participation in the tree of life."
 3. "A curse is denounced against those who add to, or take from, it."
@@ -38,4 +38,4 @@ The verse being described warns against tampering with the Scriptures, as doing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

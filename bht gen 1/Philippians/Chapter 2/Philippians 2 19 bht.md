@@ -9,7 +9,7 @@ In this verse, the writer expresses their reliance on the Lord Jesus, placing th
 2. "The dative after verbs of sending, &c. need not be regarded as the dativus commodi, but is similar to that case after verbs of giving indicating the position of the recipient."
 3. "May be of good courage. The verb is unknown to the classics: the imperative εὐψύχει is found in inscriptions on tombs, in the sense of the Latin ‘have pia anima.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An undesigned coincidence between the Epistle and history, a mark of genuineness."
 2. "Paul's reason for sending Timothy so soon after having heard of the Philippians from Epaphroditus was that they were now suffering persecutions."
 3. "But I trust—Yet my death is by no means certain; yea, 'I hope (Greek) in the Lord (that is, by the Lord's help)' unto you."
@@ -54,4 +54,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

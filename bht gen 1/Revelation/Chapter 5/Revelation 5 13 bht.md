@@ -4,7 +4,7 @@
 In this awe-inspiring passage, all of creation unites in a universal chorus of praise to God and the Lamb. From the outermost reaches of the universe to the innermost circles of saints and angels, every creature joins in this grand doxology. The hymn of adoration reverberates in perfect harmony, as all worlds and dwellers on earth give honor to the Redeemer. This glorious scene captures the completeness of the praise being offered, leaving no created thing untouched. It is a testament to the fulfillment of God's purposes and the triumph of the regenerated world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The universal chorus of creation, including the outermost circles as well as the inner (of saints and angels), winds up the doxology."
 2. "The full accomplishment of this is to be when Christ takes His great power and reigns visibly."
 3. "The fourfold ascription indicates world-wide universality."
@@ -45,4 +45,4 @@ In this awe-inspiring passage, all of creation unites in a universal chorus of p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

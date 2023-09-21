@@ -9,7 +9,7 @@ In this verse, the speaker describes the deep unity and abiding relationship bet
 2. "Jesus was the υἱός, who remains in the house and sees the father’s acts: they the δοῦλοι, merely prescribed to and under bondage." 
 3. "The οὐν implies accordingly, by the same rule."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The use of the term 'Father' here is significant, as it establishes a deep and personal relationship between God and believers. It signifies not only a creator-creature relationship but also a familial bond, indicating that believers are adopted into God's family and have the privilege of calling Him 'Father'."
 
 2. "By referring to God as 'my Father,' Jesus is emphasizing His unique and intimate relationship with God. He is asserting His divine sonship and highlighting the special role He plays in the redemption of humanity."
@@ -50,4 +50,4 @@ In this verse, the speaker describes the deep unity and abiding relationship bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

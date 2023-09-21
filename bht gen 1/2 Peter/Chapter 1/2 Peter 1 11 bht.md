@@ -9,7 +9,7 @@ Through living a life of faith, virtue, and grace, believers will be abundantly 
 2. "The adverb πλουσίως is most natural and obvious with the verb ἐπιχορηγηθήσεται, indicating high degrees and fulness of glory." 
 3. "The fact of its πλουσίως ἐπιχορηγηθῆναι, is that asserted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Minister in your faith virtue and the other graces, so shall there be ministered to you the entrance into that heaven where these graces shine most brightly."
 2. "The reward of grace hereafter shall correspond to the work of grace here."
 3. "If these graces abound in you, you shall have your entrance into heaven not merely 'scarcely,' nor 'so as by fire,' but in triumph without 'stumbling and falling.'"
@@ -56,4 +56,4 @@ Through living a life of faith, virtue, and grace, believers will be abundantly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

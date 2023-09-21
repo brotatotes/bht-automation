@@ -9,7 +9,7 @@ Epaphroditus, a beloved brother, messenger, and fellow worker in the gospel, was
 2. "λειτουργὸν δὲ αὐτὸν εἴρηκε τῆς χρείας , ὡς τὰ παρ ʼ αὐτῶν ἀποσταλέντα κομίσαντα χρήματα , Thdrt."
 3. "πέμψαι ] it was actually a sending  back , though not so expressed here: see ch. Philippians 4:18 ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'apostles' or 'messengers of the churches' were distinct from the 'apostles' specially commissioned by Christ, as the Twelve and Paul."
 2. "Epaphroditus was a presbyter or else a deacon."
 3. "The Greek 'leitourgon,' literally, implies ministering in the ministerial office."
@@ -63,4 +63,4 @@ Note: The commentary is about Philippians 2:25-30.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

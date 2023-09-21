@@ -11,7 +11,7 @@ The apostle Paul's ministry was marked by the display of external miraculous act
 
 Note: The commentary provided is not directly related to a specific Bible verse. Please provide the verse or passage for a more accurate extraction of quotes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through mighty signs and wonders...by the power of the Spirit of God." 
 2. "This seems intended to explain the efficacy of the word preached, as well as the working of the miracles which attested it."
 3. "So that from Jerusalem...unto Illyricum...I have fully preached the gospel of Christ."
@@ -55,4 +55,4 @@ These quotes collectively convey the extraordinary nature of Paul's ministry, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

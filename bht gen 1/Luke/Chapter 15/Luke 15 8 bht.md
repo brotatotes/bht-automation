@@ -4,7 +4,7 @@
 In this verse, we are reminded of the active effort required in seeking God's truth, as commentators emphasize the need to "sweep the house" and actively engage in the search. They caution that this search cannot be done without acknowledging our imperfections and shortcomings. Personal responsibility and action are highlighted, encouraging us to take an active role in seeking and searching for truth, rather than expecting it to be handed to us. Additionally, the verse alludes to the value of a coin, emphasizing the importance and worth of the pursuit of truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sweep the house" implies that there is a need for active effort on our part to seek and find God's truth. It reminds us that we cannot passively wait for God to reveal Himself to us; we must actively engage in the search for Him.
 
 2. "Not done without dust on man's part" suggests that we must acknowledge our own imperfections and shortcomings in order to truly seek God. It reminds us that humility and self-awareness are essential in our spiritual journey.
@@ -37,4 +37,4 @@ In this verse, we are reminded of the active effort required in seeking God's tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

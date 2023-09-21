@@ -10,7 +10,7 @@ During the destruction of Jerusalem, over a million Jews perished, and the city 
 3. "The καιροὶ ἐθνῶν should have been interpreted (by Meyer) the appointed time until the Gentiles shall have finished this judgment of wrath to be ended by the παρουσία, within the lifetime of the hearers?"
 4. "The καιροί = καιρός: no essential difference is to be insisted on. It is plural, because the ἔθνη are plural: each Gentile people having in turn its καιρός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jerusalem shall cease to be 'trodden down by the Gentiles'... this shall be at the 'completion' of 'the times of the Gentiles.'" 
 2. "We conclude to mean till the Gentiles have had their full time of that place in the Church which the Jews in their time had before them."
 3. "After which, the Jews being again 'grafted into their own olive tree,' one Church of Jew and Gentile together shall fill the earth."
@@ -46,4 +46,4 @@ During the destruction of Jerusalem, over a million Jews perished, and the city 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes a state of intense distress and suffering, both general and 
 2. "That which shall befall this nation." 
 3. "The distress on all the earth is general; the distress on this nation is particular."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "woe unto—"alas for.""
 2. "For then shall be tribulation such as was not since the beginning of the world, nor ever shall be"
 3. "And except those days should be shortened, there should no flesh be saved, but for the elect's sake those days shall be shortened"
@@ -33,4 +33,4 @@ The verse describes a state of intense distress and suffering, both general and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

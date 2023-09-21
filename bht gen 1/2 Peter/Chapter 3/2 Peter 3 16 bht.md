@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the difficulty of understanding ce
 2. "Such persons are stirred from their Christian stability by every apparent difficulty: are rendered anxious and perplexed by hard texts."
 3. "They distort, as also the other Scriptures, to their own perdition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is scarce anything drawn from the obscure places, but the same in other places may be found most plain" [AUGUSTINE].
 2. "It is our own prejudice, foolish expectations, and carnal fancies, that make Scripture difficult" [JEREMY TAYLOR].
 3. "When religion is studied as a science, nothing is more abstruse; when studied in order to know our duty and practice it, nothing is easier" [commentary].
@@ -57,4 +57,4 @@ In this verse, the commentators shed light on the difficulty of understanding ce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

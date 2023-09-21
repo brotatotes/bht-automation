@@ -9,7 +9,7 @@ The verse being described encapsulates an incident involving the intentional dec
 2. "Peter characterizes the sin more solemnly this second time, because by the wife’s answer it was now proved to be no individual lie of a bad and covetous man, but a preconcerted scheme to deceive God."
 3. "The space of three hours was not too long: they would have to carry the corpse to the burying-ground, at a considerable distance from the city, and when there, to dig a grave, and bury it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How is it that ye have agreed together?" - This quote highlights the unity and collaboration among those who conspired against the apostles, emphasizing the deliberate nature of their actions.
 2. "To tempt the Spirit" - This quote reveals the motive behind their actions, as they sought to test the discernment and power of the Holy Spirit, demonstrating a lack of reverence and fear.
 3. "Feet of them that buried thy husband are at the door" - This quote vividly depicts the immediate consequences of their deceitful actions, emphasizing the swift and severe judgment that awaited them.
@@ -48,4 +48,4 @@ The verse being described encapsulates an incident involving the intentional dec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

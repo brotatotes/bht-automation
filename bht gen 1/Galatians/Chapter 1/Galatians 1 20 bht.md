@@ -11,7 +11,7 @@ In this Bible verse, the author passionately asserts the truth of his statements
 
 3. "Meyer would supply γράφω, which seems harsh: others take ὅτι as ‘for,’ which is worse still (cf. 2 Corinthians 11:21, ὁ θεὸς οἶδεν … ὅτι οὐ ψεύδομαι), and this too, understanding ἐστίν after θεοῦ (Bengel)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Solemn asseveration that his statement is true..." - This quote highlights the author's emphasis on the truthfulness of the statement being made, indicating the importance of the information being conveyed.
 
 2. "Probably it had been reported by Judaizers..." - This quote suggests that there may have been false reports or rumors circulating about the author's interactions with the apostles, indicating the need to clarify and correct any misconceptions.
@@ -54,4 +54,4 @@ In this Bible verse, the author passionately asserts the truth of his statements
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

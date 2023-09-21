@@ -4,7 +4,7 @@
 In this verse, there is a clash between Jesus and the Sadducees, a sect who did not believe in resurrection or spiritual existence. The mention of the Sadducees helps us understand the context of the opposition Jesus faced and the historical influence they held. By addressing the officers, Jesus emphasizes justice, reconciliation, and the impact they have on resolving disputes. Their role in maintaining order in the court is highlighted, as well as the secure and guarded nature of the prison where the apostles were not found upon the officers' search.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of the Sadducees in this verse is significant because it helps us understand the context and the opposition that Jesus faced. The Sadducees were a sect within Judaism that did not believe in the resurrection of the dead or in the existence of angels or spirits. This sets up a theological clash between Jesus and the Sadducees, as Jesus often taught about the resurrection and the spiritual realm."
 
 2. "The fact that the Sadducees were mentioned in Acts 4:1 also highlights the political and religious power that they held during that time. They were part of the ruling elite and had significant influence over the religious affairs of the Jewish people. This adds another layer of complexity to the opposition that Jesus faced, as he not only challenged their theological beliefs but also threatened their authority."
@@ -34,4 +34,4 @@ In this verse, there is a clash between Jesus and the Sadducees, a sect who did 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

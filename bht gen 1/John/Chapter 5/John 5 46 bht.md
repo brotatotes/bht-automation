@@ -9,7 +9,7 @@ The commentators reveal that the verse in question speaks to the connection betw
 2. "This is an important testimony by the Lord to the subject of the whole Pentateuch; it is περὶ ἐμοῦ."
 3. "It is also a testimony to the fact, of Moses having written those books, which were then, and are still, known by his name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He wrote of me" - This quote highlights the significance of the Old Testament scriptures in pointing to Jesus. It emphasizes that the entire Pentateuch, including the book of Genesis, contains testimonies and foreshadowings of Christ.
 2. "An important testimony to the subject of the whole Pentateuch" - This quote suggests that the subject matter of the entire Pentateuch, which includes the books of Genesis, Exodus, Leviticus, Numbers, and Deuteronomy, is ultimately about Jesus. It implies that Jesus is the central figure and the fulfillment of the Old Testament prophecies and promises.
 3. "'Of Me'" - This short phrase emphasizes the personal connection between Jesus and the writings of Moses. It implies that the purpose of the Pentateuch is to reveal and point to Jesus, emphasizing the Messianic nature of the scriptures.
@@ -45,4 +45,4 @@ These quotes highlight the connection between Moses and Jesus, emphasizing that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described here is filled with overflowing love and constant intercessi
 2. "Render always in every prayer of mine making my prayer for you all with joy."
 3. "Every time he prayed, he joyfully offered up that portion of his prayers which was an intercession for them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul desires to declare his love for all alike, and will not recognize any divisions among them."
 2. "Love and joy are the two first-fruits of the Spirit."
 3. "Joy gives especial animation to prayers."
@@ -49,4 +49,4 @@ The verse described here is filled with overflowing love and constant intercessi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

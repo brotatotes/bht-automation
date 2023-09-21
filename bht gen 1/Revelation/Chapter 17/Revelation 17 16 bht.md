@@ -4,7 +4,7 @@
 The verse being described speaks of the downfall and destruction of a powerful entity known as the "whore." Commentators describe this entity as a corrupt and deceitful Church, once embraced by worldly powers but now facing their hostility and hatred. This powerful alliance between the Church and the world crumbles, leading to its complete destruction. The destruction is depicted as a stripping away of power, leaving the entity exposed and vulnerable. Ultimately, the destruction culminates with the burning of the city of Rome, symbolizing the utter annihilation of this formidable power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As Jerusalem used the world power to crucify her Saviour, and then was destroyed by that very power, Rome; so the Church, having apostatized to the world, shall have judgment executed on her first by the world power, the beast and his allies; and these afterwards shall have judgment executed on them by Christ Himself in person."
 2. "Being no longer a reality itself, but a sham, the Church is rightly judged by that world which for a time had used the Church to further its own ends, while all the while 'hating' Christ's unworldly religion, but which now no longer wants the Church's aid."
 3. "The First Napoleon's Edict published at Rome in 1809, confiscating the papal dominions and joining them to France, and later the severance of large portions of the Pope's territory from his sway and the union of them to the dominions of the king of Italy, virtually through Louis Napoleon, are a first instalment of the full realization of this prophecy of the whore's destruction."
@@ -43,4 +43,4 @@ The verse being described speaks of the downfall and destruction of a powerful e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

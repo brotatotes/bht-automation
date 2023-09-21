@@ -9,7 +9,7 @@ This verse describes the consequences faced by those who reject and stumble over
 2. "Qui impingunt, nempe, in lapidem illum angularem, verbo non credentes (obedientes?): quo ipso et offensio ipsa et ejus causa indicatur."
 3. "for which (thing, fact, viz. the προσκόπτειν, τῷ λόγῳ ἀπειθοῦσιν, their whole moral course of delinquency and the πρόσκομμα at the end of it) they were also (καί, besides that they reach it, there is another consideration) appointed (set where they are, or were; viz. by Him who τίθησιν, above, the stone of stumbling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not merely they stumbled, in that their prejudices were offended but their stumbling implies the judicial punishment of their reception of Messiah; they hurt themselves in stumbling over the corner-stone." 
 
 2. "God appoints the ungodly to be given up unto sin, and a reprobate mind, and its necessary penalty." 
@@ -52,4 +52,4 @@ These quotes highlight the reasons why the Jews stumbled at Jesus and his teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse in question describes the hidden adornment of the soul that surp
 2. "the incorruptible ornament of the meek and quiet spirit"
 3. "the meek and quiet spirit...is in the sight of God of great price"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Singularity mostly comes from pride and throws needless hindrances to religion in the way of others."
 2. "Under costly attire there may be a humble mind."
 3. "Great is he who uses his earthenware as if it were plate not less great is he who uses his silver as if it were earthenware."
@@ -54,4 +54,4 @@ The Bible verse in question describes the hidden adornment of the soul that surp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

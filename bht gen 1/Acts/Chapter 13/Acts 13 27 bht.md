@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the rejection of Christ in Jerusal
 2. "τὰς φωνάς is not governed by ἀγνοήσαντες, which makes the sentence an unusually harsh one in construction, requiring αὐτόν to be supplied after κριν., and αὐτάς after ἐπλήρωσαν."
 3. "In their ignorance of Him (not only rejected His salvation, but) by judging Him, fulfilled the voices of the prophets, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle here speaks as if the more immediate guilt of Christ's death lay with the rulers and people of the metropolis." 
 2. "He fondly hoped that those residing at such a distance as Antioch would not set their seal." 
 3. "Because they knew him not."
@@ -48,4 +48,4 @@ In this verse, the commentators shed light on the rejection of Christ in Jerusal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

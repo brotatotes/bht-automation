@@ -9,7 +9,7 @@ The Bible verse describes the dangerous and corrupting nature of the words that 
 2. "Their throat, as the instrument of their speech, is compared." 
 3. "The open sepulchre is an emblem of perdition, to which their throat, as the instrument of their speech, is compared."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the sole of the foot even to the head there is no soundness in us."
 2. "What proceeds out of their heart, and finds vent in speech and action through the throat, is like the pestilential breath of an open grave."
 3. "That tongue which is man's glory is prostituted to the purposes of deception."
@@ -54,4 +54,4 @@ The Bible verse describes the dangerous and corrupting nature of the words that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

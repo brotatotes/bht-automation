@@ -11,7 +11,7 @@ The verse being described emphasizes the need for continuous and persistent pray
 
 3. "These direct supplications to God can be constant, flowing from a heart that is constantly aware of His presence and in constant communion with Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray without intermission" - The Greek phrase emphasizes the continuous nature of prayer, urging believers to avoid any gaps or breaks in their prayer life.
 
 2. "Without allowing prayerless gaps" - This phrase highlights the importance of maintaining a consistent and uninterrupted prayer life, without allowing any periods of neglect or prayerlessness.
@@ -44,4 +44,4 @@ The verse being described emphasizes the need for continuous and persistent pray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

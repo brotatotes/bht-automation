@@ -9,7 +9,7 @@ In this verse, the author expresses a desire for others to understand his situat
 2. "Tychicus shall make known all to you, the beloved brother and faithful servant in the Lord." 
 3. "Whom I sent to you for this very purpose, that ye may know the matters respecting us and that he may comfort your hearts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye also may know about me."
 2. "The things concerning me."
 3. "A fit messenger bearing the respective Epistles to Ephesus and Colosse."
@@ -59,4 +59,4 @@ These quotes provide insights into the author's desire for others to understand 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

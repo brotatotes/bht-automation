@@ -4,7 +4,7 @@
 The passage being described depicts the arrival of a powerful figure, descending from heaven, with the authority to control and confine Satan and evil forces. This figure is no ordinary angel, but the Lord Jesus Christ Himself. His descent from heaven signifies His second coming, a visible and personal event. Equipped with the key to the abyss and a mighty chain, Jesus possesses unrivaled power and is uniquely qualified to bind Satan. This description emphasizes His divine authority and ultimate mastery over darkness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The destruction of his representatives, the beast and the false prophet, to whom he had given his power, throne, and authority, is followed by the binding of Satan himself for a thousand years." 
 
 2. "The key of the bottomless pit—now transferred from Satan's hands, who had heretofore been permitted by God to use it in letting loose plagues on the earth; he is now to be made to feel himself the torment which he had inflicted on men."
@@ -44,4 +44,4 @@ These quotes highlight the divine authority, power, and control over evil that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

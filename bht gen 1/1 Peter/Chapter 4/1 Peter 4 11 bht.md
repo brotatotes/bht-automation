@@ -9,7 +9,7 @@ Let your words be a divine reflection, proclaiming the truth of God's inspired S
 2. "In all things God may be glorified through Jesus Christ."
 3. "To whom is the glory and the might to the ages of the ages."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His divinely inspired words are not his own, but God's, and as a steward having them committed to him, he ought so to speak them."
 2. "Jesus was the pattern in this respect."
 3. "The final end of all a Christian's acts... Through Christ alone can God be glorified in us and our sayings and doings."
@@ -55,4 +55,4 @@ Let your words be a divine reflection, proclaiming the truth of God's inspired S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described emphasizes the role of a high priest who embodies comp
 
 3. "The sense might be filled up, ‘towards those who (possibly after all) are ignorant and deluded.’ And thus the propriety of the next clause is rendered still greater; both these, ἄγνοια and πλάνη, being the results of ἀσθένεια, with which he himself is encompassed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not showing stern rigor save to the obstinate."
 2. "Ignorant—sins not committed in resistance of light and knowledge."
 3. "Deluded through the fraud of Satan and their own carnal frailty and thoughtlessness."
@@ -57,4 +57,4 @@ The verse being described emphasizes the role of a high priest who embodies comp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

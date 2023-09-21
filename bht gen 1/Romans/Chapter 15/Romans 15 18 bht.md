@@ -9,7 +9,7 @@ This verse depicts a profound acknowledgment of the power and authority of Chris
 2. "I will only boast of what Christ has veritably done by me towards the obedience of the Gentiles."
 3. "By word and deed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will not dare to speak of any 'to speak aught' of those things which Christ hath not wrought by me" - Paul humbly acknowledges that he will not go beyond what Christ has accomplished through him, recognizing that his success in ministry is solely attributed to the work of the living Redeemer.
 
 2. "Observe here how Paul ascribes all the success of his labors to the activity of the living Redeemer, working in and by him" - This highlights Paul's recognition that his effectiveness in preaching and working is a result of Christ's active involvement in his ministry.
@@ -52,4 +52,4 @@ This verse depicts a profound acknowledgment of the power and authority of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

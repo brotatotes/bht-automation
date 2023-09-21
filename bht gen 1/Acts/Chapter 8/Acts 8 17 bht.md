@@ -4,7 +4,7 @@
 In this Bible verse, we see the early Christian community unified in their mission, with Peter and John being sent as equal messengers to spread the Gospel. The act of laying on hands symbolizes a prayerful invocation for God's blessing and the impartation of the Holy Spirit. This practice of laying on hands demonstrates trust in the chosen messengers, signifying their authority and enabling them to carry out the work of the ministry. Through this process, these disciples receive the gifts of the Holy Spirit, enabling them to prophesy, speak in tongues, heal diseases, and perform other miraculous acts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles . . . sent Peter and John—showing that they regarded Peter as no more than their own equal." This highlights the equality among the apostles and the absence of hierarchy within the early Christian community.
 
 2. "The act of sending Peter and John together also emphasizes the importance of unity and collaboration in spreading the message of Christ." This emphasizes the significance of working together and the power of collective efforts in fulfilling the mission of spreading the Gospel.
@@ -37,4 +37,4 @@ In this Bible verse, we see the early Christian community unified in their missi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

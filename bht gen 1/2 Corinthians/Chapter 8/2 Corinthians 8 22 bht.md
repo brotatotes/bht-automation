@@ -9,7 +9,7 @@ The verse in question speaks of a "brother" who has been proven reliable and dil
 2. "By our uncertainty in these two cases, we may see how much is required, to fill up the apostolic history at all satisfactorily."
 3. "The brother had, by what he had heard from Titus, conceived a high opinion of the probable success of their mission."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This second brother, BIRKS supposes to be Trophimus: for a Macedonian is not meant ( :-) probably the same as was sent before with Titus ( :-); and therefore sent from Ephesus, and probably an Ephesian: all this is true of Trophimus."
 2. "oftentimes . . . in many things—Join and translate as in the Greek, 'many times in many things.'"
 3. "BENGEL better supports English Version, 'We have sent . . . through the confidence WHICH WE FEEL in regard to your liberality.'"
@@ -50,4 +50,4 @@ The verse in question speaks of a "brother" who has been proven reliable and dil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the apostle Paul expresses his uncertainty regarding his future p
 2. "The account of this is that the ideas of motion and rest are both involved in the verb: rest, when the motion is accomplished."
 3. "Whither he should go from Corinth, was as yet uncertain, see 1 Corinthians 16:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He did 'abide and even winter' for the three WINTER months in Greece (Corinth), Acts 20:3; Acts 20:6; from which passage it seems that Paul probably left Corinth about a month before the 'days of unleavened bread' or the Passover."
 2. "so that thus the three months at Corinth would be December, January, and February."
 3. "He purposed to go to Judea (2 Corinthians 1:16) from Corinth, but his plans were not positively fixed as yet."
@@ -40,4 +40,4 @@ In this verse, the apostle Paul expresses his uncertainty regarding his future p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we are reminded of our duty to please and serve others, particula
 2. "The Apostle repudiates it in his own case, Galatians 1:10."
 3. "To a good end, and that good end his edification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let every one of us lay himself out to please his neighbor." This emphasizes the importance of selflessness and considering the needs and well-being of others. It encourages us to go beyond mere gratification and focus on the good and edification of our neighbors.
 
 2. "Not indeed for his mere gratification, but for his good." This highlights the distinction between seeking to please others for superficial reasons versus genuinely desiring their well-being. It reminds us that our actions should be motivated by a sincere desire to benefit and uplift others.
@@ -50,4 +50,4 @@ In this verse, we are reminded of our duty to please and serve others, particula
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

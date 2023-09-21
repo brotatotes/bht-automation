@@ -9,7 +9,7 @@ This verse describes the disappointment of those who think they have a close rel
 2. "Both these are ἐνώπιόν σου merely, in His presence; very different from the drinking μεθʼ ὑμῶν of which He speaks Matthew 26:29, and from the δειπνήσω μετʼ αὐτοῦ καὶ αὐτὸς μετʼ ἐμοῦ, Revelation 3:20."
 3. "ἐν τ. πλ. ἡμ. ἐδ., applicable directly to those to whom the words were spoken; and further, in its fuller sense, to all among whom the gospel is preached, even till the end."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have sat with Thee at the same table."
 2. "Do we not remember listening in our own streets to Thy teaching?"
 3. "Surely we are not to be denied admittance?"
@@ -51,4 +51,4 @@ Note: The commentary provided is incomplete and lacks further explanation or ana
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

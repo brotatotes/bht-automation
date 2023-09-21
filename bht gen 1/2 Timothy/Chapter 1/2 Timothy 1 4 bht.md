@@ -4,7 +4,7 @@
 In this heartfelt verse, the writer expresses a yearning and longing to see someone greatly missed, with vivid memories of tears shed during their parting. The emotional connection between the writer and the recipient is evident, as their shared history and deep bond evoke a continuous and unwavering desire for reunion. This desire for joy in seeing the beloved individual again reveals the writer's genuine care and the significance of their relationship amidst challenges and afflictions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with yearning as for one much missed."
 2. "mindful of thy tears"
 3. "that I may be filled with joy"
@@ -45,4 +45,4 @@ In this heartfelt verse, the writer expresses a yearning and longing to see some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The arrival of Stephanas, Fortunatus, and Achaicus brought great joy and fulfill
 2. "Grotius interprets it, 'Quod vos omnes facere oportuit, id illi fecerunt: certiorem me fecere de vestris morbis.'"
 3. "But it is very improbable that he should mention thus a family so distinguished as this: he names them just after, ch. 1 Corinthians 1:16, as the household of Stephanas."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They have supplied" - Fortunatus and Achaicus have bridged the gap between Paul and the Corinthians, providing a means of communication and support.
 2. "They seem to have carried this letter back" - Fortunatus and Achaicus may have been the messengers who delivered this letter to the Corinthians, emphasizing their role in facilitating the exchange of words between Paul and the Corinthians.
 3. "Hence the exhortations" - The presence of Fortunatus and Achaicus in Corinth upon the arrival of the Epistle is implied, which explains the exhortations given in the letter.
@@ -50,4 +50,4 @@ The arrival of Stephanas, Fortunatus, and Achaicus brought great joy and fulfill
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

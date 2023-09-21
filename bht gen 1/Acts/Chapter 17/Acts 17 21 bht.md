@@ -9,7 +9,7 @@ The verse describes a group of strangers who are easily influenced by their surr
 2. "The comparative, καινότερον, is used as here by Theophr. in giving the character of a loquacious person: οἷος ἐρωτῆσαι Ἔχεις περὶ τοῦδε εἰπεῖν καινόν; καὶ ἐπιβαλὼν ἐρωτᾷν Μὴ λέγεταί τι καινότερον? It implies, as we should say, the very last news."
 3. "The scholiast evidently has our text in his mind; ταῦτα πρὸς τοὺς Ἀθηναίους αἰνίττεται, οὐδέν τι μελετῶντας πλὴν λέγειν τι καὶ ἀκούειν καινόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Athenians were constantly seeking after something new, always craving for the next novelty to satisfy their curiosity." 
 
 2. "Their obsession with novelty consumed their time and attention, leaving little room for anything else." 
@@ -54,4 +54,4 @@ The verse describes a group of strangers who are easily influenced by their surr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

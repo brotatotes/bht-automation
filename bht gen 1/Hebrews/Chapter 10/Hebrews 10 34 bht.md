@@ -9,7 +9,7 @@ In this verse, the readers are commended for their compassionate nature as they 
 2. "Ye took with joy the plundering of your goods." 
 3. "Knowing that ye have for yourselves a better possession and abiding."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye both sympathized with those in bonds and accepted with joy the plundering of your (own) goods."
 2. "Joy in tribulations, as exercising faith and other graces."
 3. "Knowing that ye have for yourselves a heavenly possession: enduring, not liable to spoiling."
@@ -59,4 +59,4 @@ In this verse, the readers are commended for their compassionate nature as they 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

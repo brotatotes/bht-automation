@@ -4,7 +4,7 @@
 In this verse, Jesus passionately rebukes the religious leaders, addressing their hypocrisy and wickedness. He uses the metaphor of being "offspring of vipers" to highlight their deceitful nature. Commentators highlight the connection between the heart and speech, emphasizing that our words reveal the condition of our hearts. This passage emphasizes the importance of sincerity and integrity in our actions, as they reflect our true character. It serves as a reminder to examine ourselves and ensure that our words and deeds align with a righteous heart.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O generation of vipers—how can ye, being evil, speak good things?" - This quote highlights the strong language used by Jesus to address the hypocrisy of the religious leaders. It emphasizes the contrast between their evil hearts and the words they speak.
 
 2. "For out of the abundance of the heart the mouth speaketh." - This quote emphasizes the connection between the condition of one's heart and the words they speak. It reveals the importance of having a pure and righteous heart in order to produce good and truthful speech.
@@ -44,4 +44,4 @@ In this verse, Jesus passionately rebukes the religious leaders, addressing thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

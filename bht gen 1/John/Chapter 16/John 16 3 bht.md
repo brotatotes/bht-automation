@@ -13,7 +13,7 @@ This verse exposes the underlying cause of persecution and opposition faced by b
 
 4. "1 Timothy 1:13 reveals the transformative power of God's grace as Paul reflects on his own past, saying, 'though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief.' This verse reminds us that no one is beyond the reach of God's forgiveness and redemption, and it encourages us to extend the same grace to others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things have I spoken unto you, that ye should not be offended." This verse reminds us that Jesus speaks to us not to discourage or offend us, but to prepare and strengthen us. It is a reminder that His words are meant to guide and protect us, even in times of difficulty or uncertainty.
 
 2. "Both the warnings and the encouragements just given." This commentary highlights the importance of both warnings and encouragements in Jesus' teachings. It emphasizes that Jesus' words are balanced, addressing both the challenges and the blessings that we may encounter in our faith journey.
@@ -69,4 +69,4 @@ This verse exposes the underlying cause of persecution and opposition faced by b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

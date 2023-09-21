@@ -9,7 +9,7 @@ In the darkness of the night, an important event was about to unfold. Jesus, the
 2. "It is perhaps fanciful to see... an allusion to the σκοτία in Judas's soul, or to ὑμῶν ... ἡ ὥρα καὶ ἡ ἐξουσία τοῦ σκότου, though doubtless there the Lord alludes to its being also night."
 3. "But I quite feel, with Meyer, that there is something awful in this termination it was night."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He then, having received the sop, went immediately out—severing himself for ever from that holy society with which he never had any spiritual sympathy." 
 2. "And it was night—but far blacker night in the soul of Judas than in the sky over his head." 
 3. "DISCOURSE AFTER THE TRAITOR'S DEPARTURE—PETER'S SELF-CONFIDENCE—HIS FALL PREDICTED."
@@ -50,4 +50,4 @@ In the darkness of the night, an important event was about to unfold. Jesus, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

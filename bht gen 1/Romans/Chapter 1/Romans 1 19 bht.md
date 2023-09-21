@@ -9,7 +9,7 @@ Humanity has been given the opportunity to observe and understand the truth abou
 2. "Thus τὸ γνωστ. τ. θεοῦ will mean, that universal objective knowledge of God as the Creator which we find more or less in every nation under heaven." 
 3. "Every man has in him this knowledge; his senses convey it to him (see next verse) with the phænomena of nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That which may be known of God is manifest in them." This quote highlights the idea that God has made Himself known to humanity, and His existence and attributes can be understood by observing the world around us.
 2. "For God hath showed it unto them." This quote emphasizes that God has actively revealed Himself to humanity, indicating His desire for a relationship with His creation.
 3. "The sense of this pregnant statement the apostle proceeds to unfold." This quote suggests that the apostle will further explain and expand upon the meaning and implications of the previous statement.
@@ -54,4 +54,4 @@ Humanity has been given the opportunity to observe and understand the truth abou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

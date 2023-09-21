@@ -4,7 +4,7 @@
 In this Bible verse, a powerful angel cries out with a loud voice, symbolizing the importance and urgency of his message. The intensity of his cry is likened to the roar of a lion, demonstrating the awe-inspiring nature of his proclamation. As he cries out, seven thunders respond with their own voices, representing the denunciations of God's judgments and wrath. Though the specific meaning of the thunders is not explained, their significance is understood, either by previous reference or by a common understanding among the listeners.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, whom the angel represents, is often so symbolized (Revelation 5:5, 'the Lion of the tribe of Juda')."
 2. "Thunderings marked the opening of the seventh seal (Revelation 8:1; Revelation 8:5); so also at the seventh vial (Revelation 16:17; Revelation 16:18)."
 3. "Their full meaning shall be only known at the grand consummation marked by the seventh seal, the seventh trumpet (Revelation 11:19), and the seventh vial."
@@ -42,4 +42,4 @@ Note: The provided commentary is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

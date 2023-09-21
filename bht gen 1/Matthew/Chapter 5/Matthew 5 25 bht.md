@@ -9,7 +9,7 @@ In this verse, commentators highlight the urgency and importance of resolving co
 2. "The offended brother is to us that law, as long as he has its claim upon us."
 3. "The ὁδός, in the interpretation, is the way in which all men walk, the ὁδὸς πάσης τῆς γῆς of 3 Kings Matthew 2:2, the ὁδὸς ᾗ οὐκ ἐπαναστραφήσομαι of Job 16:22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Agree with thine adversary—thine opponent in a matter cognizable by law." This quote emphasizes the importance of finding common ground and resolving conflicts peacefully, especially in legal matters.
 
 2. "Quickly, whiles thou art in the way with him." This quote highlights the urgency of resolving disputes promptly, before they escalate and lead to further consequences.
@@ -54,4 +54,4 @@ In this verse, commentators highlight the urgency and importance of resolving co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

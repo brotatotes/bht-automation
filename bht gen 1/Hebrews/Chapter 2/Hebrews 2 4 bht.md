@@ -4,7 +4,7 @@
 The Gospel is proclaimed with divine authority and confirmed through miraculous signs, wonders, and the distribution of the Holy Spirit's gifts. These signs and wonders are astonishing displays of God's power, attracting attention and providing evidence for the truth of the Gospel. The diverse miracles and spiritual gifts manifest according to God's will, testifying to the mission of those who preach and pointing to the purpose and establishment of the Christian faith. This divine witness and manifestation are carried out in alignment with God's sovereign plan and design.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Signs" and miracles, or other facts regarded as proofs of a divine mission "wonders" are miracles viewed as prodigies, causing astonishment.
 2. "Powers" are miracles viewed as evidences of superhuman power.
 3. The gift of the Holy Spirit was given to Christ without measure, but to us it is distributed in various measures and operations according to his own will.
@@ -56,4 +56,4 @@ The Gospel is proclaimed with divine authority and confirmed through miraculous 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

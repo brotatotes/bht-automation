@@ -4,7 +4,7 @@
 In this verse, there is a sense of urgency and importance in the command to write down certain information, believed to be advantageous and comforting to the suffering church. While there are secrets and mysteries left unrevealed, the focus is on the contents of the opened book and the oath of the angel, signifying the fulfillment of God's plans. The voice from heaven, believed to be Jesus Christ, emphasizes the divine authority behind the command.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The godly are thus kept from morbid ponderings over the evil to come; and the ungodly are not driven by despair into utter recklessness of life." 
 2. "God in mercy withholds them, since 'sufficient unto the day is the evil thereof.'"
 3. "Besides the terrors foretold, there are others unutterable and more horrifying lying in the background."
@@ -51,4 +51,4 @@ In this verse, there is a sense of urgency and importance in the command to writ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

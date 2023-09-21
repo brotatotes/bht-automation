@@ -4,7 +4,7 @@
 In this Bible verse, a woman displays an extraordinary act of love and devotion towards Jesus by washing his feet with her tears and wiping them with her hair. Her actions stand in stark contrast to the host, Simon, who neglects to provide basic acts of hospitality such as offering water for foot-washing. The woman's profound humility and the lack of care shown by Simon underscore a powerful message about the nature of love and devotion towards Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I entered . . . no water—a compliment to guests." - This quote highlights the unusual hospitality of the host, who did not provide water for Jesus to wash his feet. It raises the question of whether this lack of basic courtesy was a sign of love or the absence of it.
 
 2. "Was this 'much love?'" - This quote challenges the reader to question the sincerity and depth of the host's love. It prompts reflection on the host's actions and whether they truly demonstrated genuine love towards Jesus.
@@ -47,4 +47,4 @@ In this Bible verse, a woman displays an extraordinary act of love and devotion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

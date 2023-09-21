@@ -9,7 +9,7 @@ Amidst the spread of the Gospel and the conversion of sinners, news of the remar
 2. "He can in any distinctive sense, be said to have been an Apostle, as they were."
 3. "The choice of such a man, one by birth with the agents, and of a liberal spirit, shows sufficiently that they wished to deal, not harshly, but gently and cautiously, whatever their reason was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sent . . . Barnabas . . . as far as Antioch—implying that even on the way to Antioch he found churches to visit." This quote highlights the proactive nature of Barnabas' mission, suggesting that he was not only focused on reaching Antioch but also took the opportunity to visit other churches along the way.
 
 2. "It was in the first instance, no doubt, a mission of inquiry." This quote emphasizes that Barnabas' mission was primarily aimed at gathering information and understanding the proceedings of the Cyprians and Cyrenians in Antioch.
@@ -45,4 +45,4 @@ Amidst the spread of the Gospel and the conversion of sinners, news of the remar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

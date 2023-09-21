@@ -9,7 +9,7 @@ Before the revelation of faith, we, both Jews and Gentiles, were under the law, 
 2. "ὅτε ἦμεν νήπιοι refers, not to any immaturity of capacity in us, but to the lifetime of the church."
 3. "It is more natural to take στοιχεῖα in its simpler meaning, that of letters or symbols of the alphabet, and τοῦ κόσμου not in its worst sense, but as in Hebrews 9:1, ‘belonging to the unspiritual outer world.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews in their bondage to the law of Moses, as the representative people of the world, include all mankind virtually amenable to God's law."
 2. "Even the Gentiles were under 'bondage,' and in a state of discipline suitable to nonage, till Christ came as the Emancipator."
 3. "The elements, or rudiments, refer to the elementary lessons of outward things, such as the legal ordinances."
@@ -53,4 +53,4 @@ Before the revelation of faith, we, both Jews and Gentiles, were under the law, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

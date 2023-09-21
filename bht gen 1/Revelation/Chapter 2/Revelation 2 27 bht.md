@@ -4,7 +4,7 @@
 The Bible verse encapsulates the image of Christ's rule portrayed as a firm and invincible power, evoking both severity and grace. It emphasizes the consequences of rebellion against His authority, symbolized by a rod of iron, resulting in complete destruction. The verse portrays Christ as the Shepherd of both His followers and His enemies, employing His unwavering rule to bring all under His control. This authoritative and rigorous rule leaves no room for disobedience, and those who refuse to submit will be completely shattered and conquered.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ shall rule them with a scepter of iron, to make them capable of being ruled with a scepter of gold; severity first, that grace may come after."
 2. "He who would have shepherded them with a pastoral rod, shall, because of their hardened unbelief, shepherd them with a rod of iron."
 3. "A potter's vessel dashed to pieces, because of its failing to answer the design of the maker, is the image to depict God's sovereign power to give reprobates to destruction, not by caprice, but in the exercise of His righteous judgment."
@@ -40,4 +40,4 @@ The Bible verse encapsulates the image of Christ's rule portrayed as a firm and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

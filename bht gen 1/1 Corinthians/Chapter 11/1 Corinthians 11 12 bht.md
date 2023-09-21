@@ -9,7 +9,7 @@ In this profound verse, we are reminded of the fundamental interconnectedness an
 2. "They are dependent on one another, but both on HIM: the Christian life therefore, which unites them in Christ, is agreeable to God’s ordinance." 
 3. "For as the woman is (was taken, Genesis 2:21 f.) out of the man, so the man is (is born, in the propagation of the human race) by means of the woman."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the woman was formed out of the man, even so is man born by means of woman." 
 2. "All things, including both man and woman, are from God as their source." 
 3. "They depend mutually each on the other, and both on him."
@@ -49,4 +49,4 @@ In this profound verse, we are reminded of the fundamental interconnectedness an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of those who sit in Moses' seat, holding the au
 2. "In so far as the Pharisees and Scribes enforce the law and precepts of Moses, obey them: but imitate not their conduct."
 3. "Among Christians there are to be none sitting on the seat of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The scribes and the Pharisees sit—The Jewish teachers stood to read, but sat to expound the Scriptures." 
 
 2. "in Moses' seat—that is, as interpreters of the law given by Moses." 
@@ -59,4 +59,4 @@ The verse being described speaks of those who sit in Moses' seat, holding the au
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

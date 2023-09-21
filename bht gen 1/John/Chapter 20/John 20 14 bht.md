@@ -9,7 +9,7 @@ Amidst Mary's tears and searching, she turns and gazes upon the presence she fee
 2. "Her tears wove a veil, which concealed Him who stood before her."
 3. "She did not expect Him to be there, and was wholly preoccupied with other thoughts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary, arriving perhaps by another direction after they left, lingers at the spot, weeping for her missing Lord."
 2. "As she gazes through her tears on the open tomb, she also ventures to stoop down and look into it."
 3. "Lo! 'two angels in white' appear to her in a 'sitting' posture, as having finished some business, and awaiting someone to impart tidings to."
@@ -50,4 +50,4 @@ Amidst Mary's tears and searching, she turns and gazes upon the presence she fee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

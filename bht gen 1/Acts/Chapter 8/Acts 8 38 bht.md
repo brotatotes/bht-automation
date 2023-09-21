@@ -11,7 +11,7 @@ In this verse, a command is given to a eunuch, who obediently follows it by goin
 
 3. "The eunuch's encounter with Philip shows that God's word is not limited by social barriers or cultural boundaries." This quote emphasizes the inclusivity of God's word, as it reaches even those who may be considered outsiders or marginalized in society.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They went down both into the water" - This phrase suggests that baptism involved a physical immersion in water, rather than just a symbolic sprinkling or pouring.
 2. "He baptized him" - This highlights the role of the baptizer as the one who administers the sacrament, emphasizing the authority and responsibility of the baptizer.
 3. "The precise mode is neither certain nor of any consequence" - This statement suggests that the specific way in which baptism is performed is not the most important aspect, but rather the act of obedience and commitment to God.
@@ -47,4 +47,4 @@ Note: The commentary provides insights into the ancient practice of baptism, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

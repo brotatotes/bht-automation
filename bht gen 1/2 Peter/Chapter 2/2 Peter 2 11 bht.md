@@ -11,7 +11,7 @@ In this verse, there is a reference to angels, beings of superior strength who b
 
 3. "The vulg. rendering, ‘adversum se,’ is clearly wrong." This comment critiques a specific translation and suggests that it is incorrect, providing insight into the proper understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judgment belongs to God, not the angels. How great is the dignity of the saints who, as Christ's assessors, shall hereafter judge angels!"
 2. "If superior angels dare not, as being in the presence of God, the Judge, speak evil even of the bad angels, how awful the presumption of those who speak evil blasphemously of good 'dignities.'"
 3. "The angels who sinned still retain the indelible impress of majesty. Satan is still 'a strong man': 'prince of this world'; and under him are 'principalities, powers, rulers of the darkness of this world.' We are to avoid irreverence in regard to them, not on their account, but on account of God."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

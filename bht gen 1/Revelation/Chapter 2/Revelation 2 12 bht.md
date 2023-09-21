@@ -4,7 +4,7 @@
 The verse being described is a powerful warning against unrepentant actions. It speaks of a sharp sword with two edges, representing the piercing and convicting power of God's words. The commentary highlights the historical context of the city of Pergamum, known for its library and manufacturing industries. It also mentions the prevalence of pagan worship and witchcraft in the city, emphasizing the spiritual darkness that was present. Overall, the verse addresses the need for repentance and the consequences of ignoring God's warnings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pergamus, or rather, Pergamum, on the river Caicus. It was capital of Attalus the Second's kingdom, which was bequeathed by him to the Romans, 133 B.C." 
 2. "Famous for its library, founded by Eumenes (197-159), and destroyed by Caliph Omar." 
 3. "He which hath the sharp sword with two edges—appropriate to His address having a twofold bearing, a searching power so as to convict and convert some, and to convict and condemn to punishment others."
@@ -49,4 +49,4 @@ The verse being described is a powerful warning against unrepentant actions. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

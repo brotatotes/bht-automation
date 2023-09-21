@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the balance between freedom and submi
 2. "But in a matter of subjection, such ἐλευθερία might be and often is made a cloak for disobedience."
 3. "As free (children of God, His family and people, His kingly priesthood: not merely free from the law, or free from sin, or free from earthly subjection, but generally and abstractedly free Christ’s freed men)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well-doing" is the natural fruit of being freemen of Christ, made free by "the truth" from the bondage of sin.
 2. Duty is enforced on us to guard against licentiousness, but the way in which it is to be fulfilled is by love and the holy instincts of Christian liberty.
 3. We are given principles, not details.
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the balance between freedom and submi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

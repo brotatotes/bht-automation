@@ -9,7 +9,7 @@ This verse is addressed to the saints, emphasizing that God's love and favor are
 2. "No such distinction would be in place in an exordium which anticipates the result of the Epistle that Jew and Gentile are one in guilt, and one in Christ."
 3. "God is the Giver of Grace and Peace, Christ the Imparter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved of God" - This phrase emphasizes the special love and favor that God has for believers, comparing it to the love shown to the tribe of Benjamin in Deuteronomy 33:12. 
 
 2. "Grace, c." - This refers to the undeserved favor and blessings that believers receive from God, as explained in Colossians 3:12. 
@@ -55,4 +55,4 @@ This verse is addressed to the saints, emphasizing that God's love and favor are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

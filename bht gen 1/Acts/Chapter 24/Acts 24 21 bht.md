@@ -11,7 +11,7 @@ In the midst of accusations and conflicting voices, there is one voice that stan
 
 3. "Probably a correction" - This phrase implies that the phrase "before you" may have been a mistake or an error in the original text, and the phrase "by you" was likely intended as the correct phrase. It suggests that the correction was made to align with the more commonly used expression.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Except . . . this one voice" - The commentary highlights the significance of this phrase, emphasizing that amidst the accusations and conflicting voices, there is one voice that stands out and demands attention.
 
 2. "Touching the resurrection" - This quote draws attention to the specific topic being discussed, which is the resurrection. It suggests that the commentary will delve into the importance of this subject in relation to the Pharisees' inconsistency.
@@ -54,4 +54,4 @@ In the midst of accusations and conflicting voices, there is one voice that stan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

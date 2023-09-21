@@ -9,7 +9,7 @@ This verse warns against the destructive nature of internal conflicts within the
 2. "ὁ μὲν γὰρ δάκνων, ὀργῆς ἐπλήρωσε πάθος · ὁ δὲ κατεσθίων, θηριωδίας ἐσχάτης παρέσχεν ἀπόδειξιν, δήγματα δὲ κ. βρώσεις οὐ τὰς σωματικάς φησιν, ἀλλὰ τὰς πολὺ χαλεπωτέρας." 
 3. "ἡ γὰρ διάστασις κ. ἡ μάχη φθοροποιὸν κ. ἀναλωτικὸν καὶ τῶν δεχομένων αὐτὴν κ. τῶν εἰσαγόντων, καὶ σητὸς μᾶλλον ἅπαντα ἀνατρώγει."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Backbite the character." 
 2. "Devour the substance by injuring, extortion, c." 
 3. "Strength of soul, health of body, character, and resources, are all consumed by broils."
@@ -57,4 +57,4 @@ This verse warns against the destructive nature of internal conflicts within the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

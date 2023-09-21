@@ -9,7 +9,7 @@ In this verse, the apostle Paul demonstrates deep humility and a genuine concern
 2. "μετ. π. ταπ.] Also a Pauline expression." 
 3. "πειρασμῶν] See especially Galatians 4:14."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Self-exaltation was unknown to him." 
 2. "He 'sowed in tears,' from anxieties both on account of the converts from whom he 'travailed in birth.'" 
 3. "The Jews, whose bitter hostility was perpetually plotting against him, interrupting his work and endangering his life."
@@ -45,4 +45,4 @@ These quotes highlight the humility and dependence on God that the apostle Paul 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -13,7 +13,7 @@ In this verse, there is a contradiction between the preaching of Christ's resurr
 
 4. "Whether the Apostle regarded the resurrection of the body as inseparably bound up with a future existence of the soul, does not very clearly appear in this chapter." - This quote acknowledges the ambiguity in the Apostle's stance on the relationship between the resurrection of the body and the existence of the soul, suggesting that it is not explicitly addressed in this chapter.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is announced by us eye-witnesses as having risen from the dead."
 2. "How is it that some of you deny that which is a necessary consequence of Christ's resurrection, namely, the general resurrection?"
 3. "Gentile reasoners who would not believe it because they did not see 'how' it could be."
@@ -63,4 +63,4 @@ In this verse, there is a contradiction between the preaching of Christ's resurr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

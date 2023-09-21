@@ -4,7 +4,7 @@
 The foundations of this radiant and superb structure, adorned with precious stones of various colors, speak of the worth and preciousness of Christ. They symbolize the happiness and glory of God's presence and the protection enjoyed by the inhabitants of this city. These foundation stones are not merely ornaments, but rather the very foundation itself, depicting the firmness and durableness of Christ in whom all find perfect glory and happiness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These precious stones constituted the 'foundations'." 
 2. "Contrast Revelation 18:12 as to the harlot, Babylon." 
 3. "Chalcedony—agate from Chalcedon: semi-opaque, sky-blue, with stripes of other colors."
@@ -44,4 +44,4 @@ Note: The commentary provides insights into the symbolism of the precious stones
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

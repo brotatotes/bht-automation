@@ -9,7 +9,7 @@ The Corinthians were not lacking in any spiritual gift and were not inferior to 
 2. "χάρισμα here has its widest sense, of that which is the effect of χάρις, not meaning ‘spiritual gifts’ in the narrower sense, as in ch. 1 Corinthians 12:4."
 3. "This is plain from the whole strain of the passage, which dwells not on outward gifts, but on the inward graces of the Christian life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye come behind—are inferior to other Christians elsewhere."
 2. "In no gift—not that all had all gifts, but different persons among them had different gifts."
 3. "Waiting for... coming of... Christ—The crowning proof of their 'coming behind in no gift.' Faith, hope, and love, are all exercised herein."
@@ -58,4 +58,4 @@ The Corinthians were not lacking in any spiritual gift and were not inferior to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

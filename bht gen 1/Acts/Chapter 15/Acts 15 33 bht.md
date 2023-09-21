@@ -11,7 +11,7 @@ The verse describes the departure of Paul, Barnabas, Judas, and Silas from Antio
 
 3. "We learn from Galatians 2:10, that  a condition was attached to the cordiality with which the Gentile mission of Paul and Barnabas was recognized by the chief Apostles: that they should  remember the poor, i.e. the poor  at Jerusalem: that the wants of the mother church should not be forgotten by those converts, whose Judaical bond to her was thus cast loose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'were let go in peace' indicates that there was no animosity or conflict between the parties involved."
 2. "The use of the word 'peace' as a parting salutation suggests a desire for harmony and goodwill."
 3. "This phrase emphasizes the importance of peaceful resolutions and highlights the value of maintaining peaceful relationships."
@@ -49,4 +49,4 @@ The verse describes the departure of Paul, Barnabas, Judas, and Silas from Antio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

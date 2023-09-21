@@ -9,7 +9,7 @@ In this verse, we encounter a powerful demonstration of God's limitless power an
 2. "This place, and its original, Genesis 18:14, which are sometimes quoted to shew that ῥῆμα may mean simply 'a thing,' are in fact most decisive against any such supposition."
 3. "For the declaration amounts to this, 'Hath the Lord spoken and can He not do it?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For, &c.—referring to what was said by the angel to Abraham in like case, to strengthen her faith." 
 
 2. "The angel's words to Abraham were meant to encourage Sarah and remind her of God's faithfulness in fulfilling His promises." 
@@ -49,4 +49,4 @@ In this verse, we encounter a powerful demonstration of God's limitless power an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

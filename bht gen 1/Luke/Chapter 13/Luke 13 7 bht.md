@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes highlight various aspects of the pas
 2. "In the individual application, many thousands did bear fruit this very year."
 3. "Why, besides bearing no fruit, is it impoverishing the soil?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Three years—a long enough trial for a fig tree, and so denoting probably just a sufficient period of culture for spiritual fruit."
 2. "Cut it down—indignant language."
 3. "Cumbereth—not only doing no good, but wasting ground."
@@ -50,4 +50,4 @@ In this Bible verse, the commentator quotes highlight various aspects of the pas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

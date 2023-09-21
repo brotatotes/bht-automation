@@ -4,7 +4,7 @@
 The verse being described emphasizes the transformative power of God's love and grace. It highlights that salvation is not earned or achieved by our own efforts, but is a gift from God. It underscores the need for a spiritual resurrection and highlights the unmerited favor and kindness of God towards us. Additionally, it emphasizes the importance of humility and recognizing that our salvation is a result of God's work in us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There must be a spiritual resurrection of the soul before there can be a comfortable resurrection of the body."
 2. "We are already seated there IN Him, and hereafter shall be seated by Him."
 3. "Salvation is to the Christian not a thing to be waited for hereafter, but already realized."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

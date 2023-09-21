@@ -9,7 +9,7 @@ In this passage, we see the selection process for choosing a replacement for Jud
 2. "Justus is a Roman cognomen, assumed according to a custom then prevalent. The name Justus seems to have been common."
 3. "Traditionally, according to Nicephorus, he suffered martyrdom in Æthiopia; according to others, in Colchis: another account makes him preach in Judæa and be stoned by the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They appointed" - This phrase indicates that the decision to choose a replacement for Judas was made collectively by the entire group, not just the Eleven disciples. It highlights the importance of unity and consensus in making important decisions within the community of believers.
 
 2. "The choice would lie between a very few" - This statement suggests that there were only a limited number of candidates suitable for the position of apostle. It implies that the qualifications and requirements for this role were specific and not everyone was eligible. This insight sheds light on the significance and selectiveness of the apostolic ministry.
@@ -64,4 +64,4 @@ These quotes shed light on the background and experiences of Joseph (Barsabas) a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

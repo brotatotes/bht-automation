@@ -9,7 +9,7 @@ The Bible verse being described is Acts 25:12. When Festus conferred with the co
 2. "Thus were the two the design of Paul (ch. Act 19:21), and the promise of our Lord to him (ch. Act 23:11) brought to their fulfilment, by a combination of providential circumstances."
 3. "We can hardly say, with De W. and Meyer, that these must have influenced Paul in making his appeal; that step is naturally accounted for, and was rendered necessary by the difficulties which now beset him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Festus—little expecting such an appeal, but bound to respect it."
 2. "having conferred with the council—his assessors in judgment, as to the admissibility of the appeal."
 3. "to Cæsar shalt thou go—as if he would add perhaps 'and see if thou fare better.'"
@@ -53,4 +53,4 @@ The Bible verse being described is Acts 25:12. When Festus conferred with the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

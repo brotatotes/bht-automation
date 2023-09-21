@@ -4,7 +4,7 @@
 The verse being described emphasizes the purpose of the ministry of the word, which is to perfect and complete the saints, building them up in faith, love, and holiness. It involves correcting deficiencies, instructing and completing in all aspects, and serves as the means for restoring and joining believers together. The ministry of the word is a laborious work that requires faithfulness, and through it, the body of Christ is edified and established. By it, Christians are equipped to serve in various ministries and become complete in love, knowledge, and order.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "perfecting—The Greek implies correcting in all that is deficient, instructing and completing in number and all parts."
 2. "for—a different Greek word; the immediate object."
 3. "edifying—that is, building up as the temple of the Holy Ghost."
@@ -48,4 +48,4 @@ The verse being described emphasizes the purpose of the ministry of the word, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

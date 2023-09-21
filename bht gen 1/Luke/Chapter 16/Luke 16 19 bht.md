@@ -9,7 +9,7 @@ In a parable, a wealthy man is portrayed as being adorned in luxurious purple ga
 2. "Observe, that this rich man is not accused of any flagrant crimes: he lives, as the world would say, as became his means and station."
 3. "πορφ. κ. βύσ., the Tyrian costly purple and the fine linen (for under clothing) from Egypt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Purple and fine linen" signifies luxury and extravagance, reflecting the opulent lifestyle of the rich man. (Esther 8:15, Revelation 18:12)
 2. The rich man possessed everything his desires and wealth could afford, leaving him wanting for nothing. 
 3. This verse highlights the contrast between the rich man's material abundance and the spiritual poverty that ultimately leads to his downfall.
@@ -53,4 +53,4 @@ In a parable, a wealthy man is portrayed as being adorned in luxurious purple ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -10,7 +10,7 @@ In this verse, Jesus warns against the hypocrisy of those who perform acts of ri
 3. "The synagogues, as afterwards the Christian churches, were the regular places for the collection of alms."
 4. "They have in full, exhaust: not have their due reward."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore, when thou doest thine alms, do not sound a trumpet before thee—The expression is to be taken figuratively for blazoning it. Hence our expression to 'trumpet.'" 
 2. "as the hypocrites do—This word—of such frequent occurrence in Scripture, signifying primarily 'one who acts a part'—denotes one who either pretends to be what he is not (as here), or dissembles what he really is (as in Luke 12:1; Luke 12:2)."
 3. "that they may have glory of men. Verily I say unto you—In such august expressions, it is the Lawgiver and Judge Himself that we hear speaking to us. They have their reward—All they wanted was human applause, and they have it—and with it, all they will ever get."
@@ -56,4 +56,4 @@ In this verse, Jesus warns against the hypocrisy of those who perform acts of ri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the need for Christians to be alert and prep
 2. "The best defences against such a surprise are the three great Christian graces, Faith, Hope, Love, which are accordingly here enumerated."
 3. "We must not perhaps press minutely the meaning of each part of the armour, in the presence of such variation in the two passages."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith, hope, and love, are the three pre-eminent graces."
 2. "The armor here is only defensive; in 1 Corinthians 13:13, also offensive."
 3. "The head needs to be kept from error, the heart from sin."
@@ -50,4 +50,4 @@ The verse being described speaks of the need for Christians to be alert and prep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

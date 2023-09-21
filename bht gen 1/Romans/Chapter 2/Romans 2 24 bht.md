@@ -9,7 +9,7 @@ The verse being described highlights the consequences of Israel's disobedience, 
 2. "The fact is so, as it is written." 
 3. "The words of the prophet Isaiah and Ezekiel are applicable to you today."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'as it is written' indicates that what follows is a direct quotation from the Old Testament scriptures, emphasizing the authority and reliability of God's word."
 2. "By referencing the written word of God, the author is highlighting the importance of scripture in understanding and interpreting the message being conveyed."
 3. "This phrase serves as a reminder that the words being quoted have been passed down through generations, preserving the truth and wisdom of God's revelation to His people."
@@ -54,4 +54,4 @@ The verse being described highlights the consequences of Israel's disobedience, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

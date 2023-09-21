@@ -4,7 +4,7 @@
 In everything, believers are called to submit to Christ, just as the Church submits to its headship. This submission encompasses all areas of life and requires aligning actions with God's will. It is a voluntary and sincere obedience to Christ's commands, rooted in love, honor, and reverence. This comprehensive call to submission extends to every aspect of our lives and emphasizes the need to seek God's guidance and wisdom in all decisions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though there be the difference of headships mentioned in Ephesians 5:23, nevertheless, thus far they are one, namely, in the submission of the Church to Christ, being the prototype of that of the wife to the husband."
 2. "In every thing—appertaining to a husband's legitimate authority; 'in the Lord' (Ephesians 5:22-23); everything not contrary to God."
 3. "Their own—not in most of the oldest manuscripts, and not needed by the argument."
@@ -52,4 +52,4 @@ In everything, believers are called to submit to Christ, just as the Church subm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

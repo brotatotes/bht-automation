@@ -4,7 +4,7 @@
 In this verse, a commentator describes the internal struggle within a person, their own battle against sin and the captivity they experience. Another commentator highlights the contrast between the sinful nature and the renewed mind that desires to follow God's law. We see the wrestling of a regenerate individual, deeply aware of the evil inclinations and bodily appetites that go against the inner desires for righteousness, despite all their resistance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'law' means an inward principle of action, good or evil, operating with the fixedness and regularity of a law."
 2. "The apostle found two such laws within him; the one 'the law of sin in his members,' called 'the flesh which lusteth against the spirit,' 'the flesh with the affections and lusts,' that is, the sinful principle in the regenerate; the other, 'the law of the mind,' or the holy principle of the renewed nature."
 3. "When the apostle describes himself as 'brought into captivity' by the triumph of the sinful principle of his nature, he clearly speaks in the person of a renewed man."
@@ -49,4 +49,4 @@ These quotes provide insight into the internal struggle Paul faces, the recognit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

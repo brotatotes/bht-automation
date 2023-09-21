@@ -9,7 +9,7 @@ This verse describes a notable figure, referred to as the chief man of the islan
 2. "If so (and his Roman name further confirms it), Publius was legatus of the Prætor of Sicily, to whose province Malta belonged."
 3. "The three days were probably till they could find a suitable lodging."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Possessions of the chief man—"the first man." of the island—He would hardly be so styled in the lifetime of his father, if his distinction was that of the family."
 2. "But it is now ascertained that this was the proper official title of the Maltese representative of the Roman prætor to Sicily, to whose province Malta belonged; two inscriptions having been discovered in the island, one in Greek, the other in Latin, containing the same words which Luke here employs."
 3. "Who received us—of Paul's company, but doubtless including the 'courteous' Julius."
@@ -56,4 +56,4 @@ This verse describes a notable figure, referred to as the chief man of the islan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the governor under the authority of King Aretas of Arabia 
 2. "The title appears to have been variously used... But apparently it must here be taken in its wider sense, and not in this latter: for the mere chief magistrate of the Jews would not have had the power of guarding the city."
 3. "Probably it is, as Stanley, a 'rope-basket'; a net."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ethnarch": a Jewish officer to whom heathen rulers gave authority over Jews in large cities where they were numerous.
 2. Aretas, against whom the Emperor Tiberius as the ally of Herod Agrippa had sent an army under Vitellius, had got possession of Damascus on the death of the emperor, and the consequent interruption of Vitellius' operations.
 3. Rather, it was granted by Caligula (A.D. 38) to Aretas, whose predecessors had possessed it.
@@ -50,4 +50,4 @@ In this verse, we see the governor under the authority of King Aretas of Arabia 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

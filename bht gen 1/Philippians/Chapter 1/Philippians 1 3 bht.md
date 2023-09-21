@@ -9,7 +9,7 @@ In this verse, we find a deep and lasting remembrance of the Philippians, evokin
 2. "The expression comprehends in one all such remembrances: but the article forbids the above rendering."
 3. "μνεία here, remembrance, not 'mention', which meaning it only gets by ποιεῖσθαι being joined to it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'In all my remembrance of you' suggests a deep and lasting impression that the Philippians had made on the apostle Paul. It signifies a fond and cherished memory, highlighting the strong bond and affection he had for them." 
 
 2. "This phrase also implies that Paul's thoughts of the Philippians were not fleeting or occasional, but rather a constant and continuous remembrance. It speaks to the enduring impact they had on his heart and mind." 
@@ -50,4 +50,4 @@ In this verse, we find a deep and lasting remembrance of the Philippians, evokin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

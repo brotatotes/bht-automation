@@ -4,7 +4,7 @@
 The verse being described talks about the indwelling Spirit of Jesus in a heart filled with love for Him. It promises the Spirit as a constant presence, never to go away. The commentators emphasize that true love for Jesus is shown through obedience, love being the condition for communion with Him. Love acts as a deterrent to disobedience and connects with the observance of His commandments. This verse calls for a commitment to live according to Christ's teachings, with love and good works springing from genuine faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The proper temple for the indwelling Spirit of Jesus is a heart filled with that love to Him which lives actively for Him."
 2. "The Spirit is here promised as One who would supply Christ's own place in His absence."
 3. "That he may abide with you for ever—never go away, as Jesus was going to do in the body."
@@ -54,4 +54,4 @@ The verse being described talks about the indwelling Spirit of Jesus in a heart 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

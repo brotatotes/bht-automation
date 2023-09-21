@@ -9,7 +9,7 @@ In this verse, commentators highlight the tension between those who exercise the
 2. "For his weakness of faith, κρινέτω, for his laxity of practice."
 3. "For God has accepted (adopted into his family) him (i.e. the eater, who was judged, his place in God’s family doubted: not the abstainer, who was only despised, set at nought, and to whom the words cannot, by the construction, apply."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let not him that eateth despise—look down superciliously upon 'him that eateth not.'" This quote highlights the importance of not judging or looking down upon others based on their personal choices or beliefs.
 2. "Let not him that eateth not judge—sit in judgment censoriously upon 'him that eateth.'" This quote emphasizes the need to refrain from passing judgment on others who have different practices or beliefs.
 3. "For God hath received him—as one of His dear children, who in this matter acts not from laxity, but religious principle." This quote reminds us that God accepts and embraces those who follow their own religious principles, even if they differ from our own.
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

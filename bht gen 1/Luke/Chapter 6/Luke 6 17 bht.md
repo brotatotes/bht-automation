@@ -11,7 +11,7 @@ In a humble and accessible location, Jesus descended from the mountain and stood
 
 3. "More naturally below the mountain." - This alternative interpretation highlights the humility and accessibility of Jesus' teachings, as he chooses to speak to the people from a lower position rather than from a position of authority.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This one contains little more than a fourth of the other; it has woes of its own, as well as the beatitudes common to both."
 2. "But above all, that of Matthew was plainly delivered a good while before, while this was spoken after the choice of the twelve."
 3. "As we know that our Lord delivered some of His weightiest sayings more than once, there is no difficulty in supposing this to be one of His more extended repetitions; nor could anything be more worthy of it."
@@ -49,4 +49,4 @@ In a humble and accessible location, Jesus descended from the mountain and stood
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The passage being described presents a picture of someone who has gone astray, become morally corrupted, and is aware of their own wrongdoing. This person is like a decaying building that is beyond repair, having opposed the teachings or principles they themselves acknowledge as true. Their own conscience condemns them, as they are fully convinced within themselves that their actions are morally wrong. Their persistence in their perverse ways only leads to self-condemnation, demonstrating their desperate and hopeless condition.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He cannot say, no one told him better: continuing the same after frequent admonition, he is self-condemned." 
 2. "He sinneth wilfully against knowledge." 
 3. "He is become perverse."
@@ -49,4 +49,4 @@ The passage being described presents a picture of someone who has gone astray, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

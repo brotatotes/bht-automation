@@ -11,7 +11,7 @@ In this Bible verse, it is conveyed that prophets are often met with rejection a
 
 3. "Passing to a different source of information" - This statement suggests that the phrase "εἶπεν δέ" could be an indication that the author is transitioning to a new source of information for the account being presented.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Too much familiarity breeds contempt."
 2. "Our Lord's long residence in Nazareth merely as a townsman had made Him too common, incapacitating them for appreciating Him."
 3. "A most important principle, to which the wise will pay due regard."
@@ -56,4 +56,4 @@ These quotes highlight the idea that unbelief can hinder God's work, the importa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

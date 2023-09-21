@@ -9,7 +9,7 @@ This verse is characterized by the authoritative commandment of God, expressing 
 2. "θεοῦ σωτῆρος ἡμ.: an expression belonging to the later apostolic period, one characteristic of which seems to have been the gradual dropping of the article from certain well-known theological terms."
 3. "τῆς ἐλπίσος ἡμῶν: gives utterance to the fulness of an old man's heart in the near prospect of that on which it naturally was ever dwelling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "by the commandment of God—the authoritative injunction, as well as the commission, of God." 
 2. "God our Saviour—The Father... It was a Jewish expression in devotion, drawn from the Old Testament." 
 3. "our hope"
@@ -53,4 +53,4 @@ This verse is characterized by the authoritative commandment of God, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

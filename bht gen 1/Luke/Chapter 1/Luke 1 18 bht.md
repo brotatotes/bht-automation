@@ -9,7 +9,7 @@ In the encounter with the angel, Zacharias responded to the news of his soon-to-
 2. "But Abraham’s faith was a strong contrast to the unbelief of Zacharias."
 3. "The Levites became superannuated at the age of fifty: but it appears, by extracts from the Rabbinical writings given by Lightfoot, that this was not the case with the priests."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary believed what was far harder without a sign."
 2. "Abraham... 'staggered not at the promise of God through unbelief, but was strong in faith, giving glory to God.'"
 3. "This was that in which Zacharias failed."
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

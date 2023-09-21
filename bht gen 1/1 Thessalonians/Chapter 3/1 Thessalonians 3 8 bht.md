@@ -9,7 +9,7 @@ In this verse, the commentator's descriptions bring to life the intimate bond an
 2. "The conditional form of this last sentence, with ἐάν, not ἐπεί, carries it forward as an exhortation for the future also"
 3. "The reading must not be dismissed, as Ellic., by taking refuge in Scrivener’s assertion that permutations of similar vowels are occasionally found even in the best MSS."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It revives us in our affliction to hear of your steadfastness." 
 2. "The vivid joy which the missionaries 'now' feel, will continue if the Thessalonians continue steadfast." 
 3. "They still needed exhortation, therefore he subjoins the conditional clause, 'if ye,' &c."
@@ -57,4 +57,4 @@ In this verse, the commentator's descriptions bring to life the intimate bond an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

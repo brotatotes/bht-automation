@@ -11,7 +11,7 @@ In this verse, there is a mention of a group that came before Jesus, possibly a 
 
 3. "The use of different terms in the different Gospel accounts highlights the diversity of the witnesses and their perspectives. It reminds us that each Gospel writer had their own unique way of recounting the events, adding depth and richness to our understanding of Jesus' ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Importunity is commended in the Syrophenician woman and often enjoined in the Bible." 
 2. "Rebuking can be seen as a form of discipline or correction." 
 3. "The act of rebuking can lead to a greater level of persistence and determination."
@@ -37,4 +37,4 @@ In this verse, there is a mention of a group that came before Jesus, possibly a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

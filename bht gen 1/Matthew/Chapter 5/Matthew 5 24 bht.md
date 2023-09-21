@@ -4,7 +4,7 @@
 In this verse, we are urged to prioritize reconciliation with our brothers and sisters over any acts of worship or sacrifice. The commentators emphasize that seeking forgiveness and resolving conflicts is essential before presenting our offerings to God. They emphasize that acts of love and friendship are paramount, and that our gifts and prayers hold no value without a foundation of love. Reconciliation is the key to making our worship pleasing and meaningful in the eyes of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The meaning evidently is—not, 'dismiss from thine own breast all ill feeling,' but 'get thy brother to dismiss from his mind all grudge against thee.'" 
 2. "It is at this solemn moment, when about to cast himself upon divine mercy, and seek in his offering a seal of divine forgiveness, that the offerer is supposed, all at once, to remember that some brother has a just cause of complaint against him through breach of this commandment." 
 3. "Before another step is taken—even before the offering is presented—this reconciliation is to be sought, though the gift have to be left unoffered before the altar."
@@ -28,4 +28,4 @@ In this verse, we are urged to prioritize reconciliation with our brothers and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

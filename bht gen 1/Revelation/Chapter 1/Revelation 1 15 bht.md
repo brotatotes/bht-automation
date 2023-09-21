@@ -9,7 +9,7 @@ In this verse, the description of a figure's feet like fine brass, as if burned 
 2. "According to usual analogy, not χάλκος but λίβανος is the central idea, and χάλκος the qualifying one."
 3. "His voice as the voice of many waters...appealing to ch. Rev 17:1 and Revelation 13:1; but, as Düsterdieck remarks, there seems to be no such allusion here, but only to the power of the voice as resembling the rushing of many waters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glowing brass, as if they had been made fiery (red-hot) in a furnace."
 2. "The feet of the priests were bare in ministering in the sanctuary. So our great High Priest here."
 3. "His voice, however, is here regarded in its terribleness to His foes."
@@ -39,4 +39,4 @@ In this verse, the description of a figure's feet like fine brass, as if burned 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

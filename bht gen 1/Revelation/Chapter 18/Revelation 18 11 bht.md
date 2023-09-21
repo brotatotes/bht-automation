@@ -4,7 +4,7 @@
 In this verse, the Bible portrays a city that is both spiritual and symbolic. It is described as a rich and splendid city, engaging in extensive commerce and luxury. The decline and fall of this city brings sorrow to many merchants who had relied on its thriving trade. The verse highlights the vastness and desolation of the city's commerce, as well as the shift of business from one place to another. Ultimately, it emphasizes the transient nature of worldly pursuits and the inevitable consequences of their decline.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The merchandise must therefore be spiritual, even as the harlot is not literal, but spiritual."
 2. "She did not witness against carnal luxury and pleasure-seeking, the source of the merchants' gains, but conformed to them."
 3. "Professing Christian merchants in her lived as if this world not heaven, were the reality, and were unscrupulous as to the means of getting gain."
@@ -33,4 +33,4 @@ In this verse, the Bible portrays a city that is both spiritual and symbolic. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

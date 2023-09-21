@@ -9,7 +9,7 @@ In this verse, the Bible is compared to a mirror that reflects the true nature o
 2. "The word of God is a mirror in which we may and ought to see our moral visage." 
 3. "The face he was born with. The expression is to be explained apparently as Wiesinger: 'Not that he can see in the glass any other than his natural face, but the addition τῆς γενέσεως αὐτοῦ serves more plainly to point out the sphere of mere material perception from which the comparison is taken.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The true disciple, say the rabbis, learns in order that he may do, not in order that he may merely know or teach."
 2. "As a man may behold his natural face in a mirror, so the hearer may perceive his moral visage in God's Word."
 3. "This faithful portraiture of man's soul in Scripture is the strongest proof of the truth of the latter."
@@ -51,4 +51,4 @@ In this verse, the Bible is compared to a mirror that reflects the true nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

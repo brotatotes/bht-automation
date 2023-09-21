@@ -9,7 +9,7 @@ The church in Corinth is encouraged to eagerly pursue the spiritual gifts that a
 2. "Seek this βαρβαροφωνία to the edifying of the Church."
 3. "Seek them to the edifying of the church, that ye may abound."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seek them, that ye may abound in them to the edifying." 
 2. "Zealous—emulously desirous." 
 3. "Spiritual gifts—literally, 'spirits'; that is, emanations from the one Spirit."
@@ -48,4 +48,4 @@ The church in Corinth is encouraged to eagerly pursue the spiritual gifts that a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

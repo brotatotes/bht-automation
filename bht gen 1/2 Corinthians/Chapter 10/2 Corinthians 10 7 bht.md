@@ -4,7 +4,7 @@
 Do not merely judge a minister of Christ based on external factors, such as appearance or rank. Look beyond the surface and consider the true qualities and character of the person. Remember to reflect on your own tendency to make snap judgments and engage in introspection to overcome biases. Focus on the spiritual qualities and abilities of individuals rather than their outward appearance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do ye regard mere outward appearance...? Even in outward bearing when I shall be present with you... I will show that I am more really armed with the authority of Christ." 
 2. "A Jewish emissary seems to have led this party." 
 3. "Paul modestly demands for himself only an equal place with those whom he had begotten in the Gospel."
@@ -47,4 +47,4 @@ Overall, the commentary reminds readers to avoid superficial judgments and inste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

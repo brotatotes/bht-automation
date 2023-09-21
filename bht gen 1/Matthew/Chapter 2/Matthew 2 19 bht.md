@@ -4,7 +4,7 @@
 This verse describes the demise of a fearful ruler who sought to eliminate a potential threat. Disrupted by an angelic intervention, his subsequent demise is depicted vividly through physical ailments. In the wake of his death, an angel appears in a dream to Joseph, indicating a divinely orchestrated opportunity to return to the land of Israel with the child and his mother. This account highlights the watchful providence of God and the involvement of angels in safeguarding the infant Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Miserable Herod! Thou thoughtest thyself safe from a dreaded Rival; but it was He only that was safe from thee; and thou hast not long enjoyed even this fancied security."
 2. "Our translators, somewhat capriciously, render the same expression 'the angel of the Lord,' Matthew 1:20; Matthew 2:13; and 'an angel of the Lord,' as here."
 3. "As the same angel appears to have been employed on all these high occasions—and most likely he to whom in Luke is given the name of 'Gabriel'—perhaps it should in every instance except the first, be rendered 'the angel'."
@@ -35,4 +35,4 @@ This verse describes the demise of a fearful ruler who sought to eliminate a pot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The pursuit of victory and the Christian's spiritual growth mirror the rigorous 
 2. "Every one who engages, not only in the race, but in any athletic contest."
 3. "He takes for granted the Christian's temperance in all things, as his normal state."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Striveth—in wrestling: a still more severe contest than the foot race."
 2. "Is temperate—So Paul exercised self-denial, abstaining from claiming sustenance for the sake of the 'reward,' namely, to 'gain the more.'"
 3. "Corruptible—soon withering, as being only of fir leaves taken from the fir groves which surrounded the Isthmian race course or stadium."
@@ -59,4 +59,4 @@ Note: The commentary is about 1 Corinthians 9:25.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

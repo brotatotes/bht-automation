@@ -9,7 +9,7 @@ In this verse, God's divine knowledge and protection over His chosen ones is hig
 2) "The sealing here mentioned...was to exempt those sealed from the judgments which were to come on the unbelieving."
 3) "The objection brought against this view...is grounded on the mistake of not distinguishing between the trials of the people of God and the judgments on the unbelieving world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Twelve is the number of the tribes, and appropriate to the Church: three by four: three, the divine number, multiplied by four, the number for world-wide extension." 
 2. "Twelve by twelve implies fixity and completeness, which is taken a thousandfold in 144,000. A thousand implies the world perfectly pervaded by the divine; for it is ten, the world number, raised to the power of three, the number of God."
 3. "Not 144,000 of each tribe, but the aggregate of the twelve thousand from every tribe."
@@ -44,4 +44,4 @@ In this verse, God's divine knowledge and protection over His chosen ones is hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

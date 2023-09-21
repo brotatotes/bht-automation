@@ -11,7 +11,7 @@ This verse speaks of a peace that goes beyond mere tranquility, instead being a 
 
 3. "from God the Father and the Lord Jesus Christ" - This quote reminds us that the ultimate source of peace, love, and faith is God the Father and the Lord Jesus Christ. They are the ones who provide and bestow these blessings upon believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love with faith" - This phrase highlights the inseparable connection between love and faith. It suggests that true faith is always accompanied by love, emphasizing the importance of both in the Christian life.
 
 2. "Faith is presupposed as theirs" - This statement implies that faith is already present in the believers to whom the writer is addressing. It suggests that faith is a foundational aspect of their relationship with God and serves as the basis for their love.
@@ -54,4 +54,4 @@ This verse speaks of a peace that goes beyond mere tranquility, instead being a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

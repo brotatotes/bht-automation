@@ -9,7 +9,7 @@ The law of the Spirit of life, also known as the gospel, has freed believers fro
 2. "This 'law of the Spirit of life' having freed him from the law of sin and death, so that he serves another master, all claim of sin on him is at an end he is acquitted, and there is no condemnation for him."
 3. "Death now involves not only temporal misery, but eternal ruin also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Holy Ghost is called 'the Spirit of life' because He opens up in believers a fountain of spiritual life, just as He is called 'the Spirit of truth' and 'the Spirit of counsel and might.'"
 2. "The law of the Spirit of life in Christ Jesus means the new principle of action that the Spirit of Christ has opened up within us - the law of our new being."
 3. "The triumph of believers over their inward corruption, through the power of Christ's Spirit in them, proves them to be in Christ Jesus and absolved from condemnation."
@@ -53,4 +53,4 @@ The law of the Spirit of life, also known as the gospel, has freed believers fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

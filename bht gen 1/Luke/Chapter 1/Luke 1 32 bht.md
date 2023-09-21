@@ -9,7 +9,7 @@ In this passage, we see that the announcement of Mary being of the house of Davi
 2. "No astonishment is expressed by her at this part of the statement."
 3. "From the nature of her question, it is clear that she did not explain it by supposing Joseph to be the destined father of her child."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is but an echo of the sublime prediction in Isaiah 9:6." 
 2. "The prophecy in Isaiah 9:7 further emphasizes the significance of this verse." 
 3. "These verses highlight the fulfillment of the prophetic words spoken by Isaiah."
@@ -49,4 +49,4 @@ In this passage, we see that the announcement of Mary being of the house of Davi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

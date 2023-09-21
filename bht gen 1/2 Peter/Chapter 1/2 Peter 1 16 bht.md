@@ -11,7 +11,7 @@ This verse is a reminder to reject false teachings and myths, as the apostles di
 4. "The power...of our Lord Jesus Christ, but (in virtue of) having been admitted eye-witnesses of His majesty."
 5. "It is indeed here that incident which marked, to the Apostle’s mind, most certainly the reality of Christ’s future glory: but it was not the only occasion when he had seen the exhibition of divine power by Him as a foretaste of His power at his return to judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A precautionary protest of the Spirit against the rationalistic theory of the Gospel history being myth."
 2. "A specimen of His power was given at the Transfiguration also of His 'coming' again, and its attendant glory."
 3. "As initiated spectators of mysteries (so the Greek), we were admitted into His innermost secrets, namely, at the Transfiguration."
@@ -59,4 +59,4 @@ This verse is a reminder to reject false teachings and myths, as the apostles di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

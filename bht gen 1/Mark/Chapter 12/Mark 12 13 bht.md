@@ -4,7 +4,7 @@
 The Pharisees and Herodians, normally opposing groups, united to trap Jesus. In their crafty question about paying taxes to Caesar, they sought to incriminate him no matter his response. However, Jesus gave a brilliant answer, asserting the importance of honoring both earthly authorities and God's authority. This verse reminds us of our dual citizenship as Christians, challenging us to examine if we are giving to God what is rightfully His and living a life pleasing to both God and man.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their plan, then, was to entrap Him into some expression which might be construed into disaffection to the Roman government."
 2. "The Pharisees themselves being notoriously discontented with the Roman yoke."
 3. "Tribute to Cæsar."
@@ -41,4 +41,4 @@ The Pharisees and Herodians, normally opposing groups, united to trap Jesus. In 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

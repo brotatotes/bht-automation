@@ -9,7 +9,7 @@ The Bible verse under consideration highlights the contrast between the spirit o
 2. "The only difficulty seems to be, to trace this latter saying in any part of Scripture. For that this is the quotation, and no other, must be maintained against very many Commentators on account of λέγει, which can hardly be otherwise used than at introducing the thing said."
 3. "At all events it is better to understand it thus, than to make λέγει mean ‘speaks,’ or to force the words of the citation from their simple meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No word of Scripture can be in vain."
 2. "The friendship of the world tends to breed envy; the Spirit produces very different fruit."
 3. "Ye lust, and because ye have not what ye lust after, ye envy your neighbor who has, and so the spirit of envy leads you on to 'fight'."
@@ -61,4 +61,4 @@ Overall, these quotes highlight the role of love in countering negative emotions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

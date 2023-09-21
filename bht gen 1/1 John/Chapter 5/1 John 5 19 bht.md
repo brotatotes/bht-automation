@@ -9,7 +9,7 @@ This verse speaks of the distinction between true believers, born of God, and th
 2. "The whole world lieth in the wicked one, the κόσμος, all the rest of mankind, remains where it was, in, and in the power of, ὁ πονηρός."
 3. "The κόσμος is the negation of faith in Him, and as such lies in the wicked one, His adversary."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The world lieth in the power of, and abiding in, the wicked one, as the resting-place and lord of his slaves."
 2. "While the believer has been delivered out of his power, the whole world lieth helpless and motionless still in it, just as it was."
 3. "Including the wise, great, respectable, and all who are not by vital union in Christ."
@@ -53,4 +53,4 @@ This verse speaks of the distinction between true believers, born of God, and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

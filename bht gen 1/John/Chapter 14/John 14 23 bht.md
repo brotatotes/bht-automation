@@ -4,7 +4,7 @@
 This verse highlights the significance of love and obedience to Jesus' teachings as the gateway to experiencing the presence of God and Jesus in one's life. By keeping Jesus' words and demonstrating love for Him, believers invite the abode of both the Father and the Son. This verse also reveals the unity and plurality of the Godhead, emphasizing the divine presence and love that is bestowed upon those who love and obey Jesus. Through this love and obedience, believers receive a permanent manifestation of God's presence and a deep sense of his abiding love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the Father's 'coming' He refers to the revelation of Him as a Father to the soul, which does not take place till the Spirit comes into the heart, teaching it to cry, Abba, Father."
 2. "The 'abode' means a permanent, eternal stay!"
 3. "Compare Leviticus 26:11; Leviticus 26:12; Ezekiel 37:26; Ezekiel 37:27; 2 Corinthians 6:16; and contrast 2 Corinthians 6:16-."
@@ -52,4 +52,4 @@ This verse highlights the significance of love and obedience to Jesus' teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

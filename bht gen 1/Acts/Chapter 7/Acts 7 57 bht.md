@@ -4,7 +4,7 @@
 In a moment of intense fervor, driven by a malevolent spirit, Stephen's powerful words provoked an extreme reaction from his audience. The crowd, who had already charged him with blasphemy, stopped their ears to avoid hearing any more, behaving in line with their character. The violent response to Stephen's preaching showcased the dangers of mob mentality, resulting in his unjust and hasty execution. This cautionary tale serves as a reminder of the importance of maintaining justice and reason in the face of collective frenzy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Stephen's last seraphic words could but bring matters to extremities" - The commentary highlights how Stephen's powerful words provoked a strong reaction from his audience, leading to a violent response. 
 
 2. "revealed the diabolical spirit which they breathed" - This quote emphasizes the evil nature of the crowd's actions, suggesting that their response to Stephen's words was driven by a malevolent spirit.
@@ -56,4 +56,4 @@ Note: The commentary provided is not a direct interpretation of a Bible verse, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the judgment day is described, where all nations of the world wil
 2. "Among these are 'the other sheep which He has, not of this fold,' John 10:16."
 3. "The sheep are those referred to in Romans 2:7; Romans 2:10; the goats in ib. Romans 2:8-9, where this same judgment according to works is spoken of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That this should be understood to mean the heathen nations, or all except believers in Christ, will seem amazing to any simple reader."
 2. "Their chief argument is, the impossibility of any that ever knew the Lord Jesus wondering, at the Judgment Day, that they should be thought to have done—or left undone—anything 'unto Christ.'"
 3. "If it be said, But how can this be the general judgment, if only those within the Christian pale be embraced by it?—we answer, What is here described, as it certainly does not meet the case of all the family of Adam, is of course so far not general."
@@ -50,4 +50,4 @@ These quotes highlight the key elements of the commentary, emphasizing the futur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

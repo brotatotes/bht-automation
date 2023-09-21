@@ -9,7 +9,7 @@ Believers are endowed with different gifts, as Henry Alford explains, including 
 2. "Both, as De W. remarks, have their grounds in usage: σοφία is practical, as is γνῶσις, but they are theoretical respectively in ch. 1 Corinthians 1:17 ff. and 1 Corinthians 8:1."
 3. "Meyer says, 'σοφία is the higher Christian wisdom in and of itself; so that discourse which expresses its truths, makes them clear, applies them, &c. is λόγος σοφίας. But this does not necessarily imply the speculative penetration of these truths, the philosophical treatment of them by deeper and more scientific investigation, in other words, γνῶσις: and discourse which aims at this is λόγος γνώσεως.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gifts of intellect, namely, (1) wisdom; (2) knowledge."
 2. "The first genus refers more to believers; the second, to unbelievers."
 3. "Word of wisdom—the ready utterance of wisdom, namely, new revelations of the divine wisdom in redemption, as contrasted with human philosophy."
@@ -45,4 +45,4 @@ Believers are endowed with different gifts, as Henry Alford explains, including 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

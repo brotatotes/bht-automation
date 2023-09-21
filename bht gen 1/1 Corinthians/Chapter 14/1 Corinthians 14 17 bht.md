@@ -9,7 +9,7 @@ In this Bible verse, the Apostle Paul addresses the act of giving thanks in a la
 2. "The doing it not to the edification of others."
 3. "The ἰδιώτης spoken of before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prayers of the Christian Church also were called blessings and giving of thanks." 
 
 2. "This illustrates Colossians 4:2; 1 Thessalonians 5:17; 1 Thessalonians 5:18." 
@@ -35,4 +35,4 @@ In this Bible verse, the Apostle Paul addresses the act of giving thanks in a la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

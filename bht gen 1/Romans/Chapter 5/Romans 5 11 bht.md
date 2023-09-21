@@ -9,7 +9,7 @@ The Bible verse being described is Romans 5:11. In this verse, believers are por
 2. "Not only shall we be saved, but that in a triumphant manner and frame of mind."
 3. "Glorying in God through our Lord Jesus Christ, through whom we have now received our reconciliation to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our first feeling towards God, after we have found peace with Him, is that of clinging gratitude for so costly a salvation; but no sooner have we learned to cry, Abba, Father, under the sweet sense of reconciliation, than 'gloriation' in Him takes the place of dread of Him, and now He appears to us 'altogether lovely!'" 
 
 2. "How gloriously does the Gospel evince its divine origin by basing all acceptable obedience on 'peace with God,' laying the foundations of this peace in a righteous 'justification' of the sinner 'through our Lord Jesus Christ,' and making this the entrance to a permanent standing in the divine favor, and a triumphant expectation of future glory!" 
@@ -60,4 +60,4 @@ The Bible verse being described is Romans 5:11. In this verse, believers are por
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

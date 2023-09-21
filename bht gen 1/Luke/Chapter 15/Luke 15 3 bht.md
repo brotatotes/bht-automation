@@ -4,7 +4,7 @@
 These commentators shed light on a Bible verse that emphasizes the boundless love and mercy of God. They describe how the parables of the lost sheep, the lost coin, and the prodigal son all serve as powerful illustrations of God's relentless pursuit of those who are lost and His joy when they are found. These parables challenge the notion that God only accepts the righteous, reminding us that God receives sinners and eagerly welcomes them back into His embrace. It is through these parables that Jesus reveals the depth of God's forgiveness and His unwavering love for all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To show how precious one of His sheep is to the Good Shepherd."
 2. "The shepherd, though the sheep stray never so widely, will seek it out."
 3. "When he hath found, will rejoice over it."
@@ -46,4 +46,4 @@ These commentators shed light on a Bible verse that emphasizes the boundless lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, a woman enters the house where Jesus is, displaying her desperate
 
 3. "into the house where our Lord was." - This quote emphasizes the personal presence of Jesus in the house, creating a sense of intimacy and connection between the characters in the story.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lord, help me." - This simple plea from the woman demonstrates her faith and humility, acknowledging Jesus as the one who can provide the help she needs.
 
 2. "MIRACLES OF HEALING—FOUR THOUSAND MIRACULOUSLY FED." - This reference to other miracles emphasizes the power and compassion of Jesus, setting the stage for the miraculous healing that is about to take place.
@@ -44,4 +44,4 @@ In this verse, a woman enters the house where Jesus is, displaying her desperate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

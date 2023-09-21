@@ -11,7 +11,7 @@ In this Bible verse, the commentators emphasize the urgency for believers to liv
 4. "the Apostle here as well as elsewhere speaks of the coming of the Lord as rapidly approaching"
 5. "The fact, that the nearness or distance of that day was unknown to the Apostles, in no way affects the prophetic announcements of God’s Spirit by them, concerning its preceding and accompanying circumstances."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And that—rather, 'And this [do]' knowing the time, that now it is high time—literally, 'the hour has already come.'"
 2. "to awake out of sleep—of stupid, fatal indifference to eternal things."
 3. "for now is our salvation—rather, 'the salvation,' or simply 'salvation.'"
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

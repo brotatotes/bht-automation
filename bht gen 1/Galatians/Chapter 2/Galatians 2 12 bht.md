@@ -9,7 +9,7 @@ In this Bible verse, we see a mission from James to admonish the Jewish converts
 2. "συνήσθιεν...See below." (referring to Peter's action of eating with Gentiles in Acts 10 and defending it in Acts 11)
 3. "The whole incident is remarkably characteristic of Peter ever the first to recognize, and the first to draw back from, great principles and truths."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "James' leanings were to legalism, and this gave him his influence with the Jewish party."
 2. "Yet after all, this same Peter, through fear of man, was faithless to his own so distinctly avowed principles."
 3. "An undesigned coincidence between the Gospels and the Epistle in the consistency of character as portrayed in both."
@@ -48,4 +48,4 @@ In this Bible verse, we see a mission from James to admonish the Jewish converts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

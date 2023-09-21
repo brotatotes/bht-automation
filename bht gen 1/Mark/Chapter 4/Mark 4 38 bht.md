@@ -9,7 +9,7 @@ In this Bible verse, we see Jesus on the boat, using the cushion at the stern as
 2. "Pollux, Onom. (cited by Kuin., h. l.), proves from Cratinus that the word is put for the cushion used by rowers."
 3. "the word is put for the cushion used by rowers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was evening; and after the fatigues of a busy day of teaching under the hot sun, having nothing to do while crossing the lake, He sinks into a deep sleep, which even this tempest raging around and tossing the little vessel did not disturb."
 2. "Unbelief and fear made them sadly forget their place, to speak so."
 3. "They say nothing of what would become of Him, if they perished; nor think, whether, if He could not perish, it was likely He would let this happen to them; but they hardly knew what they said."
@@ -45,4 +45,4 @@ In this Bible verse, we see Jesus on the boat, using the cushion at the stern as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

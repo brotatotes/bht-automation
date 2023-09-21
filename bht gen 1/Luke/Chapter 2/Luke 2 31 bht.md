@@ -4,7 +4,7 @@
 This verse depicts a profound transformation, where Jesus, as a light, illuminates a world enshrouded in darkness. His message brings hope to those in spiritual despair, encompassing not only Israel but all nations. It showcases the universal nature of Jesus' provision, divine appointment, and his desire to reveal himself to all people. Luke's Gospel emphasizes the inclusivity and universality of Jesus' message, extending beyond cultural boundaries. The Messiah's role is not limited, but encompasses the redemption of all peoples.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A light to the Gentiles—then in thick darkness." This quote highlights the contrast between the light that Jesus brings and the darkness that the Gentiles were living in. It emphasizes the transformative power of Jesus' message and the hope it brings to those who were previously in spiritual darkness.
 
 2. "Glory of thy people Israel—already Thine, and now, in the believing portion of it, to be so more gloriously than ever." This quote suggests that Jesus is not only the glory of Israel, but also the fulfillment of God's promises to the believing portion of Israel. It speaks to the exalted status of Jesus and the significance of his role in the redemption of God's people.
@@ -42,4 +42,4 @@ This verse depicts a profound transformation, where Jesus, as a light, illuminat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -10,7 +10,7 @@ In this Bible verse, commentators highlight the contrast between the righteousne
 3. "Your righteousness must be of a higher order than any yet attained, or conceived, by Scribe or Pharisee."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The superiority to the Pharisaic righteousness here required is plainly in kind, not degree; for all Scripture teaches that entrance into God's kingdom, whether in its present or future stage, depends, not on the degree of our excellence in anything, but solely on our having the character itself which God demands."
 2. "Our righteousness, then—if it is to contrast with the outward and formal righteousness of the scribes and Pharisees—must be inward, vital, spiritual."
 3. "If this refer, as in Matthew 13:41, rather to the earthly stage of this kingdom, the meaning is that without a righteousness exceeding that of the Pharisees, we cannot be members of it at all, save in name."
@@ -51,4 +51,4 @@ In this Bible verse, commentators highlight the contrast between the righteousne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

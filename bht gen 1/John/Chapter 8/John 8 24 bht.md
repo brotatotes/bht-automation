@@ -9,7 +9,7 @@ This verse presents a powerful declaration by Jesus, emphasizing the necessity o
 2. "Implying individual acts of sin, the results of the carnal state."
 3. "On ἐγώ εἰμι see note, John 8:58."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye believe not that I am he, ye shall die in your sins" - Jesus is making a bold statement here, emphasizing the importance of believing in Him as the Messiah. (Quote 24)
 
 2. "He would not, by speaking it out, give them the materials for a charge for which they were watching" - Jesus is cautious in His choice of words, not wanting to give His opponents any ammunition against Him. (Quote 24)
@@ -52,4 +52,4 @@ This verse presents a powerful declaration by Jesus, emphasizing the necessity o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

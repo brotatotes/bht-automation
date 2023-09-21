@@ -9,7 +9,7 @@ In this verse, the Apostle Paul expresses his heartfelt desire for the salvation
 2. "The obstacle to their salvation is brought out." 
 3. "To destroy any impression...unfavourable to his love of his own people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Brethren, my heart's desire—The word here expresses 'entire complacency,' that in which the heart would experience full satisfaction."
 2. "and prayer—'supplication.'"
 3. "to God for Israel—'for them' is the true reading; the subject being continued from the close of the preceding chapter."
@@ -58,4 +58,4 @@ These quotes highlight the emotional and heartfelt nature of the commentary, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

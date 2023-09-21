@@ -9,7 +9,7 @@ This verse describes a group of devout and reverent men who had come to Jerusale
 2. "They were not merely vain and curious listeners, but men of piety and weight."
 3. "Not perhaps used so much hyperbolically, as with reference to the significance of the whole event."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jews, devout men out of every nation" - This phrase suggests that the Jews mentioned were not just from Jerusalem but from various nations. This highlights the diverse backgrounds and cultures of the people present at that time.
 
 2. "Not permanently settled there" - The commentary suggests that these Jews were not permanent residents of Jerusalem, indicating that they had traveled specifically for the feast. This emphasizes the significance of the occasion and the dedication of these individuals to participate in the religious event.
@@ -55,4 +55,4 @@ This verse describes a group of devout and reverent men who had come to Jerusale
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

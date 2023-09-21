@@ -4,7 +4,7 @@
 In this verse, we see a perceptive individual who is acutely aware of the deceitful and cunning tactics employed by others. This person possesses an understanding of the true intentions and thoughts hidden within the hearts of those around them. It becomes evident that there is a ulterior motive behind the actions and questions posed to them, intending to trap or discredit them. The individual being tempted acknowledges the trap and subtly questions the intentions of the ones tempting them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "sent forth—after consulting (Matthew 22:15) on the best plan." 
 2. "spies—"of the Pharisees and Herodians" (Matthew 22:15- :)." 
 3. "See Mark 3:6."
@@ -30,4 +30,4 @@ In this verse, we see a perceptive individual who is acutely aware of the deceit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

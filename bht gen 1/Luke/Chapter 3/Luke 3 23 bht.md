@@ -9,7 +9,7 @@ Jesus, at the age of about thirty, began his ministry which was marked by great 
 2. "The attempts of many, and recently of Wieseler, to make it appear that the genealogy is that of Mary, reading νἱὸς (ὡς ἐνομ. τοῦ Ἰωσὴφ) τοῦ Ἡλί, ‘the son (as supposed of Joseph, but in reality) of Heli, &c.’ are, as Meyer (Comm. in loc.) has shewn, quite unsuccessful."
 3. "With all these elements of confusion, it is quite as presumptuous to pronounce the genealogies discrepant, as it is over-curious and uncritical to attempt to reconcile them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At this age the priests entered on their office."
 2. "Those who take the latter opinion, that we have here the line of Mary, as in Matthew that of Joseph—here His real, there His reputed line—explain the statement about Joseph, that he was 'the son of Hell,' to mean that he was his son-in-law, as the husband of his daughter Mary."
 3. "On comparing the two genealogies, it will be found that Matthew, writing more immediately for Jews, deemed it enough to show that the Saviour was sprung from Abraham and David; whereas Luke, writing more immediately for Gentiles, traces the descent back to Adam, the parent stock of the whole human family, thus showing Him to be the promised 'Seed of the woman.'"
@@ -57,4 +57,4 @@ Jesus, at the age of about thirty, began his ministry which was marked by great 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

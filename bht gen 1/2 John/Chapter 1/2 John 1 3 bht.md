@@ -4,7 +4,7 @@
 This verse emphasizes the interconnectedness of grace, mercy, and peace in the Christian faith. Grace removes guilt, mercy addresses our misery, and the result is peace. Peace is not just the absence of conflict but the assurance that we are God's children and that our ways are pleasing to Him. Through the recognition of Jesus as the Son of God, we can experience the fullness of these blessings and live in truth and love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grace covers the sins of men; 'mercy,' their miseries. Grace must first do away with man's guilt before his misery can be relieved by mercy. Therefore grace stands before mercy." 
 2. "Peace is the result of both, and therefore stands third in order. Casting all our care on the Lord, with thanksgiving, maintains this peace." 
 3. "The element or sphere in which alone grace, mercy, and peace have place. He mentions truth in :-; love, in :-."
@@ -49,4 +49,4 @@ These quotes highlight the significance of recognizing Jesus as the Son of God a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

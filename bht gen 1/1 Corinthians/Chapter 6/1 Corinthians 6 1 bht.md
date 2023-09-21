@@ -9,7 +9,7 @@ In this verse, the Apostle Paul admonishes Christians to settle their disputes a
 2. "The Apostle does not mean that the Christians had their courts of law, but that they should submit their differences to courts of arbitration among themselves." 
 3. "Such courts of arbitration were common among the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Dare—This word implies treason against Christian brotherhood."
 2. "Christians, on the other hand, as regarding God as the only Fountain of justice, should not expect justice from them."
 3. "So the Christians were allowed to have Christian arbitrators."
@@ -57,4 +57,4 @@ In this verse, the Apostle Paul admonishes Christians to settle their disputes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ As the scene unfolds in the garden, Jesus stands calmly before the soldiers and 
 2. "John detected Judas standing among them, and notices the detail, as is his constant habit, by way of enhancing the tragic character of the history."
 3. "John therefore adds this touch of exactness, to shew that the answer 'Jesus of Nazareth' was not given because they were ignorant of His Person, so as not to be able to say 'Thee;' but because they feared to say it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Just the sort of blunt, straight forward reply one expects from military men, simply acting on their instructions."
 2. "I am He."
 3. "No more is recorded here of his part of the scene, but we have found the gap painfully supplied by all the other Evangelists."
@@ -45,4 +45,4 @@ As the scene unfolds in the garden, Jesus stands calmly before the soldiers and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

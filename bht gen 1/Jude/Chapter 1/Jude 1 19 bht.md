@@ -9,7 +9,7 @@ These teachers, characterized by their separations and divisions within the Chur
 2. "He who gives himself up to the lower appetites, is σαρκικός: he who by communion of his πνεῦμα with God’s Spirit is employed in the higher aims of his being, is πνευματικός."
 3. "These men have not indeed ceased to have πνεῦμα, as a part of their own tripartite nature: but they have ceased to possess it in any worthy sense: it is degraded beneath and under the power of the ψυχή, the personal life, so as to have no real vitality of its own."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Separate themselves from Church communion in its vital, spiritual reality."
 2. "Arrogant setting up of themselves, as having greater sanctity and a wisdom and peculiar doctrine, distinct from others, is implied."
 3. "In the animal, or natural man, the spirit is sunk into subserviency to the animal soul, which is earthly in its motives and aims."
@@ -53,4 +53,4 @@ These teachers, characterized by their separations and divisions within the Chur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

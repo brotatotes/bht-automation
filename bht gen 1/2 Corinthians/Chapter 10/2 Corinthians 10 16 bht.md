@@ -9,7 +9,7 @@ The verse describes a call to preach the gospel in distant places beyond the cur
 2. "Not to boast ourselves within another man's line." 
 3. "To extend our boasting to things ready made to our hands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To preach...beyond you (and) not to boast" - The commentator emphasizes the humility of the preacher, highlighting the importance of not boasting about their accomplishments or seeking to go beyond their assigned sphere of labor.
 2. "Things made ready to our hand" - This phrase refers to the work already done by others in the preaching ministry. It suggests that preachers should not take credit for the work of others but rather focus on their own assigned tasks.
 3. "In another man's line of things" - This phrase emphasizes the need for preachers to respect the boundaries and assignments given to others by God. It encourages them to stay within their own sphere of labor and not encroach on the work of others.
@@ -51,4 +51,4 @@ The verse describes a call to preach the gospel in distant places beyond the cur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

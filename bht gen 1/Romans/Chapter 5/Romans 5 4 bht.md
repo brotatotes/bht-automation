@@ -4,7 +4,7 @@
 The verse being described here speaks about the process of testing and proving one's faith through tribulations and trials. The commentators emphasize the importance of patience in enduring difficulties, which leads to the experience of God's grace and the growth of hope. Through these trials, believers gain a deeper understanding of God's love, power, and faithfulness, strengthening their trust in Him. Such experiences also cultivate humility, thankfulness, and resignation to the will of God, and ultimately lead to a transformative journey of faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Patience worketh experience—rather, 'proof'...experimental evidence that we have 'believed through grace.'" 
 2. "Thus have we hope in two distinct ways, and at two successive stages of the Christian life: first, immediately on believing...next, after the reality of this faith has been 'proved,' particularly by the patient endurance of trials sent to test it." 
 3. "We first get it by looking away from ourselves to the Lamb of God; next by looking into or upon ourselves as transformed by that 'looking unto Jesus.'"
@@ -50,4 +50,4 @@ The verse being described here speaks about the process of testing and proving o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

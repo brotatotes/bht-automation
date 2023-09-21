@@ -11,7 +11,7 @@ In this Bible verse, a Syrophoenician woman engages in a remarkable conversation
 
 3. "The phrase 'καὶ γὰρ' (for) is often used to introduce a reason or cause for a particular action or belief."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Truth, Lord." - The woman's response to Jesus, acknowledging his statement as truth. 
 
 2. "Yet the dogs eat of the children's crumbs" - The woman's recognition that even though she is considered an outsider, she can still benefit from the overflow of blessings meant for God's chosen people. 
@@ -41,4 +41,4 @@ In this Bible verse, a Syrophoenician woman engages in a remarkable conversation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the significance of the presence of pr
 2. "The Latin phrase for ἀγοραίους ἄγειν was conventus agere, or peragere, or convocare."
 3. "May not the ‘consiliarii’ of the proconsul who were his assessors at the ‘conventus,’ held in the provinces, have themselves popularly borne the name?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is open" - This phrase suggests that there is a fair and just legal system in place, where individuals can bring their complaints and seek resolution. It implies that there is a sense of order and structure in society. 
 
 2. "The court days are being held" - This indicates that there are specific times and opportunities for people to present their cases and have them heard. It highlights the importance of having designated periods for legal proceedings, ensuring that justice is not delayed or denied. 
@@ -58,4 +58,4 @@ These quotes provide insights into the legal and political context of the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators warn against being deceived by empty and deceitf
 2. "The caution was especially needed, at a time when moral purity was so generally regarded as a thing indifferent."
 3. "On account of these things cometh the wrath of God on the sons of disobedience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Vain—empty, unreal words, namely, palliations of 'uncleanness,' 'covetousness,' and 'jesting'." 
 2. "Because of these things—uncleanness, covetousness, etc.—cometh as sure as if already come." 
 3. "The children of unbelief in doctrine are 'children of disobedience' in practice, and these again are 'children of wrath'."
@@ -53,4 +53,4 @@ In this verse, the commentators warn against being deceived by empty and deceitf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

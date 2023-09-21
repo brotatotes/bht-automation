@@ -9,7 +9,7 @@ In this verse, the commentators make it clear that being a physical descendant o
 2. "In Isaac shall thy seed be called" - this means that only those who are descendants of Isaac will inherit the promise.
 3. Thol. renders καλεῖν here by erwecken, 'to raise up' - implying that being called as the seed of Abraham is a special and elevated status.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not in the line of mere fleshly descent from Abraham does the election run; else Ishmael, Hagar's child, and even Keturah's children, would be included, which they were not."
 2. "The true election are such of Abraham's seed as God unconditionally chooses, as exemplified in that promise."
 3. "In Isaac shall thy seed be called."
@@ -48,4 +48,4 @@ In this verse, the commentators make it clear that being a physical descendant o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

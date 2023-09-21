@@ -9,7 +9,7 @@ This verse portrays a humble recognition of divine grace and its transformative 
 2. "The position of χάριτι δὲ θεοῦ, and the repetition of ἡ χάρις αὐτοῦ afterwards, shew the emphatic prominence which he assigns to the divine Grace."
 3. "The Grace of God worked with him in so overwhelming a measure, compared to his own working, that it was no longer the work of himself but of divine Grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition implies the prominence which God's grace had in his mind, as the sole cause of his marvellous conversion and subsequent labors."
 2. "Though 'not meet to be called an apostle,' grace has given him, in Christ, the meetness needed for the office."
 3. "The 'not I, but grace,' implies, that though the human will concurred with God when brought by His Spirit into conformity with His will, yet 'grace' so preponderated in the work, that his own co-operation is regarded as nothing, and grace as virtually the sole agent."
@@ -57,4 +57,4 @@ This verse portrays a humble recognition of divine grace and its transformative 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

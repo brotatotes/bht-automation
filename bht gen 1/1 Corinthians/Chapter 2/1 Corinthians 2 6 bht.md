@@ -9,7 +9,7 @@ The verse being described is a message of wisdom, not of this world, but of the 
 2. "The knowledge of the blessings of salvation, of the glory which accompanies the kingdom of God, belongs to this higher species of teaching."
 3. "A wisdom not of this world, not the wisdom of this world, which loses the peculiar force of the negative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yet the Gospel preaching, so far from being at variance with true 'wisdom,' is a wisdom infinitely higher than that of the wise of the world."
 2. "Those matured in Christian experience and knowledge alone can understand the true superiority of the Christian wisdom which Paul preached."
 3. "The 'mystery' or 'hidden wisdom' refers to the unfolding of the treasures of knowledge, once hidden in God's counsels, but now announced to all, which would be intelligently comprehended in proportion as the hearer's inner life became perfectly transformed into the image of Christ."
@@ -53,4 +53,4 @@ The verse being described is a message of wisdom, not of this world, but of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

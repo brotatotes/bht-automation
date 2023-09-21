@@ -4,7 +4,7 @@
 The verse we are describing underscores that our salvation is rooted in God's grace, not our own works. It emphasizes that salvation is a gift freely given by God, received through faith alone. No amount of good deeds or personal efforts can earn our salvation, as all glory belongs to God alone. This passage reminds us to humbly acknowledge our complete dependence on God's grace for our salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not of works—This clause stands in contrast to 'by grace,' as is confirmed by Romans 4:4; Romans 4:5; Romans 11:6." 
 
 2. "Lest—rather, as Greek, 'that no man should boast' (Romans 3:27; Romans 4:2)." 
@@ -55,4 +55,4 @@ These quotes emphasize that salvation is not achieved through works, but rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

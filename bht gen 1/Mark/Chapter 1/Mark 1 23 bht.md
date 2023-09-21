@@ -9,7 +9,7 @@ In this verse, a man is described who is possessed by an unclean spirit. The com
 2. "I think the best account of it is, that it falls under a large class of usages of ἐν, expressing the element in which the man lived and moved."
 3. "As possessed and interpenetrated by the evil spirit, as in the common expressions ἐν κυρίῳ, ἐν χριστῷ, cf. 2 Corinthians 12:2, and Acts 17:28."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man with an unclean spirit was so entirely under demoniacal power that his personality was sunk for the time in that of the spirit."
 2. "The frequency with which the character of 'impurity' is ascribed to evil spirits in the Gospels is not to be overlooked."
 3. "The man cried out, giving voice to the power and influence of the unclean spirit within him."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

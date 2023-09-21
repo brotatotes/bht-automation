@@ -11,7 +11,7 @@ In this Bible passage, the author expresses a loving spirit towards the readers 
 
 Note: The commentary provides an explanation of the author's intention behind the verse, emphasizing the loving spirit and the deep connection between the author and the readers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I speak only of the false apostles." 
 2. "As though you were ungrateful and treacherous."
 3. "I am ready to die and live with you and for you."
@@ -50,4 +50,4 @@ Note: The commentary provides an explanation of the author's intention behind th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

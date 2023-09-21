@@ -4,7 +4,7 @@
 The disciples, lacking miraculous gifts, sent a message to Peter, who was known for his ability to heal and perform miracles. It is unclear if they specifically expected a miracle from Peter. Nonetheless, they reached out to him, seeking his presence and guidance in a time of affliction. This highlights the disciples' recognition of Peter's leadership and their trust in him as they faced a challenging situation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples generally did not possess miraculous gifts." - This quote highlights the fact that the disciples, including Peter, did not have the ability to perform miracles like Jesus did. It emphasizes their human limitations and sets them apart from Jesus in terms of their supernatural abilities.
 
 2. "The disciples sent unto Peter." - This quote points out that the disciples specifically chose Peter to send a message to. It suggests that Peter held a significant role among the disciples, possibly due to his leadership qualities or close relationship with Jesus.
@@ -54,4 +54,4 @@ The disciples, lacking miraculous gifts, sent a message to Peter, who was known 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

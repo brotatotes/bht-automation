@@ -9,7 +9,7 @@ This verse encourages believers to place their confidence in the Lord rather tha
 2. "ἐφʼ ὑμᾶς, with reference to you the direction of his confidence."
 3. "καὶ ποιεῖτε κ. ποιήσετε is all the apodosis not ὅτι ἃ παραγγ. κ. ποιεῖτε, καὶ ποιήσετε, as Erasm."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have confidence in no man when left to himself." - BENGEL
 2. "He means the majority by 'ye,' not all of them." - Commentary
 3. "Some of the oldest manuscripts insert a clause, 'that ye both have done' before, 'and are doing, and will do.'" - Commentary
@@ -51,4 +51,4 @@ This verse encourages believers to place their confidence in the Lord rather tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

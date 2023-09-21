@@ -9,7 +9,7 @@ In this well-known Bible verse, we are transported to the village of Bethany, di
 2. "Mary and Martha are mentioned as already well known from the current apostolic teaching."
 3. "This distinction is wholly untenable: and all the inferences drawn from it in Mr. G.’s dissertation fall to the ground."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethany, the town of Mary and her sister Martha, is distinguished from the other Bethany beyond Jordan." 
 
 2. "The mention of Mary and Martha highlights the significance of this particular Bethany as the home of these well-known women in the Bible." 
@@ -50,4 +50,4 @@ In this well-known Bible verse, we are transported to the village of Bethany, di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

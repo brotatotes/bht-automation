@@ -9,7 +9,7 @@ In this verse, we encounter a subtle and uncertain temptation. The Son of God, w
 2. "Here first we find the N.T. meaning of πειράζειν, to solicit to sin, which does not occur in the LXX, nor in the classics."
 3. "In the N.T. are found three combinations of these two substantives and the article, and all with one and the same meaning, viz. THE SON OF GOD, in the highest and Messianic sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou still clingest to that vainglorious confidence that Thou art the Son of God, carried away by those illusory scenes at the Jordan."
 2. "Thou wast born in a stable; but Thou art the Son of God! hurried off to Egypt for fear of Herod's wrath; but Thou art the Son of God!"
 3. "Why linger for weeks in this desert, wandering among the wild beasts and craggy rocks, unhonored, unattended, unpitied, ready to starve for want of the necessaries of life? Is this befitting 'the Son of God?'"
@@ -43,4 +43,4 @@ In this verse, we encounter a subtle and uncertain temptation. The Son of God, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

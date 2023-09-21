@@ -9,7 +9,7 @@ In the midst of Joseph's confusion and distress, he was visited by an angel in a
 2. "The announcement was made to Mary openly, but to Joseph in a dream; for in Mary’s case faith and concurrence of will were necessary, the communication was of a higher kind, and referred to a thing future."
 3. "These words would recall Joseph’s mind to the promised seed, the expectation of the families of the lineage of David, and at once stamp the message as the announcement of the birth of the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who would not feel for him after receiving such intelligence, and before receiving any light from above?"
 2. "His domestic prospects darkened and his happiness blasted for life, his mind slowly making itself up to the painful step, yet planning how to do it in the way least offensive."
 3. "Though a dark cloud now overhangs this relationship, it is unsullied still."
@@ -43,4 +43,4 @@ In the midst of Joseph's confusion and distress, he was visited by an angel in a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

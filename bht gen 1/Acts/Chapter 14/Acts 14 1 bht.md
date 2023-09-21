@@ -9,7 +9,7 @@ The unnamed Bible verse describes a powerful preaching and spreading of the Gosp
 2. "οὕτως ὥστε, as in E. V.; not ἐγένετο.… ὥστε …, as Vater."
 3. "Ἑλλήνων] Probably here these are the σεβόμενοι τὸν θεόν, those of the uncircumcised who were more or less attached to the Jewish religion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though Paul was now the prominent speaker and actor, yet in everything Barnabas went along with him."
 2. "A multitude of the Greeks believed—meaning probably the religious proselytes, as opposed to 'the Gentiles' mentioned."
 3. "Barnabas went along with Paul, showing their unity and partnership in spreading the Gospel message."
@@ -44,4 +44,4 @@ The unnamed Bible verse describes a powerful preaching and spreading of the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The armor of the Christian is described as a girdle of truth, symbolizing the un
 2. "The righteousness spoken of is that of Rom 6:13, the purity and uprightness of Christian character which is the result of the work of the Spirit of Christ."
 3. "The shield of faith will at all times and in all combats quench the fiery darts of the wicked one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Standing, that is, maintaining our ground, not yielding or fleeing, is the grand aim of the Christian soldier."
 2. "Truth is the band that girds up and keeps together the flowing robes, so as that the Christian soldier may be unencumbered for action."
 3. "Righteousness in works, truth in words. Christ's righteousness inwrought in us by the Spirit."
@@ -59,4 +59,4 @@ These quotes provide insights into the significance of truth, the power of the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

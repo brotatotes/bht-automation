@@ -9,7 +9,7 @@ The heavenly Jerusalem, represented by the Church, is the mother of believers, t
 2. "the Messianic Theocracy...is the Church, and after it Christ's Kingdom of glory."
 3. "the emphasis is not on ἡμῶν as Winer: nay rather it stands in the least emphatic place, as indicating a relation taken for granted by Christians."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One from Mount Sinai," namely, the other covenant from the heavenly mount above, which is (answers in the allegory to) Sarah.
 2. "New Jerusalem, which cometh down out of heaven from my God" - the Messianic theocracy, which before Christ's second appearing is the Church, and after it, Christ's kingdom of glory.
 3. "Free" - opposed to "she is in bondage" - believers who are already members of the invisible Church, the heavenly Jerusalem, hereafter to be manifested.
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have extracted three quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

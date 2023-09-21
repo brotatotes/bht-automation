@@ -9,7 +9,7 @@ This description describes a Bible verse in which Paul expresses his profound lo
 2. "In Paulo non Paulus vivit, sed Jesus Christus: quare Paulus non in Pauli sed in Jesu Christi movetur visceribus." 
 3. "The preposition indicates the direction of the desire, not its intensification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My yearning love (so the Greek implies) to you is not merely from natural affection, but from devotedness to Christ Jesus."
 2. "Not Paul, but Jesus Christ lives in Paul; wherefore Paul is not moved in the bowels (that is, the tender love, Jeremiah 31:20) of Paul, but of Jesus Christ."
 3. "All real spiritual love is but a portion of Christ's love which yearns in all who are united to Him."
@@ -55,4 +55,4 @@ This description describes a Bible verse in which Paul expresses his profound lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

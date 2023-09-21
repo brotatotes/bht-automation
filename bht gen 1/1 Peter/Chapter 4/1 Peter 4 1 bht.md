@@ -9,7 +9,7 @@ In this verse, believers are urged to embrace the mindset of Christ as a means o
 2. "He that hath suffered in the flesh is made to cease from sin."
 3. "By the very fact of having thus suffered, [one] is brought to an end with sin, [and] has no more to do with it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that hath suffered...hath ceased." 
 2. "The Christian is by faith one with Christ: as then Christ by death is judicially freed from sin; so the Christian who has in the person of Christ died, has no more to do with it judicially, and ought to have no more to do with it actually."
 3. "The flesh is the sphere in which sin has place."
@@ -57,4 +57,4 @@ In this verse, believers are urged to embrace the mindset of Christ as a means o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

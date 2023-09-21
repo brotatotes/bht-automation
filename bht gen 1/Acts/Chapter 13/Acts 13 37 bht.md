@@ -4,7 +4,7 @@
 This verse speaks of the victory of Christ over death, emphasizing that once raised, he will never be subject to corruption or the power of death. The promised mercies, representing the entirety of the blessings of the new covenant, are deemed sacred. As the ruler of an eternal kingdom, it is evident that Christ's resurrection was necessary, for the one who governs such a kingdom cannot be held captive by death. The verse also highlights the remarkable aspect of Christ's resurrection, as he did not undergo the usual process of corruption that follows death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ being raised from the dead dieth no more, death hath no more dominion over him." - This quote highlights the victory of Christ over death and the assurance that once raised, he will never return to corruption.
 2. "The word rendered 'mercies' is peculiar, denoting the sanctity of them, as comprehending the whole riches of the new covenant." - This quote emphasizes the significance and holiness of the mercies promised through David, encompassing the blessings of the new covenant.
 3. "They presuppose it; for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death." - This quote explains that the promise of an eternal kingdom to David implies the resurrection of Christ, as the ruler of this kingdom cannot be held captive by death.
@@ -23,4 +23,4 @@ This verse speaks of the victory of Christ over death, emphasizing that once rai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

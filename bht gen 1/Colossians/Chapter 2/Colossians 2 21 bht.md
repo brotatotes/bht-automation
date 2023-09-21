@@ -4,7 +4,7 @@
 In this verse, the apostle is quoting the Jewish doctors who emphasized the observance of the ceremonial law and added their own strict rules about avoiding anything unclean or defiling. Their detailed regulations encompassed not only dietary restrictions but also rules regarding touch and handling of sacred or unclean objects. The verse serves as a reminder to believers about the importance of purity, obedience, and reverence in their spiritual walk. It cautions against being entangled in man-made traditions and instead encourages a focus on inward conviction and principle.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is an ascending climax of superstitious prohibitions."
 2. "The first Greek word (hapse) is distinguished from the third (thiges), in that the former means close contact and retention: the latter, momentary contact."
 3. "The three refer to meats. 'Handle not' (a stronger term than 'nor even touch'), 'nor taste' with the tongue, 'nor even touch,' however slight the contact."
@@ -52,4 +52,4 @@ In this verse, the apostle is quoting the Jewish doctors who emphasized the obse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

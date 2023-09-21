@@ -11,7 +11,7 @@ This verse tells a story of a man who fell victim to robbers while traveling fro
 4. "They surrounded him."
 5. "not merely of his clothing, but of all he had."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The road, being rocky and desolate, was a notorious haunt of robbers, then and for ages after, and even to this day." 
 2. "A certain man—a Jew." 
 3. "From Jerusalem to Jericho—a distance of nineteen miles northeast, a deep and very fertile hollow—'the Temple of Judea' [TRENCH]."
@@ -58,4 +58,4 @@ This verse tells a story of a man who fell victim to robbers while traveling fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

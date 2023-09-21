@@ -9,7 +9,7 @@ This passage features the apostle James confirming Peter's speech regarding God'
 2. "The name occurs in various biblical passages."
 3. "The name 'Simon' is found in the Old Testament."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simeon—a Hebrew variation of Simon, as in 2 Peter 1:1; (Greek), the Jewish and family name of Peter."
 2. "hath declared how God at the first—answering to Peter's own expression 'a good while ago' (Acts 15:7)."
 3. "did visit the Gentiles to take out of them—in the exercise of His adorable sovereignty. a people for his name—the honor of his name, or for His glory."
@@ -47,4 +47,4 @@ This passage features the apostle James confirming Peter's speech regarding God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

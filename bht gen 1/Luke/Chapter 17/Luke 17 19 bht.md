@@ -11,7 +11,7 @@ In this verse, a man is not only physically healed, but his soul is saved as wel
 
 3. "this faith saved him; not only healed his body, but his soul" - The faith of the man in this verse not only brought physical healing, but also brought salvation to his soul.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Arise—for he had 'fallen down on his face at His feet' ( :-) and there lain prostrate." This quote highlights the humility and reverence of the person who approached Jesus. 
 2. "Faith made thee whole—not as the others, merely in body, but in that higher spiritual sense with which His constant language has so familiarized us." This quote emphasizes that true healing goes beyond physical restoration and involves a deeper spiritual transformation. 
 3. "COMING OF THE KINGDOM OF GOD AND OF THE SON OF MAN." This quote alludes to the broader context of the verse, indicating that the healing is connected to the arrival of God's kingdom and the Son of Man.
@@ -40,4 +40,4 @@ In this verse, a man is not only physically healed, but his soul is saved as wel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

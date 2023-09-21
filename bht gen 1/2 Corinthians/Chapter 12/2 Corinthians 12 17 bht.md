@@ -4,7 +4,7 @@
 The verse in question is a powerful statement by the apostle Paul as he refutes false accusations and defends his integrity as a leader. Paul emphasizes the importance of truthfulness and transparency in leadership, highlighting his own innocence. He invites the Corinthians to consider the facts and the trustworthy individuals he surrounded himself with. This verse serves as a universal reminder of the significance of honesty and integrity for those seeking to positively influence others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "You know well" - Paul's acknowledgment of his innocence in the matter, emphasizing the importance of truthfulness and transparency in leadership.
 2. "My associates were as disinterested as myself" - Paul's statement highlighting the integrity and selflessness of his companions, serving as a reminder of the importance of surrounding oneself with like-minded individuals.
 3. "An important rule to all who would influence others for good" - This phrase underscores the universal significance of the principle mentioned, emphasizing that it applies not only to Paul but to anyone seeking to positively impact others.
@@ -33,4 +33,4 @@ The verse in question is a powerful statement by the apostle Paul as he refutes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

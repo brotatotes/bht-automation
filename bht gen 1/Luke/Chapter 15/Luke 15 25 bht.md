@@ -9,7 +9,7 @@ In this parable, a son is depicted as working in his father's field, engaged in 
 2. "Would these festal employments have been here mentioned by Him on so solemn and blessed an occasion, if they really were among those works of the devil which He came into the world to destroy?"
 3. "The Lord's approval of the innocent pleasures of life is a reminder that not all aspects of human existence are tainted by sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the field—engaged in his father's business" - This phrase highlights the active involvement of the son in his father's work. It suggests a sense of responsibility and commitment to the family business.
 
 2. "These many years do I serve thee" - This comparison draws a parallel between the son in the field and the older brother in the parable of the prodigal son. It emphasizes the long-standing loyalty and dedication of the son, contrasting with the younger brother's waywardness.
@@ -57,4 +57,4 @@ In this parable, a son is depicted as working in his father's field, engaged in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

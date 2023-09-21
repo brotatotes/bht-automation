@@ -9,7 +9,7 @@ In this verse, the prayer for mercy is mentioned repeatedly, emphasizing the sig
 2. "The recurrence was not noticed" - This comment suggests that the repetition of the word "Lord" may have become so ingrained in the language that its significance was overlooked by some readers.
 3. "Thou knowest well" - The use of the comparative form here implies that the recipient of the letter already has a deep understanding of the subject, indicating a close relationship between the writer and the reader.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord rewards a kindness done to His disciples as if done to Himself."
 2. "The Lord is emphatically put instead of 'from Himself,' for solemnity and emphasis."
 3. "Thou knowest better" (than I can tell thee, seeing that thou art more of a regular resident at Ephesus).
@@ -50,4 +50,4 @@ In this verse, the prayer for mercy is mentioned repeatedly, emphasizing the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

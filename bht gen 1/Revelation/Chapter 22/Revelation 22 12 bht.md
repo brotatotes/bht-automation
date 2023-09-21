@@ -4,7 +4,7 @@
 In anticipation of His imminent return to judge the world, Jesus emphasizes the urgency and significance of His coming. He will bring with Him the rewards that He will assign to both the righteous and the wicked, highlighting His authority in matters of divine justice. Every individual will be judged according to their whole inward and outward behavior, emphasizing the importance of living a righteous life. The imminent return of Jesus serves as a reminder to believers to be prepared and watchful for His arrival.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, I come quickly" - This phrase is a reminder of the imminent return of Jesus Christ. It emphasizes the urgency and immediacy of His coming, urging believers to be prepared and watchful for His arrival.
 
 2. "My reward is with me" - This statement highlights the fact that Jesus will bring His reward with Him when He returns. It signifies that He will bring justice and recompense to every individual according to their deeds.
@@ -49,4 +49,4 @@ In anticipation of His imminent return to judge the world, Jesus emphasizes the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

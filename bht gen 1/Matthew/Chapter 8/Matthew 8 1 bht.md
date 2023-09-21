@@ -4,7 +4,7 @@
 Multitudes were drawn to Jesus, captivated by his teachings and miracles. His popularity spread, attracting people from all walks of life who sought his presence and guidance. The divine power and authority of Jesus were demonstrated through his ability to heal the leper with a mere touch and word, a miracle that left witnesses in awe. The significance of this event was not lost on the great multitudes that followed him, as it further confirmed their belief that Jesus had come from God and possessed extraordinary abilities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse highlights the popularity and influence of Jesus, as great multitudes followed him. This demonstrates the magnetic power of his teachings and miracles, drawing people from all walks of life to seek his presence and guidance."
 
 ### Albert Barnes:
@@ -28,4 +28,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

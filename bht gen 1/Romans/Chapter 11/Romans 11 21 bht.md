@@ -9,7 +9,7 @@ This verse reminds us to cultivate humility and a healthy fear of God, rather th
 2. "The fut. ind. with μή πως... implies... ' μὴ ἐστὶ ( ἔσται ) verentis quidem est ne quid nunc sit (  futurum sit ), sed indicantis simul, putare, se ita esse (  futurum esse ), ut veretur.'" 
 3. "See Winer, edn. 6, § 56. 2. b. β , and 64. i. 7. a, also Colossians 2:8 ; Hebrews 3:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For if God spared not the natural branches—sprung from the parent stem."
 2. "Take heed lest he also spare not thee—a mere wild graft."
 3. "The former might, beforehand, have been thought very improbable; but, after that, no one can wonder at the latter."
@@ -52,4 +52,4 @@ This verse reminds us to cultivate humility and a healthy fear of God, rather th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ On the day of judgment, the hidden desires and motives of people will be exposed
 2. "This affirmation is the last sentence which has been in the dogmatic form: after it we have a series of quasi-parenthetic clauses οὐ γάρ ὅσοι γάρ οὐ γάρ ὅταν γάρ; i.e., the reasons, necessitated by the startling assertion, are one after another given."
 3. "According to (not belonging to κρινεῖ as the rule of judgment, but to the whole declaration, 'as taught in,' 'as forming part of') the Gospel entrusted to me to teach."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The judgment of God will not only be based on outward actions, but also on the hidden motives and intentions of the heart." 
 
 2. "The self-righteous will be exposed for their hypocrisy, as God sees through their façade of righteousness." 
@@ -57,4 +57,4 @@ On the day of judgment, the hidden desires and motives of people will be exposed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

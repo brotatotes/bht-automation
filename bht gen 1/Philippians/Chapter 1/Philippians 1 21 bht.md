@@ -9,7 +9,7 @@ To understand this verse, we see a deep devotion and commitment to Christ. The s
 2. "The act of living is to him Christ; but it is the state after death, not the act of dying, which is gain to him." 
 3. "Even if my death should be the result of my enemies' machinations, it will be no αἰσχύνη to me, but gain, and my παῤῥησία is secured even for that event."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For to me, to live is Christ—whatever life, time, and strength, I have, is Christ's Christ is the sole object for which I live." 
 2. "Besides the glorification of Christ by my death, which is my primary object, the change of state caused by death, so far from being a matter of shame or loss, as my enemies suppose, will be a positive 'gain' to me." 
 3. "To die is gain—not the act of dying, but as the Greek ('to have died') expresses, the state after death."
@@ -52,4 +52,4 @@ To understand this verse, we see a deep devotion and commitment to Christ. The s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

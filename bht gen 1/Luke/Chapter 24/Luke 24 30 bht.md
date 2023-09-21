@@ -9,7 +9,7 @@ In the midst of a meal, a stranger took on the role of the master, breaking and 
 2. "The analogy of such a breaking and giving with His institution of that holy ordinance becomes lost, when we force the incident into an example of the ordinance itself."
 3. "In doing so, perhaps the well-known manner of His taking bread, &c., perhaps the marks of the nails in His hands, then first noticed, or these together, as secondary means, but certainly His own will and permission to be seen by them, opened their eyes to know Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The stranger first startles them by taking the place of master at their own table." 
 2. "On proceeding to that act which reproduced the whole scene of the last Supper, a rush of associations and recollections disclosed their guest."
 3. "He stood confessed before their astonished gaze—THEIR RISEN LORD!"
@@ -57,4 +57,4 @@ In the midst of a meal, a stranger took on the role of the master, breaking and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, commentators highlight the spiritual condition of a people dwelling in darkness and despair. They emphasize the characteristic nature of sitting in darkness, which represents a state of depravity and ignorance. The inhabitants of Galilee, noted for their spiritual darkness, encounter a transformative light when Christ shines upon them. This light brings truth, knowledge, moral purity, and happiness, dispelling the shadows of death that engulfed them. The verse showcases the power of Christ's arrival in a region long plagued by spiritual darkness, offering hope and healing to those who once walked a path to despair.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judah shall not, cannot perish, because IMMANUEL, the Virgin's Son, is to come forth from his loins."
 2. "While the Lord will be the Sanctuary of such as confide in these promises and await their fulfilment, He will drive to confusion, darkness, and despair the vast multitude of the nation who despised His oracles."
 3. "By Messiah's taking up His abode in those very regions of Galilee, and shedding His glorious light upon them, this prediction, He says, of the Evangelical prophet was now fulfilled."
@@ -42,4 +42,4 @@ In this verse, commentators highlight the spiritual condition of a people dwelli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

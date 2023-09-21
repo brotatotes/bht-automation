@@ -9,7 +9,7 @@ The verse in question emphasizes the importance of the spiritual meaning of Jesu
 2. "He does not say 'My Flesh profiteth nothing,' but 'the flesh.' To make Him say this, as the Swiss anti-sacramentalists do, is to make Him contradict His own words in John 6:51."
 3. "They are πνεῦμα and ζωή: spirit, not flesh only: living food, not carnal and perishable. This meaning has been missed by almost all Commentators: Stier upholds it, iv. 281 (2nd edn.): and it seems to me beyond question the right one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Flesh as such, mere flesh, could profit nothing, much less impart that life which the Holy Spirit alone communicates to the soul."
 2. "The whole burden of the discourse is 'spirit,' not mere flesh, and 'life' in its highest, not its lowest sense."
 3. "The words I have employed are to be interpreted solely in that sense."
@@ -50,4 +50,4 @@ The verse in question emphasizes the importance of the spiritual meaning of Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

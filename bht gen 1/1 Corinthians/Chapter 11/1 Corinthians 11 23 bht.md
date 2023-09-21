@@ -9,7 +9,7 @@ In this verse, the Apostle Paul affirms that he received the Lord's Supper direc
 2. "He was being betrayed" - The use of the imperfect tense suggests that the act of betrayal was ongoing, emphasizing the significance of Jesus' sacrifice.
 3. "Not, as Meyer, 'a loaf,' but bread" - The term "bread" used here refers to the common expression of eating bread, highlighting the ordinary nature of the elements used in the Lord's Supper.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His object is to show the unworthiness of such conduct from the dignity of the holy supper."
 2. "The renewal of the institution of the Lord's Supper by special revelation to Paul enhances its solemnity."
 3. "Though about to receive such an injury from man, He gave this pledge of His amazing love to man."
@@ -55,4 +55,4 @@ In this verse, the Apostle Paul affirms that he received the Lord's Supper direc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are reminded not to be swayed by the judgments of others
 2. "God in Him hath put away and dispensed with all that is secondary and intermediate." 
 3. "The reference of πόσις must be to the Nazarite vow, Num 6:3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pay no regard to any one who sits in judgment on you as to legal observances in respect to foods."
 2. "The weekly sabbath rests on a more permanent foundation, having been instituted in Paradise to commemorate the completion of creation in six days."
 3. "If we could keep a perpetual sabbath, as we shall hereafter, the positive precept of the sabbath, one in each week, would not be needed."
@@ -57,4 +57,4 @@ In this Bible verse, we are reminded not to be swayed by the judgments of others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

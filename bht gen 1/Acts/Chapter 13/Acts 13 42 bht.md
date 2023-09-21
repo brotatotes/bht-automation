@@ -9,7 +9,7 @@ The passage described captures a powerful scene where Paul and Barnabas captivat
 2. "On the N.T. construction, παρεκάλουν λαληθῆναι...He traces it to the influence of the Latin jubere and the like."
 3. "τὸ μεταξὺ σάβ...appears, by the usage of Luke, to mean the next sabbath-day, not 'the following week.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now, as they were going out [of the synagogue], they besought" - The true reading suggests that it was not the Gentiles, but the mixed congregation of Jews and proselytes who entreated to have another hearing of the truths preached to them. This highlights the impact and interest that the message had on those who were present.
 
 2. "Many of both classes, Jews and religious proselytes, followed Paul and Barnabas" - The fact that both Jews and religious proselytes followed Paul and Barnabas indicates that their preaching had a profound effect on a diverse range of individuals. It demonstrates the power of the Gospel to unite people from different backgrounds.
@@ -57,4 +57,4 @@ The passage described captures a powerful scene where Paul and Barnabas captivat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

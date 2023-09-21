@@ -4,7 +4,7 @@
 This verse contains a repetition of a benediction, which is highlighted by commentators as significant and inclusive. It is seen as a heartfelt farewell from the apostle to a beloved church, emphasizing his deep affection for them. The repetition may have been intentional, symbolizing the Apostle Paul's personal touch in his writing. Additionally, the verse includes a doxology that recognizes the greatness and wisdom of Christ as the only true God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grace, &c.—a repetition of the benediction precisely as in :-" - This quote highlights the repetition of the benediction from a previous verse, emphasizing its significance and importance.
 
 2. "Save that it is here invoked on them 'all.'" - This quote emphasizes that the benediction is extended to everyone, emphasizing the inclusivity and universality of God's grace.
@@ -28,4 +28,4 @@ I apologize for the confusion, but I am unable to generate a response without th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

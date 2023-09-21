@@ -4,7 +4,7 @@
 In this passage, Jesus enters Jerusalem in a deliberate manner, selecting a route that leads him directly into the city, highlighting the significance of his arrival and foreshadowing future events. His entrance symbolizes the fulfillment of God's promises and the establishment of his kingdom on earth. Luke accurately notes this unique detail, providing reliability to his account, while Jesus' bold entrance sets the stage for the dramatic events that will unfold, showcasing his identity as the awaited Messiah. The disciples obediently carry out Jesus' instructions, finding everything just as he had foretold.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethphage, meaning 'house of figs,' provides a symbolic backdrop for Jesus' entry into Jerusalem. Just as figs are a sign of abundance and blessing in the Bible, Jesus' arrival signifies the fulfillment of God's promises and the coming of God's kingdom on earth."
 
 2. "The location of Bethphage and Bethany on the further side of Mount Olivet suggests that Jesus intentionally chose a route that would lead him directly into Jerusalem. This deliberate choice highlights the significance of his entry and foreshadows the events that will unfold in the city."
@@ -25,4 +25,4 @@ In this passage, Jesus enters Jerusalem in a deliberate manner, selecting a rout
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

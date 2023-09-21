@@ -9,7 +9,7 @@ This verse portrays religious leaders who enforce strict rules and regulations o
 2. "The severity of the law, which they enforce on others, but do not observe."
 3. "The irksomeness and unbearableness of these rites did not belong to the Law in itself, but were created by the rigour and ritualism of these men, who followed the letter and lost the spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders." - This quote highlights the oppressive nature of the religious leaders, who burdened people with excessive rules and regulations.
 2. "But they themselves will not move them—'touch them not' with one of their fingers." - This quote emphasizes the hypocrisy of the religious leaders, who imposed rules on others but were unwilling to lift a finger to help or support them.
 3. "Referring not so much to the irksomeness of the legal rites, though they were irksome enough, as to the heartless rigor with which they were enforced, and by men of shameless inconsistency." - This quote explains that the focus is not just on the difficulty of the religious rituals, but on the lack of compassion and integrity displayed by the religious leaders in enforcing them.
@@ -49,4 +49,4 @@ This verse portrays religious leaders who enforce strict rules and regulations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

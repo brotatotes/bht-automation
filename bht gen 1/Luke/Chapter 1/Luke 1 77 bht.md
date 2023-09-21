@@ -9,7 +9,7 @@ The verse describes the profound significance of salvation, emphasizing the know
 2. "The element in which the former blessing was to be conferred."
 3. "The remission of sin is the first opening for the γνῶσις σωτηρίας."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To sound the note of a needed and provided 'salvation' was the noble office of John, above all that preceded him; as it is that of all subsequent ministers of Christ." 
 2. "Infinitely loftier was it to be the 'Salvation' itself." 
 3. "This stamps at once the spiritual nature of the salvation here intended."
@@ -59,4 +59,4 @@ The verse describes the profound significance of salvation, emphasizing the know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

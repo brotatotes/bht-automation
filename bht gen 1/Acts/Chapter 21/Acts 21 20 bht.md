@@ -9,7 +9,7 @@ In this verse, we see Paul facing suspicion and apprehension among the believers
 2. "Apprehended that he advised on the part of the Hellenistic believers, an entire apostasy from Moses and the ordinances of the law."
 3. "Paul’s own experience, and knowledge of the vast numbers of the Jews who believed at Jerusalem, and elsewhere in Judæa."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They glorified the Lord" - This phrase highlights the response of the believers in Jerusalem to Paul's testimony. It shows their recognition and praise of God's work in Paul's life and ministry.
 
 2. "Constrained to justify his course" - This phrase suggests that Paul felt compelled to defend his actions and beliefs, especially in light of the Jewish nature of the early Christian community in Jerusalem. It speaks to the challenges Paul faced in reconciling his Gentile-focused ministry with the predominantly Jewish context of the early church.
@@ -45,4 +45,4 @@ In this verse, we see Paul facing suspicion and apprehension among the believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

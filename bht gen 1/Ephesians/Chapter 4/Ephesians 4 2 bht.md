@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes the importance of humility, meekness, and patience. It calls believers to esteem themselves small, accepting God's dealings without dispute and bearing injuries patiently. This meekness and forbearance are rooted in a humble heart, allowing believers to walk according to God's will and to forgive and support one another in love. By embodying these virtues, believers demonstrate their understanding of God's longsuffering and adorn the gospel with the power of gentle and quiet virtues.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel has elevated the word to express a Christian grace, namely, the esteeming of ourselves small, inasmuch as we are so; the thinking truly, and because truly, therefore lowlily, of ourselves."
 2. "Meekness is that spirit in which we accept God's dealings with us without disputing and resisting; and also the accepting patiently of the injuries done us by men, out of the thought that they are permitted by God for the chastening and purifying of His people."
 3. "It is only the lowly, humble heart that is also meek."
@@ -38,4 +38,4 @@ The Bible verse being described emphasizes the importance of humility, meekness,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

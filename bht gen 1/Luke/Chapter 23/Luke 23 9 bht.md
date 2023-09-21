@@ -4,7 +4,7 @@
 In this verse, Jesus encounters someone who is inquisitive and seeks answers, particularly about the powerful miracles associated with Him. However, Jesus does not respond, choosing silence as a powerful response and demonstrating His wisdom in not engaging in pointless arguments. By refusing to answer, Jesus teaches us the importance of discernment, the value of humility, and the trust we can have in the truth of His words. The verse also emphasizes the inclusivity and accessibility of the Bible's message, which is relevant to a wide range of individuals and not limited to a select few.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sometimes, silence is the most powerful response. Jesus chose not to answer, recognizing that some questions are not worth engaging with. This teaches us the importance of discernment and knowing when to speak and when to remain silent."
 
 2. "By not responding, Jesus demonstrated his wisdom and understanding. He knew that engaging in pointless arguments would only lead to further confusion and distraction from his true message."
@@ -43,4 +43,4 @@ In this verse, Jesus encounters someone who is inquisitive and seeks answers, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

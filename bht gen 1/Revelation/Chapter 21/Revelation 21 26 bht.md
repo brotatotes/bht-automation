@@ -4,7 +4,7 @@
 In this verse, the City of God is described as a magnificent and harmonious place, where all the excellent and honorable aspects of the earth and its nations are gathered and presented to the King. It signifies an enriched and unified city, where the best contributions from every culture and civilization are brought together. This city is adorned with the riches and treasures of the world, symbolizing its abundance and beauty. It is the culmination of God's ultimate plan to redeem and restore all things, reflecting the glory and magnificence of His kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All that was truly glorious and excellent in the earth and its converted nations shall be gathered into it." 
 2. "While all shall form one Bride, there shall be various orders among the redeemed." 
 3. "Analogous to the divisions of nations on earth constituting the one great human family, and to the various orders of angels."
@@ -42,4 +42,4 @@ In this verse, the City of God is described as a magnificent and harmonious plac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse emphasizes that the reward we receive from God is not based on our ow
 2. "The stress is on κατὰ χάριν, not on λογίζεται, which in this first member of the sentence, is used hardly in the strict sense, of imputing or reckoning, but of allotting or apportioning."
 3. "And the sentence is a general one, not with any peculiar reference to Abraham, except that after κατὰ χάριν we may supply ὡς τῷ Ἀβραάμ, if we will; for this is evidently assumed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The concept of grace is central to understanding this verse. The reward that comes from working as a servant is not based on grace, but rather on the merit of the work done. In contrast, the reward that comes from God is purely a matter of favor, given freely and undeservedly."
 2. "This verse highlights the difference between human relationships and our relationship with God. In human relationships, rewards are often given as a matter of debt, where one person owes something to another. However, in our relationship with God, the reward is not based on any debt we can repay, but solely on His grace."
 3. "The concept of grace challenges our human understanding of fairness and merit. We may feel that we deserve a reward for our work, but in God's economy, it is not about what we deserve, but about His abundant grace and love towards us."
@@ -57,4 +57,4 @@ This verse emphasizes that the reward we receive from God is not based on our ow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

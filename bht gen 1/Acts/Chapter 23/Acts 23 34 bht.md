@@ -4,7 +4,7 @@
 In this passage, we see the importance of understanding the significance of one's province, whether it be senatorial or imperial. The mention of Cilicia as an imperial province provides context and illustrates the different governing structures within the Roman Empire. The inquiry into Paul's province also highlights the privileges and protections that come with Roman citizenship. Furthermore, this incident emphasizes the need to be knowledgeable about our rights and freedoms as citizens, and to stand up for them when necessary.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question of what province he was from reveals the confusion and uncertainty surrounding Paul's identity. It highlights the fact that being a Roman citizen was a significant privilege and carried certain rights and protections."
 
 2. "The mention of Paul's Roman citizenship in the letter adds weight to his defense and emphasizes the seriousness of the accusations against him. It also serves as a reminder that even in the midst of his trials, Paul had the backing of a powerful empire."
@@ -44,4 +44,4 @@ In this passage, we see the importance of understanding the significance of one'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

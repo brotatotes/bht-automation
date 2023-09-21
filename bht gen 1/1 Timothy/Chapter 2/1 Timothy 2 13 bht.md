@@ -9,7 +9,7 @@ John Wesley offers a commentary that focuses on the societal context and implica
 2. "The order of creation is significant in understanding the reason for this precept." 
 3. "The passage in Genesis and the reference in 1 Corinthians 11:8-9 shed light on the order of creation and its implications."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For—reason of the precept" - This quote highlights that the commentary is explaining the reason behind the instruction or commandment being discussed in the verse. It suggests that there is a specific purpose or rationale for the precept being mentioned.
 
 2. "the original order of creation" - This quote emphasizes that the commentary is referring to the sequence in which things were created. It suggests that the commentary will explore the significance of the order in which Adam and Eve were created.
@@ -61,4 +61,4 @@ John Wesley offers a commentary that focuses on the societal context and implica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse emphasizes the significance of familial relationships within the early Christian community, highlighting the bond of faith that transcends blood ties. It reveals the diverse spiritual dynamics that existed within households during that time, with the possibility of some individuals being followers of Christ while others had not yet embraced the faith. Additionally, it sheds light on the power dynamics within the Roman Empire and the influence of prominent figures on the early Christian community.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute Herodion, my kinsman" - This verse highlights the importance of familial relationships within the early Christian community, emphasizing the bond of faith that transcends blood ties.
 2. "Greet them that be of the household of Narcissus, which are in the Lord" - This phrase suggests that while some members of Narcissus' household were believers, others were not, illustrating the diverse spiritual dynamics that existed within households during that time.
 3. "which implies that others in his house, including probably himself, were not Christians" - This commentary sheds light on the possibility that even in households where some individuals were followers of Christ, there were still others who had not yet embraced the faith.
@@ -45,4 +45,4 @@ This verse emphasizes the significance of familial relationships within the earl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

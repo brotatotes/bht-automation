@@ -9,7 +9,7 @@ In this particular passage, a person is described as falling into a trance or ec
 2. "In this case, the thing seen actually happened, and was beheld by the person as an ordinary spectator, in the possession of his natural senses."
 3. "ἐκείνων is more likely to have been a correction of αὐτῶν as applying better to the people of the house, than the converse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A trance—differing from the 'vision' of Cornelius, in so far as the things seen had not the same objective reality, though both were supernatural." 
 
 2. "The trance was a state of being caught up in the Spirit, where the natural senses were suspended, and the spiritual senses were heightened." 
@@ -57,4 +57,4 @@ Note: The provided commentary does not include any specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators discuss the ultimate subordination of the Son to the
 2. "The refutation of these and all other attempts to explain away the doctrine here plainly asserted, of the ultimate subordination of the Son, is contained in the three precise and unambiguous words, αὐτὸς ὁ υἱός."
 3. "ἵνα ᾖ ὁ θ. πάντα ἐν πᾶσιν] that God (alone) may be all things in all, i.e. recognized as sole Lord and King."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the mediatorial kingdom, the Son had been, in a manner, distinct from the Father. Now, His kingdom shall merge in the Father's, with whom He is one."
 2. "God...all in all—as Christ is all in all."
 3. "Then, and not till then, 'all things,' without the least infringement of the divine prerogative, shall be subject to the Son, and the Son subordinate to the Father, while co-equally sharing His glory."
@@ -48,4 +48,4 @@ In this verse, commentators discuss the ultimate subordination of the Son to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

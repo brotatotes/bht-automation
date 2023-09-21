@@ -9,7 +9,7 @@ In this verse, Jesus poses a question to his disciples, seeking their unwavering
 2. "We must not forget likewise, in the mystery of our Lord’s human nature, that at such a moment of desertion, He would seek comfort in the faith and attachment of His chosen ones."
 3. "He would seek comfort in the faith and attachment of His chosen ones."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The twelve—the first time they are thus mentioned in this Gospel." 
 2. "Evidently Christ felt the desertion of Him even by those miserable men who could not abide His statements." 
 3. "He would nip it in the bud by this home question."
@@ -52,4 +52,4 @@ In this verse, Jesus poses a question to his disciples, seeking their unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

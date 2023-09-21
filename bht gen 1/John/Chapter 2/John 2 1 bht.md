@@ -9,7 +9,7 @@ At an undisclosed wedding in a small town called Cana of Galilee, Jesus and his 
 2. "It was the residence, and probably birth-place, of Nathanael."
 3. "He shews this to have been recognized in early tradition, and its honour to have been only recently usurped by Kefr Kenna."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "third day—He would take two days to reach Galilee, and this was the third." 
 
 2. "mother there—it being probably some relative's marriage." 
@@ -52,4 +52,4 @@ At an undisclosed wedding in a small town called Cana of Galilee, Jesus and his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

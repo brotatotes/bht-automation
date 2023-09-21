@@ -4,7 +4,7 @@
 In this verse, the apostle Paul and Barnabas are shown refusing to yield or submit "in the way of subjection" when the truth of the Gospel was at stake. Their steadfastness and unwavering commitment to proclaiming the genuine Gospel is highlighted. They defended the true faith and liberties of the believers, ensuring that the unadulterated message of salvation through Christ alone was preserved. Their resolute stand was motivated by the desire for the truth of the Gospel to continue and benefit all believers, safeguarding them from any false teachings or compromises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We would willingly have yielded for love, but not in the way of subjection, where 'the truth of the Gospel' was at stake."
 2. "Truth precise, unaccommodating, abandons nothing that belongs to itself, admits nothing that is inconsistent with it."
 3. "We defended for your sakes your true faith and liberties, which you are now renouncing."
@@ -52,4 +52,4 @@ In this verse, the apostle Paul and Barnabas are shown refusing to yield or subm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

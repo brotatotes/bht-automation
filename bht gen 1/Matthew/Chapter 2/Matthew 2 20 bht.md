@@ -11,7 +11,7 @@ In this verse, the plural form is not simply a figure of speech or a kind way of
 
 3. "betokening, not the number, but the category" - This quote suggests that the plural form in the verse is not indicating a specific number of people, but rather a broader category or type.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joseph and the Virgin had, like Abraham, to 'go out, not knowing whither they went,' till they should receive further direction."
 2. "For they are dead which sought the young child's life—a common expression in most languages where only one is meant, who here is Herod."
 3. "Herod died in the seventieth year of his age, and thirty-seventh of his reign."
@@ -39,4 +39,4 @@ In this verse, the plural form is not simply a figure of speech or a kind way of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

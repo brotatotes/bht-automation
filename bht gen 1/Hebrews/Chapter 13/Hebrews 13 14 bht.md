@@ -9,7 +9,7 @@ The Bible verse being described is a reminder to believers that this world is no
 2. "The heavenly Jerusalem, in all her glory, is not yet existing, nor shall be until the number of the elect is accomplished."
 3. "This verse certainly comes with a solemn tone on the reader, considering how short a time the μένουσα πόλις did actually remain, and how soon the destruction of Jerusalem put an end to the Jewish polity which was supposed to be so enduring."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earthly Jerusalem proved to be no 'abiding city,' having been destroyed shortly after this Epistle was written, and with it fell the Jewish civil and religious polity; a type of the whole of our present earthly order of things soon to perish."
 2. "Those Hebrews who clung to the earthly sanctuary are representatives of all who cling to this earth."
 3. "The one to come" is referenced in multiple passages of the Bible, emphasizing the anticipation of a future city and kingdom beyond the earthly realm.
@@ -55,4 +55,4 @@ These quotes highlight the transient nature of the world and the temporary dwell
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

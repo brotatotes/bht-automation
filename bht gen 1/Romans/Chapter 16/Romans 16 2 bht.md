@@ -11,7 +11,7 @@ The verse being described is a message about receiving someone "in the Lord," tr
 4. "This may refer to a part of the deaconess's office, the attending on the poor and sick of her own sex."
 5. "It is not improbable that she may have been, like Lydia, one whose heart the Lord opened at the first preaching of Paul, and whose house was his lodging."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Receive her in the Lord—that is, as a genuine disciple of the Lord Jesus." 
 2. "Assist her in whatsoever business she may have—some private business of her own." 
 3. "For she hath been a succourer of many, and of myself also."
@@ -52,4 +52,4 @@ The verse being described is a message about receiving someone "in the Lord," tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

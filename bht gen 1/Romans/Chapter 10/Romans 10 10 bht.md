@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the transformative power of 
 2. "But there must be an outward confession, in order for justification to be carried forward to salvation." 
 3. "Salvation is the 'terminus ultimus et apex justificationis,' consequent not merely on the act of justifying faith as the other, but on a good confession before the world, maintained unto the end."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With the heart man believeth unto justifying righteousness." This emphasizes the importance of genuine faith in the heart as the foundation of righteousness. It is not merely an outward profession, but a deep conviction that leads to salvation.
 
 2. "Confession is made unto salvation." This highlights the significance of openly declaring one's faith in Christ, especially in challenging circumstances. It is a powerful testimony of discipleship and a demonstration of unwavering commitment to the Lord.
@@ -57,4 +57,4 @@ The verse being described is a powerful reminder of the transformative power of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

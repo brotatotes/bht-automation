@@ -9,7 +9,7 @@ In this verse, the speaker reflects on their defense before a tribunal, praying 
 2. "And I was delivered from the mouth of the lion."
 3. "None stood with him all forsook him: but the Lord stood by him and strengthened him: for what? that he might witness a good confession, and that the κήρυγμα might be expanded to the utmost."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This must have been, therefore, a second imprisonment."
 2. "His 'first' trial in his second imprisonment seems to have been on the charge of complicity in the conflagration."
 3. "May it not be laid to THEIR charge, for they were intimidated; their drawing back from me was not from bad disposition so much as from fear."
@@ -52,4 +52,4 @@ In this verse, the speaker reflects on their defense before a tribunal, praying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

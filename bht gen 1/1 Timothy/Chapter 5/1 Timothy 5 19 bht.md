@@ -11,7 +11,7 @@ This verse cautions against readily accepting accusations against an elder witho
 
 3. "The passage is recalling the attention of Timotheus to a known and prescribed precaution." - This commentary suggests that the verse serves as a reminder to Timotheus about a well-known and established precaution that should always be followed, indicating the importance of adhering to proper procedures in handling accusations against presbyters.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A judicial conviction was not permitted in Deuteronomy 17:6; Deuteronomy 19:15, except on the testimony of at least two or three witnesses."
 2. "Timothy's entertaining an accusation against anyone is a different case, where the object was not judicially to punish, but to admonish: here he might ordinarily entertain it without the need of two or three witnesses; but not in the case of an elder."
 3. "How important then was it that Timothy should not, without strong testimony, entertain a charge against presbyters, who should, in order to be efficient, be 'blameless'."
@@ -61,4 +61,4 @@ These quotes emphasize the importance of having substantial evidence and multipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we are reminded of the interconnectedness between hope, endurance
 2. "τῇ ἐλπίδι is the ground of the joy in χαίροντες."
 3. "τῇ θλίψει the state in which the ὑπομονή is found."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In hope, rejoicing in tribulation, enduring; in prayer, persevering." - The original order and verbs of the verse highlight the interconnectedness of these exercises. Each one supports and strengthens the others, showing that our hope, rejoicing, endurance, and perseverance in prayer are all intertwined.
 
 2. "If our 'hope' of glory is so assured that it is a rejoicing hope, we shall find the spirit of 'endurance in tribulation' natural and easy." - A strong and confident hope leads to a joyful outlook, making it easier to endure and persevere through difficult times. Our hope in God's promises can sustain us even in the midst of tribulations.
@@ -55,4 +55,4 @@ In this verse, we are reminded of the interconnectedness between hope, endurance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

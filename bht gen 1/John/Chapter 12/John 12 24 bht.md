@@ -9,7 +9,7 @@ In this verse, the necessity of Jesus' death and the transformative power it hol
 2. "The divine Will, which has fixed the law of the springing up of the wheat-corn, has also determined the law of the glorification of the Son of Man, and the one in analogy with the other: i.e. both through Death."
 3. "The symbolism here lies at the root of that in ch. 6, where Christ is the bread of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Except a corn of wheat fall into the ground and die, it abideth alone; but if it die, it bringeth forth much fruit." - This verse emphasizes the necessity of Jesus' death and the transformative power it holds. It illustrates the concept of life springing forth from death, using a profound analogy from the vegetable kingdom.
 
 2. "The necessity of His death is here brightly expressed, and its proper operation and fruit." - This commentary highlights the clarity with which this verse conveys the importance of Jesus' death. It emphasizes that His death was not in vain but had a purpose and would bear abundant fruit.
@@ -55,4 +55,4 @@ In this verse, the necessity of Jesus' death and the transformative power it hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

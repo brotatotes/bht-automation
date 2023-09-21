@@ -9,7 +9,7 @@ In this verse, the emphasis is on seeking and pursuing peace, to the extent that
 2. "And this is further defined by τὸ ἐξ ὑμῶν: all YOUR part is to be peace."
 3. "Whether you actually live peaceably or not, will depend then solely on how others behave towards you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If others will let you."
 2. "Dependeth on you."
 3. "Let nothing on our part prevent it!"
@@ -54,4 +54,4 @@ In this verse, the emphasis is on seeking and pursuing peace, to the extent that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of our relationship with God an
 2. "At such a time, the servants of God are highly esteemed."
 3. "Paul's identification as a servant of God adds weight and credibility to his message."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There stood by me this night the angel of God." - This quote highlights the presence of divine intervention in the speaker's life, emphasizing the significance of the encounter.
 2. "Whose I am." - This quote emphasizes the speaker's identity and belonging to God, indicating a strong sense of devotion and connection to a higher power.
 3. "And whom I serve." - This quote suggests that the speaker's relationship with God goes beyond mere belief, extending to a life of worship and dedication.
@@ -54,4 +54,4 @@ These quotes highlight the confidence and assurance that Paul had in his vision 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

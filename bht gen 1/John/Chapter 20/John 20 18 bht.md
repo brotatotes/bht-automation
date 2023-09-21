@@ -4,7 +4,7 @@
 In the aftermath of the resurrection, a woman named Mary Magdalene was honored to be the first to see the risen Redeemer. This encounter signifies that experiencing the presence of the Lord is not limited by gender. Jesus entrusted Mary with a message to deliver to the disciples, conveying His trust in her and her role in spreading the good news. Mary's immediate response and willingness to fulfill her Lord's commands highlight her faithfulness and eagerness to share her firsthand experience of encountering the risen Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To a woman was this honor given to be the first that saw the risen Redeemer, and that woman was not His mother." 
 2. "This highlights the significance of Mary Magdalene's encounter with Jesus, as it shows that gender is not a barrier to experiencing the presence of the Lord." 
 3. "The fact that Jesus appeared to Mary Magdalene and entrusted her with the message to deliver to the disciples demonstrates His trust in her and her role in spreading the good news of His resurrection."
@@ -35,4 +35,4 @@ In the aftermath of the resurrection, a woman named Mary Magdalene was honored t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

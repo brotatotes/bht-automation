@@ -9,7 +9,7 @@ In a sharp contention between Paul and Barnabas, Paul sought justice while Barna
 2. "ἐμοὶ δοκεῖ καὶ κατὰ σύνεσιν γεγενῆσθαι τὸν χωρισμόν" - It seems to me that the separation was also based on reason.
 3. "Barnabas appears to have gone with his cousin without any special sympathy or approval; whereas Paul was commended to the grace of God by the assembled church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each of these great servants of Christ had something to say for himself, in defense of the position which they respectively took up."
 2. "How watchful does all this teach Christians, and especially Christian ministers and missionaries, to be against giving way to rash judgment and hot temper towards each other, especially where on both sides the glory of Christ is the ground of difference!"
 3. "And how affectingly does the Lord overrule such difference of judgment and such manifestations of human infirmity, by making them 'turn out rather unto the furtherance of the Gospel'."
@@ -52,4 +52,4 @@ Note: The quotes have been shortened for conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

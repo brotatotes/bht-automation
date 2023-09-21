@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul acknowledges that his role as a master-bui
 2. "The proof of this skill is given, in his laying a foundation: the unskilful master-builder lays none."
 3. "The foundation was and must be, JESUS CHRIST: the facts of redemption by Him (obj.), and the reception of Him and His work by faith (subj.)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'grace' is that 'given' to him in common with all Christians, only proportioned to the work which God had for him to do."
 2. "His skill is shown in his laying a foundation. The unskilful builder lays none. Christ is the foundation."
 3. "His warning, 'Let every man (every teacher) take heed how,' refers to other successors rather than Apollos, who doubtless did not, as they, build wood, hay, &c., on the foundation."
@@ -56,4 +56,4 @@ In this Bible verse, the apostle Paul acknowledges that his role as a master-bui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

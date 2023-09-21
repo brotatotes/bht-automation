@@ -9,7 +9,7 @@ In this verse, the righteousness of God is revealed through the exhibition of Hi
 2. "The whole present concern is with ἔνδειξις, the exhibition to men of the righteousness of God."
 3. "In order that He may be (shewn to be) just and (yet, on the other side) justifying him who is of (the) faith in Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Just in punishing," and "merciful in pardoning," men can understand; but "just in justifying the guilty," startles them.
 2. The propitiation through faith in Christ's blood resolves the paradox and harmonizes the discordant elements.
 3. It is on the atoning blood of Christ, as the one propitiatory sacrifice which God hath set forth to the eye of the guilty, that the faith of the convinced and trembling sinner fastens for deliverance from wrath.
@@ -50,4 +50,4 @@ In this verse, the righteousness of God is revealed through the exhibition of Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

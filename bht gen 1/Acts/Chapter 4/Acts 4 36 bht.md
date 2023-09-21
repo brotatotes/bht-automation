@@ -9,7 +9,7 @@ This individual, known as "a son of consolation," possessed unique gifts of the 
 2. "The Levites might possess land at all times within the precincts of the Levitical cities: such was the case, e.g., in Jeremiah 32:7."
 3. "For the state of Cyprus at this time, see notes on ch. Acts 11:19; Acts 13:4-7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is specified merely as an eminent example of that spirit of generous sacrifice which pervaded all."
 2. "Son of consolation—no doubt so surnamed from the character of his ministry."
 3. "A Levite—who, though as a tribe having no inheritance, might and did acquire property as individuals."
@@ -42,4 +42,4 @@ These quotes provide insights into the origin of Barnabas' nickname, the implica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

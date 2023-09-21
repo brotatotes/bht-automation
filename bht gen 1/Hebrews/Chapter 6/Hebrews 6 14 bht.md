@@ -9,7 +9,7 @@ The promise to Abraham goes beyond physical descendants, encompassing spiritual 
 2. "The Writer alters, not from a wish to abbreviate nor because he quoted from memory, but because his concern here was with Abraham alone, and his spiritual example."
 3. "He wished to direct his readers' thoughts to his spiritual seed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The increase of Abraham's seed is virtually an increase of himself."
 2. "The argument here refers to Abraham himself as an example."
 3. "Therefore Paul quotes Genesis 22:17, 'thee,' instead of 'thy seed.'"
@@ -60,4 +60,4 @@ The promise to Abraham goes beyond physical descendants, encompassing spiritual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

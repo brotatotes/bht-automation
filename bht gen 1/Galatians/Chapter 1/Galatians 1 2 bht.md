@@ -9,7 +9,7 @@ The verse being described is a letter written by the apostle Paul, addressing a 
 2. "Their unanimity is here stated, as Chrys., Luther, al., to show that he was not alone in his doctrine, but joined by all the brethren who were present."
 3. "That we have here barely ταῖς ἐκκλ ., without any honorable adjunct, must be explained as Chrys. al.: θέα δέ μοι καὶ ἐνταῦθα τ . πολλὴν ἀγανάκτησιν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that these were joint authors with Paul of the Epistle: but joined him in the sentiments and salutations."
 2. "The phrase, 'all the brethren,' accords with a date when he had many travelling companions, he and they having to bear jointly the collection to Jerusalem."
 3. "He does not attach any honorable title to the churches here, as elsewhere, being displeased at their Judaizing."
@@ -57,4 +57,4 @@ These quotes highlight the unity and collaboration among Paul and his companions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

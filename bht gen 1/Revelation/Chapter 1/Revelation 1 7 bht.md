@@ -4,7 +4,7 @@
 Behold, a majestic sight as He cometh with the clouds, symbolizing both wrath to sinners and the glory and majesty of His second coming. None shall be indifferent to His personal and visible appearing, for every eye, including those who have pierced Him, shall see Him. The righteous shall rejoice in His love, yet also feel penitential sorrow for their sins, while the unbelievers, represented as tribes, shall wail in penitence and dismay. So it is, the Son of Man's coming shall complete His victory and evoke deep and universal alarm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Clouds are the symbols of wrath to sinners."
 2. "His coming shall therefore be a personal, visible appearing."
 3. "Even the godly while rejoicing in His love shall feel penitential sorrow at their sins, which shall all be manifested at the general judgment."
@@ -47,4 +47,4 @@ Behold, a majestic sight as He cometh with the clouds, symbolizing both wrath to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

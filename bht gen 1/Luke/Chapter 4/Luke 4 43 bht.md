@@ -4,7 +4,7 @@
 In this Bible verse, we are reminded of the selflessness and duty-driven nature of Jesus. He prioritized fulfilling his responsibilities over personal desires, demonstrating his role as the great Apostle of God to all. The verse emphasizes the preaching of the Gospel dispensation and the kingdom of God, both in the earthly realm and in relation to the future kingdom of glory. Jesus felt an urge to spread these teachings to other cities, recognizing the necessity and importance of his mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Duty only could move Him to deny entreaties so grateful to His spirit."
 
 2. "The verse highlights the selflessness of Jesus, who prioritized duty over personal desires."
@@ -25,4 +25,4 @@ In this Bible verse, we are reminded of the selflessness and duty-driven nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

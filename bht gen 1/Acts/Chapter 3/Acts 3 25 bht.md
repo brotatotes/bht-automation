@@ -9,7 +9,7 @@ The verse being described talks about the believers' identity as children of the
 2. "They were descendants, according to the flesh, and fellow-partakers, according to the spirit."
 3. "For a full comment on this promise made to Abraham, see Galatians 3:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are the children of the covenant—and so the natural heirs of its promises." 
 2. "In thy seed, &c." (See on Genesis 22:18). 
 3. "The covenant of grace, made with Christ as the seed of Abraham, is the foundation of all the blessings of salvation."
@@ -57,4 +57,4 @@ The verse being described talks about the believers' identity as children of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

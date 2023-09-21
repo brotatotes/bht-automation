@@ -4,7 +4,7 @@
 The verse under consideration presents a depiction of Jesus early in the morning, hungering after a night of prayer, ready to confront the city. The commentators suggest an atmosphere charged with purpose and an impending judgment symbolic in the withering of the fig tree. Through this verse, we see Jesus as a compassionate Savior, but also as a righteous judge who seeks authentic faith and fruitfulness in the lives of his followers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had he stolen forth from that dear roof at Bethany to the 'mountain to pray, and continued all night in prayer to God?'"
 2. "Not breaking His fast thereafter, but bending His steps straight for the city, that He might 'work the works of Him that sent Him while it was day?'"
 3. "It was real bodily hunger which He now sought to allay by the fruit of this fig tree, 'if haply He might find any thing thereon'; not a mere scene for the purpose of teaching a lesson."
@@ -33,4 +33,4 @@ The verse under consideration presents a depiction of Jesus early in the morning
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

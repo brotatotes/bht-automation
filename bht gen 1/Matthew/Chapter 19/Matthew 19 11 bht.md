@@ -4,7 +4,7 @@
 The Bible verse under discussion is a call to a life of celibacy and devotion to God. Some commentators emphasize that this choice is not for everyone and is a special gift from God that not all possess. The verse is seen as an ideal that requires spiritual illumination and supernatural power to fulfill. While recognizing the severity of this demand, it is also acknowledged that this choice is not within everyone's capacity. Living a life of celibacy and dedication to God is an intentional renunciation of marriage for the sake of the kingdom of heaven.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That the unmarried state is better, is a saying not for everyone, and indeed only for such as it is divinely intended for."
 2. "But who are these? they would naturally ask; and this our Lord proceeds to tell them in three particulars."
 3. "The unmarried state is a gift from God, given to those who are able to receive it and live a life of celibacy and devotion to God."
@@ -43,4 +43,4 @@ The Bible verse under discussion is a call to a life of celibacy and devotion to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

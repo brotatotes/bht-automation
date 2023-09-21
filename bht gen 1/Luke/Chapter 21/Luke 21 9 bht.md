@@ -4,7 +4,7 @@
 In this passage, the verse speaks about the need to remain steadfast and not be frightened when hearing about wars and internal conflicts. It emphasizes that these disturbances are inevitable and must occur before the end comes. Furthermore, it clarifies that the end will not happen immediately but will involve a gradual process. The verse also highlights the destructive nature of these commotions, causing destruction and chaos. Ultimately, it reminds readers to trust in God's plan and seek unity and peace amidst turbulent times.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not terrified—(See Luke 21:19; Isaiah 8:11-14)." 
 2. "end not by and by—or immediately, not yet (Matthew 24:6; Mark 13:7): that is, 'Worse must come before all is over.'"
 
@@ -36,4 +36,4 @@ In this passage, the verse speaks about the need to remain steadfast and not be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

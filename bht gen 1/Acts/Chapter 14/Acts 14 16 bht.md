@@ -9,7 +9,7 @@ This verse conveys the message that God has allowed different nations to follow 
 2. "God now commands all men everywhere to repent, because he has appointed a day in which he will judge the world in righteousness by that man whom he has ordained." (Acts 17:30)
 3. "These verses highlight the central message of the Gospel - that through the sacrifice of Jesus Christ, we can find forgiveness for our sins and be reconciled with God. It is a call to repentance and a reminder of the coming judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who in times past suffered all nations to walk in their own ways" - This quote highlights that in the past, God allowed all nations to follow their own paths and did not extend His revelation to them. It emphasizes the exclusivity of the revelation given to the seed of Abraham. 
 
 2. "Without extending to them the revelation vouchsafed to the seed of Abraham" - This quote further emphasizes that the other nations did not receive the same revelation and grace that was given to the descendants of Abraham. It underscores the special relationship between God and the seed of Abraham.
@@ -54,4 +54,4 @@ This verse conveys the message that God has allowed different nations to follow 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

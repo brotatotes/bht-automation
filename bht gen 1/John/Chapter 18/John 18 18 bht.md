@@ -4,7 +4,7 @@
 Amidst the chilling night, Peter warms himself at a fire, unaware of the deep symbolism it holds. His association with the enemies of Jesus reveals his lack of concern for his suffering Master. As the fire of charcoal crackles, Peter's denial intensifies, leading to his second falsehood under the watchful gaze of the flickering flames. In this poignant scene, the harsh coldness of the night mirrors Peter's own spiritual state, as he unwittingly enters into a dangerous alliance with those who oppose Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John alone notices the material (charcoal) of which the fire was made, and the reason for a fire—the coldness of the night" [WEBSTER and WILKINSON].
 2. "His wishing to 'see the end,' of issue of these proceedings, was what led him into the palace, for he evidently feared the worst."
 3. "But once in, the serpent coil is drawn closer; it is a cold night, and why should not he take advantage of the fire as well as others?"
@@ -40,4 +40,4 @@ Amidst the chilling night, Peter warms himself at a fire, unaware of the deep sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

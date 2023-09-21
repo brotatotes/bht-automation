@@ -4,7 +4,7 @@
 The Bible verse is described as depicting a powerful and enigmatic figure known as the beast. Commentators note that this beast represents different entities, such as the Roman Empire, an emperor like Domitian, or even the devil himself. The beast's existence is described in three distinct periods: "was," "and is not," and a future ascent from the bottomless pit. Despite various interpretations, it is agreed that the beast ultimately meets its doom in perdition. The verse's vivid imagery and symbolic language convey the sense of awe and intrigue surrounding this impactful and ominous figure.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time when the beast 'is not' is the time during which it has 'the deadly wound'; the time of the seventh head becoming Christian externally, when its beast-like character was put into suspension temporarily."
 2. "The healing of its wound answers to its ascending out of the bottomless pit. The beast, or Antichristian world power, returns worse than ever, with satanic powers from hell."
 3. "The continuance of this revived seventh (that is, the eighth) head is short: it is therefore called 'the son of perdition,' who is essentially doomed to it almost immediately after his appearance."
@@ -47,4 +47,4 @@ These quotes highlight the division of the beast's duration into three periods a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

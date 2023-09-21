@@ -9,7 +9,7 @@ The Bible verse being described focuses on the anointing of Jesus with the Holy 
 2. "The fact of the anointing with the Holy Spirit, in His baptism by John, was the historical opening of the ministry of Jesus."
 3. "Stier well remarks, how entirely all personal address to the hearers and all doctrinal announcements are thrown into the background in this speech, and the Person and Work and Office of Christ put forward as the sole subject of apostolic preaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus of Nazareth (as the burden of that 'published word'), how God anointed Him." 
 2. "For it is not His unction for personal holiness at His incarnation that is referred to... but His investiture with the insignia of the Messianic office."
 3. "holding up the beneficent character of all His miracles, which was their predicted character."
@@ -61,4 +61,4 @@ The Bible verse being described focuses on the anointing of Jesus with the Holy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, Pilate questions Jesus, doubtful and sarcastic about his claim 
 2. "Our Lord here preached the Truth of his mission, upholding that side of it best calculated for the doubting philosophic mind of the day." - This quote emphasizes Jesus' intention to convey the objective truth of his mission, appealing to the philosophical mindset of Pilate.
 3. "The King is the representative of the truth: the truth of dealing between man and man; the truth of that power, which in its inmost truth belongs to the great and only Potentate, the King of Kings." - This statement explains the deeper meaning of kingship, highlighting the role of a king as a representative of truth and justice.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Putting emphasis upon 'thou,' his question betrays a mixture of surprise and uneasiness, partly at the possibility of there being, after all, something dangerous under the claim, and partly from a certain awe which our Lord's demeanor probably struck into him."
 2. "The truth, then, here affirmed, though Pilate would catch little of it, was that His Incarnation was expressly in order to the assumption of Royalty in our nature."
 3. "Our Lord here not only affirms that His word had in it a self-evidencing, self-recommending power, but gently insinuated the true secret of the growth and grandeur of His kingdom—as A KINGDOM OF TRUTH, in its highest sense, into which all souls who have learned to live and count all things but loss for the truth are, by a most heavenly attraction, drawn as into their proper element."
@@ -53,4 +53,4 @@ In this passage, Pilate questions Jesus, doubtful and sarcastic about his claim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

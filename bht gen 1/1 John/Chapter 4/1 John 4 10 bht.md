@@ -13,7 +13,7 @@ The commentary by John Gill highlights the profound love of God for humanity. It
 
 Overall, the commentary emphasizes the selfless and unconditional nature of God's love for us, highlighting that it is not based on our actions or love for Him, but rather on His own character and grace.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herein is love—love in the abstract: love, in its highest ideal, is herein." 
 2. "The love was all on God's side, none on ours." 
 3. "Not that we loved God—though so altogether worthy of love. He loved us—though so altogether unworthy of love."
@@ -51,4 +51,4 @@ Overall, the commentary emphasizes the selfless and unconditional nature of God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the author warns about the imminent danger posed by false t
 2. "λύκοι βαρεῖς...not persecutors, but false teachers."
 3. "φείδομαι is only used by Paul, except 2 Peter 2:4-5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two classes of coming enemies are here announced, the one more external to themselves, the other bred in the bosom of their own community."
 2. "Perhaps the one pointed to that subtle poison of Oriental Gnosticism which we know to have very early infected the Asiatic churches; the other to such Judaizing tendencies as we know to have troubled nearly all the early churches."
 3. "But watchfulness against all that tends to injure and corrupt the Church is the duty of its pastors in every age."
@@ -57,4 +57,4 @@ These quotes emphasize the author's understanding of the challenges faced by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

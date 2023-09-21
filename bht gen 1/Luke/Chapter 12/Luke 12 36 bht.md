@@ -9,7 +9,7 @@ The verse being described focuses on being prepared and ready for the coming of 
 2. "A very common construction of the gen. abs." 
 3. "For classical examples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Preparedness for Christ's coming is the prominent idea."
 2. "Both [returning from the wedding and coming to it] have their spiritual significance."
 3. "Preparedness for Christ's coming is the prominent idea."
@@ -45,4 +45,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

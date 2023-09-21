@@ -9,7 +9,7 @@ In Athens, there was an altar dedicated to an unknown god, which served as evide
 2. "the historical fact would be abundantly established from this passage, being Paul’s testimony of what he himself had seen, and spoken to the Athenian people."
 3. "on the occurrence of any remarkable calamity or deliverance not assignable to the conventionally-received agency of any of the recognized deities, an unknown God was reverenced as their author."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I found an altar... to an unknown god" - The apostle skillfully uses this altar as evidence of the people's dimness of religious conception, setting the stage for his discourse on the true living God.
 2. "Whom, therefore, knowing Him not, you worship" - Paul refers to the "Unknown God" to highlight the ignorance of the people in their worship, leading to his proclamation of the true character of God.
 3. "His subject is not the Messiahship of Jesus, but THE LIVING GOD" - Paul's focus in this discourse is to address the materialistic and pantheistic polytheism of Greece, emphasizing the true nature of God in opposition to false beliefs.
@@ -55,4 +55,4 @@ In Athens, there was an altar dedicated to an unknown god, which served as evide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the magnitude of Jesus' miracle in raising Lazarus from th
 2. "The delay in Jesus' arrival allowed for Lazarus to be buried, emphasizing the reality of his death." 
 3. "This timing also highlights the magnitude of the miracle that Jesus performed by raising Lazarus from the dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If he died on the day the tidings came of his illness—and was, according to the Jewish custom, buried the same day—and if Jesus, after two days' further stay in Perea, set out on the day following for Bethany, some ten hours' journey, that would make out the four days." 
 
 2. "The first and last being incomplete." 
@@ -47,4 +47,4 @@ In this verse, we see the magnitude of Jesus' miracle in raising Lazarus from th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described in these commentaries highlights the practice of early Chris
 2. "ἀπαρχή, the same metaphor being in the Apostle’s mind as in ch. Romans 15:16, the first believer."
 3. "εἰς χρ., elliptical: the full construction would be τῆς προσφορᾶς εἰς χρ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From his occupation as tent-maker, he had probably better accommodations for the meetings of the church than most other Christians."
 2. "Probably this devoted couple had written to the apostle such an account of the stated meetings at their house, as made him feel at home with them, and include them in this salutation, which doubtless would be read at their meetings with peculiar interest."
 3. "Epænetus, as the first believer in that region called Proconsular Asia, was dear to the apostle."
@@ -55,4 +55,4 @@ The verse described in these commentaries highlights the practice of early Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

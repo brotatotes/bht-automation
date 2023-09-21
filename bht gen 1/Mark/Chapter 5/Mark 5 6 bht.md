@@ -9,7 +9,7 @@ A man, driven by both fear and desperation, runs urgently towards Jesus, recogni
 2. "The use of the term 'ἔδραμεν' (immediately) in Mark's Gospel highlights the fast-paced and urgent nature of Jesus' actions, emphasizing his authority and power." 
 3. "Mark's distinctive language choices, such as 'ἀπὸ μακ' and 'ἔδραμεν', contribute to the overall narrative style of his Gospel, providing a sense of immediacy and capturing the dynamic nature of Jesus' ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not with the spontaneous alacrity which says to Jesus, 'Draw me, we will run after thee'" - The commentary highlights the lack of genuine enthusiasm in the man's worship, suggesting that it was more out of obligation or fear rather than a true desire to draw near to Jesus.
 
 2. "Inwardly compelled, with terrific rapidity, before the Judge, to receive sentence of expulsion" - This quote emphasizes the urgency and fear in the man's actions, as if he was driven by a sense of impending judgment and expulsion.
@@ -47,4 +47,4 @@ A man, driven by both fear and desperation, runs urgently towards Jesus, recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

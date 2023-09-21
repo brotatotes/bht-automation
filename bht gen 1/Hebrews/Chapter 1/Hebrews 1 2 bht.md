@@ -9,7 +9,7 @@ In this Bible verse, we see the culmination of God's promise to the seed of Abra
 2. "It is in virtue of the Sonship of our Lord that the Father constituted Him heir of all things, before the worlds began." 
 3. "The universe, as well in its great primaeval conditions, the reaches of Space, and the ages of Time, as in all material objects and all successive events, which furnish out and people Space and Time, God made by Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The days of Messiah were the transition period or 'last part of these days', the close of the existing dispensation, and beginning of the final dispensation of which Christ's second coming shall be the crowning consummation."
 2. "His majesty is set forth: absolutely by the very name 'Son', and by three glorious predicates, 'whom He hath appointed', 'by whom He made the worlds', 'who sat down on the right hand of the Majesty on high.'"
 3. "His being made heir follows His sonship, and preceded His making the worlds. As the first begotten, He is heir of the universe, which He made instrumentally."
@@ -48,4 +48,4 @@ In this Bible verse, we see the culmination of God's promise to the seed of Abra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

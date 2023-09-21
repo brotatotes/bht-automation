@@ -4,7 +4,7 @@
 In this Bible verse, believers are encouraged to actively strengthen and grow their faith, which serves as the foundation for their spirituality. By building on Christ and His teachings, they are reminded to not only have knowledge of their faith, but also to continually seek growth and improvement in their understanding. This growth is achieved through prayer, specifically by praying in the Holy Spirit, who plays a vital role in building up and sustaining their faith. Through this process, believers are reminded of the interconnectedness of faith, love, hope, and the triune nature of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Building up yourselves... on THE FAITH is equivalent to building on Christ, the object of faith."
 2. "The Holy Spirit teaches what we are to pray for, and how. None can pray aright save by being in the Spirit, that is, in the element of His influence."
 3. "Among the charisms bestowed at the beginning of the New Testament dispensation, was the gift of prayer, bestowed on someone who prayed in the name of the rest, and taught others to pray."
@@ -40,4 +40,4 @@ In this Bible verse, believers are encouraged to actively strengthen and grow th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

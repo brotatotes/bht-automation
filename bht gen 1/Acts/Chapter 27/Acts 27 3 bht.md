@@ -9,7 +9,7 @@ Amidst the journey to Sidon, a city renowned for its craftsmanship, the apostle 
 2. "Sidon seems to have been under Tyre and furnished her with mariners."
 3. "The present Saida is west of ancient Sidon and is a port of some commerce, but insecure, from the sanding up of the harbor."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To reach this ancient and celebrated Mediterranean port, about seventy miles north from Cæsarea, in one day, they must have had a fair wind."
 2. "Such small personal details are in this case extremely interesting."
 3. "These details provide insight into Paul's journey and the circumstances surrounding it."
@@ -53,4 +53,4 @@ Amidst the journey to Sidon, a city renowned for its craftsmanship, the apostle 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

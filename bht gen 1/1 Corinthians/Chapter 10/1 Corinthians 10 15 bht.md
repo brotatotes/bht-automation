@@ -9,7 +9,7 @@ In this verse, the speaker addresses the audience with respect and acknowledges 
 2. "ὡς expresses an assumption on the Apostle’s part, that they are φρόνιμοι."
 3. "ὑμεῖς is emphatic - be YE the judges of what I am saying."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We cannot divest ourselves of the responsibility of 'judging' for ourselves."
 2. "The weakness of private judgment is not an argument against its use, but its abuse."
 3. "If Paul, an inspired apostle, not only permits, but urges, men to judge his sayings by Scripture, much more should the fallible ministers of the present visible Church do so."
@@ -52,4 +52,4 @@ In this verse, the speaker addresses the audience with respect and acknowledges 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

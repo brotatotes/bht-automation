@@ -9,7 +9,7 @@ In a gathering of the multitude, disputes were finally quieted by Peter's impact
 2. "...quietly received from Paul and Barnabas an account of the seals of signs and wonders by which God had stamped the approval of their ministry among the Gentiles."
 3. "The miracles at Paphos and Lystra would be among the principal of these."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God had Himself pronounced the Gentile converts to be disciples in as full standing as the Jews, without circumcision."
 2. "The attesting miracles to which Paul here refers would tend, in such an assembly to silence opposition."
 3. "This detail of facts... would lead all who waited only for divine teaching to see that God had Himself pronounced the Gentile converts to be disciples."
@@ -53,4 +53,4 @@ In a gathering of the multitude, disputes were finally quieted by Peter's impact
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

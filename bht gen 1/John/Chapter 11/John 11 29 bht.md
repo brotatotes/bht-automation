@@ -4,7 +4,7 @@
 This passage describes a woman who swiftly rises and approaches a person with deep affection and urgency. Her actions demonstrate her unwavering love and devotion. She breaks societal norms and leaves behind her current source of comfort to seek solace from a higher power. Her determination to find another comforter, someone who understands and sympathizes with her, drives her actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Affection for her Lord" motivated her to quickly respond to the news she heard.
 2. She had "assurance of His sympathy," knowing that her Lord understood her distress and would be there for her.
 3. The "hope of interposition" gave her confidence that her Lord would intervene and help her in her time of need.
@@ -37,4 +37,4 @@ This passage describes a woman who swiftly rises and approaches a person with de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

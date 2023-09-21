@@ -4,7 +4,7 @@
 In this Bible verse, the throne of the beast is depicted as an arrogant mimicry of God's throne, set up in Rome. The pouring out of the fifth vial signifies the destruction of this power, resulting in darkness and confusion, symbolizing the plague of calamity. The intense anguish and distress of those within this kingdom are described as they gnaw their tongues. This vial marks a shift to the spiritual realm and aims at the very heart of the beast's authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The throne of the beast": set up in arrogant mimicry of God's throne.
 2. "Darkness": parallel to the Egyptian plague of darkness, Pharaoh being the type of Antichrist.
 3. "Gnawed their tongues for pain": owing to the pain occasioned by the previous plagues, rendered more appalling by the darkness.
@@ -41,4 +41,4 @@ In this Bible verse, the throne of the beast is depicted as an arrogant mimicry 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

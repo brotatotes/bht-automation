@@ -9,7 +9,7 @@ In this verse, we are reminded that the temptations we face are not extraordinar
 2. "He has entered into a covenant with you by calling you: if He suffered temptation beyond your power to overcome you, He would be violating that covenant."
 3. "Then God makes the temptation too: arranges it in His Providence, and in His mercy will ever set open a door for escape."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consolation to them, under their temptation; it is none but such as is 'common to man,' or 'such as man can bear,' 'adapted to man's powers of endurance'." 
 
 2. "To be led into temptation is distinct from running into it, which would be 'tempting God'." 
@@ -57,4 +57,4 @@ In this verse, we are reminded that the temptations we face are not extraordinar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

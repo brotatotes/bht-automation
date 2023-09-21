@@ -4,7 +4,7 @@
 In the given verse, the believers are described as active witnesses of the crucifixion, death, and resurrection of Jesus Christ. Their testimony is not based on mere stories or words, but on firsthand experience and the confirmation of the Holy Spirit through miraculous gifts and works. This divine witness surpasses human understanding, affirming the truth of the Bible and the divinity of Jesus Christ, and it has the power to transform and convict the hearts of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are his witnesses" - The believers are not just passive observers, but active participants in God's work. They have personally experienced and witnessed the power and presence of God in their lives.
 
 2. "The Holy Ghost" - The Holy Spirit plays a crucial role in confirming the truth of their testimony. Through the miraculous works of the Holy Spirit, the believers' witness is validated and authenticated.
@@ -58,4 +58,4 @@ These quotes highlight the importance of faithfully teaching what God has comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

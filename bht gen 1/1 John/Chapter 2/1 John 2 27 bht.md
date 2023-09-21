@@ -4,7 +4,7 @@
 The Bible verse being described is a reminder that believers have received an anointing from God, specifically the Holy Spirit, who serves as their teacher and guide. This anointing remains with them, keeping them from dangerous errors and enabling them to understand the truth. It is a divine influence that permanently abides, ensuring their faithfulness and independence from human teachings. The Spirit teaches them all things necessary for their spiritual growth and guards them against false teachings propagated by the enemy. Abiding in God and relying on the Spirit's guidance is both comforting and exhortative for believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The anointing abideth in us we do not need a teacher [for we have the Holy Spirit as our teacher..."
 2. "God is sufficient for them who are taught of Him; they are independent of all others, though, of course, not declining the Christian counsel of faithful ministers."
 3. "Not that the believer is made infallible, for no believer here receives the Spirit in all its fulness, but only the measure needful for keeping him from soul-destroying error."
@@ -40,4 +40,4 @@ The Bible verse being described is a reminder that believers have received an an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

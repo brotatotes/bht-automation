@@ -9,7 +9,7 @@ This verse discusses individuals who have deviated from the true path of faith a
 2. "The grace be with thee." 
 3. "The notice found in A al., owes it origin probably to the notion that this was the Epistle from Laodicea mentioned Colossians 4:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True sagacity is inseparable from faith."
 2. "Grace...for which we Christians look, and in which we stand."
 3. "He restricts the salutation to Timothy, as the Epistle was not to be read in public."
@@ -52,4 +52,4 @@ This verse discusses individuals who have deviated from the true path of faith a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

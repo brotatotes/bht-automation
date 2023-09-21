@@ -9,7 +9,7 @@ In this Bible verse, the preachers find themselves in a precarious situation. Th
 2. "In the request to depart from the city, the prætors seem to show fear of a change in the temper of the mob."
 3. "See the curious addition in the var. readd."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a contrast this suppliant attitude of the preachers of Philippi to the tyrannical air with which they had the day before treated the preachers!" 
 2. "Brought them out—conducted them forth from the prison into the street, as insisted on." 
 3. "Perhaps fearing again to excite the populace."
@@ -33,4 +33,4 @@ In this Bible verse, the preachers find themselves in a precarious situation. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

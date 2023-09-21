@@ -11,7 +11,7 @@ In this Bible verse, commentators highlight the nature and power of faith. They 
 
 3. "Gifts of (miraculous) healings; plur., to indicate the different kinds of diseases, requiring different sorts of healing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith...confidence in God, by the impulse of His Spirit, that He would enable them to perform any required miracle."
 2. "Its nature, or principle, is the same as that of saving faith, namely, reliance on God."
 3. "Saving faith does not save by its intrinsic merit, but by the merits of Him who is the object of it."
@@ -55,4 +55,4 @@ In this Bible verse, commentators highlight the nature and power of faith. They 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes the profound transformation that takes place in the life of a believer. Through faith in Christ, they are spiritually united with Him in His death and resurrection. They are no longer bound by the guilt and curse of the law but are set free. Christ becomes the source of their new life, animating and directing their thoughts, words, and actions. Their earthly existence takes on new meaning as they live in the assurance of God's love and redemption, anticipating an eternal life in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have been crucified with Christ." This more particularizes the foregoing. "I am dead" (Galatians 2:19; Philippians 3:10).
 2. "And it is no longer I that live, but Christ that liveth in me." But the plain antithesis between "crucified" and "live," requires the translation, "nevertheless."
 3. "My life seems to be a mere animal life 'in the flesh,' but this is not my true life; 'it is but the mask of life under which lives another, namely, Christ, who is my true life' [LUTHER]."
@@ -48,4 +48,4 @@ This verse describes the profound transformation that takes place in the life of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

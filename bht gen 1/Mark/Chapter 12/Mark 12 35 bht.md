@@ -9,7 +9,7 @@ In this verse, Jesus poses a profound challenge to the Pharisees' understanding 
 2. "The new point raised by our Lord is introduced as a rejoinder." This suggests that Jesus' response is not only a direct answer but also a counterargument or rebuttal to the previous discussion.
 3. "ἀποκριθείς" - This Greek word, translated as "rejoinder" or "answered," signifies Jesus' active participation in the conversation and his willingness to engage in the debate.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How say the scribes that Christ is the son of David?" - This question challenges the belief of the scribes and prompts them to reconsider their understanding of the Messiah's lineage.
 2. "What think ye of Christ? Whose son is He [to be]? They say unto Him, The son of David." - Jesus questions the scribes about their perception of the Messiah's identity, leading them to affirm that he is the son of David.
 3. "How then doth David in spirit call Him Lord?" - Jesus raises a thought-provoking question about David's acknowledgment of the Messiah as his Lord, challenging the scribes to reconcile this apparent contradiction.
@@ -40,4 +40,4 @@ In this verse, Jesus poses a profound challenge to the Pharisees' understanding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

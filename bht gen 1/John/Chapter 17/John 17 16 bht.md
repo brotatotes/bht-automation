@@ -9,7 +9,7 @@ In this verse, believers are described as being separate from the world, echoing
 2. "Keep them from the polluter."
 3. "The process of sanctification through the knowledge of the truth imparted to them by Christ, and expanded in them by the Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are not of the world, even as I am not of the world." - This statement emphasizes the separation of believers from the values and systems of the world, mirroring Jesus' own detachment from worldly ways.
 2. "This is reiterated here, to pave the way for the prayer which follows." - The repetition of this idea serves as a transition, preparing the readers for the prayer that will follow and highlighting its significance.
 3. "To be 'not of the world' means to be set apart, to have a different identity and purpose." - This quote explains that being "not of the world" involves having a distinct identity and purpose, separate from the worldly norms and expectations.
@@ -55,4 +55,4 @@ In this verse, believers are described as being separate from the world, echoing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

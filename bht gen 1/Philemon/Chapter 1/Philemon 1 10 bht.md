@@ -4,7 +4,7 @@
 In this Bible verse, the writer expresses a deep and intimate bond with the recipient. They have played a significant role in the recipient's spiritual growth and development, despite being physically separated. The writer likens their relationship to that of a father and son, highlighting the care and guidance they have provided. This connection was forged in challenging circumstances, as the writer mentions their own imprisonment. It is a testament to their unwavering faith and commitment to the recipient.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the Greek, the name 'Onesimus' is skillfully put last, he puts first a favorable description of him before he mentions the name that had fallen into so bad repute with Philemon."
 2. "Scripture does not sanction slavery, but at the same time does not begin a political crusade against it."
 3. "It sets forth principles of love to our fellow men which were sure (as they have done) in due time to undermine and overthrow it, without violently convulsing the then existing political fabric, by stirring up slaves against their masters."
@@ -50,4 +50,4 @@ In this Bible verse, the writer expresses a deep and intimate bond with the reci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

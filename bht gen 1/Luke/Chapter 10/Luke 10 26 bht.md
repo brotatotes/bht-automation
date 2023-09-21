@@ -9,7 +9,7 @@ In this thought-provoking verse from the Bible, the questioner is challenged to 
 2. "πῶς is not merely = τί , but implies how? i.e. to what purport." 
 3. "the answer should contain a summary of his reading in the Law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question posed to the doctor of the law is significant as it puts him to the test, challenging his knowledge and understanding of the law."
 
 2. "By asking about what is written in the law, Jesus highlights the importance of studying and knowing the scriptures, emphasizing the authority and relevance of God's Word."
@@ -52,4 +52,4 @@ In this thought-provoking verse from the Bible, the questioner is challenged to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

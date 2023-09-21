@@ -4,7 +4,7 @@
 The Bible verse describes a wedding feast with an invitation that was rejected by some who were not deemed worthy. These individuals mistreated and disregarded the gracious invitation, causing them to be considered unworthy of partaking in the blessings and joy of the event. The verse highlights the importance of treating God's invitation with respect, gratitude, and a diligent and peaceable demeanor. It emphasizes the need to take the message of the Bible to the less frequented and marginalized places in society, meeting people on their unique spiritual journeys.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wedding is ready, but they which were bidden were not worthy." This quote highlights the idea that those who reject or mistreat God's invitation to join Him will not be deemed worthy to partake in His blessings.
 
 2. "How should those be deemed worthy to sit down at His table who had affronted Him by their treatment of His gracious invitation?" This quote emphasizes the importance of treating God's invitation with respect and gratitude, as those who disrespect or reject it will not be considered worthy of His blessings.
@@ -34,4 +34,4 @@ The Bible verse describes a wedding feast with an invitation that was rejected b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators stress the vital role of exhortation and mutual 
 2. "In the word ἑαυτούς we have merely this: that the action to which the subject is united, refers to the subject itself, i. e. to ὑμᾶς."
 3. "As regards our passage, this certainly is especially meant, that in the Church one should exhort another: yet not excluding the implication, that each one should himself be exhorted by his exhortation of the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To-morrow is the day when idle men work, and fools repent. To-morrow is Satan's to-day; he cares not what good resolutions you form, if only you fix them for to-morrow."
 2. "That from among you no one be hardened."
 3. "Deceitfulness - causing you to err in your heart. Sin - unbelief."
@@ -53,4 +53,4 @@ In this verse, the commentators stress the vital role of exhortation and mutual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

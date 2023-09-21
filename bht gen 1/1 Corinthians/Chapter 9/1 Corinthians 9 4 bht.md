@@ -9,7 +9,7 @@ This verse addresses the question of the rights and responsibilities of those se
 2. "To eat and to drink, at the cost of the churches..." - This quote clarifies that the eating and drinking mentioned in the verse refers to being supported by the churches, rather than any specific dietary restrictions.
 3. "The plur. seems to apply to Paul alone..." - The commentary notes that the plural form used in the verse may refer to Paul alone, suggesting that he is addressing a matter of right that others may have had as well.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have we not power—Greek, 'right,' or lawful power, equivalent to 'liberty' claimed by the Corinthians."
 2. "The 'we' includes with himself his colleagues in the apostleship."
 3. "Paul's not exercising this right was made a plea by his opponents for insinuating that he was himself conscious he was no true apostle."
@@ -57,4 +57,4 @@ This verse addresses the question of the rights and responsibilities of those se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

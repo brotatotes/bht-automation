@@ -9,7 +9,7 @@ In the closing of the historic Scriptures, there is a solemn declaration that hi
 2. "The repetition of this prophecy at the end of Acts serves as a reminder that the message of salvation is not limited to the Jewish people but is intended for all nations."
 3. "This verse highlights the continuity between the ministry of Jesus and the ministry of Paul, as they both proclaimed the same message of salvation to the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The discussion having passed into one between the two parties into which the visitors were now divided, respecting the arguments and conclusions of the apostle."
 2. "The material of discussion being felt by both parties to be exhausted."
 3. "One solemn parting testimony, from those Scriptures regarded by both alike as 'the Holy Ghost speaking' to Israel."
@@ -57,4 +57,4 @@ In the closing of the historic Scriptures, there is a solemn declaration that hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

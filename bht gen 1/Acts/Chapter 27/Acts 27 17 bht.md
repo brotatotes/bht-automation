@@ -9,7 +9,7 @@ In this Bible verse, we encounter a perilous situation at sea, where the ship is
 2. "To frap a ship is to pass four or five turns of a large cable-laid rope around the hull or frame of a ship, to support her in a great storm." (Falconer's Marine Dict.)
 3. "Fearing a certain danger, they deprived themselves of the only possible means of avoiding it." (Smith)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Undergirding the ship" refers to the practice of securing the ship by wrapping a rope around its hull, allowing it to withstand the force of the waves. This technique is rarely used in modern seamanship.
 2. The fear of falling into the quicksands, or being stranded upon the dangerous shoals of Syrtis, was a real concern for the sailors.
 3. The phrase "they strake" means that they struck or lowered the gear of the ship, possibly referring to the lowering of the heavy mainyard with the sail attached to it. This action would have helped them navigate away from the dangerous Syrtis.
@@ -38,4 +38,4 @@ In this Bible verse, we encounter a perilous situation at sea, where the ship is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

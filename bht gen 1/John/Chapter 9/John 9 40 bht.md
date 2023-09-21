@@ -9,7 +9,7 @@ The Pharisees, with their pride and self-assuredness, ask the question with indi
 2. "Are then we meant by these blind, we, the leaders of the people?"
 3. "Scornfully rejoining."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are we blind also?" - This question reflects the pride and rage of the religious leaders who considered themselves as the recognized guides of the people in spiritual matters. It highlights their unwillingness to acknowledge their own spiritual blindness.
 
 2. "We, the constituted, recognized guides of the people in spiritual things?" - This phrase emphasizes the self-proclaimed authority and position of the religious leaders. It reveals their arrogance and unwillingness to consider the possibility of their own blindness.
@@ -49,4 +49,4 @@ The Pharisees, with their pride and self-assuredness, ask the question with indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

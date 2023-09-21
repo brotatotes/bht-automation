@@ -4,7 +4,7 @@
 In this Bible verse, we see the compassionate nature of God being compared to that of a loving father towards his children. The verse describes God's deep-seated and lasting indignation, not just a temporary anger, towards the self-righteous and those who reject His message of salvation. It serves as a reminder that God's love extends to all, urging us to bear with the faults of our brothers and not to envy the compassion shown towards them. We are cautioned against letting anger and pride hinder us from experiencing the grace and blessings that God wants to bestow upon us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Like as a father pitieth his children, so the Lord pitieth them that fear Him." 
 2. "As it is the elder brother who now errs, so it is the same paternal compassion which had fallen on the neck of the younger that comes forth and pleads with the elder." 
 3. "The father's actions towards the prodigal son serve as a reminder of God's compassion towards those who fear Him."
@@ -43,4 +43,4 @@ In this Bible verse, we see the compassionate nature of God being compared to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

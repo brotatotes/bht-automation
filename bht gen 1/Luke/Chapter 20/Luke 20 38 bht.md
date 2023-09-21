@@ -9,7 +9,7 @@ This verse reveals that God's relationship with humanity extends beyond the conf
 2. "There, it is a covenant relation on which the matter rests: here, a life of all, living and dead, in the sight of God."
 3. "None are annihilated, but in the regard of Him who inhabiteth Eternity, the being of all is a living one, in all its changes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To God, no human being is dead, or ever will be but all sustain an abiding conscious relation to Him."
 2. "These sustain a gracious covenant relation to God, which cannot be dissolved."
 3. "How precious are these glimpses of the resurrection state!"
@@ -44,4 +44,4 @@ These quotes highlight the eternal nature of God and His ability to transcend de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

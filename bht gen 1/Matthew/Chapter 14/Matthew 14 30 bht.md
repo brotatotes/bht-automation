@@ -4,7 +4,7 @@
 In the midst of a tumultuous storm, a person becomes overwhelmed by fear and starts to sink, despite being a skilled swimmer. However, they immediately cry out to the Lord for salvation, acknowledging their dependence on Him. This demonstrates the frailty of human faith and the need to fix our gaze on Jesus amidst life's trials. Such a scene serves as a reminder that when we trust in the Lord and call upon Him, He is always there to save us, even in our most desperate moments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When he saw the wind boisterous, he was afraid." This quote highlights the human tendency to become fearful when faced with challenging circumstances. It reminds us that even in the midst of our fears, we can turn to the Lord for help and salvation.
 
 2. "Beginning to sink, he cried, saying, Lord, save me." This quote emphasizes the importance of calling upon the Lord in times of trouble. It shows that when we recognize our own limitations and cry out for help, the Lord is there to rescue and save us.
@@ -44,4 +44,4 @@ In the midst of a tumultuous storm, a person becomes overwhelmed by fear and sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

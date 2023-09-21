@@ -9,7 +9,7 @@ In this verse, the author passionately entreats the readers not to be troubled o
 2. "The meaning 'on behalf of' being slightly hinted for the subject had been misrepresented, and justice is done to it by the Apostle."
 3. "The gathering together of us, announced in 1 Thessalonians 4:17."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But we beseech you" - The author uses affectionate entreaty instead of stern reproof to win over the readers to the right view.
 2. "Our gathering together unto him" - Referring to the final gathering of the saints at Christ's coming, this concept dispels our fears of judgment and ensures our safety.
 3. "The thought of being gathered together UNTO HIM" - The image of a hen gathering her chickens under her wings highlights the protective and comforting nature of being gathered to Christ.
@@ -57,4 +57,4 @@ In this verse, the author passionately entreats the readers not to be troubled o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

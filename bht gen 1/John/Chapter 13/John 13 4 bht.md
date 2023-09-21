@@ -9,7 +9,7 @@ In the scene depicted in this verse, Jesus rises from the meal and lays aside hi
 2. "Did He not humble Himself so far as literally to divest Himself?"
 3. "Gird Himself merely, as the basest of slaves?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He riseth from supper, and laid aside his garments—outer garments which would have impeded the operation of washing." This quote highlights the humility of Jesus as he willingly sets aside his position and takes on the role of a servant, demonstrating his love and care for his disciples.
 
 2. "And took a towel and girded himself—assuming a servant's dress." This quote emphasizes the act of Jesus physically taking on the attire of a servant, symbolizing his willingness to serve and wash the feet of his disciples, setting an example of humility and selflessness.
@@ -63,4 +63,4 @@ These quotes collectively emphasize Jesus' humility, servant-heartedness, and wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

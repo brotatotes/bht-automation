@@ -9,7 +9,7 @@ The verse in question speaks of the calling of the Thessalonians through the pre
 2. "Your sharing in the glory which He has." 
 3. "The whole context has for its purpose the lot of the Thessalonians as contrasted with that of those spoken of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "through the Gospel which we preach" - This quote highlights the means by which the glory is attained, emphasizing the importance of spreading and sharing the message of the Gospel.
 2. "deliverance from all evil, of body and soul" - This quote explains that the glory being referred to is not just a superficial or temporary state, but a complete deliverance from all forms of evil, both physical and spiritual.
 3. "the glory of our Lord Jesus Himself, which believers are privileged to share with Him" - This quote emphasizes the incredible privilege that believers have in sharing in the very glory of Jesus Christ, highlighting the intimate relationship and unity between believers and their Lord.
@@ -53,4 +53,4 @@ The verse in question speaks of the calling of the Thessalonians through the pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

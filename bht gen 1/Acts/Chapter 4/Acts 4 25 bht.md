@@ -9,7 +9,7 @@ In this passage, we encounter a powerful depiction of rebellious nations banding
 2. "The rec. has been an emendation and simplification of the text, which bears, in this its original form, the solemn and stately character, in the accumulation of parallel clauses, of the rest of the prayer."
 3. "The Messianic import of this Psalm has been acknowledged even by those who usually deny all such reference, e.g. De Wette."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "David's spirit sees with astonishment 'the heathen, the people, the kings and princes of the earth,' in deadly combination against the sway of Jehovah and His Anointed (his Messiah, or Christ), and asks 'why' it is."
 2. "This fierce confederacy our praying disciples see in full operation, in the 'gathering together of Herod and Pilate, the Gentiles (the Roman authority), and the people of Israel, against God's holy Child ('Servant') Jesus."
 3. "The best ancient copies read, after 'were gathered together,' 'in this city,' which probably answers to 'upon my holy hill of Zion,' in the Psalms."
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

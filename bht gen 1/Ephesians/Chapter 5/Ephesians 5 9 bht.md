@@ -4,7 +4,7 @@
 The passage being described emphasizes the transformative power of light and its ability to produce tangible and beneficial results. It speaks of the fruit of the light, which is characterized by goodness, righteousness, and truth. This fruit is the evidence of a life lived in obedience to God, walking in the light and exhibiting the qualities that are opposite to the sins of darkness. It is a call to live as children of light, displaying these qualities in all aspects of life, and showcasing the true nature and significance of the light within us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The true reading is that of the oldest manuscripts, 'The fruit of THE LIGHT'; in contrast with 'the unfruitful works of darkness'." 
 2. "Walk as children of light, that is, in all good works and words."
 3. "The fruit of the light is [borne] in all goodness, righteousness, and truth."
@@ -48,4 +48,4 @@ The passage being described emphasizes the transformative power of light and its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

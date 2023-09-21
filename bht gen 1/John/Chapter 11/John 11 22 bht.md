@@ -9,7 +9,7 @@ In this passage, a woman expresses her expectation of a miraculous resurrection,
 2. "I can hardly see, as some have done, a 'verbum minus dignum' (Bengel) in the form of her expression."
 3. "The repetition of ὁ θεός after τὸν θεόν is to be noticed, as expressive of her faith in the unity of purpose and action between Jesus and God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Energetic characters are usually sanguine, the rainbow of hope peering through the drenching cloud."
 2. "Whatsoever thou wilt ask of God, God will give it thee—that is 'even to the restoration of my dead brother to life,' for that plainly is her meaning."
 3. "The sequel shows."
@@ -52,4 +52,4 @@ In this passage, a woman expresses her expectation of a miraculous resurrection,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

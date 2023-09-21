@@ -9,7 +9,7 @@ In this Bible verse, Mary's intense love and longing for Jesus is vividly depict
 2. "κύριε, the appellation of courtesy to an unknown person."
 3. "She forgets her lack of strength for this, in the overbearing force of her love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She can think only of One, and thinks others must understand her."
 2. "It reminds one of the question of the Spouse, 'Saw ye him whom my soul loveth?'"
 3. "It is the language of sublime affection, that thinks itself fit for anything if once in possession of its Object."
@@ -38,4 +38,4 @@ In this Bible verse, Mary's intense love and longing for Jesus is vividly depict
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

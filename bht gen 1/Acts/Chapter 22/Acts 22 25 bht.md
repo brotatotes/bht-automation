@@ -9,7 +9,7 @@ In this passage, we see the dramatic scene of Paul being bound and bent forward,
 2. "De W. and others render τοῖς ἱμᾶσιν, 'for the scourge' (dat. commodi); but why should μάστιξιν be varied?" 
 3. "The ‘centurio supplicio præpositus’ of Tacitus and Seneca, standing by to superintend the punishment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's question challenges the centurion's authority and reminds him of the legal protection afforded to Roman citizens. It highlights the injustice of subjecting a Roman citizen to such treatment without due process."
 2. "This question also reveals Paul's strategic thinking, as he uses his Roman citizenship to assert his rights and protect himself from further harm."
 3. "By raising the issue of his citizenship, Paul not only defends his own rights but also exposes the unlawful actions of those who sought to mistreat him."
@@ -53,4 +53,4 @@ In this passage, we see the dramatic scene of Paul being bound and bent forward,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse in question describes individuals who are driven by their fleshly desi
 2. "Despise lordship."
 3. "They tremble not when speaking evil of glories."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They especially will be punished."
 2. "Hankering after polluting and unlawful use of the flesh."
 3. "Self-will begets presumption."
@@ -52,4 +52,4 @@ The verse in question describes individuals who are driven by their fleshly desi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

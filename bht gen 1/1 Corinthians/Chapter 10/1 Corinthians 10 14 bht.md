@@ -9,7 +9,7 @@ The verse being described is a command to "flee from idolatry." The commentators
 2. "This verse of itself would by inference forbid the Corinthians having any share in the idol feasts."
 3. "He proceeds to ground such prohibition on further special considerations."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only safety is in wholly shunning whatever borders on idolatry."
 2. "The Holy Spirit herein also presciently warned the Church against the idolatry."
 3. "Subsequently transferred from the idol feast to the Lord's Supper itself, in the figment of transubstantiation."
@@ -55,4 +55,4 @@ The verse being described is a command to "flee from idolatry." The commentators
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

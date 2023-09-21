@@ -4,7 +4,7 @@
 In this verse, the sudden and unexpected nature of Christ's coming is emphasized, likening it to that of a thief. It is a call to be watchful and prepared, as those who are vigilant will be blessed and ready to partake in the joy of the Lamb. Believers are urged to maintain their spiritual garments and hold fast to righteousness, to avoid being exposed to shame and the consequences of neglecting their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gathering of the world kings with the beast against the Lamb is the signal for Christ's coming."
 2. "He here gives the charge to be watching for His coming and clothed in the garments of justification and sanctification, so as to be accepted."
 3. "Thief" (Matthew 24:43; 2 Peter 3:10) is used to emphasize the unexpected nature of Christ's coming.
@@ -49,4 +49,4 @@ In this verse, the sudden and unexpected nature of Christ's coming is emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

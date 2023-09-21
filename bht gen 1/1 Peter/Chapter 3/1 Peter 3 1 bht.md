@@ -9,7 +9,7 @@ In this verse, wives are encouraged to submit to their husbands, even if they ar
 2. "Converted to faith and obedience: made a gain for Christian love, and for Christ Himself." 
 3. "A soul converted is gained to itself, gained to the pastor, or friend, or wife, or husband who sought it, and gained to Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feeling the need of leaning on one stronger than herself, the wife (especially if joined to an unbeliever) might be tempted, though only spiritually, to enter into that relation with another in which she ought to stand to 'her own spouse.'"
 2. "Even if you have a husband that obeys not the word (that is, is an unbeliever), without the word—independently of hearing the word preached, the usual way of faith coming."
 3. "Unspoken acting is more powerful than unperformed speaking."
@@ -55,4 +55,4 @@ In this verse, wives are encouraged to submit to their husbands, even if they ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

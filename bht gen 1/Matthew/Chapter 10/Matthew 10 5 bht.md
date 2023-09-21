@@ -9,7 +9,7 @@ The Bible verse being described is a reference to the instructions given by Jesu
 2. "In this portion there is a foreshadowing of what shall be the lot and duty of the teachers of the Gospel to the end, inasmuch as the ‘coming of the Son of Man’ is ever typical of His final coming to judgment."
 3. "The THIRD (Mat 10:24-42), the longest and weightiest portion, is spoken directly of all disciples of the Lord, their position, their encouragements, their duties, and finally concludes with the last great reward."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Samaritans were Gentiles by blood; but being the descendants of those whom the king of Assyria had transported from the East to supply the place of the ten tribes carried captive, they had adopted the religion of the Jews, though with admixtures of their own."
 2. "As the nearest neighbors of the Jews, they occupied a place intermediate between them and the Gentiles."
 3. "Accordingly, when this prohibition was to be taken off, on the effusion of the Spirit at Pentecost, the apostles were told that they should be Christ's witnesses first 'in Jerusalem, and in all Judea,' then 'in Samaria,' and lastly, 'unto the uttermost part of the earth'."
@@ -55,4 +55,4 @@ The Bible verse being described is a reference to the instructions given by Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

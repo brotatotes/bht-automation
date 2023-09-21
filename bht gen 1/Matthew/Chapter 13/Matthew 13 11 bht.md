@@ -9,7 +9,7 @@ The Bible verse being described is a passage that talks about the mysteries of t
 2. "These secrets are only revealed to the humble diligent hearers."
 3. "The secrets of the Kingdom of Heaven are not given in parables, but everything is made known."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'mysteries' in Scripture is not used in its classical sense—of religious secrets, nor yet of things incomprehensible, or in their own nature difficult to be understood—but in the sense of things of purely divine revelation."
 2. "'The mysteries of the kingdom of heaven,' then, mean those glorious Gospel truths which at that time only the more advanced disciples could appreciate, and they but partially."
 3. "Parables serve the double purpose of revealing and concealing; presenting 'the mysteries of the kingdom' to those who know and relish them, though in never so small a degree, in a new and attractive light; but to those who are insensible to spiritual things yielding only, as so many tales, some temporary entertainment."
@@ -50,4 +50,4 @@ The Bible verse being described is a passage that talks about the mysteries of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

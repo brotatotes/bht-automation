@@ -11,7 +11,7 @@ The Bible verse being described is about the Corinthians being enriched in both 
 
 Note: The commentary is referring to the Corinthians being enriched in both the preaching and understanding of the word, and how this is complemented by faith, diligence, and love.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are rich in preachers or the preaching of the word, and rich in knowledge or apprehension of it."
 2. "Paul, purposing presently to dwell on the abuse of the two gifts on which the Corinthians most prided themselves, utterance (speech) and knowledge, previously gains their goodwill by congratulating them on having those gifts."
 3. "English Version (as in :-) is better."
@@ -50,4 +50,4 @@ Note: The commentary is referring to the Corinthians being enriched in both the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

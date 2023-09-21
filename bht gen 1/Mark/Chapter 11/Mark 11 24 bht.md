@@ -9,7 +9,7 @@ When we pray, we should have unwavering faith and confidence in God's ability to
 2. "Believe that when you asked, you received."
 3. "The fulfilment shall come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them." - This verse emphasizes the importance of faith in prayer. It encourages believers to have unwavering trust in God's ability to answer their prayers.
 2. "This verse only generalizes the assurance of Mark 11:23." - The commentary highlights that this verse builds upon a previous assurance in the book of Mark, showing that it is meant to provide further encouragement and guidance in prayer.
 3. "It was designed for the special encouragement of evangelistic and missionary efforts." - The commentary suggests that this verse specifically aims to inspire and empower believers engaged in spreading the Gospel and doing missionary work.
@@ -35,4 +35,4 @@ When we pray, we should have unwavering faith and confidence in God's ability to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

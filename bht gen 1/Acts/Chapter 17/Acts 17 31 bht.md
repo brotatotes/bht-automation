@@ -9,7 +9,7 @@ In this Bible verse, commentators highlight the righteous judgment that awaits a
 2. "In the person of the man, the judgment is constituted; he is its vehicle and expression."
 3. "Because the matter was hardly believable, he presents an outstanding argument."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such language beyond doubt teaches that the judgment will, in its essence, be a solemn judicial assize held upon all mankind at once."
 2. "Aptly is this uttered on the Areopagus, the seat of judgment."
 3. "The most patent evidence to mankind at large of the judicial authority with which the Risen One is clothed."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the righteous judgment that awaits a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

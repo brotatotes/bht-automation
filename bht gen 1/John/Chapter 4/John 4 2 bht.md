@@ -9,7 +9,7 @@ In this verse, we see that Jesus did not personally baptize people, as it was no
 2. "To assume a further reason, e.g. that there might not be ground for those whom the Lord himself had baptized to boast of it, is arbitrary and unnecessary."
 3. "Johannes, minister, sua manu baptizavit; discipuli ejus, ut videtur, neminem. At Christus baptizat Spiritu Sancto." (Translation: "John, the minister, baptized with his own hand; his disciples, it seems, no one. But Christ baptizes with the Holy Spirit.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus baptized not—John being a servant baptized with his own hand; Christ as the Master." This quote highlights the distinction between John the Baptist and Jesus. John, as a servant, performed the physical act of baptism, while Jesus, as the Master, administered the baptism of the Holy Spirit.
 2. "Baptizing with the Holy Ghost." This quote emphasizes that Jesus' baptism was not merely a physical act, but a spiritual one. He offered the transformative power of the Holy Spirit to those who believed in Him.
 3. "Administered the outward symbol only through His disciples." This quote reveals that Jesus delegated the task of physically baptizing individuals to His disciples. It underscores the importance of discipleship and the role of believers in carrying out the work of Jesus.
@@ -43,4 +43,4 @@ In this verse, we see that Jesus did not personally baptize people, as it was no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

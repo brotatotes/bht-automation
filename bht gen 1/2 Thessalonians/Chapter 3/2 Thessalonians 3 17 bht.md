@@ -9,7 +9,7 @@ The Bible verse being described is written by the apostle Paul. In this verse, P
 2. "His reason for this caution evidently was, the ἐπιστολὴ ὡς δι ʼ ἡμῶν, spoken of ch. 2 Thessalonians 2:2."
 3. "And the words ἐν πάσῃ ἐπιστολῇ must not, with Lün., be limited to any future Epistles which he might send to the Thessalonians, but understood of a caution which he intended to practise in future with all his Epistles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wherever Paul does not subjoin this autograph salutation, we may presume he wrote the whole Epistle himself."
 2. "The token—to distinguish genuine Epistles from spurious ones put forth in my name."
 3. "It is more likely that he alludes to his writing with his own hand in closing every Epistle, even in those Epistles wherein he does not specify his having done so."
@@ -50,4 +50,4 @@ The Bible verse being described is written by the apostle Paul. In this verse, P
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

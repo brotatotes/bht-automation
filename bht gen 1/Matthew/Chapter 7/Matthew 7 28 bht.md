@@ -4,7 +4,7 @@
 The verse being described portrays the people's astonishment at Jesus' teaching. His doctrine was not just profound in content, but also conveyed with a captivating manner. The people were astounded, struck out of themselves and left amazed by the novelty and impact of Jesus' teachings. His words carried their own evidence and power, convincing the minds of the listeners and forcing them to acknowledge the truth within them. This display of teaching, filled with both authority and astonishment, left a lasting impression on the multitudes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people were astonished at his doctrine." - The astonishment of the people was not just because of the content of Jesus' teaching, but also because of the manner in which he taught. 
 
 2. "The reference is to the manner of it quite as much as the matter, or rather more so." - The emphasis is on the way Jesus presented his teachings, which captivated the attention of the people and left them amazed. 
@@ -40,4 +40,4 @@ The verse being described portrays the people's astonishment at Jesus' teaching.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

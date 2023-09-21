@@ -9,7 +9,7 @@ The verse being described speaks of the rewards for faithful service and the joy
 2. "The χαρά here is not a feast, but that joy spoken of in Hebrews 12:2 and Isaiah 53:11, that joy of the Lord arising from the completion of his work and labor of love."
 3. "Notice the identity of the praise and portion of him who had been faithful in less, with those of the first. The words are, as has been well observed, 'not, 'good and successful servant,' but 'good and faithful servant:' and faithfulness does not depend on amount."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well done—a single word, not of bare satisfaction, but of warm and delighted commendation."
 2. "And from what Lips!"
 3. "Thou hast been faithful over a few things, I will make thee ruler over many things, &c."
@@ -38,4 +38,4 @@ The verse being described speaks of the rewards for faithful service and the joy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

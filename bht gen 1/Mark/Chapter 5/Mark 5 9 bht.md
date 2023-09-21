@@ -9,7 +9,7 @@ The Bible verse being described is an account of Jesus' encounter with a demon-p
 2. "Nor can I consent for a moment to accept here the very lame solution (repeated by Bp. Wordsw.), which supposes one of the dæmoniacs not to be mentioned by Mark and Luke."
 3. "The plural, used here and in Luke of the many dæmons in one man, is there used of the two men, and their separate dæmons."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The object of this question was to extort an acknowledgment of the virulence of demoniacal power by which this victim was enthralled."
 2. "My name is Legion: for we are many—or, as in Luke, 'because many devils [demons] were entered into him.'"
 3. "A legion, in the Roman army, amounted, at its full complement, to six thousand; but here the word is used, as such words with us, and even this one, for an indefinitely large number—large enough however to rush, as soon as permission was given, into two thousand swine and destroy them."
@@ -47,4 +47,4 @@ The Bible verse being described is an account of Jesus' encounter with a demon-p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse reveals a breathtaking scene of heavenly creatures, full of eyes, singing praises to God. The six-winged cherubim, like seraphim, encompassed the throne, displaying both reverence and vigilance. They join in a chorus of "Holy, holy, holy," acknowledging God's majesty, justice, and mercy. This continual worship is a tribute to the absolute being and perfections of the Almighty, who is praised as the one who was, is, and is to come. In this sacred space, the cherubim and other heavenly beings are in constant awe, recognizing the need for holiness and the everlasting nature of God's praise.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The eyes were round the outside of each wing, and up the inside of each when half expanded, and of the part of body in that inward recess."
 2. "Holy, holy, holy—The 'tris-hagion' of the Greek liturgies. In :-, as here, it occurs; also Psalms 99:3; Psalms 99:5; Psalms 99:9, where He is praised as 'holy,' (1) on account of His majesty (Revelation 4:1) about to display itself; (2) His justice (Revelation 4:1- :) already displaying itself; (3) His mercy (Revelation 4:1- :) which displayed itself in times past."
 3. "The cherubim here have six wings, like the seraphim in Isaiah 6:2; whereas the cherubim in Ezekiel 1:6 had four wings each."
@@ -43,4 +43,4 @@ The verse reveals a breathtaking scene of heavenly creatures, full of eyes, sing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes the fallen state of humanity, where our understanding is darkened and filled with ignorance due to our rebellion against God's revelation. We are alienated from the divine, spiritual life that God intended for us, and this alienation stems from the hardness and callousness of our hearts. In this state, we remain ignorant of God and His will, devoid of the light and knowledge that He offers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being darkened in their understanding" implies that before the fall, humans had been partakers of life and light, but they revolted from the primitive revelation.
 2. The "life of God" refers to the life whereby God lives in His own people, just as He was the life and light in Adam before the irruption of death and darkness into human nature.
 3. The ignorance of God, which is the beginning point of their misery, is a result of wilful ignorance and not choosing to retain God in their knowledge.
@@ -58,4 +58,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

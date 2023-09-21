@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the contempt and scorn that the 
 2. "The putting a stop at νόμον, and supplying ἐπίστευσεν εἰς αὐτόν, and then making ἐπάρ. εἰσιν! an exclamation (Paulus, Kuinoel), is not to be thought of."
 3. "The words are merely a passionate expression of contempt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pity these important distinctions, so marked in the original of this Gospel, should not be also in our version."
 2. "Knoweth not the law—that is, by school learning, which only subverted it by human traditions."
 3. "A cursed set (a kind of swearing at them, out of mingled rage and scorn)."
@@ -50,4 +50,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

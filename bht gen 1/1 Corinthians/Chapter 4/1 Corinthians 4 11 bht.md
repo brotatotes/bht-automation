@@ -13,7 +13,7 @@ This verse describes the hardships faced by the apostles, their selflessness in 
 
 4. "ἀστατ. τουτέστιν, ἐλαυνόμεθα, φεύγομεν" - Theophyl.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "naked—that is, insufficiently clad" - This quote highlights the meaning of being "naked" in the verse, emphasizing that it refers to being inadequately clothed rather than completely without clothing. 
 
 2. "buffeted—as a slave" - This quote draws a parallel between the suffering of the Corinthians and the experience of being a slave, indicating that they were being treated harshly and abused. 
@@ -61,4 +61,4 @@ This verse describes the hardships faced by the apostles, their selflessness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

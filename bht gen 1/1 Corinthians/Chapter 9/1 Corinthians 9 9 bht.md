@@ -9,7 +9,7 @@ In a verse often used as an illustration, the Bible addresses caring for the wel
 2. "The good done to man’s immortal spirit by acts of humanity and justice, infinitely outweighs the mere physical comfort of a brute which perishes."
 3. "The question imports, ‘In giving this command, are the oxen, or those for whom the law was given, its objects?’ And to such a question there can be but one answer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is it for the oxen that God careth?" - This quote highlights the question raised by the verse, emphasizing that the ultimate purpose of the law is not solely for the benefit of animals, but for the welfare of humanity as well.
 
 2. "God does care for the lower animal, but it is with the ultimate aim of the welfare of man." - This quote explains that while God does show concern for animals, His primary focus is on the well-being of human beings, who are considered the head of the animal creation.
@@ -56,4 +56,4 @@ Note: The commentary provided is incomplete and does not offer any additional in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

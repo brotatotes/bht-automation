@@ -9,7 +9,7 @@ In this verse, Jesus, troubled in spirit, speaks openly to his disciples about t
 2. "ἐμαρτ. implies the delivery of some solemn and important announcement." 
 3. "This was the first time He had ever spoken so plainly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The announcement of [the betrayal] seems not to have been plain enough to be quite apprehended, save by the traitor himself."
 2. "But how much it cost Him to do this, appears from the 'trouble' that came over His 'spirit'—visible emotion, no doubt—before He got it uttered."
 3. "What wounded susceptibility does this disclose, and what exquisite delicacy in His social intercourse with the Twelve, to whom He cannot, without an effort, break the subject!"
@@ -57,4 +57,4 @@ In this verse, Jesus, troubled in spirit, speaks openly to his disciples about t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible passage, a commentator describes the parable of an evil spirit wan
 2. "The emptying, sweeping, and garnishing may be traced in the growth of Pharisaic hypocrisy and the Rabbinical schools between the return and the coming of our Lord."
 3. "But by the growth of hypocrisy, secularity, and rationalism, the house has become empty, swept, and garnished: swept and garnished by the decencies of civilization and discoveries of secular knowledge, but empty of living and earnest faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed is the womb that bare Thee, and the paps which Thou hast sucked." - This quote highlights the admiration of a woman in the crowd towards Jesus' mother, recognizing the honor of being the mother of such a remarkable teacher.
 
 2. "Blessed are they that hear the word of God, and keep it." - Jesus responds to the woman's comment by emphasizing the importance of not just physical kinship, but rather the spiritual connection with God through hearing and obeying His word.
@@ -40,4 +40,4 @@ In this Bible passage, a commentator describes the parable of an evil spirit wan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

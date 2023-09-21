@@ -11,7 +11,7 @@ Faith without works is lifeless and ineffective, lacking vitality and power. It 
 
 3. "It is dead, not merely 'ad rem,' as Plaut. above, but absolutely, καθ ʼ ἑαυτήν, in itself: has no living root whereby it energizes." - The commentary emphasizes that faith without works is not just ineffective in achieving a specific outcome, but it lacks the essential vitality and power to produce any meaningful results.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith" is said to be "dead in itself," because when it has works it is alive, and it is discerned to be so, not in respect to its works, but in respect to itself.
 2. Even so presumed faith, if it have not works, is dead, being by itself "alone," that is, severed from works of charity.
 3. Just as the body would be "dead" if alone, that is, severed from the spirit.
@@ -52,4 +52,4 @@ Faith without works is lifeless and ineffective, lacking vitality and power. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

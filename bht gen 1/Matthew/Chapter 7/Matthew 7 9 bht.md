@@ -9,7 +9,7 @@ In this verse, commentators highlight the contrast between the provision of a lo
 2. "Luke (Luk 11:12) adds the egg and the scorpion."
 3. "There are two questions here, the first of which is broken off, after an anacoluthon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the loving and compassionate nature of God as a Father. Just as a human father would not give his hungry child a stone instead of bread, God will not withhold good things from His children." 
 
 2. "The comparison of bread and stone emphasizes the stark contrast between the two. Bread symbolizes sustenance, nourishment, and provision, while a stone represents something hard, unyielding, and useless for satisfying hunger." 
@@ -48,4 +48,4 @@ These quotes highlight the commentary's suggestion to use the word "loaf" instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

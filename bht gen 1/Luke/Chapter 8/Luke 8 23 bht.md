@@ -9,7 +9,7 @@ In this Bible verse, a ship on the Sea of Galilee is in great peril. The discipl
 2. "κατέβη from the sky or perhaps from the mountain valleys around: see Matthew 7:27, and note on Acts 27:14." 
 3. "συνεπλ. they (= their ship) were filling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "filled—literally, 'were getting filled,' that is, those who sailed; meaning that their ship was so." This quote explains the meaning of the word "filled" in the context of the verse, providing clarity on the state of the ship.
 2. "DEMONIAC OF GADARA HEALED." This quote refers to another passage in the Bible that relates to the verse, indicating a connection between the two stories.
 3. "JAIRUS' DAUGHTER RAISED AND ISSUE OF BLOOD HEALED." This quote also refers to another passage in the Bible, suggesting a parallel between the healing of the demoniac and the healing of Jairus' daughter and the woman with the issue of blood.
@@ -37,4 +37,4 @@ In this Bible verse, a ship on the Sea of Galilee is in great peril. The discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

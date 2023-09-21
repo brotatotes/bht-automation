@@ -4,7 +4,7 @@
 In this verse, we see a group of devoted women who had closely followed and ministered to Jesus throughout his ministry. These faithful women, who had accompanied Jesus from Galilee to Jerusalem, stood by him even in his darkest hour. They witnessed his sufferings from a distance and remained steadfast in their devotion, their faith shining brightly. Despite the disciples fleeing, these women, integral members of Jesus' inner circle, displayed extraordinary attachment and refused to abandon him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sense here would be better brought out by the use of the pluperfect, 'which had followed Jesus.'" 
 2. "As these dear women had ministered to Him during His glorious missionary tours in Galilee, so from this statement it should seem that they accompanied him and ministered to His wants from Galilee on His final journey to Jerusalem."
 3. "These women were not only disciples of Jesus, but they also served Him by ministering to His needs."
@@ -45,4 +45,4 @@ In this verse, we see a group of devoted women who had closely followed and mini
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentators reveal a Bible verse that criticizes religious leaders who expl
 2. "...the true simple interpretation of Scripture which would have admitted them, and caused them to admit others, into the Kingdom of Heaven by the recognition of Him of whom the Scriptures testify."
 3. "They shut the door as it were in men’s faces who were entering."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses." - This quote highlights the exploitation of vulnerable individuals by the scribes and Pharisees, who took advantage of widows and seized their property.
 2. "By their 'long prayers' they made them believe they were raised far above 'filthy lucre'." - This quote reveals the deceptive nature of the scribes and Pharisees, who used their religious practices to create a false perception of righteousness and detachment from material wealth.
 3. "What a lifelike description of the Romish clergy, the true successors of those scribes!" - This quote draws a parallel between the actions of the scribes and Pharisees and the behavior of the Romish clergy, implying that they share a similar pattern of exploiting others while maintaining a facade of religious piety.
@@ -43,4 +43,4 @@ The commentators reveal a Bible verse that criticizes religious leaders who expl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

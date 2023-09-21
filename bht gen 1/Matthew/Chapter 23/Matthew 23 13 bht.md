@@ -4,7 +4,7 @@
 The verse being described speaks of religious leaders who shut heaven against men, take away the key of knowledge, and teach false doctrines, substituting it with their traditions. They shut the door in men's faces and pervert their office, resulting in the general destruction of the people. Their hypocrisy and false teaching obscure the simple gospel of Christ, blocking the door to the kingdom of heaven for those who try to enter. The verse pronounces woes upon these stubborn sinners, compelling them to repent and turn away from the path of destruction.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are charged with shutting heaven against men."
 2. "They are charged with taking away the key of knowledge."
 3. "They took away from the people the right knowledge of God's revealed word, substituting it with their wretched traditions."
@@ -48,4 +48,4 @@ The verse being described speaks of religious leaders who shut heaven against me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

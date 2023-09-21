@@ -9,7 +9,7 @@ In this verse, the act of confessing Jesus as the Son of God is emphasized as a 
 2. "It is not the 'confession of the life' which is here spoken of, but that of the lips only."
 3. "He speaks of the ideal realized that Jesus is the Son of God, God abideth in him, and he in God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shall confess - once for all: so the Greek aorist means." This quote highlights the significance of the confession, emphasizing that it is a one-time declaration of belief in Jesus as the Son of God.
 2. "That Jesus is the Son of God" - This quote emphasizes the central focus of the confession, acknowledging Jesus' divine nature and his role as the Savior of the world.
 3. "And therefore 'the Savior of the world'" - This quote underscores the connection between confessing Jesus as the Son of God and recognizing him as the Savior of all humanity, highlighting the universal impact of this confession.
@@ -52,4 +52,4 @@ In this verse, the act of confessing Jesus as the Son of God is emphasized as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

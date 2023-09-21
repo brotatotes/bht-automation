@@ -9,7 +9,7 @@ The verse being described is one in which religious leaders question John the Ba
 2. "This question shows probably that they did not interpret Isa 40:3 of any herald of the Messiah."
 3. "They asked, 'Why baptizest thou, if thou art no forerunner of the Messiah?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why baptizest thou, if not?" - The question posed by the religious leaders reflects their skepticism towards John the Baptist's authority and purpose. It highlights their misunderstanding of baptism as solely connected to the Messiah's kingdom, rather than recognizing its significance as a symbol of repentance and spiritual renewal.
 
 2. "Thinking he disclaimed any special connection with Messiah's kingdom" - The commentary points out the misconception held by the religious leaders that John the Baptist did not have any affiliation with the coming Messiah's kingdom. This misunderstanding further contributes to their questioning of his authority to baptize.
@@ -54,4 +54,4 @@ These quotes highlight the curiosity and confusion of the people regarding John 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

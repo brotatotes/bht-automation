@@ -9,7 +9,7 @@ In a certain place, a figure exists that surpasses the grandeur and significance
 2. "If the priests in the temple and for the temple’s sake, for its service and ritual, profane the Sabbath, as ye account profanation, and are blameless, how much more these disciples who have grown hungry in their appointed following of Him who is greater than the temple, the true Temple of God on earth, the Son of Man!"
 3. "It seems to me, as above, to bear a more general and sublime sense than the masculine."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this place is one greater than the temple." - This quote highlights the assertion that there is someone or something of greater importance than the temple, challenging the traditional understanding of the temple's significance.
 2. "The ordinary rules for the observance of the sabbath give way before the requirements of the temple." - This quote emphasizes that the rules regarding the observance of the Sabbath can be set aside in favor of the needs and demands of the temple, indicating the temple's elevated status.
 3. "There are rights here before which the temple itself must give way." - This quote suggests that there are certain rights or privileges associated with the place that surpass the authority and importance of the temple, further emphasizing the superiority of this place over the temple.
@@ -38,4 +38,4 @@ In a certain place, a figure exists that surpasses the grandeur and significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

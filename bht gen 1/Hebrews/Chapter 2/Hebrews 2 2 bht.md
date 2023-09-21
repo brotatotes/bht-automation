@@ -9,7 +9,7 @@ The gospel proclaimed by Jesus, the Son of God, surpasses the Old Testament law 
 2. "The law was introduced by the mere subordinate messengers of God, but was enforced with strict precision."
 3. "The giving of the law, and the promulgation of the gospel, binding and imperative, not to be violated with impunity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Mosaic law was spoken by the ministration of angels, whereas the Gospel was first spoken by the Lord alone." 
 2. "The Mosaic law was enforced by penalties on those violating it, while transgression refers to a positive violation of the law, and disobedience refers to a negative violation of it." 
 3. "Recompense is mentioned in Galatians 3:19 as a consequence of not obeying the law."
@@ -55,4 +55,4 @@ The gospel proclaimed by Jesus, the Son of God, surpasses the Old Testament law 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

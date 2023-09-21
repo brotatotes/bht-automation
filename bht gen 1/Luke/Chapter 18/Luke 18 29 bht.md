@@ -4,7 +4,7 @@
 In this verse, a surrender is acknowledged as complete and acceptable, even encompassing various forms of self-sacrifice. The surrender is not only for personal gain, but also for the sake of the Gospel. It entails leaving behind worldly possessions, relationships, and personal honor, all for the kingdom of God's sake. It is a call to embrace a life of devotion and sacrifice, not only for individual believers but for the greater purpose of advancing the Gospel and building the kingdom of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "graciously acknowledging at once the completeness and the acceptableness of the surrender as a thing already made."
 2. "to take in every form of self-sacrifice."
 3. "for MY sake and the Gospel's."
@@ -18,4 +18,4 @@ In this verse, a surrender is acknowledged as complete and acceptable, even enco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the verse being described, the speaker expresses their unwavering faith in the midst of suffering and imprisonment. They declare their trust in God, confident in His strength to keep what has been entrusted to Him. The speaker's commitment to God is personal and deep, as they have surrendered their soul and placed their ultimate hope in Him. With anticipation and hope, they eagerly await the day when God will fully manifest Himself and bring about His promised fulfillment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I suffer even these things"; the sufferings attendant on my being a prisoner.
 2. "Confidence as to the future drives away shame."
 3. "I know what a faithful, promise-keeping God He is. It is not, I know how I have believed, but, I know WHOM I have believed; a feeble faith may clasp a strong Saviour."
@@ -52,4 +52,4 @@ In the verse being described, the speaker expresses their unwavering faith in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

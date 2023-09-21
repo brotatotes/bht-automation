@@ -9,7 +9,7 @@ In this Bible passage, we encounter a scene where Zacchaeus, filled with eagerne
 2. "It grows to a great size and height."
 3. "Notice the changes of subject here, ἀνέβη (Ζακχ.)...ὅτι ἐκείνης ἤμελλεν (ὁ Ἰησ.) διέρ....κ. σπεύσας (Ζακχ.)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sycamore tree mentioned here is not the same as the sycamore tree we are familiar with today. It is actually the Egyptian fig tree, which has leaves that resemble those of the mulberry tree."
 
 2. "The choice of the sycamore tree is significant because it represents the humble and lowly nature of Zacchaeus. Just as the sycamore tree grows in the desert and can withstand harsh conditions, Zacchaeus, as a tax collector, was despised and rejected by society."
@@ -56,4 +56,4 @@ In this Bible passage, we encounter a scene where Zacchaeus, filled with eagerne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see a complex scene unfold where a woman pours expensive ointment on Jesus' head as an act of worship and devotion. While some disciples, including Judas, are filled with indignation and question the purpose of this act, others recognize the profound significance of her gesture. The diverse reactions and actions of the disciples, incited by Judas, invite us to reflect on our own devotion to Jesus and consider the various factors that shape our response to acts of worship and sacrifice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spokesman, however, was none of the true-hearted Eleven—as we learn from John (12:4): 'Then saith one of His disciples, Judas Iscariot, Simon's son, which should betray Him.'"
 2. "Doubtless the thought stirred first in his breast, and issued from his base lips and some of the rest, ignorant of his true character and feelings, and carried away by his plausible speech, might for the moment feel some chagrin at the apparent waste."
 3. "Why was this waste of the ointment made?"
@@ -35,4 +35,4 @@ In this verse, we see a complex scene unfold where a woman pours expensive ointm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

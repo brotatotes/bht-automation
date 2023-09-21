@@ -9,7 +9,7 @@ In this verse, the focus is on the significance of the purifying practices of th
 2. "The Lord here most effectually and once for all stamps with His condemnation that false system of moral reformation, which would commence by pledges to abstain from intoxicating liquors."
 3. "The filling with water, and drawing out wine, is all that is related. 'The moment of the miracle,' says Lücke, 'is rather understood than expressed.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The large size of these water jars, holding some twenty or more gallons, emphasizes the abundance of water that Jesus miraculously turned into wine." 
 
 2. "The use of these water jars for washings at feasts highlights the significance of Jesus' miracle in transforming something ordinary and mundane into something extraordinary and celebratory." 
@@ -61,4 +61,4 @@ In this verse, the focus is on the significance of the purifying practices of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

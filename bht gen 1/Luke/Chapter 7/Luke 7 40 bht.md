@@ -9,7 +9,7 @@ In this Bible verse, Jesus responds to a Pharisee named Simon who secretly doubt
 2. "The inner personal appeal in the words addressing the Pharisee."
 3. "The answer διδάσ., εἰπέ, so different from οὗτος εἰ ἦν προφήτης."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Like Nathan with David, our Lord conceals His home thrust under the veil of a parable, and makes His host himself pronounce upon the case."
 2. "The two debtors are the woman and Simon; the criminality of the one was ten times that of the other, but both being equally insolvent, both are with equal frankness forgiven."
 3. "Simon is made to own that the greatest debtor to forgiving mercy will cling to her Divine Benefactor with the deepest gratitude."
@@ -45,4 +45,4 @@ In this Bible verse, Jesus responds to a Pharisee named Simon who secretly doubt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

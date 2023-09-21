@@ -9,7 +9,7 @@ In this Bible verse, the commentators explain that Jesus uses the phrase "salted
 2. "Fire is the symbol of the divine purity and presence: our God is a consuming fire, not only to his foes, but to his people."
 3. "This very fire shall be to them as a preserving salt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every one" probably means "Every follower of mine"; and the "fire" with which he "must be salted" probably means "a fiery trial" to season him.
 2. The reference to salting the sacrifice is of course to that maxim of the Levitical law, that every acceptable sacrifice must be sprinkled with salt, to express symbolically its soundness, sweetness, wholesomeness, acceptability.
 3. "Every disciple of Mine shall have a fiery trial to undergo, and everyone who would be found an odor of a sweet smell, a sacrifice acceptable and well-pleasing to God, must have such a salting, like the Levitical sacrifices."
@@ -33,4 +33,4 @@ In this Bible verse, the commentators explain that Jesus uses the phrase "salted
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

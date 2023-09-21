@@ -9,7 +9,7 @@ The verse under consideration describes the preciousness and significance of Chr
 2. "It is as plainly altogether beside the purpose, with Erasm., Luth., Calv., Aret., Bengel, al., to understand ‘Christ,’ or ‘the Stone,’ as the subject, and render as E. V., 'He is precious,' making ἡ τιμή predicate instead of subject) who believe."
 3. "This stumbling is not mere mental offence, which, e.g. they take at the preaching of the Cross; but the 'stumbling upon the dark mountains' of Jeremiah 13:16, the eternal disgrace and ruin which forms the contrast to τιμή above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On the opposite effects of the same Gospel on different classes."
 2. "To you believers belongs the preciousness of Christ just mentioned."
 3. "Those who rejected the STONE were all the while in spite of themselves unconsciously contributing to its becoming Head of the corner."
@@ -57,4 +57,4 @@ The verse under consideration describes the preciousness and significance of Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

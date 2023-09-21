@@ -9,7 +9,7 @@ In this verse, we see that Israel, as a whole, failed to find favor and justific
 2. "What aspect do matters present?"
 3. "That which Israel is in search of, this it found not, but the election found it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Israel hath not obtained that which he seeketh for" - This highlights the fact that Israel, as a whole, did not find the justification or acceptance with God that they were searching for. It emphasizes their failure to attain what they were seeking.
 2. "The election found it" - This phrase refers to the elect remnant of Israel who did find justification and acceptance with God. It suggests that there were individuals within Israel who were chosen and experienced this spiritual blessing.
 3. "The rest were hardened" - This phrase indicates that the majority of Israel was hardened or given over to the hardness of their own hearts. It implies that their rejection of God's offer of justification led to a state of spiritual hardness.
@@ -57,4 +57,4 @@ Note: The commentary is discussing Romans 11:7-8, which talks about the rejectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

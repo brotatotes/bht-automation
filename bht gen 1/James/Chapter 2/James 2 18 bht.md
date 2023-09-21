@@ -9,7 +9,7 @@ This verse addresses the intertwined relationship between faith and works. It hi
 2. "The whole difficulty found in this verse by Commentators has arisen from overlooking the fact that it continues the argument from the previous verses, and does not begin a new portion of the subject." 
 3. "The same mistaken person is in the Apostle’s view throughout, down to James 2:22; and it is as addressed to him, on the part of a chance objector to his inconsistency, that the ἀλλ ʼ ἐρεῖ τις is introduced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Show me thy faith without thy works—if thou canst; but thou canst not SHOW, that is, manifest or evidence thy alleged faith without works."
 2. "Faith is unseen save by God. To show faith to man, works in some form or other are needed: we are justified judicially by God; meritoriously, by Christ; mediately, by faith; evidentially, by works."
 3. "The question here is not as to the ground on which believers are justified, but about the demonstration of their faith: so in the case of Abraham."
@@ -61,4 +61,4 @@ These quotes collectively emphasize the central theme of James' argument, which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

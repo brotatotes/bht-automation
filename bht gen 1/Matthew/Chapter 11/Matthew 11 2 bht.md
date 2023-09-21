@@ -11,7 +11,7 @@ In the depths of a powerful prison, John the Baptist, a faithful friend and guid
 
 3. "ὁ μὲν ὑποψίᾳ τοῦ Ἡρώδου δέσμιος" - This phrase, translated as "he was a prisoner suspected by Herod," reveals that John's imprisonment was not based on concrete evidence or charges, but rather on suspicion. It highlights the unjust nature of his imprisonment and the threat he posed to Herod's rule.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The works of Christ" - John's recognition of the works of Christ highlights the impact and significance of Jesus' ministry.
 2. "Outburst of feeling suggested to the mind of Jesus" - This phrase suggests that Jesus was deeply moved by the result of his labors, indicating his emotional investment in his mission.
 3. "A new and more comprehensive series of reflections" - This commentary suggests that the following passage builds upon the previous one, providing a deeper and broader perspective on the same theme.
@@ -59,4 +59,4 @@ In the depths of a powerful prison, John the Baptist, a faithful friend and guid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

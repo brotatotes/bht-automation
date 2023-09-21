@@ -9,7 +9,7 @@ In this verse, God's declaration of purity and equality among all nations is emp
 2. "God having purified these, signified that the distinction was now abolished which was ‘added because of transgressions’ (Gal 3:19), and all regarded in his eyes as pure for the sake of His dear Son."
 3. "That creation itself having been purified and rendered clean for use by the satisfaction of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ceremonial distinctions are at an end" - The commentary highlights that the verse signifies the end of the ceremonial distinctions between the chosen people and the Gentiles. This implies that the barriers that separated the two groups have been removed.
 
 2. "Gentiles...are now on a perfect equality with them" - The commentary emphasizes that the verse signifies the equal standing of Gentiles with the chosen people. This suggests that there is no longer any distinction or hierarchy between the two groups in terms of access to God.
@@ -57,4 +57,4 @@ In this verse, God's declaration of purity and equality among all nations is emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

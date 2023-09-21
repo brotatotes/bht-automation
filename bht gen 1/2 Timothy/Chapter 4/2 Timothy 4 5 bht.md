@@ -9,7 +9,7 @@ Be alert and steadfast in your faith, displaying laboring love and unceasing pra
 2. "Do the work of an Evangelist, in a wider sense, including all that belongs to a preacher and teacher of the Gospel."
 3. "Fill up, in every point; leaving nothing undone in thy ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be thou a worthy successor of me, no longer depending on me for counsel, but thine own master, and swimming without the corks." - CALVIN
 
 2. "Follow my steps, inherit their result, and the honor of their end." - ALFORD
@@ -63,4 +63,4 @@ Be alert and steadfast in your faith, displaying laboring love and unceasing pra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

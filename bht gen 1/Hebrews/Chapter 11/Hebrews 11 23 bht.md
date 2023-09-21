@@ -9,7 +9,7 @@ In this verse, commentators highlight the faith, courage, and divine guidance of
 2. "They saw the child was comely" - This emphasizes the beauty and attractiveness of Moses as a baby, which may have contributed to his parents' decision to hide him and protect him.
 3. "They feared not the command of the king" - This shows the courage and faith of Moses' parents in defying Pharaoh's order to kill their son, trusting in God's protection and plan for their child.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'faith' of his parents in saving the child must have had some divine revelation to rest on (probably at the time of his birth), which marked their 'exceeding fair' babe as one whom God designed to do a great work by."
 2. "His beauty was probably 'the sign' appointed by God to assure their faith."
 3. "The king's commandment—to slay all the males."
@@ -57,4 +57,4 @@ In this verse, commentators highlight the faith, courage, and divine guidance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

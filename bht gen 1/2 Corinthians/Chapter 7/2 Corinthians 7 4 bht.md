@@ -10,7 +10,7 @@ The verse being described is a passage from Paul's second letter to the Corinthi
 3. "I am made exceedingly to abound"
 4. "in all our tribulation: refers to both preceding clauses"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Boldness of speech" refers to speaking openly and honestly without reservation (2 Corinthians 6:11).
 2. The author boasts greatly about the Corinthians to others, speaking highly of them (2 Corinthians 6:11).
 3. The author is filled with comfort and overabounds with joy upon hearing the positive report of Titus (2 Corinthians 7:6-7).
@@ -63,4 +63,4 @@ These quotes highlight the Apostle Paul's boldness in speaking the truth, his ge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

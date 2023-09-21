@@ -11,7 +11,7 @@ In this verse, we see a contrast between the unrighteousness of worldly wealth a
 
 3. "The phrase 'make friends for yourselves' suggests that our use of worldly wealth should be directed towards building relationships and investing in the lives of others. It is a call to be good stewards of what we have been given, using it to bless and benefit others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Lord—a name" - This quote highlights the significance of the name "the Lord" in the commentary. It suggests that this name carries a specific meaning and importance in understanding the interpretation of the parable.
 
 2. "expressive of the authoritative style" - This quote emphasizes the authoritative nature of the Lord's interpretation. It implies that the Lord's explanation carries weight and should be regarded as the definitive understanding of the parable.
@@ -53,4 +53,4 @@ In this verse, we see a contrast between the unrighteousness of worldly wealth a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the name of the prophet mentioned is debatable, with some s
 2. "I put it to any faithful Christian to say, whether of the two presents the greater obstacle to his faith, the solution given above, or that in Wordsw.’s note, that the name of one prophet is here substituted for that of another."
 3. "To teach us not to regard the prophets as the authors of their prophecies, but to trace them to divine Inspiration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Never was a complicated prophecy, otherwise hopelessly dark, more marvelously fulfilled."
 2. "Perhaps the true explanation is the following, from LIGHTFOOT: 'Jeremiah of old had the first place among the prophets, and hereby he comes to be mentioned above all the rest...'"
 3. "When, therefore, Matthew produceth a text of Zechariah under the name of Jeremy, he only cites the words of the volume of the prophets under his name who stood first in the volume of the prophets."
@@ -49,4 +49,4 @@ In this Bible verse, the name of the prophet mentioned is debatable, with some s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

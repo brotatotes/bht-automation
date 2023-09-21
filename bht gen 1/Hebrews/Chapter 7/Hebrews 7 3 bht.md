@@ -4,7 +4,7 @@
 Melchizedek, the mysterious figure mentioned in Scripture, stands alone as a priest without a recorded genealogy. Unlike other priests who relied on their lineage, Melchizedek's priesthood is unique and foreshadows the eternal priesthood of Christ. He is not to be understood as a miraculous being, but rather as someone whose ancestry isn't mentioned in the priestly records. Melchizedek's likeness to the Son of God is depicted in the description found in Genesis, emphasizing both his uniqueness and the eternal nature of Christ's priesthood.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Without genealogy... his genealogy is not known, whereas a Levitical priest could not dispense with the proof of his descent." 
 2. "Nothing is said in Genesis of the end of his priesthood, or of his having had in his priesthood either predecessor or successor, which, in a typical point of view, represents Christ's eternal priesthood, without beginning or end."
 3. "Melchisedec was, in his priesthood, 'made like' Christ, as far as the imperfect type could represent the lineaments of the perfect archetype."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

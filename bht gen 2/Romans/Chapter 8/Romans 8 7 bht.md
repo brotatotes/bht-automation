@@ -9,7 +9,7 @@ The mind of the flesh, completely opposed to God, rejects His existence, disrega
 2. "It does not submit itself to the law of God, for neither can it."
 3. "This was proved in ch. 7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The desire and pursuit of carnal ends is a state of enmity to God."
 2. "Wholly incompatible with true life and peace in the soul."
 3. "In such a state of mind there neither is nor can be the least subjection to the law of God."
@@ -62,4 +62,4 @@ The mind of the flesh, completely opposed to God, rejects His existence, disrega
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this particular Bible verse, we see the practical function of light, which pr
 2. "The phrase 'πίνουσι πρὸς φῶς πολύ' suggests that the soldiers were drinking by the light of the fire." 
 3. "This usage of φῶς highlights the practical function of light in providing illumination and enabling activities to take place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The place where Jesus stood before the high priest may have been an open room, or place of audience on the ground floor, in the rear or on one side of the court; such rooms, open in front, being customary." 
 2. "His wishing to 'see the end,' or issue of these proceedings, was what led him into the palace, for he evidently feared the worst."
 3. "From this mode of replying, it is evident that our Lord saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses."
@@ -40,4 +40,4 @@ In this particular Bible verse, we see the practical function of light, which pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

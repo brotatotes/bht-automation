@@ -15,7 +15,7 @@ The act of sowing is highlighted in this verse, emphasizing the intentional and 
 
 5. "See Romans 8:11; Romans 8:15-17." - This quote directs readers to other passages in the Bible that further explore the themes and concepts discussed in the commentary.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that soweth unto his own flesh... The flesh is devoted to selfishness." 
 2. "The use of the term 'corruption' instead, implies that destruction is not an arbitrary punishment of fleshly-mindedness, but is its natural fruit."
 3. "Future life only expands the seed sown here. Men cannot mock God because they can deceive themselves. They who sow tares cannot reap wheat. They alone reap life eternal who sow to the Spirit."
@@ -61,4 +61,4 @@ The act of sowing is highlighted in this verse, emphasizing the intentional and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

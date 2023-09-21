@@ -4,7 +4,7 @@
 This verse reveals God's foreknowledge and sovereignty, as He tells Abraham about the future affliction of his descendants in Egypt. It shows that God's promises are not always fulfilled immediately, but in His perfect timing. The mention of 'four hundred years' highlights the duration of the affliction, emphasizing the long period of suffering that the Israelites would endure. It reminds us of the Exodus and foreshadows God's faithfulness in delivering His people. Ultimately, this verse points to the faithfulness of God in fulfilling His promises and encourages us to trust in His sovereignty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "four hundred years—using round numbers, as in Genesis 15:13; Genesis 15:16" - This quote highlights that the mention of "four hundred years" in the Bible may not be an exact measurement, but rather a general estimation. It draws a parallel to a similar usage of round numbers in Genesis 15:13 and 15:16, suggesting that the timeframe mentioned should be understood in a broader sense.
 
 2. "see on Genesis 15:16" - This quote refers to a previous commentary on Genesis 15:16, indicating that there is additional insight to be gained by examining the context and interpretation of that verse. It suggests that a deeper understanding of the mentioned timeframe can be found by exploring related passages.
@@ -55,4 +55,4 @@ These quotes provide insight into the meaning of the verse, explaining the terms
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

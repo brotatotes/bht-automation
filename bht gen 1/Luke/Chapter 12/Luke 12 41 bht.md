@@ -11,7 +11,7 @@ This verse raises an important question: Who are the ones to wait, watch, and be
 
 3. "The whole [verse]... Who are they that are thus to wait and watch, and to be thus honoured at the Lord’s coming?" - The commentary emphasizes the importance of considering the entirety of the verse, rather than just the last two verses, in order to fully understand the question being posed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question of who the message is for is a common one. Is it just for a select few, or is it meant for everyone? In this case, Jesus is speaking to his disciples, but the message is not exclusive to them. It is meant for all who are willing to listen and follow." 
 
 2. "The disciples may have wondered if they were the only ones chosen to receive this message. But Jesus makes it clear that his teachings are not limited to a select few. They are meant to be shared with all, and it is up to each individual to decide whether they will accept and embrace the message." 
@@ -44,4 +44,4 @@ This verse raises an important question: Who are the ones to wait, watch, and be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

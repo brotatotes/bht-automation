@@ -4,7 +4,7 @@
 This verse challenges the possessiveness and exclusivity often seen among religious groups. It teaches us to embrace the work of others who revere Jesus' name, regardless of whether they are part of our immediate community or share the same beliefs. Jesus emphasizes the importance of unity, humility, and a willingness to learn from others, reminding us that true discipleship extends beyond our own circle and requires us to recognize and appreciate the diverse ways in which God works in the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no man which shall do a miracle in My name that can lightly [soon] speak evil of Me." This quote highlights the principle that those who perform miracles in Jesus' name cannot be easily against Him. It emphasizes the importance of recognizing and acknowledging the work of others who revere His name and promote His cause.
 
 2. "If such a person cannot be supposed to be 'against us,' you are to consider him 'for us.'" This quote further emphasizes the idea that even if someone does not follow with the disciples, they should still be regarded as supporters of Jesus' name and cause. It challenges the exclusivity and judgmental attitude often associated with religious groups.
@@ -36,4 +36,4 @@ Overall, these quotes highlight the inclusive and accepting nature of Jesus' tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

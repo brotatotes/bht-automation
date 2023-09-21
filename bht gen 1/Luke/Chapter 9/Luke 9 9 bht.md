@@ -9,7 +9,7 @@ In this verse, someone expresses a strong desire to see Jesus, seeking personal 
 2. "The repetition of ἐγώ emphasizes the speaker's personal connection to the situation." 
 3. "The growing fame of Jesus is a cause for concern and alarm for the speaker."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "desired to see him—but did not, till as a prisoner He was sent to him by Pilate just before His death" - This quote highlights the anticipation and longing of the person to see Jesus, and how their desire was finally fulfilled in a unique and unexpected way.
 
 2. "ON THE RETURN OF THE TWELVE JESUS RETIRES WITH THEM TO BETHSAIDA, AND THERE MIRACULOUSLY FEEDS FIVE THOUSAND" - This quote emphasizes the significance of Jesus' retreat with His disciples and the miraculous feeding of the multitude, showcasing His power and compassion.
@@ -39,4 +39,4 @@ In this verse, someone expresses a strong desire to see Jesus, seeking personal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

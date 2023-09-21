@@ -9,7 +9,7 @@ In this verse, believers partake of the same bread which symbolizes the body of 
 2. "The bread is the Body of Christ; we partake of the bread: therefore we partake of the Body of Christ."
 3. "The argument is a very simple and direct one; the bread is the Body of Christ; we partake of the bread: therefore we partake of the Body of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One loaf alone seems to have been used in each celebration."
 2. "We, the many (namely, believers assembled; so the Greek), are one bread."
 3. "We become one body with Christ, and so with one another."
@@ -57,4 +57,4 @@ Note: The commentary is about 1 Corinthians 10:17 - "Because there is one bread,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

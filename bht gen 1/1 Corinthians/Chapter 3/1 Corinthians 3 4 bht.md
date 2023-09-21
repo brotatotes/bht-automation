@@ -9,7 +9,7 @@ This verse serves as a warning against dividing into factions and aligning with 
 2. "Meyer sees in the mention here of Paul and Apollos only, a reference to the two methods of teaching...but...the German Commentators are misled by too definite a view of the Corinthian parties."
 3. "ἄνθρωποι, i.e. walking κατὰ ἄνθρωπον, σαρκικοί."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are ye not carnal—The oldest manuscripts read, 'Are ye not men?' that is, 'walking as men' unregenerate." This quote highlights the contrast between being carnal and being spiritual, emphasizing the need for transformation and renewal in one's life.
 
 2. "Walking as men unregenerate." This quote succinctly captures the idea that living a carnal life is equivalent to living as unregenerate individuals, emphasizing the need for a spiritual transformation.
@@ -59,4 +59,4 @@ These quotes highlight the issues of envy, strife, and divisions among the Corin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

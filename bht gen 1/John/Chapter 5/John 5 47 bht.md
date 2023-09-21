@@ -9,7 +9,7 @@ This verse emphasizes the significance of believing in the written Scriptures, a
 2. "If you believe not what he has written, which comes down to you hallowed by the reverence of ages, how can you believe the words which are uttered by Me, to whom you are hostile?"
 3. "Moses leads to Christ: is one of the witnesses by which the Father hath testified of Him: 'if then ye have rejected the means, how shall ye reach the end?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His writings . . . my words—a remarkable contrast, not absolutely exalting Old Testament Scripture above His own words, but pointing to the office of those venerable documents to prepare Christ's way."
 2. "To the necessity universally felt for documentary testimony in revealed religion."
 3. "Perhaps (as STIER adds) to the relation which the comparative 'letter' of the Old Testament holds to the more flowing 'words' of 'spirit and life' which characterize the New Testament."
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the importance of believing in and studying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

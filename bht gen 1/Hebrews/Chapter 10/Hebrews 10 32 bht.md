@@ -9,7 +9,7 @@ In this verse, the readers are encouraged to reflect upon their past experiences
 2. "The verb may be indicative, but is from the whole cast of the sentence, much more likely imperative."
 3. "The genitive may be either subjective, implying that your contest consisted of sufferings; or objective, that it was waged with sufferings, as the foe to be contended against."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As previously he has warned them by the awful end of apostates, so here he stirs them up by the remembrance of their own former faith, patience, and self-sacrificing love." 
 2. "Call to remembrance—habitually: so the present tense means." 
 3. "In spiritual baptism, Christ, who is 'the Light,' is put on."
@@ -61,4 +61,4 @@ These quotes highlight the importance of remembering our past experiences, the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

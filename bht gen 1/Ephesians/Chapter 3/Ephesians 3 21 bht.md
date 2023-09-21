@@ -11,7 +11,7 @@ The verse under consideration emphasizes the giving of glory to God, both in the
 
 3. "the age of ages (eternity) is conceived as containing ages, just as our ‘age’ contains years" - This comparison helps us grasp the concept of eternity, even though it is imperfect and inadequate, by relating it to our understanding of time and generations.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto Him be the glory in the Church" - The Church is the stage where God's glory is displayed to the world. It is through the Church that the beauty and power of God's salvation is made known.
 2. "In Christ Jesus" - All the glory of the Church and the salvation it proclaims is centered in Christ Jesus. He is the source and the focal point of all that is good and glorious in the Church.
 3. "To all the generations of eternal ages" - The glory of God's salvation is not limited to a specific time or era. It extends to all generations throughout eternity. God's grace and love will continue to be revealed and celebrated by His people for all time.
@@ -64,4 +64,4 @@ The verse under consideration emphasizes the giving of glory to God, both in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

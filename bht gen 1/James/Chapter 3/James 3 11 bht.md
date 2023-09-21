@@ -9,7 +9,7 @@ In this verse, we are presented with the imagery of a fountain that emits both s
 2. "Doth a fountain out of the same chink send forth the sweet and the bitter?"
 3. "The contrast is in the contrary nature of the two."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "fountain—an image of the heart: as the aperture (so the Greek for "place" is literally) of the fountain is an image of man's mouth."
 2. "Grace can make the same mouth that 'sent forth the bitter' once, send forth the sweet for the time to come."
 3. "as the wood (typical of Christ's cross) changed Marah's bitter water into sweet."
@@ -49,4 +49,4 @@ In this verse, we are presented with the imagery of a fountain that emits both s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes the unique power of Jesus to bring life, bo
 2. "And the unfolding of these latter shall all be in the direction of, and in accordance with, the eternal attributes of the Son: see ch. John 17:5: resulting in His being exalted to the right hand of the Father."
 3. "So here, as it is the Father’s essential work to vivify the dead, so the Son vivifies whom He will: this last οὓς θέλει not implying any selection out of mankind, nor said merely to remove the Jewish prejudice that their own nation alone should rise from the dead, but meaning, that in every instance where His will is to vivify, the result invariably follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is His absolute prerogative as God."
 2. "This statement is of immense importance in relation to the miracles of Christ, distinguishing them from similar miracles of prophets and apostles."
 3. "Christ did all as the Father's commissioned Servant indeed, but in the exercise of His own absolute right of action."
@@ -55,4 +55,4 @@ The verse being described emphasizes the unique power of Jesus to bring life, bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is full of anticipation and longing for a future revel
 2. "The patient expectation of the creation waits for the revelation of the sons of God."
 3. "The right explanation is, all animate and inanimate nature as distinguished from mankind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle, fired with the thought of the future glory of the saints, pours forth this splendid passage, in which he represents the whole creation groaning under its present degradation, and looking and longing for the revelation of this glory as the end and consummation of its existence."
 2. "The creation...is waiting for the revelation of the sons of God."
 3. "For the redemption of their bodies from the grave, which will reveal their sonship, now hidden."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected the most relevant and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

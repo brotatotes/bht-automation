@@ -9,7 +9,7 @@ In this verse, commentators describe a hidden and secret power of lawlessness th
 2. "The ἀνομία is that wherein the μυστήριον consists."
 3. "Only until he that now hinders be removed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan will resort to a mode of opposition more conformed to the then imminent 'appearing' and 'presence' of the Saviour, and will anticipate Him with a last effort to maintain the dominion of the world."
 2. "The Jewish nation dispossessed of the evil spirit, the demon of idolatry being cast out through the Babylonian captivity, receives ultimately a worse form of the evil spirit, Christ-opposing self-righteousness."
 3. "Antiquity, it appears from hence, is not a justification for unscriptural usages or dogmas, since these were 'already,' even in Paul's time, beginning to spring up: the written word is the only sure test."
@@ -53,4 +53,4 @@ In this verse, commentators describe a hidden and secret power of lawlessness th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

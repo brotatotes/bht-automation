@@ -9,7 +9,7 @@ The verse being described is about the declaration of Jesus as the Son of God th
 2. "Thus the objective words ποιεῖν (Act 2:36), γεννᾷν (Act 13:33) are used of the same proof or manifestation of Christ’s Sonship by His Resurrection."
 3. "And this Spirit is designated by the gen. of quality, ἁγιωσύνης, to shew that it is not a human, but a divine Spirit which is attributed here to Christ, a Spirit to which holiness belongs as its essence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He 'was MADE [says the apostle] of the seed of David, according to the flesh'; but He was not made, He was only 'declared [or proved] to BE the Son of God.'"
 2. "By His birth in the flesh, that Sonship, which was essential and uncreated, merely effloresced into palpable manifestation."
 3. "Declared to be the Son of God in possession of that 'power' which belonged to Him as the only-begotten of the Father, no longer shrouded as in the days of His flesh, but 'by His resurrection from the dead' gloriously displayed and henceforth to be forever exerted in this nature of ours."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

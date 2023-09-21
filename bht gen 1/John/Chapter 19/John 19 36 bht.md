@@ -9,7 +9,7 @@ In the Gospel narrative, there is a profound fulfillment of Scripture as seen in
 2. "The primary reference is to the Paschal Lamb of Exod."
 3. "See 1 Corinthians 5:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A bone of him shall not be broken—The reference is to the paschal lamb, as to which this ordinance was stringent." 
 2. "But though we are to see here the fulfilment of a very definite typical ordinance, we shall, on searching deeper, see in it a remarkable divine interposition to protect the sacred body of Christ from the last indignity after He had finished the work given Him to do." 
 3. "Very different from such violence was that spear-thrust, for which not only doubting Thomas would thank the soldier, but intelligent believers in every age, to whom the certainty of their Lord's death and resurrection is the life of their whole Christianity."
@@ -47,4 +47,4 @@ In the Gospel narrative, there is a profound fulfillment of Scripture as seen in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

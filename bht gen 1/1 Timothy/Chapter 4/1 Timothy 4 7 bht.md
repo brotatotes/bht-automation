@@ -9,7 +9,7 @@ Refuse the profane and old wives' fables, for they lead away from true faith. Ex
 2. "Exercise thyself for piety." - This phrase emphasizes the importance of actively engaging in spiritual disciplines and practices that cultivate a pure and upright life.
 3. "With a view to, as an athlete with a view to the games." - This comparison to an athlete preparing for a competition underscores the dedication and effort required to live a life of godliness and devotion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Refuse...old wives' fables" (2 Timothy 2:23; Titus 3:10) - Reject and avoid myths that lead away from godliness and piety.
 2. "Exercise thyself" (1 Timothy 4:8) - Engage in self-discipline and training in godliness, not in ascetical exercises like the false teachers.
 3. "Let thy self-discipline be...with a view to godliness" (1 Timothy 6:11) - Practice self-discipline with the goal of cultivating godliness and piety.
@@ -55,4 +55,4 @@ Refuse the profane and old wives' fables, for they lead away from true faith. Ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

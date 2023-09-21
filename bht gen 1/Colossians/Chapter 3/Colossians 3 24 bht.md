@@ -9,7 +9,7 @@ In this verse, believers are encouraged to find their ultimate reward in Christ,
 2. "The very word κληρονομία should have kept the Roman Catholic expositors from introducing the merit of good works here."
 3. "Serve ye the Lord Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowing that it is from the Lord (the ultimate source of reward), ye shall receive the compensation (or recompense, which will make ample amends for your having no earthly possession as slaves now) consisting of the inheritance."
 2. "A term excluding the notion of meriting it by works: it is all of grace."
 3. "Serve ye the Lord Christ."
@@ -38,4 +38,4 @@ In this verse, believers are encouraged to find their ultimate reward in Christ,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author expresses great joy upon discovering that certain indi
 2. "Walking in truth...is derived from and is part of the truth of God and Christ."
 3. "According as we received commandment from the Father, to walk in the truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Father's commandment is the standard of the truth."
 2. "In the Gospel truth."
 3. "Found...in one of his missionary tours of superintendence."
@@ -49,4 +49,4 @@ In this verse, the author expresses great joy upon discovering that certain indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

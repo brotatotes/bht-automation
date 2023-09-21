@@ -9,7 +9,7 @@ The verse being described is about the concept of the "new man" or the transform
 2. "The image of God in Christ is a far more glorious thing than Adam ever had, or could have had: but still the κατʼ εἰκόνα θεοῦ, = κατὰ θεόν, is true of both."
 3. "The new birth alone leads to ἐπίγνωσις: all knowledge which proceeds not from renewal of heart, is but outward appearance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put on not merely a renovated nature, but a new, that is, altogether different nature, a changed nature."
 2. "God's image in which the first Adam was originally created, is restored, to us far more gloriously in the second Adam, the image of the invisible God."
 3. "Holiness flowing from sincere following of 'the truth of God': opposed to 'the lusts of deceit'; compare also Ephesians 4:21, 'truth is in Jesus'."
@@ -57,4 +57,4 @@ These quotes emphasize the transformative nature of regeneration and the restora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

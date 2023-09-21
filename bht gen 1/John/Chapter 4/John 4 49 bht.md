@@ -9,7 +9,7 @@ The verse being described portrays a desperate father seeking Jesus' help for hi
 2. "He seems to believe it necessary that Jesus should be on the spot."
 3. "To think that it would be too late when his child had expired; not imagining that He to whom he spoke could raise the dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While we talk, the case is at its crisis, and if Thou come not instantly, all is over." - This quote highlights the urgency and desperation of the man's plea to Jesus. It shows his deep faith in Jesus' ability to heal his son, but also his limited understanding of how the healing could take place.
 
 2. "This was faith, but partial, and our Lord would perfect it." - This quote emphasizes that while the man's faith was genuine, it was not yet complete. Jesus recognizes this and seeks to deepen and strengthen the man's faith through the upcoming interaction.
@@ -47,4 +47,4 @@ The verse being described portrays a desperate father seeking Jesus' help for hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

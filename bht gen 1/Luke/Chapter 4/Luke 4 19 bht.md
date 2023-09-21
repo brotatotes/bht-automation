@@ -11,7 +11,7 @@ The Bible verse being described is about the "acceptable year of the Lord." This
 
 3. "Compare John 2:13; John 6:4; John 13:1."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the maladies under which humanity groans are here set forth under the names of poverty, broken-heartedness, bondage, blindness, bruisedness (or crushedness), so, as the glorious HEALER of all these maladies, Christ announces Himself in the act of reading it."
 2. "The first words, 'THE SPIRIT of the LORD is upon ME,' have been noted since the days of the Church Fathers, as an illustrious example of Father, Son, and Holy Ghost being exhibited as in distinct yet harmonious action in the scheme of salvation."
 3. "Christ announces Himself in the act of reading it, stopping the quotation just before it comes to 'the day of vengeance,' which was only to come on the rejecters of His message."
@@ -59,4 +59,4 @@ The Bible verse being described is about the "acceptable year of the Lord." This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

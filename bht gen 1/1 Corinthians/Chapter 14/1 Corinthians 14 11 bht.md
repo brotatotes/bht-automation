@@ -9,7 +9,7 @@ In this verse, the importance of understanding and effective communication is hi
 2. "The appellation always conveyed a certain contempt, and such is evidently intended here." 
 3. "In my estimation: so Eurip. Hippol. 1335, σὺ δʼ ἔν τʼ ἐκείνῳ κἂν ἐμοὶ φαίνῃ κακός, 'in his judgment and in mine.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore—seeing that none is without meaning." This quote emphasizes the significance of every word and action, highlighting the importance of understanding the context and intention behind them.
 
 2. "A barbarian—a foreigner." This quote clarifies that the term "barbarian" in this context refers to someone who speaks a foreign language, rather than being used in a derogatory manner.
@@ -57,4 +57,4 @@ In this verse, the importance of understanding and effective communication is hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

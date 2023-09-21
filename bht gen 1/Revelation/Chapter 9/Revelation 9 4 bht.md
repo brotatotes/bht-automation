@@ -4,7 +4,7 @@
 In this verse, the judgment brought upon a specific group is seen as divine and restrained supernaturally. These locusts differ from others in their focus on troubling people rather than destroying vegetation. The verse refers to a class of individuals who do not have the seal of God on their foreheads, suggesting that they are the ones to be smitten by this plague. While not harming nature, they pose a threat to those who lack the protection of God. The description also highlights the escape of the "new Israel," exempt from this attack.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their natural instinct is supernaturally restrained to mark the judgment as altogether divine."
 2. "None of the saints are hurt by these locusts, which is not true of the saints in Mohammed's attack."
 3. "Many true believers fell in the Mohammedan invasions of Christendom."
@@ -47,4 +47,4 @@ In this verse, the judgment brought upon a specific group is seen as divine and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

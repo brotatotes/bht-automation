@@ -9,7 +9,7 @@ In this Bible verse, the speaker expresses the importance of the Corinthians bei
 2. "Should find you unprepared (with your collection, see 2Co 9:2)"
 3. "We (who have boasted), not to say you (who were boasted of), should be put to shame, in the matter of this confidence (respecting you)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If Macedonians." This phrase emphasizes the specific group of people being referred to, highlighting their identity as Greeks from Macedonia. 
 
 2. "Unprepared." This word suggests that the Corinthians were not ready or organized in their collection, indicating a lack of planning or foresight. 
@@ -47,4 +47,4 @@ In this Bible verse, the speaker expresses the importance of the Corinthians bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

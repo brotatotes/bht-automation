@@ -9,7 +9,7 @@ In this verse, believers are called to bear one another's burdens by helping and
 2. "The position of ἀλλήλων I conceive fixes this meaning, by throwing τὰ βάρη into the shade, as a term common to the two laws."
 3. "The more general the meaning we give to βάρη, the better it will accord with the sense of the command."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bear one another's burdens," literally, "weights." Distinguished by BENGEL from "burden," Galatians 6:4: "weights" exceed the strength of those under them; "burden" is proportioned to the strength.
 2. "So fulfil," or as other old manuscripts read, "so ye will fulfil," Greek, "fill up," "thoroughly fulfil."
 3. "The law of Christ," namely, "love" (Galatians 5:14). Since ye desire "the law," then fulfil the law of Christ, which is not made up of various minute observances, but whose sole "burden" is "love."
@@ -55,4 +55,4 @@ In this verse, believers are called to bear one another's burdens by helping and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

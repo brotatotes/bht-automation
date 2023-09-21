@@ -4,7 +4,7 @@
 In this verse, commentators describe a future state where there is no more sea, interpreted as representing ungodliness and restlessness. This description is not about an entirely new creation, but a transformed one. It depicts a new and eternal state of all things, where the old physical world is replaced and the former things are done away with. It is a glorious picture of the blissful state of the church, in sharp contrast to the lake of fire portrayed earlier.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sea is the type of perpetual unrest. Hence our Lord rebukes it as an unruly hostile troubler of His people."
 2. "The absence of sea, after the metamorphosis of the earth by fire, answers to the unruffled state of solid peace which shall then prevail."
 3. "Then man shall possess inherent powers which shall make the sea no longer necessary, but an element which would detract from a perfect state."
@@ -44,4 +44,4 @@ In this verse, commentators describe a future state where there is no more sea, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

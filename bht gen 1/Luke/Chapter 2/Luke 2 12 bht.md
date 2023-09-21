@@ -9,7 +9,7 @@ In this verse, the angel describes a sign to the shepherds, guiding them to find
 2. "The angel in giving the sign, generalizes the term they were to know the truth of his words."
 3. "They were to find a child wrapped in swaddling clothes, lying in a manger."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sign was to consist, it seems, solely in the overpowering contrast between the things just said of Him and the lowly condition in which they would find Him."
 2. "Him whose goings forth have been from of old, from everlasting, 'ye shall find a Babe'; whom the heaven of heavens cannot contain, 'wrapt in swaddling bands'."
 3. "Thus early were these amazing contrasts, which are His chosen style, held forth."
@@ -44,4 +44,4 @@ In this verse, the angel describes a sign to the shepherds, guiding them to find
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

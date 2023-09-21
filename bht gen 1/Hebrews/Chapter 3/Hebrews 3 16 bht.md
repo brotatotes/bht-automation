@@ -9,7 +9,7 @@ The verse described warns against the danger of unbelief and disobedience, drawi
 2. "Was it not with those who sinned, whose carcases fell in the wilderness?"
 3. "And to whom sware He that they should not enter into His rest, except to those who disobeyed?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'For' implies, Ye need to take heed against unbelief: for, was it not because of unbelief that all our fathers were excluded." 
 2. "Not merely some, but all the Israelites, for the solitary exceptions, Joshua and Caleb, are hardly to be taken into account in so general a statement."
 3. "The beginning of the provocation, soon after the departure from Egypt, is marked... the forty years of it in the wilderness... the denial of entrance into the land of rest."
@@ -52,4 +52,4 @@ The verse described warns against the danger of unbelief and disobedience, drawi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

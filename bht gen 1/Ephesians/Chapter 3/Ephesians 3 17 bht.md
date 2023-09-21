@@ -4,7 +4,7 @@
 In this verse, the commentator's insights reveal a profound invitation for believers to experience a lasting union with Christ. The indwelling of the Spirit and the love of Christ are at the core of this invitation. The verse portrays the desire for Christ to settle permanently within our hearts, forming a deep-rooted and unshakable connection. By faith, we open the door for Christ to take possession of our lives, perceiving His presence, glory, and love. This spiritual dwelling calls for a conscious choice to prioritize His presence and cultivate an intimate communion with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Where the Spirit is there Christ is."
 2. "It is not enough that He be on the tongue, or flit through the brain: the heart is His proper seat."
 3. "Love, the first-fruit of the Spirit, flowing from Christ's love realized in the soul, was to be the basis on which should rest their further comprehension of all the vastness of Christ's love."
@@ -52,4 +52,4 @@ In this verse, the commentator's insights reveal a profound invitation for belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

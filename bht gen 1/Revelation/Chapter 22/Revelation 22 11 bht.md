@@ -4,7 +4,7 @@
 The Bible verse, as described by these commentators, emphasizes the consequences and permanence of people's actions and character. It warns that the punishment for sin is sin itself and the reward for holiness is more holiness. It declares that the righteous will secure their holiness and happiness, while the wicked will face eternal punishment. The verse highlights the importance of actively pursuing righteousness and warns against the continuation of unrighteousness and defilement. The final judgment is portrayed as the ultimate determining factor for one's fate, with no possibility of change thereafter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The punishment of sin is sin, the reward of holiness is holiness." 
 2. "Eternal punishment is not so much an arbitrary law, as a result necessarily following in the very nature of things."
 3. "No worse punishment can God lay on ungodly men than to give them up to themselves."
@@ -47,4 +47,4 @@ These quotes provide insights into the meaning and implications of the verbs use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

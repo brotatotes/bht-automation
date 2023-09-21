@@ -9,7 +9,7 @@ Commentators emphasize the apostle's readiness to visit the Corinthians for the 
 2. "Our business in such cases is, not to wrest plain words to fit our preconceived chronology, but to adapt our confessedly uncertain and imperfect history of the Apostle’s life, to the data furnished by the plain honest sense of his Epistles."
 3. "Paul was the spiritual father of the Corinthian Church, he does not therefore want to be enriched by them, his children, but rather to lay up riches for them, seeking to have them as his treasure, and thus to enrich them, as a loving father does his children."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His second visit was probably a short one...attended with humiliation through the scandalous conduct of some of his converts." 
 2. "Paul was their spiritual father...He does not, therefore, seek earthly treasure from them, but lays up the best treasure (namely, spiritual) 'for their souls'." 
 3. "I am coming, and the third time, and will not burden you this time any more than I did at my two previous visits."
@@ -52,4 +52,4 @@ Commentators emphasize the apostle's readiness to visit the Corinthians for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

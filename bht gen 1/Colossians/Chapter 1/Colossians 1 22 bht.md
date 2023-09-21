@@ -4,7 +4,7 @@
 In this verse, the commentator emphasizes the significance of Christ's humanity and his sacrificial death. The commentator also highlights the dual aspect of holiness, both in our relationship with God and in our conduct towards others. The reconciling work of Christ is presented as the means by which we are made holy and blameless, both in the sight of God and in our own character.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Angels who have not a 'body of flesh' are not in any way our reconciling mediators, but He, the Lord of angels, who has taken our flesh, that in it He might atone for our fallen manhood."
 2. "Flesh is the sphere in which His human sufferings could have place."
 3. "Sanctification, as the fruit, is here treated of; justification, by Christ's reconciliation, as the tree, having preceded."
@@ -53,4 +53,4 @@ These quotes highlight the significance of Christ's work of reconciliation, his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

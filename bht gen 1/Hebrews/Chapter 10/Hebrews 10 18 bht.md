@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the surpassing power and efficacy of C
 2. "Both our present possession of salvation, and our future completion of salvation, are as certain to us as that He is with God, ruling as a priest and reigning as a king."
 3. "The self-sacrifice of Christ, offered through the eternal Spirit, is of everlasting power, as contrasted with the unavailing cycle of legal offerings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here ends the finale of the great tripartite arrangement of the middle portion of the Epistle. Its great theme was Christ a High Priest for ever after the order of Melchisedec." 
 2. "That Christ, however, as High Priest, is Aaron's antitype in the true holy place, by virtue of His self-sacrifice here on earth, and Mediator of a better covenant, whose essential character the old only typified, we learn."
 3. "And that Christ's self-sacrifice, offered through the Eternal Spirit, is of everlasting power, as contrasted with the unavailing cycle of legal offerings, is established in the third part."
@@ -45,4 +45,4 @@ In this verse, the commentators emphasize the surpassing power and efficacy of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

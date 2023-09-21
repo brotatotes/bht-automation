@@ -9,7 +9,7 @@ In a parable challenging our hearts and actions, Jesus invites us to consider wh
 2. "Observe γεγονέναι, to have become neighbour. The neighbour Jews became strangers, the stranger Samaritan became neighbour, to the wounded traveller."
 3. "It is not place, but love, which makes neighbourhood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Turning the question from, 'Whom am I to love as my neighbour?' to 'Who is the man that shows that love?'" 
 2. "Compelling the lawyer to give a reply very different from what he would like—not only condemning his own nation, but those of them who should be the most exemplary."
 3. "Making him commend one of a deeply hated race."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

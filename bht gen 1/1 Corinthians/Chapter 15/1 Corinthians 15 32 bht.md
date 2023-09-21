@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul discusses the challenges he has faced as a
 2. "The renderings, ὅσον τὸ εἰς ἀνθρώπους (Chrys. p. 381), i.e. ‘so far as one can be said θηριομαχεῖν against men,’ and κατὰ ἀνθρώπων λογισμὸν θηρίων ἐγενόμην βορά (Theodoret), ‘exempli causa’ (Semler, Rosenmüller), ‘ut hominum more loquar’ (Estius and Bloomf.), are all constrained, and scarcely to be extorted from the words."
 3. "His Roman citizenship would have precluded his ever being literally thrown to beasts: and even supposing him to have waived it, and been miraculously rescued, as Ambrst, Theodoret, Erasm., Luther, Calv., al. suppose, is it conceivable that such an event should have been altogether unrecorded in the Acts?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If 'merely as a man' (with the mere human hope of the present life not with the Christian's hope of the resurrection; answering to 'If the dead rise not,' the parallel clause in the next sentence), I have fought with men resembling savage beasts." 
 2. "Seeing I have renounced all that, 'as a mere man,' might compensate me for such sufferings, gain, fame, &c." 
 3. "Paul imitates the language of such skeptics, to reprove both their theory and practice. 'If men but persuade themselves that they shall die like the beasts, they soon will live like beasts too' [SOUTH]."
@@ -53,4 +53,4 @@ In this Bible verse, the apostle Paul discusses the challenges he has faced as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

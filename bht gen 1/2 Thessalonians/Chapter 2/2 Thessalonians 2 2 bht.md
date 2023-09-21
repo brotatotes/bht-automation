@@ -9,7 +9,7 @@ In this passage, the commentators highlight the need for the Thessalonians to re
 2. "The teaching of the Apostles was, and of the Holy Spirit in all ages has been, that the day of the Lord is at hand."
 3. "These Thessalonians imagined it to be already come, and accordingly were deserting their pursuits in life, and falling into other irregularities, as if the day of grace were closed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shaken—literally, 'tossed' as ships tossed by an agitated sea." 
 2. "Troubled—This verb applies to emotional agitation; as 'shaken' to intellectual." 
 3. "If oral tradition was liable to such perversion in the apostolic age, how much more in our age!"
@@ -57,4 +57,4 @@ In this passage, the commentators highlight the need for the Thessalonians to re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

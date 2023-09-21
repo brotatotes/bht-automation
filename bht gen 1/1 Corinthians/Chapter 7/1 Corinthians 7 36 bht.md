@@ -4,7 +4,7 @@
 Based on the commentaries, the Bible verse being described is about a parent's responsibility in making appropriate decisions for their daughter's marriage. The verse emphasizes that parents should not withhold their daughter from marital union, as it may bring disgrace or hinder her happiness. The verse also acknowledges the daughter's age and readiness for marriage, encouraging parents to consider her needs and well-being. Ultimately, the verse affirms that marriage is a lawful and suitable option, providing a solution for those who desire it.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behaveth...uncomely" refers to the father's mistreatment of his daughter by not allowing her to marry at an appropriate age, depriving her of the natural desire for companionship and love.
 2. "Need so require" highlights the importance of considering the daughter's feelings and well-being when making decisions about her marriage, rather than solely focusing on societal expectations or personal preferences.
 3. "Let them marry" emphasizes the need for the father to allow his daughter and her suitor to enter into a marital union, acknowledging their mutual desire and readiness for commitment.
@@ -47,4 +47,4 @@ Based on the commentaries, the Bible verse being described is about a parent's r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is centered around the disciples' reception and unders
 2. "On the two last clauses we may notice that παρὰ σοῦ ἐξῆλθον is more a matter of conviction from inference, ἔγνωσαν: whereas the other side of the same truth, σύ με ἀπέστειλας, the act of the Father unseen by us, is more a matter of pure faith, ἐπίστευσαν."
 3. "In the first, the ἔγνωσαν ἀληθῶς stamps our Lord’s approval on their knowledge, and distinguishes it from such knowledge as the bare οἴδαμεν of Nicodemus and his colleagues."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They . . . have known surely that I came out from thee." This quote highlights the awareness of the disciples that Jesus came from God, emphasizing his divine origin and mission.
 
 2. "They . . . have known surely." This phrase emphasizes the certainty and conviction with which the disciples understood Jesus' divine nature and purpose.
@@ -59,4 +59,4 @@ The verse being described is centered around the disciples' reception and unders
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

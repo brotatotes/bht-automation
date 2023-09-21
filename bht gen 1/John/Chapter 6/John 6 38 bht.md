@@ -4,7 +4,7 @@
 In this verse, the commentator highlights the selflessness of Jesus, emphasizing that His purpose was not to fulfill His own desires, but to fulfill the will of the One who sent Him. Jesus' mission was to reconcile both the divine and human aspects of salvation, bridging the gap between God and humanity. The commentary also sheds light on the deep satisfaction and joy that Jesus finds in fulfilling the Father's desires, as well as the amazing grace and condescension displayed in His descent from heaven to fulfill His mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I came down from heaven not to do Mine own will—to play an independent part." This quote highlights the selflessness of Jesus, emphasizing that His purpose was not to fulfill His own desires, but to fulfill the will of the One who sent Him.
 
 2. "In respect to both the foregoing things, the divine and the human side of salvation." This quote suggests that Jesus' mission was to reconcile both the divine and human aspects of salvation, bridging the gap between God and humanity.
@@ -47,4 +47,4 @@ In this verse, the commentator highlights the selflessness of Jesus, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

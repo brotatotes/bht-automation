@@ -9,7 +9,7 @@ In this verse, we see Jesus exemplify patience and restraint in the face of insu
 2. "When suffering threatened not" - This highlights Jesus' ability to endure suffering without resorting to threats or retaliation, emphasizing his extraordinary self-control.
 3. "Delivered them up to Him that judgeth righteously" - This phrase suggests that Jesus entrusted the judgment of those who persecuted him to God, acknowledging God's role as the ultimate and fair judge.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Threats of divine judgment against oppressors are often used by those who have no other arms, as for instance, slaves."
 2. "Christ, who as Lord could have threatened with truth, never did so."
 3. "Leave your case in His hands, not desiring to make Him executioner of your revenge, but rather praying for enemies."
@@ -48,4 +48,4 @@ In this verse, we see Jesus exemplify patience and restraint in the face of insu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

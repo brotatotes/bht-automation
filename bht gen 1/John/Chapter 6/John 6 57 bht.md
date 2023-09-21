@@ -9,7 +9,7 @@ The verse being described highlights the close relationship between Jesus and th
 2. "Joh 6:58 forms the solemn conclusion of the discourse, referring back to the Bread with which it began and to its difference from the perishable food which they had extolled: and setting forth the infinite superiority of its effects over those of that sustenance." 
 3. "καθώς must = τοιοῦτος, ὅν: if ὑμῶν τὸ μάννα (see digest) is to stand, the construction must be filled up οὐ καθὼς τὸ μ . ὃ ἔφ . κ . τ . λ ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the living Father hath sent me—to communicate His own life."
 2. "My life and His being one, but Mine that of a Son, whose it is to be 'of the Father.'"
 3. "He that eateth me, . . . shall live by me—literally, 'because of Me.'"
@@ -57,4 +57,4 @@ The verse being described highlights the close relationship between Jesus and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a beggar approaches Peter and John as they enter the temple
 2. "ἐλεημ" - This term, translated as "alms," is used in the context of asking for charity, indicating the act of seeking assistance from others. (Quote 2)
 3. The Jewish forms of asking for alms are described, providing cultural background and further illustrating the practice of seeking help from others. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter and John—already associated by their Master, first with James, then by themselves. Now we find them constantly together." 
 
 2. "John (yet young) only as a silent actor."
@@ -49,4 +49,4 @@ In this Bible verse, a beggar approaches Peter and John as they enter the temple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, believers are described as triumphantly overcoming the worl
 2) "Through this belief we are born again as sons of God; we have Him in us, One greater than he who is in the world." 
 3) "What other person can do it? Who that believes this, can fail to do it?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confirming, by a triumphant question defying all contradiction" - The commentary emphasizes the confident and unshakable nature of the question posed in 1 John 5:4, highlighting the certainty of the victory that faith brings.
 
 2. "the victory which overcomes the world is faith" - This quote emphasizes the central theme of the verse, that faith is the key to overcoming the challenges and temptations of the world.
@@ -50,4 +50,4 @@ In this Bible verse, believers are described as triumphantly overcoming the worl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

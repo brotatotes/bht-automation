@@ -9,7 +9,7 @@ The verse being described underscores the importance of maintaining peace, harmo
 2. "In all the churches of the saints, God is a God of peace: let Him not among you be supposed to be a God of confusion."
 3. "It is more in accordance with St. Paul’s style, to place the main subject of a new sentence first."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God is a God of peace; let Him not among you be supposed to be a God of confusion." This quote highlights the contrast between peace and confusion, emphasizing the importance of maintaining order and harmony in the church.
 
 2. "As in all churches of the saints, let your women keep silence in your churches." This quote suggests that the practice of women keeping silent in the churches was a common tradition observed in other churches as well.
@@ -52,4 +52,4 @@ The verse being described underscores the importance of maintaining peace, harmo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the early Christian church, the selection of Matthias as an apostle was not l
 2. "The lot being regarded as the divine choice, the suffrages of the assembly were unanimously given (not in form, but by cheerful acquiescence) to the candidate thus chosen." 
 3. "We have the precedent, of all others most applicable, of the twelve tribes, to show that the number, though ever nominally kept, was really exceeded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of numbering or voting in Matthias by general suffrage demonstrates the importance of community involvement and consensus in the early Christian church." 
 2. "The addition of Matthias to the eleven apostles not only filled the void left by Judas Iscariot but also symbolized the restoration and completion of the Twelve, a significant number in Jewish tradition." 
 3. "This event highlights the significance of unity and the collective decision-making process in the early Christian community, emphasizing the importance of working together to fulfill God's purposes."
@@ -47,4 +47,4 @@ In the early Christian church, the selection of Matthias as an apostle was not l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

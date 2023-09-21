@@ -4,7 +4,7 @@
 In this verse, we see the malicious and vengeful nature of Herodias, as she not only plotted against John the Baptist but also took pleasure in the brutal act of his beheading. The gruesome sight of John's head brought in a charger reveals the extent of Herodias' revenge and the loyalty of her daughter, who willingly carried out her mother's wicked desires. This event serves as a chilling reminder of the consequences of unchecked power and the depths to which people will go to fulfill their own selfish ambitions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herodias did not shed the blood of the stern reprover; she only got it done." 
 2. "She gloated over it, as it streamed from the trunkless head." 
 3. "Herodias's actions reveal her malicious and vengeful nature."
@@ -25,4 +25,4 @@ In this verse, we see the malicious and vengeful nature of Herodias, as she not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

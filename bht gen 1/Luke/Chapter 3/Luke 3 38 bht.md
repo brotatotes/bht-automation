@@ -4,7 +4,7 @@
 The verse being described focuses on the significance of calling Jesus the "Son of God" and the intimate relationship this title implies between Jesus and God the Father. It emphasizes Jesus' divine nature, authority, power, and his unique position as the second Adam, sent to redeem fallen humanity. This title also reflects the special relationship between God and Adam, with Adam being called the "son of God" and receiving everything directly from God, except sin and misery. It further emphasizes that sin and misery were not part of God's original plan for humanity, but were introduced through Adam's disobedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The title 'Son of God' is significant because it points to Jesus' divine nature and his unique relationship with God the Father." 
 
 2. "By calling Jesus the 'Son of God,' the author of the Gospel is emphasizing Jesus' authority, power, and divine identity." 
@@ -30,4 +30,4 @@ The verse being described focuses on the significance of calling Jesus the "Son 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

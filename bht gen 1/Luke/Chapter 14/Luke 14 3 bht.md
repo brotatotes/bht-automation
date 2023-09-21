@@ -4,7 +4,7 @@
 In this verse, Jesus astutely addresses the unspoken thoughts and concerns of those around him, revealing his deep understanding and divine authority. He skillfully responds to their unspoken questions and conflicts, navigating between the boundaries of the law and compassion. By perceiving their designs and desires, Jesus guides the conversation and challenges them to evaluate their own motives. This encounter showcases Jesus' wisdom, compassion, and mastery over the intricate dynamics of the human heart.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you mentioned. Please provide the commentary so that I can extract the best parts for you.
 
 ### Albert Barnes:
@@ -41,4 +41,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Please provide the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

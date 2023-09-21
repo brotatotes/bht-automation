@@ -9,7 +9,7 @@ This verse describes a group that is facing opposition and skepticism from socie
 2. "Many Commentators have noticed the omission of all mention of the Christian Church at Rome, and of Paul’s connexion with or work among them."
 3. "One great object of this history is to shew forth Paul as working out the Lord’s implied command, to preach the Gospel ‘to the Jew first, and also to the Gentile,’ and, having every where done this, it is but natural that he should open his commission in Rome by assembling and speaking to the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We desire to hear of thee what thou thinkest" - This quote highlights the openness and curiosity of the audience, showing their willingness to listen and learn from Paul's perspective. It also suggests that they value different viewpoints and are open to engaging in meaningful discussions.
 
 2. "The apparent freedom from prejudice here expressed" - This quote emphasizes the audience's willingness to set aside any preconceived notions or biases they may have had. It suggests that they are open-minded and willing to consider new ideas and perspectives.
@@ -52,4 +52,4 @@ This verse describes a group that is facing opposition and skepticism from socie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

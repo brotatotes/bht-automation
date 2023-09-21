@@ -9,7 +9,7 @@ In this verse, a devout man named Symeon receives a revelation from the Holy Spi
 2. "Analogous to that higher form of the spiritual life expressed in the earliest days by walking with God."
 3. "God’s saints have often been directed and informed in an extraordinary manner by His Holy Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "revealed by the Holy Ghost—implying, beyond all doubt, the personality of the Spirit."
 2. "should see not death till he had seen—'sweet antithesis!' [BENGEL]."
 3. "How would the one sight gild the gloom of the other! He was, probably, by this time, advanced in years."
@@ -49,4 +49,4 @@ Overall, these quotes shed light on the concept of divine revelation and the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

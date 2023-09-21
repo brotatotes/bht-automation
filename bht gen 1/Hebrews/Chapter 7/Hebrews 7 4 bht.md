@@ -9,7 +9,7 @@ Consider the remarkable distinction and exalted rank of Melchizedek, the priest 
 2. "Let it be noticed that the argument still puts forward the personal dignity of Melchisedek, in a way quite inconsistent with the commonly received interpretation of the predicates above."
 3. "This general sense does not indeed appear in classic Greek, nor elsewhere in Hellenistic: and when Hesych. and Phavorinus give as alternative meanings, σκῦλα, and τὰ ἀπὸ τῶν πολέμων λάφυρα, it is probable that this passage was before them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consider—not merely see, but weigh with attentive contemplation, the fact."
 2. "He paid 'tithes of ALL,' and those tithes were taken out of the topmost and best portion of the whole spoils."
 3. "And this payer of tithe being no less a personage than 'the patriarch,' the first forefather and head of our Jewish race and nation."
@@ -54,4 +54,4 @@ Consider the remarkable distinction and exalted rank of Melchizedek, the priest 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the profound unity and shared ownership between the Father and th
 
 3. "ἐν αὐτοῖς, not 'by their means,' but in them; by that ἐγὼ ἐν αὐτοῖς of John 17:23, the life of the vine in the branches; so that the fruit of the branches is the glory of the vine, by the sap of the vine living in the branches. All this again is proleptic."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All Mine are Thine and Thine are Mine." - This quote emphasizes the absolute community of property between the Father and the Son, highlighting their unity and shared ownership.
 2. "Absolute COMMUNITY OF PROPERTY between the Father and the Son is here expressed as nakedly as words can do it." - This quote further emphasizes the concept of complete shared ownership between the Father and the Son, emphasizing the depth of their unity.
 3. "All My things are Thine and Thy things are Mine." - This quote reiterates the idea of shared ownership, emphasizing the mutual possession between the Father and the Son.
@@ -54,4 +54,4 @@ These quotes shed light on the deep theological implications of the verse, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

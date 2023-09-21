@@ -9,7 +9,7 @@ The verse being described here focuses on the distinction between worldly sorrow
 2. "Salvation which none will ever regret having attained, however difficult it may have been to reach, however dearly it may have been bought."
 3. "The grief felt by the children of this world can only result in eternal banishment from God's presence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sorrow" is not repentance, but, where it is "godly," "worketh" it; that is, contributes or tends to it.
 2. "Repentance" implies a coming to a right mind; "regret" implies merely uneasiness of feeling at the past or present.
 3. "Repentance" removes the impediments in the way of "salvation" (to which "death," namely, of the soul, is opposed).
@@ -53,4 +53,4 @@ The verse being described here focuses on the distinction between worldly sorrow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

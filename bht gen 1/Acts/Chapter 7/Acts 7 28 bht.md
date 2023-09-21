@@ -4,7 +4,7 @@
 In a moment of secrecy and assumption, Moses believed his act of killing the Egyptian had gone unnoticed, only to be startled by the revelation that his actions were known. The fear and concern expressed by the Israelite witness magnify the potential danger he may face. The unexpected confrontation leads Moses to question his own fate, as the accusation of wanting to kill him strikes with intensity and immediacy. The gravity of the situation becomes evident, emphasizing the seriousness of the act itself, regardless of the method employed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses had thought the deed unseen" - This quote highlights Moses' initial belief that his act of killing the Egyptian was done in secret, emphasizing his surprise when he realizes that his actions were known.
 2. "It now appeared he was mistaken" - This quote suggests that Moses' assumption of secrecy was incorrect, indicating a shift in his understanding of the situation and the potential consequences of his actions.
 3. "Wilt thou kill me, as thou didst the Egyptian yesterday?" - This quote captures the fear and concern expressed by the Israelite who witnessed Moses' act, revealing the potential danger Moses may face as a result of his past actions.
@@ -32,4 +32,4 @@ In a moment of secrecy and assumption, Moses believed his act of killing the Egy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

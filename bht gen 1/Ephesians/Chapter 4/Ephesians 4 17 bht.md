@@ -9,7 +9,7 @@ The Bible verse being described here speaks to the importance of living a worthy
 2. "The μηκέτι περιπατ . here is only the negative side of, and therefore subordinate to, the ἀξίως περιπ . of Ephesians 4:1."
 3. "The Apostle is here treating, not so much of the life of God in Christ which is regenerated in believers, as of the original state of man, when God was his Life and Light, before the irruption of darkness into human nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Testify in the Lord—in whom (as our element) we do all things pertaining to the ministry." 
 2. "No longer in the vanity, c.—as their element: opposed to 'in the Lord.'"
 3. "The root of it is departure from the knowledge of the true God."
@@ -55,4 +55,4 @@ Note: The commentary seems to be explaining the grammatical structure and meanin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

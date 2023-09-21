@@ -4,7 +4,7 @@
 In this Bible verse, the commentator remarks on the anticipation and divine knowledge of Jesus, who knew Peter's thoughts and intentions before he expressed them. The verse highlights the act of Jesus paying the tax, affirming his willingness to forgo his right to exemption by voluntarily submitting to the tribute. It also draws a parallel between earthly kings and Jesus, asserting that kings do not tax their own family members but rather impose taxes on subjects who are not part of their family.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be sure He does" - eager to remove even the suspicion of the contrary.
 2. "This reply must be regarded as a great act of faith in his Master."
 3. "Jesus prevented him - anticipated him."
@@ -45,4 +45,4 @@ In this Bible verse, the commentator remarks on the anticipation and divine know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

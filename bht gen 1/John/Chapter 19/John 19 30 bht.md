@@ -9,7 +9,7 @@ In the final moments of Jesus' life on the cross, he uttered the words "It is fi
 2. "κλίνας τ. κεφαλήν] We have the minuteness of an eye-witness, on whom every particular of this solemn moment made an indelible impression."
 3. "παρέδωκεν τὸ πνεῦμα viz. in the words given by Luke, πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμα, which was also the φωνὴ μεγάλη of Matt. and Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What is finished? The Law is fulfilled as never before, nor since, in His 'obedience unto death, even the death of the cross'." 
 2. "Redemption is completed; 'He hath finished the transgression, and made reconciliation for iniquity, and brought in everlasting righteousness, and sealed up the vision and prophecy, and anointed a holy of holies'." 
 3. "He has inaugurated the kingdom of God and given birth to a new world."
@@ -54,4 +54,4 @@ These quotes highlight the significance of Jesus' final words and actions, portr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

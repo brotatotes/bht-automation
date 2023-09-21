@@ -4,7 +4,7 @@
 In this poignant verse, the successful preaching of the Gospel stirs opposition among those who were once favorably disposed. With eagerness, the disciples approached Jesus, seeking his guidance, but he did not grant their request. Aquila and Priscilla, entrusted with continuing the work, were left behind as Paul hurriedly pursued his divine mission. The passage reveals the clashes between the rising influence of the Gospel and the resistance it provokes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up." 
 2. "There was no time for that here." 
 3. "The successful preaching of the Gospel can provoke opposition and resistance."
@@ -32,4 +32,4 @@ In this poignant verse, the successful preaching of the Gospel stirs opposition 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

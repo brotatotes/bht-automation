@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the importance of fidelity and integrity in all aspects of life. They encourage believers to be faithful and trustworthy, displaying softness and kindness in their interactions. Furthermore, they emphasize the need for believers to live in a way that reflects and enhances the teachings of their faith, serving as an example that brings honor and glory to God. Ultimately, this verse serves as a reminder to live with integrity and to let our actions adorn the doctrine of our Savior.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not appropriating" what does not belong to one.
 2. "Showing" in acts.
 3. "That they may adorn the doctrine of our Saviour God."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of fidelity and integrity i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

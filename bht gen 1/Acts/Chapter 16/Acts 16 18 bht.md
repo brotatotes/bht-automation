@@ -9,7 +9,7 @@ In this Bible verse, a group of commentators expresses their observations and in
 2. "The Christian soldier was goaded to the attack, but the mere satisfaction of anger was not the object, any more than the result, of the stroke."
 3. "It is much the best to take τῷ πνεύματι with εἶπεν, and believe it to be thrown forward before its verb for the sake of emphasis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul being grieved—for the poor victim" - This quote highlights Paul's empathy and compassion for the person who was being influenced by the enemy. It shows his concern for their well-being and his desire to help them find salvation.
 
 2. "grieved to see such power possessed by the enemy of man's salvation" - This quote emphasizes Paul's distress at witnessing the power and influence of the enemy in hindering people from finding salvation. It reveals his deep understanding of the spiritual battle between good and evil.
@@ -50,4 +50,4 @@ In this Bible verse, a group of commentators expresses their observations and in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

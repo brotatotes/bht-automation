@@ -4,7 +4,7 @@
 In this verse, the grandeur of the language points towards an event beyond time, yet it also refers to the destruction of Jerusalem and Christ's final coming. Distress and perplexity will grip the people, in a state of being lost, as they witness the roaring of the sea. The signs mentioned here are distinct from those in other scriptures, and there will be darkened and surprising eclipses. This verse serves as a reminder of the great day to come, paralleled with the destruction of Jerusalem.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the grandeur of this language carries the mind over the head of all periods but that of Christ's second coming." 
 2. "Nearly every expression will be found used of the Lord's coming in terrible national judgments, as of Babylon, &c." 
 3. "Its immediate reference was to the destruction of Jerusalem, though its ultimate reference beyond doubt is to Christ's final coming."
@@ -33,4 +33,4 @@ In this verse, the grandeur of the language points towards an event beyond time,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this particular Bible verse, we witness Jesus experiencing a deep and profoun
 2. "I would thus divest the self-restraint of all stoical and unworthy character, and consider it as merely physical, requiring indeed an act of the will, and a self-troubling, a complication of feeling, but implying no deliberate disapproval of the rising emotion."
 3. "Indignation over unbelief and sin, and death the fruit of sin, doubtless lay in the background; but to see it in the words seems unnatural."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tears of Mary and her friends acting sympathetically upon Jesus, and drawing forth His emotions. What a vivid and beautiful outcoming of His 'real' humanity!"
 2. "The word here rendered 'groaned' does not mean 'sighed' or 'grieved,' but rather 'powerfully checked his emotion'—made a visible effort to restrain those tears which were ready to gush from His eyes."
 3. "And was troubled—rather, 'troubled himself' (Margin); referring probably to this visible difficulty of repressing His emotions."
@@ -55,4 +55,4 @@ In this particular Bible verse, we witness Jesus experiencing a deep and profoun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

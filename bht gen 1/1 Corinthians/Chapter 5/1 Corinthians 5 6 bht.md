@@ -9,7 +9,7 @@ In this Bible verse, commentators express concern over the Corinthians' tendency
 2. "Are you not aware that a little leaven imparts a character to the whole lump?"
 3. "One of them was a fornicator of a fearfully depraved kind, tolerated and harboured: by this fact, the character of the whole was tainted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your glorying in your own attainments and those of your favorite teachers, while all the while ye connive at such a scandal, is quite unseemly." 
 
 2. "A little leaven leaveth... whole lump." 
@@ -57,4 +57,4 @@ In this Bible verse, commentators express concern over the Corinthians' tendency
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

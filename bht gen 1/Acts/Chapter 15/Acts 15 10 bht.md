@@ -9,7 +9,7 @@ The verse being described in this paragraph is about questioning why one would t
 2. "Peter could not be so much referring to the mere outward observance of ceremonies, but to the imposition of the law, as a condition of salvation, on the consciences of the disciples."
 3. "This being so, οὔτε … βαστάσαι will refer, not to the burdensomeness of ceremonies, but to the far more grievous burden of legal death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why tempt—'try,' 'provoke' ye God—by standing in the way of His declared purpose."
 2. "It was not then the mere yoke of burdensome ceremonies, but of an obligation which the more earnest and spiritual men became, the more impossible they felt it to fulfil."
 3. "He that was circumcised became thereby bound to keep the whole law."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the burden of the law and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

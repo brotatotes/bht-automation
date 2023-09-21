@@ -9,7 +9,7 @@ After witnessing the empty tomb, the disciples returned to their homes, having a
 2. "This is remarkable, as he evidently has a fragment of the same incident." The fact that Luke includes a fragment of the same incident as the other passage highlights the significance of this event in the overall narrative.
 3. "πρὸς ἑαυτ ., to their lodging." This phrase indicates that the individuals mentioned in the passage went back to their lodging, providing additional context for the actions described.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These particulars have a singular air of artless truth about them."
 2. "The younger disciple outruns the older; love haply supplying swifter wings."
 3. "He stoops, he gazes in, but enters not the open sepulchre, held back probably by a reverential fear."
@@ -47,4 +47,4 @@ After witnessing the empty tomb, the disciples returned to their homes, having a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

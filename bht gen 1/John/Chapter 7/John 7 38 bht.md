@@ -4,7 +4,7 @@
 Out of the believer's innermost being shall flow rivers of living water, as scripture has proclaimed. This water is a representation of the grace and blessings that believers receive through faith in Jesus Christ. This abundant and life-giving water not only satisfies their own spiritual thirst, but also overflows to bring refreshment and blessings to others. It is a continual outpouring of the Holy Spirit, like a living and constantly flowing fountain, that nourishes and brings life to all who encounter it.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Out of his belly, as the scripture hath said, shall flow," c. referring not to any particular passage, but to such as Isaiah 58:11, Joel 3:18, Zechariah 14:8, Ezekiel 47:1-12; in most of which the idea is that of waters issuing from beneath the temple, to which our Lord compares Himself and those who believe in Him."
 2. "Out of his belly—that is, his inner man, his soul, as in Ezekiel 47:1-26.47.12- :."
 3. "Rivers of living water—It refers primarily to the copiousness, but indirectly also to the diffusiveness, of this living water to the good of others."
@@ -51,4 +51,4 @@ Out of the believer's innermost being shall flow rivers of living water, as scri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

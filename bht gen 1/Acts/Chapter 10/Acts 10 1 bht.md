@@ -9,7 +9,7 @@ In a renowned city called Caesarea, which was inhabited by both Gentiles and Jew
 2. "It was chiefly inhabited by Gentiles, but there were also many thousand Jewish inhabitants."
 3. "It was built by Herod the Great and in honor of Cæsar Augustus named Cæsarea."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cæsarea—(See on  :-)." 
 2. "the Italian band—a cohort of Italians, as distinguished from native soldiers, quartered at Cæsarea, probably as a bodyguard to the Roman procurator who resided there."
 3. "An ancient coin makes express mention of such a cohort in Syria."
@@ -48,4 +48,4 @@ In a renowned city called Caesarea, which was inhabited by both Gentiles and Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

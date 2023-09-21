@@ -9,7 +9,7 @@ This verse showcases the compassionate and forgiving nature of Jesus towards his
 2. "The passages are distinctly consecutive, and moreover both are in the well-known style of Matthew."
 3. "There is perhaps more probability that this may be the same appearance as that in John 20:11-18, on account of μή μου ἅπτου there and τοὺς ἀδελφ . μου, but in our present imperfect state of information, this must remain a mere probability."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not afraid—What dear associations would these familiar words—now uttered in a higher style, but by the same Lips—bring rushing back to their recollection!"
 2. "Go tell my brethren that they go into Galilee, and there shall they see me—The brethren here meant must have been His brethren after the flesh."
 3. "The whole of this important portion is peculiar to Matthew."
@@ -52,4 +52,4 @@ This verse showcases the compassionate and forgiving nature of Jesus towards his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

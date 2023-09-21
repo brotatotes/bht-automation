@@ -9,7 +9,7 @@ The verse being described emphasizes the significance of our perception and its 
 2. "I will have a treasure on earth and a treasure in heaven also: a divided affection."
 3. "This is dealt with, and its impracticability shewn by a parable from nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thy treasure—thy heart" is probably the true reading here: "your," in :-, from which it seems to have come in here.
 2. "What a man loves, that is his God. For he carries it in his heart, he goes about with it night and day, he sleeps and wakes with it; be it what it may—wealth or pelf, pleasure or renown." - Luther
 3. Many flatter themselves that all is right between them and God, while their closest attention, anxiety, zeal, and time are exhausted upon these earthly pursuits.
@@ -46,4 +46,4 @@ The verse being described emphasizes the significance of our perception and its 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

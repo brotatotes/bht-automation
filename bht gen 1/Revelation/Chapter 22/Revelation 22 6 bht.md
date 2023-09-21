@@ -4,7 +4,7 @@
 The concluding verses of this book affirm the faithfulness and truth of all that has been revealed, echoing the introduction and shedding light on the entire book. The prophecies and visions are not only trustworthy but will also be surely accomplished. The Lord, the God of the prophets, has sent His angel to show His servants what will shortly come to pass. These events will be fulfilled without delay, carrying out God's purposes in a timely manner.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For we are slow to believe that God is as good as He is. The news seems to us, habituated as we are to the misery of this fallen world, too good to be true." [NANGLE]
 
 2. "They are no dreams of a visionary, but the realities of God's sure word." 
@@ -52,4 +52,4 @@ These quotes shed light on the role of God as the source of inspiration for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

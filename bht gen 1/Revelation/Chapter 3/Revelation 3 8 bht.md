@@ -4,7 +4,7 @@
 In this passage, commentators emphasize the open door as a symbol of privilege, opportunity, and access granted by God. It represents the joy of the Lord, initiation into scripture's meaning, and the chance for missionary work. The believers in Philadelphia may have had limited strength and resources, but they faithfully kept God's word amidst persecution. Despite their small numbers, they were capable of doing good works and continuing to obey and proclaim God's name.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The opening of a door by Him to the Philadelphian Church accords with the previous assignation to Him of 'the key of David.'"
 2. "Being consciously weak herself, she is the fitter object for God's power to rest on, that so the Lord Christ may have all the glory."
 3. "Thou didst keep...didst not deny My name": alluding to some particular occasion when her faithfulness was put to the test.
@@ -47,4 +47,4 @@ In this passage, commentators emphasize the open door as a symbol of privilege, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

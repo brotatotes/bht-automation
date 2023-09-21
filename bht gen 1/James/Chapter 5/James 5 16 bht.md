@@ -9,7 +9,7 @@ In this verse, believers are encouraged to confess their faults to one another, 
 2. "The supplication of a righteous man availeth much in its working." 
 3. "The prayer of the righteous can do much in its working."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confess, therefore, not only in the particular case of sickness, but universally confess your faults—your falls and offenses, in relation to one another." 
 2. "Confession is desirable in the case of (1) wrong done to a neighbor; (2) when under a troubled conscience we ask counsel of a godly minister or friend as to how we may obtain God's forgiveness and strength to sin no more; (3) open confession of sin before the Church and the world, in token of penitence."
 3. "That ye may be healed—of your bodily sicknesses. Also that, if your sickness be the punishment of sin, the latter being forgiven on intercessory prayer, 'ye may be healed' of the former. Also, that ye may be healed spiritually."
@@ -60,4 +60,4 @@ These quotes highlight the importance of confessing sins to one another for forg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

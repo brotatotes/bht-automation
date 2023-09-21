@@ -4,7 +4,7 @@
 This powerful verse speaks of a future time when a false prophet will perform miracles, claiming divine authority, and even causing images to speak. The verse implies that this false prophet will deceive many through his magical tricks, similar to the tricks performed by pagan priests. The verse also highlights the significance of refusing to worship the image, as it can lead to severe consequences, even death. Overall, this verse serves as a reminder of the dangers of false doctrine and the importance of discerning the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "False doctrine will give a spiritual, philosophical appearance to the foolish apotheosis of the creaturely personified by Antichrist."
 2. "Antichrist shall be 'one of the human race in whom the whole of Satan shall dwell bodily.'"
 3. "Rome's speaking images and winking pictures of the Virgin Mary and the saints are an earnest of the future demoniacal miracles of the false prophet in making the beast's or Antichrist's image to speak."
@@ -38,4 +38,4 @@ This powerful verse speaks of a future time when a false prophet will perform mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

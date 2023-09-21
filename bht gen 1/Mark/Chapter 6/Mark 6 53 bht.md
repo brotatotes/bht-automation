@@ -9,7 +9,7 @@ In this verse, the disciples make their way to the land of Gennesaret, arriving 
 2. "we can hardly make the distinction in English" - This quote acknowledges the difficulty in accurately translating the meaning of the word "ἐπί" into English, emphasizing the need for careful interpretation.
 3. "‘towards,’ or ‘off’ would not indicate enough" - This quote explains why alternative translations like 'towards' or 'off' would not fully capture the intended meaning of the word "ἐπί" in the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And when they had passed over, they came into the land of Gennesaret" - This verse reveals the geographical location of the event, highlighting the significance of Gennesaret as the setting for the following events.
 
 2. "Capernaum was their landing-place" - The mention of Capernaum as the landing-place provides context and helps the reader understand the specific location where Jesus and his disciples arrived.
@@ -51,4 +51,4 @@ In this verse, the disciples make their way to the land of Gennesaret, arriving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

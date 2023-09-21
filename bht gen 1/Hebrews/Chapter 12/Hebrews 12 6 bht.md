@@ -11,7 +11,7 @@ The Bible verse, without specifically stating which verse it is, describes God's
 
 3. "He takes to him as a veritable son, receives in his heart and cherishes." - This description portrays God's relationship with His children as one of deep affection and care. He not only disciplines them, but also embraces them as His own and treasures them in His heart.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "and—Greek, 'yea and,' 'and moreover'; bringing out an additional circumstance."
 2. "scourgeth—which draws forth 'blood' (Hebrews 12:4)."
 3. "Takes to Himself as a son 'in whom He delighteth' (Proverbs 3:12)."
@@ -61,4 +61,4 @@ The Bible verse, without specifically stating which verse it is, describes God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

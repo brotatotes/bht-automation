@@ -9,7 +9,7 @@ The verse being described is a powerful statement about the purpose of Jesus' in
 2. "The most palpable violations of the construction and sense are made by the rationalists."
 3. "It is only by holding fast here the personal reference to Christ in himself, that we keep the logical coherence between that verse and this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very object of Christ's manifestation in the flesh was to take away all sins, as the scapegoat did typically."
 2. "In him is no sin, not 'was,' but 'is,' as in 1 John 2:1, 'He is righteous,' and 1 John 3:3, 'He is pure.' Therefore we are to be so."
 3. "Additional proof of the incompatibility of sin and sonship."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

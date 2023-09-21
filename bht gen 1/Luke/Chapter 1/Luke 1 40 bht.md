@@ -4,7 +4,7 @@
 In this verse, two women, Mary and Elisabeth, share a profound connection as expectant mothers. Mary's visit to Elisabeth brings confirmation of the angel's message and a sense of joy and reality to the promises they have received. This encounter, divinely orchestrated and steeped in reverence, shows the support and mutual understanding between these women in their unique roles in God's plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saluted Elisabeth" - This gesture of greeting and respect indicates the deep connection and mutual support between Mary and Elizabeth, highlighting the importance of their roles in God's plan.
 
 2. "Returned from her seclusion" - Elizabeth's withdrawal from society during her pregnancy suggests a period of preparation and reflection, emphasizing the significance of the upcoming events and the divine intervention taking place.
@@ -44,4 +44,4 @@ In this verse, two women, Mary and Elisabeth, share a profound connection as exp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

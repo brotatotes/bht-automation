@@ -9,7 +9,7 @@ This verse portrays the exalted position of the Messiah, both the Son of David a
 2. "The contrast between the suffering and triumphant Christ."
 3. "The One God being all in all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son waits till the Father shall 'send Him forth to triumph over all His foes.' He is now sitting at rest, invisibly reigning, and having His foes virtually, by right of His death, subject to Him."
 2. "His present sitting on the unseen throne is a necessary preliminary to His coming forth to subject His foes openly."
 3. "Eastern conquerors used to tread on the necks of the vanquished, as Joshua did to the five kings. So Christ's total and absolute conquest at His coming is symbolized."
@@ -53,4 +53,4 @@ This verse portrays the exalted position of the Messiah, both the Son of David a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

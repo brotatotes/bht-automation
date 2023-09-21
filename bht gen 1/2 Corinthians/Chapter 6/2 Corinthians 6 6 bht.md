@@ -9,7 +9,7 @@ This verse describes a life characterized by purity, knowledge, kindness, and lo
 2. "knowledge of the Gospel, in a high and singular degree." 
 3. "kindness: a kind and considerate demeanour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In . . . in," implying not the instrument, but the sphere or element in which his ministry moved.
 2. "knowledge—spiritual: in Gospel mysteries, unattainable by mere reason."
 3. "long-suffering . . . kindness—associated with 'charity' or 'love', as here."
@@ -54,4 +54,4 @@ This verse describes a life characterized by purity, knowledge, kindness, and lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

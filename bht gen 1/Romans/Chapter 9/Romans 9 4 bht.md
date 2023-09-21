@@ -9,7 +9,7 @@ The verse being described talks about the privileges and glories of the Israelit
 2. "The punctuation and application of this doxology have been much disputed." 
 3. "The rendering given above is then not only that most agreeable to the usage of the Apostle, but the only one admissible by the rules of grammar and arrangement."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Compared with the new economy, the old was a state of minority and pupilage, and so far that of a bond-servant; yet, compared with the state of the surrounding heathen, the choice of Abraham and his seed was a real separation of them to be a Family of God."
 2. "The glory of the Lord, or visible token of the Divine Presence in the midst of them, which rested on the ark and filled the tabernacle during all their wanderings in the wilderness."
 3. "The covenants of promise to which the Gentiles before Christ were strangers, meaning the one covenant with Abraham in its successive renewals."
@@ -56,4 +56,4 @@ The verse being described talks about the privileges and glories of the Israelit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

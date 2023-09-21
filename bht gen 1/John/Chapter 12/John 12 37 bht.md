@@ -9,7 +9,7 @@ In the face of countless and remarkable miracles, the Jewish nation remained obs
 2. "The generality did not [believe]." 
 3. "They did not, as a people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He casts an affecting glance over the fruitlessness of His whole ministry on the bulk of the now doomed people."
 2. "Having arrived at what was virtually the close of our Lord's public ministry."
 3. "The word used suggests the nature as well as the number of the miracles performed."
@@ -56,4 +56,4 @@ In the face of countless and remarkable miracles, the Jewish nation remained obs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

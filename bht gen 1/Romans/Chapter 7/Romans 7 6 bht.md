@@ -9,7 +9,7 @@ Believers are delivered from the old covenant of the law, enabling them to live 
 2. "So that we serve in the newness of the Spirit and not in the oldness of the letter." 
 3. "The law being only a collection of precepts and prohibitions, but the Gospel a service of freedom, ruled by the Spirit, whose presence is liberty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we are delivered from the law—The word is the same which, in James 1:15- : and elsewhere, is rendered 'destroyed,' and is but another way of saying (as in Romans 7:4) that 'we were slain to the law by the body of Christ'; language which, though harsh to the ear, is designed and fitted to impress upon the reader the violence of that death of the Cross, by which, as by a deadly wrench, we are 'delivered from the law.'" 
 
 2. "that being dead wherein we were held—It is now universally agreed that the true reading here is, 'being dead to that wherein we were held.' The received reading has no authority whatever, and is inconsistent with the strain of the argument; for the death spoken of, as we have seen, is not the law's, but ours, through union with the crucified Saviour."
@@ -59,4 +59,4 @@ Believers are delivered from the old covenant of the law, enabling them to live 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

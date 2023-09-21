@@ -9,7 +9,7 @@ This passage describes the rejection and exaltation of a chosen leader, parallel
 2. "The difficulty of ἀπέσταλκεν has caused it to be altered into the historic tense, ἀπέστειλεν. But the perf. sets forth not only the fact of God’s sending Moses then, but the endurance of his mission till now."
 3. "Him hath God sent: with a closer reference than before, to Him whom God had now exalted as the true ἄρχοντα κ. λυτρωτήν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the stone which the builders refused is made the head of the corner" - This quote highlights the rejection of Moses by the Israelites, paralleling the rejection of Jesus by the religious leaders. It emphasizes the theme of God's chosen ones being rejected by those who should have recognized and accepted them.
 
 2. "This Moses whom they refused" - This quote emphasizes the disbelief and rejection of Moses as a leader and judge by the Israelites. It highlights the irony that the very person they rejected became the instrument of their deliverance.
@@ -57,4 +57,4 @@ These quotes highlight the themes of God's grace towards unworthy individuals, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

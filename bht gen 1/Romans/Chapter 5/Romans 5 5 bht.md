@@ -4,7 +4,7 @@
 The verse being described encompasses the idea that hope does not disappoint, but rather brings glory. It emphasizes the pouring out of God's abundant love in our hearts, giving us a deep sense of his affection. Furthermore, it speaks of the transformative power of this love, which is both the assurance of God's favor and the starting point of heavenly joy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And hope maketh not ashamed—putteth not to shame, as empty hopes do."
 2. "because the love of God—that is, not 'our love to God,' but clearly 'God's love to us.'"
 3. "is shed abroad—literally, 'poured forth,' that is, copiously diffused."
@@ -52,4 +52,4 @@ These quotes highlight the unwavering nature of hope, the abundant love of God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

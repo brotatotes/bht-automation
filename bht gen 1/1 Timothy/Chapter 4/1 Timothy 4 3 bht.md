@@ -4,7 +4,7 @@
 This Bible verse addresses the issue of false asceticism, hypocritical practices, and the restrictions imposed on marriage and dietary choices. It warns against the deception of certain groups, such as the Papists and Gnostics, who forbid marriage and prohibit certain foods. However, it affirms that God created all things to be received with gratitude by those who know the truth. The focus is on the freedom and grace found in embracing God's truth rather than external regulations, highlighting the importance of a pure conscience and thanksgiving.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sensuality leads to false spiritualism."
 2. "By a spurious spiritualism, they pretended to attain to a higher perfection."
 3. "Austerity gained for them a show of sanctity while preaching false doctrine."
@@ -50,4 +50,4 @@ This Bible verse addresses the issue of false asceticism, hypocritical practices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

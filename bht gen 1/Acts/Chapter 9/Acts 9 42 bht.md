@@ -4,7 +4,7 @@
 A notable resurrection takes place, as a servant imitates his Master in kneeling down to perform the miracle, while another's actions contrast with the Lord Himself. The account, filled with vivid details, brings a sense of authenticity. Through this act of raising Lazarus, not only do many believe, but it also impacts the people, advances Jesus' kingdom, comforts the poor, and restores a beloved figure to the Church. The fame of this miracle spreads far and wide, leading many to put their faith in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter put them all forth, and kneeled down—the one in imitation of his Master's way ( :-; and compare 2 Kings 4:33); the other, in striking contrast with it." 
 2. "The kneeling became the lowly servant, but not the Lord Himself, of whom it is never once recorded that he knelt in the performance of a miracle."
 3. "The graphic minuteness of detail here imparts to the narrative an air of charming reality."
@@ -28,4 +28,4 @@ A notable resurrection takes place, as a servant imitates his Master in kneeling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

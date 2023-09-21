@@ -4,7 +4,7 @@
 In this Bible verse, we see that although Jesus is the divine Son of God, He willingly embraced the experience of suffering in order to learn obedience. His sufferings were not only for his own benefit but also to serve as an example for us. Jesus, as our High Priest, went through a special form of submission and obedience through his sufferings, which ultimately perfected him for his role. Through his obedience in suffering and dying, Jesus demonstrated the importance of submitting to God's will, even in the midst of trials and tribulations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though He WAS God's divine Son, yet He learned His obedience, not from His Sonship, but from His sufferings."
 2. "As the Son, He was always obedient to the Father's will; but the special obedience needed to qualify Him as our High Priest, He learned experimentally in practical suffering."
 3. "He was obedient already before His passion, but He stooped to a still more humiliating and trying form of obedience then."
@@ -50,4 +50,4 @@ In this Bible verse, we see that although Jesus is the divine Son of God, He wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

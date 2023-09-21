@@ -9,7 +9,7 @@ In this verse, the challenging circumstances that the Apostle Paul faced are hig
 2. "It does not follow, from the singular being used, that there was but one præfectus prætorio at this time, and that one Burrus; though it may have been so."
 3. "The ‘præfectus prætorio’ was the person officially put in charge with the prisoners sent from the provinces."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The extension of this privilege to the apostle may have been due to the terms in which Festus wrote about him; but far more probably it was owing to the high terms in which Julius spoke of him, and his express intercession in his behalf."
 2. "It was overruled, however, for giving the fullest scope to the labors of the apostle compatible with confinement at all."
 3. "As the soldiers who kept him were relieved periodically, he would thus make the personal acquaintance of a great number of the Prætorian guard; and if he had to appear before the Prefect from time to time, the truth might thus penetrate to those who surrounded the emperor."
@@ -59,4 +59,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

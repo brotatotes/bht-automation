@@ -4,7 +4,7 @@
 In this verse, there is a striking emphasis on divine justice and retribution, highlighting the ultimate fate of those who cause suffering and harm to others. The imagery of captivity and the sword paints a vivid picture of the consequences that await those who lead others astray or engage in violence. Despite the trials and tribulations faced by the saints under the rule of the antichrist, there is a call for patience and faith, knowing that God will judge the earth and bring about justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that leadeth into captivity...shall go into captivity." - This quote highlights the idea that those who cause others to suffer will eventually experience suffering themselves. It emphasizes the concept of divine justice and retribution.
 
 2. "He that killeth with the sword, must be killed with the sword." - This quote further emphasizes the principle of retribution, stating that those who use violence and harm others will ultimately face the same fate. It serves as a warning against the use of force and violence.
@@ -44,4 +44,4 @@ In this verse, there is a striking emphasis on divine justice and retribution, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

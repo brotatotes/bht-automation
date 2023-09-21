@@ -9,7 +9,7 @@ In this particular Bible verse, Jesus is seen teaching openly in the treasury of
 2. "οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ" - This phrase means that Jesus' time had not yet come, as seen in John 7:8 and John 7:30. (Quote 2)
 3. "It was in the court of the women." - This location is significant as it highlights the context of the verse and the setting of the event. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These words spake Jesus in the treasury—a division, so called, of the fore court of the temple, part of the court of the women [JOSEPHUS, Antiquities, 19.6.2, &c.], which may confirm the genuineness of John 8:2-11, as the place where the woman was brought."
 2. "No man laid hands on him, &c.—(See on John 7:30)."
 3. "In the dialogue that follows, the conflict waxes sharper on both sides, till rising to its climax, they take up stones to stone him."
@@ -50,4 +50,4 @@ These quotes highlight the protection Jesus had because it was not yet his time,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

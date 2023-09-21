@@ -4,7 +4,7 @@
 In this verse, we witness Jesus' powerful authority over evil spirits as he heals a demon-possessed person. The restoration of speech and sight signifies Jesus' ability to bring about complete transformation and wholeness, both physically and spiritually. This miraculous healing showcases Jesus' deep compassion and willingness to restore and heal those who are afflicted, regardless of the severity of their condition. It's clear that the man's blindness and inability to speak were the result of demonic possession, and through this healing, Jesus not only sets him free but also reveals his divine power to overcome darkness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The healing of the demonized person in this verse demonstrates Jesus' power and authority over evil spirits, showing that he is the ultimate conqueror of darkness." 
 
 2. "The restoration of speech and sight to the blind and dumb person highlights Jesus' ability to bring about complete transformation and wholeness in individuals, both physically and spiritually." 
@@ -37,4 +37,4 @@ In this verse, we witness Jesus' powerful authority over evil spirits as he heal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

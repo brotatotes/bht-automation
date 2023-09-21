@@ -9,7 +9,7 @@ In this verse, believers are described as carrying the sacrificial death of Jesu
 2. "that in our bodies, holding up against such troubles and preserved in such dangers, may be shewn forth that mighty power of God which is a testimony that Jesus lives and is exalted to be a Prince and a Saviour"
 3. "the bodily deliverance is manifestly a subordinate consideration, and the ζωή of far higher significance, testified indeed by the body’s preservation, but extending far beyond it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having my body exposed to being put to death in the cause of Jesus"
 2. "having in it the marks of such sufferings"
 3. "I thus bear about wheresoever I go, an image of the suffering Saviour in my own person"
@@ -61,4 +61,4 @@ These quotes highlight the concept of believers carrying the sufferings of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

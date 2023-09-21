@@ -9,7 +9,7 @@ In Acts, Ananias follows a divine command to visit Saul, whom he addresses as a 
 2. "It is remarkable again how Paul, speaking there to an infuriated Jewish mob, gives the words spoken just that form which would best gain him a favourable hearing with them."
 3. "He there too gives ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου, ἐπικαλεσάμενος τὸ ὄνομα αὐτοῦ as part of the exhortation of Ananias."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How beautifully childlike is the obedience of Ananias to 'the heavenly vision!'" 
 2. "This clearly shows in what sense the term 'Lord' is used in this book. It is JESUS that is meant, as almost invariably in the Epistles also." 
 3. "This knowledge by an inhabitant of Damascus of what had happened to Saul before entering it, would show him at once that this was the man whom Jesus had already prepared him to expect."
@@ -57,4 +57,4 @@ In Acts, Ananias follows a divine command to visit Saul, whom he addresses as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, Christ reveals the profound connection between our actions towards others and our relationship with Him. Commentators emphasize the significance of caring for the least and the marginalized, as Christ identifies Himself with them. Our acts of kindness not only benefit those in need, but also demonstrate our love for Christ and our desire to imitate Him. This principle extends beyond the community of believers, reminding us to extend compassion to all people. It serves as a powerful reminder to treat others with love and dignity, as if we are serving Christ Himself.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But ye did it to these My brethren, now beside you, when cast upon your love. Truth, Lord, but was that doing it to Thee?...Yes, that scene was all with Me...Me in the disguise of My poor ones...YE DID IT UNTO ME."
 2. "And in the light of this view of the heavenly dialogue, how bald and wretched, not to say unscriptural, is that view of it to which we referred at the outset, which makes it a dialogue between Christ and heathens who never heard of His name."
 3. "The surprise expressed is not at their being told that they acted from love to Christ, but that Christ Himself was the Personal Object of all their deeds...This is the astonishing interpretation which Jesus says 'the King' will give to them of their own actions here below."
@@ -54,4 +54,4 @@ In this verse, Christ reveals the profound connection between our actions toward
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

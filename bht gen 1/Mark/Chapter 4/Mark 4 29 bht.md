@@ -9,7 +9,7 @@ The verse describes the process of spiritual growth and the culmination of God's
 2. "See Joel 3:13, to which this verse is a reference: also Revelation 14:14-15, and 1 Peter 1:23-25."
 3. "παραδοῖ" - offers itself: see reff. and Winer, Gr. Gr. § 38. 1 [also Moulton’s edn. p. 738, note 1].
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This charmingly points to the transition from the earthly to the heavenly condition of the Christian and the Church." 
 2. "The fruit being brought forth to maturity represents the growth and development of believers and the Church." 
 3. "The harvest symbolizes the culmination of God's plan and the time for the gathering of believers into the heavenly kingdom."
@@ -43,4 +43,4 @@ The verse describes the process of spiritual growth and the culmination of God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

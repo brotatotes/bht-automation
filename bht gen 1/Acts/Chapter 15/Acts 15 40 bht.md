@@ -9,7 +9,7 @@ Silas, who may have returned to Antioch with Peter, was involved in the early Ch
 2. "Silvanus is mentioned in 1 Peter 5:12 as the one who delivered the epistle to the congregations of Asia Minor."
 3. "Silas' presence in Antioch could indicate his involvement in the early Christian community and his role in spreading the message of the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No doubt by some solemn service; see Acts 13:3"
 2. "It does not follow from the historian's silence that Barnabas was not so recommended, too"
 3. "The sole object now is to relate the proceedings of Paul"
@@ -50,4 +50,4 @@ Silas, who may have returned to Antioch with Peter, was involved in the early Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

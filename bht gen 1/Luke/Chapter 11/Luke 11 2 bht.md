@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the universality and importance of the
 2. "Stier’s argument, that our text has not been conformed to Matt., because the doxology has never been inserted here, seems to me to tend in quite another direction."
 3. "The doxology was inserted there, because that was the form in general liturgical use, and not here, because this form was never used liturgically."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you are referring to. Please provide the commentary so that I can extract the quotes for you.
 
 ### John Gill:
@@ -26,4 +26,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Please provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

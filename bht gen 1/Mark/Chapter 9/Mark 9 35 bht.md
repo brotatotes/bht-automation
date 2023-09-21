@@ -11,7 +11,7 @@ In this verse, we are reminded that true greatness is not measured by power or a
 
 3. "The call to be a servant is not a call to be weak or passive, but rather a call to be selfless and sacrificial in our actions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man desire to be first, the same shall be last of all, and servant of all." This verse emphasizes the importance of humility and selflessness. It reminds us that true greatness lies in serving others rather than seeking personal recognition or status.
 
 2. "Let him be such: he must be prepared to take the last and lowest place." This quote highlights the need for a genuine willingness to put others before oneself. It calls for a mindset of humility and a readiness to serve others without seeking personal gain or recognition.
@@ -42,4 +42,4 @@ In this verse, we are reminded that true greatness is not measured by power or a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

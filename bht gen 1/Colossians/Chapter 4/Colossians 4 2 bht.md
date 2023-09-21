@@ -9,7 +9,7 @@ In this Bible verse, believers are encouraged to persevere and be vigilant in th
 2. "For the devil knows how good prayer is, and therefore he opposes it. Hence it is burdensome." 
 3. "For it is the custom of the saints to pray for common blessings and to give thanks for common benefits."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Continue perseveringly," "persevere" - emphasizes the need for persistence and endurance in prayer, highlighting the importance of not giving up easily.
 2. "Watching thereunto" - encourages vigilance and attentiveness in prayer, urging believers to be aware of their own tendencies towards laziness and distractions.
 3. "With thanksgiving" - reminds believers to approach prayer with a grateful heart, acknowledging and expressing gratitude for all aspects of life, both positive and negative.
@@ -54,4 +54,4 @@ Note: The commentary provides guidance on the importance of consistent prayer, m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

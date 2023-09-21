@@ -9,7 +9,7 @@ This verse speaks about the profound impact that humanity, both in its fallen st
 2. "The verity lying at the root of this verse is, that by MAN ONLY can general effects pervading the whole human race be introduced."
 3. "δι ʼ ἀνθρώπου, sc. ἐστίν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first-fruits are of the same nature as the rest of the harvest; so Christ, the bringer of life, is of the same nature as the race of men to whom He brings it." 
 
 2. "Just as Adam, the bringer of death, was of the same nature as the men on whom he brought it." 
@@ -46,4 +46,4 @@ This verse speaks about the profound impact that humanity, both in its fallen st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

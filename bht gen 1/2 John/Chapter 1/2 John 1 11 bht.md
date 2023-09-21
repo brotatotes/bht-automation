@@ -4,7 +4,7 @@
 In this verse, caution is urged when it comes to offering support or approval to those who promote false teachings or engage in sinful behavior. By bidding someone God speed, one becomes implicated in their actions and beliefs, and it is emphasized that such support should not be taken lightly. This serves as a reminder of the importance of discernment and the potential impact our words and actions can have in either promoting righteousness or contributing to the spread of evil.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By wishing a false brother or teacher 'God (or 'good') speed,' you imply that he is capable as such of good speed and joy (the literal meaning of the Greek), and that you wish him it while opposing Christ; so you identify yourself with 'his evil deeds.'"
 2. "The Greek of 'partaker' is 'having communion with.' We cannot have communion with saints and with Antichrist at the same time."
 3. "Here we see John's naturally fiery zeal directed to a right end. Polycarp, the disciple of John, told contemporaries of Irenaeus, who narrates the story on their authority, that on one occasion when John was about to bathe, and heard that Cerinthus, the heretic, was within, he retired with abhorrence, exclaiming, Surely the house will fall in ruins since the enemy of the truth is there."
@@ -44,4 +44,4 @@ In this verse, caution is urged when it comes to offering support or approval to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

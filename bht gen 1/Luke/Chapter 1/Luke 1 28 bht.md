@@ -9,7 +9,7 @@ The verse being described is Luke 1:28. In this verse, the angel Gabriel appears
 2. "Thl. explains it as corresponding to εὗρες χάριν παρὰ τῷ θεῷ, Luke 1:30: τοῦτο γάρ ἐστιν τὸ κεχαριτῶσθαι, τὸ εὑρεῖν χάριν παρὰ τῷ θεῷ."
 3. "ὁ κύρ. μετὰ σοῦ] i.e. ἐστίν: see ref."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "highly favoured—a word only once used elsewhere (Ephesians 1:6, "made accepted")"
 2. "The mistake of the Vulgate's rendering, "full of grace," has been taken abundant advantage of by the Romish Church."
 3. "As the mother of our Lord, she was the most 'blessed among women' in external distinction; but let them listen to the Lord's own words."
@@ -57,4 +57,4 @@ Note: The commentary is about Luke 1:28.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

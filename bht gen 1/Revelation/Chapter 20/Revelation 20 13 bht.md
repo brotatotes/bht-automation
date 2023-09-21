@@ -4,7 +4,7 @@
 In this passage, commentators describe a powerful scene where various elements of creation give up their dead. The sea symbolizes the troubled and sinful world, releasing the bodies of those who had been buried beneath its depths. Death and Hades, inseparable as ever, relinquish the souls they have held captive. This reunion allows each individual to face judgment based on their actions in life. It is a moment of both great significance and magnitude, as bodies and souls are reunited in preparation for their ultimate destiny.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The essential identity of the dying and risen body is hereby shown; for the sea and grave give up their dead."
 2. "The body that sinned or served God shall, in righteous retribution, be the body also that shall suffer or be rewarded."
 3. "All the different regions wherein the bodies and souls of men had been, gave them up."
@@ -43,4 +43,4 @@ In this passage, commentators describe a powerful scene where various elements o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

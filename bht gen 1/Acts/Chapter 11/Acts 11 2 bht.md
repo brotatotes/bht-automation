@@ -9,7 +9,7 @@ In this verse, the phrase "they of the circumcision" refers to Jewish believers 
 2. "In this case, all those spoken of would belong to the circumcision." 
 3. "Luke uses it in the sense of the time when he wrote the account."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From their jealousy for 'the middle wall of partition' which circumcision raised between Jew and Gentile."
 2. "They doubtless embraced apostles as well as others."
 3. "They of the circumcision."
@@ -50,4 +50,4 @@ In this verse, the phrase "they of the circumcision" refers to Jewish believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

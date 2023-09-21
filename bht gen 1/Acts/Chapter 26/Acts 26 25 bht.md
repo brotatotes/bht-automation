@@ -9,7 +9,7 @@ In this verse, the speaker responds with calm dignity to the accusation of madne
 2. "The expression ἀληθείας &c. ῥήματα, though of course in sense = ῥήματα ἀληθῆ, &c., yet has a distinctive force of its own, and is never to be confounded with, or supposed to be put by a Hebraism for the other."
 3. "Words (not merely true and sober, but) of truth and soberness, springing from, and indicative of, subjective truth and soberness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can anything surpass this reply, for readiness, self-possession, calm dignity?"
 2. "Every word of it refuted the rude charge."
 3. "Festus, probably, did not intend to hurt the prisoner's feelings."
@@ -59,4 +59,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

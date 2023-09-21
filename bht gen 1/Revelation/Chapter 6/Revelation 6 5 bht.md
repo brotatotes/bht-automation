@@ -4,7 +4,7 @@
 This passage, described by various commentators, reveals a scene of mourning, scarcity, and distress. It portrays a situation where food is rationed due to famine, represented by the imagery of black scales and balances. These symbols emphasize the severity and urgency of the circumstances, highlighting the need for careful distribution of limited resources. Additionally, the verse serves as a reminder of Christ's sovereignty over all aspects of creation, including the seasons and influences of the heavens.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Come and see" - The omission of these words in some manuscripts suggests that the invitation to witness the situation may not have been included in the original text. However, the inclusion of these words adds a sense of urgency and personal involvement for the reader.
 
 2. "Black" - The use of the word "black" to describe the situation implies not just sadness, but also a sense of darkness and despair. It highlights the severity of the scarcity and the impact it has on the people.
@@ -37,4 +37,4 @@ These quotes provide insights into the commentary's interpretation of the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

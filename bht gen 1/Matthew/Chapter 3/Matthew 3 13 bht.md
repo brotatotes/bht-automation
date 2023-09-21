@@ -9,7 +9,7 @@ In the verses being described, Jesus voluntarily comes to John at the Jordan Riv
 2. "The one rite, as the other, belonged to sinners and among the transgressors He was numbered."
 3. "His baptism, as it was our Lord’s closing act of obedience under the Law, in His hitherto concealed life of legal submission, His πληρῶσαι πᾶσ. δικ., so was His solemn inauguration and anointing for the higher official life of mediatorial satisfaction which was now opening upon Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not so this greater than Moses. All but thirty years had He now spent in privacy at Nazareth, gradually ripening for His public work, and calmly awaiting the time appointed of the Father."
 2. "Now it had arrived and this movement from Galilee to Jordan is the step, doubtless, of deepest interest to all heaven since that first one which brought Him into the world."
 3. "Thus, as He rode into Jerusalem upon an ass 'whereon yet never man sat' and lay in a sepulchre 'wherein was never man yet laid,' so in His baptism, too. He would be 'separate from sinners.'"
@@ -56,4 +56,4 @@ In the verses being described, Jesus voluntarily comes to John at the Jordan Riv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, Jesus encounters a paralyzed man whose faith He recognizes and rewards. The commentators emphasize that Jesus not only forgives the man's sins but also heals him, showcasing His power and authority. The variations in the Gospel accounts highlight different theological aspects, such as the divine nature of Jesus and the connection between sin and physical affliction. The passage demonstrates the importance of faith, God's grace, and the unique perspectives of the Gospel writers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is remarkable that all the three narratives call it 'their faith' which Jesus saw. That the patient himself had faith, we know from the proclamation of his forgiveness, which Jesus made before all."
 2. "This was the faith for which He was ever on the watch, and which He never saw without marking, and, in those who needed anything from Him, richly rewarding."
 3. "And yet, as the Pharisees understood our Lord to be dispensing pardon by this saying, and Jesus not only acknowledges that they were right, but founds His whole argument upon the correctness of it, we must regard the saying as a royal proclamation of the man's forgiveness by Him to whom it belonged to dispense it."
@@ -28,4 +28,4 @@ In this passage, Jesus encounters a paralyzed man whose faith He recognizes and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

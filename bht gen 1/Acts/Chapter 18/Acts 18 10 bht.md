@@ -11,7 +11,7 @@ In this Bible verse, God assures Paul that He will be with him, protecting and b
 
 3. "As our Lord forewarned Paul in Jerusalem that they would not receive his testimony concerning Him, so here He encourages him, by a promise of much success in Corinth." - This quote draws a parallel between Jesus' warning to Paul about the rejection of his testimony and the promise of success in Corinth, emphasizing the encouragement given by Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have much people in this city" - This phrase indicates that God has already chosen a significant number of people in the city for eternal life. It highlights the divine sovereignty in the process of election and predestination.
 
 2. "Whom in virtue of their election to eternal life He already designates as His" - This statement emphasizes that those whom God has chosen for eternal life are already marked as His own. It suggests that God's election is not arbitrary but based on His foreknowledge and purpose.
@@ -53,4 +53,4 @@ In this Bible verse, God assures Paul that He will be with him, protecting and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

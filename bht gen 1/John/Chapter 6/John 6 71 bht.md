@@ -9,7 +9,7 @@ In the passage being described, Christ speaks specifically of Judas Iscariot, th
 2. "ἔμελλεν, not, ‘intended,’ see ch. John 13:2: but simply future, = ἦν ὁ παραδώσων αὐτόν, see John 6:64; ch. John 7:39; Joh 11:51."
 3. "[97] alli = some cursive mss."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those last words of our Lord seemed to have given them the finishing stroke—they could not stand it any longer."
 2. "Walked no more—Many a journey, it may be, they had taken with Him, but now they gave Him up finally!"
 3. "In consequence of this, they could not stand it any longer."
@@ -52,4 +52,4 @@ In the passage being described, Christ speaks specifically of Judas Iscariot, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

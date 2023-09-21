@@ -9,7 +9,7 @@ The verse being described discusses the significance of Jesus as the mediator an
 2. "By that Blood we live, wherever it is: but as here it is mentioned separately from the Lord Himself, as an item in the glories of the heavenly city, and as 'yet speaking,' it seems to require some such view to account for the words used." 
 3. "The blood of Christ is called αἷμα ῥαντισμοῦ, inasmuch as, like that sacrificial blood of old materially, it is spiritually sprinkled on the conscience of those who come unto God by Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of Jesus, the Perfecter of our faith, and Himself perfected through sufferings and death, in His resurrection and ascension, is naturally suggested by the mention of 'the just made perfect' at their resurrection."
 2. "His blood was entirely 'poured out' of His body by the various ways in which it was shed, His bloody sweat, the crown of thorns, the scourging, the nails, and after death the spear, just as the blood was entirely poured out and extravasated from the animal sacrifices of the law."
 3. "The blood itself, therefore, continues still in heaven before God, the perpetual ransom price of 'the eternal covenant.' Once for all Christ sprinkled the blood peculiarly for us at His ascension."
@@ -45,4 +45,4 @@ The verse being described discusses the significance of Jesus as the mediator an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

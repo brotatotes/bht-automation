@@ -9,7 +9,7 @@ In Acts 15:9, St. Peter's words reflect the divine truth that God has removed di
 2. "The word ἐποίησαν can also be understood as 'accomplished' or 'performed,' which aligns with the context of the verse."
 3. "The usage of ἐποίησαν in other references supports the interpretation of 'did' or 'made' in this verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The workers who had been laboring since the early morning were indignant that those who had only worked for one hour were being treated equally. This reveals a sense of entitlement and a lack of understanding of God's grace and generosity." 
 
 2. "The parable challenges our human tendency to compare ourselves to others and measure our worth based on our own efforts. It reminds us that God's grace is not earned or deserved, but freely given to all who accept it." 
@@ -52,4 +52,4 @@ In Acts 15:9, St. Peter's words reflect the divine truth that God has removed di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

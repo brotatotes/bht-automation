@@ -9,7 +9,7 @@ In this verse, Paul resumes the parallel between Adam and Christ, highlighting t
 2. "In this summing up, the Apostle puts the antithetical elements as strongly and nakedly as possible in contrast."
 3. "The Death of Christ viewed as the acme of His Obedience, see Philippians 2:8 = ἡ ὑπακοὴ τοῦ ἑνός below; not as in Romans 5:16, nor Righteousness, as Thol., which would not contrast with παραπτ., a single act."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As through one offense it [came] upon all men to condemnation; even so through one righteousness [it came] upon all men to justification of life." - This quote highlights the parallel between the condemnation brought by Adam's offense and the justification of life brought by Christ's righteousness.
 
 2. "In this case, the apostle, resuming the statement of Romans 5:12, expresses it in a more concentrated and vivid form." - This quote explains the purpose of the apostle's restatement, emphasizing its condensed and vivid nature.
@@ -57,4 +57,4 @@ In this verse, Paul resumes the parallel between Adam and Christ, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

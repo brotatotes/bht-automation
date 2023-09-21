@@ -9,7 +9,7 @@ This verse exposes the allurements of the world that captivate and distract us f
 2. "The lust of the flesh is not just impure desire, but it includes all inward subjectivities that spring out of the unrenewed human nature."
 3. "The love of the world and the love of God have distinct origins, and only the love that springs from God is directed towards Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The world's awful antitrinity, the 'lust of the flesh, the lust of the eyes, and the pride of life,' similarly is presented in Satan's temptation of Eve."
 2. "Youth is especially liable to fleshly lusts."
 3. "The only good of worldly riches to the possessor is the beholding them with the eyes."
@@ -52,4 +52,4 @@ These quotes highlight the objects of sin in the world, such as worldly desires 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentary emphasizes that the mention of idolatry is connected to the worsh
 2. "φαρμ., either 'poisonings,' or 'sorceries.' The latter is preferable, as more frequently its sense in the LXX and N. T., and because (Mey.) Asia was particularly addicted to sorceries."
 3. "θυμοί] passionate outbreaks. θυμὸς μέν ἐστι πρόσκαιρος, ὀργὴ δὲ πολυχρόνιος μνησικακία, Ammonius. διαφέρει δὲ θυμὸς ὀργῆς, τῷ θυμὸν μὲν εἶναι ὀργὴν ἀναθυμιωμένην κ. ἔτι ἐκκαιομένην, ὀργὴν δὲ ὄρεξιν ἀντιτιμωρήσεως."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "witchcraft—sorcery; prevalent in Asia" - This quote highlights the prevalence of witchcraft and sorcery in Asia during the time of the Bible, providing context for the mention of witchcraft in the verse.
 2. "strife; singular in the oldest manuscripts" - This quote points out that the original manuscripts use the singular form of strife, indicating that it refers to individual instances of conflict rather than a general state of discord.
 3. "heresies—as to sacred things" - This quote explains that heresies refer to disagreements or divisions specifically related to sacred matters, distinguishing them from seditions, which pertain to secular matters.
@@ -40,4 +40,4 @@ These quotes highlight the various forms of sinful behavior mentioned in the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

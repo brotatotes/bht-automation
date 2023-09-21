@@ -9,7 +9,7 @@ This verse emphasizes the central message of preaching Christ and the hope of sa
 2. "warning every man, and teaching every man in all wisdom."
 3. "that we may present every man perfect in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Warning" is connected with repentance, refers to one's conduct, and is addressed primarily to the heart.
 2. "Teaching" is connected with faith, refers to doctrines, and is addressed primarily to the intellect.
 3. Even one soul is of incalculable value. Each individual among them should be zealous for himself and his neighbor.
@@ -50,4 +50,4 @@ This verse emphasizes the central message of preaching Christ and the hope of sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

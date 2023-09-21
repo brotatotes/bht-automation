@@ -9,7 +9,7 @@ In this Bible verse, a supernatural event occurs where two individuals, Ananias 
 2. "We surely need not require any justification for this judicial sentence of the Apostle, filling as he did at this time the highest place in the church, and acting under the immediate prompting of the Holy Spirit."
 3. "It was absolutely necessary in the infancy of the church, that such attempt should be at once, and with severity, defeated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great fear came on all that heard these things—on those without the Christian circle." 
 2. "Instead of disparaging the followers of the Lord Jesus, they were awed at the manifest presence of Divinity among them." 
 3. "The mysterious power of throwing off such corrupt matter which rested upon the young Church."
@@ -53,4 +53,4 @@ In this Bible verse, a supernatural event occurs where two individuals, Ananias 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

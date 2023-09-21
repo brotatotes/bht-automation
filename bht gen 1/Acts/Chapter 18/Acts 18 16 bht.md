@@ -4,7 +4,7 @@
 The verse being described depicts a judge who takes decisive action by forcefully driving individuals from the judgment seat, refusing to hear their case or give it proper consideration. This demonstrates the judge's authority and power, as well as a lack of interest or willingness to engage with the matter at hand. Additionally, the judge dismisses the individuals with threats, revealing an abuse of power and a disregard for justice. The verse highlights the intensity and seriousness of the situation, with the judge's actions emphasizing the significance of the events that unfolded.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'drave them' implies a forceful and determined action, indicating that the situation was not taken lightly or passively."
 2. "The word 'annoyed' suggests that the individuals involved were greatly disturbed or troubled by the circumstances."
 3. "This commentary highlights the intensity and seriousness of the situation, emphasizing the significance of the events that unfolded."
@@ -35,4 +35,4 @@ The verse being described depicts a judge who takes decisive action by forcefull
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

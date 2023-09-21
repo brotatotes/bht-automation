@@ -9,7 +9,7 @@ In this Bible verse, we see the remarkable humility and self-abasement of Christ
 2. "He emptied Himself of the μορφὴ θεοῦ (not His essential glory, but its manifested possession)"
 3. "He was not a man, purus putus homo, but the Son of God manifest in the flesh and nature of men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His subjection to the law and to His parents, His low state as a carpenter, and His servant-like dependence on God are all marks of His 'form as a servant'." 
 2. "He was in the form of a servant as soon as He was made man." 
 3. "His emptying Himself presupposes His previous plenitude of Godhead."
@@ -57,4 +57,4 @@ In this Bible verse, we see the remarkable humility and self-abasement of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

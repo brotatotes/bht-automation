@@ -9,7 +9,7 @@ The writer of this verse humbly requests the prayers of the readers, acknowledgi
 2. "Desiring in all things to behave ourselves with seemliness." 
 3. "This appears to point at some offence of the same kind as we know to have been taken at the life and teaching of St. Paul with reference to the law and Jewish customs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray for us—Paul usually requests the Church's intercessions for him in closing his Epistles, just as he begins with assuring them of his having them at heart in his prayers." 
 2. "we trust we have a good conscience—in spite of your former jealousies, and the charges of my Jewish enemies at Jerusalem, which have been the occasion of my imprisonment at Rome." 
 3. "Good conscience produces confidence, where the Holy Spirit rules the conscience."
@@ -49,4 +49,4 @@ The writer of this verse humbly requests the prayers of the readers, acknowledgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

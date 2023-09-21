@@ -9,7 +9,7 @@ The verse being described speaks of the believers' steadfastness and unwavering 
 2. "The work of the Lord is the Christian life, with its active and passive duties and graces."
 3. "Knowing that your labor is not in vain in the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved—Sound doctrine kindles Christian love."
 2. "Steadfast—not turning aside from the faith of the resurrection of yourselves."
 3. "The work of the Lord—the promotion of Christ's kingdom."
@@ -57,4 +57,4 @@ The verse being described speaks of the believers' steadfastness and unwavering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Sitting on the Mount of Olives, Jesus positioned himself in a place of significa
 2. "Matthew refers to them as 'the disciples,' while Luke specifies that they were 'some' of the disciples."
 3. "This implies that not all of the disciples were present, but only a select few."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How graphically is this set before us by our Evangelist!"
 2. "Mark not only says that it was four of them, but names them; and they were the first quarternion of the Twelve."
 3. "On their way from Jerusalem to Bethany they would cross Mount Olivet; on its summit He seats Himself, over against the temple, having the city all spread out under His eye."
@@ -43,4 +43,4 @@ Sitting on the Mount of Olives, Jesus positioned himself in a place of significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

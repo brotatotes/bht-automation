@@ -9,7 +9,7 @@ In this verse, the commentator remarks on the issue of contention and disputes i
 2. "The συνήθεια alludes to the practice of women praying uncovered."
 3. "He thus cuts off all further disputation on the matter by appealing to universal Christian usage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A reproof of the Corinthians' self-sufficiency and disputatiousness."
 2. "The usage of true 'churches of God' is a valid argument in the case of external rites."
 3. "Catholic usage is not an infallible test of truth, but a general test of decency."
@@ -53,4 +53,4 @@ In this verse, the commentator remarks on the issue of contention and disputes i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

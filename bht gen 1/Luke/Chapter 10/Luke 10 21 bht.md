@@ -9,7 +9,7 @@ In this verse, the joy and exultation of Jesus are unveiled, showing His profoun
 2. "I am convinced that our Lord did utter, on the two separate occasions, these weighty words; and I find in them a most instructive instance of the way in which such central sayings were repeated by Him."
 3. "On Luke 10:21-22, see notes on Matthew 11:25-27, observing here the gradual narrowing of the circle to which our Lord addresses himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice" is too weak a word. It is "exulted in spirit"—evidently giving visible expression to His unusual emotions. 
 2. The words "in spirit" are meant to convey to the reader the depth of them.
 3. This is one of those rare cases in which the veil is lifted from off the Redeemer's inner man, that, angel-like, we may "look into it" for a moment.
@@ -45,4 +45,4 @@ In this verse, the joy and exultation of Jesus are unveiled, showing His profoun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

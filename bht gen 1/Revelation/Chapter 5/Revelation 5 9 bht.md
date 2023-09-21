@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the concept of a "new song" that symbolizes the unique and unprecedented redemption accomplished through the blood of the Lamb. The Lamb's worthiness is established by His sacrificial death, granting Him authority and knowledge. The redemption achieved by Christ extends to individuals from every nation, tribe, and language, emphasizing the universal nature of salvation. This verse captures the continuous worship of heaven and the inclusion of both Jews and Gentiles in God's redemptive plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The theme of redemption is ever new, ever suggesting fresh thoughts of praise, embodied in the 'new song.'" 
 2. "The present election-church gathered out of the world, as distinguished from the peoples gathered to Christ as the subjects, not of an election, but of a general and world-wide conversion of all nations."
 3. "Thus there is here marked the election-Church gathered from Jews and Gentiles."
@@ -40,4 +40,4 @@ In this verse, the commentators highlight the concept of a "new song" that symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

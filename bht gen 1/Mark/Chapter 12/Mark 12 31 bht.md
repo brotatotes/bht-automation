@@ -9,7 +9,7 @@ The second commandment is a reflection of the first and encompasses our entire r
 2. "It is like to it, inasmuch as both are laws of love: both deduced from the great and highest love: both dependent on ‘I am the Lord thy God,’ Leviticus 19:18."
 3. "Stier sets forth beautifully the strong contrast between the requirements of these two commands, and the then state of the Jewish Church: see John 7:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou shall love thy neighbour as thyself—Now, as we are not to love ourselves supremely, this is virtually a command, in the first place, not to love our neighbor with all our heart and soul and mind and strength. And thus it is a condemnation of the idolatry of the creature."
 2. "But as sincerely as ourselves we are to love all mankind, and with the same readiness to do and suffer for them as we should reasonably desire them to show to us."
 3. "It is as if He had said, 'This is all Scripture in a nutshell; the whole law of human duty in a portable, pocket form.' Indeed, it is so simple that a child may understand it, so brief that all may remember it, so comprehensive as to embrace all possible cases."
@@ -37,4 +37,4 @@ The second commandment is a reflection of the first and encompasses our entire r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

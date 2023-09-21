@@ -9,7 +9,7 @@ In this Bible verse, the disciples, known as "sons of thunder," witness an insul
 2. "It is exceedingly difficult to determine the true reading in this passage, which seems to have been more than usually tampered with, or wrongly written."
 3. "Let it be remembered that in both cases, versions far more ancient than our oldest MSS. contain these words."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "James and John—not Peter, as we should have expected, but those 'sons of thunder' (Mark 3:17), who afterwards wanted to have all the highest honors of the Kingdom to themselves."
 2. "Yet this was 'the disciple whom Jesus loved,' while the other willingly drank of His Lord's bitter cup."
 3. "That same fiery zeal, in a mellowed and hallowed form, in the beloved disciple, we find in 2 John 5:10; 3 John 1:10."
@@ -54,4 +54,4 @@ Note: The commentary provides additional context and understanding of the discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

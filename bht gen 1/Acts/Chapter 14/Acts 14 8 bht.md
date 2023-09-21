@@ -9,7 +9,7 @@ In a public place or forum, a man who had never walked, and was impotent in his 
 2. "περιεπάτησεν is the historic past: who never walked."
 3. "The pluperfect seeming more apt, it has been altered in the later MSS. accordingly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that the man was a cripple from birth emphasizes the severity of his condition and the impossibility of any human remedy. It highlights the miraculous nature of the healing that is about to take place." 
 2. "The man's ability to hear Paul speak indicates that he was not only physically disabled but also socially isolated. His physical condition prevented him from participating fully in society, but his hearing allowed him to listen to the message of hope and salvation." 
 3. "The image of Paul speaking in the open air to a crowd of people suggests the public nature of his ministry and the accessibility of the gospel message. It demonstrates that the good news is not confined to a select few, but is available to all who are willing to listen and respond."
@@ -50,4 +50,4 @@ In a public place or forum, a man who had never walked, and was impotent in his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

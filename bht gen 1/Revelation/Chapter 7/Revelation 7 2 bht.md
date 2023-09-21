@@ -4,7 +4,7 @@
 In this verse, the rising of the sun from the east symbolizes the manifestation of God's glory, emphasizing the hope and renewal that come with the arrival of Christ. The angels, likened to winds, play a role in the gathering and protection of God's chosen people. This sealing, done by the uncreated angel, Jesus Christ, signifies his authority and care over his followers amidst impending calamities. The loud cry to the four angels exhibits Christ's power, concern, and urgency in ensuring the safety of his people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rising of the sun" is the direction from which God's glory often manifests itself.
 2. The east is the quarter where God's glory is most frequently seen.
 3. The east symbolizes the manifestation of God's glory.
@@ -40,4 +40,4 @@ In this verse, the rising of the sun from the east symbolizes the manifestation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

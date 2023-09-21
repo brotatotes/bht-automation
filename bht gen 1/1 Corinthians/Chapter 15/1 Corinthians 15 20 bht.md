@@ -9,7 +9,7 @@ In this verse, the commentator highlights the significance of Christ's resurrect
 2. "There does not appear to be any intended reference to the legal ordinance of the first-fruits, but however general the application of the analogy may be, it can hardly fail to have been suggested to the mind of a Jew."
 3. "τῶν κεκοιμημένων, from the logical connexion, should mean, not the dead in Christ, but all the dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first-fruits - the earnest or pledge, that the whole resurrection harvest will follow, so that our faith is not vain, nor our hope limited to this life."
 2. "The time of writing this Epistle was probably about the Passover; the day after the Passover sabbath was that for offering the first-fruits, and the same was the day of Christ's resurrection: whence appears the appropriateness of the image."
 3. "Our faith is not in vain, nor is our hope limited to this life."
@@ -53,4 +53,4 @@ In this verse, the commentator highlights the significance of Christ's resurrect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

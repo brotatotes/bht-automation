@@ -9,7 +9,7 @@ This verse speaks to the transformative power of the Gospel, emphasizing God's i
 2. "It is still stranger how a scholar like Dr. Burton can propose the ungrammatical and unmeaning rendering, 'πρῶτον is perhaps used with reference to Christ’s first coming, as opposed to his second.' This would require τὸ πρῶτον, and would certainly imply in the mind of the speaker an absolute exclusion of all but Jews till the second coming."
 3. "He came blessing you (his coming was an act of blessing it consisted in the εὐλογεῖν: an anarthrous present participle in such a connexion carries necessarily a slightly ratiocinative sense), in (as the conditional element of the blessing) turning every one from your iniquities: thus conferring on you the best of blessings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, having raised up... his Son Jesus—'His Servant Jesus'... sent him to bless you." 
 2. "Hitherto we have all been looking too much for a Messiah who should shed outward blessings upon the nation generally, and through it upon the world. But we have learned other things, and now announce to you that the great blessing with which Messiah has come laden is the turning away of every one of you from his iniquities." 
 3. "With what divine skill does the apostle, founding on resistless facts, here drive home to the conscience of his auditors their guilt in crucifying the Lord of Glory; then soothe their awakened minds by assurances of forgiveness on turning to the Lord, and a glorious future as soon as this shall come to pass, to terminate with the Personal Return of Christ from the heavens whither He has ascended."
@@ -57,4 +57,4 @@ This verse speaks to the transformative power of the Gospel, emphasizing God's i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

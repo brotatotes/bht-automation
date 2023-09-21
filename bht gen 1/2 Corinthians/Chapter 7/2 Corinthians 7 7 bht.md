@@ -9,7 +9,7 @@ In this Bible verse, we see the Apostle Paul expressing his joy and comfort upon
 2. "He rejoiced in announcing the news: we in hearing them."
 3. "The emphasis is on μᾶλλον from its position."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We shared in the comfort which Titus felt in recording your desire."
 2. "He rejoiced in telling the news; we in hearing them."
 3. "They in Paul's behalf showed the zeal against the sin which Paul would have shown had he been present."
@@ -52,4 +52,4 @@ In this Bible verse, we see the Apostle Paul expressing his joy and comfort upon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes the fulfillment of prophecies about Jesus, highlighting the 
 2. "There is also a contrast between what men did to Him, and ὁ δὲ θεὸς ἤγειρεν αὐτόν."
 3. "Paul touches but lightly on the cross of Christ, and hastens on to the great point, the Resurrection, as the fulfilment of prophecy and seal of the Messiahship of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The burial of Christ was an act of honor and love to Him by the disciples."
 2. "The apostle regards this as the last manifestation on their part of enmity to the Saviour."
 3. "God laughed all their precautions to scorn by 'raising Him from the dead'."
@@ -54,4 +54,4 @@ The verse describes the fulfillment of prophecies about Jesus, highlighting the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

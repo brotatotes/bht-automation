@@ -9,7 +9,7 @@ In this verse, we are called to take up the entire armor of God, preparing ourse
 2. "The right interpretation is well given by Bengel 'Bellum est perpetuum: pugna alio die minus, alio magis fervet. Dies malus, vel ingruente morte, vel in vita: longior, brevior, in se ipso sæpe varius, ubi Malus vos invadit, et copiæ malignæ vos infestant.'" 
 3. "To finish, or accomplish, is the invariable Pauline usage of the word when taken in a good sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take . . . of God—not 'make,' God has done that: you have only to 'take up' and put it on." 
 2. "The Ephesians were familiar with the idea of the gods giving armor to mythical heroes: thus Paul's allusion would be appropriate." 
 3. "We must have our armor always on, to be ready against the evil day which may come at any moment, the war being perpetual."
@@ -55,4 +55,4 @@ Note: The quotes have been shortened for brevity while retaining their essence.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In these quotes, the commentators urge the readers to receive and accept the spe
 2. "Reasons why they should make room for him in their hearts: We wronged no man, we ruined no man, we cheated no man."
 3. "To understand these verbs as applying to the contents of the former Epistle is very forced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have wronged none by an undue exercise of apostolic authority."
 2. "We have corrupted none, namely, by beguilements and flatteries, while preaching 'another Gospel.'"
 3. "We have defrauded none by 'making a gain' of you."
@@ -58,4 +58,4 @@ These quotes emphasize the importance of welcoming and respecting Gospel ministe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

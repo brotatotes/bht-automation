@@ -9,7 +9,7 @@ In this Bible verse, it is suggested that believers should allow their unbelievi
 2. "Let the unbeliever depart: hazard not for an uncertainty the peace in which you ought to be living as Christians."
 3. "For what assurance hast thou, O wife, whether thou shalt be the means of thy husband’s conversion? Or what assurance hast thou, O husband, whether thou shalt be the means of thy wife’s conversion?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What knowest thou but that by staying with thy unbelieving partner thou mayest save him or her?" - CALVIN
 2. "Enforcing the precept to stay with the unbelieving consort." - CALVIN
 3. "Or else, if thy unbelieving consort wishes to depart, let him go, so that thou mayest live 'in peace'." - MENOCHIUS and ALFORD
@@ -38,4 +38,4 @@ In this Bible verse, it is suggested that believers should allow their unbelievi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

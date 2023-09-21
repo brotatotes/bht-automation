@@ -4,7 +4,7 @@
 In this verse, the disciples are depicted as gradually grasping the deeper meaning of Jesus' teachings. Initially perplexed by his words, their understanding slowly unfolds, and they express satisfaction with Jesus' explanation. The commentators emphasize the disciples' limited comprehension and the simplicity of their faith. They note that while Jesus spoke plainly, his message carried a deeper significance beyond their capacity to fully grasp. The verse is described as a profound statement, distinct from a proverb or superficial saying, and additional references are suggested for a richer understanding.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time for perfect plainness was yet to come" - The commentary suggests that Jesus' disciples were still in the early stages of understanding his teachings, and that there was more clarity to be revealed in the future.
 2. "Having caught a glimpse of His meaning (it was nothing more)" - The commentary highlights that the disciples only had a partial understanding of Jesus' words, indicating their limited comprehension at that point in time.
 3. "How touchingly does this show both the simplicity of their hearts and the infantile character of their faith!" - The commentary emphasizes the innocence and immaturity of the disciples' faith, highlighting their genuine but limited understanding of Jesus' teachings.
@@ -40,4 +40,4 @@ In this verse, the disciples are depicted as gradually grasping the deeper meani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

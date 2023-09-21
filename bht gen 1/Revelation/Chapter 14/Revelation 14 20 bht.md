@@ -4,7 +4,7 @@
 In this vivid and symbolic verse, the scene is set outside the city of Jerusalem, where Christ and His people shed blood, avenging the Antichrist. This representation of a winepress being trodden evokes a great destruction and slaughter, likened to a sea of blood. The mention of the furlong as a unit of measurement adds cultural context and invites readers to reflect on the significance of distance and the effort required to reach their desired destination. Ultimately, this verse depicts the triumph of the church over its enemies, delivering it from all harm and establishing its eternal glory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The scene of the blood-shedding of Christ and His people shall be also the scene of God's vengeance on the Antichristian foe."
 2. "The slaughter of the apostates is what is here spoken of, not their eternal punishment."
 3. "The completeness and universality of the world-wide destruction being hereby indicated."
@@ -46,4 +46,4 @@ In this vivid and symbolic verse, the scene is set outside the city of Jerusalem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -10,7 +10,7 @@ This verse describes the intense trials and challenges faced by the apostle Paul
 3. "But I would rather believe the ἀγρυπνίαι to have been watchings through anxiety for the churches."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles combine the highest offices with the humblest exterior: as everything in the Church was to be cast in the mould of death and resurrection, the cardinal principle throughout Christianity." 
 2. "Sleepless nights." 
 3. "The context here refers to his trials, rather than devotional exercises."
@@ -56,4 +56,4 @@ This verse describes the intense trials and challenges faced by the apostle Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

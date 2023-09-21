@@ -9,7 +9,7 @@ In these verses, Jesus challenges his followers to prioritize their commitment t
 2. "ζωογονήσει, vivipariet (Act 7:19): an expressive word, derived from animal parturition, bringing forth to air and life what was before concealed in the womb."
 3. "That day shall come as the pains of labour (ὠδῖνες) on a woman in travail (Mat 24:8): but to the saints of God it shall be the birth of the soul and body to life and glory everlasting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever desires to come after Christ must deny himself, that is, renounce his own wisdom, will, and affections, and all his worldly interests, pleasures, and pursuits, and become a follower of Christ in his doctrine, spirit, and practice."
 
 2. "To take up the cross signifies a readiness to endure sufferings and death for the sake of Christ and his gospel, and to submit to all the difficulties and inconveniences of a Christian life."
@@ -54,4 +54,4 @@ In these verses, Jesus challenges his followers to prioritize their commitment t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

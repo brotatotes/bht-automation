@@ -9,7 +9,7 @@ In this verse, we see the aftermath of an extraordinary event where a man was bi
 2. "προσδοκώντων] not, as E. V., 'when they had looked,' but when they were long looking."
 3. "μεταβαλ. ] There is no need to supply τ. γνώμην, though it is sometimes expressed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What has not the Gospel done for the uncultivated portion of the human family, while its effects on the educated and refined, though very different, are not less marvellous!"
 2. "Verily it is God's chosen restorative for the human spirit, in all the multitudinous forms and gradations of its lapsed state."
 3. "The Gospel has the power to transform even the most unlikely individuals, turning them from murderers to gods in the eyes of those who witness its effects."
@@ -53,4 +53,4 @@ In this verse, we see the aftermath of an extraordinary event where a man was bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

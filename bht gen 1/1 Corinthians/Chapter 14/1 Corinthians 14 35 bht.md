@@ -9,7 +9,7 @@ In this Bible verse, the emphasis lies on the desire of women to learn, as they 
 2. "ἰδίους, confining them to their own husbands, to the exclusion of other men."
 3. "αἰσχρόν, indecent, bringing deserved reproach."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But if we do not understand something, may we not 'ask' a question publicly so as to 'learn'?" - This quote highlights a potential objection raised by women, questioning the restriction on asking questions publicly. 
 
 2. "Nay, replies Paul, if you want information, 'ask' not in public, but 'at home'; ask not other men, but 'your own particular husbands.'" - Paul's response emphasizes the importance of seeking knowledge within the context of the home and through direct communication with one's own husband.
@@ -47,4 +47,4 @@ In this Bible verse, the emphasis lies on the desire of women to learn, as they 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This passage describes a prophecy from ancient times, which Jude refers to in his writing. It speaks of Enoch, a man who had a close relationship with God and was taken up to heaven without experiencing death. The prophecy emphasizes the certainty of the Lord's coming, accompanied by ten thousand of his holy ones, to execute judgment on the wicked. This prophecy indicates the early revelation of both the first and second comings of Christ, bringing the hope and anticipation of his glorious return.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Holy Spirit, by Jude, has sealed the truth of this much of the matter contained in the book of Enoch."
 2. "Enoch, in his translation without death, illustrated that truth which he all his life preached to the unbelieving world, the certainty of the Lord’s coming, and the resurrection of the dead, as the only effectual antidote to their skepticism and self-wise confidence in nature’s permanence."
 3. "Jude thus shows the antiquity of the prophecies. There were only five fathers between Enoch and Adam. The seventh from Adam prophesied the things which shall close the seventh age of the world."
@@ -52,4 +52,4 @@ This passage describes a prophecy from ancient times, which Jude refers to in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

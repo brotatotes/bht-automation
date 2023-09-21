@@ -4,7 +4,7 @@
 In this verse, a ruler of the synagogue named Jairus approaches Jesus, seeking his help. The ruler seems desperate, as commentators describe him as anxiously awaiting Jesus's arrival and throwing himself at his feet in reverence. Despite the ruler's respect, it is noted that he may not have worshiped Jesus as God. Jairus's role as a ruler of the synagogue is essential, with commentators explaining how synagogue councils, presidents, and rulers oversaw the affairs of the synagogue.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One would suppose from this that the ruler had been with the multitude on the shore, anxiously awaiting the return of Jesus, and immediately on His arrival had accosted Him as here related."
 2. "But Matthew tells us that the ruler came to Him while He was in the act of speaking at His own table on the subject of fasting."
 3. "Jairus by name—or 'Jaeirus.' It is the same name as Jair, in the Old Testament."
@@ -28,4 +28,4 @@ In this verse, a ruler of the synagogue named Jairus approaches Jesus, seeking h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

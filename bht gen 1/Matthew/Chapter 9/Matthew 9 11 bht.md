@@ -9,7 +9,7 @@ In this verse, various commentators shed light on the Pharisees' disdain for Jes
 2. "The very circumstances related show" - This emphasizes the significance of considering the details provided in the passage to gain a deeper understanding of the situation.
 3. "This denotes an occasion when our Lord and the disciples were present" - This statement underscores the presence of Jesus and His disciples during the event, emphasizing their involvement in the situation being discussed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Pharisees and scribes murmured unto his disciples, not venturing to put their question to Jesus Himself." 
 2. "Why eateth your Master with publicans and sinners?" 
 3. "The Pharisees questioned the company Jesus kept, highlighting their judgmental attitude towards those they considered sinners."
@@ -47,4 +47,4 @@ In this verse, various commentators shed light on the Pharisees' disdain for Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

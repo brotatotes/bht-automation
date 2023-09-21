@@ -9,7 +9,7 @@ This verse exposes the connection between the Jews and the devil, illustrating t
 2. "It indicates, as in ch. John 5:40, the freedom of the human will, as the foundation of the condemnation of the sinner."
 3. "His lie has become his very nature, and therefore he is thoroughly alien from the truth of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is one of the most decisive testimonies to the objective (outward) personality of the devil."
 2. "The death of the human race, in its widest sense, is ascribed to the murderous seducer of our race."
 3. "It holds up the devil as the murderer of the human race; but as this is meant here in the more profound sense of spiritual death, it holds him up as the spiritual parent of this fallen human family."
@@ -59,4 +59,4 @@ These quotes highlight the contrast between those who follow the devil and those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

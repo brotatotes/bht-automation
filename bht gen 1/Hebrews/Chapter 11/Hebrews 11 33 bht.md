@@ -9,7 +9,7 @@ Through faith, believers have achieved extraordinary feats like subduing kingdom
 2. "wrought righteousness" - The commentary emphasizes that righteousness is not limited to specific individuals, but can be seen in the actions of various biblical figures. 
 3. "obtained promises" - The commentary suggests that this phrase can refer to both receiving spoken promises from God and experiencing the fulfillment of those promises. It highlights the faith of those who trusted in God's promises, even when they were not yet fully realized.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "subdued kingdoms—as David did so also Gideon subdued Midian."
 2. "wrought righteousness—as Samuel did; and David."
 3. "obtained the fulfilment of promises, which had been previously the object of their faith."
@@ -40,4 +40,4 @@ Through faith, believers have achieved extraordinary feats like subduing kingdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

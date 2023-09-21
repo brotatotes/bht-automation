@@ -9,7 +9,7 @@ The verse described in this commentary is one that deals with doubt and the need
 2. "Olshausen calls him the 'Rationalist among the Apostles.'"
 3. "He would see the τύπος, but place his finger in the τόπος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Except I see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe—The very form of this speech betokens the strength of the unbelief."
 2. "It is not, If I shall see I shall believe, but, Unless I shall see I will not believe; nor does he expect to see, although the others tell him they had."
 3. "But whence sprang this pertinacity of resistance in such minds? Not certainly from reluctance to believe, but as in Nathanael from mere dread of mistake in so vital a matter."
@@ -48,4 +48,4 @@ The verse described in this commentary is one that deals with doubt and the need
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

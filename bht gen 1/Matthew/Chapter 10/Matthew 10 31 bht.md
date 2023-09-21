@@ -4,7 +4,7 @@
 This verse contains a simple yet profound statement that emphasizes the immense value and worth of every individual in the eyes of God. Jesus' teaching carries remarkable power, as his words offer comfort and assurance to those who may feel insignificant or fearful. It reveals that God's care extends even to the humblest of creatures, highlighting the deep love and protection He has for His faithful servants. Thus, this verse assures us that we are cherished and secure under the watchful eye of our Heavenly Father.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear ye not therefore, ye are of more value than many sparrows" - This simple yet profound statement carries immense weight, highlighting the value and worth that each individual holds in the eyes of God.
 
 2. "Was ever language of such simplicity felt to carry such weight as this does?" - The commentary acknowledges the remarkable power of Jesus' teaching, where his words, though simple, have a profound impact on the listener.
@@ -37,4 +37,4 @@ This verse contains a simple yet profound statement that emphasizes the immense 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

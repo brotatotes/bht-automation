@@ -9,7 +9,7 @@ The verse being described talks about how Moses, as the mediator, communicated w
 2. "ἐκκλησίᾳ probably, the assembly held for the promulgation of the law at Mt. Sinai, not ‘the Church’ generally."
 3. "λόγια ζῶντα, living, not = ζωοποιοῦντα, 'life-giving': still less to be understood 'given vivá voce'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the church—the collective body of God's chosen people."
 2. "This is he that was in the church in the wilderness, with the angel . . . and with our fathers."
 3. "By this high testimony to Moses, Stephen rebuts the main charge for which he was on trial."
@@ -57,4 +57,4 @@ The verse being described talks about how Moses, as the mediator, communicated w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

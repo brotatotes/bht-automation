@@ -9,7 +9,7 @@ In the future, the Son of man will appear in the glory of His Father, accompanie
 2. "γάρ implies, 'And it is not without reason that I thus speak: a time will come when the truth of what I say will be shown.'"
 3. "τὴν πρ . ] his work, considered as a whole."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son of man shall come in the glory of his Father with his angels." This emphasizes the divine authority and power of Jesus, as he will come in the splendor of his Father's authority. 
 
 2. "Ready to execute His pleasure." This highlights the obedience and readiness of the angelic ministers to carry out God's will. 
@@ -42,4 +42,4 @@ In the future, the Son of man will appear in the glory of His Father, accompanie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

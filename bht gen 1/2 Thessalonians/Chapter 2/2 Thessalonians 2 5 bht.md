@@ -11,7 +11,7 @@ The verse in question delivers a sense of reproach and rebuke, indicating that t
 
 3. "They would not have been so lightly moved" - The commentary implies that the people's reaction would have been different if they had taken the verse more seriously.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember, &c.—confuting those who represent Paul as having labored under error as to Christ's immediate coming when writing his first Epistle, and as now correcting that error." 
 
 2. "I told you—more than once, literally, 'I was telling,' or 'used to tell.'"
@@ -47,4 +47,4 @@ The verse in question delivers a sense of reproach and rebuke, indicating that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the commentators help to provide a deeper understanding of 
 2. "This distinction is important because it helps to clarify that Jesus' conflict was not with the Jewish people as a whole, but with the religious leaders and those who held power."
 3. "By understanding that the Ἰουδαῖοι refers to a specific group within the Jewish community, we can avoid perpetuating harmful stereotypes and recognize the complexity of the situation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Crowds of the Jerusalem Jews hastened to Bethany, not so much to see Jesus, whom they knew to be there, as to see dead Lazarus alive." 
 2. "This, issuing in their accession to Christ, led to a plot against the life of Lazarus also, as the only means of arresting the triumphs of Jesus."
 3. "To such a pitch had these chief priests come of diabolical determination to shut out the light from themselves, and quench it from the earth!"
@@ -43,4 +43,4 @@ In this Bible verse, the commentators help to provide a deeper understanding of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

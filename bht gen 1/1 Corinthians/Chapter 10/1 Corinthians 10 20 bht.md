@@ -4,7 +4,7 @@
 In this Bible verse, the commentators explain that the Gentiles, although intending to sacrifice to God, were unknowingly sacrificing to devils, who resided in the idols they worshipped. Some idolaters openly acknowledged this, while others did so unknowingly. The apostle urges the Corinthians to avoid any association or participation with devils, emphasizing the importance of fleeing from idolatry and its practices.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fellowship with devils" refers to the participation in idol feasts, where believers would be associating themselves with the demonic realm and compromising their faith.
 2. The commentary highlights the danger of engaging in activities that are contrary to one's faith, as it can lead to spiritual contamination and a weakening of one's relationship with God.
 3. The verse serves as a reminder to believers to be cautious about the influences they allow into their lives and to prioritize their fellowship with God above all else.
@@ -47,4 +47,4 @@ These quotes highlight the contrast between the physical nature of idols and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

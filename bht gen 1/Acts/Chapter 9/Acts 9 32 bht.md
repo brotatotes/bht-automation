@@ -9,7 +9,7 @@ In this biblical passage, Peter embarks on a journey to strengthen and support t
 2. "It seems most likely that it was before [Saul's] arrival [in Jerusalem]."
 3. "The journey of Peter to visit the churches which were now resting after the persecution would hardly be delayed so long as three whole years."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's journey through different regions demonstrates his commitment to spreading the message of the Gospel and strengthening the early Christian communities." 
 
 2. "The mention of 'saints' in Lydda highlights the presence of believers in this city, showing that the message of Jesus had reached beyond the immediate vicinity of Jerusalem." 
@@ -54,4 +54,4 @@ I'm sorry, but the information you provided does not seem to be a commentary on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

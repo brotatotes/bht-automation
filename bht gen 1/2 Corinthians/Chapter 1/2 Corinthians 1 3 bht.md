@@ -9,7 +9,7 @@ Blessed is the God and Father of our Lord Jesus Christ, the compassionate Father
 2. "I prefer the other rendering, on account of its greater verisimilitude and simplicity." 
 3. "The God who works all (possible) comfort."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Father of mercies—that is, the SOURCE of all mercies."
 2. "comfort—which flows from His 'mercies' experienced."
 3. "The 'tribulation' of believers is not inconsistent with God's mercy, and does not beget in them suspicion of it; nay, in the end they feel that He is 'the God of ALL comfort,' that is, who imparts the only true and perfect comfort in every instance."
@@ -55,4 +55,4 @@ Blessed is the God and Father of our Lord Jesus Christ, the compassionate Father
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

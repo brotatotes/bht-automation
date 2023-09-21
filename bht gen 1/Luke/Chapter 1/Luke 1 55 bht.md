@@ -4,7 +4,7 @@
 In this verse, the perpetuity of Messiah's kingdom is promised by the angel, extending the power and result of the promises to all of God's posterity. God's mercy and truthfulness to His promise are highlighted, reminding us that His promises are not limited to a specific group of people, but are available to all who have faith in Him. This verse emphasizes the inclusive nature of God's promise, extending beyond physical lineage to encompass the spiritual descendants of Abraham.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The perpetuity of Messiah's kingdom, as expressly promised by the angel."
 2. "The sense requires this clause to be read as a parenthesis."
 3. "As he spake to our fathers."
@@ -40,4 +40,4 @@ In this verse, the perpetuity of Messiah's kingdom is promised by the angel, ext
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

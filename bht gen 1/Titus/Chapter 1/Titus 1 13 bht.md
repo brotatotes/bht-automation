@@ -11,7 +11,7 @@ In this verse, we see a testimony that is emphasized for its truthfulness and re
 
 3. "They may be healthy in the faith." - This quote underscores the ultimate goal of the rebuke, which is to bring about spiritual health and strength in the faith of the believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This testimony (though coming from a Cretan) is true."
 2. "Gentleness would not reclaim so perverse offenders."
 3. "That those seduced by the false teachers may be brought back to soundness in the faith."
@@ -47,4 +47,4 @@ In this verse, we see a testimony that is emphasized for its truthfulness and re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

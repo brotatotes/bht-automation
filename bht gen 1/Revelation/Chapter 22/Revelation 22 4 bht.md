@@ -4,7 +4,7 @@
 In this Bible verse, believers are promised the extraordinary privilege of seeing God's face and experiencing deep intimacy with Him. This divine revelation surpasses even the experience of Moses, as it grants a profound understanding and recognition of God. In the New Jerusalem, believers will not only behold the face of Jesus Christ but also bear His name, symbolizing their complete surrender and identification as His own. This glorious vision and close fellowship with God serves as a glimpse of the believers' ultimate destination, where they will be transformed into the likeness of Christ and enjoy perfect communion with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They shall see and know Him with intuitive knowledge of Him, even as they are known by Him." 
 2. "God the Father can only be seen in Christ." 
 3. "They shall be known as sons of God to all the citizens of the new Jerusalem, so that the free flow of mutual love among the members of Christ's family will not be checked by suspicion as here."
@@ -51,4 +51,4 @@ In this Bible verse, believers are promised the extraordinary privilege of seein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The Bible verse being described speaks to the divine ownership of the earth and 
 
 3. "See 1 Timothy 4:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earth and all its contents...including all meats, belong to the Lord, and are appointed for our use."
 2. "Where conscience suggests no scruple, all are to be eaten."
 3. "Eating without questioning is justified."
@@ -61,4 +61,4 @@ The Bible verse being described speaks to the divine ownership of the earth and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

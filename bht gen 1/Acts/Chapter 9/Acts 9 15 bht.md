@@ -9,7 +9,7 @@ This chosen vessel, appointed by God, is called to bear the name of Christ and t
 2. "ἐθνῶν] This would hardly be understood at the time: it was afterwards on a remarkable occasion repeated to Paul by the Lord in a vision (see ch. Act 22:21), and was regarded by him as the specific command which gave the direction to his ministry, see Galatians 2:7-8."
 3. "βασιλ.] Agrippa, and probably Nero."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go thy way—Do as thou art bidden, without gainsaying." - This quote emphasizes the importance of obedience and submission to God's instructions.
 2. "He is a chosen vessel—a word often used by Paul in illustrating God's sovereignty in election." - This quote highlights the concept of God's sovereignty in choosing individuals for His purposes.
 3. "Compare 2 Timothy 2:21- :)" - This quote suggests that further reading of 2 Timothy 2:21 would provide additional insight or support for the commentary's point.
@@ -59,4 +59,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

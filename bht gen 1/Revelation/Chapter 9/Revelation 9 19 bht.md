@@ -4,7 +4,7 @@
 In this vivid and symbolic verse, fearsome horsemen are described, their power depicted both in their mouths and in their tails. The commentators offer various interpretations, linking the horses to Turkish cavalry armed with gunpowder and artillery, and even associating their tails with the doctrines of a false prophet. The imagery of the tails, likened to serpents, symbolizes the destructive and inescapable nature of the horsemen's power, inflicting both physical and spiritual harm. Overall, this verse captures the apocalyptic clash of powers and the devastating consequences they bring upon humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many interpreters understand the horsemen to refer to the myriads of Turkish cavalry arrayed in scarlet, blue, and yellow, the lion-headed horses denoting their invincible courage, and the fire and brimstone out of their mouths, the gunpowder and artillery introduced into Europe about this time, and employed by the Turks." 
 2. "The false prophet, or second beast, having the horns of a lamb, but speaking as the dragon, who supports by lying miracles the final Antichrist, seems to me to be intended." 
 3. "Satan will, probably, towards the end, bring out all the powers of hell for the last conflict."
@@ -38,4 +38,4 @@ In this vivid and symbolic verse, fearsome horsemen are described, their power d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

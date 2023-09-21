@@ -11,7 +11,7 @@ The verses described in this collection of commentaries shed light on the unjust
 
 3. "They besought." This quote captures the plea made by the people, indicating their desperation and earnestness in seeking a different outcome for Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that they 'found no cause of death' highlights the innocence of Jesus and the lack of any legitimate reason for his execution." 
 
 2. "Their desperate search for a reason to condemn Jesus reveals their malicious intent and their determination to bring about his death by any means necessary." 
@@ -49,4 +49,4 @@ The verses described in this collection of commentaries shed light on the unjust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

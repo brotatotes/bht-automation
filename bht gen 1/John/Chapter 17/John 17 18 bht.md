@@ -4,7 +4,7 @@
 The verse described encompasses the mission and commissioning of individuals, who are sent into the world with the same authority and purpose as Jesus Himself. This sending is purposeful and carries the connotation of consecrating the ones being sent for a holy task. It invites the reader to explore parallel verses for further insight and emphasizes the ongoing nature of the mission. The verse highlights the divine nature of Jesus, the honor and authority bestowed upon those sent, and the mission to bring salvation and enlightenment to the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As their mission was to carry into effect the purposes of their Master's mission, so our Lord speaks of the authority in both cases as co-ordinate." 
 2. "As thou hast sent me into the world, even so have I also sent them into the world." 
 3. "The disciples were not only sent into the world, but they were sent with the same authority and purpose as Jesus himself."
@@ -44,4 +44,4 @@ These quotes highlight the divine nature of Jesus, the honor and authority besto
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse emphasizes the fulfillment of prophecy, highlighting the divine plan 
 2. "Whatever may have been the partial fulfilment of the prophecy in the time of Ahaz, its reference to a different time, and a higher deliverance, is undeniable."
 3. "The accomplishment of a promise formally made is often alleged as the cause of an action extending wider than the promise, and purposed long before its utterance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the fulfillment of prophecy, emphasizing the divine plan and purpose behind the events. It shows that God's word is reliable and trustworthy, as what was spoken by the Lord through the prophet Isaiah came to pass." 
 
 2. "The use of the word 'fulfilled' implies that the birth of Jesus was not a random occurrence, but a deliberate fulfillment of God's promise. It demonstrates God's faithfulness to His word and His commitment to bring about His plans and purposes." 
@@ -50,4 +50,4 @@ This verse emphasizes the fulfillment of prophecy, highlighting the divine plan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

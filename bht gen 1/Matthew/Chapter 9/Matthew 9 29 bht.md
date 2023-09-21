@@ -9,7 +9,7 @@ The referenced verse describes an encounter where Jesus healed two blind men. Co
 2. "From the result, the degree of their faith appears."
 3. "He begins, by degrees, to prove and exercise the faith of the applicants."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "According to your faith be it unto you" - This phrase emphasizes the connection between faith and the manifestation of healing. It suggests that the extent of the cure received is directly linked to the level of faith one possesses.
 
 2. "Receive this cure as granted to your faith" - This quote highlights the idea that the healing is not simply a result of the individuals' own power or merit, but rather a gift bestowed upon them by their faith in Jesus.
@@ -44,4 +44,4 @@ The referenced verse describes an encounter where Jesus healed two blind men. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

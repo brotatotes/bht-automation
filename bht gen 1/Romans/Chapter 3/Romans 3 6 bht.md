@@ -9,7 +9,7 @@ The commentators collectively emphasize the rejection of the idea that God would
 2. "The Judge of all the earth must do right."
 3. "One such case of pretended injustice more strikingly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God forbid; for then how shall God judge the world?" - This quote emphasizes the rejection of the idea that God would not judge the world. It highlights the importance of divine judgment and challenges any notion that suggests otherwise.
 
 2. "Far from us be such a thought." - This quote expresses a strong rejection of the idea mentioned earlier. It conveys a sense of distance and separation from any belief that undermines the concept of God's judgment.
@@ -58,4 +58,4 @@ The commentators collectively emphasize the rejection of the idea that God would
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

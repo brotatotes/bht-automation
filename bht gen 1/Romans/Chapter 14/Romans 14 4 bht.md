@@ -9,7 +9,7 @@ In this verse, we are reminded of the importance of refraining from judgment and
 2. "But he shall be made to stand, for the Lord is able to make him stand." - This quote emphasizes the assurance that the Lord has the power to uphold and strengthen the believer, even in times of doubt or weakness.
 3. "This argument is entirely directed to the weak, who uncharitably judges the strong, not vice versa." - The commentary points out that the Apostle's argument is specifically addressing the tendency of the weak to judge the strong, highlighting the importance of understanding and empathy in our interactions with others.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who art thou that judges another man's servant?" - This quote highlights the question posed by the commentary, challenging the reader to consider their position in judging others who belong to Christ.
 
 2. "He shall be made to stand, for God is able to make him stand" - This quote emphasizes the assurance that God is capable of upholding and supporting the standing of His servants, even in the face of judgment from others.
@@ -51,4 +51,4 @@ In this verse, we are reminded of the importance of refraining from judgment and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is not mentioned in the description.
 2. "That by means of these promises, ye may become partakers of the divine nature." 
 3. "Having escaped from the corruption which is in the world in lust."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Precious promises are the object of precious faith."
 2. "The promises themselves are a gift: for God's promises are as sure as if they were fulfilled."
 3. "Sanctification is the imparting to us of God Himself by the Holy Spirit in the soul."
@@ -58,4 +58,4 @@ These quotes highlight the incredible value and power of God's promises, their r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

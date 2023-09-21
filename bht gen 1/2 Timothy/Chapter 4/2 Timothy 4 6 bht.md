@@ -9,7 +9,7 @@ The verse being described reveals a profound understanding of impending death, w
 2. "Ready to be offered misses the force of the present."
 3. "The time of my departure is merely this, and not dissolutio, as Vulg., Matthies, nor as Elsner imagines, is there any allusion to guests breaking up from a banquet and making libations."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every sacrifice began with an initiatory libation on the victim's head." 
 2. "A motive to stimulate Timothy to faithfulness—the departure and final blessedness of Paul; it is the end that crowns the work."
 3. "As the time of his departure was indicated to Peter, so to Paul."
@@ -53,4 +53,4 @@ The verse being described reveals a profound understanding of impending death, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

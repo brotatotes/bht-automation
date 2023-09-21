@@ -9,7 +9,7 @@ In this verse, the speaker poses a question about the number of people who will 
 2. "The multitude."
 3. "The connection here is intimate and strict."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lord, c.—one of those curious questions by talking of which some flatter themselves they are religious." 
 2. "the multitude taking no notice of the man or his question, save as furnishing the occasion of a solemn warning not to trifle with so momentous a matter as 'salvation.'"
 
@@ -46,4 +46,4 @@ These quotes highlight the context of the verse and emphasize the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

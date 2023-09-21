@@ -4,7 +4,7 @@
 In this passage, the commentators emphasize the context of a letter written by the apostle John to a specific individual, possibly a woman of influence with her family. The commentators discuss the various interpretations of the term "elect lady", with some suggesting it refers to a specific church or a person of distinction. They highlight the genuine and sincere love expressed by the apostle towards this individual and her family. The significance of this letter lies in the combination of Christian truth and love, reflecting the importance of upholding faith in both belief and action.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being a person of influence, 'deceivers' were insinuating themselves into her family to seduce her and her children from the faith."
 2. "A particular Church, probably that at Babylon, was intended."
 3. "Christian love rests on the Christian truth."
@@ -38,4 +38,4 @@ In this passage, the commentators emphasize the context of a letter written by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

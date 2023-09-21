@@ -4,7 +4,7 @@
 Jesus intentionally returned to the place where John first baptized, honoring John's work and highlighting the significance of repentance and baptism. The people believed in Jesus there, witnessing the fulfillment of John's prophecies about the Messiah. This reminds us of the impact Jesus' physical presence has on faith and challenges the effectiveness of our own sermons compared to a direct encounter with Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus went away again beyond Jordan, to the place where John at first baptized. This shows that Jesus was intentional in returning to the place where His ministry began, perhaps to honor John the Baptist and the work he had done in preparing the way for Him."
 
 2. "By going back to the place of John's baptism, Jesus was reminding His disciples and the people of the significance of John's ministry and the importance of repentance and baptism as a preparation for the coming of the Messiah."
@@ -27,4 +27,4 @@ Jesus intentionally returned to the place where John first baptized, honoring Jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

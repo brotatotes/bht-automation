@@ -9,7 +9,7 @@ This verse expresses the Apostle Paul's deep gratitude and constant prayer for t
 2. "We have the same alliteration Ephesians 5:20. These words belong to εὐχαριστ ., not to μνείαν ποι."
 3. "ἀδιαλείπτως seems by the nearly parallel place, Romans 1:9, to belong to μνείαν ὑμ . ποι., not to μνημονεύοντες."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The structure of the sentences in this and the following verses, each successive sentence repeating with greater fulness the preceding, characteristically marks Paul's abounding love and thankfulness in respect to his converts."
 2. "Paul's abounding love and thankfulness in respect to his converts, as if he were seeking by words heaped on words to convey some idea of his exuberant feelings towards them."
 3. "Thus, 'without ceasing,' in the second clause, answers in parallelism to 'always,' in the first."
@@ -50,4 +50,4 @@ This verse expresses the Apostle Paul's deep gratitude and constant prayer for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, believers are encouraged not to withdraw from one another's compa
 2. "The pres. σχολάζητε of the rec. would refer to the general habit, and would thus make τῇ προς ., ‘your ordinary prayers,’ being thus inconsistent with the direction given πρὸς καιρόν."
 3. "The subjunc. still depends on ἵνα the aim of the temporary separation is not that you may keep apart, but for a certain end, and then that you may be united again."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Defraud...not...of the conjugal duty 'due'...unless perchance." 
 2. "Give yourselves to...be at leisure for...on some special 'season.'"
 3. "Satan...often thrusts in his temptations to unholy thoughts amidst the holiest exercises."
@@ -50,4 +50,4 @@ In this verse, believers are encouraged not to withdraw from one another's compa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

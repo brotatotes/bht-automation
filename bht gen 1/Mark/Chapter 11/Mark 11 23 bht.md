@@ -4,7 +4,7 @@
 This verse describes the power of faith and the importance of unwavering belief in overcoming obstacles. It stresses the need for ongoing faith, emphasizing that doubt should be absent from one's heart. The verse also highlights the connection between faith and the fulfillment of God's promises, suggesting that when prayers and declarations are spoken with confidence and trust, they have the power to bring about the desired outcome.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the nature of the case supposed—that they might wish a mountain removed and cast into the sea, a thing far removed from anything which they could be thought actually to desire—it is plain that not physical but moral obstacles to the progress of His kingdom were in the Redeemer's view."
 2. "What He designed to teach was the great lesson, that no obstacle should be able to stand before a confiding faith in God."
 3. "The power of faith, when it lays hold on God, is irresistible; it can remove mountains, it can overcome all difficulties, it can accomplish all things."
@@ -32,4 +32,4 @@ This verse describes the power of faith and the importance of unwavering belief 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

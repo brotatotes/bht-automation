@@ -9,7 +9,7 @@ In this powerful depiction, the verse portrays the Lord holding the seven stars 
 2) "The thing signified may perhaps be as in 2 Thessalonians 2:8, ὁ ἄνομος ὃν ὁ κύριος Ἰησοῦς ἀνελεῖ τῷ πνεύματι τοῦ στόματος αὐτοῦ…: and in ch. Revelation 19:21; but clearly we must not exclude (as Düsterd.) the attributes of the word of God."
 3) "And as matter of usage, Joh 11:44 is decided, being spoken of a person, which Joh 7:24 is not) as the sun shineth in his strength (see ref. Judges: that is, when unclouded and in full power: not necessarily at midday, but at any time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He holds them as a star-studded 'crown of glory,' or 'royal diadem,' in His hand: so Isaiah 62:3. He is their Possessor and Upholder."
 2. "His WORD is omnipotent in executing His will in punishing sinners. It is the sword of His Spirit. Reproof and punishment, rather than its converting winning power, is the prominent point."
 3. "So shall the righteous shine, reflecting the image of the Sun of righteousness. This exalting of the essence above the form marks their deeper religious earnestness."
@@ -47,4 +47,4 @@ These quotes highlight the significance of ministers in the Gospel, their relati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

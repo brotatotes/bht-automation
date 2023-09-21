@@ -9,7 +9,7 @@ In this Bible verse, the commentators bring insights to deepen our understanding
 2. "Construendum; cito accumbe: cito cupiunt accumbere qui missis cæteris officiis fidem sibi summam conferri oportere putant." 
 3. "Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go directly." The phrase "by and by" should be understood as "directly" in this context, emphasizing the immediacy of the action required. 
 
 2. "When your faith has been so increased as both to avoid and forgive offenses." This highlights the importance of faith in enabling believers to not only avoid being offended but also to forgive others when they do offend. 
@@ -56,4 +56,4 @@ In this Bible verse, the commentators bring insights to deepen our understanding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The rending of the veil in the temple, which separated the holy of holies from t
 2. "What those sacrifices (ceremonially) procured for the Jews (the type of God’s universal Church) through their High-priest, was now (really) procured for all men by the sacrifice of Him, who was at once the victim and the High-priest."
 3. "Not an ordinary earthquake, but connected with the two next clauses, and finding in them its explanation and justification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earthquake was local, having for its object the rending of the rocks and the opening of the graves."
 2. "The physical creation thus sublimely proclaiming, at the bidding of its Maker, the concussion which at that moment was taking place in the moral world at the most critical moment of its history."
 3. "Extraordinary rents and fissures have been observed in the rocks near this spot."
@@ -56,4 +56,4 @@ Note: The commentary provides historical and descriptive details about the veil 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

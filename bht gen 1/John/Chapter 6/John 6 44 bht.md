@@ -9,7 +9,7 @@ In this Bible verse, it is explained that the understanding and belief in Christ
 2. "The drawing towards Christ may be exemplified in the legal dispensation, which was to the Jews a παιδαγωγία εἰς χριστόν."
 3. "After all, the individual will must be turned to Christ by the Father, Whose covenanted promise is, that He will so turn it in answer to prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can come to me—in the sense of John 6:35."
 2. "Except the Father which hath sent me—that is, the Father as the Sender of Me and to carry out the design of My mission."
 3. "Draw him—by an internal and efficacious operation; though by all the means of rational conviction, and in a way altogether consonant to their moral nature."
@@ -57,4 +57,4 @@ In this Bible verse, it is explained that the understanding and belief in Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

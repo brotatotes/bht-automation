@@ -9,7 +9,7 @@ In this verse, the author expresses his joy and confidence in the recipients of 
 2. "The ordinary rendering, 'I can have confidence in you,' is wrong in not giving the indic. θαῤῥῶ, and still more, in making θαῤῥεῖν ἐν mean 'to have confidence in,' which is unexampled."
 3. "The psychological meaning of θαῤῥεῖν, which is not like πεποιθέναι, descriptive of a relative, but of an absolute state of mind, to be of good courage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The conclusion is more emphatical without it."
 2. "That in everything I am of good courage concerning you."
 3. "Contrasted with my former doubts concerning you."
@@ -57,4 +57,4 @@ In this verse, the author expresses his joy and confidence in the recipients of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

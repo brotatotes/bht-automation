@@ -4,7 +4,7 @@
 In this verse, the apostle encourages believers to adopt the mindset of Christ, who exemplified humility. By imitating Jesus' humble attitude and actions, believers can cultivate a sense of lowliness in their own lives. The verse underscores the significance of following Christ's example and calls for a condescending spirit and humble demeanor among believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have this mind in you," &c. He does not put forward himself as an example, but Christ, THE ONE pre-eminently who sought not His own, but "humbled Himself."
 2. Christ humbled Himself first in taking on our nature, and secondly, in humbling Himself further in that nature.
 3. Paul refers to Christ's humility as the ultimate example for believers to follow.
@@ -45,4 +45,4 @@ In this verse, the apostle encourages believers to adopt the mindset of Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

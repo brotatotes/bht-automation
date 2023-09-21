@@ -4,7 +4,7 @@
 In the midst of a city filled with envy, fear, and suspicion, a powerful message emerged that troubled both the people and the ruling authorities. The apostles' teachings had a disruptive effect, leading to concerns of revolution and the potential loss of power for the rulers. The city was on edge, fearing the consequences of embracing these unknown men and their teachings. These events highlight the volatile atmosphere and the perceived threat that the apostles' presence posed to the existing power structures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews...moved with envy—seeing their influence undermined by this stranger." 
 2. "Lewd fellows of the baser sort—better, perhaps, 'worthless market people,' that is, idle loungers about the market-place, of indifferent character." 
 3. "Assaulted the house of Jason—with whom Paul and Silas abode, one of Paul's kinsmen, apparently, and from his name, which was sometimes used as a Greek form of the word Joshua, probably a Hellenistic Jew."
@@ -46,4 +46,4 @@ In the midst of a city filled with envy, fear, and suspicion, a powerful message
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse captures the Apostle Paul's willingness to boast about his weaknesses
 
 Note: The commentary is quite lengthy and difficult to understand. However, these quotes highlight the idea that the apostle Paul is willing to boast about his weaknesses and humble himself for the sake of Christ's work in him.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorying or boasting of what others make matter of shame, namely, infirmities."
 2. "A character utterly incompatible with that of an enthusiast."
 3. "A striking contrast! Glorying or boasting of what others make matter of shame, namely, infirmities."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and difficult to understand. However, thes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

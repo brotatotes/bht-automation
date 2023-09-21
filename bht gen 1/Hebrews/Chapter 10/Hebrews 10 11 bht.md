@@ -11,7 +11,7 @@ In this verse, the commentators highlight the contrast between the imperfect Jew
 
 3. "The sacrifice might bring sense of partial forgiveness: but it could never denude the offerer of sinfulness strip off and take away his guilt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though he did not in person stand 'daily' offering sacrifices, he did so by the subordinate priests of whom, as well as of all Israel, he was the representative head." 
 2. "So 'daily' is applied to the high priests." 
 3. "Legal sacrifices might, in part, produce the sense of forgiveness, yet scarcely even that; but entirely to strip off one's guilt they never could."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the contrast between the imperfect Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

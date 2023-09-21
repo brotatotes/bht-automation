@@ -9,7 +9,7 @@ In this Bible verse, the Kingdom of Satan is stirred into fiercer activity by th
 2. "Satan has great wrath, when his time is short."
 3. "Mar 9:21-27 are peculiar to Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Just as the man with the legion of demons, 'when he saw Jesus, ran and worshipped Him,' so this demon, when he saw Him, immediately 'tare him.' The feeling of terror and rage was the same in both cases."
 2. "Still Jesus does nothing, but keeps conversing with the father about the case—partly to have its desperate features told out by him who knew them best, in the hearing of the spectators."
 3. "Partly to let its virulence have time to show itself; and partly to deepen the exercise of the father's soul, to draw out his faith, and thus to prepare both him and the by-standers for what He was to do."
@@ -48,4 +48,4 @@ In this Bible verse, the Kingdom of Satan is stirred into fiercer activity by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

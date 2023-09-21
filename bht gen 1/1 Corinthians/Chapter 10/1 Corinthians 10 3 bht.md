@@ -9,7 +9,7 @@ The Bible verse being described in this paragraph is about the manna mentioned i
 2. "The manna is thus called, from its being no mere physical production, but miraculously given by God the work of His Spirit."
 3. "We can scarcely avoid recognizing in these words a tacit reference to our Lord’s discourse, or at all events to the substance of it, John 6:31-58."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "an inspired protest against those who lower their dignity, or deny their necessity" [ALFORD].
 2. "Still he guards against the other extreme of thinking the mere external possession of such privileges will ensure salvation."
 3. "believing and unbelieving Israelites alike had 'the same' spiritual privilege of the manna."
@@ -57,4 +57,4 @@ The Bible verse being described in this paragraph is about the manna mentioned i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a pivotal moment, the high priest confronts Jesus, asking if he is the Christ
 2. "This is the only place in the N.T. where the well-known Sanctus Benedicous of the Rabbis is thus absolutely given."
 3. "Meyer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But he held his peace, and answered nothing—This must have nonplussed them. But they were not to be easily baulked of their object."
 2. "Why our Lord should have answered this question, when He was silent as to the former, we might not have quite seen, but for Matthew, who says that the high priest put Him upon solemn oath, saying, 'I adjure Thee by the living God, that Thou tell us whether Thou be the Christ, the Son of God.'"
 3. "Such an adjuration was understood to render an answer legally necessary."
@@ -40,4 +40,4 @@ In a pivotal moment, the high priest confronts Jesus, asking if he is the Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

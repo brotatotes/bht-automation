@@ -9,7 +9,7 @@ In this Bible verse, we encounter a powerful figure named Ananias who held the o
 2. "He came off victorious in a quarrel with the Jewish procurator Cumanus, who was condemned to banishment."
 3. "Ananias had great power, which he used violently and lawlessly, ultimately leading to his assassination by the sicarii."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A method of silencing a speaker common in the East to this day."
 2. "For a judge thus to treat a prisoner on his 'trial,' was infamous."
 3. "Merely prefacing his defense by a protestation of his integrity."
@@ -48,4 +48,4 @@ In this Bible verse, we encounter a powerful figure named Ananias who held the o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

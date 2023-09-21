@@ -4,7 +4,7 @@
 In this promise of the Bible, we are assured of a reconstruction of all human relationships and affections on a Christian basis and in a Christian state. Sacrificing our natural worldly desires on the altar of love for Christ enables us to receive manifold blessings in this life and ultimately, life everlasting in the world to come. It's a call to forsake all for Christ and experience comfort, peace, satisfaction, and pleasure that surpass any earthly possessions or relationships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have here the blessed promise of a reconstruction of all human relationships and affections on a Christian basis and in a Christian state, after being sacrificed, in their natural form, on the altar of love to Christ."
 2. "But this 'with persecutions'; for how could such a transfer take place without the most cruel wrenches to flesh and blood? but the persecution would haply follow them into their new and higher circle, breaking that up too!"
 3. "These promises are for everyone who forsakes his all for Christ."
@@ -23,4 +23,4 @@ In this promise of the Bible, we are assured of a reconstruction of all human re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

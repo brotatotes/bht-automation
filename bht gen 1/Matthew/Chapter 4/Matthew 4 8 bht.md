@@ -9,7 +9,7 @@ In a moment of time, on an exceeding high mountain, Jesus was shown all the king
 2. "If it be objected, that in that case there was no need for the ascent of the mountain, I answer, that such natural accessories are made use of frequently in supernatural revelations."
 3. "In this last temptation the enemy reveals himself openly, as the ἄρχων τοῦ κόσμου τούτου, and as the father of lies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That a scene was presented to our Lord's natural eye seems plainly expressed."
 2. "To limit this to the most extensive scene which the natural eye could take in, is to give a sense to the expression, 'all the kingdoms of the world,' quite violent."
 3. "It was permitted to the tempter to extend preternaturally for a moment our Lord's range of vision, and throw a 'glory' or glitter over the scene of vision."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I have only included three quotes that ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

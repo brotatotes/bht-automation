@@ -11,7 +11,7 @@ In this Bible verse, a man named Matthew is called by Jesus to become one of His
 
 3. "The reference to Matthew's name in this verse is similar to the mention of his name in Matthew 2:23, emphasizing the significance of his identity as the author of the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In their lists of the twelve apostles, however, Mark and Luke give him the name of Matthew, which seems to have been the name by which he was known as a disciple."
 2. "While he himself sinks his family name, he is careful not to sink his occupation, the obnoxious associations with which he would place over against the grace that called him from it, and made him an apostle."
 3. "Witching words these, from the lips of Him who never employed them without giving them resistless efficacy in the hearts of those they were spoken to."
@@ -55,4 +55,4 @@ In this Bible verse, a man named Matthew is called by Jesus to become one of His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

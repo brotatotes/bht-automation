@@ -9,7 +9,7 @@ In this verse, the author warns of scoffers who will arise in the end times, rid
 2. "Scoffers making use of scoffing."
 3. "Walking according to their own lusts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowing this first—from the word of the apostles."
 2. "Their very scoffing shall confirm the truth of the prediction."
 3. "Their own pleasure is their sole law, unrestrained by reverence for God."
@@ -50,4 +50,4 @@ In this verse, the author warns of scoffers who will arise in the end times, rid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

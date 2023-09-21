@@ -9,7 +9,7 @@ In this Bible verse, the Holy Spirit is depicted as the faithful guide, revealer
 2. "This verse is decisive against all additions and pretended revelations subsequent to and besides Christ; it being the work of the Spirit to testify to and declare THE THINGS OF CHRIST; not anything new and beyond Him."
 3. "And this declaration is coincident with inward advance in the likeness and image of Christ, not with a mere external development."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole design of the Spirit's office is to glorify Christ." 
 2. "The Spirit's teaching...is the discovery to the souls of men of what is Christ outwardly."
 3. "The vanity of looking for revelations of the Spirit which shall do anything beyond throwing light in the soul upon what Christ Himself is, and taught, and did upon earth."
@@ -52,4 +52,4 @@ In this Bible verse, the Holy Spirit is depicted as the faithful guide, revealer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

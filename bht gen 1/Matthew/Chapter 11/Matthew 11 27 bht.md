@@ -11,7 +11,7 @@ The verse, rich with Gospel themes, serves as a link between the synoptic Gospel
 
 3. "Nor does any fully apprehend, in the depths of his being, the love and grace of the Father, except the Son, and he to whom the Son, by the Eternal Spirit, proceeding from the Father and the Son, will reveal Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are 'delivered over,' or 'committed,' to Me of My Father; meaning the whole administration of the kingdom of grace."
 2. "What a saying is this, that 'the Father and the Son are mutually and exclusively known to each other!' A higher claim to equality with the Father cannot be conceived."
 3. "This testimony to the sovereignty of that gracious 'will,' on which alone men's salvation depends, is designed but to reveal the source and enhance the glory of it when once imparted—not to paralyze or shut the soul up in despair."
@@ -57,4 +57,4 @@ The verse, rich with Gospel themes, serves as a link between the synoptic Gospel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

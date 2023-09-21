@@ -9,7 +9,7 @@ The verse being described is one in which the commentator highlights the readers
 2. "which was spoken, 'published,' as E. V. See reff. This meaning, which ῥῆμα itself renders necessary, is further supported by καθʼ ὅλης τ. Ἰουδ., which can only be properly said, and is used by Luke (only, see reff.) of a publication, or spreading of a rumour, not of the happening of an event or series of events relating to one person."
 3. "It was from Galilee first that the fame of Jesus went abroad, as Luke himself relates, Luke 4:14; Luke 4:37 (44 v. r.); Acts 7:17; Acts 9:6 (Act 23:5). Galilee also was the nearest to Cæsarea, and may have been for this reason expressly mentioned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The facts, it seems, were too notorious and extraordinary to be unknown to those who mixed so much with Jews, and took so tender an interest in all Jewish matters as they did."
 2. "They knew not the significance of them."
 3. "The word [of Jesus] was published throughout all Judea, and began from Galilee."
@@ -57,4 +57,4 @@ The verse being described is one in which the commentator highlights the readers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

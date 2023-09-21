@@ -4,7 +4,7 @@
 In this verse, the imagery of a wedding is used to depict the deep spiritual union between Christ and the Church. It also highlights how the false religious system, symbolized by Babylon, used sorcery and deception to manipulate and lead people astray. The verse further portrays the downfall of Babylon, once a prosperous city with influential merchants, now left desolate and deprived of all comforts. The commentary emphasizes the corrupting influence of wealth and status, which led the merchants to indulge in pride, luxury, and various sins.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They need no candle (just as Babylon shall no more have the light of a candle, but for a widely different reason), for the Lord God giveth them light."
 2. "Contrast the heavenly city, with its Bridegroom, Bride, and blessed marriage supper."
 3. "The great men of... were thy merchants."
@@ -42,4 +42,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

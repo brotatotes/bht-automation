@@ -9,7 +9,7 @@ The verse being described reflects on the encounter between Jesus and Nicodemus,
 2. "The proselyte might be regarded as born again, when he became one of the seed of Abraham."
 3. "He therefore rebuts the assertion with a reductio ad absurdum, which in spirit expresses, as in ch. John 6:60, 'This is a hard saying; who can hear it?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The figure of the new birth, if it had been meant only of Gentile proselytes to the Jewish religion, would have been intelligible enough to Nicodemus, being quite in keeping with the language of that day."
 2. "But that Jews themselves should need a new birth was to him incomprehensible."
 3. "The new birth is not a mere outward change, but a radical transformation of the innermost being."
@@ -57,4 +57,4 @@ The verse being described reflects on the encounter between Jesus and Nicodemus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes the peace that can only come from God, a peace that surpasse
 2. "It is of course true, that mutual concord, and τὸ ἐπιεικές, are necessary elements of this peace: but it goes far beyond them." 
 3. "The heart is the fountain of the thoughts, i.e. designs, plans (not minds, as E. V.): so that this expression is equivalent to 'your hearts themselves, and their fruits.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The inseparable consequence of thus laying everything before God in 'prayer with thanksgiving.'"
 2. "Peace—the dispeller of 'anxious care.'"
 3. "The peace of God—coming from God, and resting in God—surpasseth, or exceedeth, all man's notional powers of understanding its full blessedness."
@@ -61,4 +61,4 @@ These quotes highlight the concept of finding peace through complete trust in Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described warns against being unequally yoked with unbelievers. Commentators emphasize the need for believers to carefully avoid such partnerships, as they can lead to snares, temptations, and distress. The verse specifically addresses marriage but extends to all forms of unnecessary intimacy or association with unbelievers. The contrast between light and darkness and the incompatible fellowship of righteousness and iniquity are highlighted to emphasize the importance of spiritual alignment in all relationships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer and unbeliever are utterly heterogeneous."
 2. "Too close intercourse with unbelievers in other relations also is included."
 3. "The state of the believer, justified by faith."
@@ -52,4 +52,4 @@ The Bible verse being described warns against being unequally yoked with unbelie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

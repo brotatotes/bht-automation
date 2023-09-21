@@ -9,7 +9,7 @@ In this Bible verse, a woman named Mary stands outside of the tomb, weeping and 
 2. "εἱστήκει, was standing, strictly imperfect: not ‘had been standing.’" 
 3. "The use of the imperfect tense here suggests that she had been standing for some time, indicating her persistence and determination."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Brief was the stay of those two men."
 2. "Mary, arriving perhaps by another direction after they left, lingers at the spot, weeping for her missing Lord."
 3. "As she gazes through her tears on the open tomb, she also ventures to stoop down and look into it, when lo! 'two angels in white' appear to her."
@@ -52,4 +52,4 @@ In this Bible verse, a woman named Mary stands outside of the tomb, weeping and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The religious leaders, aware of the potential for unrest among the large gatheri
 2. "Notice also ἔσται, not γενήσεται: 'ne, quod suspicamur, tumultus futurus sit,' h. e. 'erit alioquin (neque enim oriendi notio inculcatur), ut suspicamur, tumultus.'"
 3. "C. F. Fritzsche, in Fritzschiorum Opuscula, p. 285."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In consequence of the vast influx of strangers, embracing all the male population of the land who had reached a certain age, there were within the walls of Jerusalem at this festival some two million people; and in their excited state, the danger of tumult and bloodshed among 'the people,' who for the most part took Jesus for a prophet, was extreme." 
 
 2. "What plan, if any, these ecclesiastics fixed upon for seizing our Lord, does not appear. But the proposal of Judas being at once and eagerly gone into, it is probable they were till then at some loss for a plan sufficiently quiet and yet effectual."
@@ -39,4 +39,4 @@ The religious leaders, aware of the potential for unrest among the large gatheri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

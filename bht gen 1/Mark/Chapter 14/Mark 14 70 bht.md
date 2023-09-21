@@ -9,7 +9,7 @@ In this verse, a significant event is about to occur within a short period of ti
 2. "καὶ γάρ" - This phrase introduces a reason or explanation for what has been previously stated, indicating that there is more to be revealed or understood.
 3. "for, in addition to all that has been hitherto said" - This phrase implies that there is additional information or evidence that supports the previous statements, emphasizing the importance of what follows.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Galilean dialect had a more Syrian cast than that of Judea."
 2. "If Peter had held his peace, this peculiarity had not been observed; but hoping, probably, to put them off the scent by joining in the fireside talk, he was thus discovered."
 3. "No doubt his relationship to Malchus drew his attention to the man who had smitten him, and this enabled him to identify Peter."
@@ -30,4 +30,4 @@ In this verse, a significant event is about to occur within a short period of ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

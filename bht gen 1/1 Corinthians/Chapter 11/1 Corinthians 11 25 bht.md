@@ -9,7 +9,7 @@ In this verse, we find the institution of the Lord's Supper, a meal that disting
 2. "The new covenant in (ratified by the shedding of, and therefore standing in, as its conditioning element) my blood." 
 3. "Not a general rule for all common meals of Christians; but a precept that as often as that cup is drunk, it should be in remembrance of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore, you Corinthians ought to separate common meals from the Lord's Supper."
 2. "The cup is the parchment-deed, as it were, on which My new covenant, or last will is written and sealed, making over to you all blessings here and hereafter."
 3. "The Lord's Supper brings to remembrance Christ and His sacrifice once for all for the full and final remission of sins."
@@ -59,4 +59,4 @@ In this verse, we find the institution of the Lord's Supper, a meal that disting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

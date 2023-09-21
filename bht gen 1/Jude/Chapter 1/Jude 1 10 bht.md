@@ -9,7 +9,7 @@ The verse described emphasizes the ignorance and arrogance of those who speak ev
 2. "But whatever things naturally, as the irrational animals, they understand."
 3. "In 2 Peter 2:12, the comparison to irrational creatures is not confined to the sort of knowledge which they have, but is extended to the persons themselves and their conduct."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They understand not, namely, the things of the spiritual world."
 2. "Whatever things naturally (by natural, blind instinct), as the unreasoning animals, they know."
 3. "The former 'know' implies deeper knowledge; the latter 'know,' the mere perception of the animal senses and faculties."
@@ -57,4 +57,4 @@ The verse described emphasizes the ignorance and arrogance of those who speak ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

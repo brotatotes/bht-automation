@@ -10,7 +10,7 @@ In the described Bible verse, the author references an appearance of Jesus to a 
 3. "Not here in its commoner meaning of 'once for all,' but at once, at one and the same time."
 4. "The circumstance of most of them remaining alive is mentioned apparently by way of strengthening the evidence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He 'appointed' this place, as one remote from Jerusalem, so that believers might assemble there more freely and securely."
 2. "The number of disciples (Acts 1:15) at Jerusalem shortly after, was one hundred and twenty, those in Galilee and elsewhere not being reckoned."
 3. "Andronicus and JUNIUS were, perhaps, of the number: they are said to be 'among the apostles' (who all were witnesses of the resurrection)."
@@ -41,4 +41,4 @@ In the described Bible verse, the author references an appearance of Jesus to a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

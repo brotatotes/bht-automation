@@ -9,7 +9,7 @@ This verse sheds light on a group of individuals who are engaged in a craft or t
 2. Dean Howson suggests that Alexander the coppersmith might have been one of the craftsmen who made these objects.
 3. This connection is based on the mention of Alexander the coppersmith in 2 Timothy 4:14.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whom he called together with the workmen of like occupation" - This verse highlights the unity and collaboration among the artisans who were called together to work on the temple. It emphasizes the importance of working together towards a common goal.
 
 2. "Artisans employed by the master-artificers" - This phrase sheds light on the skilled craftsmen who were chosen to contribute their expertise to the construction of the temple. It emphasizes the level of skill and craftsmanship required for this task.
@@ -61,4 +61,4 @@ This verse sheds light on a group of individuals who are engaged in a craft or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

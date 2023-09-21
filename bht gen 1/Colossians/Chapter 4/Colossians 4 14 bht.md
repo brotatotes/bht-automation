@@ -9,7 +9,7 @@ Luke, the beloved physician, is mentioned in the Bible verse. He was a companion
 2. "But this is too uncertain to be more than an interesting conjecture."
 3. "The absence of any honourable or endearing mention here may be owing to the commencement of this apostasy, or some unfavourable indication in his character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Luke ministered to Paul in his last imprisonment (2 Timothy 4:11)." 
 2. "Thus the allusion to his medical profession is appropriate in writing to men of Phrygia." 
 3. "Perhaps, already, his real character was betraying itself."
@@ -57,4 +57,4 @@ Luke, the beloved physician, is mentioned in the Bible verse. He was a companion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

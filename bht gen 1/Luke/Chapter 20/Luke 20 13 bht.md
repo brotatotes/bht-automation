@@ -4,7 +4,7 @@
 In this verse, the Lord is depicted as questioning what more can be done to address the unfruitfulness of his people. He resolves to send his beloved Son, emphasizing the magnitude of God's love and the significance of this mission. The verse also reveals a sense of hope, as there is a belief that the people might reverence the Son when they see him, despite their previous shortcomings. The narrative prompts reflection on the urgency of action, the importance of understanding the context, and the central theme of reverence throughout the Gospel accounts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having yet therefore one son, his well-beloved"; our Lord thus severing Himself from all merely human messengers, and claiming Sonship in its loftiest sense.
 2. "Surely"; implying the almost unimaginable guilt of not doing so.
 
@@ -31,4 +31,4 @@ In this verse, the Lord is depicted as questioning what more can be done to addr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

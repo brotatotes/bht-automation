@@ -4,7 +4,7 @@
 In this enigmatic vision, the Church shines brightly as a celestial body, adorned with divine light. She stands in bold authority, triumphantly surpassing the earthly realm, symbolizing her superiority over the kingdom of God. The moon, a metaphor for the Jewish dispensation, is placed beneath her feet, signifying the Church's ascendance. As her crown of victory, the stars represent the twelve tribes or apostles, a testament to her power and divine authority. Cloaked in radiant brilliance, the Church reveals a mature and resolute figure, grounded in the supernatural and indifferent to the transient world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Church, Israel first, and then the Gentile Church; clothed with Christ, 'the Sun of righteousness.' 'Fair as the moon, clear as the sun.' Clothed with the Sun, the Church is the bearer of divine supernatural light in the world." 
 2. "The moon, though standing above the sea and earth, is altogether connected with them and is an earthly light: sea, earth, and moon represent the worldly element, in opposition to the kingdom of God—heaven, the sun." 
 3. "The sun, moon, and twelve stars, are emblematical of Jacob, Leah, or else Rachel, and the twelve patriarchs, that is, the Jewish Church: secondarily, the Church universal, having under her feet, in due subordination, the ever changing moon, which shines with a borrowed light, emblem of the Jewish dispensation."
@@ -38,4 +38,4 @@ In this enigmatic vision, the Church shines brightly as a celestial body, adorne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

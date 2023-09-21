@@ -4,7 +4,7 @@
 The words spoken by certain individuals can be both empty and harmful. Like a gangrene, these words have a destructive and contagious impact, corrupting the thoughts and actions of others. They slowly erode and consume the well-being and unity of a community, leaving behind a lasting and pervasive negative effect. The consumption of these words is likened to the spread of a disease, eating away at the vital aspects of religion and destroying the very form of godliness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The consuming progress of mortification is the image."
 2. "They pretend to give rich spiritual pasture to their disciples: the only pasture is that of a spiritual cancer feeding on their vitals."
 3. "Hymenaeus...seems to have been readmitted into the Church and again to have troubled it."
@@ -52,4 +52,4 @@ The words spoken by certain individuals can be both empty and harmful. Like a ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

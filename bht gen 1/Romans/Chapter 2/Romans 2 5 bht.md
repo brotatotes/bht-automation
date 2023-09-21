@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the concept of treasuring up wra
 2. "ἀμεταν .] not admitting that μετάνοια to which God is leading thee."
 3. "ἐν ἡμέρᾳ, not for, nor = εἰς ἡμέραν, nor should it be rendered ‘against the day,’ as E. V. I need hardly remind any accurate scholar, that such an interpretation as ‘ἐν for εἰς’ is no where to be tolerated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What an awful idea is here expressed—that the sinner himself is amassing, like hoarded treasure, an ever accumulating stock of divine wrath."
 2. "The sinner is storing up wrath against himself, not just for any day, but for 'the day of wrath' - the day when God's righteous judgment will be revealed."
 3. "This warning is not just for the reckless, but also for those who boast of their purity of faith and life."
@@ -53,4 +53,4 @@ In this Bible verse, the commentators highlight the concept of treasuring up wra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

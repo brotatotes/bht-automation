@@ -9,7 +9,7 @@ In this verse, various commentators emphasize the dangers of false Christs and t
 2. "Whose appearance shall be κατ ʼ ἐνέργειαν τοῦ σατανᾶ (their father, ch. Joh 8:44), ἀποδεικνὺς ἑαυτὸν ὅτι ἐστὶν θεός, 2 Thessalonians 2:4."
 3. "And doubtless, in that their final reference, embrace also all the cases in which the Jews have more or less received those false Messiahs who have been foreshadowers of the great Antichrist, and indeed all the cases in which such a spirit has been shown by them, even in the absence of false Messiahs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the time of the true Christ to our time, sixty-four false Christs have been reckoned by whom they have been deceived" - Bengel
 
 2. "How strikingly has this been verified in the history of the Jews!" - Commentary
@@ -56,4 +56,4 @@ These quotes shed light on the importance of discerning true authority and being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

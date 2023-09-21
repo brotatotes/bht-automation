@@ -9,7 +9,7 @@ This verse underscores the need for continuous growth and development in faith. 
 2. "These virtues are all regarded as so many steps in advancing towards the ἐπίγνωσις of Christ, which is the great complex end of the Christian life."
 3. "The knowledge of Him is the imitation of Him: for as it is true that hereafter the seeing Him as He is will ensure our being perfectly like Him, so it is true that here the only way in any degree increasingly to see Him as He is, is to become increasingly like Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "be" would express the mere matter-of-fact being.
 2. "make" habitually, by the very fact of possessing these graces.
 3. "The full knowledge of Christ" is the goal towards which all these graces tend.
@@ -55,4 +55,4 @@ This verse underscores the need for continuous growth and development in faith. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

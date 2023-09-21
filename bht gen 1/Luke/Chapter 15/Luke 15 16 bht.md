@@ -9,7 +9,7 @@ In this well-known Bible verse, a character finds themselves in a state of deep 
 2. "His appetite even drove him to these for food."
 3. "We see him now in the depth of his misery, the sinner reaping the consequences of his sin in utter shame and extremity of need."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "was fain to fill," ate greedily of the only food he could get.
 2. "the hulls of a leguminous plant which in the East is the food of cattle and swine, and often the nourishment of the poorest in times of distress."
 3. "This was his lowest depth—perishing unpitied, alone in the world, and ready to disappear from it unmissed! But this is just the blessed turning-point; midnight before dawn of day."
@@ -50,4 +50,4 @@ In this well-known Bible verse, a character finds themselves in a state of deep 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The hostility and persecution Jesus faced from the Jews was relentless and extre
 2. "Persecuted is the best word for it."
 3. "This word carries the idea of pursuing with hostile intent, seeking to harm or oppress."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What to these hypocritical religionists was the doing of the most glorious and beneficent miracles, compared with the atrocity of doing them on the sabbath day!"
 2. "Having given them this handle, on purpose to raise the first public controversy with them, and thus open a fitting opportunity of laying His claims before them."
 3. "He rises at once to the whole height of them, in a statement which for grandeur and terseness exceeds almost anything that ever afterwards fell from Him, at least to His enemies."
@@ -45,4 +45,4 @@ The hostility and persecution Jesus faced from the Jews was relentless and extre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

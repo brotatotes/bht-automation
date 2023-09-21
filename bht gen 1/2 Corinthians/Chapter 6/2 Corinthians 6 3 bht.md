@@ -9,7 +9,7 @@ The verse calls for believers to be mindful of their actions, avoiding behaviors
 2. "μηδενί, in nothing, compare ἐν παντί, below: not, ‘in no man’s estimation,’ as Luther. μηδεμ., μηδενί, are not = οὐδεμ. οὐδενί, but, see on ch. 2 Corinthians 5:21, subjectively said we exhort, being such as give, &c."
 3. "The διακονία, the office itself, would be reproached, if cause of offence were found in the character of its bearers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Giving no offense" - This phrase emphasizes the importance of avoiding actions or behaviors that could cause others to stumble or be led astray. It reminds us to be mindful of our conduct and how it may impact others.
 2. "Approving ourselves" - This highlights the need for believers to demonstrate their faith through their actions and character. It speaks to the idea that our lives should reflect the values and teachings of Christ, serving as a testimony to others.
 3. "Offense would be given if we were without 'patience' and the other qualifications" - This statement underscores the significance of cultivating virtues such as patience, kindness, and self-control. It suggests that these qualities are essential in maintaining healthy relationships and avoiding unnecessary conflicts or misunderstandings.
@@ -52,4 +52,4 @@ The verse calls for believers to be mindful of their actions, avoiding behaviors
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

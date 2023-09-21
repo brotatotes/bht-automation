@@ -11,7 +11,7 @@ The scripture speaks of a sure foundation and cornerstone on which believers can
 
 3. "See ch. Romans 9:33." - This quote directs readers to another chapter in Romans that further supports the idea that faith in God leads to salvation and prevents shame.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the scripture saith—in Isaiah 28:16, a glorious Messianic passage."
 2. "Whosoever believeth on him shall not be ashamed—Here, as in Isaiah 28:16- :, the quotation is from the Septuagint."
 3. "Shall not make haste (that is, fly for escape, as from conscious danger), 'shall not be put to shame,' which comes to the same thing."
@@ -59,4 +59,4 @@ The scripture speaks of a sure foundation and cornerstone on which believers can
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

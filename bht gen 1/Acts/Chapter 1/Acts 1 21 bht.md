@@ -9,7 +9,7 @@ The chosen verse speaks of the replacement of Judas, emphasizing the need for so
 2. "This definition of the necessary qualification of an apostle exactly agrees with our Lord’s saying in John 15:27."
 3. "An abridged construction for εἰσῆλθ . ἐφ ʼ ἡμᾶς κ . ἐξῆλθ . ἀφ ʼ ἡμῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'went in and out among us' emphasizes the constant presence and accessibility of Jesus in the lives of his disciples. It highlights the intimate relationship he had with them, as he walked alongside them, taught them, and shared in their daily experiences."
 
 2. "The mention of 'three years' public life' reminds us of the duration of Jesus' ministry on earth. It signifies the significant amount of time he spent with his disciples, investing in their growth, and preparing them for the mission that lay ahead."
@@ -50,4 +50,4 @@ The chosen verse speaks of the replacement of Judas, emphasizing the need for so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this deeply personal and heartfelt letter, the writer, who identifies himself
 2. "To what grade in the ministry he belonged, it is idle to enquire: nor does Col 4:17 furnish us with any data."
 3. "Meyer remarks the tact of the Apostle in associating with Philemon those connected with his house, but not going beyond the limits of the house."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prisoner of Jesus Christ - one whom Christ's cause has made a prisoner." This quote highlights the idea that the writer sees themselves as being bound to the cause of Christ, willingly surrendering their freedom for the sake of spreading the Gospel.
 
 2. "He does not call himself... 'Paul an apostle,' as he is writing familiarly, not authoritatively." This quote suggests that the writer is adopting a more personal and intimate tone in this particular letter, emphasizing a sense of closeness and camaraderie with the recipients.
@@ -57,4 +57,4 @@ In this deeply personal and heartfelt letter, the writer, who identifies himself
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

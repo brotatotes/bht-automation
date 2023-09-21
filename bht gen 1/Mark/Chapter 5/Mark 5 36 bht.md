@@ -11,7 +11,7 @@ In this Bible verse, Jesus demonstrates His omniscience by overhearing a message
 
 3. "Used in this Edition when elz and Steph agree." This refers to the Textus Receptus, a Greek Testament that is considered reliable when the editions by Elzevir and Stephanus align. This implies that the inclusion of Jesus overhearing the message is supported by these authoritative sources.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not afraid, only believe" - words of unchanging preciousness and power! This quote highlights the reassurance and encouragement Jesus offers to the father, reminding him to have faith and trust in Him.
 2. "How vividly do such incidents bring out Christ's knowledge of the human heart and tender sympathy!" This quote emphasizes Jesus' deep understanding of human emotions and His compassionate nature.
 3. "Jesus, knowing how the heart of the agonized father would sink at the tidings... hastens to reassure him." This quote showcases Jesus' awareness of the father's distress and His immediate response to alleviate his fears.
@@ -45,4 +45,4 @@ In this Bible verse, Jesus demonstrates His omniscience by overhearing a message
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

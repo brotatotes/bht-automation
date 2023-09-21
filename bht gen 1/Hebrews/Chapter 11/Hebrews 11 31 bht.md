@@ -9,7 +9,7 @@ This verse speaks of a woman named Rahab, who was once a harlot, but through her
 2. "Clement of Rome devotes to her a whole chapter of his Epistle to the Corinthians, and has no idea of her other than as an harlot." 
 3. "Having received the spies with peace, so that they had nothing hostile to fear from her."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rahab showed her 'faith' in her confession, Joshua 2:9; Joshua 2:11, 'I know that Jehovah hath given you the land; Jehovah your God, is God in heaven above, and in earth beneath.'" 
 2. "Her former life adds to the marvel of her repentance, faith, and preservation (Matthew 21:31; Matthew 21:32)." 
 3. "Thus Paul, quoting the same examples (Hebrews 11:17; Hebrews 11:31) for the power of faith, as James (James 2:21; James 2:25) does for justification by works evidentially, shows that in maintaining justification by faith alone, he means not a dead faith, but 'faith which worketh by love' (James 2:25)."
@@ -54,4 +54,4 @@ This verse speaks of a woman named Rahab, who was once a harlot, but through her
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse encourages believers to not just passively listen to the word, but to 
 
 3. "The 'hearer only' does this, when he infers that the mere sound of the word received in his outward ear will suffice for him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be ye doers . . . not hearers only": This emphasizes the importance of taking action and implementing what is heard, rather than just passively listening. 
 
 2. "Be doers systematically and continually": This suggests that being a doer of the word should be a consistent and intentional practice, not just a one-time occurrence. 
@@ -52,4 +52,4 @@ The verse encourages believers to not just passively listen to the word, but to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

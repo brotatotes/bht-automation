@@ -9,7 +9,7 @@ In this verse, we see a picture of God's provision and the principle of equality
 2. "The fact of equality being the only point brought into comparison as between the Israelites of old and Christians now." 
 3. "It is superfluous to enquire minutely how this equality was wrought among the Israelites."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As God gave an equal portion of manna to all the Israelites, whether they could gather much or little; so Christians should promote by liberality an equality." 
 2. "None should need the necessaries of life while others have superfluities." 
 3. "Our luxuries should yield to our neighbor's comforts; and our comforts to his necessities."
@@ -40,4 +40,4 @@ In this verse, we see a picture of God's provision and the principle of equality
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

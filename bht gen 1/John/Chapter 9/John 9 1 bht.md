@@ -9,7 +9,7 @@ As Jesus made his way, he came across a blind man who had been in that condition
 2. "The blind man was sitting begging, possibly proclaiming the fact of his having been so born; for otherwise the disciples could hardly have asked the following question." 
 3. "The incident may have been in the neighbourhood of the temple, but doubtless there were other places where beggars sat, besides the temple entrances."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus saw beyond the physical condition of the blind man and recognized his deeper need for healing and restoration."
 2. "The fact that the blind man was begging highlights the desperation and helplessness he must have felt, relying on the mercy and generosity of others."
 3. "This encounter challenges us to see beyond outward appearances and to have compassion for those who are marginalized and in need."
@@ -52,4 +52,4 @@ As Jesus made his way, he came across a blind man who had been in that condition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

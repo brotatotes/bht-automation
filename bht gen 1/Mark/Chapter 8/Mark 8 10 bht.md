@@ -9,7 +9,7 @@ In this Bible verse, Jesus intentionally moves towards the region of Magdala, sh
 2. "A striking instance of the independence of Mark: called by the Harmonists 'an addition to St. Matthew's narrative, to show his independent knowledge of the fact.'" 
 3. "What very anomalous writers the Evangelists must have been!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Magdala and Dalmanutha were both on the western shore of the lake, and probably not far apart."
 2. "From the former the surname 'Magdalene' was probably taken, to denote the residence of Mary Magdalene."
 3. "Dalmanutha may have been a village, but it cannot now be identified with certainty."
@@ -49,4 +49,4 @@ In this Bible verse, Jesus intentionally moves towards the region of Magdala, sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

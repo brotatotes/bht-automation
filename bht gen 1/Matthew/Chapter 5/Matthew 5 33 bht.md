@@ -4,7 +4,7 @@
 In this Bible verse, commentators emphasize that Jesus is addressing the issue of swearing in various contexts. They clarify that Jesus is not condemning all swearing, but specifically swearing in common and frivolous situations. The commentators also highlight the importance of performing one's oaths and fulfilling promises made to God. They explain that the Jews had misconceptions about oaths, focusing only on the truthfulness rather than the reverence for God's name involved. Overall, Jesus challenges their erroneous beliefs and emphasizes the significance of truthful and meaningful oaths.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Swear not at all—That this was meant to condemn swearing of every kind and on every occasion—as the Society of Friends and some other ultra-moralists allege—is not for a moment to be thought."
 2. "Evidently, it is swearing in common intercourse and on frivolous occasions that is here meant."
 3. "Against all this our Lord now speaks decisively; teaching His audience that every oath carries an appeal to God, whether named or not."
@@ -38,4 +38,4 @@ In this Bible verse, commentators emphasize that Jesus is addressing the issue o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

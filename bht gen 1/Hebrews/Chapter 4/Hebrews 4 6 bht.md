@@ -11,7 +11,7 @@ The verse under discussion highlights the concept of God's rest, which remains t
 
 Note: The commentary is quite lengthy and difficult to understand, but these quotes provide some insight into the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The denial of entrance to unbelievers is a virtual promise of entrance to those that believe."
 2. "God wishes not His rest to be empty, but furnished with guests."
 3. "They to whom it was first preached entered not...in type."
@@ -47,4 +47,4 @@ Note: The commentary is about Hebrews 4:6-7.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

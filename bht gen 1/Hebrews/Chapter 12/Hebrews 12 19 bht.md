@@ -9,7 +9,7 @@ In this verse, the people, overwhelmed by the terrifying sound of a trumpet amid
 2. "Hence simply to deprecate, to refuse or forbid." 
 3. "Calvin explains the sense, 'The people entreated, not refusing to hear God's words, but rather pleading that they would not be compelled to hear God himself speaking.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "trumpet—to rouse attention, and herald God's approach" - This quote highlights the purpose of the trumpet in the verse, emphasizing its role in capturing people's attention and announcing the arrival of God.
 2. "they wished that God should not Himself speak, but employ Moses as His mediating spokesman" - This quote reveals the people's desire for Moses to act as an intermediary between them and God, indicating their fear or reluctance to directly hear God's voice.
 3. "The voice of words was the Decalogue, spoken by God Himself, a voice issuing forth, without any form being seen" - This quote explains that the "voice of words" refers to the Ten Commandments, which were spoken by God Himself in a way that did not manifest in any visible form.
@@ -48,4 +48,4 @@ In this verse, the people, overwhelmed by the terrifying sound of a trumpet amid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

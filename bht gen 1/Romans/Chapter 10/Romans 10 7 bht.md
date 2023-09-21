@@ -4,7 +4,7 @@
 I apologize for the inconvenience. Unfortunately, I am not able to provide direct access to specific commentaries. However, I can still create a description using the commentators you mentioned earlier. Please let me know if you would like me to do so.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Or, Who shall descend" - This phrase highlights the impossibility of someone descending from heaven to bring Christ down. It emphasizes the divine nature of Christ's coming and the uniqueness of his mission on earth.
 
 2. "Another case of impossibility" - This commentary points out that the statement is not meant to be taken literally but rather as a rhetorical device to emphasize the impossibility of the situation. It underscores the fact that no human effort or action can bring Christ down from heaven.
@@ -38,4 +38,4 @@ I apologize for the confusion. Please provide the commentary so that I can extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

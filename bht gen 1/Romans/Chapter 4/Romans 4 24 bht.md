@@ -9,7 +9,7 @@ This Bible verse emphasizes the importance of faith and the resurrection of Jesu
 2. "The omission may in this phrase be accounted for by the preposition."
 3. "I suspect Winer is right in looking for the cause of the absence of the article after prepositions rather in the usage of the particular substantive than in any idiom of general application."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Belief in the resurrection of Jesus is the cornerstone of our faith. It is through this belief that our sins are imputed to us, and we are justified before God." 
 2. "Abraham's faith in God's promise of a seed through whom all nations would be blessed foreshadows our belief in Jesus as the ultimate fulfillment of that promise." 
 3. "Just as Abraham believed in the power of God to bring forth life from the dead, we too must have faith in the resurrection power of Jesus."
@@ -55,4 +55,4 @@ This Bible verse emphasizes the importance of faith and the resurrection of Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

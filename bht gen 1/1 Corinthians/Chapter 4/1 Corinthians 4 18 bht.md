@@ -11,7 +11,7 @@ The verse described is one where Paul addresses the Corinthians' misconceptions 
 
 3. "ὡς expresses the assumption in their minds" - The word "ὡς" is used to convey the assumption or belief held by the individuals mentioned.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He guards against some misconstruing (as by the Spirit he foresees they will, when his letter shall have arrived) his sending Timothy, 'as though' he 'would not come' (or, 'were not coming') himself."
 2. "A puffed-up spirit was the besetting sin of the Corinthians."
 3. "The Corinthians had a tendency to misinterpret Paul's actions and intentions."
@@ -56,4 +56,4 @@ Note: The provided commentary is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

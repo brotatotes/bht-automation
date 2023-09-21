@@ -9,7 +9,7 @@ In this verse, the speaker expresses ironic self-disparagement, acknowledging th
 2. "Most expositors (1) refer λέγω back to 2 Corinthians 11:20, ‘I say it’ ‘I speak,’ as E. V. So Chrys., Theophyl., Theodoret, Pelag., Erasm., Calv., al."
 3. "But (1) can hardly be, seeing that λέγω below and λαλῶ 2Co 11:23 have a forward reference."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By way of dishonor (that is, self-disparagement) I say it." 
 2. "An ironical reminiscence of his own abstinence when among them from all these acts of self-exaltation at their expense."
 3. "I speak so as though WE had been weak when with you, because we did not show our power this way."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

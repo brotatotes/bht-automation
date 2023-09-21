@@ -4,7 +4,7 @@
 The described Bible verse portrays a magnificent and symmetrical city, glowing with glory and perfection. With a faultless symmetry and immense height, it is meant to contain vast numbers of redeemed inhabitants. The shape of the city is akin to a perfect cube, reminiscent of the Holy of Holies in the tabernacle. Its dimensions, whether twelve thousand furlongs for each side or in total, symbolize the people of God and the heavenly realm. The focus, however, should not be on literal measurements, but on the profound idea that this city will be expansive enough to embrace all of God's beloved.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The stupendous height, length, and breadth being exactly alike, imply its faultless symmetry, transcending in glory all our most glowing conceptions."
 2. "One thousand furlongs being the space between the several twelve gates."
 3. "BENGEL makes the length of each side of the city to be twelve thousand stadii."
@@ -38,4 +38,4 @@ The described Bible verse portrays a magnificent and symmetrical city, glowing w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

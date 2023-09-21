@@ -11,7 +11,7 @@ The Bible verse emphasizes that the kingdom of God is not dependent on material 
 
 Note: The commentary is quite lengthy and difficult to understand. These quotes were selected as they provide a concise and meaningful understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of God... is not meat and drink but righteousness, and peace, and joy in the Holy Ghost." 
 2. "The first - 'righteousness' - has respect to God, denoting here 'rectitude,' in its widest sense."
 3. "The second - 'peace' - has respect to our neighbors, denoting 'concord' among brethren."
@@ -56,4 +56,4 @@ Note: The commentary is quite lengthy and difficult to understand. These quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

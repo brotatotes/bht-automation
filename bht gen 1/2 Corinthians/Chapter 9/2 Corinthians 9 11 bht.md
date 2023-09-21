@@ -9,7 +9,7 @@ This Bible verse encourages believers to have a generous and selfless attitude t
 2. "Which brings about by our means thanksgiving to God." 
 3. "In order that you may show all liberality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bountifulness" in this context refers to a "single-minded liberality," emphasizing the generosity and selflessness of the giver.
 2. The phrase "causeth through us" highlights the idea that the act of giving is not just a personal action, but also a means through which God works and blesses others.
 3. The mention of "thanksgiving" suggests that the recipients of the generosity are not only grateful for the material provision but also recognize and appreciate the spiritual significance of the act.
@@ -55,4 +55,4 @@ This Bible verse encourages believers to have a generous and selfless attitude t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

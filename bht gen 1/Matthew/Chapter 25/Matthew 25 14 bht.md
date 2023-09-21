@@ -9,7 +9,7 @@ In this parable, the commentator draws attention to the metaphorical nature of t
 2. "In it we have the active side of the Christian life, and its danger, set before us, as in the last the contemplative side."
 3. "The parable is still concerned with Christians (τοὺς ἰδίους δούλους), and not the world at large."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the kingdom of heaven is as a man—The ellipsis is better supplied by our translators in the corresponding passage of Mark ( :-), '[For the Son of man is] as a man,' c., travelling into a far country—or more simply, 'going abroad.'"
 2. "His 'goods' mean all their gifts and endowments, whether original or acquired, natural or spiritual."
 3. "Christ has a claim to everything which belongs to His people, everything which may be turned to good, and He demands its appropriation to His service."
@@ -50,4 +50,4 @@ These quotes highlight the main message of the commentary, emphasizing the impor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

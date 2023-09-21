@@ -9,7 +9,7 @@ The verse being described talks about the collaborative efforts of Paul and Apol
 2. "These do not yet appear in the construction."
 3. "Apollos was sent over to Corinth after Paul had left it, at his own request, and remained there preaching during Paul’s journey through Upper Asia."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apollos at his own desire was sent by the brethren to Corinth, and there followed up the work which Paul had begun." 
 2. "God gave the increase—that is, the growth." 
 3. "Though ministers are nothing, and God all in all, yet God works by instruments, and promises the Holy Spirit in the faithful use of means."
@@ -52,4 +52,4 @@ The verse being described talks about the collaborative efforts of Paul and Apol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the anger of the nations is contrasted with the overpowering anger of God. The final judgment is depicted, when Christ will punish his enemies and reward his faithful followers. The arrival of Jesus brings about the fulfillment of prophecies and desires that could not be achieved in His absence. The verse also speaks to the vindication and avenging of those who suffered for their faith. The actions described will lead to the destruction of those who opposed God's reign and the restoration of justice on the earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The nations were angered, and Thy anger is come." - This quote highlights the juxtaposition of human anger with the omnipotent anger of God, emphasizing the insignificance of human rage in comparison to God's power.
 
 2. "The seventh trumpet is at the end of all things, when the judgment on Christ's foes and the reward of His saints shall take place." - This quote suggests that the seventh trumpet signifies the final judgment and the culmination of God's plan, bringing both punishment for Christ's enemies and rewards for His faithful followers.
@@ -51,4 +51,4 @@ Note: The quotes have been shortened for the purpose of meeting the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

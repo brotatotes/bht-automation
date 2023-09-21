@@ -9,7 +9,7 @@ God is ever-present, working in us according to His good pleasure, not because o
 2) "The θέλειν and ἐνεργεῖν are well explained by Calvin: 'Fatemur, nos a natura habere voluntatem: sed quoniam peccati corruptione mala est, tunc bona esse incipit, quum reformata est a Deo.'"
 3) "Do all things for the sake of (to carry out) your own good pleasure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The will, and the power to work, being first instalments of His grace, encourage us to make full proof of, and carry out to the end, the 'salvation' which He has first 'worked,' and is still 'working in' us, enabling us to 'work it out.'" 
 2. "Man is, in different senses, entirely active, and entirely passive: God producing all, and we acting all. What He produced is our own acts." 
 3. "God makes a new heart, and we are commanded to make us a new heart; not merely because we must use the means in order to the effect, but the effect itself is our act and our duty."
@@ -57,4 +57,4 @@ God is ever-present, working in us according to His good pleasure, not because o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

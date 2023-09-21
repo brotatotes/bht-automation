@@ -4,7 +4,7 @@
 In this verse, the Lord, with His profound compassion, sees the widow's heartbreaking situation, aware of her loss and solitary state. His words, "Weep not," bring both comfort and assurance, revealing His desire to assist her. This passage showcases God's unwavering care and understanding, reminding us that even in the midst of our deepest sorrows, He is present, ready to offer solace and transform our mourning into joy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord" - This appellation is more commonly used by Luke and John, highlighting the significance of this moment in Matthew's gospel. (BENGEL)
 2. "He had compassion" - The Lord's compassion in this verse has brought comfort to countless mourners throughout history. (BENGEL)
 3. "What consolation" - This single verse has carried immense consolation from generation to generation, offering solace to those who have experienced loss. (BENGEL)
@@ -35,4 +35,4 @@ In this verse, the Lord, with His profound compassion, sees the widow's heartbre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

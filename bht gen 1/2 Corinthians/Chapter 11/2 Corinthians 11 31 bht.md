@@ -4,7 +4,7 @@
 The verse, spoken by an apostle, conveys a solemn oath upheld by the speaker's unwavering integrity. The commentator notes that the form of this pious oath calls God as a witness to the truth being declared. It highlights the trustworthiness of the speaker, affirmed by the omniscience and divine favor of God, who is the searcher of hearts. Additionally, the verse concludes with a doxology, giving praise and honor to the eternal and blessed God, who is the source of happiness for all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This solemn asseveration refers to what follows."
 2. "The persecution at Damascus was one of the first and greatest."
 3. "He appeals to God for its truth."
@@ -45,4 +45,4 @@ The verse, spoken by an apostle, conveys a solemn oath upheld by the speaker's u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage describes a remarkable event in which a girl is restored to life by
 2. "The testimony of Mark here precludes all idea of a recovery from a mere paroxysm καὶ περιεπάτει."
 3. "Every part of the narrative combines to declare that the death was real, and the miracle a raising from the dead, in the strictest sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'give her meat' implies that the virtuous woman is not only concerned with the spiritual needs of her household but also with their physical well-being." 
 
 2. "This verse highlights the importance of providing nourishment and sustenance to those under our care, showing that the virtuous woman is diligent in meeting the practical needs of her family." 
@@ -37,4 +37,4 @@ This passage describes a remarkable event in which a girl is restored to life by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

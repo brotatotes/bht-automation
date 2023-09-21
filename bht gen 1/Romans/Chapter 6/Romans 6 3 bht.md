@@ -9,7 +9,7 @@ Through baptism, believers are united with Christ and partake in his death. This
 2. "...in His capacity of spiritual Mastership, Headship, and Pattern of conformity..."
 3. "...the meaning being kept in the background, but all the while not lost sight of, that the benefits of His Death were likewise made ours by our introduction into the covenant."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And since He was 'made sin' and 'a curse for us,' our whole sinful case and condition, thus taken up into His Person, has been brought to an end in His death."
 2. "Whoso, then, has been baptized into Christ's death has formally surrendered the whole state and life of sin, as in Christ a dead thing."
 3. "He has sealed himself to be not only 'the righteousness of God in Him,' but 'a new creature'; and as he cannot be in Christ to the one effect and not to the other, for they are one thing."
@@ -53,4 +53,4 @@ Through baptism, believers are united with Christ and partake in his death. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

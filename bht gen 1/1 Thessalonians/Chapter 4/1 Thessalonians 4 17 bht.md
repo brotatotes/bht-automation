@@ -4,7 +4,7 @@
 In this verse, commentators highlight the concept of believers being caught up together with the risen saints, with no distinction between the living and the dead. They mention the swift and divine nature of this event, as believers will be elevated in the air to meet the Lord. The gathering in the air is seen as a token of the new conditions and identifies believers with Christ. The ultimate outcome is the eternal life and residence with Him, where believers will be united and ever with the Lord.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we," recommending thus the expression to Christians of all ages, each generation bequeathing to the succeeding one a continually increasing obligation to look for the coming of the Lord.
 2. The same honor is conferred on them as on their Lord. As He was taken in a cloud at His ascension, so at His return with clouds, they shall be caught up in clouds.
 3. caught up into the region just above the earth, where the meeting shall take place between them ascending, and their Lord descending towards the earth.
@@ -50,4 +50,4 @@ In this verse, commentators highlight the concept of believers being caught up t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

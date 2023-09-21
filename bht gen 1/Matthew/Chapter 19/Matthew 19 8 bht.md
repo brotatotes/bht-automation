@@ -4,7 +4,7 @@
 In this passage, we are reminded that Moses, as a civil lawgiver, allowed for divorces due to the hardness of their hearts and the low moral state of the people. However, this permission was temporary and not meant to be perpetual. The original law of marriage, established since the beginning, intended for it to be between one man and one woman, without any allowances for divorce. The Mosaic regulations were given to accommodate their sinful nature and were not intended to supersede God's original ordinance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses—as a civil lawgiver."
 2. "Because of the hardness of your hearts—looking to your low moral state, and your inability to endure the strictness of the original law."
 3. "But from the beginning it was not so—This is repeated, in order to impress upon His audience the temporary and purely civil character of this Mosaic relaxation."
@@ -38,4 +38,4 @@ In this passage, we are reminded that Moses, as a civil lawgiver, allowed for di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are reminded that the afflictions and trials we endure a
 2. "παιδείαν ὑπομένειν can only signify, ‘patiently to endure chastisement.’"
 3. "It is for chastisement that ye are enduring: as with sons, God is dealing with you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The most eminent of God's saints were the most afflicted."
 2. "We too much look at each trial by itself, instead of taking it in connection with the whole plan of our salvation."
 3. "The New Testament alone uses the Greek term for education (paideia), to express 'discipline' or correction, as of a child by a wise father."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded that the afflictions and trials we endure a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

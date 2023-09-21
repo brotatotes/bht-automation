@@ -4,7 +4,7 @@
 In this verse, we are reminded not to place too much value on earthly possessions and wealth. We are warned against the transient nature of material possessions, as they can be destroyed by various means such as rust, moths, or even theft. The verse urges us to prioritize heavenly treasures and guard our hearts against the allure of earthly riches. Ultimately, true security and fulfillment come from investing in eternal treasures rather than temporary wealth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lay not up for ourselves treasures upon earth—hoard not." - This quote emphasizes the importance of not placing too much value on earthly possessions and wealth.
 2. "By this reference to moth and rust our Lord would teach how perishable are such earthly treasures." - This quote highlights the transient nature of material possessions and the need to focus on eternal treasures.
 3. "Treasures these, how precarious!" - This quote underscores the vulnerability of earthly treasures to theft and reinforces the idea that true security lies in spiritual riches.
@@ -50,4 +50,4 @@ Note: The commentary provided is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

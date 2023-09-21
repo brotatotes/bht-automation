@@ -9,7 +9,7 @@ In this Bible verse, God's unwavering love and concern for each individual is be
 2. "The argument is to their self-interest: but the act on the part of the good Shepherd is, from the nature of the case, one of love."
 3. "The character of the good Shepherd is a sufficient warrant for their being well cared for."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Leave the ninety and nine—bend all His attention and care, as it were, to the one object of recovering the lost sheep." This quote highlights the immense love and concern that God has for each individual, emphasizing His willingness to go to great lengths to bring back those who are lost.
 
 2. "Not saying, 'It is but one; let it go; enough remain.'" This quote underscores the significance of every single person in God's eyes, rejecting the notion that one person is dispensable or insignificant. It emphasizes the value and worth that God places on each individual.
@@ -47,4 +47,4 @@ In this Bible verse, God's unwavering love and concern for each individual is be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

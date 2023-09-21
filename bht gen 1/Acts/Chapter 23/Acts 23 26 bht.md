@@ -9,7 +9,7 @@ The verse in question, written in the form of a letter, appears to be addressed 
 2. "From what source, is impossible to say, but it may be imagined that the contents transpired through some officers at Jerusalem or at Cæsarea friendly to Paul."
 3. "Such letters were called elogia: 'Desertorem auditum ad suum ducem cum elogio præses mittet,' 'with an abstract of the articles brought against him.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Claudius—the Roman name he would take on purchasing his citizenship." This quote highlights the significance of Claudius' decision to change his name upon acquiring Roman citizenship, indicating his desire to fully assimilate into Roman society.
 
 2. "Lysias—his Greek family name." This quote emphasizes the dual identity of Claudius, as he also retained his Greek family name, indicating his connection to his heritage and origins.
@@ -39,4 +39,4 @@ The verse in question, written in the form of a letter, appears to be addressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

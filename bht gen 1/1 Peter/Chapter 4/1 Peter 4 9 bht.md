@@ -11,7 +11,7 @@ In this verse, believers are encouraged to extend genuine hospitality to one ano
 
 3. "without murmuring (see ref. Phil. and note." - "without murmuring (see reference to Philippians and note)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not the spurious hospitality which passes current in the world, but the entertaining of those needing it, especially those exiled for the faith, as the representatives of Christ." 
 2. "All hospitality to whomsoever exercised from genuine Christian love." 
 3. "He that giveth, let him do it with simplicity, that is open-hearted sincerity; with cordiality."
@@ -60,4 +60,4 @@ In this verse, believers are encouraged to extend genuine hospitality to one ano
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

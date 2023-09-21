@@ -11,7 +11,7 @@ The verse in question addresses the importance of maintaining Jewish customs and
 
 3. "‘Pudori vobis foret et ignominiæ, si vos, homines Christiani … hac in re inferiores a Judæis deprehenderemini, quod vos communione cum epulis sacrificialibus polytheismo favere videremini, quum illi Judæi … monotheismo adhæreant tenacissime, eumque quavis septimana sibi inculcatum audiant,’ Heinrichs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For Moses of old time hath in every city them that preach him . . . every sabbath day" - This quote highlights the importance of maintaining Jewish customs and practices, even among Gentile converts. It emphasizes the need to respect and honor the traditions of both Jewish and Gentile believers in order to preserve unity in Christ.
 
 2. "Keeping alive in every Jew those feelings which such practices would shock" - This quote emphasizes the significance of these practices in preserving the cultural and religious identity of the Jewish people. It suggests that these practices serve as a reminder of their heritage and help to maintain a sense of belonging and connection to their faith.
@@ -58,4 +58,4 @@ The verse in question addresses the importance of maintaining Jewish customs and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

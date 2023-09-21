@@ -9,7 +9,7 @@ The disciples were called to a mission that involved testifying for and against 
 2. "The μαρτ. is in both senses a testimony to, and against them."
 3. "It was a testimony in the best sense to Sergius Paulus, Acts 13:7, but against Felix, Acts 24:25; and this double power ever belongs to the word of God as preached."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And ye shall be brought before governors—provincial rulers. and kings—the highest tribunals." - This quote highlights the potential persecution and trials that the disciples may face for their faith, emphasizing the seriousness of their mission.
 
 2. "For my sake, for a testimony against them—rather, 'to them,' in order to bear testimony to the truth and its glorious effects." - This quote suggests that the disciples' purpose in facing persecution is not just to condemn their oppressors but to share the truth of the Gospel and its transformative power.
@@ -35,4 +35,4 @@ The disciples were called to a mission that involved testifying for and against 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

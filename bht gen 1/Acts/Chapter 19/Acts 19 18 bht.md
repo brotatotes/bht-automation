@@ -9,7 +9,7 @@ In the midst of a community immersed in magical arts and deception, a transforma
 2. "Such persons now came forward and confessed their error."
 3. "The πράξεις of this verse denotes the association with such practices."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many that believed came and confessed... their deeds" - This quote highlights the transformative power of belief in the face of deception. It shows that true faith can lead individuals to acknowledge and repent for their past wrongdoings.
 
 2. "The dupes of magicians, &c., acknowledging how shamefully they had been deluded" - This quote emphasizes the vulnerability of those who fall prey to deceitful practices. It reminds us of the importance of discernment and the need to be cautious of false teachings.
@@ -57,4 +57,4 @@ Note: The commentary provided is a direct quote and has not been altered.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness the overwhelming and terrifying sight that Moses and t
 2. "So fearful was that which was revealed, which appeared to them as a vision of the glory and majesty of Jehovah." - The revelation on Sinai was a terrifying sight, a vision of the divine glory and majesty. (Commentary)
 3. "Moses said, I am in great terror and in trembling." - Although this saying of Moses is not found in the sacred narrative, it is likely that the writer transfers these words from another time to express the terror Moses felt in the presence of God. (Commentary)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the sight—the vision of God's majesty."
 2. "fear affected his mind: 'trembling,' his body."
 3. "He doubtless similarly 'feared' in hearing the ten commandments spoken by the voice of Jehovah."
@@ -50,4 +50,4 @@ In this verse, we witness the overwhelming and terrifying sight that Moses and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

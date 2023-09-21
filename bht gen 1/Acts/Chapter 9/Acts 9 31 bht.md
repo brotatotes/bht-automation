@@ -9,7 +9,7 @@ During this period, the believers experienced a time of rest and peace, as the p
 2. "Οἰκοδομουμένη: It probably refers to both external and internal strength and accession of grace. Paul commonly uses it of spiritual building up."
 3. "Κ. τ. παρακλ. τ. ἁγ. πν. ἐπληθ.: And was multiplied by the exhortation of (i.e. inspired by) the Holy Spirit. This is the only rendering which suits the usage of the words."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This rest was owing not so much to the conversion of Saul, as probably to the Jews being engrossed with the emperor Caligula's attempt to have his own image set up in the temple of Jerusalem."
 2. "This incidental notice of distinct churches already dotting all the regions which were the chief scenes of our Lord's ministry, and that were best able to test the facts on which the whole preaching of the apostles was based, is extremely interesting."
 3. "The occurrences here related probably took place during Saul's sojourn in Arabia."
@@ -55,4 +55,4 @@ During this period, the believers experienced a time of rest and peace, as the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

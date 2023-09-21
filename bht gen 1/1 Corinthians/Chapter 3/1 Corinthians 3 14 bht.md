@@ -11,7 +11,7 @@ This verse speaks of a test that awaits believers, where their work will be exam
 
 3. "Shall be rewarded for his faithful and effectual work as a teacher." - This quote emphasizes that the reward is not just for any work, but specifically for work that is faithful and effective, particularly in the context of teaching.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abide the testing fire." This quote highlights the idea that believers must endure trials and challenges, just as fire tests and refines precious metals. It implies that true faith is proven and strengthened through adversity.
 
 2. "Built on the foundation." This quote emphasizes the importance of building one's life and faith on the solid foundation of Christ. It suggests that a strong and secure spiritual life can only be established by aligning oneself with the teachings and principles of Jesus.
@@ -56,4 +56,4 @@ This verse speaks of a test that awaits believers, where their work will be exam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

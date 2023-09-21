@@ -9,7 +9,7 @@ In response to a challenging situation, James, who was known for his authority a
 2. "When his judgment, as well as that of Peter, is given in favour of the freedom of the Gentiles, the disputers, even of the Pharisaic party, are silenced."
 3. "The decision lay in the weightiness, partly no doubt of the person speaking, but principally of the matter spoken by him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whoever this James was, he was the acknowledged head of the church at Jerusalem." 
 2. "His decision, though given as his own judgment only, could not be of great weight with the opposing party." 
 3. "His conservative reverence for all Jewish usages within the circle of Israelitish Christianity."
@@ -52,4 +52,4 @@ In response to a challenging situation, James, who was known for his authority a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

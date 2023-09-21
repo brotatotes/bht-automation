@@ -4,7 +4,7 @@
 In this biblical verse, a young man, possibly Paul's nephew, discovers a conspiracy against Paul by the Jewish sanhedrim. It is suggested that the young man's education in Jerusalem might have allowed him to gather information about the conspiracy. His prompt action and courage in revealing the conspiracy thwarted the plans of the forty men or more. This event reveals the determination of the Jewish leaders to confront and accuse Paul before the council.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's sister's son—(See on Acts 9:30)." This quote refers to the biblical reference in Acts 9:30, indicating that Paul's nephew was mentioned in the Bible. 
 
 2. "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted." This quote suggests that Paul's nephew, being in Jerusalem for his education, may have learned about the conspiracy and acted promptly based on the information he received.
@@ -32,4 +32,4 @@ In this biblical verse, a young man, possibly Paul's nephew, discovers a conspir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

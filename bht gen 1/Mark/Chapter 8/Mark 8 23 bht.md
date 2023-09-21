@@ -9,7 +9,7 @@ In this particular Bible verse, Jesus leads a blind man out of the town, away fr
 2. "He did not wish multitudes to gather about and follow Him."
 3. "These things were in the Lord’s power, and He ordered them as He pleased from present circumstances, or for our instruction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He took the blind man by the hand, and led him out of the town...that He might gain his confidence and raise his expectation."
 2. "And when he had spit on his eyes...the organ affected."
 3. "And put his hands upon him, he asked him if he saw aught."
@@ -48,4 +48,4 @@ In this particular Bible verse, Jesus leads a blind man out of the town, away fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

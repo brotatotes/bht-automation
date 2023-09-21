@@ -9,7 +9,7 @@ In this verse, the commentators explore the concept of various gods and lords th
 2. "The Apostle does not concede this, but only puts it."
 3. "In the sense in which he uses θεοί (see above) there is no unlikelihood that he should assert this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whether in heaven or in earth, gods many and lords many." - The commentary highlights that there are various gods and lords that are recognized in different contexts, both in heaven and on earth. This suggests that the term "gods" can refer to deities in the celestial realm as well as earthly figures who are revered or deified.
 
 2. "Angels and men in authority are termed gods in Scripture." - The commentary emphasizes that angels and human beings who hold positions of authority are referred to as gods in the Bible. This indicates that the term "gods" can also be used to describe individuals who exercise power and authority that is delegated to them by God.
@@ -54,4 +54,4 @@ In this verse, the commentators explore the concept of various gods and lords th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

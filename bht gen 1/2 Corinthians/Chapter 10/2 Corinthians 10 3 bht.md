@@ -9,7 +9,7 @@ In this Bible verse, the writer addresses the accusation of walking according to
 2. "They who accuse us of walking after the flesh shall find that we do not war after the flesh."
 3. "Although we walk in the flesh, i.e. are found in the body, yet we do not take our apostolic weapons from the flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We walk IN the flesh, and so in weakness: but not 'ACCORDING TO the flesh'." 
 2. "Moreover, though we WALK in it, we do not WAR according to it." 
 3. "They who accuse us of walking after the flesh, shall find [to their cost] that we do not war after the flesh; therefore compel us not to use our weapons."
@@ -48,4 +48,4 @@ In this Bible verse, the writer addresses the accusation of walking according to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

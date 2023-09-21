@@ -4,7 +4,7 @@
 In this verse, we see a vibrant scene unfold as a multitude of people gather on the shore, eager to listen to Jesus' teachings. Standing on the beach, their anticipation and readiness are apparent. Meanwhile, Jesus, aware of the overwhelming crowd, seeks refuge in a boat, creating a physical barrier that allows him to speak clearly and comfortably. The boat becomes a platform from which he imparts his wisdom, while the people on the shore demonstrate their commitment to learning and their eagerness to receive his teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How graphic this picture!—no doubt from the pen of an eye-witness, himself impressed with the scene."
 2. "To the parables of our Lord there is nothing in all language to be compared, for simplicity, grace, fulness, and variety of spiritual teaching."
 3. "They are adapted to all classes and stages of advancement, being understood by each according to the measure of his spiritual capacity."
@@ -49,4 +49,4 @@ In this verse, we see a vibrant scene unfold as a multitude of people gather on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

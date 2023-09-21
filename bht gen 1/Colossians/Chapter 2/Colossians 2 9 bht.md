@@ -9,7 +9,7 @@ The verse being described highlights the doctrine that in Christ, all the fulnes
 2. "The fulness of the Godhead here spoken of must be taken, as indeed the context shows, metaphysically."
 3. "And ye are filled up with all divine gifts so that you need not any supplementary sources of grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their 'philosophy' is not 'after Christ,' as all true philosophy is, everything which comes not from, and tends not to, Him, being a delusion."
 2. "He, as man, was not merely God-like, but in the fullest sense, God."
 3. "Believers, by union with Him, partake of His fulness of the divine nature."
@@ -52,4 +52,4 @@ These quotes highlight the central doctrine that all the fulness of the Godhead 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

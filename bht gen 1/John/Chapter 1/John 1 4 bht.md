@@ -9,7 +9,7 @@ In this verse, the commentators emphasize that the Word, who is the source of al
 2. "κ. ἡ ζωὴ ἦν τ. φῶς τ. ἀνθ: This is not to be understood of the teaching of the Incarnate Logos, but of the enlightening and life-sustaining influence of the eternal Son of God."
 3. "All knowledge, all purity, all love, all happiness, spring up and grow from this life, which is the light to them all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Him was life—essentially and originally, as the previous verses show to be the meaning." 
 2. "Thus He is the Living Word, or, as He is called in 1 John 1:1; 1 John 1:2, 'the Word of Life.'"
 3. "All that in men which is true light—knowledge, integrity, intelligent, willing subjection to God, love to Him and to their fellow creatures, wisdom, purity, holy joy, rational happiness—all this 'light of men' has its fountain in the essential original 'life' of 'the Word' (1 John 1:5-7; Psalms 36:9)."
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize that the Word, who is the source of al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse addresses the Jews who take pride in being God's chosen people. It ch
 2. "No stress on ἐπ -, art named, ‘denominated,’ ‘hast the name put on thee.'"
 3. "The τῷ of the rec. has been inserted in the later MSS. before νόμῳ, because it here clearly applied to the ‘law of Moses,’ and the absence of the article gave offence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—"But if" is, beyond doubt, the true reading here." 
 
 2. "It differs but in a single letter from the received reading, and the sense is the same." 
@@ -59,4 +59,4 @@ These quotes highlight the commentary's emphasis on the insufficiency of externa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

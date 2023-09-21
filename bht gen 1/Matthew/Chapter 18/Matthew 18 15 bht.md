@@ -9,7 +9,7 @@ In this Bible verse, we are reminded of the importance of addressing conflicts w
 2. "This direction is only in case of personal offence against ourselves, and then the injured person is to seek private explanation, and that by going to his injurer, not waiting till he comes to apologize."
 3. "An attempt has apparently been made to render the passage applicable to sin in general, and so to give the Church power over sins upon earth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother." 
 2. "Take him aside, show him his fault, and if he own and make reparation for it, you have done more service to him than even justice to yourself."
 3. "If even this fail, regard him as no longer a brother Christian, but as one 'without'—as the Jews did Gentiles and publicans."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded of the importance of addressing conflicts w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

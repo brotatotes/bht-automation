@@ -4,7 +4,7 @@
 The Bible verse being described presents a scene where the lord of servants returns after a long time to reckon with them. Commentators point out that this signifies a future judgment where individuals will be held accountable. They caution against misinterpreting Jesus' teachings, particularly regarding His second coming, and warn against allowing enthusiasm for His return to lead to misguided expectations. The verse also highlights the importance of faithful stewardship and the valuable treasure entrusted to ministers of the Word. Overall, it emphasizes the profound significance and consequences of the Gospel ministry and the need for diligent and faithful service.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After a long time the lord of those servants cometh and reckoneth with them" - This verse suggests that there will be a future judgment where individuals will be held accountable for their actions and stewardship.
 2. "That any one... should think that Jesus had given any reason to expect His Second Appearing within that period, would seem strange" - The commentator highlights the tendency of some individuals to misinterpret and misapply Jesus' teachings, particularly regarding the timing of His second coming.
 3. "The tendency of enthusiastic, ill-regulated love of His appearing ever to take this turn" - This quote emphasizes the danger of allowing enthusiasm and fervor for Jesus' return to lead to misguided expectations and interpretations.
@@ -35,4 +35,4 @@ The Bible verse being described presents a scene where the lord of servants retu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

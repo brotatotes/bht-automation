@@ -9,7 +9,7 @@ In this passage, Jesus reminds Martha of his previous teachings about his life-g
 2. "This feeling Jesus here rebukes, by referring her to the plain duty of simple faith."
 3. "The condition of beholding the glory of God...in the unfolding of the ἀνάστασις κ . ζωή in the personal being."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Said I not unto thee, that if thou wouldest believe, thou shouldest see the glory of God?" - Jesus reminds the woman of his previous teachings about his life-giving power, emphasizing the importance of faith in witnessing the miraculous works of God.
 2. "Why doth the restoration of life, even to a decomposing corpse, seem hopeless in the presence of the Resurrection and the Life?" - This question serves as a gentle yet powerful rebuke, highlighting the paradox of doubting the possibility of resurrection in the presence of Jesus, who is the source of life.
 3. "Hast thou yet to learn that 'if thou canst believe, all things are possible to him that believeth?'" - Jesus reminds the woman that faith has the power to make all things possible, emphasizing the transformative nature of belief in the face of seemingly impossible situations.
@@ -52,4 +52,4 @@ In this passage, Jesus reminds Martha of his previous teachings about his life-g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

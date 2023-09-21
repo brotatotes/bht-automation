@@ -4,7 +4,7 @@
 In this rich and comprehensive benediction, we find the grace of Christ as the starting point, leading us to the love of God the Father. It is through the fellowship of the Holy Ghost that believers experience this divine love and grace. The grace of Christ serves as the foundation for all that He has accomplished, while the love of God is the wellspring of blessings. The Holy Spirit guides believers into communion with the Father and the Son, securing their redemption. This powerful Trinitarian formula showcases the distinct roles and unity of the three persons of the Godhead.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grace of Christ" comes first, for it is only by it we come to "the love of God" the Father.
 2. The variety in the order of Persons proves that "in this Trinity none is afore or after other."
 3. Whoever has "the fellowship of the Holy Ghost," has also "the grace of our Lord Jesus Christ," and "the love of God"; and vice versa.
@@ -38,4 +38,4 @@ In this rich and comprehensive benediction, we find the grace of Christ as the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

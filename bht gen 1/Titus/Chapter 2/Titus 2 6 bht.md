@@ -11,7 +11,7 @@ The verse being described emphasizes the importance of young men cultivating a m
 
 3. "having nothing to say of us evil" - The commentary emphasizes the need for Christians to live in such a way that there is no basis for others to speak negatively about them, both in their actions and their words.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The younger men." - This phrase refers to the younger generation, highlighting their specific role and responsibility in the context of the verse.
 
 2. "Sober-minded." - This term emphasizes the need for self-restraint and a clear, rational mindset, especially for the younger men who may be more prone to indulging in pleasures and follies.
@@ -56,4 +56,4 @@ The verse being described emphasizes the importance of young men cultivating a m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are reminded that Christ is the creative force behind al
 2. "The idea of the schoolmen, that in Christ was the 'idea omnium rerum,' adopted in the main by Schl., Neandor, and Olsh., is entirely unsupported by any views or expressions of our Apostle elsewhere."
 3. "For Christian faith it remains fixed, and it is sufficient, that there is testimony borne to the existence of different degrees and categories in the world of spirits above; but all attempts more precisely to fix these degrees, beyond what is written in the N. T., belong to the fanciful domain of theosophy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God revealed Himself in the Son, the Word of the Father, before all created existence."
 2. "The 'in Him' indicates that the Word is the ideal ground of all existence; the 'by Him,' below, that He is the instrument of actually realizing the divine idea."
 3. "He is the final cause as well as the efficient cause."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded that Christ is the creative force behind al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

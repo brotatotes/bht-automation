@@ -9,7 +9,7 @@ On the cross, Jesus addresses his mother, acknowledging the imminent end of thei
 2. "He commends her to another son who should care for and protect her."
 3. "He addresses her as γύναι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What forgetfulness of self, what filial love, and to the 'mother' and 'son' what parting words!"
 2. "The divine intention of the portent was to invest this darkest of all tragedies with a gloom expressive of its real character."
 3. "But at this crisis of His sufferings, 'Father' does not issue from His lips, for the light of a Father's countenance was then mysteriously eclipsed."
@@ -43,4 +43,4 @@ On the cross, Jesus addresses his mother, acknowledging the imminent end of thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

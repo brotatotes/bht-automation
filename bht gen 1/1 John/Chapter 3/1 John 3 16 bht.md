@@ -9,7 +9,7 @@ This passage describes the profound and ineffable nature of love highlighted thr
 2. "The love of God to us is not that which would, as such, be adduced as a pattern to us of brotherly love; it is true that in the depth of the matter, all true love is love after that pattern."
 3. "As Christ did in pursuance of His love, so ought we to do in pursuance of ours, bound as we are to Him not by the mere force of an outward example, but by the power of an inward life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hereby...the love of God...we apprehend what true love is."
 2. "Christ alone laid down His one life for us all; we ought to lay down our lives severally for the lives of the brethren."
 3. "Our life ought not to be dearer to us than God's own Son was to Him."
@@ -52,4 +52,4 @@ This passage describes the profound and ineffable nature of love highlighted thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

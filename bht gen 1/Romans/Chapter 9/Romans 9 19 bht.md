@@ -9,7 +9,7 @@ In this verse, commentators highlight objections to God's sovereignty and the re
 2. "The answer to the objector’s question does not lie in these verses, but in the following."
 3. "The Apostle in asking this question rather aims at striking dumb the objector by a statement of God’s undoubted right, against which it does not become us men to murmur."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This objection shows quite as conclusively as the former the real nature of the doctrine objected to—that it is Election and Non-election to eternal salvation prior to any difference of personal character; this is the only doctrine that could suggest the objection here stated, and to this doctrine the objection is plausible."
 2. "What now is the apostle's answer? It is twofold. First: 'It is irreverence and presumption in the creature to arraign the Creator.'"
 3. "If God chooses and rejects, pardons and punishes, whom He pleases, why are those blamed who, if rejected by Him, cannot help sinning and perishing?"
@@ -53,4 +53,4 @@ In this verse, commentators highlight objections to God's sovereignty and the re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators discuss the context of a question posed to Jesus reg
 2. "When they shall rise" refers to the wife and seven brothers, not to the general resurrection of the dead. 
 3. This interpretation aligns with the context of the passage and the specific question posed to Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The resurrection is not a mere continuation of earthly life, but a transformation into a new and glorified existence."
 2. "The resurrection is a powerful reminder of God's faithfulness and his ability to bring life out of death."
 3. "The resurrection is not just a future event, but a present reality that shapes our lives and gives us hope in the midst of suffering and trials."
@@ -28,4 +28,4 @@ In this verse, commentators discuss the context of a question posed to Jesus reg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

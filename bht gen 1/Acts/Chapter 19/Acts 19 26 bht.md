@@ -9,7 +9,7 @@ The verse being described is one that emphasizes the impact of Paul's preaching 
 2. "And so it is invariably, wherever images are employed professedly as media of worship."
 3. "The genitives Ἐφ. and Ἀς. are governed by ὄχλον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The evidences of it were to be seen, and the report of it was in everybody's mouth."
 2. "Noble testimony this to the extent of Paul's influence!"
 3. "The universal belief of the people was that they were gods, though the more intelligent regarded them only as habitations of Deity, and some, probably, as mere aids to devotion."
@@ -43,4 +43,4 @@ The verse being described is one that emphasizes the impact of Paul's preaching 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

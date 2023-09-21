@@ -9,7 +9,7 @@ In this Bible verse, someone named Onesimus is confessing and taking responsibil
 2. "ἅμα κ . τὸ ἁμάρτημα ὡμολόγησε , καὶ οὐχ ὡς δούλου ἁμάρτημα ἀλλὰ ὡς φίλου πρὸς φίλον." (Chrys) - He confessed his sin, not as a slave, but as a friend to a friend.
 3. "ἢ ὀφείλει is said of the same matter, and is merely explanatory of ἠδίκησεν." - "ἢ ὀφείλει" refers to the same matter and explains what he had done wrong.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Onesimus seems to have confessed some such act to Paul." 
 2. "I am ready to make good the loss to thee if required." 
 3. "The latter parts imply that he did not expect Philemon would probably demand it."
@@ -52,4 +52,4 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

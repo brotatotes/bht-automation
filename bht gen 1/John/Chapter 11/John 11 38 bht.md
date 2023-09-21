@@ -4,7 +4,7 @@
 In this Bible verse, there is a scene where Jesus, filled with a mix of sorrow and indignation, approaches a sepulcher, preparing for a challenge. The entrance is closed with a stone, commonly used to guard against wild beasts but also emphasizing the reluctance of a sister to expose her brother's corrupted body. The cave itself is a significant burial place, with historical connections to the patriarchs and their wives, and its physical characteristics as a cave in rocks, either natural or man-made, adds to its importance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus again groaning in himself—that is, as at :-, checked or repressed His rising feelings, in the former instance, of sorrow, here of righteous indignation at their unreasonable unbelief."
 2. "But here, too, struggling emotion was deeper, now that His eye was about to rest on the spot where lay, in the still horrors of death, His 'friend.'"
 3. "This, with the number of condoling visitors from Jerusalem, and the costly ointment with which Mary afterwards anointed Jesus at Bethany, all go to show that the family was in good circumstances."
@@ -51,4 +51,4 @@ In this Bible verse, there is a scene where Jesus, filled with a mix of sorrow a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

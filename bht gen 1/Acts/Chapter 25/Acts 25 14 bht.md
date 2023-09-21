@@ -9,7 +9,7 @@ In this verse, we see Festus discussing Paul's case with King Agrippa, recognizi
 2. "Agrippa's position as governor of the temple added significance to the act of laying the gift before him." 
 3. "The act of laying the gift before Agrippa symbolized Paul's respect for his authority and his recognition of the importance of the temple in Jewish culture."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Festus declared Paul's cause—taking advantage of the presence of one who might be presumed to know such matters better than himself." This quote highlights Festus's decision to consult Paul regarding his own case, recognizing Paul's expertise in matters related to the Jewish law and customs.
 
 2. "The lapse of 'several days' ere the subject was touched on shows that it gave Festus little trouble." This quote suggests that Festus did not prioritize Paul's case and may have delayed addressing it, indicating a lack of interest or urgency on his part.
@@ -47,4 +47,4 @@ In this verse, we see Festus discussing Paul's case with King Agrippa, recognizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

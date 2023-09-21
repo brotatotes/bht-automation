@@ -9,7 +9,7 @@ In this particular verse, we see a deep division and heated debate among the Jew
 2. "They contended against one another, probably some having more insight into the possibility of a spiritual meaning than others."
 3. "The inference conveyed in φαγεῖν, which first comes from the Jews themselves, is yet a right one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jews strove among themselves—arguing the point together." This quote highlights the conflict and disagreement among the Jews regarding the meaning of Jesus' statement. It emphasizes the intensity of the debate and the differing interpretations of his words.
 
 2. "How can, &c.—that is, Give us His flesh to eat? Absurd." This quote captures the skepticism and disbelief of the Jews towards Jesus' statement. It reveals their inability to comprehend the spiritual significance behind his words and their dismissal of it as illogical or impossible.
@@ -56,4 +56,4 @@ In this particular verse, we see a deep division and heated debate among the Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

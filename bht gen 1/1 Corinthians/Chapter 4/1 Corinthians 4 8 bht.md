@@ -9,7 +9,7 @@ The verse being described showcases the Corinthians' misguided self-sufficiency 
 2. "Any interpretation which stops short of the full meaning of the words as applied to the triumphant final state misses the force of the irony, and the meaning of the latter part of the verse."
 3. "There is an exquisite delicacy of irony...the teachers and the disciples...their unconsciousness and their extreme folly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Already ye are filled full (with spiritual food), already ye are rich, ye have seated yourselves upon your throne as kings, without us." - The Corinthians are being criticized for their spiritual self-sufficiency, thinking they have already reached the pinnacle of spiritual growth and no longer need guidance or support from their spiritual fathers.
 
 2. "They forgot that before the 'kingdom' and the 'fulness of joy,' at the marriage feast of the Lamb, must come the cross, and suffering, to every true believer." - The commentary highlights the importance of suffering and the cross as a necessary part of the Christian journey towards the ultimate kingdom and joy.
@@ -57,4 +57,4 @@ The verse being described showcases the Corinthians' misguided self-sufficiency 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

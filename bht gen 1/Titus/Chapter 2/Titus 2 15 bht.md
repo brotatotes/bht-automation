@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the importance of the minister's
 2. "Let no man despise thee (addressed to Titus, not to the people, as Calv.): 'so conduct thyself in thine exhortations, with such gravity, and such consistency, and such impartiality, that every word of thine may carry weight, and none may be able to cast slight on thee for flaws in any of these points'." 
 3. "μετὰ αὐθεντίας καὶ μετὰ ἐξουσίας πολλῆς, Chrys. τουτέστι, μετὰ ἀποτομίας, Thl."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speak with such vigor as to command respect."
 2. "Warn them with such authority that no one may think himself above the need of admonition."
 3. "Let no man despise thee."
@@ -43,4 +43,4 @@ In this verse, the commentator quotes emphasize the importance of the minister's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

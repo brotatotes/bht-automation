@@ -9,7 +9,7 @@ The Bible verse under discussion emphasizes the need for believers to abstain fr
 2. "Obscenity and foolish talking...including not merely the πᾶν ῥῆμα ἀργόν of our Lord, but in good part also the πᾶς λόγος σαπρός of his Apostle."
 3. "Your true cheerfulness and play of fancy will be found, not in buffoonery, but in the joy of a heart overflowing with a sense of God's mercies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Uncleanness" and "covetousness" are taken up again from Ephesians 5:12. The two are so closely allied that the Greek for "covetousness" is used sometimes in Scripture, and often in the Greek Fathers, for sins of impurity.
 2. The common principle is the longing to fill one's desire with material objects of sense, outside of God.
 3. The expression, "not be even named," applies better to impurity, than to "covetousness."
@@ -55,4 +55,4 @@ The Bible verse under discussion emphasizes the need for believers to abstain fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

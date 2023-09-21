@@ -4,7 +4,7 @@
 In this verse, the writer expresses their purpose in providing specific information to the readers, highlighting the importance of transparency and unity among the individuals involved. They seek to bring comfort and encouragement, sharing personal experiences of finding solace in God and the transformative power of the gospel. This passage emphasizes the writer's deep concern for the welfare and well-being of the churches, demonstrating their commitment to sharing valuable insights and fostering fellowship among believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For this very purpose" emphasizes the specific intention behind the mentioned actions or circumstances.
 2. "The things concerning us" refers to the matters that directly involve or relate to oneself.
 3. The mention of Aristarchus and Marcus highlights the companionship and familial connections among the individuals mentioned in the verse.
@@ -42,4 +42,4 @@ In this verse, the writer expresses their purpose in providing specific informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

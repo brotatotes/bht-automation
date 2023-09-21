@@ -9,7 +9,7 @@ In this verse, the author, with deep humility, recognizes himself as unworthy an
 2. "The unsearchable riches of Christ, i.e. the fulness of wisdom, righteousness, sanctification, and redemption all centred and summed up in Him."
 3. "Each places him far below all others with whom he compared himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not merely was I in times past, but I still am the least worthy of so high an office."
 2. "Least of all saints, not merely 'of all apostles.'"
 3. "To announce to the Gentiles the glad tidings of the unsearchable riches, namely, of Christ's grace."
@@ -57,4 +57,4 @@ In this verse, the author, with deep humility, recognizes himself as unworthy an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

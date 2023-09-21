@@ -4,7 +4,7 @@
 In this verse, believers are described as hidden in the secret of God's tabernacle, belonging to a heavenly realm and rejoicing in judgment being passed on the prince of this world. Meanwhile, Satan, furious from his expulsion from heaven, seeks to destroy as many souls as he can on earth. The powers of darkness intensify their struggles as the light becomes victorious, setting the stage for the manifestation of intense iniquity and the rise of Antichrist. Ultimately, heaven rejoices while the world mourns under the influence of Satan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They in spirit are hidden 'in the secret of God's tabernacle.' They belong not to the world, and, therefore, exult in judgment having been passed on the prince of this world."
 2. "Furious at his expulsion from heaven, and knowing that his time on earth is short until he shall be cast down lower, when Christ shall come to set up His kingdom, Satan concentrates all his power to destroy as many souls as he can."
 3. "Though no longer able to accuse the elect in heaven, he can tempt and persecute on earth. The more light becomes victorious, the greater will be the struggles of the powers of darkness; whence, at the last crisis, Antichrist will manifest himself with an intensity of iniquity greater than ever before."
@@ -40,4 +40,4 @@ In this verse, believers are described as hidden in the secret of God's tabernac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

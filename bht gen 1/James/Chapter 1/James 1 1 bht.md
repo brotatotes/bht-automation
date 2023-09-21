@@ -9,7 +9,7 @@ James, the servant of God and our Lord Jesus Christ, was an Apostle and minister
 2. "Devotion to God and His work alone, irrespectively of self-will or other men's will."
 3. "The Epistle must be considered as addressed, from the head of the mother church in Jerusalem, to the Jewish believers, residing among the dispersed tribes of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The dispersion of the Israelites, and their connection with Jerusalem as a center of religion, was a divinely ordered means of propagating Christianity."
 2. "His teaching being practical, rather than doctrinal, required less frequent mention of Christ's name."
 3. "In the original Greek (chairein) for 'greeting,' there is a connection with the 'joy' to which they are exhorted amidst their existing distresses from poverty and consequent oppression."
@@ -50,4 +50,4 @@ James, the servant of God and our Lord Jesus Christ, was an Apostle and minister
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

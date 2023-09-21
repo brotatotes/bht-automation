@@ -9,7 +9,7 @@ In this verse, we see a contrast between the consequences of Adam's sin and the 
 2. "If by the transgression of the one, death reigned by means of the one, much more shall they who receive the abundance of the grace and of the gift of righteousness reign in life by means of the one Jesus Christ."
 3. "The present λαμβάνοντες, instead of λαβόντες, is not merely used in a substantive sense, receptores, but signifies that the reception is not one act merely, but a continued process by which the περισσεία is imparted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here, for the first time in this section, he speaks of that LIFE which springs out of justification, in contrast with the death which springs from sin and follows condemnation."
 2. "The proper idea of it therefore is, 'Right to live'—'Righteous life'—life possessed and enjoyed with the good will, and in conformity with the eternal law, of 'Him that sitteth on the Throne'; life therefore in its widest sense—life in the whole man and throughout the whole duration of human existence, the life of blissful and loving relationship to God in soul and body, for ever and ever."
 3. "While freedom and might are implied in the figure of 'reigning,' 'life' is represented as the glorious territory or atmosphere of that reign."
@@ -57,4 +57,4 @@ Note: The commentary does not have clear and concise quotes that can be extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

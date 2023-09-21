@@ -9,7 +9,7 @@ In this passage, commentators provide insights into the significance and impact 
 2. "ἀπαρχή: the first Achæan, converts."
 3. "ἔταξαν ἑαυτούς: they voluntarily devoted their services."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first-fruits of Achaia" refers to the first converts from the region of Achaia, highlighting their significance and importance in the early Christian community.
 2. The image of offering first-fruits to the Lord emphasizes the dedication and commitment of these converts to their faith, mirroring the act of giving the best and earliest produce to God.
 3. The phrase "addicted themselves to the ministry of the saints" suggests a voluntary and wholehearted devotion to serving and supporting fellow believers, indicating their selfless dedication to the well-being of the Christian community.
@@ -57,4 +57,4 @@ In this passage, commentators provide insights into the significance and impact 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

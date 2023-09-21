@@ -9,7 +9,7 @@ The commentators provide valuable insights into the verse, highlighting the conc
 2. "Observe here how boldly and broadly St. Paul asserts the effect of Baptism on all the baptized."
 3. "The very putting on of Christ, which as a matter of standing and profession is done in baptism, forms a subject of exhortation to those already baptized, in its ethical sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By baptism ye have put on Christ; and therefore, He being the Son of God, ye become sons by adoption, by virtue of His Sonship by generation." 
 2. "This proves that baptism, where it answers to its ideal, is not a mere empty sign, but a means of spiritual transference from the state of legal condemnation to that of living union with Christ, and of sonship through Him in relation to God." 
 3. "Christ alone can, by baptizing with His Spirit, make the inward grace correspond to the outward sign."
@@ -52,4 +52,4 @@ Note: The commentary provides explanations and references for the concepts of ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -6,7 +6,7 @@ I apologize for the oversight. Here is the requested description for the Bible v
 Based on the commentaries provided, the Bible verse exposes the hypocrisy of religious leaders who focus on external appearances and rituals while neglecting their true character and actions. They are likened to cups and dishes that are meticulously cleaned on the outside but remain full of extortion, fraud, and excess within. The commentators emphasize that true cleanliness and righteousness should begin from within, as external acts of piety are insufficient without authentic transformation of the heart.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Within they are full of extortion." This phrase highlights the hypocrisy of the religious leaders, who appear righteous on the outside but are filled with greed and exploitation on the inside.
 
 2. "The same word is rendered 'ravening,' that is, 'rapacity.'" This comparison to a ravenous animal emphasizes the insatiable and predatory nature of the religious leaders' greed.
@@ -60,4 +60,4 @@ Note: The commentary is not referencing a specific Bible verse, so please provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

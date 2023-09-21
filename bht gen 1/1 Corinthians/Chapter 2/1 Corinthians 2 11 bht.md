@@ -11,7 +11,7 @@ In this verse, the Apostle highlights the limited knowledge that humans have abo
 
 3. "In such comparisons as these especially, we must bear in mind the constant habit of our Apostle, to contemplate the thing adduced, for the time, only with regard to that one point for which he adduces it." - This quote encourages readers to consider the Apostle's intention and not draw broader conclusions from the comparison, reminding them to stay focused on the specific point being made.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who of men knoweth the things of a man, save the spirit of that man?" - This emphasizes the idea that only the spirit within a person truly knows their thoughts and intentions. It highlights the limited understanding that humans have of one another.
 
 2. "None knoweth the things of God, save by the Spirit of God." - This quote emphasizes the impossibility of fully comprehending the things of God without the guidance and revelation of the Spirit of God. It underscores the need for divine revelation to understand the mysteries of God.
@@ -57,4 +57,4 @@ In this verse, the Apostle highlights the limited knowledge that humans have abo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

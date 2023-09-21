@@ -9,7 +9,7 @@ The passage reflects on the responsibility of the church to care for widows, pro
 2. "ἵνα ἀνεπίλημπτοι (see reff.) ὦσιν must refer to the widows also, not to the τέκνα and ἔκγονα, or to these and the widows together."
 3. "This narrower reference is confirmed by the next verse, which takes up the duty of the relations, being connected not by γάρ, but by δέ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things—just now spoken" refers to the instructions given in the preceding verses, emphasizing the immediate relevance and importance of the following statement (1 Timothy 5:5).
 2. The phrase "that they may be blameless" highlights the goal of supporting widows in the church, ensuring their well-being and maintaining their reputation (1 Timothy 5:7).
 3. The support provided to widows by the church is intended to help them live in a way that is beyond reproach, free from any accusations or criticism (1 Timothy 5:6).
@@ -53,4 +53,4 @@ The passage reflects on the responsibility of the church to care for widows, pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

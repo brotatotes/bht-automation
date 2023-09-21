@@ -4,7 +4,7 @@
 The Bible verse being described is a passage that speaks of two distinct resurrections: one to life and one to judgment. The resurrection of life is not simply a physical event, but a spiritual transformation that leads to eternal life and freedom from sin. It is a present reality for believers who experience daily renewal through faith in Christ. This resurrection is a triumph of God's power and grace, giving hope to those who face trials, knowing that their ultimate victory over death is assured.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The resurrection of life—that is, to life everlasting."
 2. "The resurrection of both classes is an exercise of sovereign authority; but in the one case it is an act of grace, in the other of justice."
 3. "How awfully grand are these unfoldings of His dignity and authority from the mouth of Christ Himself!"
@@ -56,4 +56,4 @@ Note: The commentary also mentions the power and equality of the one who will br
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

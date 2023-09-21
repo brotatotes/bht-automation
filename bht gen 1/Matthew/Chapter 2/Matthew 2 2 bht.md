@@ -9,7 +9,7 @@ In this verse, wise men from the East journeyed to find a newborn king. Guided b
 2. "The principle on which this commentary is conducted, is that of honestly endeavouring to ascertain the sense of the sacred text, without regard to any preconceived systems, and fearless of any possible consequences."
 3. "If this subservience of the superstitions of astrology to the Divine purposes be objected to, we may answer with Wetstein, ‘Superest igitur ut illos ex regulis artis suæ hoc habuisse existimemus: quæ licet certissime futilis, vana, atque fallax esset, casu tamen aliquando in verum incidere potuit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Roman historians, SUETONIUS and TACITUS, bear witness to an expectation, prevalent in the East, that out of Judea should arise a sovereign of the world."
 2. "From all that is here said it is perhaps safest to regard [the star] as simply a luminous meteor, which appeared under special laws and for a special purpose."
 3. "That not civil but religious homage is meant here is plain from the whole strain of the narrative."
@@ -56,4 +56,4 @@ In this verse, wise men from the East journeyed to find a newborn king. Guided b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

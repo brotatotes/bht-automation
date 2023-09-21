@@ -9,7 +9,7 @@ In this verse, a commentator explains that Judas used the money he received for 
 2. "What then are we to decide respecting the two accounts? That there should have been a double account actually current of the death of Judas at this early period is in the highest degree improbable."
 3. "An accurate acquaintance with the actual circumstances would account for the discrepancy, but nothing else."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This information supplements, but by no means contradicts, what is said in Matthew 27:5." 
 
 2. "The phrase 'falling headlong' suggests a sudden and violent descent, emphasizing the tragic and dramatic nature of Judas' death."
@@ -54,4 +54,4 @@ In this verse, a commentator explains that Judas used the money he received for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

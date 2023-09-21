@@ -9,7 +9,7 @@ In this verse, the disciples are addressed by the angels and reminded of their o
 2. "ὃν τρόπον ] in the same manner as; to be taken in all cases literally, not as implying mere certainty."
 3. "ἐλεύσεται ] ‘Non ii, qui ascendentem viderunt, dicuntur venturum visuri. Inter ascensionem et inter adventum gloriosum nullus interponitur eventus eorum utrique par: ideo hi duo conjunguntur. Merito igitur Apostoli ante datam Apocalypsin diem Christi ut valde propinquum proposuerunt. Et congruit majestati Christi, ut toto inter ascensionem et inter adventum tempore sine intermissione expectetur.’ Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "as if your now glorified Head were gone from you never to return: He is coming again not another, but 'this same Jesus'"
 2. "as ye have seen Him go, in the like manner shall He come—as personally, as visibly, as gloriously"
 3. "let the joyful expectation of this coming swallow up the sorrow of that departure"
@@ -45,4 +45,4 @@ In this verse, the disciples are addressed by the angels and reminded of their o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

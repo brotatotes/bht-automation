@@ -4,7 +4,7 @@
 This enigmatic verse describes a deep-seated anger and resentment harbored by Herodias towards John the Baptist. Herodias, unable to confront him directly, waited for the perfect opportunity to bring harm upon him. Despite her persistent desire to kill him, she was hindered by factors beyond her control, leaving her with a pent-up animosity that persisted over time. The verse offers a glimpse into the intricate dynamics between these two individuals, revealing the dangers faced by John the Baptist in his outspoken ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herodias had a grudge against him." - The commentary suggests that Herodias harbored deep resentment towards John the Baptist, possibly due to his outspoken criticism of her unlawful marriage to Herod. This quote highlights the personal animosity that fueled her desire to harm him.
 
 2. "She could not [kill him]." - This quote implies that despite Herodias' strong desire to kill John the Baptist, she was unable to carry out her plan. The commentary does not provide a specific reason for her inability, leaving room for interpretation and speculation.
@@ -30,4 +30,4 @@ This enigmatic verse describes a deep-seated anger and resentment harbored by He
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

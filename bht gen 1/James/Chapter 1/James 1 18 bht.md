@@ -9,7 +9,7 @@ Regeneration, described as the greatest example of God's goodness, is the work o
 2. "His gracious purpose with regard to us in particular was, that we should be a kind of firstfruit of His creatures."
 3. "The life of man must be renewed, from its very root and foundation: it designates this renewal as God’s work, moreover as an imparting of the life of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer's regeneration is the highest example of nothing but good proceeding from God."
 2. "Of his own will—Of his own good pleasure (which shows that it is God's essential nature to do good, not evil), not induced by any external cause."
 3. "Believers, in respect to regeneration, are, as it were, first-fruits... they are the first of God's regenerated creatures, and the pledge of the ultimate regeneration of the creation."
@@ -57,4 +57,4 @@ These quotes highlight the sovereign will of God in adopting us into His family,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

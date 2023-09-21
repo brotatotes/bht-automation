@@ -4,7 +4,7 @@
 In this verse, a servant who was once faithful and wise becomes an "evil servant" according to Matthew, mistreating his fellow servants and indulging in his master's provisions. The delay in the return of the master is a prominent concern for this servant, causing him to question whether the master will come at all. It is worth noting that such apostates and persecutors of faithful followers are often characterized as not only being deceivers but also engaging in immoral behavior.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the confidence that his Lord's return will not be speedy, he throws off the role of servant and plays the master." 
 2. "Maltreating those faithful servants who refuse to join him, seizing on and revelling in the fulness of his master's board." 
 3. "Intending, when he has got his fill, to resume the mask of fidelity ere his master appear."
@@ -28,4 +28,4 @@ In this verse, a servant who was once faithful and wise becomes an "evil servant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

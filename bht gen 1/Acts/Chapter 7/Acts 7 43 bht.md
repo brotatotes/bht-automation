@@ -9,7 +9,7 @@ The Bible verse being described is a powerful indictment against the Israelites 
 2. "Stephen was not the sole dishonourer, if a dishonourer, of the holy place; their fathers had done it before."
 3. "Moloch was the Phoenician Saturn: his image was of brass with the head of an ox, and outstretched arms of a man, hollow; and human sacrifices (of children) were offered, by laying them in these arms and heating the image by a fire kindled within."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two kinds of idolatry are charged upon the Israelites: that of the golden calf and that of the heavenly bodies Molech and Remphan being deities, representing apparently the divine powers ascribed to nature, under different aspects."
 2. "Carry you beyond Babylon—the well-known region of the captivity of Judah; while 'Damascus' is used by the prophet (Amos 5:27), whither the ten tribes were carried."
 3. "Molech and Remphan being deities, representing apparently the divine powers ascribed to nature, under different aspects."
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful indictment against the Israelites 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

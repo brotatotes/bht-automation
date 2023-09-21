@@ -9,7 +9,7 @@ In this Bible verse, the God of Abraham and the God of Israel is revealed, who h
 2. "ἐδόξασεν" - "glorified" - Not implying that God honored His name, but rather the historic glorification through His exaltation through death.
 3. "παῖδα" - "Servant" - Referring to Jesus as a servant in the distinct and Messianic sense found in Isaiah 40-66 in the LXX.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of Abraham, c.—(See on Acts 2:22 Acts 2:22- :). hath glorified his Son Jesus—rather, 'his Servant Jesus,' as the same word is rendered in Matthew 12:18, but in that high sense in which Isaiah applies it always to Messiah (Isaiah 42:1; Isaiah 49:6; Isaiah 52:13; Isaiah 53:11)."
 2. "When 'Son' is intended a different word is used."
 3. "With what heroic courage does Peter here charge his auditors with the heaviest of all conceivable crimes, and with what terrific strength of language are these charges clothed!"
@@ -59,4 +59,4 @@ These quotes highlight the purpose of miracles, the distinction between God and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

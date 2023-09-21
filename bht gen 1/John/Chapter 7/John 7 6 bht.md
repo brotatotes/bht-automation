@@ -4,7 +4,7 @@
 In this verse, Jesus is addressing his disciples' plans to go up to a feast. He emphasizes the difference between their time and his own, highlighting the divine timing and sovereign plan of God. While the disciples had the freedom to go at any time, Jesus needed to wait for the appropriate season. Commentators emphasize Jesus' dependence on the Father's will, his essential antagonism to the world, and the mistaken advice offered by his disciples. Overall, this verse reveals the divine wisdom and purpose behind Jesus' actions, reminding us of the importance of aligning ourselves with God's timing and will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My time is not yet come—that is, for showing Himself to the world." 
 2. "It matters little when we go up, for ye have no great plans in life, and nothing hangs upon your movements." 
 3. "The world has no quarrel with you, for ye bear no testimony against it, and so draw down upon yourselves none of its wrath; but I am here to lift up My voice against its hypocrisy, and denounce its abominations."
@@ -54,4 +54,4 @@ In this verse, Jesus is addressing his disciples' plans to go up to a feast. He 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is John Wesley's commentary on a significant eve
 2. "There is a long and interesting history of Sychem and the Samaritan worship on Gerizim, and the Christian church in the neighbourhood."
 3. "This form of the tradition is supposed to have arisen from the translation by the LXX of Genesis 48:22, ἐγὼ δὲ δίδωμί σοι Σίκιμα ἐξαίρετον (שְׁכֶם אַהַד, ‘one share’) ὑπὲρ τοὺς ἀδελφούς σου: and of Joshua 24:32, ἐν τῇ μερίδι τοῦ ἀγροῦ οὗ ἐκτήσατο Ἰακὼβ παρὰ τῶν Ἀμοῤῥαίων τῶν κατοικούντων ἐν Σικίμοις… καὶ ἔδωκεν αὐτὴν Ἰωσὴφ ἐν μερίδι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He remained at some distance from it."
 2. "Sychar—the 'Shechem' of the Old Testament."
 3. "About thirty-four miles from Jerusalem."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

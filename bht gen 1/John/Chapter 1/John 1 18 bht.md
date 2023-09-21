@@ -9,7 +9,7 @@ In this verse, the commentator's insights highlight the limitations of human per
 2. "The sight of God here meant, is not only bodily sight (though of that it is true, see Exodus 33:20; 1Ti 6:16), but intuitive and infallible knowledge, which enables Him who has it to declare the nature and will of God."
 3. "The expression signifies, as Chrysostom observes, συγγένεια καὶ ἑνότης τῆς οὐσίας: and is derived from the fond and intimate union of children and parents."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man hath seen God—by immediate gaze, or direct intuition." 
 2. "In the bosom of the Father—A remarkable expression, used only here, presupposing the Son's conscious existence distinct from the Father, and expressing His immediate and most endeared access to, and absolute acquaintance with, Him."
 3. "He and He only hath declared Him," because He only can.
@@ -53,4 +53,4 @@ In this verse, the commentator's insights highlight the limitations of human per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

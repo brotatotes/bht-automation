@@ -9,7 +9,7 @@ In this verse, the speaker expresses a desire to keep someone in the place of th
 2. "For, wert thou here, thou wouldst minister to me." - This quote suggests that if the person being addressed were present, they would serve or assist the speaker.
 3. "explained well by Thdrt., ὀφείλεις μοι διακονίαν ὡς μαθητὴς διδασκάλῳ" - This quote refers to the obligation of the person being addressed to serve the speaker as a disciple to a teacher.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I had such implicit trust in him as to desire to keep him with me for his services."
 2. "I would have retained him in your stead - that he might supply in your place all the services to me which you, if you were here, would render in virtue of the love you bear to me."
 3. "My bonds endured for the Gospel's sake."
@@ -57,4 +57,4 @@ In this verse, the speaker expresses a desire to keep someone in the place of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

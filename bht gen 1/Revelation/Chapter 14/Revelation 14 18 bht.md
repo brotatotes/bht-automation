@@ -4,7 +4,7 @@
 From the commentators' insights, we can gather that this Bible verse describes an angel, specifically one associated with the altar of burnt offering. This angel possesses power over fire, which symbolizes the judgments of God upon the earth. The angel's cry emphasizes the need to cut off the wicked, depicted as clusters of grapes on the vine of the earth, as they deserve the destructive justice symbolized by fire. Ultimately, this vision aims to provide comfort to the church in the face of persecution, assuring believers that their enemies will be dealt with in due time.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The incense-accompanied prayers of all saints, which bring down in answer God's fiery judgment on the Church's foes." 
 
 2. "The fire being taken from the altar and cast upon the earth." 
@@ -49,4 +49,4 @@ From the commentators' insights, we can gather that this Bible verse describes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

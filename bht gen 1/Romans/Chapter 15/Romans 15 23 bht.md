@@ -9,7 +9,7 @@ The verse being described in this paragraph is Romans 15:23. The commentators pr
 2. "Now, however, I have no longer any business in these parts, but have had for many years past a desire to see you, whenever (as soon as) I journey into Spain."
 3. "Respecting the question whether this journey into Spain was ever taken, the views of Commentators have differed, according to their conclusion respecting the liberation of the Apostle from his imprisonment at Rome."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No longer having place" refers to the fact that there is no longer any uncharted territory where the message of Christ has not been preached. This highlights the widespread reach and impact of the gospel.
 2. The phrase "a longing these many years" emphasizes the deep desire and yearning that the writer has had to visit the recipients of the letter. It shows the personal connection and affection the writer has for the readers.
 3. The mention of the writer's desire to come to the readers echoes the theme of unity and fellowship in the Christian community. It underscores the importance of personal connection and face-to-face interaction in the spread of the gospel.
@@ -43,4 +43,4 @@ The verse being described in this paragraph is Romans 15:23. The commentators pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

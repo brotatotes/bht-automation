@@ -4,7 +4,7 @@
 The verse being described is about the transformative power of love and its connection to passing from spiritual death to life. According to the commentators, love for fellow believers is not the cause of this transformation, but rather evidence of it. It is emphasized that the absence of love signifies spiritual death, while genuine love for others is a sign of being born of God. Through regeneration, individuals move from a state of sin and separation to a life of sanctification, with implanted principles of grace and life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though we be hated by the world, we know what the world knows not."
 2. "Love, on our part, is the evidence of our justification and regeneration, not the cause of them."
 3. "His want of love evidences that no saving change has passed over him."
@@ -45,4 +45,4 @@ The verse being described is about the transformative power of love and its conn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

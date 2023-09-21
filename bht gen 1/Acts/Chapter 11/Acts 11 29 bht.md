@@ -9,7 +9,7 @@ The verse described showcases the early Christian response to a famine in Judea.
 2. "The contribution, sent from Antioch to Jerusalem, the first stretching out of the hand by the Gentile world across the ancient gulf which separated it from Israel."
 3. "The church at Jerusalem was poor, probably in connexion with the community of goods."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples, every man according to his ability, determined to send relief." This quote highlights the selflessness and generosity of the disciples, who were willing to contribute according to their means to help others in need.
 2. "This was the pure prompting of Christian love." This quote emphasizes that the disciples' actions were motivated by genuine love and compassion, reflecting the core teachings of Christianity.
 3. "Christian love...shone so bright in those earliest days of the Gospel." This quote suggests that the disciples' display of love and generosity was particularly remarkable during the early days of the Gospel, indicating the powerful impact of their faith.
@@ -59,4 +59,4 @@ The verse described showcases the early Christian response to a famine in Judea.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

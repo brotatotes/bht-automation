@@ -9,7 +9,7 @@ Described as a burning and shining light, this individual held a significant rol
 2. "The description sets forth the derived, and transitory nature of John’s light."
 3. "But you wished only to disport yourselves in his light for a time came out to him in crowds at first, and like silly children who play with the fire till it burns and hurts them, and then shrink from and loathe it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was a burning and a shining light—literally, 'the burning and shining lamp' (or torch):—that is, 'the great light of his day.'"
 2. "Christ is never called by the humble word here applied to John—a light-bearer—studiously used to distinguish him from his Master, but ever the Light in the most absolute sense."
 3. "There is a play of irony here, referring to the hollow delight with which his testimony tickled them."
@@ -53,4 +53,4 @@ Described as a burning and shining light, this individual held a significant rol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

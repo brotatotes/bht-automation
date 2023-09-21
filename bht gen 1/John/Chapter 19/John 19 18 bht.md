@@ -4,7 +4,7 @@
 The verse under consideration portrays the crucifixion of Jesus, with two criminals placed on either side to signify the choice between accepting or rejecting him. This depiction highlights the depth of Jesus' suffering and his willingness to bear the punishment that was rightfully ours. While one criminal mocks Jesus, the other acknowledges his own guilt and recognizes Jesus' innocence, offering a plea for mercy. Through his sacrificial death, Jesus fulfills God's purposes, demonstrates his love and grace, and provides an opportunity for repentance and redemption even in the darkest moments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A hellish expedient, to hold Him up as the worst of the three."
 2. "In this, as in many other of their doings, 'the scripture was fulfilled.'"
 3. "Often have we occasion to observe how our Lord is the first to fulfill His own precepts—thus furnishing the right interpretation and the perfect Model of them."
@@ -40,4 +40,4 @@ The verse under consideration portrays the crucifixion of Jesus, with two crimin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

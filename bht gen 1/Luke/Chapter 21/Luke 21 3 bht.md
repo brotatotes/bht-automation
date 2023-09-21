@@ -4,7 +4,7 @@
 In this Bible verse, we encounter a powerful story of a poor widow who demonstrates remarkable faith and selflessness. Jesus draws attention to her sacrificial giving, emphasizing that the true measure of generosity is not the quantity given, but the heart behind it. Despite her limited means, this woman gives all she has, displaying a profound trust in God's provision and a deep love for Him. Her act of giving serves as a powerful reminder that our devotion and faithfulness to God are not determined by our circumstances or material possessions, but by the sincerity of our hearts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To teach from it a great future lesson."
 2. "In proportion to her means, which is God's standard."
 3. "Called to Him."
@@ -32,4 +32,4 @@ In this Bible verse, we encounter a powerful story of a poor widow who demonstra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

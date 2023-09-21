@@ -9,7 +9,7 @@ This verse emphasizes the importance of belief in Jesus, even when presented wit
 2. "But perhaps, as Euthym himself seems to suggest, and as Lücke and De Wette are inclined to think, the reference may be to ch. John 5:37-44, and the ὑμῖν may be said generally."
 3. "We have instances of reference to sayings not recorded, in ch. John 10:26; John 12:34."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seen Him not in His mere bodily presence, but in all the majesty of His life, His teaching, His works." 
 
 2. "Believe not—seen Him not in His mere bodily presence, but in all the majesty of His life, His teaching, His works." 
@@ -57,4 +57,4 @@ This verse emphasizes the importance of belief in Jesus, even when presented wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

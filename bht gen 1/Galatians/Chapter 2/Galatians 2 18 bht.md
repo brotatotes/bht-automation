@@ -11,7 +11,7 @@ It is clear that this Bible verse addresses the issue of rebuilding what had bee
 
 (Note: The commentary is quite dense and difficult to extract concise quotes from. These quotes provide a general understanding of the commentary's main points.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of commending yourself as you sought to do, you merely commend yourself as a transgressor."
 2. "A 'transgressor' is another word for 'sinner', for 'sin is the transgression of the law.'"
 3. "You, Peter, by now asserting the law to be obligatory, are proving yourself a 'sinner,' or 'transgressor,' in your having set it aside by living as the Gentiles, and with them."
@@ -50,4 +50,4 @@ It is clear that this Bible verse addresses the issue of rebuilding what had bee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

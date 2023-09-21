@@ -9,7 +9,7 @@ The verse being described gives a strong admonition to refrain from giving the d
 2. "give scope (opportunity of action, which you would do by continuing in a state of παροργισμός)"
 3. "διάβολος as a substantive always has this personal meaning in the N. T."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither give place—that is, occasion, or scope, to the devil" - This quote highlights the importance of not allowing anger to linger, as it can provide an opportunity for the devil to work in our lives.
 
 2. "The keeping of anger through the darkness of night is giving place to the devil" - This quote emphasizes the need to address and resolve our anger before the day ends, as holding onto it can give the devil a foothold in our hearts.
@@ -61,4 +61,4 @@ The verse being described gives a strong admonition to refrain from giving the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

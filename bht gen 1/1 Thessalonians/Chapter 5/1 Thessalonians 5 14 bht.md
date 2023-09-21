@@ -9,7 +9,7 @@ Description: This verse offers a series of instructions aimed at nurturing and g
 2. "ὀλιγοψύχους" refers to those who needed the comfort mentioned in 1 Thessalonians 4:13 ff. - This quote clarifies that "ὀλιγοψύχους" refers to those who were spiritually weak and in need of comfort.
 3. "πρὸς πάντας" should be understood as "all men" and not just the preceding groups mentioned. - This quote highlights that "πρὸς πάντας" refers to all people, not just the disorderly, spiritually weak, and sick individuals mentioned before.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This exhortation to 'warm the unruly, comfort the feeble-minded' applies to all clergy and laity alike, though primarily the duty of the clergy."
 2. "Paul practiced what he preached."
 3. "There is no believer who needs not the exercise of patience 'toward' him; there is none to whom a believer ought not to show it; we ought to show it 'toward all men'."
@@ -61,4 +61,4 @@ Description: This verse offers a series of instructions aimed at nurturing and g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

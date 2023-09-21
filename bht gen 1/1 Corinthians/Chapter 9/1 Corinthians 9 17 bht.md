@@ -9,7 +9,7 @@ This verse describes the devoted and selfless ministry of the speaker, who willi
 2. "in this respect I have no μισθός for merely doing what is my bounden duty"
 3. "but an οὐαί, if I fail in it"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'necessity' is laid on me which binds a servant to obey his master."
 2. "Not of my own natural will, but by the constraining grace of God."
 3. "I have had a dispensation (of the Gospel) entrusted to me."
@@ -53,4 +53,4 @@ This verse describes the devoted and selfless ministry of the speaker, who willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

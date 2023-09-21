@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of contentment and fait
 2. "The general recommendation here is referable alike to all cases of marriage."
 3. "It seems better to take the verse thus, than with Meyer and De Wette, to regard it as inserted to guard against misunderstanding of the preceding γνώμη of the Apostle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither the married (those 'bound to a wife') nor the unmarried (those 'loosed from a wife') are to 'seek' a change of state." This quote highlights the idea that both married and unmarried individuals should not actively pursue a change in their marital status.
 
 2. "Those 'bound to a wife' should not be preoccupied with seeking a way out of their marriage, while those 'loosed from a wife' should not be consumed by the desire to get married." This quote emphasizes the importance of contentment and acceptance in one's current marital status.
@@ -40,4 +40,4 @@ In this verse, the commentators emphasize the importance of contentment and fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

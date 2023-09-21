@@ -9,7 +9,7 @@ In this Bible verse, we witness the interaction between Paul and Festus, where F
 2. "His self-love suggests to him, that one who presents such a contrast to his own apathy, must be mad."
 3. "Festus finds himself by this speech of Paul yet more bewildered than before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul, thou art beside thyself, much learning doth make thee mad—"is turning thy head." The union of flowing Greek, deep acquaintance with the sacred writings of his nation, reference to a resurrection and other doctrines to a Roman utterly unintelligible..."
 2. "...lofty religious earnestness, so strange to the cultivated, cold-hearted skeptics of that day—may account for this sudden exclamation."
 3. "The union of flowing Greek, deep acquaintance with the sacred writings of his nation, reference to a resurrection and other doctrines to a Roman utterly unintelligible..."
@@ -57,4 +57,4 @@ In this Bible verse, we witness the interaction between Paul and Festus, where F
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

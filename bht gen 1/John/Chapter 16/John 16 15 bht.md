@@ -9,7 +9,7 @@ In this verse, we are given a glimpse into the essential relations of the Blesse
 2. "The Son glorifies not Himself but the Father, by revealing the Father, whom He alone knows."
 3. "This verse contains the plainest proof by inference of the orthodox doctrine of the Holy Trinity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A plainer expression than this of absolute community with the Father in all things cannot be conceived." 
 2. "The 'all things' here have reference to the things of the Kingdom of Grace."
 3. "We have here a wonderful glimpse into the inner relations of the Godhead."
@@ -57,4 +57,4 @@ In this verse, we are given a glimpse into the essential relations of the Blesse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

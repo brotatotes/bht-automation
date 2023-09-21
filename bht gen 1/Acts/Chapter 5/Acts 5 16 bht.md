@@ -9,7 +9,7 @@ The verse described is about the growing popularity and success of the early Chu
 2. "When the next incident happened, which forms a contrast to this waxing prosperity of the Church."
 3. "This verse highlights the growing popularity and success of the early Church in healing the sick."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Of the rest durst no man join himself, c." - This verse highlights the fear and hesitation of others to join the disciples after witnessing the events that had taken place. It shows the gravity of the situation and the potential consequences of openly aligning oneself with the disciples.
 
 2. "Of the unconverted none ventured, after what had taken place, to profess discipleship." - This quote emphasizes the reluctance of those who were not yet converted to openly declare their discipleship. It suggests that the events that had occurred had a profound impact on people's perception and willingness to publicly associate with the disciples.
@@ -40,4 +40,4 @@ The verse described is about the growing popularity and success of the early Chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author, with humility, urges the church members to pray for h
 2. "The distinction between 'pray concerning us' and 'make us the subject of your prayers' is precarious and hardly appreciable." 
 3. "The use of περί is not as definite as ὑπέρ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray ye also for (literally, 'concerning') us" - The commentary highlights the importance of praying for the clergy, emphasizing that they need the prayers of their flocks. This quote emphasizes the need for the congregation to support and intercede for their spiritual leaders.
 
 2. "Make us and our work the subject of your prayers" - This quote emphasizes the request for prayers not only for the individuals themselves but also for their work. It highlights the interconnectedness of the spiritual leaders and the congregation in their shared mission.
@@ -44,4 +44,4 @@ In this verse, the author, with humility, urges the church members to pray for h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

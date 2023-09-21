@@ -9,7 +9,7 @@ This verse serves as a stern warning for believers to refrain from participating
 2. "Not the sins...their present habitude": The commentary clarifies that being a partaker with others refers to sharing in their present lifestyle and actions, rather than sharing in their future punishment.
 3. "Their present habitude, not their punishment": The commentary distinguishes between participating in the sinful actions of others and experiencing the consequences of those actions, highlighting the importance of avoiding both.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fellowship with wicked workers is forbidden."
 2. "In Ephesians 5:11, it warns against participating in their wicked works."
 3. "This verse emphasizes the importance of avoiding association with those who engage in evil actions."
@@ -51,4 +51,4 @@ This verse serves as a stern warning for believers to refrain from participating
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

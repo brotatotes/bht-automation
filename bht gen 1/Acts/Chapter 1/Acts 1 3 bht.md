@@ -9,7 +9,7 @@ During the period between the resurrection and ascension of Jesus, he appeared t
 2. "This is the only place where the interval between the Resurrection and the Ascension is specified."
 3. "The article has been taken to imply... that during this period they received from our Lord the whole substance of the doctrine of ‘the Kingdom of God.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repeated and undeniable manifestations of Himself in the body to the assembled disciples, who, instead of being predisposed to believe it, had to be overpowered by the resistless evidence of their own senses."
 2. "This primary sense of the word 'passion' has fallen into disuse; but it is nobly consecrated in the phraseology of the Church to express the Redeemer's final endurances."
 3. "The earliest and the latest burden of His teaching on earth."
@@ -53,4 +53,4 @@ During the period between the resurrection and ascension of Jesus, he appeared t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

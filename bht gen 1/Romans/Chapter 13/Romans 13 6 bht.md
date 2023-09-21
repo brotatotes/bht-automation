@@ -9,7 +9,7 @@ This passage highlights the role and responsibility of ministers of God, emphasi
 2. "Tertullian remarks, Apolog. xlii. vol. i. p. 494, that what the Romans lost by the Christians refusing to bestow gifts on their temples, they gained by their conscientious payment of taxes."
 3. "The command follows Romans 13:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the reason why ye pay the contributions requisite for maintaining the civil government."
 2. "For they are God's ministers, attending continually upon this very thing."
 3. "The civil government is an institution appointed by God for the good of society and the maintenance of order."
@@ -59,4 +59,4 @@ These quotes emphasize the importance of paying tribute to the higher powers, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a passage in which the apostle Paul compares the te
 2. "The phrase 'for ye were not yet able' can be understood as either not yet able to eat solid food or not yet strong in their faith."
 3. "The use of 'but neither even now' emphasizes that the readers are still not ready for solid food, indicating their need for continued spiritual growth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Milk—the elementary principles of the doctrine of Christ." This phrase highlights the idea that the teachings of Christ are foundational and essential for spiritual growth.
 
 2. "The milk represents the basic teachings of the faith, which are necessary for new believers to understand and apply in their lives." This quote emphasizes the importance of grasping the fundamental principles of Christianity before delving into deeper theological concepts.
@@ -63,4 +63,4 @@ The verse being described is a passage in which the apostle Paul compares the te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

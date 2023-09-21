@@ -4,7 +4,7 @@
 The verse being described here emphasizes the importance of having a clear and singular focus in our intentions and actions. Analogizing the eye as the lamp of the body, commentators convey the significance of simplicity, singleness, and clarity in our purpose. Maintaining a genuine and persistent desire to serve and please God leads to a consistent and bright character. By directing our intentions towards God, keeping them pure and fixed solely on Him, our entire being becomes illuminated with light, guiding and governing our actions in a way that reflects our devotion to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The light of the body is the eye: if therefore thine eye be single—simple, clear." 
 2. "Here, as also in classical Greek, it is used figuratively to denote the simplicity of the mind's eye, singleness of purpose, looking right at its object, as opposed to having two ends in view."
 3. "A simple and persistent purpose to serve and please God in everything will make the whole character consistent and bright."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the importance of having a clear and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

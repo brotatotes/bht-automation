@@ -9,7 +9,7 @@ In this Bible verse, we find Jesus in a quiet and distant retreat, seeking relie
 2. "This must not be confounded with the Cæsarea of the Acts, which was Cæsarea Stratonis, on the Mediterranean."
 3. "The E. V. has beyond doubt the right rendering of this reading: and τὸν υἱ . τ . ἀνθ . is a pregnant expression, which we now know to imply the Messiahship in the root of our human nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This quiet and distant retreat Jesus appears to have sought with the view of talking over with the Twelve the fruit of His past labors, and breaking to them for the first time the sad intelligence of His approaching death."
 2. "He had now closed the first great stage of His ministry, and was just entering on the last dark one. His spirit, burdened, sought relief in retirement, not only from the multitude, but even for a season from the Twelve."
 3. "On rejoining His disciples, and as they were pursuing their quiet journey, He asked them this question."
@@ -45,4 +45,4 @@ In this Bible verse, we find Jesus in a quiet and distant retreat, seeking relie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

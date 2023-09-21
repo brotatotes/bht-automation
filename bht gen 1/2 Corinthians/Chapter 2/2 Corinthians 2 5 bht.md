@@ -11,7 +11,7 @@ The verse being described speaks of moments of grief and disappointment, but it 
 
 Note: The commentary is quite lengthy and technical, so it was challenging to find concise and meaningful quotes. These quotes provide a glimpse into the interpretation and different understandings of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'any' is a delicate way of referring to the incestuous person."
 2. "He has grieved me only in part, that is, I am not the sole party aggrieved; most of you, also, were aggrieved."
 3. "That I may not unduly lay the weight of the charge on you all, which I should do if I made myself to be the sole party aggrieved."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

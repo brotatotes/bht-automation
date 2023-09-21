@@ -9,7 +9,7 @@ The verse described portrays a scene where Jesus, filled with compassion, looks 
 2. "Vexati, harassed, plagued, viz. literally, with weariness in following Him; or spiritually, with the tyranny of the Scribes and Pharisees, their φορτία βαρέα."
 3. "Temere projecti, abjecti, neglecti, as sheep would be who had wandered from their pasture. The context shews that our Lord’s compassion was excited by their being without competent spiritual leaders and teachers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was moved with compassion on them, because they fainted—This reading, however, has hardly any authority at all. The true reading doubtless is, 'were harassed.'" 
 2. "Their pitiable condition as wearied under bodily fatigue, a vast disorganized mass, being but a faint picture of their wretchedness as the victims of pharisaic guidance; their souls uncared for, yet drawn after and hanging upon Him."
 3. "This moved the Redeemer's compassion."
@@ -53,4 +53,4 @@ The verse described portrays a scene where Jesus, filled with compassion, looks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

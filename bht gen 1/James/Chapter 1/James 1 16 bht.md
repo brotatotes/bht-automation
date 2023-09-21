@@ -9,7 +9,7 @@ In this powerful exhortation, the commentator warns against the grave error of a
 2. "Nolite in alterum errorem abstrahi...": However, we should not interpret this as rejecting the idea that all good things come from God. (Quote 1)
 3. "My beloved brethren...": The earnest address and caution indicate the writer's recognition of the importance of the upcoming statement. (Quote 2)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do not err in attributing to God temptation to evil." 
 2. "Every good, all that is good on earth, comes from God." 
 3. "God is the source of all goodness and righteousness."
@@ -52,4 +52,4 @@ In this powerful exhortation, the commentator warns against the grave error of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

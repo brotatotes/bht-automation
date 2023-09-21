@@ -9,7 +9,7 @@ This verse highlights the personal and intimate relationship between the speaker
 2. "By using the first person pronoun 'me,' the speaker is highlighting their own involvement and presence in the situation being described."
 3. "This variation in person serves to underscore the intimate connection between the speaker and the one being spoken to, emphasizing the significance of the message being conveyed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's sister's son—(See on Acts 9:30)." 
 2. "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted." 
 3. "He may have been a young man of energy and decision, and, as the nephew of Paul, he would have been likely to be well acquainted with the character and designs of the apostle's enemies."
@@ -30,4 +30,4 @@ This verse highlights the personal and intimate relationship between the speaker
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

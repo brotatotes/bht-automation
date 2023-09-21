@@ -9,7 +9,7 @@ In this verse, the early Church addresses the Gentile converts, advising them to
 2. "The ἀλ . τ . εἰδ . are the things polluted by being offered to idols, about which there was much doubt and contention in the early church."
 3. "The solution will best be found in the fact, that πορνεία was universally in the Gentile world regarded on the same footing with the other things mentioned, as an ἀδιάφορον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From such food James would enjoin the Gentile converts to abstain, lest it should seem to the Jews that they were not entirely weaned from idolatry."
 2. "The indulgence of [fornication] on the part of the Gentile converts would to Jews, whose Scriptures branded it as an abomination of the heathen, proclaim them to be yet joined to their old idols."
 3. "The eating of [blood], therefore, on the part of the Gentile converts, would shock their prejudices."
@@ -55,4 +55,4 @@ In this verse, the early Church addresses the Gentile converts, advising them to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

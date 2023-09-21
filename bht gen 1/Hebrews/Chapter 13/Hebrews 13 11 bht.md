@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the significance of Jesus' sacrifi
 2. "There was a distinction in the sacrifices as to the subsequent participation of certain parts of them by the priests."
 3. "The holy of holies, into which the blood of the sin-offering was brought on the day of atonement, only typified heaven, whither Christ as High Priest is entered with His Blood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus also that . . . suffered without the gate" - His crucifixion outside the gate of Jerusalem is a type of the ceremonial Judaism from which He was excluded.
 2. "His sacrifice is not like one of those sacrifices in which they had a share but answers to one which was 'wholly burned' outside" - His sacrifice was completely consumed by burning, unlike the sacrifices in which the tabernacle servants had a share.
 3. "No sin offering whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten; it shall be burnt in the fire" - The sin offerings were either outward or inward, and the inward ones were not to be eaten but burnt completely.
@@ -47,4 +47,4 @@ In this verse, the commentators shed light on the significance of Jesus' sacrifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

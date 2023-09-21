@@ -9,7 +9,7 @@ This verse describes an individual who takes pride in being a citizen of a renow
 2. "The expression is an elegant one, and very common."
 3. "There was distinction in his being a πολίτης of an urbs libera."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A citizen of no mean city" - This phrase emphasizes the significance and importance of the city mentioned. It suggests that the city is not ordinary or insignificant, but rather holds a notable status or reputation.
 
 2. "No mean city" - This expression implies that the city mentioned is not to be underestimated or disregarded. It highlights the city's greatness, excellence, or distinction in some way.
@@ -45,4 +45,4 @@ This verse describes an individual who takes pride in being a citizen of a renow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

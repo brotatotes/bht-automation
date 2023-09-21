@@ -11,7 +11,7 @@ The account of the birth, life, actions, doctrines, miracles, sufferings, death,
 4. "Nor is any such failure implied (as Bp. Wordsw.) in Acts 19:13, where the aorist also is used."
 5. "The fact of that failure is indeed implied in Luke’s description of his own work but that, more because it possessed completeness (whereas they were fragmentary) than from any difference in kind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. 1. set forth in order—more
 	simply, to draw up a narrative.
 
@@ -69,4 +69,4 @@ The account of the birth, life, actions, doctrines, miracles, sufferings, death,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

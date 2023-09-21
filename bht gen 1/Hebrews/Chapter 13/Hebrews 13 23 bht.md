@@ -9,7 +9,7 @@ In this verse, there is a sense of anticipation and longing for a specific indiv
 2. "It is in fact the original government of the accus. and inf. with a participial predicate substituted for the infinitive: ‘Know him being,’ for ‘know him to be.’"
 3. "With whom, if he come soon, I will see you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "our brother Timothy—So Paul, 1 Corinthians 4:17; 2 Corinthians 1:1; Colossians 1:1; 1 Thessalonians 3:2." 
 2. "is set at liberty—from prison. So Aristarchus was imprisoned with Paul." 
 3. "Paul implies that if Timothy shall not come shortly, he will start on his journey to the Hebrews at once."
@@ -59,4 +59,4 @@ In this verse, there is a sense of anticipation and longing for a specific indiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

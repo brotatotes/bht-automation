@@ -9,7 +9,7 @@ The verse described here recounts a supernatural event where individuals heard a
 2. "Others heard a sound, but no words."
 3. "I should rather believe this difference to have been proportioned to each man’s inner relation to Christ, than fortuitous."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people therefore that stood by, said, It thundered; others, An angel spake to him." - This quote highlights the diverse interpretations of the supernatural event. Some perceived it as thunder, while others believed it was the voice of an angel. It emphasizes the subjective nature of perception and the different ways people make sense of extraordinary occurrences.
 
 2. "Some hearing only a sound, others an articulate, but to them unintelligible voice." - This quote underscores the varying degrees of comprehension among the witnesses. While some heard a distinct and understandable voice, others only perceived a sound without understanding its meaning. It highlights the limitations of human understanding and the complexity of divine communication.
@@ -52,4 +52,4 @@ The verse described here recounts a supernatural event where individuals heard a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

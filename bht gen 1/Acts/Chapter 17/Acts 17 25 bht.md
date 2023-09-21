@@ -11,7 +11,7 @@ The verse being described in these commentaries emphasizes that true worship of 
 
 3. "He is the Preserver, as well as the Creator, of all; and all things come to us from Him." This quote reminds us that God is not only the source of our existence, but also the sustainer of our lives, providing us with everything we need.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No less familiar as this thought also is to us, even from the earliest times of the Old Testament, it would pour a flood of light upon any candid heathen mind that heard it."
 2. "The Giver of all cannot surely be dependent for aught upon the receivers of all."
 3. "This is the culminating point of a pure Theism."
@@ -59,4 +59,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

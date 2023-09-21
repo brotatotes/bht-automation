@@ -11,7 +11,7 @@ In the passage being described, there is a focus on the blessedness that comes f
 
 3. "Faith, in the recipient of the divine purposes, is so often represented as a co-ordinate cause of the fulfillment of those purposes." - This quote underscores the idea that faith plays a significant role in the realization of God's plans and purposes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An additional benediction on the Virgin for her implicit faith" - This quote highlights the praise given to the Virgin Mary for her unwavering belief and trust in God's plan, contrasting with the doubt expressed by her own husband, Joseph. 
 
 2. "In tacit and delicate contrast with her own husband" - This phrase emphasizes the subtle difference in faith between Mary and Joseph, highlighting Mary's exceptional trust in God's word.
@@ -63,4 +63,4 @@ In the passage being described, there is a focus on the blessedness that comes f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

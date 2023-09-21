@@ -4,7 +4,7 @@
 In this verse, various commentators shed light on the danger of following blind leaders who lack spiritual insight. They emphasize the destructive consequences of such misguided guidance and urge believers to steer clear of their influence. The commentaries highlight the deep impact of false teachings and the need for discernment to avoid falling into the pitfalls of ignorance and error. This passage serves as a warning and a call to remain faithful to Christ, who is the ultimate source of truth and guidance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let them alone: they be blind leaders of the blind." - This quote highlights the warning against following misguided leaders who lack spiritual insight and understanding.
 2. "And if the blind lead the blind, both shall fall into the ditch." - This quote emphasizes the disastrous consequences of following those who are spiritually blind, as both the leaders and their followers will suffer.
 3. "Striking expression of the ruinous effects of erroneous teaching!" - This quote captures the commentary's recognition of the destructive impact that false teachings can have on individuals and communities.
@@ -42,4 +42,4 @@ In this verse, various commentators shed light on the danger of following blind 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

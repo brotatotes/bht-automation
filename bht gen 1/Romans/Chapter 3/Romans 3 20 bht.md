@@ -9,7 +9,7 @@ The Bible verse described in these commentaries tackles the issue of justificati
 2. "All flesh subject shall be copula not justified predicate."
 3. "The law has no such office, in the present state of human nature manifested both in history and Scripture, as to render righteous."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore by the deeds of obedience to the law there shall no flesh be justified—that is, be held and treated as righteous; as is plain from the whole scope and strain of the argument."
 2. "For by the law is the knowledge of sin."
 3. "How broad and deep does the apostle in this section lay the foundations of his great doctrine of Justification by free grace—in the disorder of man's whole nature, the consequent universality of human guilt, the condemnation, by reason of the breach of divine law, of the whole world, and the impossibility of justification before God by obedience to that violated law!"
@@ -57,4 +57,4 @@ These quotes highlight the importance of the commandments in true religion, the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the disciples are granted the authority to declare the terms of f
 2. "They who are pre-eminently filled with His presence are pre-eminently gifted with the discernment of sin and repentance in others, and hence by the Lord’s appointment authorized to pronounce pardon of sin and the contrary."
 3. "And this gift belongs to the Church in all ages, and especially to those who by legitimate appointment are set to minister in the Churches of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power to intrude upon the relation between men and God cannot have been given by Christ to His ministers in any but a ministerial or declarative sense."
 2. "The real nature of the power committed to them is seen in the exercise of church discipline."
 3. "The power to remit sins is not a personal authority, but a delegated authority given to the disciples as authorized interpreters of Christ's word."
@@ -57,4 +57,4 @@ In this verse, the disciples are granted the authority to declare the terms of f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

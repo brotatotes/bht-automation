@@ -9,7 +9,7 @@ Receive him with joy and honor, as a precious gift from the Lord. Let your heart
 2. "If extreme affection had been the sole ground of his ἀδημονεῖν, no such exhortation as this would have been needed."
 3. "Then there is an inaccuracy in expression, in reverting back to the [concrete] conduct of Epaphroditus as a reason why οἱ τοιοῦτοι [abstract] should be held in honour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Receive him—There seems to be something behind respecting him."
 2. "If extreme affection had been the sole ground of his 'heaviness,' no such exhortation would have been needed."
 3. "In reputation—'in honor'."
@@ -45,4 +45,4 @@ Receive him with joy and honor, as a precious gift from the Lord. Let your heart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

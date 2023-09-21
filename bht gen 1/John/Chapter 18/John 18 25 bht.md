@@ -4,7 +4,7 @@
 In this biblical verse, we witness the heartbreaking scene where Peter denies his association with Jesus not once, but twice. As one commentator points out, Peter's denial is not only a display of shocking stupidity but also a hardening of himself through indulging in sin. Another commentator highlights the dangerous consequence of Peter's prolonged presence among the wicked. We also see Satan's cunning tactics, as he baits his temptations and makes denial seem attractive. Ultimately, Peter's denial stems from fear and shame, leading him to reject his great mercy, privilege, and glory of being a disciple of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The second charge was made by 'another maid' who 'saw him, and said unto them that were there, This [fellow] was also with Jesus of Nazareth.'"
 2. "After a little while, another man saw him and said, 'Thou art also of them.' Possibly it was thrown at him by more than one; but these circumstantial variations only confirm the truth of the narrative."
 3. "He denied it, and said, 'I am not.' In Matthew 26:72, 'He denied with an oath, I do not know the man.' This was THE SECOND DENIAL."
@@ -35,4 +35,4 @@ In this biblical verse, we witness the heartbreaking scene where Peter denies hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are reminded of the importance of submitting to the auth
 2. "His precepts regard an established power, be it what it may. In all matters lawful, we are bound to obey." 
 3. "If the civil power commands us to violate the law of God, we must obey God before man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let every soul—every man of you—be subject unto the higher powers." This verse emphasizes the importance of submitting oneself to the authorities that are above them. It highlights the idea that God has ordained these powers, and therefore, it is our duty to respect and obey them.
 
 2. "For there is no power but of God." This quote reminds us that all authority comes from God. It implies that even though human authorities may not always be perfect, they are still part of God's plan and should be recognized as such.
@@ -59,4 +59,4 @@ In this Bible verse, we are reminded of the importance of submitting to the auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

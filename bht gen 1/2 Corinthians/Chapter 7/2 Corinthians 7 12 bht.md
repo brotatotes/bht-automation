@@ -9,7 +9,7 @@ In this verse, the writer emphasizes that their motivation for addressing the is
 2. "But he wrote, in order to bring out their zeal on his behalf (i.e. to obey his command), and make it manifest to themselves in God’s sight."
 3. "It would be easy for any of the Apostle’s adversaries to maintain that the reproof had been administered from private and interested motives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His cause that suffered wrong—the father of the incestuous person who had his father's wife (1 Corinthians 5:1). The father, thus it seems, was alive." 
 2. "That YOUR care for us might be made manifest unto you," &c. But the words, "unto you," thus, would be rather obscure still the obscurity of the genuine reading may have been the very reason for the change being made by correctors into the reading of English Version." 
 3. "He wrote in order to bring out their zeal on his behalf (that is, to obey his command), and make it manifest to themselves in God's sight, that is, to bring out among them their zeal to regard and obey him."
@@ -55,4 +55,4 @@ In this verse, the writer emphasizes that their motivation for addressing the is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

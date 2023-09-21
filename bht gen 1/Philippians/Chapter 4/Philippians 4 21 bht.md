@@ -9,7 +9,7 @@ In this verse, all believers in Christ Jesus are urged to be greeted and acknowl
 2. "ἐν χριστῷ Ἰησοῦ belongs more probably to ἀσπάσασθε, see Romans 16:22; 1 Corinthians 16:19, than to ἅγιον, as in ch. Philippians 1:1, where, as Meyer observes, the expression has a diplomatic formality, whereas here there is no reason for so formal an adjunct."
 3. "These must, on account of the next verse, have been his closer friends, perhaps his colleagues in the ministry, such as Aristarchus, Epaphras, Demas, Timotheus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute every saint—individually." - This verse emphasizes the importance of acknowledging and greeting each believer individually, showing respect and love for every member of the community of faith.
 
 2. "The brethren which are with me." - This phrase suggests that Paul is referring to the Jewish believers who are present with him. It highlights the unity and fellowship among believers, even in different locations.
@@ -46,4 +46,4 @@ In this verse, all believers in Christ Jesus are urged to be greeted and acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

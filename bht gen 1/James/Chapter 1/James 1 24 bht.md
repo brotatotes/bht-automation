@@ -9,7 +9,7 @@ The verse being described is a vivid depiction of a person who, after briefly co
 2. "The forgetting is also a permanent state; but the Apostle rather chooses in this case to bring out the act itself, as one immediately and suddenly taking place." 
 3. "It is to be observed that the κατανοεῖν answers to the hearing of the word: the ἀπεληλυθέναι to the relaxing the attention after hearing, letting the mind go elsewhere, and the interest of the thing heard pass away."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No sooner has he contemplated his image than he is gone his way." 
 2. "Contemplate answers to hearing the word: 'goeth his way,' to relaxing the attention after hearing—letting the mind go elsewhere, and the interest of the thing heard pass away."
 3. "Forgetfulness is no excuse."
@@ -45,4 +45,4 @@ The verse being described is a vivid depiction of a person who, after briefly co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

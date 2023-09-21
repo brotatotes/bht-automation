@@ -4,7 +4,7 @@
 The verse being described speaks of a revelation, an unveiling, of the mystery of God's will. This mystery refers to the Gospel, the hidden, divine plan of salvation through faith. It emphasizes that this plan is not based on human merit, but solely on God's sovereign will and pleasure. The revelation of this mystery surpasses human understanding, with depths and heights that even believers can only begin to comprehend. It is a gracious and transformative unveiling of God's redemptive purposes in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He hath abounded, or made (grace) to abound toward us, in that He made known to us, namely, experimentally, in our hearts."
 2. "This 'mystery' is not like the heathen mysteries, which were imparted only to the initiated few. All Christians are the initiated. Only unbelievers are the uninitiated."
 3. "According to his good pleasure—showing the cause why 'He hath made known to us the mystery,' namely, His own loving 'good pleasure' toward us; also the time and manner of His doing so, are according to His good pleasure."
@@ -50,4 +50,4 @@ The verse being described speaks of a revelation, an unveiling, of the mystery o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

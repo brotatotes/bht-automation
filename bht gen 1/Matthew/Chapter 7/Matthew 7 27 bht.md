@@ -9,7 +9,7 @@ The passage being described portrays the consequences of not adhering to the tea
 2. "A professed disciple ἀκούων τοὺς λόγους and therefore would have the further to fall in case of apostasy." 
 3. "Would have the further to fall in case of apostasy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How lively must this imagery have been to an audience accustomed to the fierceness of an Eastern tempest, and the suddenness and completeness with which it sweeps everything unsteady before it!" 
 2. "The rain, the floods, and the winds represent the trials and challenges that come upon everyone in life." 
 3. "The house that is built on a solid foundation represents a life that is built on the teachings of Jesus."
@@ -35,4 +35,4 @@ The passage being described portrays the consequences of not adhering to the tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

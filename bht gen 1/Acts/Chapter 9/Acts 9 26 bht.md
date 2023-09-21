@@ -9,7 +9,7 @@ This passage describes a crucial moment in the narrative, as Paul journeys to Je
 2. "By conference with the Apostles, his sphere of work might be agreed on."
 3. "And this purpose his escape enabled him to effect."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saul's visit to Jerusalem after his conversion was significant as it showed his desire to connect with the leading apostle, Peter, and receive guidance for his ministry to the Gentiles."
 2. "By joining himself to the disciples, Saul demonstrated his humility and willingness to be part of the community, setting aside his apostolic commission for the time being."
 3. "The disciples' initial fear of Saul stemmed from their knowledge of him as a persecutor of the faith, with any belief in his conversion fading away during his absence in Arabia and lack of information about his subsequent labors in Damascus."
@@ -59,4 +59,4 @@ This passage describes a crucial moment in the narrative, as Paul journeys to Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of the importance of openly and boldly confessing faith in Chr
 2. "It is a practical consistent confession which is meant, and also a practical and enduring denial."
 3. "Both in the Sermon on the Mount and here, after mention of the Father, our Lord describes Himself as the Judge and Arbiter of eternal life and death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever therefore shall confess me before men—despising the shame." - This quote emphasizes the importance of boldly proclaiming one's faith in Jesus, even in the face of shame or opposition.
 
 2. "Him will I confess also before my Father which is in heaven." - This quote highlights the promise that Jesus will acknowledge and affirm those who openly acknowledge and confess Him, assuring believers of their acceptance and recognition by God.
@@ -49,4 +49,4 @@ This verse speaks of the importance of openly and boldly confessing faith in Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

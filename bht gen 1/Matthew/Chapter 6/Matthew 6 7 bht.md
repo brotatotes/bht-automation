@@ -10,7 +10,7 @@ In this Bible verse, Jesus warns against the empty and senseless repetition of w
 3. "What is forbidden in this verse is not much praying, but the making number and length a point of observance."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Babble not" would be a better rendering, both for the form of the word—which in both languages is intended to imitate the sound—and for the sense, which expresses not so much the repetition of the same words as a senseless multiplication of them."
 2. "This method of heathen devotion is still observed by Hindu and Mohammedan devotees."
 3. "But praying much, and using at times the same words, is not here condemned, and has the example of our Lord Himself in its favor."
@@ -56,4 +56,4 @@ In this Bible verse, Jesus warns against the empty and senseless repetition of w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Based on the commentaries provided, the Bible verse can be described as depictin
 2. "On account of His fame in Jerusalem, the metropolis, which set them the fashion in their estimate of men and things." 
 3. "καὶ αὐτοὶ γάρ, inserted for those readers who might not be aware of the practice of the Galilæans to frequent the feasts at Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even this our Lord did not despise, for saving conversion often begins in less than this." 
 2. "Saving conversion often begins in less than this." 
 3. "It was their practice to go up to the feast."
@@ -47,4 +47,4 @@ Note: The commentary provided is incomplete and lacks specific references to a B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

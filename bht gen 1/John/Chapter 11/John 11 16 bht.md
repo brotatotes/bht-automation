@@ -9,7 +9,7 @@ This passage portrays a disciple named Thomas, also known as Didymus, who shows 
 2. "This is in exact accord with the character of Thomas." - This quote emphasizes Thomas' consistent tendency to have a pessimistic outlook, as seen in other instances in the Gospel of John.
 3. "Deeply attached to his Lord." - This quote reveals Thomas' deep love and devotion to Jesus, despite his doubts and fears.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lovely spirit, though tinged with some sadness, such as reappears at John 14:5, showing the tendency of this disciple to take the dark view of things."
 2. "He perceives clearly how this journey to Judea will end, as respects his Master, and not only sees in it peril to themselves, as they all did, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies."
 3. "It was that kind of affection which, living only in the light of its Object, cannot contemplate, or has no heart for life, without it."
@@ -53,4 +53,4 @@ This passage portrays a disciple named Thomas, also known as Didymus, who shows 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the verse, the phrase "in the evening" is symbolic, representing the twilight
 2. "I do not think the ἐπίτροπος must be pressed as having a spiritual meaning." 
 3. "ἀρξάμενος is not merely expletive, but definite, as in Luke 23:5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reckoning time between masters and laborers, pointing to the day of final account."
 2. "Christ Himself, represented as a Son over His own house."
 3. "Remarkable direction this—last hired, first paid."
@@ -53,4 +53,4 @@ In the verse, the phrase "in the evening" is symbolic, representing the twilight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

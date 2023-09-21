@@ -4,7 +4,7 @@
 The verse describes a scene of indulgence and opulence, where various luxurious items are mentioned. Cinnamon, mentioned as an ingredient in holy anointing oil, is now desecrated by the adulteress. Frankincense, a true "incense" loved by God, is contrasted in its pure form with the false incense. The mention of souls of men and slaves alludes to the enslavement and exploitation of both physical bodies and spiritual selves. The reference to beasts and chariots highlights the lavishness of the setting, pointing to the excesses of the wealthy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cinnamon—designed by God for better purposes: being an ingredient in the holy anointing oil, and a plant in the garden of the Beloved; but desecrated to vile uses by the adulteress." 
 2. "Frankincense—Contrast the true 'incense' which God loves." 
 3. "Souls of men—Said of slaves. Appropriate to the spiritual harlot, apostate Christendom, especially Rome, which has so often enslaved both bodies and souls of men."
@@ -38,4 +38,4 @@ The verse describes a scene of indulgence and opulence, where various luxurious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

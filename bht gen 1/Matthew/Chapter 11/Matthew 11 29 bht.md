@@ -9,7 +9,7 @@ The verse being described is an invitation from Jesus to fully embrace him and h
 2. "the ταπεινότης of His"
 3. "ταπεινὸς τῇ καρδίᾳ, an attribute of divine Love in the Saviour"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take my yoke upon you—the yoke of subjection to Jesus." 
 2. "Learn of me; for I am meek and lowly in heart." 
 3. "Ye shall find rest unto your souls."
@@ -57,4 +57,4 @@ These quotes collectively emphasize the importance of accepting Jesus as our gui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

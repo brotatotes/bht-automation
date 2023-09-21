@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes the symbolism of salt - preserving, purifying, and flavoring. Believers are called to possess these qualities, preserving truth, purifying their lives, and bringing flavor to the world. The verse also highlights the importance of Christians not compromising their beliefs or blending in with the world, but rather living distinct lives that make a positive difference. Christians are called to create a thirst for Christ in others, drawing them to the source of true satisfaction and fulfillment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salt is a preservative, a seasoning, and a purifier. In the context of this verse, it symbolizes the qualities that believers should possess: preserving the truth, adding flavor to the world, and purifying their own lives through righteousness." 
 
 2. "Just as salt loses its effectiveness when it becomes tasteless, Christians lose their impact when they compromise their beliefs or blend in with the world. We are called to be distinct and make a positive difference in the world around us."
@@ -39,4 +39,4 @@ The Bible verse being described emphasizes the symbolism of salt - preserving, p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

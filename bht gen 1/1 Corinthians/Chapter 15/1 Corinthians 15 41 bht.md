@@ -9,7 +9,7 @@ The verse being described showcases the analogy used by Paul to illustrate the c
 2. "The introduction of such an idea confuses the whole analogical reasoning."
 3. "Why not then a body here from a resurrection body, both bodies, but different?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The analogy is not to prove different degrees of glory among the blessed, but this: As the various fountains of light differ, so there is nothing unreasonable in the doctrine that our present bodies differ from our resurrection bodies, though still continuing bodies."
 2. "As the sun differs from the moon, and the moon from the stars, and even one star from another star, though all seem so much alike, there is nothing unreasonable in the doctrine that our present bodies differ from our resurrection bodies."
 3. "The analogy of the sun, moon, and stars is appropriate in understanding the difference between our present bodies and our resurrection bodies, just as the clear Eastern skies reveal the distinction between these celestial bodies."
@@ -57,4 +57,4 @@ These quotes highlight the varying levels of glory among celestial bodies, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

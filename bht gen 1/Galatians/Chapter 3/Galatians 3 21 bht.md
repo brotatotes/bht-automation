@@ -10,7 +10,7 @@ The verse being described emphasizes the relationship between the law and the pr
 3. "If that which should have power to give life had been given in the form of law."
 4. "In very truth, and not only in the fancy of some, by the law would have been righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law, as an externally prescribed rule, can never internally impart spiritual life to men naturally dead in sin, and change the disposition."
 2. "If the law had been a law capable of giving life, 'verily righteousness would have been by the law.'"
 3. "Righteousness can only come through the promise to Abraham, and through its fulfillment in the Gospel of grace."
@@ -56,4 +56,4 @@ The verse being described emphasizes the relationship between the law and the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

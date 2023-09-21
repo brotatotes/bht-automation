@@ -4,7 +4,7 @@
 In this verse, the narrative displays a minute accuracy in describing the location and distance of the mountains, highlighting the significance of their presence. The encounter takes place on a mountain, emphasizing the isolation and desolation of the possessed man. The mention of a herd of swine owned by likely Jewish owners accentuates the events that follow and sheds light on the subsequent happenings. The reader is encouraged to explore parallel accounts to gain a more comprehensive understanding of the story and draw additional insights from the context and geographical details mentioned in the verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The minute accuracy of the narrative" is confirmed by the precise descriptions of the location and distance of the mountains. 
 
 2. The presence of a herd of swine indicates that the owners were likely Jews, which helps to explain the events that follow. 
@@ -25,4 +25,4 @@ In this verse, the narrative displays a minute accuracy in describing the locati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

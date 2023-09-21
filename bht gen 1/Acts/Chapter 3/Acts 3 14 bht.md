@@ -9,7 +9,7 @@ The verse in question portrays the tragic rejection of Jesus as the Messiah by t
 2. "This last title given to our Lord implies (as Vulg.) 'Auctorem vitæ:’ see reff.; so ἀρχηγὸν κ . καθηγεμόνα τῆς ὅλης ἐπιβολῆς Ἄρατον, Polyb. ii. 40. 2."
 3. "It is possible, that the words ἀρχ . τ . ζ . may contain an allusion to the great miracle which was the immediate cause of the enmity of their rulers to Jesus. But of course Peter had a higher view in the title than merely this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Miracles are marvels only in relation to the limited powers of man."
 2. "Neither the might nor the merit of the cure are due to us, mere agents of Him whom we preach."
 3. "As though by our own power or holiness we had made this man to walk."
@@ -50,4 +50,4 @@ The verse in question portrays the tragic rejection of Jesus as the Messiah by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

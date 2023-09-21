@@ -9,7 +9,7 @@ In this verse, we see a contrast between the emphasis on tradition and external 
 2. "So rigidly did the Jews observe it, that Rabbi Akiba, being imprisoned, and having water scarcely sufficient to sustain life given him, preferred dying of thirst to eating without washing his hands."
 3. "πρεσβύτεροι are not the elders, but the ancients."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tradition of the elders" refers to the religious customs and practices that were passed down from generation to generation. It was considered a serious offense for the disciples to not wash their hands before eating, as it was seen as a violation of these traditions.
 
 2. The emphasis on handwashing was not merely about hygiene, but rather about the outward display of purity and adherence to religious rituals. It was a way for the Pharisees to maintain their sense of superiority and control over others.
@@ -52,4 +52,4 @@ In this verse, we see a contrast between the emphasis on tradition and external 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

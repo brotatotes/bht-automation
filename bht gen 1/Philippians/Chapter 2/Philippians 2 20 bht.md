@@ -11,7 +11,7 @@ The verse being described is one where Jesus speaks about having no one by his s
 
 3. "Have real anxiety about your matters" - This quote suggests that Timotheus is not only attentive to the needs of others but also deeply invested in their concerns, showing a high level of commitment and responsibility.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have none so 'like-minded,' literally, 'like-souled,' with myself as is Timothy." 
 2. "Paul's second self." 
 3. "A case wherein the Spirit of God so changed man's nature, that to be natural was with him to be spiritual."
@@ -61,4 +61,4 @@ The verse being described is one where Jesus speaks about having no one by his s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

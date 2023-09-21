@@ -9,7 +9,7 @@ In this verse, commentators highlight the significance of circumcision in the co
 2. "By a surgical operation."
 3. "The practice usually was adopted by those who wished to appear like the Gentiles, and to cast off their ancient faith and habits."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some Christians in excess of anti-Jewish feeling might be tempted to this."
 2. "Let him not be circumcised—as the Judaizing Christians would have him."
 3. "The Judaizing Christians would have him."
@@ -47,4 +47,4 @@ In this verse, commentators highlight the significance of circumcision in the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

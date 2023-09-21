@@ -9,7 +9,7 @@ In this verse, the speaker, who has been absent for many years, returns to Jerus
 2. "See 1 Corinthians 16:3-4; 2 Corinthians 8:9."
 3. "Notes, ch. Acts 20:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This only allusion in the Acts to what is dwelt upon so frequently in his own Epistles throws a beautiful light on the truth of this History."
 2. "After many years absence from Jerusalem, I came to bring alms to my of Macedonia and Greece, which he had taken such pains to gather."
 3. "And offerings—connected with his Jewish vow."
@@ -43,4 +43,4 @@ In this verse, the speaker, who has been absent for many years, returns to Jerus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

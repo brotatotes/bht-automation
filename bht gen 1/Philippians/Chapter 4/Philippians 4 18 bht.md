@@ -9,7 +9,7 @@ The verse being described is a powerful expression of gratitude and contentment.
 2. "I am filled (repetition and intensification of περισσεύω)"
 3. "a sacrifice acceptable, well pleasing to God"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have all" that I want, "and more than enough." 
 2. "I am filled full."
 3. Their gift being in faith was not so much to Paul, as to God, before whom it "came up for a memorial," sweet-smelling in God's presence.
@@ -57,4 +57,4 @@ The verse being described is a powerful expression of gratitude and contentment.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

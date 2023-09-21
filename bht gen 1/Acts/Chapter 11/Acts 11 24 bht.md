@@ -4,7 +4,7 @@
 This verse describes a man who was noted for his generosity, open-mindedness, and fervent belief in God. With a large-hearted and liberal-minded disposition, he rose above narrow sectarianism and embraced the conversion of souls through humble piety. Filled with the Holy Spirit and faith, he rejoiced in the success of others and attributed it to the work of the Divine Spirit. Through his ministry, he drew a large multitude to the Lord, embodying the goodness and grace of God in his character and actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For he was a good man—The sense of 'good' here is plainly 'large-hearted,' 'liberal-minded,' rising above narrow Jewish sectarianism, and that because, as the historian adds, he was 'full of the Holy Ghost and of faith.'" 
 
 2. "and much people were added unto the Lord—This proceeding of Barnabas, so full of wisdom, love, and zeal, was blessed to the great increase of the Christian community in that important city." 
@@ -47,4 +47,4 @@ This verse describes a man who was noted for his generosity, open-mindedness, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

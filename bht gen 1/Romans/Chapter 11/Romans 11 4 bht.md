@@ -11,7 +11,7 @@ In this verse, the faithful remnant of seven thousand is highlighted, as they di
 
 3. "The LXX wrote the feminine form of Baal, possibly because they saw Baal as a female deity or to designate feebleness." - This quote explores different interpretations of why the LXX used the feminine form of Baal, providing insight into the possible reasons behind this choice.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seven thousand, that have not bowed the knee to Baal" - This verse highlights the faithful remnant who have not succumbed to the idolatry of Baal worship. It emphasizes the importance of remaining steadfast in one's faith and not compromising with false gods or beliefs.
 
 2. "Not 'the image of Baal'" - This clarification distinguishes between the worship of the physical representation of Baal and the worship of Baal as a false god. It suggests that the faithful remnant did not bow down to any aspect of Baal worship, whether it be the image or the deity itself.
@@ -51,4 +51,4 @@ In this verse, the faithful remnant of seven thousand is highlighted, as they di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

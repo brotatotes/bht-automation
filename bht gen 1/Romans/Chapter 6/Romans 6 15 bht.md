@@ -11,7 +11,7 @@ In this passage, commentators raise the question of whether believers are allowe
 
 3. "This question is not... put into the mouth of an objector" - This quote clarifies that the question is not a hypothetical objection, but rather a genuine inquiry from the Apostle himself, arising from the previous discussion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What then?" - This phrase signifies a transition in thought, indicating that the author is about to address a specific question or issue.
 2. "Know ye not" - This phrase emphasizes the importance of understanding a particular concept or truth, suggesting that the readers should already be aware of it.
 3. "It is a dictate of common sense" - This statement implies that the concept being discussed is logical and reasonable, appealing to the readers' rationality.
@@ -45,4 +45,4 @@ In this passage, commentators raise the question of whether believers are allowe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this cautionary verse, the Corinthians are warned about the dangers of idolat
 2. "And as the Israelites were actually idolaters, doing this as an act of worship to the image: so the Corinthians were in danger of becoming such."
 3. "The Apostle therefore puts the case in the strongest way, neither be (become) ye idolaters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Corinthians were in danger of idolatry by a like act, though not professedly worshipping an idol as the Israelites."
 2. "He passes here from the first to the second person, as they alone (not he also) were in danger of idolatry."
 3. "The multitude follow the lead of some bad men."
@@ -53,4 +53,4 @@ In this cautionary verse, the Corinthians are warned about the dangers of idolat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

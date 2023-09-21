@@ -4,7 +4,7 @@
 In this passage, multiple angels deliver urgent messages, emphasizing the importance of the divine truth and guidance being conveyed. The repetition of the word "angel" signifies a divine intervention, indicating that the message carries authoritative symbolism. The mention of a third angel highlights the progression in God's plan and reveals a new aspect of his unfolding purpose. These angelic messages denounce idolatry and warn of God's wrath upon those who submit to false powers. The worship of the beast and its image is seen as a gross form of idolatry, leading to spiritual ruin and separation from divine grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of 'another, a third angel' in this verse highlights the presence of multiple angels delivering messages in the book of Revelation, emphasizing the importance and urgency of the message being conveyed."
 
 2. "The reference to Revelation 13:15 and 13:16 invites readers to compare and contrast the messages delivered by the angels in those verses with the message being delivered by the angel in this verse. This comparison can provide deeper insights into the themes and symbolism present in the book of Revelation."
@@ -47,4 +47,4 @@ In this passage, multiple angels deliver urgent messages, emphasizing the import
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

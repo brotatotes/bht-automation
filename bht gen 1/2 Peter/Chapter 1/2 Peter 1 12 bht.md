@@ -9,7 +9,7 @@ This verse emphasizes the important truths that we may sometimes overlook or for
 2. "I will be sure (μελλήσω, ref., is of very rare occurrence. The expression is nearly equivalent to 'I will take care')"
 3. "Always to remind you concerning these things (τούτων, the things just now spoken of: in the widest sense: it does not merely take up the ταῦτα of ταῦτα ποιοῦντες, nor merely, as De W., refer to the kingdom of Christ and His coming)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These graces are so necessary to your abundant entrance into Christ's kingdom."
 2. "I will be about always to put you in remembrance."
 3. "The Gospel truth now present with you: formerly promised to Old Testament believers as about to be, now in the New Testament actually present with, and in, believers."
@@ -55,4 +55,4 @@ This verse emphasizes the important truths that we may sometimes overlook or for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

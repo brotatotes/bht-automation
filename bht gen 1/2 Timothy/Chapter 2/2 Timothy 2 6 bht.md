@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the significance of laboring diligent
 2. "By this rendering, keeping strictly to the sense of the present part., all difficulty as to the position of πρῶτον is removed."
 3. "Thdrt. and Œc. understand πρῶτον of the preference which the teacher has over the taught, πρὸ γὰρ τῶν κεκτημένων οἱ γηπόνοι μεταλαγχάνουσι τῶν καρπῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The right of first partaking of the fruits belongs to him who is laboring." 
 2. "Do not thou, therefore, relax thy labors, as thou wouldest be foremost in partaking of the reward." 
 3. "Before the idler."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the significance of laboring diligent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

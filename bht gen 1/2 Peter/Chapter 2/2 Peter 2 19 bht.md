@@ -9,7 +9,7 @@ False teachers promise people freedom from the law, but they themselves are ensl
 2. "They promise that liberty of the sons of God, being themselves in the bondage of corruption." 
 3. "By what a man is overcome, by the same he is also enslaved."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The liberty which they propose is such as fears not Satan, nor loathes the flesh." 
 2. "These promises are instances of their 'great swelling words'." 
 3. "Pauline language, adopted by Peter here, and 1 Peter 2:16; see on 1 Peter 2:16- :."
@@ -53,4 +53,4 @@ False teachers promise people freedom from the law, but they themselves are ensl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

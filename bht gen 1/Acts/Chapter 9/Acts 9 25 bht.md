@@ -9,7 +9,7 @@ In this biblical account, Saul, later known as the apostle Paul, faced oppositio
 2. "The only escape from this inference is by supposing an unusual government of a gen. by λαβόντες, such as we sometimes find in Homer."
 3. "Further particularized by the addition of διὰ θυρίδος, 2 Corinthians 11:33. Such windows in the walls of cities are common in the East."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through a window" - This detail of the disciples letting Saul down through a window adds a sense of urgency and secrecy to the scene. It highlights the danger and opposition Saul faced as a newly converted disciple of Jesus. 
 
 2. "Such overhanging windows in the walls of Eastern cities were common" - This statement provides historical context and helps the reader visualize the setting of the story. It also emphasizes the authenticity and accuracy of the biblical account. 
@@ -45,4 +45,4 @@ In this biblical account, Saul, later known as the apostle Paul, faced oppositio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

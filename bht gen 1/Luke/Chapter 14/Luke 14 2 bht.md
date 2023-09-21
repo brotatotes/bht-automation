@@ -9,7 +9,7 @@ In this verse, a man with dropsy, a condition characterized by the abnormal accu
 2. "ἦν ἱστάμενος καὶ μὴ τολμῶν μὲν ζητῆσαι θεραπείαν διὰ τὸ σάββ." - The man with dropsy stood there, not daring to seek healing because it was the Sabbath.
 3. "ἵνα ἰδὼν οἰκτειρήσῃ τοῦτον ἀφʼ ἑαυτοῦ καὶ ἀπαλλάξῃ τοῦ ὕδρωπος." - Jesus wanted to see if the Pharisees would show compassion and free the man from his dropsy.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "man before him—not one of the company" - This quote suggests that the man who approached Jesus was not part of the gathering but had come with the hope of receiving a cure. This highlights the desperation and faith of the man, as he sought Jesus for healing without explicitly asking for it.
 
 2. "apparently before the guests sat down" - This quote indicates that the encounter between Jesus and the man occurred before the guests had taken their seats. It adds context to the situation, emphasizing that the man's approach to Jesus was not a planned or formal request but rather an impromptu act of seeking help.
@@ -47,4 +47,4 @@ In this verse, a man with dropsy, a condition characterized by the abnormal accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

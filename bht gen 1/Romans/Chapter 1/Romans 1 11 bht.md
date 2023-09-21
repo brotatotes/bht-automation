@@ -9,7 +9,7 @@ The author expresses a deep longing to connect with the readers, not for his own
 2. "That the χάρισμα here spoken of was no mere supernatural power of working in the Spirit."
 3. "The gift alluded to was παράκλησις, as De Wette observes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I long to see you, that I may impart to you some spiritual gift." - This quote highlights the author's desire to share something valuable and beneficial with the readers, emphasizing the importance of spiritual growth and development.
 
 2. "Not any supernatural gift, as the next clause shows." - This quote clarifies that the spiritual gift mentioned is not referring to miraculous or extraordinary abilities, but rather something more practical and applicable to their faith.
@@ -52,4 +52,4 @@ The author expresses a deep longing to connect with the readers, not for his own
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, commentators describe a scene where some spectators express suspicion and doubt while discussing Jesus' abilities. They refer to a previous miracle where Jesus restored sight to a blind man, questioning why he couldn't have prevented the death of Lazarus. The commentators highlight the people's belief in Jesus' power to perform miracles, but also their lack of understanding and disbelief in his ability to bring the dead back to life. This mixed response showcases the paradoxical nature of human faith and unbelief.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The former exclamation came from the better-feeling portion of the spectators; this betokens a measure of suspicion."
 2. "It hardly goes the length of attesting the miracle on the blind man; but 'if (as everybody says) He did that, why could He not also have kept Lazarus alive?'"
 3. "But this disposition to dictate to divine power, and almost to peril our confidence in it upon its doing our bidding, is not confined to men of no faith."
@@ -35,4 +35,4 @@ In this verse, commentators describe a scene where some spectators express suspi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

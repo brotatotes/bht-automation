@@ -9,7 +9,7 @@ The verse being described is one in which the chief priests and high priest, alo
 2. "Πρῶτοι is more general than πρεσβύτεροι, though most of the first men must have been members of the Sanhedrim."
 3. "Festus, relating this application, Acts 25:15, calls them πρεσβύτεροι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high priest, as the representative of the Jewish religious establishment, had a personal vendetta against Paul. This vendetta was fueled by Paul's teachings that challenged the authority and traditions of the Jewish leaders." 
 
 2. "The chief of the Jews, along with the whole multitude, were united in their opposition against Paul. This shows the extent of the hostility and resistance that Paul faced from the Jewish community."
@@ -47,4 +47,4 @@ The verse being described is one in which the chief priests and high priest, alo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

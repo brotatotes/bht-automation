@@ -9,7 +9,7 @@ In this verse, the commentator remarks on the death and resurrection of Christ, 
 2. "Our Lord at death passed into a state in which He had 'no more to do with sin' either as tempting Him, requiring to be atoned for, or as met by Him in daily contradiction which He endured from sinners." 
 3. "He liveth unto God, as being glorified by and with the Father, as entirely rid of conflict with sin and death, and having only God's work to do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For in that he died, he died unto—that is, in obedience to the claims of sin once—for all." 
 2. "But in that he liveth, he liveth unto—in obedience to the claims of God." 
 3. "There never, indeed, was a time when Christ did not 'live unto God.'"
@@ -52,4 +52,4 @@ In this verse, the commentator remarks on the death and resurrection of Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

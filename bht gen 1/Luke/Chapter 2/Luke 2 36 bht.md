@@ -4,7 +4,7 @@
 In the passage, a prophetess named Anna is mentioned, known for her great age and devotion to God. She was from the tribe of Asher, which was celebrated for the beauty of its women. Though her specific reason for being called a prophetess is unknown, she was regarded with reverence due to the presence of the Spirit of God within her. Anna's significance lies in her role as a witness to the fulfillment of prophecy until the coming of Christ, embodying the grace and redemption brought by Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The last times" in which God was to "pour out His Spirit upon all flesh" were at hand.
 2. The distinction of tribes, though practically destroyed by the captivity, was well enough known up to their final dispersion.
 3. If she married at the earliest marriageable age, twelve years, she could not at this time be less than a hundred three years old.
@@ -45,4 +45,4 @@ In the passage, a prophetess named Anna is mentioned, known for her great age an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

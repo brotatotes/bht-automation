@@ -9,7 +9,7 @@ The Bible verse being described is a reminder of the contrast between human wisd
 2. "δρασσόμενος (possibly a provincialism) is substituted for καταλαμβάνων, as a stronger and livelier expression for 'grasping,' or 'catching with the hand.'"
 3. "Cf. Jdt 13:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He taketh . . . wise in . . . own craftiness—proving the 'foolishness' of the world's wisdom, since it is made by God the very snare to catch those who think themselves so wise."
 2. "The formula of quoting SCRIPTURE used here, establishes the canonicity of Job."
 3. "Literally, 'He who taketh . . . the whole of the sentence not being quoted, but only the part which suited Paul's purpose."
@@ -56,4 +56,4 @@ The Bible verse being described is a reminder of the contrast between human wisd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

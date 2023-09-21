@@ -9,7 +9,7 @@ In this verse, we see a general declaration of the corruption of man and a stron
 2. "This saying seems to me the strongest dictum probans for original sin in the whole of the Holy Scriptures."
 3. "ἀγαθά] principally, His Holy Spirit, Luke 11:13. The same argument à fortiori is used by our Lord in the parable of the unjust judge, Luke 18:6-7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bad as our fallen nature is, the father in us is not extinguished." 
 2. "What a heart, then, must the Father of all fathers have towards His pleading children!" 
 3. "He seems to avoid such sharp doctrinal teaching as was more accordant with His plan at the riper stage indicated in Luke, and in addressing His own disciples exclusively."
@@ -43,4 +43,4 @@ In this verse, we see a general declaration of the corruption of man and a stron
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

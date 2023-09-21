@@ -9,7 +9,7 @@ The Bible verse being described is a call to contemplate the contrasting attribu
 2. "The repetition of θεοῦ is quite in the manner of the Apostle." 
 3. "If thou abide by that goodness; for thou also shalt be cut off."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold therefore the goodness and severity of God: on them that fell, severity—in rejecting the chosen seed." - This quote highlights the contrasting aspects of God's nature, emphasizing His severity in rejecting those who fell and His goodness towards the chosen seed.
 
 2. "God's goodness is the true reading, that is, His sovereign goodness in admitting thee to a covenant standing who before wert a 'stranger to the covenants of promise'." - This quote emphasizes the divine goodness of God, specifically in extending His covenant to those who were previously outsiders.
@@ -61,4 +61,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

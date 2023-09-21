@@ -9,7 +9,7 @@ In this verse, the speaker addresses his audience with respect and honor, acknow
 2. "The fact of his having left Ur by some divine intimation is plainly stated in Genesis 15:7, and referred to in Nehemiah 9:7."
 3. "It was surely both natural and allowable to express this first command in the well-known words of the second."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of glory—A magnificent appellation, fitted at the very outset to rivet the devout attention of his audience; denoting not that visible glory which attended many of the divine manifestations, but the glory of those manifestations themselves, of which this was regarded by every Jew as the fundamental one."
 2. "It is the glory of absolutely free grace."
 3. "Though this first call is not expressly recorded in Genesis, it is clearly implied in Genesis 15:7 Nehemiah 9:7; and the Jewish writers speak the same language."
@@ -50,4 +50,4 @@ In this verse, the speaker addresses his audience with respect and honor, acknow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

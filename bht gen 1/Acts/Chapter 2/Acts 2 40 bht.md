@@ -9,7 +9,7 @@ This verse is a powerful call for personal responsibility and separation from a 
 2. "σώθητε is improperly rendered in E. V. 'save yourselves:' it is not σώζετε ἑαυτούς, as in Luke 23:35; Luke 23:37; Luke 23:39; be saved, Lasset euch retten, is the true sense."
 3. "σκολιᾶς see reff. Peter alludes to ref. Deut."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Save yourselves from this untoward generation" - Peter's urgent plea for his listeners to separate themselves from the corrupt and unbelieving society around them, emphasizing the need for personal responsibility in securing their own salvation.
 
 2. "Peter already foresaw the hopeless impenitence of the nation at large" - A glimpse into Peter's prophetic insight, suggesting that he recognized the hardened hearts of the people and their unwillingness to repent.
@@ -56,4 +56,4 @@ This verse is a powerful call for personal responsibility and separation from a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

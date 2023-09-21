@@ -9,7 +9,7 @@ Love, perfect and mature, has the power to banish fear. It is not a slavish fear
 2) "Fear (φόβος, abstract and general: anarthrous, on account of the negative predication) existeth not in love (τῇ ἀγάπῃ, abstract and general also, as in 1 John 4:17; not 'God's love to us,' as Calv., Calov., Spener, al.: nor 'brotherly love,' as Lücke, al.), nay perfect love casteth out fear, because fear hath torment." 
 3) "He that feareth hath not been perfected in (his) love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear has no place in love. Bold confidence, based on love, cannot coexist with fear."
 2. "Love, when perfected, gives bold confidence and casts out fear."
 3. "Fear is always revolving in the mind the punishment deserved. Fear, by anticipating punishment, has it even now, the foretaste of it."
@@ -51,4 +51,4 @@ Love, perfect and mature, has the power to banish fear. It is not a slavish fear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

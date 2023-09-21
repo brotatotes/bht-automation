@@ -9,7 +9,7 @@ In this verse, the importance of diligently and faithfully handling the word of 
 2. "Strive to present thyself to God approved, a workman unshamed."
 3. "Rightly administering the word of the truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be earnest" or "diligent" in your study, showing yourself approved through testing and trial, not to be ashamed of your work. (Quote 15)
 2. "Rightly dividing" or "rightly handling" the word of truth, like a father or steward cutting and distributing bread, making a straight way for the word of truth. (Quote 15)
 3. The opposite of "rightly handling" is to "corrupt the word of God," emphasizing the importance of staying true to the truth. (Quote 15)
@@ -55,4 +55,4 @@ In this verse, the importance of diligently and faithfully handling the word of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

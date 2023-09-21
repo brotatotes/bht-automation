@@ -4,7 +4,7 @@
 The verse portrays a profound unity between the divine and human aspects of the Church. It highlights the active role of the Church, represented by the Bride, in responding to the call of the Spirit. This call is not merely an invitation to salvation, but an ongoing beckoning to enter into a deep relationship with God. The Church eagerly waits for the coming of the Lord, expressing a heartfelt desire for His presence. This invitation is open to all who thirst for a deeper connection with God, as freely as one quenches their thirst with water.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The invitation, 'Come,' only holds good while the Church is still but an affianced Bride, and not the actually wedded wife." 
 2. "Let him that heareth the Spirit and Bride saying to the Lord Jesus, 'Come,' join the Bride as a true believer, become part of her, and so say with her to Jesus, 'Come.'"
 3. "As the Bride, the Church, prays to Jesus, 'Come,' so she urges all whosoever thirst for participation in the full manifestation of redemption-glory at His coming to us, to COME in the meantime and drink of the living waters."
@@ -49,4 +49,4 @@ The verse portrays a profound unity between the divine and human aspects of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

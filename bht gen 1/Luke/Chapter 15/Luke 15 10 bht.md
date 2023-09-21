@@ -4,7 +4,7 @@
 In this verse, we see the immense joy that is present in the celestial realm. The parable speaks of the Great Shepherd reclaiming His lost sheep and the joy that fills the heavens upon its recovery. This joy is not only shared by God Himself, but also by the angels, who are described as neighbors of God. The angels rejoice because a soul is rescued from the clutches of Satan, expanding the kingdom of Christ. This passage reminds us that the redemption of even a single lost soul has immeasurable significance and brings boundless joy to the heavenly realms.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True to the idea of the parables. The Great Shepherd. The Great Owner Himself, is He whose the joy properly is over His own recovered property but so vast and exuberant is it, that as if He could not keep it to Himself, He 'calleth His friends and neighbors together'—His whole celestial family—saying, 'Rejoice WITH ME, for I have found My sheep-My-piece,' c."
 2. "In this sublime sense it is 'joy,' before 'or in the presence of the angels' they only 'catch the flying joy,' sharing it with Him!"
 3. "The recovery of even one such outcast is watched with interest and hailed with joy; nor are they left to come home of themselves or perish; for lo! even now the great Shepherd is going after His lost sheep, and the Owner is making diligent search for the lost property; and He is finding it, too, and bringing it back with joy, and all heaven is full of it."
@@ -35,4 +35,4 @@ In this verse, we see the immense joy that is present in the celestial realm. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

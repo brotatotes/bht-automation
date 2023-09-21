@@ -9,7 +9,7 @@ The Bible verse describes the commission that Jesus gave to the Apostles, in whi
 2. "They may however have been more general, and said to all present."
 3. "These words imply that the Apostles were to be witnesses of the resurrection, and were to be chosen from among those who had been with Jesus from the beginning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The role of witnesses is crucial in the spread of the Gospel, as they provide firsthand accounts of the life, death, and resurrection of Jesus Christ." 
 
 2. "By being witnesses, believers are called to testify to the truth and power of the Gospel, sharing their personal experiences and encounters with Jesus." 
@@ -40,4 +40,4 @@ The Bible verse describes the commission that Jesus gave to the Apostles, in whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the speaker reflects on their past as a Pharisee, emphasizing t
 2. "The process of his conversion" 
 3. "The ministry with which he was entrusted to others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that the apostle Paul was once a persecutor of Christians, but through the grace of God, he was transformed into a faithful follower of Christ." 
 
 2. "The phrase 'breathing out threatenings and slaughter' vividly portrays the intensity and violence with which Paul pursued the early Christians, highlighting the radical change that occurred in his life."
@@ -54,4 +54,4 @@ In this passage, the speaker reflects on their past as a Pharisee, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

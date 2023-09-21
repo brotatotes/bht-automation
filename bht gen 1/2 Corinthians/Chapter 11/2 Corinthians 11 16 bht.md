@@ -9,7 +9,7 @@ In this verse, the author is addressing the perception of himself as a fool, ack
 2. "κἄν elliptical: the full construction would be κἂν ὡς ἄφρονα δέξασθαι δέῃ, δέξασθέ με: so in reff.) as a fool (i.e. yielding to me the toleration and hearing which men would not refuse even to one of whose folly they were convinced) receiving him."
 3. "κἀγώ, as well as they."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "if ye will think me a fool. yet as a fool... grant me the indulgent hearing conceded even to one suspected of folly." 
 2. "The Greek denotes one who does not rightly use his mental powers; not having the idea of blame necessarily attached to it; one deceived by foolish vanities, yet boasting himself."
 3. "that I, too, may boast myself."
@@ -45,4 +45,4 @@ In this verse, the author is addressing the perception of himself as a fool, ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

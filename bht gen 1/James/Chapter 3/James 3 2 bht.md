@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of controlling one's tongue 
 2. "The present assertion is to be taken in the widest moral sense, as an axiom applying to our whole conduct."
 3. "The sense surely runs well thus: We all oftentimes offend: and of those frequent offences, sins of the tongue are so weighty a part and so constant a cause, that he who is free from them may be said to be perfect, inasmuch as he is able to rule every other minor cause of offence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All" in this verse refers to everyone, including the apostles. No one is exempt from the command to not offend or stumble others. 
 2. The phrase "offend not" means to be void of offense or to not slip in word. This is particularly challenging for those who take on the role of a teacher. 
 3. Teachers are especially tried in their ability to avoid stumbling others, as they are held to a higher standard in their words and actions.
@@ -54,4 +54,4 @@ The verse being described emphasizes the importance of controlling one's tongue 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

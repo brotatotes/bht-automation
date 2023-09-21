@@ -9,7 +9,7 @@ The verse being described is a powerful affirmation that the preaching of the Go
 2. "It is remarkable that so few of the Commentators have noticed that Psalms 19:0 is a comparison of the sun, and glory of the heavens, with the word of God."
 3. "As to the assertion of the preaching of the Gospel having gone out into all the world, when as yet a small part of it only had been evangelized, we must remember that it is not the extent, so much as the universality in character, of this preaching, which the Apostle is here asserting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can Israel, through any region of his dispersion, plead ignorance of these glad tidings?"
 2. "Their sound went into all the earth, and their words unto the end of the world."
 3. "The irradiation of the world with the beams of a better Sun by the universal diffusion of the Gospel of Christ."
@@ -55,4 +55,4 @@ The verse being described is a powerful affirmation that the preaching of the Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

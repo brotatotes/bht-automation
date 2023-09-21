@@ -9,7 +9,7 @@ In this Bible verse, a man who was lame from birth is instantly healed by Jesus.
 2. "This man, who, since sin had been the cause of his disease, is ordered to carry his bed, 'a present memento of his past sin.'"
 3. "Our Lord must have had in his view what was to follow, and have ordered it also to bring about this his first open controversy with the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Immediately" he did so. "He spake and it was done." - This highlights the instantaneous and miraculous nature of the healing, emphasizing the power and authority of Jesus.
 
 2. The slinging of his portable couch over his shoulders - This action symbolizes the complete restoration of the paralytic's physical abilities, demonstrating the thoroughness of the healing.
@@ -51,4 +51,4 @@ In this Bible verse, a man who was lame from birth is instantly healed by Jesus.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

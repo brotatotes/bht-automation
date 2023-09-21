@@ -9,7 +9,7 @@ In this verse, the commentator highlights the significance of Onesimus as a fell
 2. "This very term, ἀδελφὸς ἀγαπητός, is applied to him." 
 3. "A formal restatement of τὰ κατʼ ἐμὲ π. γν. above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Onesimus—the slave mentioned in the Epistle to Philemon, 'a brother beloved.'"
 2. "a faithful...brother—rather, 'the faithful brother,' he being known to the Colossians as the slave of Philemon, their fellow townsman and fellow Christian."
 3. "They shall make known unto you all things—Greek, 'all the things here.'"
@@ -52,4 +52,4 @@ In this verse, the commentator highlights the significance of Onesimus as a fell
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

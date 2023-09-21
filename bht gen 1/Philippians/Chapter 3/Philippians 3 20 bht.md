@@ -9,7 +9,7 @@ Believers are described as having their citizenship in heaven, where their heart
 2. "This objective meaning of the word is better than the subjective one, 'our citizenship' or 'our conversation.'"
 3. "We wait for a Savior, the Lord Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are but pilgrims on earth; how then should we 'mind earthly things?'" (Philippians 3:19; Hebrews 11:9; Hebrews 11:10; Hebrews 11:13-16)
 2. "Roman citizenship was then highly prized; how much more should the heavenly citizenship" (Acts 22:28; Luke 10:20)?
 3. "We wait for the Lord Jesus as a Saviour" (Romans 8:19).
@@ -55,4 +55,4 @@ Believers are described as having their citizenship in heaven, where their heart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

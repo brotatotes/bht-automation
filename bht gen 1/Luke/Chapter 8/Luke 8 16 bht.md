@@ -4,7 +4,7 @@
 The commentators collectively describe a Bible verse that focuses on the importance of not hiding one's faith and virtues. They highlight the impossibility of serving both God and material wealth, encouraging believers to trust in God's provision. The verse also emphasizes the significance of being the light of the world and spreading the gospel, as well as the importance of letting good deeds and virtues shine openly for all to see. This verse encourages believers to live a life that reflects the teachings of Jesus and to make a positive impact on those around them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other." This quote highlights the impossibility of serving both God and material wealth simultaneously.
 
 2. "Ye cannot serve God and mammon." This quote emphasizes the incompatibility of devotion to God and the pursuit of worldly possessions.
@@ -37,4 +37,4 @@ The commentators collectively describe a Bible verse that focuses on the importa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

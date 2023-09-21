@@ -4,7 +4,7 @@
 In this verse, we see the reciprocal and inseparable nature of love between God and believers. Our love for Jesus is a response to God's eternal love for us, and it is expressed through sincere affection and warm devotion. This love is not merely emotional, but grounded in deep commitment and obedience to Christ's commands. Through our love and faith in Christ, we enter into a profound and intimate relationship with Him, experiencing His grace and revelation in our lives. This love is a reflection of God's everlasting love for us, which was demonstrated in the gift of His Son.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Father himself loveth you, because ye have loved me." - This verse highlights the reciprocal nature of love between God and believers. It emphasizes that God's love for us is a response to our love for Jesus, which is a reflection of God's eternal love for us.
 
 2. "This love of theirs is that which is called forth by God's eternal love in the gift of His Son." - The commentary explains that our love for Jesus is not self-generated, but rather a response to God's eternal love for us. It emphasizes that our love for Jesus is a result of God's grace and the gift of His Son.
@@ -42,4 +42,4 @@ In this verse, we see the reciprocal and inseparable nature of love between God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

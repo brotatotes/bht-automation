@@ -11,7 +11,7 @@ The verse being described speaks to the readers as both Jewish and Gentile Chris
 
 3. "The whole geographical extent embraced by the terms." - The commentary suggests that the regions mentioned in the verse indicate the wide reach of the Gospel message and the diverse audience it addresses.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who preaches otherwise than as a messenger of Christ, is not to be heard; if he preach as such, then it is all one as if thou didst hear Christ speaking in thy presence" [LUTHER].
 2. "Christians, if they rightly consider their calling, must never settle themselves here, but feel themselves travellers."
 3. "The children of God scattered abroad" constitute one whole in Christ, who "gathers them together in one," now partially and in Spirit, hereafter perfectly and visibly.
@@ -54,4 +54,4 @@ The verse being described speaks to the readers as both Jewish and Gentile Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described chronicles the success and growth of the early Christi
 2. "Acts 5:12 ff.; Acts 6:7 ; Acts 9:31 provide examples of this pattern." 
 3. "These verses highlight the growth and success of the early church, emphasizing the divine favor and blessing upon it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only was the royal representative ignominiously swept from the stage, but the cause which he sought to crush was only furthered and glorified."
 2. "How full of encouragement and consolation is all this to the Christian Church in every age!"
 3. "The word grew and multiplied, despite the attempts to suppress it."
@@ -47,4 +47,4 @@ The verse being described chronicles the success and growth of the early Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

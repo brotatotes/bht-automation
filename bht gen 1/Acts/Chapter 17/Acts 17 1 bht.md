@@ -9,7 +9,7 @@ In this passage, we encounter the journey of Paul and Silas as they traveled thr
 2. "The ὁδός, on which they travelled from Philippi to Thessalonica, was the Via Egnatia, the Macedoman continuation of the Via Appia, and so named from Egnatia." 
 3. "Ἀμφίπολιν, lying in a most important position, at the end of the lake Cercinitis, formed by the Strymon, commanding the only easy pass from the coast of the Strymonic gulf into Macedonia."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We see at once how appropriate a place it was for one of the starting-points of the Gospel in Europe, and can appreciate the force of what Paul said to the Thessalonians within a few months of his departure from them: 'From you, the word of the Lord sounded forth like a trumpet, not only in Macedonia and Achaia, but in every place.'" 
 2. "Where was a synagogue of the Jews—implying that (as at Philippi) there was none at Amphipolis and Apollonia."
 3. "Thessalonica—the principal and most populous city in Macedonia."
@@ -43,4 +43,4 @@ In this passage, we encounter the journey of Paul and Silas as they traveled thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator highlight the comparison between the limited know
 2. "ἐλάλουν, ἐφρόνουν, ἐλογιζόμην I spoke, I [thought] (felt, was minded), I [reasoned (or] judged)." 
 3. "Now that I am become a man, I have brought to an end the ways of a child."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When I became a man, I have done away with the things of the child."
 2. "I spake, alluding to 'tongues.'"
 3. "I thought, alluding to 'knowledge.'"
@@ -57,4 +57,4 @@ In this verse, the commentator highlight the comparison between the limited know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

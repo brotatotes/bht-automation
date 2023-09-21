@@ -4,7 +4,7 @@
 On the last day of the feast, amidst a great gathering of people, a significant ritual took place. Water was fetched from the fountain of Siloam and poured in golden vessels upon the altar, commemorating God's miraculous provision of water from the rock. Jesus, standing up with fervor, proclaimed an invitation to those spiritually thirsty to come to Him and find eternal satisfaction. This moment completed His teaching at the feast, showcasing His unwavering courage and reliance on God's protection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The generally joyous character of this feast broke out on this day into loud jubilation, particularly at the solemn moment when the priest, as was done on every day of this festival, brought forth, in golden vessels, water from the stream of Siloah, which flowed under the temple-mountain, and solemnly poured it upon the altar."
 2. "So ecstatic was the joy with which this ceremony was performed—accompanied with sound of trumpets—that it used to be said, 'Whoever had not witnessed it had never seen rejoicing at all.'"
 3. "If any man thirst, let him come unto me, and drink!—What an offer! The deepest cravings of the human spirit are here, as in the Old Testament, expressed by the figure of 'thirst,' and the eternal satisfaction of them by 'drinking'."
@@ -48,4 +48,4 @@ On the last day of the feast, amidst a great gathering of people, a significant 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

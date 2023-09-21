@@ -9,7 +9,7 @@ In this verse, we see the disciples grappling with their limited understanding o
 2. "The disciples probably have the woman in their thoughts."
 3. "It is very characteristic of the first part of this Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here is revealed another of our common infirmities to which the Lord was subject—hunger."
 2. "Fatigue and thirst we saw He felt."
 3. "While the woman was away, the disciples observed the human needs and weaknesses that Jesus experienced."
@@ -43,4 +43,4 @@ In this verse, we see the disciples grappling with their limited understanding o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

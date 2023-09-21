@@ -9,7 +9,7 @@ In this verse, we see the influence of Aquila and Priscilla in spreading the Gos
 2. "They had removed from Corinth to Ephesus, and had there, as subsequently at Rome, an assembly of the faithful meeting in their dwelling."
 3. "The whole Ephesian church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Originally driven out of Italy by Claudius, they had come to Corinth (whence their salutation of the Corinthians is appropriate here), and then had removed with Paul from Corinth to Ephesus."
 2. "A pattern to Christian husbands and wives. Their Christian self-devoting love appears wherever they were."
 3. "Christ's followers when dispersed from one another cease to be a congregation (synagogue), but still are a Church, having the common bond of union to the same Head by the same faith and hope."
@@ -57,4 +57,4 @@ In this verse, we see the influence of Aquila and Priscilla in spreading the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

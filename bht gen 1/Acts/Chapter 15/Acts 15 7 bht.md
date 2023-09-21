@@ -9,7 +9,7 @@ In a significant moment, the apostles gather to address an important matter. Pet
 2. "Such notices are important, as showing that these reports are not only according to the sense of what was said, but the words spoken, verbatim."
 3. "The length of time elapsed is placed by Peter in the strongest light, to show that the question had in fact been settled by divine interference long since."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the last mention of him in the Acts, and one worthy of his standing, as formally pronouncing, from the divine decision of the matter already in his own case, in favor of the views which all of Paul's labors were devoted to establishing."
 
 2. "A good while ago—probably about fifteen years before this."
@@ -59,4 +59,4 @@ In a significant moment, the apostles gather to address an important matter. Pet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

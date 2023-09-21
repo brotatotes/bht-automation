@@ -11,7 +11,7 @@ In this verse, the readers are urged to approach their tasks and responsibilitie
 
 3. "That which they themselves have earned." - This quote underscores the idea that the consequences the offenders face are a result of their own actions, implying personal responsibility.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "IN the Lord Jesus." - This phrase emphasizes that the conduct being discussed is appropriate and consistent within the sphere of being in Christ. It highlights the importance of aligning one's actions with the teachings and example of Jesus.
 
 2. "With quietness." - This phrase suggests the need for a calm and peaceful approach, avoiding restless and officious behavior. It encourages a mindset of quiet industry, focusing on one's own responsibilities rather than meddling in the affairs of others.
@@ -63,4 +63,4 @@ In this verse, the readers are urged to approach their tasks and responsibilitie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

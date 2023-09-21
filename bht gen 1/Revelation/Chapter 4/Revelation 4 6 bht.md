@@ -4,7 +4,7 @@
 The Bible verse being described is a vision of a majestic and divine scene. The description highlights the clarity and purity of the surroundings, comparing it to crystal and glassy sea. It signifies the serene and calm nature of the setting. The presence of the four living creatures, with their distinct characteristics, represents unwavering courage, patience, prudence, compassion, and vigor. The scene is depicted as being before the throne of God, where the Spirit of God resides, and where the powers and operations of the Holy Ghost are present.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Like crystal—not imperfectly transparent as the ancient common glass, but like rock crystal."
 2. "Thus, primarily, the pure ether which separates God's throne from John, and from all things before it, may be meant, symbolizing the 'purity, calmness, and majesty of God's rule.'"
 3. "There is in this sea depth and transparency, but not the fluidity and instability of the natural sea... It stands solid, calm, and clear, God's judgments are called 'a great deep.'"
@@ -47,4 +47,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

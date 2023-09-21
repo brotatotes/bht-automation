@@ -4,7 +4,7 @@
 In this Bible verse, the accused person is bound like a criminal, and the charges against them are serious and substantial. The Roman officials are perplexed and curious to know the truth behind the allegations, and are seeking a thorough examination of the case. Despite his initial skepticism, Festus realizes the importance of a fair and just investigation, as a confounding report could have negative consequences for him in Rome. This scrutiny, however, reflects the significant impact and influence that the accused person, Paul, has had on the Jewish community.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was right when he said, 'The king knoweth of these things... for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner'." 
 
 2. "Hence his curiosity to see and hear the man who had raised such commotion and was remodelling to such an extent the whole Jewish life."
@@ -40,4 +40,4 @@ In this Bible verse, the accused person is bound like a criminal, and the charge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The imprisonment of John the Baptist, a significant event marking the beginning of Jesus' public ministry, demonstrated Jesus' identification with humanity and his submission to God's plan. The descent of the Spirit upon Jesus after his baptism affirmed his divine mission and showcased the presence and power of God in his life. Furthermore, this event foreshadowed the empowering role of the Holy Spirit in the lives of believers, enabling them to fulfill God's purposes. With the mention of John's imprisonment before Jesus' baptism, the narrative flow is seamlessly established, allowing for a logical and uninterrupted continuation of the story.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The baptism of Jesus marked the beginning of his public ministry and was a significant event in his life. It symbolized his identification with humanity and his willingness to submit to God's plan." 
 
 2. "The descent of the Spirit upon Jesus after his baptism was a powerful affirmation of his divine mission and anointing. It demonstrated the presence and power of God in his life." 
@@ -30,4 +30,4 @@ The imprisonment of John the Baptist, a significant event marking the beginning 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the focus is on the transformative power of faith in Christ. The commentator highlight the contrast between relying on one's own righteousness based on the law and finding true righteousness through faith. The description emphasizes the insufficiency of external actions and the need for a deeper, inward righteousness that comes from God and is received through faith alone. It emphasizes the redemptive and transformative nature of union with Christ, highlighting the desire to be found in Him and to continually place trust and confidence in His righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Once lost, I have been 'found,' and I hope to be perfectly 'found' by Him." 
 2. "Paul was transported from legal bondage into Christian freedom at once, and without any gradual transition."
 3. "The righteousness of faith, in Paul's sense, is the righteousness or perfect holiness of Christ appropriated by faith, as the objective ground of confidence for the believer, and also as a new subjective principle of life."
@@ -54,4 +54,4 @@ These quotes collectively emphasize the importance of faith and the insufficienc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

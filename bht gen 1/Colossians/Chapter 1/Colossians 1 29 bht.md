@@ -9,7 +9,7 @@ The verse being described highlights the passionate dedication of a faithful ser
 2. "Toil in conflict."
 3. "According to His working which worketh in me in power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I labor also." I not only "proclaim" (English Version, "preach") Christ, but I labor also.
 2. "Striving as in the agony of a contest." So Jesus in Gethsemane when praying.
 3. Paul avows that he has power to "strive" in spirit for his converts, so far only as Christ works in him and by him.
@@ -45,4 +45,4 @@ The verse being described highlights the passionate dedication of a faithful ser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse in question presents a profound truth about the order in which the nat
 2. "The first is the last." 
 3. "The progression from the natural to the spiritual is a divine pattern."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Adam had a soul, not necessarily mortal, but 'a living soul,' destined to live forever if he had eaten of the tree of life."
 2. "His soul had the germ of the Spirit, rather than the fullness of it, such as man shall have when restored 'body, soul, and spirit,' by the second Adam."
 3. "As the first and lower Adam came before the second and heavenly Adam, so the animal-souled body comes first, and must die before it be changed into the spiritual body."
@@ -56,4 +56,4 @@ These quotes highlight the distinction between the natural and spiritual bodies,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes the sincere desire of David to build a permanent house for 
 2. "not 'wished' (Grot., Kuin.: 'desired,' E. V.)"
 3. "The vow (a species of prayer) here referred to, is defined by the words εὑρεῖν σκήνωμα, to be that mentioned Psalms 131:1-3 (LXX)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "gave them up—judicially." 
 2. "as . . . written in the book of the prophets—the twelve minor prophets, reckoned as one: the passage is from Amos 5:25." 
 3. "have ye offered to me . . . sacrifices?—The answer is, Yes, but as if ye did it not; for 'neither did ye offer to Me only, nor always, nor with a perfect and willing heart' [BENGEL]."
@@ -47,4 +47,4 @@ This verse describes the sincere desire of David to build a permanent house for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

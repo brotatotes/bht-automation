@@ -4,7 +4,7 @@
 In this verse, a woman confronts others with the question of whether Jesus could be the Messiah. With a sense of growing understanding and belief, she invites them to personally witness the transformative power of Jesus. Her own conviction, inspired by Jesus' remarkable knowledge of her past, stirs curiosity and sparks an invitation to examine and judge for themselves the truth of who Jesus is.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The form of the question (in the Greek) is a distant, modest way of only half insinuating what it seemed hardly fitting for her to affirm."
 2. "She does not refer to what He said of Himself, but solely to His disclosure to her of the particulars of her own life."
 3. "Her question reveals her growing understanding and belief that Jesus might be the long-awaited Messiah."
@@ -52,4 +52,4 @@ These quotes highlight the invitation to personally experience and judge Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

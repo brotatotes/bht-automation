@@ -4,7 +4,7 @@
 The disciples were sought out and found, indicating a deliberate effort to gather them. Though their numbers may have been small, they were gifted and influential. They advised Paul against going to Jerusalem, showcasing their authority. After the uproar had ended, Paul departed from Ephesus, embracing the disciples in a deep and emotional farewell. He continued his ministry, spending considerable time in Greece, supporting and establishing churches. Despite opposition and persecution, the disciples remained resilient, relying on God's grace and strength. Through prayer and affectionate greetings, they maintained a strong bond of fellowship and a sense of belonging.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Finding disciples—finding out the disciples, implying some search." This quote highlights the idea that there was a deliberate effort to seek out and find the disciples, suggesting that they may not have been easily accessible or well-known at the time.
 
 2. "Perhaps they were not many; yet there were gifted ones among them." This quote suggests that while the number of disciples may have been small, they possessed significant gifts and talents that made them valuable to the early Christian community.
@@ -36,4 +36,4 @@ The disciples were sought out and found, indicating a deliberate effort to gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

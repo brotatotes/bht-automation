@@ -4,7 +4,7 @@
 Jesus and his twelve disciples journeyed from town to town, proclaiming the glad tidings of the kingdom of God. They went throughout every city and village, heralding the message of salvation and the reign of Jesus in the gospel. With the twelve disciples by his side, Jesus preached, teaching about the mysteries of the kingdom, the ordinances of the new dispensation, and the necessity of inward holiness, peace, and joy. As Prince of itinerant preachers, Jesus traveled and spread the seed of the Kingdom, making progress and displaying his boundless goodness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "went—travelled, made a progress."
 2. "throughout every city and village—through town and village."
 3. "preaching, &c.—the Prince of itinerant preachers scattering far and wide the seed of the Kingdom."
@@ -45,4 +45,4 @@ Jesus and his twelve disciples journeyed from town to town, proclaiming the glad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

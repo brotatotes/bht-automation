@@ -4,7 +4,7 @@
 In the kingdom about to be set up, all servants shall be equal, knowing only the greatness of humility and service to others. The one who goes deepest in self-denying humility will rise highest in that kingdom, just as the Son of man's self-sacrifice gives Him a place above all. The great work of man's redemption, willingly undertaken by Christ, was a ransom for many, signifying the inclusivity and sufficiency of His sacrifice for all who would accept it.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the kingdom about to be set up, this principle shall have no place. All My servants shall there be equal; and the only greatness known to it shall be the greatness of humility and devotedness to the service of others."
 2. "He that goes down the deepest in these services of self-denying humility shall rise the highest and hold the chiefest place in that kingdom; even as the Son of man, whose abasement and self-sacrifice for others, transcending all, gives Him of right a place above all!"
 3. "The Served of all came to be the Servant of all; and His last act was the grandest Service ever beheld by the universe of God—'HE GAVE HIS LIFE A RANSOM FOR MANY!'"
@@ -30,4 +30,4 @@ In the kingdom about to be set up, all servants shall be equal, knowing only the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

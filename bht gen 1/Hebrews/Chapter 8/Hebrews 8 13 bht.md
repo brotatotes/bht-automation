@@ -9,7 +9,7 @@ The verse being described is about the contrast between the old covenant and the
 2. "That which is being made old and getting into old age is nigh unto vanishing away."
 3. "The first covenant might be regarded as ever dwindling away, so to speak, and near its end, which God might bring on at any time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Both covenants cannot exist side by side."
 2. "Mark how verbal inspiration is proved in Paul's argument turning wholly on the one word 'NEW' (covenant), occurring but once in the Old Testament."
 3. "The Greek for (Kaine) New (Testament) implies that it is of a different kind and supersedes the old: not merely recent."
@@ -52,4 +52,4 @@ The verse being described is about the contrast between the old covenant and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

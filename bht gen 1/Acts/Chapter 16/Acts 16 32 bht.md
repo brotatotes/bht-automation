@@ -4,7 +4,7 @@
 In this passage, the apostles passionately and boldly proclaimed the word of God, instructing the listeners in the doctrines and practical implications of faith in Jesus Christ. Their teaching went beyond mere intellectual assent, delving into the depth and significance of the gospel and the nature of the ordinances. Their message was met with keen attention and interest, leading to a remarkable response of belief and rejoicing. The apostles' dedication to spreading the message of Jesus extended to all who were present, emphasizing the inclusive and accessible nature of their teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unfolding now, doubtless, more fully what 'the Lord Jesus Christ' was to whom they had pointed his faith, and what the 'salvation' was which this would bring him."
 2. "From their addressing the Gospel message 'to all that were in the house' it is not necessary to infer that it contained no children, but merely that as it contained adults besides the jailer himself, so to all of these, as alone of course fit to be addressed, they preached the word."
 3. "Aroused first by the earthquake."
@@ -35,4 +35,4 @@ In this passage, the apostles passionately and boldly proclaimed the word of God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

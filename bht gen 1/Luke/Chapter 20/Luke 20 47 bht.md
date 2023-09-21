@@ -4,7 +4,7 @@
 This verse captures the hypocrisy of religious leaders who, under the pretense of devotion, devoured the property of vulnerable widows. It exposes the dangers of using religion as a cover for wickedness, reminding us to examine our own motives and actions. Jesus' condemnation serves as a powerful reminder to protect the marginalized and challenge exploitation in our society. It emphasizes the importance of genuine acts of compassion and justice over outward shows of piety.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Devour, &c.—taking advantage of their helpless condition and confiding character, to obtain possession of their property." 
 2. "By their 'long prayers' they made them believe they were raised far above 'filthy lucre.'" 
 3. "What a lifelike description of the Romish clergy, the true successors of 'the scribes!'"
@@ -28,4 +28,4 @@ This verse captures the hypocrisy of religious leaders who, under the pretense o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of heavy calamities and unfulfilled longings for the days of Jesus'
 2. "When He shall be taken from you, you shall wish in vain for one of these days of His presence."
 3. "The days of the Son of Man’s presence, and this extends on to His future presence, or παρουσία, as well."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Days" - The commentary emphasizes the significance of the word "Days" in the verse, suggesting that it refers to a specific period of time marked by calamities and the search for a deliverer.
 2. "Deceivers will put themselves forward" - The commentary highlights the presence of deceivers who will claim to be the deliverer during this time of distress and confusion.
 3. "One of the days of the Son of man" - The commentary suggests that Jesus will return for a brief period, symbolized by "one day," when everything seems to be going wrong and the one person who could set things right is absent. This is seen as a caution against expecting Jesus' visible presence during the establishment of His kingdom.
@@ -42,4 +42,4 @@ In the midst of heavy calamities and unfulfilled longings for the days of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

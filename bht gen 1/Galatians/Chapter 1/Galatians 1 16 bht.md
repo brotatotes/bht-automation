@@ -13,7 +13,7 @@ This Bible verse emphasizes the personal and inward revelation of Christ to the 
 
 These quotes provide insights into the personal nature of the revelation of Christ, the Apostle's mission to the Gentiles, and the intention behind sharing the Gospel message.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The revealing of His Son by me to the Gentiles was impossible, unless He had first revealed His Son in me."
 2. "That I might preach Him, implying an office still continuing."
 3. "It denotes the sudden fitness of the apostle."
@@ -57,4 +57,4 @@ These quotes provide insights into the personal nature of the revelation of Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

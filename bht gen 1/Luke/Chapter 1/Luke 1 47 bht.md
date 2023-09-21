@@ -4,7 +4,7 @@
 In this verse, we see Mary's humble acceptance of God's plan for her life and her recognition of Jesus as her Savior. The idea of Mary's immaculate conception, where she was conceived without sin, is dismissed by commentators who emphasize that her true greatness lies in her role as the mother of our Savior, not her own perfection. Mary rejoices in God her Savior, recognizing that salvation is a blessing for all believers who have hope in Him. She magnifies the Lord, recognizing that He regarded her low estate and came to save her and humanity from sin and misery.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary, poor heart, never dreamt, we see, of her own 'immaculate conception'—in the offensive language of the Romanists—any more than of her own immaculate life." 
 
 2. "The idea of Mary's 'immaculate conception' is offensive to the author, as it suggests that Mary was conceived without sin. However, the Bible does not support this notion, and Mary herself would not have believed in her own immaculate conception." 
@@ -45,4 +45,4 @@ In this verse, we see Mary's humble acceptance of God's plan for her life and he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, Jesus extends an open invitation to all individuals, emphasizing the inclusivity of His offer of discipleship. He calls for a complete surrender of one's own desires, symbolized by taking up the cross, and a willingness to embrace suffering and self-denial. This invitation is a call to a life of discipleship, where one's love for Christ should surpass all other affections and attachments, even familial ties. It requires a radical prioritization of one's commitment to Christ, putting Him above all else, including earthly possessions and relationships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man" - This phrase indicates that the invitation to follow Jesus is open to all individuals, regardless of their background, status, or past mistakes. It emphasizes the inclusivity of Jesus' call to discipleship.
 
 2. "Take up his cross" - Taking up the cross symbolizes a willingness to embrace suffering, sacrifice, and self-denial for the sake of following Jesus. It implies a complete surrender of one's own desires and a commitment to prioritize God's will above all else.
@@ -35,4 +35,4 @@ In this verse, Jesus extends an open invitation to all individuals, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

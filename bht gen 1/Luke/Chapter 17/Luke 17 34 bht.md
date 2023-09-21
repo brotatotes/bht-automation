@@ -4,7 +4,7 @@
 In a moment of severance, the prepared and unprepared find themselves thrown together, their old associations forcibly abandoned. The night becomes a symbol of surprise and terror, vividly underscoring the imminent return of the Lord. It signifies a separation, not only between those who were once closely linked, but also between the faithful and the unfaithful. This momentous event, when Christ comes, will catch a heedless world off guard, paralleling the days of Noah and Lot.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prepared and unprepared mingled in closest intercourse together in the ordinary walks and fellowships of life, when the moment of severance arrives."
 2. "Awful truth! realized before the destruction of Jerusalem, when the Christians found themselves forced by their Lord's directions at once and for ever away from their old associates."
 3. "Most of all when the second coming of Christ shall burst upon a heedless world."
@@ -32,4 +32,4 @@ In a moment of severance, the prepared and unprepared find themselves thrown tog
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse captures the essence of human history, highlighting the transient nat
 
 3. "The inclusion of 'τότε ἔλ' may suggest a moment of reflection or contemplation before continuing with the discourse." This insight provides a possible explanation for the purpose of the break in the conversation, allowing for a deeper understanding of the context.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All these are the beginning of sorrows." - Matthew and Mark
 
 2. "Travail pangs, to which heavy calamities are compared." - Matthew and Mark
@@ -29,4 +29,4 @@ This verse captures the essence of human history, highlighting the transient nat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

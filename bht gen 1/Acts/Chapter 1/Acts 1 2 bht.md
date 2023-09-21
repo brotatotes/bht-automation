@@ -9,7 +9,7 @@ After Jesus' resurrection, he gave commands to his chosen apostles through the p
 2. "The former construction however appears much the best, as expressing not, as might at first seem, a mere common-place, but the propriety of the fact, that His last commands were given in the power of the Holy Ghost." 
 3. "The use of the verb in this abbreviated form, without the εἰς τ. οὐρ., testifies to the familiarity of the apostolic church with the Ascension as a formal and recognized event in our Lord’s course."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is worthy of notice that nowhere else are such communications of the risen Redeemer said to have been given 'through the Holy Ghost.'" 
 2. "He signalized His first meeting with the assembled disciples by breathing on them and saying, 'Receive ye the Holy Ghost,' thus anticipating the donation of the Spirit from His hands."
 3. "His parting charges are here said to have been given 'through the Holy Ghost,' as if to mark that He was now all redolent with the Spirit; that what had been husbanded, during His suffering work, for His own necessary uses, had now been set free, was already overflowing from Himself to His disciples."
@@ -53,4 +53,4 @@ After Jesus' resurrection, he gave commands to his chosen apostles through the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

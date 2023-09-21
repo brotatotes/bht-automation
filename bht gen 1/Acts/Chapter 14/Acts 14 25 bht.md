@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the significance of Perga and Atta
 2. "It is still an important place, called Satalia."
 3. "To reach it they had to cross the plain from Perga."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Preaching the word is not enough; it must be preached in faith, and with a view to the glory of God, and the good of souls. They preached in Perga, but it does not appear that they had any success there; therefore they went to another place." 
 
 2. "Sometimes, God leads us to revisit places where we have previously preached the word, even if we did not see any visible fruit. It is a reminder that our job is to faithfully proclaim the message, leaving the results in God's hands."
@@ -42,4 +42,4 @@ In this verse, the commentators shed light on the significance of Perga and Atta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness the contrasting behavior of two sisters who each respo
 2. "We have a most interesting point of connexion between two Gospels so widely various in their contents and character." 
 3. "Mary did not hear of the approach of Jesus, and we must not bring the characters to bear on this case."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Martha, as soon as she heard that Jesus was coming, went and met him—true to the energy and activity of her character." 
 2. "Mary sat... in the house—equally true to her placid character." 
 3. "These undesigned touches not only charmingly illustrate the minute historic fidelity of both narratives, but their inner harmony."
@@ -55,4 +55,4 @@ In this verse, we witness the contrasting behavior of two sisters who each respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

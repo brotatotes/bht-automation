@@ -9,7 +9,7 @@ In this verse, Jesus is confronted by the Pharisees who question Him about the p
 2. "differs from τέλος" - This quote points out the distinction between the Greek word "φόρον" and "τέλος," indicating that they have different meanings and refer to different concepts.
 3. "‘vectigal,’ customs duties" - This quote provides an English translation for the Greek word "τέλος," explaining that it can be understood as "vectigal" or "customs duties."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tribute mentioned here refers to the tax or tribute that was imposed on the Israelites by foreign rulers. It was a form of payment or tribute that the Israelites were required to give to the ruling powers in order to maintain some level of autonomy and protection." 
 
 2. "This verse reminds us that as believers, we are citizens of both the earthly kingdom and the kingdom of God. While we are called to submit to the governing authorities and fulfill our civic duties, our ultimate allegiance is to God and his kingdom." 
@@ -42,4 +42,4 @@ In this verse, Jesus is confronted by the Pharisees who question Him about the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

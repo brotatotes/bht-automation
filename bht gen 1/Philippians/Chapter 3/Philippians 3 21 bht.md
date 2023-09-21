@@ -9,7 +9,7 @@ In this verse, the commentators highlight the remarkable transformation that awa
 2. "The body is that object, that material, in which our humiliation has place and is shown, by its suffering and being degraded."
 3. "He once had such a ταπείνωσις, and has passed through it to His glory and He shall change us so as to be like Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He shall transfigure the body of our humiliation, that it may be conformed unto the body of His glory." 
 2. "Not only shall He come as our 'Saviour,' but also as our Glorifier."
 3. "Our spiritual resurrection now is the pledge of our bodily resurrection to glory hereafter."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the remarkable transformation that awa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

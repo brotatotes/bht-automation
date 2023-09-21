@@ -4,7 +4,7 @@
 This description explores the transient nature of earthly relationships and the importance of procreation for the survival of the human race. It emphasizes the understanding that the purpose of marriage is to ensure the continuity of humanity through the passing down of inheritance and the recognition of mortality. The verse serves as a reminder of the temporal nature of earthly life and the need for perpetuation through procreation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye do err, not knowing the Scriptures" - This quote highlights the importance of understanding the Scriptures in order to avoid misunderstandings and errors in interpreting biblical teachings.
 2. "Nor the power of God" - This quote emphasizes the need to recognize and acknowledge the limitless power of God, which can overcome any difficulties or challenges that may arise.
 3. "Before which a thousand such difficulties vanish" - This quote suggests that when faced with perplexing questions or doubts, recognizing the power of God can help to dissolve those difficulties and provide clarity and understanding.
@@ -25,4 +25,4 @@ These quotes highlight the importance of understanding the Scriptures and the po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

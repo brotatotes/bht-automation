@@ -9,7 +9,7 @@ The verse describes the abundant pouring out of the Holy Spirit through Jesus Ch
 2. "The pouring out of the Holy Spirit was God's objective act once for all, in which all its subjective exemplifications and applications were potentially enwrapped." 
 3. "Jesus Christ our Savior, the ultimate author of our salvation, made the pouring out of the Holy Spirit possible through His own blessed Sacrifice in our nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This pouring out of the Spirit comprehends the grace received before, in, and subsequently to, baptism."
 2. "Abundantly—Greek, 'richly' (Colossians 3:16)."
 3. "The Father is the author of our salvation and saves us by Jesus Christ."
@@ -50,4 +50,4 @@ The verse describes the abundant pouring out of the Holy Spirit through Jesus Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

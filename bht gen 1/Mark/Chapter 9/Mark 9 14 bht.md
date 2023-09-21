@@ -9,7 +9,7 @@ In this verse, we see a stark contrast between the glorious scene of the Transfi
 2. "The noble use made of this contrast in the last and grandest picture of the greatest of painters, the Transfiguration of Raffaelle."
 3. "The Scribes were probably boasting over the disciples, and reasoning from their inability to that of their Master also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Transfiguration appears to have taken place at night."
 2. "No doubt these cavillers were twitting the apostles of Jesus with their inability to cure the demoniac boy."
 3. "They, zealous for their Master's honor, would no doubt refer to His past miracles in proof of the contrary."
@@ -50,4 +50,4 @@ In this verse, we see a stark contrast between the glorious scene of the Transfi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

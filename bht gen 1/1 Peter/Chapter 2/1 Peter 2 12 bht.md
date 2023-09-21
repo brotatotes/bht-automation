@@ -9,7 +9,7 @@ In this verse, believers are urged to lead lives of integrity and virtue, even a
 2. "The Christians would be compelled to diverge from heathen customs and even to break human laws, and thus would incur the imputation of malefactors."
 3. "The sense is, 'that that conduct, which was to them an occasion of speaking against you as evil-doers, may by your good works become to them an occasion of glorifying God.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our conversation should correspond to our Saviour's condition; this is in heaven, so ought that to be."
 2. "A good walk does not make us pious, but we must first be pious and believe before we attempt to lead a good course."
 3. "The very works 'which on more careful consideration, must move the heathen to praise God, are at first the object of hatred and raillery."
@@ -55,4 +55,4 @@ In this verse, believers are urged to lead lives of integrity and virtue, even a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

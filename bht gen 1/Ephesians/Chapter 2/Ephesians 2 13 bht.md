@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the transformative power of Christ in 
 2. "Ye who once were far off were brought near"
 3. "The blood of Christ... representing the ἀπολύτρωσις"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus" is here added, whereas the expression before had been merely "Christ," to mark that they know Christ as the personal Savior, "Jesus."
 2. Far off from God and from the people of God.
 3. "The blood of Christ" is made the seal of a covenant in which their nearness to God consists.
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the transformative power of Christ in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

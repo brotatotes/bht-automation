@@ -4,7 +4,7 @@
 This verse emphasizes the universal nature of Christ's sacrifice and its purpose to gather believers from all nations and backgrounds. It highlights the distinction between the limited perspective of certain individuals and the broader scope of God's plan for redemption. The verse also underscores the unifying purpose of the Church, which seeks to bring together all the children of God, regardless of their background or location, in a single body.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These are the Evangelist's words, not Caiaphas'." This quote highlights the distinction between the words of the Evangelist and Caiaphas, emphasizing that the following statement is not merely a human opinion, but divinely inspired.
 
 2. "Not for that nation only." This quote emphasizes that Jesus' sacrifice was not limited to a specific nation or people, but was intended for the salvation of all humanity. It underscores the universal nature of Jesus' redemptive work.
@@ -49,4 +49,4 @@ This verse emphasizes the universal nature of Christ's sacrifice and its purpose
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

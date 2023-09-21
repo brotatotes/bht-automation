@@ -9,7 +9,7 @@ In this verse, commentators highlight the significance of seeking God's kingdom 
 2. "The righteousness of justification is a necessary condition of likeness to God; but it is not the δικ . αὐτ . here meant."
 3. "All without exception are included."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of God" is the primary subject of the Sermon on the Mount—that kingdom which the God of heaven is erecting in this fallen world, within which are all the spiritually recovered and inwardly subject portion of the family of Adam, under Messiah as its Divine Head and King.
 2. "The righteousness thereof" is the character of all such, so amply described and variously illustrated in the foregoing portions of this discourse.
 3. The "seeking" of these is the making them the object of supreme choice and pursuit; and the seeking of them "first" is the seeking of them before and above all else.
@@ -40,4 +40,4 @@ In this verse, commentators highlight the significance of seeking God's kingdom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

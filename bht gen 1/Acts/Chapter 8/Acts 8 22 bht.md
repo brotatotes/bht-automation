@@ -9,7 +9,7 @@ In this Bible verse, a serious and uncertain sin is mentioned, possibly falling 
 2. "Peter does not pronounce his sin to have been such, but throws in this doubt, to increase the motive to repent, and the earnestness of his repentance."
 3. "This verse is important, taken in connection with John 20:23, as showing how completely the Apostles themselves referred the forgiveness of sins to, and left it in, the sovereign power of God, and not to their own delegated power of absolution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Repent . . . pray . . . if perhaps the thought of thine heart may be forgiven" - This quote highlights the urgency and seriousness of the sin committed, emphasizing the need for repentance and prayer as a means of seeking forgiveness.
 
 2. "the expression of doubt being designed to impress upon him the greatness of his sin" - This quote suggests that the doubt expressed in the verse is not a lack of faith in God's forgiveness, but rather a way to emphasize the gravity of the sin committed and the need for genuine repentance.
@@ -57,4 +57,4 @@ In this Bible verse, a serious and uncertain sin is mentioned, possibly falling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Awake from your spiritual slumber and actively pursue righteousness, shaking off
 2. "Awake to righteousness."
 3. "For some have ignorance of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Awake—literally, 'out of the sleep' of carnal intoxication into which ye are thrown by the influence of these skeptics."
 2. "Do not give yourselves up to sinful pleasures. The Greek expresses a continued state of abstinence from sin."
 3. "An habitual ignorance: wilful, in that they prefer to keep their sins, rather than part with them, in order to know God."
@@ -55,4 +55,4 @@ Awake from your spiritual slumber and actively pursue righteousness, shaking off
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

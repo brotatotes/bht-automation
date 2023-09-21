@@ -11,7 +11,7 @@ In this passage, we see the intense hostility and injustice faced by Jesus. The 
 
 Note: The commentary provided is incomplete and lacks a specific Bible verse reference. Please provide the verse reference for a more accurate response.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their fiendish rage kindling afresh at the sight of Him." 
 2. "Crucify him, crucify him." 
 3. "Take ye him, and crucify him; for I find no fault in him."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

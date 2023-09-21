@@ -4,7 +4,7 @@
 The verse being described here acknowledges the worthiness of God to receive glory, honor, and power, not only for His act of creation but also for His future triumph over His enemies. Creation itself serves as the foundation for all of God's works and is a constant source of praise and adoration. The verse also highlights the sovereign will of God as the driving force behind the existence of all things, emphasizing His self-sufficiency and generosity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our" by virtue of creation, and especially redemption.
 2. "It is THOU who didst create."
 3. With God to will is to effect: to determine is to perform.
@@ -51,4 +51,4 @@ These quotes emphasize the worthiness of God to receive glory, honor, and power,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

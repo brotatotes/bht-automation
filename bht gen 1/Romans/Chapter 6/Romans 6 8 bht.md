@@ -11,7 +11,7 @@ In this verse, we see the profound connection between believers and Christ. It s
 
 3. "The πιστεύομεν used more of dogmatic belief than of trust, though the latter meaning is not altogether absent." - This statement explains that the word "believe" in this context refers more to a firm conviction or doctrinal belief rather than just a simple trust. It suggests that our belief in living with Christ is based on a deep understanding and acceptance of the truth of the Gospel.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we be dead" - The commentary suggests that this phrase refers to believers being spiritually united with Christ in his death, emphasizing the idea of dying to sin and self. 
 
 2. "If we died with Christ" - This quote highlights the concept of believers sharing in Christ's death, indicating that they have been crucified with him and have experienced a spiritual transformation.
@@ -56,4 +56,4 @@ In this verse, we see the profound connection between believers and Christ. It s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

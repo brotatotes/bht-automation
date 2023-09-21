@@ -11,7 +11,7 @@ Jesus' teaching surpassed that of the scribes, who lacked His divine authority a
 
 Note: The provided commentary is quite short and does not provide extensive analysis or explanation. As a result, the quotes extracted are limited in number and length.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For he taught them as one having authority" - Jesus' teaching carried a weight and power that was unlike anything the people had experienced before. His authority came from a divine source, making His words impactful and compelling.
 
 2. "The consciousness of divine authority, as Lawgiver, Expounder and Judge" - Jesus was not just a teacher or a prophet, but He possessed the authority of a lawgiver, an expounder of truth, and a judge. This divine authority gave His teaching a unique and unparalleled significance.
@@ -49,4 +49,4 @@ Note: The provided commentary is quite short and does not provide extensive anal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

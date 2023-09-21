@@ -9,7 +9,7 @@ This verse depicts the contrast between the earthly suffering and heavenly bliss
 2. "Though it is unnatural to suppose that our Lord would in such a parable formally reveal any new truth respecting the state of the dead, yet, in conforming himself to the ordinary language current on these subjects, it is impossible to suppose that He, whose essence is Truth, could have assumed as existing anything which does not exist."
 3. "The bearing of the spirits of the just into bliss by the holy angels is only analogous to their other employments."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His burial was too unimportant to mention."
 2. "The rich man died and was buried—his carcass carried in pomp to its earthly resting-place."
 3. "As if seen reclining next to Him at the heavenly feast."
@@ -53,4 +53,4 @@ This verse depicts the contrast between the earthly suffering and heavenly bliss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

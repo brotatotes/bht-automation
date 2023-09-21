@@ -9,7 +9,7 @@ In this verse, believers are called to sanctify the Lord God in their hearts, sh
 2. "But so far from being afraid of men, be ever ready to give them a gentle and reverent answer when they enquire of your hope."
 3. "Then must ye not answer with proud words and bring out the matter with a defiance and with violence as if ye would tear up trees, but with such fear and lowliness as if ye stood before God’s tribunal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sanctify Christ as Lord." - This emphasizes the importance of honoring and hallowing Christ in our hearts, recognizing Him as the dwelling place of God's Spirit.
 
 2. "Be also ready always to give... an apologetic answer defending your faith." - Believers should be prepared to provide a reasonable account of their faith, refuting blind credulity and demonstrating the evidence and reason behind their beliefs.
@@ -60,4 +60,4 @@ These quotes highlight the importance of honoring Christ, defending our faith wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

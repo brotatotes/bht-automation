@@ -4,7 +4,7 @@
 In this Bible verse, the commentators emphasize the role of Gospel ministers in reminding and teaching the brethren of the established truths of the faith. It is the duty of ministers to combat errors, nourishing and training believers in the words of faith. By faithfully discharging his ministry, Timothy would show that he had been nourished and trained in these truths, proving himself to be a good minister of Christ Jesus. The verse encourages a faithful commitment to sound doctrine and the continual growth and edification of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If thou suggest to (bring under the notice of) the brethren, these things, namely, the truths stated in 1 Timothy 4:4, in opposition to the errors foretold, 1 Timothy 4:1-3."
 2. "The Greek is present, not past: 'continually being nourished in' the words of the faith."
 3. "Explanatory of 'the faith,' in opposition to the 'teachings of demons' which Timothy was to counteract."
@@ -43,4 +43,4 @@ In this Bible verse, the commentators emphasize the role of Gospel ministers in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

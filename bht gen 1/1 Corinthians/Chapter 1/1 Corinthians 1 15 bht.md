@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul expresses his intention behind not baptizi
 2. "God so arranged it, that none might say."
 3. "The divine purpose was to prevent any boasting in human wisdom or effort."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God so arranged it that none might say." This quote highlights the divine orchestration behind Paul's actions, suggesting that God had a purpose in ensuring that Paul did not have this reason at the time. 
 
 2. "Lest—not that Paul had this reason at the time." This quote emphasizes that Paul did not have this reason in mind when he acted, indicating that there was a deeper intention behind his actions. 
@@ -51,4 +51,4 @@ Overall, the commentary focuses on Paul's concern for maintaining the integrity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

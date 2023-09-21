@@ -9,7 +9,7 @@ The verse being described here addresses the murmuring and discontentment among 
 2. "It was not till the faith of the apostolic Christians was fully fixed on Him as the Son of God, and the outline of the doctrine of His Person was firmly sketched out..."
 3. "...that the Spirit brought out those historical records which assure us of His supernatural conception."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not either startled or stumbled at these sayings; for it needs divine teaching to understand them, divine drawing to submit to them."
 2. "Murmur not...No man" - This reminds us to refrain from complaining or grumbling about the difficult teachings of the Bible, as it requires divine guidance and understanding.
 3. "It needs divine teaching to understand them, divine drawing to submit to them" - This emphasizes the importance of seeking God's wisdom and guidance in order to comprehend and accept the profound truths found in the Bible.
@@ -40,4 +40,4 @@ The verse being described here addresses the murmuring and discontentment among 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

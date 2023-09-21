@@ -9,7 +9,7 @@ The Bible verse in this passage describes the significance of Jesus being "lifte
 2. "The actual words ὅτι δεῖ ὑψ. τ. υἱ. τ. ἀνθ. had not been on this occasion used by Jesus; but in His discourse with Nicodemus, ch. John 3:14, and perhaps in other parts of His teaching which have not been recorded."
 3. "They thought some other Son of Man, not the Messiah, was meant; because this lifting up (which they saw implied taking away) was inapplicable to their idea of the Messiah, usually known as the Son of Man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have heard out of the law—the scriptures of the Old Testament."
 2. "Christ—the Christ 'endureth for ever.'"
 3. "How can that consist with this 'uplifting?' They saw very well both that He was holding Himself up as the Christ and a Christ to die a violent death."
@@ -57,4 +57,4 @@ The Bible verse in this passage describes the significance of Jesus being "lifte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

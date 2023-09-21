@@ -9,7 +9,7 @@ In this passage, we see Mary Magdalene's deep sorrow and desperate search for Je
 2. "The instances quoted by De Wette to shew that the unexpected introduction of notices contained in the other Gospels is in Mark’s manner, do not seem to me to apply here."
 3. "This verse agrees with John 20:1 ff. but is unconnected with the former narrative in this chapter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To a woman was this honor given to be the first that saw the risen Redeemer, and that woman was NOT his virgin-mother."
 2. "She had gone with the other women to the sepulchre, parting from them, perhaps, before their interview with the angel."
 3. "It was at this second visit, it would seem, that Jesus appeared to this Mary, as detailed in John 20:14-18."
@@ -45,4 +45,4 @@ In this passage, we see Mary Magdalene's deep sorrow and desperate search for Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

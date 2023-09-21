@@ -9,7 +9,7 @@ The verse in question contains a powerful message about the abounding grace of C
 2. "It is in connection with the preceding, and comes as the conclusion after the thanksgiving."
 3. "A similar saying of our Lord occurs, but uttered altogether on a different occasion and in a different connection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable of the Good Samaritan is a powerful illustration of the command to love our neighbors as ourselves. It challenges us to go beyond our comfort zones and extend compassion and help to those in need, regardless of their background or social status."
 2. "The Samaritan's actions in the parable demonstrate that true love is not limited by cultural or religious differences. It reminds us that our love should be inclusive and unconditional, reaching out to all who are in need."
 3. "The parable also highlights the importance of practical acts of kindness. It teaches us that love is not just a feeling or sentiment, but it is expressed through tangible actions that alleviate suffering and bring healing to others."
@@ -38,4 +38,4 @@ The verse in question contains a powerful message about the abounding grace of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

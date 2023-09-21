@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of maintaining social a
 2. "But as to each the Lord distributed (his lot), as God has called each, so let him walk."
 3. "This was said so that they might be more eager to have others as partners in their obedience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Caution that believers should not make this direction a ground for separating 'of themselves.'"
 2. "Let the general principle be maintained, 'As the Lord hath allotted to each, as God hath called each, so let him walk.'"
 3. "The heavenly calling does not set aside our earthly callings."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the importance of maintaining social a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

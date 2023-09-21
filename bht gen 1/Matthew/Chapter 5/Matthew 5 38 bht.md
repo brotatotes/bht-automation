@@ -9,7 +9,7 @@ In this verse, Jesus addresses the misunderstood concept of "an eye for an eye, 
 2. "But as before, our Lord shews us the condition to which a Christian community should tend, and to further which every private Christian’s own endeavours should be directed."
 3. "If we were disciples of His in the true sense, these precepts would, in their spirit, as indicative of frames of mind, be strictly observed; and, as far as we are His disciples, we shall attain to such their observance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An eye for an eye, and a tooth for a tooth—that is, whatever penalty was regarded as a proper equivalent for these."
 2. "This law of retribution—designed to take vengeance out of the hands of private persons, and commit it to the magistrate."
 3. "While they were reduced to the level of civil enactments, this judicial regulation was held to be a warrant for taking redress into their own hands, contrary to the injunctions of the Old Testament itself."
@@ -45,4 +45,4 @@ In this verse, Jesus addresses the misunderstood concept of "an eye for an eye, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

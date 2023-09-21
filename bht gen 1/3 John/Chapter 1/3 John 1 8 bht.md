@@ -4,7 +4,7 @@
 In this verse, we are reminded of the importance of welcoming and supporting those who bring the truth of the Gospel. We are urged to receive them with kindness and hospitality, acknowledging that they are fellow workers in promoting and proclaiming the truth. The truth being preached is not a mere human message, but a divine truth that has the power to transform lives. It is a message worth supporting and promoting, as it is based on the unchanging and reliable Word of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We, in contradistinction to 'the Gentiles' or 'heathen,' therefore, as they take nothing from the Gentiles or heathen." 
 2. "We ought to take them up so as to support them, fellow helpers." 
 3. "To the truth, that is, to promote the truth."
@@ -42,4 +42,4 @@ In this verse, we are reminded of the importance of welcoming and supporting tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

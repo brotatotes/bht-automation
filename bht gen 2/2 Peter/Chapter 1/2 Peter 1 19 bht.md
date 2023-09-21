@@ -11,7 +11,7 @@ In the verse, we are encouraged to give earnest heed to the prophetic word. This
 4. "the testimony of the Transfiguration presented only the glory of Christ in the days of His flesh, whereas the prophetic word substantiates His future glory also"
 5. "the dawn of the day is accompanied by the rising of the morning-star"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Previously we knew its sureness by faith, but, through that visible specimen of its hereafter entire fulfilment, assurance is made doubly sure."
 2. "The fulfilment of prophecy so far in Christ's history makes us the surer of what is yet to be fulfilled, His consummated glory."
 3. "The word was the 'lamp (Greek for 'light') heeded' by Old Testament believers, until a gleam of the 'day dawn' was given at Christ's first coming, and especially in His Transfiguration."
@@ -79,4 +79,4 @@ In the verse, we are encouraged to give earnest heed to the prophetic word. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

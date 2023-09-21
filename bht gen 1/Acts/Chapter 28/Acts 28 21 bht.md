@@ -9,7 +9,7 @@ In this Bible verse, we learn that before his appeal, the Jews in Judæa had no 
 2. "Since his appeal, it would have been hardly possible for them to have sent messengers who should have arrived before him."
 3. "It appears, however, that none had come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The distinction made between himself, against whom they heard nothing, and his 'sect,' as 'everywhere spoken against,' is a presumption in favor of their sincerity." 
 2. "There is ground to think that as the case took an unexpected turn by Paul's appealing to Cæsar, so no information on the subject would travel from Jerusalem to Rome in advance of the apostle himself."
 3. "We need not suppose that there was any dishonest concealment here."
@@ -48,4 +48,4 @@ In this Bible verse, we learn that before his appeal, the Jews in Judæa had no 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

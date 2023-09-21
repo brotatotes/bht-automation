@@ -11,7 +11,7 @@ The Bible verse being described talks about the dissolution of a legal obligatio
 4. "If it be required here to apply the example further, there is no difficulty nor inconsistency in saying that our first Husband was the Law, and our second is Christ."
 5. "We are freed, not by the law having died to us, but by our having died to the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marriage is not just a legal contract, but a sacred union where two individuals become one. It is a joining of hearts, minds, and souls."
 2. "The word 'married' implies a deep level of commitment and intimacy. It signifies a bond that goes beyond mere physical union."
 3. "In Romans 7:4, Paul uses the analogy of marriage to illustrate our relationship with Christ. Just as a married woman is bound to her husband, we are bound to Christ in a covenant of love and faithfulness."
@@ -49,4 +49,4 @@ The Bible verse being described talks about the dissolution of a legal obligatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the speaker questions whether they have acted with levity a
 2. "the levity of purpose inherent in human nature"
 3. "Or those things which I plan, do I plan after the flesh, so that my yea must be yea, and my nay, nay?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did I act with levity, or (on the other hand) do I purpose what I purpose like worldly (fleshly) men, so that my 'yea' must at all costs be yea, and my 'nay' nay?" - This quote highlights the contrast between levity and purpose, suggesting that the speaker is questioning whether they have been frivolous or inconsistent in their promises.
 
 2. "The repetition of the 'yea' and 'nay' hardly agrees with ALFORD'S view, 'What I purpose do I purpose according to the changeable purposes of the fleshly (worldly) man, that there may be with me the yea yea, and the nay nay (that is, both affirmation and negation concerning the same thing)?'" - This quote discusses different interpretations of the repetition of "yea" and "nay," suggesting that it may not be equivalent to a single affirmation or negation, but rather represents both affirmation and negation concerning the same thing.
@@ -57,4 +57,4 @@ In this Bible verse, the speaker questions whether they have acted with levity a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

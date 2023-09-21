@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the work of the Holy Spirit in distri
 2. "This unity of the source of all spiritual gifts, in the midst of their variety, he presses as against those who valued some and undervalued others, or who depreciated them all."
 3. "He presses as against those who valued some and undervalued others, or who depreciated them all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's sovereignty is highlighted in this verse, as it reminds us that it is He who determines the distribution of spiritual gifts among believers." 
 
 2. "This verse also emphasizes the importance of unity within the body of Christ, as each individual has a unique role to play in the overall functioning of the church."
@@ -54,4 +54,4 @@ The Bible verse being described emphasizes the work of the Holy Spirit in distri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

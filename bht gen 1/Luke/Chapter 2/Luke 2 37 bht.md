@@ -9,7 +9,7 @@ In this verse, we encounter a devoted woman who spent her life in faithful servi
 2. "νύκτα is put first, because fasts were reckoned from one evening to another."
 3. "Is it not rather because the greater solemnity and emphasis rests on the religious exercise by night?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "departed not from the temple" - This phrase emphasizes the dedication and commitment of the individual to the service of God. They were constantly present in the temple, demonstrating their devotion and faithfulness.
 
 2. "serving God with fastings and prayer" - This highlights the spiritual practices of the individual, showing their deep desire to seek and worship God. Through fasting and prayer, they demonstrate their dependence on God and their willingness to sacrifice for Him.
@@ -57,4 +57,4 @@ Note: The commentary is referring to Luke 2:37, which states, "And she was a wid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

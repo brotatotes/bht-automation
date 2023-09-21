@@ -9,7 +9,7 @@ In this Bible verse, there is a unique geographical feature where two seas meet,
 2. "ἐπικέλλειν is used by Homer in the sense of ‘adpellere navem.’ Its commoner use is intransitive...they ran the ship a-ground."
 3. "A ship therefore, impelled by the force of the gale into a creek with a bottom such as that laid down in the chart, would strike a bottom of mud, graduating into tenacious clay, into which the fore part would fix itself and be held fast, while the stern was exposed to the force of the waves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rocks of Malta disintegrate into extremely minute particles of sand and clay, which, when acted upon by the currents or surface agitation, form a deposit of tenacious clay."
 2. "A ship, therefore, impelled by the force of a gale, into a creek, with such a bottom, would strike a bottom of mud, graduating into tenacious clay, into which the fore part would fix itself, and be held fast, while the stern was exposed to the force of the waves."
 3. "The continued action denoted by the tense here is to be noted - 'was fast breaking,' going to pieces."
@@ -52,4 +52,4 @@ In this Bible verse, there is a unique geographical feature where two seas meet,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

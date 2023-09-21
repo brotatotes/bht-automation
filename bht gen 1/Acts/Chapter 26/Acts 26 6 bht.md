@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul defends himself, stating that he is on tri
 2. "This is evident from the way in which he brings in the mention of Jesus of Nazareth, and connects His exaltation with the universal preaching of repentance and remission of sins."
 3. "There is great skill in binding on his former Pharisaic life of orthodoxy (in externals), to his now real and living defence of the hope of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promise made to our fathers" refers to the covenant God made with Abraham and the subsequent promises of a Messiah. This verse highlights that Paul is being judged for his belief that Jesus is the fulfillment of these promises, the Hope of the Church.
 
 2. By stating that he is judged for the hope of the promise, Paul emphasizes that his faith in Jesus as the Messiah is not a personal opinion but rooted in the fulfillment of God's promises to the forefathers of the Jewish people.
@@ -57,4 +57,4 @@ In this Bible verse, the apostle Paul defends himself, stating that he is on tri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

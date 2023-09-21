@@ -9,7 +9,7 @@ In the midst of a fallen and ignorant world, the light of God's truth and grace 
 2. "This φαίνει describes the whole process of the light of life in the Eternal Word shining in this evil and dark world."
 3. "The Divine Word was rejected. παρέλαβον is used in the second case as expressing the personal assumption to oneself as a friend or companion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this dark, fallen world, the light of the Word shines, offering guidance and illumination to those who are lost in the darkness of ignorance and sin."
 2. "The darkness, representing the intellectual and moral obliquity of mankind, fails to comprehend the light of the Word, highlighting the need for the Incarnation of the Word to bring salvation to humanity."
 3. "This verse summarizes the futile efforts of the unincarnate Word to bring about the recovery of mankind, emphasizing the necessity of His taking on flesh to accomplish redemption."
@@ -50,4 +50,4 @@ In the midst of a fallen and ignorant world, the light of God's truth and grace 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

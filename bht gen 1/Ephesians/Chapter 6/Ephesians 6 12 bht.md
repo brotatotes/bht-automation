@@ -9,7 +9,7 @@ The Bible verse being described is a powerful reminder of the spiritual battle t
 2) "against the spiritual armies of wickedness in the heavenly places" - The struggle is not only against earthly powers, but also against the spiritual forces of evil that operate in the heavenly realms.
 3) "That habitation of the evil spirits which in ch. Eph 2:2 was said, when speaking of mere matters of fact, to be in the air, is now represented as in the heavenly places over us" - The location of the evil spirits is described as being in the heavenly places, emphasizing their power and influence over humanity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wrestling successfully with Satan requires wrestling with God in irresistible prayer like Jacob."
 2. "The more clearly any book of Scripture treats of the economy of the kingdom of light, the more clearly does it set forth the kingdom of darkness."
 3. "Satan tries to parody, or imitate in a perverted way, God's working."
@@ -56,4 +56,4 @@ The Bible verse being described is a powerful reminder of the spiritual battle t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The disciples' welcome of Jesus in their time of distress and their awareness of His ability to help them, add depth to their encounter. The divine motion behind the immediate arrival of the ship at their intended destination further highlights the supernatural intervention at play. The verse captures both the disciples' human intentions and the divine orchestration that brought them to their desired place.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their first fears being now converted into wonder and delight."
 2. "This additional miracle, for as such it is manifestly related, is recorded here alone."
 3. "The little bark—propelled by the secret power of the Lord of Nature now sailing in it—glided through the now unruffled waters."
@@ -32,4 +32,4 @@ These quotes provide insights into the continuous state of feeling, the simultan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

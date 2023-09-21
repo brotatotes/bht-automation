@@ -9,7 +9,7 @@ The verse being described is a call to the Corinthians to reflect on their respo
 2. "the being puffed up is only cum hoc, not propter hoc."
 3. "And did ye not rather mourn in order that he who did this deed might be removed from among you?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We ought to mourn over the transgressions of others, and repent of our own." 
 2. "The incestuous person was hereby brought to bitter repentance, in the interval between the sending of the first and second Epistles." 
 3. "Excommunication in the Christian Church corresponded to that in the Jewish synagogue, in there being a lighter and heavier form: the latter an utter separation from church fellowship and the Lord's house, the former exclusion from the Lord's Supper only but not from the Church."
@@ -52,4 +52,4 @@ The verse being described is a call to the Corinthians to reflect on their respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

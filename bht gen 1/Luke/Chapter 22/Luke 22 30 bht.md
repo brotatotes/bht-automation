@@ -4,7 +4,7 @@
 At Christ's table, believers are invited to partake in the blessings and provisions of God's kingdom, symbolizing fellowship and communion with Him. This invitation extends not only to the twelve apostles, but to all who enter into a deep and intimate relationship with God, finding satisfaction and the fullness of life. It represents the hope of participating in the glorious renewal of all things, sharing in the authority and reign of Christ. The language used in this verse is figurative, signifying the spiritual growth and progress of Christ's followers in the kingdom of grace and glory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The invitation to eat and drink in this verse symbolizes the fellowship and communion that God desires to have with His people. It is an invitation to partake in the blessings and provisions of God's kingdom."
 
 2. "By accepting this invitation, we acknowledge our dependence on God for sustenance and recognize that all good things come from Him. It is a reminder to be grateful for His provision and to share our blessings with others."
@@ -46,4 +46,4 @@ At Christ's table, believers are invited to partake in the blessings and provisi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

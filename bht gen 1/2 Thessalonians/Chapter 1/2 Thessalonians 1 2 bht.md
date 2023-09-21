@@ -11,7 +11,7 @@ The verse being described in this paragraph is a powerful reminder of the intima
 
 3. "By referring to God as 'πατρός' (patros), the author emphasizes the familial bond between Jesus and God, indicating that Jesus is the Son of God in a unique and special way."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'from God our Father' emphasizes the divine origin and authority of the message being conveyed. It highlights the intimate relationship between God and the believers, emphasizing the familial bond between them. This phrase serves as a reminder that the words spoken are not merely human wisdom, but divine revelation." 
 
 2. "The inclusion or omission of the word 'our' in the phrase 'from God our Father' may seem insignificant, but it carries profound theological implications. The presence of 'our' emphasizes the communal nature of the message, highlighting the fact that believers are part of a larger family of faith. On the other hand, the omission of 'our' underscores the personal and individual relationship each believer has with God, emphasizing the unique and intimate connection between the individual and their Heavenly Father." 
@@ -36,4 +36,4 @@ The verse being described in this paragraph is a powerful reminder of the intima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ After his dramatic conversion, the newly transformed Saul spent a few days in qu
 2. "Not to learn from them the gospel, nor was the time longer than to admit of εὐθέως being used."
 3. "The same εὐθέως of the whole space preceding the journey to Arabia."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The exhaustion occasioned by his three days' fast would not be the less real, though unfelt during his struggles."
 2. "Making their acquaintance, in another way than either he or they had anticipated, and regaining his tone by the fellowship of the saints."
 3. "Not certainly in order to learn from them what he was to teach, which he expressly disavows."
@@ -40,4 +40,4 @@ After his dramatic conversion, the newly transformed Saul spent a few days in qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

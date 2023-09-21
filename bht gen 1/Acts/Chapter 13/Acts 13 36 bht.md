@@ -9,7 +9,7 @@ This verse speaks of a psalm that cannot be fully fulfilled by David, as he only
 2. "David ministered only to the generation in which he lived: but remission of sins is preached to all who believe on Him."
 3. "His whole course was marked out and fixed by God he fulfilled it, and fell asleep."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "yielding himself an instrument for the accomplishment of God's high designs"
 2. "David, therefore (argues the apostle), could not be the subject of his own prediction"
 3. "the resurrection of the uncorrupted body of the Son of God, emphatically God's 'Holy One'"
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

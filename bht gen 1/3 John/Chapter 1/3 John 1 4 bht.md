@@ -9,7 +9,7 @@ The verse being described here emphasizes the immense joy experienced by a Chris
 2. "These comparatives of comparatives and superlatives are found both in classical and in N. T. Greek." 
 3. "The expression 'my children' here seems to favor the idea that the 'kyria' of the 2nd Epistle is a Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'elect lady' mentioned in this verse is understood to be a metaphor for the Church, specifically the members of the Church who are referred to as 'my children' by the author."
 2. "This interpretation reinforces the idea that the Church is not just an institution, but a family, with the author addressing the members as his own children."
 3. "By referring to the Church as the 'elect lady,' the author emphasizes the special and chosen status of the believers, highlighting their role as part of God's chosen people."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the immense joy experienced by a Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

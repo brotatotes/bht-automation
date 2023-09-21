@@ -4,7 +4,7 @@
 This verse signifies a sense of anticipation and hope for believers, as it implies a future fulfillment of God's kingdom. It also highlights the role of the Holy Spirit in the establishment and advancement of the kingdom. Beyond being a current reality, the kingdom of God also represents a future state of eternal joy and fulfillment, serving as the ultimate destination for believers' faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hour—about six P.M." - This reference to the specific time of day helps us understand the context of the events that took place.
 2. "Between three and this hour the lamb was killed" - This comparison between the time of Jesus' crucifixion and the time when the Passover lamb was traditionally killed highlights the significance of Jesus' sacrifice as the ultimate fulfillment of the Passover.
 3. "The lamb was killed" - This phrase reminds us of the symbolism of the Passover lamb, which foreshadowed Jesus' sacrificial death for the forgiveness of sins.
@@ -30,4 +30,4 @@ This verse signifies a sense of anticipation and hope for believers, as it impli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

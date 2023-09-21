@@ -11,7 +11,7 @@ The verse being described emphasizes the essential role of blood in the purifica
 
 3. "The combination is not a rhetorical figure in the mind of the Writer, but a deep truth in the verity of God." This quote emphasizes that the connection between blood and purification is not merely a literary device, but a profound truth rooted in the nature of God. It highlights the significance and validity of this concept in the Christian faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The exceptions to all things being purified by blood are..."
 2. "The pouring out of the blood on the altar is the main part of the sacrifice..."
 3. "Our sins are debts."
@@ -50,4 +50,4 @@ The verse being described emphasizes the essential role of blood in the purifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

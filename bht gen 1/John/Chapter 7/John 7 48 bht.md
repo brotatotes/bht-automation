@@ -4,7 +4,7 @@
 The verse in question raises the inquiry as to whether any of the rulers or Pharisees believed in Jesus. This challenges the prevailing idea that only the common people embraced Him, highlighting the skepticism and disbelief among those in positions of power and authority. The lack of faith among these individuals signifies the depth of their unbelief and the significance of Jesus' message. It serves as a reminder that true belief in Jesus is not limited by social status or religious credentials, but rather requires humility and a willingness to let go of preconceived notions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many of them" did, including Nicodemus and Joseph, but not one of these had openly "confessed Him" (John 12:42).
 2. This appeal must have stung such of them as heard it to the quick.
 3. The lack of belief and open confession from the rulers and Pharisees highlights the depth of their unbelief and the significance of Jesus' message.
@@ -47,4 +47,4 @@ The verse in question raises the inquiry as to whether any of the rulers or Phar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

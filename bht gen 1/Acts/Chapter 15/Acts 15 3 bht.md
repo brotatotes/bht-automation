@@ -9,7 +9,7 @@ As we follow Paul and Barnabas on their journey, we see the church providing the
 2. "It shews that the mind of the church was with them, not with the Judaizers."
 3. "This was also the case in Phœnicia and Samaria, as is shewn by πᾶσιν below."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "being brought on their way by the church—a kind of official escort." This quote highlights the support and encouragement provided by the church as Paul and Barnabas embarked on their journey. It emphasizes the importance of community and the role of the church in supporting and sending out missionaries.
 
 2. "they passed through Phenice and Samaria, declaring the conversion of the Gentiles." This quote emphasizes the geographical scope of Paul and Barnabas' mission, as they traveled through different regions to share the good news of the Gentiles' conversion. It highlights their commitment to spreading the message to diverse audiences.
@@ -52,4 +52,4 @@ As we follow Paul and Barnabas on their journey, we see the church providing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Paul describes a powerful struggle within oneself. The law, which
 2. "Tholuck’s remark, that had νόμον meant as above, it would have been anarthrous, or τοῦτον τὸν νόμον, is sufficiently answered by the above examples."
 3. "the dative after εὑρίσκω, to which he also objects as inadmissible in any language, is justified by Soph. Œd. Col. 966, οὐκ ἄν ἐξεύροις ἐμοὶ | ἁμαρτίας ὄνειδος οὐδέν, and by Plato, Rep. iv. p. 421, ἕτερα … τοῖς φύλαξιν εὑρήκαμεν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The conflict here graphically described between a self that 'desires' to do good and a self that in spite of this does evil, cannot be the struggles between conscience and passion in the unregenerate."
 2. "The description given of this 'desire to do good' in Romans 7:22 is such as cannot be ascribed, with the least show of truth, to any but the renewed."
 3. "The renewed person experiences a genuine desire to do good, but still finds themselves falling into sin, highlighting the ongoing struggle between the flesh and the spirit."
@@ -57,4 +57,4 @@ In this verse, Paul describes a powerful struggle within oneself. The law, which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

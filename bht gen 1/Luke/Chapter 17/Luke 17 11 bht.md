@@ -4,7 +4,7 @@
 Jesus embarked on a significant journey through the midst of Samaria and Galilee. This intentional route allowed him to cross both regions and reach out to people from different backgrounds. By traversing these lands, Jesus exhibited his inclusive and compassionate nature, ministering to those marginalized or looked down upon in society. This journey also served as a demonstration of his desire to bring healing and salvation to all people, regardless of their ethnic or cultural background. Throughout his mission, Jesus challenged prejudice, demonstrating love and inclusivity for all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'through the midst of Samaria and Galilee' suggests that Jesus was intentionally crossing boundaries and reaching out to people from different regions and backgrounds."
 2. "This passage highlights Jesus' inclusive and compassionate nature, as he was willing to minister to those who were often marginalized or looked down upon by society."
 3. "By traversing both Samaria and Galilee, Jesus demonstrated his desire to bring healing and salvation to all people, regardless of their ethnic or cultural background."
@@ -45,4 +45,4 @@ These quotes highlight the significance of Jesus' journey to Jerusalem, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

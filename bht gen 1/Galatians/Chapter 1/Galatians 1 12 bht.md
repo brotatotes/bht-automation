@@ -9,7 +9,7 @@ The verse being described is a powerful declaration by Paul about the origin of 
 2. "Through revelation of Jesus Christ."
 3. "It cannot be identical with the visions spoken of 2 Corinthians 12:1 ff., for 2 Cor. was written in A.D. 57, and fourteen years before that would bring us to A.D. 43, whereas his conversion was in 37."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Received it," implies the absence of labor in acquiring it. "Taught it," implies the labor of learning.
 2. By His revealing it to me. Probably this took place during the three years, in part of which he sojourned in Arabia, in the vicinity of the scene of the giving of the law; a fit place for such a revelation of the Gospel of grace, which supersedes the ceremonial law.
 3. But Paul received it by special revelation. A vision of the Lord Jesus is mentioned, but this seems to have been subsequent to the revelation here meant, and to have been confined to giving a particular command.
@@ -53,4 +53,4 @@ The verse being described is a powerful declaration by Paul about the origin of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, it is written that God has given those who have been hardened a s
 2. "The divine dealings being self-consistent, and especially that great one, in which the words are most prominently fulfilled." 
 3. "Eyes that they should not see and ears that they should not hear unto this present day."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As it is written" refers to the authority and reliability of the Scriptures, specifically referencing Isaiah 29:10 and Deuteronomy 29:4. This shows that the message being conveyed is not a new or personal opinion, but a divine truth.
 2. The phrase "God hath given" emphasizes that the spirit of slumber or stupor is not a natural state, but a deliberate action by God. This highlights the sovereignty and control of God over the spiritual condition of individuals.
 3. The phrase "unto this day" indicates that the spiritual blindness or stupor mentioned in the verse is not limited to the past, but continues to be relevant in the present. This highlights the ongoing nature of the spiritual condition and the need for awakening and transformation.
@@ -61,4 +61,4 @@ In this verse, it is written that God has given those who have been hardened a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

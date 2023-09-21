@@ -9,7 +9,7 @@ In this Bible verse, there is a profound contrast between the power that holds u
 2. "Translated into the kingdom of the Son of His Love...the strongest possible contrast to that darkness, the very opposite of God's Light and Love, in which we were." 
 3. "Beware of the hendiadys, adopted in the text of the E. V. On the whole, see Ellicott's note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those thus translated as to state, are also transformed as to character."
 2. "Satan has an organized dominion with various orders of powers of evil."
 3. "The Son of His love: the Son on whom His love rests, contrasted with the 'darkness' where all is hatred and hateful."
@@ -55,4 +55,4 @@ In this Bible verse, there is a profound contrast between the power that holds u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, two individuals are mentioned, raising questions about thei
 
 3. "The reference to Matthew suggests that there may be more information about these individuals in his gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At the last came two false witnesses." 
 2. "As no two had before agreed in anything, they felt it necessary to secure a duplicate testimony to something."
 3. "And what was it, when at length it was brought forward?"
@@ -35,4 +35,4 @@ In this Bible verse, two individuals are mentioned, raising questions about thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

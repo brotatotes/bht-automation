@@ -9,7 +9,7 @@ In this Bible verse, a priest finds an injured man on the road but chooses to pa
 2. "Not, it is true, literally, and therefore he neglected it."
 3. "He did not even go up to him to examine him, but passed by on the opposite side of the road."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two here mentioned are supposed, apparently, to be returning from temple duties, but they had not learnt what that meaneth, 'I will have mercy and not sacrifice' [TRENCH]." 
 2. "It was not inadvertently that he acted." 
 3. "Although the law expressly required the opposite treatment even of the beast not only of their brethren, but of their enemy."
@@ -48,4 +48,4 @@ In this Bible verse, a priest finds an injured man on the road but chooses to pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes a scene where a group of people experience extreme joy upon 
 2. "vix sibimet ipsi præ necopinato gaudio credentes" - Wetstein quotes Livy, xxxix. 49, which means "hardly believing in their own unexpected joy."
 3. "the joy which they felt" - emphasizing the emotional state of the individuals.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They did believe, else they had not rejoiced." - BENGEL
 2. "But it seemed too good to be true." - Psalms 126:1
 3. "But it seemed too good to be true." - Psalms 126:2
@@ -48,4 +48,4 @@ The verse describes a scene where a group of people experience extreme joy upon 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

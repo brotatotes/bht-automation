@@ -9,7 +9,7 @@ In the midst of trials and opposition, it is important to remain steadfast and u
 2. "The very same sufferings are being accomplished in the case of the ἀδελφότης, according to the will of God, and by the appointment of God."
 3. "Your brotherhood in the world, identifying their state with yours: who, like yourselves, are in the world, and thence have, like yourselves, to expect such trials."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan's power exists only in respect to the unbelieving; the faithful he cannot hurt." (James 4:7) 
 2. "Faith gives strength to prayer, the great instrument against the foe." (James 1:6) 
 3. "It is a sign of God's favor rather than displeasure, that Satan is allowed to harass you, as he did Job."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse portrays the dynamic relationship between sin and the law. Comme
 2. "Sin, by its perversion of the (good) commandment into a cause (evil) of death, was shown in its real character as sin."
 3. "That sin, which was before unknown as such, might, being vivified and brought into energy by (its opposition to) the commandment, be brought out as being exceedingly sinful."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Does the blame of my death lie with the good law? Away with such a thought."
 2. "Sin became death unto me, that it might appear sin, working death in me by that which is good."
 3. "Sin by the commandment might become exceeding sinful, that its enormous turpitude might stand out to view, through its turning God's holy, just, and good law into a provocative to the very things which it forbids."
@@ -53,4 +53,4 @@ The Bible verse portrays the dynamic relationship between sin and the law. Comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In Revelation 3:4, the verse describes a remnant of faithful individuals amidst a larger church that has declined in its devotion and purity. These few individuals, though rare, have remained untainted by the prevailing corruption and have kept their garments undefiled. Despite the overall spiritual decay, the Lord acknowledges and approves of these few, emphasizing their exceptional faithfulness and their future reward of walking with Him in white garments. This verse showcases the divine recognition of those who have maintained their Christian profession amidst challenging circumstances, highlighting the importance of unwavering dedication and purity in the midst of spiritual decline.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gracious Lord does not overlook any exceptional cases of real saints in the midst of unreal professors."
 2. "Meanwhile she is not to sully her Christian profession with any defilement of flesh or spirit, but to 'keep her garments.'"
 3. "The promised reward accords with the character of those to be rewarded: keeping their garments undefiled and white through the blood of the Lamb now, they shall walk with Him in white hereafter."
@@ -47,4 +47,4 @@ Note: The commentary is referring to Revelation 3:4.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

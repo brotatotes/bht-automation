@@ -9,7 +9,7 @@ Through faith, the believer celebrates the Passover, in anticipation of the unse
 2. "The affusion of the blood...where the blood was sprinkled by means of a bunch of hyssop." 
 3. "That he who destroyed the firstborn might not touch them...the destroying angel, the πληγὴ τοῦ ἐκτριβῆναι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His faith here was his belief in the invisible God's promise that the destroying angel should pass over, and not touch the inmates of the blood-sprinkled houses."
 2. "He acquiesced in the bare word of God where the thing itself was not apparent."
 3. "The first-born refers to both man and beast."
@@ -45,4 +45,4 @@ Through faith, the believer celebrates the Passover, in anticipation of the unse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

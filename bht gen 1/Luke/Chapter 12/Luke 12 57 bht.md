@@ -9,7 +9,7 @@ In this verse, individuals are challenged to embrace their personal responsibili
 2. "You are going (the course of your life is the journey) with your adversary (the just and holy law of God) before the magistrate (God Himself); therefore by the way take pains to be delivered from him."
 3. "Lest he drag thee to the judge and the judge deliver thee to the exactor, and the exactor cast thee into prison."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To do this requires more knowledge of Scripture and providence than we possess." 
 2. "He sends them to their own conscience, as enough to show them who He was." 
 3. "Win them to immediate discipleship."
@@ -50,4 +50,4 @@ In this verse, individuals are challenged to embrace their personal responsibili
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

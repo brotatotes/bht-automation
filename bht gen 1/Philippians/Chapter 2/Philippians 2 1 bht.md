@@ -9,7 +9,7 @@ In this verse, the author exhorts believers to find solace in the grace of Chris
 2. "The four fall into two pairs, in each of which we have first the objective principle of Christian life, and next the subjective principle."
 3. "The awakening of motives by these four points is at the same time powerful and touching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If there be (with you) any consolation in Christ...ye owe it to me to grant my request 'that ye be like-minded'." 
 2. "If there be any comfort of love, flowing from the love of Christ." 
 3. "If any fellowship of communion together as Christians, flowing from joint participation in the Spirit."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

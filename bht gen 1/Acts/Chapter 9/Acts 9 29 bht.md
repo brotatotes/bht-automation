@@ -9,7 +9,7 @@ In this verse, a passionate and determined Paul takes it upon himself to preach 
 2. "But partly also, it may well be believed, because he himself in the synagogues of the Hellenists had opposed Stephen formerly."
 3. "This decision to preach to the Hellenists shows Paul's willingness to reach out to a broader audience and his desire to spread the message of Christ to all people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "addressing himself specially to them, perhaps, as being of his own class, and that against which he had in the days of his ignorance been the fiercest." 
 2. "Thus was he made to feel, throughout his whole course, what he himself had made others so cruelly to feel, the cost of discipleship." 
 3. "he had in the days of his ignorance been the fiercest."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a complete analysis of the verse, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

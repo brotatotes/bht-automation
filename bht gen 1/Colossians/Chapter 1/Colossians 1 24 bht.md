@@ -9,7 +9,7 @@ In this verse, the unnamed apostle expresses his joyful acceptance of suffering 
 2) "Every suffering saint of God in every age and position is in fact filling up, in his place and degree, the tribulations of Christ, in his flesh, and on behalf of His body." 
 3) "Not a pang, not a tear is in vain. The Apostle, as standing out prominent among this suffering body, predicates this of himself κατ' ἐξοχήν; the ἀναπλήρωσις to which we all contribute, was on his part so considerable, as to deserve the name of ἀνταναπλήρωσις itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To enhance the glory of Christ as paramount to all, he mentions his own sufferings for the Church of Christ."
 2. "Christ is 'afflicted in all His people's afflictions.'"
 3. "Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan."
@@ -55,4 +55,4 @@ In this verse, the unnamed apostle expresses his joyful acceptance of suffering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

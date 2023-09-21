@@ -9,7 +9,7 @@ The Bible verse under consideration speaks of various responsibilities within th
 2. "In liberality." 
 3. "He that presides must not allow himself to forget his responsibility, but must take his duty seriously and diligently."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All preaching, whether by apostles, prophets, or teachers, was followed up by exhortation."
 2. "He that giveth—in the exercise of private benevolence probably, rather than in the discharge of diaconal duty."
 3. "He that showeth mercy, with cheerfulness—not only without grudging either trouble or pecuniary relief, but feeling it to be 'more blessed to give than to receive,' and to help than be helped."
@@ -54,4 +54,4 @@ The Bible verse under consideration speaks of various responsibilities within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

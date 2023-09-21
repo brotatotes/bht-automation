@@ -4,7 +4,7 @@
 As the Lord, Jesus, in his divine authority and power, ascended into heaven, after spending forty days speaking to his disciples. This glorious event marked the completion of his earthly ministry and the beginning of his exalted position at the right hand of God. Luke 24:50 captures this significant moment, reminding us of the profound impact of Jesus' teachings and his continued presence with his followers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So then after the Lord had spoken unto them, he was received up into heaven." - This verse highlights the glorious Ascension of Jesus and the subsequent fruits that followed. (Mark 16:19)
 2. "He sat on the right hand of God." - This statement emphasizes the exalted position of Jesus in heaven, which is referred to as His proper condition in glory. (Mark 16:19)
 3. "In that exalted attitude He appeared to Stephen." - This reference to Jesus appearing to Stephen further emphasizes the significance of His exalted position and the divine authority He possesses. (Acts 7:55; Acts 7:56)
@@ -47,4 +47,4 @@ As the Lord, Jesus, in his divine authority and power, ascended into heaven, aft
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

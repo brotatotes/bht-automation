@@ -9,7 +9,7 @@ In this passage, we witness a captivating interaction between Jesus and a Samari
 2. "The Rabbis say that a Jew might not eat the bread or drink the wine of a Samaritan."
 3. "But that appears from this verse to be exaggerated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is perhaps the most human of all the scenes of our Lord's earthly history."
 2. "We seem to be beside Him, overhearing all that is here recorded."
 3. "But with all that is human, how much also of the divine have we here."
@@ -38,4 +38,4 @@ I apologize, but I am unable to generate a response based on the information pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

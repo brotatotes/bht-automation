@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the significance and sufficiency of Ch
 2. "Sanctification, i.e. the imputed and implanted purification from sins... is the way whereby the objective perfection already provided in the self-sacrifice of Christ gradually renders itself subjective in men." 
 3. "The Writer says not τοὺς τελειωμένους, but τοὺς ἁγιαζομένους."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sacrifice being 'for ever' in its efficacy needs no renewal." 
 2. "The sanctification of the elect believers is perfect in Christ once for all."
 3. "The development of that sanctification is progressive."
@@ -56,4 +56,4 @@ In this verse, the commentators emphasize the significance and sufficiency of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

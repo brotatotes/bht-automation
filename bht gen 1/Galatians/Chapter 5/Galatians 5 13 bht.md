@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the concept of freedom within the Chr
 2. "Make not your liberty into an occasion for the flesh, but by means of love, be in bondage to one another." 
 3. "The mother of heresies is the desire for power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The state or condition in which ye have been called to salvation, is one of liberty."
 2. "Gospel liberty consists in three things, freedom from the Mosaic yoke, from sin, and from slavish fear."
 3. "Do not give the flesh the handle or pretext for its indulgence which it eagerly seeks for; do not let it make Christian 'liberty' its pretext for indulgence."
@@ -53,4 +53,4 @@ The Bible verse being described emphasizes the concept of freedom within the Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

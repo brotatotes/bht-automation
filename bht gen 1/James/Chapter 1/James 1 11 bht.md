@@ -11,7 +11,7 @@ Like the fleeting beauty of a flower that withers under the scorching sun, world
 
 3. "The external appearance of anything perished." - This quote underscores the idea that the beauty and attractiveness of worldly things are fleeting and will eventually fade away.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'burning heat' of the sun is not at its rising, but rather at noon; whereas the scorching Kadim wind is often at sunrise." 
 2. "Jonah 4:8- uses the Greek word for 'heat.' Jonah 4:8-, 'bloweth upon it,' seems to answer to 'the hot wind' here."
 3. "Referring to the burdensome extent of the rich man's devices. Compare 'his ways,' that is, his course of life, Jonah 4:8-."
@@ -57,4 +57,4 @@ Like the fleeting beauty of a flower that withers under the scorching sun, world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

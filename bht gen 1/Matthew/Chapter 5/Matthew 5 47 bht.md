@@ -9,7 +9,7 @@ In this Bible verse, the cultural and religious divisions between different grou
 2. "The act of greeting or salutation was significant in the cultural context of the time." 
 3. "This verse highlights the cultural and religious divisions that existed between Jews and Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if ye salute your brethren only—of the same nation and religion with yourselves. what do ye more than others?" - This quote highlights the challenge to go beyond mere common courtesy and extend greetings to those who may be different from us, emphasizing the need for inclusivity and love for all.
 
 2. "Do not even the publicans so?" - This quote draws attention to the fact that even those considered outsiders or despised by society can show basic kindness and respect. It encourages readers to reflect on their own actions and strive for a higher standard of love and compassion.
@@ -42,4 +42,4 @@ In this Bible verse, the cultural and religious divisions between different grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

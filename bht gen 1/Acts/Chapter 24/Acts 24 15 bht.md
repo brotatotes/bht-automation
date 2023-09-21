@@ -9,7 +9,7 @@ This verse explores the belief of the resurrection of the dead and the hope it b
 2. "The juxtaposition of those words, which excited mockery even when the Gospel was being directly preached, would hardly have been hazarded in this defence."
 3. "Every expression is so carefully weighed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This appeal to the faith of his accusers shows that they were chiefly of the Pharisees." 
 2. "The favor of that party, to which he owed in some measure his safety at the recent council, had been quite momentary."
 3. "The hope of the resurrection was a central belief of the Pharisees, and Paul strategically uses it to his advantage in his defense."
@@ -57,4 +57,4 @@ This verse explores the belief of the resurrection of the dead and the hope it b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this powerful verse, the Bible captures God's unconventional ways and His ability to use the weak and despised to accomplish His purposes. The verse reminds us that God's power is not limited by worldly standards or human understanding. It reveals God's intentional choice of individuals with humble origins and lack of social status, nullifying the things that the world regards as important. This emphasis on the insignificance of the chosen ones highlights the contrast between the disdain the Jews had for the gentiles and their own self-regard, revealing God's divine plan for salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God has chosen all four, though regarded as things that are not, to bring to naught things that are."
 2. "God's ways often defy human logic and expectations, as He chooses the weak and despised to accomplish His purposes."
 3. "This verse reminds us that God's power is not limited by worldly standards or human understanding."
@@ -47,4 +47,4 @@ In this powerful verse, the Bible captures God's unconventional ways and His abi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

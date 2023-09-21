@@ -9,7 +9,7 @@ The verse being described highlights the importance of perseverance and supporti
 2. "I see no reason with Bleek to doubt this. He does so mainly because Heb 12:14 would come in abruptly on the other view."
 3. "The two words are frequently joined together: in ref. Isa., with the same substantives as here, but ἀνειμέναι for παρ -: ἰσχύσατε χεῖρες ἀενιμέναι καὶ γόνατα παραλελυμένα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He addresses them as runners in a race, and pugilists, and warriors." - This commentary highlights the imagery used by the author to encourage the readers to persevere and endure in their faith, comparing their spiritual journey to that of athletes and soldiers.
 
 2. "Put straight again the relaxed hands." - This quote emphasizes the need to strengthen and restore one's spiritual strength and resolve, symbolized by the hands. It suggests that believers should not allow their hands to become weak or paralyzed, but rather lift them up in faith and action.
@@ -54,4 +54,4 @@ Note: The provided commentary is quite technical and specific to the Greek langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

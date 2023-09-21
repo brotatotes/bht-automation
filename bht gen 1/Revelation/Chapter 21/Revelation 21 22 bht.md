@@ -4,7 +4,7 @@
 In the final state of the redeemed, there will be no physical temple or external forms of worship. Instead, the entire new heaven and earth will be a spiritual temple, where the Lord God and the Lamb are the central presence. Their divine glory fills every corner, sanctifying the city and surrounding it with holiness. In this eternal dwelling place, God's presence permeates every aspect, bringing a sense of completeness and serving as the ultimate source and authority over all things.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As God now dwells in the spiritual Church, His 'temple,' so the Church when perfected shall dwell in Him as her 'temple'." 
 2. "Means of grace shall cease when the end of grace is come. Church ordinances shall give place to the God of ordinances." 
 3. "Uninterrupted, immediate, direct, communion with Him and the Lamb shall supersede intervening ordinances."
@@ -51,4 +51,4 @@ In the final state of the redeemed, there will be no physical temple or external
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

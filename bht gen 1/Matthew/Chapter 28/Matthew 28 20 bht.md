@@ -9,7 +9,7 @@ The Bible verse referred to in these commentaries speaks of the abiding presence
 2. "The vine lives in the branches. Stier remarks the contrast between this 'I am with you,' and the view of Nicodemus 'no man can do these miracles except God be with him.'"
 3. "The presence of the Spirit is the effect of the presence of Christ and the presence of Christ is part of the ἐδόθη above the effect of the well-pleasing of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is enough that I am with you alway—'all the days'; that is, till making converts, baptizing, and building them up by Christian instruction, shall be no more."
 2. "Go, conquer the world for Me; carry the glad tidings into all lands and to every ear, and deem not this work at an end till all nations shall have embraced the Gospel and enrolled themselves My disciples."
 3. "All power in heaven—the whole power of Heaven's love and wisdom and strength, 'and all power in earth'—power over all persons, all passions, all principles, all movements—to bend them to this one high object, the evangelization of the world: All this 'is given unto Me.'"
@@ -50,4 +50,4 @@ The Bible verse referred to in these commentaries speaks of the abiding presence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

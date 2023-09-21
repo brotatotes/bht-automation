@@ -9,7 +9,7 @@ This verse exhorts believers to mature in their thinking and understanding, not 
 2. "ἀδελφοί ‘suavem vim habet,’ Bengel." (Translation: "Brothers, it has a pleasant force," Bengel.)
 3. "ταῖς φρεσίν, in your understandings, as this preference shows you to be."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Brethren—an appellation calculated to conciliate their favorable reception of his exhortation."
 2. "Children in understanding—as preference of gifts abused to nonedification would make you."
 3. "Be childlike, not childish."
@@ -54,4 +54,4 @@ This verse exhorts believers to mature in their thinking and understanding, not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

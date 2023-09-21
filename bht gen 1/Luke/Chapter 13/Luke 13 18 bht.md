@@ -4,7 +4,7 @@
 The parable, according to commentators, may depict the inward growth of the kingdom or the outward manifestation of it. It symbolizes the all-penetrating quality of the Gospel, which will mold and transform all aspects of society. The use of "therefore" suggests a logical progression in Jesus' teaching, while the ambiguity in the text necessitates further examination. The kingdom of God is not a physical place but a spiritual reality that starts small but has the potential to make a significant impact on the world. It represents growth and transformation, providing refuge and breaking human expectations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable of 'the Leaven' sets forth, perhaps, rather the inward growth of the kingdom, while 'the Mustard Seed' seems to point chiefly to the outward."
 2. "Nor does it yield much satisfaction to understand the 'three measures of meal' of that threefold division of our nature into 'spirit, soul, and body,' or of the threefold partition of the world among the three sons of Noah, as some do."
 3. "It yields more real satisfaction to see in this brief parable just the all-penetrating and assimilating quality of the Gospel, by virtue of which it will yet mould all institutions and tribes of men, and exhibit over the whole earth one 'Kingdom of our Lord and of His Christ'."
@@ -32,4 +32,4 @@ The parable, according to commentators, may depict the inward growth of the king
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

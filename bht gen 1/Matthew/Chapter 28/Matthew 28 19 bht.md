@@ -9,7 +9,7 @@ In this verse, the command to go and teach all nations emphasizes the urgency of
 2. "The purpose of the Lord is to bring men to the knowledge of the truth to work on and in their hearts, and lift them up to be partakers of the divine Nature."
 3. "Baptism is the contract of espousal between Christ and his Church. Our word 'in' being retained both here and in our formula of Baptism, it should always be remembered that the Sacramental declaration is contained in this word; that it answers to the 'τοῦτό ἐστιν' in the other Sacrament."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go ye therefore, and teach all nations" - The command to go and make disciples of all nations emphasizes the urgency and importance of spreading the message of the Gospel to everyone, regardless of their background or location.
 
 2. "Baptizing them in the name of the Father, and of the Son, and of the Holy Ghost" - The act of baptism signifies a profound identification and incorporation into the triune God, symbolizing a new life and a new identity in Christ.
@@ -55,4 +55,4 @@ In this verse, the command to go and teach all nations emphasizes the urgency of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

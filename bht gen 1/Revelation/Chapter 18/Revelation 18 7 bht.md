@@ -4,7 +4,7 @@
 This verse describes the downfall of a city that has indulged in luxury and excess, exalting itself to a position of power above all others. The city's arrogance and pride have led to its impending torment and suffering, as it is stripped of its riches and exposed to judgment. Despite its confident claim of security, it is in fact destined to experience mourning and loss. The verse paints a picture of a fallen city, once adorned as a queen, now facing the consequences of its sinful ways.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am no widow—for the world power is my husband and my supporter."
 2. "I shall never have to mourn as one bereft of her husband."
 3. "Rome is a daughter of Babylon, and by her, as by her mother, God has been pleased to subdue the world under one sway."
@@ -45,4 +45,4 @@ This verse describes the downfall of a city that has indulged in luxury and exce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

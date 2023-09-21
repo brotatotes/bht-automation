@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the future second coming of Christ, h
 2. "The phrase 'the firstborn' emphasizes Christ's preeminence and superiority over all creation."
 3. "The angels are commanded to worship Christ, highlighting His divine nature and authority."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only this proves His superiority, BUT a more decisive proof is Psalms 97:7, which shows that not only at His resurrection, but also in prospect of His being brought into the world as man, in His incarnation, nativity, temptation, resurrection, and future second advent in glory, angels were designed by God to be subject to Him."
 2. "The fullest realization of His Lordship shall be at His second coming."
 3. "God ruled the theocracy in and through Him."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the future second coming of Christ, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a tumultuous scene, without any proper trial or regard for the law, the accus
 2. "The duumviri, without giving them a trial, rent off their clothes."
 3. "The form was, 'Summove, lictor, despolia, verbera.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word expresses the roughness with which this was done to prisoners preparatory to whipping."
 2. "Without any trial, to appease the popular rage."
 3. "Thrice, it seems, Paul endured this indignity."
@@ -50,4 +50,4 @@ In a tumultuous scene, without any proper trial or regard for the law, the accus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

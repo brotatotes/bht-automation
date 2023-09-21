@@ -9,7 +9,7 @@ In this Bible verse, there is a depiction of God allowing a strong delusion to c
 2. "The E.V. has weakened, indeed almost stultified the sentence, by rendering ἐνέργ . πλάνης ‘a strong delusion,’ i.e. the passive state resulting, instead of the active cause." 
 3. "All might be judged who did not believe the truth, but found pleasure in iniquity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The best safeguard against error is 'the love of the truth.'"
 2. "God judicially sends hardness of heart on those who have rejected the truth, and gives them up in righteous judgment to Satan's delusions."
 3. "They first cast off the love of the truth, then God gives them up to Satan's delusions, then they settle down into 'believing the lie': an awful climax."
@@ -52,4 +52,4 @@ These quotes highlight the idea that God allows delusion and blindness to fall u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

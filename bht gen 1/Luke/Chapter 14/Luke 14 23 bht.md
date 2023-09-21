@@ -11,7 +11,7 @@ The Bible verse being described is a call for believers to passionately and urge
 
 3. "The εἰσελθόντες are good and bad." - This quote emphasizes that both the good and the bad are invited to enter into the kingdom of God, suggesting that God's grace is available to all, regardless of their past actions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This parable prophetically contemplates the extension of the kingdom of God to the whole world."
 2. "Directs the Gospel invitations to be carried to the lowest strata, and be brought in contact with the outermost circles, of human society."
 3. "What a directory for ministers of Christ!"
@@ -59,4 +59,4 @@ The Bible verse being described is a call for believers to passionately and urge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

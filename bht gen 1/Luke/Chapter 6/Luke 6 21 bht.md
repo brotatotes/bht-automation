@@ -4,7 +4,7 @@
 The verse being described talks about the blessedness of those who hunger and thirst for righteousness and eternal life, assuring them that they will be completely satisfied. It also addresses those who weep and suffer now, promising them laughter and spiritual joy in the future. The contrast between present sufferings and future blessings is emphasized, highlighting the transformative power of God's promises and the comfort and consolation they bring. The verse's concise and direct wording adds a sense of urgency and importance to its message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How charming is the liveliness of this word."
 2. "To express what in Matthew is called being 'comforted!'"
 3. "Laugh."
@@ -39,4 +39,4 @@ The verse being described talks about the blessedness of those who hunger and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

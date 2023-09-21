@@ -9,7 +9,7 @@ The author of these words reminds us of the dangers of flattery, cautioning agai
 2. "On κολακ . Lün. quotes Theophrastus, Charr. 2, τὴν δὲ κολακείαν ὑπολάβοι ἄν τις ὁμιλίαν αἰσχρὰν εἶναι, συμφέρουσαν δὲ τῷ κολακεύοντι." 
 3. "God is witness of the flattery, for it is evident to those who hear the words of flatterers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Become in language of flattery" - The commentary highlights the deceptive nature of using flattering words to please others. It emphasizes the insincerity and manipulative intent behind such language.
 2. "GOD, the Judge of the heart, alone can be 'my witness'" - This quote emphasizes the ultimate accountability to God and the recognition that only He truly knows the intentions of the heart.
 3. "Any specious guise under which I might cloak 'covetousness'" - The commentary points out the danger of using deceptive tactics to hide selfish desires. It warns against using a false appearance to cover up ulterior motives.
@@ -55,4 +55,4 @@ The author of these words reminds us of the dangers of flattery, cautioning agai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

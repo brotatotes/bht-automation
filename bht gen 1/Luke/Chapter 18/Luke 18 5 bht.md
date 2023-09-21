@@ -9,7 +9,7 @@ This Bible verse describes a persistent widow who continually seeks justice from
 2. "ὑπωπιάζῃ, from ὑπώπιον, signifies literally to smite in the face; and proverbially to mortify or incessantly annoy."
 3. "Meyer interprets it literally 'lest at last she should become desperate and come and strike me in the face.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Continual coming" refers to the ongoing and persistent act of seeking God's presence and guidance. It implies a deep and unwavering commitment to maintaining a relationship with Him, not just a one-time visit or fleeting encounter.
 
 2. This phrase emphasizes the importance of consistency and perseverance in our spiritual journey. It reminds us that our relationship with God is not a one-time event but a lifelong pursuit, requiring us to continually seek Him, trust Him, and rely on His wisdom and guidance.
@@ -40,4 +40,4 @@ This Bible verse describes a persistent widow who continually seeks justice from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

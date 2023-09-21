@@ -9,7 +9,7 @@ In this powerful parable, a prodigal son returns home, and his loving father res
 2. "The difficulties which have been found in the latter part of the parable...are considerably lightened by the consideration that the contradiction of that assertion would have been beside the purpose of the parable." 
 3. "The result of the Father's entreaty is left purposely uncertain...it is thus broken off, to be closed by each individual for himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deeper sunk and the longer estranged any sinner is, the more exuberant is the joy which his recovery occasions."
 2. "Such joy is not the portion of those whose whole lives have been spent in the service of their Father in heaven."
 3. "Instead of grudging the want of this, they should deem it the highest testimony to their lifelong fidelity, that something better is reserved for them—the deep, abiding complacency of their Father in heaven."
@@ -38,4 +38,4 @@ In this powerful parable, a prodigal son returns home, and his loving father res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

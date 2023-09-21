@@ -4,7 +4,7 @@
 In this verse, the disciples' understanding and faith are being questioned. The commentators express surprise at the disciples' lack of comprehension and hardening of their hearts despite witnessing miracles. They emphasize the contrast between the disciples' lack of understanding and the expectation that their faith would have been strengthened. The verse portrays Jesus' disappointment and highlights the gap between the disciples' perception and the deeper spiritual lessons he is trying to convey.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How strong an expression to use of true-hearted disciples!"
 2. "See on Mark 6:52."
 3. "Have ye your heart yet hardened?"
@@ -18,4 +18,4 @@ In this verse, the disciples' understanding and faith are being questioned. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

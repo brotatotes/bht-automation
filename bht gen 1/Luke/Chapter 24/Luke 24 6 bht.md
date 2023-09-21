@@ -4,7 +4,7 @@
 In this Bible verse, the resurrection of Jesus is confirmed with the statement, "He is not here, but is risen." The mention of Galilee reminds readers of the region's significance in Jesus' ministry and adds credibility to the testimony of the women who witnessed the resurrection. The verse also urges believers to remember Jesus' teachings, particularly his prediction of his suffering and death. It sheds light on the disciples' initial disbelief and invites reflection on the transformative power of the resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that the women themselves belonged to Galilee is significant because it shows that they were intimately familiar with the region and its customs. This adds credibility to their testimony and reinforces the authenticity of the resurrection account." 
 
 2. "By mentioning that the women were from Galilee, the author highlights the fulfillment of Jesus' prophecy that he would meet his disciples in Galilee after his resurrection. This further emphasizes the divine plan and the trustworthiness of Jesus' words." 
@@ -39,4 +39,4 @@ In this Bible verse, the resurrection of Jesus is confirmed with the statement, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

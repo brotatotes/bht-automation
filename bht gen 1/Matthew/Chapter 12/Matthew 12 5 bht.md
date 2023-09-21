@@ -9,7 +9,7 @@ In this verse, we see a potential contradiction between the actions of the pries
 2. "The sacred history furnishes examples of exception to the law of the Sabbath from necessity." 
 3. "The Law itself ordains work to be done on the Sabbath as a duty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath—by doing 'servile work'." 
 2. "The double offerings required on the sabbath day could not be presented, and the new-baked showbread could not be prepared and presented every sabbath morning, without a good deal of servile work on the part of the priests."
 3. "Circumcision, which, when the child's eighth day happened to fall on a sabbath, had to be performed by the priests on that day."
@@ -38,4 +38,4 @@ In this verse, we see a potential contradiction between the actions of the pries
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

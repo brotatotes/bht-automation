@@ -9,7 +9,7 @@ In this verse, we find that our redemption is attained through Christ. It brings
 2. "The art. as the idiomatic way of expressing the abstract subst."
 3. "The distinction between ἄφεσις and πάρεσις."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our redemption" refers to the act of being saved or delivered from sin and its consequences. It emphasizes the personal and intimate nature of this redemption, highlighting the individual's need for salvation. 
 
 2. The phrase "through his blood" may have been added later in some manuscripts, possibly to align with other biblical references. However, its omission in the oldest manuscripts does not diminish the significance of Christ's sacrifice and the role of his blood in our redemption. 
@@ -57,4 +57,4 @@ In this verse, we find that our redemption is attained through Christ. It brings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

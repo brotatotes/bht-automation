@@ -9,7 +9,7 @@ The religious leaders, according to commentators like John Wesley and John Gill,
 2. "this the expounders of Scripture had taken away, neither themselves entering, nor permitting those to enter who were otherwise doing so"
 3. "shutting the kingdom of heaven in men’s faces"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "key of knowledge—not the key to open knowledge, but knowledge, the only key to open heaven."
 2. "A right knowledge of God's Word is eternal life."
 3. "They took away from the people, substituting for it their wretched traditions."
@@ -51,4 +51,4 @@ These quotes highlight the lawyers' role in obstructing the true understanding o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

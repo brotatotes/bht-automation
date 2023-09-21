@@ -9,7 +9,7 @@ In this Gospel passage, we encounter the central theme of the good news: Jesus C
 2. "On the side of His humanity, our Lord ἐγένετο; that nature of His begins only then, when He was γενόμενος ἐκ γυναικός."
 3. "The words ἐκ σπέρματος Δαυείδ cast a hint back at the promise just spoken of. At the same time, in so solemn an enunciation of the dignity of the Son of God, they serve to show that even according to the human side, His descent had been fixed in the line of him who was Israel’s anointed and greatest king."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Concerning his Son Jesus Christ our Lord—the grand burden of this 'Gospel of God.'" 
 2. "made of the seed of David—as, according to 'the holy scriptures,' He behooved to be."
 3. "according to the flesh—that is, in His human nature; implying, of course, that He had another nature, of which the apostle immediately proceeds to speak."
@@ -57,4 +57,4 @@ In this Gospel passage, we encounter the central theme of the good news: Jesus C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

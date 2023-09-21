@@ -4,7 +4,7 @@
 In this passage, Jesus speaks to His disciples, urging them to listen attentively and deeply internalize His teachings. He emphasizes the importance of reflecting on His words and remembering them, as they contain crucial evidence of His divine origin and impending suffering. Jesus foretells His imminent arrest and crucifixion, reminding His disciples of His sacrificial love and the significance of His mission. The commentators highlight the need for active engagement, intentional remembrance, and an understanding of the balance between joy and suffering in the Christian faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom."
 2. "The Son of man, into the hands of men"—a remarkable antithesis.
 3. "The sayings refer not to what was passing between them about His grandeur, but to what He was now to repeat for the second time about His sufferings."
@@ -47,4 +47,4 @@ In this passage, Jesus speaks to His disciples, urging them to listen attentivel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

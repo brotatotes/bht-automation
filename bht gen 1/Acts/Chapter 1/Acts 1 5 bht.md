@@ -9,7 +9,7 @@ In this verse, Jesus distinguishes between John the Baptist's water baptism and 
 2. "Calvin remarks, that He speaks of the Pentecostal effusion as being the Baptism with the Holy Ghost, because it was a great representation on the whole Church of the subsequent continued work of regeneration on individuals."
 3. "I may add, also because it was the beginning of a new period of spiritual influence, totally unlike any which had preceded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye shall be baptized with the Holy Ghost not many days hence" - This phrase indicates that the disciples would soon experience a spiritual baptism, which would empower and equip them for their mission.
 2. "ten days hence, as appears from Leviticus 23:15; Leviticus 23:16" - This reference to the Old Testament reveals that the timing of the Holy Spirit's coming was significant, aligning with the Feast of Weeks or Pentecost.
 3. "expressed thus indefinitely to exercise their faith" - The indefinite expression of the timeline was intentional, designed to challenge the disciples' faith and trust in God's timing and plan. It required them to rely on Him and eagerly anticipate the fulfillment of His promise.
@@ -56,4 +56,4 @@ Note: The commentary provides linguistic and contextual insights into the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

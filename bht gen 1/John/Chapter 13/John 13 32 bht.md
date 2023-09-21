@@ -4,7 +4,7 @@
 In this Bible verse, we are shown the reciprocal glorification between God and Jesus. Through Jesus' service and sacrifice, God is glorified and He, in turn, will glorify Jesus in Himself. This glorification extends beyond Jesus' earthly service to include His future resurrection and exaltation. It emphasizes the eternal honor and glory that Jesus will receive as the Head of the new creation. The glory bestowed upon Jesus showcases the perfect manifestation of God's goodness, truth, justice, and all His perfections.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If God be glorified in him, God shall also... glorify him in himself" - This quote highlights the reciprocal nature of glorification between God and Jesus. It emphasizes that when Jesus glorifies God through his service, God will in turn glorify Jesus in Himself.
 
 2. "the Resurrection and Exaltation of Christ after this service was over" - This quote refers to the future event of Jesus' resurrection and exaltation, indicating that his glorification will continue beyond his earthly service.
@@ -40,4 +40,4 @@ In this Bible verse, we are shown the reciprocal glorification between God and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

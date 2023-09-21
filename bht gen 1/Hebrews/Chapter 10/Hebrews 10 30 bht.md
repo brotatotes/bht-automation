@@ -9,7 +9,7 @@ In this Bible verse, we see that God alone possesses the authority to administer
 2. "The Lord will judge His people" - This quote emphasizes the dual nature of God's judgment, both as a means of rescue and defense for the righteous, and as punishment and condemnation for the willful sinner and apostate.
 3. "The office of Judge...involves all that belongs to a judge" - This statement underscores the comprehensive nature of God's role as a judge, encompassing all aspects of judgment, including both punishment and deliverance.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Vengeance belongeth unto me" - This quote emphasizes that God alone has the right to administer justice and punishment. It highlights the divine authority and sovereignty over judgment.
 2. "Lord shall judge his people" - This quote suggests that God's judgment is not only a means of punishment but also a manifestation of His grace. It implies that God's judgment can either bring salvation or condemnation, depending on the individual's actions and faithfulness.
 3. "Here, 'judge,' so as to punish the reprobate apostate; there, 'judge,' so as to interpose in behalf of, and save His people" - This quote illustrates the dual nature of God's judgment. It signifies that God's judgment can be both a means of retribution for the wicked and a means of deliverance for the righteous.
@@ -55,4 +55,4 @@ In this Bible verse, we see that God alone possesses the authority to administer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

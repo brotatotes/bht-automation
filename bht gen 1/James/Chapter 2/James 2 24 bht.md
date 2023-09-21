@@ -11,7 +11,7 @@ This verse emphasizes that true faith is not merely a belief, but is accompanied
 
 3. "By faith alone, without works, is no man justified." - This statement reinforces the idea that faith without corresponding actions or works is insufficient for justification. True faith is demonstrated through obedience and good works.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith to justify must, from the first, include obedience in germ (to be developed subsequently), though the former alone is the ground of justification." 
 
 2. "The scion must be grafted on the stock that it may live; it must bring forth fruit to prove that it does live." 
@@ -49,4 +49,4 @@ This verse emphasizes that true faith is not merely a belief, but is accompanied
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

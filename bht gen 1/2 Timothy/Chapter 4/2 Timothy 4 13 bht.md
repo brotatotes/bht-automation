@@ -9,7 +9,7 @@ In this Bible verse, the author expresses a desire to have their cloak and books
 2. "The Jews also had the word פליון for a cloak." 
 3. "There is nothing inconsistent with his near prospect of death, in a desire to have his cloak and books during the approaching winter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of his 'cloak,' so far from being unworthy of inspiration, is one of those graphic touches which sheds a flood of light on the last scene of Paul's life, on the confines of two worlds; in this wanting a cloak to cover him from the winter cold, in that covered with the righteousness of saints, 'clothed upon with his house from heaven' [GAUSSEN]." 
 2. "So the inner vesture and outer garment of Jesus, Paul's master, are suggestive of most instructive thought."
 3. "He was anxious respecting these [books] that he might transmit them to the faithful, so that they might have the teaching of his writings when he should be gone."
@@ -51,4 +51,4 @@ In this Bible verse, the author expresses a desire to have their cloak and books
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

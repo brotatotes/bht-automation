@@ -9,7 +9,7 @@ The disciples, Paul and Silas, comforted the brethren before departing, showing 
 2. "παρεκ . exhorted, is better than 'comforted,' E. V. The one in this case would imply the other."
 3. "πρός has probably been altered to εἰς, on account of the verb, not because Λυδίαν was mistaken for the country of that name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their citizenship was valuable to them only as a shield against unnecessary injuries to their Master's cause. What a beautiful mixture of dignity and meekness is this!"
 2. "Nothing secular, which may be turned to the account of the Gospel, is morbidly disregarded; in any other view, nothing of this nature is set store by:—an example this for all ages."
 3. "This assembly of believers in the house of Lydia was the first church that had been founded in Europe."
@@ -63,4 +63,4 @@ Overall, this commentary emphasizes the disciples' compassionate nature, their r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

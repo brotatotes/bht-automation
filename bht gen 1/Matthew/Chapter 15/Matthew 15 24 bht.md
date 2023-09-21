@@ -9,7 +9,7 @@ This verse highlights the focus of Jesus' ministry and his compassion for those 
 2. "The 'fountain sealed' sometimes broke its banks, in token of the rich flood of grace which should follow."
 3. "See Romans 15:8."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am not sent but to the lost sheep of the house of Israel." This statement emphasizes Jesus' mission to prioritize the salvation of the Jewish people, highlighting his role as the long-awaited Messiah for the chosen nation.
 
 2. "Jesus' focus on the lost sheep of Israel reveals his deep compassion and concern for those who have strayed from the path of righteousness." This quote highlights Jesus' love and desire to bring back those who have gone astray, showing his commitment to seeking and saving the lost.
@@ -47,4 +47,4 @@ This verse highlights the focus of Jesus' ministry and his compassion for those 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

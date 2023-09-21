@@ -9,7 +9,7 @@ The verse being described here emphasizes the inherent insufficiency of humans a
 2. "Our ability to reason, judge, and have faith in our apostolic calling comes from God."
 3. "Our own thinking and understanding are not sufficient; we rely on God for wisdom and guidance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that we are sufficient to think anything OF ourselves as FROM ourselves; but our sufficiency is FROM God."
 2. "We cannot expect too little from man, or too much from God."
 3. "We cannot expect too little from man, or too much from God."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the inherent insufficiency of humans a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

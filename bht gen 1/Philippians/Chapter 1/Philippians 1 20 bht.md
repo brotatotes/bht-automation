@@ -9,7 +9,7 @@ The passage being described is one where the author expresses unwavering commitm
 2. "Attend, look out, and exhaustively look out until it be fulfilled."
 3. "Boldness on my part, seeing that life or death are both alike glorious for me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Expectation with uplifted head and outstretched neck."
 2. "Implies not mere expectation, but the anxious desire of an anticipated prosperous issue in afflictive circumstances."
 3. "In nothing have reason to be ashamed of 'my work for God, or His work in me'."
@@ -57,4 +57,4 @@ The passage being described is one where the author expresses unwavering commitm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

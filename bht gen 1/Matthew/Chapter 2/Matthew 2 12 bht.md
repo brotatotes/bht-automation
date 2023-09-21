@@ -4,7 +4,7 @@
 In this Bible verse, wise men see a vision but are warned by God in a dream not to return to the deceitful king. They flee to Egypt to protect the newborn child from harm. The journey of the wise men, guided by a divine answer, serves as a symbol of the aspirations of humanity towards the incarnate God. The verse also highlights the importance of seeking God's guidance and heeding divine warnings for protection and deliverance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a surprise would this vision be to the sages, just as they were preparing to carry the glad news of what they had seen to the pious king!"
 2. "But the Lord knew the bloody old tyrant better than to let him see their face again."
 3. "The Flight into Egypt."
@@ -40,4 +40,4 @@ In this Bible verse, wise men see a vision but are warned by God in a dream not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

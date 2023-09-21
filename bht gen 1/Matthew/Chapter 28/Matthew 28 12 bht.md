@@ -9,7 +9,7 @@ The account describes a clandestine meeting of the Sanhedrim, with some members 
 2. "The circumstance that Joseph had taken no part in their counsel before, leads us to think that others may have withdrawn themselves from the meeting."
 3. "Gamaliel, who could hardly have consented to such a measure as this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jewish authorities were willing to go to great lengths, even giving large sums of money, to cover up the truth of Jesus' resurrection. This shows the extent of their fear and desperation to maintain their power and authority." 
 
 2. "The soldiers who were bribed with money to spread a false story about Jesus' body being stolen must have held the Jewish religious leaders in contempt. They were being used as pawns in a larger scheme to discredit Jesus and his followers." 
@@ -49,4 +49,4 @@ The account describes a clandestine meeting of the Sanhedrim, with some members 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

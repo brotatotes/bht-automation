@@ -4,7 +4,7 @@
 In this Bible verse, the disciples find themselves in a storm on a boat, struggling against the wind and waves. Rowing without success, they are filled with fear and confusion as they observe Jesus approaching on the water. Their initial fear stems from mistaking him for a spirit, but as they listen to his voice, their terror eases and they are filled with knowledge, joy, and peace. Through their rowing efforts and keen observation, the disciples witness a miraculous encounter with Jesus, who intentionally draws near to them in the midst of the storm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What Job (Job 9:8) celebrates as the distinguishing prerogative of GOD, 'WHO ALONE spreadeth out the heavens, and TREADETH UPON THE WAVES OF THE SEA'—What AGUR challenges as GOD'S unapproachable prerogative, to 'GATHER THE WIND IN HIS FISTS, and BIND THE WATERS IN A GARMENT'—lo! this is here done in flesh, by 'THE SON OF MAN.'" 
 2. "yet as though He 'would have passed by them,' Proverbs 30:4- : (compare Luke 24:28; Genesis 18:3; Genesis 18:5; Genesis 32:24-26)." 
 3. "He would appear to them at first like a dark moving speck upon the waters; then as a human figure, but—in the dark tempestuous sky, and not dreaming that it could be their Lord—they take it for a spirit."
@@ -42,4 +42,4 @@ These quotes provide insights into the disciples' actions, their perception of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

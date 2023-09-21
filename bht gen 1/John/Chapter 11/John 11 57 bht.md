@@ -11,7 +11,7 @@ In this verse, we see the intense opposition and determination of the religious 
 
 3. "The former is in my view most probable; for the command, having been given, would satisfactorily account for the questioning, and not be stated merely as co-ordinate with it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief priests and the Pharisees had given a commandment that if any knew where he were, he should show it, that they might take him." This highlights the intense opposition and determination of the religious leaders to capture Jesus, setting the stage for the events that follow.
 
 2. "This is mentioned to account for the conjectures whether He would come, in spite of this determination to seize Him." The mention of the commandment helps explain the speculation and uncertainty surrounding Jesus' movements, as people wondered if He would still dare to appear despite the threat against Him.
@@ -43,4 +43,4 @@ In this verse, we see the intense opposition and determination of the religious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

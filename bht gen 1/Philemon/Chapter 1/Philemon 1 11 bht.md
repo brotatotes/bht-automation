@@ -9,7 +9,7 @@ In this Bible verse, the individual being described was once considered unprofit
 2. "On account of the σοὶ καὶ ἐμοί, εὔχρηστον must not be limited to the sense of outward profit, but extended to a spiritual meaning as well."
 3. "Profitable to me, as the fruit of my ministry, to thee as a servant, and also as a Christian brother (Phm 1:16)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only was he 'unprofitable,' but positively injurious, having 'wronged' his master." 
 2. "Without godliness a man has no station." 
 3. "Profitable in spiritual, as well as in temporal things."
@@ -50,4 +50,4 @@ In this Bible verse, the individual being described was once considered unprofit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

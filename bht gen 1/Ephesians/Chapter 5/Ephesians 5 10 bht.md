@@ -4,7 +4,7 @@
 In this verse, believers are called to test and prove what is pleasing to the Lord through their actions and walk. The commentators emphasize the importance of aligning our behavior with our beliefs and seeking to please God above all else. They also highlight the need for discernment and a renewed mind in order to accurately determine what is acceptable to God. Ultimately, this verse urges believers to live in a way that demonstrates their commitment to God and brings joy to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As we prove a coin by the eye and the ear, and by using it, so by accurate and continued study, and above all by practice and experimental trial, we may prove or test 'what is acceptable unto the Lord.'" 
 2. "This is the office of 'light,' of which believers are 'children,' to manifest what each thing is, whether sightly or unsightly."
 3. "By accurate and continued study, and above all by practice and experimental trial, we may prove or test 'what is acceptable unto the Lord.'"
@@ -40,4 +40,4 @@ In this verse, believers are called to test and prove what is pleasing to the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

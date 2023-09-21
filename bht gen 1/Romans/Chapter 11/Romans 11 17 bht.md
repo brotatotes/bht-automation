@@ -9,7 +9,7 @@ The Bible verse being described is about the grafting of the Gentiles into the p
 2. "The Apostle reverses the natural process. It is the wilding, in practice, which is the stock, and the graft inserted is a sprout of the better tree."
 3. "A wilding graft on being inserted into a good tree, thereby becomes partaker of its qualities."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If notwithstanding this consecration of Abraham's race to God, some of the branches—the mass of the unbelieving and rejected Israelites are here called 'some,' not, as before, to meet Jewish prejudice, but with the opposite view of checking Gentile pride."
 2. "Though it is more usual to graft the superior cutting upon the inferior stem, the opposite method, which is intended here, is not without example."
 3. "You, being a wild olive, were made partaker, along with the branches left, the believing remnant, of the root and fatness of the olive tree—the rich grace secured by covenant to the true seed of Abraham."
@@ -54,4 +54,4 @@ The Bible verse being described is about the grafting of the Gentiles into the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

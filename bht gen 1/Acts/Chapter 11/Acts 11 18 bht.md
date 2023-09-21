@@ -9,7 +9,7 @@ In this verse, the people respond to Peter's message with genuine praise and tha
 2. "εἰς ζωήν to be taken with τὴν μετάνοιαν ἔδωκεν, not with τὴν μετάνοιαν alone, which would be more probably τὴν εἰς ζωήν."
 3. "The involved position of the words in the present text is quite in St. Luke’s manner."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well had it been if, when Paul afterwards adduced equally resistless evidence in justification of the same line of procedure, this Jewish party had shown the same reverential and glad submission!"
 2. "To 'grant repentance unto life'—that is, 'such as issues in life'—is more than to be willing to pardon upon repentance."
 3. "The case of Cornelius is so manifestly one of grace reigning in every stage of his religious history, that we can hardly doubt that this was just the feature of it which they meant here to express."
@@ -50,4 +50,4 @@ In this verse, the people respond to Peter's message with genuine praise and tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

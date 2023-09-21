@@ -4,7 +4,7 @@
 In this verse, believers are admonished against engaging in "eye-service" or "men-pleasing." Instead, they are encouraged to serve with integrity, dedication, and sincerity, regardless of whether they are being observed or not. The focus is on doing the will of God from the heart, prioritizing pleasing God rather than seeking the approval of others. This verse calls believers to be faithful and diligent in their service, motivated by a genuine desire to honor God and fulfill His purposes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeking to please their masters only so long as these have their eyes on them: as Gehazi was a very different man in his master's presence from what he was in his absence."
 2. "Men-pleasers—not Christ-pleasers."
 3. "Doing the will of God—the unseen but ever present Master: the best guarantee for your serving faithfully your earthly master alike when present and when absent."
@@ -45,4 +45,4 @@ In this verse, believers are admonished against engaging in "eye-service" or "me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

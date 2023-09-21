@@ -9,7 +9,7 @@ The commissioning of the seventy-two disciples is a reminder that the task of sp
 2. "This comparison is used of the people of Israel in the midst of the Gentiles, in a Rabbinical work cited by Stier." 
 3. "The articles are generic, as is also that before ἀνθρ. in the next verse, which has been mistaken, and supposed to have a distinct meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I" here is emphatic, holding up Himself as the Fountain of the Gospel ministry, as He is also the Great Burden of it.
 2. To be left exposed, as sheep to wolves, would have been startling enough; but that the sheep should be sent among the wolves would sound strange indeed.
 3. Alone, the wisdom of the serpent is mere cunning, and the harmlessness of the dove little better than weakness: but in combination, the wisdom of the serpent would save them from unnecessary exposure to danger; the harmlessness of the dove, from sinful expedients to escape it.
@@ -55,4 +55,4 @@ The commissioning of the seventy-two disciples is a reminder that the task of sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

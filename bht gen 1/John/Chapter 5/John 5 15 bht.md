@@ -9,7 +9,7 @@ In this Bible verse, a man obediently informs the authorities about the healing 
 2. "We can hardly imagine ingratitude in him to have been the cause."
 3. "ὁ ποιήσας αὐτὸν ὑγιῆ speaks so plainly of the benefit received."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The darkness received not the light which was pouring its rays upon it." (John 1:5) - This quote highlights the rejection of the light by those in darkness, emphasizing the resistance to the truth that Jesus brings.
 
 2. "Little thinking how unwelcome his grateful and eager testimony would be." - This quote emphasizes the unexpected and unwelcome reception the man received for sharing his testimony, highlighting the opposition faced by those who bear witness to the truth.
@@ -50,4 +50,4 @@ In this Bible verse, a man obediently informs the authorities about the healing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

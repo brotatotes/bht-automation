@@ -4,7 +4,7 @@
 This verse reveals the appalling behavior of certain religious leaders who exploit and deceive vulnerable individuals, specifically widows. These leaders abuse their authority, pretending to be pious while taking advantage of widows, leaving them destitute. Jesus brings attention to the importance of genuine compassion and empathy towards the marginalized, emphasizing that true religion lies in selfless service and love for others, rather than personal gain or power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They took advantage of their helpless condition and confiding character to obtain possession of their property, while by their 'long prayers' they made them believe they were raised far above 'filthy lucre.'" 
 2. "So much the 'greater damnation' awaited them." 
 3. "A lifelike description this of the Romish clergy, the true successors of 'the scribes.'"
@@ -40,4 +40,4 @@ This verse reveals the appalling behavior of certain religious leaders who explo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

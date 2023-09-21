@@ -9,7 +9,7 @@ Through His death and resurrection, Jesus demonstrated Himself as the righteous 
 2. "The rec. text here, ἀπέθ . κ . ἀνέστη κ . ἀνέζησεν , may have arisen by the insertion (1) of ἀνέζησεν as clearer than ἔζησεν , and (2) of ἀνέστη from the margin, where it was a gloss ( 1Th 4:14 ) explaining ἀνέζησεν or ἔζησεν ."
 3. "ἔζησεν , lived , viz. after His death ; = ἀνέζησεν . The historical aorist points to a stated event as the commencement of the reviviscence, viz. the Resurrection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To this end Christ died and lived (again)." 
 2. "The grand object of His death was to acquire this absolute Lordship over His redeemed, both in their living and in their dying, as His of right." 
 3. "He is the Lord of the dead, having conquered death through His resurrection, and He is also the Lord of the living, guiding and ruling over His redeemed in their daily lives."
@@ -52,4 +52,4 @@ Through His death and resurrection, Jesus demonstrated Himself as the righteous 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

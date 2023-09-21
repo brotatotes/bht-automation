@@ -9,7 +9,7 @@ In this verse, the speaker acknowledges that despite their bodily infirmity and 
 2. "ἐξεπτύσατε expresses figuratively and in a climax the sense of ἐξουθ."
 3. "Besides the freedom of angels from fleshly weakness, there is doubtless an allusion to their office as messengers and to His saying, who is above the angels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My infirmity, which was, or might have been, a 'temptation,' or trial, to you, ye despised not, that is, ye were not tempted by it to despise me and my message."
 2. "Temptation does not mean here, as we now use the word, tendency to an evil habit, but BODILY TRIAL."
 3. "An angel is free from the flesh, infirmity, and temptation."
@@ -58,4 +58,4 @@ These quotes highlight the themes of faith, respect, and the apostle's role as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

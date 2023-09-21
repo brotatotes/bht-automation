@@ -4,7 +4,7 @@
 After Paul's departure, the Jews engaged in intense reasoning and discussions among themselves regarding his message. The repetition of Paul's departure may have been seen as unnecessary, but it also marks a significant moment when he left the house. The verse, although disputed by some scholars, provides valuable insight into the reaction and impact of Paul's message on the Jews. The discussions touched both on the fulfillment of prophecy and the preaching of the Gospel to the Gentiles, causing discomfort and displeasure among the unbelieving part of the audience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews departed, and had great reasoning among themselves." - This verse, although omitted in some manuscripts, provides valuable insight into the reaction of the Jews after Paul's departure. It highlights the intensity of their discussion and the impact of Paul's message on them.
 
 2. "Probably the words were regarded as superfluous, as they seem to tell us what we were told before, that Paul 'departed'." - This commentary acknowledges the possible reason for the omission of the verse in some manuscripts. It suggests that the repetition of Paul's departure may have been seen as unnecessary, but it also emphasizes the significance of the final departure from the house.
@@ -37,4 +37,4 @@ After Paul's departure, the Jews engaged in intense reasoning and discussions am
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

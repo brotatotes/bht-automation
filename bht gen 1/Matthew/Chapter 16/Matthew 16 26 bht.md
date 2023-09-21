@@ -9,7 +9,7 @@ This verse emphasizes the immense value of the human soul and the eternal conseq
 2. "ἄνθρωπος and αὐτοῦ refer to the same person." 
 3. "ψυχή, not soul, but life, in the higher sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How awful is the stake as here set forth! If a man makes the present world... the object of supreme pursuit, be it that he gains the world; yet along with it he forfeits his own soul."
 2. "In language the weightiest, because the simplest, does our Lord shut up His hearers, and all who shall read these words to the end of the world, to the priceless value to every man of his own soul."
 3. "To be lost to shame is to be nearly past hope."
@@ -47,4 +47,4 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

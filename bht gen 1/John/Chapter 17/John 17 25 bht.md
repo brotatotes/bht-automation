@@ -4,7 +4,7 @@
 The verse under discussion reveals a unique relationship between Jesus and the Father. Jesus acknowledges that the world lacks understanding and knowledge of the Father, while affirming his own intimate knowledge of Him. The term "Righteous Father" signifies Jesus' appeal to the righteousness and justice of God, contrasting the world's ignorance with the disciples' recognition of the Father's truth and authority. This verse emphasizes the importance of knowing Jesus as the pathway to knowing God, while also highlighting the righteousness of God in allowing believers to approach Him through Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O righteous Father, the world hath not known thee—knew thee not. but I have known thee—knew thee." - Jesus acknowledges the lack of knowledge and understanding of the Father in the world, emphasizing His own unique relationship and knowledge of the Father.
 
 2. "And these have known—knew. that thou hast sent—sentest me." - Jesus affirms that His disciples have recognized and acknowledged the Father's sending of Him, highlighting their understanding of His divine mission.
@@ -49,4 +49,4 @@ The verse under discussion reveals a unique relationship between Jesus and the F
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

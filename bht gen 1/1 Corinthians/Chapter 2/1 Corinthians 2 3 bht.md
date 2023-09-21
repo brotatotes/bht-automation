@@ -9,7 +9,7 @@ In the described passage, the author reflects on their initial involvement and p
 2. "The ἀσθένεια may have reference to the παρουσία σώματος ἀσθενής of 2 Corinthians 10:10."
 3. "Chrys., al., understand it of persecutions: but in the places to which he refers, it has a far wider meaning, viz. infirmities, including those resulting from persecution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ crucified" is the subject of the preacher's message, emphasizing the importance of the sacrifice of Jesus (1 Corinthians 2:2).
 2. The preacher's mode of preaching is not with enticing words, but in demonstration of the Spirit (1 Corinthians 2:2).
 3. The preacher's weakness is not only personal and bodily, but also characterized by trembling anxiety to perform a duty, showing conscientiousness (2 Corinthians 10:10; Galatians 4:13).
@@ -57,4 +57,4 @@ These quotes highlight the humility and vulnerability of Paul as a minister, ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

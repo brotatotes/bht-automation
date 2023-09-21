@@ -11,7 +11,7 @@ From the testimonies of the commentary, we can gather that the verse being descr
 
 3. The inclusion of these references indicates that the commentary is well-researched and provides a scholarly perspective on the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'since the world began' emphasizes the timeless nature of God's plan and purpose. It highlights the fact that God's plan for salvation was not a last-minute solution, but rather a carefully orchestrated plan that was in place from the very beginning."
 
 2. "This phrase also reminds us that God's plan of redemption extends beyond our limited understanding of time. It reminds us that God's work is not confined to a specific moment in history, but rather spans across the ages, encompassing all of creation."
@@ -58,4 +58,4 @@ From the testimonies of the commentary, we can gather that the verse being descr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

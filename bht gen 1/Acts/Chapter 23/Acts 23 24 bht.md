@@ -9,7 +9,7 @@ In this Bible verse, we see the journey of the apostle Paul towards Felix, the g
 2. "Antonius Felix per omnem sævitiam et libidinem jus regium servili ingenio exercuit." (Translation: "Antonius Felix exercised royal authority with a slave's disposition through all manner of cruelty and lust.") 
 3. "He was eventually recalled, and accused by the Cæsarean Jews, but acquitted at the instance of his brother Pallas."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beasts...set Paul on" - This phrase suggests that Paul was treated like a wild animal, being transported on beasts of burden. It highlights the harsh and degrading treatment he endured during his journey.
 2. "Relays, and to carry baggage" - This phrase implies that Paul was not only subjected to physical discomfort but also had the additional burden of carrying his own baggage. It emphasizes the difficult and challenging nature of his travels.
 3. "Unto Felix, the governor" - This reference to Felix, the procurator, indicates that Paul's ultimate destination was the Roman governor. It underscores the gravity of the situation and the significance of Paul's case.
@@ -54,4 +54,4 @@ In this Bible verse, we see the journey of the apostle Paul towards Felix, the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

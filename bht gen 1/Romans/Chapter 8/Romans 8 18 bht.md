@@ -9,7 +9,7 @@ In this verse, the sufferings that we experience in the present time are portray
 2. "The sufferings of this present period are not worthy to be compared with the future glory." 
 3. "The sufferings of this present period are not sufficient to outweigh the future glory that is promised to us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us." This verse reminds us that no matter how difficult our current circumstances may be, the future glory that awaits us far surpasses any suffering we may endure.
 2. "True, we must suffer with Christ if we would partake of His glory." This quote emphasizes the importance of sharing in Christ's sufferings in order to fully experience the glory that is to come.
 3. "For if such sufferings are set over against the coming glory, they sink into insignificance." This statement highlights the perspective that when we compare our present sufferings to the future glory, the hardships we face lose their significance and become overshadowed by the promise of what is to come.
@@ -53,4 +53,4 @@ In this verse, the sufferings that we experience in the present time are portray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

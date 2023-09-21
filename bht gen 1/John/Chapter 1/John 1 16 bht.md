@@ -9,7 +9,7 @@ The verse being described is a continuation from John 1:14 and belongs to the Ev
 2. "All who believe on Him: see John 1:12."
 3. "We have received χάριν ἀντὶ χάριτος continual accessions of grace; new grace coining upon and superseding the former."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grace for grace—that is, grace upon grace (so all the best interpreters), in successive communications and larger measures, as each was able to take it in."
 2. "Observe, the word 'truth' is here dropped. 'Grace' being the chosen New Testament word for the whole fulness of the new covenant, all that dwells in Christ for men."
 3. "Grace for grace signifies that the grace of Christ is the cause of all the grace that is communicated to us. It is from his fulness that we receive grace upon grace."
@@ -48,4 +48,4 @@ The verse being described is a continuation from John 1:14 and belongs to the Ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

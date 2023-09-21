@@ -9,7 +9,7 @@ In this passage, Pilate's fear is heightened by the mention of the name "Son of 
 2. "The name υἱὸς θεοῦ served also to confirm the omen already furnished by the dream of his wife."
 3. "That this fear was not a fear of the Jews, nor of acting unjustly, but of the Person of Jesus, is evident from what follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The name 'SON OF GOD,' the lofty sense evidently attached to it by His Jewish accusers." 
 2. "The dialogue he had already held with Him." 
 3. "The dream of his wife."
@@ -48,4 +48,4 @@ In this passage, Pilate's fear is heightened by the mention of the name "Son of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, a parable is used to describe the final rejection of the Jews a
 2. "The Roman armies; a similar expression for the unconscious instruments of God’s anger." 
 3. "No longer His, but their city. This is a startling introduction of the interpretation into the parable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Romans are here styled God's armies, just as the Assyrian is styled 'the rod of His anger', as being the executors of His judicial vengeance."
 2. "Ah! Jerusalem, once 'the city of the Great King', but now it is 'their city'—just as our Lord, a day or two after this, said of the temple, where God had so long dwelt, 'Behold your house is left unto you desolate'!"
 3. "But now it is 'their city'—just as our Lord, a day or two after this, said of the temple, where God had so long dwelt, 'Behold your house is left unto you desolate'!"
@@ -57,4 +57,4 @@ In this passage, a parable is used to describe the final rejection of the Jews a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

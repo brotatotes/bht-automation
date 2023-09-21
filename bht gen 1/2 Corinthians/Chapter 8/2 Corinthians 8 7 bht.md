@@ -9,7 +9,7 @@ This verse encourages believers to excel in various aspects of their faith. It e
 2. "The sense is imperative, the only meaning agreeing with the context is, 'the love (to God and man) which, arising from our teaching, is planted in you.'"
 3. "This grace also; other graces having been enumerated."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In faith" refers to the importance of having trust and belief in God's teachings and promises.
 2. "Utterance" can be understood as the power of speaking and communicating effectively, especially when it comes to sharing the word of God.
 3. "Diligence in everything that is good" emphasizes the need to be persistent and dedicated in doing what is right and pleasing to God.
@@ -46,4 +46,4 @@ This verse encourages believers to excel in various aspects of their faith. It e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

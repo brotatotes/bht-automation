@@ -9,7 +9,7 @@ The verse being described is a powerful declaration made by an apostle, emphasiz
 2. "Paul's use of μαρτύρομαι sets him apart from other biblical writers." 
 3. "This unique word choice highlights Paul's distinctive style and theological emphasis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am pure from the blood of all men." This statement emphasizes the speaker's innocence and lack of responsibility for the harm or wrongdoing of others. It suggests a sense of moral cleanliness and a clear conscience.
 
 2. "Compare 1 Samuel 12:3; 1 Samuel 12:5." This reference to the book of Samuel invites the reader to consider similar statements made by other biblical figures, potentially providing a broader context for understanding the speaker's claim of purity.
@@ -52,4 +52,4 @@ The verse being described is a powerful declaration made by an apostle, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

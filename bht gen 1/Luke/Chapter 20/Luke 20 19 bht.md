@@ -9,7 +9,7 @@ The religious leaders, filled with fear of the people's support for Jesus, attem
 2. "They did so in fear of the people."
 3. "Their fear of the people was the driving force behind their actions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same hour—hardly able to restrain their rage." This quote highlights the immediate and intense reaction of the people, emphasizing their anger and frustration towards Jesus. 
 
 2. "Entangling questions about tribute and the resurrection." This quote suggests that the questions posed to Jesus were not genuine inquiries seeking knowledge but rather attempts to trap or confuse him. 
@@ -35,4 +35,4 @@ The religious leaders, filled with fear of the people's support for Jesus, attem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

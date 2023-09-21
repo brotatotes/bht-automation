@@ -9,7 +9,7 @@ This verse, which speaks of the union of a husband and wife becoming one flesh, 
 2. "The citation is spoken of marriage; but here as above (see on 1Co 6:13) he is treating merely of the physical act, which is the same in both cases."
 3. "To render φησιν impersonal, ‘it says,’ ‘heißt es,’ though justified by classical usage, would, as Meyer remarks, be altogether without precedent in the citations of Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Justification of his having called fornicators 'members of an harlot'." 
 2. "Joined by carnal intercourse; literally, 'cemented to': cleaving to." 
 3. "One body, with her." 
@@ -55,4 +55,4 @@ This verse, which speaks of the union of a husband and wife becoming one flesh, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

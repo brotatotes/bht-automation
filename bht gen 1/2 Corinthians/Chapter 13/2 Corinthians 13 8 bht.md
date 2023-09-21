@@ -9,7 +9,7 @@ Throughout these various commentaries, a clear theme emerges: the power and triu
 2. "If you walk in the truth, we shall be at one with you and so have no opportunity of showing our power."
 3. "We have power only on behalf of the truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our apostolic power is given us that we may use it not against, but for the furtherance of, the truth." 
 2. "Where you are free from fault, there is no scope for its exercise: and this I desire." 
 3. "Far be it from me to use it against the innocent, merely in order to increase my own power."
@@ -57,4 +57,4 @@ Throughout these various commentaries, a clear theme emerges: the power and triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

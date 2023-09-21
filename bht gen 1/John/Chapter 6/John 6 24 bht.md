@@ -4,7 +4,7 @@
 The passage in question describes the disciples' journey to Capernaum in search of Jesus. The disciples, showing their immediate obedience, boarded boats and set off, aware that Capernaum was Jesus' usual residence. Eagerly seeking Jesus due to their previous encounter, the disciples expected to find him in Capernaum, a place where he often taught. Their search reflects both their faith in Jesus and their anticipation of further provisions and guidance from him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "from the Evangelist's desire to mention every circumstance, however minute, that might call up the scene as vividly to the reader as it stood before his own view."
 2. "the people had observed that there had been only one boat on the east side where they were... and they had also observed that Jesus had not gone on board that boat, but His disciples had put off without Him"
 3. "the people which stood on the other side of the sea—not the whole multitude that had been fed, but only such of them as remained over night about the shore"
@@ -33,4 +33,4 @@ The passage in question describes the disciples' journey to Capernaum in search 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

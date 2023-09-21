@@ -4,7 +4,7 @@
 In this verse, believers are urged to put to death their sinful desires and corrupt tendencies. This involves denying and abstaining from these vices, recognizing that they are remnants of our old selves before we were spiritually united with Christ. The apostle Paul specifically mentions sins such as fornication, uncleanness, and covetousness, highlighting their destructive nature and their opposition to a life dedicated to God. By actively putting these sinful desires to death, believers can experience true spiritual transformation and live in obedience to God's will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Follow out to its necessary consequence the fact of your having once for all died with Christ spiritually at your regeneration, by daily 'deadening your members,' of which united 'the body of the sins of the flesh' consists."
 2. "Habitually repress and do violence to corrupt desires of which the members are the instruments."
 3. "Covetousness—marked off by the Greek article as forming a whole genus by itself, distinct from the genus containing the various species just enumerated. It implies a self-idolizing, grasping spirit; far worse than another Greek term translated 'the love of money'."
@@ -50,4 +50,4 @@ In this verse, believers are urged to put to death their sinful desires and corr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

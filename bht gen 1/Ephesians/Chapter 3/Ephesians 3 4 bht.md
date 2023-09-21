@@ -9,7 +9,7 @@ Through reading and perceiving, one can understand the knowledge of the mystery 
 2. "The act is regarded as one of a series, each of which, when it occurs, is sudden and transitory."
 3. "The mystery IS Christ in all His fulness; not of the object, 'relating to Christ'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye read," implies that, deep as are the mysteries of this Epistle, the way for all to understand them is to read it.
 2. By perceiving his understanding of the mysteries, they, too, will be enabled to understand.
 3. The "mystery" is Christ Himself, once hidden, but now revealed.
@@ -50,4 +50,4 @@ Through reading and perceiving, one can understand the knowledge of the mystery 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

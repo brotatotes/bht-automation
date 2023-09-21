@@ -4,7 +4,7 @@
 In this verse, commentators explain that the verse refers to God's messengers and prophets, who were sent to the Jewish people. The commentators also highlight the expectations to bear fruit and the rejection and mistreatment faced by these messengers. The verse emphasizes the responsibility placed on both the religious leaders and the Jewish people to produce righteous fruits. Ultimately, this verse serves as a reminder of the consequences of rejecting God's messengers and failing to fulfill one's God-given responsibilities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By these 'servants' are meant the prophets and other extraordinary messengers, raised up from time to time."
 2. "That they might receive the fruits of it."
 3. "Again see on Matthew 21:41."
@@ -35,4 +35,4 @@ In this verse, commentators explain that the verse refers to God's messengers an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

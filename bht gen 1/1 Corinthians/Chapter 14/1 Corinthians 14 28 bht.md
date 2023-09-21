@@ -9,7 +9,7 @@ In this verse, commentators emphasize the significance of speaking in tongues wi
 2. "Let him speak for himself and for God: i.e. in private, with only himself and God to witness it." 
 3. "The speaking being essential to the exercise of the gift."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speaking in unknown tongues is a personal and private act of communication between the speaker and God." 
 
 2. "This verse highlights the importance of speaking in tongues privately, as it allows for a deeper and more intimate connection with God." 
@@ -58,4 +58,4 @@ In this verse, commentators emphasize the significance of speaking in tongues wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The impending dissolution of all things should have a profound impact on our liv
 2. "The present implying destiny, as He that should come...they are not in course of dissolution by fire." 
 3. "What manner of men ought ye to be...in holy behaviours and pieties."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your duty, seeing that this is so, is to be ever eagerly expecting the day of God." 
 2. "A happy refutation of the 'thus' of the scoffers." 
 3. "How watchful, prayerful, zealous!"
@@ -55,4 +55,4 @@ The impending dissolution of all things should have a profound impact on our liv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described portrays a powerful and dramatic event, where the heavens are separated or parted in a remarkable display of God's omnipotence. This separation is likened to the rolling up of a scroll, symbolizing the end of idolatry and the eradication of Paganism. The disruption extends not only to the continents but also to the islands, leaving no place unaffected. Overall, this verse emphasizes the immense power and authority of God and marks the beginning of a new era.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "was separated from" its place; "was made to depart."
 2. "rolled together as a scroll which had been open is rolled up and laid aside."
 3. "This total disruption shall be the precursor of the new earth."
@@ -35,4 +35,4 @@ The verse being described portrays a powerful and dramatic event, where the heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

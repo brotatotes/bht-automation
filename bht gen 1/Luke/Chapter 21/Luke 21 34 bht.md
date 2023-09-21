@@ -11,7 +11,7 @@ Beware of the potential dangers that can weigh down your hearts, such as excessi
 
 3. "The emphasis on 'yourselves' serves as a reminder to the readers to reflect on their own experiences and internalize the message."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Surfeiting and drunkenness—All animal excesses, quenching spirituality."
 2. "Cares of this life—(See on Matthew 6:25; Luke 10:41)."
 3. "Surfeiting and drunkenness are mentioned as examples of excesses that can distract us from our spiritual life."
@@ -47,4 +47,4 @@ Beware of the potential dangers that can weigh down your hearts, such as excessi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

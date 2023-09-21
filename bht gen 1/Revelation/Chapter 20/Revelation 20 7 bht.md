@@ -4,7 +4,7 @@
 After the fulfillment of the former thousand years, Satan is loosed from his prison at the onset of the first resurrection. This verse echoes the similarities found in Revelation 12:12, indicating a connection between the casting out of the dragon and the releasing of Satan. As Satan is set free, the saints enter into their reign with Christ, while the nations on earth become ensnared in his deception.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'expired' implies that His life was not taken from Him by violence, but that He voluntarily dismissed His spirit, as if His life had been a burden which He had borne as long as He pleased, and then laid down at His own pleasure." 
 
 2. "The word 'finished' signifies that all the types and prophecies concerning His sufferings were accomplished, all His own predictions were fulfilled, and the work of man's redemption and salvation was now completed."
@@ -46,4 +46,4 @@ These quotes highlight the argument that the time of Satan's loosing mentioned i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

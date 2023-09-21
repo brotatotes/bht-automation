@@ -11,7 +11,7 @@ In this verse, the speaker, who is humble and focused on fulfilling their divine
 
 3. "Who judgeth between me and you, between truth and falsehood." - This quote suggests that God is the ultimate judge who will discern the truth from falsehood. It implies that Jesus' honor and validation come from God's judgment, reinforcing his authority and the truth of his teachings.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I seek not mine own glory: there is one that seeketh—that is, evidently, 'that seeketh My glory'." 
 2. "Requiring 'all men to honor the Son even as they honor the Father'; judicially treating him 'who honoreth not the Son as honoring not the Father that hath sent Him'." 
 3. "Giving to Him such as will yet cast their crowns before His throne, in whom He 'shall see of the travail of his soul, and be satisfied'."
@@ -54,4 +54,4 @@ In this verse, the speaker, who is humble and focused on fulfilling their divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

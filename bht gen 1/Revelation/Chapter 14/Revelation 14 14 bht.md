@@ -4,7 +4,7 @@
 This Bible verse portrays a vision of Jesus, the conqueror, sitting on a white cloud, adorned with a golden crown symbolizing His victory. The cloud represents His mercy and the purity of His judgment. He is not a temporary ruler but an eternal presence on the throne. Through His sacrifice and resurrection, Jesus achieved triumph over sin and death, offering hope and salvation to all who believe in Him. This vision serves as a reminder that despite trials, the Church will ultimately be triumphant and every enemy will be defeated.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The crown mentioned here is not a royal diadem, but rather a garland of victory. It symbolizes the triumph and honor that Jesus has achieved through His sacrifice and resurrection." 
 
 2. "The imagery of 'one sitting' emphasizes the stability and authority of Jesus. He is not a temporary ruler, but a permanent and unchanging presence on the throne." 
@@ -42,4 +42,4 @@ This Bible verse portrays a vision of Jesus, the conqueror, sitting on a white c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

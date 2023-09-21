@@ -4,7 +4,7 @@
 In this passage, believers are called to submit themselves to one another in their relationships within the church. This submission is not meant to be a blind obedience to leaders, but rather a recognition of the respect and honor due to them. It is to be done in the fear of God, with a reverence and obedience that aligns with His will. The motivation for this submission is the love of Christ, which should compel believers to humbly serve and submit to one another.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer passes from under the bondage of the law as a letter, to be 'the servant of Christ' (1 Peter 5:5), which, through the instinct of love to Him, is really to be 'the Lord's freeman'; for he is 'under the law to Christ' (1 Corinthians 9:21, compare John 8:36)."
 2. "Christ, not the Father (John 5:22), is to be our judge."
 3. "Thus reverential fear of displeasing Him is the motive for discharging our relative duties as Christians (1 Corinthians 10:22, 2 Corinthians 5:11, 1 Peter 2:13)."
@@ -40,4 +40,4 @@ In this passage, believers are called to submit themselves to one another in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

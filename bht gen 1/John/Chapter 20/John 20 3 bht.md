@@ -9,7 +9,7 @@ The disciples, driven by a mixture of curiosity and faith, set out on a mission 
 2. "Meyer directs attention to the interchange of aorists and graphic imperfects in this and the following verse."
 3. "The use of different verb tenses adds a sense of vividness and immediacy to the narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These particulars have a singular air of artless truth about them."
 2. "The younger disciple outruns the older; love haply supplying swifter wings."
 3. "The bolder Peter, coming up, goes in at once, and is rewarded with bright evidence of what had happened."
@@ -54,4 +54,4 @@ The disciples, driven by a mixture of curiosity and faith, set out on a mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

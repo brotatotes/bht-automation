@@ -4,7 +4,7 @@
 In this particular verse, the person being described possessed an intense zeal for the Law, to the point of persecuting those who did not follow it. They were believed to have achieved blamelessness in their external observance of the Law, which was highly regarded in their society. However, their righteousness was based on external actions rather than true inner righteousness before God. Despite their zeal and external perfection, they acknowledged their lack of true perfection in terms of holiness before God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As touching Zeal" - The commentary suggests that the phrase "As touching Zeal" should be translated as "before and after." This highlights the importance of understanding the context and the full extent of Paul's zeal for the law before and after his encounter with Christ.
 
 2. "having become blameless" - The commentary explains that Paul had achieved blamelessness in the eyes of man concerning ceremonial righteousness. This emphasizes the external perfection that Paul had attained in observing the law.
@@ -54,4 +54,4 @@ In this particular verse, the person being described possessed an intense zeal f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a servant falls down and worships his master, showing humility an
 2. "Imagines it can build up a righteousness before God without having yet any idea that God Himself will help the sinner."
 3. "Exclamations characteristic of the extreme fear and anguish of the moment, which made him ready to promise impossible things, even mountains of gold."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The servant therefore fell down, and worshipped him—or did humble obeisance to him." - This quote highlights the servant's act of humility and reverence towards his master, demonstrating his recognition of his own inferiority and the authority of his master.
 
 2. "Lord, have patience with me, and I will pay thee all." - This quote emphasizes the servant's plea for mercy and his willingness to make amends for his debt, showing his desire to rectify the situation and restore his relationship with his master.
@@ -35,4 +35,4 @@ In this verse, a servant falls down and worships his master, showing humility an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

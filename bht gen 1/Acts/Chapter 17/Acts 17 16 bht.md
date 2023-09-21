@@ -9,7 +9,7 @@ In the bustling city of Athens, the apostle Paul found himself amidst a multitud
 2. "A long list of passages is given in Wetstein."
 3. "The strongest perhaps is from Xen. de Repub. Ath [83], who calls Athens ὅλη βωμός, ὅλη θῦμα θεοῖς καὶ ἀνάθημα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first impression which the masterpieces of man's taste for art left on the mind of St. Paul was a revolting one, since all this majesty and beauty had placed itself between man and his Creator, and bound him the faster to his gods, who were not God."
 2. "Upon the first contact, therefore, which the Spirit of Christ came into with the sublimest creations of human art, the judgment of the Holy Ghost—through which they have all to pass—is set up as 'the strait gate,' and this must remain the correct standard for ever."
 3. "The city [Athens] was 'covered with idols,' making it easier to find a god than a man. This stirred the spirit of the apostle."
@@ -57,4 +57,4 @@ In the bustling city of Athens, the apostle Paul found himself amidst a multitud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

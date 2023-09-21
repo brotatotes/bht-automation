@@ -9,7 +9,7 @@ In this verse, the apostle is emphasizing the exclusivity of the true gospel, wa
 2. "If any one is evangelizing you other than that which ye received, let him be accursed."
 3. "Let him be accursed (see above)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man preacheth unto you any gospel BESIDE that which" - This emphasizes the exclusivity of the true gospel and warns against accepting any other teachings or doctrines.
 2. "The fact is assumed, not merely supposed as a contingency" - The commentary highlights that the preaching of false gospels was not a hypothetical situation, but a reality that Paul had observed during his previous visit to the Galatians.
 3. "His surprise now at the Galatians being misled by them implies that they had not apparently been so then" - This suggests that the Galatians were initially faithful to the true gospel, but had since been led astray by false teachers, causing Paul's astonishment.
@@ -53,4 +53,4 @@ In this verse, the apostle is emphasizing the exclusivity of the true gospel, wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

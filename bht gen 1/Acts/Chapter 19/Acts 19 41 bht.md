@@ -4,7 +4,7 @@
 In the midst of a tumultuous gathering, characterized by chaos and disorder, the town-clerk of Ephesus issued a command for the assembly to disperse and return to their respective homes, effectively restoring a semblance of law and order. This incident, vividly depicted with historical accuracy, rescued Paul and his companions from the imminent danger they faced. Through careful reasoning and persuasive explanations, the clerk appealed to the mob's self-interest, successfully bringing an end to the tumultuous situation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word means 'temple-sweeper'; then, 'temple-guardian.' Thirteen cities of Asia had an interest in the temple, but Ephesus was honored with the charge of it." 
 2. "Various cities have claimed this title with reference to the Virgin or certain saints." 
 3. "With this we may compare various legends concerning images and pictures in the Romish Church, such as the traditional likenesses of Christ, which were said to be 'not made with hands'."
@@ -30,4 +30,4 @@ In the midst of a tumultuous gathering, characterized by chaos and disorder, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

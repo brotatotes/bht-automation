@@ -11,7 +11,7 @@ In this verse, it is highlighted that the righteousness of God is obtained throu
 
 3. "is revealed unto all who believe" - This quote suggests that the revelation of God's righteousness is available to all who have faith, regardless of their background or ethnicity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By faith in Jesus Christ, the Gospel is brought near to all people, and is actually upon all who believe, as theirs in possession."
 2. "All believers, without distinction or exception, are put in possession of this gratuitous justification purely by faith in Christ Jesus."
 3. "There is no difference among believers in terms of receiving this justification."
@@ -61,4 +61,4 @@ In this verse, it is highlighted that the righteousness of God is obtained throu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

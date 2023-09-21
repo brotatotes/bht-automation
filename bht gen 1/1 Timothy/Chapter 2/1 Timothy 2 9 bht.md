@@ -9,7 +9,7 @@ In this verse, the emphasis is on the conduct and appearance of women in church 
 2. "The apparel, the whole investiture of the person."
 3. "The adorning which results from good works is brought about by their practice, not displayed by appearing to be invested with them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Women are apt to love fine dress; and at Ephesus the riches of some would lead them to dress luxuriously."
 2. "Shamefacedness...that which is made fast by an honorable shame."
 3. "Sobriety...the well-balanced state of mind arising from habitual self-restraint."
@@ -56,4 +56,4 @@ In this verse, the emphasis is on the conduct and appearance of women in church 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

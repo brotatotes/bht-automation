@@ -9,7 +9,7 @@ In this verse, Paul affirms that God has the ability to provide abundantly in ev
 2. "πᾶσαν χάριν, ‘etiam in bonis externis,’ Bengel, to which here the reference is: not excluding however the wider meaning of ‘all grace.’"
 3. "ἵνα...ye may abound towards...every good work."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's gifts are bestowed on us, not that we may have them to ourselves, but that we may the more 'abound in good works' to others."
 2. "Sufficiency—so as not to need the help of others, having yourselves from God 'bread for your food.'"
 3. "In all things, in everything, every good work—of charity to others, which will be 'your seed sown.'"
@@ -55,4 +55,4 @@ In this verse, Paul affirms that God has the ability to provide abundantly in ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

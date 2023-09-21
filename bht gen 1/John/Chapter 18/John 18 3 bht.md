@@ -9,7 +9,7 @@ In this Bible verse, we see the dramatic scene unfold as Judas arrives accompani
 2. "φανοί appear to be strictly torches, any blazing substance held in the hand; and λαμπάδες, lights, fed with oil." 
 3. "The fact of its being full moon did not make the lights unnecessary, as, in searching for a prisoner, they might have to enter dark places."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that was called Judas, one of the Twelve," says Luke, in language which brands him with peculiar infamy, as in the sacred circle while in no sense of it.
 2. The impudence of this atrocious deed shows how thoroughly he had by this time mastered all his scruples.
 3. "Betrayest thou the Son of man with a kiss"—imprinting upon the foulest act the mark of tenderest affection? What wounded feeling does this express!
@@ -53,4 +53,4 @@ In this Bible verse, we see the dramatic scene unfold as Judas arrives accompani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

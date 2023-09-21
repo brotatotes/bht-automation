@@ -9,7 +9,7 @@ In this Bible verse, Jesus speaks in a way that offends the Pharisees, who were 
 2. "The saying addressed to the multitude in Matthew 15:11." 
 3. "See Mark 7:17."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Pharisees were offended, not because they were genuinely seeking truth, but because their pride and self-righteousness were threatened by Jesus' words." 
 
 2. "The disciples' concern about the Pharisees' offense reveals their lack of understanding of Jesus' mission and the true nature of the kingdom of God." 
@@ -35,4 +35,4 @@ In this Bible verse, Jesus speaks in a way that offends the Pharisees, who were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

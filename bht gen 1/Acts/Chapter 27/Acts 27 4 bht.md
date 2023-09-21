@@ -10,7 +10,7 @@ In this verse, the ship sailed under the protection and shelter of Cyprus, navig
 3. "διαπλεύσαντες, having sailed the whole length of the sea off Cilicia and Pamphylia, they came to Myra."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When we had launched—"set sail.""
 2. "The wind blowing from the westward, probably with a touch of the north, which was adverse."
 3. "They sailed under the lee of Cyprus, keeping it on their left, and steering between it and the mainland of Phoelignicia."
@@ -55,4 +55,4 @@ In this verse, the ship sailed under the protection and shelter of Cyprus, navig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

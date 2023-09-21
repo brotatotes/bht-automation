@@ -9,7 +9,7 @@ The Bible verse being described is a powerful statement about the significance o
 2. "If their unbelief is the world's wealth, and their small number, the wealth of the Gentiles, how much more their full (restored) number!"
 3. "If so few Jews can do so much for the Gentile world, what will not the whole number do?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If their trespass... be the riches of the Gentile world—as being the occasion of their accession to Christ."
 2. "The diminishing of them—that is, the reduction of the true Israel to so small a remnant."
 3. "If an event so untoward as Israel's fall was the occasion of such unspeakable good to the Gentile world, of how much greater good may we expect an event so blessed as their full recovery to be productive?"
@@ -49,4 +49,4 @@ The Bible verse being described is a powerful statement about the significance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

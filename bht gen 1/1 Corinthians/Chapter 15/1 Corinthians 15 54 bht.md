@@ -9,7 +9,7 @@ In this powerful verse, the commentator highlights the fulfillment of a prophecy
 2. "εἰς ν. ‘so as to result in victory. Wetst. quotes from the Babbis, ‘In diebus ejus (Messiæ) Deus S. B. deglutiet mortem.’" 
 3. "ὅταν δέ, &c. is a repetition, in a triumphant spirit, of the description of the glorious change."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Death has as yet a sting even to the believer, in that his body is to be under its power till the resurrection."
 2. "Christ will swallow it up so altogether victoriously that it shall never more regain its power."
 3. "He (Jehovah) will swallow up death in victory"; that is, forever.
@@ -55,4 +55,4 @@ In this powerful verse, the commentator highlights the fulfillment of a prophecy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

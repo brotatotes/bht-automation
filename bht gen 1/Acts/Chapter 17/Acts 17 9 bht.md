@@ -9,7 +9,7 @@ The verse under consideration involves the authorities taking security from the 
 2. "They bound over Jason and the rest (τινας ἀδελφούς, Act 17:6) to take care that no more trouble was given by these men."
 3. "In accordance with which security they sent them away; and by night, to avoid the notice of the ὄχλος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Taking security from Jason and the others" implies that the preachers were seen as potential troublemakers, requiring a guarantee of their good behavior.
 2. The act of taking security suggests that the authorities were concerned about maintaining public peace and order, and wanted to ensure that the preachers would not cause any disturbances.
 3. The requirement for a money pledge indicates the seriousness of the situation and the need for tangible assurance that the preachers would not disrupt the peace again.
@@ -43,4 +43,4 @@ The verse under consideration involves the authorities taking security from the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

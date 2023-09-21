@@ -13,7 +13,7 @@ In a desert place where John baptized, Jesus went to a location that held signif
 
 4. "The phrase 'come and see' is a recurring theme in the Gospel of John. It is an invitation to experience and encounter Jesus for oneself, rather than relying solely on the testimony of others. It encourages a personal and transformative encounter with Jesus, inviting individuals to explore and discover the truth of who he is."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that Jesus went away again beyond the Jordan to the place where John first baptized is significant. It shows that Jesus was intentionally retracing his steps and returning to the place where his ministry began. This highlights the continuity between John's ministry and Jesus' ministry, and emphasizes the importance of John's role in preparing the way for Jesus."
 
 2. "By going back to the place where John first baptized, Jesus is reminding his disciples and the people of the significance of baptism. It is a symbol of repentance and a turning away from sin. Jesus is calling his followers to remember their own baptism and to live lives of repentance and obedience to God."
@@ -65,4 +65,4 @@ In a desert place where John baptized, Jesus went to a location that held signif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

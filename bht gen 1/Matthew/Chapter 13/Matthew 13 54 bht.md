@@ -4,7 +4,7 @@
 In this Bible verse, Jesus teaches in the synagogue on the Sabbath day. The people are astonished by His wisdom and mighty works, as they question the source of His abilities. The emphasis on the synagogue and the observance of the Sabbath sets the context of Jesus' teaching, while the people's amazement and questioning reflect their lack of understanding of His divine nature. The verse underscores the importance of properly understanding the emphasis and meaning of the texts to fully comprehend Jesus' teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This, according to the majority of Harmonists, was the second of two visits which our Lord paid to Nazareth during His public ministry; but in our view it was His first and only visit to it." 
 2. "Whence hath this man this wisdom, and these mighty works? 'These surely are not like the questions of people who had asked precisely the same questions before, who from astonishment had proceeded to rage, and in their rage had hurried Him out of the synagogue.'"
 3. "But see on  :-, &c."
@@ -46,4 +46,4 @@ In this Bible verse, Jesus teaches in the synagogue on the Sabbath day. The peop
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

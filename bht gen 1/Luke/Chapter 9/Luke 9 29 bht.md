@@ -9,7 +9,7 @@ In this Bible verse, Luke presents the transfiguration of Jesus as a unique and 
 2. "Luke's choice of words shows his intention to present the transfiguration as a unique and divine event, distinct from the mythical transformations of pagan gods."
 3. "By using a different term, Luke emphasizes the supernatural nature of Jesus' transfiguration and avoids any association with pagan mythology."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Before He cried He was answered, and while He was yet speaking He was heard." 
 2. "Oftentimes in the deepest depths, out of groanings which cannot be uttered, God's dear children are suddenly transported to a kind of heaven upon earth."
 3. "Their prayers fetch down such light, strength, holy gladness, as make their face to shine, putting a kind of celestial radiance upon it."
@@ -30,4 +30,4 @@ In this Bible verse, Luke presents the transfiguration of Jesus as a unique and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, Jesus makes a fervent request, emphasizing the intimate and perso
 
 3. "ὅτι σοί εἰσιν in a fuller sense than σοὶ ἦσαν, John 17:6. That was their preparation for Christ; this is their abiding in Him, which is abiding in the Father, see next verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I pray for them—not as individuals merely, but as representatives of all such in every succeeding age." This quote highlights the broader significance of Jesus' prayer, extending beyond his immediate disciples to all believers throughout history.
 
 2. "Not for the world—for they had been given Him 'out of the world' and had been already transformed into the very opposite of it." This quote emphasizes the distinction between believers and the world, highlighting the transformative power of Jesus' teachings and the separation from worldly values.
@@ -54,4 +54,4 @@ In this verse, Jesus makes a fervent request, emphasizing the intimate and perso
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author urges believers to approach their spiritual journey wi
 2. "In the conflicts of the arena there are certain laws, without the fulfilment of which no man can obtain the victory."
 3. "He is not crowned unless he have striven lawfully, according to the prescribed conditions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strive for masteries" - The author suggests that believers should approach their spiritual journey with the same level of dedication and discipline as athletes in the ancient Greek games. (Commentary on verse 5)
 2. "Yet is he not crowned, except" - The commentary emphasizes that victory alone is not enough to receive the ultimate reward. It is important to follow the rules and regulations set forth by God in order to be truly successful. (Commentary on verse 5)
 3. "Strive lawfully" - The author highlights the importance of following the proper guidelines and principles in the Christian life. This includes adhering to moral and ethical standards, as well as engaging in spiritual disciplines. (Commentary on verse 5)
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

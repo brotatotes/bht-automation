@@ -4,7 +4,7 @@
 In this verse, commentators highlight the promise to Philadelphia, emphasizing its superiority over the promise to Smyrna. They also note the power of Jesus to turn hearts and bring about obedience in his enemies, such as some of the adversaries from the synagogue. The verse speaks of the acknowledgment and homage of those who were once adversaries of the church, who now bow down and come to show respect. The verse reveals the love of Christ, the submission of his enemies, and the recognition of his authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promise to Philadelphia is larger than that to Smyrna."
 2. "Translate, '(some) of the synagogue.' For until Christ shall come, and all Israel then be saved, there is but 'a remnant' being gathered out of the Jews 'according to the election of grace.'"
 3. "This is an instance of how Christ set before her an 'open door,' some of her greatest adversaries, the Jews, being brought to the obedience of the faith."
@@ -43,4 +43,4 @@ In this verse, commentators highlight the promise to Philadelphia, emphasizing i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

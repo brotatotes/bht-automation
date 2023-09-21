@@ -4,7 +4,7 @@
 In a parable rich with mercy and forgiveness, a servant finds himself in hopeless debt which his master compassionately forgives in its entirety. This act represents the boundless mercy of God towards humanity, who owes a debt to Him that cannot be repaid. The forgiveness extends beyond any specific actions or merits, testifying to the gracious and free nature of God's forgiveness. The parable vividly portrays the magnitude of the debt owed and the immense weight lifted by divine grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Payment being hopeless, the master is first moved with compassion."
 2. "Next, liberates his debtor from prison."
 3. "And then cancels the debt freely."
@@ -33,4 +33,4 @@ In a parable rich with mercy and forgiveness, a servant finds himself in hopeles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

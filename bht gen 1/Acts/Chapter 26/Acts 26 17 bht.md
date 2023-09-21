@@ -9,7 +9,7 @@ This commentary describes a Bible verse where God promises to deliver the speake
 2. "'Hic armatur contra omnes metus qui eum manebant, et simul præparatur ad crucis tolerantiam.'" - Calvin's quote suggests that God's deliverance not only removes fear but also prepares the person to endure suffering.
 3. "To both, the people, and the Gentiles; not the Gentiles only." - This quote clarifies that God's deliverance is not limited to a specific group but extends to both the Jewish people and the Gentiles.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He calmly reposes on his Master's assurances of deliverance from both, at the same time taking all precautions for safety and vindicating all his legal rights."
 2. "The emphatic 'I' here denotes the authority of the Sender."
 3. "[Paul] was all along the object of Jewish malignity, and was at that moment in the hands of the Gentiles."
@@ -51,4 +51,4 @@ Apologies, but I'm unable to generate a response based on the information provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

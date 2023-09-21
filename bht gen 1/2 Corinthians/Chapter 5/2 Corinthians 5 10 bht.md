@@ -9,7 +9,7 @@ In this verse, we are reminded of our ultimate accountability as beings created 
 2. "each may receive the things (done) through the body"
 3. "no more definite inference must be drawn from this verse as to the place which the saints of God shall hold in the general judgment, than it warrants"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are at all times, even now, manifest to God; then we shall be so to the assembled intelligent universe and to ourselves." 
 2. "The judgment shall be not only in order to assign the everlasting portion to each, but to vindicate God's righteousness, so that it shall be manifest to all His creatures, and even to the conscience of the sinner himself." 
 3. "Though salvation be of grace purely, independent of works, the saved may have a greater or less reward, according as he lives to, and labors for, Christ more or less."
@@ -55,4 +55,4 @@ In this verse, we are reminded of our ultimate accountability as beings created 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

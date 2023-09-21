@@ -9,7 +9,7 @@ In this verse, we are reminded that God sees through the pride and self-reliance
 2. "The proud are those who rely on their own wisdom and understanding, rather than seeking guidance from God."
 3. "The worldly wise are those who trust in their own intellect and knowledge, rather than acknowledging their dependence on God's wisdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul by inspiration states the class of men whose 'thoughts' (or rather, 'reasonings,' as suits the Greek and the sense of the context) the Spirit designated in the Psalm, 'vanity.'" 
 
 2. "God in Proverbs calls them 'fools,' though they 'boast themselves' of their wisdom in pushing their interests." 
@@ -49,4 +49,4 @@ In this verse, we are reminded that God sees through the pride and self-reliance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

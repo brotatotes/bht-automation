@@ -9,7 +9,7 @@ The verse being described emphasizes the completion and action that should follo
 2. "That, as there was readiness of will, so there may also be completion according to your means."
 3. "After the measure of your property."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The godly should show the same zeal to finish, as well as to begin well, which the worldly exhibit in their undertakings."
 2. "The readiness of will."
 3. "The performance - completion."
@@ -50,4 +50,4 @@ The verse being described emphasizes the completion and action that should follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

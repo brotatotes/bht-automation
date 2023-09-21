@@ -4,7 +4,7 @@
 The request made by James and John, with the involvement of their mother, highlights their fervent desire and confidence in Jesus' ability to grant their petition. Although it is unclear who initiated the request, the sons' belief in Jesus' power and authority, along with their mother's advocacy, reveals their unwavering faith. This incident, recorded in Matthew 20:20, invites readers to explore the context and understand the dynamics between Jesus and His disciples in this particular encounter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We cannot be sure with which of the parties the movement originated; but as our Lord, even in Matthew's account, addresses Himself to James and John, taking no account of the mother, it is likely the mother was merely set on by them."
 2. "The thought was doubtless suggested to her sons by the recent promise to the Twelve of 'thrones to sit on, when the Son of man should sit on the throne of His glory.'"
 3. "Master, we would that thou shouldest do for us whatsoever we shall desire—thus cautiously approaching the subject."
@@ -35,4 +35,4 @@ The request made by James and John, with the involvement of their mother, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

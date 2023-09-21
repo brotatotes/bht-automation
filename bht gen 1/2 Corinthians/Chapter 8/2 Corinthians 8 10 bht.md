@@ -9,7 +9,7 @@ In this verse, the Apostle Paul is expressing his opinion rather than issuing a 
 2. "The Corinthians had begun not only the second, but even the first of these, before the Macedonians. Long employed as they had then been in the matter, it was more creditable to them to receive advice from the Apostle, than command."
 3. "In saying 'from last year,' it seems probable that Paul would speak as a Jew, regarding the year as beginning in Tisri."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herein he does not (as some misinterpret the passage) disclaim inspiration for the advice he gives; but under the Spirit, states that it is his 'opinion' [ALFORD] or 'judgment' [ELLICOTT, and others], not a command, that so their offering might be free and spontaneous."
 2. "There were three steps: (1) the forwardness, more literally, 'the will'; (2) the setting about it, literally, 'doing it'; (3) completion of it [ALFORD]. In the two former, not only the act, but the intention, the Corinthians preceded the Macedonians."
 3. "Ye began already a year ago, not only to do, but also to be forward."
@@ -47,4 +47,4 @@ In this verse, the Apostle Paul is expressing his opinion rather than issuing a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

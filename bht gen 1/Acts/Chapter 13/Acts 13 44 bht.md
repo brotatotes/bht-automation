@@ -8,7 +8,7 @@ On the following Sabbath day, the entire city gathered together, some out of cur
 1. "Whether ἐρχ. or ἐχ. be read, the sense will be on the following sabbath-day: not, as Heinrichs, ‘on the following week-day.’" 
 2. "συνήχθη 'In the synagogue;' it was the sight of the Gentile crowds in their house of prayer which stirred up the jealousy of the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The next Sabbath came almost the whole city together to hear the word of God." This shows the impact of Paul and Barnabas' preaching, as the entire city gathered to listen. It highlights the power of the Gospel to draw people together and create a sense of unity and curiosity.
 
 2. "The intervening days having been spent in further inquiry and instruction." This emphasizes the dedication of Paul and Barnabas in taking the time to answer questions and provide additional teaching to those who were interested. It shows their commitment to nurturing the faith of the new believers.
@@ -46,4 +46,4 @@ On the following Sabbath day, the entire city gathered together, some out of cur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

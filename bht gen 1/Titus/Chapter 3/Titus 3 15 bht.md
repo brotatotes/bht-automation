@@ -9,7 +9,7 @@ In this Bible verse, the author extends a heartfelt salutation to Titus, conveyi
 2. "An apocryphal imitator would not have missed the Apostle’s regular formulæ of salutation."
 3. "God’s grace be with all of you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Greet them that love us in the faith." - This verse reminds us of the importance of love rooted in faith as the true bond of fellowship among believers. It highlights the significance of genuine love within the Christian community.
 
 2. "A salutation peculiar to this Epistle, such as no forger would have used." - This commentary emphasizes the authenticity of the Epistle, as the unique salutation used in it sets it apart from any forgery. It adds credibility to the message being conveyed.
@@ -49,4 +49,4 @@ In this Bible verse, the author extends a heartfelt salutation to Titus, conveyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

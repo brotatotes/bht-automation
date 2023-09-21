@@ -11,7 +11,7 @@ The urgent call to address the topic of salvation with diligence is emphasized i
 
 3. "the faith once for all delivered to the saints" - The author emphasizes the unchanging and complete nature of the faith that has been entrusted to believers, highlighting the importance of preserving and upholding it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people should, in accordance with his admonition, give all diligence to have all Christian graces, and to make their calling sure." 
 2. "This community of faith, and of the object of faith, salvation, forms the ground of mutual exhortation by appeals to common hopes and fears." 
 3. "Believers, like Nehemiah’s workmen, with one hand 'build themselves up in their most holy faith'; with the other they 'contend earnestly for the faith' against its foes."
@@ -55,4 +55,4 @@ The urgent call to address the topic of salvation with diligence is emphasized i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

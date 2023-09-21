@@ -9,7 +9,7 @@ The Bible verse being described in this passage focuses on the urgency and signi
 2. "The aor. (as in Matt.) indicates the whole mission, considered as one great act."
 3. "When the sign (║) occurs in a reference, it is signified that the word occurs in the parallel place in the other Gospels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The harvest, &c." - This phrase refers to the spiritual harvest, where people are gathered into the kingdom of God. It emphasizes the urgency and importance of spreading the message of salvation to all people.
 
 2. "Pray ye therefore the Lord of the harvest" - This highlights the need for prayer in the work of evangelism. It acknowledges that it is God who sends out laborers into the harvest, and we are called to pray for more workers to be raised up.
@@ -60,4 +60,4 @@ The Bible verse being described in this passage focuses on the urgency and signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

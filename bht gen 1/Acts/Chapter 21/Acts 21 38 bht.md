@@ -9,7 +9,7 @@ A self-proclaimed prophet, referred to as "the Egyptian" by some commentators, a
 2. "It is obvious that the numerical accounts in Jos. are inconsistent with our text, and with one another."
 3. "The four thousand, the matter being one of notoriety."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The narrative is given in JOSEPHUS [Wars of the Jews, 2.8.6 13.5], though his two allusions and ours seem to refer to different periods of the rebellion."
 2. "The commentary provides historical context and references external sources to support the understanding of the verse."
 3. "This commentary helps to clarify the timeline and context of the events described in the verse."
@@ -43,4 +43,4 @@ A self-proclaimed prophet, referred to as "the Egyptian" by some commentators, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

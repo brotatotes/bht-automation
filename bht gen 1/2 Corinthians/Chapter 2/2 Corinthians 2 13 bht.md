@@ -9,7 +9,7 @@ This verse describes the Apostle Paul's restlessness and deep concern for the Co
 2. "Paul had sent Titus to Corinth... principally to bring intelligence respecting the effect of the first Epistle." 
 3. "ἀδελφὸς ἡμῶν ἐπερωτήθη... our brother was inquired of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No rest for my spirit" - The commentator highlights the restlessness of the speaker's spirit, emphasizing the internal turmoil and unease he is experiencing. This phrase suggests a deep longing or dissatisfaction that cannot be easily resolved.
 
 2. "His 'spirit' under the Holy Spirit" - The commentator draws attention to the influence of the Holy Spirit on the speaker's spirit. This implies that the restlessness and decision to leave were guided by divine inspiration and discernment.
@@ -52,4 +52,4 @@ These quotes highlight Paul's inner turmoil, his deep affection for Titus, and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

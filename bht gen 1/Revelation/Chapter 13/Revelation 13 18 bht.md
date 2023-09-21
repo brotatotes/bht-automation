@@ -4,7 +4,7 @@
 In this puzzling verse, spiritual wisdom is needed to unravel the mystery of iniquity and not be deceived by it. The number, symbolizing the antichristian beast, requires skill and discernment to determine its meaning. It is a numerical representation of a man, with significance tied to the names and nature of this figure, possibly pointing to the infamous Emperor Nero. The obscurity of the verse and the need to extract its root speak to the depth of wisdom required to uncover its true message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it."
 2. "The number is the number of a man, not of God; he shall extol himself above the power of the Godhead, as the MAN of sin."
 3. "The number six is the world number; in 666 it occurs in units, tens, and hundreds. It is the number of the world given over to judgment."
@@ -37,4 +37,4 @@ In this puzzling verse, spiritual wisdom is needed to unravel the mystery of ini
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

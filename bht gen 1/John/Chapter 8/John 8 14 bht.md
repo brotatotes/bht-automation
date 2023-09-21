@@ -9,7 +9,7 @@ In this passage, the speaker, with deep self-awareness and confidence, testifies
 2. "Then again, he only who knows can witness: and Jesus only knew this."
 3. "Notice ἦλθον and ἔρχομαι, I know whence I came: this goes back to the ἐν ἀρχῇ ἦν of ch. John 1:1; but ye know not whence I come, ‘do not recognize even My present mission.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I know whence I came, and whither I go." - This quote highlights the deep self-awareness and confidence of the speaker, indicating their understanding of their origin and destination.
 
 2. "The knowledge of our heavenly origin and destination gives us a sense of purpose and direction in life." - This quote emphasizes the significance of knowing where we come from and where we are going, as it provides a framework for living a meaningful and intentional life.
@@ -50,4 +50,4 @@ In this passage, the speaker, with deep self-awareness and confidence, testifies
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

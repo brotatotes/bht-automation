@@ -9,7 +9,7 @@ The passage emphasizes the principle of equality and mutual support among believ
 2. "Their abundance may subserve your want."
 3. "The passage has been curiously misunderstood to mean that their abundance in spiritual things may be imparted to you to supply your deficiency."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "by the rule of equality"
 2. "at the present juncture"
 3. "in order that, namely, at another season, when your relative circumstances may be reversed"
@@ -52,4 +52,4 @@ The passage emphasizes the principle of equality and mutual support among believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

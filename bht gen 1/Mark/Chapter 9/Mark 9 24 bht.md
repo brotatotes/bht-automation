@@ -9,7 +9,7 @@ In this Bible verse, a desperate father cries out with urgency and intensity, ac
 2. "Thus does the Redeemer show himself to the father as a μαιευτὴς πίστεως first, before He heals his son."
 3. "The child is by its infirmity incapacitated; it is therefore the father's faith which is tested, and when that is proved, the child is healed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is useless concealing from Thee, O Thou mysterious, mighty Healer, the unbelief that still struggles in this heart of mine; but that heart bears me witness that I do believe in Thee."
 2. "The felt and owned presence of unbelief, which only the strength of the man's faith could have so revealed to his own consciousness."
 3. "His appeal to Christ for help against his felt unbelief—a feature in the case quite unparalleled, and showing, more than all protestations could have done, the insight he had attained into the existence of a power in Christ more glorious than any he had besought for his poor child."
@@ -56,4 +56,4 @@ In this Bible verse, a desperate father cries out with urgency and intensity, ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

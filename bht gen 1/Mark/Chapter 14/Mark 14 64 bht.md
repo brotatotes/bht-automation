@@ -4,7 +4,7 @@
 In this Bible verse, Jesus is accused of blasphemy, a grave offense in Jewish law. The religious leaders unanimously condemn him to death, reflecting the severity of the situation. Jesus, the Blessed One, is shamefully mistreated, indicating the suffering and humiliation he will endure. The accusation not only reveals the hostility of the religious leaders but also foreshadows the purpose of Jesus' crucifixion - to bear the weight of humanity's sins and bring redemption to those who believe in him. The absence of certain figures, such as Joseph of Arimathea and Nicodemus, reflects their dissent or sympathetic support for Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have heard the blasphemy." - This quote highlights the accusation of blasphemy made against Jesus, which was a serious offense according to Jewish law.
 
 2. "They all condemned him to be guilty of death." - This quote emphasizes the unanimous decision of the Council to find Jesus guilty of a capital crime, further emphasizing the severity of the situation.
@@ -34,4 +34,4 @@ In this Bible verse, Jesus is accused of blasphemy, a grave offense in Jewish la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

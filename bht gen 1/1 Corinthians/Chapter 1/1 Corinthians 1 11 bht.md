@@ -9,7 +9,7 @@ This verse alludes to a close relationship between Paul and Chloe's family, who 
 2. "Nor can we say whether Chloe was an inhabitant of Corinth, or some Christian woman known to the Corinthians elsewhere."
 3. "Or an Ephesian, having friends who had been in Corinth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They seem to have been alike in the confidence of Paul and of the Corinthians."
 2. "An undesigned proof of genuineness."
 3. "He tacitly implies that the information ought rather to have come to him directly from their presbyters."
@@ -52,4 +52,4 @@ Note: The commentary is about 1 Corinthians 1:11.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

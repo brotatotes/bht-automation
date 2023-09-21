@@ -4,7 +4,7 @@
 In this Bible verse, Jesus urgently and diligently seeks laborers for His kingdom. He recognizes the reality of unemployment and addresses the need for people to be a part of something greater. The parable challenges our perception of fairness and rewards, teaching us that God's grace is not based on our merit but on His generosity. The verse also provides context about the time of day, highlighting the bustling market-place where people were waiting to be hired. It reminds us that even successful individuals in worldly terms can still be spiritually idle.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The third hour, about nine o'clock, signifies that Jesus did not delay in going out to seek laborers for His kingdom. It shows His urgency and diligence in gathering people to do His work." 
 
 2. "The fact that there were others standing idle in the market place highlights the reality of unemployment and the need for laborers. It reminds us that there are always people waiting for an opportunity to serve and be a part of something greater." 
@@ -35,4 +35,4 @@ In this Bible verse, Jesus urgently and diligently seeks laborers for His kingdo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

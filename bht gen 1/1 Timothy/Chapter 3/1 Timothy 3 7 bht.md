@@ -9,7 +9,7 @@ In this Bible verse, the commentator highlights the importance of a minister hav
 2. "The reproach and the snare of the devil." 
 3. "Such an one’s steps would be shackled, his freedom hampered, his temper irritated, his character lost, and the natural result would be a fall from his place, to the detriment not of himself only, but of the Church of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was influenced by the good report given of Timothy to choose him as his companion."
 2. "That they may be the more readily won to the Gospel and that the name of Christ may be glorified."
 3. "The reproach continually surrounding him for former sins might lead him into the snare of becoming as bad as his reputation."
@@ -55,4 +55,4 @@ Note: The commentary provides additional insight into the importance of a minist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

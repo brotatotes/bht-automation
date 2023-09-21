@@ -4,7 +4,7 @@
 In this verse, the Corinthians are commended for having the same spirit of faith as the Psalmist, David. Like David, their belief in God gives them the boldness to speak and preach the gospel, even in the face of afflictions and death. Their shared faith unites them with believers of all time, as faith is the same across generations. Ultimately, they have the hope of being presented blameless before God with great joy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though 'death worketh in us, and life in you' (2 Corinthians 4:12), yet as we have the same spirit of faith as you, we therefore [believingly] look for the same immortal life as you."
 2. "The balance of the sentence requires the parallelism to be this, 'According to that which is written, I believed, and therefore have I spoken we also believe, and therefore speak,' namely, without fear, amidst 'afflictions' and 'deaths' (2 Corinthians 4:17)."
 3. "ALFORD not so well translates, 'The same . . . faith with that described in the Scriptures' (2 Corinthians 4:12- :)."
@@ -52,4 +52,4 @@ In this verse, the Corinthians are commended for having the same spirit of faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

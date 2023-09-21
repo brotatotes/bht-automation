@@ -9,7 +9,7 @@ On the following day, which happened to be a Sunday, a great multitude had gathe
 2. "ἀκούσ ., from the multitude who had returned from Bethany, John 12:9." - This quote provides context by mentioning where the multitude mentioned in the verse had come from, connecting it to a previous event in the Gospel of John.
 3. "The order of the narrative seems to require that these people should have visited Bethany late on the Sabbath, after sunset, and the anointing." - This quote offers an explanation of the sequence of events, suggesting that the people mentioned in the verse had visited Bethany after sunset on the Sabbath, following the anointing.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ our Passover" was virtually set apart to be "sacrificed for us."
 2. The entry into Jerusalem marked the beginning of Jesus' journey towards his ultimate sacrifice.
 3. This event on the tenth day of the Jewish month Nisan foreshadowed the sacrifice of the paschal lamb on the fourteenth day.
@@ -50,4 +50,4 @@ On the following day, which happened to be a Sunday, a great multitude had gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

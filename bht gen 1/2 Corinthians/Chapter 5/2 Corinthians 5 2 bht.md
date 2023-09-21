@@ -9,7 +9,7 @@ In this verse, Paul expresses his earnest desire to be "clothed upon" with a hea
 2. "We groan, longing to put on over this our dwelling-place from heaven."
 3. "The similitude is slightly changed: the house is now to be put on, as an outer garment, over the fleshly body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we cannot obtain our 'house in the heavens' except our 'earthly tabernacle' be first dissolved by death."
 2. "The groans of the saints prove the existence of the longing desire for the heavenly glory, a desire which cannot be planted by God within us in vain, as doomed to disappointment."
 3. "This domicile is 'from heaven' in its origin, and is to be brought to us by the Lord at His coming again 'from heaven'."
@@ -52,4 +52,4 @@ In this verse, Paul expresses his earnest desire to be "clothed upon" with a hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

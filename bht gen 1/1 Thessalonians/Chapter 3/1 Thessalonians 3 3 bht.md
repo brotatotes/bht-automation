@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the purpose and inevitability of facin
 2) "to confirm you and exhort you on behalf of your faith, that is, that no one may be shaken in these troubles" - The commentary suggests that the phrase "to confirm you and exhort you" is meant to prevent believers from being shaken in the midst of their troubles. (Quote 4)
 3) "Reason why no one should be shaken" - The commentary introduces the reason for not being shaken, which is further explained in the following verse. (Quote 5)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That no man should, amidst his calamities, be allured by the flattering hope of a more pleasant life to abandon his duty."
 2. "In afflictions, relatives and opponents combine with the ease-loving heart itself in flatteries, which it needs strong faith to overcome."
 3. "None but a religion from God would have held out such a trying prospect to those who should embrace it, and yet succeed in winning converts."
@@ -52,4 +52,4 @@ In this verse, the commentators emphasize the purpose and inevitability of facin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

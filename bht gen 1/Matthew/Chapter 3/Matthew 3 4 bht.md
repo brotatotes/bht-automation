@@ -10,7 +10,7 @@ In the wilderness, there appeared a man named John, dressed simply in a rough ga
 3. "The ἀκρίς, permitted to be eaten, was used as food by the lower orders in Judæa."
 4. "Here, again, there is no need to suppose anything else meant but honey made by wild bees."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same John had his raiment of camel's hair—woven of it." 
 2. "And a leathern girdle about his loins—the prophetic dress of Elijah." 
 3. "His meat was locusts—the great, well-known Eastern locust, a food of the poor." 
@@ -51,4 +51,4 @@ In the wilderness, there appeared a man named John, dressed simply in a rough ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

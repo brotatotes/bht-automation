@@ -9,7 +9,7 @@ In this Bible verse, a group of women from Galilee, including Mary Magdalene and
 2. "They prepared spices and ointments." 
 3. "They rested the Sabbath-day according to the commandment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary Magdalene and the other Mary, the mother of James and Joses, were sitting over against the sepulchre." This shows the devotion and loyalty of these women, as they remained near the tomb even after Jesus had been crucified. (Matthew 27:56)
 2. "The sepulchre was guarded." This highlights the significance of Jesus' burial and the measures taken to ensure the tomb was secure. (Matthew 27:61)
 3. "The sepulchre guarded." This emphasizes the importance of the resurrection, as it required divine intervention to overcome the guards and reveal the empty tomb. (Matthew 27:61)
@@ -35,4 +35,4 @@ In this Bible verse, a group of women from Galilee, including Mary Magdalene and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

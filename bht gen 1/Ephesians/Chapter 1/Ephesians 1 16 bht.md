@@ -4,7 +4,7 @@
 The Bible verse at hand, described by multiple commentators, showcases the Apostle Paul's continuous and heartfelt prayers for the faith and love of the recipients. With a dedication that knows no bounds, Paul ceaselessly expresses gratitude and mentions them in his prayers, always remembering and appreciating their spiritual growth. This act of thanksgiving is not limited to one group of believers but extends to all the churches, serving as an example for others to follow and reminding us of the power of communal and continuous prayer.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Making mention of them" refers to acknowledging and recognizing the faith and love of others. It emphasizes the importance of not only having faith and love ourselves but also acknowledging and appreciating them in others.
 2. The omission of "of you" in the oldest manuscripts suggests that the focus should be on the act of mentioning rather than the specific individuals being mentioned. This highlights the broader significance of recognizing and acknowledging faith and love in the community.
 3. The commentary suggests that the translation can still be understood in the same way as the English Version, emphasizing the ongoing importance of mentioning and acknowledging faith and love in the lives of believers.
@@ -52,4 +52,4 @@ The Bible verse at hand, described by multiple commentators, showcases the Apost
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of a multitude gathered together, Jesus turns to his disciples and 
 2. "I have therefore coupled it with τοὺς μ. αὐτ., as distinguishing this section from what follows spoken to the crowd, Luke 12:13 ff."
 3. "On the rest, see on Matthew 16:6."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord had been speaking out more plainly than ever before, as matters were coming to a head between Him and His enemies, and this seems to have suggested to His own mind the warning here." 
 2. "He had just Himself illustriously exemplified His own precepts." 
 3. "covered—from the view."
@@ -43,4 +43,4 @@ In the midst of a multitude gathered together, Jesus turns to his disciples and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

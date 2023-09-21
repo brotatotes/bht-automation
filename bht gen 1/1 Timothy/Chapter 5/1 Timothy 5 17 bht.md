@@ -9,7 +9,7 @@ In the verses being described, there is an exhortation to show respect and care 
 2. "be held worthy of double (not, as compared with the widows, as Chr., the deacons, as Chr., the poor, as Flatt, &c. but as compared with those who have not distinguished themselves by καλῶς προεστάναι; and evidently, as Chrys. 3, it is not to be taken in the mere literal sense of double, but implies increase generally."
 3. "especially those that labour in (the) word and teaching (therefore the preaching of the word, and teaching, was not the office of all the πρεσβύτεροι)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Preside well," with wisdom, ability, and loving faithfulness, over the flock assigned to them.
 2. "Double" is used for large in general.
 3. Specially they who labor in the word and doctrine, implying two kinds of ruling presbyters: those who labor in teaching and those who do not.
@@ -57,4 +57,4 @@ These quotes highlight the concept of "double honor" in the verse, explaining th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

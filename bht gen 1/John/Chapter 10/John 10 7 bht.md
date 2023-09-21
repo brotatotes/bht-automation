@@ -9,7 +9,7 @@ In this verse, the commentators provide insight into the metaphor of Jesus as th
 2. "Christ is that door; THE DOOR OF THE SHEEP: the one door both for sheep and shepherds, into the fold."
 3. "Into God's Church, to the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the door of the sheep—that is, the way in to the fold, with all blessed privileges, both for shepherds and sheep." 
 
 2. "The door is the only entrance into the fold, and Jesus is the only way to access the blessings and protection of God's kingdom." 
@@ -57,4 +57,4 @@ In this verse, the commentators provide insight into the metaphor of Jesus as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

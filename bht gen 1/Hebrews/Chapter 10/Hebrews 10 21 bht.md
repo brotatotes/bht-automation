@@ -9,7 +9,7 @@ The verse being described talks about a great priest who is also a king, a pries
 2. "The οἶκος θεοῦ here need not be more limited in meaning than in the similar passage ch. Hebrews 3:2; οἶκον δὲ θεοῦ τοὺς πιστοὺς προσηγόρευσεν."
 3. "Clearly, the heavenly sanctuary is regarded by him as also including the earthly, the Church above as the home of the Church below."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A Great Priest"; one who is at once King and "Priest on His throne" ( :-); a royal Priest, and a priestly King.
 2. "the house of God," over which Jesus is, heaven is included in meaning, as well as the Church, whose home it is.
 3. the spiritual house, the Church, made up of believers, whose home is heaven.
@@ -48,4 +48,4 @@ The verse being described talks about a great priest who is also a king, a pries
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

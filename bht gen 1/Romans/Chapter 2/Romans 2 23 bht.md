@@ -9,7 +9,7 @@ This verse challenges the idea of boasting in one's religious identity while dis
 2. "And τῆς παρ . τ . νόμ ., is thy breaking of the law."
 3. "This question comprehends the previous ones."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—"But if" is, beyond doubt, the true reading here." 
 2. "It differs but in a single letter from the received reading, and the sense is the same."
 3. "This verse emphasizes the conditional nature of the statement, highlighting the importance of the 'if' clause in understanding the following instructions."
@@ -54,4 +54,4 @@ This verse challenges the idea of boasting in one's religious identity while dis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

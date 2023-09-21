@@ -9,7 +9,7 @@ In this verse, the true source of power and strength is revealed, reminding us t
 2. "be ascribed" - This phrase highlights the importance of giving credit and honor to God for His might and power. It reminds us to acknowledge and praise Him for His greatness.
 3. "to the ages of the ages" - This expression signifies the eternal nature of God's might and power. It reminds us that His strength is everlasting and will endure throughout all generations.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To Him and Him alone: not to ourselves."
 2. "The might shown in so 'perfecting' you."
 3. "Glory and dominion."
@@ -49,4 +49,4 @@ In this verse, the true source of power and strength is revealed, reminding us t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

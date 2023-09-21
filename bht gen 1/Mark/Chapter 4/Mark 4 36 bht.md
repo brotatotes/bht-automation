@@ -9,7 +9,7 @@ As Jesus was taken from the boat, where he had been teaching without any previou
 2. "ἄλ  .   δὲ πλ  . " - This suggests that there were other people present, possibly a crowd or a group of followers, who got separated from the main group due to the storm.
 3. "καὶ  …   δέ  , moreover" - This phrase indicates that there is additional information or a further development to be mentioned, implying that there is more to the story than what has been previously stated.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They took him even as he was in the ship—that is, without any preparation, and without so much as leaving the vessel, out of which He had been all day teaching." This quote highlights the spontaneous nature of Jesus' departure, emphasizing his dedication to his mission and his willingness to go wherever he is needed.
 
 2. "And there were also with him other little ships—with passengers, probably, wishing to accompany Him." This quote suggests that there were others who desired to be close to Jesus and learn from him, demonstrating the impact he had on people and their desire to be in his presence.
@@ -51,4 +51,4 @@ As Jesus was taken from the boat, where he had been teaching without any previou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

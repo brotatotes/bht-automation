@@ -9,7 +9,7 @@ The Bible verse being described highlights the intimate relationship between Jes
 2. "His great and last judgment, and all His other ones, will be just and holy."
 3. "His witness given of Himself, called by them blasphemy, is true and holy also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apart from the Father, or in any interest than My own."
 2. "My judgments are all anticipated in the bosom of My Father."
 3. "They cannot therefore err, as I live for one end only, to carry into effect the will of Him that sent Me."
@@ -57,4 +57,4 @@ The Bible verse being described highlights the intimate relationship between Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

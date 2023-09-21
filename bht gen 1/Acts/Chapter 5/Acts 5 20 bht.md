@@ -9,7 +9,7 @@ The verses in question include a bold and pictorial command, urging the disciple
 2. "Or perhaps τ. ζ. τ. may import the religion of Jesus having its issue in life."
 3. "The deliverance, here granted to all the Apostles, was again vouchsafed to Peter in ch. 12, and is there related more in detail."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "all the words of this life" - This phrase beautifully captures the essence of the message that the disciples were preaching - the life found in the Risen One. 
 
 2. "beautiful expression for that Life in the Risen One" - The commentary highlights the significance of this phrase as a beautiful expression of the life that comes from the resurrection of Jesus. 
@@ -55,4 +55,4 @@ The verses in question include a bold and pictorial command, urging the disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

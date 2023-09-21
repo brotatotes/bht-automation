@@ -4,7 +4,7 @@
 In this passage, there is a woman accused of a wrongdoing, yet no condemnation or legal judgment has been passed upon her. Jesus, in his questioning, exposes the hypocrisy and lack of moral superiority in her accusers. His action of writing on the ground signifies his authority and power, while his question challenges the absence of any legitimate condemnation against her. The absence of legal judgment in this situation highlights the transformative power of grace and forgiveness, exemplifying the compassionate nature of God's love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He pronounces no pardon upon the woman... He simply leaves the matter where it was." 
 2. "He meddles not with the magistrate's office, nor acts the Judge in any sense." 
 3. "If brought suddenly to conviction of sin, admiration of her Deliverer, and a willingness to be admonished and guided by Him, this call to begin a new life may have carried with it what would ensure and naturally bring about a permanent change."
@@ -42,4 +42,4 @@ In this passage, there is a woman accused of a wrongdoing, yet no condemnation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

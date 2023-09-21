@@ -4,7 +4,7 @@
 This verse underscores the all-knowing and discerning nature of Christ, who intimately understands the actions and motives of His people. It commends the Ephesian Church for their diligent labor and endurance in the face of opposition, as well as their refusal to tolerate immorality and false teaching within their midst. The passage highlights the importance of having a pure and faithful ministry that is grounded in the truth of Christ's appointment. It reminds us that Christ's knowledge of our works and character should be both a source of fear for the unrighteous and a comfort for the righteous.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know thy works—expressing His omniscience. Not merely 'thy professions, desires, good resolutions' (Revelation 14:13, end)."
 2. "thy labour—Two oldest manuscripts omit 'thy'; one supports it. The Greek means 'labor unto weariness.'"
 3. "bear—evil men are a burden which the Ephesian Church regarded as intolerable. We are to 'bear (the same Greek, Revelation 14:13- :) one another's burdens' in the case of weak brethren; but not to bear false brethren."
@@ -45,4 +45,4 @@ This verse underscores the all-knowing and discerning nature of Christ, who inti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage describes a revered figure, referred to as "the patriarch," who hol
 2. "The title 'Patriarch' is only here applied to David, as the progenitor of the kingly race."
 3. "We learn from 1 Kings 2:10 and Nehemiah 3:16, that David was buried at Jerusalem, in the city of David, i.e. the stronghold of Zion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, full of the Holy Ghost, sees in this sixteenth Psalm, one Holy Man, whose life of high devotedness and lofty spirituality is crowned with the assurance, that though He taste of death, He shall rise again without seeing corruption, and be admitted to the bliss of God's immediate presence."
 2. "The Psalm is then affirmed to have had its only proper fulfilment in JESUS, of whose resurrection and ascension they were witnesses, while the glorious effusion of the Spirit by the hand of the ascended One, setting an infallible seal upon all, was even then witnessed by the thousands who stood listening to Him."
 3. "A further illustration of Messiah's ascension and session at God's right hand is drawn from Psalm 110, in which David cannot be thought to speak of himself, seeing he is still in his grave."
@@ -56,4 +56,4 @@ Note: The provided commentary is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

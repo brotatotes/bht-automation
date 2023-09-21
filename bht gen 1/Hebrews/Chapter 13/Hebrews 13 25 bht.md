@@ -9,7 +9,7 @@ The verse being described is a benediction from the apostle Paul, expressing his
 2. "Where ἡ χάρις is not put thus barely, as in the similar places of St. Paul, it is always filled up by τοῦ κυρίου (ἡμῶν) Ἰησοῦ (χριστοῦ)."
 3. "ὑμῶν πάντων would express more the totality of the church: πάντων ὑμῶν, every individual."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's characteristic salutation in every one of his other thirteen Epistles."
 2. "Being known to be his badge, it is not used by others in his lifetime."
 3. "The Greek here is, 'The grace (namely, of our Lord Jesus Christ) be with you all.'"
@@ -37,4 +37,4 @@ The verse being described is a benediction from the apostle Paul, expressing his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

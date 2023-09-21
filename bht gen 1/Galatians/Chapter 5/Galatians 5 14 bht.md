@@ -9,7 +9,7 @@ The verse being described emphasizes the fulfillment of the law through love for
 2. "ὁ πᾶς νόμος cannot from the circumstances of the whole Epistle, mean anything but ‘the whole law of Moses.’"
 3. "Whoever had fulfilled this command, must be treated as having fulfilled the whole."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love to God is presupposed as the root from which love to our neighbor springs."
 2. "Love is 'the law of Christ.'"
 3. "The law only united Israelites together: the Gospel unites all men, and that in relation to God."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite brief, so I have included three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

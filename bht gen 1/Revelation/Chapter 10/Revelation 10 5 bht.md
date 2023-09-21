@@ -4,7 +4,7 @@
 In this powerful and solemn scene, an angel stands with one foot on the sea and one on the earth, symbolizing his authority over all creation. With a resolute gesture, he lifts his hand to heaven, calling upon the power and presence of God. This oath invokes the faithfulness of God's promises, while also demonstrating the angel's commitment to his mission with utmost integrity and truthfulness. Through this unique posture and solemn oath, the angel proclaims his authority against all adversaries, appealing to the prophets of old and invoking the strength of the Almighty Creator.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was customary to lift up the hand towards heaven, appealing to the God of truth, in taking a solemn oath."
 2. "There is in this part of the vision an allusion to Daniel 12:1-13."
 3. "Here, on the contrary, the angel standing with his left foot on the earth, and his right upon the sea, swears there shall be time no longer."
@@ -38,4 +38,4 @@ In this powerful and solemn scene, an angel stands with one foot on the sea and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a great storm of wind arises, described as a hurricane, cau
 2. "The use of the verb 'ἐπέβαλλεν' intransitively emphasizes the force and power of the waves crashing against the boat." 
 3. "The phrase 'τὰ κύματα' indicates that it was not just one wave, but multiple waves that were crashing against the boat."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To such sudden squalls the Sea of Galilee is very liable from its position, in a deep basin, skirted on the east by lofty mountain ranges, while on the west the hills are intersected by narrow gorges through which the wind sweeps across the lake, and raises its waters with great rapidity into a storm."
 2. "And the waves beat into the ship—kept beating or pitching on the ship."
 3. "So that it was now full—rather, 'so that it was already filling.' In Matthew, 'insomuch that the ship was covered with the waves'; but this is too strong. It should be, 'so that the ship was getting covered by the waves.'"
@@ -40,4 +40,4 @@ In this Bible verse, a great storm of wind arises, described as a hurricane, cau
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

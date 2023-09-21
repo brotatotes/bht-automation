@@ -4,7 +4,7 @@
 The heavenly city described in the verse is a place of absolute purity and righteousness, reserved only for those who are pure and righteous themselves. The gates of the city are open only to those who are washed in the blood of Christ, without spot or wrinkle. Those who have their names written in the Lamb’s book of life, predestined to eternal life and justified by Christ's righteousness, are the ones who can enter and experience the pure and perfect state of this heavenly place. It is a blessedness enjoyed exclusively by true, holy, and persevering believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As all the filth of the old Jerusalem was carried outside the walls and burnt there, so nothing defiled shall enter the heavenly city, but be burnt outside."
 2. "It is striking that the apostle of love, who shows us the glories of the heavenly city, is he also who speaks most plainly of the terrors of hell."
 3. "ALFORD writes a Note, rash in speculation, about the heathen nations, above what is written, and not at all required by the sacred text."
@@ -47,4 +47,4 @@ The heavenly city described in the verse is a place of absolute purity and right
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

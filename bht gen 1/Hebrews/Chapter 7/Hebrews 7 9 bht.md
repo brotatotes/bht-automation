@@ -9,7 +9,7 @@ In this Bible verse, we see the connection between Abraham, Levi, and Melchizede
 2. "The phrase is used when anything is about to be said that is unexpected, or somewhat strained, not likely to be universally recognized, at least in the general way in which it is asserted."
 3. "Levi also, who receiveth tithes, hath been taken tithes of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I may say that, virtually, Levi, in the person of his father Abraham, acknowledged Melchisedec's superiority, and paid tithes to him."
 2. "Who receiveth tithes."
 3. "Through Abraham, 'Paid tithes,' literally, 'hath been tithed,' that is, been taken tithes of."
@@ -57,4 +57,4 @@ Note: The third quote is a repetition of the first quote, but it is included to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

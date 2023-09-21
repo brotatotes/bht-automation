@@ -4,7 +4,7 @@
 In this Bible verse, the righteous are depicted as cherished and noticed by God. They are surprised and humbled to discover the good they have done, unaware of the significant impact of their actions. Christ welcomes them into the kingdom prepared for them since the beginning of time, ensuring their immediate possession of their inheritance. The righteousness of these individuals, not their own works, is what qualifies them for a place at Christ's right hand. The righteous and the wicked alike struggle to comprehend the true worth of their actions, while only the Judge holds the ultimate understanding.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The righteous are not only accepted of God, but they are dear to him; he has a peculiar regard for them, and takes a particular notice of them." 
 
 2. "The righteous shall be surprised to hear that they have done so much good, and shall be ready to say, 'When saw we thee an hungered?' They did not think they had done so much good, nor did they do it with an eye to the recompense; but Christ will take notice of it, and will own it to their unspeakable comfort."
@@ -30,4 +30,4 @@ In this Bible verse, the righteous are depicted as cherished and noticed by God.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

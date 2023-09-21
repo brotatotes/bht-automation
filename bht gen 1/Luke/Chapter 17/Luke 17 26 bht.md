@@ -4,7 +4,7 @@
 In this passage, the commentators emphasize the importance of being prepared and vigilant for the future. They highlight the significance of historical events, such as Noah's flood and the destruction of Jerusalem, as reminders of the consequences of worldliness and unbelief. The verse alludes to an era marked by the presence of the Son of man, indicating a distinct time in history with spiritual implications. It serves as a warning to prioritize spiritual well-being and be aware of the signs of the times.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the antediluvian world and the cities of the plain were awfully wicked, it is not their wickedness, but their worldliness, their unbelief and indifference to the future, their unpreparedness, that is here held up as a warning." 
 2. "These recorded events of Old Testament history—denied or explained away nowadays by not a few—are referred to here as facts." 
 3. "The verse reminds us that while it is important to engage in the ordinary occupations and enjoyments of life, we must not forget to be prepared for the future and to prioritize our spiritual well-being."
@@ -25,4 +25,4 @@ In this passage, the commentators emphasize the importance of being prepared and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described in this paragraph is 1 John 1:4. The commentator quotes emphasize the unity and shared purpose of the writers, the desired state of completion and fulfillment that comes through the Gospel, the tension between addressing the readers collectively and as individuals, the declaration and experience of the deity and humanity of Christ, and the joy that comes from establishing a deep relationship with God. This verse encourages believers to find complete and abundant joy in their faith, experiencing it in different dimensions of hope, faith, and love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus the antithesis is between 'we' (apostles and eye-witnesses) and 'your.'"
 2. "We write thus that your joy may be full."
 3. "Christ Himself is the source, object, and center of His people's joy; it is in fellowship with Him that we have joy, the fruit of faith."
@@ -47,4 +47,4 @@ The verse being described in this paragraph is 1 John 1:4. The commentator quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The speaker, a resilient and determined individual, endured physical beatings, stonings, and multiple shipwrecks as a result of their commitment to spreading the message of the Gospel. Despite the hardships faced, they exhibited unwavering faith and dedication to their mission. The shipwrecks occurred prior to the speaker's voyage to Rome and were treacherous experiences in which they may have clung to debris or found themselves swimming for survival. These encounters highlight the sacrifices and dangers associated with their devotion to their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The beating by Roman magistrates at Philippi is the only one recorded in Acts, which does not profess to give a complete journal of his life, but only a sketch of it in connection with the design of the book, namely, to give an outline of the history of the Gospel Church from its foundation at Jerusalem, to the period of its reaching Rome, the capital of the Gentile world." 
 2. "Once was I stoned— (Acts 16:23- :)." 
 3. "Thrice . . . shipwreck—before the shipwreck at Melita (Acts 16:23- :). Probably in some of his voyages from Tarsus, where he stayed for some time after his conversion, and from which, as being a seafaring place, he was likely to make missionary voyages to adjoining places (Acts 9:30; Acts 11:25; Galatians 1:21)." 
@@ -57,4 +57,4 @@ These quotes highlight the physical sufferings and hardships that the apostle Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described highlights the role of the disciples as ambassadors of
 2. "The consideration of this dignity in all its privileges, as contrasted with the sad announcement just to be made, leads on to the ἐταράχθη τῷ πν . of the next verse."
 3. "The words were to comfort the Apostles for the disgrace of their order by Judas, or in prospect of their future labours."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that receiveth whomsoever I send, receiveth me." - This quote highlights the significance of accepting and welcoming those who are sent by Jesus. It emphasizes the unity between Jesus and his messengers, indicating that receiving them is equivalent to receiving Jesus himself.
 
 2. "Despite the dishonor done to Him by Judas, and similar treatment awaiting themselves, they were to be cheered by the assurance that their office, even as His own, was divine." - This quote acknowledges the betrayal of Judas and the potential mistreatment that the disciples may face. However, it also provides comfort by reminding them that their role as messengers of Jesus is divine, just like Jesus himself.
@@ -54,4 +54,4 @@ The verse being described highlights the role of the disciples as ambassadors of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

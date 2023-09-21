@@ -11,7 +11,7 @@ In this Bible verse, the disciples find themselves in a predicament as they have
 
 3. "see on Matthew 16:5" - This quote refers to another verse in the Bible, indicating that there is further information or context to be found in Matthew 16:5.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples had forgotten to take bread, neither had they in the ship with them more than one loaf." - This detail highlights the disciples' forgetfulness and scarcity of provisions, setting the stage for a miraculous event to come.
 
 2. "The circumstance of the 'one loaf' only remaining... was more suggestive of their Master's recent miracles than the entire absence of provisions." - The presence of only one loaf emphasizes the disciples' reliance on Jesus' previous miracles, foreshadowing another miraculous provision.
@@ -48,4 +48,4 @@ In this Bible verse, the disciples find themselves in a predicament as they have
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

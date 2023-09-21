@@ -9,7 +9,7 @@ The Bible verse discusses the honors and privileges bestowed upon the apostle Pa
 2. "Render it therefore honoured us with many honours (or 'distinctions,' or 'attentions')."
 3. "τὴν χρείαν has perhaps been an alteration after St. Paul’s ἅπαξ κ. δὶς εἰς τὴν χρείαν μοι ἐπέμψατε, Philippians 4:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such grateful expressions of feeling, particularly in providing what would minister to their comfort during the voyage, as showed the value they set upon the presence and labors of the apostle among them."
 2. "It would have hurt their feelings to refuse."
 3. "The beginnings of the Christian Church at Malta sprang out of this memorable visit."
@@ -40,4 +40,4 @@ The Bible verse discusses the honors and privileges bestowed upon the apostle Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

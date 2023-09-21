@@ -9,7 +9,7 @@ In this Bible verse, the author expresses their confidence in the reader's willi
 2. "Hints delicately at the manumission of Onesimus, which he has not yet requested."
 3. "Also, besides doing what I say."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having confidence in thy obedience" - The commentary emphasizes the trust and confidence the author has in the reader's willingness to obey their request. This highlights the importance of obedience in the context of the verse.
 
 2. "Preferring to beseech thee for it as a favor" - The commentary highlights the author's choice to appeal to the reader's sense of kindness and favor rather than imposing their authority. This suggests a gentle and respectful approach in addressing the request.
@@ -47,4 +47,4 @@ In this Bible verse, the author expresses their confidence in the reader's willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

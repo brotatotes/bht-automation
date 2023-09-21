@@ -9,7 +9,7 @@ In this verse, the individual, who is commonly believed to be Moses, demonstrate
 2. "There is no record in the O. T. of this refusal of Moses: but the fact of the adoption was matter of Jewish traditionary belief."
 3. "The refusal is fairly gathered from his whole conduct."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So far from faith being opposed to Moses, he was an eminent example of it." 
 2. "Faith made him to prefer the adoption of the King of kings, unseen, and so to choose things, the very last which flesh and blood relish." 
 3. "He threw on the ground the diadem put on him in jest, a presage of his subsequent formal rejection of Thermutis' adoption of him."
@@ -52,4 +52,4 @@ In this verse, the individual, who is commonly believed to be Moses, demonstrate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, a person's curiosity ignites a determined pursuit to see and identify Jesus. Their eagerness to encounter Jesus is not driven by the same noble motives as others. Despite facing obstacles, such as being short and navigating through a crowded space, their desire to witness Jesus firsthand overcomes them. This quest for knowledge ultimately leads to a deeper understanding and revelation beyond their initial intentions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Curiosity then was his only motive" - This quote highlights the initial motivation of the person mentioned in the verse. It emphasizes that their desire to know who someone was stemmed from a sense of curiosity.
 
 2. "Determination not to be baulked" - This quote suggests that the person in the verse was determined not to be hindered or prevented from finding out the identity of the individual in question. It implies a strong resolve and persistence in their pursuit.
@@ -42,4 +42,4 @@ In this Bible verse, a person's curiosity ignites a determined pursuit to see an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we find a continuation of thought rather than a contrast, emphasizing the connection between God's anger towards past sins and the potential for His anger towards our own. The term "carcases" evokes a gruesome and violent scene, highlighting the consequences of sin, both physically and spiritually. The phrase "with them that sinned" emphasizes the communal aspect of sin, demonstrating that sin is not an isolated act but has a collective impact. This warning serves as an example of the dangers of unbelief and the need to guard against departing from God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moreover" introduces a continuation of the thought, rather than a contrast.
 2. The term "corpses" refers to bodies that fell apart limb from limb.
 3. The use of "limbs" implies a gruesome and violent scene.
@@ -42,4 +42,4 @@ Note: The commentary is referring to Hebrews 3:17, which states, "But with whom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

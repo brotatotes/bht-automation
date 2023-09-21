@@ -9,7 +9,7 @@ The verse being described revolves around Peter, who is filled with the Holy Spi
 2. "The phrase 'be filled with the Holy Spirit' implies a continuous and ongoing process of being filled with the presence and power of the Holy Spirit." 
 3. "Being filled with the Holy Spirit is not a one-time event, but a continual experience that believers should seek and cultivate in their lives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Filled with the Holy Ghost" - This phrase indicates that the speaker is being guided and empowered by the divine presence of the Holy Spirit. It suggests that the words spoken are not merely human wisdom, but carry a deeper spiritual authority.
 
 2. "Said" - This simple verb highlights the act of speaking, emphasizing the importance of the message being conveyed. It implies that the speaker is about to share something significant and meaningful.
@@ -53,4 +53,4 @@ Note: The commentary does not have clear breaks between quotes, so I have provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

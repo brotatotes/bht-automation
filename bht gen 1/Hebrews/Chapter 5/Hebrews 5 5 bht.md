@@ -9,7 +9,7 @@ This Bible verse describes the appointment of Jesus Christ as the High Priest, a
 2. "It must be carefully observed, that the Writer does not adduce this text as containing a direct proof of Christ’s divine appointment to the High Priesthood: that follows in the next verse: nor again, does it merely assert, without any close connexion, that the same Divine Person appointed Him High Priest, who said to Him 'Thou art my Son': but it asserts, that such divine appointment was wrapped up and already involved in that eternal generation to the Sonship which was declared in these words."
 3. "The true account seems to be this: the word ἐδόξασεν contains in it the whole process of exaltation (through suffering) by which the Lord Jesus has attained the heavenly High Priesthood. This whole process was not his own work, but the Father’s...He did not constitute himself the Son of God, in virtue ultimately of which sonship He ἐγενήθη ἀρχιερεύς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ did not constitute Himself the Son of God, but was from everlasting the only-begotten of the Father."
 2. "On His Sonship depended His glorification, and His being called of God, as Priest."
 3. "The connection of Sonship and priesthood is typified in the Hebrew title for priests being given to David's sons."
@@ -57,4 +57,4 @@ This Bible verse describes the appointment of Jesus Christ as the High Priest, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

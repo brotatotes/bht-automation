@@ -11,7 +11,7 @@ In this Bible verse, envy is at play as the emotions of envy and wickedness show
 
 3. "here envious": The commentary explicitly states that the word used in the verse signifies envy. This clarification helps to clarify the specific emotion or attitude being described in the passage.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "You appeal to justice, and by that your mouth is shut; for the sum you agreed for is paid you."
 2. "Your case being disposed of, with the terms I make with other laborers you have nothing to do."
 3. "To grudge the benevolence shown to others, when by your own admission you have been honorably dealt with, is both unworthy envy of your neighbor, and discontent with the goodness that engaged and rewarded you in his service at all."
@@ -45,4 +45,4 @@ In this Bible verse, envy is at play as the emotions of envy and wickedness show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

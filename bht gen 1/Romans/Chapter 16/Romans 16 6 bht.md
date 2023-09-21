@@ -9,7 +9,7 @@ In this verse, a woman named Mary is praised for her labor, kindness, and dedica
 2. "κοπιᾷν without being expressly followed by λόγῳ said of women, most likely implies acts of kindness peculiar to the sex."
 3. "Acts of kindness peculiar to the sex."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Greet—or 'salute'" - This emphasizes the importance of acknowledging and showing respect to others, highlighting the significance of personal connections and relationships.
 2. "Mary, who bestowed much labor on us" - This recognizes the valuable contributions and efforts made by Mary, emphasizing the importance of recognizing and appreciating the hard work and dedication of others.
 3. "Labor, no doubt, of a womanly kind" - This phrase acknowledges and celebrates the unique contributions and strengths of women, highlighting the significance of their specific skills and abilities in the work they do.
@@ -52,4 +52,4 @@ In this verse, a woman named Mary is praised for her labor, kindness, and dedica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

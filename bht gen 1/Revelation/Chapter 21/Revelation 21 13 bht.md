@@ -4,7 +4,7 @@
 In this verse, the positioning and arrangement of the twelve gates around the city denote the unity and completeness of God's people, with each tribe having its specific place and purpose. The gates represent access and entrance into the city, symbolizing the invitation and welcome extended to all who desire to enter into the presence of God. The distribution of the gates throughout the city signifies the inclusivity and universality of God's kingdom, where people from every nation and tribe are invited to enter and experience the fullness of His glory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Ezekiel, Joseph, Benjamin, Dan (for which Manasseh is substituted in Revelation 7:6), are on the east; Reuben, Judah, Levi, are on the north; Simeon, Issachar, Zebulun, on the south; Gad, Asher, Naphtali, on the west."
 2. "This arrangement of the tribes around the tabernacle symbolizes the unity and completeness of God's people, with each tribe having its specific place and purpose."
 3. "The positioning of the tribes also signifies the divine order and organization, as God is a God of order and not of confusion."
@@ -48,4 +48,4 @@ In this verse, the positioning and arrangement of the twelve gates around the ci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

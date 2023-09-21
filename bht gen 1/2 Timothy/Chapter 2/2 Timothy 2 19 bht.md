@@ -9,7 +9,7 @@ The foundation of God, described as firm and unchanging, is rooted in His unwave
 2. "The Lord knoweth them that are His...Let every one that nameth the name of the Lord stand aloof from iniquity." 
 3. "It is clearly no reason against this passage being here alluded to, that it is expressly cited 2 Corinthians 6:17."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the steadfast standing of the Church there is involved the steadfast certainty of the doctrine in question."
 2. "Though they deny the faith, God abates not His faithfulness."
 3. "God's part and man's part are marked out. God chooseth and knoweth His elect; our part is to believe, and by the Spirit depart from all iniquity, an unequivocal proof of our being the Lord's."
@@ -57,4 +57,4 @@ The foundation of God, described as firm and unchanging, is rooted in His unwave
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

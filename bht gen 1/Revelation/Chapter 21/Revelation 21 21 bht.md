@@ -4,7 +4,7 @@
 In a future abode of the saints, each person is valued as an individual with unique gifts and responsibilities. The gates adorned with pearls and streets paved with pure gold symbolize the magnificence and preciousness of the heavenly city. The figure is not meant to be literal but emphasizes the surpassing splendor and extraordinary beauty of the new Jerusalem. The purity, preciousness, and delightfulness of Christ and the saints are represented, highlighting their unity and sincere conversation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'every several' emphasizes the individuality and uniqueness of each person. It reminds us that God sees and values each person as an individual, with their own gifts, talents, and purpose." 
 
 2. "This verse reminds us that God has given each person a specific role and responsibility within the body of Christ. We are not meant to be carbon copies of each other, but rather to use our unique gifts and abilities to serve and build up the church."
@@ -40,4 +40,4 @@ In a future abode of the saints, each person is valued as an individual with uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

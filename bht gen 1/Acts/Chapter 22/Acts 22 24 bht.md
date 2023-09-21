@@ -11,7 +11,7 @@ When the tribune saw that the Jews were outraged by Paul's speech, he decided to
 
 3. "They were thus crying out against him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Examined by scourging—according to the Roman practice." 
 2. "That he might know wherefore they cried so—Paul's speech being to him in an unknown tongue."
 3. "He concluded from the horror which it kindled in the vast audience that he must have been guilty of some crime."
@@ -50,4 +50,4 @@ When the tribune saw that the Jews were outraged by Paul's speech, he decided to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

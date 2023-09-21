@@ -10,7 +10,7 @@ In this biblical verse, the author, with great humility and love, describes his 
 2. "To all men I am become all things (i.e. to each according to his situation and prejudices) that by all means I may save some."
 3. "It is said, as is the following verse, in extreme humility, and distrust of even an Apostle’s confidence, to show them the immense importance of the μισθός for which he thus denied and submitted himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Establish, instead of being a stumbling-block to inexperienced Christians."
 2. "When 'weak' Christians are by the condescending love of stronger brethren kept from falling from faith, they are well said to be 'gained' or won."
 3. "The gain of even 'some' is worth the expenditure of 'all means.'"
@@ -56,4 +56,4 @@ In this biblical verse, the author, with great humility and love, describes his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

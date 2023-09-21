@@ -4,7 +4,7 @@
 In this verse, we are reminded of the paramount importance of love. The commentators emphasize that love should be fervent and intense, not passive or lukewarm. Love has the power to cover and forgive the faults and sins of others, promoting unity and reconciliation. It urges us to have a charitable and empathetic perspective, focusing on the positive qualities of others and interceding for their forgiveness. When we demonstrate unconditional love, we open ourselves up to receiving God's abundant love and blessings in return.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Above all things—not that 'charity' or love is placed above 'prayer,' but because love is the animating spirit, without which all other duties are dead."
 2. "Charity shall cover the multitude, c.—The oldest manuscripts have 'covereth.' Quoted from Proverbs 10:12 compare Proverbs 17:9."
 3. "By prayer for them, love tries to have them covered by God; and so being the instrument of converting the sinner from his error, 'covereth a (not 'the,' as English Version) multitude of sins'."
@@ -56,4 +56,4 @@ In this verse, we are reminded of the paramount importance of love. The commenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we witness a significant event where two prominent apostles
 2. "One of the most curious instances of ecclesiastical ingenuity on record has been afforded in the interpretation of this passage by the fathers."
 3. "The instance commonly cited from Lucian de saltat., p. 952, ἀληθῶς, ἐπὶ μανίᾳ κατεγνωσμένος, is none whatever; nor is Iliad, α. 388, ὃ δὴ τετελεσμένος ἐστί: the perfect participle having in both its proper sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles were not always inspired; but were so always in writing the Scriptures."
 2. "The Christian fathers may be trusted generally as witnesses to facts, but not implicitly followed in matters of opinion."
 3. "The question at Antioch was not whether the Gentiles were admissible to the Christian covenant without becoming circumcised... but whether the Gentile Christians were to be admitted to social intercourse with the Jewish Christians without conforming to the Jewish institution."
@@ -55,4 +55,4 @@ In this Bible verse, we witness a significant event where two prominent apostles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

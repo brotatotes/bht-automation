@@ -11,7 +11,7 @@ In this Bible verse, the commentator quotes highlight the use of softened langua
 
 3. "ἀπέχῃς" - This quote suggests that the word "ἀπέχῃς" implies possessing someone fully and entirely, emphasizing the desired outcome for Philemon.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God’s Providence probably overruled the past evil to ultimately greater good to him."
 2. "This thought would soften Philemon’s indignation at Onesimus’ past offense."
 3. "Onesimus’ time of absence, however long, was but a short 'hour' compared with the everlasting devotion henceforth binding him to his master."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes highlight the use of softened langua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

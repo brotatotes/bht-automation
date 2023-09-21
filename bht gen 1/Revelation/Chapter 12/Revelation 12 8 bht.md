@@ -4,7 +4,7 @@
 In this powerful verse, the commentators emphasize the ultimate defeat of Satan and his angels. They highlight the significance of Satan's inability to prevail, the complete expulsion of him and his demons from heaven, and the progressive downfall of Satan. The word "prevailed" is described as conveying the idea of strength and dominance, associated with important events. The verse signifies the intense struggle, the magnitude of the outcome, and the judgment of the world. The commentators also point out the mystery and deep significance behind this victory over Satan and compare it to other biblical passages.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He prevailed not." - The commentary highlights the significance of Satan's inability to prevail, emphasizing his ultimate defeat and powerlessness.
 2. "Not only did they not prevail, but not even their place was found any more in heaven." - This quote emphasizes the complete expulsion of Satan and his demons from heaven, illustrating the depth of their downfall.
 3. "There are four gradations in the ever deeper downfall of Satan." - This quote introduces the concept of the progressive downfall of Satan, indicating that his defeat occurs in stages, each representing a significant loss of power and authority.
@@ -40,4 +40,4 @@ In this powerful verse, the commentators emphasize the ultimate defeat of Satan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

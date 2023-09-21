@@ -9,7 +9,7 @@ In this Bible verse, we see the story of Paul on the island of Malta, where a pa
 2. "Perhaps there is no where a surface of equal extent in so artificial a state as that of Malta is at the present day, and no where has the aboriginal forest been more completely cleared."
 3. "To suppose the converse ('the ἀπό was adopted by those who thought the sense was 'on account of the fire',' Dr. Bloomf.), is simply absurd; for 1) no man ever could suppose the sense of ἐκ in such a connexion to be this: and 2) even if any one did, he would not have substituted another ambiguous preposition, ἀπό."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The vigorous activity of Paul's character is observable in this comparatively trifling action."
 2. "Having laid itself up among the sticks on the approach of the cold winter season, it had suddenly recovered from its torpor by the heat."
 3. "Vipers dart at their enemies sometimes several feet at a bound. They have now disappeared from Malta, owing to the change which cultivation has produced."
@@ -43,4 +43,4 @@ In this Bible verse, we see the story of Paul on the island of Malta, where a pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

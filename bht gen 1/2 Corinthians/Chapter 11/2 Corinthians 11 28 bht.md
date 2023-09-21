@@ -11,7 +11,7 @@ This verse describes the apostle Paul's deep and continuous concern for the well
 
 3. "day by day, (viz.) my anxiety for all the churches" - The commentator highlights the continuous nature of Paul's anxiety for the churches, emphasizing that it is a daily burden that he carries. This emphasizes the ongoing nature of his concern and care for the well-being of the churches.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beside trials falling on me externally, just recounted, there is 'that which cometh upon me... the care of all the churches': an internal and more weighty anxiety." 
 2. "The oldest manuscripts for 'that which cometh,' read, 'the pressure': 'the pressing care-taking' or 'inspection that is upon me daily.'"
 3. "The Greek implies, 'my anxious solicitude for all the churches.'"
@@ -60,4 +60,4 @@ Note: The commentary does not provide specific quotes from the Bible verse being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

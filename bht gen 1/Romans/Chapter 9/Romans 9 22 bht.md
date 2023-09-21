@@ -9,7 +9,7 @@ In this verse, the apostle reflects on God's dealings with the vessels of dishon
 2) "That He might make known the riches of His glory on the vessels of mercy, which He before prepared for glory."
 3) "The theological difficulties in κατηρτισμένα and προητοίμασεν are but such as have occurred repeatedly before, and are inherent in any consistent belief of an omnipotent and omniscient God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What if God, willing to show His holy displeasure against sin, endured with much long-suffering the vessels of wrath?" - The commentary highlights that God's long-suffering towards the vessels of wrath demonstrates His righteous displeasure against sin.
 
 2. "It is well remarked...we cannot abate in the least degree from any of the difficulties which such texts make." - The commentator acknowledges the difficulties in understanding these verses but emphasizes that we cannot soften the language or ignore the challenging aspects.
@@ -52,4 +52,4 @@ In this verse, the apostle reflects on God's dealings with the vessels of dishon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

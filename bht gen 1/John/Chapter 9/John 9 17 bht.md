@@ -11,7 +11,7 @@ In this verse, a blind man is questioned about Jesus' miraculous act of opening 
 
 3. "Both parties are anxious to have the man's own view to corroborate theirs." - The parties are eager to hear the man's opinion, hoping that it aligns with their own beliefs and strengthens their arguments.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blind man... said, He is a prophet" - This quote highlights the blind man's recognition of Jesus as a prophet, showing his understanding that the miracle was not just a random act, but a sign of Jesus' divine authority and prophetic commission.
 
 2. "Rightly viewing the miracle as but a 'sign'" - This quote emphasizes the blind man's understanding that the miracle was not an end in itself, but a sign pointing to something greater. It reveals his deeper insight into the purpose and significance of Jesus' actions.
@@ -54,4 +54,4 @@ In this verse, a blind man is questioned about Jesus' miraculous act of opening 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, as Jesus approaches Bethphage and Bethany, the disciples spread their clothes in the way. This symbolic act of honor and submission reflects their recognition of Jesus as a King and a dignitary. The continuous and ongoing nature of their spreading highlights the disciples' active role as messengers, paving the way for Jesus and his message to be received. By participating in this prophetic act, the multitude fulfills the words of Zechariah, anticipating the arrival of the Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethphage, meaning 'house of figs,' provides a symbolic backdrop for the events that unfold in this passage. Just as figs are known for their sweetness and nourishment, Jesus, the Son of God, brings spiritual nourishment and salvation to all who believe in him."
 
 2. "The location of Bethphage and Bethany on the further side of Mount Olivet holds significance. Jesus, in his journey towards Jerusalem, is moving closer to his ultimate purpose of sacrificing himself for the salvation of humanity. The physical movement mirrors the spiritual journey towards redemption."
@@ -34,4 +34,4 @@ In this passage, as Jesus approaches Bethphage and Bethany, the disciples spread
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

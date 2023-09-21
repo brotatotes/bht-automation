@@ -4,7 +4,7 @@
 In this verse, Jesus confronts the Jews, who claimed to know Him and His earthly origins. However, their knowledge is limited and does not extend to His divine mission. Jesus emphasizes that His purpose and authority come from God, the true sender. Despite their familiarity with His human form, they are ignorant of His divine nature and His true origin. Jesus challenges their false confidence and calls attention to their lack of understanding of God the Father who sent Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yes, ye know both Myself and My local parentage, and (yet) I am not come of Myself." - This quote highlights Jesus' assertion that although the people knew Him and His earthly family, His true origin and mission were not of His own accord.
 
 2. "He that sent Me is the only real Sender of anyone." - This quote emphasizes the belief that God is the ultimate source and authority behind Jesus' mission, reinforcing the divine nature of Jesus' purpose.
@@ -47,4 +47,4 @@ In this verse, Jesus confronts the Jews, who claimed to know Him and His earthly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

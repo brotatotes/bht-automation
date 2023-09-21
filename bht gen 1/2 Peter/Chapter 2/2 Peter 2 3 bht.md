@@ -9,7 +9,7 @@ False teachers motivated by greed will manipulate their followers for personal g
 2. "These false teachers would care not for their sect, but for their gain."
 3. "Their destruction slumbereth not, i.e. is awake, and ready to seize them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "IN covetousness" as their element (2 Peter 2:14, end).
 2. "Before of old ordained to condemnation" (Judges 1:4).
 3. "is not idle."
@@ -55,4 +55,4 @@ False teachers motivated by greed will manipulate their followers for personal g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

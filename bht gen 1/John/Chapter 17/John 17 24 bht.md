@@ -9,7 +9,7 @@ In this verse, we see the unity and connection between the Father, the Son, and 
 2. "The completion of John 17:22, the open beholding of His glory, spoken of 1 John 3:2, which shall be coincident with our being changed into His perfect image."
 3. "The most glorious part of this sight of glory will be to behold the whole mystery of redemption unfolded in the glory of Christ’s Person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The majesty of this style of speaking is quite transparent."
 2. "Christ regards it as glory enough for us to be admitted to see and gaze forever upon His glory!"
 3. "This is 'the beatific vision'; but it shall be no mere vision, for 'we shall be like Him, because we shall see Him as He is'."
@@ -57,4 +57,4 @@ In this verse, we see the unity and connection between the Father, the Son, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

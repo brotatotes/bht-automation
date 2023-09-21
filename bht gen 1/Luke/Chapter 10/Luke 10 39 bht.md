@@ -9,7 +9,7 @@ In this verse, a woman named Mary is described as sitting at the feet of Jesus, 
 2. "It does not appear that the meal had begun; far rather is it likely that Martha was busy about preparing it." 
 3. "Mary's choice to sit at Jesus' feet and listen to his teachings shows her desire to learn and grow as his disciple."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "who for her part," in contrast with Martha.
 2. "sitting at one's feet" came to mean being a disciple of any one.
 3. "kept listening" to His word.
@@ -47,4 +47,4 @@ In this verse, a woman named Mary is described as sitting at the feet of Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

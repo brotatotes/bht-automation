@@ -9,7 +9,7 @@ The commentators collectively provide a rich and comprehensive description of th
 2. "One Body (Christ's mystical Body) and one Spirit (the Holy Spirit, who dwells in, and vivifies, and rules that one body)."
 3. "You were called in one hope of your calling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To the Trinity naturally is annexed the Church, as the house to its tenant, to God His temple, the state to its founder." 
 2. "The Holy Spirit, as the common higher principle of life, gives to the Church its true unity."
 3. "The true 'body' of Christ (all believers of every age) is already 'one,' as joined to the one Head. But its unity is as yet not visible, even as the Head is not visible; but it shall appear when He shall appear."
@@ -55,4 +55,4 @@ The commentators collectively provide a rich and comprehensive description of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

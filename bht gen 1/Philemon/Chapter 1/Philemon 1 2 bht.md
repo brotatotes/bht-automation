@@ -4,7 +4,7 @@
 In this Bible verse, we see the Apostle Paul addressing a letter to Philemon, his wife Apphia, and Archippus, highlighting the close ties and familial relationships within the early Christian community. Philemon's wife Apphia is mentioned first, indicating her significant role within the community. The mention of Archippus, a minister of the Colossian Church, further emphasizes the active participation of believers in spreading the Gospel. The use of private homes for worship and fellowship shows the intimate and supportive nature of the early church, where both men and women had important roles to play in leadership and influence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apphia, either the wife or some close relative of Philemon, would not have been included in the address of a letter on a domestic matter if they had not belonged to his family."
 2. "Archippus, a minister of the Colossian Church, is mentioned as a fellow soldier."
 3. "In the absence of a regular church building, the houses of particular saints were used for that purpose, and Paul tactfully associates with Philemon those associated by kindred or Christian brotherhood with his house."
@@ -50,4 +50,4 @@ In this Bible verse, we see the Apostle Paul addressing a letter to Philemon, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

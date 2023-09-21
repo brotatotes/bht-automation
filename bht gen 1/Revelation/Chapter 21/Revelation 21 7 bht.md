@@ -4,7 +4,7 @@
 In this Bible verse, we see the concept of thirsting for salvation being emphasized as a characteristic of the believer. The promise of inheriting all things is given to those who overcome, becoming heirs of God in every aspect of their lives. God, in turn, becomes their everlasting Father, and they become his spiritual seed and offspring. This promise is a reminder of the glorious position of the believers, who will see Christ in his glory and be made like him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thirsting for salvation is the first beginning of, and continues forever... a characteristic of the believer."
 2. "In a different sense, the believer 'shall never thirst.'"
 3. "I will be to him a God, that is, all that is implied of blessing in the name 'God.'"
@@ -45,4 +45,4 @@ In this Bible verse, we see the concept of thirsting for salvation being emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

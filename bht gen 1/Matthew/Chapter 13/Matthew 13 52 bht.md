@@ -4,7 +4,7 @@
 The Bible verse can be described as a call for Christian teachers, or scribes, to bring forth the treasures of divine knowledge from their personal collection. These treasures contain a mixture of old truths and new revelations, presented in fresh and relevant ways. Gospel ministers, as disciples of the kingdom, are entrusted with the responsibility of diligently exercising their gifts and freely communicating their knowledge to others. They should bring forth a variety of Gospel provisions, catering to the different needs of those under their care.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every scribe, or Christian teacher, is like unto a man that is an householder which bringeth forth out of his treasure." 
 2. "The scribe is instructed unto the kingdom of heaven, himself taught in the mysteries of the Gospel which he has to teach to others." 
 3. "He brings forth things new and old, old truths in ever new forms, aspects, applications, and with ever new illustrations."
@@ -40,4 +40,4 @@ The Bible verse can be described as a call for Christian teachers, or scribes, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

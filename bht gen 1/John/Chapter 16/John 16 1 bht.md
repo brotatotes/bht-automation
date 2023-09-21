@@ -7,7 +7,7 @@ This verse serves as a warning of the challenges and temptations that believers 
 ### Henry Alford:
 1. "The warning of the hatred of the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things have I spoken unto you, that ye should not be offended—both the warnings and the encouragements just given." 
 2. "The purpose of Jesus' words is to strengthen and prepare his disciples so that they will not be shaken or stumbled when faced with challenges or opposition." 
 3. "Jesus wants his followers to be aware of the difficulties they may encounter, but also to be confident in their faith and not allow these obstacles to cause them to stumble."
@@ -48,4 +48,4 @@ This verse serves as a warning of the challenges and temptations that believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

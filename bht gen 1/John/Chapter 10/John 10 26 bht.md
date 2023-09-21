@@ -9,7 +9,7 @@ In this verse, Jesus addresses a group who do not believe in him, attributing th
 2. "I believe it to refer more to the whole allegory, than to any explicit saying of this kind."
 3. "This reference to the allegory some two months after it was spoken, has been used by the rationalists as an argument against the authenticity of the narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye believe not, because ye are not of my sheep" - This quote highlights that belief in Jesus is not simply a matter of intellectual understanding, but it is also a matter of belonging to Him. It emphasizes the importance of being part of His flock and having a personal relationship with Him.
 
 2. "Belief in Jesus is not just about intellectual assent, but about belonging to Him" - This quote expands on the previous quote, emphasizing that true belief in Jesus goes beyond mere intellectual agreement. It emphasizes the need for a personal connection and relationship with Him.
@@ -63,4 +63,4 @@ In this verse, Jesus addresses a group who do not believe in him, attributing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

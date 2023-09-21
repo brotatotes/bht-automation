@@ -4,7 +4,7 @@
 The parable being described highlights the contrast between the foolish and the wise. The foolish, lacking the essential preparation, symbolize those without the inward grace to meet Christ. In contrast, the wise recognized the need to continuously replenish their love and spiritual strength, actively nurturing it in their hearts. Their pursuit led to a state of unwavering faith, making their lamps burn bright until the Bridegroom arrived. The vessels containing the oil of grace represented the sanctified space within their hearts, where love and light flourished.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The insufficiency of this without something else, of which they never possessed themselves, shows that 'the foolish' mean those who, with all that is common to them with real Christians, lack the essential preparation for meeting Christ."
 2. "The wisdom of 'the wise' consisted in their taking with their lamps a supply of oil in their vessels, keeping their lamps burning till the Bridegroom came, and so fitting them to go in with Him to the marriage."
 3. "This supply of oil, then, representing that inward grace which distinguishes the wise, must denote, more particularly, that 'supply of the Spirit of Jesus Christ,' which, as it is the source of the new spiritual life at the first, is the secret of its enduring character."
@@ -30,4 +30,4 @@ The parable being described highlights the contrast between the foolish and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse describes a mark that is given to people by a powerful entity, indicating their allegiance and submission. This mark is likened to symbols engraved or branded, signifying ownership and authority. It is emphasized that this mark is universal, affecting individuals from all walks of life. Those who receive this mark, whether on their right hand or forehead, are regarded as the followers and servants of this influential force. The mark holds practical implications, influencing social and economic interactions, and is seen as a distinctive sign denoting belonging to a particular group or system.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Soldiers voluntarily punctured their arms with marks of the general under whom they served."
 2. "Votaries of idols branded themselves with the idol's cipher or symbol."
 3. "The mark in the right hand and forehead implies the prostration of bodily and intellectual powers to the beast's domination."
@@ -40,4 +40,4 @@ Note: The commentary provides explanations and historical references regarding t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

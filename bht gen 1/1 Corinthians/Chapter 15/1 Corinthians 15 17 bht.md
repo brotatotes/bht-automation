@@ -9,7 +9,7 @@ The Bible verse being described here emphasizes the vital significance of Christ
 2. "Christ's Resurrection accomplished our justification."
 3. "Through justification, our future bliss, even in the disembodied state."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are, by the very fact (supposing the case to be as the skeptics maintained), frustrated of all which 'your faith' appropriates." 
 2. "Ye are still under the everlasting condemnation of your sins (even in the disembodied state which is here referred to), from which Christ's resurrection is our justification." 
 3. "Saved by his life."
@@ -53,4 +53,4 @@ These quotes emphasize the crucial role of Christ's resurrection in the Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

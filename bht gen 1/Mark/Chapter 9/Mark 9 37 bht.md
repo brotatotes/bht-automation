@@ -11,7 +11,7 @@ In this verse, we are reminded of the significance of welcoming others who repre
 
 3. "When we welcome those who come in the name of the Lord, we are participating in the work of God's kingdom. We are extending God's love and grace to others, and in doing so, we are also receiving blessings and rewards from God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever shall receive one of such children—so manifesting the spirit unconsciously displayed by this child." This quote highlights the importance of embracing the innocence and humility of children, as they exemplify the qualities that please God.
 
 2. "In my name—from love to Me." This quote emphasizes that receiving a child in the name of Jesus is an act of love towards Him, showing the interconnectedness between our love for Jesus and our treatment of others.
@@ -49,4 +49,4 @@ In this verse, we are reminded of the significance of welcoming others who repre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

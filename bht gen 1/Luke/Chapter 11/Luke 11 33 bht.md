@@ -11,7 +11,7 @@ In this Bible verse, commentators describe a hidden or concealed place, such as 
 
 3. "κρύπτη φραγμοῖς καὶ θυρίσι περιεχομένη πάντοθεν" - This quote further describes the κρύπτη in the context of the ship, emphasizing that it is surrounded and enclosed by walls and doors from all sides. This imagery reinforces the idea of a concealed or protected space.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But  :- here is peculiarly vivid, expressing what pure, beautiful, broad perceptions the clarity of the inward eye imparts." 
 2. "DENUNCIATION OF THE PHARISEES." 
 3. "(See on  :-;  :-.)"
@@ -40,4 +40,4 @@ In this Bible verse, commentators describe a hidden or concealed place, such as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

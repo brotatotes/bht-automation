@@ -9,7 +9,7 @@ Ministers of the Gospel are likened to soldiers, vine-dressers, and shepherds ac
 2. "He does eat the fruit, though it may be only part of it."
 3. "Milk being for the most part made into other articles of food, which sustain the shepherd partly directly, partly by their sale."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The minister is spiritually a soldier, a vine-dresser, and a shepherd." (2 Timothy 2:3, 1 Corinthians 3:6-8, Song of Solomon 1:6, 1 Peter 5:2, 1 Peter 5:4)
 2. "The minister is called to be a soldier, fighting against the spiritual battles that arise in ministry." (2 Timothy 2:3)
 3. "The minister is like a vine-dresser, nurturing and tending to the growth of the church." (1 Corinthians 3:6-8, Song of Solomon 1:6)
@@ -51,4 +51,4 @@ Ministers of the Gospel are likened to soldiers, vine-dressers, and shepherds ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

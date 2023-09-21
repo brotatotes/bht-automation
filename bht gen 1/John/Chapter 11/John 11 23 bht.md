@@ -9,7 +9,7 @@ In the face of Martha's grief and her desire for her brother's immediate restora
 2. "I have to learn whether ἀναστήσεται in this direct absolute sense could be used of his recall into human life."
 3. "The words of Jesus were meant to challenge Martha's understanding and deepen her faith in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus saith unto her, Thy brother shall rise again—purposely expressing Himself in general terms, to draw her out."
 2. "The words of Jesus were intended to comfort Martha and give her hope in the midst of her grief."
 3. "Jesus wanted Martha to understand that He had power over death and that He could bring her brother back to life."
@@ -49,4 +49,4 @@ These quotes highlight the intentional ambiguity of Jesus' words, emphasizing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

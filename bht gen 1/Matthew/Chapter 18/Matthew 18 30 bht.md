@@ -4,7 +4,7 @@
 The verse in question vividly conveys the intolerable injustice and impudence portrayed by the act of casting someone into prison. It portrays a violation of trust and a betrayal of the master's generosity, presenting a situation with harsh and unforgiving consequences. The verse emphasizes the need for patience, divine intervention, and recognition of our spiritual debt, reminding us of the bondage of sin and our desperate need for forgiveness and redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus here vividly conveys the intolerable injustice and impudence."
 2. "The servants saw this act as a betrayal of the master's generosity."
 3. "This act was seen as a violation of the recently established trust."
@@ -41,4 +41,4 @@ Note: The provided commentary seems to be a paraphrase or interpretation of a Bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators highlight the belief in guardian angels and the surp
 2. "Our Lord plainly asserts the doctrine of guardian angels in ref. Matt: and from this we further learn in what sense His words were understood by the early church."
 3. "From His words taken with the context, we infer that each one has his guardian angel: from this passage we find not only that such was believed to be the case, but that it was supposed that such angel occasionally appeared in the semblance of the person himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art mad—one of those exclamations which one can hardly resist on hearing what seems far 'too good to be true.'"
 2. "Though this had been the burden of their fervent prayers during all the days of unleavened bread, they dispute themselves out of it as a thing incredible."
 3. "How often do we pray for what we can hardly credit the bestowment of, when it comes in answer to our prayers!"
@@ -53,4 +53,4 @@ In this verse, commentators highlight the belief in guardian angels and the surp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -10,7 +10,7 @@ In this Bible verse, we see the destructive nature of Saul's persecution of the 
 3. The word "σύρων" is used to describe the action of dragging or pulling, as seen in the example from Philo.
 4. The verb "παρεδίδου" implies that the people were being handed over to the gaolers, as mentioned in Acts 22:4.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saul...entering into every house—like as inquisitor [BENGEL]." This quote highlights the intensity and thoroughness with which Saul persecuted the early Christians. It compares his actions to that of an inquisitor, emphasizing the extent of his efforts to arrest believers.
 
 2. "Haling men and women." This quote emphasizes the indiscriminate nature of Saul's persecution. He did not discriminate based on gender, but actively sought to arrest both men and women who professed faith in Jesus.
@@ -60,4 +60,4 @@ These quotes collectively shed light on the severity and intensity of Saul's per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

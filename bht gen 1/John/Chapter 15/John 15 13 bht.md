@@ -9,7 +9,7 @@ The verse being described emphasizes the extraordinary nature of a love that sur
 2. "His own great Sacrifice of Himself lies in the background of this verse; but only in the background, and with but one side of it seen, viz. his Love to them."
 3. "Here again the allusion must be to their future state under the dispensation of the Spirit: nay, even to the fulness and completion of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Greater love hath no man than this, that a man lay down his life for his friends." - The commentary highlights that the emphasis of this verse is not on the concept of friendship, but on the sacrificial act of laying down one's life for others. It emphasizes the profound love and selflessness involved in such an act.
 
 2. "One can show no greater regard for those dear to him than to give his life for them." - This quote further emphasizes the depth of love and regard one can have for others by being willing to give up their own life. It underscores the extraordinary nature of this kind of love.
@@ -59,4 +59,4 @@ These quotes emphasize the depth and sacrificial nature of Christ's love, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

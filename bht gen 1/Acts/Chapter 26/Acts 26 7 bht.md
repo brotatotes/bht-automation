@@ -9,7 +9,7 @@ The verse in question depicts a profound hope that the Israelites possessed, eag
 2. "It was concerning this hope that he was accused by the Jews."
 3. "The adverb ἐκτενῶς and subst. ἐκτένεια are disapproved by the philologists, as belonging to later Greek."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our twelve tribes, in all places of their dispersion, offering to the God of their fathers one unbroken worship, reposing on one great 'promise' made of old unto their fathers." 
 2. "The single point of difference between him and his countrymen, and the one cause of all their virulence against him, being, that his hope had found rest in One already come, while theirs still pointed to the future." 
 3. "The charge of sedition is not so much as alluded to throughout this speech. It was indeed a mere pretext."
@@ -52,4 +52,4 @@ The verse in question depicts a profound hope that the Israelites possessed, eag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

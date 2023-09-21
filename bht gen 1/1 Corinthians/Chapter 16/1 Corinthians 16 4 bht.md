@@ -9,7 +9,7 @@ If a generous collection has been amassed, not merely for security or receiving 
 2. "Justa æstimatio sui non est superbia."
 3. "They shall go in my company, contrast to διʼ ἐπιστολῶν πέμψω, and observing the same order."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If your collections be large enough to be worth an apostle's journey (a stimulus to their liberality), I will accompany them myself instead of giving them letters credential." 
 2. "With me—to guard against all possible suspicion of evil." 
 3. "A stimulus to their liberality."
@@ -43,4 +43,4 @@ If a generous collection has been amassed, not merely for security or receiving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

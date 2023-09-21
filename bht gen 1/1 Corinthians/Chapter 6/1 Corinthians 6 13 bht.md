@@ -9,7 +9,7 @@ The Bible verse being described highlights the significance of the body and its 
 2. "The body was not made for the practice of fornication." 
 3. "The redemption of the body from sin, and making it into a member of Himself by the Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Meats doubtless are indifferent, since both they and the 'belly' for which they are created are to be 'destroyed' in the future state."
 2. "But 'the body is not (created) for fornication, but for the Lord; and the Lord for the body' (as its Redeemer, who hath Himself assumed the body)."
 3. "Therefore fornication is not indifferent, since it is a sin against one's own body, which, like the Lord for whom it is created, is not to be destroyed, but to be raised to eternal existence."
@@ -53,4 +53,4 @@ The Bible verse being described highlights the significance of the body and its 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

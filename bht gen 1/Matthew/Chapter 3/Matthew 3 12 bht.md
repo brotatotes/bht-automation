@@ -9,7 +9,7 @@ The Gospel serves as a winnowing fan, separating truth from falsehood, according
 2. "The contents of the barn-floor. (De Wette, &c.)"
 3. "Not only the chaff, but also the straw: see reff.: ‘all that is not wheat.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is no other than the preaching of the Gospel, even now beginning, the effect of which would be to separate the solid from the spiritually worthless, as wheat, by the winnowing fan, from the chaff."
 2. "His true-hearted saints; so called for their solid worth."
 3. "Singular is the strength of this apparent contradiction of figures:—to be burnt up, but with a fire that is unquenchable; the one expressing the utter destruction of all that constitutes one's true life, the other the continued consciousness of existence in that awful condition."
@@ -57,4 +57,4 @@ The Gospel serves as a winnowing fan, separating truth from falsehood, according
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

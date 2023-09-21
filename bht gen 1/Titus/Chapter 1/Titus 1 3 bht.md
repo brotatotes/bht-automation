@@ -9,7 +9,7 @@ In due seasons, at the proper time appointed by God, Christ's glory and the prom
 2. "His word, not to be taken in apposition with ἥν, i.e. the Gospel."
 3. "The proclamation with which I was entrusted according to the command of our Saviour God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "in its own seasons," the seasons appropriate to it, and fixed by God for it
 2. the "promise," had lain hidden in His eternal purpose heretofore
 3. "eternal life" through preaching
@@ -53,4 +53,4 @@ In due seasons, at the proper time appointed by God, Christ's glory and the prom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

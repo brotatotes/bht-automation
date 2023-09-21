@@ -4,7 +4,7 @@
 The Gospel of the blessed God manifests God's glory by accounting believers as righteous through the righteousness of Christ, without the law. It reveals the immortality and supreme happiness bestowed by the supremely blessed One from whom all blessedness flows. This Gospel, centered around the appearing of the glory of God in Jesus Christ, carries out the principles stated in the law without contradiction. As stewards of this Gospel, we are entrusted with the responsibility to proclaim its divine nature, safeguard its message, and uphold its alignment with the true principles of the law.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel manifests God's glory in accounting 'righteous' the believer, through the righteousness of Christ, without 'the law'." 
 2. "The term 'blessed' indicates at once immortality and supreme happiness. The supremely blessed One is He from whom all blessedness flows." 
 3. "This term, as applied to GOD, occurs only here and in 1 Timothy 6:15: appropriate in speaking here of the Gospel blessedness, in contrast to the curse on those under the law."
@@ -52,4 +52,4 @@ Note: The original commentary is quite lengthy, but these three quotes capture t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

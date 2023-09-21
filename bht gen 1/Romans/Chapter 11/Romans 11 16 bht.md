@@ -4,7 +4,7 @@
 In this verse, the commentators shed light on the concept of holiness and its implications for the conversion of the Jewish nation. The consecration of the patriarchs and their separation unto God symbolizes the future consecration of all the descendants of Israel, signifying a divine plan for their holiness. The metaphor of the firstfruit and the lump illustrates the connection between the holiness of the initial converts and the eventual holiness of the entire nation. It is through the sanctification of the root that the branches, representing future generations, are also made holy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The argument of the apostle is, that as the separation unto God of Abraham, Isaac, and Jacob, from the rest of mankind, as the parent stem of their race, was as real an offering of first-fruits as that which hallowed the produce of the earth."
 2. "In the divine estimation, it was as real a separation of the mass or 'lump' of that nation in all time to God."
 3. "The figure of the 'root' and its 'branches' is of like import—the consecration of the one of them extending to the other."
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the concept of holiness and its im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

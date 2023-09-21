@@ -9,7 +9,7 @@ The parable being described here focuses on the responsibility of being good ste
 2. "We are all God’s stewards, who commits to our trust His property: each one’s office is of larger or smaller trust and responsibility, according to the measure entrusted to him."
 3. "In this charge (spiritually) we may see the real guilt of every man who is entrusted with the goods of our heavenly Father. We are all ‘scattering His goods.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "steward—manager of his estate."
 2. "accused—informed upon."
 3. "had wasted—rather, 'was wasting.'"
@@ -45,4 +45,4 @@ The parable being described here focuses on the responsibility of being good ste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

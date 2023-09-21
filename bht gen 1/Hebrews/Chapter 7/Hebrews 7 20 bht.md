@@ -4,7 +4,7 @@
 The Bible verse being described is one that highlights the superiority and significance of Christ's priesthood. The verse emphasizes the importance of the oath by which Jesus was appointed as a priest, as it carries a greater weight and solemnity compared to the levitical priesthood. The reference to Psalm 110:4 further confirms the establishment of Christ's eternal and unending priesthood. The oath serves as a guarantee of the fulfillment of God's promises and highlights the unwavering commitment and faithfulness of Jesus as our High Priest.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Another proof of the superiority of Christ's Melchisedec-like priesthood; the oath of God gave a solemn weight to it which was not in the law-priesthood, which was not so confirmed."
 2. "He was made priest... being a parenthesis, 'inasmuch as not without an oath He was made surety of the testament (for, &c.), of so much better a testament hath Jesus been made the surety.'"
 3. "In this verse, Hebrews 7:22- : being a parenthesis, 'inasmuch as not without an oath He was made surety of the testament (for, &c.), of so much better a testament hath Jesus been made the surety.'"
@@ -47,4 +47,4 @@ The Bible verse being described is one that highlights the superiority and signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

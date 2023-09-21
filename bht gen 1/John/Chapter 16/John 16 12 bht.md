@@ -9,7 +9,7 @@ This verse reveals Jesus' intention to impart further teachings to his disciples
 2. "Which were gradually unfolded after the Ascension, by the Spirit." 
 3. "The πολλά refers to the abundant truths and revelations that were revealed to the believers through the work of the Holy Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He shall not speak of himself—that is, from Himself, but, like Christ Himself, 'what He hears,' what is given Him to communicate." 
 2. "He will show you things to come—referring specially to those revelations which, in the Epistles partially, but most fully in the Apocalypse, open up a vista into the Future of the Kingdom of God."
 3. "Whose horizon is the everlasting hills."
@@ -57,4 +57,4 @@ This verse reveals Jesus' intention to impart further teachings to his disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

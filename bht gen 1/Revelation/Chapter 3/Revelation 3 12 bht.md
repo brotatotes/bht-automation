@@ -9,7 +9,7 @@ The verse being described is from the book of Revelation. It speaks of the rewar
 2. "Those Commentators who have understood the promise of the church militant, have been obliged to take ἐξέλθῃ as a passive... none shall thrust him out, nor shall he be any more in danger of falling, and thus thrusting himself out."
 3. "I will write upon him... the name of my God... and the name of the city of my God, the new Jerusalem, which descendeth out of heaven from my God... and mine own new name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The city shall be all one great temple, in which the saints shall be not merely stones, as in the spiritual temple now on earth, but all eminent as pillars: immovably firm."
 2. "The door shall be once for all shut, as well to shut safely in forever the elect, as to shut out the lost."
 3. "The saints in their heavenly royal priesthood shall bear His name openly, as consecrated to Him."
@@ -53,4 +53,4 @@ The verse being described is from the book of Revelation. It speaks of the rewar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

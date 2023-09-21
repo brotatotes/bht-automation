@@ -11,7 +11,7 @@ The verse being described is one that portrays the enthusiasm and determination 
 
 Note: The commentary provided is quite short and does not offer much depth or insight into the verse. However, these quotes highlight the idea that the people had to rely on rumors and hearsay to find Jesus, and the phrase "ὅπου ἐκεῖ" is not an unusual construction but rather signifies going to the places where Jesus was reported to be.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The popular enthusiasm in His favor was at its height." This highlights the immense popularity and following that Jesus had during this time, which explains why people were willing to go to great lengths to bring their sick loved ones to Him.
 
 2. "Carry about in beds those that were sick." This emphasizes the desperation and faith of the people, as they believed that simply being in the presence of Jesus could bring healing and restoration to their loved ones.
@@ -44,4 +44,4 @@ Note: The commentary provided is quite short and does not offer much depth or in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

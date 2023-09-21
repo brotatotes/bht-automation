@@ -4,7 +4,7 @@
 In this Bible verse, Jesus addresses his disciples, revealing their lack of understanding and limited perspective. He assures them that if they truly loved him and comprehended the significance of his departure to the Father, they would rejoice instead of mourn. Jesus points out the disciples' mixed emotions and encourages them to trust in the divine plan, emphasizing that his return to the Father is a means to greater blessings through the Holy Spirit. By shifting their perspective to focus on the eternal significance rather than their immediate circumstances, the disciples can find true and lasting joy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These words, which Arians and Socinians perpetually quote as triumphant evidence against the proper Divinity of Christ, really yield no intelligible sense on their principles."
 2. "Does not this strange speech from Christ's lips, then, presuppose such teaching on His part as would make it extremely difficult for them to think He could gain anything by departing to the Father, and make it necessary for Him to say expressly that there was a sense in which He could do so?"
 3. "Thus, this startling explanation seems plainly intended to correct such misapprehensions as might arise from the emphatic and reiterated teaching of His proper equality with the Father."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus addresses his disciples, revealing their lack of unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The purpose of this written account is to provide sufficient evidence for us to 
 2. "Thus he closes almost in the words of his prologue."
 3. "The whole standing of the faithful man in Christ, by which and in which he has life eternal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But these are written" - This phrase indicates that the purpose of the writing is to provide sufficient examples or evidence.
 2. "the Christ, the Son of God" - This highlights the dual nature of Jesus, both as the anointed Messiah and as the divine Son of God.
 3. "believing...may have life" - This emphasizes the importance of faith in Jesus as the means to obtain eternal life.
@@ -52,4 +52,4 @@ The purpose of this written account is to provide sufficient evidence for us to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

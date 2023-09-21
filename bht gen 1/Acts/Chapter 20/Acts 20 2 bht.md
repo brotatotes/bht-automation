@@ -9,7 +9,7 @@ As Paul continues his journey, he enters the region of Greece, specifically the 
 2. "That Epistle was written during it, from Macedonia." 
 3. "He seems to have gone to the confines at least of Illyria."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He came into Greece" - This quote highlights the geographical movement of the protagonist, indicating a shift in location and potentially a change in the narrative setting.
 
 2. "In pursuance of the second part of his plan" - This quote suggests that the protagonist has a deliberate and strategic plan, adding depth to their character and implying a sense of purpose and determination.
@@ -56,4 +56,4 @@ As Paul continues his journey, he enters the region of Greece, specifically the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

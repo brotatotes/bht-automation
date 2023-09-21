@@ -9,7 +9,7 @@ This passage delves into the imagery of false shepherds, hirelings who serve for
 2. "The purposes of this wolf are the same as those of the thief in John 10:10, and in the allegory he is the same; the great Foe of the sheep of Christ."
 3. "Their chief and father would therefore be ὁ λύκος, just as ὁ ποιμήν is the Shepherd."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By this He points to His own peculiar relation to the sheep, the same as His Father's, the great Proprietor and Lord of the flock."
 2. "Though faithful under-shepherds are so in their Master's interest, that they feel a measure of His own concern for their charge."
 3. "Whoever comes upon the flock with hostile intent, in whatever form: though the wicked one, no doubt, is at the bottom of such movements."
@@ -50,4 +50,4 @@ These quotes highlight the concept of a hireling, someone who works solely for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

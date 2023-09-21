@@ -9,7 +9,7 @@ In this verse, the psalmist cries out to God in desperation, seeking deliverance
 2. "Beware of the evasive ecbatic sense."
 3. "To suppose any irony in these words, as De W. does ('they are true followers-out of their law'), is manifestly against the whole spirit of our Lord’s reference to the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They hated me without a cause" - This quote from Psalm 69:4 is applied to Jesus in John 15:25. It highlights the unjust and baseless hatred that Jesus faced during his earthly ministry.
 
 2. "Fulfilled" - The phrase "that the word might be fulfilled" emphasizes the fulfillment of Old Testament prophecies in the life and ministry of Jesus. It shows how Jesus' experiences were not random but part of God's plan.
@@ -67,4 +67,4 @@ Note: The commentary provides additional context and references, but the selecte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

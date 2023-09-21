@@ -4,7 +4,7 @@
 In this verse, the salutation expresses the foundational aspects of the Christian faith. It begins by highlighting the crucial role of mercy, which is synonymous with God's grace and encompasses the forgiveness of sins and acceptance by God. Peace, on the other hand, signifies a harmonious relationship with God, others, and oneself, bringing comfort in all circumstances. The concept of love is central, calling believers to display love towards God, fellow believers, and the world. This emphasis on love reminds readers that it should permeate their actions and attitudes in all aspects of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mercy stands first; the mercy of Christ." 
 2. "Peace in the Holy Ghost." 
 3. "Love of God."
@@ -45,4 +45,4 @@ In this verse, the salutation expresses the foundational aspects of the Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

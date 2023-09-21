@@ -4,7 +4,7 @@
 In this Bible verse, a series of miraculous healings take place periodically when the troubled waters are stirred. The cures, performed one patient at a time, unequivocally demonstrate their supernatural nature. The involvement of angels is highlighted, emphasizing their role as instruments of divine assistance. The troubling of the water, though seemingly ordinary, serves as a testimony to God's sovereignty and his power to employ the elements according to his will. Through the preaching of the Gospel, those who come to Christ find healing for their souls, regardless of the afflictions they carry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This miracle differed in two points from all other miracles recorded in Scripture: (1) It was not one, but a succession of miracles periodically wrought: (2) As it was only wrought 'when the waters were troubled,' so only upon one patient at a time, and that the patient 'who first stepped in after the troubling of the waters.' But this only the more undeniably fixed its miraculous character."
 2. "Any of these peculiarities—much more all taken together—must have proclaimed the supernatural character of the cures wrought."
 3. "The want of :- and part of John 5:3 in some good manuscripts, and the use of some unusual words in the passage, are more easily accounted for than the evidence in their favor if they were not originally in the text."
@@ -38,4 +38,4 @@ In this Bible verse, a series of miraculous healings take place periodically whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes the seriousness of blasphemy against the Holy Spirit. Commentators note that this sin is not forgivable, neither in this life nor in the afterlife. Blaspheming against the Son of Man, Jesus, may be pardoned if one truly repents, but speaking against the Holy Spirit carries severe consequences. It is a sin that hinders the possibility of salvation and subjects the offender to divine punishment both now and in the future.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Its unpardonableness cannot arise from anything in the nature of sin itself; for that would be a naked contradiction to the emphatic declaration that all manner of sin is pardonable."
 2. "It is a contrast between slandering 'the Son of man' in His veiled condition and unfinished work... and slandering the same blessed Person after the blaze of glory which the Holy Ghost was soon to throw around His claims."
 3. "To blaspheme Christ in the former condition left them still open to conviction on fuller light: but to blaspheme Him in the latter condition would be to hate the light the clearer it became, and resolutely to shut it out which, of course, precludes salvation."
@@ -40,4 +40,4 @@ This verse describes the seriousness of blasphemy against the Holy Spirit. Comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

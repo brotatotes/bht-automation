@@ -9,7 +9,7 @@ In this verse, there is a mention of a faithful remnant chosen by God's grace, n
 2. "A part has remained faithful, which thus has become a λεῖμμα."
 3. "Made not for their desert, nor their foreseen congruity, but of God's free unmerited favour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is now, as there was then, a faithful remnant; not however of persons naturally better than the unbelieving mass, but of persons graciously chosen to salvation."
 2. "This establishes our view of the argument on Election in 2 Thessalonians 2:13, as not being an election of Gentiles in the place of Jews, and merely to religious advantages, but a sovereign choice of some of Israel itself, from among others, to believe and be saved."
 3. "As in Elijah's time the apostasy of Israel was not so universal as it seemed to be, and as he in his despondency concluded it to be, so now, the rejection of Christ by Israel is not so appalling in extent as one would be apt to think."
@@ -47,4 +47,4 @@ In this verse, there is a mention of a faithful remnant chosen by God's grace, n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

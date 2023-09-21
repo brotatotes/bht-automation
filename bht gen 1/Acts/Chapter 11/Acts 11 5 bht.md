@@ -9,7 +9,7 @@ In this verse, a vivid and detailed account is given of a significant event. The
 2. This phrase emphasizes the arrival of someone or something.
 3. It suggests that the subject of the verse has reached a specific point or destination.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles and brethren throughout Judea" - This phrase emphasizes the widespread nature of the apostles' and brethren's influence and presence in Judea. It highlights the unity and solidarity among the early Christian community.
 
 2. "The apostles and brethren" - This phrase underscores the inclusion of both the apostles and the other believers in the early Christian community. It suggests that the apostles were not seen as separate or superior to the other believers, but rather as part of a larger group working together.
@@ -41,4 +41,4 @@ In this verse, a vivid and detailed account is given of a significant event. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

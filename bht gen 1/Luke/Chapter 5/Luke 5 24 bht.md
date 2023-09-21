@@ -11,7 +11,7 @@ In this verse, Jesus addresses a specific individual, showcasing the personal na
 
 3. "The inclusion of this phrase in the verse underscores the individualized nature of Jesus' teaching, reminding us that his words are not just general instructions, but are meant to be personally received and applied."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The bed had borne the man; now the man shall bear the bed!" - This quote highlights the transformative power of Jesus' words, as the paralyzed man is not only healed but also empowered to carry his own bed. [BENGEL]
 
 2. "LEVI'S CALL AND FEAST." - This brief statement refers to the story of Levi (also known as Matthew) being called by Jesus and the subsequent feast that Levi hosted for Jesus and his disciples. This event emphasizes Jesus' willingness to associate with tax collectors and sinners. [Commentator]
@@ -37,4 +37,4 @@ In this verse, Jesus addresses a specific individual, showcasing the personal na
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

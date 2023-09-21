@@ -9,7 +9,7 @@ In this Bible verse, Peter addresses the duty of servants to their masters. The 
 2. "Not only to the good and considerate, but also to the perverse." 
 3. "These masters are, as Gerh., 'sævi et intractabiles, duri ac morosi'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's special object seems to be to teach them submission, whatever the character of the masters might be."
 2. "The participle expresses a particular instance of the general exhortation to good conduct."
 3. "Those bound to obey must not make the disposition and behavior of the superior the measure of the fulfillment of their obligations."
@@ -55,4 +55,4 @@ In this Bible verse, Peter addresses the duty of servants to their masters. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The Bible verse being described is one where the apostle addresses the believers
 4. "Non modo impediunt, sed oppugnant: grande verbum." (Translation: "Not only do they hinder, but they also attack: a great word.") 
 5. "And among its adversaries are these fleshly lusts, warring against it to its ruin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Purify your souls as strangers on earth who must not allow yourselves to be kept back by earthly lusts, and because these lusts war against the soul's salvation."
 2. "Walk piously among unbelievers so that they may cease to calumniate Christians, and may themselves be converted to Christ."
 3. "Not only the gross appetites which we have in common with the brutes, but all the thoughts of the unrenewed mind."
@@ -55,4 +55,4 @@ The Bible verse being described is one where the apostle addresses the believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

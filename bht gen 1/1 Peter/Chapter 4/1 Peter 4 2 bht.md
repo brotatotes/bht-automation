@@ -11,7 +11,7 @@ As believers, we are called to live according to God's will rather than being dr
 
 3. "In which we corporeally live and move for a certain time." - This quote acknowledges the reality of our physical existence and reminds us that our lives are not just spiritual, but also involve living in the flesh. It highlights the importance of recognizing and engaging with the physical world while still being guided by God's will.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That he (the believer, who has once for all obtained cessation from sin by suffering, in the person of Christ, namely, in virtue of his union with the crucified Christ) should no longer live the rest of his time in the flesh to the lusts of men, but to the will of God" as his rule.
 2. "Rest of his time in the flesh" proves that the reference is here not to Christ, but to the believer, whose remaining time for glorifying God is short.
 3. "Live" in the truest sense, for heretofore he was dead.
@@ -64,4 +64,4 @@ Overall, the commentary emphasizes the need for believers to live differently, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse described here shows the strong emotional connection and care that the
 
 3. "With fear and trembling ye received him." - This quote reveals the attitude of the believers when receiving Paul. It signifies their humility, respect, and eagerness to follow his instructions and honor his mission. It implies a sense of awe and reverence towards the authority and message he represents.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "his inward affection—literally, 'bowels'" - This quote highlights the deep and intense love and compassion that Paul has for the believers. It emphasizes the emotional and heartfelt nature of his affection towards them.
 
 2. "obedience" - This quote emphasizes the importance of obedience in the relationship between Paul and the believers. It suggests that obedience is a key aspect of their commitment to each other and to their faith.
@@ -51,4 +51,4 @@ These quotes collectively highlight the writer's deep affection, the significanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

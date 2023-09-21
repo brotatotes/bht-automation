@@ -9,7 +9,7 @@ In this verse, believers are encouraged to abide in Christ, allowing His words t
 2. "The answer of all prayer is here promised to those who abide in Christ and have His word abiding in them."
 3. "In the supposed case, [the prayer] is necessarily in the way of God's will, and as tending to bring forth much fruit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye abide in me, and my words . . . in you—Mark the change from the inhabitation of Himself to that of His words, paving the way for the subsequent exhortations." 
 
 2. "This indwelling of His words in them would secure the harmony of their askings with the divine will." 
@@ -57,4 +57,4 @@ In this verse, believers are encouraged to abide in Christ, allowing His words t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

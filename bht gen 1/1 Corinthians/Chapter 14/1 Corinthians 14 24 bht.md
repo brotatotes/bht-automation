@@ -11,7 +11,7 @@ Through the words of others, spoken sincerely and touching the hearts of the hea
 
 These quotes highlight the transformative power of prophecy, as it exposes the depths of a person's heart, convicts them of their unbelief, and leads them to worship God. It emphasizes the profound impact that prophetic preaching can have on individuals, even leading to their conversion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speak the truth by the Spirit intelligibly, and not in unintelligible tongues."
 2. "However many there might be, not one would profit by the tongues; yea, their being many would confirm them in rejecting the sign."
 3. "Individuals are more easily won."
@@ -67,4 +67,4 @@ Overall, these quotes highlight the profound impact of prophecy or preaching on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, there is a mention of a deep sense of distress and suffering, bot
 2. "It is possible, in the case of the suffering Christian, for the former to exist without the latter."
 3. "Because the Jew has so much greater advantages, and better opportunities of knowing the divine will: and, therefore, pre-eminent responsibility."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tribulation and anguish" refers to the intense distress and suffering experienced by sinners as a consequence of their actions. It highlights the internal turmoil and torment that sin brings upon individuals.
 
 2. This phrase emphasizes the personal responsibility and accountability of sinners for their own suffering. It suggests that the pain and anguish they experience are not imposed upon them by external forces, but rather a result of their own choices and actions.
@@ -59,4 +59,4 @@ In this verse, there is a mention of a deep sense of distress and suffering, bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

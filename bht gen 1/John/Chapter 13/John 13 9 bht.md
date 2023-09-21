@@ -9,7 +9,7 @@ The verse being described is a conversation between Jesus and Peter about the ac
 2. "There surely is implied in this answer an incipient apprehension of the meaning of our Lord’s words."
 3. "The ἐὰν μὴ νίψω σε has awakened in him, as the Lord’s presence did, Luke 5:8, a feeling of his own want of cleansing, his entire pollution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be severed from Thee, Lord, is death to me: If that be the meaning of my speech, I tread upon it; and if to be washed of Thee have such significance, then not my feet only, but hands, head, and all, be washed!"
 2. "This artless expression of clinging, life-and-death attachment to Jesus, and felt dependence upon Him for his whole spiritual well-being..."
 3. "Furnishes such evidence of historic verity such as no thoroughly honest mind can resist."
@@ -56,4 +56,4 @@ Overall, this commentary underscores the comprehensive nature of our need for cl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

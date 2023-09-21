@@ -9,7 +9,7 @@ In this Bible verse, the Holy Spirit descends upon Jesus in the bodily shape of 
 2. "The Spirit as manifested in our Lord was gentle and benign."
 3. "The whole narrative is in remarkable parallelism with that of the Transfiguration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can there be a doubt about the burden of that prayer; a prayer sent up, probably, while yet in the water—His blessed head suffused with the baptismal element; a prayer continued likely as He stepped out of the stream, and again stood upon the dry ground; the work before Him, the needed and expected Spirit to rest upon Him for it, and the glory He would then put upon the Father that sent Him—would not these fill His breast, and find silent vent in such form as this?" 
 
 2. "The Scripture use of this emblem will be our best guide here. 'My dove, my undefiled is one,' says the Song of Solomon. This is chaste purity. Again, 'Be ye harmless as doves,' says Christ Himself. This is the same thing, in the form of inoffensiveness towards men. 'A conscience void of offense toward God and toward men' expresses both."
@@ -59,4 +59,4 @@ In this Bible verse, the Holy Spirit descends upon Jesus in the bodily shape of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

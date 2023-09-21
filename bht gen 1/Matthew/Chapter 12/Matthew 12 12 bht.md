@@ -4,7 +4,7 @@
 In this Bible passage, commentators emphasize the importance of compassion, mercy, and doing good, even in the face of strict religious laws. They highlight the value and worth of humanity compared to animals, reminding us that acts of beneficence and mercy should never be hindered or bound by rules and regulations. The verse challenges the legalistic mindset and emphasizes the superiority of human life and the need to prioritize love and compassion over rigid adherence to religious traditions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A righteous man regardeth the life of his beast" - highlighting the compassion and care that a righteous person has for all living beings, including animals.
 2. "Is it lawful on the sabbath days to do good, or to do evil? to save life or to destroy it?" - presenting the thought-provoking question that challenges the rigid interpretation of Sabbath laws and emphasizes the importance of doing good and saving lives.
 3. "Not to do good, when it is in the power of our hand to do it, is to do evil; not to save life, when we can, is to kill" - emphasizing the ethical principle that doing nothing when we have the ability to do good is equivalent to doing evil and allowing harm to happen.
@@ -33,4 +33,4 @@ In this Bible passage, commentators emphasize the importance of compassion, merc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

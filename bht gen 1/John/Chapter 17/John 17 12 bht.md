@@ -9,7 +9,7 @@ In this verse, the speaker reflects on their past role as a guardian for a group
 2. "...of such persons it is true that there is for them no ‘gratia irresistibilis,’ no ‘keeping in God’s Name’ independently of their ‘keeping God’s word,’ John 17:6, which Judas did not do."
 3. "As the other disciples by true τήρησις of the divine ῥήματα given to them, rose from being natural men to be the children of God, so Judas, through want of the same, sunk from the state of the natural man to that of the lost the children of the devil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I kept—guarded them in thy name—acting as Thy Representative on earth." 
 2. "none of them is lost, but the son of perdition." 
 3. "It is not implied here that the son of perdition was one of those whom the Father had given to the Son, but rather the contrary."
@@ -59,4 +59,4 @@ Note: The quote "As for the servants whom I have given thee, there shall not one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

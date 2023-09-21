@@ -9,7 +9,7 @@ In this verse, Jesus undergoes a significant change in approach towards the citi
 2. "The whole chapter stands in such close connexion, one part arising out of another."
 3. "I would rather regard the τότε ἤρξατο as a token of the report of an ear-witness, and as pointing to a pause or change of manner on the part of our Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus expresses his disappointment and frustration with the cities that witnessed his miracles but failed to repent. This highlights the importance of genuine repentance as a response to God's grace and mercy." 
 
 2. "The upbraiding of the cities serves as a reminder that witnessing miracles alone is not enough to bring about true transformation. It is the inner change of heart and turning away from sin that truly matters." 
@@ -59,4 +59,4 @@ In this verse, Jesus undergoes a significant change in approach towards the citi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

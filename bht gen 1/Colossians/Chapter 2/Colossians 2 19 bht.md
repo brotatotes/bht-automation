@@ -9,7 +9,7 @@ This Bible verse emphasizes the significance of holding onto Christ as the head 
 2. "The Head itself is the Source of increase: the holding it, the means."
 3. "The increase of God, i.e. 'the increase wrought by God,' God being the first cause of life to the whole, and carrying on this growth in subordination to and union with the Head, Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who does not hold Christ solely and supremely above all others, does not hold Him at all."
 2. "Each must hold fast the Head for himself, not merely be attached to the other members, however high in the body."
 3. "Faith, love, and peace, are the spiritual bands. Compare 'knit together in love'."
@@ -55,4 +55,4 @@ These quotes highlight the importance of Christ as the head of the church, the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

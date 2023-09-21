@@ -10,7 +10,7 @@ Without faith, it is impossible to please God. One must believe in His existence
 2. "For it behoves him that cometh to God to believe...that He is." 
 3. "His faith being to him thus a πράγματος ἔλεγχος οὐ βλεπομένου."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is impossible to please God at all" - Works done before the grace of Christ are not pleasant to God, for they do not spring from faith in Jesus Christ. They have the nature of sin.
 2. "Works not rooted in God are splendid sins" - Natural amiabilities and works done before the grace of Christ are not pleasing to God because they are not done as God has willed them to be done.
 3. "The reward is God Himself diligently sought and walked with in partial communion here, and to be fully enjoyed hereafter" - The reward for diligently seeking God is not material possessions or earthly success, but rather the intimate communion with God both in this life and in the life to come.
@@ -46,4 +46,4 @@ Without faith, it is impossible to please God. One must believe in His existence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

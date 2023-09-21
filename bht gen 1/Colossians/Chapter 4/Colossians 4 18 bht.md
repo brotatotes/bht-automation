@@ -9,7 +9,7 @@ This compelling verse, written by the apostle Paul, carries a heartfelt plea to 
 2. "When we read of ‘his chains,’ we should not forget that they moved over the paper as he wrote. His right hand was chained to the soldier that kept him." 
 3. "'The grace' in which we stand: it seems to be a form of valediction belonging to the later period of the Epistles of St. Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember my bonds—Already in this chapter he had mentioned his 'bonds,' an incentive why they should love and pray for him."
 2. "When we read of his chains, we should not forget that they moved over the paper as he wrote; his [right] hand was chained to the [left hand of the] soldier who kept him."
 3. "Grace be with you—'THE grace' which every Christian enjoys in some degree, and which flows from God in Christ by the Holy Ghost."
@@ -43,4 +43,4 @@ This compelling verse, written by the apostle Paul, carries a heartfelt plea to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

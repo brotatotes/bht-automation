@@ -11,7 +11,7 @@ With firm faith and determination, a woman, having heard about Jesus, embarked o
 
 3. "owing to having heard ... came" - This quote succinctly summarizes the cause-and-effect relationship between hearing and coming, suggesting that the woman came because she had heard something.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What had she 'heard of Jesus?' No doubt it was His marvellous cures she had heard of; and the hearing of these, in connection with her bitter experience of the vanity of applying to any other, had been blessed to the kindling in her soul of a firm confidence that He who had so willingly wrought such cures on others was able and would not refuse to heal her also."
 2. "shrinking, yet seeking."
 3. "But there was an instinct in the faith which brought her to Jesus, which taught her, that if that touch could set her free from the defiling disease itself, it was impossible to communicate defilement to Him, and that this wondrous Healer must be above such laws."
@@ -32,4 +32,4 @@ With firm faith and determination, a woman, having heard about Jesus, embarked o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

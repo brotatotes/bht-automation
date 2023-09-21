@@ -9,7 +9,7 @@ In this passage, the commentators shed light on a Bible verse that speaks of Pet
 2. "The words seem to be a plain reference to ch. John 13:36."
 3. "There was also a forcible reminding Peter of the first time when he had heard this command on the same shore, Matthew 4:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This spake he, signifying by what death he should glorify God—not, therefore, a mere prediction of the manner of his death, but of the honor to be conferred upon him by dying for his Master."
 2. "And, indeed, beyond doubt, this prediction was intended to follow up his triple restoration:—'Yes, Simon, thou shall not only feed My lambs, and feed My sheep, but after a long career of such service, shalt be counted worthy to die for the name of the Lord Jesus.'"
 3. "By thus connecting the utterance of this prediction with the invitation to follow Him, the Evangelist would indicate the deeper sense in which the call was understood, not merely to go along with Him at that moment, but to come after Him, 'taking up his cross'."
@@ -57,4 +57,4 @@ In this passage, the commentators shed light on a Bible verse that speaks of Pet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, there is a mention of tax collectors, who were despised and known
 
 3. "The mention of tax collectors in this context serves as a reminder that Jesus came to seek and save the lost, offering salvation to all who would repent and believe in him." - This commentary highlights the redemptive aspect of Jesus' ministry, showing that he came to save sinners and bring them into a relationship with God. It emphasizes the transformative power of Jesus' love and forgiveness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of publicans and sinners is significant because it highlights Jesus' willingness to associate with those who were considered outcasts and morally corrupt by society. It shows his compassion and desire to bring salvation to all, regardless of their past or social status."
 
 2. "The Pharisees' criticism of Jesus for eating with sinners reveals their self-righteousness and lack of understanding of God's mercy and grace. It serves as a reminder for us to examine our own hearts and attitudes towards those who may be different or have made mistakes."
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

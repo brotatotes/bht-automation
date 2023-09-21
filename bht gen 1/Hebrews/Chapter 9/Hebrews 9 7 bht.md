@@ -9,7 +9,7 @@ In this verse, a high priest is depicted as entering a sacred place once a year,
 2. "The high priest alone, not without blood, which he offers on behalf of himself and the ignorances of the people."
 3. "The question however in all such cases is not whether the sense would not be better expressed by a more elegant construction, but whether the N. T. dialect was likely to have expressed it without that more elegant construction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Once means here on the one occasion only."
 2. "Not without blood."
 3. "Their ignorance was culpable."
@@ -54,4 +54,4 @@ In this verse, a high priest is depicted as entering a sacred place once a year,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

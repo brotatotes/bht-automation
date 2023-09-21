@@ -7,7 +7,7 @@ In the latter times, a burst of prophecy throughout the churches foretells a tim
 ### Henry Alford:
 1. "The spirits are none other than the spirits of evil, tempting,
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostasy was to be within the Church, the faithful one becoming the harlot."
 2. "The prophecy is connected with Gnostic errors, the seeds of which had already been sown in the Church."
 3. "Seducing spirits working in the heretical teachers, opposed to the Spirit which speaketh in the true prophets against them."
@@ -55,4 +55,4 @@ In the latter times, a burst of prophecy throughout the churches foretells a tim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

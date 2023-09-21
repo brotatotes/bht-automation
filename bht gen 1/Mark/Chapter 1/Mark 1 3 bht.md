@@ -4,7 +4,7 @@
 In the wilderness, a voice cries out urgently, calling us to prepare for the coming of the Lord. This barren and desolate place represents the areas of our lives that need transformation and renewal. To prepare the way, we must clear away obstacles, turn away from sin, and make space for God's presence. It is a call to action, urging us to straighten the path and make room in our hearts for the coming of the Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prepare ye the way of the Lord, make his paths straight" - This quote emphasizes the need for preparation and straightening of paths in order to receive the Lord. It suggests that we should remove any obstacles or hindrances that may prevent us from fully experiencing the presence of the Lord.
 
 2. "Baptism of Christ and descent of the Spirit upon Him immediately thereafter" - This quote refers to the significant event of Jesus' baptism and the subsequent descent of the Holy Spirit upon Him. It highlights the divine affirmation and empowerment that Jesus received at the beginning of His ministry.
@@ -43,4 +43,4 @@ In the wilderness, a voice cries out urgently, calling us to prepare for the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

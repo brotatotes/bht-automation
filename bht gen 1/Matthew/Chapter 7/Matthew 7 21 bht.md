@@ -9,7 +9,7 @@ In this Bible verse, the passage warns against the hypocrisy of those who claim 
 2. "Here the Lord sets Himself forth as the Judge in the great day, and at the same time speaks not of τὸ θέλ . μου, but τὸ θέλ . τοῦ πατρός μου: an important and invaluable doctrinal landmark."
 3. "The context must rule the meaning of such wide words as λέγει. Here it is evidently used of mere lip homage; but in οὐδεὶς δύναται εἰπεῖν Κύριος Ἰησοῦς εἰ μὴ ἐν πνεύματι ἁγίῳ, 1 Corinthians 12:3, the 'saying' has the deeper meaning of a genuine heartfelt confession."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not every one that saith unto me, Lord, Lord—the reduplication of the title 'Lord' denoting zeal in according it to Christ." 
 2. "Yet our Lord claims and expects this of all His disciples, as when He washed their feet: 'Ye call me Master and Lord: and ye say well; for so I am.'" 
 3. "But now He rises higher still—not formally announcing Himself as the Judge, but intimating what men will say to Him, and He to them, when He sits as their final judge."
@@ -48,4 +48,4 @@ In this Bible verse, the passage warns against the hypocrisy of those who claim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

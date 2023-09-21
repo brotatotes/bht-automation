@@ -9,7 +9,7 @@ In the time now present, the first tabernacle served as a parable for the heaven
 2. "The time now present...has not been the general view of Commentators."
 3. "The offerings cannot perfect in conscience him that serveth, i.e. cannot put his moral-religious consciousness, in its inward feeling, into a state of entire and joyful looking for of salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time of reformation" stands in contrast to the existing time, referring to the New Testament time, which was present and existing. 
 2. The phrase "the age to come" is applied to the Gospel because it was present only to believers, with its fullness still to come. 
 3. The gifts and sacrifices of the Old Testament could not perfectly remove the sense of guilt and sanctify inwardly through love, as they only reached as far as the outward flesh, not the moral-religious consciousness.
@@ -53,4 +53,4 @@ In the time now present, the first tabernacle served as a parable for the heaven
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

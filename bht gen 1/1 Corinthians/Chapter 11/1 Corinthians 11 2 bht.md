@@ -9,7 +9,7 @@ This verse encourages us to hold fast to the teachings and traditions passed dow
 2. "And ye keep (continue to believe and practise) the traditions (apostolic maxims of faith and practice, delivered either orally or in writing, 2Th 2:15)."
 3. "This was their general practice: the exceptions to it, or departures at all events from the spirit of those παραδόσεις, now follow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ordinances—Greek, 'traditions,' that is, apostolic directions given by word of mouth or in writing"
 2. "The reference here is mainly to ceremonies"
 3. "Romanists argue hence for oral traditions. But the difficulty is to know what is a genuine apostolic tradition intended for all ages. Any that can be proved to be such ought to be observed; any that cannot, ought to be rejected"
@@ -62,4 +62,4 @@ This quote highlights that the term "traditions" can also be understood as "prec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

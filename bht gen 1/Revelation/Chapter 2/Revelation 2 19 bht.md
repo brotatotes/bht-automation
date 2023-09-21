@@ -4,7 +4,7 @@
 This verse highlights the interconnectedness of faith, love, and service within the works of the church. It praises the progression and endurance of the believers, who exhibit love towards God and others through faithful service and good works. The verse commends the growth and fidelity of the church, contrasting it with those who have fallen back, emphasizing the importance of love as the foremost virtue. Overall, it portrays a community that strives to faithfully follow God's teachings and diligently serve one another.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "faith and service." The four are subordinate to "thy works"; thus, "I know thy works, even the love and the faith (these two forming one pair, as 'faith works by love,' :-), and the service (ministration to the suffering members of the Church, and to all in spiritual or temporal need), and the endurance of (that is, shown by) thee (this pronoun belongs to all four)."
 2. "As love is inward, so service is its outward manifestation."
 3. "Similarly, faith and persevering endurance, or 'patient continuance (the same Greek as here, Romans 2:7) in well-doing,' are connected."
@@ -41,4 +41,4 @@ This verse highlights the interconnectedness of faith, love, and service within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators highlight that the field represents the world, e
 2. "The parable sets forth to us the universal sowing of GOOD SEED by the Gospel: it sows no bad seed: all this is done by the enemy." 
 3. "It is not the office, however much it may be the desire, of the servants of the householder, the labourers in His field, to collect or root up these tares, to put them out of the world literally, or of the Church spiritually...this is reserved for another time and for other hands, for the harvest, the end; for the reapers, the angels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tares are the children of the wicked one" - This phrase emphasizes that the presence of evil in the world is not accidental or random, but rather a result of the influence of the wicked one. It highlights the spiritual battle between good and evil that exists in the world.
 
 2. "No blame seems intended, and certainly none is charged upon 'the servants'" - This statement clarifies that the parable is not meant to assign blame to the servants for the presence of the tares. It suggests that the focus of the parable is not on human responsibility, but on the reality of evil coexisting with good.
@@ -42,4 +42,4 @@ In this verse, the commentators highlight that the field represents the world, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

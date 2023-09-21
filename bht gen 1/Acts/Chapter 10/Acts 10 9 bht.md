@@ -9,7 +9,7 @@ In this Bible verse, we find Peter seeking a quiet and elevated place for prayer
 2. "The second hour of prayer: also of the mid-day meal." 
 3. "The distance was thirty Roman miles, part of which they performed on the preceding evening, perhaps to Apollonia, and the rest that morning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The flat roof, the chosen place in the East for cool retirement."
 2. "The sixth hour—noon."
 3. "Upon the housetop."
@@ -47,4 +47,4 @@ In this Bible verse, we find Peter seeking a quiet and elevated place for prayer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

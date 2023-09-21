@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the timing and scope of the blessing o
 2. "The stress is on τῷ Ἀβραάμ, not on ἡ πίστις: for we say that TO ABRAHAM faith was reckoned for righteousness."
 3. "The affirmative answer is then made the ground of the argumentation in Romans 4:10-12: On the uncircumcision (-cised) also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Say not, All this is spoken of the circumcised, and is therefore no evidence of God's general way of justifying men." 
 2. "Abraham's justification took place long before he was circumcised, and so could have no dependence upon that rite."
 3. "The sign of circumcision was given to Abraham as a seal of the justifying righteousness which he had before he was circumcised."
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize the timing and scope of the blessing o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

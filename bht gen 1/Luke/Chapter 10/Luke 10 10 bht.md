@@ -4,7 +4,7 @@
 In this verse, there is a call to action for believers to venture out of their comfort zones and engage with the world. It emphasizes the importance of inner disposition towards peace and readiness to receive the message. The verse also contains instructions on how to handle rejection, urging believers to not be discouraged but to continue their mission, even if it means publicly expressing their response to rejection. This passage highlights the interconnectedness between one's inner state, their actions in the public sphere, and the challenges faced in spreading their message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Son of peace" refers to someone who is ready and open to receiving the message of peace. This implies that not everyone will be receptive to the message and that it takes a certain disposition to embrace it.
 
 2. The phrase "son of peace" suggests that there is a connection between the person's inner state and their ability to accept the message. It emphasizes the importance of inner preparation and readiness to receive the message of peace.
@@ -25,4 +25,4 @@ In this verse, there is a call to action for believers to venture out of their c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

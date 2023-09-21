@@ -4,7 +4,7 @@
 From these commentaries, we can infer that the verse being described talks about the actions and words that come forth from a person's heart. It emphasizes the importance of having a good and righteous heart, which is filled with the grace of God and leads a person to do good things. Conversely, an evil heart leads to evil actions and speech. The verse presents a clear distinction between the two kingdoms of good and evil, highlighting the significance of the heart's condition in determining one's allegiance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A good man, out of the good treasure of the heart, bringeth forth good things." 
 2. "The word 'putteth' indicates the spontaneity of what comes from the heart."
 3. "There are but two kingdoms, interests, parties—with the proper workings of each: If I promote the one, I cannot belong to the other."
@@ -28,4 +28,4 @@ From these commentaries, we can infer that the verse being described talks about
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

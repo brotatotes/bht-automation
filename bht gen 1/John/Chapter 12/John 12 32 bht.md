@@ -9,7 +9,7 @@ The Bible verse in question speaks of the glorification of Jesus, as he is lifte
 2. "The Lord Jesus, though knowing all this, yet in the weakness of his humanity, puts himself into this seeming doubt, 'if it is so to be.'"
 3. "Before the glorification of Christ, the Father drew men to the Son, but now the Son Himself draws all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If lifted up," means not only after that I have been lifted up, but, through the virtue of that uplifting.
 2. The death of the Cross, in all its significance, revealed in the light, and borne in upon the heart, by the power of the Holy Ghost, possesses an attraction over the wide world.
 3. "Will draw all men 'UNTO ME,'" says He. What lips could venture to utter such a word but His, which "dropt as an honeycomb," whose manner of speaking was evermore in the same spirit of conscious equality with the Father?
@@ -48,4 +48,4 @@ The Bible verse in question speaks of the glorification of Jesus, as he is lifte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

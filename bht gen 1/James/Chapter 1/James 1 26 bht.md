@@ -9,7 +9,7 @@ This verse speaks to the issue of false religious pretensions, particularly when
 2. "Hoc vitium nominatim oportuit taxari, quum de legis observatione sermo esset." 
 3. "The religious service is vain (idle and fruitless)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man think himself to be religious, that is, observant of the offices of religion, let him know these consist not so much in outward observances, as in such acts of mercy and humble piety."
 2. "James does not mean that these offices are the great essentials, or sum total of religion but that, whereas the law service was merely ceremonial, the very services of the Gospel consist in acts of mercy and holiness."
 3. "Discretion in speech is better than fluency of speech. God alone can enable us to do so. James, in treating of the law, naturally notices this sin."
@@ -59,4 +59,4 @@ These quotes highlight the hypocrisy of someone who appears religious outwardly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

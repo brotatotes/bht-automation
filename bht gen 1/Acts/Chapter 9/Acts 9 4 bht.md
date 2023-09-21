@@ -9,7 +9,7 @@ In this powerful encounter, we witness the striking balance of God's justice and
 2. "In ch. 26, where he was speaking in Greek before Festus, he inserts the words τῇ Ἑβρ. διαλ., to account for the use of the form Σαούλ."
 3. "A remarkable illustration of Matthew 25:45. The με is not emphatic, but the very lack of emphasis, assuming the awful fact, gives more solemnity to the question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saul, Saul—a reduplication full of tenderness [DE WETTE]. Though his name was soon changed into 'Paul,' we find him, in both his own narratives of the scene, after the lapse of so many years, retaining the original form, as not daring to alter, in the smallest detail, the overpowering words addressed to him."
 2. "Why persecutest thou me?—No language can express the affecting character of this question, addressed from the right hand of the Majesty on high to an infuriated, persecuting mortal."
 3. "His companions with him, who 'saw the light' and heard a voice saying unto him—in the Hebrew tongue."
@@ -61,4 +61,4 @@ In this powerful encounter, we witness the striking balance of God's justice and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

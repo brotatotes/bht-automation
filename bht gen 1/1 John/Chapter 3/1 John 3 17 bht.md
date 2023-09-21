@@ -9,7 +9,7 @@ In this verse, the author urges believers to extend their love beyond words and 
 2. "There is then in this unmerciful man not merely the being aware of, but the deliberate contemplation of the distress of his brother."
 3. "How can we think of such an one as at all possessing the love of God in any proper sense?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we ought to lay down our lives for the brethren, how much more ought we not to withhold our substance?" 
 2. "The 'bowels' mean the heart, the seat of compassion." 
 3. "Our superfluities should yield to the necessities; our comforts, and even our necessaries in some measure, should yield to the extreme wants of our brethren."
@@ -53,4 +53,4 @@ In this verse, the author urges believers to extend their love beyond words and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

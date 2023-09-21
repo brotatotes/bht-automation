@@ -9,7 +9,7 @@ In the face of a miraculous incident, the commentators debate whether it was a d
 2. "I believe the latter alternative to be the right one. Commentators cite various instances of the confusion of the enemies of innocent men before the calmness and dignity of their victims, how much more was this likely to be the case when He in whom was no sin, and who spake as never man spake, came forth to meet His implacable foes as the self-sacrificing Lamb of God."
 3. "Such incidents as this are not related by the Evangelists, and least of all by St. John, as mere astounding facts, but as grounds on which we are to enquire, and determine for ourselves, as to the 'glory, full of grace and truth,' which was in Him, whom, not having seen, we love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They went backward—recoiled." 
 2. "Fell to the ground—struck down by a power such as that which smote Saul of Tarsus and his companions to the earth." 
 3. "It was the glorious effulgence of the majesty of Christ which overpowered them."
@@ -44,4 +44,4 @@ In the face of a miraculous incident, the commentators debate whether it was a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse in question depicts the deceptive nature of false teachings and the idolatrous practices of Antichrist and those who follow him. These delusions, backed by the secular power of the Papacy, lead astray those who are destined to perish. The image mentioned refers to the various forms of worship and adoration demanded by the papal authority, with some suggesting it symbolizes the transfer of the Roman Empire's power to the emperors endorsed by the Pope. This warns of the dangers of surrendering to deception and placing one's faith in counterfeit authorities, rather than in the true teachings of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even a miracle is not enough to warrant belief in a professed revelation unless that revelation be in harmony with God's already revealed will."
 2. "A personal Antichrist."
 3. "A, B, and C read, 'who'; marking, perhaps, a personal Antichrist."
@@ -44,4 +44,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

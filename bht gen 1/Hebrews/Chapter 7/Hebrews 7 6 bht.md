@@ -9,7 +9,7 @@ This passage describes the unique authority and significance of Melchizedek, emp
 2. "the enduring nature of the office and priesthood of Melchisedek" - The perfect tense used here emphasizes the lasting significance and authority of Melchizedek's priesthood.
 3. "blessed the possessor of the promises" - This phrase refers to Abraham as the one who received the blessings and fulfillment of God's promises. It underscores the special relationship between Melchizedek and Abraham.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who needs not, as the Levitical priests, to be able to trace his genealogy back to Levi."
 2. "The perfect tense implies that the significance of the fact endures to the present time."
 3. "Melchisedec must be much above the Levitical priests."
@@ -54,4 +54,4 @@ This passage describes the unique authority and significance of Melchizedek, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

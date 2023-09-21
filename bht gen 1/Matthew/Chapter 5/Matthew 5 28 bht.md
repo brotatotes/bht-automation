@@ -9,7 +9,7 @@ The verse being described discusses the sin of adultery, specifically focusing o
 2. "The gazing with a view to feed that desire (for so πρὸς τό with an inf. must mean)." 
 3. "The man who can do this viz. ‘gaze with a view to feed unlawful desire’ has already in his heart passed the barrier of criminal intention; made up his mind, stifled his conscience; in thought, committed the deed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expressions, 'whosoever looketh,' and 'looketh upon a woman,' seem clearly to extend the range of this commandment to all forms of impurity."
 2. "The counsels which follow—as they most certainly were intended for all, whether married or unmarried—seem to confirm this."
 3. "As in dealing with the sixth commandment our Lord first expounds it, and then in the four following verses applies His exposition, so here He first expounds the seventh commandment, and then in the four following verses applies His exposition."
@@ -40,4 +40,4 @@ The verse being described discusses the sin of adultery, specifically focusing o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

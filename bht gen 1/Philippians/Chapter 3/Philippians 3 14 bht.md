@@ -4,7 +4,7 @@
 The Bible verse being described is focused on the high calling of Christians to salvation in Christ, their ultimate goal being the prize of an incorruptible crown in heaven. The verse encourages believers to keep their gaze fixed on the goal, constantly stretching forward towards it like a runner in a race. It emphasizes the importance of not being distracted by past mistakes or achievements, but rather being forward-looking and continually pursuing spiritual growth with Jesus as their guiding force.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high, or heavenly calling, is not restricted, as ALFORD thinks, to Paul's own calling as an apostle by the summons of God from heaven; but the common calling of all Christians to salvation in Christ." 
 2. "The calling that is above" refers to "the heavenly calling" that invites us to heaven. 
 3. "The prize" is "the crown of righteousness," "the crown of life," and "a crown of glory that fadeth not away."
@@ -43,4 +43,4 @@ The Bible verse being described is focused on the high calling of Christians to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

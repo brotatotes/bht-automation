@@ -4,7 +4,7 @@
 In this verse, there is a dispute among the disciples, showing their struggles with pride and self-interest. Jesus seizes this opportunity to teach them about humility and service, exemplifying true greatness through selfless acts. By washing the disciples' feet, Jesus demonstrates his love and humility, encouraging his followers to do the same. This contention among the disciples highlights the human nature of their struggles and reminds us that even those closest to Jesus face moments of weakness and ambiguity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples were not only disputing among themselves, but they were also struggling with their own fears and doubts. This reminds us that even those closest to Jesus can still have moments of weakness and uncertainty."
 2. "Jesus uses this moment of tension and disagreement among the disciples to teach them a valuable lesson about humility and service. He shows them that true greatness is not found in seeking power and authority, but in serving others selflessly."
 3. "The act of washing the disciples' feet was not just a physical act of cleanliness, but a powerful symbol of Jesus' love and humility. It was a demonstration of his willingness to stoop down and serve even the lowliest of tasks, setting an example for his followers to do the same."
@@ -45,4 +45,4 @@ In this verse, there is a dispute among the disciples, showing their struggles w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

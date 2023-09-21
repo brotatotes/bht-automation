@@ -9,7 +9,7 @@ In this verse, a fervent Paul confronts Ananias, calling him out as a hypocrite,
 2. "That Paul thus answered, might go far to excuse a like fervent reply in a Christian or a minister of the gospel, but must never be used to justify it: it may serve for an apology, but never for an example."
 3. "Some have seen a prophetic import in these words; see above on the death of Ananias. But I would rather take them as an expression founded on a conviction that God’s just retribution would come on unjust and brutal acts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God shall smite thee—as indeed He did; for he was killed by an assassin during the Jewish war." 
 2. "Thou whited wall—that is, hypocrite." 
 3. "This epithet, however correctly describing the man, must not be defended as addressed to a judge, though the remonstrance which follows—"for sittest thou," &c.—ought to have put him to shame."
@@ -55,4 +55,4 @@ Note: The commentary is referencing Acts 23:3.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a parable of the fig tree is presented, inviting readers to delve
 2. "The emphasis on 'her branch' highlights the significance of the fig-tree as a symbol of life and growth."
 3. "This passage employs an 'a fortiori' argument, emphasizing that if something is true in a lesser case, it is even more true in a greater case."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now learn a parable of the fig tree" - This verse invites us to delve into the deeper meaning behind the fig tree, to learn a profound lesson from it. It encourages us to seek wisdom and understanding from the natural world around us.
 
 2. "When her branch is yet tender, and putteth forth leaves" - This phrase highlights the delicate and vulnerable nature of the fig tree's branch as it begins to grow and produce leaves. It reminds us that growth and progress often start from a place of fragility and small beginnings.
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the need for attentiveness to the signs and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

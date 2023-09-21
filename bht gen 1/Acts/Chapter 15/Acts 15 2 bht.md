@@ -9,7 +9,7 @@ In the early days of the Church, there arose a question of controversy regarding
 2. "Titus was one, Galatians 2:1; Galatians 2:3, and that, in all probability, in order to give an example of a Gentile convert of the uncircumcision endowed with gifts of the Holy Spirit."
 3. "Titus is not mentioned in the Acts: but only in 2 Cor., Gal., 2 Tim., and the epistle addressed to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul and Barnabas—now the recognized heads of the Church at Antioch." 
 2. "They determined—that is, the church did." 
 3. "That such a deputation should be formally despatched by the Church of Antioch was natural, as it might be called the mother church of Gentile Christianity."
@@ -53,4 +53,4 @@ In the early days of the Church, there arose a question of controversy regarding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

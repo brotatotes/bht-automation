@@ -1,10 +1,10 @@
 # Mark 8:2 Commentary Help Text
 
 ## BHT:
-In this verse, we witness the deep compassion of the Redeemer towards the multitude, as Jamieson Fausset Brown points out. The phrase "three days" highlighted by Archibald T. Robertson adds depth and significance to the timeline, emphasizing the anticipation and build-up to the current situation. Furthermore, John Gill's commentary highlights Christ's unwavering compassion, extending to both the physical and spiritual needs of all humanity. This connection invites readers to consider the broader implications and themes, ultimately deepening their understanding of the verse.
+In this verse, we witness the deep compassion of the Redeemer towards the multitude, as Jamieson-Fausset-Brown points out. The phrase "three days" highlighted by Archibald T. Robertson adds depth and significance to the timeline, emphasizing the anticipation and build-up to the current situation. Furthermore, John Gill's commentary highlights Christ's unwavering compassion, extending to both the physical and spiritual needs of all humanity. This connection invites readers to consider the broader implications and themes, ultimately deepening their understanding of the verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have compassion on the multitude—an expression of that deep emotion in the Redeemer's heart which always preceded some remarkable interposition for relief."
 2. "because they have now been with me—in constant attendance."
 3. "three days, and have nothing to eat."
@@ -30,4 +30,4 @@ In this verse, we witness the deep compassion of the Redeemer towards the multit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

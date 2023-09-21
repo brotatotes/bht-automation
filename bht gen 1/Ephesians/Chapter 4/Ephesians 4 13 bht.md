@@ -4,7 +4,7 @@
 The verse being described is focused on the unity and growth of believers in their faith and knowledge of the Son of God. It highlights the importance of having a shared belief system as well as a personal understanding of Christ. The goal is for believers to reach a state of spiritual maturity, where they are filled with Christ and He becomes all in all. The verse emphasizes the continual work of the ministry and the need for all believers to come together in unity and faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Full unity of faith is then found, when all alike thoroughly know Christ, the object of faith, and that in His highest dignity as 'the Son of God'." 
 2. "Amidst the variety of the gifts and the multitude of the Church's members, its 'faith' is to be ONE: as contrasted with the state of 'children carried about with EVERY WIND OF DOCTRINE.'"
 3. "The standard of spiritual 'stature' is 'the fulness of Christ,' that is, which Christ has; that the body should be worthy of the Head, the perfect Christ."
@@ -50,4 +50,4 @@ The verse being described is focused on the unity and growth of believers in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

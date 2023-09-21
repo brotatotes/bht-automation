@@ -11,7 +11,7 @@ In this verse, Jesus addresses his disciples as "my friends," drawing on the exa
 
 3. "The mention of John 15:13-15 in this verse reminds us that friendship with God is not merely a casual acquaintance, but a profound and sacrificial bond. It challenges us to consider the depth of our own relationship with God and how we can emulate the love and selflessness of Jesus in our friendships."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My friends, there their power ends."
 2. "He calls them 'my friends' here, not in any loose sense."
 3. "In this 'killing of the body' He and they were going to be affectingly one with each other."
@@ -42,4 +42,4 @@ In this verse, Jesus addresses his disciples as "my friends," drawing on the exa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

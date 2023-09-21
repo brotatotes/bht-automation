@@ -9,7 +9,7 @@ In this verse, we see Jesus addressing a spiritually corrupt generation that see
 2. "Here we have one part of the sign of Jonas brought out, which is not touched on in Matt., viz. his preaching after his resurrection to the Ninevites, announcing for that would necessarily be involved in that preaching the wonderful judgment of God in bringing him there."
 3. "A greater than Jonas, shewing and preaching a greater sign by far, this generation shall reject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God is in control of all things, even the smallest details of our lives. We may not always understand why certain things happen, but we can trust that God has a plan and is working all things together for our good." 
 
 2. "This verse is a powerful reminder that God's love for us is unconditional. It doesn't matter what we have done or how far we have strayed, God's love is always available to us. We can never outrun or outsin His grace." 
@@ -51,4 +51,4 @@ In this verse, we see Jesus addressing a spiritually corrupt generation that see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a significant person is introduced as a man who holds great impor
 2. "ἐγένετο not belonging to ἀπεσταλμένος, but to ἄνθρ.: the ordinary opening of an historical period."
 3. "There was a man sent, &c. In ἀπεστ. παρὰ θεοῦ we have possibly a reference to Malachi 3:1."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Evangelist here approaches his grand thesis, so paving his way for the full statement of it in John 1:14." 
 
 2. "That we may be able to bear the bright light of it, and take in its length and breadth and depth and height." 
@@ -54,4 +54,4 @@ These quotes shed light on the context and significance of John the Baptist's ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

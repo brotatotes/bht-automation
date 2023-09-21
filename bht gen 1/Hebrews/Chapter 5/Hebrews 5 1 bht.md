@@ -9,7 +9,7 @@ The verse being described talks about the role of the high priest as someone who
 2. "The stress is both times on this genitive and its preposition, 'ἐξ ἀνθρώπων λαμβανόμενος, ὑπὲρ ἀνθρώπων καθίσταται: the former justifying the latter."
 3. "That he may offer both gifts and sacrifices for sins."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatever is excellent in the Levitical priests is also in Christ, and besides excellencies which are not in the Levitical priests."
 2. "Being 'from men,' He can be 'for (that is, in behalf of, for the good of) men.'"
 3. "Both gifts to be joined with 'for sins,' as 'sacrifices' is; therefore not the Hebrew, 'mincha,' 'unbloody offerings,' but animal whole burnt offerings, spontaneously given."
@@ -55,4 +55,4 @@ The verse being described talks about the role of the high priest as someone who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

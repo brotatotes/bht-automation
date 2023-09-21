@@ -9,7 +9,7 @@ The Bible verse being described showcases God's choice to favor the poor in fait
 2. "The riches are the treasures of salvation, and especially, owing to the following heirs of the kingdom which He promised." 
 3. "The poor, in the world's estimation, are accounted rich in faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The poor, as a class, furnish more believers than the rich as a class."
 2. "The rich, if a believer, renounces riches as his portion; the poor, if an unbeliever, neglects that which is the peculiar advantage of poverty."
 3. "Their riches consist in faith. Christ's poverty is the source of the believer's riches."
@@ -55,4 +55,4 @@ The Bible verse being described showcases God's choice to favor the poor in fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

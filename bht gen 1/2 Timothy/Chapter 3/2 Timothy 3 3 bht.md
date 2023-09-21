@@ -4,7 +4,7 @@
 The commentators provide valuable insight into a verse that speaks to the negative characteristics and behaviors of certain individuals. They describe a lack of natural affection, where parents abandon or disregard their own children. They highlight the presence of truce-breakers and false accusers, who undermine agreements and spread slander. Moreover, they emphasize the incontinence and fierceness of these individuals, who lack self-control and exhibit cruelty. These descriptions underscore the importance of cultivating genuine love, self-control, and healthy relationships in our interactions with others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Truce-breakers—rather as the Greek is translated in :-, 'implacable.'"
 2. "False accusers—slanderers (1 Timothy 3:11; Titus 2:3)."
 3. "Incontinent, fierce—at once both soft and hard: incontinently indulging themselves, and inhuman to others."
@@ -51,4 +51,4 @@ The commentators provide valuable insight into a verse that speaks to the negati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes Paul's journey to Syria and Cilicia, where he diligently pr
 2. "Cilicia being separated from Asia Minor by Mount Taurus."
 3. "The supposition is confirmed by our Galatians 1:23."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He probably went first to Cæsarea, the main seaport, and thence by sea to Tarsus of Cilicia, his native place." 
 2. "His placing 'Syria' in the order of words before 'Cilicia,' is due to Antioch being a more important city than Tarsus, as also to his longer stay in the former city."
 3. "Also 'Syria and Cilicia,' from their close geographical connection, became a generic geographical phrase, the more important district being placed first."
@@ -45,4 +45,4 @@ This verse describes Paul's journey to Syria and Cilicia, where he diligently pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

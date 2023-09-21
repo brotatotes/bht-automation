@@ -9,7 +9,7 @@ Believers in Christ, united to him in a covenant relationship, and living under 
 2. "The stress is on ὑμεῖς, τοῦ Ἀβραάμ, and κατ' ἐπαγγελίαν, especially on the latter, carrying the conclusion of the argument, as against inheritance by the law."
 3. "The declaration of Gal 3:7 is now substantiated by 22 verses of the deepest, the most varied, and most comprehensive reasoning that exists in the whole compass of the great Apostle's writings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is 'Abraham's seed': ye are 'one in Christ,' and one with Christ, as having 'put on Christ'." 
 2. "Ye are 'Abraham's seed,' which is tantamount to saying, ye are 'heirs according to the promise'." 
 3. "In Him the lineal descent from David becomes extinct. He died without posterity. But He lives and shall reign on David's throne."
@@ -50,4 +50,4 @@ Believers in Christ, united to him in a covenant relationship, and living under 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

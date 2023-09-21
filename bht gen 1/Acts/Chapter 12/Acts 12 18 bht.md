@@ -9,7 +9,7 @@ In the early hours of the morning, amidst the last watch of the night, an unanti
 2. "His escape would have been perceived at the next change of the watch."
 3. "What happened? So Theocr. Id. xiv. 51, 'What shall we become?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His deliverance must have been during the fourth watch (three to six A.M.) else he must have been missed by the keepers at the change of the watch."
 2. "As soon as it was day."
 3. "His deliverance."
@@ -45,4 +45,4 @@ In the early hours of the morning, amidst the last watch of the night, an unanti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

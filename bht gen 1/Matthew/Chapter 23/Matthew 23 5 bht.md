@@ -4,7 +4,7 @@
 The verse being described highlights the hypocritical actions of the scribes and Pharisees. They perform good deeds and display their devotion, not out of genuine piety, but for the purpose of gaining human praise. These individuals make a show of their religious practices by wearing phylacteries - small scrolls with Scripture verses - on their foreheads and arms, and by enlarging the fringes of their garments. However, their motivations are rooted in pride and self-righteousness rather than true reverence for God's commandments. Their external displays serve as mere acts of ostentation, disguising their inward hypocrisy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatever good they do, or zeal they show, has but one motive - human applause."
 2. "They make broad their phylacteries - strips of parchment with Scripture-texts on them, worn on the forehead, arm, and side, in time of prayer."
 3. "And enlarge the borders of their garments - fringes of their upper garments."
@@ -52,4 +52,4 @@ These quotes provide insights into the literal practices of the Jews and the Pha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

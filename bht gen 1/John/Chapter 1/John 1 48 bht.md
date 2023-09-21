@@ -9,7 +9,7 @@ In this Bible verse, Jesus astounds Nathanael with his supernatural insight into
 2. "To suppose that Jesus overheard that question, is just one of those perfectly gratuitous assumptions which the very Commentators who here make this supposition are usually the first to blame."
 3. "‘An Israelite who truly answers to the inner and honourable meaning of the name.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whence knowest thou me—conscious that his very heart had been read, and at this critical moment more than ever before."
 2. "Before Philip called thee—showing He knew all that passed between Philip and him at a distance."
 3. "Thither, probably—hearing that his master's Master had at length appeared, and heaving with mingled eagerness to behold Him and dread of deception—he had retired to pour out his guileless heart for light and guidance, ending with such a prayer as this, 'Show me a token for good!'"
@@ -53,4 +53,4 @@ In this Bible verse, Jesus astounds Nathanael with his supernatural insight into
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

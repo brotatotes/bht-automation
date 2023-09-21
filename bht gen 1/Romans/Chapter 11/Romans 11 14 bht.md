@@ -4,7 +4,7 @@
 The passage under examination speaks of a minister's impassioned desire to stir up his own people to envy and emulation through his ministry to others. It serves as a poignant reminder of the challenges faced by the apostle Paul in his mission to reach the Jews. Despite the resistance and rejection encountered, the faithful discharge of his duty was aimed at provoking a zealous response from his fellow Jews and calling them to salvation. It highlights the power of preaching as an instrument in effecting the salvation of souls.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If . . . I may provoke, &c." - This quote refers to the apostle Paul's desire to provoke his fellow Jews to jealousy by his ministry to the Gentiles. It highlights his passion to see his own people come to faith in Christ.
 
 2. "my flesh" - This phrase emphasizes Paul's deep connection to his Jewish heritage and his longing for his fellow Jews to experience the salvation that comes through faith in Jesus.
@@ -47,4 +47,4 @@ The passage under examination speaks of a minister's impassioned desire to stir 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

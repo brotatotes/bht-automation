@@ -9,7 +9,7 @@ This verse speaks to the transformative power of being born again and having a g
 2. "The τηρεῖσθαι must be, by the very nature of the case, so far complete, that the wicked one cannot approach: and whose self-guarding can ensure this even for a day?"
 3. "He that was begotten of God keepeth him... But this would hardly suit the analogy of the Epistle: see e.g. 1Jn 5:1 and note), and the wicked one doth not touch him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse warns against abusing 1 John 5:16; 1 John 5:17, as warranting carnal security."
 2. "Not only advanced believers, but every one who is born again, 'sinneth not.'"
 3. "That God must keep us, if we are to keep ourselves from evil, is certain."
@@ -51,4 +51,4 @@ This verse speaks to the transformative power of being born again and having a g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

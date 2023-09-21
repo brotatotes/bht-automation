@@ -9,7 +9,7 @@ The verse being described is an encounter between Jesus and his disciples on the
 2. "The words are a sort of self-reproach for not having done so."
 3. "He spoke to us, not merely, 'with us,' as E. V."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ah! this accounts for it: We could not understand the glow of self-evidencing light, love, glory that ravished our hearts; but now we do."
 2. "The only one of the Eleven to whom He appeared alone was he, it seems, who had so shamefully denied Him. What passed at that interview we shall never know here. Probably it was too sacred for disclosure."
 3. "What encouragement to doubting, dark, true-hearted disciples!"
@@ -61,4 +61,4 @@ These quotes collectively shed light on the disciples' profound spiritual experi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Based on the commentaries, the Bible verse being described emphasizes the restor
 
 3. "The Apostle frequently varies from the LXX, and a sufficient reason can generally be assigned for the variation: here, though this reason is not apparent, we cannot doubt that such existed, for the LXX would surely have suited his purpose even better than ἐκ, had there been no objection to it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To understand this great statement, as some still do, merely of such a gradual inbringing of individual Jews, that there shall at length remain none in unbelief, is to do manifest violence both to it and to the whole context."
 2. "The apostle, having drawn his illustrations of man's sinfulness chiefly from Psalms 14:1-7; Isaiah 59:1-21, now seems to combine the language of the same two places regarding Israel's salvation from it."
 3. "And whereas the prophet announces that He 'shall come to (or, 'for') them that turn from transgression in Jacob,' while the apostle makes Him say that He shall come 'to turn away ungodliness from Jacob,' this is taken from the Septuagint version, and seems to indicate a different reading of the original text."
@@ -57,4 +57,4 @@ Based on the commentaries, the Bible verse being described emphasizes the restor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

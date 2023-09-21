@@ -9,7 +9,7 @@ This verse describes the perspective of the author towards the readers, having c
 2. "Without information from others."
 3. "Ye also yourselves, i.e. without exhortation of mine."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now I am persuaded, my brethren, even I myself, concerning you" - This quote shows the confidence and trust that the author has in the readers. It highlights the belief that they are capable of understanding and following the teachings being shared.
 
 2. "full of goodness" - This quote emphasizes the readers' inclination towards doing what is right and good. It suggests that they have a genuine desire to follow the teachings and live a righteous life.
@@ -57,4 +57,4 @@ This verse describes the perspective of the author towards the readers, having c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

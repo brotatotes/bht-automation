@@ -9,7 +9,7 @@ The Bible verse being described is a call to dedication and wholeheartedness in 
 2. "that thy progress may be manifest to all." 
 3. "the more direct meaning is, 'with reference to the duties of thine office:’ and especially as respects the caution given 1 Timothy 4:12, that no man despise thy youth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Meditate CAREFULLY upon" - Meditation is not a passive activity, but rather a deliberate and focused reflection on spiritual truths. (Psalms 1:2; Psalms 119:15; compare "Isaac," Genesis 24:63)
 
 2. "Entire self-dedication, as in other pursuits, so especially in religion, is the secret of proficiency." - Giving oneself wholly to the study of spiritual matters leads to growth and progress in the Christian life. (Genesis 24:63)
@@ -57,4 +57,4 @@ The Bible verse being described is a call to dedication and wholeheartedness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

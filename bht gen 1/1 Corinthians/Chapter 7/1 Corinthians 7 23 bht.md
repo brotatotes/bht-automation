@@ -9,7 +9,7 @@
 2. "BECOME NOT SLAVES OF MEN: i.e. ‘do not allow your relations to human society, whether of freedom or slavery, to bring you into bondage so as to cause you anxiety to change the one or increase the other.’"
 3. "Hammond, Knatchbull, Michaelis, al., understand it as addressed to the free, and meaning that they are not to sell themselves into slavery: but this is evidently wrong: as may be seen by the change to the second person plur. as addressing all his readers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "YE ALL are 'bought' with the blood of Christ, whatever be your earthly state." 
 2. "Become not servants to men, either externally, or spiritually." 
 3. "The external and internal conditions, so far as is attainable, should correspond, and the former be subservient to the latter."
@@ -56,4 +56,4 @@ These quotes from the commentary highlight the concepts of redemption, belonging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

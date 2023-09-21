@@ -9,7 +9,7 @@ After witnessing visions of Christ and writing the letters to the seven churches
 2. "The heaven, the house or palace of God, remains firmly shut to those on earth, but a door is opened, and the Seer is rapt in the Spirit through it."
 3. "Come up hither...and I will show thee the things which must take place after these things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here is the transition from 'the things which are'...to 'the things which shall be hereafter,' namely, in relation to the time when John wrote."
 2. "John is transported in vision through an open door up into heaven, whence he can see things passing on earth or in heaven, according as the scenes of the several visions require."
 3. "Come up hither—through the 'open door.'"
@@ -50,4 +50,4 @@ Note: The commentary is quite lengthy, so I have provided three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

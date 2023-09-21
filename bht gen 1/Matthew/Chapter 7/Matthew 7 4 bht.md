@@ -11,7 +11,7 @@ In this verse, there is a challenge to the credibility and authority of Jesus, a
 
 3. "You hypocrite, first take the plank out of your eye, and then you will see clearly to remove the speck from your brother's eye." - This statement emphasizes the importance of self-reflection and personal growth before attempting to correct or judge others. It encourages individuals to focus on their own shortcomings and work towards improvement before offering guidance or criticism to others.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the hypocrisy of judging others while ignoring our own faults. It reminds us to examine ourselves before pointing out the flaws in others." 
 2. "The imagery of a mote and a beam emphasizes the stark contrast between a small speck and a large plank, illustrating the absurdity of trying to fix someone else's minor issue while having a major issue ourselves." 
 3. "Jesus is challenging us to be self-aware and humble, recognizing that we are not perfect and have our own faults to address before we can effectively help others."
@@ -30,4 +30,4 @@ In this verse, there is a challenge to the credibility and authority of Jesus, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

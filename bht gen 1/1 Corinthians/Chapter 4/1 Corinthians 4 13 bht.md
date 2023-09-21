@@ -9,7 +9,7 @@ The verse under consideration portrays the profound persecution and humiliation 
 2. "περικάθαρμα is so used in ref. Prov., and περίψημα in ref. Tobit." - The commentary points out that similar terms are used in other biblical references, suggesting that they carry a reproachful connotation.
 3. "περίψημα, the expression is more contemptuous." - The commentary emphasizes that the term περίψημα intensifies the contemptuous nature of the phrase, further emphasizing the lowly status of believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We entreat God for our defamers, as Christ enjoined." - This quote highlights the Christian principle of praying for those who speak ill of us, as taught by Jesus in Matthew 5:10 and Matthew 5:44.
 
 2. "We reply gently." - This quote emphasizes the importance of responding to defamation with a gentle and patient attitude, rather than reacting with anger or retaliation.
@@ -61,4 +61,4 @@ The verse under consideration portrays the profound persecution and humiliation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

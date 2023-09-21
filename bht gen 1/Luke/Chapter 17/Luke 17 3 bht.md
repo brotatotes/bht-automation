@@ -4,7 +4,7 @@
 Take heed to yourselves, being mindful of your actions and attitudes, ensuring that you do not cause harm or offense to others. Be sensitive and considerate towards those around you, avoiding anything that may cause hurt or offense. In the same way, guard against becoming easily offended by others, developing a spirit of forgiveness and resilience. By doing so, you can maintain healthy relationships and promote peace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God's love is not based on our performance or worthiness. It is a love that is freely given, regardless of our flaws and failures."
 2. "The phrase 'while we were still sinners' emphasizes the depth of God's love for us. He didn't wait for us to clean up our act or become perfect before extending His love and grace."
 3. "God's love is sacrificial and selfless. He demonstrated this by sending His Son to die for us, even when we were undeserving. It is a love that goes beyond human comprehension."
@@ -44,4 +44,4 @@ Take heed to yourselves, being mindful of your actions and attitudes, ensuring t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

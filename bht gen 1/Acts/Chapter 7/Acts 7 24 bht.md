@@ -9,7 +9,7 @@ In this Bible verse, an act of injustice is described - a Hebrew is being oppres
 2. "The mention of the Egyptian serves as a reminder of the historical context and adds depth to the understanding of the injustice being referred to."
 3. "The reference to the Egyptian highlights the significance of this particular act of injustice and its impact on the narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Avenged him that was oppressed" - This quote highlights the righteous anger of Moses, as he takes action to defend the oppressed. It shows his commitment to justice and his willingness to stand up against injustice.
 
 2. "Smote the Egyptian" - This quote emphasizes the decisive and forceful action taken by Moses against the oppressor. It demonstrates his courage and determination to protect the weak and vulnerable.
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and lacks a clear explanation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

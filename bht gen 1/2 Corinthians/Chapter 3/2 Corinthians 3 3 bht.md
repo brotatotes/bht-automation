@@ -9,7 +9,7 @@ In this verse, Paul describes the Corinthians as a letter or epistle of Christ. 
 2. "The Corinthians are his Epistle of recommendation, both to themselves and others; an Epistle, written by Christ, ministered by Paul."
 3. "I bear on my heart, as a testimony to all men, that which Christ has by His Spirit written in your hearts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being manifestly shown to be an Epistle of Christ"; a letter coming manifestly from Christ, and "ministered by us," that is, carried about and presented by us as its (ministering) bearers to those (the world) for whom it is intended: Christ is the Writer and the Recommender, ye are the letter recommending us.
 2. Christ's Epistle (His believing members converted by Paul) is better still: it is written not merely with the finger, but with the "Spirit of the living God"; it is not the "ministration of death" as the law, but of the "living Spirit" that "giveth life."
 3. Once your hearts were spiritually what the tables of the law were physically, tables of stone, but God has "taken away the stony heart out of your flesh, given you a heart of flesh."
@@ -53,4 +53,4 @@ In this verse, Paul describes the Corinthians as a letter or epistle of Christ. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

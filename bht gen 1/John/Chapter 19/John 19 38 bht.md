@@ -9,7 +9,7 @@ In this Bible verse, we see Joseph of Arimathea and Nicodemus, both secret disci
 2. "The ἀρθῶσιν of Joh 19:31 need not imply, ‘by their hands.’"
 3. "It was customary to grant the bodies of executed persons to their friends."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marvellous it certainly is, that one who while Jesus was yet alive merely refrained from condemning Him, not having the courage to espouse His cause by one positive act, should, now that He was dead, and His cause apparently dead with Him, summon up courage to go in personally to the Roman governor and ask permission to take down and inter the body."
 2. "The heroism of faith is usually kindled by desperate circumstances, and is not seldom displayed by those who before were the most timid, and scarce known as disciples at all."
 3. "The reality of our Lord's death was attested by the party of all others most competent to decide on it, and certainly free from all bias—the officer in attendance—in full reliance on whose testimony Pilate surrendered the body."
@@ -51,4 +51,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

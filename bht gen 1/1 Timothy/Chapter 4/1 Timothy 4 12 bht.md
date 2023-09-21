@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the importance of not allowing others to look down upon one's youthfulness. They emphasize the need for young individuals to conduct themselves in a manner that commands respect and admiration, both in public and private settings. It is crucial to cultivate a positive and virtuous disposition, expressing kindness, patience, and humility. Additionally, faithfulness and trustworthiness in commitments and relationships are key aspects emphasized by the commentators in this verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Act so as to be respected in spite of thy youth."
 2. "Become a pattern in all that thou sayest in public and private."
 3. "Simplicity of holy motive followed out in consistency of holy action."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the importance of not allowing others 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

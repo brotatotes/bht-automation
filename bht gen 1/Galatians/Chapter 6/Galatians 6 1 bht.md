@@ -4,7 +4,7 @@
 In this Bible verse, addressed to the spiritually mature and strong members of the church, we are reminded of the importance of restoring those who have fallen into sin. We are called to gently and lovingly bring them back to a place of spiritual health and usefulness. Understanding our own vulnerabilities and weaknesses, we approach this task with meekness, taking care not to be tempted ourselves. The goal is to exemplify charity, bearing with one another and promoting the edification of the brethren, as we recognize that true strength is demonstrated in our ability to mend and restore souls.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If another has really been overtaken in a fault the first; for often he who is first to find fault, is the very one who has first transgressed."
 2. "Such is the tenderness with which we should treat a fallen member of the Church in restoring him to a better state."
 3. "Meekness is that temper of spirit towards God whereby we accept His dealings without disputing; then, towards men, whereby we endure meekly their provocations, and do not withdraw ourselves from the burdens which their sins impose upon us."
@@ -48,4 +48,4 @@ In this Bible verse, addressed to the spiritually mature and strong members of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks to the importance of sanctification and holiness as desired by
 2. "The will of God respecting us being known to be our sanctification, and then this, sanctification being afterwards specified as consisting in ἀπέχεσθαι, &c."
 3. "ἀπέχεσθαι and εἰδέναι further specifies and ensures the former."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For—enforcing the assertion that his 'commandments' were 'by (the authority of) the Lord Jesus' (1 Thessalonians 4:2)."
 2. "Since 'this is the will of God,' let it be your will also."
 3. "Fornication—not regarded as a sin at all among the heathen, and so needing the more to be denounced (Acts 15:20)."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of holiness and purity of life, as well as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

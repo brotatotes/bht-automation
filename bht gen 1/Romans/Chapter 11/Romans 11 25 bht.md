@@ -9,7 +9,7 @@ The verse being described is a message to the Gentile believers, emphasizing tha
 2. "That hardening has happened in part to Israel."
 3. "The completion of the Gentiles shall have come in."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'mystery,' so often used by our apostle, does not mean (as with us) something incomprehensible, but 'something before kept secret, either wholly or for the most part, and now only fully disclosed.'"
 2. "lest ye should be wise in your own conceits—as if ye alone were in all time coming to be the family of God."
 3. "until the Gentiles have had their full time of the visible Church all to themselves while the Jews are out, which the Jews had till the Gentiles were brought in."
@@ -57,4 +57,4 @@ The verse being described is a message to the Gentile believers, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

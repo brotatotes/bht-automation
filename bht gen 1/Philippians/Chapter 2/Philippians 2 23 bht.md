@@ -9,7 +9,7 @@ In this passage, the author expresses his intention to send Timothy promptly, un
 2. "The Apostle would have written, ‘as a son a father, so he served me,’ but changes it to ‘so he served with me,’ from modesty and reverence."
 3. "ὡς ἂν ἀφίδω, as soon as I shall have ascertained."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'so soon as I shall see' implies a sense of urgency and immediacy, highlighting the importance of receiving accurate and reliable information."
 2. "The use of 'so soon as I shall have known for certain' emphasizes the need for certainty and clarity in understanding, suggesting that mere speculation or hearsay is insufficient."
 3. "This verse reminds us of the value of seeking truth and knowledge before making judgments or taking action, emphasizing the importance of discernment and careful consideration."
@@ -53,4 +53,4 @@ This quote demonstrates the author's anticipation that the outcome of the situat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

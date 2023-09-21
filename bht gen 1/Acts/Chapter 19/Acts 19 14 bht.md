@@ -9,7 +9,7 @@ In this Bible verse, certain men, seven sons, attempted to exorcise demons by in
 2. "τινες does not belong to ἑπτά, see ch. Acts 23:23, but stands alone, recalling the τινες of the preceding verse."
 3. "Without the οἱ it would be, ‘certain men, &c. were attempting this,’ ἦσαν and ποιοῦντες being taken together. With it, They were (it was) certain men, seven sons, &c. who attempted this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of the seven sons of Sceva being 'chief of the priests' highlights their prestigious position and authority within the Jewish religious system." 
 
 2. "This verse emphasizes the contrast between the spiritual power and authority of the apostles and the empty religious rituals performed by the sons of Sceva." 
@@ -47,4 +47,4 @@ In this Bible verse, certain men, seven sons, attempted to exorcise demons by in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

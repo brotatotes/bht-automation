@@ -9,7 +9,7 @@ In this verse, believers are reminded to abide with God and prioritize their rel
 2. "The usual rendering, Deo inspectante (Grot.), i.e. 'perpetuo memores, vos in ejus conspectu versari' (Beza), does not so well suit the local word μενέτω."
 3. "Meyer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abide with God—being chiefly careful of the footing on which he stands towards God rather than that towards men." 
 2. "A man may cease to 'abide in the calling wherein he was called,' and yet not violate the precept here." 
 3. "If a man's calling be not favorable to his 'abiding with God' (retaining holy fellowship with Him), he may use lawful means to change from it."
@@ -46,4 +46,4 @@ In this verse, believers are reminded to abide with God and prioritize their rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

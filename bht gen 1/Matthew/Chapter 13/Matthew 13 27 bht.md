@@ -4,7 +4,7 @@
 In this verse, we find Christ's servants and people perplexed and concerned by the discovery of false brethren within the Church. The question they pose highlights the mystery of how evil can coexist with goodness, even within the household of faith. Christ, the master of the Church, responds to their concerns, assuring them that the presence of false brethren is not from Him, but permitted as a test. This verse reminds believers that evil is not a decree from God, but a reality we must face while holding onto the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This well expresses the surprise, disappointment, and anxiety of Christ's faithful servants and people at the discovery of 'false brethren' among the members of the Church." 
 2. "The presence of 'false brethren' within the Church is a cause for concern and confusion for those who are sincerely following Christ." 
 3. "The question posed by the servants highlights the mystery of how evil can exist alongside good, even within the Church."
@@ -23,4 +23,4 @@ In this verse, we find Christ's servants and people perplexed and concerned by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

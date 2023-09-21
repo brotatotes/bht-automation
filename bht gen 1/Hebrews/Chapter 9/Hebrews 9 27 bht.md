@@ -9,7 +9,7 @@ The Bible verse being described highlights the relationship between death and ju
 2. "It is appointed to men once to die."
 3. "Next to death, with no more like events between, comes judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is the representative man; and there is a strict correspondence between the history of man and that of the Son of man."
 2. "The two most solemn facts of our being are here connected with the two most gracious truths of our dispensation, our death and judgment answering in parallelism to Christ's first coming to die for us, and His second coming to consummate our salvation."
 3. "The intermediate state is a state of joyous, or else agonizing and fearful, expectation of 'judgment'; after the judgment comes the full and final state of joy, or else woe."
@@ -43,4 +43,4 @@ The Bible verse being described highlights the relationship between death and ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

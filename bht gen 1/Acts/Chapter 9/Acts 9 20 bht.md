@@ -9,7 +9,7 @@ Paul, newly converted, wasted no time in proclaiming Jesus as the central focus 
 2. "Be this as it may, the following τὸ ὄνομα τοῦτο ( Act 9:21 ) is decisive for the reading Ἰησοῦν."
 3. "Οὗτός ἐστιν ὁ χριστός Act 9:22 still more so."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "preached Jesus" - According to the most ancient manuscripts and versions, the emphasis is on preaching Jesus rather than just proclaiming that he is the Son of God. This highlights the importance of focusing on Jesus as the central message of the gospel.
 
 2. "all that call on this name" - The mention of calling on the name of Jesus emphasizes the significance of personal faith and relationship with Him. It implies that salvation and connection with God come through acknowledging and invoking the name of Jesus.
@@ -52,4 +52,4 @@ These quotes highlight the immediate and sincere commitment of Paul to proclaim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

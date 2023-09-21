@@ -9,7 +9,7 @@ This description revolves around the concept of love and its connection to knowi
 2. "God is love, not merely an attribute, of God. It is co-essential with Him: He is all love, love is all of Him: he who has not love, has not God."
 3. "Unless he is speaking of the essential being of God, quorsum pertineat, to say that he that loveth not never knew God, because 'God is love?' Put for these last words, 'God is loving,' and we get at once a fallacy of an undistributed middle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God is fundamentally and essentially LOVE."
 2. "God is essentially love, therefore he knows not God."
 3. "This man doth not love, and therefore knows not love."
@@ -52,4 +52,4 @@ Note: The above quotes have been slightly modified to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

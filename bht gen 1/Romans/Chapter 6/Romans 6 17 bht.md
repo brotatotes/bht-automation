@@ -11,7 +11,7 @@ In this verse, believers are commended for their sincere obedience to the teachi
 
 3. "To which ye were delivered" - This phrase implies that the teaching was entrusted to them, emphasizing the responsibility they had to uphold and follow it faithfully, as if they were being molded or shaped according to its pattern.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But God be thanked, that ye were the servants of Sin—that is, that this is a state of things now past and gone." 
 2. "but ye have obeyed from the heart that form of doctrine which was delivered you—rather, 'whereunto ye were delivered' (Margin), or cast, as in a mould." 
 3. "The idea is, that the teaching to which they had heartily yielded themselves had stamped its own impress upon them."
@@ -59,4 +59,4 @@ In this verse, believers are commended for their sincere obedience to the teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

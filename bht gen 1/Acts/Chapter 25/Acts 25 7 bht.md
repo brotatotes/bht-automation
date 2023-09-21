@@ -9,7 +9,7 @@ Amidst a flurry of accusations and complaints, the apostle Paul finds himself su
 2. "καταφέροντες, bringing against him: see var. readd. and ref."
 3. "The inclusion of αὐτόν clarifies that they were surrounding Festus, not the judgment seat."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews . . . from Jerusalem—clamorously, as at Jerusalem."
 2. "Many and grievous complaints against Paul."
 3. "These charges seem to have been a jumble of political and religious matter which they were unable to substantiate."
@@ -48,4 +48,4 @@ Amidst a flurry of accusations and complaints, the apostle Paul finds himself su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

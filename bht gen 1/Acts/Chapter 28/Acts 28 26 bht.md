@@ -11,7 +11,7 @@ In this verse, the speaker applies a prophecy to himself, emphasizing his deep u
 
 3. "This highlights the significance of Jesus' understanding and interpretation of the prophecy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With what pain would this stern saying be wrung from him whose 'heart's desire and prayer to God for Israel was that they might be saved.'" 
 2. "He had great heaviness and continual sorrow in his heart on their account." 
 3. "This verse highlights the deep anguish and concern that the speaker had for the salvation of Israel."
@@ -45,4 +45,4 @@ In this verse, the speaker applies a prophecy to himself, emphasizing his deep u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described in this paragraph is about the mutual indwelling
 2. "The knowledge is ἐν τούτῳ, in this element or department of fact, and it is ἐκ τούτου, derived from, as its source, that which follows."
 3. "This indwelling Spirit of God is to the child of God the spring and source of his spiritual life, the sure token of his sonship, Romans 8:14-15, Galatians 4:6, and of his union with God in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer dwelleth in Christ and he in him." 
 2. "Thus he returns to the great keynote of the Epistle, abide in Him." 
 3. "Hereby we know that he abideth in us, namely, from the presence in us of the Spirit 'which He hath given us.'"
@@ -57,4 +57,4 @@ The Bible verse being described in this paragraph is about the mutual indwelling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

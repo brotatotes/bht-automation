@@ -4,7 +4,7 @@
 The Bible verse in question speaks to the sufficiency and completeness of Scripture for the man of God. It signifies that the Scriptures provide a harmonious combination of different qualities and powers, fully equipping and fitting out the man of God for his work. The Scriptures are described as the perfect and blameless guide, leaving no deficiency in instruction and serving as a tool for teaching, reproving, correcting, and training others. It is through Scripture that the man of God finds the knowledge and wisdom needed to fulfill his calling and be united with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man of God is perfectly accoutred out of Scripture for his work." 
 2. "No oral tradition is needed to be added." 
 3. "The man of God is...perfectly accoutred out of Scripture."
@@ -48,4 +48,4 @@ The Bible verse in question speaks to the sufficiency and completeness of Script
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

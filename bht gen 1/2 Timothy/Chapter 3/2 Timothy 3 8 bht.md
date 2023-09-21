@@ -9,7 +9,7 @@ In ancient times, opponents of the truth like Jannes and Jambres, the Egyptian m
 2. "They were the sons of Balaam prophesied to Pharaoh the birth of Moses, in consequence of which he gave the order for the destruction of the Jewish children, and thenceforward appear as the counsellors of much of the evil, in Egypt, and in the desert, after the Exodus, which happened to Israel." 
 3. "Thus these also withstand the truth, being men corrupted in mind, worthless concerning the faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is no wonder there should be now such opponents to the truth, for their prototypes existed in ancient times."
 2. "Paul takes the names which general opinion had assigned the magicians."
 3. "They did so by trying to rival Moses' miracles. So the false teachers shall exhibit lying wonders in the last days."
@@ -53,4 +53,4 @@ In ancient times, opponents of the truth like Jannes and Jambres, the Egyptian m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

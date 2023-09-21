@@ -4,7 +4,7 @@
 In a state of spiritual ecstasy, completely immersed in divine communion, the author vividly describes a profound experience on the first day of the week. Cut off from physical surroundings, the focus shifts to the inner and higher life, as the vision of the Apocalypse unfolds in a series of sevens, initiating the future of the Church. Rich in spiritual influences, this remarkable communication reveals a deep connection to the risen Savior, experienced through acts of devotion even in seclusion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the Spirit—in a state of ecstasy; the outer world being shut out, and the inner and higher life or spirit being taken full possession of by God's Spirit, so that an immediate connection with the invisible world is established."
 2. "Though forcibly detained from Church communion with the brethren in the sanctuary on the Lord's day, the weekly commemoration of the resurrection, John was holding spiritual communion with them."
 3. "The visions of the Apocalypse, the seals, trumpets, and vials, c., are grouped in sevens, and naturally begin on the first day of the seven, the birthday of the Church, whose future they set forth."
@@ -35,4 +35,4 @@ In a state of spiritual ecstasy, completely immersed in divine communion, the au
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

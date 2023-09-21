@@ -9,7 +9,7 @@ This verse refers to a psalm that was once counted as the first, but is now reco
 2. "St. Paul refers the prophecy in its full completion to the Resurrection of our Lord."
 3. "Similarly in Romans 1:4, ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει … ἑξ ἀναστάσεως νεκρῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God hath completely fulfilled [His promise] by raising up Jesus again from the dead."
 2. "The apostle regards the resurrection of Christ merely as the manifestation of a prior Sonship."
 3. "It is against the whole sense of the New Testament to ascribe the origin of Christ's Sonship to His resurrection."
@@ -55,4 +55,4 @@ This verse refers to a psalm that was once counted as the first, but is now reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse emphasizes the importance of bringing accusations of wrongdoing befor
 2. "It stands very appropriately here, referring to the complaint of the Jews, either as uttered by them, or perhaps recapitulated by Gallio."
 3. "I should have borne with (patiently heard) you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'wrong or wicked lewdness' refers to any immoral or sinful behavior that is punishable by the law. This verse emphasizes that if someone is accused of such offenses, they should be brought before the magistrate for judgment and punishment."
 
 2. "By mentioning offenses punishable by the magistrate, the verse highlights the importance of civil authority in dealing with matters of wrongdoing. It reminds us that God has established earthly authorities to maintain order and justice in society."
@@ -45,4 +45,4 @@ This verse emphasizes the importance of bringing accusations of wrongdoing befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

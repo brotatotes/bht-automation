@@ -9,7 +9,7 @@ In this passage, we see a group of men who, inspired by Paul's success in castin
 2. "The power of Jesus' name is not a magical formula, but rather a recognition of the authority and power that Jesus possesses over the spiritual realm." 
 3. "This passage serves as a reminder that true power and authority come from a genuine relationship with Jesus, not from simply using his name as a tool."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That such a power did exist, for some time at least, seems implied in Matthew 12:27."
 2. "But no doubt this would breed imposture."
 3. "A striking testimony to the power of Christ's name in Paul's mouth."
@@ -53,4 +53,4 @@ In this passage, we see a group of men who, inspired by Paul's success in castin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

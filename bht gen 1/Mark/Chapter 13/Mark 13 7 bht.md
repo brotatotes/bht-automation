@@ -4,7 +4,7 @@
 Amidst the backdrop of wars and rumors of wars, the Hebrew Christians are urged not to be troubled or distressed. The commentator emphasizes that despite the inevitable occurrence of such events, the end is still to come. Through historical accounts of outbreaks and calamities, the description underscores the devastating impact of these events. It encourages the Hebrew Christians to remain steadfast in their work of preaching the Gospel, knowing that these events are part of God's plan and the fulfillment of prophecy. The imminent destruction of Jerusalem, the temple, and the Jewish nation looms ahead.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye shall hear of wars and rumours of wars, be ye not troubled." 
 2. "For such things must needs be; but the end shall not be yet." 
 3. "Worse must come before all is over."
@@ -32,4 +32,4 @@ Amidst the backdrop of wars and rumors of wars, the Hebrew Christians are urged 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

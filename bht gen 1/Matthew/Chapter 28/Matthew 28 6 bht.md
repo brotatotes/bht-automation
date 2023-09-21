@@ -9,7 +9,7 @@ The verse being described is about the resurrection of Jesus. It emphasizes the 
 2. "ὁ κύριος (see ref.) is emphatic; ‘gloriosa appellatio,’ Bengel." 
 3. "‘gloriosa appellatio,’ Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is not here; for he is risen, as he said." - This quote emphasizes the fulfillment of Jesus' promise to rise from the dead, highlighting the miraculous nature of his resurrection.
 
 2. "Come, see the place where the Lord lay." - This quote invites readers to witness the empty tomb, encouraging them to personally experience the evidence of Jesus' resurrection.
@@ -47,4 +47,4 @@ The verse being described is about the resurrection of Jesus. It emphasizes the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

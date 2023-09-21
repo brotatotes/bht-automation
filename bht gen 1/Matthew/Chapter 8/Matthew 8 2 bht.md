@@ -9,7 +9,7 @@ The Bible verse being described is focused on the theme of leprosy and its symbo
 2. "The leper was the type of one dead in sin...imported the perpetual exclusion of the abominable and polluted from the true city of God."
 3. "When Miriam was a leper, ἐβόησε Μωυσῆς πρὸς κύριον, λέγων Ὁ θεός, δέομαί σου, ἴασαι αὐτήν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All that needs be said here is that it was a cutaneous disease, of a loathsome, diffusive, and, there is reason to believe, when thoroughly pronounced, incurable character; that though in its distinctive features it is still found in several countries—as Arabia, Egypt, and South Africa—it prevailed, in the form of what is called white leprosy, to an unusual extent, and from a very early period, among the Hebrews; and that it thus furnished to the whole nation a familiar and affecting symbol of SIN, considered as (1) loathsome, (2) spreading, (3) incurable."
 2. "The numerous cases of leprosy with which our Lord came in contact, and the glorious cures of them which He wrought, were a fitting manifestation of the work which He came to accomplish."
 3. "But of Christ's willingness to heal him he was not so sure. It needed more knowledge of Jesus than he could be supposed to have to assure him of that. But one thing he was sure of, that He had but to 'will' it."
@@ -40,4 +40,4 @@ The Bible verse being described is focused on the theme of leprosy and its symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

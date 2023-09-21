@@ -4,7 +4,7 @@
 In this verse, Jesus speaks of the authority and infallibility of his judgment, emphasizing that his judgment is not based on human perceptions, but on the eternal reality of things. Commentators highlight the intimate relationship between Jesus and God the Father, asserting that Jesus' judgment aligns with the Father's will. They emphasize the inseparable unity between the Father and the Son, noting that Jesus did not leave the Father, and that the Father is not alone without the Son. This verse reveals the divine nature of Jesus and the perfect harmony between Father and Son in their judgments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye not only form your carnal and warped judgments of Me, but are bent on carrying them into effect."
 2. "I, though I form and utter My judgment of you, am not here to carry this into execution—that is reserved to a future day."
 3. "The judgment I now pronounce and the witness I now bear is not Mine only as ye suppose, but His also that sent Me."
@@ -50,4 +50,4 @@ In this verse, Jesus speaks of the authority and infallibility of his judgment, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

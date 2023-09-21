@@ -9,7 +9,7 @@ From the transformation of the new man, believers are called to live in alignmen
 2. "The Apostle instead of πρὸς τὸν πλησίον with the LXX, prefers following the Hebrew text and writing μετά, to express by anticipation our inner connexion with one another as ἀλλήλων μέλη."
 3. "All mutual duties of Christians are grounded on their union to and in Christ, and not on mere ethical considerations."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the general character of 'the new man,' there will necessarily result the particular features which he now details."
 2. "Union to one another in Christ, not merely the external command, instinctively leads Christians to fulfill mutual duties."
 3. "One member could not injure or deceive another, without injuring himself, as all have a mutual and common interest."
@@ -59,4 +59,4 @@ Note: The provided commentary is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

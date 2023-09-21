@@ -9,7 +9,7 @@ Despite the repeated testimony and the affirmation from women and other disciple
 2. "Assuming that some believed and some doubted, that they first doubted and then believed."
 3. "According to Bengel, first believed and then doubted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the skepticism and disbelief of the remaining disciples when they were told about Jesus' resurrection. It serves as a reminder that even those who were closest to Jesus struggled to fully comprehend and accept the miraculous events that unfolded before them."
 
 2. "The disciples' lack of belief in the resurrection is a testament to the profound nature of Jesus' resurrection. It was an event that defied human understanding and challenged their preconceived notions of what was possible."
@@ -47,4 +47,4 @@ Despite the repeated testimony and the affirmation from women and other disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

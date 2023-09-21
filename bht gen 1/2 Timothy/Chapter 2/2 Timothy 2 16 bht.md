@@ -9,7 +9,7 @@ The verse being described highlights the need to avoid and reject empty, profane
 2. "Their word will eat as a gangrene."
 3. "Men who concerning the truth went astray, saying that the resurrection has already taken place and are overturning the faith of some."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shun... vain babblings" - The commentary emphasizes the importance of separating oneself from empty and meaningless talk, which goes against the truth.
 2. "Strike forward... pioneers cutting away all obstacles" - The commentary uses a vivid image to describe the need to advance and make progress, removing any hindrances in the way.
 3. "A greater degree of impiety" - The commentary highlights the dangerous path of those who indulge in vain babblings, leading to a greater level of ungodliness.
@@ -57,4 +57,4 @@ These quotes highlight the importance of avoiding and rejecting false teachings,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

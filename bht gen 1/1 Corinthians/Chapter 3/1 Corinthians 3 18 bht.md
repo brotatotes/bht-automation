@@ -9,7 +9,7 @@ Let no one deceive themselves with false hopes, for true wisdom comes from embra
 2. "If any man thinks that he is wise among you in this world, let him become a fool, that he may become wise."
 3. "by receiving the gospel in its simplicity, and so becoming foolish in the world’s sight."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let him become a fool—by receiving the Gospel in its unworldly simplicity, and so becoming a fool in the world's sight."
 2. "Let him no longer think himself wise, but seek the true wisdom from God."
 3. "Bringing his understanding into captivity to the obedience of faith."
@@ -50,4 +50,4 @@ Let no one deceive themselves with false hopes, for true wisdom comes from embra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

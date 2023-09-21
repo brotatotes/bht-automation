@@ -10,7 +10,7 @@ The verse being described is a powerful declaration of the believer's freedom fr
 3. "But the life is not mine, but the life is Christ’s within me."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, so far from being the minister of sin and death, is the establisher of righteousness and life."
 2. "I am entirely in Him."
 3. "By believing union to Christ in His death, we, being considered dead with Him, are severed from the law's past power over us."
@@ -56,4 +56,4 @@ The verse being described is a powerful declaration of the believer's freedom fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

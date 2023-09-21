@@ -9,7 +9,7 @@ In this verse, a sudden and unexpected appearance of someone they knew to be dea
 2. "πνεῦμα is a ghost or spectre, an appearance of the dead to the living."
 3. "Not exactly as φάντασμα, which might have been any appearance of a supernatural kind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A spirit—the ghost of their dead Lord, but not Himself in the body." (Quote 1)
 2. "Thoughts—rather, 'reasonings'; that is, whether He were risen or no, and whether this was His very self." (Quote 2)
 3. "Whether this was His very self." (Quote 3)
@@ -40,4 +40,4 @@ In this verse, a sudden and unexpected appearance of someone they knew to be dea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

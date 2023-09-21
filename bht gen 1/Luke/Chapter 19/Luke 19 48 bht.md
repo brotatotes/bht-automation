@@ -4,7 +4,7 @@
 The verse being described portrays a scene in which the people are fully engrossed in Jesus' teachings, eagerly absorbing His profound truths and hanging onto His every word. Their attentiveness and hunger for spiritual nourishment demonstrate their recognition of Jesus as a source of wisdom and truth. The captivating power of Jesus' teachings is evident, as the whole nation seems to be suspended in mid-air, listening intently despite the anger it stirs in the leaders. The religious authorities, perplexed and at a loss, are unable to find an opportunity to seize Him or find any advantage against Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people were not merely listening to Jesus; they were hanging on His every word, eagerly absorbing His teachings and seeking to understand the profound truths He was sharing." 
 
 2. "Their attentiveness to Jesus demonstrates their hunger for spiritual nourishment and their recognition of Him as a source of wisdom and truth."
@@ -38,4 +38,4 @@ The verse being described portrays a scene in which the people are fully engross
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

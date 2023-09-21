@@ -4,7 +4,7 @@
 In this verse, Jesus addresses the prevalent greed and materialism of society, calling for radical generosity beyond meeting our own needs. He highlights the importance of caring for the vulnerable by sharing our abundance with those in need. This act of selflessness and compassion towards others is a reflection of true discipleship, demonstrating genuine repentance and the fruit of grace. The verse emphasizes that acts of kindness, done in faith and love, manifest the essence of repentance and glorify God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of two coats here is not simply about having enough clothing, but it is a call to share our abundance with those in need. It challenges the prevailing greed and materialism of society." 
 
 2. "This verse reminds us that true discipleship involves a radical generosity that goes beyond meeting our own needs. It is a call to selflessness and compassion towards others." 
@@ -36,4 +36,4 @@ In this verse, Jesus addresses the prevalent greed and materialism of society, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus demonstrates both his authority and compassion. With a touc
 2. "The same almighty power which suspends natural laws, supersedes ceremonial laws."
 3. "We can hardly forbear to recognize, in His touching the leper, a deed symbolic of His taking on him, touching, laying hold of, our nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And Jesus... moved with compassion... a precious addition."
 2. "But as the man's faith told him there would be no case for such regulations if the cure he hoped to experience should be accomplished, so He who had healing in His wings transcended all such statutes."
 3. "How majestic those two words! By not assuring the man of His power to heal him, He delightfully sets His seal to the man's previous confession of that power; and by assuring him of the one thing of which he had any doubt, and for which he waited—His will to do it—He makes a claim as divine as the cure which immediately followed it."
@@ -38,4 +38,4 @@ In this verse, Jesus demonstrates both his authority and compassion. With a touc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

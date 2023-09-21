@@ -9,7 +9,7 @@ In this verse, commentators highlight the concept of forgiveness and accountabil
 2. "The δοῦλοι here are not slaves, but ministers or stewards."
 3. "In Oriental language, all the subjects of the king, even the great ministers of state, are called δοῦλοι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of heaven is likened unto a certain king." This comparison highlights the authority and sovereignty of God in His kingdom, emphasizing His role as the ultimate ruler and judge.
 
 2. "Which would take account of his servants." This phrase emphasizes the accountability of God's servants, indicating that they will be held responsible for their actions and decisions.
@@ -57,4 +57,4 @@ In this verse, commentators highlight the concept of forgiveness and accountabil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

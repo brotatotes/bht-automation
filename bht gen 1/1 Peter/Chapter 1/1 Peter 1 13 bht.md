@@ -9,7 +9,7 @@ In this Bible verse, believers are called to prepare their minds and be ready fo
 2. "Being sober, hope perfectly" - The exhortation requires not only temperance in food and drink, but also spiritual sobriety, restraining our senses from being intoxicated by the allurements of the world. (Note on 1 Peter 1:13)
 3. "The grace which is being brought to you in the revelation of Jesus Christ" - This refers to the impending event of the second advent of the Lord, rather than the present revelation of grace through the gospel. (Note on 1 Peter 1:13)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How earnest you ought to be and watchful in respect to them!"
 2. "The believer is to have his mind (mental powers) collected and always ready for Christ's coming."
 3. "Sobriety, that is, spiritual self-restraint, lest one be overcome by the allurements of the world and of sense, and patient hopeful waiting for Christ's revelation, are the true ways of 'girding up the loins of the mind.'"
@@ -55,4 +55,4 @@ In this Bible verse, believers are called to prepare their minds and be ready fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

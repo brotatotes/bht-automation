@@ -11,7 +11,7 @@ The passage describes the unjust scourging of Jesus, a brutal act meant to fulfi
 
 3. "The scourging of Jesus serves as a powerful reminder of the extent of His sacrifice for humanity. It was not just the physical pain and suffering, but also the emotional and spiritual anguish that He endured on our behalf. Through His scourging, Jesus took upon Himself the punishment that we deserved, offering us forgiveness and salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pilate took Jesus and scourged him—in hope of appeasing them."
 2. "And the soldiers led Him away into the palace, and they call the whole band."
 3. "The body of the military cohort stationed there—to take part in the mock coronation now to be enacted."
@@ -49,4 +49,4 @@ Note: The commentary provides additional context and explanations for the action
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

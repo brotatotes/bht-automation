@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the essential connection between gen
 2. "All such walking in darkness is a not-doing of the truth."
 3. "Christ is 'the Truth:' and all doing the Truth is of Him, and of those who are in union with Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The essence of the Christian life."
 2. "Walk in inward and outward action, whithersoever we turn ourselves."
 3. "Do not lie in practice, whatever we say."
@@ -50,4 +50,4 @@ In this Bible verse, commentators emphasize the essential connection between gen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the apostle Paul reveals the abandonment he experienced from those who were once his companions in Asia. This was a significant trial for Paul as an aged soldier of Christ, causing him great anguish and emphasizing the magnitude of his suffering. The timing of this abandonment was noteworthy, occurring when Paul was nearing the end of his life, suggesting that it was a test of his faith and fortitude. This verse echoes the experience of other faithful servants of God, such as Francis Xavier, who were also forsaken by those they devotedly served.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "all who are there now, when they were in Rome turned from me" - This quote highlights the abandonment Paul experienced from those in Asia when he was in Rome, emphasizing their lack of support and their shame in associating with him.
 2. "A hint to Timothy, now in Asia, not to be like them, but to imitate rather ONESIPHORUS" - This quote suggests that Timothy should not follow the example of those who turned away from Paul, but instead should imitate the faithful and supportive actions of Onesiphorus.
 3. "Phygellus and Hermogenes—specified perhaps, as being persons from whom such pusillanimous conduct could least be expected" - This quote explains that Phygellus and Hermogenes were mentioned specifically because their cowardly behavior was unexpected, possibly indicating that they were known to be more courageous individuals.
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul reveals the abandonment he experienced fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

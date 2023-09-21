@@ -9,7 +9,7 @@ In this verse, a just man is confronted with a challenging situation. His adhere
 2. "The husband might either do this, or adopt the stronger course of bringing his wife (or betrothed) to justice openly."
 3. "Femina ex quo desponsata est, licet nondum a viro cognita, est uxor viri, et si sponsus earn velit repudiare, oportet, ut id faciat libello repudii."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Betrothal was, in Jewish law, valid marriage."
 2. "Joseph had to take legal steps to effect the separation."
 3. "That some communication had passed between him and his betrothed, directly or indirectly, on the subject, after she returned from her three months' visit to Elizabeth, can hardly be doubted."
@@ -59,4 +59,4 @@ In this verse, a just man is confronted with a challenging situation. His adhere
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, sinners are depicted as desperately seeking to hide from the presence and judgment of God. The phrase "from the face" suggests a desire to escape God's wrath. Comparisons to other biblical references and the words of Jesus highlight the seriousness and inevitability of God's judgment. The verse portrays the profound and intense anger, or deep-seated wrath, of God. The fear and desperation expressed reveal the impending destruction and chaos as sinners choose death over facing the revealed presence of God. They are seeking refuge from the divine judgment and retribution that awaits the ungodly.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'from the face' suggests a sense of hiding or seeking refuge from the presence of God. It implies a desire to escape the judgment or wrath that may come upon the wicked." 
 
 2. "The comparison with Hosea 10:8 highlights the idea that people will try to hide from the judgment of God, but ultimately, there is no place to hide. God's judgment will find them wherever they go." 
@@ -39,4 +39,4 @@ In this verse, sinners are depicted as desperately seeking to hide from the pres
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

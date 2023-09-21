@@ -9,7 +9,7 @@ During Jesus' trial, Pilate, a Roman governor, seeks to understand the accusatio
 2. "There is no definiteness in their charge: let me have thine own account, thy ex-parte statement, that I may at least know something definite of the case."
 3. "Pilate seeks a more detailed and specific account from Jesus, in order to have a clearer understanding of the accusations against him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jewish questions I neither understand nor meddle with"
 2. "Thou art here on a charge which, though it seems only Jewish, may yet involve treasonable matter"
 3. "Pilate's object in this question was merely to determine the relevancy of the charge"
@@ -43,4 +43,4 @@ During Jesus' trial, Pilate, a Roman governor, seeks to understand the accusatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

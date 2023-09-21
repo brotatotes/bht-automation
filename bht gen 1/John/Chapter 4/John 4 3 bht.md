@@ -4,7 +4,7 @@
 In this Bible verse, Jesus chooses to leave Judea and go to Galilee to avoid persecution and the growing envy and malice of the Pharisees, who were becoming a threat to His life. He did not want to provoke them or bring the conflict to a head yet, as His time had not come and He had other work to do elsewhere. This journey to Galilee was a strategic move to protect Himself from their hostility and continue His ministry effectively.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Left Judea—to avoid persecution, which at that early stage would have marred His work."
 2. "Departed into Galilee—by which time John had been cast into prison."
 3. "Persecution, which at that early stage would have marred His work."
@@ -38,4 +38,4 @@ In this Bible verse, Jesus chooses to leave Judea and go to Galilee to avoid per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Those who mourn, characterized by their genuine and constant seriousness towards
 2. "In Luke 2:25, the Messiah’s coming is called ἡ παράκλησις τοῦ Ἰσραήλ."
 3. "This beatitude is by many editors (Lachmann, e.g.) placed after Matthew 5:5. But the authority is by no means decisive, and I cannot see how the logical coherence of the sentences is improved by it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The one is the intellectual, the other the emotional aspect of the same thing."
 2. "Religion, according to the Bible, is neither a set of intellectual convictions nor a bundle of emotional feelings, but a compound of both."
 3. "Even now they get beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness."
@@ -56,4 +56,4 @@ Those who mourn, characterized by their genuine and constant seriousness towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The travelers, led by Paul, purposefully passed by Mysia without preaching, indi
 2. "Troas...was a colony juris Italici...and a free city, and was not reckoned as belonging to either of the provinces Asia or Bithynia."
 3. "He may have had the design of crossing to Europe, if permitted, which the subsequent vision confirmed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Troas, a city on the northeast coast of the Ægean Sea, holds historical significance as the boundary of Asia Minor on the west and the region where the great Trojan war took place."
 
 2. "The mention of Troas in this verse highlights the geographical context of Paul's journey and the significance of the places he visited in spreading the message of the Gospel."
@@ -51,4 +51,4 @@ Overall, these quotes shed light on the journey of Paul and his companions, thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

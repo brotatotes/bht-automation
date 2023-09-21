@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of believing in the only God
 2. "παρὰ τοῦ μόνου θεοῦ, not 'from God only', but from the only God: in contradistinction to the idolatry of the natural heart, which is ever setting up for itself other sources of honour, worshipping man, or self, or even Satan, instead of God."
 3. "πῶς δύνασθε (emphatic) is grounded on οὐ θέλετε is the consequence of the carnal regards in which they lived."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'will not' of John 5:40, and 'cannot' here are just different features of the same awful state of the human heart."
 2. "The inability of the natural man to believe is not due to any lack of evidence, but to a deep-seated rebellion against God."
 3. "This verse highlights the need for divine intervention in order for a person to believe in Jesus."
@@ -56,4 +56,4 @@ The verse being described emphasizes the importance of believing in the only God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In a moment of unjust imprisonment, Paul and Silas willingly returned to the pri
 
 3. "To announce the order" - This phrase indicates that the jailor was following a specific protocol or legal procedure in dealing with the situation. It suggests that he was acting in accordance with the law, rather than making a personal decision.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The keeper—overjoyed to have such orders to execute." This quote highlights the contrast between the keeper's reaction and Paul's response to the orders. It emphasizes the keeper's enthusiasm and eagerness to carry out the task.
 2. "Told this . . . to Paul . . ." This quote indicates that the keeper informed Paul about the orders he had received. It suggests that the keeper saw Paul as someone important and worthy of being informed about the situation.
 3. "Very differently did Paul receive such orders." This quote implies that Paul did not share the same enthusiasm as the keeper. It suggests that Paul's response to the orders was likely to be different from what the keeper expected.
@@ -34,4 +34,4 @@ In a moment of unjust imprisonment, Paul and Silas willingly returned to the pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

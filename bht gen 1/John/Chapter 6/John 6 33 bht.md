@@ -11,7 +11,7 @@ The verse being described highlights the divine nature and significance of the b
 
 Note: E. V. refers to the English Version, meaning the translation of the Bible.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the bread of God is he" - This verse emphasizes the divine nature of the Bread, highlighting its spiritual and eternal significance. It points to Jesus as the one who came down from heaven to give eternal life, revealing the intimate connection between the Bread and the source of life itself.
 
 2. "Ordained Fountain and essential Substance" - This phrase underscores the essential nature of the Bread as the source of life. It suggests that the Bread is not just a physical sustenance but a spiritual nourishment that flows from a divine source, providing sustenance for the soul.
@@ -65,4 +65,4 @@ Note: E. V. refers to the English Version, meaning the translation of the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

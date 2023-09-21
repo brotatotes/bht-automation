@@ -9,7 +9,7 @@ The Bible verse being described is a stern warning against the danger of disobed
 2. "They do always err in their heart."
 3. "The prophetic pregnancy of the oath became evident, and its meaning was carried on in this exhortation by the Psalmist, and is here carried on by the sacred Writer of this Epistle, to a further rest which then remained for Israel, and now still remains for the people of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that generation—"that" implies alienation and estrangement."
 2. "said—"grieved," or "displeased," at their first offense."
 3. "They perceived I was displeased with them, yet they, the same persons, did not a whit the more wish to know my ways."
@@ -55,4 +55,4 @@ The Bible verse being described is a stern warning against the danger of disobed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

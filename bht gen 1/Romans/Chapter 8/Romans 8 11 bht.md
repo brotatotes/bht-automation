@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the power and agency of the Holy Spiri
 2. "the καί joined with θνητά, here, signifies that the working of the πνεῦμα ζωοποιοῦν shall not stop at the purely spiritual resurrection, nor at that of the body from dead works to serve the living God, but shall extend even to the building up the spiritual body in the future new and glorious life"
 3. "the Holy Spirit is the direct Agent in the resurrection of the body, for it is the whole process of bringing from death to life, extending even to the mortal body, which is here spoken of and unquestionably, ‘the Lord and Giver of Life’ is the agent throughout in this quickening."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If He dwell in you as the Spirit of the Christ-raising One."
 2. "He that raised up Christ from the dead...considered as the Lord and Head of all His members."
 3. "Your bodies indeed are not exempt from the death which sin brought in; but your spirits even now have in them an undying life."
@@ -45,4 +45,4 @@ These quotes highlight the power of God to give life, both spiritually and physi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

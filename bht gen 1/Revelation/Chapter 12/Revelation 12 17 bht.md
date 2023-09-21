@@ -4,7 +4,7 @@
 "The enraged devil, having failed to eradicate the Christian Church, unleashes his fury on those who remain faithful to God's commandments and hold fast to the testimony of Jesus. This relentless warfare targets not only the institutional Church, but also individual believers, symbolizing the ongoing persecution against true followers of Christ. The spiritual offspring of the church, who bear the testimony of Jesus Christ, become the objects of his wrath as he seeks to disrupt and destroy their faith."
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan's first effort was to root out the Christian Church, so that there should be no visible profession of Christianity."
 2. "Foiled in this, he wars against the invisible Church, namely, 'those who keep the commandments of God, and have the testimony of Jesus.'"
 3. "These are 'the remnant,' or rest of her seed, as distinguished from her seed, 'the man-child,' on one hand, and from mere professors on the other."
@@ -40,4 +40,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

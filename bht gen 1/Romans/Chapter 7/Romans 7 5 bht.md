@@ -4,7 +4,7 @@
 In this verse, commentators describe a state of being before faith in Christ, characterized by a corrupt and unregenerate nature. They emphasize that sin, already present within us, is exposed and intensified by the Law. This passage vividly portrays the pervasive nature of sin, not limited to external actions but deeply rooted within every aspect of our being. It highlights the transformative power of faith, contrasting our natural state with the redeemed state in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For when we were in the flesh...the motions 'passions'...of sins...did work in our members." 
 2. "The motions of sins...prompting to the commission of sins."
 3. "Hopeless is all holy fruit before union to Christ."
@@ -45,4 +45,4 @@ In this verse, commentators describe a state of being before faith in Christ, ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

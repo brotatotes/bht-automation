@@ -9,7 +9,7 @@ In this passage, we are reminded of the profound responsibility that both husban
 2. "The wife, for her part, 'I order,' or, 'let her see,' that she fear her husband." 
 3. "The construction is changed and the verb put into concord with ἕκαστος instead of ὑμεῖς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do ye also (as Christ does) severally each one so love." 
 2. "The words, 'severally each one,' refer to them in their individual capacity." 
 3. "Contrasted with the previous collective view of the members of the Church as the bride of Christ."
@@ -50,4 +50,4 @@ In this passage, we are reminded of the profound responsibility that both husban
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

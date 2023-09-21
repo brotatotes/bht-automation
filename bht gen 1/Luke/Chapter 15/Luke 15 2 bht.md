@@ -9,7 +9,7 @@ In this verse, the enemies of our Lord testify to His willingness to receive sin
 2. "The διεγόγγ . implies either throughout the journey; or rather, one to another, responsively."
 3. "Allows them to sit at meat with Him; on the journey, or at entertainments, as in Matthew 9:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They insinuated (on the principle that a man is known by the company he keeps) that He must have some secret sympathy with their character." 
 2. "Oh, what a truth of unspeakable preciousness do their lips, as on other occasions, unconsciously utter." 
 3. "The first two set forth the seeking love of God; the last, His receiving love."
@@ -38,4 +38,4 @@ In this verse, the enemies of our Lord testify to His willingness to receive sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

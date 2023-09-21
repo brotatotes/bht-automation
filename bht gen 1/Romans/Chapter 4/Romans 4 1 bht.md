@@ -9,7 +9,7 @@ This verse highlights the significance of Abraham's faith in finding acceptance 
 2. "The course and spirit of the argument is not to limit the paternity of Abraham to a mere fleshly one, but to show that he was the spiritual father of all believers."
 3. "κατὰ σάρκα then is in contrast to κατὰ πνεῦμα, and refers to that department of our being from which spring works, in contrast with that in which is the exercise of faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham, our father as pertaining to the flesh, hath found" - The commentary explains that this phrase refers to Abraham's efforts and obedience according to the flesh, meaning his natural abilities and legal obedience.
 
 2. "hath found, as pertaining to the flesh" - The commentary emphasizes that Abraham's findings were limited to his own human efforts and abilities, highlighting the limitations of relying solely on the flesh.
@@ -57,4 +57,4 @@ This verse highlights the significance of Abraham's faith in finding acceptance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

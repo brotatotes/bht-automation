@@ -4,7 +4,7 @@
 In this verse, the words of Jesus Himself affirm the divine authority of the message being conveyed through an angel. Jesus, as the root and source of David's lineage, confirms His role as the fulfillment of Old Testament prophecies and the rightful heir to the Davidic throne. Described as the star out of Jacob, Jesus symbolizes the transformative power to dispel darkness and usher in a new era of enlightenment and joy. His message carries immense significance and reveals His divine nature and purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus is Lord of the angels."
 2. "Assuring His Church of 'the sure mercies of David,' secured to Israel first, and through Israel to the Gentiles."
 3. "The morning star that ushered in the day of grace in the beginning of this dispensation and that shall usher in the everlasting day of glory at its close."
@@ -48,4 +48,4 @@ In this verse, the words of Jesus Himself affirm the divine authority of the mes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

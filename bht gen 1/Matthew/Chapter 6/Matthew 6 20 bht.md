@@ -4,7 +4,7 @@
 In this verse, we are instructed to invest in eternal rewards rather than earthly possessions. We are urged to store up treasures in heaven, which are everlasting and immune to decay. By prioritizing spiritual wealth over material wealth, we secure imperishable and unassailable treasures that are safe in the hands of God. This reminds us of the fleeting nature of material possessions and encourages us to focus on the eternal, as treasures in heaven are of greater value and secure a future of eternal life, glory, and happiness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lay up for yourselves treasures in heaven" - This phrase emphasizes the importance of investing in eternal rewards rather than earthly possessions. It encourages believers to prioritize spiritual wealth over material wealth.
 
 2. "Provide yourselves bags which wax not old" - This imagery suggests the idea of storing up treasures in heaven that are everlasting and immune to decay. It highlights the enduring nature of heavenly rewards compared to the temporary nature of earthly possessions.
@@ -37,4 +37,4 @@ In this verse, we are instructed to invest in eternal rewards rather than earthl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

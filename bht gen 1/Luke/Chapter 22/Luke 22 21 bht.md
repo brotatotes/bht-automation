@@ -4,7 +4,7 @@
 In this verse, Jesus makes a profound statement about the presence of the betrayer, Judas, at the Last Supper. The commentators emphasize the irony and depth of Jesus' love in sharing a meal with the one who would betray him. They also highlight the timing of Jesus' words, clarifying that they were spoken before the institution of the Lord's Supper. The practicality of the statement is noted, as it signifies that the act of dipping and giving the bread to Judas could only have happened while the food was still on the table.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse reminds us that God's ways are not our ways, and His thoughts are not our thoughts. We may not always understand why God allows certain things to happen, but we can trust that His plans are always for our ultimate good and His glory." 
 
 2. "This verse also serves as a reminder that God is in control of all things, even the seemingly chaotic and unjust events in our lives. He is sovereign and has a purpose for everything that occurs, whether we can see it or not." 
@@ -37,4 +37,4 @@ In this verse, Jesus makes a profound statement about the presence of the betray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we witness Jesus' remarkable power and control over the spi
 2. "This saying was sufficient to show Peter and the rest what was the appointed course for them." - Bengel
 3. "The 'ἄφετε τούτους' is 'ὑπάγετε ὑμεῖς' to the Apostles." - Bengel
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have told you that I am He: if therefore ye seek me, let these go their way." This quote highlights the self-possession of Jesus, who confidently affirms his identity. It also emphasizes his consideration for others, as he prioritizes the safety and well-being of his disciples.
 
 2. "Wonderful self-possession, and consideration for others, in such circumstances!" This quote further emphasizes the admirable qualities displayed by Jesus in this situation. Despite the impending danger and betrayal, Jesus remains composed and self-assured, while also showing care and concern for his disciples.
@@ -59,4 +59,4 @@ Overall, these quotes highlight the remarkable character of Jesus, showcasing hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

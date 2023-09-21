@@ -9,7 +9,7 @@ In this Bible verse, the commentators shed light on the story of Noah and the fl
 2. "The fact merely is stated. The statement of the fact, however, has been felt to be accompanied by such great difficulties."
 3. "It is not purgatory, it is not universal restitution; but it is one which throws blessed light on one of the darkest enigmas of the divine justice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Noah's days are selected, as the ark and the destroying flood answer respectively to 'baptism' and the coming destruction of unbelievers by fire."
 2. "A long period of God's 'long-suffering and waiting,' as Noah had few to help him, which rendered the world's unbelief the more inexcusable."
 3. "The same water which drowned the unbelieving, buoyed up the ark in which the eight were saved."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators shed light on the story of Noah and the fl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

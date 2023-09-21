@@ -9,7 +9,7 @@ This passage describes a figure named James, who is recognized as an apostle but
 2. "We must then adopt (2): which is besides in consonance with other notices respecting the term ἀπόστολος, and the person here mentioned."
 3. "I reserve the subject for full discussion in the prolegomena to the Ep. of James."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The history speaks of 'apostles'; and Paul's mention of a second apostle, besides Peter, reconciles the Epistle and the history."
 2. "James remained in charge of the mother church, as its bishop."
 3. "James was the Lord's brother, not in our strict sense, but in the sense, 'cousin,' or 'kinsman'."
@@ -55,4 +55,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

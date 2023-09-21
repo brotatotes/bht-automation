@@ -9,7 +9,7 @@ In the midst of a raging storm at sea, the sailors found themselves at the mercy
 2. "It is hardly likely that this term...should have been originally a naval term"
 3. "we were driven along"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'could not bear up into the wind' suggests that the ship was unable to withstand the force and direction of the wind. This highlights the vulnerability and powerlessness of the sailors in the face of nature's fury." 
 
 2. "The decision to 'let her drift' indicates a surrender to the uncontrollable forces at play. It reflects a recognition of the limitations of human strength and a willingness to trust in divine providence." 
@@ -50,4 +50,4 @@ In the midst of a raging storm at sea, the sailors found themselves at the mercy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

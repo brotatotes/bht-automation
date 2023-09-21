@@ -9,7 +9,7 @@ The people were filled with anticipation, eagerly awaiting the arrival of someon
 2. "The words ἐθαύμαζον ἐν are best taken together, wondered at, as in ref. Sir."
 3. "They may also be taken separately, taking ἐν as 'during:' and so Meyer: but this is not so probable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "waited—to receive from him the usual benediction" - The people were eagerly waiting to receive the customary blessing from their representative.
 2. "tarried so long—It was not usual to tarry long" - The delay in their representative's return was unusual and caused concern among the people.
 3. "lest it should be thought vengeance had stricken the people's representative for something wrong" - The fear was that the delay might be interpreted as a punishment from God for some wrongdoing committed by their representative.
@@ -55,4 +55,4 @@ The people were filled with anticipation, eagerly awaiting the arrival of someon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

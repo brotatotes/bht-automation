@@ -4,7 +4,7 @@
 In this passage, Jesus extends his hand to lift up a woman, showcasing his deep compassion and ability to restore those who are broken. As he presents her alive, the remarkable nature of his power is evident, instilling awe in those who witnessed his authority over death. This event serves as a reminder of the transformative impact Jesus' touch can have, not only physically but also spiritually, offering hope and new life to all who come to him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He gave her his hand, and lifted her up" - This action of Jesus demonstrates his compassion and willingness to help those in need. It shows his power to restore and uplift those who are broken and downtrodden.
 
 2. "As his Lord had done to his own mother-in-law" - This reference to Jesus' previous act of healing his mother-in-law emphasizes his authority and ability to bring about miraculous healing. It highlights his divine nature and the significance of his actions.
@@ -39,4 +39,4 @@ In this passage, Jesus extends his hand to lift up a woman, showcasing his deep 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

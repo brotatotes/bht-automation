@@ -9,7 +9,7 @@ In this Bible verse, there is a parable that does not allude to the sacrifice of
 2. "Joy in heaven; all rejoice."
 3. "Some of these are δοῦλοι who have entered into the joy of their Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fatted calf symbolizes abundance and celebration, representing the joyous nature of the occasion." 
 
 2. "By mentioning the fatted calf, the verse emphasizes the extravagant and generous nature of the feast being prepared." 
@@ -50,4 +50,4 @@ In this Bible verse, there is a parable that does not allude to the sacrifice of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

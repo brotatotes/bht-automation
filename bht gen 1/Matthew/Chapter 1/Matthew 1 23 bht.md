@@ -9,7 +9,7 @@ This verse speaks of a remarkable prophecy in which a virgin would conceive and 
 2. "Men shall call i.e. it shall be a name by which He shall be called one of his appellations."
 3. "The Hebrew has קָרָאת , ‘ thou shalt call ’ (fem.)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, a virgin—It should be 'the virgin' meaning that particular virgin destined to this unparalleled distinction."
 2. "they shall call his name Emmanuel, which, being interpreted, is, God with us—Not that He was to have this for a proper name (like 'Jesus'), but that He should come to be known in this character, as God manifested in the flesh."
 3. "the living bond of holy and most intimate fellowship between God and men from henceforth and for ever."
@@ -53,4 +53,4 @@ This verse speaks of a remarkable prophecy in which a virgin would conceive and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

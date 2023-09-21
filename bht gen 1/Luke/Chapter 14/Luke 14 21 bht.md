@@ -9,7 +9,7 @@ In this passage, we see the contrast between the broad streets and narrow lanes,
 2. "The broad and narrow streets: perhaps the cities and villages through which the Lord and his Apostles journeyed preaching."
 3. "The representatives of the wretched and despised; not perhaps without a hint, that only those who knew themselves to be spiritually poor and maimed and halt and blind would come to the gospel feast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the part of ministers to report to the Lord in their prayers the compliance or refusal of their hearers" [BENGEL].
 2. "Angry—in one sense a gracious word, showing how sincere he was in issuing his invitations" [BENGEL].
 3. "Streets and lanes—historically, those within the same pale of 'the city' of God as the former class, but the despised and outcasts of the nation, the 'publicans and sinners' [TRENCH]."
@@ -48,4 +48,4 @@ In this passage, we see the contrast between the broad streets and narrow lanes,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

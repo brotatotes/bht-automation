@@ -11,7 +11,7 @@ In this Bible verse, Jesus expresses his desire to move on from Capernaum, a pla
 
 3. "To deny this, as Meyer, is certainly not safe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us go elsewhere." - This quote highlights Jesus' desire to move on to other towns and villages to preach the kingdom of God. It shows his willingness to spread his message beyond one specific location.
 2. "That I may preach there also; for therefore came I forth." - This quote emphasizes the purpose of Jesus' mission, which is to preach the kingdom of God to different cities and towns. It reveals the divine calling and the urgency behind his actions.
 3. "An act of self-denial it doubtless was, to resist such pleadings to return to Capernaum. But there were overmastering considerations on the other side." - This quote acknowledges the difficulty Jesus faced in resisting the pleas to return to Capernaum but highlights the greater importance of fulfilling his mission to preach the kingdom of God to other places. It underscores the sacrifice and dedication required for his work.
@@ -54,4 +54,4 @@ In this Bible verse, Jesus expresses his desire to move on from Capernaum, a pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks about the need to withdraw from those who walk 
 2. "The accusative is repeated before the infinitive, probably because the clause ἐν ὀνόμ., &c., intervenes."
 3. "The παράδοσις refers to the oral instruction which the Apostle had given them when he was present, and subsequently confirmed by writing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He enjoins stricter discipline, namely, withdrawal from their company."
 2. "Not a formal sentence of excommunication, such as was subsequently passed on more heinous offenders."
 3. "Call it not an order, but a burden to the community."
@@ -53,4 +53,4 @@ The verse being described speaks about the need to withdraw from those who walk 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

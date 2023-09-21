@@ -11,7 +11,7 @@ In this verse, we see the high priest and the Sanhedrin accusing the apostles of
 
 3. "This being so, the resemblance between this expression and the imprecation of the people in Mat 27:25 must not be too closely pressed, though the coincidence is too striking to escape notice." - Commentary
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They avoid naming Him whom Peter gloried in holding up." 
 2. "In speaking thus, they seem to betray a disagreeable recollection of their own recent imprecation, His blood be upon us." 
 3. "And of the traitor's words as he threw down the money, 'I have sinned in that I have betrayed innocent blood'."
@@ -57,4 +57,4 @@ These quotes highlight the chief priest's ulterior motives, the seriousness of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

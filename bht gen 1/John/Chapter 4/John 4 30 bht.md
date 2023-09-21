@@ -9,7 +9,7 @@ The verse being described portrays a group of individuals who were in the proces
 2. "The use of the phrase 'had not arrived' suggests that the individuals mentioned had not yet reached their intended destination at the time of the events being described."
 3. "The phrase 'when what follows happened' indicates that the events mentioned in the verse occurred at the same time or shortly after the individuals mentioned in the previous phrase were in the process of coming."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How different from the Jews!" - This quote highlights the contrast between the disciples and the Jews, emphasizing the disciples' openness to conviction and willingness to follow Jesus.
 2. "Richly was their openness to conviction rewarded." - This quote emphasizes the positive outcome of the disciples' openness to conviction, suggesting that their decision to follow Jesus was beneficial and rewarding.
 3. "They went out" - This simple phrase indicates the disciples' action of leaving their previous lives behind to follow Jesus, illustrating their commitment and dedication to him.
@@ -43,4 +43,4 @@ The verse being described portrays a group of individuals who were in the proces
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

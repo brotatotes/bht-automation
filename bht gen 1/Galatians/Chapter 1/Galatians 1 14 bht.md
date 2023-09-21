@@ -9,7 +9,7 @@ This verse describes the author's fervent dedication to the Jewish faith and its
 2. "In my nation." - see reff.
 3. "A zealous assertor (or defender) of my ancestral traditions (i.e. those handed down in the sect of the Pharisees, Paul being Φαρισαῖος, υἱὸς Φαρισαίων, Acts 23:6, not, the law of Moses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I was becoming a proficient"; "I made progress."
 2. "Of mine own age, among my countrymen."
 3. "MY fathers," shows that it is not to be understood generally of the traditions of the nation.
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to mee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

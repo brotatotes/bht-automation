@@ -9,7 +9,7 @@ In a small town called Bethlehem, known as the "house of bread," a star from hea
 2. "Herod the Great sought to strengthen his throne by a series of cruelties and slaughters." 
 3. "The absence of the article after μάγοι is no objection to this interpretation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A high hand was in all these movements."
 2. "Thus was 'the sceptre departing from Judah', a sign that Messiah was now at hand."
 3. "There came wise men, probably of the learned class who cultivated astrology and kindred sciences."
@@ -48,4 +48,4 @@ In a small town called Bethlehem, known as the "house of bread," a star from hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

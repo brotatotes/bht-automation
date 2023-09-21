@@ -9,7 +9,7 @@ In this Bible verse, Jesus instructs his disciples on how to enter and greet hou
 2. "The full command as to their conduct, from arriving to departing, is given in Matthew 10:11."
 3. "When they enter into an house, they are to salute it: and if on enquiry it prove worthy, then &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye come into a house, salute it—show it the usual civilities." This quote highlights the importance of showing respect and kindness when entering someone's home.
 
 2. "It means not the worthy house, but the house ye first enter, to try if it be worthy." This quote clarifies that the verse is not referring to a specific "worthy" house, but rather the initial house one enters as a way to assess its worthiness.
@@ -45,4 +45,4 @@ In this Bible verse, Jesus instructs his disciples on how to enter and greet hou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

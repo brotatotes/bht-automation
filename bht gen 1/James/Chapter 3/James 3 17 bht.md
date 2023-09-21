@@ -9,7 +9,7 @@ The heavenly wisdom described in these commentaries is one that is characterized
 2. "The heavenly-wise must be pure, i.e. free from all contact with anything that offends, before he can be peaceable."
 3. "The great triumph of the Christian practical life is won by ἔλεος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "First pure—literally, 'chaste,' 'sanctified': pure from all that is 'earthly, sensual (animal), devilish.'"
 2. "Ministers must not preach before a purifying change of heart, 'Peace,' where there is no peace."
 3. "Our first concern is to have in ourselves sanctity; our second, to be at peace with men."
@@ -69,4 +69,4 @@ These quotes highlight the qualities of celestial wisdom - purity, peaceability,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

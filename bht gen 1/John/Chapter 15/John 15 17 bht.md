@@ -9,7 +9,7 @@ The verse in question emphasizes the importance of love and unity among believer
 2. "However wide their love to one another, they cannot bring all within this category; there will be the world, which will hate them."
 3. "This verse reminds us that while we are called to love one another, there will always be those in the world who will hate us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The substance of these important verses has occurred more than once before." 
 2. "The repetition of this message emphasizes its significance and serves as a reminder to the readers." 
 3. "By referencing previous occurrences, the author highlights the consistency and relevance of the message."
@@ -47,4 +47,4 @@ The verse in question emphasizes the importance of love and unity among believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

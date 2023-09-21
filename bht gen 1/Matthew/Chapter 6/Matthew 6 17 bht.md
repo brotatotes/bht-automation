@@ -11,7 +11,7 @@ In this verse, the Bible provides guidance on the attitude and appearance one sh
 
 3. "The one might afford just as much occasion for ostentation as the other." - This quote challenges the notion that public and enjoined fasts are exempt from the need to appear as usual. It suggests that even in public fasts, one should guard against the temptation to display their piety for the sake of recognition.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Anoint thine head, and wash thy face" - This instruction is not about physical appearance, but about the inner attitude of the heart. It reminds us to maintain a sense of joy and contentment even in times of fasting and self-denial.
 2. "Appear as usual" - The purpose of fasting is not to draw attention to ourselves or to appear pious. It is a personal and private act of devotion to God. We should not seek recognition or praise from others, but rather focus on our relationship with God.
 3. "Attract no notice" - Fasting is not about seeking approval or admiration from others. It is a spiritual discipline that should be done with humility and sincerity. Our fasting should be directed towards God, not towards gaining the approval or attention of others.
@@ -39,4 +39,4 @@ Note: The commentary provided is not a direct quote from a specific source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

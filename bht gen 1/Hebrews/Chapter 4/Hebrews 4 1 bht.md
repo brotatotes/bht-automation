@@ -9,7 +9,7 @@ Let us approach our salvation with fear and trembling, not with slavish terror, 
 2. "The Writer departs from the primary sense of the words κατάπαυσίν μου in the Psalm, and lays stress on αὐτοῦ, making it God’s rest, the rest into which God has entered."
 3. "The caution serves the purpose of awakening in them a fear lest their unbelief should be found in the end to have excluded them from the participation of that promise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us . . . fear—not with slavish terror, but godly 'fear and trembling'. Since so many have fallen, we have cause to fear."
 2. "Being left us—still remaining to us after the others have, by neglect, lost it."
 3. "A foretaste of the rest Is given in the inward rest which the believer's soul has in Christ."
@@ -48,4 +48,4 @@ Let us approach our salvation with fear and trembling, not with slavish terror, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

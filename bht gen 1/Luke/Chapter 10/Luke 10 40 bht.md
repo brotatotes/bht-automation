@@ -9,7 +9,7 @@ In this passage, we see Martha bustling about, distracted and encumbered with th
 2. "ἐπιστ., generally, but not always, used by Luke of a sudden coming into presence." 
 3. "It looks here as if our Lord were teaching in another apartment from that where the διακονία was going on."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "cumbered—"distracted."" - This quote highlights the state of the sister who is preoccupied and overwhelmed with her tasks, leading to her inability to fully engage with Jesus' teaching.
 2. "carest thou not . . . my sister, c.—'Lord, here am I with everything to do, and this sister of mine will not lay a hand to anything thus I miss something from Thy lips, and Thou from our hands.'" - This quote reveals the frustration and complaint of the sister towards Jesus, expressing her desire for her sister to help with the tasks so that they can both benefit from Jesus' teachings.
 3. "bid her, &c.—She presumes not to stop Christ's teaching by calling her sister away, and thus leaving Him without His one auditor, nor did she hope perhaps to succeed if she had tried." - This quote emphasizes the sister's reluctance to interrupt Jesus' teaching by asking her sister to help, recognizing the importance of having someone fully engaged in listening to Jesus' words.
@@ -56,4 +56,4 @@ Note: The commentary provided is not an actual commentary on a specific Bible ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

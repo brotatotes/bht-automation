@@ -9,7 +9,7 @@ This verse captures the essence of the believer's journey towards purity and res
 2. "The idea of ἁγνίζειν is much the same as that of καθαρίζειν, it is entire purification, not merely from unchastity but from all defilement of flesh and spirit."
 3. "For these reasons, I would interpret ἐκεῖνος here of the Father, in whom essentially abides this perfection of purity, and after continual increase of likeness to whom his sons, having the ultimate hope of being completely like Him, will be striving."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This hope—of being hereafter 'like Him.'" 
 2. "Faith and love, as well as hope, occur in 1 John 3:11; 1 John 3:23." 
 3. "Thou purifiest thyself, not of thyself, but of Him who comes that He may dwell in thee."
@@ -48,4 +48,4 @@ This verse captures the essence of the believer's journey towards purity and res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

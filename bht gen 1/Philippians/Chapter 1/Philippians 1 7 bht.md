@@ -9,7 +9,7 @@ In this verse, we see the deep affection and gratitude that the apostle Paul hol
 2. "His bonds were his situation: his defence and confirmation of the Gospel his employment in that situation."
 3. "Ye are fellow-partakers of my grace: the grace vouchsafed to me by God in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's confident prayer in their behalf was that God would perfect His own good work of grace in them."
 2. "This last clause thus assigns the reason why he has them in his heart, even in his bonds, and in his defense and confirmation of the Gospel, namely, 'inasmuch as ye are fellow partakers of my grace.'"
 3. "Bonds do not bind love."
@@ -57,4 +57,4 @@ In this verse, we see the deep affection and gratitude that the apostle Paul hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

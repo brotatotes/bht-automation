@@ -10,7 +10,7 @@ In his time in Rome, Paul fervently explained and testified about the principles
 3. "Persuading: not 'teaching,' as Kuin., nor 'trying to persuade.'"
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "considerable numbers" - The word denotes one's place of stay as a guest, not "his own hired house." 
 2. "opening up the great spiritual principles of that kingdom in opposition to the contracted and secular views of it entertained by the Jews." 
 3. "persuading them concerning Jesus as the ordained and predicted Head of that kingdom."
@@ -44,4 +44,4 @@ In his time in Rome, Paul fervently explained and testified about the principles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

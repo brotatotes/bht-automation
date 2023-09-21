@@ -9,7 +9,7 @@ The Bible verse being described speaks to believers finding joy and purpose in s
 2. "It is not the sufferings of Christ mystical in His Body the church which are meant: in these the readers might bear their part, but could hardly be said κοινωνεῖν." 
 3. "Rejoice... ye may also at the revelation of His glory rejoice, exulting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By suffering, we become partakers of Christ's sufferings, entering into a deep and intimate fellowship with Him."
 2. "We rejoice amidst sufferings in this present time, but in the future, we shall exult with exceeding joy, forever free from sufferings."
 3. "If we refuse to bear suffering for Christ now, we will have to bear eternal sufferings in the future."
@@ -65,4 +65,4 @@ The Bible verse being described speaks to believers finding joy and purpose in s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

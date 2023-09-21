@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of love as the highest 
 2. "Strive for spiritual gifts, but more that you may prophesy."
 3. "Making love the first thing, take up the pursuit of spiritual gifts as a second."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Follow after charity—as your first and chief aim, seeing that it is 'the greatest'." 
 2. "Yet (as a secondary aim) desire zealously spiritual gifts." 
 3. "Desire zealously this (prophecy) more than any other spiritual gift; or in preference to 'tongues'."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

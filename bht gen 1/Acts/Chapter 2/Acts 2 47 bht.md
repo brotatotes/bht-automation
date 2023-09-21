@@ -9,7 +9,7 @@ The verse being described here speaks to the daily addition of those who were sa
 2. "Nothing is implied by this word, to answer one way or the other the question, whether all these were finally saved. It is only asserted, that they were in the way of salvation when they were added to the Christian assembly."
 3. "Correct criticism, as well as external evidence, requires that the words ἐν τῇ ἐκκλησίᾳ or τῇ ἐκκλησίᾳ should be rejected, as having been an explanatory gloss, and ἐπὶ τὸ αὐτό brought back to its place and the meaning which it bears in this passage, viz. together, in the sense of making up one sum, one body assembled in one place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart, for God now accepteth thy works" - This verse reminds us to enjoy the blessings that God has given us and to find joy in our daily lives.
 2. "The young Church had but few peculiarities in its outward form, or even in its doctrine: the single discriminating principle of its few members was that they all recognized the crucified Jesus of Nazareth as the Messiah." - The early Church was united by their belief in Jesus as the Messiah, and this confession formed the foundation of their community.
 3. "By the power of this Spirit, therefore, we behold the first Christians not only in a state of active fellowship, but also internally changed: the narrow views of the natural man are broken through; they have their possessions in common, and they regard themselves as one family." - The Holy Spirit transformed the early Christians, breaking down their selfishness and creating a sense of unity and love among them.
@@ -56,4 +56,4 @@ The verse being described here speaks to the daily addition of those who were sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, there is a call to silence those who spread false teachings, described as stopping their mouths or muzzling their words. These individuals are depicted as subverting families and overthrowing their beliefs, causing harm to households. Motivated by their pursuit of personal gain, they teach things contrary to God's truth and sound doctrine. To curb their destructive influence, there is a need for discipline and restraint, like putting a bit into the mouth of an unruly horse, to ensure that their unruly tendencies are controlled.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Muzzled," "bridled" as an unruly beast.
 2. "They are the devil's levers by which he subverts the houses of God."
 3. "For filthy lucre."
@@ -52,4 +52,4 @@ In this Bible verse, there is a call to silence those who spread false teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

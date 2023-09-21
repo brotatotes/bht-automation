@@ -9,7 +9,7 @@
 2. "No blows are given for the straying no hard words; mercy to the lost one, and joy within himself, are the Shepherd’s feeling."
 3. "The sheep is weary with long wanderings, He gives it rest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To show how precious one of His sheep is to the Good Shepherd."
 2. "To show that the shepherd, though the sheep stray never so widely, will seek it out."
 3. "When he hath found, will rejoice over it."
@@ -37,4 +37,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

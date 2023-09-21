@@ -9,7 +9,7 @@ The verse being described in this paragraph is a powerful declaration regarding 
 2. "Our doctrine, to you is not present, inasmuch as the character of the doctrine was present and abiding."
 3. "Yea and nay (i.e. inconsistent with itself)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He adds this lest they might think his DOCTRINE was changeable like his purposes"
 2. "implying that not to have changed, where there was good reason, would have been to imitate the fleshly-minded who at all costs obstinately hold to their purpose"
 3. "true—Greek, 'faithful' (1 Corinthians 1:9)"
@@ -53,4 +53,4 @@ The verse being described in this paragraph is a powerful declaration regarding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This Bible verse describes the deep sense of obligation and necessity that the s
 2. "In this thing only had he an advantage so as to be able to boast of it, that he preached the gospel without charge."
 3. "Οὐαὶ γάρ explains the ἀνάγκη."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If I preach the Gospel, and do so not gratuitously, I have no matter for 'glorying.'"
 2. "The 'necessity' that is laid on me to preach does away with ground for 'glorying.'"
 3. "The sole ground for the latter that I have, is my preaching without charge."
@@ -47,4 +47,4 @@ This Bible verse describes the deep sense of obligation and necessity that the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

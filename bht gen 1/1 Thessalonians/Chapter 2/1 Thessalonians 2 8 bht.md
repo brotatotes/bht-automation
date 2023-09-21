@@ -9,7 +9,7 @@ In this verse, the commentators highlight the deep level of selflessness and sac
 2. "The comparison is exceedingly tender and beautiful."
 3. "Because ye became very dear to us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As a nursing mother is ready to impart not only her milk to them, but her life for them, so we not only imparted gladly the spiritual milk of the word to you, but risked our own lives for your spiritual nourishment, imitating Him who laid down His life for His friends, the greatest proof of love."
 2. "The Greek is stronger, 'we were well content'; 'we would gladly have imparted,' c. 'even our own lives' (so the Greek for 'souls' ought to be translated) as we showed in the sufferings we endured in giving you the Gospel."
 3. "The oldest reading in the Greek implies, literally, to connect one's self with another to be closely attached to another."
@@ -52,4 +52,4 @@ Note: The commentary is discussing the phrase "being affectionately desirous" an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

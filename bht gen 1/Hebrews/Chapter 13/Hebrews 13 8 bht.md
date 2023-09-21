@@ -9,7 +9,7 @@ This verse speaks of the everlasting and unchanging nature of Jesus Christ and h
 2. "It was Christ whom these ἡγούμενοι preached, ἐλάλησαν τὸν λόγον τοῦ θεοῦ: Christ who supported them to the end, being the author and finisher of their faith; and He remains still with regard to you."
 3. "ἐχθές refers to the time past, when their ἡγούμενοι passed away from them; σήμερον to the time present, when the Writer and the readers were living."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus Christ, yesterday and to-day (is) the same, and (shall be the same) unto the ages (that is, unto all ages)." 
 2. "The Jesus Christ... who supported your spiritual rulers through life even unto their end 'yesterday'... remains still the same Jesus Christ 'to-day,' ready to help you also, if like them you walk by 'faith' in Him."
 3. "He who yesterday suffered and died, is to-day in glory... the 'suffering' did not so interrupt the glory of Jesus Christ which was of yesterday, and that which is to-day, as not to continue to be the same."
@@ -61,4 +61,4 @@ Overall, this commentary highlights the eternal and unchanging nature of Jesus C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

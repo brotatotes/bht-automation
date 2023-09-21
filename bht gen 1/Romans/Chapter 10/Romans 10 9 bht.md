@@ -9,7 +9,7 @@ The verse emphasizes the significance of confessing one's faith in Jesus as Lord
 2. "The fact of the confession with the mouth standing first, also shows a reference to what has gone before."
 3. "The belief in His resurrection implies His having been brought up from the dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle is here giving the language of the true method of justification."
 2. "If thou shalt confess Jesus [to be] the Lord, which is the proper manifestation or evidence of faith."
 3. "Believe in thine heart that God raised him from the dead, &c."
@@ -55,4 +55,4 @@ The verse emphasizes the significance of confessing one's faith in Jesus as Lord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

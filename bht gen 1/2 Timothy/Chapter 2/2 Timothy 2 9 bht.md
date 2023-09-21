@@ -4,7 +4,7 @@
 In this verse, the hardships faced by Paul in spreading the gospel are emphasized. He endures reproaches, beatings, and imprisonment, yet he remains steadfast in his mission. Despite the physical constraints of his imprisonment, the word of God remains unbound, continuing to spread and impact lives. The verse highlights the unstoppable nature of the Word, reminding us that it transcends all limitations and has the power to break through barriers and bring about transformation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am a sufferer of evil as though I were a doer of evil." 
 2. "Though my person is bound, my tongue and my pen are not." 
 3. "He also hints to Timothy that he being free ought to be the more earnest in the service of it."
@@ -48,4 +48,4 @@ In this verse, the hardships faced by Paul in spreading the gospel are emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

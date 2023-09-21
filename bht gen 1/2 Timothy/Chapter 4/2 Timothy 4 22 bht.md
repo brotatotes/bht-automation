@@ -11,7 +11,7 @@
 
 3. "The grace of God be with you (the members of the church where Timotheus was)." - This quote specifically addresses the members of the church where Timothy was serving. It implies that the church community needs the grace of God to thrive and fulfill its mission.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grace be with you—plural" - This emphasizes that the grace of God is not limited to an individual, but extends to the entire community of believers.
 2. "In oldest manuscripts, 'with YOU,'" - This highlights the importance of relying on the earliest and most reliable manuscripts to understand the intended meaning of the text.
 3. "Thee and the members of the Ephesian and neighboring churches" - This suggests that the grace of God is not confined to a specific location or group, but is meant to be shared and experienced by all believers.
@@ -44,4 +44,4 @@ These quotes highlight the presence and support of Jesus in times of difficulty,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

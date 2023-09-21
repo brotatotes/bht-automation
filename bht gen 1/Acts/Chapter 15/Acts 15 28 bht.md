@@ -9,7 +9,7 @@ In this Bible verse, the decision of the Holy Spirit is laid down as the primary
 2. "their own formal ecclesiastical decision follows, as giving utterance and scope to His will and command"
 3. "The judgment as to what things were ἐπάναγκες is implied in ἔδοξεν"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The One, inwardly guiding to and setting His seal on the decision come to: the other, the external ecclesiastical authority devoutly embracing, expressing, and conveying to the churches that decision:—a great principle this for the Church in all time."
 2. "The whole language of these prohibitions, and of Acts 15:20, implies that they were designed as concessions to Jewish feelings on the part of the Gentile converts, and not as things which were all of unchanging obligation."
 3. "The then state of heathen society in respect of all the four things seems the reason for so mixing them up."
@@ -48,4 +48,4 @@ In this Bible verse, the decision of the Holy Spirit is laid down as the primary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

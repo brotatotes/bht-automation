@@ -9,7 +9,7 @@ The verse being described is about the irrevocable gifts and calling of God towa
 2. "The Jews being once chosen as God's people, will never be entirely cast off." 
 3. "The words are true not only of this calling, but of every other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Both these, says the apostle, are irrevocable; and as the point for which he refers to this at all is the final destiny of the Israelitish nation, it is clear that the perpetuity through all time of the Abrahamic covenant is the thing here affirmed."
 2. "And lest any should say that though Israel, as a nation, has no destiny at all under the Gospel, but as a people disappeared from the stage when the middle wall of partition was broken down, yet the Abrahamic covenant still endures in the spiritual seed of Abraham, made up of Jews and Gentiles in one undistinguished mass of redeemed men under the Gospel—the apostle, as if to preclude that supposition, expressly states that the very Israel who, as concerning the Gospel, are regarded as 'enemies for the Gentiles' sakes,' are 'beloved for the fathers' sakes.'"
 3. "But in what sense are the now unbelieving and excluded children of Israel 'beloved for the fathers' sakes?' Not merely from ancestral recollections, as one looks with fond interest on the child of a dear friend for that friend's sake [DR. ARNOLD]—a beautiful thought, and not foreign to Scripture, in this very matter—but it is from ancestral connections and obligations, or their lineal descent from and oneness in covenant with the fathers with whom God originally established it."
@@ -57,4 +57,4 @@ The verse being described is about the irrevocable gifts and calling of God towa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

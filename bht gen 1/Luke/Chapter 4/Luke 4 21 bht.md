@@ -9,7 +9,7 @@ The verse being described captures a significant moment in Jesus' ministry where
 2. "The same truth was declared by a series of gracious acts of mercy."
 3. "Is fulfilled in your hearing, by My proclaiming it, and My course of ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His whole address was just a detailed application to Himself of this and perhaps other like prophecies." This quote highlights the significance of Jesus' words and actions in relation to the prophecies found in the Bible.
 
 2. "His whole address was just a detailed application to Himself." This quote emphasizes the intentionality and purpose behind Jesus' words, suggesting that he was intentionally aligning himself with the prophecies.
@@ -61,4 +61,4 @@ The verse being described captures a significant moment in Jesus' ministry where
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

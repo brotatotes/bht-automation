@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the extraordinary power and authority of Jesus as He appoints and distributes kingdoms even in the midst of His imminent arrest and crucifixion. They highlight that the disciples are being entrusted with a responsibility and authority similar to what Jesus received from the Father. The word "appoint" signifies a deliberate and purposeful act, suggesting a transfer of knowledge, power, or authority. Through this appointment, Jesus is giving the disciples a spiritual kingdom, encompassing the government of the church and the reign of Christ in the hearts of His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who is this that dispenses kingdoms, nay, the Kingdom of kingdoms, within an hour or two of His apprehension, and less than a day of His shameful death?" 
 
 2. "These sublime contrasts, however, perpetually meet and entrance us in this matchless history." 
@@ -52,4 +52,4 @@ In this verse, the commentators emphasize the extraordinary power and authority 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

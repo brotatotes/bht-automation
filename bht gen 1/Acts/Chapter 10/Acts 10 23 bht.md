@@ -9,7 +9,7 @@ In a groundbreaking event, Peter breaks cultural barriers by dining with uncircu
 2. "In expectation of some weighty event to which hereafter their testimony might be required." 
 3. "As indeed it was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Called them in and lodged them—thus partially anticipating this fellowship with Gentiles." 
 2. "Peter went...with them, and certain brethren—six in number." 
 3. "From Joppa—as witnesses of a transaction which Peter was prepared to believe pregnant with great consequences."
@@ -43,4 +43,4 @@ In a groundbreaking event, Peter breaks cultural barriers by dining with uncircu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

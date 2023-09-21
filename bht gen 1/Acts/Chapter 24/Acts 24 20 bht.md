@@ -9,7 +9,7 @@ In the presence of the Sanhedrin, Paul boldly appeals to his accusers to point o
 2. "What other fault but this." 
 3. "What other fault but this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Or else let these... here say—" - This quote suggests that Paul is challenging the members of the Sanhedrin to speak up if they believe he is guilty of any wrongdoing. It highlights his confidence in his innocence and his willingness to confront his accusers.
 2. "No doubt his hasty speech to the high priest might occur to them" - This quote acknowledges that Paul's previous outburst towards the high priest might be remembered by the members of the Sanhedrin. It shows that Paul is aware of his own actions and is prepared to address any concerns or criticisms.
 3. "the provocation to it on his own part was more than they would be willing to recall" - This quote suggests that Paul believes the members of the Sanhedrin would be reluctant to admit that his outburst was provoked by their own actions. It implies that Paul is challenging their integrity and their ability to objectively judge his case.
@@ -42,4 +42,4 @@ In the presence of the Sanhedrin, Paul boldly appeals to his accusers to point o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

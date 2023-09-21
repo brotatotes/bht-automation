@@ -4,7 +4,7 @@
 On a Sabbath day, Jesus intentionally performed a healing miracle, challenging the strict interpretation of Sabbath laws held by the religious authorities. This act provoked opposition and controversy, giving Jesus an opportunity to teach and reveal His authority as the Lord of the Sabbath. By healing and advocating for acts of mercy and restoration on the Sabbath, Jesus reshaped the meaning and purpose of this sacred day. Through this miraculous event, Jesus compelled people to listen to His claims, deepening their understanding of His message and challenging their understanding of the Sabbath.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same day was the Sabbath" - This intentional timing of the healing on the Sabbath highlights Jesus' purpose to challenge the religious authorities and their strict interpretation of the Sabbath law. It forces people to confront their own understanding of the Sabbath and listen to Jesus' teachings.
 
 2. "In order that when opposition arose on this account" - Jesus knew that healing on the Sabbath would provoke opposition from the religious leaders. This opposition would create an opportunity for Jesus to further explain His claims and teachings, compelling people to pay attention and consider the truth of His message.
@@ -45,4 +45,4 @@ On a Sabbath day, Jesus intentionally performed a healing miracle, challenging t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, a new and extraordinary teaching by Jesus captures the attentio
 2. "We may either take καινή with κατʼ ἐξουσίαν, 'new in respect of power,' as Meyer."
 3. "Render then a teaching new and powerful."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The audience, rightly apprehending that the miracle was wrought to illustrate the teaching and display the character and glory of the Teacher..."
 2. "...begin by asking what novel kind of teaching this could be, which was so marvellously attested."
 3. "The miracle served as a powerful confirmation of the authority and uniqueness of Jesus' teaching."
@@ -45,4 +45,4 @@ In this passage, a new and extraordinary teaching by Jesus captures the attentio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

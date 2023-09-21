@@ -4,7 +4,7 @@
 The verse being described is a symbolic portrayal of the Church's journey throughout history. The Church is depicted as a woman who finds solace and protection in a wilderness, which represents a time of obscurity and persecution. Despite the challenges faced by the Church, God ensures that she is nourished and cared for. Throughout different periods of history, such as the Middle Ages and the Reformation, God continues to preserve a faithful remnant within the Church, providing a safe haven for them to thrive and proclaim the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The heathen world, the wilderness, could not nourish the Church, but only afford her an outward shelter."
 2. "During the whole Church-historic period, or 'times of the Gentiles,' wherein 'Jerusalem is trodden down of the Gentiles,' there is no believing Jewish Church, and therefore, only the Christian Church can be 'the woman.'"
 3. "They are equivalent to three and a half years, which, as half of the divine number seven, symbolize the seeming victory of the world over the Church."
@@ -48,4 +48,4 @@ Note: The provided commentary is quite technical and specific, making it challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

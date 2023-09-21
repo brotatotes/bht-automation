@@ -11,7 +11,7 @@ In this verse, the disciples are commended for their enduring loyalty and suppor
 
 3. "Luke 22:37" - This reference to the specific verse indicates that the commentary is focused on providing insights and interpretations of this particular passage, allowing readers to delve deeper into its meaning and implications.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Evidence of Christ's tender susceptibility to human sympathy and support!"
 2. "Christ's tender susceptibility to human sympathy and support"
 3. "Christ's tender susceptibility to human sympathy and support"
@@ -63,4 +63,4 @@ In this verse, the disciples are commended for their enduring loyalty and suppor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

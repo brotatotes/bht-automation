@@ -9,7 +9,7 @@ In this verse, Jesus refers to the story of David to defend his disciples agains
 2. "The example was thus doubly appropriate."
 3. "But the Jewish calendar of lessons cannot be shown to have existed in the form which we now have, in the time of the Gospel history."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have ye never read" - This phrase emphasizes the importance of knowing and understanding the Scriptures. It implies that the answer to their question can be found in the Word of God.
 2. "What David did when he was an hungered" - This reference to David reminds us that even great men of faith experienced times of hunger and need. It highlights the fact that Jesus is pointing to a precedent set by a revered figure in Jewish history.
 3. "They that were with him" - This phrase suggests that David's actions were not just for his own benefit, but also for the well-being of those who were with him. It underscores the principle of caring for others and the communal aspect of meeting physical needs.
@@ -48,4 +48,4 @@ In this verse, Jesus refers to the story of David to defend his disciples agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

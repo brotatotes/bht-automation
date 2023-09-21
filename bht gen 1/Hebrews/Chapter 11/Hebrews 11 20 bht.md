@@ -9,7 +9,7 @@ In this Bible verse, Isaac blesses Jacob and Esau regarding things to come. The 
 2. "Jacob is named before Esau, as the worthier and more important in the theocratic sense."
 3. "Isaac blessed them concerning not only things present, but things future also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jacob is put before Esau, as heir of the chief, namely, the spiritual blessing." 
 2. "Isaac, by faith, assigned to his sons things future, as if they were present." 
 3. "Isaac's act of blessing his sons was not merely a formality, but a prophetic act that spoke of their future destinies."
@@ -59,4 +59,4 @@ In this Bible verse, Isaac blesses Jacob and Esau regarding things to come. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

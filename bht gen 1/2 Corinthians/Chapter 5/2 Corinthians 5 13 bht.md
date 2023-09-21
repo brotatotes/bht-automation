@@ -9,7 +9,7 @@ The described verse presents a contrast between being "beside ourselves" and bei
 2. "If you will ascribe to us madness, it is a holy madness, for God."
 3. "If you maintain and are convinced of our sobriety, it is a soundness in your service."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The contrast is between the single act implied by the past tense, 'If we have ever been beside ourselves,' and the habitual state implied by the present, 'Or whether we be sober,' that is, of sound mind."
 2. "The holy enthusiasm with which he spake of what God effected by His apostolic ministry, seemed to many to be boasting madness."
 3. "The glorifying of his office was not for his own, but for God's glory. The abasing of himself was in adaptation to their infirmity, to gain them to Christ."
@@ -57,4 +57,4 @@ These quotes emphasize the selflessness of the apostles in their preaching and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

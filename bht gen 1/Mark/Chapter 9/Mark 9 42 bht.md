@@ -11,7 +11,7 @@ This verse cautions against causing harm or offense to those who are new or vuln
 
 3. "Jesus' words in this verse emphasize the gravity of leading others astray. It is a call to be mindful of our actions and the impact they can have on the spiritual well-being of those around us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For whosoever shall offend one of these little ones that believe in me... it is better for him that a millstone were hanged about his neck." 
 2. "The word here is simply 'millstone,' without expressing of which kind. But in Matthew 18:6, it is the 'ass-turned' kind, far heavier than the small hand-mill turned by female slaves... It is of course the same which is meant here." 
 3. "Woe unto the world because of offences! For it must needs be that offences come; but woe to that man by whom the offence cometh!"
@@ -44,4 +44,4 @@ This verse cautions against causing harm or offense to those who are new or vuln
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

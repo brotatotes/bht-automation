@@ -9,7 +9,7 @@ The verse being described discusses the casting out of demons by the power of Go
 2. "We have much greater variations than this in sayings demonstrably the same."
 3. "A reference to ref. Ps., where the heavens are 'the works of Thy fingers,' will sufficiently show how little reliance is to be placed on such subtleties."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the finger of God—"the Spirit of God" (Matthew 12:28)" - This quote highlights the connection between the "finger of God" mentioned in the verse and the "Spirit of God" mentioned in Matthew 12:28. It suggests that the finger of God represents the power of God, while the Spirit of God represents the living Personal Agent behind that power.
 
 2. "the former figuratively denoting the power of God" - This quote explains that the phrase "finger of God" is a figurative expression used to symbolize the power of God. It suggests that it is not meant to be taken literally, but rather as a representation of God's divine power.
@@ -42,4 +42,4 @@ The verse being described discusses the casting out of demons by the power of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

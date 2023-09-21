@@ -4,7 +4,7 @@
 In this verse, commentators highlight the interconnectedness and interdependence of the members within a community or body. They stress the value and significance of every individual, emphasizing that no one should consider themselves superior to others. The verse underscores the importance of unity, cooperation, and mutual respect. It also encourages the fulfillment of responsibilities and the recognition of the essential role that each member plays in the overall functioning and well-being of the community. The verse highlights that God's love encompasses and extends to all, regardless of position or status.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that every member of a community or body is important and has a role to play. The 'higher' members cannot disregard or overlook the 'lower' members, as they are all interconnected and dependent on each other." 
 
 2. "It serves as a reminder that no one should think of themselves as superior or more important than others. We are all part of a larger whole, and each person's contribution is valuable and necessary for the overall functioning and well-being of the community." 
@@ -40,4 +40,4 @@ In this verse, commentators highlight the interconnectedness and interdependence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

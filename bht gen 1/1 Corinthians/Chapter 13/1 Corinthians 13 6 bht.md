@@ -9,7 +9,7 @@ This verse speaks about the nature of love, emphasizing that true love does not 
 2. "Rejoices with the Truth, ἡ ἀλήθ. being personified, and meaning especially the spread among men of the Truth of the Gospel, and indeed of the truth in general."
 3. "In opposition to those who (ref. Rom.) τὴν ἀλήθειαν ἐν ἀδικίᾳ κατέχουσι, who (ref. 2 Tim.) ἀνθίστανται τῇ ἀληθείᾳ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoiceth with the truth." - This phrase emphasizes the importance of aligning one's joy with the truth. It implies that true joy comes from embracing and celebrating the truth rather than participating in or rejoicing in unrighteousness.
 
 2. "Rejoices when the truth rejoices." - This quote highlights the idea that genuine love and joy are found in rejoicing alongside the truth. It suggests that believers should find joy in the victories and triumphs of the truth, showing solidarity and support.
@@ -52,4 +52,4 @@ This verse speaks about the nature of love, emphasizing that true love does not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

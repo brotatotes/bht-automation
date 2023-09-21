@@ -9,7 +9,7 @@ The verse being described is one where Jesus sends messengers ahead of him to pr
 2. "It must have been to announce the coming of Jesus as the Messiah, which He did not conceal in Samaria, as in Judæa and Galilee."
 3. "They expected that the Messiah would have confirmed their anti-Jewish rites and Gerizim temple, instead of going up solemnly to Jerusalem, and thereby condemning them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Messengers before his face...to make ready for him" - Jesus is intentionally seeking publicity and preparing the way for his ministry, a departure from his previous approach.
 2. "He had not done this before" - This change in strategy indicates a shift in Jesus' mission and mindset.
 3. "All now hastening to maturity" - The events unfolding are part of a larger plan, with everything aligning and progressing towards a significant outcome.
@@ -52,4 +52,4 @@ The verse being described is one where Jesus sends messengers ahead of him to pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

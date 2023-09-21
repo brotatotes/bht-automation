@@ -4,7 +4,7 @@
 The verse being described is Ephesians 3:6. Commentators highlight that in Christ Jesus, both Jews and Gentiles are made fellow heirs, emphasizing the shared inheritance and equal privileges among believers. This unity is further emphasized through the notion of believers being part of the same body under Christ the head, highlighting the interconnectedness and unity within the body of Christ. Believers also share in the promise of the Holy Spirit, partaking in the blessings and benefits of being united with Christ and experiencing the presence and power of God through the Spirit.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is 'in Christ Jesus' that they are made 'fellow heirs' in the inheritance of GOD."
 2. "Of the same body" under the Head, CHRIST JESUS.
 3. "Fellow partakers of the promise" in the communion of THE HOLY SPIRIT.
@@ -43,4 +43,4 @@ The verse being described is Ephesians 3:6. Commentators highlight that in Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

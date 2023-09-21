@@ -9,7 +9,7 @@ The depth and richness of God's goodness, the intricate wisdom in His dealings, 
 2. "The divine wisdom of proceeding in the apparently intricate vicissitudes of nations and individuals." 
 3. "The divine knowledge of all things from the beginning, God’s comprehension of the end and means together in one unfathomable depth of Omniscience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The depth of God's riches."
 2. "The riches of God is a much rarer expression with our apostle than the riches of this or that perfection of God."
 3. "The depth of the riches of God's wisdom and knowledge in these purposes and methods."
@@ -55,4 +55,4 @@ The depth and richness of God's goodness, the intricate wisdom in His dealings, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In his own hired house, where he received all that came to him, Paul continued two whole years. This verse speaks to Paul's dedication, perseverance, and the significant amount of time he spent in his ministry. It shows his inclusive approach to preaching the Gospel, welcoming both Jews and Gentiles. It also highlights the rapid growth and transformative power of the Gospel in the regions where Paul ministered, reflecting the effectiveness of his missionary work.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In his own hired house" - This phrase indicates that Paul was not in a prison cell, but rather in a place where he had some freedom and control over his surroundings. It suggests that he had a certain level of comfort and stability, even though he was still technically in custody.
 
 2. "Received all that came to him" - This statement highlights Paul's openness and willingness to engage with anyone who sought him out. It shows his commitment to sharing the message of the Gospel and his eagerness to connect with others, regardless of their background or beliefs.
@@ -50,4 +50,4 @@ In his own hired house, where he received all that came to him, Paul continued t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

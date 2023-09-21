@@ -9,7 +9,7 @@ In this verse, we learn about the importance of having a steadfast heart and mak
 2. "The motive of the determination expressed in κέκρικεν is the feeling of a father, desirous of retaining in her present state his own virgin daughter."
 3. "The clause is opposed to ἔχων ἀνάγκην, indicating that the person has the freedom to keep his daughter unmarried."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "steadfast—not to be turned from his purpose by the obloquy of the world."
 2. "having no necessity—arising from the natural inclinations of the daughter."
 3. "power over his . . . will—when, owing to his daughter's will not opposing his will, he has power to carry into effect his will or wish."
@@ -48,4 +48,4 @@ In this verse, we learn about the importance of having a steadfast heart and mak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

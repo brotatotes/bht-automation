@@ -9,7 +9,7 @@ In this verse, commentators stress the importance of reciprocity between the spe
 2. "The ἡμεῖς ἡμεῖς, being identical, stand out in so much the stronger relief against the triple antithesis, ὑμῖν, πνευματικά, ἐσπείραμεν, and ὑμων, σαρκικά, θερίσωμεν."
 3. "The first are so called as belonging to the spirit of man, the second as serving for the nourishment of the flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "WE, the same persons who have sown to you the infinitely more precious treasures of the Spirit" - The commentary highlights the role of the speaker in providing spiritual guidance and treasures to the audience.
 
 2. "may at least claim in return what is the only thing you have to give" - This quote emphasizes the expectation of reciprocity, suggesting that the audience should provide material support in return for the spiritual guidance they have received.
@@ -47,4 +47,4 @@ In this verse, commentators stress the importance of reciprocity between the spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is one that addresses the issue of fornication. Commen
 2. "Drunkenness and gluttony, e.g. are sins done in and by the body, and are sins by abuse of the body, but they are still ἐκτὸς τοῦ σώματος introduced from without, sinful not in their act, but in their effect."
 3. "But fornication is the alienating that body which is the Lord’s, and making it a harlot’s body it is sin against a man’s own body, in its very nature, against the verity and nature of his body; not an effect on the body from participation of things without, but a contradiction of the truth of the body, wrought within itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only safety in such temptations is flight."
 2. "Every sin whatsoever that a man doeth."
 3. "He certainly injures, but he does not alienate the body itself; the sin is not terminated in the body."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

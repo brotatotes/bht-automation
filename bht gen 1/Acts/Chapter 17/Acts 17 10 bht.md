@@ -9,7 +9,7 @@ In the midst of their missionary journey, Paul and Silas faced opposition and da
 2. "The general character of the narrative seems to be, that where Paul, or Paul and Silas, are alone or principally concerned, all mention of the rest is suspended."
 3. "Both these facts, especially the last, seeing that the distance from Philippi was 100 Roman miles, make it very improbable that his stay was so short as from three to four weeks."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It would have been as useless as rash to attempt any further preaching at that time." 
 2. "The conviction of this probably made his friends the more willing to pledge themselves against any present continuance of missionary effort." 
 3. "Berea - a town even still of considerable population and importance."
@@ -45,4 +45,4 @@ In the midst of their missionary journey, Paul and Silas faced opposition and da
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

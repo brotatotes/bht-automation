@@ -9,7 +9,7 @@ This verse presents a fragmentary account of Jesus' actions, highlighting the va
 2. "In every part of it, his hand is plain and unmistakeable: in every part of it, his character and spirit is manifested in a way which none but the most biassed can fail to recognize."
 3. "On the whole, I am persuaded that in this chapter we have a fragment, both authentic and genuine, added, for reasons apparent on the face of it, by the Apostle himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And there are many other things which Jesus did" - This phrase emphasizes that the recorded actions of Jesus are just a fraction of all that he did during his time on earth. It suggests that there is much more to Jesus' life and ministry that is not included in the written accounts.
 
 2. "Even the world itself would not hold the books" - This statement conveys the vastness and richness of Jesus' life and teachings. It implies that if every detail of Jesus' actions were to be written down, it would require an impossibly large number of books to contain them all.
@@ -52,4 +52,4 @@ This verse presents a fragmentary account of Jesus' actions, highlighting the va
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

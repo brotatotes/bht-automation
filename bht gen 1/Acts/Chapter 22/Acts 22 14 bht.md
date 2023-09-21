@@ -9,7 +9,7 @@ In this verse, the speaker refers to the God of the Jewish fathers, aimed at emp
 2. "τὸν δίκαιον" - Stephen refers to Peter as "the righteous one" which shows the high regard for Peter. (Quote 14)
 3. "How forcibly must the whole scene have recalled him, whom presently (Act 22:20) he mentions by name." - The scene of Peter being referred to as "the God of our fathers" must have reminded Stephen of the person he mentions by name later. (Quote 14)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That thou shouldest . . . see that 'the' Just One." (Acts 22:14) - This quote highlights the significance of Paul's encounter with Jesus on the road to Damascus, emphasizing that Jesus is the righteous and holy one.
 
 2. "Hear the voice of his mouth." (Acts 22:14) - This quote emphasizes the importance of Paul hearing directly from Jesus, indicating that he received divine revelation and instruction.
@@ -52,4 +52,4 @@ In this verse, the speaker refers to the God of the Jewish fathers, aimed at emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

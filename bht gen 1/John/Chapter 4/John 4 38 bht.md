@@ -9,7 +9,7 @@ In this Bible verse, the commentators discuss the significance of the disciples'
 2. "By ἄλλοι here He cannot mean the O.T. Prophets, for then His own place would be altogether left out."
 3. "The plural is I believe merely inserted as the correspondent word to ὑμεῖς in the explanation, as it was ἄλλος ἄλλος, in the proverb."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I, the Lord of the whole harvest: 'sent you,' points to their past appointment to the apostleship, though it has reference only to their future discharge of it."
 2. "Ye bestowed no labour—meaning that much of their future success would arise from the preparation already made for them."
 3. "Referring to the Old Testament laborers, the Baptist, and by implication Himself, though He studiously keeps this in the background, that the line of distinction between Himself and all His servants might not be lost sight of."
@@ -48,4 +48,4 @@ In this Bible verse, the commentators discuss the significance of the disciples'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

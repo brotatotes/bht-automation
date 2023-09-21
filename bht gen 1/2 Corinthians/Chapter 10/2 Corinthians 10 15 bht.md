@@ -11,7 +11,7 @@ The verse being described is one that emphasizes the interconnectedness of faith
 
 These quotes highlight the idea that the speaker is not boasting about the work of others, but rather expressing hope for growth and enlargement in faith. The metaphor of measure is emphasized, and the speaker clarifies that their goal is not to exceed their own limits.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not boasting to unmeasured bounds (that is, not exceeding our own bounds by boasting) of other men's labors."
 2. "The cause of his not yet reaching with the Gospel the regions beyond Corinth, was the weakness as yet of their faith."
 3. "Our success in your case will give us an important step towards further progress beyond you."
@@ -57,4 +57,4 @@ These quotes highlight the idea that the speaker is not boasting about the work 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentators discuss the importance of marking, avoiding, and
 
 3. "The great objection to the above connexion is that St. Paul has already pointed out the manner of treating such an one, 2 Thessalonians 3:6, and is not likely to enjoin a further reference to himself on the subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark him in your own mind as one to be avoided." 
 2. "Made to turn and look into himself, and so be put to shame." 
 3. "Feeling himself shunned by godly brethren, he may become ashamed of his course."
@@ -59,4 +59,4 @@ In this verse, the commentators discuss the importance of marking, avoiding, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

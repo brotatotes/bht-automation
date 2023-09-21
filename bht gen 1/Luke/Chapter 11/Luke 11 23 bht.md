@@ -9,7 +9,7 @@ In this verse, we are reminded that there is no neutral ground when it comes to 
 2. "Jesus is emphasizing the importance of making a clear choice and taking a stand for Him. He wants us to understand that being lukewarm or indecisive in our faith is not an option."
 3. "This verse challenges us to examine our hearts and make sure that we are truly committed to following Jesus wholeheartedly, without any reservations or divided loyalties."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatever in religion is disconnected from Christ comes to nothing."
 2. "Gathereth...scattereth - referring probably to gleaners."
 3. "The meaning seems to be..."
@@ -30,4 +30,4 @@ In this verse, we are reminded that there is no neutral ground when it comes to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

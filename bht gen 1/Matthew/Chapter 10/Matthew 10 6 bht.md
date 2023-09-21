@@ -11,7 +11,7 @@ This verse portrays the compassionate nature of Jesus towards the Jewish people,
 
 3. "This verse reminds us of Jesus' compassion and mission to gather His sheep and seek out the lost. It reflects His deep love for humanity and His desire to reconcile them to God. It also challenges us to have the same heart of compassion and actively participate in the work of seeking and saving the lost."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Until Christ's death, which broke down the middle wall of partition, the Gospel commission was to the Jews only." 
 
 2. "The Jews, though the visible people of God, were 'lost sheep,' abandoned and left to wander from the right way by faithless shepherds." 
@@ -58,4 +58,4 @@ This verse portrays the compassionate nature of Jesus towards the Jewish people,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

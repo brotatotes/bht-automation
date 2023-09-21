@@ -9,7 +9,7 @@ This passage speaks of the significance of Abraham's faith and justification by 
 2. "Both these belong to the ἐνάρξασθαι of Galatians 3:3, are concomitant, and inseparable."
 3. "On the verse, see note, Romans 4:3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was by the hearing of faith: following this up, he says, 'Even as Abraham believed.'"
 2. "God supplies unto you the Spirit as the result of faith, not works, just as Abraham obtained justification by faith, not by works."
 3. "Where justification is, there the Spirit is, so that if the former comes by faith, the latter must also."
@@ -53,4 +53,4 @@ This passage speaks of the significance of Abraham's faith and justification by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This Bible verse condemns those who have strayed from the truth and missed the m
 2. "The offence was not either of these things, promulgating of idle fables, or ignorance of their subject, but one not even touched on here an offence against the liberty of the Gospel, and its very existence, by reintroducing the law and its requirements."
 3. "They are not honest men, speaking from conviction, and therefore lucidly: but men depraved in conscience and putting forth things obscure to themselves, for other and selfish purposes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From which—namely, from a pure heart, good conscience, and faith unfeigned, the well-spring of love."
 2. "having swerved—literally, 'having missed the mark (the 'end') to be aimed at.'"
 3. "It is the greatest vanity when divine things are not truthfully discussed."
@@ -53,4 +53,4 @@ This Bible verse condemns those who have strayed from the truth and missed the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

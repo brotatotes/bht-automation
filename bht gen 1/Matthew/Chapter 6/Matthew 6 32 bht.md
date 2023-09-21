@@ -11,7 +11,7 @@ In this verse, we are reminded of the certainty and importance of the following 
 
 3. "see Xen. Symp. iv. 55" - This reference suggests that there is further evidence or support for the argument being made in the commentary.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowing nothing definitely beyond the present life to kindle their aspirations and engage their supreme attention, the heathen naturally pursue present objects as their chief, their only good."
 2. "To what an elevation above these does Jesus here lift His disciples!"
 3. "Food and raiment are pronounced needful to God's children; and He who could say, 'No man knoweth the Father but the Son, and he to whomsoever the Son will reveal Him,' says with an authority which none but Himself could claim, 'Your heavenly Father knoweth that ye have need of all these things.'"
@@ -35,4 +35,4 @@ In this verse, we are reminded of the certainty and importance of the following 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

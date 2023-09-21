@@ -8,7 +8,7 @@ The verse being described is a reminder of the good news and promise of rest fou
 1. "For good tidings have been also announced to us, as likewise to them...nevertheless the word of their hearing did not profit them, unmingled as they were in faith with its hearers." 
 2. "The modern Commentators all declare that it cannot be understood at all...The Fathers...mostly explain the clause, that they were
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They should look beyond to the heavenly land of rest, to which faith is the avenue, and from which unbelief excludes, as it did from the earthly Canaan."
 2. "The word heard being the food which, as the bread of life, must pass into flesh and blood through man's appropriating it to himself in faith."
 3. "Hearing alone is of as little value as undigested food in a bad stomach."
@@ -52,4 +52,4 @@ The verse being described is a reminder of the good news and promise of rest fou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

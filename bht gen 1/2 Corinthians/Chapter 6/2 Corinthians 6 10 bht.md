@@ -9,7 +9,7 @@ In this Bible verse, the writer describes the paradoxical nature of the servant 
 2. "πτωχοί again can hardly have been a reproach, but sets forth the fact as poor men, but enriching many: as having nothing, but possessing all things."
 3. "possessing (finally and as our own, our inheritance never to be taken away; in that sense of the word 'to possess' which this world’s buyers are not to use οἱ ἀγοράζοντες, ὡς μὴ κατέχοντες, 1Co 7:30) all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'as' no longer is used to express the opinion of his adversaries, but the real state of him and his fellow laborers."
 2. "Making many rich—Spiritually, after the example of our Lord, who 'by His poverty made many rich.'"
 3. "Possessing all things—The Greek implies firm possession, holding fast in possession."
@@ -50,4 +50,4 @@ These quotes highlight the tension and paradoxes that exist in the life of a ser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, Jesus cautions against the abuse of titles and positions of authority within the Church. He emphasizes the intimacy and love between God and His children, highlighting God's role as the ultimate Father deserving of reverence. The verse condemns the seeking of authoritative power over people's consciences, urging disciples not to boast in titles of honor or assume authority as the founders of the Christian religion. It reminds believers to honor and obey their heavenly Father, who holds paternal authority over all creation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To construe these injunctions into a condemnation of every title by which Church rulers may be distinguished from the flock which they rule, is virtually to condemn that rule itself and accordingly the same persons do both." 
 
 2. "But when we have guarded ourselves against these extremes, let us see to it that we retain the full spirit of this warning against that itch for ecclesiastical superiority which has been the bane and the scandal of Christ's ministers in every age."
@@ -47,4 +47,4 @@ In this verse, Jesus cautions against the abuse of titles and positions of autho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

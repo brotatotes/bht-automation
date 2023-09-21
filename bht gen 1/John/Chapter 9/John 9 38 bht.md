@@ -4,7 +4,7 @@
 The verse being described depicts a disciple's profound faith and worship that surpasses human expectations. The disciple expresses deep gratitude and adoration, acknowledging Jesus' divinity and surrendering to His authority. This act of worship is not merely an external gesture, but a reflection of a heart that recognizes God's greatness and submits to His sovereignty. The disciple's belief in Jesus as the Son of God leads to complete trust and a genuine desire to honor and worship Him as the Messiah deserving of reverence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a faith and a worship, beyond doubt, meant to express far more than he would think proper to any human 'prophet'" - This quote highlights the depth of the disciple's faith and worship, surpassing what would be expected for a mere prophet.
 2. "the unstudied, resistless expression, probably of SUPREME faith and adoration" - This quote emphasizes the disciple's genuine and powerful expression of faith and adoration, likely indicating a profound belief in Jesus' divinity.
 3. "though without the full understanding of what that implied" - This quote acknowledges that the disciple may not fully comprehend the implications of his faith and worship, suggesting a willingness to trust and follow Jesus despite any uncertainties.
@@ -45,4 +45,4 @@ The verse being described depicts a disciple's profound faith and worship that s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

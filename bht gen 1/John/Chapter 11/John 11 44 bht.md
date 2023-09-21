@@ -9,7 +9,7 @@ In this Bible verse, a man who had been dead came forth from his tomb, still bou
 2. "The bands were loosely wrapped round both feet and both hands, so as to hinder any free movement altogether."
 3. "Ancient pictures represent Lazarus gliding forth from the tomb, not stepping: and that apparently is right."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus will no more do this Himself than roll away the stone." 
 2. "The one was the necessary preparation for resurrection, the other the necessary sequel to it."
 3. "THE LIFE-GIVING ACT ALONE HE RESERVES TO HIMSELF."
@@ -50,4 +50,4 @@ Note: The commentary also criticizes the interpretation of the passage by the Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

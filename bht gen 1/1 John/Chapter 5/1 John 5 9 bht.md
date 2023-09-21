@@ -9,7 +9,7 @@ The Bible verse being described is a powerful statement about the testimony of G
 2. "The testimony of God is this, that He hath borne testimony concerning His Son." 
 3. "The fact that He hath borne testimony to His Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We do accept (and rightly so) the witness of veracious men, fallible though they be, much more ought we to accept the infallible witness of God (the Father)."
 2. "The testimony of the Father is, as it were, the basis of the testimony of the Word and of the Holy Spirit; just as the testimony of the Spirit is, as it were, the basis of the testimony of the water and the blood."
 3. "What that testimony is we find above in 1 John 5:1, 'Jesus is the Christ, the Son of God'; and below in 1 John 5:10; 1 John 5:11."
@@ -53,4 +53,4 @@ The Bible verse being described is a powerful statement about the testimony of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

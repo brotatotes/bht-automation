@@ -4,7 +4,7 @@
 In this verse, a group of influential individuals, including Scribes and Pharisees, journeyed from Jerusalem to Galilee with the specific purpose of investigating Jesus. These Scribes and Pharisees from Jerusalem were known for their expertise in religion and customs, making them particularly influential. It is possible that they were sent by the Sanhedrin or acting on their own accord, assuming a position of authority to examine, correct, direct, and advise. Their presence signifies a hostile intent and a determination to closely monitor Jesus' words and actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As He had not come to them at the last Passover, which they had reckoned on, they now come to Him."
 2. "For the Pharisees, and all the Jews, except they wash their hands oft—literally, 'in' or 'with the fist'; that is, probably washing the one hand by the use of the other—though some understand it, with our version, in the sense of 'diligently,' 'sedulously'—'eat not, holding the tradition of the elders'; acting religiously according to the custom handed down to them."
 3. "And many other things there be, which they have received to hold, as the washing of cups and pots, brazen vessels and tables—rather, 'couches,' such as were used at meals, which probably were merely sprinkled for ceremonial purposes."
@@ -44,4 +44,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, there is an emphasis on the fear and reverence of God's jud
 2. "It is MEN that we attempt to persuade." 
 3. "To God we are already manifested."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fear of the Lord" (2 Corinthians 7:1; Ecclesiastes 12:13; Acts 9:31; Romans 3:18; Ephesians 5:21).
 2. "Persuade men" (by our whole lives, Judges 1:23- :), namely, of our integrity as ministers.
 3. "It is as knowing the terror (or fear) of the Lord that we persuade men; but (whether men who hear our preaching recognize our sincerity or not) we are made manifest unto God as acting on such motives (Judges 1:23- :); and I trust also in your consciences."
@@ -59,4 +59,4 @@ In this Bible verse, there is an emphasis on the fear and reverence of God's jud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

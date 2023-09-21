@@ -9,7 +9,7 @@ In this verse, one disciple, described as "that one" by Philip Schaff, is portra
 2. "John's intimate position with Jesus allowed him to lean back and ask the question."
 3. "This intimate gesture of leaning on Jesus's bosom went unnoticed by the others at the table."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He then lying—rather leaning over on Jesus' bosom." This description highlights the intimacy and closeness between Jesus and the disciple. It suggests a deep level of trust and familiarity, as the disciple feels comfortable enough to lean on Jesus's bosom.
 2. "Saith—in a whisper." This phrase emphasizes the confidential and secretive nature of the disciple's question. It implies that the disciple is seeking a private conversation with Jesus, perhaps to gain insight or clarification on a matter of importance.
 3. "Lord, who is it?" This question reveals the disciple's desire to know the identity of the person who would betray Jesus. It reflects the disciple's concern for Jesus's well-being and his eagerness to uncover the truth.
@@ -52,4 +52,4 @@ In this verse, one disciple, described as "that one" by Philip Schaff, is portra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

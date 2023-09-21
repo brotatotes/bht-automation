@@ -9,7 +9,7 @@ During the days of unleavened bread, a significant feast for the Jews, they woul
 2. "But still more decisive is his own definition of πάσχα , Luke 22:1 ,  ἡ ἑορτὴ τῶν ἀζύμων ,  ἡ λεγομένη πάσχα  . So that μετὰ τὸ πάσχα may well = μετὰ τὴν ἑορτὴν τῶν ἀζύμων ."
 3. "The argument from the four quaternions of soldiers proves nothing: the same sixteen (see below) may have had him in  permanent charge, that number being appointed as adequate to the duties required."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Popularity was the ruling passion of this Herod, not naturally so cruel as some of the family."
 2. "Whose loss, at this stage of the Church, would have been, so far as we can see, irreparable."
 3. "Seven in number, during which, after killing and eating the Passover, no leaven was allowed in Jewish houses."
@@ -55,4 +55,4 @@ During the days of unleavened bread, a significant feast for the Jews, they woul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

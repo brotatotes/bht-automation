@@ -9,7 +9,7 @@ The passage in question addresses a group of individuals, referred to as "childr
 2. "παιδία."
 3. "προσφάγιον is said by the grammarians to be the Hellenic form equivalent to the Attic ὄψον, signifying anything eaten as an additament to bread, but especially fish."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Children—This term would not necessarily identify Him, being not unusual from any superior; but when they did recognize Him, they would feel it sweetly like Himself."
 2. "Have ye any meat?—provisions, supplies, meaning fish."
 3. "They answered... No—This was in His wonted style, making them tell their case, and so the better prepare them for what was coming."
@@ -49,4 +49,4 @@ The passage in question addresses a group of individuals, referred to as "childr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

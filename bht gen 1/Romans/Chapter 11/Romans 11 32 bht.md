@@ -9,7 +9,7 @@ The verse described is a powerful reminder of the universal need for God's mercy
 2. "But the ultimate difference between the all men who are shut up under disobedience, and the all men upon whom mercy is shown is, that by all men this mercy is not accepted, and so men become self-excluded from the salvation of God."
 3. "GOD'S ACT remains the same, equally gracious, equally universal, whether men accept His mercy or not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For God hath concluded them all in unbelief" - God has intentionally allowed both Jews and Gentiles to experience a state of unbelief, in order to demonstrate His mercy towards them.
 2. "That he might have mercy upon all" - God's purpose in allowing unbelief is to ultimately extend His mercy to both Jews and Gentiles.
 3. "Certainly it is not 'all mankind individually'" - The apostle is not referring to every individual, but rather to the divisions of mankind, specifically Jews and Gentiles.
@@ -55,4 +55,4 @@ The verse described is a powerful reminder of the universal need for God's mercy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

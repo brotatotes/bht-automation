@@ -4,7 +4,7 @@
 This Bible verse emphasizes the transcendence of God and the importance of worshiping Him rather than earthly things or places. It reminds us that the earth is merely a physical manifestation of God's power and presence, symbolized by it being His footstool. Likewise, while Jerusalem holds religious significance, our devotion should ultimately be directed towards God as the supreme authority. The mention of Jerusalem in oaths adds solemnity due to its association with the great King, but our commitment should be to God alone.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earth is not to be worshipped, for it is merely the footstool of God, a physical manifestation of His power and presence." 
 
 2. "Jerusalem, although a holy city, is not to be revered above God Himself. It is the city of the great King, but it is God who reigns supreme." 
@@ -25,4 +25,4 @@ This Bible verse emphasizes the transcendence of God and the importance of worsh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

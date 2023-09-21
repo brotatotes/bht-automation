@@ -9,7 +9,7 @@ This Bible verse depicts a journey of Paul, possibly through the 'Cilician gates
 2. "He had probably been converted by Paul during his former visit, as he calls him his son in the Lord."
 3. "Whether his father was a proselyte of the gate or not, is uncertain: he certainly was uncircumcised."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His would be one of 'the souls of the disciples confirmed' at the apostle's second visit, 'exhorted to continue in the faith, and' warned 'that we must through much tribulation enter into the kingdom of God'." 
 2. "The unfeigned faith which dwelt first in his grandmother Lois' descended to 'his mother Eunice,' and thence it passed to this youth, who 'from a child knew the Holy Scriptures'." 
 3. "Such mixed marriages, though little practiced, and disliked by the stricter Jews in Palestine, must have been very frequent among the Jews of the dispersion, especially in remote districts, where but few of the scattered people were settled."
@@ -43,4 +43,4 @@ This Bible verse depicts a journey of Paul, possibly through the 'Cilician gates
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

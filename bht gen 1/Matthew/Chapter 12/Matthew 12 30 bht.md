@@ -9,7 +9,7 @@ In this verse, we find a powerful declaration about taking a stand for or agains
 2. "The sin of an open belying of the present power of the Holy Spirit of God working in and for His Kingdom, assumes a character surpassingly awful."
 3. "He informed them (and informs us also) of the impossibility of such an endeavor."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that is not with me is against me" - This quote emphasizes the importance of taking a stand for or against Jesus. It highlights the need for a clear allegiance and warns against being indifferent or neutral in one's faith.
 
 2. "He that gathereth not with me scattereth abroad" - This quote speaks to the idea that those who do not actively work with Jesus in spreading the Gospel are actually working against it. It emphasizes the importance of actively participating in God's mission and warns against passivity or inaction.
@@ -45,4 +45,4 @@ In this verse, we find a powerful declaration about taking a stand for or agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

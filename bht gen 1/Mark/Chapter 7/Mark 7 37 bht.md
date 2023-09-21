@@ -9,7 +9,7 @@ The verse under consideration showcases the remarkable works performed by Jesus,
 2. "It was the same Beneficence which prompted, and the same Power that wrought it." 
 3. "πάντα ὅσα ἐποίησεν καλὰ λίαν" (All that He had made was very good) - Genesis 1:31.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He hath done all things well—reminding us, says TRENCH, of the words of the first creation (Genesis 1:31, Septuagint), upon which we are thus not unsuitably thrown back, for Christ's work is in the truest sense 'a new creation.'"
 2. "He maketh both the deaf to hear and the dumb to speak."
 3. "And they glorified the God of Israel."
@@ -48,4 +48,4 @@ The verse under consideration showcases the remarkable works performed by Jesus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful reminder that Jesus Christ is the ultima
 2. "All who build on other foundations are not co-workers of God, nor is their building God's building at all."
 3. "Jesus Christ, the personal, historical Christ, as the object of all Christian faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For other foundation can no man lay, than that which has (already) been laid (by God) Jesus Christ." - This quote emphasizes that Jesus Christ is the only foundation that can be laid, as recognized by God.
 
 2. "Jesus, GOD-SAVIOUR; Christ, MESSIAH or ANOINTED." - This quote highlights the significance of Jesus as both the Savior and the Anointed One, emphasizing his divine nature and role.
@@ -52,4 +52,4 @@ The verse being described is a powerful reminder that Jesus Christ is the ultima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

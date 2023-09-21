@@ -9,7 +9,7 @@ This verse describes an encounter between Mary and Elizabeth, where Elizabeth pr
 2. "The former is the best rendering here: and then ἐν γ. will be the Hebrew superlative."
 3. "ἐν γ. will be the Hebrew superlative, as in Jeremiah 29:15 (49:15) and Song of Solomon 1:8."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What beautiful superiority to envy have we here!"
 2. "Elisabeth loses sight of it altogether, in presence of one more honored still."
 3. "Turn this as we will, we shall never be able to see the propriety of calling an unborn child 'Lord,' but by supposing Elisabeth, like the prophets of old, enlightened to perceive the Messiah's Divine nature."
@@ -50,4 +50,4 @@ This verse describes an encounter between Mary and Elizabeth, where Elizabeth pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The message contained in this verse is an exhortation to love one another, follo
 2. "ἐρωτῶ carries, as Schlichting, 'blandior quædam admonendi ratio:' with the assumed fact of a right thus to entreat."
 3. "The expression of the commandment in the first person is a mark of gentleness and delicacy: a sign that he who wrote it kept the commandment himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love performs both tables of the law, and is the end of the law and the Gospel alike."
 2. "This verse seems to me to decide that a Church, not an individual lady, is meant."
 3. "For a man to urge a woman that he and she should love one another, is hardly like an apostolic precept, however pure may be the love enjoined; but all is clear if 'the lady' represent a Church."
@@ -52,4 +52,4 @@ The message contained in this verse is an exhortation to love one another, follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

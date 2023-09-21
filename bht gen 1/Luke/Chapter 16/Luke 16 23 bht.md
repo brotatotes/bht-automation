@@ -9,7 +9,7 @@ In this passage, we are presented with a vivid depiction of the afterlife, parti
 2. "Lazarus was also in Hades, but separate from Dives; one on the blissful, the other on the baleful side."
 3. "It is the gates of Hades, the imprisonment of death, which shall not prevail against the Church (Mat 16:18); the Lord holds the key of Hades, (Rev 1:18); Himself went into the same Hades, of which Paradise is a part."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "in hell—not the final place of the lost (for which another word is used), but as we say 'the unseen world.'"
 2. "But as the object here is certainly to depict the whole torment of the one and the perfect bliss of the other, it comes in this case to much the same."
 3. "seeth Abraham—not God, to whom therefore he cannot cry [BENGEL]."
@@ -59,4 +59,4 @@ In this passage, we are presented with a vivid depiction of the afterlife, parti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

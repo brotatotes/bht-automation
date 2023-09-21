@@ -9,7 +9,7 @@ In this verse, Jesus declares himself as Lord of the Sabbath, demonstrating his 
 2. "The Son of Man, who has taken upon Him full and complete Manhood, has this institution under his own power."
 3. "See this teaching of the Lord illustrated and expanded in apostolic practice and injunctions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not surely to abolish it—that surely were a strange lordship, especially just after saying that it was made or instituted for MAN—but to own it, to interpret it, to preside over it, and to ennoble it, by merging it in the 'Lord's Day'." 
 
 2. "Breathing into it an air of liberty and love necessarily unknown before, and thus making it the nearest resemblance to the eternal sabbatism." 
@@ -54,4 +54,4 @@ In this verse, Jesus declares himself as Lord of the Sabbath, demonstrating his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

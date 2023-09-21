@@ -9,7 +9,7 @@ In this Bible verse, a member of the council named Nicodemus approaches Jesus un
 2. "The consistency and development of the character of Nicodemus." 
 3. "Valuable remarks on Nicodemus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nicodemus, a member of the council, comes to Jesus under the cover of darkness, symbolizing his fear of being associated with Jesus publicly. This encounter highlights the tension between faith and fear, as Nicodemus grapples with the radical teachings of Jesus." 
 
 2. "Jesus's response to Nicodemus's confusion about being 'born again' emphasizes the spiritual rebirth that is necessary for salvation. It is not enough to simply follow religious rituals or hold positions of authority; one must experience a transformation of the heart and a surrender to God's grace."
@@ -54,4 +54,4 @@ In this Bible verse, a member of the council named Nicodemus approaches Jesus un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

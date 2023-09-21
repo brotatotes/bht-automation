@@ -9,7 +9,7 @@ In this passage, the commentators shed light on a situation where the priests an
 2. "No person had been mentioned in the question, Acts 4:7, nor does Peter afterwards say ἐν Ἰησοῦ χρ., but ἐν τῷ ὀνόμ. Ἰ. χρ."
 3. "On the other hand, ἐν τούτῳ, Acts 4:10, may very well be masculine, as referring to Ἰησοῦς χρ. Himself, included in the previous words τῷ ὀν. Ἰ. χρ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The captain of the Levitical guard, who was in charge of maintaining order and security in the temple, was annoyed at the disturbance created around it." 
 
 2. "The Sadducees, who denied the resurrection of the dead, were irritated at the apostles' preaching about Jesus and the resurrection, as it directly contradicted their beliefs." 
@@ -44,4 +44,4 @@ In this passage, the commentators shed light on a situation where the priests an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

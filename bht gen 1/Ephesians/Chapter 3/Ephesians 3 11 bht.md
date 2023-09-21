@@ -11,7 +11,7 @@ The verse in question reveals that God's purpose and plan are not arbitrary, but
 
 3. "It was in his Christ that He made the purpose: and that Christ is Jesus our Lord" - This quote emphasizes that the purpose of the ages is intimately connected to Jesus Christ, both in his role as the Messiah and as our Lord.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "which he purposed—Greek, 'made.'" - This quote highlights the Greek word used in the verse, emphasizing the intentional action of God in creating or making something. It suggests that God had a specific purpose or plan in mind when he made or wrought something.
 
 2. "ELLIOTT translates, 'wrought.'" - This quote mentions the translation by ELLIOTT, indicating that the word "purposed" can also be understood as "wrought." This suggests that God's purpose or plan involved actively working or shaping something.
@@ -56,4 +56,4 @@ The verse in question reveals that God's purpose and plan are not arbitrary, but
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

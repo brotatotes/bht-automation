@@ -4,7 +4,7 @@
 In this verse, Jesus speaks about the radical nature of his message, which may cause divisions even within families. Loyalty to God takes precedence over earthly relationships, as following Jesus may require choosing him above one's own family. The Gospel brings not only peace but also conflict, challenging family ties and societal norms. This division affects domestic relations, even between parents and children, and emphasizes the cost of discipleship. Jesus warns his followers to expect opposition and persecution from their own family members, highlighting the clash between their commitment to Christ and the natural enmity of those who oppose him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the radical nature of Jesus' message and the potential division it can cause within families. It emphasizes that following Jesus may require choosing him over one's own family, as loyalty to God takes precedence over earthly relationships."
 2. "By setting a man against his father and a daughter against her mother, Jesus is illustrating the cost of discipleship. He is calling his followers to prioritize their commitment to him above all else, even if it means facing opposition and conflict within their own families."
 3. "The mention of daughter-in-law against mother-in-law further emphasizes the universal nature of this division. It shows that even the closest of family ties can be strained when it comes to following Jesus and living out his teachings."
@@ -38,4 +38,4 @@ In this verse, Jesus speaks about the radical nature of his message, which may c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

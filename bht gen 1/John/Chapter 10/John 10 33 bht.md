@@ -9,7 +9,7 @@ This Bible verse highlights the divinity of Jesus, emphasizing his equality with
 2. "This verse challenges the traditional understanding of monotheism, suggesting that Jesus shares the same nature and essence as God."
 3. "The use of the term 'ἴσον' (equal) implies a profound unity and oneness between Jesus and God, indicating their inseparable relationship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For a blasphemy—whose legal punishment was stoning" - This quote highlights the severity of the accusation against Jesus and the potential consequences he faced for claiming to be God.
 2. "Thou, being a man—that is, a man only" - This quote emphasizes the disbelief and skepticism of the religious leaders towards Jesus, as they could not comprehend how a mere man could make himself equal to God.
 3. "Makest thyself God—Twice before they understood Him to advance the same claim" - This quote reveals that Jesus had previously made similar claims, leading the religious leaders to perceive it as an insult to God's honor and prompting them to take action against him.
@@ -48,4 +48,4 @@ This Bible verse highlights the divinity of Jesus, emphasizing his equality with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

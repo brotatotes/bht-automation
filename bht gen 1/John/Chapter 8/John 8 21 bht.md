@@ -9,7 +9,7 @@ This Bible verse warns of the consequences of rejecting Jesus and refusing to se
 2. "The words do not refer to the destruction of Jerusalem, but to individual perdition."
 3. "The consequence, not the cause, of their dying in their sins."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus' departure is not a sign of weakness or defeat, but rather a demonstration of his authority and sovereignty. He willingly lays down his life and takes it up again, showing his power over death and his willingness to sacrifice for the salvation of humanity."
 
 2. "Jesus' words reveal his deep connection to the Father and his complete obedience to his will. He is not acting independently or impulsively, but rather in perfect harmony with the divine plan."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and does not provide a complete unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

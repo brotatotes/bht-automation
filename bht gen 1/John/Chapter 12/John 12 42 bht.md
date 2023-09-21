@@ -9,7 +9,7 @@ In this Bible verse, there were influential leaders, like Nicodemus and Joseph, 
 2. "On ἀποσυν . see note, ch. John 9:22."
 3. "Joh 12:43 is a reference to ch. John 5:44."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Among the chief rulers, even of the rulers" - This highlights that some of the influential leaders, such as Nicodemus and Joseph, were secretly followers of Jesus, despite the opposition from the Pharisees.
 2. "Because of the Pharisees, the leaders of the sects" - This emphasizes that the Pharisees were not only opponents of Jesus, but they were also leaders within their own religious sects.
 3. "Put out of the synagogue" - This reference to John 9:22 and 9:34 indicates that those who openly confessed faith in Jesus were expelled from the synagogue, facing social and religious consequences for their belief.
@@ -52,4 +52,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

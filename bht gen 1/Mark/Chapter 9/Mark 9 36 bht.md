@@ -9,7 +9,7 @@ In this verse, Jesus takes a child and sets them in the midst of his disciples. 
 2. "The phrase 'This particular' suggests that there is a specific detail being highlighted."
 3. "The mention of Mark implies that this information is found in the Gospel of Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Conversion must be thorough; not only must the heart be turned to God in general, and from earthly to heavenly things, but in particular, except ye be converted from that carnal ambition which still rankles within you, into that freedom from all such feelings which ye see in this child, ye have neither part nor lot in the kingdom at all."
 2. "Whosoever, therefore, shall 'humble himself as this little child, the same is greatest in the kingdom of heaven.'"
 3. "For he that is [willing to be] least among you all, the same shall be great."
@@ -40,4 +40,4 @@ In this verse, Jesus takes a child and sets them in the midst of his disciples. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

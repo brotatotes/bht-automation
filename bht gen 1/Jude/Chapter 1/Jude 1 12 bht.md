@@ -4,7 +4,7 @@
 In this verse, we encounter a vivid description of false teachers and their detrimental influence on the church. These teachers are likened to hidden rocks, disguised amidst the waves of the sea, posing a hidden danger. They participate in love feasts, but instead of fostering brotherly love as intended, they selfishly feed themselves, disregarding the needs of others. Like clouds without water, they promise refreshment but ultimately bring disappointment and deception. They are unfruitful trees, uprooted and devoid of life, having no genuine substance or impact. These individuals are twice dead, living in sin and having forsaken their initial faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reference to 'clouds...winds...waves of the sea' accords with this image of rocks." 
 2. "Feasting is not faulty in itself, but it needs to be accompanied with fear of forgetting God." 
 3. "Professors without practice."
@@ -48,4 +48,4 @@ In this verse, we encounter a vivid description of false teachers and their detr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

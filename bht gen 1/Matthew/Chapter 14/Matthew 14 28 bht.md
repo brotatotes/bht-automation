@@ -9,7 +9,7 @@ In this remarkable narrative, Matthew sheds light on Peter's bold faith and impu
 2. "It contains one of the most pointed and striking revelations which we have of the nature and analogy of faith."
 3. "A notable example of the power of the higher spiritual state of man over the inferior laws of matter, so often brought forward by our Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's request to walk on water is a bold expression of his faith and trust in Jesus. It shows his willingness to step out of his comfort zone and fully rely on the power and presence of the Lord." 
 
 2. "By asking Jesus to bid him come, Peter acknowledges that it is only through the invitation and authority of Christ that he can accomplish the impossible. It is a reminder that our actions and abilities are dependent on our connection to Jesus."
@@ -40,4 +40,4 @@ In this remarkable narrative, Matthew sheds light on Peter's bold faith and impu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

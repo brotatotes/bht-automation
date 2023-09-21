@@ -9,7 +9,7 @@ In this verse, Paul expresses his deep concern for the Thessalonians who were ex
 2. "That I might know (be informed about)."
 3. "Lest perchance the tempter have tempted you, and our labour might be to no purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For this cause—Because I know of your 'tribulation' having actually begun."
 2. "When I also could no longer contain myself, I sent to know the state of your faith, whether it stood the trial."
 3. "To know whether haply the tempter have tempted you, and lest our labor may prove to be in vain."
@@ -51,4 +51,4 @@ In this verse, Paul expresses his deep concern for the Thessalonians who were ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

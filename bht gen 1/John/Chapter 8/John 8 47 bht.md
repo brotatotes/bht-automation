@@ -4,7 +4,7 @@
 In this Bible verse, the commentators highlight the significance of belonging to God and having a genuine connection with Him. The verse emphasizes that those who truly love and revere God will listen and receive His words with joy and reverence. This act of hearing goes beyond mere perception; it implies actively listening, willingly obeying, and recognizing the divine origin and authority of God's teachings. Those who reject or disregard God's words demonstrate a lack of connection with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And because I tell you the truth, ye believe me not." - The commentary highlights that Jesus' truthfulness was actually a stumbling block for some people. They were so accustomed to deception and falsehood that they couldn't accept the truth when it was presented to them.
 
 2. "Not although, but just because He did so." - The commentary emphasizes that the reason for their disbelief was not due to any fault in Jesus' message or character. It was simply because He spoke the truth, which went against their preconceived notions and beliefs.
@@ -54,4 +54,4 @@ In this Bible verse, the commentators highlight the significance of belonging to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

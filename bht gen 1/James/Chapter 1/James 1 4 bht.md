@@ -9,7 +9,7 @@ The verse being described is James 1:4: "Let patience have its perfect work, tha
 2. "The purpose of that work is, to make as perfect and entire...deficient in nothing."
 3. "The expression here is illustrated by Raphel from Polyb. p. 1202, 1. 15, ἐν τῇ πρὸς Ῥωμαίους εὐνοίᾳ παρὰ πολὺ τἀδελφοῦ λειπόμενος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let endurance have a perfect work, that is, have its full effect, by showing the most perfect degree of endurance, namely, 'joy in bearing the cross'." 
 2. "For this there is required 'joy' as part of the 'perfect work' of probation."
 3. "The work of God in a man is the man. If God's teachings by patience have had a perfect work in you, you are perfect."
@@ -59,4 +59,4 @@ These quotes emphasize the importance of allowing patience to fully develop and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

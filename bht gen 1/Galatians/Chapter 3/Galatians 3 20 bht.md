@@ -9,7 +9,7 @@ In this Bible verse, it emphasizes the concept of a mediator between two parties
 2. "The proposition ὁ θεὸς εἷς ἐστιν would carry to the mind of every reader much more than the mere numerical unity of God viz. His Unity as an essential attribute, extending through the whole divine Character."
 3. "The law, administered by the μεσίτης, belonging to a state of οὐχ εἷς, two at variance, is apparently opposed to the ἐπαγγελίαι, belonging entirely to ὁ εἷς, the one (faithful) God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God is one" - His essential unity does not allow for an intervening party between Him and those to be blessed. He is the sovereign, giving blessings directly without the need for a mediator or conditions.
 2. "The law, with its inseparable appendage of a mediator, cannot be the normal way of dealing of God" - The law, which interposed a mediator and conditions between man and God, was an exceptional state limited to the Jews and was preparatory to the Gospel, God's normal mode of dealing.
 3. "Jesus is not a mediator separating the two parties in the covenant of promise or grace, but ONE in both nature and office with both God and man" - Jesus represents the whole universal manhood and bears in Him all the fullness of the Godhead. His mediatorial office will cease when its purpose of reconciling all things to God is accomplished.
@@ -55,4 +55,4 @@ These quotes highlight the role of a mediator, the unique position of Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of the believers' personal experience of the goodness of the L
 2. "The Lord...is good."
 3. "Perhaps the simplest meaning of χρηστός, as applied to meats and drinks, is here intended."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first 'tastes' of God's goodness are afterwards followed by fuller and happier experiences. A taste whets the appetite." 
 2. "We who are born again ought so to be good and kind to the brethren." 
 3. "Whosoever has not tasted the word to him it is not sweet it has not reached the heart; but to them who have experienced it, who with the heart believe, 'Christ has been sent for me and is become my own: my miseries are His, and His life mine,' it tastes sweet."
@@ -57,4 +57,4 @@ This verse speaks of the believers' personal experience of the goodness of the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

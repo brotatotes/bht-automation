@@ -9,7 +9,7 @@ In this verse, we see a scene where Jesus encounters a multitude of people who a
 2. "To shew how arbitrary is the assumption of Mark having combined Matt. and Luke, see how easily the same might be said of Luke himself, with regard to Matt. and Mark here."
 3. "ἐθεράπευσεν τοὺς ἀῤῥώστους αὐτῶν, Matt.: ἤρξατο διδάσκειν αὐτ. πολ., Mark; ἐλάλει αὐτοῖς περὶ τ. βας. τ. θ., κ. τοὺς χρείαν ἔχ. θεραπείας ἰᾶτο, Luke: = Matt. † Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At the sight of the multitudes who had followed Him... He was so moved, as was His wont in such cases, with compassion."
 2. "They were like shepherdless sheep, as to forego both privacy and rest that He might minister to them."
 3. "This accounts for the multitudes that now crowded around Him. They were on their way to keep that festival at Jerusalem."
@@ -42,4 +42,4 @@ In this verse, we see a scene where Jesus encounters a multitude of people who a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

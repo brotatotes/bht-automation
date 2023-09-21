@@ -4,7 +4,7 @@
 In this Bible verse, a group of friends shows incredible determination and resourcefulness to bring their paralyzed friend to Jesus. They remove the roof covering, possibly through a lattice or trap door, to create a way to lower the man down. Their act of breaking open a wider passage showcases their strong belief in Jesus' power to heal. This story highlights not only the friends' perseverance but also their unwavering faith in the miraculous healing abilities of Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their whole object was to bring the patient into the presence of Jesus; and this not being possible in the ordinary way, because of the multitude that surrounded Him, they took the very unusual method here described of accomplishing their object, and succeeded."
 2. "Several explanations have been given of the way in which this was done; but unless we knew the precise plan of the house, and the part of it from which Jesus taught—which may have been a quadrangle or open court, within the buildings of which Peter's house was one, or a gallery covered by a veranda—it is impossible to determine precisely how the thing was done."
 3. "One thing, however, is clear, that we have both the accounts from an eye-witness."
@@ -40,4 +40,4 @@ In this Bible verse, a group of friends shows incredible determination and resou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is about a new and living way opened by Jesus fo
 2. "This entrance is a real, living and working entrance; the animated substance of what is imported, not the dead shadow."
 3. "The Flesh of Christ is here spoken of as the veil hung before the holiest place; that weak human mortal flesh was the state through which He had to pass before He could enter the holiest in heaven for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "which (entering) He has consecrated...as a new and living way" - The way to God that Jesus opened is not a lifeless way through the law, but a real, vital, and perpetually effective way because Jesus Himself is the living and life-giving Savior.
 2. "Christ's ascension is our promotion; and whither the glory of the Head hath preceded, thither the hope of the body, too, is called" - Just as Christ ascended to glory, our hope as believers is also to be called to that same glory.
 3. "His weak suffering flesh was the veil; His body was the temple" - The flesh of Christ, which veiled His divinity, had to be passed through in order for Him to enter the heavenly holiest place for us. His body, on the other hand, was the temple.
@@ -50,4 +50,4 @@ The Bible verse being described is about a new and living way opened by Jesus fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

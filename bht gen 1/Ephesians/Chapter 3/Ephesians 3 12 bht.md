@@ -9,7 +9,7 @@ Through faith in Christ, we are granted boldness and confidence to approach God 
 2. "παῤῥησία is used in a far wider sense than these, as will appear by the reff.: viz, that of the state of mind which gives liberty of speech, cheerful boldness"
 3. "Both must be subjective if one is: the second less purely so than the first but both referring to our own feelings and privileges"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our boldness and our access in confidence through our faith in Him."
 2. "The access implies the formal introduction into the presence of a monarch."
 3. "ALFORD quotes as an instance, Romans 8:38, &c."
@@ -57,4 +57,4 @@ Through faith in Christ, we are granted boldness and confidence to approach God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

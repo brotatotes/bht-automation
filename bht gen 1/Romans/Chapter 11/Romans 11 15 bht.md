@@ -9,7 +9,7 @@ The rejection of the Jews led to the reconciliation of the Gentiles, but their e
 2. "it may mean that 'life from the dead' literally should follow on the restoration of the Jewish people; i.e. that the Resurrection, the great consummation, is bound up with it."
 3. "standing as it does, it must be qualitative, implying some further blessed state of the reconciled world, over and above the mere reconciliation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were cast away, though neither totally nor finally, and it is of this partial and temporary rejection that the apostle here speaks."
 2. "The reception of the whole family of Israel, scattered as they are among all nations under heaven, will be such a stupendous manifestation of the power of God upon the spirits of men."
 3. "It will so change the dominant mode of thinking and feeling on all spiritual things as to seem like a resurrection from the dead."
@@ -55,4 +55,4 @@ The rejection of the Jews led to the reconciliation of the Gentiles, but their e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

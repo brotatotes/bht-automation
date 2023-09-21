@@ -11,7 +11,7 @@ This Bible verse describes a message of exhortation and consolation, comforting 
 
 3. "ἐν δόλῳ represents the manner, or perhaps the ethical sphere, in which we did not make use of deceit to win our way with our παράκλησις." - Ellic.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His freedom from all 'deceit, uncleanness, and guile'." 
 2. "The same Gospel which exhorts comforts."
 3. "Its first lesson to each is that of peace in believing amidst outward and inward sorrows."
@@ -58,4 +58,4 @@ This Bible verse describes a message of exhortation and consolation, comforting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

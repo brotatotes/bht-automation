@@ -9,7 +9,7 @@ In this verse, Jesus addresses a group of people who claim to be Abraham's desce
 2. "My λόγος οὐ χωρεῖ does not work (spread, go forward, ‘ne marche pas’) in you." 
 3. "Such expressions as τὰ πράγματα χωρεῖ κατὰ λόγον, Polyb. xxiii. 15. 12, ταῦτα καλῶς κατὰ νοῦν ἐχώρει αὐτῷ, ib. x. 15. 4, πῶς οὖν οὐ χωρεῖ τοὖργον? Aristoph. Pax 464, seem also to illustrate this meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had said this to their face before: He now repeats it, and they do not deny it; yet are they held back, as by some marvellous spell—it was the awe which His combined dignity, courage, and benignity struck into them."
 2. "When did ever human prophet so speak of His words? They tell us of 'the word of the Lord' coming to them. But here is One who holds up 'His word' as that which ought to find entrance and abiding room for itself in the souls of all who hear it."
 3. "They tell us of 'the word of the Lord' coming to them. But here is One who holds up 'His word' as that which ought to find entrance and abiding room for itself in the souls of all who hear it."
@@ -53,4 +53,4 @@ In this verse, Jesus addresses a group of people who claim to be Abraham's desce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

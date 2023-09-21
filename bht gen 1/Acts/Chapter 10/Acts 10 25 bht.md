@@ -9,7 +9,7 @@ In this Bible verse, a devout man named Cornelius shows great respect and honor 
 2. "It was natural for Cornelius to think that one so pointed out by an angel must be deserving of the highest respect."
 3. "He must have witnessed the rise of the custom of paying divine honours first to those who were clothed with the delegated power of the senate, and then κατ ʼ ἐξοχήν to him in whom the imperial majesty centered."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cornelius met him—a mark of the highest respect."
 2. "Fell down at his feet, and worshipped him—In the East this way of showing respect was customary not only to kings, but to others occupying a superior station."
 3. "Peter, therefore, declines it as due to no mortal."
@@ -48,4 +48,4 @@ In this Bible verse, a devout man named Cornelius shows great respect and honor 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

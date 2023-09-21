@@ -9,7 +9,7 @@ In this Bible verse, the believers in Christ are described as being given to Him
 2. "Pater Filio totam quasi massam dedit, ut omnes quos dedit unum sint; id universum Filius singulatim evolvit, in exsecutione."
 3. "ἔξω does not refer here to the office of the Son of God as Judge; but is another way of expressing the grace and readiness with which He will receive all who come to Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though ye, as I told you, have no faith in Me, My errand into the world shall in no wise be defeated for all that the Father giveth Me shall infallibly come to Me."
 2. "What is given Him by the Father is expressed in the singular number and neuter gender—literally, 'everything'; while those who come to Him are put in the masculine gender and singular number—'every one.'"
 3. "Only it is not the simply willing, but the actually coming, whom He will not cast out; for the word here employed usually denotes arrival, as distinguished from the ordinary word, which rather expresses the act of coming."
@@ -53,4 +53,4 @@ In this Bible verse, the believers in Christ are described as being given to Him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

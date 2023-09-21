@@ -9,7 +9,7 @@ The verse being described condemns the luxurious and indulgent lifestyle of cert
 2. "Similes sunt pecudibus quæ ipso adeo mactationis die se pascunt saginantque lætæ et securæ." 
 3. "Even if we grant Huther’s own view, that ἡμ . σφαγῆς is an expression for the day of judgment, this expression derives its force from the above comparison, and will not let us forget it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their luxury was at the expense of the defrauded poor."
 2. "The same earth which has been the scene of your wantonness, shall be the scene of the judgment coming on you."
 3. "Ye live to eat, not eat to live."
@@ -57,4 +57,4 @@ The verse being described condemns the luxurious and indulgent lifestyle of cert
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

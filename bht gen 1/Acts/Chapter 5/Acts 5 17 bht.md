@@ -9,7 +9,7 @@ In this Bible verse, we see the opposition Jesus faced from the Sadducees, a sec
 2. "ὁ ἀρχ. Annas, ch. Acts 4:6, and note on Luke 3:2."
 3. "ἡ οὖσα attr., but implying more than οἱ ὄντες ἐξ αἱρέσεως τ. Σ.: the movement extended through the whole sect."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of the Sadducees in this verse is significant because it helps us understand the context and the opposition that Jesus faced. The Sadducees were a sect within Judaism that denied the resurrection of the dead and the existence of angels and spirits. This sheds light on their skepticism towards Jesus and his teachings on eternal life and the spiritual realm."
 
 2. "The inclusion of the Sadducees in this passage also highlights the diversity of religious beliefs and factions within Judaism during Jesus' time. It reminds us that Jesus' ministry was not only met with opposition from the religious leaders but also from different theological perspectives within the Jewish community."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

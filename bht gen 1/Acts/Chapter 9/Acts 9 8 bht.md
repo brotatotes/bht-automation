@@ -9,7 +9,7 @@ In an incredible moment, Saul's eyes were opened, revealing that he had closed t
 2. "He had seen, what those with him had not seen, the glorious Person of the Lord Jesus."
 3. "He explains it, ch. Acts 22:11, ὡς δὲ οὐκ ἐνέβλεπον ἀπὸ τῆς δόξης τοῦ φωτὸς ἐκείνου."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He saw no man—after beholding the Lord, since he 'could not see for the glory of that light'": This quote highlights the overwhelming brightness of the light that Saul encountered, which temporarily blinded him and prevented him from seeing anything else.
 
 2. "He had involuntarily closed his eyes to protect them from the glare": This quote explains that Saul's instinctual response to the intense light was to close his eyes, indicating his natural inclination to shield himself from harm.
@@ -45,4 +45,4 @@ In an incredible moment, Saul's eyes were opened, revealing that he had closed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

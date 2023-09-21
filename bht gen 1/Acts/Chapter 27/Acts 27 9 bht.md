@@ -9,7 +9,7 @@ In this Bible verse, the voyage to Italy is described during a time of dangerous
 2. "The voyage, viz. to Rome, which henceforth was given up as hopeless for this autumn and winter."
 3. "The fast, κατ ʼ ἐξοχήν, is the solemn fast of the day of expiation, the 10th of Tisri, the seventh month of the Jewish ecclesiastical year, and the first of the civil year."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But for unforeseen delays they might have reached the Italian coast before the stormy season."
 2. "The navigation of the open sea was now dangerous."
 3. "Paul assisted at the consultation and strongly urged them to winter where they were."
@@ -53,4 +53,4 @@ In this Bible verse, the voyage to Italy is described during a time of dangerous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

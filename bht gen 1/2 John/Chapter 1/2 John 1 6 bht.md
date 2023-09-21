@@ -9,7 +9,7 @@ In this verse, love is presented as the essence of living according to God's com
 2. "The commandment (the one commandment in which God's other commandments are summed up) is this, even as ye heard from the beginning that ye should walk in it."
 3. "The apodosis to αὕτη ἐστίν begins with καθώς: = 'is this, even that which ye heard from the beginning, that ye should walk in it,' viz. in ἀγάπη."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love is the fulfilling of the law" - This verse highlights the inseparable connection between love and fulfilling God's commandments. Love is not just an emotion, but an active expression of obedience to God's will.
 2. "The fulfilling of the law is the sure test of love" - This quote emphasizes that true love is demonstrated through obedience to God's commandments. It serves as a litmus test to determine the authenticity of one's love for God and others.
 3. "The commandment is this, love, in which all God's other commandments are summed up" - This statement underscores the centrality of love as the foundation of all other commandments. Love serves as a unifying principle that encompasses and fulfills the entirety of God's moral law.
@@ -48,4 +48,4 @@ In this verse, love is presented as the essence of living according to God's com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

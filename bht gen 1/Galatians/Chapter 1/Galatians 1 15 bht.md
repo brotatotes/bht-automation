@@ -9,7 +9,7 @@ The verse being described speaks of God's divine purpose and calling in the life
 2. "This calling first took place, then the revelation, as here."
 3. "To understand καλέσας of an act in the divine Mind, as Rückert, is contrary to our Apostle's usage of the word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "set me apart": in the purposes of His electing love...to show in me His 'pleasure'
 2. "separating" or "setting apart" to the work marked out for him
 3. "I was once a so-called Pharisee or Separatist, but God had separated me to something far better."
@@ -49,4 +49,4 @@ The verse being described speaks of God's divine purpose and calling in the life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

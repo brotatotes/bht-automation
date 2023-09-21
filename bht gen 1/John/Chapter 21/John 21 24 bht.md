@@ -9,7 +9,7 @@ This passage, commonly believed to be written by the disciple John, is a powerfu
 2. "οἴδαμεν is in John’s style." 
 3. "ὅτι ἀλ... ἐστ... see 3 John 1:12, and ch. John 5:32."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the disciple which testifieth of these things, and wrote these things—thus identifying the author of this book with all that it says of this disciple." 
 2. "We know that his testimony is true." 
 3. "(Compare John 19:35)."
@@ -50,4 +50,4 @@ This passage, commonly believed to be written by the disciple John, is a powerfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

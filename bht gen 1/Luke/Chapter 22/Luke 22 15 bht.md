@@ -9,7 +9,7 @@ With an intense and fervent longing, Jesus expressed his desire to eat this Pass
 2. "We have several times πολλὰ παθεῖν, indicating the extent of suffering."
 3. "The use of παθεῖν in this verse emphasizes the depth and significance of Jesus' suffering."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With desire . . . desired—"earnestly have I longed" (as Moses, "sore longedst")."
 2. "It was to be His last 'before He suffered'—and so became 'Christ our Passover sacrificed for us.'"
 3. "The typical ordinance thenceforth disappearing."
@@ -48,4 +48,4 @@ With an intense and fervent longing, Jesus expressed his desire to eat this Pass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

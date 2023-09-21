@@ -9,7 +9,7 @@ The verse being described speaks of Christ's unique and perfect sacrifice, which
 2. "ὥς περ, as ὅς περ, ὅσος περ, and other words lengthened by περ (περί), implies a thorough similitude as far as the thing compared goes."
 3. "He enters, furnished with, as it were clad with, that which follows. We use our ‘in’ of even the lesser articles of personal wear in a similar sense: ‘a man in spectacles’."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was not into the typical, but the true sanctuary, that Christ is entered."
 2. "His sacrifice needs not, as the Levitical sacrifices did, to be repeated."
 3. "Nor yet did He enter for this purpose that He may offer Himself often, that is, present Himself in the presence of God, as the high priest does, year by year, on the day of atonement, entering the Holy of Holies."
@@ -43,4 +43,4 @@ The verse being described speaks of Christ's unique and perfect sacrifice, which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

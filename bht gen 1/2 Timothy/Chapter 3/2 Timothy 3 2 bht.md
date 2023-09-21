@@ -9,7 +9,7 @@ In these verses, commentators describe a troubling state of society marked by se
 2. "Having a form of piety, but having repudiated the power of it." 
 3. "And from these turn away."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It shall be a relapse into virtual heathendom, with all its beast-like propensities." 
 
 2. "The love of money is a (Greek, not 'the') root of all evil."
@@ -65,4 +65,4 @@ In these verses, commentators describe a troubling state of society marked by se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

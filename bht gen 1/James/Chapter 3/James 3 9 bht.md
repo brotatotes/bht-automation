@@ -11,7 +11,7 @@ The Bible verse being described in this commentary is focused on the power of th
 
 3. "Which have been created after the likeness of God." - This quote reminds us that despite our flaws, we still bear the image of God, and therefore should treat others with respect and reverence.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Father implies His paternal love; 'Lord,' His dominion." 
 2. "Though in a great measure man has lost the likeness of God in which he was originally made, yet enough of it still remains to show what once it was, and what in regenerated and restored man it shall be."
 3. "Man resembles in humanity the Son of man, 'the express image of His person' (Hebrews 1:3), compare Genesis 1:26; 1 John 4:20."
@@ -59,4 +59,4 @@ Note: The commentary provided does not include any specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

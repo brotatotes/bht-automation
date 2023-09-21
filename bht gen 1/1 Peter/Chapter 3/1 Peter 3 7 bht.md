@@ -9,7 +9,7 @@ The Bible verse encourages husbands to have a deep understanding of their wives,
 2. "The higher use of the word as a vessel of grace, or of wrath, does not preclude the lower one which is most obvious here, where the married relation is the subject of consideration."
 3. "The hindrance meant seems to be, that which would be occasioned by the man not giving his wife proper honour as a fellow-heir of the grace of life; in which case the peculiar promise of advantage in social united prayer would be lost."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Dwelling according to knowledge with the female as with the weaker vessel." 
 2. "Both husband and wife are vessels in God's hand, and of God's making, to fulfill His gracious purposes."
 3. "The reason why the man should give honor to the woman is, because God gives honor to both as fellow heirs."
@@ -61,4 +61,4 @@ The Bible verse encourages husbands to have a deep understanding of their wives,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

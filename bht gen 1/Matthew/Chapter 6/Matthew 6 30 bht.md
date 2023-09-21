@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the transient nature of human existenc
 2. "Cut grass, which soon withers from the heat, is still used in the East for firing."
 3. "The pres. part. denotes the habit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gorgeous as is the array of the flowers that deck the fields, surpassing all artificial human grandeur, it is for but a brief moment; you are ravished with it today, and tomorrow it is gone; your own hands have seized and cast it into the oven." 
 2. "Shall, then, God's children, so dear to Him, and instinct with a life that cannot die, be left naked?" 
 3. "He does not say, Shall they not be more beauteously arrayed? but, Shall He not much more clothe them? that being all He will have them regard as secured to them."
@@ -45,4 +45,4 @@ In this verse, the commentators emphasize the transient nature of human existenc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

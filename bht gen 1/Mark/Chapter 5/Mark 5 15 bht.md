@@ -4,7 +4,7 @@
 In this verse, we witness the remarkable transformation of a man possessed by demons, restored to sanity, sitting calmly and clothed. The fear that gripped the people upon witnessing this miraculous change reflects both the power of God displayed through Jesus and the awe-inspiring nature of divine presence. Their fear also restrained them from acting violently or disrespectfully. This encounter serves as a reminder that the fear of God can transform hearts and guide individuals towards righteousness, acting as a deterrent against sinful actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is a striking case of what are called Undesigned Coincidences amongst the different Evangelists; one of them taking a thing for granted, as familiarly known at the time, but which we should never have known but for one or more of the others, and without the knowledge of which some of their statements would be unintelligible."
 2. "The clothing which the poor man would feel the want of the moment his consciousness returned to him, was doubtless supplied to him by some of the Twelve."
 3. "and in his right mind—but now, oh, in what a lofty sense!"
@@ -45,4 +45,4 @@ In this verse, we witness the remarkable transformation of a man possessed by de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

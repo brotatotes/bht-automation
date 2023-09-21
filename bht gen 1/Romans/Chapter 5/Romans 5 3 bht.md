@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the transformative power of trib
 2. "Endurance, approval, and fresh hope; and hope shames not, because God's love is poured out in our hearts by means of the Holy Spirit."
 3. "The heart being the seat of our love, and of appreciation and sympathy with God's love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Patience is the quiet endurance of what we cannot but wish removed, whether it be the withholding of promised good or the continued experience of positive ill."
 2. "There is indeed a patience of unrenewed nature, which has something noble in it, though in many cases the offspring of pride, if not of something lower."
 3. "The grace of patience is either the meek endurance of ill because it is of God, or the calm waiting for promised good till His time to dispense it come."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators emphasize the transformative power of trib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

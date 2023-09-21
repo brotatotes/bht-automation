@@ -9,7 +9,7 @@ In this passage, we are reminded that despite the abundance of divine signs and 
 2. "The exceptions were Joshua and Caleb only." 
 3. "The fact that God was not pleased with the majority of them is a sobering reminder of the consequences of disobedience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But—though they had so many tokens of God's presence."
 2. "the majority of them"; "the whole part."
 3. "God—whose judgment alone is valid."
@@ -57,4 +57,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

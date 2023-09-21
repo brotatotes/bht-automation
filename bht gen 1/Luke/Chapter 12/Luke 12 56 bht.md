@@ -9,7 +9,7 @@ The commentators reflect on the missed opportunity and blindness of the religiou
 2. "The general expectation of the coming of the Messiah is testified even by profane authors."
 3. "The prophets had all spoken of Him, and the greatest of them, the Baptist, had announced His arrival."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unable to perceive what a critical period that was for the Jewish Church."
 2. "The people failed to recognize the significance of the moment."
 3. "They were blind to the divine visitation and the opportunity for salvation."
@@ -37,4 +37,4 @@ The commentators reflect on the missed opportunity and blindness of the religiou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

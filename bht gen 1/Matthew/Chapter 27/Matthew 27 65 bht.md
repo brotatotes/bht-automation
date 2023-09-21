@@ -9,7 +9,7 @@ In this verse, Pilate grants permission to the religious leaders to have a guard
 2) "Perhaps we must understand some detachment placed at their disposal during the feast."
 3) "Take a body of men for a guard."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have a watch—The guards had already acted under orders of the Sanhedrim, with Pilate's consent; but probably they were not clear about employing them as a night watch without Pilate's express authority."
 2. "Go your way, make it as sure as ye can—as ye know how, or in the way ye deem securest."
 3. "Though there may be no irony in this speech, it evidently insinuated that if the event should be contrary to their wish, it would not be for want of sufficient human appliances to prevent it."
@@ -57,4 +57,4 @@ In this verse, Pilate grants permission to the religious leaders to have a guard
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

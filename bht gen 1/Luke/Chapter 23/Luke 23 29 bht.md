@@ -9,7 +9,7 @@ In a future calamity, the inhabitants of Jerusalem are warned that women, who us
 2. "The impenitent among you, those who weep merely tears of idle sympathy for Me, and none of repentance for themselves."
 3. "Those who are in Jerusalem and its misery, which My disciples will not be."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The women mentioned here are not the precious Galilean women who had followed Jesus throughout his ministry, but rather they were part of the crowd that had gathered to witness the crucifixion." 
 
 2. "These women were not the ones who had been closest to Jesus, but they were still present, standing at a distance, and observing the events unfold." 
@@ -40,4 +40,4 @@ In a future calamity, the inhabitants of Jerusalem are warned that women, who us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

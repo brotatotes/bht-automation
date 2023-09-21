@@ -4,7 +4,7 @@
 The verse being described reminds the reader to remember and reflect on their original encounter with God's grace and word, approaching it with humility, zeal, and seriousness. It also emphasizes the need to firmly hold onto the received grace and calls for genuine repentance in alignment with God's teachings. This description highlights the importance of treasuring and preserving the initial spiritual experience while actively seeking repentance and growth in faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What Sardis is to 'remember' is, not how joyfully she had received originally the Gospel message, but how the precious deposit was committed to her originally, so that she could not say, she had not 'received and heard' it." 
 2. "The word 'keep'...accords with this sense. 'Keep' or observe the commandment which thou hast received and didst hear."
 3. "Christ applies the language which in its fullest sense describes His second coming, to describe His coming in special judgments on churches and states...these special judgments being anticipatory earnests of that great last coming."
@@ -51,4 +51,4 @@ These quotes from the commentary provide insights into the significance of remem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

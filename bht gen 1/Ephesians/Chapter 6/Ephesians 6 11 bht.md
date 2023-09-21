@@ -6,7 +6,7 @@ The verse being described is Ephesians 6:11: "Put on the whole armor of God, tha
 Description: Believers are urged to fully equip themselves with the spiritual armor provided by God against the crafty schemes of the devil. This armor is not of our own making, but a divine provision to withstand the strength and cunning of our adversary. It is the complete set of armor, emphasizing the necessity of each piece for our protection and victory in the spiritual warfare we face.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No opening at the head, the feet, the heart, the belly, the eye, the ear, or the tongue, is to be given to Satan." 
 2. "Believers have once for all overcome him; but on the ground of this fundamental victory gained over him, they are ever again to fight against and overcome him."
 3. "The armor of God is furnished by God; not our own, else it would not stand. It is spiritual, therefore, and mighty through God, not carnal."
@@ -52,4 +52,4 @@ Description: Believers are urged to fully equip themselves with the spiritual ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

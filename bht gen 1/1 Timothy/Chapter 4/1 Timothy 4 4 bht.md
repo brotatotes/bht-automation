@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the goodness of all things created by God, particularly in relation to food. They argue against the idea of certain things being inherently impure or forbidden, instead highlighting that the key factor is the thankfulness and faith of the person receiving it. The verse counters Gnostic teachings and calls for an appreciation of God's provisions, with a reminder that purity comes from the right spiritual state rather than the physical characteristics of what is consumed. It encourages gratitude for the blessings of God and rejects notions of restriction or rejection based on external factors.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A refutation by anticipation of the Gnostic opposition to creation: the seeds of which were now lurking latently in the Church."
 2. "The old Gnostic heresy is now almost extinct; but its remains in the celibacy of Rome's priesthood, and in its fasts from animal meats, enjoined under the penalty of mortal sin, remain."
 3. "Meats, though pure in themselves, become impure by being received with an unthankful mind."
@@ -43,4 +43,4 @@ In this verse, the commentators emphasize the goodness of all things created by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

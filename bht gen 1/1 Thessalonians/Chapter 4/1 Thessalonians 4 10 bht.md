@@ -9,7 +9,7 @@ The verse being described focuses on the commendable actions of the Thessalonian
 2. "There were some defect of quiet diligence and harmony within, which prompted this exhortation." - The exhortation is prompted by a lack of unity and diligence within the community.
 3. "Instances are frequent enough of exhortations being addressed to whole churches which in their application would require severing and allotting to distinct classes of persons." - The exhortation may apply to different groups within the church, addressing their specific needs.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The use of the word 'indeed' emphasizes the certainty and truth of what is being said. It signifies that the following statement is not a mere suggestion or possibility, but a definite reality."
 
 2. "The Greek word 'kai,' translated here as 'even,' adds an element of surprise or unexpectedness to the statement. It suggests that the truth being conveyed is not what one might naturally assume or expect."
@@ -49,4 +49,4 @@ The verse being described focuses on the commendable actions of the Thessalonian
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

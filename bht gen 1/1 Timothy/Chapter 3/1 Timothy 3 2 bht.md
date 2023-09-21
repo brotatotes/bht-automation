@@ -4,7 +4,7 @@
 A bishop, or an overseer, must have a blameless reputation, free from any scandal or wrongdoing in the eyes of others. They should have only one spouse at a time, adhering to a literal interpretation of marital faithfulness. In addition, a bishop should be vigilant and wise, displaying both passion and prudence in their actions and decisions. This role requires a combination of moral integrity, commitment to monogamy, and a balanced and discerning approach to leadership.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Episcopacy was adopted in apostolic times as the most expedient form of government, being most nearly in accordance with Jewish institutions, and so offering the less obstruction through Jewish prejudices to the progress of Christianity."
 2. "The feeling which prevailed among the Gentiles, as well as the Jews, against a second marriage would, on the ground of expediency and conciliation in matters indifferent and not involving compromise of principle, account for Paul's prohibition here in the case of one in so prominent a sphere as a bishop or a deacon."
 3. "The new man bears somewhat of a sacred festival character, incompatible with all confusion, disorder, excess, violence, laxity, assumption, harshness, and meanness."
@@ -50,4 +50,4 @@ A bishop, or an overseer, must have a blameless reputation, free from any scanda
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

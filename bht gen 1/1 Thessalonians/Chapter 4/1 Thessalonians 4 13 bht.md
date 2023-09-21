@@ -9,7 +9,7 @@ This verse reminds us of the powerful impact Christianity has on our perspective
 2. "He forbids lupeisthai altogether. But we must remember, what sort of lupeisthai it was. Surely not absolutely the mourning for our loss in their absence, but for theirs (see above), and in so far, for ours also."
 3. "This shows of what kind their lȳpē was: viz. a grief whose ground was unbelief in a resurrection: which regarded the dead as altogether cut off from Christ’s heavenly kingdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'cemetery' means a sleeping-place. Observe, the glory and chief hope of the Church are not to be realized at death, but at the Lord's coming; one is not to anticipate the other, but all are to be glorified together at Christ's coming."
 2. "Death affects the mere individual; but the coming of Jesus the whole Church; at death our souls are invisibly and individually with the Lord; at Christ's coming the whole Church, with all its members, in body and soul, shall be visibly and collectively with Him."
 3. "Not all natural mourning for dead friends is forbidden: for the Lord Jesus and Paul sinlessly gave way to it; but sorrow as though there were 'no hope,' which indeed the heathen had not: the Christian hope here meant is that of the resurrection."
@@ -55,4 +55,4 @@ Note: The commentary provides additional context and explanations for these quot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

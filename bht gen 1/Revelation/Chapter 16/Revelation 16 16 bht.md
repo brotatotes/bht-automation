@@ -4,7 +4,7 @@
 In this verse, commentators describe a scene of great spiritual battle and opposition against the truth. The name "Armageddon" comes from the Hebrew words for "mountain" and "slaughter," and it is associated with the idea of decisive battles and overwhelming destruction. The location, Megiddo, is mentioned in the Old Testament as a place of significant battles and mourning. It is suggested that this battle will gather the powers of paganism, Mohammedanism, and Romanism, rallying against the kingdom of God. Ultimately, it is a name that signifies the final conflict that determines the prevalence of true religion on the earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Armageddon—Hebrew, 'Har,' a mountain, and 'Megiddo' in Manasseh in Galilee, the scene of the overthrow of the Canaanite kings by God's miraculous interposition under Deborah and Barak; the same as the great plain of Esdraelon."
 2. "Megiddo comes from a root, gadad, 'cut off,' and means slaughter."
 3. "Probably some great plain, antitypical to the valleys of Megiddo and Jehoshaphat, will be the scene."
@@ -43,4 +43,4 @@ In this verse, commentators describe a scene of great spiritual battle and oppos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

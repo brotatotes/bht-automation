@@ -9,7 +9,7 @@ The verse being described is about the moment when a soldier pierces Jesus' side
 2. "It is more probable that the fact, which is here so strongly testified, was a consequence of the extreme exhaustion of the Body of the Redeemer."
 3. "His view after all seems to be the safe and true one that the circumstance is related as a miraculous sign, having deep significance as to the work of the Redeemer, and shewing Him to be more than mortal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But one of the soldiers—to make assurance of the fact doubly sure."
 2. "With a spear pierced his side—making a wound deep and wide."
 3. "And forthwith came thereout blood and water."
@@ -50,4 +50,4 @@ The verse being described is about the moment when a soldier pierces Jesus' side
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

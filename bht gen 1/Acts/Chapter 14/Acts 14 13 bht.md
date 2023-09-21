@@ -9,7 +9,7 @@ In this verse, the presence and influence of the Roman god Jupiter in the city i
 2. "Ipsæ denique fores, ipsæ hostiæ, ipsiæ aræ, ipsi ministri et sacerdotes eorum coronantur." 
 3. "τοὺς πυλῶνας are not the gates of the city, but the doors of the outer court of the house."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The priest of Jupiter, which was before their city" - This phrase indicates that the temple of Jupiter was located prominently in front of the city, symbolizing the influence and significance of this deity in the community.
 
 2. "Brought oxen and garlands" - The act of bringing oxen and garlands signifies a festive occasion and demonstrates the reverence and honor given to the gods during religious ceremonies.
@@ -57,4 +57,4 @@ In this verse, the presence and influence of the Roman god Jupiter in the city i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

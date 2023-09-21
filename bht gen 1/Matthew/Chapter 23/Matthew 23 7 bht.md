@@ -4,7 +4,7 @@
 In this verse, the focus is not just on the literal usage of titles but on the underlying spiritual significance. The disciples, by addressing Jesus as "Rabbi," recognize his authority and position as a teacher. The use of such titles, like "Rabbi," had become a source of spiritual pride and desire for recognition among the religious leaders. The verse emphasizes the distinction between the outward show of respect and the true humility and willingness to learn from Jesus, which the disciples exemplify by acknowledging him as their teacher.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the spirit rather than the letter of this that must be pressed"
 2. "The violation of the letter, springing from spiritual pride, has done incalculable evil in the Church of Christ"
 3. "The reiteration of the word 'Rabbi' shows how it tickled the ear and fed the spiritual pride of those ecclesiastics."
@@ -40,4 +40,4 @@ In this verse, the focus is not just on the literal usage of titles but on the u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

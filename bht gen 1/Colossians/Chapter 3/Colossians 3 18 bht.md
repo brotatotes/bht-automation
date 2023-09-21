@@ -9,7 +9,7 @@ In this verse, the duty of wives to submit to their husbands is described as an 
 2. "The words ἐν κυρίῳ belong to ἀνῆκεν, not to ὑποτάσεσθε; as is shown by the parallel expression in Colossians 3:20; was fitting, in that element of life designated by ἐν κυρίῳ."
 3. "The duty of children to their parents is a universal one, binding on all, and not to be set aside by any consideration of personal convenience or inclination."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto your own husbands" - The oldest manuscripts omit "own," which crept in from Ephesians 5:22. This emphasizes the unique and personal relationship between a wife and her husband.
 
 2. "As it is fit in the Lord" - The Greek phrase "was fit" implies that there was some failure in fulfilling the duty of submission. This suggests that as disciples of the Lord, it is their duty to submit to their husbands.
@@ -58,4 +58,4 @@ In this verse, the duty of wives to submit to their husbands is described as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

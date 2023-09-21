@@ -9,7 +9,7 @@ When someone in the church goes astray, it is our duty to approach them with lov
 2. "ὡς in the first clause seems superfluous: it is perhaps inserted to correspond with the other clause, or still further to soften the ἐχθρὸν ἡγεῖσθε."
 3. "So ὥσπερ, Job 19:11; Job 33:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Admonish him as a brother" - This phrase emphasizes the importance of approaching the person with love and respect, treating them as a fellow believer rather than an enemy or outcast.
 
 2. "Do not shun him in contemptuous silence" - This highlights the need for open communication and dialogue, rather than ignoring or avoiding the person. It encourages addressing the issue directly and honestly, rather than resorting to passive-aggressive behavior.
@@ -57,4 +57,4 @@ When someone in the church goes astray, it is our duty to approach them with lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

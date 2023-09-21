@@ -9,7 +9,7 @@ In this verse, the commentators highlight the significance of living in and bein
 2. "Our inner life, which is hid with Christ in God, is lived πνεύματι, the Spirit being its generator and upholder."
 3. "Let our practical walk, which is led κατὰ προαίρεσιν of our own, be in harmony with that higher life in which we live before God by faith, and in the Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let our life in practice correspond to the ideal inner principle of our spiritual life."
 2. "Life by (or 'in') the Spirit" is not an occasional influence of the Spirit, but an abiding state.
 3. "We are continually alive, though sometimes sleeping and inactive."
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the significance of living in and bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

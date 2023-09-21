@@ -9,7 +9,7 @@ John the Baptist came with a divine purpose to bear witness to the Light. Throug
 2. "The subject of his testimony was to be the Light, and the aim of it, that all might believe through him."
 3. "The aim of John's testimony was that all might believe in the Light."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through him" refers to John the Baptist, who was the chosen vessel through which God would prepare the way for Jesus. It highlights the divine appointment and purpose behind John's ministry. 
 
 2. John's role was not to draw attention to himself, but to point others to Jesus. He understood that he was merely a messenger, and his humility is a powerful example for all believers. 
@@ -40,4 +40,4 @@ John the Baptist came with a divine purpose to bear witness to the Light. Throug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

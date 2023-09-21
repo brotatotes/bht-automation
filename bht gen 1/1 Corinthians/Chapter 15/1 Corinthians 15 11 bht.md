@@ -9,7 +9,7 @@ In this verse, the commentators highlight the unity and consistency in the preac
 2. "Such is the purport of our preaching." 
 3. "Such was your belief."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles, including Paul, labored abundantly in preaching the truths stated in 1 Corinthians 15:3-4."
 2. "The substance of their preaching was centered around the core truths of the gospel."
 3. "Whether it was Paul or the other apostles, their focus was on proclaiming the message of Christ's death and resurrection."
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the unity and consistency in the preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

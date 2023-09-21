@@ -9,7 +9,7 @@ In this verse, the value of three hundred pence, equivalent to a significant sum
 2. "Common (with the slight difference of the insertion of ἐπάνω) to our narrative and Mark." 
 3. "Friedlieb, p. 31."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The value of three hundred pence, which was equivalent to about nine to ten pounds sterling, gives us a sense of the significant amount of money involved in this story."
 
 2. "This amount would have been a substantial sum for the average person during that time, highlighting the gravity of the debt that the servant owed."
@@ -47,4 +47,4 @@ In this verse, the value of three hundred pence, equivalent to a significant sum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

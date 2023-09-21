@@ -9,7 +9,7 @@ The passage describes a group of individuals, including the writer who was part 
 2. "εὐαγγέλιον in these times...rather embraced the whole good tidings of salvation by Him, as preached to the Jews and Heathens."
 3. "The fact of Philip being settled at Cæsarea, and known as ὁ εὐαγγελιστής, seems decisive against regarding the occurrence of ch. Acts 6:3 ff. as the establishment of any permanent order in the church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Philip the evangelist—a term answering apparently very much to our missionary, by whose ministry such joy had been diffused over Samaria and the Ethiopian eunuch had been baptized."
 2. "one of the seven—deacons, who had 'purchased to himself a good degree.'"
 3. "He and Paul now meet for the first time, some twenty-five years after that time."
@@ -52,4 +52,4 @@ The passage describes a group of individuals, including the writer who was part 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

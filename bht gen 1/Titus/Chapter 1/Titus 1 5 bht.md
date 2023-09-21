@@ -9,7 +9,7 @@ In this Bible verse, the author left Titus behind in Crete to address certain de
 2. "Mightest appoint city by city elders."
 3. "As I prescribed to thee."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I left thee behind when I left the island: not implying permanence of commission."
 2. "That thou mightest follow up (the work begun by me), setting right the things that are wanting."
 3. "The appointment of presbyters was designed to check idle talk and speculation, by setting forth the 'faithful word'."
@@ -53,4 +53,4 @@ In this Bible verse, the author left Titus behind in Crete to address certain de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

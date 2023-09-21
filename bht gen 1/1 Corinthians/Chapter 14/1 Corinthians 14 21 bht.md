@@ -9,7 +9,7 @@ The Bible verse being described is a passage that references God speaking to His
 2. "The historical sense is not so much considered, as the aptness of the expressions used for illustrating the matter in hand."
 3. "The Apostle personifies it and gives it the prominence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This people hear Me not, though I speak to them in the language with which they are familiar; I will therefore speak to them in other tongues." - This quote highlights the idea that God uses different languages to communicate with His people when they refuse to listen to Him in their own language.
 
 2. "Ye see that it is a penalty to be associated with men of a strange tongue, yet ye impose this on the Church." - This quote emphasizes the negative consequences of speaking in foreign tongues and how it can be burdensome for the Church.
@@ -56,4 +56,4 @@ The Bible verse being described is a passage that references God speaking to His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

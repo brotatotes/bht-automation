@@ -9,7 +9,7 @@ In this verse, the commentators highlight the detrimental effects of Christians 
 2. "A falling short, viz. of your inheritance of the kingdom of God, a hindrance in the way of your salvation." 
 3. "Matters of dispute, leading to judging one another, as being brethren in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your going to law at all is a falling short of your high privileges, not to say your doing so before unbelievers, which aggravates it."
 2. "Rather take wrong; that is, 'suffer yourselves to be wronged.'"
 3. "Suffering wrong is a mark of true humility and a reflection of the teachings of Proverbs 20:22 and Matthew 5:39-40."
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the detrimental effects of Christians 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

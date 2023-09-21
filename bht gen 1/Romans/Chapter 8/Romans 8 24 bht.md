@@ -4,7 +4,7 @@
 This Bible verse highlights the significant role of hope in our salvation journey. We are saved by hope, as it becomes both the means and the goal of our salvation. Our salvation is not yet fully realized, but it sustains us in the midst of trials and upheavals. The Scriptures lay a solid foundation for our hope, as they clearly express the promise of salvation through Christ. Hope becomes the anchor that keeps us steadfast on our journey towards redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For in hope we are saved"; that is, it is more a salvation in hope than as yet in actual possession.
 2. "For the very meaning of hope is, the expectation that something now future will become present."
 3. "The latter ending when the other comes."
@@ -50,4 +50,4 @@ This Bible verse highlights the significant role of hope in our salvation journe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

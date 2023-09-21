@@ -9,7 +9,7 @@ If our hope in Christ is confined to this present life and we do not anticipate 
 2. "The right arrangement of the Greek gives the key to the sentence: εἰ ( ἐν τῇ ζωῇ ταύτῃ ἐν χριστῷ ἠλπικότες ἐσμὲν ) μόνον, 'if all we have done is merely having hoped in Christ in this life.'"
 3. "We are most to be pitied (most miserable) of all men; viz. because they, all other men, live at ease, we on the contrary are ever exposed to danger and death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If our hopes in Christ were limited to this life only, we should be, of all men, most to be pitied."
 2. "For all our hope of salvation, even of the soul (not merely of the body), hangs on the resurrection of Christ, without which His death would be of no avail to us."
 3. "The heathen are 'without hope.' We should be even worse, for we should be also without present enjoyment."
@@ -55,4 +55,4 @@ If our hope in Christ is confined to this present life and we do not anticipate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

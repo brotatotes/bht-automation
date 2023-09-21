@@ -11,7 +11,7 @@ In this passage, the speaker acknowledges their authority and the legitimacy of 
 
 Note: The commentary is not clear on which Bible verse it is referring to, so the specific verse is not mentioned in the quotes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For even if I were to boast somewhat more exceedingly (than I do) of our (apostolic) authority... I should not be put to shame." 
 2. "For building up... not for casting down." 
 3. "Though we 'cast down reasonings,' this is not in order to destroy, but really to build up ('edify')."
@@ -56,4 +56,4 @@ Note: The commentary is not clear on which Bible verse it is referring to, so th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The love we have for truth is rooted in its enduring power within us. This abiding truth guides our actions, leading us to rejoice in its positive effects on society and drawing us closer to places where its influence is felt. As a living principle of faith and holiness, truth takes up a permanent abode in our hearts, providing comfort and guidance throughout all realms and ages.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the truth's sake" emphasizes the importance of truth in love, highlighting that genuine love is rooted in truth.
 2. "They who love in the truth, also love on account of the truth" suggests that true love is not only based on personal feelings but also on the truth and principles that guide it.
 3. "Dwelleth in us, and shall be with us forever" echoes Christ's promise that the love of God will always be present in our lives, providing comfort and guidance.
@@ -42,4 +42,4 @@ Note: The commentary is discussing the concept of truth and its enduring nature,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

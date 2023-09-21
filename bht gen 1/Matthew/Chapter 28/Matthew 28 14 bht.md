@@ -9,7 +9,7 @@ In this Bible verse, individuals discuss a plan to manipulate the governor by pe
 2. "If a stir be made, and you be in trouble about it."
 3. "We can persuade [the governor] by a bribe of money."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If this come before the governor—as it likely will—we shall see to it that," &c.
 2. "The 'persuasion' of Pilate meant, doubtless, quieting him by a bribe."
 3. "The grammatical form of this clause implies that the thing supposed was expected to happen."
@@ -43,4 +43,4 @@ In this Bible verse, individuals discuss a plan to manipulate the governor by pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

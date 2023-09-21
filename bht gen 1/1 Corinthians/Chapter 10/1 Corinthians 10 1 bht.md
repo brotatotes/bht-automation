@@ -9,7 +9,7 @@ In this passage, the commentators emphasize the necessity of self-subduing and t
 2. "He uses this expression, not merely speaking for himself and his Jewish converts, but regarding the Christian church as a continuation of the Jewish, and the believer as the true descendant of Abraham."
 3. "ALL had these privileges, as all of you have their counterparts under the Gospel: but most of them failed from rebellion and unbelief."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye need to exercise self-denying watchfulness notwithstanding all your privileges, lest ye be castaways."
 2. "Our fathers were all under the cloud, giving the 'all' its proper emphasis. Not so much as one of so great a multitude was detained by force or disease."
 3. "Continuing the reasoning, 'They which run in a race, run all, but one receiveth the prize.'"
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

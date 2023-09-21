@@ -9,7 +9,7 @@ In the synagogues, our Lord taught and spread the Gospel of the kingdom, healing
 2. "The officers of the synagogues were (1) the ἀρχισυναγωγός , who had the care of public order, and the arrangement of the service; (2) the Elders, who seem to have formed a sort of council under the presidency of the ἀρχισυναγωγός; (3) the legatus or angelus ecclesiæ, who was the reader of prayers, and also secretary and messenger of the synagogues; (4) the ὑπηρέτης, or chapel clerk, whose office was to prepare the books for reading, to sweep, open, and shut the synagogue."
 3. "Our Lord was allowed to read and teach in the synagogues, although of mean extraction according to the flesh, because of His miracles, and His supposed character as the professed leader and teacher of a religious sect."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In our Lord's time, the rule was to have one wherever ten learned men or professed students of the law resided; and they extended to Syria, Asia Minor, Greece, and most places of the dispersion."
 2. "In point of officers and mode of worship, the Christian congregations are modelled after the synagogue."
 3. "The word means any incipient malady causing 'softness'."
@@ -48,4 +48,4 @@ In the synagogues, our Lord taught and spread the Gospel of the kingdom, healing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

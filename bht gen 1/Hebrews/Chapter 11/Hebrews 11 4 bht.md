@@ -9,7 +9,7 @@ In this verse, the commentators highlight the contrast between the offerings of 
 2. "That Abel’s consisted of the firstlings of his flock and of the fat thereof the first and the best, whereas Cain’s was merely an offering of the fruit of the ground, perfunctory and common-place, may be a circumstance not without weight in appreciating the term πίστει."
 3. "That Abel’s was an offering of slain animals, God’s own appointed way, so soon after, of the sinner’s approach to Him, whereas Cain’s was only a gift, as if he could approach God without shedding of blood, this may also be an important element in the term πίστει."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The revelation in this case was doubtless God's command to sacrifice animals...as a type of the promised bruiser of the serpent's head."
 2. "A coat of skin put on Adam from a sacrificed animal typified the covering or atonement resulting from Christ's sacrifice."
 3. "Faith causes the believer's person to be accepted, and then his offering."
@@ -61,4 +61,4 @@ In this verse, the commentators highlight the contrast between the offerings of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

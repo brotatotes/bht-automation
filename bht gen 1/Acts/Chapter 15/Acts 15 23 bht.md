@@ -9,7 +9,7 @@ In this verse, a letter is written by the apostles, elders, and brethren from th
 2. "It seems very much more probable to me that the words καὶ οἱ were inserted to bring the decree into exact harmony with the beginning of Acts 15:22."
 3. "This mention of churches in Cilicia, coupled with the fact of Paul’s stay at Tarsus, makes it probable that Paul preached the gospel there, and to Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the first mention in the New Testament history of writing as an element in its development."
 2. "But whereas there it is the deep difference between Israel and the Gentiles which is proclaimed, here it is the obliteration of that difference through faith in the Lord Jesus."
 3. "Showing that churches then existed in Cilicia as well as Syria, which owed their existence, in all likelihood, to Paul's labors during the interval between his return to Tarsus and his departure in company with Barnabas for Antioch."
@@ -50,4 +50,4 @@ In this verse, a letter is written by the apostles, elders, and brethren from th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

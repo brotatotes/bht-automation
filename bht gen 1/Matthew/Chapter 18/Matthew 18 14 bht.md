@@ -9,7 +9,7 @@ In this verse, the commentator quotes express the work of the Son in accomplishi
 2. "Whoever despises or scandalizes one of these little ones, acts in opposition to the will of your Father in Heaven."
 3. "When the dignity of the little ones was asserted, it was πατρός μου: now that a motive directly acting on the conscience of the Christian is urged, it is πατρὸς ὑμῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even so it is not the will of your Father which is in heaven that one of these little ones should perish." This quote emphasizes the loving nature of God and His desire for the well-being and salvation of every individual, especially the vulnerable and innocent.
 
 2. "How, then, can He but visit for those 'offenses' which endanger the souls of these little ones?" This quote highlights the responsibility of God to hold accountable those who cause harm or lead others astray, particularly when it comes to the spiritual well-being of children.
@@ -47,4 +47,4 @@ In this verse, the commentator quotes express the work of the Son in accomplishi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

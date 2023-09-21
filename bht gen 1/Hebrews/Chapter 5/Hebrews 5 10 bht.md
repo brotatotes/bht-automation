@@ -1,10 +1,10 @@
 # Hebrews 5:10 Commentary Help Text
 
 ## BHT:
-In this passage, the commentators discuss the significance of Christ being called by God as the High Priest. Jamieson Fausset Brown explains that Jesus became the High Priest after His passion and perfection. Albert Barnes clarifies that being called by God doesn't necessarily mean an appointment, but rather being addressed by God. Marvin Vincent highlights that Christ was recognized and saluted by God after completing His earthly journey. These commentaries emphasize the divine authority and unique role of Christ as the chosen High Priest.
+In this passage, the commentators discuss the significance of Christ being called by God as the High Priest. Jamieson-Fausset-Brown explains that Jesus became the High Priest after His passion and perfection. Albert Barnes clarifies that being called by God doesn't necessarily mean an appointment, but rather being addressed by God. Marvin Vincent highlights that Christ was recognized and saluted by God after completing His earthly journey. These commentaries emphasize the divine authority and unique role of Christ as the chosen High Priest.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Addressed by God (by the appellation) High Priest."
 2. "Being formally recognized by God as High Priest at the time of His being 'made perfect'."
 3. "He was High Priest already in the purpose of God before His passion; but after it, when perfected, He was formally addressed so."
@@ -52,4 +52,4 @@ In this passage, the commentators discuss the significance of Christ being calle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

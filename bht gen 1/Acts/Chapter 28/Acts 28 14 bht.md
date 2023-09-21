@@ -8,7 +8,7 @@ Upon arriving in Puteoli, Paul and his companions were pleasantly surprised to f
 1. "These Christians were perhaps Alexandrines, as the commerce was so considerable between the two places."
 2. "After this stay with them: implying that the request was complied with."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Where we found brethren—not 'the brethren'...from which one would conclude they did not expect to find such." 
 2. "If this request came from Julius, it may have proceeded partly from a wish to receive instructions from Rome and make arrangements for his journey thither, partly from a wish to gratify Paul." 
 3. "The apostle had thus an opportunity of spending a Sabbath with the Christians of the place, all the more refreshing from his long privation in this respect, and as a seasoning for the unknown future that lay before him at the metropolis."
@@ -37,4 +37,4 @@ Upon arriving in Puteoli, Paul and his companions were pleasantly surprised to f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

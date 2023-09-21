@@ -4,7 +4,7 @@
 In this verse, commentators highlight the powerful message of refraining from judgment and condemnation towards others. They emphasize the warning that if we judge, we will be judged, and if we condemn, we will be condemned. The emphasis is on extending forgiveness and understanding, rather than criticism, and recognizing the significance of reciprocity in our interactions. Furthermore, the verse calls us to engage in self-reflection and personal growth before seeking to help others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse provides a vivid and detailed description of the scene, allowing readers to imagine the intensity and significance of the event." 
 
 2. "The author's use of descriptive language enhances the reader's understanding of the emotions and actions taking place in the narrative." 
@@ -46,4 +46,4 @@ In this verse, commentators highlight the powerful message of refraining from ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, Jesus' biological brothers question him, expressing their skepticism and impatience for him to make himself known openly. They mention his disciples and the miracles he has performed, highlighting the diverse following he has gathered. Jesus' brothers, who were not initially believing in him, mock his actions and advise him, revealing their own doubts and desire for him to leave the secluded region where he is currently situated. This interaction sheds light on the complex dynamics within Jesus' own family and their struggle to understand his mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But as they were in the 'upper room' among the one hundred and twenty disciples who waited for the descent of the Spirit after the Lord's ascension, they seem to have had their prejudices removed, perhaps after His resurrection."
 2. "Indeed here their language is more that of strong prejudice and suspicion (such as near relatives, even the best, too frequently show in such cases), than from unbelief."
 3. "There was also, probably, a tincture of vanity in it. 'Thou hast many disciples in Judea here in Galilee they are fast dropping off; it is not like one who advances the claims Thou dost to linger so long here, away from the city of our solemnities, where surely 'the kingdom of our father David' is to be set up: 'seeking,' as Thou dost, 'to be known openly,' those miracles of Thine ought not to be confined to this distant corner, but submitted at headquarters to the inspection of 'the world.'"
@@ -54,4 +54,4 @@ In this Bible verse, Jesus' biological brothers question him, expressing their s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

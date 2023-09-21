@@ -9,7 +9,7 @@ This verse speaks about the transformative power of the word of God in the lives
 2. "This it was in which they imitated the Apostles, and their divine Master, and which made them patterns to other churches."
 3. "For this θλῖψις in which they ἐδέξαντο τὸν λόγον, see Acts 17:5-10; ch. 1 Thessalonians 2:14; 1Th 3:2-3; 1 Thessalonians 3:5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Thessalonians in their turn became 'ensamples' for others to imitate." 
 2. "This was the point in which they imitated Him and His apostles, joyful witness for the word in much affliction: the second proof of their election of God."
 3. "The oil of gladness wherewith the Son of God was 'anointed above His fellows' is the same oil with which He, by the Spirit, anoints His fellows too."
@@ -54,4 +54,4 @@ This verse speaks about the transformative power of the word of God in the lives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

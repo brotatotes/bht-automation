@@ -9,7 +9,7 @@ In this Bible verse, the love between the Father and Christ is compared to the l
 2. "That which is the great assertion of the sentence, is suffered to slip by unnoticed; viz. that ‘as the Father hath loved the Son, so the Son His disciples.’"
 3. "The sense is best served by placing a colon (as in E. V.) after ὑμᾶς ἠγάπησα, making μείνατε κ . τ . λ. a separate injunction, and κἀγώ = οὕτως."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Continue ye in my love" - This phrase emphasizes the ongoing nature of the disciples' relationship with Jesus. It is not just about loving Him, but about remaining in the constant experience of His love for them.
 
 2. "Continue in the possession and enjoyment of My love to you" - This highlights the reciprocal nature of love between Jesus and His disciples. It is not a one-sided love, but a mutual exchange of love and affection.
@@ -55,4 +55,4 @@ In this Bible verse, the love between the Father and Christ is compared to the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

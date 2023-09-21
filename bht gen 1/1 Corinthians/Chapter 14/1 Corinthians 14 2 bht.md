@@ -9,7 +9,7 @@ The verse being described here emphasizes the act of speaking in tongues as a un
 2. "The assembly do not understand him; some, who have the gift of interpretation of tongues, may, but they are the exception." - The ability to interpret tongues is rare, and most people in the assembly will not understand the speaker. (Quote 2)
 3. "In his spirit, he speaks mysteries." - The speaker in tongues is expressing hidden truths that are not easily understood by others. (Quote 2)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "speaketh . . . unto God—who alone understands all languages."
 2. "no man understandeth—generally speaking; the few who have the gift of interpreting tongues are the exception."
 3. "mysteries—unintelligible to the hearers, exciting their wonder, rather than instructing them."
@@ -54,4 +54,4 @@ These quotes highlight the Apostle Paul's critique of speaking in tongues, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

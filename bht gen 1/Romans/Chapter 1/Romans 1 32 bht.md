@@ -9,7 +9,7 @@ The Bible verse being described paints a vivid picture of the moral state of the
 2. "The sentence of God, unmistakeably pronounced in the conscience."
 3. "The description here given by the Apostle of the moral state of the heathen world should by all means be compared with that in Thucyd. iii. 82-84, of the moral state of Greece in the Peloponnesian war."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wrath of God" against sin has all the dread reality of a "revelation from heaven" sounding in the consciences of men, in the self-inflicted miseries of the wicked, and in the vengeance which God's moral government, sooner or later, takes upon all who outrage it.
 2. We must not magnify the supernatural revelation which God has been pleased to make of Himself, through Abraham's family to the human race, at the expense of that older, and, in itself, lustrous revelation which He has made to the whole family of man through the medium of their own nature and the creation around them.
 3. Wilful resistance of light has a retributive tendency to blunt the moral perceptions and weaken the capacity to apprehend and approve of truth and goodness.
@@ -50,4 +50,4 @@ The Bible verse being described paints a vivid picture of the moral state of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

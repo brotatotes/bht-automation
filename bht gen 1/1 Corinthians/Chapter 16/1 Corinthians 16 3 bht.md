@@ -9,7 +9,7 @@ In this verse, the Corinthians are instructed to choose individuals they approve
 2. "Who knows how many private letters of his, not addressed to churches have been lost?"
 3. "The only letter of the kind which remains to us (except the Pastoral Epistles), viz. that to Philemon, owes its preservation perhaps to the mere circumstance, that it is at the same time addressed to the church in the house of Philemon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whomsoever ye shall approve, them will I send with letters": namely, letters to several persons at Jerusalem, which would be their credentials.
 2. "There could be no need of letters from them before Paul's coming, if the persons recommended were not to be sent off before it."
 3. "Literally, 'by letters'; an abbreviated expression for 'I will send, recommending them by letters'."
@@ -45,4 +45,4 @@ In this verse, the Corinthians are instructed to choose individuals they approve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

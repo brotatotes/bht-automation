@@ -11,7 +11,7 @@ In this verse, a Gentile woman demonstrates persistence and determination in see
 
 3. "The woman's faith and humility are evident in her response" - This comment highlights the woman's attitude of faith and humility, which is a key aspect of her encounter with Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Distress is quick of hearing." 
 2. "One wonders how." 
 3. "Was badly demonized."
@@ -40,4 +40,4 @@ In this verse, a Gentile woman demonstrates persistence and determination in see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

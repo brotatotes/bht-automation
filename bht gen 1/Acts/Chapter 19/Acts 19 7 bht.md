@@ -11,7 +11,7 @@ In this verse, there is a strong emphasis on the inclusiveness and completeness 
 
 3. "πεσόντων δὲ τῶν πάντων πολλῶν" - This quote from Thucydides highlights the idea of "all" by describing the falling of many, indicating that no one was exempt from the event being described.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they heard this—not the mere words reported in Acts 19:4, but the subject expounded according to the tenor of those words." 
 2. "They were baptized—not however by Paul himself (1 Corinthians 1:14)." 
 3. "In the name of the Lord Jesus—into the whole fulness of the new economy, as now opened up to their believing minds."
@@ -37,4 +37,4 @@ In this verse, there is a strong emphasis on the inclusiveness and completeness 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

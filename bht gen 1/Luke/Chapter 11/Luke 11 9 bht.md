@@ -9,7 +9,7 @@ This verse invites us to actively and persistently engage in conversation with G
 2. "Luk 11:10 declares to us not merely a result observable here among men, but a great law of our Father’s spiritual Kingdom." 
 3. "A clause out of the eternal covenant, which cannot be changed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse reminds us that God's love is not limited to a select few, but extends to all people, regardless of their background or social status." 
 
 2. "This verse challenges us to examine our own hearts and see if we are truly loving others as God loves us." 
@@ -44,4 +44,4 @@ This verse invites us to actively and persistently engage in conversation with G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

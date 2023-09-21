@@ -4,7 +4,7 @@
 In this Bible verse, the speaker wholeheartedly acknowledges their surrender to the Lord Jesus and includes their fellow disciples in the statement. The phrase "left all" reflects the recognition of abandoning worldly possessions and following Jesus. The response also reveals a sense of concern about the future and what awaits them as they have chosen to dedicate their lives to Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lo, c.—in the simplicity of his heart (as is evident from the reply), conscious that the required surrender had been made, and generously taking in his brethren with him—"we" not in the spirit of the young ruler."
 2. "All these have I kept," left all—"The workmen's little is as much his "all" as the prince's much" [BENGEL].
 3. "In Matthew ( :-) he adds, "What shall we have therefore?" How shall it fare with us?"
@@ -30,4 +30,4 @@ In this Bible verse, the speaker wholeheartedly acknowledges their surrender to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

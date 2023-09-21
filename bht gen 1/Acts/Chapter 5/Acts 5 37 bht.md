@@ -9,7 +9,7 @@ In this Bible verse, there is a mention of a historical figure, Theudas, who led
 2. "His revolt took a theocratic character, his followers maintaining μόνον ἡγεμόνα καὶ δεσπότην τὸν θεόν."
 3. "διεσκορπίσθησαν] Strictly accurate for they still existed, and at last became active and notorious again, under Menahem, son of Judas τοῦ καλουμένου Γαλιλαίου."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judas of Galilee was a historical figure mentioned by Josephus in his Antiquities. This reference helps to establish the historical context of the Bible verse."
 2. "The mention of Judas of Galilee in the commentary highlights the political and social tensions of the time, providing a deeper understanding of the verse's significance."
 3. "By referencing Josephus, the commentary adds credibility to the historical accuracy of the Bible and reinforces the importance of understanding the cultural and political context in which the events took place."
@@ -43,4 +43,4 @@ In this Bible verse, there is a mention of a historical figure, Theudas, who led
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

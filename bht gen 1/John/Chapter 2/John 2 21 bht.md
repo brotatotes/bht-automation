@@ -4,7 +4,7 @@
 The verse being described showcases the metaphorical language used by Jesus to refer to his own body as the temple, highlighting the significance of his physical presence on earth and his divine nature. It signifies the establishment of a new and superior temple through Jesus' resurrection, surpassing the physical temple made of stone. This verse also emphasizes the communal aspect of faith in Christ, showcasing believers as living stones in the spiritual temple. It underscores the temporary nature of the physical temple and the inauguration of a new era of worship centered on the spiritual connection with God through Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Temple of his body—in which was enshrined the glory of the eternal Word." This quote highlights the significance of Jesus' physical body as the dwelling place of God's glory, emphasizing his divine nature.
 
 2. "By its resurrection the true Temple of God upon earth was reared up, of which the stone one was but a shadow." This quote explains how Jesus' resurrection established a new and superior temple, surpassing the physical temple made of stone. It emphasizes the spiritual significance of the resurrection.
@@ -39,4 +39,4 @@ The verse being described showcases the metaphorical language used by Jesus to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

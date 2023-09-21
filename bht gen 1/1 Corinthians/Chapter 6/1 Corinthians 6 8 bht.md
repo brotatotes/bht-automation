@@ -11,7 +11,7 @@ The verse being described condemns a group of individuals who not only fail to e
 
 3. "YOU do wrong, and defraud, and that (your) brethren."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye, whom your Lord commanded to return good for evil."
 2. "Do wrong and defraud."
 3. "Not only do ye not bear, but ye inflict wrongs."
@@ -49,4 +49,4 @@ The verse being described condemns a group of individuals who not only fail to e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

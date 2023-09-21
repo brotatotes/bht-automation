@@ -4,7 +4,7 @@
 In this verse, we learn that the master expects his servants to be active and diligent in utilizing the resources given to them. It emphasizes that faithful stewardship and diligent use of talents are more important than the specific amount gained. God has entrusted each of us with unique gifts, and we are called to be good stewards, using our resources wisely for His glory. The servants in this parable demonstrate promptness, courage, and boldness in carrying out their responsibilities, functioning as traders for Christ's sake and the good of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable teaches us that the master expects his servants to be active and diligent in using the resources he has given them. It is not enough to simply possess the talents; they must be put to use and multiplied." 
 2. "The emphasis here is on the faithful stewardship of the talents, rather than the specific amount gained. The servant's success is measured by his faithfulness and diligence, not by the magnitude of his profits." 
 3. "This parable reminds us that God has given each of us unique gifts and abilities, and it is our responsibility to use them wisely and for His glory. We are called to be good stewards of the resources entrusted to us, whether they are financial, intellectual, or spiritual."
@@ -30,4 +30,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

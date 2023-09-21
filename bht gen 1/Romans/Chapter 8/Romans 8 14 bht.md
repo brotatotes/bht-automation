@@ -9,7 +9,7 @@ In this verse, being led by the Spirit of God is highlighted as the defining cha
 2. "νἱὸς θ. differs from τέκνον θ. in implying the higher and more mature and conscious member of God’s family." - The term "sons of God" implies a deeper and more intimate relationship with God, indicating a higher level of maturity and consciousness in one's faith.
 3. "This latter, applied to a Christian, signifies ‘one born of God’ in the deepest relation to him, and hence a partaker of His nature." - Being called a "son of God" as a Christian signifies being born of God and sharing in His divine nature.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For as many as are led by the Spirit of God, they are the sons of God." - This verse highlights the intimate relationship between believers and the Spirit of God. It emphasizes that being led by the Spirit is a distinguishing characteristic of being a child of God.
 
 2. "These are sons of God." - The commentary emphasizes that the Spirit's leading is not just a mere power, but a gracious and loving guidance. This quote underscores the significance of the Spirit's leading in affirming believers as children of God.
@@ -56,4 +56,4 @@ In this verse, being led by the Spirit of God is highlighted as the defining cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

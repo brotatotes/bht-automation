@@ -9,7 +9,7 @@ In this passage, we see a miraculous transformation take place as water is turne
 2. The phrase "who had drawn the water" emphasizes the action of drawing water, indicating that these individuals were responsible for obtaining the water.
 3. The use of the pluperfect tense suggests that the drawing of water had already been completed before the events described in the passage took place.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well drunk" refers to being "drunk abundantly" and highlights the general practice of excessive drinking (Song of Solomon 5:1).
 
 2. The phrase suggests that the people in the verse were indulging in excessive drinking, emphasizing the prevalence of this behavior.
@@ -44,4 +44,4 @@ In this passage, we see a miraculous transformation take place as water is turne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

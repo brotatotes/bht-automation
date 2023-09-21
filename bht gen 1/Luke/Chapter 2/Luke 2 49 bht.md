@@ -4,7 +4,7 @@
 In this Bible verse, Jesus, at the age of twelve, questions his parents' anxiety and lack of understanding about his true purpose. Commentators note that Jesus is emphasizing the importance of his heavenly Father's business over earthly duties. He reminds them that his duty to God supersedes any duty to his human parents. Jesus's calm response reflects his consciousness of his divine relationship and the necessity of fulfilling the divine plan. Through this passage, we are encouraged to revere and contemplate the mysteries of God that surpass our comprehension.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here He felt Himself at home, breathing His own proper air."
 2. "His words convey a gentle rebuke of their obtuseness in requiring Him to explain this."
 3. "My Father has not been seeking Me; I have been with Him all this time."
@@ -48,4 +48,4 @@ In this Bible verse, Jesus, at the age of twelve, questions his parents' anxiety
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

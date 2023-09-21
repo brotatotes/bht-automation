@@ -4,7 +4,7 @@
 In this verse, the commentator highlights the promise of a future state where all tears and sorrows are completely wiped away. Death, along with all its accompanying pain, will no longer exist. This description encompasses both the present earthly realm and extends into eternity, emphasizing the eternal nature of the promise. The transformative nature of this new reality is underscored, as it signifies a complete removal of the former order of existence and all its associated sufferings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every tear" will be wiped away, indicating a complete removal of sorrow and pain.
 2. In the future, "death shall be no more," emphasizing the eradication of death.
 3. The absence of sorrow and death suggests that this is not the millennium, as death still exists during that time.
@@ -47,4 +47,4 @@ In this verse, the commentator highlights the promise of a future state where al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

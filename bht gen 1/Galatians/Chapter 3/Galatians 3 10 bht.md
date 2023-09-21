@@ -9,7 +9,7 @@ Those who depend on their own obedience to the law for justification find themse
 2. "It being understood that they do not and cannot ἐμμένειν ἐν πᾶσιν &c."
 3. "The citation is freely from the LXX."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who depend on the works of the law cannot share the blessing, for they are under the curse." - This quote highlights the consequence of relying on works of the law and emphasizes that it leads to being under a curse.
 
 2. "PERFECT obedience is required by the words, 'in all things.'" - This quote emphasizes the requirement of perfect obedience in all aspects, indicating that partial obedience is not sufficient.
@@ -58,4 +58,4 @@ Those who depend on their own obedience to the law for justification find themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

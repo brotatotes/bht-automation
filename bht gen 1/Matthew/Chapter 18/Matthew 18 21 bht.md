@@ -4,7 +4,7 @@
 In discussing the Bible verse, commentators explore Peter's question about forgiveness. Peter, who had likely faced envy, wanted to know how many times forgiveness should be given. The commentators emphasize that forgiveness is not a one-time act but a continuous process that requires grace and mercy. They explain that Peter's question stemmed from the previous discourse and that the Jewish rule was to forgive three times. Yet, Jesus' response challenges this limited view, urging us to forgive without limits and mirroring the goodness of our heavenly Father.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter had probably been an object of special envy, and his forwardness in continually answering for all the rest would likely be cast up to him." 
 2. "And as such insinuations were perhaps made once and again, he wished to know how often and how long he was to stand it." 
 3. "Is there to be a limit at which the needful forbearance will be full?"
@@ -39,4 +39,4 @@ In discussing the Bible verse, commentators explore Peter's question about forgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

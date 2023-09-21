@@ -4,7 +4,7 @@
 In this verse, we see the profound impact that the judgment had on the early Christian community. The consequences of sin were made evident through the immediate and severe judgment upon Sapphira. This serves as a stark reminder of the fear and reverence we should have for God's holiness. The intensity of the fear was heightened by the witnessing of this divine judgment, serving as a warning to all who heard of the incident. As news of God's judgment spread, it had a ripple effect, causing people to reflect on their own actions and consider the consequences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And great fear came upon all the church" - This verse highlights the profound impact that the judgment had on the Christian community, serving as a reminder of the consequences of sin. (11)
 
 2. "The progress of the new cause leads to the arrest of the apostles" - The growth and advancement of the early Christian movement attracted attention and opposition, resulting in the arrest of the apostles. (:-)
@@ -39,4 +39,4 @@ In this verse, we see the profound impact that the judgment had on the early Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

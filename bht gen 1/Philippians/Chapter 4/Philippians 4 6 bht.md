@@ -9,7 +9,7 @@ In this verse, we are reminded to cast our anxieties on God and bring all our re
 2. "By your prayer and your supplication: or better, by the prayer and the supplication appropriate to each thing."
 3. "It should accompany every request."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Care and prayer are as mutually opposed as fire and water."
 2. "Thanksgiving gives effect to prayer and frees from anxious carefulness by making all God's dealings matter for praise, not merely for resignation, much less murmuring."
 3. "Let your requests be made known unto God with generous, filial, unreserved confidence; not keeping aught back, as too great, or else too small, to bring before God."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of not being overly concerned with worldly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

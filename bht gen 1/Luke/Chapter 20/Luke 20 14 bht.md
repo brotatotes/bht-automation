@@ -8,7 +8,7 @@ In this verse, individuals have seen Jesus' preaching and witnessed His miracles
 1. "This is taken up from the τοῦτον ἰδόντες of the verse before, and is emphatic." 
 2. "On the contrary, when they saw him..."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reasoned among themselves" - This phrase highlights the parallel between the actions of those discussing Jesus and the actions of Joseph's brothers in Genesis 37:18-20. It suggests a similar plot to harm or reject Jesus.
 2. "The heir" - This phrase emphasizes the profound truth that Jesus, as the Son of God, is the rightful heir of God's inheritance. It points to the divine plan for Jesus to possess and rule over all things.
 3. "Inheritance...ours" - This phrase reveals the potential transformation from being mere servants to becoming lords. It exposes the deep desire of the fallen human heart to possess power and control, which is often the root cause of evil actions.
@@ -31,4 +31,4 @@ Note: The provided commentary is a direct quote and has not been edited for clar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

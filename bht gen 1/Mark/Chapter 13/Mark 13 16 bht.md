@@ -4,7 +4,7 @@
 In this verse, there is an emphasis on the urgency and importance of immediate action when faced with danger. It highlights the need to prioritize personal safety over worldly possessions and not to hesitate in fleeing. The choice of words in this verse signifies the precision and attention to detail in the account, inviting readers to consider the deeper symbolic meaning behind the location mentioned. Overall, this verse calls for unwavering commitment to the kingdom of God and the willingness to leave behind anything that hinders us from fully embracing His call.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse emphasizes the urgency and immediacy of the situation. It highlights the need for swift action and the importance of prioritizing the kingdom of God over worldly possessions or concerns."
 2. "The phrase 'let him that is in the field not turn back again for to take up his garment' suggests that believers should not be preoccupied with material possessions or worldly attachments when it comes to following Jesus and spreading the gospel."
 3. "By instructing the person in the field not to turn back for his garment, Jesus is teaching us that our commitment to Him should be unwavering and that we should be willing to leave behind anything that hinders us from fully embracing His call."
@@ -25,4 +25,4 @@ In this verse, there is an emphasis on the urgency and importance of immediate a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

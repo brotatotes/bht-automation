@@ -9,7 +9,7 @@ In the early Christian community, believers were devoted to learning and underst
 2. "The κοινωνία τῶν ἀποστόλων must signify fellowship with the Apostles, or fellowship with that Society of which the Apostles were the chief."
 3. "The Holy Communion was at first, and for some time, till abuses put an end to the practice, inseparably connected with the ἀγάπαι, or love-feasts, of the Christians, and unknown as a separate ordinance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "continued steadfastly in the apostles' doctrine" - The believers were devoted to learning and understanding the teachings of the apostles, recognizing the importance of instruction for their growth as disciples.
 
 2. "fellowship in its largest sense" - The believers embraced a deep sense of community and shared life, not just limited to socializing, but also encompassing a mutual commitment to support and care for one another.
@@ -59,4 +59,4 @@ Overall, this commentary emphasizes the importance of steadfastness in faith, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

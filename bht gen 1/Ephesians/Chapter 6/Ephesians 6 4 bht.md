@@ -9,7 +9,7 @@ In this verse, parents are advised not to provoke their children to anger, but i
 2. "Bring them up in the discipline and admonition, 'παιδεία hic significare videtur institutionem per pœnas: νουθεσία autem est ea institutio quæ fit verbis.'"
 3. "νουθεσία is as Cicero, 'quasi lenior objurgatio:' 'the training by word by the word of encouragement, when no more is wanted; of remonstrance, reproof, or blame where these are required.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fathers are more prone to passion in relation to their children than mothers, whose fault is rather over-indulgence."
 2. "Provoke not - irritate not, by vexatious commands, unreasonable blame, and uncertain temper."
 3. "Nurture - discipline, namely, training by chastening in act where needed."
@@ -58,4 +58,4 @@ In this verse, parents are advised not to provoke their children to anger, but i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this unique verse found only in the Gospel of Mark, Jesus is depicted as atte
 
 3. "Eye-witness" - This term emphasizes the importance of direct observation and personal experience in shaping the content of the verse. It underscores the authenticity and reliability of the information conveyed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He looked round about to see her that had done this thing." This shows that Jesus was not just interested in the physical healing, but also in the person who had received it. He wanted to see her, to acknowledge her and to hear her testimony.
 2. "Not for the purpose of summoning forth a culprit." Jesus was not looking to blame or condemn anyone. His intention was not to shame or embarrass the woman, but rather to bring her into the spotlight and give her an opportunity to share her story.
 3. "To obtain from the healed one a testimony to what He had done for her." Jesus wanted the woman to testify about the healing she had received. He wanted her to publicly acknowledge and proclaim the miracle that had taken place in her life, giving glory to God.
@@ -42,4 +42,4 @@ These quotes highlight the divine knowledge and intention of Jesus in seeking ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

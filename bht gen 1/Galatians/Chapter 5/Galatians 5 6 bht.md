@@ -9,7 +9,7 @@ In this verse, the commentators highlight the significance of being "in Christ" 
 2. "ἐνεργουμένη, not passive, but middle, as always in N. T. See reff. and notes on those places: also Fritzsche’s note on Romans 7:5."
 3. "Love is the modus operandi of faith, that which justifies, however, is not love, but faith; nor can a passage be produced, where St. Paul says we are justified by ‘faith working by love,’ but it is ever by faith only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith which worketh by love." - This quote highlights the connection between faith and love, emphasizing that true faith is demonstrated through acts of love. It shows that love is not just an optional add-on to faith, but an essential part of its expression.
 
 2. "Let not legalists, upholding circumcision, think that the essence of the law is set at naught by the doctrine of justification by faith only. Nay, 'all the law is fulfilled in one word—love.'" - This quote challenges the legalistic mindset that places emphasis on external rituals and observances, reminding them that the true essence of the law is fulfilled through love. It emphasizes that love is the ultimate fulfillment of the law.
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the significance of being "in Christ" 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse described by these commentators reveals the profound truth that our spiritual life is found in Christ Himself. He is not just a part of our life, but our very life itself. The verse speaks of Christ's future coming, emphasizing the certainty and significance of His return. It promises that when Christ appears, we will also appear with Him in all His glory. It is a joyful hope that reminds us of the ultimate fulfillment and manifestation of our life in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spiritual life our souls have now in Him shall be extended to our bodies."
 2. "The true Church shall be visible as a perfect and reigning Church, when Christ shall be visibly manifested as her reigning Head."
 3. "Rome having ceased to look for Him in patient faith, has set up a visible mockhead, a false anticipation of the millennial kingdom."
@@ -50,4 +50,4 @@ The verse described by these commentators reveals the profound truth that our sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

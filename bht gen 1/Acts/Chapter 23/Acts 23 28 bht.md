@@ -4,7 +4,7 @@
 In this verse, the accused, who remains unnamed, faces serious charges that are left unspecified, leaving room for speculation. The severity of the situation is evident through the physical beating endured by the accused, emphasizing the harshness of the punishment. The accused is then brought before the council, indicating the formality and authority of the proceedings surrounding the case.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Claudius—the Roman name he would take on purchasing his citizenship." This quote highlights the significance of Claudius' decision to change his name, indicating his desire to fully embrace his Roman identity and status as a citizen.
 
 2. "Lysias—his Greek family name." This quote emphasizes the diversity of Claudius' background, as he also had a Greek family name. It suggests that Claudius had connections and influences from both Roman and Greek cultures.
@@ -27,4 +27,4 @@ In this verse, the accused, who remains unnamed, faces serious charges that are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

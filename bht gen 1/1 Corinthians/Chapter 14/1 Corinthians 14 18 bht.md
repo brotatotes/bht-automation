@@ -4,7 +4,7 @@
 In this verse, the original text refers to speaking in a foreign language rather than unintelligible tongues. Speaking in tongues is seen as a sign of the Holy Spirit's presence and power, meant to edify both the individual and the church. Paul's claim of speaking in tongues more than anyone else highlights its importance but also emphasizes the value of clear communication and understanding in the church. Despite his superiority in the use of tongues, Paul does not despise or envy others, acknowledging that this gift comes from God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The oldest manuscripts have the singular, 'in a tongue [foreign].'" This suggests that the original text referred to speaking in a foreign language, rather than the modern interpretation of speaking in unintelligible tongues.
 2. "Speaking in tongues was a sign of the Holy Spirit's presence and power." This highlights the significance of speaking in tongues as a manifestation of the Holy Spirit's work in the believer's life.
 3. "The purpose of speaking in tongues was to edify the individual and the church." This emphasizes that speaking in tongues was meant to build up and encourage both the individual and the community of believers.
@@ -40,4 +40,4 @@ In this verse, the original text refers to speaking in a foreign language rather
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

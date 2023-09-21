@@ -9,7 +9,7 @@ The verse being described speaks of the first covenant and its liturgical ordina
 2. "The first covenant had not merely a worldly sanctuary, but the only sanctuary which was upon earth: that one which was constructed after the pattern of things in the heavens."
 3. "The use and position of the copula τε seems to forbid any such disjoining of substantive and epithet: being, however loosely used in later Greek, a closer copula than καί."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Accordingly then." Resuming the subject from :-. In accordance with the command given to Moses, "the first covenant had," c.
 2. Material, outward, perishing (however precious its materials were), and also defective religiously.
 3. The outer tabernacle the Jews believed, signified this world the Holy of Holies, heaven.
@@ -57,4 +57,4 @@ The verse being described speaks of the first covenant and its liturgical ordina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

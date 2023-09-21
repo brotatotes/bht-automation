@@ -9,7 +9,7 @@ With a call for continuous growth, this verse urges believers to cultivate and s
 2. "εἰς τό direction, or aim, of the prayers." 
 3. "These ὑστερήματα were consequences of their being as yet novices in the faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Night is the season for the saint's holiest meditations and prayers." 
 2. "We joy while we pray; or else as ALFORD, what thanks can we render to God while we pray?"
 3. "Even the Thessalonians had points in which they needed improvement."
@@ -57,4 +57,4 @@ With a call for continuous growth, this verse urges believers to cultivate and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

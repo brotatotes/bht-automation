@@ -9,7 +9,7 @@ This verse reminds us of the importance of boldly proclaiming the Gospel and sha
 2. "The word 'wherefore' suggests that there is a cause-and-effect relationship between the preceding context and the statement that follows." 
 3. "The use of 'wherefore' implies that the following statement is a direct consequence or inference drawn from the preceding information."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord had been speaking out more plainly than ever before, as matters were coming to a head between Him and His enemies, and this seems to have suggested to His own mind the warning here." 
 2. "He had just Himself illustriously exemplified His own precepts." 
 3. "covered—from the view."
@@ -46,4 +46,4 @@ This verse reminds us of the importance of boldly proclaiming the Gospel and sha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

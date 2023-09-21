@@ -4,7 +4,7 @@
 In this Bible verse, we see the significance of companionship and forgiveness in the ministry of Paul. While he is currently accompanied by Luke, he also expresses his desire for Mark, who had previously faltered but had proven his worth. It exemplifies the transformative power of growth and second chances, and the unwavering faith in God's sufficiency even when human support is limited.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark had been under a cloud for having forsaken Paul at a critical moment in his missionary tour with Barnabas." 
 2. "Hence Paul, appropriately here, wipes out the past censure by high praise of Mark and guards against Timothy's making self-complacent comparisons between himself and Mark, as though he were superior to the latter." 
 3. "Mark returns to the right way, and is no longer unprofitable, but is profitable for the Gospel ministry."
@@ -49,4 +49,4 @@ These quotes highlight the presence and importance of Luke and Mark in Paul's li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

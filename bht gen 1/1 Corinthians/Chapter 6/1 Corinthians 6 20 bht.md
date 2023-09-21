@@ -9,7 +9,7 @@ The verse being described is a call to believers to recognize that they are not 
 2. "For ye were bought with a price, the blood of Christ."
 3. "Glorify God in your body, as the temple of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ's blood is strictly a ransom paid to God's justice by the love of God in Christ for our redemption." 
 2. "While He thus took off our obligation to punishment, He laid upon us a new obligation to obedience."
 3. "If we accept Him as our Prophet to reveal God to us, and our Priest to atone for us, we must also accept Him as our King to rule over us as wholly His."
@@ -59,4 +59,4 @@ The verse being described is a call to believers to recognize that they are not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

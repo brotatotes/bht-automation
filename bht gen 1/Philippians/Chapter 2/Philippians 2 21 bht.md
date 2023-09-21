@@ -9,7 +9,7 @@ In this verse, the companions of the apostle Paul are described as putting their
 2. "Seek their own matters, not those of Jesus Christ" - These companions are focused on their own interests rather than the interests of Jesus Christ. (Quote 2)
 3. "No weakening of the assertion must be thought of" - There should be no doubt or weakening of the statement being made about the companions' priorities. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They all" (namely, who are now with me) - This emphasizes the unity and inclusiveness of those who are with Paul, highlighting their presence and involvement in his ministry (Philippians 1:14).
 
 2. "Seek their own" - This phrase contrasts with Paul's teachings on selflessness and putting others before oneself. It reveals a tendency among some individuals to prioritize their own interests rather than the cause of Christ (Philippians 2:4).
@@ -61,4 +61,4 @@ These quotes highlight the self-centered motives of the majority of individuals,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

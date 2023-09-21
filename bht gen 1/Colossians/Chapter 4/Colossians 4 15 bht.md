@@ -9,7 +9,7 @@ In this Bible verse, we see the importance of acknowledging and greeting fellow 
 2. "The var. readings, αὐτοῦ, αὐτῆς, appear to have arisen from the construction not being understood, and the alteration thus having been made to the singular, but in various genders."
 3. "αὐτῶν refers to τῶν περὶ Νυμφᾶν: cf. Xen. Mem. i. 2. 62, ἐάν τις φανερὸς γένηται κλέπτων τούτοις θάνατός ἐστιν ἡ ζημία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of Nymphas hosting the church in his house highlights the early practice of meeting in homes for worship. This intimate setting allowed for close fellowship and interaction among believers."
 2. "The fact that Nymphas is mentioned by name suggests that he held a significant role in the local church. This highlights the importance of individual believers in the body of Christ and their contribution to the growth and functioning of the church."
 3. "The inclusion of Nymphas as the host of the church in his house challenges traditional gender roles and shows that women also played active roles in the early church. This serves as a reminder that God values and uses both men and women in His kingdom work."
@@ -61,4 +61,4 @@ Overall, this commentary emphasizes the significance of community, accurate inte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

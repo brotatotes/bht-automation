@@ -9,7 +9,7 @@ This Bible verse describes Jesus walking by the Sea of Galilee, purposefully loo
 2. "We have there furnished to us the reason why these two brethren were so ready to arise and follow One, whom, if we had this account only, we should infer they had never before seen."
 3. "The disciples would naturally have gone up to Jerusalem at the Passover without a call from the Lord, and by what they saw there would become more firmly attached to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'Jesus' here appears not to belong to the text, but to have been introduced from those portions of it which were transcribed to be used as church lessons; where it was naturally introduced as a connecting word at the commencement of a lesson."
 2. "Simon called Peter" - this name was given to him for a specific reason mentioned in Matthew 16:18.
 3. "They were fishers" - this detail helps us understand the occupation of Simon and Andrew, which adds context to the story.
@@ -59,4 +59,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse describes the importance of bearing much fruit as a disciple of 
 2. "ἐδοξάσθη again is proleptic, representing that in the spiritual dispensation the fact is habitually so."
 3. "καὶ γένησθε] and that ye may become My (true) disciples, ἀπαρτισθήσεσθε, Euthym (reading the future, see below.)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorified that ye bear much fruit" - This phrase highlights the joy and satisfaction that God experiences when believers produce abundant spiritual fruit. It emphasizes the divine delight in the growth and productivity of His followers.
 
 2. "Not only from His delight in it for its own sake" - This quote suggests that God's pleasure in the fruit-bearing of His disciples goes beyond mere enjoyment. It implies that the production of spiritual fruit has a greater purpose and significance in God's plan.
@@ -55,4 +55,4 @@ The Bible verse describes the importance of bearing much fruit as a disciple of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

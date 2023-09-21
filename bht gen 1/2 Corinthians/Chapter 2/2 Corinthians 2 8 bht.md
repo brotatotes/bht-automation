@@ -9,7 +9,7 @@ In this verse, we are reminded of the powerful impact of love and forgiveness. I
 2. "His exclusion was not by such a decree, but only by the abstinence of individuals from his society."
 3. "The ratifying their love to him would consist in the majority making it evident to him that he was again recognized as a brother."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confirm your love toward him" - This phrase emphasizes the importance of demonstrating love through actions and deeds, rather than just words. It calls for actively showing love and support to someone in need.
 
 2. "Giving effect in act" - This highlights the need for tangible actions that reflect love and care. It suggests that love is not just a feeling, but something that should be put into practice through concrete actions.
@@ -47,4 +47,4 @@ In this verse, we are reminded of the powerful impact of love and forgiveness. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under consideration has caused much debate among commentators. Some ha
 2. "It is highly necessary to institute this enquiry as to the reality of their exorcisms: for it would leave an unworthy impression on the reader, and one very open to the cavils of unbelief, were we to sanction the idea that our Lord would have solemnly compared with his own miracles, and drawn inferences from, a system of imposture."
 3. "The interpretation of this verse has been much disputed; viz. as to whether the casting out by the scholars, disciples; were real or pretended exorcisms."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By whom do your children—"your sons," meaning here the "disciples" or pupils of the Pharisees, who were so termed after the familiar language of the Old Testament in speaking of the sons of the prophets." 
 2. "Our Lord here seems to admit that such works were wrought by them in which case the Pharisees stood self-condemned."
 3. "Therefore shall they be your judges."
@@ -38,4 +38,4 @@ The verse under consideration has caused much debate among commentators. Some ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

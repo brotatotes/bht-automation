@@ -9,7 +9,7 @@ The Bible verse being described speaks of the comprehensive knowledge and all-se
 2. "All things are naked and prostrate before His eyes."
 3. "With Him, we have to do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's wisdom, simply manifold, and uniformly multiform, with incomprehensible comprehension, comprehends all things incomprehensible."
 2. "Show, O man, shame and fear towards thy God, for no veil, no twisting, bending, coloring, or disguise, can cover unbelief."
 3. "Let us, therefore, earnestly labor to enter the rest lest any fall through practical unbelief."
@@ -55,4 +55,4 @@ The Bible verse being described speaks of the comprehensive knowledge and all-se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

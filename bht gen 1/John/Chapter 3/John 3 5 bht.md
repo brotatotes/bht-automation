@@ -9,7 +9,7 @@ In this Bible verse, commentators highlight the significance of both water and t
 2. "All the better and deeper expositors have recognized the co-existence of the two, water and the Spirit."
 3. "Baptism, complete, with water and the Spirit, is the admission into the kingdom of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To a Jewish ecclesiastic, so familiar with the symbolical application of water, in every variety of way and form of expression, this language was fitted to show that the thing intended was no other than a thorough spiritual purification by the operation of the Holy Ghost."
 2. "Indeed, element of water and operation of the Spirit are brought together in a glorious evangelical prediction of Ezekiel."
 3. "Already had the symbol of water been embodied in an initiatory ordinance, in the baptism of the Jewish expectants of Messiah by the Baptist, not to speak of the baptism of Gentile proselytes before that; and in the Christian Church it was soon to become the great visible door of entrance into 'the kingdom of God,' the reality being the sole work of the Holy Ghost."
@@ -57,4 +57,4 @@ In this Bible verse, commentators highlight the significance of both water and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

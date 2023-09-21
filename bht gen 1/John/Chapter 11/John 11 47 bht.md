@@ -9,7 +9,7 @@ In the face of undeniable miracles performed by Jesus, the chief priests and Pha
 2. "What do we, seeing that, because, this man doeth many miracles?"
 3. "The question is not whether they should do something, but what they should do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What do we? for this man doeth many miracles" - This quote highlights the recognition of Jesus' opponents that He performed numerous miracles. It attests to the undeniable reality of His supernatural works.
 
 2. "While we trifle, 'this man,' by His 'many miracles,' will carry all before Him" - This quote emphasizes the urgency felt by Jesus' enemies, as they realize that His miracles have the power to sway the masses and potentially lead to a revolution.
@@ -63,4 +63,4 @@ Note: The commentary does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

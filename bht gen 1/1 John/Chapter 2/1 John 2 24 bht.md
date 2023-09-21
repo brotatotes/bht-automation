@@ -5,7 +5,7 @@ Description:
 Embrace the truth about the Father and the Son, allowing it to take root in your heart and mind. This deep, unwavering belief can lead to a profound communion with both the Son and the Father, bringing joy and fulfillment. By steadfastly abiding in this truth, you can experience an enduring connection with them, transforming and shaping your life. Let the word of God abide in you, guiding and strengthening your faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let that—truth respecting the Father and the Son, regarded as a seed not merely dropped in, but having taken root." 
 2. "YE, therefore, acknowledge the Son, and so shall ye have the Father also." 
 3. "Having taken into us the living seed of the truth concerning the Father and the Son, we become transformed into the likeness of Him whose seed we have taken into us."
@@ -48,4 +48,4 @@ Embrace the truth about the Father and the Son, allowing it to take root in your
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

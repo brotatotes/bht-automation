@@ -4,7 +4,7 @@
 In this verse, we see the apostle Paul, who is currently a prisoner, receiving a kind act from his nephew. The nephew, without prying or questioning, quickly takes action to bring important information regarding a conspiracy to the attention of the centurion. The centurion, displaying both honor and modesty, willingly assists his nephew in delivering the message to the chief captain without attempting to extract any further information. This sequence of events showcases the compassion and cooperation exhibited among those involved, even in the midst of challenging circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's sister's son—(See on Acts 9:30)." 
 2. "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted."
 3. "He may have got at the schools those hints of the conspiracy on which he so promptly acted."
@@ -40,4 +40,4 @@ In this verse, we see the apostle Paul, who is currently a prisoner, receiving a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

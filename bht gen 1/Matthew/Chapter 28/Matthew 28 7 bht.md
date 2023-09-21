@@ -9,7 +9,7 @@ In this verse, the disciples are instructed to quickly spread the news of Jesus'
 2. "The προάγει here is not to be understood as implying the journeying on the part of our Lord himself. It is cited from His own words, ch. Matthew 26:32, and there, as here, merely implies that He would be there when they arrived."
 3. "ἐκεῖ αὐτὸν ὄψεσθε is determined, by κἀκεῖ με ὄψονται below, to be part of the message to the disciples: not spoken to the women directly, but certainly indirectly including them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And go quickly, and tell his disciples... that he is risen from the dead." - This quote emphasizes the urgency and importance of spreading the news of Jesus' resurrection to his disciples.
 
 2. "He goeth before you into Galilee... there shall ye see him." - This quote highlights the specific location where the disciples will have the opportunity to see Jesus after his resurrection, emphasizing the significance of Galilee in Jesus' ministry.
@@ -59,4 +59,4 @@ In this verse, the disciples are instructed to quickly spread the news of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

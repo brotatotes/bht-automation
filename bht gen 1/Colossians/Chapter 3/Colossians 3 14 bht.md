@@ -11,7 +11,7 @@ In this Bible verse, commentators speak of a love that goes beyond ordinary affe
 
 3. "Let Christ’s peace rule in your hearts, to which ye were also called in one body." - The peace of Christ should be the ultimate authority in our hearts, as we are called to live in unity as members of one body.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Charity, which is the crowning grace, covering the multitude of others' sins, must overlie all the other graces enumerated."
 2. "Seeming graces, where love is wanting, are mere hypocrisy."
 3. "Love and its works 'perfect,' that is, manifest the full maturity of faith developed."
@@ -59,4 +59,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

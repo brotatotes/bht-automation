@@ -9,7 +9,7 @@ The purpose of this writing is to strengthen the readers' existing knowledge of 
 2. "For their knowing the truth and their knowing that no lie is of the truth, the one a cognition of God and His Son, the other a mere apprehension of a truism, are no logical correlatives, nor can be concurrent reasons for the Apostle’s writing."
 3. "That he may set plainly before them what the lie is, that they may at once discern their entire alienation from it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye not only know what is the truth, but also are able to detect a lie as a thing opposed to the truth."
 2. "For right (a straight line) is the index of itself and of what is crooked."
 3. "Because ye know it, and because no lie is of the truth."
@@ -52,4 +52,4 @@ The purpose of this writing is to strengthen the readers' existing knowledge of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

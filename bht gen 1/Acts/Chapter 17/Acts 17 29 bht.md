@@ -4,7 +4,7 @@
 The verse being described emphasizes the absurdity of reducing the divine to physical representations made by human hands. Commentators highlight the contrast between the true nature of God and man-made idols, emphasizing that as children of God, we should not equate the divine with material objects. The commentary criticizes those who engage in idolatry and false worship, emphasizing that the true essence of God cannot be captured or represented by any physical or artistic creation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Forasmuch then as we are the offspring of God, we ought not to think... that the Godhead is like unto gold, or silver, or stone, graven by art and man's device." - The commentary highlights the importance of recognizing that as children of God, we should not reduce the divine to mere physical representations crafted by human hands.
 
 2. "One can hardly doubt that the apostle would here point to those matchless monuments of the plastic art, in gold and silver and costliest stone, which lay so profusely beneath and around him." - The commentary suggests that the apostle Paul likely referred to the prevalent statues and idols of gods in his surroundings, emphasizing the contrast between these man-made representations and the true nature of God.
@@ -56,4 +56,4 @@ Overall, the commentary emphasizes the transcendence of God and the futility of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

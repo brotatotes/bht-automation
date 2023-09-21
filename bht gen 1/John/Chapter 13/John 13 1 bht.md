@@ -9,7 +9,7 @@ In this verse, Jesus displays his unwavering love and self-humbling nature towar
 2. "To this act He was induced by the knowledge that He must soon leave this world."
 3. "Although this knowledge was united with the highest consciousness of His divine mission and speedy glorification, yet this latter did not prevent Him from giving this proof of His self-humiliating love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On these beautiful euphemisms" - The commentary refers to the use of euphemisms in the verse, indicating that there are deeper meanings behind the words used by Jesus. 
 
 2. "He was so far from forgetting 'His own'" - This quote highlights Jesus' unwavering love and care for his disciples, even in the face of his own impending suffering. 
@@ -52,4 +52,4 @@ Note: The provided commentary was quite lengthy, so I had to condense it signifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

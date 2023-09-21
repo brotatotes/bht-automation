@@ -9,7 +9,7 @@ In this Bible verse, the account describes the miraculous resurrection of a youn
 2. "The ἦν γὰρ ἐτῶν δώδεκα is added, as Bengel, to show that she 'rediit ad statum ætati congruentem.'"
 3. "Mar 5:43 betokens an eye-witness, who relates what passed within."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here is different from that in [previous verse], and signifies 'young maiden,' or 'little girl.'" 
 2. "A vivid touch evidently from an eye-witness." 
 3. "The language here is the strongest."
@@ -38,4 +38,4 @@ In this Bible verse, the account describes the miraculous resurrection of a youn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

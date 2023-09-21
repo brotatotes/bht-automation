@@ -9,7 +9,7 @@ During the preparation of the Passover, a day before the Sabbath during the Pass
 2. "There is an insuperable difficulty as the text now stands. For Mark relates, ch. John 15:25, that the crucifixion took place at the third hour: and that it certainly was so, the whole arrangement of the day testifies."
 3. "The words ἴδε ὁ βασ. ὑμ. seem to have been spoken in irony to the Jews in the same spirit in which afterwards the title was written over the cross."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The true reading here is probably, 'the third hour'—or nine A.M.—which agrees best with the whole series of events, as well as with the other Evangelists."
 2. "He saith to the Jews, 'Behold your King!' Having now made up his mind to yield to them, he takes a sort of quiet revenge on them by this irony, which he knew would sting them."
 3. "This only reawakens their cry to despatch Him."
@@ -59,4 +59,4 @@ Note: The commentary provided is not a comprehensive analysis of the verse, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

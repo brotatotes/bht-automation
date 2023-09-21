@@ -4,7 +4,7 @@
 In this Bible verse, it is described how a divided and contradictory spirit acts against its own interests and the establishment of its kingdom. The verse implies the absurdity and incredibility of a person being divided against themselves, especially considering the wicked nature and strategic abilities of Satan. It emphasizes that an organized society cannot stand when turned against itself and suggests that the acts of the divided spirit are self-destructive and undermine the establishment of their kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No organized society can stand—whether kingdom, city, or household—when turned against itself; such intestine war is suicidal."
 2. "The works I do are destructive of Satan's kingdom."
 3. "That I should be in league with Satan, therefore, is incredible and absurd."
@@ -35,4 +35,4 @@ In this Bible verse, it is described how a divided and contradictory spirit acts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

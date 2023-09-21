@@ -9,7 +9,7 @@ Sin, portrayed as a powerful ruler, pays its subjects their justly deserved wage
 2. "Eternal life is...the free gift of God to His soldiers and servants."
 3. "In Christ Jesus our Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the laborer is worthy of his hire, and feels it to be his due—his own of right—so is death the due of sin, the wages the sinner has well wrought for, his own."
 2. "'Eternal life' is in no sense or degree the wages of our righteousness; we do nothing whatever to earn or become entitled to it, and never can: it is therefore, in the most absolute sense, 'THE GIFT OF GOD.'"
 3. "The fundamental principle of Gospel obedience is as original as it is divinely rational; that 'we are set free from the law in order to keep it, and are brought graciously under servitude to the law in order to be free.'"
@@ -57,4 +57,4 @@ Note: The commentary contains additional quotes that are relevant to the verse, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

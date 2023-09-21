@@ -4,7 +4,7 @@
 In this verse, it is emphasized that God desires the salvation of all people, not just a select few. He extends His offer of eternal salvation to every individual, without any compulsion or force. The salvation that He wills is not just a possibility, but a certain and actual salvation that He has determined for all. This salvation is intimately connected to the knowledge of the truth, which leads to a genuine and transformative faith in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Imitate God." - This quote emphasizes the call to imitate God's desire for the salvation of all people. It encourages believers to pray for the salvation of others, recognizing that prayer is a powerful tool in bringing about God's will.
 
 2. "He wishes to save all... implies the possibility of man's accepting it or rejecting it." - This quote highlights the concept of free will and the responsibility of individuals to accept or reject God's offer of salvation. It acknowledges that God's grace is extended to all, but it is up to each person to respond.
@@ -54,4 +54,4 @@ These quotes provide insights into the verse and encourage believers to actively
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

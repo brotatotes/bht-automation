@@ -9,7 +9,7 @@ In whatever we do, we are called to give it our all, approaching our tasks with 
 2. "The Holy Spirit lights this fire within: see Luke 12:49; Matthew 3:11."
 3. "The present subject is, the character of our zeal for God. In it we are not to be ὀκνηροί, but fervent in spirit, and that, as servants of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not slothful in business—The word rendered 'business' means 'zeal,' 'diligence,' 'purpose'; denoting the energy of action." 
 
 2. "serving the Lord—that is, the Lord Jesus." 
@@ -59,4 +59,4 @@ In whatever we do, we are called to give it our all, approaching our tasks with 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

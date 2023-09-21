@@ -10,7 +10,7 @@ In this profound Bible verse, we witness the depth of human experience. We find 
 3. "Persecuted, but not deserted."
 4. "Struck down, but not destroyed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being hard pressed, yet not inextricably straitened; reduced to inextricable straits."
 2. "Without were fightings; within were fears."
 3. "Perplexed, but not in despair."
@@ -49,4 +49,4 @@ In this profound Bible verse, we witness the depth of human experience. We find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

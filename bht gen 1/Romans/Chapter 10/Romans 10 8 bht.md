@@ -11,7 +11,7 @@ The word of faith, which encompasses both the Gospel and the doctrines of justif
 
 3. "The word of faith...which forms the substratum and object of faith": This quote suggests that the word of faith serves as the foundation and focus of one's faith. It implies that the word of faith provides the basis for belief and trust in God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word is nigh thee—easily accessible."
 2. "in thy mouth—when thou confessest Him."
 3. "and in thine heart—when thou believest on Him."
@@ -57,4 +57,4 @@ The word of faith, which encompasses both the Gospel and the doctrines of justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

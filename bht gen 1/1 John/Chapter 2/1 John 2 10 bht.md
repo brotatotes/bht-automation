@@ -9,7 +9,7 @@ The verse being described in the commentaries is about the concept of abiding in
 2. "There is no occasion of stumbling in him."
 3. "The light, and the darkness, by which we walk safely, or stumble, are within ourselves; admitted into us by the eye, whose singleness fills the whole body with light."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abiding in love is abiding in the light; for the Gospel light not only illumines the understanding, but warms the heart into love."
 2. "In him who loves there is neither blindness nor occasion of stumbling [to himself]: in him who does not love, there is both blindness and occasion of stumbling."
 3. "He who hates his brother, is both a stumbling-block to himself, and stumbles against himself and everything within and without; he who loves has an unimpeded path."
@@ -48,4 +48,4 @@ The verse being described in the commentaries is about the concept of abiding in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a great star falls from heaven like a powerful torch, casti
 2. "And the name of the star is called Wormwood, and the third part of the waters became wormwood: and many of the men died from the waters, because they were embittered."
 3. "And the fourth angel blew his trumpet: and the third part of the sun was struck and the third part of the moon and the third part of the stars, that the third part of them might be darkened, and the day might not shine during the third part of it, and the night in like manner."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The image of a lamp or torch is often used in the Bible to represent God's guidance and illumination. Just as a lamp provides light in the darkness, God's Word and wisdom can lead us out of spiritual darkness and into the path of righteousness."
 
 2. "In this verse, the lamp can also symbolize the presence of God. Just as a lamp brings light and warmth, God's presence brings comfort and guidance in our lives. When we seek Him and His Word, we can find the light we need to navigate through the challenges and uncertainties of life."
@@ -49,4 +49,4 @@ In this Bible verse, a great star falls from heaven like a powerful torch, casti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

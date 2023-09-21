@@ -9,7 +9,7 @@ In this verse, commentators emphasize the importance of simplicity, truthfulness
 2. "The evil of man's corrupt nature is in Scripture spoken of as the work of ὁ πονηρός, and is itself τὸ πονηρόν." 
 3. "The gender is ambiguous, as it may constructionally be in the Lord's prayer, but see note there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let your communication... be, Yea, yea; Nay, nay—Let a simple Yes and No suffice in affirming the truth or the untruth of anything."
 2. "The untruthfulness of our corrupt nature shows itself not only in the tendency to deviate from the strict truth, but in the disposition to suspect others of doing the same."
 3. "The practice of going beyond Yes and No in affirmations and denials... springs from that vicious root of untruthfulness which is only aggravated by the very effort to clear ourselves of the suspicion of it."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of simplicity, truthfulness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

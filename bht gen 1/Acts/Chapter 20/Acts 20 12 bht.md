@@ -9,7 +9,7 @@ In this Bible verse, we see a vivid illustration of Jesus' ability to restore li
 2. "Rest and treatment were necessary, in order that the restored life might be confirmed, and the shock recovered."
 3. "We have here a minute but interesting touch of truth in the narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul . . . fell on him—like Elisha (2 Kings 4:34)." This quote highlights the parallel between Paul's action and the action of the prophet Elisha in the Old Testament. It suggests that Paul's actions were inspired by a similar faith and power.
 2. "His life is in him—now restored; compare Mark 5:39." This quote draws a comparison between the restoration of the young man's life in Acts and the resurrection of Jairus' daughter in the Gospel of Mark. It implies that both instances demonstrate the power of Jesus to bring life back to the dead.
 3. "His life is in him—now restored." This quote emphasizes the miraculous nature of the young man's restoration to life. It suggests that his life was completely renewed and revitalized, indicating the divine intervention and power at work in the situation.
@@ -45,4 +45,4 @@ In this Bible verse, we see a vivid illustration of Jesus' ability to restore li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

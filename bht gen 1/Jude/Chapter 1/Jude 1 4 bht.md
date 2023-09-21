@@ -9,7 +9,7 @@ In this verse, we find a warning about certain individuals who have infiltrated 
 2. "The previous writing down of these men can only point to the O. T. prophecies."
 3. "They made the state of grace and Christian liberty into a state of (moral) licence and wantonness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Scripture is the reflection of God’s book of life in which believers are 'written among the living.'"
 2. "God’s eternal character as the Punisher of sin, as set forth in Scripture 'of old,' is the ground on which such apostate characters are ordained to condemnation."
 3. "The disposition and the doom of both correspond."
@@ -63,4 +63,4 @@ Note: The provided commentary is quite lengthy and difficult to understand, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

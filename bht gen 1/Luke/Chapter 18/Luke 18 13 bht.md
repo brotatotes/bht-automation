@@ -9,7 +9,7 @@ In this Bible verse, there is a stark contrast between the Pharisee and the Publ
 2. "Another contrast, for we must here suppose that the Pharisee prayed with all significance of gesture, with eyes and hands uplifted." 
 3. "The τῷ rather implies, not comparison with others, but intense self-abasement: 'sinner that I am.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "standing afar off—as unworthy to draw near; but that was the way to get near"
 2. "would not lift up—blushing and ashamed to do so"
 3. "smote, c.—kept smiting for anguish and self-reproach"
@@ -55,4 +55,4 @@ In this Bible verse, there is a stark contrast between the Pharisee and the Publ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

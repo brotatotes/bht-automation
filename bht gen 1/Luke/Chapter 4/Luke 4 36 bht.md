@@ -4,7 +4,7 @@
 In this Bible verse, the divine authority and power behind the word is emphasized, as the people are astonished at the doctrine and miracles performed by Jesus. The transformative nature of Jesus' ministry is showcased through the healing and deliverance witnessed. The astonishment experienced by the people reveals their recognition of Jesus as having something more than human power and authority. The verse invites readers to explore the deeper meaning and significance of Jesus' teachings and works.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a word—a word from the Lord of spirits." This quote emphasizes the divine authority and power behind the word being spoken. It highlights the significance and impact of the message being conveyed.
 
 2. "Peter's mother-in-law and many others, healed." This quote highlights the miraculous healing that took place, showcasing the compassion and healing power of Jesus. It emphasizes the transformative nature of his ministry and the tangible evidence of his divine authority.
@@ -35,4 +35,4 @@ In this Bible verse, the divine authority and power behind the word is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This Bible verse depicts a scene where the people were captivated by the words s
 2. "While acknowledging the truth of what He said, and the power with which He said it, they wondered, and were jealous of Him."
 3. "Between this verse and the next, the ἐσκανδαλίζοντο ἐν αὐτῷ is implied, for that is in a tone of reproof."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gracious words - 'the words of grace,' referring both to the richness of His matter and the sweetness of His manner." 
 2. "They knew He had received no rabbinical education, and anything supernatural they seemed incapable of conceiving." 
 3. "They knew He had received no rabbinical education, and anything supernatural they seemed incapable of conceiving."
@@ -57,4 +57,4 @@ This Bible verse depicts a scene where the people were captivated by the words s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

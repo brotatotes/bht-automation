@@ -11,7 +11,7 @@ This verse encourages believers to go beyond mere words and expressions of love,
 
 3. "Similar contrasts are adduced by the Commentators from the classics... As connected with the exhortation in this verse." - The commentary draws parallels from classical literature to support the idea that true love is not just about words, but also about actions. This further reinforces the importance of practicing love in a tangible and sincere manner.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My little children, love one another." - This commandment, received from Christ Himself, encompasses all others and is the distinguishing mark of the new covenant.
 2. "Because it is the commandment of the Lord, and if this one thing be attained, it is enough." - John's repetition of the commandment emphasizes its importance and sufficiency in guiding the actions of believers.
 3. "In deed and truth." - Love should not be merely expressed in words or with the tongue, but should be demonstrated through actions and genuine sincerity.
@@ -49,4 +49,4 @@ This verse encourages believers to go beyond mere words and expressions of love,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

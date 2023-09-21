@@ -9,7 +9,7 @@ Sent away from Berea towards the sea, Paul, accompanied by Silas and Timothy, de
 2. The use of ὡς before participles and prepositions does not always have a subjective reference, as it can also indicate a thought or direction without a specific reference to what one has in mind.
 3. The expression "ὡς ἐπὶ θάλασσαν" is found in other ancient texts, such as Pausanias and Diodorus Siculus, with the same meaning of going towards the sea.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How long he stayed at Berea we know not; but as we know that he longed and expected soon to return to the Thessalonians, it is probable he remained some weeks at least."
 2. "Probably he delayed fixing his next destination till he should reach the coast, and the providence of God should guide him to a vessel bound for the destined spot."
 3. "Silas and Timotheus abode there still—to build it up in its holy faith, to be a comfort and support in its trials and persecutions, and to give it such organization as might be necessary."
@@ -38,4 +38,4 @@ Sent away from Berea towards the sea, Paul, accompanied by Silas and Timothy, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described is a passage that emphasizes the practical care and concern shown by a speaker for the well-being of individuals on a ship. It highlights the importance of physical nourishment, provides assurance of divine protection and safety, and praises the harmonious combination of trust in God's promises and practical concern for the welfare of all on board. This passage underscores the significance of both spiritual and physical well-being, conveying the idea that following God's guidance leads to preservation, protection, and enhanced abilities to navigate life's challenges.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I pray you to take some meat, for this is for your health" - The commentator highlights the importance of physical nourishment for the well-being of the individuals on the ship. This quote emphasizes the practical care and concern shown by the speaker.
 2. "There shall not a hair fall from any of you" - This quote emphasizes the speaker's assurance of divine protection and safety for everyone on the ship. It highlights the faith and trust in God's providence.
 3. "Beautiful union of confidence in the divine pledge and care for the whole ship's health and safety" - The commentator praises the harmonious combination of trust in God's promises and the practical concern for the welfare of all on board. This quote underscores the significance of both spiritual and physical well-being.
@@ -42,4 +42,4 @@ The Bible verse being described is a passage that emphasizes the practical care 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

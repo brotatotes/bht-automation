@@ -4,7 +4,7 @@
 In this verse, it is revealed that white robes are given to every individual, symbolizing their purity, triumph, and favor in the eyes of God. These robes represent their innocence, joy, and victory. Furthermore, they are granted rest and peace from their toils and sufferings, enjoying eternal rest. While the duration of this period of rest is not explicitly stated, it is made clear that it is not to be equated with a short season, but rather has a specific meaning within the context of the book.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A white robe was given." - This quote highlights the symbolism of the white robe, representing light, joy, and triumphant victory over their foes. It signifies purity and sanctity through Christ, likening the blessed ones to spotless priests who minister unto God and the Lamb.
 
 2. "Even if it be omitted, is it to be inferred that the 'season' is short as compared with eternity?" - This quote challenges the assumption that the "little season" mentioned in the verse is necessarily a short period of time. It suggests that the duration of this season may not be easily quantifiable in human terms.
@@ -40,4 +40,4 @@ In this verse, it is revealed that white robes are given to every individual, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness the questioning of Peter's boastful declaration by Jes
 2. "There was at the same time a startling inversion of the subsequent facts, in this boast."
 3. "The οὐ μὴ ἀλέκ . φων . necessarily implies, as it was night, ἐν τῇ νυκτὶ ταύτῃ [Matt., Mark], and binds the whole events of this chapter to ch. 18."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this repetition of Peter's words there is deep though affectionate irony."
 2. "Peter himself would feel for many a day after his recovery, as he retraced the painful particulars."
 3. "Verily . . . The cock, &c."
@@ -50,4 +50,4 @@ In this verse, we witness the questioning of Peter's boastful declaration by Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

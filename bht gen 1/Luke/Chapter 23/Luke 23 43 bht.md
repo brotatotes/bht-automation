@@ -9,7 +9,7 @@ This verse reveals the profound nature of salvation and the immediacy of the thi
 2. "μετʼ ἐμοῦ ἔσῃ can bear no other meaning than thou shalt be with Me, in the ordinary sense of the words, 'I shall be in Paradise, and thou with Me.'"
 3. "By the death of Christ only was Paradise first opened, in the true sense of the word. He Himself, when speaking of Lazarus, does not place him in Paradise, but in Abraham’s bosom in that place which the Jews called Paradise, but by an anticipation which our Lord did not sanction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was a 'song in the night.' It ministered cheer to His spirit in the midnight gloom that now enwrapt it." 
 2. "Thou shalt not be parted from Me even for a moment, but together we shall go, and with Me, ere this day expire, shalt thou be in Paradise." 
 3. "Learn (1) How 'One is taken and another left'; (2) How easily divine teaching can raise the rudest and worst above the best instructed and most devoted servants of Christ; (3) How presumption and despair on a death hour are equally discountenanced here, the one in the impenitent thief, the other in his penitent fellow."
@@ -57,4 +57,4 @@ This verse reveals the profound nature of salvation and the immediacy of the thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

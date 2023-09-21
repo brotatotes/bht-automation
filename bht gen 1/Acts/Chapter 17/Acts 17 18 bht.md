@@ -9,7 +9,7 @@ In this Bible verse, the Apostle Paul confronts the philosophical beliefs held b
 2. "By these tenets they would obviously be placed in antagonism to the doctrines of a Saviour of the world and the resurrection, and to placing the summum bonum of man in abundance of that grace which ἐν ἀσθενείᾳ τελεῖται." 
 3. "δαιμόνια is not plural for singular, as Kuin.: nor merely, though this is somewhat more probable, marks the category, as Meyer: nor can it refer (Chrys., Theophyl., Œcum., Hammond, Heinrichs) to Jesus and the ἀνάστασις, mistaken for a goddess: but alludes to the true God, the God of the Jews, and Jesus Christ His Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two enemies it has ever had to contend with are the two ruling principles of the Epicureans and Stoics—Pleasure and Pride."
 2. "What will this babbler say?—The word, which means 'a picker-up of seeds,' bird-like, is applied to a gatherer and retailer of scraps of knowledge, a prater; a general term of contempt for any pretended teacher."
 3. "Because he preached Jesus and the resurrection—Not as if they thought he made these to be two divinities: the strange gods were Jehovah and the Risen Saviour, ordained to judge the world."
@@ -55,4 +55,4 @@ These quotes highlight the beliefs and characteristics of the Epicureans, Stoics
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

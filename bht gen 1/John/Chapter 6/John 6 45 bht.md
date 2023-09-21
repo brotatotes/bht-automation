@@ -9,7 +9,7 @@ The Bible verse being described is a passage that speaks of the special teaching
 2. "The beginning is, the Father draws him: the progress, he hears and learns here is the consenting will 'Speak, Lord, for thy servant heareth:'"
 3. "The end, he cometh to Christ here is the will acting on the whole man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord thus falls back upon Scripture authority for this seemingly hard saying."
 2. "All taught of God - not by external revelation merely, but by internal illumination."
 3. "Every man therefore, who hath been thus efficaciously taught of Him, cometh unto me."
@@ -59,4 +59,4 @@ The Bible verse being described is a passage that speaks of the special teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

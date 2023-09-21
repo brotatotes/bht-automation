@@ -11,7 +11,7 @@ The verse under discussion describes Jesus as our High Priest, emphasizing his a
 
 3. "He, as the Levitical high priests in their service, is void of all contact and commerce with sinners, removed far away in his glorified state and body, into God’s holy place" - This clarifies the meaning of "separated from sinners," emphasizing that Jesus, as our High Priest, is completely removed from any association with sinners and resides in the presence of God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For to us (as sinners; emphatical) there was also becoming (besides the other excellencies of our High Priest) such an High Priest." 
 2. "Temptation, to which He was exposed, left no trace of evil in Him."
 3. "He is lifted above our sinful community, being 'made higher than the heavens,' at the same time that He makes believers as such (not as sinners), 'to sit together (with Him) in heavenly places'."
@@ -50,4 +50,4 @@ The verse under discussion describes Jesus as our High Priest, emphasizing his a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

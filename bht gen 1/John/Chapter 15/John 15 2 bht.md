@@ -9,7 +9,7 @@ In this verse, the commentator insights describe the relationship between the vi
 2. "The Vine is the visible Church here, of which Christ is the inclusive Head."
 3. "Every such unfruitful branch the Father pulls off and casts away: and every one that beareth fruit He prunes, by cleansing it of its worthless parts, and shortening its rank growth, that it may ripen and enlarge its fruit better."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As in a fruit tree, some branches may be fruitful, others quite barren, according as there is a vital connection between the branch and the stock, or no vital connection."
 2. "The disciples of Christ may be spiritually fruitful or the reverse, according as they are vitally and spiritually connected with Christ, or but externally and mechanically attached to Him."
 3. "The fruitful He 'purgeth' (cleanseth), stripping it, as the husbandman does, of what is rank, 'that it may bring forth more fruit'; a process often painful, but no less needful and beneficial than in the natural husbandry."
@@ -53,4 +53,4 @@ In this verse, the commentator insights describe the relationship between the vi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

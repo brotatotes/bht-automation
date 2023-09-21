@@ -9,7 +9,7 @@ Commentators provide various insights on the Bible verse, cautioning against pro
 2. "In ἵνα μὴ ἀθ., it is assumed that the result of such irritation will be to cause repeated punishment, and so eventual desperation, on the part of the child."
 3. "Wetst. quotes from Æneas Tacticus, ὀργῇ δὲ μηθένα μετιέναι τῶν τυχόντων ἀνθρώπων · ἀθυμότεροι γὰρ εἶεν ἄν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By perpetual fault-finding 'children' are 'discouraged' or 'disheartened.'" 
 2. "A broken-down spirit is fatal to youth." 
 3. "It is a different Greek verb, therefore translate here, 'irritate not.'"
@@ -52,4 +52,4 @@ Commentators provide various insights on the Bible verse, cautioning against pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

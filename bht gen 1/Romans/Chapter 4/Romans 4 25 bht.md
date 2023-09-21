@@ -9,7 +9,7 @@ In the passage described, Jesus is depicted as willingly surrendering himself to
 2. "The great complex event by which our justification (death unto sin and new birth unto righteousness) has been made possible, may be stated in one word as the GLORIFICATION of Christ."
 3. "But he does not view them respectively as the causes, exclusively of one another, of forgiveness and justification: e.g. (1) ch. Romans 5:9, we are said to be justified by His blood, and 2Co 5:21 God made Him sin for us, that we might become the righteousness of God in Him: and (2) 1 Corinthians 15:17, if Christ is not raised, we are yet in our sins."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As His resurrection was the divine assurance that He had 'put away sin by the sacrifice of Himself,' and the crowning of His whole work, our justification is fitly connected with that glorious act."
 2. "Faith and works, in the matter of justification, are opposite and irreconcilable, even as grace and debt."
 3. "Nothing gives more glory to God than simple faith in His word, especially when all things seem to render the fulfillment of it hopeless."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

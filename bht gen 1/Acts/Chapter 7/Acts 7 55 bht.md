@@ -9,7 +9,7 @@ In the midst of his trial and impending death, Stephen was granted a supernatura
 2. "A reason why the glorified Saviour was seen standing, and not sitting, has been pleasingly given by Chrysostom: 'ἵνα δείξῃ τὴν ἀντίληψιν τὴν εἰς τὸν μάρτυρα' (to show the attention towards the martyr)."
 3. "Stephen, under accusation of blaspheming the earthly temple, is granted a sight of the heavenly temple; being cited before the Sadducee High Priest who believed neither angel nor spirit, he is vouchsafed a vision of the heavenly HIGH PRIEST, standing and ministering at the throne amidst the angels and just men made perfect."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "You who can transfer to canvas such scenes as these, in which the rage of hell grins horribly from men, as they sit condemned by a frail prisoner of their own, and see heaven beaming from his countenance and opening full upon his view—I envy you, for I find no words to paint what, in the majesty of the divine text, is here so simply told."
 2. "As the sight was witnessed by Stephen alone, the opened heavens are to be viewed as revealed to his bright beaming spirit."
 3. "Clearly, to express the eager interest with which He watched from the skies the scene in that council chamber, and the full tide of His Spirit which He was at that moment engaged in pouring into the heart of His heroical witness, till it beamed in radiance from his very countenance."
@@ -55,4 +55,4 @@ In the midst of his trial and impending death, Stephen was granted a supernatura
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

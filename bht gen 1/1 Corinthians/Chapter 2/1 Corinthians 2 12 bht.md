@@ -11,7 +11,7 @@ The Bible verse being described highlights the contrast between the spirit of th
 
 3. "that we may know the things freely given to us by God" - This reveals the purpose of God imparting His Spirit to us. It is so that we may have knowledge and understanding of the blessings and gifts freely given to us by God, particularly the wisdom and felicity found in the gospel dispensation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have received [the Spirit], not the spirit of the world, but the Spirit which is of God." 
 2. "We have received it only by the gift of God, whose Spirit it is, whereas our own spirit is the spirit that is in us men."
 3. "That we might know the things freely given of God—present experimental knowledge, to our unspeakable comfort, of His deep mysteries of wisdom, and of our future possession of the good things which God hath prepared for them that love Him."
@@ -59,4 +59,4 @@ The Bible verse being described highlights the contrast between the spirit of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

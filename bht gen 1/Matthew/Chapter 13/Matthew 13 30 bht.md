@@ -4,7 +4,7 @@
 In this verse, the end of the world is likened to a harvest, where the time is fixed and certain. The "wheat" represents true believers who grow in exercising grace, while the "tares" symbolize nominal believers who may flourish in worldly possessions and knowledge. When the harvest time comes, the angels will gather the tares, the formal professors and hypocrites, removing them from the kingdom of God. This verse emphasizes the importance of distinguishing between genuine faith and superficial belief, as well as the significance of storing up treasures in heaven rather than earthly possessions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let both grow together—that is, in the visible Church. until the harvest—till the one have ripened for full salvation, the other for destruction." 
 2. "Gather ye together first the tares, and bind them in bundles to burn them." 
 3. "Christ, as the Judge, will separate the two classes. It will be observed that the tares are burned before the wheat is housed."
@@ -23,4 +23,4 @@ In this verse, the end of the world is likened to a harvest, where the time is f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

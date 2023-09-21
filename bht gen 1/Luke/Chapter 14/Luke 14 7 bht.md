@@ -11,7 +11,7 @@ In this parable, Jesus exposes the pride and self-importance of the guests, who 
 
 3. "At a large feast, there would be multiple πρωτοκλισία seats, indicating the importance of social status and honor in the dining setting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His design was not so much to inculcate mere politeness or good manners, as underneath this to teach something deeper." This quote highlights the deeper meaning behind the parable, suggesting that there is a lesson to be learned beyond surface-level politeness.
 2. "Chief rooms - principal seats, in the middle part of the couch on which they reclined at meals, esteemed the most honorable." This quote provides insight into the cultural context of the verse, explaining the significance of the chief rooms and why they were considered honorable.
 3. "Underneath this to teach something deeper." This quote reiterates the idea that there is a deeper lesson to be learned from the parable, emphasizing the importance of looking beyond the surface-level meaning.
@@ -55,4 +55,4 @@ In this parable, Jesus exposes the pride and self-importance of the guests, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

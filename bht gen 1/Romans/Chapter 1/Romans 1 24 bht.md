@@ -11,7 +11,7 @@ In this verse, commentators highlight the consequences of turning away from God.
 4. "The result of that delivering over, 'so that their bodies were dishonoured.'"
 5. "So that their bodies were dishonoured among them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As they deserted God, God in turn deserted them; not giving them divine (that is, supernatural) laws, and suffering them to corrupt those which were human."
 2. "He let them do what they pleased, even what was in the last degree vile, that those who had not honored God, might dishonor themselves."
 3. "God gave them up, not sending them prophets, and allowing the philosophers to run into absurdities."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific source. It i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

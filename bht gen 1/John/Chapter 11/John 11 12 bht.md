@@ -9,7 +9,7 @@ The commentators emphasize the disciples' understanding of sleep and their limit
 2. "A token of a favourable crisis."
 3. "His recovery, will probably be the result."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If he sleep, he shall do well—literally, 'be preserved'; that is, recover." This quote highlights the belief that sleep can be restorative and healing, suggesting that the person's condition will improve if they rest.
 2. "Why then go to Judea?" This quote raises the question of why the disciples would want to go to Judea if Lazarus is simply sleeping and expected to recover. It implies that there may be a deeper reason for their journey.
 3. "Why then go to Judea?" This quote also suggests that there may be a potential danger or risk associated with going to Judea, as the disciples' decision to go is being questioned. This adds suspense and intrigue to the story.
@@ -49,4 +49,4 @@ The commentators emphasize the disciples' understanding of sleep and their limit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

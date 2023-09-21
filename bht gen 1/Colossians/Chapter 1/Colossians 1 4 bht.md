@@ -4,7 +4,7 @@
 The verse being described talks about the apostle Paul having heard of the faith and love of the believers. It emphasizes the inclusive nature of love, extending to both the absent and present. The commentators highlight that Paul had heard about the faith and perseverance of the believers, which greatly impacted him. The verse also emphasizes the believers' love for all the saints, rooted in their faith in Christ. This love is seen as a genuine expression of their relationship with God, empowered by the Holy Spirit.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having heard." The language implies that he had only heard of, and not seen, them. Compare Romans 1:8, where like language is used of a Church which he had not at the time visited.
 2. "Love... to all." The love mentioned here extends to both the absent and the present. 
 3. "The absent, as well as those present." This emphasizes the inclusive nature of love, reaching out to those who are not physically present.
@@ -42,4 +42,4 @@ The verse being described talks about the apostle Paul having heard of the faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

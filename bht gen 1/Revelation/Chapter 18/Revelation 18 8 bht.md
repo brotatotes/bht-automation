@@ -4,7 +4,7 @@
 The verse in question depicts a catastrophic and devastating fate that awaits a defiant and faithless entity. The imminent plagues that will be unleashed upon it will arrive suddenly and relentlessly, bringing complete destruction and utter ruin. With divine justice and retribution, the consequences of its actions will catch up to it, and its once glorious and secure state will be turned into shame and despair. This doom is certain and inescapable, for the power of God, the ultimate judge, has pronounced and determined its fate.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Literal fire may burn the literal city of Rome, which is situated in the midst of volcanic agencies."
 2. "But as the harlot is mystical (the whole faithless Church), the burning may be mainly mystical, symbolizing utter destruction and removal."
 3. "The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist."
@@ -45,4 +45,4 @@ The verse in question depicts a catastrophic and devastating fate that awaits a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the importance of treating fellow bel
 2. "This double-mindedness...causes nothing but instability, and cannot result in that joy which is to be our attitude in trial."
 3. "The poor and humble forget the exceeding honour thus done to them, which ought to be to them ground of boasting, far more worthy than the rich in this world have in their riches which shall so soon fade away."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The best remedy against double-mindedness is that Christian simplicity of spirit whereby the 'brother,' low in outward circumstances, may 'rejoice' in that he is exalted, namely, by being accounted a son and heir of God, his very sufferings being a pledge of his coming glory and crown."
 2. "The rich may rejoice 'in that he is made low,' by being stripped of his goods for Christ's sake or in that he is made, by sanctified trials, lowly in spirit, which is true matter for rejoicing."
 3. "The design of the Epistle is to reduce all things to an equable footing."
@@ -54,4 +54,4 @@ The Bible verse being described emphasizes the importance of treating fellow bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

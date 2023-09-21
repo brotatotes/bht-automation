@@ -9,7 +9,7 @@ In the midst of the disciples' amazement at the splendor of the temple, with its
 2. "Tacitus, Hist. Luke 21:8, calls it immensæ opulentiæ templum."
 3. "Jos., B. J. ver. 5. 4, gives an account of the gilding, and golden vines (presented by Herod the Great) with bunches of grapes as large as a man, &c. in the temple."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God's thoughts and ways are higher than ours. We may not always understand why certain things happen or why God allows certain circumstances in our lives, but we can trust that His plans are perfect and His ways are just."
 2. "The word 'trust' implies a deep reliance and confidence in God. It means surrendering our own understanding and leaning on His wisdom and guidance. When we trust in the Lord, we acknowledge that He is in control and that His ways are better than our own."
 3. "In times of uncertainty and confusion, it is important to remember that God is faithful. He is always with us, even when we can't see or understand His plans. We can find comfort and peace in knowing that He will never leave us nor forsake us."
@@ -43,4 +43,4 @@ In the midst of the disciples' amazement at the splendor of the temple, with its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

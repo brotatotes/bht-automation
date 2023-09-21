@@ -9,7 +9,7 @@ The verse being described emphasizes the spiritual awakening from the dead, high
 2. "His call to awake, in its widest and deepest sense; by His own preaching, by His Apostles, His ministers, &c. &c. In all these He speaks to the spiritually dead."
 3. "Not merely 'and having heard it, shall live,' but 'and THEY WHO have heard it (or, who hear it) shall live.' This determines the verse to be spoken of spiritual, not bodily awakening."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hour cometh—in its whole fulness, at Pentecost. and now is—in its beginnings." 
 2. "Here He rises from the calmer phrase 'hearing his word' (John 5:24), to the grander expression, 'hearing the voice of the Son of God,' to signify that as it finds men in a dead condition, so it carries with it a resurrection-power." 
 3. "Shall live—in the sense of John 5:24."
@@ -61,4 +61,4 @@ The verse being described emphasizes the spiritual awakening from the dead, high
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

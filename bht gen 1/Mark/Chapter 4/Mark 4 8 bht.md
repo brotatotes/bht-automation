@@ -4,7 +4,7 @@
 In this verse, the soil represents different hearts and responses to the word of God. Some receive the word with readiness and produce abundant fruit, their lives filled with the fruits of righteousness. Others may make an outward profession but only bear a shallow display of fruit, which ultimately comes to nothing. The varying degrees of fruitfulness reflect the different levels of grace and impact of the word in each individual's life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The goodness of this last soil consists in its qualities being precisely the reverse of the other three soils."
 2. "From its softness and tenderness, receiving and cherishing the seed."
 3. "In such a soil the seed 'brings forth fruit,' in all different degrees of profusion, according to the measure in which the soil possesses those qualities."
@@ -35,4 +35,4 @@ In this verse, the soil represents different hearts and responses to the word of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

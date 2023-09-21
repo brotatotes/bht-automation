@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the importance of gratitude and 
 2. "The wider term προσευχόμενος included both prayer and thanksgiving."
 3. "The love which ye have towards all the saints carries more affectionate commendation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thanksgiving for the 'faith, hope, and love' of the Colossians."
 2. "We—I and Timothy."
 3. "Praying always for you—with thanksgiving."
@@ -58,4 +58,4 @@ In this verse, the commentator quotes emphasize the importance of gratitude and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

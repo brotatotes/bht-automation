@@ -9,7 +9,7 @@ In this Bible verse, a man who had been healed had no prior knowledge or recogni
 2. "Just spoke the healing words, and then went on among the crowd; so that no particular attention was attracted to Himself, either by the sick man or others."
 3. "The context requires this interpretation: being violated by the ordinary one, that Jesus 'conveyed himself away, because a multitude was in the place.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That some one, with unparalleled generosity, tenderness and power, had done it, the man knew well enough."
 2. "He disappeared too quickly for any inquiries."
 3. "Slipped out of the crowd that had gathered, to avoid both hasty popularity and precipitate hatred."
@@ -50,4 +50,4 @@ In this Bible verse, a man who had been healed had no prior knowledge or recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

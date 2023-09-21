@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the significance of obeying 
 2. "ἄνθρωπον ἀθετεῖ there is an obvious allusion to ὑπερβαίνειν κ . πλεονεκτεῖν τ . ἀδελφόν above."
 3. "τὸν [ καὶ ] δόντα ] q. d. who also is the AUTHOR of our sanctification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who doth so, 'sets at naught not man (as for instance his brother), but God' (Psalms 51:4)" - The commentary emphasizes that despising or rejecting God's minister is equivalent to despising or rejecting God Himself. This highlights the importance of respecting and honoring those who are called to serve in a ministerial role.
 
 2. "His own Spirit, the Holy (One); thus emphatically marking 'holiness' (Psalms 51:4) as the end for which the Holy (One) is being given." - This quote highlights the purpose of the Holy Spirit being given to believers, which is to bring about holiness in their lives. It emphasizes that the presence of the Holy Spirit should lead to a transformation and sanctification of the individual.
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the significance of obeying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

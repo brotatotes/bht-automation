@@ -4,7 +4,7 @@
 In the second seal, there is an emphasis on the sequential nature of the seals being opened, indicating that this is the second seal being revealed. It is important to pay attention and be observant, as there may be deeper meanings within the verse. The direction in which the living creature is facing indicates a specific area of focus or aspect of the world that this seal pertains to. As each seal is opened, there is a unique perspective and emphasis that unfolds, revealing important events among the nations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The omission of 'and see' in the oldest manuscripts suggests that it may have been added later for emphasis or clarification." 
 
 2. "The absence of 'and see' in the Vulgate, which is one of the earliest Latin translations of the Bible, further supports the idea that it was not originally part of the verse." 
@@ -44,4 +44,4 @@ In the second seal, there is an emphasis on the sequential nature of the seals b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

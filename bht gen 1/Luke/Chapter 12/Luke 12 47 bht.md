@@ -4,7 +4,7 @@
 The verse being described emphasizes the tension between exclusivity and inclusivity in Jesus' message. It challenges the categorization of people and reminds us that God's love is not limited by human boundaries. The response highlights the radical nature of Jesus' ministry and calls for a more inclusive understanding of God's kingdom. It also warns against the severe punishment that awaits those who knowingly reject God's will and do not align their actions with their knowledge.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question of 'unto us or even to all?' reveals the tension between exclusivity and inclusivity in the message of Jesus. It challenges us to consider who is deserving of God's grace and who is excluded. Jesus' response reminds us that God's love is not limited by human boundaries and that the invitation to follow him is open to all, regardless of social status or religious background."
 
 2. "The disciples' concern about who should receive the message reflects a common human tendency to categorize and exclude. Jesus' response challenges this mindset and calls us to embrace a more inclusive understanding of God's kingdom. He reminds us that the message of salvation is not meant to be hoarded or restricted, but to be shared with all people."
@@ -49,4 +49,4 @@ Note: The commentary is quite brief and does not provide extensive analysis or e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described is one that emphasizes the unity and equality found in Christ, where all distinctions and privileges based on race, nation, or social status are obliterated. Commentators highlight that in the new creation, these distinctions are no longer relevant, as Christ encompasses and permeates all aspects of life. They emphasize that external factors have no bearing on one's salvation or status as a new creature in Christ. Ultimately, Christ is the source of perfection, unity, and all that is needed for justification, sanctification, and glorification.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The present Church is one called out of the flesh, and the present world-course, wherein such distinctions exist, to life in the Spirit, and to the future first resurrection."
 2. "As expressly as Scripture abolishes the distinction of Jew and Greek now as to religious privileges, so does it expressly foretell that in the coming new order of things, Israel shall be first of the Christian nations."
 3. "Christ absorbs in Himself all distinctions, being to all alike, everything that they need for justification, sanctification, and glorification."
@@ -43,4 +43,4 @@ The Bible verse being described is one that emphasizes the unity and equality fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

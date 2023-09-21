@@ -9,7 +9,7 @@ The verse being described is about the connection between love for Jesus and obe
 2. "τηρ. is more of the inner will to keep them, than the absolute observance, which can only follow on high degrees of spiritual advancement." (Aug [200] in loc.)
 3. "This is the highest promise which can be made to man, and yet it is made to every man who has and keeps the commandments of the Lord Jesus." (ἐμφ. αὐτ. ἐμ., by the Holy Spirit)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that hath my commandments and keepeth them" - This emphasizes the importance of obedience to Jesus' teachings. It is not enough to simply know the commandments, but one must actively keep and follow them.
 
 2. "My Father and I will love him" - This highlights the intimate relationship between God the Father and Jesus. It shows that their love for the disciples is not only individual but also shared, reinforcing the unity of the Trinity.
@@ -61,4 +61,4 @@ Note: The commentary provided does not contain a clear third quote that meets th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

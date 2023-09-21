@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the symbolic nature of the marital rel
 2. "It is irksome, but necessary, to notice the ridiculous perversion of this text by the Romish church."
 3. "My meaning, in citing the above text, is to call your attention, not to mere human marriage, but to that high and mysterious relation between Christ and His Church, of which that other is but a faint resemblance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This mystery, a great one, of deep import."
 2. "Mystery is used of a divine truth not to be discovered save by revelation of God."
 3. "Not marriage in general, but that of Christ and the Church, is what is pronounced to be a 'great mystery'."
@@ -54,4 +54,4 @@ In this verse, the commentator emphasizes the symbolic nature of the marital rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

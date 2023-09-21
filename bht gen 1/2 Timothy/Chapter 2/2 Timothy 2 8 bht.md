@@ -4,7 +4,7 @@
 In this verse, we are reminded to remember Jesus Christ, who was raised from the dead. The resurrection of Jesus serves as a powerful source of encouragement and strength, as it signifies His victory over death and assures believers of their own resurrection. Additionally, the mention of Jesus being from the seed of David highlights His fulfillment of Messianic prophecies and emphasizes His authority and kingship as the long-awaited Messiah. It also points to the eternal nature of His reign and brings hope and assurance to believers in the fulfillment of God's promises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember Jesus Christ, raised from the dead." Remember Christ risen, so as to follow Him. As He was raised after death, so if thou wouldest share His risen "life," thou must now share His "death."
 2. Christ's resurrection is put prominently forward as being the truth now assailed, and the one best calculated to stimulate Timothy to steadfastness in sharing Paul's sufferings for the Gospel's sake.
 3. In His death He assured us of His humanity; by His resurrection, of His divinity. That He was not crucified for His own sin appears from His resurrection; that He was crucified shows that He bore sin, on Him, though not in Him.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

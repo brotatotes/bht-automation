@@ -4,7 +4,7 @@
 In this verse, the gross carnality and destruction of the followers of the beast is depicted by the repetition of the term "flesh." The symbolic language used represents the control and downfall of earthly rulers, captains, and mighty men. The verse highlights the defeat of those who oppose Christ and the triumph of His righteous judgment. The allusion to Ezekiel 39:17 emphasizes the certainty of Christ's victory over the antichristian army and the complete destruction of His enemies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition of flesh (in the Greek it is plural: masses of flesh) five times in this verse, marks the gross carnality of the followers of the beast."
 2. "The 'kings' are 'the ten' who 'give their power unto the beast.'"
 3. "Again, the giving of their flesh to the fowls to eat, is a righteous retribution for their not suffering the dead bodies of Christ's witnesses to be put in graves."
@@ -46,4 +46,4 @@ These quotes provide insight into the symbolic language used in the verse, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

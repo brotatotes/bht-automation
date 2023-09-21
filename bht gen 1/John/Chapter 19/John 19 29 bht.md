@@ -9,7 +9,7 @@ Combining insights from various commentators, the Bible verse describes the mome
 2. "ὑσσώπῳ an aromatic plant growing on walls, common in the south of England and on the Continent, with blue or white flowers, and having stalks about 1½ foot long."
 3. "It was much used for sprinkling, Exodus 12:22; Leviticus 14:4 &c.: Psalms 51:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was the last cruelty He was to suffer, but it was one of the most unfeeling."
 2. "Just as even His own dying saints, particularly the martyrs of Jesus, have sometimes had such gleams of coming glory immediately before breathing their last, as to impart to them a strength to utter their feelings which has amazed the by-standers."
 3. "His soul has emerged from its mysterious horrors; 'My God' is heard no more, but in unclouded light He yields sublime into His Father's hands the infinitely precious spirit."
@@ -50,4 +50,4 @@ Combining insights from various commentators, the Bible verse describes the mome
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

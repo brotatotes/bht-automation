@@ -9,7 +9,7 @@ The Bible verse in question speaks of the arrival of the Spirit of Truth, who te
 2. "He, the Spirit of Truth, will never cease to overcome the hating world by this His testimony."
 3. "The first clause he regards as spoken œconomically, of the Spirit in His office as Paraclete, sent from the Father by the glorified Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that our relationship with God is not a one-time event, but an ongoing process of growth and transformation."
 2. "Just as a branch cannot bear fruit unless it remains connected to the vine, we cannot bear spiritual fruit unless we abide in Christ and allow His life to flow through us."
 3. "The image of the vine and branches also highlights the importance of unity and community in the body of Christ. We are all connected to the same source of life, and we are called to support and encourage one another in our spiritual journey."
@@ -42,4 +42,4 @@ The Bible verse in question speaks of the arrival of the Spirit of Truth, who te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

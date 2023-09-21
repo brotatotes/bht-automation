@@ -4,7 +4,7 @@
 In this verse, believers partake of Christ, receiving spiritual sustenance and eternal life through faith. This eternal life is both present and future, with a connection to resurrection. The imagery of eating Christ's flesh and drinking His blood conveys the spiritual appropriation of His sacrifice. This communion, understood through faith, assures believers of their right and readiness to receive the eternal life promised by Jesus. Through faith, believers find abiding and permanent grace that sustains them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whoever partakes of Him has eternal life." 
 2. "The 'eternal life' that such a person has is not the same as the future resurrection life, but a life communicated here below immediately on believing."
 3. "The resurrection of the body is what consummates the redemption of the entire man."
@@ -33,4 +33,4 @@ In this verse, believers partake of Christ, receiving spiritual sustenance and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

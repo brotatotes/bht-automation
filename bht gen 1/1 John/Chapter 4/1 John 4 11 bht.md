@@ -9,7 +9,7 @@ This verse calls upon us to love one another as God has loved us. It highlights 
 2. "Clearly, on that relation to God and one another implied by being children of God, which runs through all this section of the Epistle." 
 3. "If we are of God, that love which is in Him, and which He is, will be in us, will make us like Him, causing us to love those who are begotten of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's love to us is the grand motive for our love to one another." 
 2. "In proportion as we appreciate God's love to us, we love Him and also the brethren."
 3. "The brethren, the children (by regeneration) of the same God, the representatives of the unseen God."
@@ -51,4 +51,4 @@ This verse calls upon us to love one another as God has loved us. It highlights 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

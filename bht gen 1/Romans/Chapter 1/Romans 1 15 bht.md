@@ -11,7 +11,7 @@ This verse expresses a deep sense of obligation and responsibility to spread the
 
 3. "You, who hold no mean place among them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He feels himself under an all-subduing obligation to carry the gospel to all classes of mankind." 
 2. "As much as in me is, I am ready to preach the gospel." 
 3. "The gospel is adapted to and ordained equally for all."
@@ -47,4 +47,4 @@ This verse expresses a deep sense of obligation and responsibility to spread the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

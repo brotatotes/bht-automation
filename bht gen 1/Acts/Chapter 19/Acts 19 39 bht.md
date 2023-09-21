@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of a legitimate and lawful a
 2. "The art. points out the regularly recurring assembly, of which they all knew." - Commentary 
 3. "The assembly is legitimate when it is called and governed by the civil magistrate." - Grot.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye inquire... concerning other matters—of a public nature." - This quote emphasizes that the verse is not just about seeking answers to personal questions, but also about seeking guidance on public matters. 
 
 2. "Inquire... have any question." - This quote highlights the invitation to ask questions and seek understanding. It shows that the verse encourages a spirit of curiosity and a desire for knowledge. 
@@ -47,4 +47,4 @@ The verse being described emphasizes the importance of a legitimate and lawful a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

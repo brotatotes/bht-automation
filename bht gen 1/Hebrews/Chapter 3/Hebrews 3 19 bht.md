@@ -9,7 +9,7 @@ The verse describes the tragic consequences of the Israelites' disobedience and 
 2. "They were incapacitated by not fulfilling the condition of inheriting all God's promises, belief and resulting obedience."
 3. "This verse forms a kind of 'quod erat demonstrandum,' clenching the argument which has been proceeding since Hebrews 3:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the tragic reality that even though the Israelites desired to enter the Promised Land, they were unable to do so. It serves as a reminder that desire alone is not enough; action and obedience are also necessary to attain the blessings God has promised." 
 
 2. "The Israelites' inability to enter the Promised Land despite their desire serves as a cautionary tale for believers today. It reminds us that simply desiring God's blessings or salvation is not enough; we must also walk in obedience and faith, trusting in His guidance and following His commands." 
@@ -55,4 +55,4 @@ These quotes provide insights into the consequences of unbelief and the importan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

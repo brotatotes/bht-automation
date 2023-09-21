@@ -9,7 +9,7 @@ Through his act of obedience in offering up his son Isaac, Abraham fulfilled the
 2. "It was not, until this, fulfilled, in the sense of being entirely exemplified and filled up."
 3. "It became more and more gloriously true of Abraham’s life and acts till it reached this its culminating point, in his chief act of self-denying obedience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "James must mean by works the same thing as Paul means by faith, only that he speaks of faith at its manifested development, whereas Paul speaks of it in its germ."
 2. "Abraham's offering of Isaac was not a mere act of obedience, but an act of faith."
 3. "The 'Scripture' would not be 'fulfilled,' as James says it was, but contradicted by any interpretation which makes man's works justify him before God."
@@ -55,4 +55,4 @@ Through his act of obedience in offering up his son Isaac, Abraham fulfilled the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

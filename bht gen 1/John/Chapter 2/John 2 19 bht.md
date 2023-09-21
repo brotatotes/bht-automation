@@ -9,7 +9,7 @@ In this verse, Jesus speaks of "this temple," alluding to his own body as the dw
 2. "And so the saying was fulfilled by the slaying of His actual Body, in which rejection of Him the destruction of the Jewish temple and city was involved, and the raising of that Body after three days, in which resurrection we, all the members of His new glorified Body, are risen again."
 3. "The difficulties attending the interpretation are, besides the double meaning which I have treated above, (1) the use of the imperative, as applied to the death of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Destroy this temple" - This phrase refers to the physical temple in Jerusalem, but it also carries a deeper meaning. It foreshadows the destruction of Jesus' own body on the cross and his subsequent resurrection.
 
 2. "&c." - This abbreviation stands for "et cetera" and implies that there is more to the commentary on this verse. It suggests that there are additional insights and implications that can be drawn from Jesus' statement.
@@ -54,4 +54,4 @@ In this verse, Jesus speaks of "this temple," alluding to his own body as the dw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

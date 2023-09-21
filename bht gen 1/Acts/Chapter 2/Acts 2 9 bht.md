@@ -9,7 +9,7 @@ The Bible verse being described is a part of Acts 2, where the commentator quote
 2. "Judæa lies immediately S. of its path from Mesopotamia to Cappadocia."
 3. "And even if born Jews were meant, doubtless they also would find a place among those who heard in their mother-tongue the wonderful works of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The enumeration proceeds farther and farther westward till it comes to Judea, conveying an impression of universality." 
 2. "This enumeration is evidently designed to convey an impression of universality." 
 3. "Peter, for the first time, publicly preaches Christ."
@@ -47,4 +47,4 @@ The Bible verse being described is a part of Acts 2, where the commentator quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

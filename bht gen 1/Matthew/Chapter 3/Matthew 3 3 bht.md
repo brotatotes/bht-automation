@@ -9,7 +9,7 @@ The verse in question speaks of a prophetic figure who prepares the way for the 
 2. "If it ever had such an application, we may safely say that its predictions were so imperfectly and sparingly fulfilled in that return, or anything which followed it, that we are necessarily directed onward to its greater fulfillment in the announcement of the kingdom of Christ."
 3. "ὁδὸν δὲ κυρίου καὶ τρίβους αὐτοῦ καλεῖ τὰς ψυχάς, ὧν ἐπιβαίνειν ἔμελλεν ὁ λόγος τοῦ εὐαγγελίου, ἃς καὶ προτρέπεται ἑτοιμάζειν, ἤγουν καθαίρειν, τῷ ἐργαλείῳ τῆς μετανοίας ἀνασπῶντας μὲν τὰς ἀκάνθας τῶν παθῶν, ἐκρίπτοντας δὲ τοὺς λίθους τῆς ἁμαρτίας, καὶ οὕτως εὐθείας καὶ ὁμαλὰς αὐτὰς ἀπεργάζεσθαι πρὸς ὑποδοχὴν αὐτοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The predicted forerunner as the connecting link between the old and the new economies."
 2. "The call here... is a call to put out of the way whatever would obstruct His progress and hinder His complete triumph."
 3. "Levelling and smoothing are here the obvious figures whose sense is conveyed in the first words of the proclamation—'Prepare ye the way of the Lord.'"
@@ -47,4 +47,4 @@ The verse in question speaks of a prophetic figure who prepares the way for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

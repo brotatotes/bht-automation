@@ -11,7 +11,7 @@ In this passage, the verse emphasizes the obligation to help fellow believers wh
 
 3. "The food for each day, the necessary sustenance." - This quote clarifies that the assistance required is not just any food, but the essential sustenance needed for survival on a daily basis.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'But' taking up the argument against such a one as 'said he had faith, and yet had not works,' which are its fruits."
 2. "A fellow Christian, to whom we are specially bound to give help, independent of our general obligation to help all our fellow creatures."
 3. "The Greek implies, 'be found, on your access to them.'"
@@ -45,4 +45,4 @@ In this passage, the verse emphasizes the obligation to help fellow believers wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

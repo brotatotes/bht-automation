@@ -9,7 +9,7 @@ In this verse, the author defends their actions against accusations and objectio
 2. "ὅτι δωρ., &., is epexegetical of ἐμαυτὸν ταπεινῶν; in that I gratuitously, &c.: not, as Meyer, ἁμαρτ. ἐποίησα ὅτι, making ἐμαυτὸν … ὑψωθ. parenthetical."
 3. "It was his wish to preach to them gratuitously, which necessitated his ταπεινοῦν ἑαυτόν, i.e. not exercising the apostolic power which he might have exercised, but living on subsidies from others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Or will any of you make it an objection that I have preached to you gratuitously?" He leaves their good feeling to give the answer, that this, so far from being an objection, was a decided superiority in him above the false apostles.
 2. "abasing myself—in my mode of living, waiving my right of maintenance, and earning it by manual labor; perhaps with slaves as his fellow laborers."
 3. "ye . . . exalted—spiritually, by your admission to Gospel privileges."
@@ -56,4 +56,4 @@ In this verse, the author defends their actions against accusations and objectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

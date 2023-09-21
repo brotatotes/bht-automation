@@ -9,7 +9,7 @@ In this passage, we see Jesus in Capernaum, where a great crowd has gathered to 
 2. "Luke uses κύριος frequently for Jesus, but always with the article...whence we conclude that the meaning is, the power of God (working in the Lord Jesus) was in the direction of His healing."
 3. "So uncertain are merely subjective considerations either way: and so necessary is it to adhere in such cases, where any uncertainty exists, simply and faithfully to antiquity, as our best existing guide."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Pharisees and doctors sitting by" - This indicates the increasing influence and attention that Jesus was gaining, causing the religious leaders to take notice and feel the need to make a judgment about Him.
 
 2. "The power of the Lord present" - This highlights the divine authority and presence of Jesus, suggesting that His ability to heal was not merely a human skill but a manifestation of God's power.
@@ -48,4 +48,4 @@ Note: The commentary provided is quite fragmented and lacks coherence. It would 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

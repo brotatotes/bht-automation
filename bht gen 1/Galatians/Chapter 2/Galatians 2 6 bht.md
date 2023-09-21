@@ -9,7 +9,7 @@ In this verse, the apostle Paul addresses the highly esteemed apostles and leade
 2. "The emphasis is on μοι, and is again taken up by the ἐμοὶ γάρ below."
 3. "προσανέθεντο as in ch. Galatians 1:16, imparted. As I, at my first conversion, did not impart it to flesh and blood, so they now imparted nothing to me: we were independent the one of the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "they . . . added nothing to me" - Paul emphasizes that the other apostles did not contribute anything significant to his understanding of the gospel. This highlights his independence as an apostle and reinforces the idea that his authority and message come directly from God.
 
 2. "accepteth...respecteth no man's person" - Paul asserts that God does not show favoritism or partiality. This implies that the acceptance of the gospel is not based on external factors such as social status or personal connections, but solely on one's faith and relationship with God.
@@ -55,4 +55,4 @@ In this verse, the apostle Paul addresses the highly esteemed apostles and leade
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described depicts a gathering of fowls, invited by the great God, as a symbol of the impending judgment and destruction. The verse uses vivid and powerful metaphors to convey the magnitude and global significance of the event. It alludes to a great feast prepared by God and emphasizes the immense scale of the coming slaughter, signifying the divine retribution that awaits. The language used in the verse is both simple and sublime, drawing from various sources to paint a picture of the ultimate victory and the recognition of the great God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the sun—so as to be conspicuous in sight of the whole world." This quote highlights the intention behind the gathering of the fowls, emphasizing the visual impact and the global significance of the event.
 2. "To all the fowls." This quote emphasizes the inclusive nature of the invitation, suggesting that all types of birds are invited to partake in the gathering.
 3. "Of the great God." This quote adds a sense of reverence and importance to the event, indicating that it is not just any gathering, but a gathering hosted by the great God himself.
@@ -45,4 +45,4 @@ The verse being described depicts a gathering of fowls, invited by the great God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

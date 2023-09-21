@@ -9,7 +9,7 @@ In this verse, the paradoxical nature of Jesus' teachings is highlighted by comm
 2. "But besides the primary meaning of this saying as regards the laying down of life literally for Christ’s sake, we cannot fail to recognize in it a far deeper sense, in which he who loses his life shall find it."
 3. "Thus we have the crucifying of the life of this world, the death to sin spoken of Romans 6:4-11, and life unto God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it." - This verse highlights the paradoxical nature of Jesus' teachings, emphasizing the need to sacrifice the lower, temporal life for the sake of the higher, eternal life.
 
 2. "The pith of such paradoxical maxims depends on the double sense attached to the word 'life'." - The commentary explains that the richness of these sayings lies in the dual meaning of the word "life," referring to both the natural and spiritual aspects, as well as the temporal and eternal aspects.
@@ -57,4 +57,4 @@ In this verse, the paradoxical nature of Jesus' teachings is highlighted by comm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

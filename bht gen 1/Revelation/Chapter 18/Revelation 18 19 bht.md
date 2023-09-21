@@ -4,7 +4,7 @@
 The verse depicts a scene of deep mourning and lamentation, where the inhabitants of a wealthy and opulent city cast dust on their heads as a sign of grief and regret. The destruction of this city, with its maritime trade and luxurious treasures, is mourned not only for its material loss but also for the profound sorrow and devastation it brings. The use of similar symbols and references to other biblical passages emphasizes the universal nature of human sorrow, the consequences of rejecting God's truth, and the continuity of divine judgment throughout history.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wailing" is a term that signifies mourning, emphasizing the deep sorrow and grief associated with the destruction of the city. 
 
 2. The mention of "that had ships" highlights the significance of the city's maritime trade and its connection to the sea. 
@@ -44,4 +44,4 @@ The verse depicts a scene of deep mourning and lamentation, where the inhabitant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

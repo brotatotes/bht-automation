@@ -9,7 +9,7 @@ In this verse, certain women in Thessalonica believed in Jesus as the true Messi
 2. "The sense is passive, not middle. The word is not uncommon in Philo."
 3. "The aptitude of women for the reception of the Gospel several times appears in this book."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "During his stay, while Paul supported himself by his own labor, he received supplies once and again from the Philippians, of which he makes honorable acknowledgment." 
 2. "The converts were nearly all Gentiles; not only such as had before been proselytes, who would be gained in the synagogue, but such as up to that time had been idolaters."
 3. "From the First Epistle to the Thessalonians it appears that the converts were nearly all Gentiles."
@@ -63,4 +63,4 @@ These quotes provide insight into Paul's financial support and the composition o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

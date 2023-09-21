@@ -4,7 +4,7 @@
 The verse being described focuses on the importance of maintaining one's initial fervor and passion in their love for God. It highlights the risk of drifting away from the intensity of one's first love and calls for self-reflection. The commentators warn against losing this love and emphasize that it is within our power to keep it strong. They prompt readers to evaluate their own love for God and take action to rekindle it if needed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How characteristic of our gracious Lord, that He puts foremost all He can find to approve, and only after this notes the shortcomings!"
 2. "Left thy first love—to Christ."
 3. "Their warmth of love had given place to a lifeless orthodoxy."
@@ -45,4 +45,4 @@ The verse being described focuses on the importance of maintaining one's initial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

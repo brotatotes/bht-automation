@@ -9,7 +9,7 @@ In this Bible verse, Jesus, weary from his journey, sits down by Jacob's well. T
 2. "The unusualness of a woman coming to draw water at mid-day is no argument against its possibility; indeed the very fact of her being alone seems to shew that it was not the common time."
 3. "This purely arbitrary hypothesis of St. John’s way of reckoning the hours has been recently again upheld by Bp. Wordsworth: but it has only harmonistic grounds to rest on."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is perhaps the most human of all the scenes of our Lord's earthly history."
 2. "We seem to be beside Him, overhearing all that is here recorded."
 3. "But with all that is human, how much also of the divine have we here."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus, weary from his journey, sits down by Jacob's well. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

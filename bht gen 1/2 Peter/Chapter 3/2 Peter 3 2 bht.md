@@ -11,7 +11,7 @@ This verse encourages us to remember the teachings of the Old Testament prophets
 
 3. "the command originating in our Lord, and given you by the Apostles who preached to you" - This further emphasizes that the commandments given by the apostles were not their own, but originated from Jesus Himself. It underscores the importance of following these commandments as they were directly given by the Lord.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prophets of the Old Testament served as messengers of God, delivering His word to the people. But now, in addition to the prophets, we have the apostles who live among us in the present time. They are the messengers of the Lord and Saviour, declaring His commandments to us." 
 
 2. "The apostles, being chosen by Jesus Himself, hold a unique authority and responsibility in proclaiming His teachings. Their words carry the weight of divine authority, just as the prophets of old carried the word of God."
@@ -47,4 +47,4 @@ This verse encourages us to remember the teachings of the Old Testament prophets
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a passage that speaks of the approach taken by the 
 2. "Announcing to you the testimony of God." 
 3. "The announcement regarded as beginning when the voyage began."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "glorying in the Lord," not in man's wisdom
 2. Grecian intellectual development was an important element in preparing the way for the Gospel, but it failed to regenerate the world, showing that for this a superhuman power is needed.
 3. No more fitting birthplace could there have been for the apostle of the Gentiles than Tarsus, free as it was from the warping influences of Rome, Alexandria, and Athens.
@@ -57,4 +57,4 @@ The verse being described is a passage that speaks of the approach taken by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

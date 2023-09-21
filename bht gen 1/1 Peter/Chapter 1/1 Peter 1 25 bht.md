@@ -9,7 +9,7 @@ The spoken word, the "ῥῆμα," is transformed into the preached word, the "�
 2. "And this is the word which was preached to you."
 3. "The word preached to you is imperishable and eternal, and demands of you that you earnestly and intently follow up that new life which by it has been implanted in you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That is eternal which is born of incorruptible seed" - The commentary highlights the idea that the word preached is eternal and originates from an incorruptible source. This emphasizes the everlasting nature of the message being conveyed.
 
 2. "Ye have not far to look for the word; it is among you" - The commentary encourages the readers to recognize that the word they need is readily available to them. This suggests that they should not seek it elsewhere but rather embrace the Gospel message that is being preached to them.
@@ -42,4 +42,4 @@ The spoken word, the "ῥῆμα," is transformed into the preached word, the "�
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

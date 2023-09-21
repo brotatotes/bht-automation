@@ -9,7 +9,7 @@ When the voice of God the Father resonates, the Seer turns to behold its source.
 2. "When I had turned about I saw seven golden candlesticks...better therefore rendered candlesticks than lamps, which gives more the idea of the light itself." 
 3. "The seven golden candlesticks are part of the furniture of the tabernacle...Each local church has now its candlestick, to be retained or removed from its place according to its own works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The voice is that of God the Father, as at Christ's baptism and transfiguration, so here in presenting Christ as our High Priest."
 2. "The several churches are mutually independent as to external ceremonies and government, yet one in the unity of the Spirit and the Headship of Christ."
 3. "The candlestick is not light, but the bearer of light, holding it forth to give light around. The light is the Lord's, not the Church's; from Him she receives it."
@@ -42,4 +42,4 @@ When the voice of God the Father resonates, the Seer turns to behold its source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

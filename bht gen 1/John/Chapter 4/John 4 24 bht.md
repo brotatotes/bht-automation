@@ -9,7 +9,7 @@ In this verse, God is described as a Spirit, emphasizing His non-material nature
 2. "How is the spirit of man to be brought into communion with God? 'In templo vis orare; in te ora. Sed prius esto templum Dei.' And how is this to be? Man cannot make himself the temple of God. So that here comes in the gift of God, with which the discourse began, the gift of the Holy Spirit, which Christ should give to them that believe on Him."
 3. "So beautifully does the expression 'ὁ πατήρ' here bring with it the new birth by the Spirit, and for us, the readers of the Gospel, does the discourse of ch. 3 reflect light on this. And so wonderfully do these words form the conclusion to the great subject of these first chapters: 'GOD IS BECOME ONE FLESH WITH US, THAT WE MIGHT BECOME ONE SPIRIT WITH HIM.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The point raised will very soon cease to be of any moment, for a total change of dispensation is about to come over the Church."
 2. "The Samaritans are wrong, not only as to the place, but the whole grounds and nature of their worship, while in all these respects the truth lies with the Jews."
 3. "As God is a Spirit, so He both invites and demands a spiritual worship, and already all is in preparation for a spiritual economy, more in harmony with the true nature of acceptable service than the ceremonial worship by consecrated persons, place, and times."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of genuine worship that is rooted in the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

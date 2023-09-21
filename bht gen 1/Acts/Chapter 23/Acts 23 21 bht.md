@@ -9,7 +9,7 @@ In this Bible verse, there is a promise that is constantly reiterated in the New
 2. "Not, 'an order' (as Rosenm., al.), nor 'a message' (as Grot., Beza, Wolf, al.)"
 3. "The promise (to that effect): as constantly in N. T."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not till the last moment, when the plot was all prepared, did deliverance come."
 2. "God's people often find themselves in a place of waiting, looking for a promise from Him."
 3. "This verse reminds us that God's timing is perfect, and He will come through for His people at the right moment."
@@ -40,4 +40,4 @@ In this Bible verse, there is a promise that is constantly reiterated in the New
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

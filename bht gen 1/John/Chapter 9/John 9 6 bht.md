@@ -9,7 +9,7 @@ In this Bible verse, Jesus performs a miraculous healing of a blind man. Althoug
 2. "No rule can be laid down which our Lord may seem to have observed, as to using, or dispensing with, the ordinary human means of healing."
 3. "Whatever the means used, the healing was not in them, but in Him alone."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These operations were not so incongruous in their nature as might appear" - The commentator suggests that although the actions of spitting on the ground and making clay may seem strange, they were not completely unrelated to the miracle that followed.
 
 2. "It were absurd to imagine that they contributed in the least degree to the effect which followed" - The commentator dismisses the idea that the physical actions performed by Jesus had any direct impact on the healing of the blind man.
@@ -50,4 +50,4 @@ In this Bible verse, Jesus performs a miraculous healing of a blind man. Althoug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

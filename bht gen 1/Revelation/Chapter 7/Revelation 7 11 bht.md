@@ -4,7 +4,7 @@
 In this verse, the angels join together in worship and praise, standing in reverence before God's throne. They rejoice in the salvation of humanity and take part in the heavenly ceremony, adoring and worshiping God. With profound adoration, they fall on their faces, their position of humble submission and reverence. As ministering spirits, they celebrate the perfection of God's nature and acknowledge His glory in all His works. The angels, in their vast numbers, continue the endless anthem of praise, actively involved in the worship of God and the well-being of those they guard.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The angels, as in their turn take up the anthem of praise."
 2. "There it was 'many angels,' here it is 'all the angels.'"
 3. "Stood—'were standing' [ALFORD]."
@@ -38,4 +38,4 @@ In this verse, the angels join together in worship and praise, standing in rever
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

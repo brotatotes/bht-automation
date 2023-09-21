@@ -9,7 +9,7 @@ The verse being described speaks of those who have forsaken their relationship w
 2. "The friendship of the world is enmity of God, the man who is taken out of the world by Christ, cannot again become a friend and companion of worldly men and their schemes for self, without passing into enmity with God."
 3. "Whoever therefore shall be minded to be a friend of the world, is constituted an enemy of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God is the rightful husband; the men of the world are regarded collectively as one adulteress, and individually as adulteresses."
 2. "The world - in so far as the men of it and their motives and acts are aliens to God, for example, its selfish 'lusts' and covetous and ambitious 'wars and fightings.'"
 3. "Whether he succeed or not, if his wish be to be the friend of the world, he renders himself, becomes by the very fact, 'the enemy of God.'"
@@ -55,4 +55,4 @@ The verse being described speaks of those who have forsaken their relationship w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

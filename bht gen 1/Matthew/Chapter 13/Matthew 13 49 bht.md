@@ -4,7 +4,7 @@
 The verse being described emphasizes the future separation of the righteous from the wicked. It draws attention to the need for a clear distinction between the two, highlighting that the wicked will ultimately be cast away. The verse is compared to a fisherman separating good fish from bad ones, illustrating the meticulous process of separating the righteous from the ungodly. It also highlights that this separation will have eternal consequences, with the righteous entering into life eternal and the wicked facing everlasting punishment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel draws within its pale, and into the communion of the visible Church, multitudes who are Christians only in name." 
 2. "The injury done to the Church on earth is to be traced to the wicked one." 
 3. "The prominence is given to the future separation of the two classes."
@@ -27,4 +27,4 @@ The verse being described emphasizes the future separation of the righteous from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

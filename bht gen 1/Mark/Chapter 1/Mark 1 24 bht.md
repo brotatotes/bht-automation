@@ -9,7 +9,7 @@ The verse being described emphasizes the unique nature and authority of Jesus as
 2. "ἡμᾶς, generic: 'communem inter se causam habent dæmonia,' Bengel."
 3. "We may add, John 19:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou and we have nothing in common we want not Thee; what wouldst Thou with us?"
 2. "Themselves tormentors and destroyers of their victims, they discern in Jesus their own destined tormentor and destroyer, anticipating and dreading what they know and feel to be awaiting them!"
 3. "The expression, 'Holy One of God,' seems evidently taken from that Messianic Psalm, in which He is styled 'Thine Holy One.'"
@@ -42,4 +42,4 @@ The verse being described emphasizes the unique nature and authority of Jesus as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

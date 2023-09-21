@@ -4,7 +4,7 @@
 This verse describes the abundant blessings and divine nature of God. It refers to the seven spirits, representing the Holy Spirit's diverse gifts and graces, and emphasizing unity through diversity. The phrase "from him who is, and who was, and who is to come" highlights God's eternal and unchanging nature. The use of the number seven signifies the completeness and perfection of God's covenant relationship with the Church, representing every grace and benefit bestowed. This verse is a powerful reminder of God's everlasting presence and countless blessings for His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These seven represent the universal Church of all times and places."
 2. "It is the covenant number, the sign of God's covenant relation to mankind, and especially to the Church."
 3. "In the Apocalypse, where God's covenant with His Church comes to its consummation, appropriately the number seven recurs still more frequently than elsewhere in Scripture."
@@ -38,4 +38,4 @@ This verse describes the abundant blessings and divine nature of God. It refers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

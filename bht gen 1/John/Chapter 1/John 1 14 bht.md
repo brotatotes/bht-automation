@@ -10,7 +10,7 @@ The verse being described speaks of the Word becoming flesh, signifying the inca
 3. "μονογενής of the Father in the higher sense, in which He is γεννηθείς the Son of God."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "BECAME MAN, in man's present frail, mortal condition, denoted by the word 'flesh'...Nor could He be too much so, for with the verity of the Incarnation all substantial Christianity vanishes."
 2. "For ever wedded to our 'flesh,' He has entered this tabernacle to 'go no more out.'"
 3. "In His Person all that Grace and Truth which had been floating so long in shadowy forms, and darting into the souls of the poor and needy its broken beams, took everlasting possession of human flesh and filled it full."
@@ -53,4 +53,4 @@ Note: The provided commentary is a paraphrase of the verse, not a direct comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

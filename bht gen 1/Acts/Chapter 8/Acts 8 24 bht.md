@@ -9,7 +9,7 @@ In this verse, a man named Simon is described as seeking intercession from other
 2. "It is observable also that he wishes merely for the averting of the punishment." 
 3. "The words ὅπως μηδὲν ἐπέλθῃ ἐπ ʼ ἐμὲ ὧν εἰρήκατε seem remarkably to set forth the mere terror of the carnal man, without any idea of the ἐμέ becoming another man in thoughts and aims."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray ye to the Lord for me—Peter had urged him to pray for himself: he asks those wonder-working men to do it for him; having no confidence in the prayer of faith, but thinking that those men possessed some peculiar interest with heaven." 
 2. "That none of these things come upon me—not that the thought of his wicked heart might be forgiven him, but only that the evils threatened might be averted from him." 
 3. "While this throws great light on Peter's view of his melancholy case, it shows that Christianity, as something divine, still retained its hold of him."
@@ -45,4 +45,4 @@ In this verse, a man named Simon is described as seeking intercession from other
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

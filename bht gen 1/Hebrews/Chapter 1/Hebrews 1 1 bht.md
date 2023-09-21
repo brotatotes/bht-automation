@@ -9,7 +9,7 @@ The Bible verse being described is a revelation of God's truth that stands in co
 2. "The days of the Messiah were regarded as a period of transition from the former to the latter, His appearance, as the ushering in of the termination of αἱ ἡμέραι αὗται, the beginning of the end, and His second coming in glory as the συντέλεια τῶν ἡμερῶν τούτων or τοῦ αἰῶνος (τούτου)." 
 3. "We may say, that Jesus is ‘the Son of God:’ by this is definitely enough expressed the fact, and the distinction from other sons of God implied: but we may also say that He is ‘Son of God:’ and we thus give the predicate all fulness of meaning and prominence, and even more emphatically and definitely express the exclusive character of His Sonship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All was not revealed to each one prophet; but one received one portion of revelation, and another another."
 2. "The Old Testament revelations were fragmentary in substance, and manifold in form; the very multitude of prophets shows that they prophesied only in part."
 3. "The Son is the last and highest manifestation of God; not merely a measure, as in the prophets, but the fulness of the Spirit of God dwelling in Him bodily."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and does not provide a complete unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

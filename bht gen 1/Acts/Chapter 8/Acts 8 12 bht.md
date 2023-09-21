@@ -4,7 +4,7 @@
 In this Bible verse, there is a powerful connection between sincere belief and a tangible experience of God's power. Genuine faith not only leads to a personal encounter with the divine, but also requires a complete submission to God's authority. Through preaching about the kingdom of God and baptizing both men and women, the transformative nature of belief is evidenced as it exposes and overcomes deception, deepening the effects of the message and consecrating families to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The detection of Simon's frauds helping to extend and deepen the effects of Philip's preaching." 
 2. "The baptism of both men and women signifies the inclusive nature of the Gospel message." 
 3. "This event highlights the power of truth to expose and overcome deception."
@@ -40,4 +40,4 @@ In this Bible verse, there is a powerful connection between sincere belief and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

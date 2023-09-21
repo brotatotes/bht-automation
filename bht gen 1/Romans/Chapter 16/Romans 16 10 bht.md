@@ -4,7 +4,7 @@
 In this verse, we see the recognition of someone who has been tested and proven faithful in their commitment to Christ. It highlights the significance of discerning true believers who are approved by God and Christ, rather than relying on human commendations. This approval in Christ is not limited to status or background, as it extends even to individuals from influential households. It is a reminder of the enduring theme in the Bible that true faith is tested and proven, and holds great value in the eyes of God, Christ, and fellow believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute Apelles approved—"the approved" in Christ—or, as we should say, "that tried Christian"; a noble commendation."
 2. "Salute them which are of Aristobulus' household —It would seem, from what is said of Narcissus in Romans 16:11, that this Aristobulus himself had not been a Christian; but that the Christians of his household simply were meant."
 3. "Very possibly some of his slaves."
@@ -46,4 +46,4 @@ In this verse, we see the recognition of someone who has been tested and proven 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

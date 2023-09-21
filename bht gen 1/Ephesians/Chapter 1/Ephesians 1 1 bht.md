@@ -9,7 +9,7 @@ In this epistle, the author emphasizes his divine appointment as an apostle of J
 2. "On ἁγίοις, see Ellicott’s note. It is used here in its widest sense, as designating the members of Christ’s visible Church, presumed to fulfil the conditions of that membership."
 3. "The ἁγίοις and πιστοῖς denote their spiritual life from its two sides that of God who calls and sanctifies, that of themselves who believe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "called to the apostleship through that same 'will' which originated the Church"
 2. "The sanctification by God is here put before man's faith."
 3. "The twofold aspect of salvation is thus presented, God's grace in the first instance sanctifying us, and our faith, by God's gift, laying hold of salvation."
@@ -48,4 +48,4 @@ In this epistle, the author emphasizes his divine appointment as an apostle of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

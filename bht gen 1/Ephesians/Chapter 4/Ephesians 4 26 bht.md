@@ -9,7 +9,7 @@ In this Bible verse, we are instructed to handle anger in a righteous and contro
 2. "Let the sun not set upon your irritation." - There should be a speedy limit to one's anger towards a brother, as nature itself prescribes the solemn season when you part from that brother, possibly never to meet again in this lifetime.
 3. "παροργισμός is a late word, apparently not found beyond the N. T. and LXX." - The term "παροργισμός" refers to irritation on occasion given, highlighting the importance of not allowing irritation to fester and escalate into sin.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Should circumstances arise to call for anger on your part, let it be as Christ's 'anger' (Psalms 4:4), without sin."
 2. "Our natural feelings are not wrong when directed to their legitimate object, and when not exceeding due bounds."
 3. "Let not your 'anger' at another's wickedness verge into hatred, or contempt, or revenge."
@@ -53,4 +53,4 @@ In this Bible verse, we are instructed to handle anger in a righteous and contro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

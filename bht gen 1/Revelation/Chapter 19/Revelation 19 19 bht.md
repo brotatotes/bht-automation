@@ -4,7 +4,7 @@
 In this verse, commentators describe a powerful gathering of hostile forces in a final war at Armageddon. They refer to this war as the same one mentioned in previous chapters, pitting the Messiah against the antichrist and his armies. The battle involves the unity of the Son of God and His redeemed people against the opposing forces, including the ten kings of the earth and even beings from different realms. This epic showdown holds the fate of the world and determines whether true religion or opposing powers will reign.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "gathered together—at Armageddon, under the sixth vial."
 2. "For 'their armies' in B and ANDREAS, there is found 'His armies' in A."
 3. "But A and B read, 'the war,' namely, that foretold, Revelation 16:14; Revelation 17:4."
@@ -41,4 +41,4 @@ In this verse, commentators describe a powerful gathering of hostile forces in a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

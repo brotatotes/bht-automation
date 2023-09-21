@@ -9,7 +9,7 @@ This verse encourages believers to not only acquire knowledge and teachings, but
 2. "The first καί is not 'both,' as E. V., but also, moreover: which, besides what I have said recommending them above, were also recommended to you by my own example."
 3. "Those things which ye moreover learned, and received and heard and saw in me, these things practise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The things also which ye have learned . . . these practice" - The commentary emphasizes the importance of putting into practice the teachings that have been learned. It highlights the need for action and application of knowledge.
 
 2. "The things which besides recommending them in words, have been also recommended by my example, carry into practice" - This quote underscores the significance of leading by example and how actions can speak louder than words. It encourages the readers to follow the example set by the commentator.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite short, so the quotes are also brief.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

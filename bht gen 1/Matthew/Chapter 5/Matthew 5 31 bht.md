@@ -4,7 +4,7 @@
 The verse being described emphasizes the seriousness and solemnity of divorce, which was intended as a last resort, according to commentator John Wesley. The distortion of the law by the scribes and Pharisees allowed for trivial reasons for divorce, undermining the sanctity of marriage, as pointed out by Wesley. Upholding the sacredness of marriage and the commitment it entails is a key message, reminding us that divorce should not be taken lightly but approached with careful consideration and understanding of its impact on individuals and families.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law of divorce—according to its strictness or laxity—has so intimate a bearing upon purity in the married life, that nothing could be more natural than to pass from the seventh commandment to the loose views on that subject then current."
 2. "The one legitimate ground of divorce allowed by the enactment just quoted was 'some uncleanness'—in other words, conjugal infidelity."
 3. "But while one school of interpreters (that of SHAMMAI) explained this quite correctly, as prohibiting divorce in every case save that of adultery, another school (that of HILLEL) stretched the expression so far as to include everything in the wife offensive or disagreeable to the husband—a view of the law too well fitted to minister to caprice and depraved inclination not to find extensive favor."
@@ -46,4 +46,4 @@ Note: The quotes have been shortened for conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

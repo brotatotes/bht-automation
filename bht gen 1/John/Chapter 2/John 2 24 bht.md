@@ -4,7 +4,7 @@
 In this Bible verse, Jesus exercises caution and discernment in His relationships with His followers. He does not fully entrust Himself to those who do not genuinely believe in Him, nor does He lower Himself or become overly familiar with those who lack true discipleship. Jesus reserves a deeper level of trust and intimacy for His genuine disciples who have a sincere faith. This passage highlights the importance of true commitment and authenticity in our relationship with Christ, rather than mere appearances or superficial beliefs.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "did not commit—"entrust,"" - This quote highlights the idea that Jesus did not fully entrust Himself to those who were not His genuine disciples. It suggests that Jesus was cautious in revealing Himself completely to those who did not truly believe in Him.
 
 2. "let Himself down familiarly to them" - This quote implies that Jesus did not lower Himself or become overly familiar with those who did not genuinely follow Him. It suggests that Jesus maintained a certain level of distance or reserve with those who did not have a true relationship with Him.
@@ -45,4 +45,4 @@ In this Bible verse, Jesus exercises caution and discernment in His relationship
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

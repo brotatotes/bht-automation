@@ -9,7 +9,7 @@ The verse being described is discussing the priesthood of Jesus Christ. The comm
 2. "the law of Moses as a whole, and ἐντολῆς σαρκίνης as = a plural, and designating the character of those commandments of which the law was composed" - The commandments of the law were characterized by their focus on the fleshly aspects of life.
 3. "according to the power of an indissoluble life" - The priesthood of Christ is sustained by the enduring power of His glorious and everlasting life.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law was weak through the flesh" - highlighting the weakness of the law in bringing about true transformation and life.
 2. "Carnal, as being only outward and temporary, is contrasted with 'endless'" - emphasizing the temporary nature of earthly practices compared to the eternal nature of Christ's priesthood.
 3. "The law can give a commandment, but it cannot give life" - underscoring the limitation of the law in granting true spiritual life.
@@ -50,4 +50,4 @@ Note: The commentary provided is quite brief and lacks substantial content. Howe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

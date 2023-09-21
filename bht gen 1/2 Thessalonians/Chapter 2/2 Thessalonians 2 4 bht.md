@@ -4,7 +4,7 @@
 The described verse highlights the rise of a figure known as Antichrist, who embodies sin and lawlessness. Antichrist opposes and exalts himself above Christ, claiming divine attributes and demanding worship. This false leader usurps authority and sits in the temple of God, deceiving people into believing he is a god. Antichrist introduces teachings and practices that contradict Christ's teachings, seeking to establish his own power and dominion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fourth and last world kingdom, under which we now live, shall have one final head, the concentrated embodiment of all the sin and lawless iniquity which have been in pagan and papal Rome."
 2. "He not merely assumes Christ's character (as the 'false Christs'), but 'opposes' Christ. The Greek implies one situated on an opposite side."
 3. "Antichrist shall exalt himself above every object of worship, whether on earth as the Cæsar, or in heaven as God."
@@ -45,4 +45,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

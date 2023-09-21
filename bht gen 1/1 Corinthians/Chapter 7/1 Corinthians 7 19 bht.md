@@ -9,7 +9,7 @@ In this Bible verse, commentators discuss the insignificance of external rituals
 2. "It is given by καινὴ κτίσις." (Galatians 6:15)
 3. "After θεοῦ, supply τὰ πάντα ἐστίν." (1 Corinthians 3:7)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Circumcision . . . nothing, but . . . keeping of . . . commandments of God—namely, is all in all." 
 2. "In Galatians 5:6 this 'keeping of the commandments of God' is defined to be 'faith which worketh by love'." 
 3. "Circumcision was a commandment of God: but not for ever, as 'love'."
@@ -47,4 +47,4 @@ In this Bible verse, commentators discuss the insignificance of external rituals
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

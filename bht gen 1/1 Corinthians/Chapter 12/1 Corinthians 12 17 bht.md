@@ -11,7 +11,7 @@ In this verse, the Bible highlights the necessity of interconnectedness and unit
 
 3. "Understand ἧν in each clause" - This quote points to the importance of properly interpreting and understanding the meaning of each clause in the verse. It encourages careful analysis and attention to detail in order to fully grasp the intended message and implications of the passage.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The eye is superior, but it cannot function effectively without the support and coordination of the other members of the body."
 2. "Just as the eye cannot see without the assistance of the hands, feet, and other body parts, we as individuals cannot thrive without the interconnectedness and collaboration of others."
 3. "This verse reminds us of the importance of unity and the need for each member to contribute their unique gifts and talents for the greater good of the whole."
@@ -47,4 +47,4 @@ In this verse, the Bible highlights the necessity of interconnectedness and unit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

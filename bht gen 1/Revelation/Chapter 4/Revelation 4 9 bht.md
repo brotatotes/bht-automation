@@ -4,7 +4,7 @@
 From the commentaries, we gather that this Bible verse depicts a scene in which creation and the redeemed beings are engaged in continuous praise and worship of God. It highlights the foundational role of creation in expressing gratitude towards God. The praise and glory given by representatives of nature are reciprocated by the redeemed, as they acknowledge and honor God's perfections, covenant, promises, and the gifts and grace bestowed upon them. This act of worship encompasses all aspects of God's work in creation, redemption, and sanctification.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Creation is the foundation of all God's other acts of power, wisdom, and love, and therefore forms the first theme of His creatures' thanksgivings."
 2. "The four living creatures take the lead of the twenty-four elders, both in this anthem, and in that new song which follows on the ground of their redemption."
 3. "A simultaneous giving of glory on the part of the beasts, and on the part of the elders."
@@ -38,4 +38,4 @@ From the commentaries, we gather that this Bible verse depicts a scene in which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

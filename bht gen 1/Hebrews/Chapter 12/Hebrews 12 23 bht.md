@@ -9,7 +9,7 @@ The Bible verse describes a powerful sense of unity and belonging among Christia
 2. "There is no distinction between firstborn and later-born Christians, but, as Hofmann also acknowledges, all Christians as such are called πρωτότοκοι because of their heritorship of the heavenly inheritance."
 3. "The church militant here below brings to mind those enemies and persecutors, for deliverance and righting from whom she looks to the righteous judgment of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All those who at the coming of 'God the Judge of all'...shall be found 'written in heaven,' that is, in the Lamb's book of life...ye are already members of the heavenly citizenship." 
 2. "The spirits of just men made perfect—at the resurrection, when the 'JUDGE' shall appear, and believers' bliss shall be consummated by the union of the glorified body with the spirit; the great hope of the New Testament." 
 3. "The resurrection bodies of the saints shall be bodies in which the spirit shall altogether preponderate over the animal soul."
@@ -43,4 +43,4 @@ The Bible verse describes a powerful sense of unity and belonging among Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

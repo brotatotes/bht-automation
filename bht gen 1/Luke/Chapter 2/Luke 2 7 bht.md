@@ -9,7 +9,7 @@ In this verse, we see the fulfillment of the prophecy that the Messiah would be 
 2. "Ancient tradition states the birthplace of our Lord to have been a cave."
 3. "Caves are used in most rocky countries as stables."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law, in speaking of the first-born, regardeth not whether any were born after or no, but only that none were born before."
 2. "The ancient tradition, that our Lord was born in a grotto or cave, is quite consistent with this, the country being rocky."
 3. "But some 'guests went and came' not 'rudely,' but reverently. God sent visitors of His own to pay court to the new-born King."
@@ -57,4 +57,4 @@ In this verse, we see the fulfillment of the prophecy that the Messiah would be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

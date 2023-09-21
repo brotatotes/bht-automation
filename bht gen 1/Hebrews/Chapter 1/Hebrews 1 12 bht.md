@@ -4,7 +4,7 @@
 The Bible verse, expertly described by the commentators, speaks of the temporary nature of the current creation, which will be rolled up and discarded. It highlights the transformative nature of the future creation, emphasizing its complete difference from the present one. Additionally, it indicates that the new creation will be characterized by righteousness, suggesting a state of moral perfection and harmony. This transformation by God signifies His power, authority, and faithfulness, as nature is subject to His will and purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit, by Paul, treats the Hebrew of the Old Testament, with independence of handling, presenting the divine truth in various aspects."
 2. "Changed—as one lays aside a garment to put on another."
 3. "Thou art the same—(Isaiah 46:4; Malachi 3:6). The same in nature, therefore in covenant faithfulness to Thy people."
@@ -45,4 +45,4 @@ The Bible verse, expertly described by the commentators, speaks of the temporary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

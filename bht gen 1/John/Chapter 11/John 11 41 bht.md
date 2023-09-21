@@ -4,7 +4,7 @@
 In this verse, Jesus gazes up to heaven, not in a prayerful manner, but to demonstrate His sovereignty and connection to the Father. He expresses gratitude to the Father, confident that His desire to showcase His power and give glory to God will be fulfilled. Jesus' unwavering trust in the Father's support is evident as He prepares to perform the miracle, emphasizing His divine authority over life and death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus lifted up his eyes—an expression marking His calm solemnity."
 2. "He prayed not for what He wanted, but for the manifestation of what He had."
 3. "Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act."
@@ -43,4 +43,4 @@ In this verse, Jesus gazes up to heaven, not in a prayerful manner, but to demon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

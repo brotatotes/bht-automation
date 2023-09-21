@@ -4,7 +4,7 @@
 This verse speaks of a group of individuals who have remained faithful to their Christian beliefs, not being led astray by temptation. They are described as chaste, followers of Jesus, and redeemed from among the people. They are characterized by their purity, free from any defilement or impurity, and they imitate the example of Jesus in their lives. They are honored as the first fruits of the redeemed, near to the Lamb of God, and their reward is to be in his presence. This passage invites us to aspire to be part of this virtuous and dedicated group.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their not being defiled with women means they were not led astray from Christian faithfulness by the tempters who jointly constitute the spiritual 'harlot.'" 
 2. "Follow the Lamb whithersoever he goeth—in glory, being especially near His person; the fitting reward of their following Him so fully on earth." 
 3. "Not merely a 'first-fruit' in the sense in which all believers are so, but Israel's 144,000 elect are the first-fruit, the Jewish and Gentile elect Church is the harvest."
@@ -42,4 +42,4 @@ This verse speaks of a group of individuals who have remained faithful to their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

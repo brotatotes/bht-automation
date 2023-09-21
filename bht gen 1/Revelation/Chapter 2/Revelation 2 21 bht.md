@@ -4,7 +4,7 @@
 In this verse, there is a transition from literal to spiritual fornication which is likened to Jehovah's covenant relationship with the Old Testament Church. The sin has been long standing, but now there is no more room for delay and the judgment of God is imminent. The delay in executing judgment was meant to lead the transgressors to repentance, but they obstinately refused. Though granted time, opportunity, and warnings, they chose not to repent. The power of Christ is great, but ultimately, repentance is the gift of God that can be rejected by man.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here there is a transition from literal to spiritual fornication, as appears from Revelation 2:22."
 2. "The idea arose from Jehovah's covenant relation to the Old Testament Church being regarded as a marriage."
 3. "Any transgression against which was, therefore, harlotry, fornication, or adultery."
@@ -38,4 +38,4 @@ In this verse, there is a transition from literal to spiritual fornication which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, we find a vivid portrayal of an everlasting and righteous kingdom ruled by a majestic and divine King. The descriptions of a "sceptre of righteousness" and "a throne of God" emphasize the authority and just rule of this King. The commentary highlights the messianic nature of the verse, attributing it to the anticipated Messiah, who is regarded as God and the rightful ruler of his people. The prominence of righteousness and justice in his reign underscores the moral character of his kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Everlasting duration and righteousness go together."
 2. "A sceptre of righteousness, literally 'a rod of rectitude,' or 'straightforwardness.'"
 3. "The oldest manuscripts prefix 'and'."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks sufficient context to full
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator quotes highlight the necessity and reasons for ob
 2. "There is a moral necessity for subjection: one not only of terror, but of conscience."
 3. "Compare with 'because of the Lord' in 1 Peter 2:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wherefore ye must needs be subject, not only for wrath—for fear of the magistrate's vengeance." 
 2. "It is of Magistracy in general, considered as a divine ordinance, that this is spoken: and the statement applies equally to all forms of government."
 3. "The inalienable right of all subjects to endeavor to alter or improve the form of government under which they live is left untouched here."
@@ -52,4 +52,4 @@ In this verse, the commentator quotes highlight the necessity and reasons for ob
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

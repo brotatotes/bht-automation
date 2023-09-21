@@ -11,7 +11,7 @@ Our God, who is to be feared and reverenced, is a consuming fire. This statement
 
 3. "The fire of God's presence and purity becomes to His people, while it consumes their vanity and sin and earthly state, the fire of purity and light and love for their enduring citizenship of His kingdom." - This statement illustrates how God's consuming fire purifies His people, burning away their sinful nature and transforming them into citizens of His kingdom.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For even our God—in whom we hope, is also to be feared." - This quote highlights the dual nature of God, as both a loving and wrathful being. It emphasizes the importance of recognizing and revering God's power and authority.
 
 2. "He is love; yet there is another side of His character." - This quote acknowledges that while God is love, there is also a side of Him that expresses wrath towards sin. It reminds us that God's love does not negate His righteous judgment.
@@ -56,4 +56,4 @@ Our God, who is to be feared and reverenced, is a consuming fire. This statement
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

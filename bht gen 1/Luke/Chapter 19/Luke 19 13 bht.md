@@ -9,7 +9,7 @@ Commentators offer various perspectives on the Bible verse, emphasizing themes o
 2. "The sums given are here all the same, and all very small."
 3. "The man given his whole property to his servants: here he makes trial of them with these small sums."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Occupy" in this context means to "negotiate" or "do business" with the resources that have been entrusted to us. It implies that we are not meant to passively hold onto these resources, but rather to actively engage with them and use them wisely.
 
 2. By using the word "occupy," the verse suggests that we have a responsibility to be good stewards of the resources we have been given. We are called to actively engage with them, making the most of what we have been entrusted with.
@@ -61,4 +61,4 @@ Commentators offer various perspectives on the Bible verse, emphasizing themes o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

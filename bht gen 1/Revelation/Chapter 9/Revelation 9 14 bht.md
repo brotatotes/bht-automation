@@ -4,7 +4,7 @@
 In this verse, there is a river that is significant - it was the ancient foe of God's people and formed a natural defense for Israel against Assyria. This river, known as the great River, suddenly becomes the place where four angelic ministers of God's judgments are let loose. They assemble an army to bring devastation, particularly in Palestine. These angels were previously bound, restrained from proceeding further into the Roman Empire, but now they are allowed to carry out their purpose. It is unclear why they were bound or for how long.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The river whereat Babylon, the ancient foe of God's people was situated."
 2. "Whether from the literal region of the Euphrates, or from the spiritual Babylon (the apostate Church, especially ROME), four angelic ministers of God's judgments shall go forth."
 3. "Assembling an army of horsemen throughout the four quarters of the earth, to slay a third of men, the brunt of the visitation shall be on Palestine."
@@ -38,4 +38,4 @@ In this verse, there is a river that is significant - it was the ancient foe of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

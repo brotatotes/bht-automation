@@ -11,7 +11,7 @@ This verse speaks of the message of salvation, which is not limited to a specifi
 
 3. "The salvation implied in Jesus being a σωτήρ salvation by Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "children . . . of Abraham, and whosoever among you feareth God—Gentile proselytes." - This quote highlights that the message of salvation is not limited to the physical descendants of Abraham but also extends to those who fear God, including Gentile proselytes.
 
 2. "to you is the word of this salvation sent" - This quote emphasizes that the message of salvation is not just for a select few but is intended for all who are willing to receive it.
@@ -54,4 +54,4 @@ This verse speaks of the message of salvation, which is not limited to a specifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

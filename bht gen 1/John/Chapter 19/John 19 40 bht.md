@@ -11,7 +11,7 @@ In this Bible verse, there is a description of the burial of Jesus Christ. It me
 
 3. "Winer, Friedlieb."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had the Lord's own friends had the least reason to think that the spark of life was still in Him, would they have done this?"
 2. "But even if one could conceive them mistaken, could anyone have lain thus enveloped for the period during which He was in the grave, and life still remained? Impossible."
 3. "When, therefore, He walked forth from the tomb, we can say with the most absolute certainty, 'Now is Christ risen from the dead, and become the first-fruits of them that slept' (1 Corinthians 15:20)."
@@ -47,4 +47,4 @@ In this Bible verse, there is a description of the burial of Jesus Christ. It me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

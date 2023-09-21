@@ -9,7 +9,7 @@ This verse speaks of a group of individuals who confidently profess to know and 
 2. "They make confession openly, in sight of men."
 3. "Being abominable and disobedient, and for every good work worthless."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They profess—that is, make a profession acknowledging God. He does not deny their theoretical knowledge of God, but that they practically know Him."
 2. "deny him—the opposite of the previous 'profess' or 'confess' Him."
 3. "reprobate—rejected as worthless when tested."
@@ -52,4 +52,4 @@ This verse speaks of a group of individuals who confidently profess to know and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

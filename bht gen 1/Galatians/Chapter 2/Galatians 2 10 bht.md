@@ -9,7 +9,7 @@ In this Bible verse, the emphasis is placed on remembering and caring for the po
 2. "Which was the very thing that I also was anxious to do, viz., then and always: it was my habit."
 3. "ἐσπούδασα has not a pluperfect sense. He uses the singular, because the plural could not correctly be predicated of the whole time to which the verb refers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember the poor—of the Jewish Christians in Judea, then distressed."
 2. "Paul and Barnabas had already done so."
 3. "Paul was zealous for good works, while denying justification by them."
@@ -53,4 +53,4 @@ In this Bible verse, the emphasis is placed on remembering and caring for the po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

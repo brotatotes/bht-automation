@@ -11,7 +11,7 @@ This Bible verse describes a situation where a person, possibly Barnabas, who ma
 
 3. Other examples of this usage of "χρῆμα" can be found in Wetstein. (Quote 37)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Place was shaken—glorious token of the commotion which the Gospel was to make."
 2. "The Spirit rested upon the entire community, first, in the very way they had asked, so that they 'spake the word with boldness.'"
 3. "The community of goods was but an outward expression of this, and natural in such circumstances."
@@ -46,4 +46,4 @@ These quotes provide insights into the uncertainty surrounding the location and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

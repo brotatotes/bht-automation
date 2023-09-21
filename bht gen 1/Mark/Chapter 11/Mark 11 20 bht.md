@@ -4,7 +4,7 @@
 This powerful verse illustrates the transformative power of faith when put into action. It serves as a reminder that true faith involves not only belief, but also tangible steps of obedience and trust. It encourages us to tap into the boundless potential of our faith, reminding us that with God, all things are possible. This verse prompts us to reflect on the sincerity of our faith and encourages us to embrace the miraculous work that God can do in our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They saw the fig tree dried up from the roots—no partial blight, leaving life in the root; but it was now dead, root and branch." 
 2. "The precision with which Mark distinguishes the days is not observed by Matthew, intent only on holding up the truths which the incident was designed to teach."
 3. "The only difference is between a more summary and a more detailed narrative, each of which only confirms the other."
@@ -37,4 +37,4 @@ This powerful verse illustrates the transformative power of faith when put into 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ From the commentaries of Henry Alford and John Wesley, we can gather an understa
 2. "But the Heb. is מִי הִקְדִּימַנִי וַאֲשַׁלִּם, 'who hath anticipated (i.e. by the context, conferred a benefit on) me, that I may repay him?'" - Commentary on Job 41:3
 3. "We can hardly doubt that this question refers to the freeness and richness of God’s mercy and love." - Commentary on Job 41:3
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's plans and methods in the dispensation of His Grace have a reach of comprehension and wisdom stamped upon them which finite mortals cannot fathom."
 2. "God's ancient people was the great truth which the apostle himself had just uttered."
 3. "God's plans and methods in the dispensation of His Grace have a reach of comprehension and wisdom stamped upon them."
@@ -57,4 +57,4 @@ From the commentaries of Henry Alford and John Wesley, we can gather an understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentators explain that this verse outlines the various orders and roles w
 2. "Not merely the Twelve are thus designated, but they and others who bore the same name and had equal power."
 3. "He here passes to the abstract nouns from the concrete, perhaps because no definite class of persons was endowed with each of the following, but they were promiscuously granted to all orders in the church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Teachers—who taught, for the most part, truths already revealed whereas the prophets made new revelations and spoke all their prophesyings under the Spirit's influence."
 2. "Miracles—literally, 'powers' (1 Corinthians 12:10): ranked below 'teachers,' as the function of teaching is more edifying, though less dazzling than working miracles."
 3. "Helps, governments—lower and higher departments of 'ministrations' (1 Corinthians 12:10- :); as instances of the former, deacons whose office it was to help in the relief of the poor, and in baptizing and preaching, subordinate to higher ministers."
@@ -55,4 +55,4 @@ These quotes highlight the different roles and functions within the early Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of the universal salvation brought about by the grace of Chris
 2. "It can neither be reasonable nor according to God's will, to fetter that grace with superfluous and vexatious conditions."
 3. "Their ground of trust is the same as ours: ours, no more than theirs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through the grace of the Lord Jesus—that is, by that only." 
 2. "Circumcision in our case being no advantage, and in their case uncircumcision no loss." 
 3. "Grace doing all for both, and the same for each."
@@ -50,4 +50,4 @@ This verse speaks of the universal salvation brought about by the grace of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

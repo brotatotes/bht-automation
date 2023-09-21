@@ -9,7 +9,7 @@ In this Bible verse, Jesus examines Peter's love for Him, asking him if he truly
 2. "This phrase also suggests that the healing was not a mere coincidence or a one-time event, but a deliberate act of Jesus to demonstrate his divine nature."
 3. "By healing the nobleman's son 'πάλιν δεύτερον,' Jesus not only showed compassion and mercy, but also reinforced the importance of faith in receiving God's blessings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is a tender as well as skilful Physician, and Peter's silence on that point was confession enough of his sin and folly."
 2. "On Peter's repeating his protestation in the same words, our Lord rises higher in the manifestation of His restoring grace."
 3. "It has been observed that the word here is studiously changed, from one signifying simply to feed, to one signifying to tend as a shepherd, denoting the abiding exercise of that vocation, and in its highest functions."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus examines Peter's love for Him, asking him if he truly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

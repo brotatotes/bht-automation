@@ -9,7 +9,7 @@ The Bible verse highlights the command to honor and respect one's parents, encom
 2. This phrase can be found in the Septuagint, the Greek translation of the Old Testament. (Quote 2)
 3. The use of this Hebraism suggests a deeper meaning behind the act of telling or recounting, emphasizing the importance of sharing and passing on stories and experiences. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Honoring our parents is not just about obeying their commands, but also about showing them respect, gratitude, and love. It is a commandment that reflects the importance of family relationships and the role parents play in our lives." 
 
 2. "The severity of the punishment for cursing one's parents shows the seriousness of dishonoring them. It is a reminder of the significance of honoring our parents and the consequences of neglecting this commandment." 
@@ -40,4 +40,4 @@ The Bible verse highlights the command to honor and respect one's parents, encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

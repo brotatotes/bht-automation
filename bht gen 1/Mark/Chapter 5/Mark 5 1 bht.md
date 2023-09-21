@@ -4,7 +4,7 @@
 In the story, Jesus and His disciples journey to the other side of the sea, symbolizing a transition from the familiar to the unknown. They arrive in the country of the Gadarenes, a place associated with darkness and spiritual bondage. Amidst the darkness, Jesus demonstrates His power over the forces of evil by casting out demons and restoring a man to his right mind. However, instead of rejoicing, the people in the region respond with fear and resistance. This story highlights the reality of spiritual warfare, the authority of Jesus, and the transformative power of His deliverance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The journey to the other side of the sea symbolizes a transition from the familiar to the unknown, from comfort to challenge. It reminds us that growth and transformation often require us to step out of our comfort zones and face the unfamiliar." 
 
 2. "The country of the Gadarenes represents a place of darkness and spiritual bondage. It serves as a reminder that sometimes we find ourselves in situations that seem hopeless and overwhelming. But even in the darkest places, Jesus is there, ready to bring light and deliverance." 
@@ -45,4 +45,4 @@ In the story, Jesus and His disciples journey to the other side of the sea, symb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

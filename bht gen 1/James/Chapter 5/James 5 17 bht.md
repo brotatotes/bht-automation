@@ -9,7 +9,7 @@ This verse describes the power of prayer through the example of Elijah. It empha
 2. "This fact is not even hinted at in the O. T. history... though this latter may perhaps be implied in 1 Kings 18:42 ff."
 3. "There is no real discrepancy here... the words 'in the third year' of 1Ki 18:1 by no necessity refer to the duration of the famine, but most naturally date back to the removal of Elijah to Zarephath, 1 Kings 17:8 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It cannot be said that [Elias] was so raised above us as to afford no example applicable to common mortals like ourselves."
 2. "Elias' prayer that it might not rain 'is not even hinted at in the Old Testament history.' In Luke 22:15- : it is plainly implied."
 3. "In jealousy for God's honor, [Elias] prayed that the national idolatry should be punished with a national judgment, drought; and on Israel's profession of repentance he prayed for the removal of the visitation."
@@ -57,4 +57,4 @@ This verse describes the power of prayer through the example of Elijah. It empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

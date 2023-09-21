@@ -9,7 +9,7 @@ Within the text, there is an emphasis on the diversity of gifts and roles within
 2. "The change of construction, μὴ πάντες χαρ .  ἔχουσιν ἰαμάτων, gives rise to the change of construction."
 3. "In the last two questions, he departs from the order of the last verse, and takes in again one particular from the former catalogue, 1 Corinthians 12:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question 'Are all?' implies that not everyone has the same level of faith or understanding. It acknowledges the diversity within the community and reminds us that we should not expect everyone to be at the same place in their spiritual journey."
 
 2. "This question challenges us to consider our own assumptions and biases. It prompts us to examine whether we are truly inclusive and accepting of all people, regardless of their beliefs or practices."
@@ -35,4 +35,4 @@ Within the text, there is an emphasis on the diversity of gifts and roles within
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

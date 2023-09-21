@@ -9,7 +9,7 @@ The verse being described talks about being under the care and guidance of tutor
 2. "προθεσμία, the time (previously) appointed."
 3. "The word (an adjective used substantively: scil. ἡμέρα or ὥρα. See for the classical meaning, ‘the time allowed to elapse before bringing an action,’ Smith’s Dict. of Antt. sub voce) is a common one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Guardians (of the person) and stewards (of the property)." - This quote highlights the roles of tutors and governors as not just educators, but also as protectors and managers of the individual and their possessions.
 
 2. "The law was our schoolmaster" - This quote refers to the idea that the law served as a guide or teacher for humanity, leading them to a deeper understanding of their need for salvation.
@@ -52,4 +52,4 @@ The verse being described talks about being under the care and guidance of tutor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

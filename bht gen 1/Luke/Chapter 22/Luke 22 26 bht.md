@@ -9,7 +9,7 @@ In this verse, believers are called to be like Christ in all aspects of their li
 2. "The word 'οὕτως' emphasizes the manner in which we are to be, indicating that it is not just a surface-level imitation, but a deep and genuine transformation of our character." 
 3. "By being like Christ, we reflect His love, grace, and truth to the world, drawing others to Him and bringing glory to His name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The condemnation of 'lordship' and vain titles has had little effect against the vanity of Christian ecclesiastics."
 
 2. "Despite the condemnation, Christian ecclesiastics continue to cling to their titles and positions of power."
@@ -49,4 +49,4 @@ In this verse, believers are called to be like Christ in all aspects of their li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

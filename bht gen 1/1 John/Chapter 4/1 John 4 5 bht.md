@@ -9,7 +9,7 @@ False prophets and teachers, who are of the world and aligned with the spirit of
 2. "That origin and source is the world, unregenerate human nature, ruled over and possessed by the devil, the prince of this world."
 3. "For this cause they speak of the world, and the world heareth them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They derive their spirit and teaching from the world, 'unregenerate human nature, ruled over and possessed by Satan, the prince of this world' [ALFORD]."
 2. "They draw the matter of their conversation from the life, opinions, and feelings of the world."
 3. "The world loves its own."
@@ -52,4 +52,4 @@ These quotes highlight the false prophets and teachers who are influenced by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

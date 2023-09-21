@@ -9,7 +9,7 @@ In this verse, the apostle Paul asserts his authority as an apostle and proclaim
 2. "No more direct assertion of inspiration can be uttered than this." 
 3. "‘These regulations which I am now making.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The followers of Apollos prided themselves as 'spiritual'." 
 2. "Here one capable of discerning spirits is specially meant." 
 3. "Paul's words as an apostle are Christ's words."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul asserts his authority as an apostle and proclaim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In response to the complaint of neglect, the early Christian community chose sev
 2. "The title of 'deacons' is nowhere applied to these seven in Scripture, nor does the word occur in the Acts at all."
 3. "But that the subsequent office of deacon was founded upon this appointment is very probable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The inclusion of these Greek names among the disciples suggests that they were part of the 'Grecian' class, which would have helped to rebuild trust and unity among the believers." 
 
 2. "By including these Greek names, the author highlights the importance of embracing diversity and promoting inclusivity within the community of believers." 
@@ -63,4 +63,4 @@ In response to the complaint of neglect, the early Christian community chose sev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes the state of the church as lukewarm and self-satisfied, lacking in spiritual fervor, and wavering in its purpose. It portrays Jesus as the embodiment of truth and faithfulness, the witness and fulfiller of God's promises. He is the beginning, the source, and the ruler of creation, highlighting his authority and significance. The verse also implies a coming judgment and the future establishment of Christ's personal kingdom. Its message serves as a reminder for the church to be zealous and faithful in its devotion to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This wealth (arising from the excellence of its wools) led to a self-satisfied, lukewarm state in spiritual things."
 2. "The saints used Amen at the end of prayer, or in assenting to the word of God; but none, save the Son of God, ever said, 'Amen, I say unto you,' for it is the language peculiar to God."
 3. "His unchanging faithfulness as 'the Amen' contrasts with Laodicea's wavering of purpose, 'neither hot nor cold'."
@@ -47,4 +47,4 @@ This verse describes the state of the church as lukewarm and self-satisfied, lac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, we see the king and governor rising, demonstrating their attention and interest in the words spoken by Paul. The presence of prominent figures adds significance to Paul's speech, creating a weighty atmosphere. This moment is of great value to King Agrippa, and the impact and response to Paul's words are yet to be determined.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The king rose—not over-easy, we may be sure." 
 2. "The king's response to Daniel's interpretation was not a casual one; it stirred him to action." 
 3. "This verse highlights the gravity and impact of Daniel's words on the king."
@@ -41,4 +41,4 @@ In this passage, we see the king and governor rising, demonstrating their attent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

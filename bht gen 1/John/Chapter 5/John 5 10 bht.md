@@ -9,7 +9,7 @@ The verse being described captures a scene where the Jews criticize a man for ca
 2. "The bearing of burdens on the Sabbath was forbidden not only by the glosses of the Pharisees, but by the law itself."
 3. "The whole kernel of this incident and discourse is not that it is lawful to do works of mercy on the Sabbath: but that the Son of God is Lord of the Sabbath."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A glorious testimony to the cure, as instantaneous and complete, from the lips of the most prejudiced!"
 2. "In ordinary circumstances, the rulers had the law on their side... But when the man referred them to 'Him that had made him whole' as his authority, the argument was resistless."
 3. "Yet they ingeniously parried the thrust, asking him, not who had 'made him whole'... but who had dared to order a breach of the Sabbath?"
@@ -53,4 +53,4 @@ These quotes highlight the misconception held by the Jews that it was forbidden 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

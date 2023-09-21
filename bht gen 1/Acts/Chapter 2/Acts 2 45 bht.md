@@ -9,7 +9,7 @@ In this Bible verse, believers demonstrated their faith by willingly selling the
 2. "αὐτά, their price; see a similar construction Matthew 26:9; and Winer, edn. 6, § 22. 3. 4."
 3. "καθότι ἂν …] The ἄν with imperf. indic. in this connexion implies ‘accidisse aliquid non certo quodam tempore, sed quotiescunque occasio ita ferret,’ Herm. ad Viger., p. 818."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is difficult to say how three thousand could be baptized in one day, according to the old practice of a complete submersion... The difficulty can only be removed by supposing that they already employed sprinkling, or baptized in houses in large vessels." [OLSHAUSEN]
 2. "Formal submersion in rivers, or larger quantities of water, probably took place only where the locality conveniently allowed it." [OLSHAUSEN]
 3. "Fitting inauguration of the new kingdom, as an economy of the Spirit!"
@@ -47,4 +47,4 @@ In this Bible verse, believers demonstrated their faith by willingly selling the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

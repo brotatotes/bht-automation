@@ -9,7 +9,7 @@ This verse emphasizes the importance of honoring and providing support for widow
 2. "We may fairly interpret it of this particular kind of honour, viz. being inscribed on the Church’s κατάλογος (1Ti 5:9) as a fit object of charitable sustenance."
 3. "The Apostle commands, ‘Honour (by placing on the list) those who are widows indeed:’ for it is these especially, they who are destitute of earthly friends, who are most likely to carry out the true religious duties of a widow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Honour—by setting on the church roll, as fit objects of charitable sustenance." 
 2. "So 'honor' is used for support with necessaries." 
 3. "widows indeed—Those really desolate; not like those having children or relations answerable for their support, nor like those 'who live in pleasure'; but such as, from their earthly desolation as to friends, are most likely to trust wholly in God, persevere in continual prayers, and carry out the religious duties assigned to Church widows."
@@ -59,4 +59,4 @@ Note: The commentary provides additional historical context and insights into th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

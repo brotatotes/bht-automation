@@ -7,7 +7,7 @@ The listeners, upon hearing the message, were deeply moved, experiencing a trans
 ### Henry Alford:
 Apologies, but I am unable to receive or process messages. However, if you provide the commentary in your initial message, I will be able to assist you in extracting the best parts.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they heard these things, they were cut to the heart." This quote highlights the impact of the message on the listeners, emphasizing their emotional response and the deep conviction it stirred within them.
 
 2. "If they could have answered him, how different would have been their temper of mind!" This quote suggests that the listeners were unable to refute or argue against the message, indicating the power and truthfulness of what was being proclaimed.
@@ -48,4 +48,4 @@ Apologies, but I am unable to receive or process messages. However, if you provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

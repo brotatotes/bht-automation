@@ -11,7 +11,7 @@ This verse speaks about the righteous judgment of God, the power and might of Go
 
 These quotes highlight the themes of liberation from affliction, the power of God, and the glory associated with the Lord's coming.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing it is a righteous thing with God" - This phrase emphasizes that the judgment and recompense mentioned in the verse are not arbitrary or unjust, but rather aligned with God's righteous standards.
 2. "Our own innate feeling of what is just, in this confirms what is revealed" - This highlights the idea that our sense of justice aligns with God's perspective, further reinforcing the righteousness of the judgment mentioned.
 3. "Recompense...tribulation to them that trouble you; and to you who are troubled, rest from trouble" - This phrase succinctly captures the concept of recompense, indicating that those who cause trouble will receive tribulation while those who are troubled will find rest.
@@ -57,4 +57,4 @@ These quotes emphasize the belief that the future punishment of the wicked is ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentators emphasize the repetitive nature, urgency, and se
 
 3. "More than once" - This phrase implies that John's exhortations were not a one-time occurrence, but rather a continuous and persistent call to action.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Noble fidelity! It was not lawful because Herod's wife and Herodias' husband were both living." 
 
 2. "The parties were within the forbidden degrees of consanguinity." 
@@ -32,4 +32,4 @@ In this verse, the commentators emphasize the repetitive nature, urgency, and se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes the contrast between the ministration of co
 2. "The ministration of condemnation, because the Law detects and condemns sin." 
 3. "The ministration of righteousness, because therein the righteousness of God is revealed and imparted by faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law regarded in the 'letter' which 'killeth'." 
 2. "The Gospel, which especially reveals the righteousness of God."
 3. "Imparts righteousness by the Spirit."
@@ -50,4 +50,4 @@ The verse being described emphasizes the contrast between the ministration of co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

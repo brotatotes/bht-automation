@@ -4,7 +4,7 @@
 In this Bible verse, Jesus separates himself from the Pharisees and Sadducees, making it clear that he disapproves of their teachings and hypocrisy. He departs to the other side of the sea, symbolically distancing himself from their corrupting influence. This episode serves as a warning to the disciples and to us about the danger of being influenced by false teachings and the need to guard our hearts against hypocrisy and false influences. Jesus quietly leaves, choosing not to engage with the perverse and hardened religious leaders.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The departure of Jesus from the Pharisees and Sadducees is a clear indication of his disapproval of their teachings and hypocrisy." 
 
 2. "By entering the ship and departing to the other side, Jesus symbolically separates himself from the corrupting influence of the religious leaders." 
@@ -25,4 +25,4 @@ In this Bible verse, Jesus separates himself from the Pharisees and Sadducees, m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

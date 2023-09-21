@@ -9,7 +9,7 @@ In this verse, we witness the gravity and careful orchestration surrounding the 
 2. "It is plain that this number being mentioned is no sign that the custody was only for one night."
 3. "Herod, who observed rigorously the Jewish customs, would not execute a prisoner during the feast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Delivered him to four quaternions of soldiers" - This shows the level of security and control that was placed on Jesus during his arrest and trial. It highlights the seriousness with which the Roman authorities regarded him as a potential threat.
 
 2. "After the Passover" - This clarifies the timing of Jesus' crucifixion, indicating that it took place after the entire festival was completed. It helps to understand the context and significance of his sacrifice in relation to the Jewish religious calendar.
@@ -59,4 +59,4 @@ In this verse, we witness the gravity and careful orchestration surrounding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

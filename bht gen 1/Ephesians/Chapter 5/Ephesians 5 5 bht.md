@@ -9,7 +9,7 @@ This verse speaks about the sins that can prevent someone from inheriting the ki
 2) "Being aware that every fornicator or unclean man, or covetous man, which is an idolater."
 3) "Hath not inheritance in the Kingdom of Christ and God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Covetousness is worship of the creature instead of the Creator, the highest treason against the King of kings."
 2. "The present implies the fixedness of the exclusion, grounded on the eternal verities of that kingdom."
 3. "The perfect oneness of Christ and God is consistent only with the doctrine that Christ is God."
@@ -52,4 +52,4 @@ This verse speaks about the sins that can prevent someone from inheriting the ki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

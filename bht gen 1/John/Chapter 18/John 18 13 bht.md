@@ -9,7 +9,7 @@ Before being taken to the high priest Caiaphas, Jesus was brought to Annas, who 
 2. "The whole matter is discussed in Friedlieb, Arch. der Leid. § 22. He ends by saying that the narrative evidently rests upon some arrangement with regard to the High Priesthood now unknown to us."
 3. "That hearing was in a public court of justice, before the assembled Sanhedrim; this was a private and informal questioning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that Jesus was led to Annas first before being taken to the high priest Caiaphas is significant. Annas was the father-in-law of Caiaphas and had previously held the position of high priest. This suggests that Annas still held significant influence and power within the religious hierarchy, even though he was no longer officially serving as high priest."
 
 2. "The sequence of events highlights the political and religious dynamics at play during Jesus' trial. The religious leaders were not only concerned with maintaining their religious authority but also with appeasing the Roman authorities. By bringing Jesus to Annas first, they may have been seeking his approval or guidance on how to handle the situation."
@@ -52,4 +52,4 @@ Before being taken to the high priest Caiaphas, Jesus was brought to Annas, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, the writer expresses the need for boldness and reliance on divine intervention in proclaiming the hidden truths of the Gospel. The mystery alluded to is a profound and hidden truth that is revealed through the Gospel. The speaker humbly seeks the prayers and support of others, recognizing the interconnectedness of the Christian community. They desire both inward and outward empowerment to speak with courage and freedom, removing any obstacles that hinder effective communication. Overall, this verse emphasizes the importance of confidently and fearlessly proclaiming the Gospel, relying on divine assistance and the collective support of fellow believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bold plainness of speech was the more needed, as the Gospel is a 'mystery' undiscoverable by mere reason, and only known by revelation."
 2. "Paul looked for utterance to be given him he did not depend on his natural or acquired power."
 3. "The shortest road to any heart is by way of heaven; pray to God to open the door and to open your mouth, so as to avail yourself of every opening."
@@ -54,4 +54,4 @@ In this passage, the writer expresses the need for boldness and reliance on divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

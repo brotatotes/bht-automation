@@ -9,7 +9,7 @@ This verse describes the awe-inspiring attributes of God, who is the eternal Kin
 2. "Comparing these with the well-known εἰς τοὺς αἰῶνας τῶν αἰώνων, εἰς τοὺς αἰῶνας, and the like, it is far more likely that οἱ αἰῶνες here should mean eternity, than the ages of this world, as many have understood it."
 3. "Beware of taking ἀφθάρτῳ, ἀοράτῳ with θεῷ, as recommended by Bishop Middleton, on the ground of the articles being wanting before these adjectives. It is obvious that no such consideration is of any weight in a passage like the present."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is from the experimental sense of grace that the doxology flows."
 2. "The 'life everlasting' suggested here 'the King eternal,' or everlasting."
 3. "The thought of eternity (terrible as it is to unbelievers) is delightful to those assured of grace."
@@ -53,4 +53,4 @@ This verse describes the awe-inspiring attributes of God, who is the eternal Kin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

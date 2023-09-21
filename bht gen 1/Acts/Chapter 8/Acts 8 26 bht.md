@@ -9,7 +9,7 @@ In Acts, we read about Philip's obedience to a divine command to take a less-tra
 2. "The words, I believe, of the angel, not of Luke."
 3. "The way of which I speak to thee is desert."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip."
 2. "He was kept in ignorance of the object of the journey."
 3. "But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'."
@@ -55,4 +55,4 @@ In Acts, we read about Philip's obedience to a divine command to take a less-tra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

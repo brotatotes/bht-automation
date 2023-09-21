@@ -11,7 +11,7 @@ The Bible verse being described is a passage about the body of Christ, where com
 
 3. "The joints are the points of union where the supply passes to the different members" - This statement highlights the importance of the joints as the channels through which the body receives nourishment and growth, emphasizing the interconnectedness and interdependence of believers in the body of Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being fitly framed together, all the parts being in their proper position, and in mutual relation."
 2. "The joints are the points of union where the supply passes to the different members, furnishing the body with the materials of its growth."
 3. "According to the effectual working of grace in each member, proportioned to the measure of its need of supply."
@@ -57,4 +57,4 @@ These quotes highlight the idea that the members of the body of Christ are intri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

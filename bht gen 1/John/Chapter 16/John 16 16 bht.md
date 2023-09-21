@@ -9,7 +9,7 @@ In this verse, Jesus speaks enigmatically about his impending death, resurrectio
 2. "The ὄψεσθε began to be fulfilled at the Resurrection; then received its main fulfilment at the day of Pentecost; and shall have its final completion at the great return of the Lord hereafter."
 3. "Remember again, that in all these prophecies we have a perspective of continually unfolding fulfilments presented to us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The joy of the world at their not seeing Him seems to show that His removal from them by death was what He meant." 
 2. "Their joy at again seeing Him points to their transport at His reappearance amongst them on His Resurrection, when they could no longer doubt His identity." 
 3. "At the same time the sorrow of the widowed Church in the absence of her Lord in the heavens, and her transport at His personal return, are certainly here expressed."
@@ -57,4 +57,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

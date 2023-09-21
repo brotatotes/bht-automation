@@ -9,7 +9,7 @@ In this Bible verse, the crowd is engaged in a heated debate with the disciples.
 2. "The response of the Scribe represents the collective voice of the people."
 3. "This interaction highlights the diversity of perspectives within the crowd."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The father of the boy, whose case had occasioned the dispute, himself steps forward and answers the question; telling a piteous tale of deafness, and dumbness, and fits of epilepsy." 
 2. "The disciples, though entreated, could not perform the cure." 
 3. "Ere they had time to reply, the father of the boy, whose case had occasioned the dispute, himself steps forward and answers the question."
@@ -35,4 +35,4 @@ In this Bible verse, the crowd is engaged in a heated debate with the disciples.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

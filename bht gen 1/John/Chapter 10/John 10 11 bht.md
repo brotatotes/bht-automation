@@ -4,7 +4,7 @@
 The verse being described speaks of a shepherd who is not only good, but also willing to sacrifice his own life for the sake of his sheep. This shepherd's beauty lies in his noble character and excellent service. He is dedicated to the well-being and protection of his flock, going to great lengths to defend them from harm, even at the cost of his own life. The image of the shepherd laying down his life serves as a powerful illustration of his love and selflessness, providing a sense of admiration and gratitude for his faithful guardianship.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the good shepherd—emphatically, and, in the sense intended, exclusively so." 
 2. "The good shepherd giveth his life for the sheep—Though this may be said of literal shepherds, who, even for their brute flock, have, like David, encountered 'the lion and the bear' at the risk of their own lives." 
 3. "Yet here, beyond doubt, it points to the struggle which was to issue in the willing surrender of the Redeemer's own life, to save His sheep from destruction."
@@ -45,4 +45,4 @@ The verse being described speaks of a shepherd who is not only good, but also wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

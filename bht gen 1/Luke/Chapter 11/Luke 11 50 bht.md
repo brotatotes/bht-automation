@@ -4,7 +4,7 @@
 In this Bible verse, the accumulated sins of both the generation of Israel and the Amorites led to divine judgment, with the consequences falling swiftly and decisively. This judgment serves as a warning, highlighting the seriousness of shedding innocent blood and the certainty of divine retribution. Throughout history, from the earliest prophets like Abel, the shedding of blood of the righteous has not gone unnoticed and will be accounted for, with severe consequences, upon the responsible generation. The punishment will be visible and terrifying, demonstrating the seriousness and gravity of this sin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The iniquity of the Amorites was full" - The commentary highlights the parallel between the generation of Israel and the generation of the Amorites, emphasizing that both reached a point where their accumulated sins led to divine judgment.
 2. "The whole collected vengeance of Heaven broke at once" - This quote emphasizes the sudden and overwhelming nature of the divine judgment that fell upon the generation of Israel. It suggests that the consequences of their sins were not delayed or gradual, but rather came upon them in a swift and decisive manner.
 3. "The same awful principle was exemplified" - The commentary draws a connection between the judgment upon the generation of Israel and the events of the French Revolution. This quote suggests that the principle of divine judgment for accumulated iniquity is not limited to ancient times but can also be seen in more recent historical events.
@@ -32,4 +32,4 @@ In this Bible verse, the accumulated sins of both the generation of Israel and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Let ours, all our brethren at Crete, learn from this instruction. It is not just
 2. "The contrast in the 'but' is, 'and I will not that thou only shouldest thus forward them, though I use the singular number; but see that the other brethren also join with thee in contributing to their outfit.'" 
 3. "Our ordinary opportunities are to be found of bearing fruit to God's praise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only thou, but let others also of 'our' fellow believers (or 'whom we have gained over at Crete') with thee." 
 2. "Supply the necessary wants of Christian missionaries and brethren, according as they stand in need in their journeys for the Lord's cause." 
 3. "A lover of hospitality."
@@ -50,4 +50,4 @@ Let ours, all our brethren at Crete, learn from this instruction. It is not just
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

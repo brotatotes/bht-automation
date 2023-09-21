@@ -4,7 +4,7 @@
 In this verse, the imagery of a dragon with a powerful tail dragging down the stars is used to convey the idea of persuasion and apostasy. The dragon symbolizes the influence of power and evil, seeking to devour and destroy. It is contrasted with the woman who represents life and the birth of something significant, which the dragon seeks to destroy. There is a struggle between good and evil, where the dragon's influence attempts to hinder the fulfillment of God's plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His dragging down the stars with his tail implies his persuading to apostatize, like himself, and to become earthy, those angels and also once eminent human teachers who had formerly been heavenly."
 2. "The dragon, represented by his agent Pharaoh, was ready to devour Israel's males at the birth of the nation."
 3. "Antitypically the true Israel, Jesus, when born, was sought for destruction by Herod, who slew all the males in and around Bethlehem."
@@ -45,4 +45,4 @@ Note: The provided commentary is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ When Jesus speaks of being "lifted up" on the cross, he is referring to his cruc
 2. "Perhaps, in different ways: some, by the power of the Holy Spirit poured out after the exaltation of Christ, and to their own salvation; others by the judgments which were to follow ere long, and to their own dismay and ruin."
 3. "The interchange of ποιῶ and λαλῶ is remarkable. The construction is not elliptical, so that ποιῶ κ. λαλῶ should be understood in both cases; but the declaration of Joh 8:25 is still in the Lord’s mind, His ποιεῖν being all a declaration of the Father, a λαλεῖν in the widest sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye have lifted up the Son of man—The plainest intimation He had yet given in public of the manner and the authors of His death." 
 2. "Then shall ye know that I am he, &c.—that is, find out, or have sufficient evidence, how true was all He said, though they would be far from owning it." 
 3. "The lifting up of the Son of man on the cross would be the ultimate proof of His identity and the fulfillment of His words."
@@ -55,4 +55,4 @@ When Jesus speaks of being "lifted up" on the cross, he is referring to his cruc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

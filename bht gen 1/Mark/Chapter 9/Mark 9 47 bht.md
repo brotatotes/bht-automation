@@ -1,10 +1,10 @@
 # Mark 9:47 Commentary Help Text
 
 ## BHT:
-In this verse, the metaphorical phrase "pluck it out" signifies the removal of any stumbling block or sinful influence in our lives, as explained by Jamieson Fausset Brown. It emphasizes the need to make sacrifices and let go of things hindering our spiritual growth, highlighted by Marvin Vincent and Archibald T. Robertson. John Gill's commentary adds that this verse portrays the extreme value God places on His people, urging them to prioritize entering the kingdom of God over being consumed by sin and facing the consequences of unrepentance.
+In this verse, the metaphorical phrase "pluck it out" signifies the removal of any stumbling block or sinful influence in our lives, as explained by Jamieson-Fausset-Brown. It emphasizes the need to make sacrifices and let go of things hindering our spiritual growth, highlighted by Marvin Vincent and Archibald T. Robertson. John Gill's commentary adds that this verse portrays the extreme value God places on His people, urging them to prioritize entering the kingdom of God over being consumed by sin and facing the consequences of unrepentance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'pluck it out' is not meant to be taken literally, but rather as a metaphor for removing anything in our lives that causes us to stumble or sin."
 2. "Entering into the kingdom of God with one eye symbolizes the willingness to make sacrifices and let go of things that hinder our spiritual growth."
 3. "The mention of hell-fire serves as a warning about the consequences of unrepentant sin and the importance of making choices that lead to eternal life."
@@ -28,4 +28,4 @@ In this verse, the metaphorical phrase "pluck it out" signifies the removal of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

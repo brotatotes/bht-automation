@@ -9,7 +9,7 @@ As Jesus ascended to heaven, the disciples stood gazing intently, fixed on his d
 2. "Implying that the cloud remained visible for some time, probably ascending with Him." 
 3. "Evidently angels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "following Him with their eager eyes, in rapt amazement"
 2. "part of that resistless evidence of their senses"
 3. "angels in human form"
@@ -54,4 +54,4 @@ As Jesus ascended to heaven, the disciples stood gazing intently, fixed on his d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described in this passage is a call to believers to deepen
 2. "The Fathers for the most part take the στοιχεῖα and the γάλα to mean the doctrine of the incarnation."
 3. "These are the foundations, without which no building whatever can be raised."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye need not only to be taught the first elements, but also 'which they be.' They are therefore enumerated Hebrews 6:1; Hebrews 6:2."
 2. "Instead of seeing Christ as the end of the Old Testament Scripture, they were relapsing towards Judaism, so as not only not to be capable of understanding the typical reference to Christ of such an Old Testament personage as Melchisedec, but even much more elementary references."
 3. "The solid meat, or food, is not absolutely necessary for preserving life, but is so for acquiring greater strength. Especially in the case of the Hebrews, who were much given to allegorical interpretations of their law, which they so much venerated, the application of the Old Testament types, to Christ and His High Priesthood, was calculated much to strengthen them in the Christian faith."
@@ -50,4 +50,4 @@ The Bible verse being described in this passage is a call to believers to deepen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

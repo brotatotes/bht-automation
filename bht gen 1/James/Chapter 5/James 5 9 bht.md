@@ -11,7 +11,7 @@ This verse reminds believers to refrain from speaking ill of one another, promot
 
 3. "The near approach of the Judge is a motive for suspending our own judgment." The impending judgment of the Lord should motivate us to refrain from passing judgment on others, recognizing that we ourselves will face judgment if we do not exercise forbearance. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grudge not—rather 'Murmur not'; 'grumble not.' The Greek is literally, 'groan': a half-suppressed murmur of impatience and harsh judgment, not uttered aloud or freely."
 2. "To 'murmur against one another' is virtually to judge, and so to become liable to be judged."
 3. "The phrase means 'near at hand' (Genesis 4:7), which in the oldest interpretations [Targums of Jonathan and Jerusalem] is explained, 'thy sin is reserved unto the judgment of the world to come.'"
@@ -57,4 +57,4 @@ This verse reminds believers to refrain from speaking ill of one another, promot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

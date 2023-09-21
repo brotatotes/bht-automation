@@ -9,7 +9,7 @@ The verse being described showcases the apostle's desire for mutual comfort and 
 2. "The expression 'mutual faith' should properly mean, faith which each has in the other."
 3. "Faith as the necessary condition and working instrument of all Christian exhortation, comfort, and confirmation; producing these, and evidenced by them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not wishing to 'lord it over their faith,' but rather to be a 'helper of their joy,' the apostle corrects his former expressions: my desire is to instruct you and do you good, that is, for us to instruct and do one another good: in giving I shall also receive" [JOWETT].
 2. "Nor is he insincere in so speaking, for there is none so poor in the Church of Christ who may not impart to us something of value: it is only our malignity and pride that hinder us from gathering such fruit from every quarter" [CALVIN].
 3. "How 'widely different is the apostolic style from that of the court of Papal Rome!" [BENGEL].
@@ -57,4 +57,4 @@ These quotes emphasize the interconnectedness between comfort and establishment,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Filled with a combination of fear, awe, and joy, the disciples were astounded by
 2. "The disciples were filled with fear and awe at the sight of the extraordinary things they witnessed." This quote emphasizes the disciples' sense of reverence and astonishment in the face of the miraculous.
 3. "The disciples were filled with joy as they listened to the gospel message." This quote underscores the disciples' delight and happiness upon hearing the good news.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How natural this combination of feelings!"
 2. "Neither said they anything to any man [by the way]; for they were afraid."
 3. "This appearance is recorded only by Matthew."
@@ -43,4 +43,4 @@ Filled with a combination of fear, awe, and joy, the disciples were astounded by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

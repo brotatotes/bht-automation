@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes the importance of speaking well of others and avoiding quarrels and conflicts. It encourages believers to be gentle, kind, and meek in their interactions with others, even in the face of mistreatment or disagreement. This includes refraining from negative speech, avoiding quarrels, and responding with gentleness when faced with hostility. By embodying these qualities, believers can cultivate a spirit of peace and unity within their communities and exemplify Christ's love and forgiveness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To speak evil of no man—especially, not of 'dignities' and magistrates." 
 2. "Gentle—towards those who attack us. Yielding, considerate, not urging one's rights to the uttermost, but forbearing and kindly."
 3. "Meekness—The opposite of passionate severity."
@@ -56,4 +56,4 @@ The Bible verse being described emphasizes the importance of speaking well of ot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

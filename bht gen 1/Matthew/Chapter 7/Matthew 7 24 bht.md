@@ -9,7 +9,7 @@ The teaching encourages us to have a foundation of faith in Jesus Christ, which 
 2. "τοὺς λόγους τούτους seems to bind together the Sermon, and preclude... the supposition that these last chapters are merely a collection of sayings uttered at different times."
 3. "ὁμοιώσω αὐτόν (or, ὁμοιωθήσεται)] Meyer and Tholuck take this word to signify, not ‘I will compare him,’ but ‘I will make him like.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever heareth these sayings of mine, and doeth them... I will liken him unto a wise man." - This quote emphasizes the importance of not just hearing the teachings of Jesus, but also putting them into practice. It highlights the wisdom and prudence of those who actively follow and obey his words.
 
 2. "Built his house upon a rock." - This quote symbolizes the foundation of true discipleship and genuine submission to Christ. It suggests that a solid and secure spiritual life can only be built upon a firm and unshakeable foundation, which is found in faithfully following Jesus.
@@ -53,4 +53,4 @@ The teaching encourages us to have a foundation of faith in Jesus Christ, which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

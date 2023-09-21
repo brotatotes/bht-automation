@@ -9,7 +9,7 @@ The verse in question speaks of the historical tension between Israel and the Ge
 2. "First, Moses saith, I will provoke you to jealousy against a nation that hath no understanding."
 3. "Moses prophetically assumes the departure of Israel from God, and his rejection of them, and denounces from God that as they had moved Him to jealousy with their ‘no-gods’ (idols) and provoked Him to anger by their vanities, so He would, by receiving into his favour a ‘no-nation,’ make them jealous, and provoke them to anger by adopting instead of them a foolish nation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did not Israel know?—know, from their own Scriptures, of God's intention to bring in the Gentiles?" 
 2. "In this verse God warns His ancient people that because they had moved Him to jealousy with their 'no-gods,' and provoked Him to anger with their vanities, He in requital would move them to jealousy by receiving into His favor a 'no-people,' and provoke them to anger by adopting a nation void of understanding." 
 3. "God's plan to bring in the Gentiles was not a new revelation, but something that Israel should have known from their own Scriptures."
@@ -57,4 +57,4 @@ These quotes shed light on the context and implications of the verse, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

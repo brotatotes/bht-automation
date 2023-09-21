@@ -4,7 +4,7 @@
 The verse being described encourages believers to love and serve God wholeheartedly, with all their mental faculties and spiritual strength. It emphasizes the priority of genuine love and compassionate actions towards others, surpassing the significance of religious rituals and sacrifices. The verse also highlights the necessity of maintaining an equitable and charitable disposition towards all, esteeming such behavior as more important than offering grand sacrifices.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To love him with all the heart... is more than all whole burnt offerings and sacrifices" - This quote highlights the superiority of genuine love and devotion to God over mere religious rituals and external acts of worship.
 
 2. "Showing insight into the essential difference between what is moral and in its own nature unchangeable, and what is obligatory only because enjoined" - This quote emphasizes the distinction between moral principles that are inherently unchangeable and temporary obligations that are imposed by religious institutions.
@@ -42,4 +42,4 @@ The verse being described encourages believers to love and serve God wholehearte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

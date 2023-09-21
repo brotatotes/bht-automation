@@ -9,7 +9,7 @@ The verse describes a heartfelt longing and affectionate bond between the writer
 2. "for the space of an hour" - Paul refers to a very short time of separation, emphasizing the brevity of their absence from the Thessalonians.
 3. "no separation in heart took place" - The dative case of "no separation in heart" indicates the manner in which there was no emotional distance or detachment between Paul and the Thessalonians.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We the more abundantly endeavored." 
 2. "The desire of meeting again is the more vivid, the more recent has been the parting."
 3. "He does not hereby, as many explain, anticipate a short separation from them, which would be a false anticipation for he did not soon revisit them."
@@ -53,4 +53,4 @@ The verse describes a heartfelt longing and affectionate bond between the writer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, we see the consequences of not experiencing discipline and the im
 
 3. "The distinction between legitimate sons and bastards is that the former are disciplined by their fathers, while the latter are left undisciplined." - This quote clarifies the difference between legitimate sons and bastards, emphasizing that the absence of discipline is a clear indicator of illegitimacy.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye be without... excluded from participation in chastisement, and wishing to be so."
 2. "All the worthies enumerated in the eleventh chapter: all the witnesses."
 3. "Since then not to be chastised is a mark of bastardy, we ought [not to refuse, but] rejoice in chastisement, as a mark of our genuine sonship."
@@ -52,4 +52,4 @@ In this verse, we see the consequences of not experiencing discipline and the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

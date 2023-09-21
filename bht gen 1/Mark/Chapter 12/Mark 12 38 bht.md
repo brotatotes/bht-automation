@@ -4,7 +4,7 @@
 Beware of those who love public recognition and outward displays of false righteousness, for they seek their own gain and applause. Let us be cautious of falling into the trap of pride and hypocrisy, and instead focus on genuine humility and true devotion to God. May our desire for righteousness be intense and fervent, as we align our hearts and minds with His divine purpose, seeking His kingdom above all else.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware of the scribes, which love to go in long clothing." This quote highlights the hypocrisy of the scribes who were more concerned with outward appearances and seeking recognition from others rather than focusing on genuine righteousness.
 
 2. "And love salutations in the market-places." This quote emphasizes the scribes' desire for public recognition and honor, showing their self-centeredness and lack of humility.
@@ -55,4 +55,4 @@ Beware of those who love public recognition and outward displays of false righte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is a passage that highlights the profound and ea
 2. "Prophets sought earnestly and examined earnestly." 
 3. "They who prophesied concerning the grace that was (destined) for you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The magnitude of this 'salvation' is proved by the earnestness with which 'prophets' and even 'angels' searched into it."
 2. "They did not like us fully see, but they desired to see the one and the same Christ whom we fully see in spirit."
 3. "The prophets, as private individuals, had to reflect on the hidden and far-reaching sense of their own prophecies; because their words, as prophets, in their public function, were not so much their own as the Spirit's, speaking by and in them."
@@ -55,4 +55,4 @@ The Bible verse being described is a passage that highlights the profound and ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

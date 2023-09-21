@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the concept of sanctification wi
 2. "The ἡγιασμένοι under the Gospel are the body of Christian men, dedicated to God, and thus become His in a peculiar manner."
 3. "The fact of the children of Christians, God’s spiritual people, being holy, is tacitly assumed as a matter of course, from the precedent of God’s ancient covenant people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those inseparably connected with the people of God are hallowed thereby, so that the latter may retain the connection without impairing their own sanctity."
 2. "The fact of the husband being a 'brother,' that is, a Christian, though the wife is not so, sanctifies or hallows the union."
 3. "The faith of one Christian parent gives to the children a near relationship to the Church, just as if both parents were Christians."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators highlight the concept of sanctification wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes the superiority of Jesus' ministry and his 
 2. "He is also mediator of a better covenant." 
 3. "Better promises."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mediator—coming between us and God, to carry into effect God's covenant with us."
 2. "The Gospel is founded on the law, in the spirit and essence of the latter."
 3. "The Old Testament promises were mainly of earthly, the New Testament promises, of heavenly blessings: the exact fulfilment of the earthly promises was a pledge of the fulfilment of the heavenly."
@@ -55,4 +55,4 @@ The verse being described emphasizes the superiority of Jesus' ministry and his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse encourages believers to firmly hold on to the teachings they have rec
 2. "The fervid style of St. Paul, disdaining the nice proprieties of rhetoric, sets forth the point in hand by inconsistent similitudes: the walking implying motion, the rooting and building, rest."
 3. "The rooting, answering to the first elementary grounding in Him, is in the past: the being built up, answering to the continual increase in Him, is present."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye received (once for all; the aorist tense; from Epaphras) Jesus the Christ as your Lord... so walk in Him." 
 2. "He says not merely, 'Ye received' the doctrine of Christ, but 'Jesus' Himself; this is the essence of faith."
 3. "Ye have received once for all the Spirit of life in Christ; carry into practice that life in your walk."
@@ -61,4 +61,4 @@ These quotes emphasize the importance of receiving Jesus as Lord and walking in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

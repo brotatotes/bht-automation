@@ -11,7 +11,7 @@ In the bustling city of Salamis, where Jews were plentiful and synagogues abound
 
 3. "On the insurrection of the Jews in the reign of Trajan, Salamis was nearly destroyed, and they were expelled from the island."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At this busy mercantile port immense numbers of Jews were settled, which accounts for what is here said, that they had more than one synagogue, in which Barnabas and Saul preached, while other cities had one only."
 2. "With what fruit they preached here is not said. Probably their feeling was what Paul afterwards expressed at Antioch in Pisidia."
 3. "They had more than one synagogue, in which Barnabas and Saul preached, while other cities had one only."
@@ -57,4 +57,4 @@ In the bustling city of Salamis, where Jews were plentiful and synagogues abound
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

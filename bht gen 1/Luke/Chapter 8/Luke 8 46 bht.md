@@ -4,7 +4,7 @@
 In this Bible verse, a multitude surrounds Jesus, but it is one individual who touches Him with intentional and faithful purpose. Jesus immediately perceives this touch, demonstrating His divine awareness and sensitivity. The touch of faith draws forth power from Jesus, which He willingly imparts for the healing of the person. This account showcases Jesus' omniscience, his divine authority, and the personal communion of faith that draws the power of God into our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Somebody hath touched—yes, the multitude 'thronged' and pressed Him—but one, one only—'Somebody TOUCHED' HIM, with the conscious, voluntary, dependent touch of faith, reaching forth its hands expressly to have contact with Him."
 2. "This and this only Jesus acknowledges and seeks out."
 3. "The voluntary, living contact of faith is that electric conductor which alone draws virtue out of Him."
@@ -35,4 +35,4 @@ In this Bible verse, a multitude surrounds Jesus, but it is one individual who t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

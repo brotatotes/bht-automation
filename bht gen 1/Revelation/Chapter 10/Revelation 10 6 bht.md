@@ -4,7 +4,7 @@
 In this Bible verse, an angel strengthens the significance of his message by swearing by the eternity of God, emphasizing His power and authority. The verse highlights God's role as the Creator, distinguished from false gods, and associates the fulfillment of divine purposes with the end of delay. The mention of time not being no longer does not imply the end of time itself, but rather the end of delay in the fulfillment of certain events and the victory of God over His enemies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "liveth unto the ages of the ages" - This phrase emphasizes the eternal nature of God, highlighting His everlasting existence and authority.
 2. "This detailed designation of God as the Creator" - The commentary points out that God's role as the Creator is significant in understanding His ability to bring about the fulfillment of His plans and mysteries.
 3. "that time (that is, an interval of time) no longer shall be" - This phrase suggests that there will be no more delay or waiting for the fulfillment of God's purposes, indicating a sense of urgency and anticipation for the resolution of the martyrs' prayers.
@@ -40,4 +40,4 @@ In this Bible verse, an angel strengthens the significance of his message by swe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

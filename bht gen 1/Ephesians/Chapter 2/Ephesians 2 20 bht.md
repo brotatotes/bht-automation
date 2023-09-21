@@ -4,7 +4,7 @@
 The Bible verse being described speaks of the foundation of the Christian faith, which is built upon the teachings of the apostles and prophets. This foundation sets the standard and provides stability to the Church, with Christ Jesus Himself as the chief cornerstone, playing a central and superior role. The figures of a temple and a house illustrate the divine dwelling and the significance of Christ as the foundation, referenced as both the cornerstone and the foundation itself. The verse emphasizes the eternal, real, and trustworthy nature of this foundation, distinct from any false ideologies or human philosophies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The glory of the Christian temple is eternal and real, not mere idolatrous gaud."
 2. "Christ Himself, the only true Foundation, was the grand subject of their ministry, and spring of their life."
 3. "The 'prophets' representing the old Jewish dispensation, 'the apostles' the new. The 'prophets' of the new also are included."
@@ -54,4 +54,4 @@ The Bible verse being described speaks of the foundation of the Christian faith,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

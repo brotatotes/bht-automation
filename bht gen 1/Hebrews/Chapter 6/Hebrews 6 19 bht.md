@@ -9,7 +9,7 @@ The Bible verse being described is Hebrews 6:19, "We have this hope as an anchor
 2. "The Soul clings, as one in fear of shipwreck, to an anchor, and sees not whither the cable of the anchor runs, where it is fastened: but she knows that it is fastened behind the veil which hides the future glory."
 3. "The Soul...knows that she, if she only holds on to the anchor, shall in her time be drawn in where it is, into the holiest place, by the hand of the Deliverer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hope, our anchor of the soul, is not satisfied with merely coming to the vestibule, that is, is not content with merely earthly and visible goods, but penetrates even to those which are within the veil, namely, to the Holy of Holies, where it lays hold on God Himself, and heavenly goods, and fastens on them."
 2. "Hope, entering within heaven, hath made us already to be in the things promised to us, even while we are still below, and have not yet received them; such strength hope has, as to make those that are earthly to become heavenly."
 3. "The soul clings, as one in fear of shipwreck to an anchor, and sees not whither the cable of the anchor runs—where it is fastened: but she knows that it is fastened behind the veil which hides the future glory."
@@ -59,4 +59,4 @@ The Bible verse being described is Hebrews 6:19, "We have this hope as an anchor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Believers are granted the privilege to boldly enter into the holiest, a symbol o
 2. "Our entering, not Christ's entering, as Heinrichs and Dindorf."
 3. "It is in that blood that our boldness to enter in is grounded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "boldness—'free confidence,' grounded on the consciousness that our sins have been forgiven."
 2. "It is in the blood of Jesus that our boldness to enter is grounded."
 3. "No priestly caste now mediates between the sinner and his Judge. We may come boldly with loving confidence, not with slavish fear, directly through Christ, the only mediating Priest."
@@ -52,4 +52,4 @@ Believers are granted the privilege to boldly enter into the holiest, a symbol o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators highlight the contrast between the old Mosaic la
 2. "The phrase 'paranomon' emphasizes the contrast between the new way of righteousness through faith in Christ and the old way of righteousness through the observance of the Mosaic law." 
 3. "The Mosaic law served as a temporary measure to reveal sin and point people to their need for a Savior, but it was never intended to be the means of salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrary to the Jewish law, this verse suggests that the Gentiles were not required to be circumcised." 
 
 2. "The inclusion of the Gentiles in the new covenant challenges the traditional understanding of Jewish exclusivity." 
@@ -42,4 +42,4 @@ In this verse, the commentators highlight the contrast between the old Mosaic la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

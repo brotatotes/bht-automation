@@ -9,7 +9,7 @@ In this verse, believers are encouraged to live their lives in accordance with t
 2. "The name of Christ is the element in which all is done which furnishes a motive and gives a character to the whole."
 3. "Giving thanks to God the Father... through Him (as the one channel of all communication between God and ourselves)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And everything whatsoever ye do . . . do all" - This emphasizes that our actions and words should align with our faith in Christ, leaving no room for hypocrisy or inconsistency.
 2. "in the name of the Lord Jesus" - By invoking the name of Jesus, we acknowledge our dependence on Him and seek His guidance and approval in all that we do.
 3. "through Him" - Jesus is the channel through which God's grace flows to us, and our thanksgiving to God is expressed through Him. This highlights the central role of Jesus in our relationship with God.
@@ -59,4 +59,4 @@ In this verse, believers are encouraged to live their lives in accordance with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

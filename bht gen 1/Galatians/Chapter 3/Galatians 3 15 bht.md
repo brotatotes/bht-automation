@@ -11,7 +11,7 @@ The passage being described highlights the unchanging and steadfast nature of Go
 
 3. "A (mere) man’s covenant (not ‘testament,’ as Olsh., after Aug., al.; for there is here no introduction of that idea: the promise spoken to Abraham was strictly a covenant, and designated διαθήκη in the passages which were now in the Apostle’s mind, see Genesis 15:18; Genesis 17:7. On the general meaning, see Mr. Bagge’s note) when ratified (reff.), no one notwithstanding (that it is merely a human covenant) sets aside or supplements (with new conditions, Jos. Antt. xvii. 9. 4 describes Archelaus as ὁ ἐν ταῖς ἐπιδιαθήκαις ὑπὸ τοῦ πατρὸς ἐγγεγραμμένος βασιλεύς, ‘in his father’s subsequent testament:’ and again says of Antipas, B. J. ii. 2. 3, ἀξιῶν τῆς ἐπιδιαθήκης τὴν διαθήκην εἶναι κυριωτέραν, ἐν ᾗ βασιλεὺς αὐτὸς ἐγέγραπτο. Nothing is implied as to the nature of the additions, whether consistent or inconsistent with the original covenant: the simple fact that no additions are made, is enounced)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is here, by personification, regarded as a second person, distinct from, and subsequent to, the promise of God."
 2. "The promise is everlasting, and more peculiarly belongs to God."
 3. "So legal Judaism could make no alteration in the fundamental relation between God and man, already established by the promises to Abraham."
@@ -55,4 +55,4 @@ The passage being described highlights the unchanging and steadfast nature of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The speaker, long engaged in missionary work, expresses their desire and attempt
 2. "τὰ πολλά, these many times."
 3. "the greater number of times, which would suggest the idea that there had been other occasions on which this hindrance had not been operative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being so long occupied with this missionary work, I have been much hindered." This quote highlights the Apostle Paul's dedication to his missionary work and the challenges he faced in fulfilling his calling. It emphasizes the sacrifices he made and the obstacles he encountered along the way.
 
 2. "For the most part hindered." This phrase emphasizes that Paul's hindrances were not occasional or sporadic, but rather consistent and ongoing. It underscores the persistent obstacles he faced in his ministry and the impact they had on his ability to fully carry out his mission.
@@ -59,4 +59,4 @@ The speaker, long engaged in missionary work, expresses their desire and attempt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

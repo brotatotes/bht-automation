@@ -9,7 +9,7 @@ The verse being described speaks of individuals who are likened to raging waves 
 2. "These professing Christians, by their profession lights in the world, instead of letting that light shine on more and more into the perfect day, are drifting about in strange errors of doctrine and practice."
 3. "They are like wandering stars, for whom the blackness of darkness is reserved for ever."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Raging - wild. Jude has in mind the shame - plural in Greek, 'shames'." 
 2. "Wandering stars - instead of moving on in a regular orbit, as lights to the world." 
 3. "Bursting forth on the world like erratic comets, or rather, meteors of fire, with a strange glare, and then doomed to fall back again into the blackness of gloom."
@@ -57,4 +57,4 @@ These quotes highlight the vivid imagery used in the commentary to describe the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

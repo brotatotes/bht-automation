@@ -4,7 +4,7 @@
 Commentators have described the Bible verse as illustrating God's inclusive love, extending His grace to those previously considered outsiders. The verse is applied to both Gentiles and Jews, emphasizing the need for God's redemptive love and His sovereignty in choosing His people. The intimate relationship between God and His people is compared to that of a husband and wife. Furthermore, the verse has implications for the future restoration of the Jewish people, highlighting the enduring nature of God's love and His ultimate plan of reconciliation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will call them my people, which were not my people; and her beloved, which was not beloved" - This quote highlights the transformation that occurs when God extends His love and grace to those who were once considered outsiders. It emphasizes the inclusive nature of God's love and His ability to bring those who were once distant into a close relationship with Him.
 
 2. "The apostle legitimately applies it to the heathen, as 'aliens from the commonwealth of Israel and strangers to the covenants of promise'" - This quote explains how the apostle Paul applies the verse to the Gentiles, who were previously excluded from the blessings and promises of God. It shows how God's love extends beyond the boundaries of a specific group and reaches out to all people.
@@ -52,4 +52,4 @@ Commentators have described the Bible verse as illustrating God's inclusive love
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

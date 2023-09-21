@@ -9,7 +9,7 @@ In this verse, the apostle Paul expresses his willingness to adapt and relate to
 2. "not being an outlaw from God but a subject-of-the-law of Christ"
 3. "that I might gain those who had no law"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While thus conforming to others in matters indifferent, taking care not to be without law in relation to God, but responsible to law (literally, 'IN LAW') in relation to Christ."
 2. "Everything develops itself according to its proper law. So the Christian, though no longer subject to the literal law as constraining him from without, is subject to an inward principle or law, the spirit of faith in Christ acting from within as the germ of a new life."
 3. "Christians serve Christ in newness of spirit, no longer in oldness of the letter (that is, the old external law as such)."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul expresses his willingness to adapt and relate to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

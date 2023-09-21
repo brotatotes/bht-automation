@@ -4,7 +4,7 @@
 In this verse, Jesus condemns the religious leaders for their hypocrisy, calling them "blind guides" who strain out a gnat but swallow a camel. The commentators elaborate on this metaphor, explaining that the stricter Jews would strain their drinks to avoid consuming any unclean insects, while overlooking more significant transgressions. Their focus on minor matters while neglecting matters of greater importance reveals their hypocrisy. Jesus's words serve as a reminder to prioritize true righteousness and not get caught up in trivialities or show outward appearances without genuine inward transformation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye blind guides, which strain out." - The stricter Jews would strain their drinks to avoid accidentally consuming any unclean insects, as it was forbidden by the law. This custom is referenced by Jesus in this verse.
 
 2. "Lest unawares they should drink down some little unclean insect therein and thus transgress." - The purpose of straining their drinks was to prevent any unintentional transgressions of the law by consuming unclean insects.
@@ -52,4 +52,4 @@ In this verse, Jesus condemns the religious leaders for their hypocrisy, calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

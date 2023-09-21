@@ -4,7 +4,7 @@
 In this vivid verse, we witness the disciples' astonishment as Jesus asks who touched him in the midst of a crowded gathering. Their limited understanding of his power and authority is emphasized, highlighting their human weakness and lack of faith. While the disciples fail to comprehend the significance, Jesus, with his utmost human sympathy, acknowledges the drain on his energy caused by the voluntary touch of faith that drew virtue out of him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rather ask who touched Thee not in such a throng."
 2. "Yes, the multitude 'thronged and pressed Him'—they jostled against Him, but all involuntarily; they were merely carried along; but one, one only—'a certain person—TOUCHED HIM,' with the conscious, voluntary, dependent touch of faith, reaching forth its hand expressly to have contact with Him."
 3. "The voluntary, living contact of faith is that electric conductor which alone draws virtue out of Him."
@@ -30,4 +30,4 @@ In this vivid verse, we witness the disciples' astonishment as Jesus asks who to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

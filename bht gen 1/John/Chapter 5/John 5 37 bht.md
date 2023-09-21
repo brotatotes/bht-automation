@@ -4,7 +4,7 @@
 In this Bible verse, Jesus refers to the testimony given by the Father, affirming his identity and mission. This testimony is not limited to a specific event, but can be found throughout the Old Testament Scriptures, inviting deeper reflection and understanding. It aligns with the message and revelation of Jesus as the Word of God. Despite this testimony, many fail to recognize or acknowledge Jesus' true nature, remaining estranged from the knowledge of God. The witness of the Father serves as evidence of Jesus' divine sonship and should be received with utmost importance and validity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Father himself... hath borne witness of me." - This quote suggests that the testimony of the Old Testament Scripture is seen as a witness from God the Father, affirming Jesus' identity and mission.
 
 2. "Never recognized Him in this character." - This quote highlights the lack of understanding or acknowledgment of Jesus' true nature by those who did not hear God's voice or recognize Him as the promised Messiah.
@@ -52,4 +52,4 @@ In this Bible verse, Jesus refers to the testimony given by the Father, affirmin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

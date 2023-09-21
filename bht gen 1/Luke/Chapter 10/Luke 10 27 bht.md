@@ -9,7 +9,7 @@ The verse described is a commandment that holds great significance in the lives 
 2. "Meyer thinks the man answered thus, because he had before heard our Lord cite these in connexion, and with an especial view to asking the question τίς ἐστίν μου πλησίον."
 3. "The words θέλ . δικ . ἑαυτ . seem to imply this, but see below."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The answer Christ Himself gave to another lawyer."
 2. "Thou shalt."
 3. "The answer Christ Himself gave."
@@ -45,4 +45,4 @@ The verse described is a commandment that holds great significance in the lives 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

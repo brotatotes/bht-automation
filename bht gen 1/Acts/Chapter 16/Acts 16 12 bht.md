@@ -9,7 +9,7 @@ As Paul and his companions embarked on their mission, they crossed the gateway o
 2. "The other explanations are, (1) 'chief city,' as E. V. But this it was not: Thessalonica being the chief city of the whole province, and Amphipolis of the division (if it then subsisted) of Macedonia prima."
 3. "Philippi was made a colonia by Augustus, as a memorial of his victory over Brutus and Cassius, and as a frontier garrison against Thrace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their whole stay must have extended to some weeks." 
 2. "As their rule was to begin with the Jews and proselytes, they did nothing till the time when they knew that they would convene for worship." 
 3. "Waiting till the sabbath came round."
@@ -48,4 +48,4 @@ As Paul and his companions embarked on their mission, they crossed the gateway o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

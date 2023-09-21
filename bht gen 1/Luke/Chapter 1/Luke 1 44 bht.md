@@ -4,7 +4,7 @@
 In this verse, we witness the profound recognition and joy that fills Elisabeth upon encountering Mary, the mother of her Lord. Elisabeth's unborn child leaps and rejoices within her womb, a testament to the greatness of Mary's unborn child. This extraordinary movement serves as a divine confirmation, leading Elisabeth to acknowledge and celebrate the privilege bestowed upon her. The remarkable connection between these mothers and their unborn children highlights the miraculous nature of this encounter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What beautiful superiority to envy have we here!"
 2. "Elisabeth loses sight of it altogether, in presence of one more honored still."
 3. "Turn this as we will, we shall never be able to see the propriety of calling an unborn child 'Lord,' but by supposing Elisabeth, like the prophets of old, enlightened to perceive the Messiah's Divine nature."
@@ -30,4 +30,4 @@ In this verse, we witness the profound recognition and joy that fills Elisabeth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

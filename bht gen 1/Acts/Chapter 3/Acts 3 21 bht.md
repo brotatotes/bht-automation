@@ -9,7 +9,7 @@ The passage under discussion refers to the ascension of Christ and the time peri
 2. "And so far from seeing in it any derogation from the Majesty of Christ, it seems to me admirably to set it forth: it behoves the heaven (which is his, obeying his will) to receive Him till the time appointed."
 3. "The key both to the construction and meaning here, is our Lord’s saying, Matthew 17:11, Ἡλίας μὲν ἔρχεται καὶ ἀποκαταστήσει πάντα. From this we see that ἀποκατ. πάντων stands alone, as the ἀποκατ. of all things: and that ὧν does not belong to πάντων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The times referred to in this verse encompass the entire period between Christ's ascension and His second coming, highlighting the significance of this period in God's plan of redemption."
 2. "The phrase 'restitution of all things' suggests the restoration and correction of all the consequences of the fall, indicating the comprehensive scope of God's plan to redeem and reconcile all things to Himself."
 3. "This verse emphasizes the hope and assurance that God's plan of redemption will ultimately bring about the restoration and rectification of all the disorder and brokenness caused by sin."
@@ -53,4 +53,4 @@ The passage under discussion refers to the ascension of Christ and the time peri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

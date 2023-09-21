@@ -9,7 +9,7 @@ The verse being described is a powerful declaration of the authority and role of
 2. "Judgment contains eminently in itself the οὓς θέλει, when ζωοπ. is understood as it must be now of bestowing everlasting life."
 3. "The raising of the outwardly dead is to be understood as a sign that He who works it is appointed Judge of quick and dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For neither doth the Father judge any man" - This quote highlights that the Father does not judge anyone, emphasizing the role of the Son as the voluntary agent of judgment.
 2. "The same 'thing was meant in the former verse of the quickening of the dead'" - This quote suggests that the act of judgment and the act of quickening the dead are connected, implying a deeper meaning behind the judgment.
 3. "All judgment - judgment in its most comprehensive sense" - This quote emphasizes that the judgment being referred to encompasses all aspects of administration, indicating the vast scope of the Father's judgment through the Son.
@@ -57,4 +57,4 @@ The verse being described is a powerful declaration of the authority and role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

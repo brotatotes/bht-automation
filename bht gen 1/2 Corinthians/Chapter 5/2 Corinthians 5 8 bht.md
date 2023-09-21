@@ -4,7 +4,7 @@
 Commentators highlight the believers' longing to be with the Lord and their confidence in the ultimate fulfillment they will experience. The believers express their preference for being in the presence of the Lord, as it signifies a transition from their current state to one of perfect bliss and harmony. They are cheerful and of good courage, finding comfort in the assurance of future happiness. The concept of being "present with the Lord" emphasizes the immediate and intimate connection believers have with the Lord in their present state, not solely dependent on the future hope of resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To go (literally, migrate) from our home in the body, and to come to our home with the Lord."
 2. "We should prefer to be found alive at the Lord's coming, and to be clothed upon with our heavenly body."
 3. "Feeling, as we do, the sojourn in the body to be a separation from our true home 'with the Lord,' we prefer even dissolution by death, so that in the intermediate disembodied state we may go to be 'with the Lord'."
@@ -56,4 +56,4 @@ Note: The commentary provides additional insights into the concept of the interm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

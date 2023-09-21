@@ -9,7 +9,7 @@ This Bible verse emphasizes the exaltation of Jesus and the universal worship th
 2. "This would lead us to infer that the universal prayer is to be to JESUS."
 3. "And this view is confirmed by the next clause, where every tongue is to confess that Jesus Christ is κύριος, when we remember the common expression, ἐπικαλεῖσθαι τὸ ὄνομα κυρίου, for prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To worship 'in the name of Jesus,' is to worship Jesus Himself."
 2. "To worship 'in the name of Jesus,' is to worship God in Christ."
 3. "They worship Him not only as God, but as the ascended God-man, 'Jesus'."
@@ -55,4 +55,4 @@ This Bible verse emphasizes the exaltation of Jesus and the universal worship th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

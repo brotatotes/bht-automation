@@ -9,7 +9,7 @@ In this Bible verse, the eternal plan and foreknowledge of God are emphasized. I
 2. "The harshness and unworthiness of the deed are strongly set forth by a word expressing the mechanical act merely, having nailed up, as in contrast with the former clause, from Jesus to you."
 3. "Peter lays the charge on the multitude, because they abetted their rulers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "determinate counsel and foreknowledge—God's fixed plan and perfect foresight of all the steps involved in it."
 2. "ye have taken, and by wicked hands have crucified and slain—How strikingly is the criminality of Christ's murderers here presented in harmony with the eternal purpose to surrender Him into their hands!"
 3. "How strikingly is the criminality of Christ's murderers here presented in harmony with the eternal purpose to surrender Him into their hands!"
@@ -53,4 +53,4 @@ In this Bible verse, the eternal plan and foreknowledge of God are emphasized. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ With unwavering determination, Jesus sets his sights on going back into Judea, a
 2. "For the glory of God, He would have the miracle happen as it did and no otherwise."
 3. "The οὖν in Joh 11:6 referred to this verse, the connexion must have been made by καὶ μετὰ τ .: the ἔπειτα cuts off all connexion (Gal 1:18), and throws back the οὖν as explained above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us go into Judea again" - This statement shows Jesus' determination and willingness to return to a place where he faced opposition and danger. It highlights his commitment to his mission and his fearlessness in the face of adversity.
 
 2. "He was now in Perea, 'beyond Jordan'" - This geographical detail helps us understand the context of Jesus' actions. It shows that he was intentionally moving beyond familiar territory, reaching out to different regions and people with his message.
@@ -51,4 +51,4 @@ With unwavering determination, Jesus sets his sights on going back into Judea, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

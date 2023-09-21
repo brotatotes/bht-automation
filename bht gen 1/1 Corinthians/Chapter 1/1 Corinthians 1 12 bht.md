@@ -9,7 +9,7 @@ In this Bible verse, the commentator highlights the presence of multiple faction
 2. "Such persons would contend for [Paul's] apostolic authority, and maintain doctrinally his teaching, so far being right; but, as usual with partisans, would magnify into importance practices and sayings of his which were in themselves indifferent."
 3. "It would certainly appear that some occasion had been taken by this difference [between Paul and Apollos], to set too high a value on external and rhetorical form of putting forth the gospel of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul will not allow himself to be flattered even by those who made his name their party cry, so as to connive at the dishonor thereby done to Christ."
 2. "Apollos, doubtless, did not willingly foster this spirit of undue preference; nay, to discourage it, he would not repeat his visit just then."
 3. "If it be wrong to boast 'I am of Peter,' how much more so to boast 'I am of the Pope!'"
@@ -54,4 +54,4 @@ These quotes highlight the factions within the Corinthian church, with some alig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

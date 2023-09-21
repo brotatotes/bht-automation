@@ -4,7 +4,7 @@
 John Gill provides insight into the urgency and determination of Herodias in seeking the execution of John the Baptist. Her actions are influenced by her mother's advice and driven by a sense of concern and diligence. Her request is presented as a demand, emphasizing the seriousness and insistence of her desire to have John's head cut off. She is resolute in her demand, insisting on the immediate and punctual fulfillment of her request.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will that thou give me by and by—rather, 'at once.'" - This quote highlights the urgency and immediacy of the request made by Herodias. It emphasizes her desire for immediate action and reveals the pressure she puts on Herod to fulfill her request promptly.
 
 2. "In a charger—large, flat trencher." - This quote provides a vivid description of the vessel in which the head of John the Baptist was presented. It helps the reader visualize the scene and understand the gruesome nature of the request.
@@ -37,4 +37,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

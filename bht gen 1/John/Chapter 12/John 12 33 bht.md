@@ -9,7 +9,7 @@ The Bible verse in question reveals the significance of Jesus' death and the man
 2. "Lampe...find in the word the whole consequences and character of His Death."
 3. "John does not say that this was all that ὑψωθῶ meant, but that it was its first and obvious reference."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This he said, signifying what death he should die" - This quote highlights the significance of Jesus' words, indicating that his death would not be an ordinary one, but a specific and predetermined death.
 2. "By being lifted up from the earth" - This quote emphasizes the manner in which Jesus would die, being lifted up on the cross, a symbol of both shame and salvation.
 3. "The accursed tree" - This phrase underscores the gravity of Jesus' death, as he would be crucified on a tree, bearing the curse of sin and becoming the ultimate sacrifice for humanity's redemption.
@@ -28,4 +28,4 @@ The Bible verse in question reveals the significance of Jesus' death and the man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

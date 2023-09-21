@@ -9,7 +9,7 @@ In this verse, the speaker addresses accusations made against them. Commentators
 2. "Nevertheless, being crafty, I caught you with guile."
 3. "Caught you, in order to practice upon you for my own ends."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I did not burden you—The 'I' in the Greek is emphatic." 
 
 2. "A possible insinuation of the Corinthians is hereby anticipated and refuted." 
@@ -59,4 +59,4 @@ In this verse, the speaker addresses accusations made against them. Commentators
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator quotes explain that the speaker, with a deep and 
 2. "The object is put foremost for emphasis' sake, and after several intervening clauses, taken up again with 'the such a one'." 
 3. "Perhaps after all, 'having done this' refers to fornication generally, 'in such a way' to 'such fornication'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "being absent."
 2. "present in spirit."
 3. "perpetrated."
@@ -48,4 +48,4 @@ In this verse, the commentator quotes explain that the speaker, with a deep and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

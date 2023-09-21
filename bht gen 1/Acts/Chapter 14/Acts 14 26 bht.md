@@ -11,7 +11,7 @@ The verse being described is Acts 13:3. This verse highlights the significance o
 
 3. "The word 'ὅθεν' suggests the idea of a central point from which the apostolic mission radiated." This quote suggests that the word 'ὅθεν' conveys the idea of a central point from which the apostolic mission spread outwards.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The recommendation from the church in Antioch was a sign of their approval and support for Paul and Barnabas, affirming their calling and mission."
 2. "This act of recommendation highlights the importance of accountability and community in the early church, as believers were not sent out on their own but were supported and sent forth by the body of believers."
 3. "The recommendation from the church in Antioch also served as a form of introduction and endorsement, opening doors and establishing credibility for Paul and Barnabas as they embarked on their missionary journey."
@@ -52,4 +52,4 @@ The verse being described is Acts 13:3. This verse highlights the significance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

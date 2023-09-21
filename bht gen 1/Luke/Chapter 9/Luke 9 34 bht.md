@@ -9,7 +9,7 @@ In a moment of divine significance and separation, a cloud descended, signifying
 2. "The phrase ἐν τῷ διαχωρίζ in Luke 9:33 highlights the distinctiveness of the event, emphasizing the separation between Jesus and the disciples."
 3. "The parallel accounts in the Gospels demonstrate the consistency of the narrative, with Luke's additional detail serving to enhance the overall understanding of the event."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a cloud—not one of our watery clouds, but the Shekinah-cloud, the pavilion of the manifested presence of God with His people"
 2. "a voice—'such a voice,' says Peter emphatically"
 3. "this voice [he adds] we heard, when we were with Him in the holy mount"
@@ -49,4 +49,4 @@ In a moment of divine significance and separation, a cloud descended, signifying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

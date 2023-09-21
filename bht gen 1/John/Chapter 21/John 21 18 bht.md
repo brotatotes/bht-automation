@@ -9,7 +9,7 @@ In this verse, an unnamed individual is addressed with solemnity and importance.
 2. "thou girdedst thyself up for My work, and wentest hither and thither but hereafter there shall be a service for thee."
 3. "in a more painful manner, on the transverse beam of the cross; and another the executioner shall gird thee, with the cords binding to the cross."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When thou wast young—embracing the whole period of life to the verge of old age." This quote highlights the significance of the phrase "when thou wast young" and explains that it refers to the entirety of one's life until old age. 
 
 2. "Thou girdedst thyself, and walkedst whither thou wouldest—wast thine own master." This quote emphasizes the freedom and independence that Peter had in his youth, symbolized by the act of girding oneself and walking wherever one desired.
@@ -59,4 +59,4 @@ In this verse, an unnamed individual is addressed with solemnity and importance.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

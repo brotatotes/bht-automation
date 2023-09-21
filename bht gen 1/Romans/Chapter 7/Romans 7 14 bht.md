@@ -9,7 +9,7 @@ This passage from the Bible describes the spiritual nature of the law and the st
 2. "I am carnal, subject to the law of the flesh, and in bondage to it."
 3. "The very strongest assertion of man's subjection to the slavery of sin in his carnal nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is spiritual - in its demands." 
 2. "I am carnal - fleshly, and as such, incapable of yielding spiritual obedience." 
 3. "The 'I' here, though of course not the regenerate, is neither the unregenerate, but the sinful principle of the renewed man."
@@ -53,4 +53,4 @@ This passage from the Bible describes the spiritual nature of the law and the st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

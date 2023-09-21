@@ -4,7 +4,7 @@
 The verse being described showcases the exalted position of Jesus Christ above all beings and authorities. Commentaries emphasize that Christ surpasses every name and title, whether in heaven or on earth, and is elevated even above angels and heavenly hierarchies. The verse highlights the power and majesty of Christ, who is above all and has authority and dominion over everything in both the physical and spiritual realms. This description underscores the superiority and supremacy of Jesus as the King of kings and Lord of lords, far above all creation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus is 'King of kings, and Lord of lords'." (Romans 8:38) 
 2. "The higher is His honor, the greater is that of His people, who are His members joined to Him, the Head." 
 3. "Paul shows that the truest wisdom is to know Christ as reigning above them all."
@@ -50,4 +50,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

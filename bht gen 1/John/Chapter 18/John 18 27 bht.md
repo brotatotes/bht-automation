@@ -4,7 +4,7 @@
 In this Bible verse, we see a significant moment of betrayal and repentance. The scene unfolds as Peter denies his association with Jesus, despite being warned by God through the crowing of a cock. While Peter's denial is momentary and temporary, Judas' act of betrayal reflects a deep resistance against the light and love he had witnessed. The high priest's exaggerated religious horror emphasizes the gravity of the situation. This verse highlights the difference between Peter's remorseful denial and Judas' irreversible path of treachery, reminding us that even in moments of weakness, there is potential for redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The immediately subsequent acts are given in full only in Luke: 'And the Lord turned and looked upon Peter,' from the hall of judgment to the court, in the way already explained. But who can tell what lightning flashes of wounded love and piercing reproach shot from that 'look' through the eye of Peter into his heart!"
 2. "How different from the sequel of Judas' act! Doubtless the hearts of the two men towards the Saviour were perfectly different from the first; and the treason of Judas was but the consummation of the wretched man's resistance of the blaze of light in the midst of which he had lived for three years, while Peter's denial was but a momentary obscuration of the heavenly light and love to his Master which ruled his life."
 3. "Then the high priest rent his clothes, and saith, What need we any further witnesses? Ye have heard the blasphemy—'of his own mouth'; an affectation of religious horror."
@@ -33,4 +33,4 @@ In this Bible verse, we see a significant moment of betrayal and repentance. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

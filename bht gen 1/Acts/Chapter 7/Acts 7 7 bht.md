@@ -9,7 +9,7 @@ In this verse, we see a transition from narrative to direct speech, as God's dir
 2. "τὸ σπ. αὐτοῦ" - The narrative form used here refers to the promise of land given to Abraham, highlighting the significance of God's covenant with him.
 3. "κρ . ἐγώ" - Stephen's use of the direct form emphasizes his authority as he quotes God's words, adding weight to his argument.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here the promise to Abraham and that to Moses are combined; Stephen's object being merely to give a rapid summary of the leading facts."
 2. "The phrase 'after that shall they come forth' implies a future deliverance and restoration, pointing to the ultimate fulfillment of God's promises to His people."
 3. "Stephen's mention of serving God in this place highlights the importance of worship and obedience in the context of the promised land."
@@ -52,4 +52,4 @@ In this verse, we see a transition from narrative to direct speech, as God's dir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The apostle Paul's exhortation for prayer encompasses the significance and priority it holds in the Christian life, urging believers to offer supplications, prayers, intercessions, and expressions of gratitude to God. This call to prayer extends to all people, highlighting the inclusivity and universality of God's love and grace. Prayer is not just a form of seeking help, but an expression of fervent love and zeal, born out of a calm and undisturbed soul moved by the Holy Spirit. It is an act that seeks the well-being and salvation of all humanity, aligning with God's desire for all to be saved.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "First of all," doubtless, is to be connected with "I exhort" what I begin with (for special reasons), is . . . As the destruction of Jerusalem drew near, the Jews (including those at Ephesus) were seized with the dream of freedom from every yoke; and so virtually "'blasphemed" (compare 1 Timothy 1:18- :) God's name by "speaking evil of dignities" (1 Timothy 6:1; 2 Peter 2:10; Judges 1:8). Hence Paul, in opposition, gives prominence to the injunction that prayer be made for all men, especially for magistrates and kings (Titus 3:1-3) [OLSHAUSEN].
 2. Some professing Christians looked down on all not Christians, as doomed to perdition; but Paul says all men are to be prayed for, as Christ died for all (Titus 3:1-56.3.3- :).
 3. The accumulation of terms implies prayer in its every form and aspect, according to all the relations implied in it.
@@ -50,4 +50,4 @@ The apostle Paul's exhortation for prayer encompasses the significance and prior
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

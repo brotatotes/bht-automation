@@ -10,7 +10,7 @@ In this Bible verse, the commentators emphasize the incredible sacrifice of Jesu
 3. "He, on the Cross, was the Representative of Sin, of the sin of the world."
 4. "That we might become the righteousness of God in Him, in union with Him, and by virtue of our standing in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grand reason why they should be reconciled to God, namely, the great atonement in Christ provided by God, is stated without the 'for' as being part of the message of reconciliation."
 2. "The sin of the world is one, therefore the singular, not the plural, is used; though its manifestations are manifold."
 3. "At His death on the cross the sin-bearing for us was consummated."
@@ -65,4 +65,4 @@ Note: The quotes have been shortened for brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

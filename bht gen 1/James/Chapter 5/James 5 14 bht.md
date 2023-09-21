@@ -9,7 +9,7 @@ In this Bible verse, the author encourages the elders of the congregation to att
 2. "Either way, the signification of motion in ἐπί with an accus. must be taken into account, and we must not render 'for him.'"
 3. "The anointing was not a mere human medium of cure, but had a sacramental character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prayers of the elders over the sick would be much the same as though the whole Church which they represent should pray."
 2. "Now that the miraculous gift of healing has been withdrawn for the most part, to use the sign where the reality is wanting would be unmeaning superstition."
 3. "Oil in the East, and especially among the Jews, was much used as a curative agent. It was also a sign of the divine grace. Hence it was an appropriate sign in performing miraculous cures."
@@ -48,4 +48,4 @@ In this Bible verse, the author encourages the elders of the congregation to att
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

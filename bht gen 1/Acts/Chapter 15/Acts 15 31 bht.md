@@ -9,7 +9,7 @@ In this verse, the believers find great joy in the encouragement, comforting wor
 2. "There was very little exhortation in the letter: and it is much more natural to render it consolation here." 
 3. "It was the matter of their joy, which surely could not be said of the orders to abstain given in the letter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They rejoiced for the consolation" - The believers found great joy in the encouragement and comfort they received from the exhortation. It brought them relief and reassurance in the face of the false teachings of the Judaizers.
 
 2. "Rejoiced for the exhortation" - The exhortation they received was not just a mere suggestion or advice, but a powerful and wise counsel that guided them away from the deceptive practices of the Judaizers. It was a source of joy and strength for the believers.
@@ -52,4 +52,4 @@ In this verse, the believers find great joy in the encouragement, comforting wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

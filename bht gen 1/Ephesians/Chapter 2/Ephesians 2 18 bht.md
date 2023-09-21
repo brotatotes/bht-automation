@@ -4,7 +4,7 @@
 Through Him, both Jews and Gentiles are brought near to God, having the privilege of approaching Him as our Father. Christ, the mediator, opens the door for believers to have a close relationship with God, while the Holy Spirit guides and empowers them in this access. This divine invitation to approach God surpasses any false notions of peace and offers true reconciliation and unity, reflecting the harmonious cooperation of the three-in-one Godhead.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For it is through Him that we have our access...to the Father" - This quote highlights the central role of Jesus in providing access to God the Father, emphasizing the importance of Christ as the mediator between humanity and God.
 
 2. "The oneness of 'the Spirit,' through which we both have our access, is necessarily followed by oneness of the body, the Church" - This quote emphasizes the unity and interconnectedness of believers in Christ, highlighting the idea that through the Holy Spirit, all believers are united as one body, the Church.
@@ -52,4 +52,4 @@ Through Him, both Jews and Gentiles are brought near to God, having the privileg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

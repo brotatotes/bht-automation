@@ -9,7 +9,7 @@ In this verse, a man who had been affected by an infirmity for an exceptionally 
 2. "There are two ways of taking the construction of ἔχων: (1) to regard ἔχων ἐν τῇ ἀσθ. as = ἀσθενῶς ἔχων, and τριάκοντα ὀκτὼ ἔτη as the accus. of duration."
 3. "The construction is ἔχων τριάκ. ὀκτὼ ἔτη ἐν τῇ ἀσθ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was probably the most pitiable of all the cases, and therefore selected." 
 2. "The long duration of his infirmity added to the pathos of his case." 
 3. "The fact that he had been in this condition for so long made his healing all the more remarkable."
@@ -51,4 +51,4 @@ In this verse, a man who had been affected by an infirmity for an exceptionally 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

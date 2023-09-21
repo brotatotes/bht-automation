@@ -9,7 +9,7 @@ The verse being described is about the knowledge of God and eternal life. It emp
 2. "The very juxtaposition of Jesus Christ here with the Father, and the knowledge of both being defined to be eternal life, is a proof by implication of the Godhead of the former."
 3. "He who said σου τὸν υἱόν, John 17:1, might well here, before the ἐγώ of John 17:4, use that prophetic Name [Ἰησοῦς] which had been divinely given Him as the Saviour of men, and its weighty adjunct χριστός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This life eternal, then, is not mere conscious and unending existence, but a life of acquaintance with God in Christ."
 2. "Thee, the only true God—the sole personal living God in glorious contrast equally with heathen polytheism, philosophic naturalism, and mystic pantheism."
 3. "Jesus Christ whom thou hast sent—This is the only place where our Lord gives Himself this compound name, afterwards so current in apostolic preaching and writing."
@@ -55,4 +55,4 @@ The verse being described is about the knowledge of God and eternal life. It emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

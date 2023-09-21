@@ -9,7 +9,7 @@ In this verse, Paul is addressing the concept of unity and love towards our neig
 2. "This unity is not just a superficial gathering of people, but rather a deep-rooted connection that stems from a shared principle or source."
 3. "By being brought under one head, individuals are able to find their true identity and purpose, as they are connected to the ultimate source from which all things flow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle refers here only to the second table of the law, as love to our neighbor is what he is treating of."
 2. "For the [commandments], Thou shalt not kill, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not covet, and whatever other commandment [there may be], it is summed up."
 3. "The clause, 'Thou shalt not bear false witness,' is wanting in all the most ancient manuscripts."
@@ -55,4 +55,4 @@ In this verse, Paul is addressing the concept of unity and love towards our neig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

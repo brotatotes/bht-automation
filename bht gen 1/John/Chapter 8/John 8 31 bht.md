@@ -9,7 +9,7 @@ The verse in question emphasizes the importance of continuing in Jesus' word as 
 2. "ἐστέ, for probably they had given some outward token of believing on Him, e.g. that of ranging themselves among His disciples."
 3. "ἐν τῷ λ. τῷ ἐμῷ = ἐν ἐμοί, ch. John 15:7, though that perhaps is spoken of a deeper entrance into the state of union with Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye continue in my word, then are ye my disciples indeed." - Jesus emphasizes the importance of continuing in His word as a sign of true discipleship.
 2. "Continuance in the faith, since then only were they His real disciples." - The commentary highlights that true discipleship is marked by a steadfast commitment to the faith.
 3. "Then should they experimentally 'know the truth,' and 'by the truth be made (spiritually) free.'" - The commentator explains that through continuing in Jesus' word, believers will come to know the truth and experience spiritual freedom.
@@ -48,4 +48,4 @@ The verse in question emphasizes the importance of continuing in Jesus' word as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

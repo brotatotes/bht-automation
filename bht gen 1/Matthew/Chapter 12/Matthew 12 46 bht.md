@@ -9,7 +9,7 @@ In this verse, we see Jesus surrounded by a multitude who sat around Him, while 
 2. "All these characteristics of the mother of our Lord are deeply interesting, both in themselves, and as building up, when put together, the most decisive testimony against the fearful superstition which has assigned to her the place of a goddess in the Romish mythology."
 3. "The juxtaposition of sister and mother in the mouth of our Lord makes it probable that the brethren also were his actual brothers according to the flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In His zeal and ardor He seemed indifferent both to food and repose."
 2. "They went to lay hold of Him" as one "beside Himself."
 3. "The multitude sat about Him" or "around Him."
@@ -40,4 +40,4 @@ These quotes provide insights into the context of the verse and shed light on th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

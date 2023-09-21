@@ -9,7 +9,7 @@ This description reflects on a Bible verse that speaks of the profound truth and
 2) "the divinely empowered inner sense by which we judge of things divine"
 3) "God, the Father: the ὁ ἀληθινός, who has been twice spoken of: see below) is the true God, and eternal life"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His incarnation, work, and abiding presence, is to us a living fact" - The commentary emphasizes the reality and significance of Jesus' presence in our lives.
 2. "Christ's office is to give the inner spiritual understanding to discern the things of God" - This quote highlights the role of Jesus in granting us the ability to understand and comprehend spiritual truths.
 3. "In believing in Him we believe in the true God, and have eternal life" - The commentary underscores the connection between believing in Jesus and having a relationship with the true God, resulting in eternal life.
@@ -50,4 +50,4 @@ This description reflects on a Bible verse that speaks of the profound truth and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

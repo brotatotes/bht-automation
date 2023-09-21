@@ -9,7 +9,7 @@ In this particular Bible verse, commentators highlight the significance of salva
 2. "The salvation is in the stronger sense, salvation."
 3. "He is a son of Abraham: though despised by the multitude, has his rights as a Jew, and has availed himself of them by receiving his Lord in faith and humility."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salvation already come, but not a day old."
 2. "The house is no longer polluted it is now fit to receive Me."
 3. "Salvation to a house is an exceedingly precious idea, expressing the new air that would henceforth breathe in it, and the new impulses from its head which would reach its members."
@@ -45,4 +45,4 @@ In this particular Bible verse, commentators highlight the significance of salva
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

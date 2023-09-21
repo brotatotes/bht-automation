@@ -9,7 +9,7 @@ Not in the usual caravan-company or by the usual way, Jesus went secretly to Jer
 2. "Whether the Twelve were with Him, we have no means of judging: probably so."
 3. "After their becoming once attached to the Person of our Lord as Apostles, we find no trace of his having been for any long time separated from them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not openly" - The commentator suggests that Jesus did not go openly or in the company of others, indicating a deliberate choice to not attract attention or draw a crowd.
 2. "in a manner secretly" - This phrase implies that Jesus may have taken an alternative route or used a method that would not easily be noticed by others. It highlights the intentionality behind Jesus' actions.
 3. "not to attract notice" - The commentator emphasizes that Jesus' desire was to avoid drawing attention to himself. This suggests a humility and a focus on the task at hand rather than seeking personal recognition.
@@ -38,4 +38,4 @@ Not in the usual caravan-company or by the usual way, Jesus went secretly to Jer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

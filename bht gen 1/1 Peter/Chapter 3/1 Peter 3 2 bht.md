@@ -9,7 +9,7 @@ This verse encourages wives to exhibit pure and reverential behavior towards the
 2. "Conducted, led, maintained, in a spirit of reverence to your husbands." 
 3. "The connexion of words is 'your chaste behaviour coupled with fear,' not, as Huther, 'your behaviour in fear, chaste.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—on narrowly looking into it, literally, 'having closely observed.'" This quote highlights the importance of paying close attention to the verse and examining it closely for deeper meaning.
 
 2. "Chaste—pure, spotless, free from all impurity." This quote emphasizes the idea that the virtue of chastity involves being pure and free from any form of impurity.
@@ -57,4 +57,4 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This passage describes the fate of those who do not bear good fruit. They are compared to land that produces thorns and briers, which are prickly and hurtful. These individuals are rejected and abandoned, left to their own barrenness. Their end is likened to the burning of Jerusalem, signifying impending destruction. It serves as a warning about the consequences of a life devoid of righteousness and devoted to worldly pursuits.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But if it (the 'land') bear"; not so favorable a word as "bringeth forth," Hebrews 6:7, said of the good soil.
 2. "Rejected—after having been tested; so the Greek implies. Reprobate...rejected by the Lord."
 3. "Nigh unto cursing—on the verge of being given up to its own barrenness by the just curse of God."
@@ -46,4 +46,4 @@ These quotes provide additional context and references to other Bible verses, as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

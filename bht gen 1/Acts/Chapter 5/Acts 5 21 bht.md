@@ -9,7 +9,7 @@ In the early hours of the morning, as day was breaking, there was a hasty gather
 2. "If so, they did not succeed, see Acts 5:40; perhaps on account of the arrival of some who had been listeners to the Apostles’ preaching."
 3. "Probably the πρεσβύτεροι, including perhaps some who were not members of the Sanhedrim; the well-known foes of Jesus and his doctrine."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How self-possessed! the indwelling Spirit raising them above fear."
 2. "An unusually general convention, though hastily summoned."
 
@@ -47,4 +47,4 @@ In the early hours of the morning, as day was breaking, there was a hasty gather
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

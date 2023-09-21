@@ -8,7 +8,7 @@ In this verse, a father addresses his older son, reminding him of his constant p
 1. "πάντοτε μ. ἐμ. εἶ, as a reason why no extraordinary joy should be shewn over him; other reasons might be assigned, and lie indeed in the background, suggested by his tone and words: but this is the soft answer to turn away wrath." 
 2. "πάντα τὰ ἑμὰ σά ἐσ., because the portion of goods which remained was his."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Son, listen to reason. What need for special, exuberant joy over thee?"
 2. "Didst thou say, 'Lo, these many years do I serve thee?' In that saidst thou truly but just for that reason do I not set the whole household a-rejoicing over thee."
 3. "For thee is reserved what is higher still—a tranquil lifelong satisfaction in thee, as a true-hearted faithful son in thy father's house, nor of the inheritance reserved for thee is aught alienated by this festive and fitting joy over the once foolish but now wise and newly recovered one."
@@ -49,4 +49,4 @@ In this verse, a father addresses his older son, reminding him of his constant p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

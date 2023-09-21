@@ -9,7 +9,7 @@ On this occasion, the members of the church at Troas gathered together on the fi
 2. "Perhaps the greatest proof of all, that this day was thus observed, may be found in the early and at length general prevalence, in the Gentile world, of the Jewish seven-day period as a division of time, which was entirely foreign to Gentile habits."
 3. "The breaking of bread in the Holy Communion was at this time inseparable from the ἀγάπαι. It took place apparently in the evening, and at the end of the assembly, after the preaching of the word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Christian observance of the day afterwards distinctly called 'the Lord's Day,' was already a fixed practice of the churches."
 2. "The tense implies continued action—'kept discoursing.'"
 3. "Paul preached—discoursed."
@@ -55,4 +55,4 @@ On this occasion, the members of the church at Troas gathered together on the fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

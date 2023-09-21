@@ -9,7 +9,7 @@ In this verse, the commentators highlight the importance of living in the presen
 2. "After all your endeavor to avoid worldly cares, you will find quite enough, and more of them when tomorrow comes, about tomorrow itself." 
 3. "Do not then increase those of today by introducing them before their time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take therefore no thought—anxious care for the morrow." 
 2. "Sufficient unto the day is the evil thereof." 
 3. "Every day brings its own cares; and to anticipate is only to double them."
@@ -42,4 +42,4 @@ In this verse, the commentators highlight the importance of living in the presen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

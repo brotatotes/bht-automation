@@ -9,7 +9,7 @@ In this verse, Jesus expresses his unwavering commitment to fulfilling God's wil
 2. "In Him the hallowing of the Father's name, doing His will, bringing about His Kingdom, was His daily bread."
 3. "My meat is (not to do, as E. V., but) that I may do, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A Servant here to fulfil a prescribed work, to do and to finish, that is 'meat' to Me and of this, while you were away, I have had My fill."
 2. "And of what does He speak thus? Of the condescension, pity, patience, wisdom He had been laying out upon one soul—a very humble woman, and in some respects repulsive too!"
 3. "But He had gained her, and through her was going to gain more, and lay perhaps the foundations of a great work in the country of Samaria; and this filled His whole soul and raised Him above the sense of natural hunger."
@@ -57,4 +57,4 @@ In this verse, Jesus expresses his unwavering commitment to fulfilling God's wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

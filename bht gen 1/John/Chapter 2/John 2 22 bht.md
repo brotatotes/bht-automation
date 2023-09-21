@@ -9,7 +9,7 @@ In this passage, we encounter a profound understanding of the Scriptures and the
 2. "That the resurrection of the Lord is the subject of O.T. prophecy, we find in several passages of the N.T."
 3. "With the deeper understanding of the Scriptures which the Holy Spirit gave the Apostles and still gives the Christian Church, such prophecies as that in Psalms 16:0 are recognized as belonging to Him in Whom alone they are properly fulfilled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Taking 'His fan in His hand, He purges His floor,' not thoroughly indeed, but enough to foreshadow His last act towards that faithless people—to sweep them out of God's house."
 2. "The sign of His authority to do this is the announcement, at this first outset of His ministry, of that coming death by their hands, and resurrection by His own, which were to pave the way for their judicial ejection."
 3. "The act by which Christ signalized His first public appearance in the Temple."
@@ -48,4 +48,4 @@ In this passage, we encounter a profound understanding of the Scriptures and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

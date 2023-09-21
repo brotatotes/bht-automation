@@ -9,7 +9,7 @@ If believers possessed even a small amount of genuine faith, no task or challeng
 2. "Notice the different tenses with ἄν: ἐλέγετε ἄν, ye would say: ὑπήκουσεν ἄν, it would (even while you were speaking) have obeyed."
 3. "‘Cum ipsis radicibus, in mari mansura. Tale quiddam fit ipsis fidelibus.’ Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sycamine tree was known for its deep roots, which made it difficult to uproot or transplant. This emphasizes the power of faith, which has the ability to uproot and overcome obstacles that seem impossible to overcome." 
 
 2. "The sycamine tree was also associated with bitterness and unforgiveness. Jesus uses this imagery to teach the disciples about the importance of forgiveness and the need to uproot bitterness from their hearts in order to experience the fullness of God's grace." 
@@ -54,4 +54,4 @@ If believers possessed even a small amount of genuine faith, no task or challeng
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

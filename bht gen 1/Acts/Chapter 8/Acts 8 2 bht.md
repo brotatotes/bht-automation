@@ -9,7 +9,7 @@ In the face of persecution, devout men, deeply committed to their faith, tenderl
 2. "At all events, there is no contrast implied in the δέ (as Mey.), ‘Yet, notwithstanding the persecution and dispersion, pious men were found who, &c.:’"
 3. "So far from its being any unusual thing to bury an executed person, it was commanded among the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Devout men—pious Jews" - This phrase highlights the religious background of these individuals, indicating their deep commitment to their faith and their sincere devotion to God.
 2. "Impressed with admiration for Stephen" - This suggests that Stephen's character and actions had made a significant impact on these devout men, leading them to hold him in high regard and respect.
 3. "Secretly inclined to Christianity, but not yet openly declared" - This phrase reveals that these men were not yet ready to publicly embrace Christianity, possibly due to fear of persecution or social consequences. It implies a sense of internal struggle and the need for a deeper conviction before openly professing their faith.
@@ -53,4 +53,4 @@ In the face of persecution, devout men, deeply committed to their faith, tenderl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

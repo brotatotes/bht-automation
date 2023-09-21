@@ -4,7 +4,7 @@
 The New Jerusalem, depicted by one of the angels who had previously brought judgment on Babylon, stands in sharp contrast as the bride of the Lamb. It represents the redeemed church, united with its Lord in pure love and eternal union. The pouring out of the vials, symbolizing God's final judgment, serves as a reminder of the impending reckoning for those who reject mercy, while emphasizing the righteousness and completeness of His wrath. The vision portrays the glorious future of the Church, as she is prepared as a radiant and consecrated bride for her heavenly Bridegroom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same angel who had shown John Babylon the harlot, is appropriately employed to show him in contrast new Jerusalem, the Bride."
 2. "The angel so employed is the one that had the last seven plagues, to show that the ultimate blessedness of the Church is one end of the divine judgments on her foes."
 3. "The Lamb's wife—in contrast to her who sat on many waters, (that is, intrigued with many peoples and nations of the world, instead of giving her undivided affections, as the Bride does, to the Lamb."
@@ -47,4 +47,4 @@ The New Jerusalem, depicted by one of the angels who had previously brought judg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

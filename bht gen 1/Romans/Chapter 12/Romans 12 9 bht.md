@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the importance of actively rejecting 
 2. "This very general exhortation is probably, as Bengel says, an explanation of ἀνυπόκριτος."
 3. "Our love should arise from a genuine cleaving to that which is good, and aversion from evil: not from any by-ends."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let your love be unfeigned" - This quote emphasizes the importance of genuine love, without any pretense or hidden motives. It encourages believers to express their love sincerely and authentically.
 2. "Abhor the one, and cling, with deepest sympathy, to the other" - This quote highlights the strong moral stance that believers should take. It calls for a deep aversion towards evil and a firm commitment to righteousness, with a sense of empathy and understanding.
 3. "What a lofty tone of moral principle and feeling is here inculcated!" - This quote acknowledges the elevated standard of morality and emotion that is being taught in this verse. It recognizes the significance and nobility of the instruction to abhor evil and cleave to good.
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the importance of actively rejecting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the commentators emphasize the significance of Jesus' instructi
 2. "The mention of him here is probably merely official as the 'primus inter pares.'" - The mention of Peter in this context is likely to highlight his role as the leader among equals, rather than specifically connecting it to his denial of Jesus.
 3. "We cannot say that others of the Apostles may not have denied their Master besides Peter." - The commentary suggests that while Peter's denial is well-known, it is possible that other apostles may have also denied Jesus, highlighting the complexity of the situation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is something deeply affecting in the preservation of this little clause by Mark alone." 
 2. "Go your way, tell his disciples and Peter." 
 3. "He goeth before you into Galilee; there shall ye see him, as he said unto you."
@@ -42,4 +42,4 @@ In this passage, the commentators emphasize the significance of Jesus' instructi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

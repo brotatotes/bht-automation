@@ -9,7 +9,7 @@ In this verse, the commentators reveal the profound nature of the Bible verse wi
 2. "αὐτόν, not αὐτό, because though τὸ φῶς has been the subject, yet the δι ʼ αὐτοῦ ἐγένετο brings in again the creative λόγος, Who is the Light."
 3. "The three members of the sentence form a climax; He was in the world, and the world was made by Him, and the world knew Him not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The language here is nearly as wonderful as the thought."
 2. "By His Incarnation, He became an inhabitant of it, and bound up with it."
 3. "The most vivid commentary on this entire verse will be got by tracing Him of whom it speaks walking amidst all the elements of nature, the diseases of men and death itself, the secrets of the human heart, and 'the rulers of the darkness of this world' in all their number, subtlety, and malignity."
@@ -54,4 +54,4 @@ In this verse, the commentators reveal the profound nature of the Bible verse wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

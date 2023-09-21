@@ -9,7 +9,7 @@ In this passage, the author recounts his visit to Peter after a period of three 
 2. "There is no real discrepancy between that account and this." 
 3. "Peter was at this early period the prominent person among the Apostles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the same visit to Jerusalem as in Acts 9:26, and at this visit occurred the vision (Acts 22:17; Acts 22:18)."
 2. "The incident which led to his leaving Damascus (Acts 9:25; 2 Corinthians 11:33) was not the main cause of his going to Jerusalem."
 3. "The two oldest manuscripts read, 'Cephas,' the name given Peter elsewhere in the Epistle, the Hebrew name; as Peter is the Greek (John 1:42)."
@@ -55,4 +55,4 @@ In this passage, the author recounts his visit to Peter after a period of three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

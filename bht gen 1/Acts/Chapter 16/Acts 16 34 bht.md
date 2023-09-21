@@ -9,7 +9,7 @@ This description focuses on the power of faith as highlighted by various comment
 2. "The expression πεπιστ . τῷ θεῷ could only be used of a converted heathen, not of a Jew." 
 3. "In ch. Acts 18:8, of a Jew, we have ἐπίστευσεν τῷ κυρίῳ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "rejoiced, believing—that is, as the expression implies, 'rejoiced because he had believed.'"
 2. "the faith of a Jew would not be so expressed"
 3. "the wondrous change on himself and the whole house filling his soul with joy."
@@ -55,4 +55,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

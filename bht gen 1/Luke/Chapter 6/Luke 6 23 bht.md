@@ -11,7 +11,7 @@ In a future time, when people are hated, discarded, and reproached, they are cal
 
 3. "when men shall do thus to you" - This quote emphasizes that the actions mentioned in the verse will be carried out by people towards others, indicating that it involves interpersonal relationships and interactions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Leap for joy" is a livelier expression than simply being "exceeding glad" or "exult." 
 
 2. The phrase implies a physical and emotional response, suggesting an overwhelming sense of joy and delight. 
@@ -43,4 +43,4 @@ In a future time, when people are hated, discarded, and reproached, they are cal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

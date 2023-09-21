@@ -9,7 +9,7 @@ In this Bible verse, the Apostle Paul asserts that he did not burden or trouble 
 2. "When they came from Macedonia brought a fresh supply of my want."
 3. "In every thing I kept myself unburdensome to you, and will keep myself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "wanted—'was in want.'"
 2. "chargeable—Greek, 'burdensome,' literally, 'to torpify,' and so to oppress."
 3. "the brethren when they came."
@@ -62,4 +62,4 @@ Overall, these quotes highlight Paul's selflessness, the generosity of the Maced
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

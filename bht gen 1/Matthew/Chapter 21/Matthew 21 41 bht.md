@@ -4,7 +4,7 @@
 From the commentaries provided, it can be gleaned that the verse being described involves the destruction of wicked individuals who have committed grave offenses. The commentators emphasize the miserable fate that awaits these individuals, highlighting the poetic wordplay used in the verse. The commentary also suggests the condemnation and self-condemnation of these wicked individuals, who are deserving of severe punishment. Additionally, the identity of these individuals is explored, considering different perspectives and speculating on their involvement in the events described. The response of the religious leaders is mentioned, further underscoring the strong opposition and rejection of the idea being discussed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He will badly destroy those bad men," or "miserably destroy those miserable men," is something like it.
 2. If this answer was given by the Pharisees, they thus unwittingly pronounced their own condemnation.
 3. His whole meaning now bursting upon them.
@@ -46,4 +46,4 @@ From the commentaries provided, it can be gleaned that the verse being described
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

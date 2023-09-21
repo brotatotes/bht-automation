@@ -9,7 +9,7 @@ In this verse, we see the story of a man who was not only unable to speak but al
 2. "There could have been no reason for beckoning, had Zacharias been able to hear articulate words."
 3. "Bengel’s reason, adopted by Bp. W., 'commodius est muto innuentes videre quam loquentes audire,' is surely too far-fetched."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that the man was deaf and mute indicates a deeper level of his affliction and highlights the extent of his suffering." 
 
 2. "By making signs, the man demonstrated his desire to communicate and his faith in Jesus' ability to heal him." 
@@ -40,4 +40,4 @@ In this verse, we see the story of a man who was not only unable to speak but al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

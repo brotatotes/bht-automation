@@ -9,7 +9,7 @@ In this Bible verse, we see a heated debate taking place among different faction
 2. "But what if a spirit (genus) or an angel (species) have spoken to him?" 
 3. "Perhaps in this they referred to the history of his conversion as told to the people, ch. 22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am a Pharisee, the son of a Pharisee—The true reading seems to be, 'the son of Pharisees,' that is, belonging to a family who from father to son had long been such."
 2. "of the hope and resurrection of the dead—that is, not the vague hope of immortality, but the definite expectation of the resurrection."
 3. "By this adroit stroke, Paul engages the whole Pharisaic section of the council in his favor; the doctrine of a resurrection being common to both, though they would totally differ in their application of it."
@@ -53,4 +53,4 @@ In this Bible verse, we see a heated debate taking place among different faction
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

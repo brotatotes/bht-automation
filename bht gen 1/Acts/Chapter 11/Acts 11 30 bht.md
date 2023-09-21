@@ -9,7 +9,7 @@ Commented upon by various biblical scholars and theologians, this verse describe
 2. "They are in the N. T. identical with ἐπίσκοποι, see ch. Acts 20:17; Acts 20:28; Titus 1:5; Titus 1:7; 1 Peter 5:1-2."
 3. "The title ἐπίσκοπος, as applied to one person superior to the πρεσβύτεροι, and answering to our ‘bishop,’ appears to have been unknown in the apostolic times."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sending of the gift to the elders shows that the early Christian churches were modeled after the synagogue, not the temple. This highlights the continuity between the Jewish and Christian communities."
 2. "The fact that Barnabas and Saul were chosen to deliver the gift emphasizes their important role in the early church. This visit to Jerusalem marked Saul's second visit after his conversion, highlighting his transformation from persecutor to apostle."
 3. "By entrusting the gift to Barnabas and Saul, the church demonstrated their trust in these leaders and their recognition of their authority. This highlights the importance of leadership and delegation within the early Christian community."
@@ -52,4 +52,4 @@ Commented upon by various biblical scholars and theologians, this verse describe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

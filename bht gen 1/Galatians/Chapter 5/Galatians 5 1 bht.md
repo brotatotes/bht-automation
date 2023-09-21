@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the concept of freedom in Christ. They
 2. "Stand fast, therefore...and be not again involved in the yoke of bondage."
 3. "An anarthrous noun or personal pronoun following another noun in the genitive often deprives that other noun of its article...better than 'a yoke.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is FOR freedom that Christ hath made us free (not in, or for, a state of bondage)."
 2. "Stand fast, therefore, and be not entangled again in a yoke of bondage."
 3. "The law, Galatians 4:24; Acts 15:10."
@@ -57,4 +57,4 @@ In this verse, the commentators emphasize the concept of freedom in Christ. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

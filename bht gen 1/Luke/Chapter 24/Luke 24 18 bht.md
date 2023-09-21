@@ -9,7 +9,7 @@ In this verse, there is surprise and disbelief expressed towards someone who is 
 2. "Dost thou lodge alone at Jerusalem?"
 3. "παροικ . in the LXX is to sojourn in not to dwell in."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If he knew not the events of the last few days in Jerusalem, he must be a mere sojourner." 
 2. "If he did, how could he suppose they would be talking of anything else?" 
 3. "How artless all this!"
@@ -47,4 +47,4 @@ In this verse, there is surprise and disbelief expressed towards someone who is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

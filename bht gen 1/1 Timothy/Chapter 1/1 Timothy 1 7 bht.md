@@ -4,7 +4,7 @@
 In this Bible verse, we find a warning against certain individuals who desire to be teachers of the law but lack a true understanding of it. These pretentious teachers twist the law with fables and immoral interpretations, corrupting its true meaning. They speak confidently but without understanding, their words lacking true knowledge and insight. Despite their claims to expertise, they fail to grasp the depth and true nature of the law they attempt to teach. Instead, their empty words only serve to deceive and mislead others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Judaizers here meant corrupted the law with 'fables,' which they pretended to found on it, subversive of morals as well as of truth."
 2. "Their error was not in maintaining the obligation of the law, but in abusing it by fabulous and immoral interpretations of, and additions to, it."
 3. "Neither understanding their own assertions, nor the object itself about which they make them. They understand as little about the one as the other."
@@ -52,4 +52,4 @@ Note: The commentary includes a longer quote from Fr. Ser, but it exceeds the wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

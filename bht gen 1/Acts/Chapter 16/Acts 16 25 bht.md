@@ -9,7 +9,7 @@ In the midst of their suffering, Paul and Silas found comfort and strength in pr
 2. "The distinction of modern times between prayer and praise, arising from our attention being directed to the shape rather than to the essence of devotion, was unknown in these days."
 3. "The imperfects show that they were singing, and the prisoners (in the outer prison) listening, when the earthquake happened."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While engaged in pouring out their hearts in prayer, had broken forth into singing, and were hymning loud their joy."
 2. "Their spirits, under 'the expulsive power of a new affection,' rose above suffering, and made the prison wails resound with their song."
 3. "In these midnight hymns, by the imprisoned witnesses for Jesus Christ, the whole might of Roman injustice and violence against the Church is not only set at naught, but converted into a foil to set forth more completely the majesty and spiritual power of the Church."
@@ -50,4 +50,4 @@ In the midst of their suffering, Paul and Silas found comfort and strength in pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

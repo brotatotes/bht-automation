@@ -9,7 +9,7 @@ In this verse, we see the miraculous escape of the apostles from a securely lock
 2. The Vulgate's translation of "cum omni diligentia" as "with all safety" is not accurate.
 3. The phrase does not mean "with all safety," but rather emphasizes a state of complete security.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prison...shut...keepers...before the doors, but...no man within" - This verse presents a miraculous contrast, highlighting the power of God. The closed prison doors and the presence of guards symbolize the impossibility of escape, yet the absence of any prisoners within reveals the divine intervention at work.
 
 2. "The reverse of the miracle in Matthew 4:18; a similar contrast to that of the nets at the miraculous draughts of fishes" - Just as Jesus called his disciples to be fishers of men, this verse showcases a reversal of the usual outcome. Instead of catching fish, the disciples catch no one, emphasizing the supernatural nature of the event.
@@ -44,4 +44,4 @@ In this verse, we see the miraculous escape of the apostles from a securely lock
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

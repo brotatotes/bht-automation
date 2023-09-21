@@ -9,7 +9,7 @@ The verse describes a powerful sign given to a generation, where the preaching o
 2. "The preaching of Jonas to the Ninevites was a sign after his resurrection: so shall the preaching of the Son of Man by His Spirit in His Apostles be after His resurrection."
 3. "The preaching of the Son of Man by His Spirit in His Apostles will be a sign to this generation, just as Jonas was a sign to the Ninevites."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Ninevites, though heathens, repented at a man's preaching while they, God's covenant-people, repented not at the preaching of the Son of God." 
 
 2. "The supreme dignity of the Son of God is rather implied here than expressed." 
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

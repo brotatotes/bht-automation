@@ -9,7 +9,7 @@ In this verse, there is a recognition of authority. The owner of the ship, the m
 2. In Plutarch, it is mentioned that the captain chooses the sailors, and the owner chooses the captain (κυβερνήτην ναύκληρος).
 3. Hesychius defines ναύκληρος as "the master of the ship" (ὁ δεσπότης τ. πλοίου).
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The centurion believed the master and owner... more than... Paul." 
 2. "He would naturally think them best able to judge." 
 3. "There was much to say for their opinion, as the bay at Fair Havens, being open to nearly one-half of the compass, could not be a good winter harbor."
@@ -57,4 +57,4 @@ In this verse, there is a recognition of authority. The owner of the ship, the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

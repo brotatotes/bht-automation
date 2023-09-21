@@ -4,7 +4,7 @@
 In this Bible verse, the speaker, Philip, opens his mouth to deliver a message of great significance and weightiness. He begins by referring to a specific scripture, highlighting its relevance to the topic at hand. With freedom and boldness, he expounds on the passage, connecting it to the life of Jesus. Through his teaching, Philip showcases the fulfillment of prophecies and the divine nature of Jesus' birth, life, death, and resurrection. This verse underscores the importance of recognizing Jesus as the Messiah, the central figure in the redemption of humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Philip opened his mouth—(See on Acts 8:4)." 
 2. "Began at the same scripture—founding on it as his text." 
 3. "Preached unto him Jesus—showing Him to be the glorious Burden of this wonderful prediction, and interpreting it in the light of the facts of His history."
@@ -47,4 +47,4 @@ In this Bible verse, the speaker, Philip, opens his mouth to deliver a message o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

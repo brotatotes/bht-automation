@@ -4,7 +4,7 @@
 In this Bible verse, we see a wretched man's demise being witnessed by the people, resulting in their applause and adoration. Interestingly, these reactions were not solely from the Jewish community, but rather from the idolatrous Gentiles as well. The wretched man's intention to humiliate someone else ironically leads to his own downfall, a poetic justice that the people seemed aware of. The crowd's flattery and adulation were primarily driven by a desire to please and gain favor with Herod, rather than a genuine belief in his divinity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people gave a shout, &c." - This quote highlights the reaction of the people witnessing the death of the wretched man. It suggests that there was a sense of satisfaction or vindication among the crowd.
 2. "JOSEPHUS' account of his death is remarkably similar to this." - This quote refers to the account of Josephus, indicating that there are historical parallels to such deaths. It suggests that this type of public spectacle was not uncommon in history.
 3. "Thus was this wretched man nearer his end than he of whom he had thought to make a public spectacle." - This quote emphasizes the irony of the situation, as the wretched man who intended to humiliate someone else ended up being closer to his own demise. It highlights the poetic justice in the story.
@@ -33,4 +33,4 @@ In this Bible verse, we see a wretched man's demise being witnessed by the peopl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Servants are instructed to please their masters in all things, seeking to gain t
 
 Note: The commentary is discussing the instructions given to slaves in the Bible verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be complaisant in everything; to have that zealous desire to gain the master's goodwill which will anticipate the master's wish and do even more than is required." 
 2. "The reason for the frequent recurrence of injunctions to slaves to subjection was, that in no rank was there more danger of the doctrine of the spiritual equality and freedom of Christians being misunderstood than in that of slaves." 
 3. "Hence the charge for each to abide in the sphere in which he was when converted."
@@ -54,4 +54,4 @@ Note: The commentary is discussing the instructions given to slaves in the Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

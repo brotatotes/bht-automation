@@ -4,7 +4,7 @@
 In this verse, we witness the fulfillment of specific and detailed prophecies from the Psalms. The oneness and completeness of the scriptures are symbolized by the unripped vesture, which represents our identity and status. Through careful study and interpretation, we can unlock the rich complexity of the scripture, allowing us to appreciate its significance and understand the prophecies it foretells. It is through the scripture that we can come to know and bear witness to Christ and be clothed with His righteousness, a pure and lasting garment that covers and adorns us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That a prediction so exceedingly specific—distinguishing one piece of dress from others, and announcing that while those should be parted amongst several, that should be given by lot to one person—that such a prediction should not only be fulfilled to the letter, but by a party of heathen military, without interference from either the friends of the enemies of the Crucified One, is surely worthy to be ranked among the wonders of this all-wonderful scene."
 2. "We thank you, O ye chief priests, scribes, and elders, for this triple testimony, unconsciously borne by you, to our Christ: first to His habitual trust in God, as a feature in His character so marked and palpable that even ye found upon it your impotent taunt; next, to His identity with the Sufferer of the twenty-second Psalm, whose very words ye unwittingly appropriate, thus serving yourselves heirs to the dark office and impotent malignity of Messiah's enemies; and again, to the true sense of that august title which He took to Himself, 'THE SON OF GOD,' which He rightly interpreted at the very first as a claim to that oneness of nature with Him, and dearness to Him, which a son has to his father."
 3. "In the taunt of the soldiers we have one of those undesigned coincidences which so strikingly verify these historical records. While the ecclesiastics deride Him for calling Himself, 'the Christ, the King of Israel, the Chosen, the Son of God,' the soldiers, to whom all such phraseology was mere Jewish jargon, make sport of Him as a pretender to royalty ('KING of the Jews'), an office and dignity which it belonged to them to comprehend."
@@ -45,4 +45,4 @@ In this verse, we witness the fulfillment of specific and detailed prophecies fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

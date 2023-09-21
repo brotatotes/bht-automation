@@ -9,7 +9,7 @@ In this Bible verse, our Lord sends forth His well-beloved Son, not as a Redeeme
 2. "The difference here is fully made between the Son and all the other messengers."
 3. "The Son appears here, not in his character of Redeemer, but in that of a preacher a messenger demanding the fruits of the vineyard."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having yet therefore one son, His well-beloved, He sent Him also last unto them, saying, They will reverence My Son." - This quote highlights the deep love and importance God places on His Son, emphasizing the unique and special role Jesus plays in God's plan.
 2. "Then said the lord of the vineyard, What shall I do? I will send My beloved Son: it may be they will reverence Him when they see Him." - This quote emphasizes the hope and expectation that God has for humanity to recognize and honor His Son, underscoring the gravity of rejecting Jesus.
 3. "Who does not see that our Lord here severs Himself, by the sharpest line of demarcation, from all merely human messengers, and claims for Himself Sonship in its loftiest sense?" - This quote highlights the distinctiveness of Jesus as the Son of God, setting Him apart from all other messengers and affirming His divine nature.
@@ -38,4 +38,4 @@ In this Bible verse, our Lord sends forth His well-beloved Son, not as a Redeeme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

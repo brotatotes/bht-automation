@@ -4,7 +4,7 @@
 In this Bible verse, commentators warn against engaging in indecent or obscene behavior, including impure and obscene speech. They caution against using wit and humor in a negative or harmful way, and instead encourage a more thoughtful and grateful use of words. The verse emphasizes the importance of having sensible and serious conversations, rather than engaging in idle and foolish talk. By avoiding inappropriate and frivolous speech, one can cultivate a more virtuous and godly life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Filthiness—obscenity in act or gesture."
 2. "Jesting... implies strictly that versatility which turns about and adapts itself, without regard to principle, to the shifting circumstances of the moment, and to the varying moods of those with whom it may deal."
 3. "Not scurrile buffoonery, but refined 'persiflage' and 'badinage,' for which Ephesus was famed."
@@ -51,4 +51,4 @@ In this Bible verse, commentators warn against engaging in indecent or obscene b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

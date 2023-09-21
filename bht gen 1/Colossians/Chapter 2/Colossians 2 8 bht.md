@@ -11,7 +11,7 @@ Beware of being led astray by the empty deceit of false philosophy that seeks to
 
 Note: The commentary provides insights into the warning against being deceived by false philosophy and emphasizes the importance of following Christ as the true measure of genuine philosophy.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware lest there shall be any man leading you away as his spoil through his philosophy." 
 2. "You, who may have 'the riches of full assurance' and 'the treasures of wisdom,' should not suffer yourselves to be led away as a spoil by empty, deceitful philosophy."
 3. "The false teachers boasted of a higher wisdom in theory, transmitted by tradition among the initiated; in practice they enjoined asceticism, as though matter and the body were the sources of evil."
@@ -56,4 +56,4 @@ Note: The commentary provides insights into the warning against being deceived b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under consideration highlights the Apostle Paul's dedication to preach
 2. "I am persuaded that the following is the true rendering: What then is my reward (in prospect) that I while preaching, render the gospel without cost (i.e. what reward have I in prospect that induces me to preach gratuitously) in order not to use (as carrying out my design not to use) [to the full] my power in the gospel?"
 3. "The καύχημα was present: the μισθός, future."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By making the Gospel without charge, where I might have rightfully claimed maintenance, I might 'win the more.'" 
 2. "The 'reward' ultimately aimed at is the gaining of the more."
 3. "The former, as involving the latter, is verbally made the answer to the question, 'What is my reward?' But really the 'reward' is that which is the ultimate aim of his preaching without charge, namely, that he may gain the more."
@@ -57,4 +57,4 @@ The verse under consideration highlights the Apostle Paul's dedication to preach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

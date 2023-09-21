@@ -4,7 +4,7 @@
 In this verse, Jesus emphasizes the humility and submission of his followers, highlighting the importance of putting his teachings into action and aligning one's actions with their beliefs. It points to Jesus as a servant and messenger sent by God, emphasizing his complete obedience to God's will and his authority. This verse also reminds us of the importance of humility, recognizing that we are not greater than our master, Jesus, and that our lives should reflect his sacrificial love for others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The servant is not greater than his lord, &c." - This quote highlights the repeated saying that emphasizes the humility and submission of the servant to the lord. It implies that followers of Christ should not consider themselves superior to their master.
 
 2. "If ye know these things, happy are ye if ye do them." - This quote suggests that true happiness comes from not just knowing the teachings of Christ, but also putting them into practice. It implies that mere knowledge without action falls short of the desired outcome.
@@ -53,4 +53,4 @@ These quotes provide insights into the significance of Jesus' role as a servant,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

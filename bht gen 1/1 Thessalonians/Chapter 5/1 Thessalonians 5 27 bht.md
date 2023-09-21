@@ -9,7 +9,7 @@ Paul passionately adjures and charges the Thessalonians, invoking the authority 
 2. "I should account for it, not by supposing any distrust of the ciders, nor by the other hypotheses which he suggests, but by the earnestness of spirit incidental to the solemn conclusion of an Epistle of which he is conscious that it conveys to them the will and special word of the Lord."
 3. "πᾶσιν ] i.e. in Thessalonica, assembled together."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earnestness of his adjuration implies how solemnly important he felt this divinely inspired message to be."
 2. "He makes this the occasion of a solemn charge, that so its being publicly read should be a sample of what should be done in the case of the others."
 3. "The 'all' includes women and children, and especially those who could not read it themselves."
@@ -61,4 +61,4 @@ Overall, these quotes shed light on Paul's passionate and heartfelt plea for his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

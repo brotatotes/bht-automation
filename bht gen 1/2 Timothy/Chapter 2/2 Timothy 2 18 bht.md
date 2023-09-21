@@ -4,7 +4,7 @@
 The verse being described highlights the error some individuals made regarding the resurrection. They deviated from the truth and believed that the resurrection was merely a spiritual transformation or metaphoric concept, rather than a physical resurrection of the body. This belief robbed them of the hope and undermined the foundation of their faith. The commentators discuss the danger of such misconceptions, emphasizing the need to understand the true nature of the resurrection and its significance in the Christian system.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They 'wrested' (2 Peter 3:16) Paul's own words... 'to their own destruction,' as though the resurrection was merely the spiritual raising of souls from the death of sin." 
 2. "To believe it past... is to deny it in its true sense." 
 3. "Overthrow—trying to subvert 'the foundation' on which alone faith can rest secure."
@@ -52,4 +52,4 @@ These quotes highlight the individuals' departure from the truth, their specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

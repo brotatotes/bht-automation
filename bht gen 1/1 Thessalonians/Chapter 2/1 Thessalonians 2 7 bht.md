@@ -9,7 +9,7 @@ The verse being described showcases the speaker's gentle and tender approach tow
 2. "ἐγενήθ . , as before, with a reference to God enabling us."
 3. "ἐν μέσῳ ὑμ . ] i.e. 'in our converse with you;' but with an allusion to our not lifting ourselves above you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We were made by God's grace." 
 2. "Gentleness is the fitting characteristic of a nurse." 
 3. "Her own children."
@@ -55,4 +55,4 @@ The verse being described showcases the speaker's gentle and tender approach tow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

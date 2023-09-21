@@ -11,7 +11,7 @@ In this Bible verse, commentators highlight the significance of welcoming and ca
 
 3. "numbered me among your own circle" - The commentary concludes by stating that the phrase can be interpreted as being counted as part of one's own community, highlighting the sense of belonging and acceptance.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the importance of compassion and empathy towards those in need. It reminds us that we should not only focus on our own needs but also be mindful of the needs of others."
 2. "By using the phrase 'I was,' Jesus emphasizes his identification with the marginalized and vulnerable. It challenges us to see the face of Christ in those who are hungry, thirsty, strangers, and in need."
 3. "This verse serves as a call to action, urging us to actively seek out opportunities to help and serve others. It reminds us that our faith is not just about beliefs and rituals, but also about practical acts of love and kindness."
@@ -45,4 +45,4 @@ In this Bible verse, commentators highlight the significance of welcoming and ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness a profound scene of chaos and sorrow. Jesus arrives at
 2. "The καί functions as a connector, indicating that the specific incident being referred to is a result or consequence of the general description mentioned earlier." 
 3. "This καί serves to highlight the significance of the particular disturbance in relation to the overall context."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He cometh...to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly." This quote highlights the chaotic and sorrowful scene that Jesus encounters upon arriving at the house of the ruler of the synagogue. It sets the stage for the miraculous event that is about to take place.
 
 2. "The minstrels and the people making a noise." This quote emphasizes the presence of musicians and mourners who were hired to create a mournful atmosphere during funerals. It provides cultural context and adds depth to the understanding of the grieving process during that time.
@@ -42,4 +42,4 @@ In this verse, we witness a profound scene of chaos and sorrow. Jesus arrives at
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

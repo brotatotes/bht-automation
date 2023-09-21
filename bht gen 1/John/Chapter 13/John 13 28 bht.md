@@ -9,7 +9,7 @@ The commentator quotes highlight the disciples' lack of awareness regarding Juda
 2. "Stier supposes John to exclude himself in saying οὐδεὶς τ . ἀνακ ., and that he knew." - This quote suggests that John may have intentionally excluded himself from the group of disciples who were aware of Judas' betrayal, indicating his humility and self-awareness.
 3. "John's statement reveals his astonishment and disbelief at the revelation of Judas' true nature." - The commentary points out John's emotional response to the revelation, highlighting the shock and surprise he experienced.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man...knew for what intent he spake this unto him." 
 2. "But what we need...give...to the poor." 
 3. "A very important statement, as showing how carefully Jesus had kept the secret, and Judas his hypocrisy, to the last."
@@ -47,4 +47,4 @@ The commentator quotes highlight the disciples' lack of awareness regarding Juda
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

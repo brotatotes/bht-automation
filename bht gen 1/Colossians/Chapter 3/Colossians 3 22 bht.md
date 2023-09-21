@@ -9,7 +9,7 @@ This verse encourages servants and slaves to serve their masters diligently, not
 2. "τὸν κύριον, Him who is absolutely, and not merely κατὰ σάρκα, your master." 
 3. "τοῦτό ἑστι φοβεῖσθαι τὸν θεόν, ὅταν, μηδενὸς ὁρῶντος, μηδὲν πράττωμεν πονηρόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is to fear God, when, though none sees us, we do no evil: but if we do evil, it is not God, but men, whom we fear." 
 2. "Singleness—'simplicity of heart.'"
 3. "Fearing God—The oldest manuscripts read, 'the Lord.'"
@@ -48,4 +48,4 @@ This verse encourages servants and slaves to serve their masters diligently, not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

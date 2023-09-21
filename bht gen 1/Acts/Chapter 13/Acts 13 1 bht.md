@@ -9,7 +9,7 @@ In this verse, a group of prophets and teachers are mentioned, entrusted by the 
 2. "Those who had the χάρισμα διδασκαλίας, they were probably less immediately the organs of the Holy Spirit than the προφῆται, but under His continual guidance in the gradual and progressive work of teaching the Word." 
 3. "The Herod here meant was Antipas, who with his brother Archelaus... Both were at this time exiles, Antipas at Lyons, Archelaus at Vienne."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those here mentioned were in the Church at Antioch as prophets and teachers."
 2. "How differently did these two foster brothers turn out—the one, abandoned to a licentious life and stained with the blood of the most distinguished of God's prophets, though not without his fits of reformation and seasons of remorse; the other, a devoted disciple of the Lord Jesus and prophet of the Church at Antioch!"
 3. "Henceforward this book is almost exclusively occupied with him [Saul]; and his impress on the New Testament, on Christendom, and on the world is paramount."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite short, so there are only three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

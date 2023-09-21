@@ -9,7 +9,7 @@ In this verse, commentators highlight the need for unity and love within the chu
 2. "ἵνα...not only introduces the result of the fulfilment of the exhortation, but includes its import."
 3. "ἦτε δέ...implies but rather...καταρτίζω is the exact word for the healing or repairing of the breaches made by the σχίσματα, perfectly united."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very title is an argument for love."
 2. "Perfectly joined together—the opposite word to 'divisions.' It is applied to healing a wound, or making whole a rent."
 3. "The mind, within, refers to things to be believed: the judgment is displayed outwardly in things to be done."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the need for unity and love within the chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

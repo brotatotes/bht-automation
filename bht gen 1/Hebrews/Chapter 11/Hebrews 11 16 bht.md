@@ -9,7 +9,7 @@ The verse being described is a statement about the patriarchs' desire for a heav
 2. "God is not ashamed of them to be called their God." 
 3. "He prepared for them a city, the home for which they yearned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not merely once did God call himself their God, but He is NOW not ashamed to have Himself called so, they being alive and abiding with Him where He is."
 2. "He who is Lord and Maker of heaven and earth, and all things therein, when asked, What is Thy name? said, omitting all His other titles, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob.'"
 3. "He first so 'called' Himself, then they so called Him."
@@ -56,4 +56,4 @@ The verse being described is a statement about the patriarchs' desire for a heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

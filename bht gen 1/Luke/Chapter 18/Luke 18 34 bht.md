@@ -9,7 +9,7 @@ The disciples, in their lack of understanding, were blind to the true meaning of
 2. "It seems not to have been till very shortly before the event itself that they had any real expectation of its happening." 
 3. "They had any real expectation of its happening."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Evangelist seems unable to say strongly enough how entirely hidden from them at that time was the sense of these exceeding plain statements."
 2. "No doubt to add weight to their subsequent testimony, which from this very circumstance was prodigious, and with all the simple-hearted irresistible."
 3. "One thing is plain, there could have been no collusion among the authors of these Gospels, else they would have taken care to remove these 'spots on the sun'."
@@ -55,4 +55,4 @@ The disciples, in their lack of understanding, were blind to the true meaning of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

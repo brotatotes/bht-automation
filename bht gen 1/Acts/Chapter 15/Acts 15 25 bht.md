@@ -9,7 +9,7 @@ In this passage, we see a strong emphasis on unity and agreement among the early
 2. "Paul has generally been mentioned first since ch. Acts 13:43." 
 3. "But here, as at Acts 15:12, we have naturally the old order of precedence in the Jerusalem congregation preserved."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas is put first here, and in Acts 14:14, on account of his former superior position in the church at Jerusalem." 
 2. "An evidence this that we have the document precisely as written, as also of the credibility of this precious history." 
 3. "The positioning of Barnabas and Paul in this verse highlights the importance of their roles in the early church and emphasizes the credibility of the historical account."
@@ -43,4 +43,4 @@ In this passage, we see a strong emphasis on unity and agreement among the early
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

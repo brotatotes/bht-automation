@@ -9,7 +9,7 @@ In this verse, the apostle Paul expresses his deep desire to visit the believers
 2. "καρπόν: Not, ‘wages,’ or ‘result of my apostolic labour,’ for such is not the ordinary meaning of the word in the N. T., but fruit borne by you who have been planted to bring forth fruit to God."
 3. "This fruit I should then gather and present to God; cf. the figure in ch. Romans 15:16; see also Php 1:22 and note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "oftentimes I purposed to come unto you, but was let—hindered." - The apostle Paul expresses his desire to visit the church in Rome multiple times, but he was hindered from doing so. This shows his eagerness to connect with the believers and share his ministry with them.
 
 2. "that I might have some fruit—of my ministry among you also, even as among other Gentiles." - Paul longs to see the fruit of his ministry among the believers in Rome, just as he has witnessed among the Gentiles in other places. This highlights his passion for spreading the message of Christ and seeing lives transformed.
@@ -57,4 +57,4 @@ Note: The provided commentary is quite short and does not provide much context o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

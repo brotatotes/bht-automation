@@ -4,7 +4,7 @@
 The verse describes a contrast between the holy saints with the name of God and the Lamb on their foreheads and the impudent church of Rome, labeled as "Mystery, Babylon the Great." The symbolic nature of the name implies the connection to the mystery of iniquity and the confusion of the church's doctrine, a mixture of Paganism, Judaism, and Christianity. This description sheds light on the significance of the label and its associations with idolatry and pride.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a contrast to 'HOLINESS TO THE LORD,' inscribed on the miter on the high priest's forehead!"
 2. "The Church conforming to the world and thereby becoming a harlot is a counter 'mystery' (or spiritual truth, symbolically now revealed)."
 3. "If Rome were the only seat of Babylon, much of the spiritual profit of Revelation would be lost to us; but the harlot 'sitteth upon many waters' and 'ALL nations have drunk of the wine of her fornication.'"
@@ -47,4 +47,4 @@ These quotes highlight the symbolic nature of the name "Mystery, Babylon the Gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

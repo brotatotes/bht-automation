@@ -9,7 +9,7 @@ In this verse, Jesus addresses Thomas directly, urging him to see and touch the 
 2. "This of itself would show that the resurrection Body was bloodless."
 3. "μὴ γ . ἄπιστ ., not merely, 'Do not any longer disbelieve in my Resurrection;' but Be not (do not become) as applied generally to the spiritual life, and the reception of God’s truth faithless, but believing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is something rhythmical in these words, and they are purposely couched in the words of Thomas himself, to put him to shame" [LUTHARDT].
 2. "But wish what condescension and gentleness is this done!"
 
@@ -39,4 +39,4 @@ These quotes highlight how Jesus understands and addresses Thomas' doubts and we
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

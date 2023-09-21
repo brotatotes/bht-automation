@@ -9,7 +9,7 @@ The verse describes a man named Cornelius who, through his close connections and
 2. "These, like himself, must have been fearers of the true God, or at all events must have been influenced by his vision to wait for the teaching of Peter." 
 3. "So Jos. Antt. xi. 6. 4, φίλος ἀναγκαιότατος τῷ βασιλεῖ and Xen. Mem. ii. 1. 14, φίλους πρὸς τοῖς ἀναγκαίοις καλουμένοις ἄλλους κτῶνται βοηθούς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cornelius . . . called together his kinsmen and near friends" - This suggests that Cornelius had established meaningful relationships during his time in Cæsarea and was not hesitant to invite them to a significant religious gathering.
 2. "implying that he had been long enough at Cæsarea to form relationships there" - This highlights the duration of Cornelius' stay in Cæsarea, indicating that he had enough time to build strong connections with the people in the city.
 3. "he had intimate friends there whose presence he was not ashamed to invite to a religious meeting of the most solemn nature" - This emphasizes the depth of Cornelius' friendships, as he was unashamed to invite his close friends to a solemn religious gathering.
@@ -55,4 +55,4 @@ The verse describes a man named Cornelius who, through his close connections and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

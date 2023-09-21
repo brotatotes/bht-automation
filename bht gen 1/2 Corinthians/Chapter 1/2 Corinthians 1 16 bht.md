@@ -9,7 +9,7 @@ The verse being described is about the Apostle Paul's original plan to visit the
 2. "But the intelligence from 'them of Chloe' had altered his intention, so that, in 1 Corinthians 16:0, he speaks of visiting them after he should have passed through Macedonia."
 3. "Certainly, some intention of coming to them seems to have been mentioned in that lost Epistle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The intention of visiting them on the way to Macedonia, as well as after having passed through it, must have reached the ears of the Corinthians in some way or other." 
 2. "The sense comes out more clearly in the Greek order, 'By you to pass into Macedonia, and from Macedonia to come again unto you.'"
 3. "Perhaps in the lost Epistle, the Corinthians were informed about this plan."
@@ -38,4 +38,4 @@ The verse being described is about the Apostle Paul's original plan to visit the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

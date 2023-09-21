@@ -9,7 +9,7 @@ In this verse, Jesus declares that He will not eat the Passover meal again until
 2. "It was that particular Passover, not merely the Passover generally though of course that also, that was to receive its fulfilment in the kingdom of God."
 3. "And to this fulfilment our Lord alludes again in Luke 22:30, ἵνα ἔσθητε καὶ πίνητε ἐπὶ τῆς τραπέζης μου ἐν τῇ βασιλείᾳ μου."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hour—about six P.M." - This quote provides the specific time frame in which the events of the verse took place, giving readers a sense of the historical context.
 
 2. "Between three and this hour the lamb was killed" - This quote highlights the connection between the timing of Jesus' crucifixion and the traditional time of the Passover lamb being killed, emphasizing the symbolic significance of Jesus as the sacrificial lamb.
@@ -51,4 +51,4 @@ In this verse, Jesus declares that He will not eat the Passover meal again until
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this particular Bible verse, a hostile party disbelieves in a miraculous heal
 2. "Those in authority among these variously-minded Pharisees." 
 3. "The parents are summoned as witnesses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Foiled by the testimony of the young man himself, they hope to throw doubt on the fact by close questioning his parents, who, perceiving the snare laid for them, ingeniously escape it by testifying simply to the identity of their son, and his birth-blindness, leaving it to himself, as a competent witness, to speak as to the cure."
 2. "They prevaricated, however, in saying they 'knew not who had opened his eyes,' for 'they feared the Jews,' who had come to an understanding... that whoever owned Him as the Christ would be put out of the synagogue—that is, not simply excluded, but excommunicated."
 3. "The fear of man brings a snare; but he who puts his trust in the Lord shall be safe (Proverbs 29:25)."
@@ -43,4 +43,4 @@ In this particular Bible verse, a hostile party disbelieves in a miraculous heal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

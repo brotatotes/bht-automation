@@ -9,7 +9,7 @@ In this verse, the contrast between the children of God and the children of the 
 2. "In this (fact, circumstance:  in better than  by , which gives the idea that this is the  only sign)  are manifest the children of God and the children of the devil."
 3. "Every one that doeth not righteousness is not of God (= is not a child of God. It may be observed that Orig, Tert, Cypr, al. read ὁ μὴ ὢν δίκαιος, which is edited by Lachmann)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no middle class between the children of God and the children of the devil." 
 2. "Contrast 1 John 3:8- : he that doeth not righteousness." 
 3. "He that loveth not his brother, a particular instance of that love which is the sum and fulfilment of all righteousness, and the token that distinguishes God's children from the devil's."
@@ -57,4 +57,4 @@ In this verse, the contrast between the children of God and the children of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

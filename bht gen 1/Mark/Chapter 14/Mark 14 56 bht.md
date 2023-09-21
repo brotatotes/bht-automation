@@ -11,7 +11,7 @@ In this verse, the witnesses' testimonies did not align or agree with one anothe
 
 3. "ἴσαι consistent with one another." - This quote emphasizes the idea of consistency between the witnesses, further emphasizing the need for agreement.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How is one reminded here of that complaint, 'False witnesses did rise up: they laid to my charge things that I knew not' (Psalms 31:11)!"
 2. "One cannot but admire the providence which secured this result; since, on the one hand, it seems astonishing that those unscrupulous prosecutors and their ready tools should so bungle a business in which they felt their whole interests bound up."
 3. "At the very time when His enemies were saying, 'God hath forsaken Him; persecute and take Him; for there is none to deliver Him' (Psalms 31:11), He whose Witness He was and whose work He was doing was keeping Him as the apple of His eye."
@@ -47,4 +47,4 @@ In this verse, the witnesses' testimonies did not align or agree with one anothe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus is seen engaging in a conversation with a Samaritan woman. 
 2. "Either to the woman What seekest thou? and to the Lord, Why talkest thou with her? or perhaps both questions to Him."
 3. "We must suppose a mixture of two constructions, of τί ζ . παρ ʼ αὐτῆς ; and τί λαλεῖς μετ ʼ αὐτῆς ; I rather prefer the former interpretation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It never probably occurred to them to marvel that He talked with themselves; yet in His eye, as the sequel shows, He was quite as nobly employed."
 2. "How poor, if not false, are many of our most plausible estimates!"
 3. "No man said . . . What? . . . Why?—awed by the spectacle, and thinking there must be something under it."
@@ -55,4 +55,4 @@ In this verse, Jesus is seen engaging in a conversation with a Samaritan woman. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

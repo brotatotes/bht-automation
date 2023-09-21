@@ -4,7 +4,7 @@
 In this verse, we encounter a vivid portrayal of the great whore, symbolizing the apostate church. She is seen seated on a scarlet-colored beast, signifying her submission to worldly allurements and her downfall. This corrupt city, often associated with Babylon or Rome, plays a central role in seducing people away from true faith and engaging in worldly pleasures. Through the use of powerful imagery, this verse warns about the dangers of spiritual unfaithfulness and the consequences that follow.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whore is the apostate Church, just as 'the woman' is the Church while faithful."
 2. "Satan having failed by violence, tries to successfully seduce her by the allurements of the world."
 3. "Unlike her Lord, she was overcome by this temptation; hence she is seen sitting on the scarlet-colored beast, no longer the wife, but the harlot."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

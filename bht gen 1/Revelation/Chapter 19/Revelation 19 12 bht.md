@@ -4,7 +4,7 @@
 In this verse, the description of Christ is vivid and filled with symbolism. His eyes, like a flame of fire, reflect his divine knowledge and judgment. The many diadems on his head represent his universal reign and authority over all nations. And the name written on him, known only to himself, highlights the incomprehensible and mysterious nature of his divinity. Through these descriptions, we catch a glimpse of the awe-inspiring power, authority, and majesty of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ's diadem comprises all the diadems of the earth and of heavenly powers too."
 2. "These usurpers claim the diadems which belong to Christ alone."
 3. "The Lord's own 'new name' is to be theirs, and to be 'in their foreheads'; whence we may infer that His as yet unknown name also is written on His forehead."
@@ -47,4 +47,4 @@ These quotes provide insights into the symbolism and significance of the descrip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

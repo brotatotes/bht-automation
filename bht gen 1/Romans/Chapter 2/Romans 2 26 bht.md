@@ -9,7 +9,7 @@ In this passage, various commentators discuss the significance of circumcision i
 2. "The articles shew how completely hypothetical the case is no less than entire fulfilment of all the moral precepts of the law being contemplated."
 3. "In such a case would not he be counted as a circumcised person?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The case here put is, we think, such as that of Cornelius, who, though outside the external pale of God's covenant, yet having come to the knowledge of the truths contained in it, do manifest the grace of the covenant without the seal of it, and exemplify the character and walk of Abraham's children, though not called by the name of Abraham."
 2. "Thus, this is but another way of announcing that God was about to show the insufficiency of the mere badge of the Abrahamic covenant, by calling from among the Gentiles a seed of Abraham that had never received the seal of circumcision."
 3. "This interpretation is confirmed by all that follows."
@@ -50,4 +50,4 @@ In this passage, various commentators discuss the significance of circumcision i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

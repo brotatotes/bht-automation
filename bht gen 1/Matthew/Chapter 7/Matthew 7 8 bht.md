@@ -11,7 +11,7 @@ The Bible verse being described is a promise from Jesus about the power of praye
 
 3. "James 4:3 warns us that sometimes we do not receive what we ask for because our motives are selfish or misguided, highlighting the importance of aligning our requests with God's will."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened." - This verse emphasizes the promise that those who ask, seek, and knock will receive, find, and have doors opened to them. It highlights the importance of approaching God with faith and a sincere desire to use what is received for righteous purposes.
 
 2. "If any of you lack wisdom, let him ask of God. But let him ask in faith, nothing wavering." - This quote encourages believers to seek wisdom from God, but it also emphasizes the need to ask in faith without any doubts or wavering. It warns against being undecided or divided in loyalty, as it can hinder receiving anything from the Lord.
@@ -44,4 +44,4 @@ The Bible verse being described is a promise from Jesus about the power of praye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

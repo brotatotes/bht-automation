@@ -9,7 +9,7 @@ The verse being described from the various commentaries highlights the qualifica
 2. "Having believing children...implies that they were not only ‘ad fidem perducti,’ but ‘in fide stabiliti’." 
 3. "Who are not under accusation of profligacy or insubordinate."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thing dwelt on here as the requisite in a bishop, is a good reputation among those over whom he is to be set."
 2. "The immorality of the Cretan professors rendered this a necessary requisite in one who was to be a reprover."
 3. "He who could not bring his children to faith, how shall he bring others?"
@@ -48,4 +48,4 @@ The verse being described from the various commentaries highlights the qualifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

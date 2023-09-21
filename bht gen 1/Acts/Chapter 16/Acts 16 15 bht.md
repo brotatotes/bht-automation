@@ -9,7 +9,7 @@ In this verse, we see the continuity of the covenant of grace between Jews and C
 2. "The Apostles, as Jews, would have proposed to administer baptism to the children, and Jewish or proselyte converts would, as a matter of course, have acceded to the proposal."
 3. "That the practice thus by universal consent, tacitly (because at first unquestioned) pervaded the universal church, can hardly with any reason be doubted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of baptism here for the first time in connection with the labors of Paul, while it was doubtless performed on all his former converts, indicates a special importance in this first European baptism."
 2. "Whether it included children, also in that case baptized, is not explicitly stated; but the presumption, as in other cases of household baptism, is that it did."
 3. "There is a beautiful modesty in the expression."
@@ -54,4 +54,4 @@ In this verse, we see the continuity of the covenant of grace between Jews and C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

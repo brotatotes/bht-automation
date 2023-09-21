@@ -9,7 +9,7 @@ The Bible verse being described is a revelation that the prophets of old had kno
 2. "The things (in their previous announcement and foreshadowing) which now have been declared (aor., ‘were declared:’ νῦν embracing the N. T. period: but we in English cannot join ‘were’ with ‘now’) unto you by means of those who preached the gospel to you by (dat. instrumental) the Holy Spirit sent (historic tense again, referring distinctly to the day of Pentecost) from heaven."
 3. "Which things (viz. the things announced to you: the αὐτὰ … ἅ: not, as many, the future glories promised to us: see below) angels (generic, as προφῆται above: see there) desire to look into (παρακύψαι, see reff., to stoop down and peer into. It enhances further still the excellence of the salvation revealed to us, that angels, for whom it is not designed as for us (Heb 2:16), long to pry into its mysteries."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only was the future revealed to them, but this also, that these revelations of the future were given them not for themselves, but for our good in Gospel times."
 2. "Our immense privileges are thus brought forth by contrast with theirs, notwithstanding that they had the great honor of Christ's Spirit speaking in them."
 3. "How favored are we in being ministered to, as to 'salvation,' by prophets and apostles alike, the latter now announcing the same things as actually fulfilled which the former foretold."
@@ -53,4 +53,4 @@ The Bible verse being described is a revelation that the prophets of old had kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

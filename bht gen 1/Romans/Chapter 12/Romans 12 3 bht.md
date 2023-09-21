@@ -9,7 +9,7 @@ In this passage, the apostle emphasizes the importance of humility and sound jud
 2. "A strong bringing out of the individual application of the precept."
 3. "Not to be highminded, above that which he ought to be minded, but to be so minded, as to be soberminded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I say—authoritatively through the grace given unto me—as an apostle of Jesus Christ; thus exemplifying his own precept by modestly falling back on that office which both warranted and required such plainness towards all classes."
 2. "It is impossible to convey in good English the emphatic play, so to speak, which each word here has upon another: 'not to be high-minded above what he ought to be minded, but so to be minded as to be sober-minded.' This is merely a strong way of characterizing all undue self-elevation."
 3. "Faith is here viewed as the inlet to all the other graces, and so, as the receptive faculty of the renewed soul—that is, 'as God hath given to each his particular capacity to take in the gifts and graces which He designs for the general good.'"
@@ -55,4 +55,4 @@ In this passage, the apostle emphasizes the importance of humility and sound jud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

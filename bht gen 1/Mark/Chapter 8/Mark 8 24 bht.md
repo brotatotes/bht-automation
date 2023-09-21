@@ -11,7 +11,7 @@ In this verse, the blind man shares his experience of receiving partial sight re
 
 3. "By no possibility can the words convey, as Wordsw., three different stages of returning vision: 'I see men. I see them standing still, and dimly, as trees. I see them walking.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I see men; for I see [them] as trees walking" - he could distinguish them from trees only by their motion.
 2. "A minute mark of truth in the narrative" - highlighting the accuracy and authenticity of the account.
 3. "Describing how human objects had appeared to him during that gradual failing of sight which had ended in blindness" - providing context for the significance of the statement.
@@ -61,4 +61,4 @@ In this verse, the blind man shares his experience of receiving partial sight re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

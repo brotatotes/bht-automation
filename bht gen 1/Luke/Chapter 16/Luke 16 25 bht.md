@@ -9,7 +9,7 @@ In this verse, we see a solemn and fatherly response, devoid of mocking or grief
 2. "Analogy gives us every reason to suppose, that in the disembodied state the whole life on earth will lie before the soul in all its thoughts, words, and deeds, like a map of the past journey before a traveller."
 3. "ἀπέλαβες not sufficiently expressed by ‘receivedst,’ E. V.: it is analogous to ἀπέχουσιν, Matthew 6:2; Matthew 6:5; Matthew 6:16, and expresses the receipt in full, the exhaustion of all claim on."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Son—stinging acknowledgment of the claimed relationship."
 2. "As it is a great law of God's kingdom, that the nature of our present desires shall rule that of our future bliss."
 3. "He whose 'evil things,' all crowded into the present life, drove him to seek, and find, consolation in a life beyond the grave, is by death released from all evil and ushered into unmixed and uninterrupted good."
@@ -57,4 +57,4 @@ In this verse, we see a solemn and fatherly response, devoid of mocking or grief
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

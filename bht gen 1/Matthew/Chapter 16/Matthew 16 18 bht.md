@@ -9,7 +9,7 @@ In this Bible verse, Jesus bestows upon Simon the name Peter, emphasizing his ro
 2. "Nothing can be further from any legitimate interpretation of this promise, than the idea of a perpetual primacy in the successors of Peter."
 3. "The meaning of the promise is, that over the Church so built upon him who was by the strength of that confession the Rock, no adverse power should ever prevail to extinguish it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That thou art Peter—At his first calling, this new name was announced to him as an honor afterwards to be conferred on him. Now he gets it, with an explanation of what it was meant to convey."
 2. "Even in the Greek it is imperfectly represented. In French, as WEBSTER and WILKINSON remark, it is perfect, Pierre—pierre."
 3. "My Church," says our Lord, calling the Church HIS OWN; a magnificent expression regarding Himself, remarks BENGEL—nowhere else occurring in the Gospels."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus bestows upon Simon the name Peter, emphasizing his ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

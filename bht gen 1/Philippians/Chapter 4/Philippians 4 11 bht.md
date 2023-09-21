@@ -9,7 +9,7 @@ This verse describes a powerful lesson in contentment that Paul has learned thro
 2. "For I learned... in the state in which I am."
 3. "To find competence... expresses its meaning of independence of external help."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I, for my part, have learned, by the teaching of the Holy Spirit, and the dealings of Providence, to be content in every state."
 2. "Christianity has raised the term above the haughty self-sufficiency of the heathen Stoic to the contentment of the Christian, whose sufficiency is not in self, but in God."
 3. "The Greek, literally expresses 'independent of others, and having sufficiency in one's self.'"
@@ -55,4 +55,4 @@ This verse describes a powerful lesson in contentment that Paul has learned thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

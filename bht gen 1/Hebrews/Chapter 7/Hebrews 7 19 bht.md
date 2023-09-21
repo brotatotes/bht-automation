@@ -4,7 +4,7 @@
 The Bible verse being described speaks of how the law, though necessary, could not bring about true justification or sanctification before God. Instead, a better hope was needed, one that could bring us nearer to God and allow us to experience intimate fellowship with Him. This better hope is found in the priesthood of Christ, which brings perfection to all the types, promises, and prophecies of the Old Testament, bringing about perfect atonement, righteousness, and redemption. Through this hope, we are able to draw near to God and become one spirit with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law could not bring men to true justification or sanctification before God, which is the 'perfection' that we all need in order to be accepted of Him, and which we have in Christ."
 2. "The law brought nothing to its perfected end, everything in it was introductory to its antitype in the Christian economy, which realizes the perfection contemplated."
 3. "There takes place a repealing of the commandment, but a bringing in afterwards of a better hope, not one weak and unprofitable, but, as elsewhere the Christian dispensation is called, 'everlasting,' 'true,' 'the second,' 'more excellent,' 'different,' 'living,' 'new,' 'to come,' 'perfect.'"
@@ -43,4 +43,4 @@ The Bible verse being described speaks of how the law, though necessary, could n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

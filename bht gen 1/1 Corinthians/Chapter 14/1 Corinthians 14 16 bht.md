@@ -9,7 +9,7 @@ In this Bible verse, the commentator's emphasize the importance of understanding
 2. "This is, as Doddridge has remarked, decisive against the practice of praying and praising in an unknown tongue, as ridiculously practised in the church of Rome."
 3. "The Amen always said: see Deu 27:15-26 Heb. and E. V. (LXX, γένοιτο ); Nehemiah 8:6 . From the synagogue, on which see Wetst., Schöttg. in loc., Winer, Realw., art. Synagogen, and Philo, Fragm. vol. ii. p. 630 συνεδρεύουσι … οἱ μὲν πολλοὶ σιωπῇ , πλὴν εἴ τι προσεπιφημίσαι τοῖς ἀναγινωσκομένοις νομίζεται , it passed into the Christian church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He changes from the first person, as he had just expressed his own resolution, 'I will pray with the understanding,' whatever 'thou' doest."
 2. "Bless - the highest kind of prayer."
 3. "We must join with the leader of the prayers and praises of the congregation, and say aloud our responsive 'Amen' in assent."
@@ -53,4 +53,4 @@ In this Bible verse, the commentator's emphasize the importance of understanding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

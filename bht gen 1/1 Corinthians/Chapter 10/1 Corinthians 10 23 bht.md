@@ -9,7 +9,7 @@ This Bible verse reminds us that while we have freedom in Christ, not everything
 2. "With a view, after what has passed since, to show its reasonableness."
 3. "Tend to build up the whole, or the individual parts, of that spiritual temple, God's οἰκοδομή."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things are lawful for me" - The commentary explains that this statement is a recurring Corinthian plea, but Paul adds a qualification to it.
 2. "edify not" - The commentary explains that this phrase means that certain actions do not build up the spiritual temple, the Church, in faith and love.
 3. "true Christian freedom" - The commentary mentions that Paul appeals to the broad principle of true Christian freedom, which does not allow believers to be governed by external things but rather to be guided by the principle of edification.
@@ -56,4 +56,4 @@ This Bible verse reminds us that while we have freedom in Christ, not everything
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described speaks of false teachers and their ultimate defe
 2. "It is manifest, that while there the Apostle is speaking of an immediate spread of error, here he is looking to its ultimate defeat and extinction." 
 3. "Their unintelligent and senseless method of proselytizing and upholding their opinions shall be thoroughly manifested to all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though for a time they shall advance or proceed unto more ungodliness, yet there is a final limit beyond which they shall not be able to proceed further."
 2. "They themselves shall wax worse and worse, but they shall at last be forever prevented from seducing others."
 3. "Often malice proceeds deeper down, when it cannot extend itself."
@@ -61,4 +61,4 @@ The Bible verse being described speaks of false teachers and their ultimate defe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

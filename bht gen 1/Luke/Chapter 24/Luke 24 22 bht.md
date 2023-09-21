@@ -9,7 +9,7 @@ The accounts brought by the women astonished and surprised us, leaving us at a l
 2. "ὀρθριναί is the later form, for which the Attic ὄρθριαι has been substituted."
 3. "ἐξ ἡμῶν 'disciples, as we are.' The Apostles are distinguished presently as οἱ σὺν ἡμῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words imply the earnest discussion that had appeared in their manner."
 2. "The communication between the disciples was filled with depth and intensity."
 3. "Their manner of communication revealed the seriousness and importance of the topic being discussed."
@@ -40,4 +40,4 @@ The accounts brought by the women astonished and surprised us, leaving us at a l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

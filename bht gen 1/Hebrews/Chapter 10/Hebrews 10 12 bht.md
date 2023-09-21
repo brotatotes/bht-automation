@@ -11,7 +11,7 @@ The verse in question speaks of the eternal efficacy and completeness of Christ'
 
 3. "we are in full accordance with the ἱερεὺς εἰς τὸν αἰῶνα so often insisted on" - This highlights the continuous and unchanging priesthood of Christ, emphasizing His eternal role as the High Priest who intercedes for believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The offering of Christ, once for all made, will continue the one and only oblation for ever; no other will supersede it."
 2. "The mass, which professes to be the frequent repetition of one and the same sacrifice of Christ's body, is hence disproved."
 3. "A repetition would imply that the former once-for-all offering of the one sacrifice was imperfect, and so would be dishonoring to it."
@@ -56,4 +56,4 @@ Note: The commentary provides insights into the concept of Christ's sacrifice be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

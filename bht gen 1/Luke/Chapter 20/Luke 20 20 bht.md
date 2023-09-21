@@ -9,7 +9,7 @@ In this passage, we see a group of spies being sent to observe Jesus, posing as 
 2. "Men suborned, instructed and arranged for that purpose."
 3. "That they might lay hold of him by some saying."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "sent forth—after consulting (Matthew 22:15) on the best plan." 
 2. "spies—"of the Pharisees and Herodians" (Matthew 22:15- :)."
 3. "See Mark 3:6."
@@ -43,4 +43,4 @@ In this passage, we see a group of spies being sent to observe Jesus, posing as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

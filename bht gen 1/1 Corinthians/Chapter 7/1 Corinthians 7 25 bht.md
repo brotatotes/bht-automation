@@ -9,7 +9,7 @@ This verse is a humble and inspired opinion from the apostle. While he acknowled
 2. "πιστὸς εἶναι to be faithful, as in ref., as a steward and dispenser of the hidden things of God, and, among them, of such directions as you cannot make for yourselves, but require one so entrusted to impart to you."
 3. "This sense, which has occurred in the estimate given of himself in this very Epistle, is better than the more general ones of true or believing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have no express revelation from the Lord commanding it, but I give my judgment (opinion); namely, under the ordinary inspiration which accompanied the apostles in all their canonical writings."
 2. "The Lord inspires me in this case to give you only a recommendation, which you are free to adopt or reject—not a positive command."
 3. "He attributes his apostleship and the gifts accompanying it (including inspiration) to God's grace alone."
@@ -48,4 +48,4 @@ This verse is a humble and inspired opinion from the apostle. While he acknowled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

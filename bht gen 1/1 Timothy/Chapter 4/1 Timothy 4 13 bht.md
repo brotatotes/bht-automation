@@ -11,7 +11,7 @@ In the verse being described, the Apostle Paul instructs Timothy to continue the
 
 3. "Whether the O. T. Scriptures alone...cannot be determined with any certainty" - The commentator acknowledges that it is unclear whether only the Old Testament Scriptures or also the earlier gospels were included in the public reading at that time. This highlights the historical context and the potential diversity of texts being read in the early church.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The practice of reading Scripture was transferred from the Jewish synagogue to the Christian Church."
 2. "The New Testament Gospel and Epistles being recognized as inspired by those who had the gift of discerning spirits, were from the first, according as they were written, read along with the Old Testament in the Church."
 3. "Scripture reading in private should be 'the fountain of all wisdom from which pastors ought to draw whatever they bring before their flock'."
@@ -57,4 +57,4 @@ In the verse being described, the Apostle Paul instructs Timothy to continue the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

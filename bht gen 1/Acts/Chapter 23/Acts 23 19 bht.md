@@ -4,7 +4,7 @@
 In this verse, an officer takes a young servant by the hand, displaying kindness and compassion towards him. The officer's action reveals his fair and unbiased nature, as well as his genuine concern for the servant's well-being. This interaction highlights the importance of courtesy, humanity, and sensitivity, reminding us of the power of simple gestures in connecting with others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Took him by the hand—This shows that he must have been quite in his boyhood." This quote highlights the officer's compassionate gesture towards the servant, indicating that the servant was young and vulnerable.
 2. "Throws a pleasing light on the kind-hearted impartiality of this officer." This quote emphasizes the officer's fair and unbiased nature, as he extends his help to the servant without any discrimination or prejudice.
 3. "The officer's act of taking the servant by the hand reveals a tender and caring demeanor." This quote underscores the officer's gentle and considerate approach, illustrating his genuine concern for the well-being of the servant.
@@ -45,4 +45,4 @@ In this verse, an officer takes a young servant by the hand, displaying kindness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

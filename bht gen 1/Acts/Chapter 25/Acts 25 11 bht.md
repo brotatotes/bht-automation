@@ -9,7 +9,7 @@ In this verse, the apostle Paul invokes his right as a Roman citizen to appeal h
 2. "If I am innocent, and Caesar acquits me, then clearly none will be empowered to give me up to them: therefore, at all events, guilty or innocent, I am not to be made their victim."
 3. "I call upon, i.e. appeal to Caesar. This power of 'provocatio ad populum' having existed in very early times, was ensured to Roman citizens by the Lex Valeria."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The right of appeal to the supreme power, in case of life and death, was secured by an ancient law to every Roman citizen, and continued under the empire."
 2. "Paul, strong in the consciousness of his innocence and the justice of a Roman tribunal, would not have made this appeal."
 3. "No other course was open to him."
@@ -48,4 +48,4 @@ In this verse, the apostle Paul invokes his right as a Roman citizen to appeal h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

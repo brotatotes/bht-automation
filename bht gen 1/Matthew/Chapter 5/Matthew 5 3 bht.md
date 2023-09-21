@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the blessedness of those who are poor
 2. "Pauperes spiritu, humiles et timentes Deum, id est, non habentes inflantem (or, inflatum) spiritum" - Augustine
 3. "The ψ . and προαίρ . are the departments of our being in which the πτωχεία takes place" - Chrysostom
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The poor in spirit are enriched with the fulness of Christ, which is the kingdom in substance."
 2. "The very sense of their poverty is begun riches."
 3. "God wants nothing from us as the price of His saving gifts; we have but to feel our universal destitution, and cast ourselves upon His compassion."
@@ -50,4 +50,4 @@ These quotes highlight the distinction between being poor in material wealth and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse discussed by these commentators depicts the indescribable and surpassing love of Christ. His love towards us, which exceeds our understanding, is the subject of meditation and gratitude. Through this love, we are filled with the wisdom, knowledge, and fulness of God. Paul's prayer in this verse aims to deepen the knowledge of this love and its transformative power in our lives. It is a remarkable climax, a peak that remains unparalleled and incomparable.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The paradox 'to know . . . which passeth knowledge' implies that when he says 'know,' he does not mean that we can adequately know; all we know is, that His love exceeds far our knowledge of it."
 2. "Even as God's power exceeds our thoughts."
 3. "Filled even unto all the fulness of God, that is, filled, each according to your capacity, with the divine wisdom, knowledge, and love."
@@ -48,4 +48,4 @@ The Bible verse discussed by these commentators depicts the indescribable and su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

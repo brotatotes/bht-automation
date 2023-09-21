@@ -9,7 +9,7 @@ In this passage, commentators highlight the significance and implications of the
 2. "ἀνθρώπῳ...regards the man not merely in his sexual but in his human capacity."
 3. "απτεσθαι...used in the widest sense, without present regard to the difference between the lawful and unlawful use of the woman."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marriage is HONORABLE IN ALL." - This quote emphasizes the importance and value of marriage, countering any negative views or disparagement of it.
 2. "Another reason why in some cases celibacy may be a matter of Christian expediency is... that ye may attend upon the Lord without distraction." - This quote highlights the potential benefits of celibacy in terms of dedicating oneself fully to serving the Lord.
 3. "But these are exceptional cases, and in exceptional times, such as those of Paul." - This quote acknowledges that celibacy may be appropriate in certain circumstances, but it is not the norm and should not be imposed on everyone.
@@ -57,4 +57,4 @@ In this passage, commentators highlight the significance and implications of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

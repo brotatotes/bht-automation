@@ -9,7 +9,7 @@ The verse described here seems to discuss an extraordinary occurrence that sprea
 2. "From the charge in Acts 11:3, from some reporter who gave the objectionable part of it."
 3. "All prominence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles and brethren" refers to the early Christian community, which included both the apostles and other believers.
 2. The phrase "throughout Judea" indicates that the impact of the apostles and brethren was not limited to a specific location but spread throughout the region.
 3. This suggests that the message of the Gospel was being widely proclaimed and received, leading to the growth and expansion of the early church.
@@ -50,4 +50,4 @@ The verse described here seems to discuss an extraordinary occurrence that sprea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

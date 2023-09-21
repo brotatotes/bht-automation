@@ -9,7 +9,7 @@ In a masterstroke of strategy, Paul skillfully brings the Pharisees and Sadducee
 2. "Nor need we hesitate to regard such skill as the fulfilment of the promise, that in such an hour, the Spirit of wisdom should suggest words to the accused, which the accuser should not be able to gainsay."
 3. "In one tenet above all others, did the religion of Jesus Christ and the belief of the Pharisees coincide that of the resurrection of the dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am a Pharisee, the son of a Pharisee—The true reading seems to be, 'the son of Pharisees,' that is, belonging to a family who from father to son had long been such."
 2. "of the hope and resurrection of the dead—that is, not the vague hope of immortality, but the definite expectation of the resurrection."
 3. "By this adroit stroke, Paul engages the whole Pharisaic section of the council in his favor; the doctrine of a resurrection being common to both, though they would totally differ in their application of it."
@@ -56,4 +56,4 @@ In a masterstroke of strategy, Paul skillfully brings the Pharisees and Sadducee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

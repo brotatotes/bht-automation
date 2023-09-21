@@ -9,7 +9,7 @@ The preaching of the cross, though seen as foolishness and despised by many, hol
 2. "The eloquence of the Cross: referring to σοφία λόγου."
 3. "The power of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the word," or speech as to the cross in contrast to the "wisdom of words"
 2. "them that are perishing," namely, by preferring human "wisdom of words" to the doctrine of the "cross of Christ."
 3. "to them that are being saved (that are in the way of salvation) as," that is, to which class we belong.
@@ -55,4 +55,4 @@ The preaching of the cross, though seen as foolishness and despised by many, hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

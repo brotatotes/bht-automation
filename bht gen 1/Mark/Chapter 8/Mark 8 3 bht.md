@@ -4,7 +4,7 @@
 The verse being described here showcases Jesus' compassion and care for the physical well-being of the crowd. His unwillingness to send them away fasting demonstrates his awareness of their limitations and vulnerability. The mention of individuals coming from far highlights the widespread impact of Jesus' ministry and the dedication of his followers. It also signifies their perseverance and willingness to make spiritual journeys to be in his presence. Ultimately, this verse illustrates the universal appeal of Jesus' teachings and his ability to provide both physical and spiritual nourishment to those who seek him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In their eagerness they seem not to have thought of the need of provisions for such a length of time; but the Lord thought of it."
 2. "I will not send them away fasting—or rather, 'To send them away fasting I am unwilling.'"
 3. "The Lord's unwillingness to send them away fasting shows His compassion and care for their physical needs."
@@ -39,4 +39,4 @@ The verse being described here showcases Jesus' compassion and care for the phys
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

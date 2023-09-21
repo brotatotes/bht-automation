@@ -11,7 +11,7 @@ This verse discusses the various types of eunuchs - those born that way, those m
 
 3. The usage of "χωρεῖν" in this context suggests that the subject has the capacity to contain or hold what is being offered or presented.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For there are some eunuchs which were so born from their mother's womb—persons constitutionally either incapable of or indisposed to marriage." 
 2. "and there are some eunuchs which were made eunuchs of men—persons rendered incapable by others." 
 3. "and there be eunuchs which have made themselves eunuchs for the kingdom of heaven's sake—persons who, to do God's work better, deliberately choose this state."
@@ -45,4 +45,4 @@ This verse discusses the various types of eunuchs - those born that way, those m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

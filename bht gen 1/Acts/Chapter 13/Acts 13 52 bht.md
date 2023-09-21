@@ -9,7 +9,7 @@ In this Bible verse, the disciples in Antioch experienced great joy and were fil
 2. These passages highlight the theme of joy and celebration in response to God's work and blessings.
 3. The use of such perorations emphasizes the believers' gratitude and exuberance in witnessing God's power and faithfulness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples...had to endure sufferings for the Gospel." 
 2. "They were filled with joy and with the Holy Ghost." 
 3. "The Holy Ghost...filled them with holy and elevated emotions."
@@ -43,4 +43,4 @@ In this Bible verse, the disciples in Antioch experienced great joy and were fil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

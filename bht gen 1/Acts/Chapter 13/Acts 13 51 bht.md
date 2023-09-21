@@ -9,7 +9,7 @@ In this Bible verse, the disciples follow Christ's instruction and shake off the
 2. "At this time, it was the capital of a distinct territory, ruled by a tetrarch, and probably on that account is not reckoned to any of the above-mentioned districts."
 3. "It became famous in the middle ages as the capital of the Seljukian Sultans, and had a great part in the growth of the Ottoman empire."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shook off the dust of their feet against them" - This action symbolized a complete rejection and disassociation from those who rejected the message of the disciples. It was a powerful statement of judgment and a sign that the disciples would not carry the guilt of their rejection with them.
 2. "Came unto Iconium" - Iconium was a strategic and influential city, located at the crossroads of different regions. This shows that the disciples were not deterred by opposition or rejection, but continued to spread the message of the Gospel in important and influential places.
 3. "Contributing to the consolidation of the Turkish empire" - This historical context highlights the long-lasting impact of the disciples' work. Their efforts in spreading the Gospel not only influenced individuals but also played a role in shaping the course of history, ultimately leading to the establishment of the Turkish empire.
@@ -54,4 +54,4 @@ In this Bible verse, the disciples follow Christ's instruction and shake off the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

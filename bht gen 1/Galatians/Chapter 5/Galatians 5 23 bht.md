@@ -9,7 +9,7 @@ The verse describes the fruits of the Spirit, including meekness and temperance.
 2. "Temperance, the holding in of the lusts and desires."
 3. "If you are led by the Spirit, these are its fruits in you, and against these the law has nothing to say."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Temperance implies self-restraint as to one's desires and lusts."
 2. "Against such" refers to things, not persons.
 3. The law itself commands love, so it is not "against such."
@@ -43,4 +43,4 @@ The verse describes the fruits of the Spirit, including meekness and temperance.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

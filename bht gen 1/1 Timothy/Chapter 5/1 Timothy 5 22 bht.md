@@ -12,7 +12,7 @@ The verse advises caution in ordaining individuals into ministry, stressing the 
 
 3. "No longer drink water, but use a little wine, on account of thy stomach, and thy frequent illnesses." - This instruction is given to Timothy, who was of a feeble bodily frame. It suggests that taking care of one's physical health is important for effective leadership, and that reasonable measures should be taken to improve one's condition.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The way to guard against scandals occurring in the case of presbyters is, be cautious as to the character of the candidate before ordaining him; this will apply to other Church officers so ordained, as well as to presbyters." 
 2. "The laying on of hands is used of ordination."
 3. "Keep THYSELF clear of participation in OTHER men's sin by not failing to rebuke them that sin."
@@ -60,4 +60,4 @@ Note: The commentary is quite long, but I have selected the most relevant quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

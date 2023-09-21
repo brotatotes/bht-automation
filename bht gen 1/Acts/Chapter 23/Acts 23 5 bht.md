@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul unintentionally speaks harshly towards the
 2) "The objection stated by Wordsworth, 'If St. Paul could not discern that Ananias was high priest, how could he see that he sat there as his judge?' would of course be easily answered by supposing that Paul who had himself been a member of the Sanhedrim may have known Ananias by his voice: or indeed may not (as above) have known him at all personally."
 3) "Implying in this, 'and the law is the rule of my life.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high priesthood was in a state of great confusion and constant change at this time."
 2. "The apostle's long absence from Jerusalem, and perhaps the manner in which he was habited or the seat he occupied, with other circumstances to us unknown, may account for such a speech."
 3. "What can surpass the grace with which he recovered his self-possession, and the frankness with which he acknowledged his error? If his conduct in yielding to the momentary impulse was not that of Christ Himself under a similar provocation, certainly the manner in which he atoned for his fault was Christ-like."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul unintentionally speaks harshly towards the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

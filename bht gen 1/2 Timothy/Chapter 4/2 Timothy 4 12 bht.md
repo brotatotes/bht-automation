@@ -4,7 +4,7 @@
 The verse being described has various commentators discussing the role of Tychicus, who was sent by Paul to Ephesus. They mention his importance and trustworthiness as a messenger, highlighting Paul's intention for the recipient to come to him. The commentators also emphasize Paul's concern for the church's well-being and the importance of consistent teaching and guidance in the Christian community. Tychicus's role as a faithful minister and his dedication in spreading the Gospel are underscored. The verse presents a picture of active communication and the commitment of Paul and his messengers in their mission to share the message of Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art to come to me, but Tychicus I have sent to Ephesus to supply thy place." - This quote highlights the intention of the author to have the recipient come to him, but in the meantime, he has sent someone to take care of the church in his absence.
 
 2. "It is possible Tychicus was the bearer of this Epistle." - This quote suggests that Tychicus may have been the one delivering the letter, indicating his importance and trustworthiness.
@@ -40,4 +40,4 @@ The verse being described has various commentators discussing the role of Tychic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

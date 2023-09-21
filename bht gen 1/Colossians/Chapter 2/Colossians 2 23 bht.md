@@ -4,7 +4,7 @@
 In this Bible verse, there is a warning against false worship and empty religious practices. Some individuals may present themselves as exceptionally devout and spiritual, going beyond what is required, but in reality, they are focused on their self-interests rather than God's will. They engage in asceticism and external displays of piety, but these actions lack true substance and do not lead to genuine transformation of the heart. Ultimately, their actions only serve to satisfy the desires of the flesh and promote self-importance rather than a genuine connection with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This 'voluntary worship' is the counterpart to their 'voluntary humility': both specious in appearance, the former seeming in religion to do even more than God requires, but really setting aside God's will for man's own."
 2. "Not paying any of that 'honor' which is due to the body as redeemed by such a price as the blood of Christ. We should not degrade, but have a just estimation of ourselves, not in ourselves, but in Christ."
 3. "While seeming to deny self and the body, they really are pampering the flesh. Thus 'satisfying of the flesh' answers to 'puffed up by his fleshly mind', so that 'flesh' is used in its ethical sense, 'the carnal nature' as opposed to the 'spiritual'; not in the sense, 'body'."
@@ -45,4 +45,4 @@ Note: The commentary provides insights into the meaning of certain words and phr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described depicts a magnificent city whose light illuminates great distances and symbolizes the spread of divine truth. The city is universally recognized for its worth and even the highest earthly authorities willingly bring their transformed glory into it. This envisions a future where the glorious elements of the world are renewed and elevated as they enter into the city, enhancing and embodying all that is good and honorable.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her brightness shall supply them with light."
 2. "The kings of the earth...now in the new Jerusalem do bring their glory into it, to lay it down at the feet of their God and Lord."
 3. "And honor."
@@ -45,4 +45,4 @@ The Bible verse being described depicts a magnificent city whose light illuminat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

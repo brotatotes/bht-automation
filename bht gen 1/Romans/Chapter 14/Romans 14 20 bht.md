@@ -9,7 +9,7 @@ In this Bible verse, Christians are described as a building of God's raising, a 
 2. "All things indeed are pure, but (it is) evil to the man who eats with offence."
 3. "Giving offence to his weak brother...is the right interpretation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle sees in whatever tends to violate a brother's conscience the incipient destruction of God's work."
 2. "All things indeed are pure, the ritual distinctions being at an end."
 3. "There is criminality in the man who eateth with offence, that is, so as to stumble a weak brother."
@@ -56,4 +56,4 @@ In this Bible verse, Christians are described as a building of God's raising, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

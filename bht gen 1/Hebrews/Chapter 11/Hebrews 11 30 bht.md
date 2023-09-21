@@ -9,7 +9,7 @@ By faith, the Israelites, led by Joshua, overcame seemingly insurmountable obsta
 2. "The walls of Jericho...fell...each and every defence fell together."
 3. "Having been compassed about during seven days."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The soundings of trumpets, though one were to sound for ten thousand years, cannot throw down walls, but faith can do all things." - CHRYSOSTOM
 2. "Seven days - whereas sieges often lasted for years." - Commentary
 3. "Faith can do all things." - CHRYSOSTOM
@@ -56,4 +56,4 @@ By faith, the Israelites, led by Joshua, overcame seemingly insurmountable obsta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

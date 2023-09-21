@@ -9,7 +9,7 @@ Despise not prophesyings. This verse reminds us not to disregard or underestimat
 2. "They were liable to be despised in comparison with the more evidently miraculous gift of tongues."
 3. "He takes pains to show that prophecy was in reality the greater gift."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prophesyings—whether exercised in inspired teaching, or in predicting the future." 
 2. "Despised" by some as beneath "tongues," which seemed most miraculous.
 3. "Declared by Paul to be a greater gift than tongues, though the latter were more showy."
@@ -48,4 +48,4 @@ Despise not prophesyings. This verse reminds us not to disregard or underestimat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

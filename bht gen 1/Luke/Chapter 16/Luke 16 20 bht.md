@@ -9,7 +9,7 @@ In this Bible verse, a man named Lazarus, whose name signifies "God a help," is 
 2. "Perhaps by this name our Lord may have intended to fill in the character of the poor man."
 3. "The portal, which led out of the προαύλιον into the αὐλή."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Laid—having to be carried and put down." This quote highlights the severity of the man's condition, emphasizing that he was completely incapacitated and unable to move on his own.
 2. "Full of sores—open, running." This quote vividly describes the physical state of the man, indicating that his sores were not only present but also actively discharging, which adds to the overall picture of his suffering.
 3. "Not closed, nor bound up, nor mollified with ointment." This quote draws a parallel with Isaiah 1:6, emphasizing that the man's sores were left untreated and unhealed, further emphasizing the extent of his affliction.
@@ -43,4 +43,4 @@ In this Bible verse, a man named Lazarus, whose name signifies "God a help," is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

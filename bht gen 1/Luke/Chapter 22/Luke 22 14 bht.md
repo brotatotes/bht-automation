@@ -9,7 +9,7 @@ In the evening, at the last of the two evenings, Jesus sat down or reclined on a
 2. "See above on Luke 22:10, and Matthew 26:20." - This quote suggests that there is additional information or context provided in the commentary on those verses, encouraging the reader to explore further for a deeper understanding.
 3. "The ὥρα was evening, see above on Luke 22:10, and Matthew 26:20." - This quote combines the previous two quotes, providing a concise summary of the commentary and its relevance to the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hour—about six P.M." - This provides a specific time frame for the events being described, adding a sense of historical context to the verse.
 2. "Between three and this hour the lamb was killed" - This reference to the killing of the lamb alludes to the Passover tradition, highlighting the connection between Jesus' crucifixion and the sacrificial lamb.
 3. ":-, Margin" - This note suggests that the information about the lamb being killed at a specific time is found in the margin of the text, indicating an additional layer of interpretation or explanation.
@@ -54,4 +54,4 @@ In the evening, at the last of the two evenings, Jesus sat down or reclined on a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

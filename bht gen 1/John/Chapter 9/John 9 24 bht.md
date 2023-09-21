@@ -9,7 +9,7 @@ In the midst of a heated discussion, the Pharisees confront a man who was healed
 2. "The words are a form of adjuration (see ref. Josh.), to tell the truth, q. d. ‘Remember that you are in God’s presence, and speak as unto Him.’"
 3. "Remember that you are in God’s presence, and speak as unto Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give God the praise; we know that this man is a sinner." - This quote highlights the skepticism and disbelief of the Pharisees towards Jesus' miracle. They refuse to acknowledge the divine power at work and instead focus on labeling Jesus as a sinner.
 2. "Not wishing him to own, even to the praise of God, that a miracle had been wrought upon him." - This quote reveals the Pharisees' unwillingness to accept the truth and give credit to God for the miracle. Their pride and prejudice blind them from recognizing the work of God.
 3. "To show more regard to the honor of God than ascribe any such act to one who was a sinner." - This quote emphasizes the Pharisees' misguided priorities. They prioritize their own reputation and the honor of God over acknowledging the miraculous power of Jesus. Their focus on the sinfulness of Jesus blinds them from seeing the divine nature of his actions.
@@ -56,4 +56,4 @@ In the midst of a heated discussion, the Pharisees confront a man who was healed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

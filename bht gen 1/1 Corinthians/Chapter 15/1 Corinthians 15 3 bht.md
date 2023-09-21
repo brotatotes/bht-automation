@@ -9,7 +9,7 @@ The verse being described emphasizes the importance and authenticity of the doct
 2. "Viz. from the Lord himself, by special revelation."
 3. "On behalf of our sins: viz. to atone for them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The atonement is, in Paul's view, of primary importance."
 2. "The 'for' here does not, as in some passages, imply vicarious substitution, but 'in behalf of.'"
 3. "Paul puts the testimony of Scripture above that of those who saw the Lord after His resurrection."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance and authenticity of the doct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

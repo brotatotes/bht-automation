@@ -9,7 +9,7 @@ The commentators describe a Bible verse that emphasizes the paradoxical nature o
 2. "In Christian graces, and requiring no exercise of our authority."
 3. "We also pray for, viz. your perfection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice when we are weak, as being compassed with infirmities."
 2. "Mighty in faith and the fruits of the Spirit."
 3. "Pray for your perfect restoration."
@@ -53,4 +53,4 @@ The commentators describe a Bible verse that emphasizes the paradoxical nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

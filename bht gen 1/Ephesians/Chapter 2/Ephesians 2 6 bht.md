@@ -4,7 +4,7 @@
 The Bible verse describes the believers' union and identification with Christ, as they are "raised up" both spiritually and bodily, in connection with Jesus' resurrection and ascension. The believers are already seated in heavenly places with Christ, sharing in his glory and authority. This intimate relationship with Christ is the source of their present spiritual resurrection, their future bodily resurrection, and their future entrance into heaven. Through their mystical union with Christ, believers already possess a blessed immortality and anticipate the glorious future that awaits them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'raising up' presupposes previous quickening of Jesus in the tomb, and of us in the grave of our sins."
 2. "Believers are bodily in heaven in point of right, and virtually so in spirit, and have each their own place assigned there, which in due time they shall take possession of."
 3. "Our union with Him is the ground of our present spiritual, and future bodily, resurrection and ascension."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific commentary s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

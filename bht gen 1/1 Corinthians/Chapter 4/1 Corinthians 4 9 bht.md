@@ -9,7 +9,7 @@ The Bible verse under examination depicts the apostles as being set forth by God
 2. "us who were last called to be Apostles, q. d. τοὺς ἀπ . τοὺς ἐσχ ., or τοὺς ἐσχ . ἀποστ ., is ungrammatical."
 3. "ἐσχάτους, last and vilest: not, ‘respectu priorum,’ last, as the prophets were before us, as Corn.-a-lap., and in part, Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul, in contrast, 'thinks' that God has sent forth him and his fellow ministers 'last,' that is, the lowest in this world."
 2. "Criminals 'condemned to die,' in Paul's time, were exhibited as a gazing-stock to amuse the populace in the amphitheater."
 3. "Paul tacitly implies that though 'last' and lowest in the world's judgment, Christ's servants are deemed by angels a spectacle worthy of their most intense regard."
@@ -61,4 +61,4 @@ The Bible verse under examination depicts the apostles as being set forth by God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the writer expresses their belief that regardless of the outcome,
 2. "Surely, that intercessory prayer should attain its object, and the supply take place in consequence of the prayer, is only in accord with the simplest idea of any reality in such prayer at all."
 3. "By a delicate touch at the same time of personal humility and loving appreciation of their spiritual eminence and value to him, he rests the advancement of his own salvation on the supply of the Holy Spirit won for him by their prayers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This proclamation of Christ every way will turn out to my spiritual good."
 2. "Christ, whose interests are my interests, being glorified thereby; and so the coming of His kingdom being furthered."
 3. "So far is their preaching from causing me, as they thought, tribulation in my bonds."
@@ -55,4 +55,4 @@ In this verse, the writer expresses their belief that regardless of the outcome,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

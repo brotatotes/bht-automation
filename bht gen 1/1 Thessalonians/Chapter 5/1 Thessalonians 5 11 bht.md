@@ -9,7 +9,7 @@ In this verse, believers are encouraged to find comfort in the promises of their
 2. "Comfort, as in ch. 1 Thessalonians 4:18, than 'exhort.'"
 3. "Edify the one the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Comfort yourselves" - This phrase emphasizes the importance of mutual encouragement and support among believers. It implies that in times of hardship or grief, believers should come together to provide comfort and solace to one another.
 
 2. "Edify one another" - This quote highlights the need for believers to build each other up in their faith. It suggests that through meaningful conversations and discussions, believers can strengthen their faith, hope, and love for God and one another.
@@ -52,4 +52,4 @@ In this verse, believers are encouraged to find comfort in the promises of their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

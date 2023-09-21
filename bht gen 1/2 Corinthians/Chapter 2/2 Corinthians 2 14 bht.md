@@ -9,7 +9,7 @@ This verse describes the triumph of God's grace over us, where His defeats of us
 2. "During a triumph, sweet spices were thrown about or burnt in the streets, which were θυμιαμάτων πλήρεις, Plut. Æmil. p. 272. As the fact of the triumph, or approach of the triumphal procession, was made known by these odours far and wide, so God diffuses by our means, who are the materials of His triumph, the sweet odour of the knowledge of Christ."
 3. "The similitude is not that of a sacrifice, but still the same as before: during a triumph, sweet spices were thrown about or burnt in the streets, which were θυμιαμάτων πλήρεις, Plut. Æmil. p. 272. As the fact of the triumph, or approach of the triumphal procession, was made known by these odours far and wide, so God diffuses by our means, who are the materials of His triumph, the sweet odour of the knowledge of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our only true triumphs are God's triumphs over us. His defeats of us are our only true victories."
 2. "Paul regarded himself as a signal trophy of God's victorious power in Christ. His Almighty Conqueror was leading him about, through all the cities of the Greek and Roman world, as an illustrious example of His power at once to subdue and to save."
 3. "As the approach of the triumphal procession was made known by the odor of incense scattered far and wide by the incense-bearers in the train, so God 'makes manifest by us' the sweet savor of the knowledge of Christ, the triumphant Conqueror, everywhere."
@@ -53,4 +53,4 @@ This verse describes the triumph of God's grace over us, where His defeats of us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

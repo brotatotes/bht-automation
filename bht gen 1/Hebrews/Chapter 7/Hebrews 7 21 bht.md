@@ -4,7 +4,7 @@
 In this verse, the commentators stress the significance of the oath in the appointment of priests. Unlike the existing legal priests who were not appointed with an oath, Jesus' priesthood is distinguished by the oath of God Himself. This oath signifies the unchangeable and superior nature of Jesus' priesthood, highlighting the eternal validity and importance of his role as our high priest. Through the oath, God confirms his unchanging purpose and the everlasting nature of Christ's priesthood, making it a source of comfort and assurance for believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For they indeed (the existing legal priests) without the (solemn) promise on oath (so the Greek [TITTMANN]) are made priests." - This quote highlights the significance of the promise on oath in the appointment of priests, emphasizing that the existing legal priests did not have this solemn promise.
 
 2. "by him—God." - This quote emphasizes that it is God who appoints priests, indicating the divine authority behind the priesthood.
@@ -49,4 +49,4 @@ In this verse, the commentators stress the significance of the oath in the appoi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

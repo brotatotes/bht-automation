@@ -9,7 +9,7 @@ In this Bible verse, we witness the remarkable journey and tireless efforts of P
 2. "At present, it is a small village, retaining the name Esdud, but no remains."
 3. "τὰς πόλεις πάσας ] viz. Ekron, Jamnia, Joppa, Apollonia, on the direct road: or, if he deviated somewhat for the purpose, Lydda also (which seems implied ch. Act 9:32 )."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Philip was found—that is, 'found himself,' 'made his appearance': an expression confirming the miraculous manner of his transportation."
 2. "As the chariot of the Gospel rolls on, other agents are raised up, each suited to his work."
 3. "But 'he that soweth and he that reapeth shall rejoice together.'"
@@ -52,4 +52,4 @@ In this Bible verse, we witness the remarkable journey and tireless efforts of P
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

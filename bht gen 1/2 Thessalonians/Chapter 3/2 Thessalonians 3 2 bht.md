@@ -9,7 +9,7 @@ The verse being described is likely Romans 15:31. This verse speaks to the reali
 2. "It is obvious that the key to the answer will be found in Acts 18:0. They were the Jews at Corinth, who were at that time the especial adversaries of the Apostle and his preaching."
 3. "For to all men the (Christian) faith does not belong, all men do not receive it, have no receptivity for it obviously pointing at Jews by this description."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An undesigned coincidence with Acts 18:12-17: Paul was now at Corinth, where the Jews 'opposed themselves' to his preaching: in answer to his prayers and those of his converts at Thessalonica and elsewhere, 'the Lord, in vision,' assured him of exemption from 'the hurt,' and of success in bringing in 'much people.'" 
 2. "On the unreasonable, out-of-the-way perversity of the Jews, as known to the Thessalonians, see 1 Thessalonians 2:15; 1 Thessalonians 2:16."
 3. "The Thessalonians, from their ready acceptance of the Gospel, might think 'all' would similarly receive it; but the Jews were far from having such a readiness to believe the truth."
@@ -60,4 +60,4 @@ The verse being described is likely Romans 15:31. This verse speaks to the reali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

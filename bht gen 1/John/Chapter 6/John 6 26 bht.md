@@ -9,7 +9,7 @@ The people sought after Jesus, not because they recognized the significance of h
 2. "And from this low desire of mere satisfaction of their carnal appetite, He takes occasion in the following discourse to raise them to spiritual desire after HIMSELF, THE BREAD OF LIFE."
 3. "The discourse forms a parallel with that in ch. 4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye seek Me not because ye saw the miracles, but because ye did eat of the loaves and were filled." - Jesus points out the superficiality of the people's motives, highlighting that they were more interested in the physical provision of food rather than recognizing the supernatural signs and divine commission behind His miracles.
 
 2. "From this He proceeds at once to that other Bread, just as, with the woman of Samaria, to that other Water." - Jesus uses the opportunity to transition from the physical bread they were seeking to the spiritual bread that He offers, drawing parallels to His encounter with the Samaritan woman at the well.
@@ -57,4 +57,4 @@ Note: The provided commentary is a longer passage, but I have extracted the most
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

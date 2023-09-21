@@ -9,7 +9,7 @@ In the midst of heavenly glory, a striking contrast emerges as John sees a lamb 
 2. "Though ὡς ἐσφαγμένον, it was not lying, but standing."
 3. "The seven eyes of the Lamb represent the same Spirit in his sevenfold perfection, profluent, so to speak, from the incarnate Redeemer: busied in His world-wide energy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lamb—Greek, 'arnion' always found in Revelation exclusively, expresses endearment, namely, the endearing relation in which Christ now stands to us, as the consequence of His previous relation as the sacrificial Lamb."
 2. "In the midst of heavenly glory Christ crucified is still the prominent object."
 3. "The seven eyes of the Lamb represent the same sevenfold Spirit profluent from the incarnate Redeemer in His world-wide energy."
@@ -48,4 +48,4 @@ In the midst of heavenly glory, a striking contrast emerges as John sees a lamb 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

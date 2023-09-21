@@ -9,7 +9,7 @@ The verse describes a divine calling to faith and obedience, extending to people
 2. "De Wette and Calvin would take Ἰησοῦ χρ. as a gen. of possession, because the call of believers is generally referred to the FATHER: but sometimes the SON is said to call likewise, see John 5:25; 1 Timothy 1:12."
 3. "With ἀγαπητοὶ θεοῦ following so close upon it, the expression can I think hardly be taken otherwise than as called by Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle ascribes nothing special to the Church of Rome."
 2. "The called ones of Christ Jesus."
 3. "One hardly knows which to prefer."
@@ -54,4 +54,4 @@ The verse describes a divine calling to faith and obedience, extending to people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

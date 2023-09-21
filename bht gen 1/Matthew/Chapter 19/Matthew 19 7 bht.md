@@ -4,7 +4,7 @@
 This verse addresses a question posed by the Pharisees, who were attempting to trap Jesus and discredit his teachings on divorce. Jesus responds by explaining that while Moses permitted divorce, it was not God's original plan for marriage, which is a lifelong commitment between a man and a woman. He emphasizes the importance of faithfulness in marriage and challenges cultural norms, calling his followers to a higher standard of love and commitment. This passage highlights the seriousness of divorce and the need for reconciliation and forgiveness whenever possible.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question posed to Jesus about divorce is not a genuine inquiry seeking understanding, but rather a trap set by the Pharisees to test him. They are trying to find fault with Jesus and discredit his teachings." 
 
 2. "Jesus responds by pointing out that Moses allowed divorce because of the hardness of people's hearts, but this was not God's original plan for marriage. He emphasizes that from the beginning, God intended for marriage to be a lifelong commitment between a man and a woman."
@@ -53,4 +53,4 @@ This verse addresses a question posed by the Pharisees, who were attempting to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

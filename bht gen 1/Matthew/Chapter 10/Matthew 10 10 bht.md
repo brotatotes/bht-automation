@@ -9,7 +9,7 @@ The verse being described is a commandment given by Jesus to His disciples as th
 2. "It is a gross perversion and foolish bondage to the letter, to imagine that ministers of congregations, or even missionaries among the heathen, at this day are bound by the literal sense of our Lord’s commands in this passage."
 3. "But we must not therefore imagine that they are not bound by the spirit of them. This literal first mission was but a foreshadowing of the spiritual subsequent sending out of the ministry over the world, which ought therefore in spirit every where to be conformed to these rules."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take no change of dress, no additional articles."
 2. "They were not to procure even that much expressly for this missionary journey, but to go with what they had."
 3. "The workman is worthy of his meat—his 'food' or 'maintenance'; a principle which, being universally recognized in secular affairs, is here authoritatively applied to the services of the Lord's workmen."
@@ -50,4 +50,4 @@ The verse being described is a commandment given by Jesus to His disciples as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

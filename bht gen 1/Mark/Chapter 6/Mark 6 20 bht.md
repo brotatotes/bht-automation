@@ -9,7 +9,7 @@ In this Bible verse, we see that Herod had a combination of fear and respect for
 2. "The reading ἠπόρει is remarkable, and perhaps has some connexion with the διηπόρει of Luke 9:7."
 3. "Whether Herod heard him only at such times as he happened to be at Machærus, or took him also to his residence at Tiberias, is, as Meyer remarks, uncertain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For Herod feared John—but, as BENGEL notes, John feared not Herod." 
 2. "knowing that he was a just man and an holy—Compare the case of Elijah with Ahab, after the murder of Naboth (1 Kings 21:20)." 
 3. "and observed him—rather, as in the Margin, 'kept' or 'saved him'; that is, from the wicked designs of Herodias, who had been watching for some pretext to get Herod entangled and committed to despatch him."
@@ -43,4 +43,4 @@ In this Bible verse, we see that Herod had a combination of fear and respect for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

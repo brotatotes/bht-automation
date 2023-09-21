@@ -4,7 +4,7 @@
 This verse involves an exhortation to keep and faithfully fulfill the commandment of preaching the Gospel. The emphasis is on living a blameless life and pure ministry, guarding against reproach. There is a sense of urgency and anticipation for the second coming of Christ, which serves as a guiding focus for believers. The verse encompasses the responsibility and expectation placed upon all ministers of the Gospel until the glorious appearing of our Lord Jesus Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Keep the commandment and so be without spot." - This quote emphasizes the importance of following the Gospel rule of life and living in a way that is blameless and pure.
 
 2. "Believers then used in their practice to set before themselves the day of Christ as near at hand; we, the hour of death." - This quote highlights the idea that believers should always be prepared for the return of Christ or their own death, living with a sense of urgency and expectation.
@@ -55,4 +55,4 @@ This verse involves an exhortation to keep and faithfully fulfill the commandmen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

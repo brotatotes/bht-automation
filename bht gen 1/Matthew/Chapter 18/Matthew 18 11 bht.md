@@ -4,7 +4,7 @@
 This Bible verse underscores the central mission of Jesus, who came into the world to seek and save the lost. It demonstrates God's immense love and compassion for those who may be disregarded or considered insignificant. Jesus affirms that He personally came into the world to save them, emphasizing His selfless sacrifice and His desire to bring salvation to all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the Son of man is come to save that which was lost." - This verse emphasizes the purpose of Jesus' coming into the world, which is to save the lost. It highlights the redemptive mission of Jesus and his desire to bring salvation to those who are lost.
 
 2. "Take heed lest, by causing offenses, ye lose the saved." - This quote warns against causing offenses that could lead to the loss of those who have already been saved. It reminds believers to be mindful of their actions and to avoid anything that may hinder the salvation of others.
@@ -44,4 +44,4 @@ These quotes emphasize the significance of Jesus' mission to seek and save the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

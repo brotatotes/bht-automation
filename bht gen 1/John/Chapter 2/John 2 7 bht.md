@@ -4,7 +4,7 @@
 In this verse, Jesus performs a miracle at a wedding by transforming water into wine. He instructs the disciples to fill the waterpots to their fullest capacity, leaving no room for anything else. The water symbolizes the need for a complete transformation, and by filling the pots to the brim, the disciples demonstrate their willingness to go above and beyond in their faith and obedience. This miracle is done in a way that prevents any suspicion of trickery or dishonesty, highlighting Jesus' integrity and the importance of maintaining a good reputation even while performing miracles.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fill...draw..." - This phrase emphasizes the active role of the disciples in the miracle, as they were instructed to fill the water jars and draw out the wine. It highlights the importance of human participation and obedience in God's miraculous work.
 
 2. "Bear" - This word suggests that Jesus took on the responsibility of overseeing the miracle, ensuring that everything was done properly. It shows his care and attention to detail, even in the smallest matters.
@@ -51,4 +51,4 @@ In this verse, Jesus performs a miracle at a wedding by transforming water into 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators highlight the importance of self-examination and
 2. "Whether you maintain your Christian place and standing in Christ, which will be shown by the power of Christ's Spirit present and energizing among you."
 3. "'Not abiding the proof,' worthless, i.e. in this case, 'mere pretended Christians.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Try (make trial of) yourselves."
 2. "Prove your own selves."
 3. "Finding Christ dwelling in yourselves by faith, ye may well believe that He speaks in me, by whose ministry ye have received this faith."
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the importance of self-examination and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

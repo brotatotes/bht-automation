@@ -9,7 +9,7 @@ In this verse, Jesus leads his disciples away from the city to the district of B
 2. "If we had none but the Gospel of Luke we should certainly say that the Lord ascended after the appearance to the Apostles and others on the evening of the day of His resurrection."
 3. "ἕως πρὸς Β. Not quite to the village itself, but over the brow of the Mount of Olives where it descends on Bethany."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The journey to Bethany was not just a physical descent from Mount Olivet, but also a symbolic descent into the reality of human suffering and death." 
 
 2. "By going to Bethany, Jesus was intentionally entering into the brokenness and pain of humanity, showing his deep compassion and willingness to be with us in our darkest moments." 
@@ -49,4 +49,4 @@ In this verse, Jesus leads his disciples away from the city to the district of B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

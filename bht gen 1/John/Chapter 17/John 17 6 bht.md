@@ -9,7 +9,7 @@ In this verse, Jesus prays to the Father, acknowledging His name and the believe
 2. "The Father gave them to Christ, by leading them to Christ."
 3. "Thine (σοί, from σός) they were Israelites Thy people, before: not only outwardly, but Israelites indeed, and thus prepared to receive Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From praying for Himself He now comes to pray for His disciples." 
 2. "I have manifested—I manifested. thy name—His whole character towards mankind." 
 3. "To the men thou gavest me out of the world."
@@ -48,4 +48,4 @@ In this verse, Jesus prays to the Father, acknowledging His name and the believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

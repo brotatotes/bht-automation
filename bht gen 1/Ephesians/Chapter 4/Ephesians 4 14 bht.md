@@ -4,7 +4,7 @@
 The verse in question highlights the vulnerability of those who lack firm principles and are easily swayed by different teachings. The commentators describe such individuals as being like children, uncertain and wavering in their beliefs. These individuals, like ships on a restless sea, are tossed about by the winds of various doctrines and deceived by the craftiness of false teachers. The verse emphasizes the importance of acquiring settled views of truth, firmly grounding oneself in the doctrines of the gospel, and not being carried away by every changing wind or manipulated by deceitful tactics.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The various teachings are the 'winds' which keep them tossed on a sea of doubts."
 2. "The player frames his throws of the dice so that the numbers may turn up which best suit his purpose."
 3. "Craftiness tending to the methodized system of deceit."
@@ -52,4 +52,4 @@ The verse in question highlights the vulnerability of those who lack firm princi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

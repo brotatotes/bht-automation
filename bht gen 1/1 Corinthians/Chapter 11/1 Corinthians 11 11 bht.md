@@ -11,7 +11,7 @@ In the kingdom of God, there is neither male nor female, as highlighted by John 
 
 Note: The commentary provided is not directly related to a specific Bible verse. Please provide the specific verse you would like the commentary on.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither sex is insulated and independent of the other in the Christian life." - ALFORD
 2. "The one needs the other in the sexual relation." - ALFORD
 3. "In respect to Christ ('in the Lord'), the man and the woman together realize the ideal of redeemed humanity represented by the bride, the Church." - ALFORD
@@ -54,4 +54,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

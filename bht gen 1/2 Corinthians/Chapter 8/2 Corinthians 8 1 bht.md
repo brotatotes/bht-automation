@@ -15,7 +15,7 @@ In this verse, the exhortation to separate from unbelievers and impurity is not 
 
 5. "Separation from unbelievers and impurity is not meant to be a burden, but a means of experiencing the abundant life that Christ has promised. It is a pathway to spiritual growth, intimacy with God, and a testimony to the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grace of God bestowed on the churches of Macedonia—Their liberality was not of themselves naturally, but of God's grace bestowed on them, and enabling them to be the instrument of God's 'grace' to others." 
 
 2. "The importance given in this Epistle to the collection, arose as well from Paul's engagement, as also chiefly from his hope to conciliate the Judaizing Christians at Jerusalem to himself and the Gentile believers, by such an act of love on the part of the latter towards their Jewish brethren." 
@@ -65,4 +65,4 @@ In this verse, the exhortation to separate from unbelievers and impurity is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

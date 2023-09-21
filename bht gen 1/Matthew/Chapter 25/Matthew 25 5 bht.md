@@ -4,7 +4,7 @@
 In this parable, the bridegroom's delay serves as a trial for the faith and patience of believers. All the virgins, both wise and foolish, experienced a period of slumber and sleep, symbolizing spiritual lethargy and forgetfulness. The distinction between the wise and foolish lies in their inner state, with the wise having a genuine readiness and the foolish deceived by a false sense of peace. The delay of the bridegroom serves as a reminder that the timing of Christ's coming is uncertain, calling believers to remain vigilant and faithful.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ 'tarries,' among other reasons, to try the faith and patience of His people."
 2. "The world 'slumbered' signifies, simply, 'nodded,' or, 'became drowsy'; while the world 'slept' is the usual word for lying down to sleep, denoting two stages of spiritual declension."
 3. "Such was the state alike of the wise and the foolish virgins, even till the cry of the Bridegroom's approach awoke them."
@@ -50,4 +50,4 @@ In this parable, the bridegroom's delay serves as a trial for the faith and pati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

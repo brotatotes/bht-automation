@@ -11,7 +11,7 @@ In this verse, the commentator quotes various voices with different perspectives
 
 3. "The Codex Vaticanus, a fourth-century manuscript, has been occasionally consulted for the verification of certain readings." - This provides historical context and credibility to the commentary, indicating that the Codex Vaticanus is an important source for studying the Bible.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The branches were broken off, that I might be grafted in." This quote highlights the concept of divine intervention and purpose in the process of grafting. It suggests that the removal of the original branches was necessary in order for the speaker to be included in the new growth.
 
 2. "Thou wilt say then—as a plea for boasting." This quote implies that the speaker anticipates a potential objection or argument from the audience. It suggests that the speaker is aware of the potential pride or arrogance that may arise from their position and seeks to address it.
@@ -49,4 +49,4 @@ In this verse, the commentator quotes various voices with different perspectives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

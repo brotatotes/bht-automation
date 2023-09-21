@@ -11,7 +11,7 @@ In this particular Bible verse, God tests the faith of Abraham, intentionally us
 
 3. "The trial of his faith" - This phrase underscores the significance of the test that Abraham is about to face. It implies that faith is not a mere intellectual belief, but something that needs to be tested and proven in difficult circumstances.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "half dispirited by the failure of the disciples and the aggravated virulence of the malady itself in presence of their Master"
 2. "encouraged too by what he had heard of Christ, by the severe rebuke He had given to His disciples for not having faith enough to cure the boy"
 3. "the dignity with which He had ordered him to be brought to Him"
@@ -35,4 +35,4 @@ In this particular Bible verse, God tests the faith of Abraham, intentionally us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

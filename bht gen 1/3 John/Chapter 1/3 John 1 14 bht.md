@@ -4,7 +4,7 @@
 In this Bible verse, the writer exhorts the reader to extend greetings, peace, and personal acknowledgment to friends within the faith. The phrase "face to face" carries the significance of deep, intimate connection and genuine interaction. It signifies the desire for personal relationships and emphasizes the importance of meeting and engaging with others. The instruction to greet friends individually reflects the value placed on acknowledging and valuing each person, highlighting the close and familial bond that believers are meant to have with one another.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peace - peace inward of conscience, peace fraternal of friendship, peace supernal of glory."
 2. "Still Christ recognizes the relation of friend also, based on the highest grounds, obedience to Him from love, and entailing the highest privileges, admission to the intimacy of the holy and glorious God, and sympathizing Savior."
 3. "Here in a friendly letter, mention of 'friends' appropriately occurs."
@@ -46,4 +46,4 @@ In this Bible verse, the writer exhorts the reader to extend greetings, peace, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, it encourages servants to be obedient to their masters and to obey their lawful commands. They are to serve with fear and trembling, showing utmost respect and humility. The servants are to approach their duties with singleness of heart, focusing solely on God's will. Ultimately, the verse reminds both servants and masters that their earthly relationship is temporary, and they are ultimately accountable to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mastership to which they were subject, was but for a time."
 2. "Their real liberty was still their own."
 3. "An anxious eagerness to do your duty, and a fear of displeasing, as great as is produced in the ordinary slave by 'threatenings'."
@@ -52,4 +52,4 @@ In this Bible verse, it encourages servants to be obedient to their masters and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

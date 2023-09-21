@@ -4,7 +4,7 @@
 In this verse, we see the importance of seeking help and support from others when faced with challenges. It emphasizes the significance of individual contributions and unique abilities that each person brings. It reminds us to study and research the Bible to fully grasp its teachings and apply them to our lives. The verse also highlights the fact that God uses human instruments, such as ministers, to bring His message to others and we should value and make use of the Gospel ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Send to Joppa" - This phrase emphasizes the importance of seeking help and support from others when faced with challenges or difficult situations. It reminds us that we don't have to face our problems alone, but can rely on the assistance of others.
 
 2. "For one Simon" - This highlights the significance of individual contributions and the unique abilities that each person brings to a situation. It reminds us that even one person can make a difference and play a crucial role in resolving a problem or providing assistance.
@@ -39,4 +39,4 @@ In this verse, we see the importance of seeking help and support from others whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

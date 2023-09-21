@@ -9,7 +9,7 @@ In this verse, the emphasis is on the consistency and reliability of Paul and hi
 2. "The conduct of the Apostle on his next visit, but his general character, is in question."
 3. "The general character of the Apostle is in question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Think this - 'consider this.'"
 2. "Such will we be - or 'are,' in general."
 3. "Not merely shall we be at our next visit."
@@ -42,4 +42,4 @@ In this verse, the emphasis is on the consistency and reliability of Paul and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, Jesus triumphs over opposition from both the Sadducees and Pharisees, leaving them foiled and unable to challenge his authority. His profound understanding of Scripture baffles and silences the religious leaders. Even his enemies are forced to acknowledge the wisdom of his response, although their praise is laced with hostility. Through divine providence, Jesus' opponents unwittingly affirm the truth of his teaching. His words not only expose their errors but also reveal the beauty and clarity of his message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His victory over the Sadducees."
 2. "Neither party, both for the time utterly foiled."
 3. "Christ baffles the Pharisees by a question about David and Messiah, and denounces the scribes."
@@ -38,4 +38,4 @@ In this Bible verse, Jesus triumphs over opposition from both the Sadducees and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

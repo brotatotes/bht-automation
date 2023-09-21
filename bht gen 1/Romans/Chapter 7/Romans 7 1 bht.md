@@ -9,7 +9,7 @@ In this verse, the commentator highlights the targeted audience of the apostle's
 2. "The Christian, being dead with Christ and alive to Him, is freed from the law."
 3. "I am speaking (writing) to men acquainted with the law; i.e. the persons to whom I address this epistle are such as know the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I speak to them that know the law" - This verse suggests that Paul is addressing an audience who is familiar with the Old Testament and the laws of Moses. It implies that his message is directed towards those who have a deeper understanding of the scriptures. 
 
 2. "Though not themselves Jews" - This phrase indicates that the audience Paul is speaking to may not necessarily be Jewish. It highlights the inclusivity of his message, reaching out to a wider audience beyond the Jewish community. 
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the targeted audience of the apostle's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

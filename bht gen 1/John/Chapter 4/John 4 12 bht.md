@@ -4,7 +4,7 @@
 In this verse, the commentators help shed light on the dialogue between Jesus and the Samaritan woman at the well. They highlight the woman's initial perception of Jesus' mysterious greatness, indicating her growing conviction of His significance. The commentators also emphasize the woman's limited understanding and the faulty comparison she draws between Jesus, the servant, and the living God. Additionally, they provide background information on the Samaritans, their claim to descent from Jacob, and their connection to the well given by Jacob to Joseph. Through their insights, we gain a deeper understanding of the context and significance of this verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Already perceiving in this Stranger a claim to some mysterious greatness."
 2. "When it went well with the Jews, they claimed kindred with them, as being descended from Joseph."
 3. "When misfortunes befell the Jews, they disowned all connection with them."
@@ -48,4 +48,4 @@ In this verse, the commentators help shed light on the dialogue between Jesus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a person's face is described as radiating with divine light, rese
 2. "That the effect on those present was not such as to prevent the examination proceeding, is no argument against this view: in the very mildness of the question of the H. P. which follows, I see the trace of some unusual incident exercising an influence over him."
 3. "Chrysostom explains well the effect on the council: 'He seems to me to have made God gracious to them, perhaps because he was about to say something, and in order to strike them immediately with his appearance. For there are, there are also faces full of spiritual grace, visible to those who desire to have them, and venerable and terrible to those who hate and fear. Or perhaps he said this as the cause for which they endured his speech. What, then, the high priest?... Do you see how the question is asked with gentleness and has nothing burdensome for the time being?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a play of supernatural radiance attesting to all who beheld his countenance" - The commentary describes the angelic glow on the face of the person being referred to in the verse. This quote emphasizes the supernatural and divine nature of the radiance, which serves as a visible sign of the inner calm and spiritual presence.
 
 2. "the divine calm of the spirit within" - This quote highlights the inner state of tranquility and peace that is reflected in the angelic countenance. It suggests that the person's connection with the divine is so strong that it manifests externally, radiating a sense of serenity and spiritual presence.
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

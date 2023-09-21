@@ -11,7 +11,7 @@ In this verse, we are reminded that the anger and wrath of man cannot produce th
 
 3. "How many an endeavor, which might have ended in working the righteousness of God, has been diverted and blighted by hasty speaking and anger." - Our hasty words and anger can derail our efforts to live out God's righteousness. It is important to guard our tongues and control our anger to avoid disgracing ourselves and God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Man's angry zeal in debating, as if jealous for the honor of God's righteousness, is far from working that which is really righteousness in God's sight."
 2. "True righteousness is sown in peace, not in wrath."
 3. "The oldest and best reading means 'worketh,' that is, practiceth not: the received reading is 'worketh,' produceth not."
@@ -49,4 +49,4 @@ In this verse, we are reminded that the anger and wrath of man cannot produce th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

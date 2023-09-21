@@ -9,7 +9,7 @@ The verse being described is a testament to the incredible deliverance and ongoi
 2. "He will also continue to rescue us" - This quote emphasizes the ongoing nature of God's rescue and protection.
 3. "The continuance of God's help in time distant and uncertain" - This quote suggests that God's help is not limited to the present, but extends into the future, even in times of uncertainty.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "will deliver," namely, as regards immediately imminent dangers.
 2. "In whom we trust that He will also (so the Greek) yet deliver us," refers to the continuance of God's delivering help hereafter.
 
@@ -51,4 +51,4 @@ The verse being described is a testament to the incredible deliverance and ongoi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

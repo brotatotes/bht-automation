@@ -9,7 +9,7 @@ This verse describes a terrifying and inescapable judgment awaiting those who ha
 2. "The fire of God’s presence, identified with Himself, exactly as in ch. Hebrews 12:29, ὁ θεὸς ἡμῶν πῦρ καταναλίσκον: and it is the zeal, the fervour, the excandescence of this consuming fire, which awaits the apostate from Christ."
 3. "The same expression is found in Il. ψ. 182, τοὺς ἅμα σοι πάντας πῦρ ἐσθίει) the adversaries (some have supposed the sense of secret enemies to be conveyed by ὑπεναντίους. But as Bl. remarks, the word is good Greek, and is constantly found, without any such further sense, representing merely an enemy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The indefiniteness, as of something peculiar of its kind, makes the description the more terrible."
 2. "The transition is easy from 'giving a reception to' something or someone, to 'looking for.'"
 3. "Fire is personified: glow or ardor of fire, that is, of Him who is 'a consuming fire.'"
@@ -48,4 +48,4 @@ This verse describes a terrifying and inescapable judgment awaiting those who ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

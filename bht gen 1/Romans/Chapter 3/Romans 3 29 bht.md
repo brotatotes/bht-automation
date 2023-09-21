@@ -9,7 +9,7 @@ This verse challenges the belief that God's favor is exclusive to the Jewish peo
 2. "It lies in the very root and kernel of the law itself." 
 3. "Abraham's faith, and not this fact, has become the leading subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The way of salvation must be one equally suited to the whole family of fallen man."
 2. "The doctrine of justification by faith is the only one that lays the basis of a Universal Religion."
 3. "This therefore is another mark of its truth."
@@ -45,4 +45,4 @@ This verse challenges the belief that God's favor is exclusive to the Jewish peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

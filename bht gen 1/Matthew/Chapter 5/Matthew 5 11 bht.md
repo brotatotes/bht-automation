@@ -9,7 +9,7 @@ In this verse, the actions described are the expansion of past persecution. It s
 2. "διώξωσιν, however, still means persecute; its legal usage is unknown in the N.T." 
 3. "The pres. part., as usual, carries with it the logical condition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He identifies Himself and His cause with that of righteousness, binding up the cause of righteousness in the world with the reception of Himself."
 2. "Would Moses, or David, or Isaiah, or Paul have so expressed themselves? Never. Doubtless they suffered for righteousness' sake. But to have called this 'their sake,' would, as every one feels, have been very unbecoming."
 3. "He that speaks, being Righteousness incarnate, when He so speaks, speaks only like Himself."
@@ -51,4 +51,4 @@ In this verse, the actions described are the expansion of past persecution. It s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

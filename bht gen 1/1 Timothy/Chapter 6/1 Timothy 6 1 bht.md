@@ -9,7 +9,7 @@ This verse addresses the behavior of servants who are under the authority of non
 2. "That the name of God and his doctrine be not spoken evil of."
 3. "This verse obviously applies only to those slaves who had unbelieving masters."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let as many as are under the yoke (as) slaves" - The exhortation is natural as there was a danger of Christian slaves inwardly feeling above their heathen masters.
 2. "Their own masters" - The phrase "their own" is an argument for submissiveness; it is not strangers, but their own masters whom they are required to respect.
 3. "All possible and fitting honor" - All possible and fitting honor; not merely outward subjection, but that inward honor from which will flow spontaneously right outward conduct.
@@ -57,4 +57,4 @@ These quotes highlight the broad application of the term "servants," the apostle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

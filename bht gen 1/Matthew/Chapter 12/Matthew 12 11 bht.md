@@ -9,7 +9,7 @@ In this verse, Jesus, highlighting the Pharisees' hypocrisy, questions whether t
 2. "Subsequently, it was forbidden in the Gemara."
 3. "It was only permitted to lay planks for the beast to come out."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights Jesus' compassion and concern for the individual. He uses a simple example of a lost sheep to illustrate the value he places on each person's well-being."
 2. "Jesus challenges the religious leaders' rigid interpretation of the Sabbath law by pointing out that even they would rescue a sheep in distress on that day. He emphasizes the importance of mercy and kindness over strict adherence to rules."
 3. "By asking this question, Jesus invites his audience to reflect on their own actions and priorities. He encourages them to consider whether they are more concerned with following religious regulations or with showing love and care for others."
@@ -35,4 +35,4 @@ Note: The commentary is discussing the situation where a sheep falls into a pit 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

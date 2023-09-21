@@ -11,7 +11,7 @@ In this verse, disobedience is shown to carry severe consequences as seen in Deu
 
 3. The mention of Deuteronomy 25:2 serves as a reminder of the authority behind the command and the seriousness with which it should be taken.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beaten them" - This phrase refers to the punishment inflicted on those who disobeyed orders. It highlights the severity of the consequences faced by those who did not follow instructions.
 
 2. "Disobeying their orders" - This phrase emphasizes the importance of obedience and the expectation for individuals to adhere to the commands given to them. It underscores the significance of following instructions in the context of the verse.
@@ -47,4 +47,4 @@ In this verse, disobedience is shown to carry severe consequences as seen in Deu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

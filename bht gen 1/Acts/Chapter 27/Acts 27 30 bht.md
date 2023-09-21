@@ -9,7 +9,7 @@ Amidst a turbulent voyage, the sailors, driven by fear, resorted to deceit and s
 2. "They would carry out the anchors to the extent of the cable which was loosened."
 3. "In this case, they would carry out the anchors to the extent of the cable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This could have been of no advantage in the circumstances, and as the pretext could not deceive a seaman."
 2. "We must infer that the officers of the ship were parties to the unworthy attempt."
 3. "The nautical skill of St. Luke, and communicated by him to St. Paul."
@@ -55,4 +55,4 @@ Amidst a turbulent voyage, the sailors, driven by fear, resorted to deceit and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

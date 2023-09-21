@@ -9,7 +9,7 @@ The verse describes the disciples and their families accompanying the apostle an
 2. "Our own word ‘fulfil’ has undergone a similar change of meaning since its first composition."
 3. "We passed through the city to the western shore of the ancient island, now the peninsula, hoping to find there a fitting spot for the tent, in the open space between the houses and the sea."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They all brought us on our way with wives and children." This verse highlights the unity and support of the community as they journey together, including their families. It emphasizes the importance of family in the disciples' lives and their commitment to worship together.
 
 2. "We kneeled down on the shore and prayed." This quote shows the disciples' humility and reverence as they gather to pray. It signifies their dependence on God and their desire to seek His guidance and protection in their journey.
@@ -52,4 +52,4 @@ The verse describes the disciples and their families accompanying the apostle an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

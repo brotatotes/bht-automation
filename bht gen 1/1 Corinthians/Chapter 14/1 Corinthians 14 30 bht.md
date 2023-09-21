@@ -9,7 +9,7 @@ When multiple prophets gather, if one receives a clearer revelation or deeper un
 2. "Clearly, not as ejected by the second in any disorderly manner: probably, by being made aware of it and ceasing his discourse."
 3. "The rendering of Grot., al., 'let him (the second) wait till the first has done speaking,' q. d., 'let the first have left off,' is ungrammatical."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But if any thing." - This quote emphasizes the importance of giving space for others to speak and share their revelations or insights. It encourages humility and a willingness to listen to others in the assembly.
 
 2. "Let the first hold his peace." - This quote highlights the need for the person who previously spoke to step back and allow room for someone else to share their prophetic message. It promotes a sense of order and respect within the assembly.
@@ -58,4 +58,4 @@ When multiple prophets gather, if one receives a clearer revelation or deeper un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

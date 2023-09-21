@@ -11,7 +11,7 @@ In this verse, the solemn word "hearken" serves as a powerful introduction to th
 
 3. "By using this word, Mark emphasizes the importance of actively listening and paying attention to the words that will follow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hearken; Behold, there went out a sower to sow" - This verse sets the stage for the parable of the sower, emphasizing the importance of listening and paying attention to the message being conveyed.
 
 2. "First Case: THE WAYSIDE" - The commentary highlights the different types of soil mentioned in the parable, starting with the wayside. This quote introduces the first case, indicating that the wayside represents those who hear the word but do not understand or receive it.
@@ -37,4 +37,4 @@ In this verse, the solemn word "hearken" serves as a powerful introduction to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

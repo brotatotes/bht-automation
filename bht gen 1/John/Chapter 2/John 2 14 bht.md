@@ -9,7 +9,7 @@ In this verse, Jesus entered the temple and observed a bustling market where oxe
 2. "The very fact of the market being held there would produce an unseemly mixture of sacred and profane transactions, even setting aside the abuses which would be certain to be mingled with the traffic."
 3. "It is to the former of these evils that our Lord makes reference in this first cleansing; in the second, to the latter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the temple—not the temple itself, but the temple-court." 
 2. "Sold oxen, &c.—for the convenience of those who had to offer them in sacrifice." 
 3. "Changers of money—of Roman into Jewish money, in which the temple dues had to be paid."
@@ -50,4 +50,4 @@ Note: The commentary was cut off and did not provide the complete sentence for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

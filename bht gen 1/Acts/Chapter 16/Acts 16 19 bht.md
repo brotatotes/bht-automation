@@ -9,7 +9,7 @@ This passage depicts a dramatic scene where the masters of a freed slave became 
 2. "The idea of force having been used." 
 3. "When two persons of a company are described as being apprehended, we do not need an express assertion to assure us that the rest were not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hope of their gains was gone" - This quote highlights the motivation behind the masters' actions. They were primarily concerned about their financial interests, and when they realized that their source of income was gone, they reacted aggressively.
 2. "A full and independent confirmation of the reality of this supernatural cure" - This quote emphasizes the undeniable evidence of the miraculous healing that Paul and Silas had performed. It strengthens the credibility of their actions and the power of their faith.
 3. "On any other supposition such conduct would be senseless" - This quote suggests that the masters' decision to bring Paul and Silas before the magistrates was a logical response given the circumstances. It implies that their actions were driven by a recognition of the extraordinary nature of the situation.
@@ -55,4 +55,4 @@ This passage depicts a dramatic scene where the masters of a freed slave became 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ False teachers are zealously courting the Galatians, but their motives are disho
 2. "It is only in order to get you away from the community as a separate clique, that you may court them."
 3. "ἐκκλείω must bear the meaning of exclusion from a larger and attraction to a smaller, viz. their own, party."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They—your flatterers: in contrast to Paul himself, who tells them the truth."
 2. "Zeal in proselytism was characteristic especially of the Jews, and so of Judaizers."
 3. "Neither the cause of their zealous courting of you, nor the manner, is what it ought to be."
@@ -55,4 +55,4 @@ False teachers are zealously courting the Galatians, but their motives are disho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

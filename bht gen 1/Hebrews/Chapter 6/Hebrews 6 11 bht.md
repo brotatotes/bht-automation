@@ -9,7 +9,7 @@ In the pursuit of strengthening our hope until the end, we are urged to show dil
 2. "The full assurance of hope is not a one-time event, but an ongoing process of diligently cultivating and strengthening our hope in God." 
 3. "The end refers to the coming of the Lord, which believers eagerly anticipate and should remain steadfast in their hope until its fulfillment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He cares alike for great and small, and overlooks none."
 2. "Every one of them," even those diligent in acts of LOVE, needed to be stimulated to persevere in the same diligence with a view to the full assurance of HOPE unto the end.
 3. They needed, besides love, patient perseverance, resting on hope and faith.
@@ -53,4 +53,4 @@ In the pursuit of strengthening our hope until the end, we are urged to show dil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

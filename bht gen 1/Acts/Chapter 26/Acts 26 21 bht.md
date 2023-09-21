@@ -4,7 +4,7 @@
 The verse being described is a passage that contains practical instructions for the readers. These teachings are considered significant and applicable to their lives. The verse highlights the opposition faced by the speaker from the Jews and the severity of the threat, indicating the intensity of the message being preached. It underscores the sacrifice and risks endured for the sake of faith. The description emphasizes the ongoing persecution and danger faced by the apostle as he boldly proclaims the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This musical and elevated strain, which carries the reader along with it, and doubtless did the hearers, bespeaks the lofty region of thought and feeling to which the apostle had risen while rehearsing his Master's communications to him from heaven."
 2. "The heavenly vision had been so deeply impressed upon his mind that he could not but obey it."
 3. "The apostle's obedience to the heavenly vision was not a mere outward compliance, but a heartfelt surrender to the will of God."
@@ -45,4 +45,4 @@ The verse being described is a passage that contains practical instructions for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

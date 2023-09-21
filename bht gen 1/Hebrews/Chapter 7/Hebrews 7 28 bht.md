@@ -9,7 +9,7 @@ The Bible verse being described is Hebrews 7:28. The commentators provide insigh
 2. "This oath is recorded in David, i.e. subsequently to the giving of the law, and therefore as antiquating it and setting it aside."
 3. "He, by that ἀσθένεια which He took on Him, went out through death into glory eternal, and an unrenewable priesthood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His one sacrifice and their oft repeated sacrifices, namely, because of His entire freedom from the sinful infirmity to which they are subject."
 2. "He needed not, as they, to offer FOR HIS OWN SIN."
 3. "Consecrated as a perfected priest by His perfected sacrifice, and consequent anointing and exaltation to the right hand of the Father."
@@ -59,4 +59,4 @@ The Bible verse being described is Hebrews 7:28. The commentators provide insigh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

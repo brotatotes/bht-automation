@@ -11,7 +11,7 @@ The verse being described emphasizes the contrast between the enduring nature of
 
 3. "To apply then these words to the Redeemer, is to use them in their sense of strictest propriety." - The commentary suggests that these verses can be applied to Jesus Christ, highlighting his role as the ultimate Deliverer and the source of true comfort.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perish" does not mean annihilation; just as it did not mean so in the case of "the world that being overflowed with water, perished" under Noah (2 Peter 3:6).
 2. The covenant of the possession of the earth was renewed with Noah and his seed on the renovated earth.
 3. The earth remains through all changes, just as a garment endures.
@@ -47,4 +47,4 @@ The verse being described emphasizes the contrast between the enduring nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

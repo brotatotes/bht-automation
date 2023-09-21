@@ -9,7 +9,7 @@ In this verse, an ill-willed high priest unknowingly prophesies the necessity of
 2. "The phrase 'τοῦ ἐνιαυτοῦ ἐκείνου' in John 18:13 is also relevant to interpreting this passage."
 3. "By referencing these other passages, the commentary suggests that there is a deeper significance to the events described in this verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Caiaphas, the high priest, was not aware of the prophetic significance of his words, but God used him to speak a profound truth. In his role as high priest, Caiaphas unknowingly prophesied that Jesus would die for the salvation of the people." 
 
 2. "The concept of substitutionary atonement is highlighted in this verse. Jesus, as the perfect and innocent sacrifice, would take upon himself the sins of the people and offer himself as a ransom for their salvation."
@@ -49,4 +49,4 @@ In this verse, an ill-willed high priest unknowingly prophesies the necessity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

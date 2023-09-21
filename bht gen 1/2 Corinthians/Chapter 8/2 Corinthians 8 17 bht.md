@@ -9,7 +9,7 @@ In this verse, the individual referred to is described as willingly and eagerly 
 2. "Went forth of his own accord to them."
 3. "The past tense of the epistolary style, indicating things which will have passed before the letter is received."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being more forward—more earnest than to need such exhortation."
 2. "He is going forth; but the ancients put the past tense in letter writing."
 3. "He shows that he has anticipated my desires, and already, 'of his own accord,' has desired to go."
@@ -52,4 +52,4 @@ In this verse, the individual referred to is described as willingly and eagerly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

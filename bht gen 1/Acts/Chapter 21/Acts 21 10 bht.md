@@ -8,7 +8,7 @@ A prophet named Agabus came down from Judea to Caesarea, confirming the impendin
 1. "This Agabus in all probability is identical with the Agabus of ch. Acts 11:28."
 2. "That there is no reference to that former mention of him, might be occasioned by different sources of information having furnished the two narratives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Finding himself in good time for Pentecost at Jerusalem, he would feel it a refreshing thing to his spirit to hold Christian communion for a few days with such a family."
 2. "The news of Paul's arrival having spread."
 3. "No doubt the same as in Acts 11:28."
@@ -51,4 +51,4 @@ A prophet named Agabus came down from Judea to Caesarea, confirming the impendin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

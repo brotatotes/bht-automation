@@ -9,7 +9,7 @@ In this verse, we find a vivid description of a visionary experience where heave
 2. "These four ἀρχαί (whether ends of ropes attached to the corners, or those corners themselves) are not without meaning, directed as they are to the four parts of heaven, and intimating that men from the North, South, East, and West, now were accounted clean before God, and were called to a share in his kingdom: see Luke 13:29."
 3. "The four ἀρχαί are the four gospels, because the word ἀρχή occurs somewhere near the beginning of each, &c., &c. Who can wonder, after this, at the distrust of all Scripture symbolism by intelligent, but unspiritual minds?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The housetop was a place of solitude and quiet, away from the hustle and bustle of daily life. It was a place where one could find peace and reflection." 
 
 2. "The sixth hour, or noon, was a time of intense heat in the Middle East. It was a time when people sought shade and respite from the scorching sun." 
@@ -57,4 +57,4 @@ In this verse, we find a vivid description of a visionary experience where heave
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

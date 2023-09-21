@@ -9,7 +9,7 @@ In this verse, the severity and extent of a great famine throughout all the land
 2. "This period is one often recurring in Jewish record and in prophecy: see Daniel 7:25; Daniel 12:7; Revelation 11:2-3; Revelation 12:6; Revelation 12:14; Revelation 13:5."
 3. "The period of three years and a half, = 42 months or 1260 days, had an ominous sound in the ears of an Israelite, being the time of this famine, and of the duration of the desolation of the temple under Antiochus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two great prophets who stand at the commencement of prophetic antiquity, and whose miracles strikingly prefigured those of our Lord."
 2. "He intended like them to feed the poor and cleanse the lepers, He points to these miracles of mercy."
 3. "Not to the fire from heaven and the bears that tore the mockers."
@@ -57,4 +57,4 @@ In this verse, the severity and extent of a great famine throughout all the land
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

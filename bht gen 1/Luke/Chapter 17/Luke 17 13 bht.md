@@ -4,7 +4,7 @@
 In this Bible verse, a group of outcasts, united by their suffering, gathers to approach Jesus, whom they recognize as a great Master and teacher. Their desperation and faith move them to cry out, seeking mercy and cleansing from their affliction. The phrase "lifted up" hints at Jesus' exalted position, emphasizing his authority and divine nature, which would eventually lead to his crucifixion as a sacrifice for humanity's sins. This verse captures the union of faith, vulnerability, and hopeful pleading from this marginalized group seeking relief from their misery.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their common misery drawing these poor outcasts together."
 2. "Making them forget the fierce national antipathy of Jew and Samaritan."
 3. "How quick a teacher is felt misery, even though the teaching may be soon forgotten!"
@@ -32,4 +32,4 @@ In this Bible verse, a group of outcasts, united by their suffering, gathers to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

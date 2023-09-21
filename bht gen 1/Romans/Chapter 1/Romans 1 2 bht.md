@@ -9,7 +9,7 @@ The Bible verse being described is a reminder that the gospel preached by Paul i
 2. "The expression used is defined enough by the adjective, to be well understood without the article; so πνεῦμα ἁγιως. below, πν. ἅγιον passim."
 3. "But one set of writings being holy, it was not necessary to designate them more particularly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In embracing Christ they had not cast off, but only the more profoundly yielded themselves to, Moses and the prophets."
 2. "They are reminded that in embracing Christ they had not cast off, but only the more profoundly yielded themselves to, Moses and the prophets."
 3. "They had not cast off, but only the more profoundly yielded themselves to, Moses and the prophets."
@@ -55,4 +55,4 @@ The Bible verse being described is a reminder that the gospel preached by Paul i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

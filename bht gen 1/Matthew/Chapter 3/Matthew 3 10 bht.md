@@ -9,7 +9,7 @@ The Bible verse being described is a warning of impending judgment and the urgen
 2. "The presents,  κεῖται ,   ἐκκόπτεται , and  βάλλεται , imply the law, or habit, which now and henceforward, in the kingdom of heaven, prevails."
 3. "'from this time it is so.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Language so personal and individual as this can scarcely be understood of any national judgment like the approaching destruction of Jerusalem, with the breaking up of the Jewish polity and the extrusion of the chosen people from their peculiar privileges which followed it; though this would serve as the dark shadow, cast before, of a more terrible retribution to come."
 2. "The 'fire,' which in another verse is called 'unquenchable,' can be no other than that future 'torment' of the impenitent whose 'smoke ascendeth up for ever and ever,' and which by the Judge Himself is styled 'everlasting punishment.'"
 3. "What a strength, too, of just indignation is in that word 'cast' or 'flung into the fire!'"
@@ -55,4 +55,4 @@ The Bible verse being described is a warning of impending judgment and the urgen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a supernatural and symbolic transaction, Jesus' death opened the tombs, procl
 2) "What but the opening of the tombs the symbolic declaration 'mors janua vitæ,' that the death which had happened had broken the bands of death for ever?"
 3) "The graves were opened at the moment of the death of the Lord; but inasmuch as He is the first-fruits from the dead the Resurrection and the Life the bodies of the saints in them did not arise till He rose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the opening of the graves at the moment of the Redeemer's expiring, there was a glorious symbolical proclamation that the death which had just taken place had 'swallowed up death in victory'." 
 2. "It was fitting that 'the Prince of Life . . . should be the First that should rise from the dead'." 
 3. "Thus, while it was not deemed fitting that He Himself should appear again in Jerusalem, save to the disciples, provision was made that the fact of His resurrection should be left in no doubt."
@@ -43,4 +43,4 @@ In a supernatural and symbolic transaction, Jesus' death opened the tombs, procl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

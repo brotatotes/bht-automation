@@ -11,7 +11,7 @@ In this verse, the commentators highlight the intentional and purposeful nature 
 
 3. "καθὼς ἠθέλ. answers to καθὼς βούλεται, 1 Corinthians 12:11." - This quote points out the connection between the will of God and the functioning of the body, suggesting that God's will determines the distribution of gifts and abilities among believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now" indicates a shift in focus to the present reality, emphasizing the importance of the following statement in the context of the current situation.
 2. "Every one" highlights the individual responsibility and accountability of each person, emphasizing that the following message applies to each person individually.
 3. "Severally" emphasizes the uniqueness and distinctiveness of each individual, suggesting that the following message should be applied personally and not just collectively.
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the intentional and purposeful nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

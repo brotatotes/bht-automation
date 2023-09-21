@@ -4,7 +4,7 @@
 Solomon's portico, a magnificent structure on the eastern side of the temple, provided shelter and gathering space for the people. It stood as a symbol of the enduring legacy of Solomon's temple, its grandeur mirroring the power and glory of Israel. With its construction over a filled-up valley, it exemplified the transformative power of God. The portico's continued existence after Christ's death, though not the original built by Solomon, served as a tangible reminder of Israel's history and the profound connection between God and His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus walked... in Solomon's porch—for shelter." 
 2. "This portico was on the east side of the temple."
 3. "JOSEPHUS says it was part of the original structure of Solomon."
@@ -54,4 +54,4 @@ These quotes provide historical context and clarify the significance of Solomon'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

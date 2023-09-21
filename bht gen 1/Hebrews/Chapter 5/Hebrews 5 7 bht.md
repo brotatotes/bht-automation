@@ -9,7 +9,7 @@ In this verse, we see the sufferings and obedience of Christ in his role as our 
 2. "He was heard on account of His pious resignation."
 3. "Christ was a Son: as a Son, He was ever obedient, and ever in union with his Father’s will; but ἡ ὑπακοή, His special obedience, that course of submission by which He became perfected as our High Priest, was gone through in Time, and matter of acquirement for Him, and practice, by suffering."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His crying and tears were part of the experimental lesson of obedience which He submitted to learn from the Father."
 2. "The 'tears' are an additional fact here communicated to us by the inspired apostle, not recorded in the Gospels, though implied."
 3. "His holy filial love must rightly have shrunk from this strange and bitterest of trials without the imputation of impatience."
@@ -55,4 +55,4 @@ In this verse, we see the sufferings and obedience of Christ in his role as our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

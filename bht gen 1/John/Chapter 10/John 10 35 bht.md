@@ -9,7 +9,7 @@ From the various commentators, we can gather that the verse under discussion is 
 2. "The expression, καὶ οὐ δύν . λυθ . ἡ γρ . implies, ‘and if you cannot explain this expression away, if it cannot mean nothing, for it rests on the testimony of God’s word.’"
 3. "See below on John 10:36."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole force of this reasoning...lies in what is said of the two parties compared."
 2. "The contrast is between those 'to whom the word of God came'...and 'Him whom the Father sanctified and sent into the world.'"
 3. "Our Lord considers all this as just saying of Himself, 'I am the Son of God'—one nature with Him, yet mysteriously of Him."
@@ -45,4 +45,4 @@ From the various commentators, we can gather that the verse under discussion is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

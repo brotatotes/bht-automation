@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the astonishment expressed by th
 2. "Olshausen’s view of a deeper meaning in the words should be borne in mind."
 3. "τὸ κυρίως ζῆν παρὰ μόνῳ κυρίῳ τυγχάνει, Orig in Joan. tom. ii. 11, vol. iv. p. 71."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The surprise expressed in it implies an incongruity in His being there at all." 
 2. "It was impossible He should be holden of it." 
 3. "Not 'the risen,' but 'the Living One.'"
@@ -35,4 +35,4 @@ In this Bible verse, the commentators highlight the astonishment expressed by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

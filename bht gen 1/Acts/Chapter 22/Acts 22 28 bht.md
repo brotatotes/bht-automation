@@ -9,7 +9,7 @@ This verse unveils the astonishment of the chief captain upon hearing that Paul,
 2. "ἐγὼ δὲ καὶ γεγ  .]" - Paul asserts that he was not only a Roman citizen by privilege but also by birth, suggesting that his citizenship was inherited.
 3. "Certainly not because he was of Tarsus" - Paul's Roman citizenship cannot be attributed to his birthplace, as Tarsus did not have the privilege of granting citizenship.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Roman citizenship was bought and sold in the reign of Claudius, we know, at a high price: at a subsequent date, for next to nothing."
 2. "To put in a false claim to this privilege was a capital crime."
 3. "I was free born—born to it, by purchase, or in reward of services, on the part of his father or some ancestor."
@@ -55,4 +55,4 @@ This verse unveils the astonishment of the chief captain upon hearing that Paul,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

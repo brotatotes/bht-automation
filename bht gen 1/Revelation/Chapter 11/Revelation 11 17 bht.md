@@ -4,7 +4,7 @@
 This verse is a song of praise to the Lord Jesus Christ, who reigns with great power and authority. He is Lord of all, the Almighty God who has taken His great power and assumed His eternal rule. His power has always belonged to Him, as the mighty God who is able to save and bear the governance of His people. Now, the time has come for His enemies to be destroyed, and His power to be fully manifested.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thanks—for the answer to our prayers"
 2. "In destroying them which destroy the earth"
 3. "The consummation having actually come, they do not address Him as they did when it was still future, 'Thou that art to come'"
@@ -43,4 +43,4 @@ This verse is a song of praise to the Lord Jesus Christ, who reigns with great p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

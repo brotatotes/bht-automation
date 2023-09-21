@@ -9,7 +9,7 @@ The verse being described highlights the contrast between the works of the law a
 2. "The ἐπί does not imply addition, but as so often with prepositions of motion in composition, the direction of the supply."
 3. "δυνάμεις are the wonders wrought by divine Power in you, viz. at your conversion and since."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who supplied and supplies to you the Spirit still, to the present time."
 2. "These miracles do not prove grace to be in the heart."
 3. "He speaks of these miracles as a matter of unquestioned notoriety among those addressed; an undesigned proof of their genuineness."
@@ -55,4 +55,4 @@ The verse being described highlights the contrast between the works of the law a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

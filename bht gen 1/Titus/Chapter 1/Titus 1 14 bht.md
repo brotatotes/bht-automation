@@ -9,7 +9,7 @@ The verse warns against being ensnared by false teachings, myths, and human trad
 2. "the seeds of the gnostic mythologies, already scattered about and taking root"
 3. "commandments on the subject of abstinence from meats and other things appointed by God for man’s use"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jewish fables...formed the transition stage to subsequent Gnosticism." 
 2. "The error was but profitless, and not tending to godliness, rather than openly opposed to the faith."
 3. "Commandments of men...as to ascetic abstinence."
@@ -53,4 +53,4 @@ These quotes highlight the importance of not being swayed by false teachings and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

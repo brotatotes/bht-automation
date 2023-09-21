@@ -9,7 +9,7 @@ The verse being described highlights the importance of sincere and righteous pra
 2. "The general sense is: if you really prayed aright, this feeling of continual craving after more worldly things would not exist: all your proper wants would be supplied."
 3. "Ye would ask, and ask aright, and consequently would obtain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not enough to ask for good things, but we must ask with a good spirit and intention."
 2. "If ye prayed aright, all your proper wants would be supplied; the improper cravings which produce 'wars and fightings' would then cease."
 3. "Even believers' prayers are often best answered when their desires are most opposed."
@@ -59,4 +59,4 @@ These quotes collectively shed light on the misguided and self-centered nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

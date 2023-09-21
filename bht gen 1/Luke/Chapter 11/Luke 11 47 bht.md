@@ -11,7 +11,7 @@ The verse being described reveals a strong indictment against the scribes and Ph
 
 3. "Jesus was not only condemning the hypocrisy of the scribes and Pharisees, but also warning them of the consequences of their actions. Their rejection of the prophets and their impending rejection of the Messiah would bring about their own destruction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Out of pretended respect and honor, they repaired and beautified the sepulchres of the prophets."
 2. "With whining hypocrisy, they said, 'If we had been in the days of our fathers, we should not have been partakers with them in the blood of the prophets.'"
 3. "Convicting themselves daily of as exact a resemblance in spirit and character to the very classes over whose deeds they pretended to mourn, as child to parent."
@@ -34,4 +34,4 @@ The verse being described reveals a strong indictment against the scribes and Ph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

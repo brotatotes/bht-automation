@@ -11,7 +11,7 @@ In this verse, the sacrifices in the Old Testament are depicted as a constant re
 
 Note: The commentary is discussing how the sacrifices in the Old Testament, specifically on the Day of Atonement, were not able to completely cleanse the conscience from sin. Instead, they served as a reminder of sins year after year.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expiatory sacrifices of former years were not felt by men's consciences to have fully atoned for former sins in fact, the expiation and remission were only legal and typical."
 2. "The Gospel remission, on the contrary, is so complete, that sins are 'remembered no more' by God."
 3. "The believer, once for all bathed, needs only to 'wash' his hands and 'feet' of soils, according as he daily contracts them, in Christ's blood."
@@ -59,4 +59,4 @@ Note: The commentary is discussing how the sacrifices in the Old Testament, spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

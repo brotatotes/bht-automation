@@ -9,7 +9,7 @@ In the midst of a treacherous journey, Paul's influence over his fellow passenge
 2. "The soldiers and their centurion, the sailors, and passengers of various nations and dispositions."
 3. "Reflecting on who were included in these πάντες."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such courage in desperate circumstances as Paul here showed is wonderfully infectious."
 2. "Then were they all of good cheer."
 3. "They also took some meat."
@@ -40,4 +40,4 @@ In the midst of a treacherous journey, Paul's influence over his fellow passenge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

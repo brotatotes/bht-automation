@@ -4,7 +4,7 @@
 The renewed soul is described as a "new man" that is in the continuous process of being renewed and transformed. This renewal involves both a deepening knowledge of God and a conscious decision to clothe oneself with the character of Christ. It is not simply about acquiring information, but rather about cultivating a personal and intimate relationship with God in order to align one's thoughts and actions with His truth. This pursuit of knowledge leads to spiritual growth and a greater ability to live according to God's purposes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The recently-put-on nature"; that lately received at regeneration.
 2. "Its development into a perfectly renewed nature is continually progressing to completion."
 3. "Perfect knowledge of God excludes all sin."
@@ -56,4 +56,4 @@ These quotes highlight the idea that the renewed soul is given knowledge, specif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

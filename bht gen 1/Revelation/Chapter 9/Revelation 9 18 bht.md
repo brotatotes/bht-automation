@@ -4,7 +4,7 @@
 This verse describes the devastating impact of plagues, which are represented by fire, smoke, and brimstone. The plagues bring widespread destruction, affecting a significant portion of humanity throughout the global scale. The impartiality of the judgment is emphasized, as these plagues do not discriminate based on nationality or ethnicity. Additionally, the verse alludes to the transformative power of Jesus' healing and deliverance, highlighting His authority over sickness and suffering. Ultimately, this verse depicts a scene of destruction, judgment, and the hope of redemption through Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By these three" implies the direction from which the slaughter came, not the direct instrumentality.
 2. The addition of "plagues" after "three" is supported by A, B, C, and Aleph manuscripts.
 3. The phrase "by the fire" can be better translated as "owing to the fire" or "out of the fire."
@@ -44,4 +44,4 @@ This verse describes the devastating impact of plagues, which are represented by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

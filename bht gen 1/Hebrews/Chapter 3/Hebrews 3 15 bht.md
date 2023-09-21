@@ -9,7 +9,7 @@ The verse being described is a call for believers to persevere in their faith an
 2. "The purpose of the whole is to show, as is summed up in Hebrews 3:12, that it is the καρδία πονηρὰ ἀπιστίας which they have above all things to avoid." 
 3. "The faithful exceptions are overlooked, and the whole of Israel is included in the παραπικρασμός, to make the exhortation fall more forcibly on the readers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It entirely depends on yourselves that the invitation of the ninety-fifth Psalm be not a mere invitation, but also an actual enjoyment." 
 2. "Since (that is, 'for') it is said," &c., regarding Hebrews 3:15 as a proof that we must "hold . . . confidence . . . unto the end," in order to be "partakers of Christ." 
 3. "The invitation of the ninety-fifth Psalm be not a mere invitation, but also an actual enjoyment."
@@ -52,4 +52,4 @@ The verse being described is a call for believers to persevere in their faith an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentator emphasizes that the prophetic work must continue, not only regarding future events but also the fulfillment of God's ancient prophecies. The commentator notes that prophecy can be communicated through both words and actions, as seen in John's measurement of the temple. Additionally, the verse alludes to significant kingdoms that arose, changes in power, and the reign over Jerusalem, highlighting the historical and geopolitical context that shapes the prophetic message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The obligation lies upon thee, as the servant of God, to prophesy at His command."
 2. "The eating of the book, as in Ezekiel's case, marks John's inauguration to his prophetical office."
 3. "Here to a fresh stage in it, namely, the revealing of the things which befall the holy city and the Church of God—the subject of the rest of the book."
@@ -40,4 +40,4 @@ In this verse, the commentator emphasizes that the prophetic work must continue,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

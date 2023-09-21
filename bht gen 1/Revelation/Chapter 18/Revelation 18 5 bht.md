@@ -4,7 +4,7 @@
 The verse being described paints a vivid picture of the weight and extent of the sins committed. The sins are described as a great heap that have deeply affected and clung to the individual. They have permeated their life, leaving a lasting impact and burden to bear. The sins have reached even unto heaven, attracting the attention of God and creating a connection that is compared to a mass reaching up to the divine realm. This highlights the persistence and severity of the transgressions, signifying that God's judgment is imminent and inevitable.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her sins are described as a great heap, emphasizing the magnitude and weight of her transgressions."
 2. "The word 'reached' in Greek implies a close and intimate contact, suggesting that her sins have deeply affected and clung to her."
 3. "This verse portrays the extent to which her sins have permeated her life, leaving a lasting impact and a heavy burden to bear."
@@ -45,4 +45,4 @@ The verse being described paints a vivid picture of the weight and extent of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

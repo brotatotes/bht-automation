@@ -4,7 +4,7 @@
 In this verse, Jesus demonstrates his compassion and mercy by only temporarily disabling his adversaries to display his power, without causing them any lasting harm. Although the soldiers and officers recognize Jesus, their persistence in pursuing him reveals their unyielding wickedness and hardened hearts. This highlights the profound truth that even extraordinary miracles alone cannot change the hearts of hardened sinners without the work of powerful and efficacious grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Giving them a door of escape from the guilt of a deed which now they were able in some measure to understand."
 2. "The stunning effect of His first answer wearing off, they think only of the necessity of executing their orders."
 3. "They think only of the necessity of executing their orders."
@@ -35,4 +35,4 @@ In this verse, Jesus demonstrates his compassion and mercy by only temporarily d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described conveys the eternal relevance and authority of Scriptures and emphasizes the meticulous attention to detail that God has given to His Word. It warns against wealth becoming a stumbling block to true discipleship and highlights the danger of neglecting the poor. The verse also reminds us of the irreversible nature of our choices, the need to share the message of salvation, and the fulfillment of the Law through the life, death, and resurrection of Jesus Christ. Ultimately, it calls us to humility, dependence on God, and a recognition of our need for His grace and salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The saying that it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God is a vivid and powerful image that highlights the difficulty of wealth becoming a stumbling block to true discipleship." 
 
 2. "Jesus is not saying that it is impossible for a rich person to be saved, but rather emphasizing the danger of wealth becoming a hindrance to spiritual growth and surrender to God."
@@ -42,4 +42,4 @@ The verse being described conveys the eternal relevance and authority of Scriptu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the eternal and divine nature of Christ is emphasized as the preexistent creator of all things, existing before time itself. Not only is Christ the creator, but he also upholds and sustains all things through his infinite power and wisdom. He is the central figure, the living center and controlling force that holds the entire universe together, ensuring its stability and harmonious existence. From the majestic expanse of the heavens to the intricate details of nature and existence, Christ's authority and preeminence are showcased, reminding us of his infinite power and divine nature.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And He Himself (the great HE) is (implying divine essential being) before all things," in time, as well as in dignity. Since He is before all things, He is before even time, that is, from eternity."
 2. "by him—Greek, 'IN Him' (as the conditional element of existence)"
 3. "The Son of God is the Conserver, as well as the Creator of all things"
@@ -52,4 +52,4 @@ In this verse, the eternal and divine nature of Christ is emphasized as the pree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

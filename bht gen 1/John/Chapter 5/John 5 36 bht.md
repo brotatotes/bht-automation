@@ -9,7 +9,7 @@ The verse being described is a declaration made by Jesus, stating that the witne
 2. "The whole of His life and course of action, full as it was of holiness, in which, and as forming harmonious parts of which, His miracles were testimonies of His divine mission."
 3. "His greatest work was the awakening of faith, to which the miracles were but as means to an end."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The witness which I have is greater." 
 2. "The works bear witness of me, not simply as miracles nor even as a miracle of mercy."
 3. "These miracles, as He did them, with a will and a power, a majesty and a grace manifestly His own."
@@ -50,4 +50,4 @@ The verse being described is a declaration made by Jesus, stating that the witne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

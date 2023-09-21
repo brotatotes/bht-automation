@@ -9,7 +9,7 @@ In this Bible verse, we see the custom in the East where people would loudly wai
 2. "an affecting account in Lamartine’s, Pilgrimage to the Holy Land" - The commentator references a book called "Pilgrimage to the Holy Land" by Lamartine, which provides a moving description of this funeral custom. (Quote 2)
 3. "English Translation, vol. ii. pp. 76-78" - The specific pages in the English translation of Lamartine's book where this account can be found. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus casually were provided witnesses of the glorious miracle that followed, not prejudiced, certainly, in favor of Him who wrought it."
 2. "According to Jewish practice, [they came] to weep there for some days after burial."
 3. "More impassioned than her sister, though her words were fewer."
@@ -48,4 +48,4 @@ In this Bible verse, we see the custom in the East where people would loudly wai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

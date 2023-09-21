@@ -9,7 +9,7 @@ The description of the Bible verse reflects on the comparison made between the p
 2. "The present participle, in either case, is somewhat startling. The present would seem the more natural. But if in the case where it is taken with πυρί it is rendered 'kindled,' there can be no reason why it should not in the other be rendered 'lit up.'"
 3. "The Writer avoids the φωνή there used, having so soon to use φωνὴ ῥημάτων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that we are not under the law, but under a higher, and that the last dispensation, the Gospel, with its glorious privileges, is the reason why especially the Hebrew Christians should 'look diligently.'"
 2. "In your coming near unto God, it has not been to the mount."
 3. "The Hebrews drew near to the material Mount Sinai with material bodies; we, to the spiritual mount in the spirit."
@@ -52,4 +52,4 @@ The description of the Bible verse reflects on the comparison made between the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

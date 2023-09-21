@@ -9,7 +9,7 @@ The Bible verse being described is about the revelation of the mystery of the Go
 2. "The richness of this glory is unfolded and made known by God's Spirit as the Gospel is received among the Gentiles, as the most wonderful display of it."
 3. "The mystery contains and reveals the glory as a portion of its contents, the glory of which the Gentiles are to become partakers by the revelation of this mystery."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He resolves all into God's good pleasure and will, that man should not glory save in God's grace."
 2. "He accumulates phrase on phrase to enhance the greatness of the blessing in Christ bestowed by God on the Gentiles."
 3. "The lower was the degradation of you Gentiles, the higher is the richness of the glory to which the mystery revealed now raises you."
@@ -48,4 +48,4 @@ The Bible verse being described is about the revelation of the mystery of the Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

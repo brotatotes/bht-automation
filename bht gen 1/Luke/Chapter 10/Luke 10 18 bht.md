@@ -9,7 +9,7 @@ In this verse, Jesus speaks about witnessing the fall of Satan with the swift an
 2. "The ἐθεώρ . τ . σ . refers to the original fall of Satan, when he lost his place as an angel of light, not keeping his first estate; which fall however had been proceeding ever since step by step, and shall do so, till all things be put under the feet of Jesus who was made lower than the angels."
 3. "Not the suddenness only of the fall, but the brightness of the fallen Angel is thus set forth. The description is not figurative, but literal; i.e. as far as divine words can be said to be literal, being accommodated to our sensuous conceptions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I was beholding Satan as lightning falling from heaven" - The author emphasizes the significance of the imperfect tense in the original text, highlighting the continuous action of Jesus observing Satan's fall. This conveys the grandeur and suddenness of the event, likening it to the darting of lightning from heaven to earth.
 
 2. "By that law of association which connects a part with the whole, those feeble triumphs of the Seventy seem to have compressed the ultimate result of His mission into a moment and quickened it into the rapidity of lightning!" - The commentary suggests that the small victories of the Seventy disciples in casting out demons brought the entire scope of Jesus' mission into focus, encapsulating it in a single moment of triumph.
@@ -59,4 +59,4 @@ These quotes highlight the depth of Jesus' knowledge and understanding of the sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

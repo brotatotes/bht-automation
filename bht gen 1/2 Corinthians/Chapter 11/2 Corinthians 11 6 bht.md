@@ -9,7 +9,7 @@ The verse being described here conveys the message that although the speaker may
 2. "The Apostle disclaims mere rhetorical aptitude and power." 
 3. "But in every matter we made things manifest, the things of the gospel, thereby showing our knowledge."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His words were not without weight, though his 'speech' was deficient in oratorical artifice."
 2. "We have made things (Gospel truths) manifest, thus showing our 'knowledge.'"
 3. "He had not by reserve kept back his 'knowledge' in divine mysteries from them."
@@ -61,4 +61,4 @@ These quotes collectively shed light on Paul's response to the criticism he face
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we find a description of the sacred items housed in the Holy of H
 2. "The Author treats the Holy of holies, irrespective of the veil, as symbolical of the heavenly sanctuary, and had also a motive to include in it the altar of incense, whose offerings of incense are the symbol of the prayers of the saints."
 3. "The solution to be gathered from this would be, that the altar of incense, being appointed by the Mosaic ordinance to stand in immediate contiguity to the veil separating the Holy of holies, and being destined in its use especially for the service of the Holy of holies, and being described in more than one place of Scripture as connected with the sanctuary, is taken by the Writer as appertaining to the Holy of holies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The golden censer was only used on the day of atonement...and is therefore associated with the holiest place, as being taken into it on that anniversary by the high priest."
 2. "The incense answers to the prayers of the saints; and the altar though outside the holiest place, is connected with it."
 3. "The rending of the veil by Christ has brought the antitypes to the altar, candlestick, and showbread of the anterior holy place into the holiest place, heaven."
@@ -43,4 +43,4 @@ In this verse, we find a description of the sacred items housed in the Holy of H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

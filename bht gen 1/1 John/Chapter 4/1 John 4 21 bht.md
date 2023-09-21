@@ -9,7 +9,7 @@ The verse being described emphasizes the commandment to love both God and others
 2. "This commandment we have from Him, that he who loves God, love also his brother." - The commandment to love God and love our neighbor is a direct command from God Himself. (Commentary)
 3. "Thou shalt love the Lord thy God with all thy heart, ... and thy neighbor as thyself." - The great summary of the law, emphasizing the importance of loving God and loving our neighbor. (Commentary)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who loves, will do what the object of his love wishes." 
 2. "He who loveth God—he who wishes to be regarded by God as loving Him." 
 3. "Besides the argument from the common feeling of men, he here adds a stronger one from God's express commandment."
@@ -57,4 +57,4 @@ The verse being described emphasizes the commandment to love both God and others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

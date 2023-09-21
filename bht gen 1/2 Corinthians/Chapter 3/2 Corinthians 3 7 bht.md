@@ -9,7 +9,7 @@ The verse under discussion describes the contrast between the Mosaic law and the
 2. "The face of Moses, on account of the glory of his face, which was transitory."
 3. "The Spirit is the principle of life, whereas the Law only led to death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ministration of death, written and engraven in stones, alludes to the literal precepts of the law as only bringing us the knowledge of sin and 'death,' in contrast to 'the Spirit' in the Gospel bringing us 'life.'"
 2. "The opposition between 'the letters' and 'the Spirit' confirms this."
 3. "The 'glory of Moses' countenance' on Sinai passed away when the occasion was over: a type of the transitory character of the dispensation which he represented, as contrasted with the permanency of the Christian dispensation."
@@ -57,4 +57,4 @@ The verse under discussion describes the contrast between the Mosaic law and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

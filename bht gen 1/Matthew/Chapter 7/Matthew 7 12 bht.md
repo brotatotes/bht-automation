@@ -11,7 +11,7 @@ The verse described here is an essential ethical principle known as the "Golden 
 
 3. "We are to think what we should like done to us, and then apply that rule to our dealings with others: viz., by doing to them what we have reason to suppose they would like done to them." - Important distinction often overlooked in the interpretation of this golden maxim.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the substance of all relative duty; all Scripture in a nutshell." 
 2. "The righteousness of the kingdom...would be seen to involve self-sacrifice at every step."
 3. "Multitudes would never face this. But it must be faced, else the consequences will be fatal."
@@ -52,4 +52,4 @@ The verse described here is an essential ethical principle known as the "Golden 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

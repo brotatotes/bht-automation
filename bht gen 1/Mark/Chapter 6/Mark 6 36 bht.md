@@ -4,7 +4,7 @@
 In this Bible verse, Jesus tests Philip's faith by asking him where to buy bread for the crowd, even though Jesus already knew what He would do. The exact conversation details between the disciples are not crucial to the overall message. The disciples suggest sending the crowd away to buy food from the surrounding areas, showing their lack of understanding in Jesus' ability to provide. Their focus on physical needs rather than spiritual hunger reveals their limited faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus said to Philip, Whence shall we buy bread, that these may eat? (And this He said to prove him: for He Himself knew what He would do)." - This quote highlights Jesus' intention to test Philip's faith and trust in Him, even though Jesus already knew what He would do.
 
 2. "The subject may have been introduced by some remark of the disciples; but the precise order and form of what was said by each can hardly be gathered with precision, nor is it of any importance." - This quote emphasizes that the exact details of the disciples' conversation are not crucial to understanding the message or lesson being conveyed.
@@ -27,4 +27,4 @@ In this Bible verse, Jesus tests Philip's faith by asking him where to buy bread
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

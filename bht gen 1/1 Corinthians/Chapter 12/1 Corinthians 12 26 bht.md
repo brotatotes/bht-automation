@@ -11,7 +11,7 @@ In this Bible verse, the commentators emphasize the interconnectedness and unity
 
 These quotes highlight the interconnectedness and unity of the body, emphasizing how the well-being of one part affects the entire body. They also suggest that physical refreshment or nourishment can be seen as a form of glorification and benefit to the body.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When a thorn enters the heel, the whole body feels it, and is concerned: the back bends, the belly and thighs contract themselves, the hands come forward and draw out the thorn, the head stoops, and the eyes regard the affected member with intense gaze" - CHRYSOSTOM.
 2. "When the head is crowned, the whole man feels honored, the mouth expresses, and the eyes look, gladness" - CHRYSOSTOM.
 3. "Rejoice with it" - CHRYSOSTOM.
@@ -45,4 +45,4 @@ These quotes highlight the interconnectedness and unity of the body, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

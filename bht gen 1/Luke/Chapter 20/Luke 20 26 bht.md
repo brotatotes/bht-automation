@@ -4,7 +4,7 @@
 In this passage, we see the religious leaders' fear and hesitation in openly challenging Jesus before the people. They sought to maintain their reputation and authority, avoiding direct confrontation. It is clear that their opposition to Jesus was driven by self-interest and a desire to protect their power. This incident foreshadows a later encounter when they would confront Jesus in a more controlled setting, highlighting their inability to effectively challenge his wisdom and authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "sent forth—after consulting (Matthew 22:15) on the best plan." 
 2. "spies—"of the Pharisees and Herodians" (Matthew 22:15- :)."
 3. "See Mark 3:6."
@@ -40,4 +40,4 @@ In this passage, we see the religious leaders' fear and hesitation in openly cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

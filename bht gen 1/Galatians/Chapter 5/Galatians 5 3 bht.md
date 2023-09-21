@@ -9,7 +9,7 @@ By undergoing circumcision, a person enters into a binding agreement to keep the
 2. "Once more"
 3. "To every man who receives circumcision, 'submits to be circumcised'...the circumcised man became a 'proselyte of righteousness,' and bound to keep the whole law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "None can be justified by the law, unless he keep it wholly."
 2. "The whole law - impossible for man to keep even in part, much less wholly."
 3. "Such a one became a 'proselyte of righteousness'."
@@ -57,4 +57,4 @@ By undergoing circumcision, a person enters into a binding agreement to keep the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

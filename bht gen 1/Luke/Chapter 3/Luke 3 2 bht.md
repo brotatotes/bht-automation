@@ -9,7 +9,7 @@ In the tumultuous time of the Bible, when the power and influence of the high pr
 2. "He had influence enough to procure the actual high-priesthood for five of his sons, after his own deposition." 
 3. "A substitute, or deputy to the high-priest, appears to have been usual, and Annas would thus be able to evade the Roman appointment and keep the authority."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The former, though deposed, retained much of his influence, and, probably, as sagan or deputy, exercised much of the power of the high priesthood along with Caiaphas."
 2. "Both Zadok and Abiathar acted as high priests in David's time, and it seems to have become the fixed practice to have two."
 3. "Such formulas, of course, are never used when speaking of Jesus, because the divine nature manifested itself in Him not at certain isolated moments of His life. He was the one everlasting manifestation of the Godhead—THE WORD."
@@ -55,4 +55,4 @@ In the tumultuous time of the Bible, when the power and influence of the high pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

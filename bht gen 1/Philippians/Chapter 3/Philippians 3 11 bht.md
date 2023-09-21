@@ -4,7 +4,7 @@
 The commentators emphasize the importance of sincere effort and vigilance in one's faith journey, highlighting the assurance and hope believers have in being raised to eternal life. They comment on the humble language used to indicate not doubt, but humility, and the earnest desire to attain resurrection from the dead. The verse reminds us of the physical resurrection of the body and the transformation of the soul to eternal glory, reaffirming God's victory over sin and death and His promise of everlasting life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The earnestness of the struggle of faith" emphasizes the importance of a sincere and dedicated effort in one's faith journey (1 Corinthians 9:26).
 2. "The urgent need of jealous self-watchfulness" highlights the need for constant vigilance and self-examination in order to stay on the right path (1 Corinthians 9:27).
 3. "The power of Christ's resurrection ensures the believer's attainment of the 'resurrection from the (rest of the) dead'" emphasizes the assurance and hope that believers have in being raised to eternal life (Romans 1:4).
@@ -43,4 +43,4 @@ The commentators emphasize the importance of sincere effort and vigilance in one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

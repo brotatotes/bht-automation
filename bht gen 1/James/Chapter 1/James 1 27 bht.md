@@ -9,7 +9,7 @@ Pure and undefiled religion is marked by genuine sincerity and freedom from hypo
 2. "To visit orphans and widows in their affliction." 
 3. "Preserve himself unspotted from the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pure" expresses the positive, "undefiled" the negative side of religious service; just as visiting the fatherless and widow is the active, keeping himself unspotted from the world, the passive side of religious duty.
 2. God is so called to imply that if we would be like our Father, it is not by fasting, but in being "merciful as our Father is merciful."
 3. Religion in its rise interests us about ourselves, in its progress about our fellow creatures, and in its highest stage, about the honor of God.
@@ -57,4 +57,4 @@ Pure and undefiled religion is marked by genuine sincerity and freedom from hypo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

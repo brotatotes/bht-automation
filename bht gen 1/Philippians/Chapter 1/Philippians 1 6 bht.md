@@ -9,7 +9,7 @@ The confidence expressed by Paul in this verse is based on his firm conviction t
 2. "The ἄχρι ἡμέρας χρ. Ἰησοῦ assumes the nearness of the coming of the Lord."
 3. "Here, as elsewhere, Commentators have endeavored to escape from this inference."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This confidence nerves prayers and thanksgivings."
 2. "The very thing which he prays for is the matter of his believing confidence."
 3. "Any work that God begins, He will surely finish."
@@ -57,4 +57,4 @@ The confidence expressed by Paul in this verse is based on his firm conviction t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

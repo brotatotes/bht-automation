@@ -4,7 +4,7 @@
 In this verse, the speaker, referred to by commentators as bold and courageous, fearlessly speaks and persuades others with great determination and conviction. They invest a significant amount of time, actively endeavoring to convince others of the truth and employing strong, powerful arguments. Through their efforts, many are moved to believe and assent to the message being proclaimed. This period of ministry is seen as successful and impactful, laying the foundations for the growth of the Christian Church in the region.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He went into the synagogue and spoke boldly for . . . three months." This quote highlights Paul's courage and determination to preach the gospel despite facing opposition. It shows his commitment to sharing the message of Christ and his willingness to face challenges in doing so.
 
 2. "Spake boldly." This phrase emphasizes Paul's confidence and fearlessness in proclaiming the truth. It demonstrates his unwavering conviction in the message he was delivering and his willingness to speak out without hesitation.
@@ -44,4 +44,4 @@ In this verse, the speaker, referred to by commentators as bold and courageous, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

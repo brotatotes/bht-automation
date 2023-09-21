@@ -9,7 +9,7 @@ Amidst adversaries, whether Jews or Gentiles, who oppose the Gospel, believers a
 2. "Their own ruin, in hopelessly contending against you."
 3. "The sign is one from God, from God, because to you it was granted on behalf of Christ, not only to believe on Him, but also on his behalf to suffer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Terrified—literally, said of horses or other animals startled or suddenly scared; so of sudden consternation in general." 
 2. "Evident token of perdition—if they would only perceive it. It attests this, that in contending hopelessly against you, they are only rushing on to their own perdition."
 3. "To you of salvation—The oldest manuscripts read, 'of your salvation'; not merely your temporal safety."
@@ -55,4 +55,4 @@ Amidst adversaries, whether Jews or Gentiles, who oppose the Gospel, believers a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

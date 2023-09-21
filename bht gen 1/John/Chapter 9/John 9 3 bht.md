@@ -9,7 +9,7 @@ This verse speaks to the healing of a blind man, which served as a demonstration
 2. "The suffering of the blind man was not a punishment, but rather a part of God's plan to reveal His works through his healing."
 3. "This verse highlights the divine power of Jesus and His ability to use the blind man's situation to demonstrate His authority."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cause was neither in himself nor his parents" - This quote highlights the commentary's emphasis on the fact that the man's condition was not a result of personal sin or the sins of his parents. It suggests that the purpose of his affliction was to demonstrate the power of God through his healing.
 
 2. "In order to the manifestation of 'the works of God,' in his cure" - This quote emphasizes the belief that the man's condition served as an opportunity for God to display His miraculous works. It suggests that his healing would serve as a testament to God's power and glory.
@@ -57,4 +57,4 @@ This verse speaks to the healing of a blind man, which served as a demonstration
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we find a group of disciples eagerly waiting for the promise of t
 2. "The οἱ τοῦ Ζεβ may however be here mentioned as in reminiscence of the draught of fishes which occurred before."
 3. "Who these were does not appear. Probably (as Luthardt) some two not named in the Gospel, and therefore not specified in its appendix."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nathanael's skepticism and doubt are relatable, as many of us may have questioned the validity of our faith at some point. However, Jesus' response to Nathanael's doubt is a powerful reminder that God sees and knows us intimately, even before we come to believe in Him."
 
 2. "Jesus' ability to see Nathanael under the fig tree before their encounter reveals His divine knowledge and omniscience. This demonstrates that Jesus is not just a mere man, but the Son of God who has the power to know and understand the depths of our hearts."
@@ -42,4 +42,4 @@ In this verse, we find a group of disciples eagerly waiting for the promise of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

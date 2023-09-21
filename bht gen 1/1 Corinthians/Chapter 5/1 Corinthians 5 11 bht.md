@@ -9,7 +9,7 @@ In this verse, the writer addresses a specific issue with clarity and seriousnes
 2. "If one who is called a brother be a notorious πόρνος, &c., or 'be named a πόρνος &c.' But ὀνομαζόμ. or even ὀνομαστός, in the bad sense, is hardly admissible." 
 3. "μέθυσος was, in pure Greek, not used of a man, but of a woman only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now" does not express time, but "the case being so," namely, that to avoid fornicators, etc., of the world, you would have to leave the world altogether, which would be absurd. (Quote 11)
 
 2. There is less danger in associating with open worldlings than with carnal professors. (Quote 11)
@@ -56,4 +56,4 @@ In this verse, the writer addresses a specific issue with clarity and seriousnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

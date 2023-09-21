@@ -9,7 +9,7 @@ In this Bible verse, the author speaks of the believers' assurance in their elec
 2. "ὑπὸ θεοῦ belongs to ἠγαπημένοι, as in 2 Thessalonians 2:13, see also Romans 1:7; not to εἰδότες, as Est. thinks possible."
 3. "ἐξελέξατο ὑμᾶς" - "knowing that God chose you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowing—Forasmuch as we know." - This quote highlights the certainty and confidence of the author in their knowledge of the readers' election by God. It suggests that the knowledge is based on a deep understanding and assurance, emphasizing the importance of this election.
 
 2. "Your election of God—The Greek is rather, 'beloved by God'." - This quote clarifies the meaning of "your election" by explaining that it signifies being chosen and loved by God. It emphasizes the personal and intimate nature of God's election, indicating a special relationship between God and the believers.
@@ -52,4 +52,4 @@ In this Bible verse, the author speaks of the believers' assurance in their elec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

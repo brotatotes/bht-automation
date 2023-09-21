@@ -9,7 +9,7 @@ In this Bible verse, the commentators describe the condition of an heir who is s
 2. "The supposition in our text is, that a father has preordained a time for his son and heir to come of age, and till that time, has subjected him to guardians and stewards."
 3. "κύριος πάντων ὤν must be understood essentially, rather than prospectively. It is said of him in virtue of his rank, rather than of his actual estate: in posse, rather than in esse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact of God's sending His Son to redeem us who were under the law, and sending the Spirit of His Son into our hearts, confirms the conclusion that we are 'heirs according to the promise.'" 
 2. "It is not, as in earthly inheritances, the death of the father, but our Father's sovereign will simply that makes us heirs." 
 3. "He is not at his own disposal. Lord of all—by title and virtual ownership."
@@ -59,4 +59,4 @@ In this Bible verse, the commentators describe the condition of an heir who is s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

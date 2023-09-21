@@ -9,7 +9,7 @@ This verse speaks of God's faithfulness in keeping His promises and the believer
 2. "The mention of κοινωνία may perhaps have been intended to prepare the way, as was before done in 1 Corinthians 1:2, for the reproof which is coming."
 3. "Chrys. remarks respecting 1 Corinthians 1:1-9, σὺ δὲ σκόπει πῶς αὐτοὺς τῷ ὀνόματι ἀεὶ τοῦ χριστοῦ προσηλοῖ. καὶ ἀνθρώπου μὲν οὐδενός, οὔτε ἀποστόλου οὔτε διδασκάλου, συνεχῶς δὲ αὐτοῦ τοῦ ποθουμένου μέμνηται, καθάπερ ἀπὸ μέθης τινὸς τοὺς καρηβαροῦντας ἀπενεγκεῖν παρασκευάζων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "faithful—to His promises" - This quote emphasizes the trustworthiness of God in keeping His promises, highlighting His faithfulness to His people. (Philippians 1:6; 1 Thessalonians 5:24)
 
 2. "called—according to His purpose" - This quote highlights the idea that believers are called by God according to His divine plan and purpose. (Romans 8:28)
@@ -61,4 +61,4 @@ Note: The provided commentary is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

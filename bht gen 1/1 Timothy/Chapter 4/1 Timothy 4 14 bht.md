@@ -9,7 +9,7 @@ The verse describes the importance of not neglecting the special spiritual gift 
 2. "The Holy Spirit spoke, by means of a prophet or prophets, His will to invest him with χαρίσματα for the work, and thus the gift was said to be conferred, as to its certainty in the divine counsels, by such prophecy." 
 3. "The gift was in Paul and Barnabas διὰ προφητείας, μετὰ ἐπιθέσεως χειρῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neglect not the gift—by letting it lie unused."
 2. "The charism or spiritual gift, is that of the Spirit which qualified him for 'the work of an evangelist' or perhaps the gift of discerning spirits, specially needed in his function of ordaining."
 3. "The gift was connected with the symbolical act of laying on hands. But the Greek 'with' implies that the presbyter's laying on hands was the mere accompaniment of the conferring of the gift."
@@ -55,4 +55,4 @@ The verse describes the importance of not neglecting the special spiritual gift 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

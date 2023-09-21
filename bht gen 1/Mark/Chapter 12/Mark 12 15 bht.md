@@ -11,7 +11,7 @@ In this verse, there is a parable about a servant who owed a significant debt, s
 
 3. "The servant's inability to pay his debt highlights the fact that no one can earn or repay their way into God's forgiveness. It is a gift that is freely given and cannot be earned through our own efforts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The malignity of their hearts took the form of craft, pretending what they did not feel—an anxious desire to be guided aright in a matter which to a scrupulous few might seem a question of some difficulty."
 2. "Seeing perfectly through this, He said unto them, Why tempt ye me?—'hypocrites!'"
 3. "Bring me a penny that I may see it—'the tribute money'."
@@ -35,4 +35,4 @@ In this verse, there is a parable about a servant who owed a significant debt, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is a powerful statement regarding the divine ins
 2. "Borne along, carried onward, as a ship by the wind."
 3. "Impulsos fuisse dicit, non quod mente alienati fuerint (qualem in suis prophetis ἐνθουσιασμόν fingunt Gentiles) sed qui nihil a se ipsis ausi fuerint, tantum obedienter sequuti sint Spiritum ducem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "was never at any time borne" (to us) - emphasizing that the message of the prophets did not originate from human will or desire.
 2. "Holy," if read, will mean because they had the Holy Spirit - suggesting that the prophets were considered holy because they were filled with the Holy Spirit.
 3. "borne" (along) as by a mighty wind - describing the prophets being moved or carried along by a powerful force, like a rushing wind, when receiving their messages from God.
@@ -59,4 +59,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, Jesus showcases his unparalleled authority and power, healing all who came to him with various diseases and afflictions. He also demonstrates his dominion over demons, refusing to allow them to speak or acknowledge his true identity. This verse challenges the notion of literal possession, suggesting that these demoniacs were actually suffering from physical or mental ailments. Jesus strategically controls the narrative, prohibiting the diseases and demons from making any claims about him, further illustrating his divine nature.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He cast out the spirits with His word; or rather, 'with a word' - a word of command."
 2. "Evidently they would have spoken, if permitted, proclaiming His Messiahship in such terms as in the synagogue; but once in one day, and that testimony immediately silenced, was enough."
 3. "After this account of His miracles of healing, we have in Matthew 8:17 this pregnant quotation, 'That it might be fulfilled which was spoken by Esaias the prophet, saying (Matthew 8:17-): Himself took our infirmities, and bare our sicknesses.'"
@@ -49,4 +49,4 @@ These quotes highlight the extent of Jesus' healing power, his authority over de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentary from Wesley offers insights into the apostles' deliberate and met
 2. "The pres. betokens the allotment of the field of apostolic work as his own."
 3. "Even as far as [unto] you did we advance in the gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are not stretching ourselves beyond our measure" - This quote emphasizes the humility and self-awareness of the speaker, acknowledging their limitations and not overstepping their boundaries in their preaching.
 2. "(we should be) if we did not reach unto you" - This quote highlights the speaker's dedication and commitment to spreading the Gospel, going beyond what is expected or required to reach the intended audience.
 3. "for as far as even to you have we come in preaching the Gospel" - This quote showcases the speaker's perseverance and determination in their mission to preach the Gospel, having successfully reached the audience they are addressing.
@@ -54,4 +54,4 @@ These quotes highlight the humility and obedience of the apostles, as well as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

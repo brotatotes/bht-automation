@@ -8,7 +8,7 @@ This verse speaks to the act of greeting fellow believers with a holy kiss, whic
 1. "From this verse and the following, it would appear that this letter was given into the hands of the elders." 
 2. "ἐν, simply 'in,' the kiss being the vehicle of the salutation: in our idiom, 'with.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A kiss of charity" - A token of Christian fellowship in those days.
 2. "The custom hence arose in the early Church of passing the kiss through the congregation at the holy communion" - The men kissing the men, and the women the women, in the Lord.
 3. "So in the Syrian Church each takes his neighbor's right hand and gives the salutation, 'Peace'" - A gesture of peace and unity among believers.
@@ -51,4 +51,4 @@ This verse speaks to the act of greeting fellow believers with a holy kiss, whic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

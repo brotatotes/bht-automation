@@ -4,7 +4,7 @@
 The Bible verse being described here is powerful and transformative. It speaks of the eternal Word of life, the incarnate Son of God, who was manifested in the flesh. Through the senses of sight, hearing, and touch, the apostles had experienced the reality of Christ, hearing His voice, witnessing His works, and even handling Him. This verse emphasizes the unwavering conviction and firm belief that comes from truly seeing and experiencing the divine presence of Jesus Christ. It invites readers to come to a deep understanding and appreciation of the incomparable gift of life given to us through Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing is a more convincing proof than hearing of; handling, than even seeing." 
 2. "Seen, namely, His glory, as revealed in the Transfiguration and in His miracles; and His passion and death in a real body of flesh and blood."
 3. "Contrast the wisest of the heathen feeling after (the same Greek as here; groping after WITH THE HANDS") if haply they might find God."
@@ -51,4 +51,4 @@ The Bible verse being described here is powerful and transformative. It speaks o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes a force of locusts that are powerful and invincible in battle, compared to armored warriors with formidable breastplates and the noise of chariots rushing to battle. The locusts move in a slow and uniform flight, filling the atmosphere with a deafening sound, evoking the image of rain. Their wings create a noise like chariots of many horses, signifying their power and speed. The locusts' swift and rapid incursions alarm the nations, highlighting their agility and the hopelessness of resisting them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The breastplates of iron symbolize the strength and invincibility of the locusts in battle, emphasizing their formidable nature." 
 2. "The comparison to chariots suggests that these locusts are not ordinary insects, but rather a powerful and organized force." 
 3. "The Greek word for 'battle' highlights the intensity and ferocity of the conflict, indicating that this is not a mere skirmish but a full-scale war."
@@ -42,4 +42,4 @@ This verse describes a force of locusts that are powerful and invincible in batt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

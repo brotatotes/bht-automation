@@ -9,7 +9,7 @@ After Jesus’ resurrection, He appeared to His disciples multiple times. Althou
 2. "The expression indicates the locality, not the manner, of the appearance; on, i.e. on the shore of the sea of Galilee."
 3. "ἐφανὴ δὲ οὕτως must not be too rashly cited as unlike John’s style. We must remember that, in adding an appendix, expressions of this kind would occur, which the narrative itself would not contain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus showed himself again—manifested himself again." 
 2. "This way of speaking shows that after His resurrection He appeared to them but occasionally, unexpectedly, and in a way quite unearthly, though yet really and corporeally." 
 3. "He manifested himself—This way of speaking shows that after His resurrection He appeared to them but occasionally, unexpectedly, and in a way quite unearthly, though yet really and corporeally."
@@ -48,4 +48,4 @@ After Jesus’ resurrection, He appeared to His disciples multiple times. Althou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

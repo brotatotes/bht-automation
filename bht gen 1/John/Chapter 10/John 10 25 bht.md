@@ -9,7 +9,7 @@ Throughout his ministry and teachings, Jesus consistently and unmistakably descr
 2. "The great reference here is to His works."
 3. "Observe the sharp contrast of ἐγώ and ὑμεῖς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus answered them, I told you—that is, in substance, what I am." This quote highlights that Jesus consistently revealed his identity throughout his teachings and interactions with others.
 
 2. "For example John 7:37; John 7:38; John 8:12; John 8:35; John 8:36; John 8:58." This quote references specific verses where Jesus proclaimed his identity as the source of living water, the light of the world, and the one who sets people free.
@@ -47,4 +47,4 @@ Throughout his ministry and teachings, Jesus consistently and unmistakably descr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

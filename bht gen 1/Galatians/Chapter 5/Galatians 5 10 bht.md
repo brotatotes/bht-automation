@@ -9,7 +9,7 @@ After the warning of perverters in Galatians, the author expresses confidence in
 2. "I, for my part; 'quod ad me attinet, ...'"
 3. "Ye will be of no other mind than this, viz. which I enjoin on you, not in Gal 5:8-9 only, but in this Epistle, and in his preaching generally."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have confidence in the Lord with regard to you." (2 Thessalonians 3:4) - The author expresses his trust in the readers' ability to align their thoughts with the desired message of the Epistle.
 
 2. "He that troubleth you shall bear his due and inevitable judgment from God." - The one who causes trouble and leads others astray will face the consequences of their actions, as determined by God.
@@ -57,4 +57,4 @@ After the warning of perverters in Galatians, the author expresses confidence in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

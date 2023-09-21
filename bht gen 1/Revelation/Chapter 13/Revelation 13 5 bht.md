@@ -4,7 +4,7 @@
 In this Bible verse, a beast is described as having a mouth that speaks great things and blasphemies, symbolizing the arrogant and blasphemous words it utters. The beast's authority and power are given by Satan, reflecting a source of power beyond human control. This description draws parallels to Daniel's prophecies, establishing a connection between previous prophecies and the events described in Revelation. The beast's actions and duration are limited by God, emphasizing His ultimate sovereignty and control over the affairs of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "blasphemies—So ANDREAS reads. B reads 'blasphemy.' A, 'blasphemous things' (compare Daniel 7:8; Daniel 11:25)." 
 2. "power—'authority'; legitimate power (Greek, 'exousia')." 
 3. "to continue—Greek, 'poiesai,' 'to act,' or 'work.'"
@@ -40,4 +40,4 @@ In this Bible verse, a beast is described as having a mouth that speaks great th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

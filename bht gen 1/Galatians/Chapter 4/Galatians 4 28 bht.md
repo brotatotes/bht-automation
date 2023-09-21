@@ -11,7 +11,7 @@ Believers, like Isaac, are children of promise, not just children according to t
 
 3. "Ye, brethren, like (the expression in full, κατὰ τ. ὁμοιότητα Μελχισεδέκ, occurs Hebrews 7:15)." - This quote refers to the similarity between the believers and Isaac, drawing a parallel to the figure of Melchizedek in Hebrews. It suggests that the believers share in the same type of unique and elevated status as Isaac and Melchizedek.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We" better accords with "mother of us."
 2. Children of promise, not children after the flesh.
 3. "We are" so, and ought to wish to continue so.
@@ -45,4 +45,4 @@ Believers, like Isaac, are children of promise, not just children according to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see a vivid portrayal of the sinful practices that will be prevalent in the last days. The verse warns against sorceries, witchcrafts, and deception, highlighting the harmful effects they have on others. It also draws attention to the perpetuation of sexual immorality and the need for purity of heart. These practices, along with murder and theft, are characteristic of demonic worship and idolatry. The verse also emphasizes the guilt of the Romish clergy in engaging in various forms of uncleanness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sorceries—witchcrafts by means of drugs": This verse highlights the use of drugs in sorcery and witchcraft, emphasizing the sinful nature of such practices.
 2. "The sin of the heathen: about to be repeated by apostate Christians in the last days": This quote suggests that the sin of sorcery and witchcraft will be repeated by apostate Christians in the future, indicating a warning against falling into such practices.
 3. "Those lacking purity of heart indulge in one perpetual fornication": This statement draws attention to the perpetual nature of fornication, contrasting it with other sins that may be committed intermittently. It underscores the need for purity of heart and the dangers of indulging in sexual immorality.
@@ -30,4 +30,4 @@ In this verse, we see a vivid portrayal of the sinful practices that will be pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

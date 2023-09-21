@@ -9,7 +9,7 @@ In this verse, a devoted servant of Christ named Epaphras is mentioned, who tire
 2. "That ye may stand, perfect and fully persuaded (see reff.), in (be firmly settled in, without danger of vacillating or falling) all the will of God."
 3. "This connexion, of στῆτε with ἐν, as Mey., seems better than, as ordinarily (so also De W. and Ellic.), to join ἐν with the participles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Striving earnestly" - The Greek word used here implies a fervent and intense effort, as if in the agony of a contest. This highlights the level of dedication and passion that Christ had in his work. 
 
 2. "In his prayers" - This emphasizes the importance of prayer in Christ's life and ministry. It shows that he sought guidance and strength from God through constant communication in prayer. 
@@ -61,4 +61,4 @@ These quotes highlight the idea of striving and laboring fervently, being perfec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

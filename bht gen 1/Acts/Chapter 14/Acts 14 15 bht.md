@@ -9,7 +9,7 @@ This verse captures the contrast between the living God and the vain idols worsh
 2. "Paul often uses the phrase 'the living God' to emphasize the true nature of God." 
 3. "The use of 'the living God' in other biblical passages further highlights its significance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How unlike either imposture or enthusiasm is this, and how high above all self-seeking do these men of Christ show themselves to be!"
 2. "This is the most glorious and distinctive of all the names of God. It is the familiar phraseology of the Old Testament, which, in such contrast with all that is to be found within the literature of heathenism, is shown to be, with its sequel, the New Testament, the one Book of the true religion."
 3. "This idea of creation, utterly unknown alike to rude and to cultivated heathenism, would not only define what was meant by 'the living God,' but open up a new world to the more thoughtful part of the audience."
@@ -57,4 +57,4 @@ Note: The commentary provides explanations of the Greek words used in the verse 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

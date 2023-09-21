@@ -9,7 +9,7 @@ The verse being described is a call to imitate the speaker's example, specifical
 2. "μιμηταί, but as 1 Corinthians 4:17, in αἱ ὁδοί μου αἱ ἐν χρ., my manner of life and teaching."
 3. "See reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be ye followers of me—literally, 'imitators,' namely, in my ways, which be in Christ." 
 
 2. "Not in my crosses." 
@@ -54,4 +54,4 @@ The verse being described is a call to imitate the speaker's example, specifical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

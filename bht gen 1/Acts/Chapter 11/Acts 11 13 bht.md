@@ -11,7 +11,7 @@ In this particular Bible verse, a significant event occurs involving an angel wh
 
 3. "The art. almost looks as if the history of Cornelius’s vision were known to the hearers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seen an angel" - The mention of seeing an angel suggests a supernatural encounter, adding a sense of awe and wonder to the story.
 2. "The angel" - The use of the definite article emphasizes the significance of the angelic visitation, indicating that it was not just any angel, but a specific and important one.
 3. "Took that definite shape" - This phrase implies that the rumor about the angel became more concrete and specific, further fueling curiosity and speculation about the event.
@@ -42,4 +42,4 @@ In this particular Bible verse, a significant event occurs involving an angel wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

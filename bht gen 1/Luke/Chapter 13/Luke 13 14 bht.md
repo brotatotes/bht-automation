@@ -9,7 +9,7 @@ The commentary on this Bible verse highlights the ruler's indirect approach and 
 2. "Stier notices the self-stultification of this speech, in making θεραπεύεσθαι, a reception of divine grace and help, a species of ἐργάζεσθαι."
 3. The commentary highlights the ruler's indirect approach and the contradiction in equating receiving divine grace with working for it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with indignation—not so much at the sabbath violation as at the glorification of Christ." [TRENCH]
 2. "said to the people—'Not daring directly to find fault with the Lord, he seeks circuitously to reach Him through the people, who were more under his influence, and whom he feared less'" [TRENCH].
 
@@ -44,4 +44,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

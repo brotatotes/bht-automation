@@ -9,7 +9,7 @@ The writer of this verse expresses the depth of his conflict, care, and prayer f
 2. "Their hearts may be confirmed, being knit together in love." 
 3. "Unto all the richness of the full assurance of the understanding, unto the thorough-knowledge of the mystery of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I wish you to know how great a conflict I have for you." 
 2. "Exposed to the same danger from false teachers as the Colossians." 
 3. "Though 'absent in the flesh, I am with you in the Spirit'."
@@ -59,4 +59,4 @@ These quotes highlight the intense struggles and sacrifices that the Apostle Pau
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentators shed light on the relationship between faith and
 
 3. "It was one especial work, in matter of fact: and that work, itself springing out of preeminent faith." - This quote emphasizes that Abraham's act of offering Isaac was a specific work that was a result of his exceptional faith, further highlighting the significance of his actions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham . . . justified by works—evidentially, and before men." 
 2. "James, like Paul, recognizes the Scripture truth, that it was his faith that was counted to Abraham for righteousness in his justification before God."
 3. "When he offered, that is, brought as an offering at the altar; not implying that he actually offered him."
@@ -56,4 +56,4 @@ In this verse, the commentators shed light on the relationship between faith and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we encounter two blind men who fervently follow Jesus, believing 
 2. "εἰς τιμὴν αὐτοῦ τοῦτο κράζουσιν" - This quote explains that the phrase "υἱὸς Δαυείδ" (Son of David) was a highly esteemed title among the Jews, emphasizing the significance of its use in the Gospel.
 3. "It is remarkable that, in all the three narratives of giving sight to the blind in this Gospel, the title Son of David appears." - This quote points out the recurring theme of the title "Son of David" in the Gospel, highlighting its importance in the context of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is remarkable that in the only other recorded case in which the blind applied to Jesus for their sight, and obtained it, they addressed Him, over and over again, by this one Messianic title, so well known—'Son of David'." 
 2. "Can there be a doubt that their faith fastened on such great Messianic promises as this, 'Then the eyes of the blind shall be opened,' &c. (Isaiah 35:5)?" 
 3. "This appeal to Him, as the Consolation of Israel, to do His predicted office, would fall with great weight upon the ears of Jesus."
@@ -43,4 +43,4 @@ In this verse, we encounter two blind men who fervently follow Jesus, believing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse speaks of God's sovereign control over the actions and intentions of human rulers. It signifies how God influences and directs their hearts and minds, working behind the scenes to accomplish His purposes. Despite the sinful nature of their actions, God allows them to align and conspire to fulfill His will, leading to the destruction of a powerful entity. Ultimately, it portrays the undeniable power and authority of God in orchestrating events to bring about His divine plans.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hath put—the prophetical past tense for the future." 
 2. "his will—Greek, 'his mind,' or purpose; while they think only of doing their own purpose."
 3. "the words of God—foretelling the rise and downfall of the beast; Greek, 'hoi logoi,' in A, B, and ANDREAS."
@@ -42,4 +42,4 @@ This verse speaks of God's sovereign control over the actions and intentions of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

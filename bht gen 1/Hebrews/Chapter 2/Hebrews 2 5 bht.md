@@ -9,7 +9,7 @@ In this verse, the commentators reveal that the passage is discussing the new or
 2. "The subjection of this present natural world to the holy angels, as its administrators, is in several places attested in Scripture, and was a very general matter of belief among the Jews."
 3. "The phrase represents the Heb. הָעוֹלָם הַבָּא (see note on ch. Hebrews 1:1), and imports the whole new order of things brought in by Christ, taking its rise in His life on earth, and having its completion in his reign in glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not the angels hath He" - emphasizing that the new covenant was spoken by a higher authority than the mediators of the old covenant, namely, angels.
 2. "The world to come" - referring to the new dispensation brought in by Christ, beginning in grace here and to be completed in glory hereafter.
 3. "Believers belong not to this present world course, but by faith rise in spirit to 'the world to come'" - highlighting that believers are not of this fallen world but are connected to the future world through their faith in Christ.
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

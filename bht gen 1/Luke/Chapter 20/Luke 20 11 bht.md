@@ -11,7 +11,7 @@ In this verse, we see a portrayal of persistent rejection and mistreatment. The 
 
 3. "Hebrew and LXX" - The mention of both the Hebrew and Greek translations highlights the importance of considering different linguistic perspectives to fully grasp the intended meaning of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The vineyard in this parable represents the people of Israel, whom God had chosen and cared for as His own special possession. The vineyard was carefully cultivated and protected by God, who expected it to produce good fruit." 
 
 2. "The husbandmen in this parable symbolize the spiritual leaders of Israel, who were entrusted with the responsibility of guiding and nurturing the people in righteousness. They were expected to produce the fruits of righteousness through their teaching and example." 
@@ -41,4 +41,4 @@ In this verse, we see a portrayal of persistent rejection and mistreatment. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

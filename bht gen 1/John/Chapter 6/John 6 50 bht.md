@@ -4,7 +4,7 @@
 The Bible verse describes the act of believing in Jesus as more than just acknowledging his existence, but rather a deep trust and reliance on him as Savior and Lord. This belief results in salvation from the penalty of sin and a transformed life empowered by the Holy Spirit. It is an ongoing process of surrendering our will to Jesus and growing in relationship with him. The verse also speaks of a heavenly bread that offers life and prevents spiritual death, illustrating the transformative power of faith and the promise of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believing in Jesus is not just an intellectual assent to his existence, but a deep trust and reliance on him as the Savior and Lord of our lives." 
 
 2. "When we believe in Jesus, we are not only saved from the penalty of sin, but we are also given new life and empowered by the Holy Spirit to live a transformed life." 
@@ -35,4 +35,4 @@ The Bible verse describes the act of believing in Jesus as more than just acknow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a figure with great influence and persuasive words is depicted as
 2. "The participial clause brings into notice the miraculous character of the incident."
 3. "The Apostle evidently regards not so much the words of rebuke uttered, as the miraculous fact, as being the hindrance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His own beast convicted him of his own iniquity."
 2. "The ass was the ordinary animal used in riding in Palestine."
 3. "The ass turned aside at the sight of the angel, but Balaam, after God had plainly said, Thou shalt not go, persevered in wishing to go for gain; thus the ass, in act, forbade his madness."
@@ -58,4 +58,4 @@ In this verse, a figure with great influence and persuasive words is depicted as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

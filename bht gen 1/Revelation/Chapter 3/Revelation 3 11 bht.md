@@ -11,7 +11,7 @@ This verse serves as an encouragement to persevere in faith and embrace the immi
 
 3. "That no one take thy crown." - The crown mentioned here represents the reward that awaits the faithful believers. It serves as a reminder to the Philadelphian church to remain steadfast in their faith and not allow anyone to deprive them of the crown that is rightfully theirs.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I come quickly—the great incentive to persevering faithfulness, and the consolation under present trials."
 2. "The word of my patience," or "endurance" (Revelation 3:10), which He had just commended them for keeping, and which involved with it the attaining of the kingdom."
 3. "That no man take thy crown—which otherwise thou wouldst receive: that no tempter cause thee to lose it."
@@ -50,4 +50,4 @@ This verse serves as an encouragement to persevere in faith and embrace the immi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

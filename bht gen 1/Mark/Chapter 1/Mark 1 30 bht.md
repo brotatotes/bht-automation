@@ -4,7 +4,7 @@
 In this verse, we see a person who is severely ill with a "great fever," which is described as a violent and life-threatening condition. The urgency of the situation is highlighted by the disciples immediately informing Jesus and pleading for his intervention. Their faith in Jesus' healing abilities is evident as they beseech him to look upon the sick person and restore her, believing that he has the power to remove the fever. It is a powerful portrayal of the disciples' trust in Jesus' compassion and ability to heal.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Luke, as was natural in 'the beloved physician,' describes it professionally; calling it a 'great fever,' and thus distinguishing it from that lighter kind which the Greek physicians were wont to call 'small fevers.'"
 2. "Anon—immediately."
 3. "Naturally hoping that His compassion and power towards one of His own disciples would not be less signally displayed than towards the demonized stranger in the synagogue."
@@ -34,4 +34,4 @@ In this verse, we see a person who is severely ill with a "great fever," which i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

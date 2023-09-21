@@ -4,7 +4,7 @@
 The Bible verse describes the miraculous conception of Jesus, where the Holy Spirit's power comes upon Mary, referred to as the "power of the Highest." The commentators emphasize the gentle yet powerful nature of this divine intervention, likening it to the overshadowing of a cloud or the protection of a shadow. They highlight the unique relationship between Jesus as the Son of God, both in his divine nature and in his conception through the work of the Holy Spirit. The verse points to the significance of Jesus' birth as a manifestation of his divine Sonship.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The immediate energy of the Godhead conveyed by the Holy Ghost."
 2. "A word suggesting how gentle, while yet efficacious, would be this Power."
 3. "That Christ is the Son of God in His divine and eternal nature is clear from all the New Testament; yet here we see that Sonship efflorescing into human and palpable manifestation by His being born, through 'the power of the Highest,' an Infant of days."
@@ -50,4 +50,4 @@ The Bible verse describes the miraculous conception of Jesus, where the Holy Spi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

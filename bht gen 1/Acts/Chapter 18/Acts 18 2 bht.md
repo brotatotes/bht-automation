@@ -9,7 +9,7 @@ In this verse, we see the couple Aquila and Priscilla, who were forced to leave 
 2. "From the notices of Aquila and Priscilla in the Epistles, they appear to have travelled, fixing their abode by turns in different principal cities, for the sake of their business."
 3. "The edict soon became invalid, or the prohibition was taken off: we find Aquila at Rome, Romans 16:3, and many Jews resident there, ch. Acts 28:17 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From these Latin names one would conclude that they had resided so long in Rome as to lose their Jewish family names."
 2. "Whether this couple were converted before Paul made their acquaintance, commentators are much divided."
 3. "They appear to have been in good circumstances, and after travelling much, to have eventually settled at Ephesus."
@@ -59,4 +59,4 @@ In this verse, we see the couple Aquila and Priscilla, who were forced to leave 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

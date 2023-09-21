@@ -4,7 +4,7 @@
 In this Bible verse, there is a reference to a "great door" that opens up an opportunity to spread the Gospel to a wide audience. It is emphasized that this door is not only extensive but also effectual, indicating the powerful impact of the preaching. However, it is important to note that with such significant opportunities come adversaries and opposition that arise, as darkness seeks to hinder the progress of God's work. Despite this, the message encourages perseverance and reminds readers that when God's work is advancing, opposition is to be expected.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An opening for the extension of the Gospel." 
 2. "Wise men are on the watch for, and avail themselves of, opportunities." 
 3. "Where great good is, there evil is sure to start up as its antagonist."
@@ -50,4 +50,4 @@ In this Bible verse, there is a reference to a "great door" that opens up an opp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

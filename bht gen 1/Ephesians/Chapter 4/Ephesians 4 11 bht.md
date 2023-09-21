@@ -9,7 +9,7 @@ The Bible verse under consideration speaks of the various gifts given to the Chu
 2. "True and full unity of faith is then found, when all thoroughly know Christ, the object of faith, alike, and that in His highest dignity as the Son of God."
 3. "The bestowal of gifts on the church is aimed at the ultimate goal of the perfecting of the saints and the building up of the body of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The men who filled the office, no less than the office itself, were a divine gift."
 2. "Evangelists were itinerant preachers like our missionaries, as Philip the deacon."
 3. "The 'pastor' had the outward rule and guidance of the Church: the bishop."
@@ -55,4 +55,4 @@ The Bible verse under consideration speaks of the various gifts given to the Chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

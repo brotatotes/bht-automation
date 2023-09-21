@@ -9,7 +9,7 @@ The verse being described emphasizes the wickedness and destructive nature of si
 2. "They make their paths crooked; no one who walks in them knows peace." 
 3. "The wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dirt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their feet are swift to shed blood" - This verse highlights how easily people are inclined towards violence and evil actions. It emphasizes the urgency and speed with which they engage in destructive behavior.
 
 2. "Those feet, which should 'run the way of God's commandments'" - This phrase emphasizes the contrast between the intended purpose of our actions (to follow God's commandments) and the reality of how we often misuse our abilities and talents.
@@ -44,4 +44,4 @@ The verse being described emphasizes the wickedness and destructive nature of si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this passage, Jesus uses the metaphor of the vine and branches to illustrate 
 
 3. "Union with Me is the sole efficient cause of fruit being produced": The commentary emphasizes that being in union with the Lord is the only way to bear fruit, highlighting the significance of remaining in Him for spiritual growth and productivity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Without me—apart, or vitally disconnected from Me."
 2. "Ye can do nothing—spiritually, acceptably."
 
@@ -64,4 +64,4 @@ In this passage, Jesus uses the metaphor of the vine and branches to illustrate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

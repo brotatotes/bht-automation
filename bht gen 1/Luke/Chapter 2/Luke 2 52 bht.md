@@ -9,7 +9,7 @@ In this verse, we see the remarkable journey and development of Jesus from infan
 2. "He had emptied Himself of His glory: His infancy and childhood were no mere pretence, but the Divine personality was in Him carried through these states of weakness and inexperience, and gathered round itself the ordinary accessions and experiences of the sons of men."
 3. "All the time, the consciousness of his mission on earth was ripening; 'the things heard of the Father' were continually imparted to Him; the Spirit, which was not given by measure to Him, was abiding more and more upon Him; till the day when He was fully ripe for his official manifestation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What seasons of tranquil meditation over the lively oracles, and holy fellowship with His Father."
 2. "What inlettings, on the one hand, of light, and love, and power from on high."
 3. "Outgoings of filial supplication, freedom, love, and joy on the other."
@@ -50,4 +50,4 @@ In this verse, we see the remarkable journey and development of Jesus from infan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

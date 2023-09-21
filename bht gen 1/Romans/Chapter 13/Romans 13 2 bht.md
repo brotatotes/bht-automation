@@ -11,7 +11,7 @@ Resisting the authority and power established by God is equivalent to opposing H
 
 3. "punishment from God, through His minister, the civil power" - This quote explains that the punishment for opposing authority comes from God, but it is administered through the civil power. It suggests that the civil power acts as an instrument of God's judgment.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever therefore resisteth the power... resisteth the ordinance of God." - This quote emphasizes that resisting the authority of the government is equivalent to resisting God's ordained authority. It highlights the divine nature of earthly authority and the consequences of going against it.
 
 2. "They that resist shall receive to themselves damnation." - This quote suggests that those who resist the authority of the government will face condemnation or punishment, not from the magistrate, but from God. It emphasizes the spiritual consequences of rebelling against God's established order.
@@ -63,4 +63,4 @@ Note: The provided commentary is based on Romans 13:2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

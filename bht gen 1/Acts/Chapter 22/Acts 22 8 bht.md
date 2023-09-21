@@ -4,7 +4,7 @@
 In this verse, the speaker addresses the Lord, referring to Him as the "Nazarene." The use of this term emphasizes Jesus' earthly origins and humble upbringing. It also highlights His association with the town of Nazareth. By recognizing Jesus as the Nazarene, the speaker acknowledges His humanity and reveals a desire for a deeper understanding of His divine nature and identity. This question reflects humility, recognition of the Lord's authority, and a longing to know more about His character and purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus of Nazareth" refers to the earthly name and origin of Jesus, emphasizing his humanity and the specific place he came from.
 
 2. The term "the Nazarene" highlights Jesus' association with the town of Nazareth, further emphasizing his humble background and upbringing.
@@ -41,4 +41,4 @@ In this verse, the speaker addresses the Lord, referring to Him as the "Nazarene
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

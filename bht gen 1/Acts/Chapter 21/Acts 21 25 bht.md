@@ -11,7 +11,7 @@ This verse is related to the decision made by the early church leaders regarding
 
 3. "The mention of Acts 15:28-29 also emphasizes the unity and harmony within the early church. It shows that the leaders were in agreement and sought to provide guidance to the believers, ensuring that they were not burdened with unnecessary requirements but were encouraged to live in a manner that honored God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This shows that with all their conciliation to Jewish prejudice, the Church of Jerusalem was taught to adhere to the decision of the famous council held there." 
 2. "Touching the Gentiles...we have written and concluded that they observe no such things." 
 3. "The Church of Jerusalem was taught to adhere to the decision of the famous council held there."
@@ -56,4 +56,4 @@ This verse is related to the decision made by the early church leaders regarding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

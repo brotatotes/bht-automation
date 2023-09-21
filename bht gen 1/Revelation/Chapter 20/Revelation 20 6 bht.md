@@ -4,7 +4,7 @@
 In this description, the commentator quotes highlight the divinity of Christ and the unique role of believers as priests of God and Christ. It affirms that Jesus is not just a human, but truly God himself. The description also emphasizes the future hope and destiny of believers, as they are promised to share in the reign of God and Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On such the second death hath no power—even as it has none on Christ now that He is risen."
 2. "The glorious events attending Christ's appearing, the destruction of Antichrist, the transfiguration of the Church, and the binding of Satan, will prepare the nations for embracing the Gospel."
 3. "The Mosaic ceremonial law corresponds to Israel's priestly office; the civil law to its kingly office: the Gentile Church adopts the moral law, and exercises the prophetic office by the word working inwardly."
@@ -47,4 +47,4 @@ These quotes highlight the blessedness and holiness of those who partake in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

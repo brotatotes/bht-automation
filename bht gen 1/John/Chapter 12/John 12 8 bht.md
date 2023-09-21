@@ -9,7 +9,7 @@ In this verse, a beautiful act of pouring perfume on Jesus is commended as a goo
 2. "The ἔργον καλὸν εἰργάσατο εἰς ἐμέ refers to the act of pouring the perfume on Jesus as a beautiful work done for His sake."
 3. "This verse echoes the sentiment expressed in Mark 14:7-8, where Jesus commends the woman for her act of pouring the perfume on Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the act of love done to Him she had erected to herself an eternal monument, as lasting as the Gospel, the eternal word of God." 
 2. "Who but Himself had the power to ensure to any work of man, even if resounding in his own time through the whole earth, an imperishable remembrance in the stream of history?"
 3. "Love to Christ transfigures the humblest services. All, indeed, who have themselves a heart value its least outgoings beyond the most costly mechanical performances."
@@ -38,4 +38,4 @@ In this verse, a beautiful act of pouring perfume on Jesus is commended as a goo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

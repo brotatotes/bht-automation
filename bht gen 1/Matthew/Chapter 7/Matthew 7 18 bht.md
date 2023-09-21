@@ -4,7 +4,7 @@
 A commentator observes that the heart is the proper interpreter of our actions, which ties into a description of the verse, highlighting the importance of aligning teachings with goodness and truth. Another commentator mentions the paradox of a bad person delivering good doctrine, indicating that flawed individuals can still bring about positive change through preaching. Lastly, a commentator emphasizes that true prophets are those who not only speak the truth but also actively convert sinners, underscoring the significance of both words and actions in their ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The heart determines and is the only proper interpreter of the actions of our life." 
 2. "No one who knows how the Church of Rome makes a merit of actions, quite apart from the motives that prompt them, and how the same tendency manifests itself from time to time even among Protestant Christians, can think it too obvious to be insisted on by the teachers of divine truth."
 3. "Here follows a wholesome digression."
@@ -25,4 +25,4 @@ A commentator observes that the heart is the proper interpreter of our actions, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

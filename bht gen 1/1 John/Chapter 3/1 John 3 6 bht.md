@@ -9,7 +9,7 @@ This verse speaks of the transformative power of a genuine relationship with Chr
 2. "If the child of God falls into sin, it is an act against nature, deadly to life, hardly endured, and bringing bitter repentance: it is as the taking of a poison, which if it be not corrected by its antidote, will sap the very springs of life." 
 3. "The cutting off by an act of sin of the sight and knowledge of Christ, shows, and shows in proportion as it prevails, unreality in that sight and knowledge."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He reasons from Christ's own entire separation from sin, that those in him must also be separate from it."
 2. "The life of sin and the life of God mutually exclude one another, just as darkness and light."
 3. "All sin as such is at variance with the notion of one regenerated."
@@ -52,4 +52,4 @@ These quotes collectively emphasize the importance of a genuine and transformati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

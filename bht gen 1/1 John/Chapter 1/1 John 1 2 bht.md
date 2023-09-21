@@ -4,7 +4,7 @@
 In this Bible verse, the commentators emphasize the significance of Jesus as the embodiment of life itself. They highlight his preexistence with the Father and the distinctness of the Godhead. Jesus' manifestation reveals his divine nature and offers the opportunity for people to see, hear, and know him. The commentators also emphasize his role as the source of all life and the testimony of eternal life that he brings. This verse encapsulates the proclamation of Jesus as the living Word, the manifestation of life, and the assurance of eternal life through him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, 'the Word of life'" is the embodiment of life itself, and through Him, eternal life is made known to us (quote 2).
 2. The manifestation of Jesus reveals His preexistence with the Father, emphasizing the distinctness of the First and Second Persons in the one Godhead (quote 2).
 3. The declaration of eternal life is both a proclamation and a written testimony, underscoring its significance (quote 3).
@@ -45,4 +45,4 @@ In this Bible verse, the commentators emphasize the significance of Jesus as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

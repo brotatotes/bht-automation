@@ -11,7 +11,7 @@ This verse speaks of the severe consequences faced by those who reject and disre
 
 3. "Insulted the Spirit of grace." - This quote underscores the contrast between the grace offered by the Spirit and the arrogance and disrespect shown by those who insult and reject it. It highlights the grave consequences of such actions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sorer—Greek, 'worse,' namely, 'punishment' (literally, 'vengeance') than any mere temporal punishment of the body."
 2. "No better than the blood of a common man, thus involving the consequence that Christ, in claiming to be God, was guilty of blasphemy, and so deserved to die!"
 3. "He who does not accept the benefit, insults Him who confers it. He hath made thee a son: wilt thou become a slave?"
@@ -57,4 +57,4 @@ This verse speaks of the severe consequences faced by those who reject and disre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

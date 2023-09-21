@@ -11,7 +11,7 @@ In this passage, we encounter a momentous event where Jesus enters the room wher
 
 3. "And yet such abound in every chapter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An important testimony this to the reality of her death."
 2. "Turned them all out...that only those might be present who were most nearly concerned."
 3. "He taketh the father and the mother of the damsel, and them that were with him—Peter, and James, and John."
@@ -50,4 +50,4 @@ In this passage, we encounter a momentous event where Jesus enters the room wher
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described here is about the Apostle Paul's appeal to Caesar. Com
 2. "The inf. aor. of the rec. would point to some one definite charge."
 3. "κατηγορεῖν means 'to play the accuser against my nation in any thing:' indicating the habit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am here not as their accuser, but as my own defender, and this not of choice but necessity."
 2. "His object in alluding thus gently to the treatment he had received from the Jews was plainly to avoid whatever might irritate his visitors at the first."
 3. "Especially as he was not aware whether any or what information against him had reached their community."
@@ -48,4 +48,4 @@ The verse being described here is about the Apostle Paul's appeal to Caesar. Com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

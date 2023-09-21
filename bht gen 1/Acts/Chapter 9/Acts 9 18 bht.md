@@ -9,7 +9,7 @@ In this mysterious event, the blindness of Saul is miraculously healed through t
 2. "And this scaly substance which fell from his eyes was thrown off in the process of the instantaneous healing."
 3. "Great honor was here placed upon the sacrament of baptism, inasmuch as not even Saul... was permitted to dispense with this, the Lord’s appointed way of admission into His Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This shows that the blindness as well as the cure was supernatural."
 2. "Substances like scales would not form naturally in so short a time."
 3. "The medical precision of Luke's language here is to be noted."
@@ -48,4 +48,4 @@ In this mysterious event, the blindness of Saul is miraculously healed through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

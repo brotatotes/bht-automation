@@ -9,7 +9,7 @@ In this Bible verse, we see the importance of the sailors remaining on the ship 
 2. "Respondeo, Paulum hic de potentia Dei præcise non disputare, ut eam a voluntate et mediis sejungat: et certe non ideo fidelibus virtutem suam Deus commendat, ut contemptis mediis torpori et socordiæ indulgeant, vel temere se projiciant, ubi certa est cavendi ratio."
 3. "Neque tamen propterea sequitur, mediis vel adminiculis alligatam esse Dei manum, sed quum Deus hunc vel ilium agendi modum ordinat, hominum sensus continet, ne præscriptas sibi metas transiliant."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The flight of the crew, therefore, might well be regarded as certain destruction to all who remained."
 2. "In full assurance of ultimate safety, in virtue of a DIVINE pledge, to all in the ship, Paul speaks and acts throughout this whole scene."
 3. "Paul speaks and acts throughout this whole scene in the exercise of a sound judgment as to the indispensable HUMAN conditions of safety."
@@ -44,4 +44,4 @@ In this Bible verse, we see the importance of the sailors remaining on the ship 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

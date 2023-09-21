@@ -4,7 +4,7 @@
 The verse being described portrays the disciples confidently spreading their message throughout Jerusalem, impacting the city with their teachings. Their deliberate and intentional actions are highlighted, as they firmly place themselves and their message before the council and the whole Sanhedrin. Even the high priest, though not the president of the council, takes it upon himself to question the disciples. Their success is evident, as their preaching fulfills the foretelling of Christ and garners attention from influential members of the council.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have filled Jerusalem with your doctrine" - This quote highlights the impact of the disciples' preaching, indicating their success in spreading their message throughout the city.
 
 2. "Noble testimony to the success of their preaching" - This quote emphasizes the commendable and praiseworthy nature of the disciples' work, highlighting the positive outcomes of their efforts.
@@ -27,4 +27,4 @@ The verse being described portrays the disciples confidently spreading their mes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse, as described by these commentators, emphasizes the significance of aligning our lives with God's will and reflecting the character of Christ through our actions. It calls for gaining a comprehensive understanding of God's desires and continually growing in our relationship with Him. This understanding should not be limited to knowledge alone but should be accompanied by a sincere and practical commitment to live according to His teachings. Walking worthy of the Lord requires a constant pursuit of knowledge, a deepening of spiritual understanding, and a genuine desire to please God in all aspects of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True knowledge of God's will is inseparable from walking conformably to it."
 2. "Being fruitful is the first manifestation of their 'walking worthy of the Lord.'"
 3. "The full knowledge of God is the real instrument of enlargement in soul and life of the believer."
@@ -52,4 +52,4 @@ These quotes highlight the importance of living in a manner that is pleasing to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

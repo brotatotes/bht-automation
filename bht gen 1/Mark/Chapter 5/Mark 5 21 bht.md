@@ -11,7 +11,7 @@ In this passage, we see the willingness of the crowd to come together and accept
 
 3. "Jesus' acceptance by the crowd demonstrates his ability to connect with people on a deep level." This emphasizes his charisma and ability to resonate with the hearts and minds of those around him.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The abundant teaching earlier that day had only whetted the people's appetite: and disappointed, as would seem, that He had left them in the evening to cross the lake, they remain hanging about the beach." 
 2. "Perhaps they witnessed at a distance the sudden calming of the tempest." 
 3. "The tide of our Lord's popularity was now fast rising."
@@ -37,4 +37,4 @@ In this passage, we see the willingness of the crowd to come together and accept
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

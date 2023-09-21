@@ -9,7 +9,7 @@ In this verse, commentators highlight the reciprocal relationship of blessing be
 2. "God’s blessing is in facts ours in words only."
 3. "Our country, πολίτευμα, is in heaven: there our High Priest stands, blessing us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The doxologies in almost all the Epistles imply the real sense of grace experienced by the writers and their readers."
 2. "God 'blesses' His children; and that not in mere words, but in acts."
 3. "All, that is, every possible blessing for time and eternity, which the Spirit has to bestow."
@@ -55,4 +55,4 @@ These quotes highlight the emphasis on the word "blessed" and its significance i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

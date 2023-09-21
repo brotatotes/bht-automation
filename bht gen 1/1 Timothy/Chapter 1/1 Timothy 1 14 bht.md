@@ -9,7 +9,7 @@ The verse being described showcases the abundant and transformative nature of Go
 2. "Faith and love...are in Christ Jesus." 
 3. "Christian faith and love [are] the contrast to his former hatred and unbelief."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Where sin abounded, grace did much more abound" - Romans 5:20
 2. "With faith, the opposite of 'unbelief'" - Romans 5:20
 3. "Love, in contrast to 'a blasphemer, persecutor, and injurious'"
@@ -63,4 +63,4 @@ The verse being described showcases the abundant and transformative nature of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

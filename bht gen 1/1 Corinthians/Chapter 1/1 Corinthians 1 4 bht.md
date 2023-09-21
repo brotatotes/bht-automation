@@ -9,7 +9,7 @@ In this verse, the commentator's words highlight the significance of grace as a 
 2. "The ἡ χάρις ἡ δοθεῖσα = τὰ χαρίσματα τὰ δοθέντα... a metonymy which has passed so completely into our common parlance, as to be almost lost sight of as such."
 3. "ἐν... in Christ, i.e. to you as members of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He puts the causes for praise and hope among them in the foreground, not to discourage them by the succeeding reproof, and in order to appeal to their better selves."
 2. "My God" (Romans 1:8; Philippians 1:3).
 3. "Always" (Compare Philippians 1:3).
@@ -59,4 +59,4 @@ In this verse, the commentator's words highlight the significance of grace as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we are cautioned against falling into the trap of vainglori
 2. "κενόδοξοι would include all worldly honor" - a reminder that seeking worldly honor is not an objective for Christians.
 3. "The strong vauntingly challenged their weaker brethren they could only reply with envy" - highlighting the correlative act of envy from the weak in response to the strong's provocation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us not become vainglorious." - The commentator highlights the warning in the verse about the danger of becoming prideful or boastful.
 2. "Provoking one another." - The commentator explains that vaingloriousness can lead to a negative cycle of provoking and irritating one another, causing strife and division.
 3. "A danger common both to the orthodox and Judaizing Galatians." - The commentator emphasizes that this warning applies to both groups within the Galatian community, highlighting the universal nature of the caution against vaingloriousness.
@@ -54,4 +54,4 @@ In this Bible verse, we are cautioned against falling into the trap of vainglori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

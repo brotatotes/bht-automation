@@ -9,7 +9,7 @@ The verse under consideration suggests that Paul, in order to disprove false acc
 2. "More apud Judæos receptum erat...erogarent ad sacrificia." - This quote explains the Jewish practice of providing financial support for the Nazarites, showing their commitment to the piety and sacrifices associated with the Nazarite vow.
 3. "Paul accepted it salvâ conscientiâ." - This phrase indicates that Paul agreed to the proposal while maintaining a clear conscience, suggesting that he saw value in participating in the Nazarite vow without compromising his belief in justification by faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Defray the expense of the sacrifices legally required of them" - This quote highlights the responsibility of the individual to bear the financial burden of the sacrifices, emphasizing the importance of fulfilling religious obligations.
 2. "A mark of Jewish generosity" - This quote suggests that contributing to the expenses of others' sacrifices was seen as an act of generosity within the Jewish community, reflecting the values of compassion and support.
 3. "Be at charges with them" - This phrase emphasizes the idea of sharing the financial burden with others, promoting a sense of unity and communal responsibility in fulfilling religious duties.
@@ -59,4 +59,4 @@ The verse under consideration suggests that Paul, in order to disprove false acc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

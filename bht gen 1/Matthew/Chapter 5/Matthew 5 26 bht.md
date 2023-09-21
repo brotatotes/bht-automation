@@ -1,7 +1,7 @@
 # Matthew 5:26 Commentary Help Text
 
 ## BHT:
-This verse, commented on by Henry Alford, Jamieson Fausset Brown, Philip Schaff, Archibald T. Robertson, John Gill, and John Wesley, emphasizes the significance of seeking reconciliation with others before facing eternal consequences. It highlights the importance of taking responsibility for our actions and resolving conflicts, as failing to do so can lead to judgment and condemnation. The verse also emphasizes the severity of divine justice towards the impenitent, and the impossibility of fully rectifying wrongs without divine intervention. It ultimately points to the need for genuine transformation and purity of heart in seeking reconciliation and restoration.
+This verse, commented on by Henry Alford, Jamieson-Fausset-Brown, Philip Schaff, Archibald T. Robertson, John Gill, and John Wesley, emphasizes the significance of seeking reconciliation with others before facing eternal consequences. It highlights the importance of taking responsibility for our actions and resolving conflicts, as failing to do so can lead to judgment and condemnation. The verse also emphasizes the severity of divine justice towards the impenitent, and the impossibility of fully rectifying wrongs without divine intervention. It ultimately points to the need for genuine transformation and purity of heart in seeking reconciliation and restoration.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ This verse, commented on by Henry Alford, Jamieson Fausset Brown, Philip Schaff,
 2. "ὑπηρέτης...must represent the chief of those who...are hinted at by βασανισταί, viz. the great enemy, the minister of the divine wrath."
 3. "κοδράντην, quadrantem, a Latin word (= λεπτόν in Luke), the fourth part of an as."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In expounding the sixth commandment, I have spoken of offenses between man and man reminding you that the offender has another party to deal with besides him whom he has wronged on earth, and assuring you that all worship offered to the Searcher of hearts by one who knows that a brother has just cause of complaint against him, and yet takes no steps to remove it, is vain."
 2. "But I cannot pass from this subject without reminding you of One whose cause of complaint against you is far more deadly than any that man can have against man: and since with that Adversary you are already on the way to judgment, it will be your wisdom to make up the quarrel without delay, lest sentence of condemnation be pronounced upon you."
 3. "The unending duration of future punishment—elsewhere so clearly and awfully expressed by our Lord Himself, as in Matthew 5:29; Matthew 5:30; Mark 9:43; Mark 9:48—is the only doctrine with which His language here quite naturally and fully accords."
@@ -40,4 +40,4 @@ This verse, commented on by Henry Alford, Jamieson Fausset Brown, Philip Schaff,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

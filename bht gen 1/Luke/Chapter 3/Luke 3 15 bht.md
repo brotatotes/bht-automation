@@ -4,7 +4,7 @@
 All men in their hearts were captivated by the thoughts of John, whom some regarded as the long-awaited Christ. They were engrossed in deep contemplation and engaged in serious debates about his identity. John's powerful preaching, his miraculous birth, and the restoration of religion under his influence left them questioning if he truly was the Messiah. The fulfillment of prophecies, the testimonies of Zacharias, Simeon, Anna, and the wise men all contributed to their keen anticipation of the manifestation of the promised Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "showing both how successful he had been in awakening the expectation of Messiah's immediate appearing"
 2. "the high estimation, and even reverence, which his own character commanded"
 3. "Also see on :-."
@@ -40,4 +40,4 @@ All men in their hearts were captivated by the thoughts of John, whom some regar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

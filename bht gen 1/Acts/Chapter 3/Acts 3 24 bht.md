@@ -9,7 +9,7 @@ The verse under consideration speaks of the collective witness of the prophets t
 2. "Samuel is named, more as being the first great prophet after Moses, than as bearing any part in this testimony."
 3. "These days, now present, not the times of restoration, as De Wette and others understand: which would require ἐκείνας."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Foretold of these days" - The verse speaks of prophecies that anticipated the coming of the Messiah and the subsequent time of reformation. These prophecies, scattered throughout the Bible, allude to the specific period in which Jesus would fulfill God's plan for redemption.
 
 2. "All pointing to 'the time of reformation'" - The prophecies mentioned in the verse converge towards a common goal - the time of reformation. This implies that the coming of Jesus was not a random event but a carefully orchestrated plan of God to bring about a significant change in the world.
@@ -50,4 +50,4 @@ The verse under consideration speaks of the collective witness of the prophets t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

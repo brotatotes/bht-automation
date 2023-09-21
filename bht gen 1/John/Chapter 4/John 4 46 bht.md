@@ -9,7 +9,7 @@ In this passage, we encounter a nobleman, possibly connected to the royal househ
 2. "Origen thinks he may have been one of the household of Cæsar, having some business in Judæa at that time."
 3. "The man seems to have been a Jew: see below."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "nobleman—courtier, king's servant, or one connected with a royal household" - This quote highlights the social status and importance of the nobleman, indicating that he was not an ordinary person but someone of significance.
 
 2. "heard that Jesus was come out of Judea" - This quote suggests that the nobleman had prior knowledge of Jesus and the miracles He had performed in Jerusalem, indicating that he had faith in Jesus' ability to heal his son.
@@ -49,4 +49,4 @@ In this passage, we encounter a nobleman, possibly connected to the royal househ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

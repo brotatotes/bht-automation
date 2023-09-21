@@ -9,7 +9,7 @@ In this passage, the author addresses the readers with a sense of unity, referri
 2. "Nor influenced even by the chief Apostles, but of independent authority."
 3. "An historical defence of his own teaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "certify—I made known to you as to the Gospel which was preached by me, that it is not after man" - The commentary emphasizes that the Gospel preached by Paul is not of human origin, highlighting its divine nature and authority.
 
 2. "It is not according to man; not influenced by mere human considerations" - This quote underscores the fact that the Gospel is not shaped by human opinions or agendas, but is rooted in divine truth and purpose.
@@ -63,4 +63,4 @@ These quotes highlight the author's confidence in the divine origin and authorit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

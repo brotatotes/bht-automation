@@ -9,7 +9,7 @@ The Holy Spirit, like a compassionate helper, joins us in our weaknesses and off
 2. "the Holy Spirit of God dwelling in us, knowing our wants better than we, Himself pleads in our prayers, raising us to higher and holier desires than we can express in words"
 3. "the Spirit suggests to us the proper words of acceptable prayer, which would otherwise have been unutterable by us"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But after the like manner doth the Spirit also help. Our infirmity...the general weakness of the spiritual life in its present state." 
 2. "To ask for the right things 'as they ought' is the difficulty...much uncertainty should surround all our spiritual exercises." 
 3. "The Spirit Himself is in them, giving to the emotions which He Himself has kindled the only language of which they are capable."
@@ -57,4 +57,4 @@ These quotes highlight the role of the Holy Spirit in helping believers in their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

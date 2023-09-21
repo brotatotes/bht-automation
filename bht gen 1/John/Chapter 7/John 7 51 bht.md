@@ -9,7 +9,7 @@ In this verse, commentators emphasize the vital importance of fairness and justi
 2. "The judge is not explicitly mentioned before 'hear' and 'know.'"
 3. "Refer to Deuteronomy 1:16 for further understanding."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The feebleness of his defense of Jesus has a strong contrast in the fierceness of the rejoinders of the Pharisees."
 2. "A very proper, but all too tame rejoinder, and evidently more from pressure of conscience than any design to pronounce positively in the case."
 3. "The Pharisees' fierce rejoinders highlight the weakness of his defense of Jesus."
@@ -42,4 +42,4 @@ In this verse, commentators emphasize the vital importance of fairness and justi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

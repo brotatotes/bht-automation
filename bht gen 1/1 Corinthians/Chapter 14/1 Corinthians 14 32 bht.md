@@ -9,7 +9,7 @@ The verse in question highlights the authority and self-control maintained by th
 2. "the inspired spirit being regarded as a πνεῦμα in a peculiar sense from God"
 3. "The omission of the art. generalizes the assertion, making it applicable to all genuine Christian prophets"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "restrain yourselves from speaking all together"
 2. "their own spirits, acted on by the Holy Spirit, are not so hurried away by His influence, as to cease to be under their own control"
 3. "they can if they will hear others, and not demand that they alone should be heard uttering communications from God"
@@ -57,4 +57,4 @@ The verse in question highlights the authority and self-control maintained by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

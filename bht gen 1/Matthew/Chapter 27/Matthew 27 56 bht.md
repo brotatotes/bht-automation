@@ -4,7 +4,7 @@
 In this Bible passage, we encounter a group of devoted women who witnessed significant events surrounding Jesus. Mary Magdalene, known for her deliverance from possession, shows immense love and loyalty to Jesus. Mary, the mother of James and Joses, and Salome, the mother of Zebedee's sons, demonstrate their deep devotion by being present during crucial moments. These women's personal connections and experiences highlight their unwavering attachment to Jesus, underscoring the profound impact he had on their lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Among which was Mary Magdalene."
 2. "Mary the mother of James and Joses—the wife of Cleophas, or rather Clopas, and sister of the Virgin."
 3. "The mother of Zebedee's children—that is, Salome."
@@ -42,4 +42,4 @@ Note: The commentary provides additional information about the names and identit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

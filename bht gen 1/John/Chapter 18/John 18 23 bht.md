@@ -9,7 +9,7 @@ In this verse, Jesus addresses the importance of seeking justice and maintaining
 2. "It has been often and well observed."
 3. "It does not exclude the remonstrating against unjust oppression."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If I spoke" evil, in reply to the high priest.
 2. "Well" seems to challenge more than this as due to His remonstrance.
 3. This shows that John 18:23 is not to be taken to the letter.
@@ -45,4 +45,4 @@ In this verse, Jesus addresses the importance of seeking justice and maintaining
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

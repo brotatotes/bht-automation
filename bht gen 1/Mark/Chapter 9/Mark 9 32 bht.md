@@ -4,7 +4,7 @@
 The disciples were perplexed and fearful, unable to comprehend the profound implications of Jesus' words on his death and resurrection. They were shaken by the shattered paradigms of their cherished beliefs. In their ignorance and confusion, they hesitated to seek clarification, restrained by the fear of exposing their lack of understanding. The disciples struggled to reconcile Jesus' death with his identity as the Son of God, struggling to grasp the necessity of his sacrifice and the glorious hope of resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their most cherished ideas were so completely dashed by such announcements, that they were afraid of laying themselves open to rebuke by asking Him any questions."
 2. "Matthew, who was one of them, retains a vivid recollection of their sorrow."
 3. "Strife among the Twelve, with Relative Teaching."
@@ -30,4 +30,4 @@ The disciples were perplexed and fearful, unable to comprehend the profound impl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

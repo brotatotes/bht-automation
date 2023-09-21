@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the upcoming sufferings and tria
 2. "That ye may be tried...and ye shall have tribulation ten days." 
 3. "Be thou faithful unto death, and I will give thee the crown of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Captain of our salvation never keeps back what those who faithfully witness for Him may have to bear for His name's sake." 
 2. "The conflict of [Christ's] people was not with mere flesh and blood, but with the rulers of the darkness of this world." 
 3. "The same event is often both a temptation from the devil, and a trial from God."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize the upcoming sufferings and tria
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

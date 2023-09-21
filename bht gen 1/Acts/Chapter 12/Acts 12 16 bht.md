@@ -4,7 +4,7 @@
 In this verse, we see the powerful lesson of persistence in prayer and trust in God's timing. Peter's unwavering determination to keep knocking on the door of heaven serves as an example for us to continue seeking God's intervention, even in the face of delays. The astonishment of those who opened the door and saw Peter reinforces the notion that God's ways are often beyond our understanding. Despite their amazement at Peter's unexpected deliverance, they realized the miraculous power of God at work in his life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's persistence in knocking is a powerful reminder of the importance of perseverance in our prayers. Just as Peter did not give up despite the delay, we too should continue knocking on the doors of heaven, trusting that God hears and will answer in His perfect timing."
 
 2. "The danger of delay is highlighted in this verse. When we allow delays to discourage us or cause us to doubt, we risk missing out on the blessings and breakthroughs that God has in store for us. We must remember that God's timing is always perfect, and His delays are not denials."
@@ -30,4 +30,4 @@ In this verse, we see the powerful lesson of persistence in prayer and trust in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

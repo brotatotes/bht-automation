@@ -11,7 +11,7 @@ In this verse, the Bible condemns the act of showing partiality towards the rich
 
 3. "The words may refer either to persecutions, or to oppressive law-suits; or perhaps to both." (The rich not only persecute the Christians but also subject them to oppressive legal proceedings.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To dishonor the poor is to dishonor those whom God honors, and so to invert the order of God."
 2. "Is it not they (those very persons whom ye partially prefer) that drag you (namely, with violence)?"
 3. "Instituting persecutions for religion, as well as oppressive lawsuits, against you."
@@ -59,4 +59,4 @@ In this verse, the Bible condemns the act of showing partiality towards the rich
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

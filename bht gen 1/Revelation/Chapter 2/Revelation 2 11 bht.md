@@ -11,7 +11,7 @@ The promise of protection for those who overcome is emphasized, leaving no chanc
 
 3. "The second death...in this he shall have no part, nor it any power over him" - This quote explains the concept of the second death, which is defined as the lake of fire in Revelation 20:14. It emphasizes that the conqueror will be completely separated from the second death, having no part in it and no power of it over them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The death in life of the lost, as contrasted with the life in death of the saved."
 2. "What matter about the first death, if we escape the second death?"
 3. "Affliction, like myrrh, is bitter for the time being, but salutary; preserving the elect from corruption, and seasoning them for immortality."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy and contains repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse calls believers to live in a manner that reflects honor on God and th
 2. "The εἰς implying the direction, and, of course, in a subjective sentence, consequently the purpose of their action."
 3. "God calls us to His kingdom, the kingdom of our Lord Jesus, which He shall establish at His coming: and He calls us to His glory, to partake of that glory in His presence, which our Lord Jesus had with Him before the world began."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Inconsistency would cause God's name to be 'blasphemed among the Gentiles'." 
 2. "The Greek article is emphatical, 'Worthy of THE God who is calling you.'"
 3. "His kingdom—to be set up at the Lord's coming."
@@ -57,4 +57,4 @@ This verse calls believers to live in a manner that reflects honor on God and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

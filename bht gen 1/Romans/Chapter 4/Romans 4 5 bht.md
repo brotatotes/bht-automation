@@ -9,7 +9,7 @@ In this verse, the commentator describes a powerful truth about faith and justif
 2. "casts himself in simple trust and humility on Him who justifies the ungodly." 
 3. "ἀσέβεια is the state of all men by nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To him that worketh not" - This phrase refers to those who realize that their own efforts and works cannot earn them acceptance with God. It highlights the futility of relying on our own righteousness and emphasizes the need for faith in God's mercy and grace.
 
 2. "Believeth on him that justifieth the ungodly" - This phrase emphasizes the radical nature of God's justification. It is not based on our own righteousness or goodness, but on God's willingness to justify the ungodly. It calls us to trust in God's character and His ability to declare us righteous despite our unworthiness.
@@ -59,4 +59,4 @@ In this verse, the commentator describes a powerful truth about faith and justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

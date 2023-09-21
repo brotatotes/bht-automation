@@ -4,7 +4,7 @@
 Through the shedding of His own blood, Christ entered once for all into the heavenly sanctuary, securing eternal redemption. His sacrifice surpasses all the shadows and rituals of the Old Testament, rendering them obsolete. As the true High Priest, He offered Himself, sinless and willingly, providing a profound and lasting deliverance from the guilt and power of sin. Through faith, all believers can enter into this holy place, experiencing the joy and salvation found in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The atonement effected by the goat sin offering...consisted in the transfer of the people's sins on the goat, and their consequent removal out of sight." 
 2. "Christ's death is symbolized by the slain goat; His resurrection to life by the living goat sent away." 
 3. "The entrance of our Redeemer, once for all, into the heavenly holiest place, secures eternal redemption to us; whereas the Jewish high priest's entrance was repeated year by year, and the effect temporary and partial."
@@ -52,4 +52,4 @@ Through the shedding of His own blood, Christ entered once for all into the heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

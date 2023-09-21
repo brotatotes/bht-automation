@@ -9,7 +9,7 @@ The verse described in these commentaries showcases the conflicting emotions and
 2. "But there is no difficulty even on the strictest view of inspiration, in conceiving that the Apostle may have afterwards regretted the severity which he was guided to use."
 3. "It appears then that he would render εἰ καὶ πρὸς ὥραν, 'if even for a season,' = 'scarcely for any time.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was almost regretting, through parental tenderness, his having used rebukes calculated to grieve the Corinthians; but now that he has learned from Titus the salutary effect produced on them, he no longer regrets it."
 2. "I do not regret it, though I did regret it."
 3. "I perceive that that Epistle did make you sorry, though it was but for a season."
@@ -55,4 +55,4 @@ The verse described in these commentaries showcases the conflicting emotions and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

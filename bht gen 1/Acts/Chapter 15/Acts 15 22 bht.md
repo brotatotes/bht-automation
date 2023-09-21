@@ -9,7 +9,7 @@ In the early days of the Church, a crucial decision was reached through thoughtf
 2. "Such irregularities of case in words in apposition as we have here will not surprise any one versed in Hellenistic Greek."
 3. "The Silvanus, by whom the first Epistle of Peter was carried to the churches of Asia Minor, seems to be the same person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judas surnamed Barsabas—therefore not the apostle 'Judas the brother of James' (Acts 1:13), surnamed 'Thaddeus' (Matthew 10:3); nor can it be shown that he was a brother of 'Joseph called Barsabas' (Acts 1:23). But nothing is known of him beyond what is here said." 
 2. "Silas—the same as 'Silvanus' in the Epistles. He became Paul's companion on his second missionary journey (Acts 1:23- :)." 
 3. "Chief men among the brethren—selected purposely as such, to express the honor in which they held the church at Antioch, and the deputies they had sent to the council, and, as the matter affected all Gentile converts, to give weight to the written decision of this important assembly."
@@ -50,4 +50,4 @@ In the early days of the Church, a crucial decision was reached through thoughtf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

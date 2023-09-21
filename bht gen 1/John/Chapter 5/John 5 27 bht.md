@@ -4,7 +4,7 @@
 The Bible verse being described is about Jesus being appointed as the judge of mankind because He became man. This appointment displays divine wisdom and serves as a display of God's power and authority. Jesus, referred to as the Son of Man, possesses the moral right and physical power to execute judgment as the one who understands our weaknesses and has the authority to pronounce doom. As a compassionate and just judge, Jesus imparts life to those who have heard His voice and stands as the ultimate authority in both the present and the final judgment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What Christ had properly in view was the indwelling of the Son's essential life in humanity as the great theater and medium of divine display." 
 2. "The appointment of a Judge in our own nature is one of the most beautiful arrangements of divine wisdom in redemption." 
 3. "The Son of Man signifies not only the humanity of Christ, but also His divine authority and power."
@@ -52,4 +52,4 @@ The Bible verse being described is about Jesus being appointed as the judge of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

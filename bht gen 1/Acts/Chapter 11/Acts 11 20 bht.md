@@ -9,7 +9,7 @@ In this verse, we see that a group of believers, including men from Cyprus and C
 2. "But that reading gives, in this place, no assignable sense whatever: for (1) the Hellenists were long ago a recognized part of the Christian church, (2) among these διασπαρέντες themselves in all probability there were many Hellenists, and (3) the term Ἰουδαῖοι includes the Hellenists, the distinctive appellation of pure Jews being not Ἰουδαῖοι, but Ἑβραῖοι."
 3. "Nothing to my mind can be plainer, from what follows respecting Barnabas, than that these Ἕλληνες were GENTILES, uncircumcised; and that their conversion took place before any tidings had reached Jerusalem of the divine sanction given in the case of Cornelius."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel had, from the first, been preached to 'the Grecians' or Greek-speaking Jews."
 2. "These 'men of Cyprus and Cyrene' were themselves 'Grecians.'"
 3. "How, then, can we suppose that the historian would note, as something new and singular, that some of the dispersed Christians preached to them?"
@@ -53,4 +53,4 @@ In this verse, we see that a group of believers, including men from Cyprus and C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

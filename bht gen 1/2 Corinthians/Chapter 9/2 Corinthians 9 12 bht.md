@@ -9,7 +9,7 @@ The verse being described in the commentaries is about the act of providing for 
 2. "The emphasis is on προσαναπληροῦσα and περισσεύουσα, causing to overflow what were ὑστερήματα."
 3. "The ministration of this public service not only fills up the needs of the saints, but also overflows with many thanksgivings to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ministration of this public service is not only still further supplying the wants of the saints, but is abounding also through many thanksgivings to God." 
 
 2. "The act of providing for the needs of others in poverty is not just a duty, but a way to express gratitude to God." 
@@ -47,4 +47,4 @@ Note: The commentary provided is quite brief, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

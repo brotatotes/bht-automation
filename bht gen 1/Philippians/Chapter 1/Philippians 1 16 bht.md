@@ -4,7 +4,7 @@
 In this Bible verse, we see that there are individuals who preach Christ with different motivations and intentions. Some do it out of love for Christ and the spread of the Gospel, while others do it for their own personal gain and to undermine the apostle's authority. Despite the mixed motives, the apostle Paul remains steadfast and joyful, knowing that regardless of the intentions, the preaching of Christ ultimately brings glory to God and spreads the message of salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These (last) indeed out of love (to Christ and me), knowing that I am set for the defense of the Gospel." 
 2. "The others out of contention, proclaim Christ, not sincerely, not with a pure intention."
 3. "Their thought was, that taking the opportunity of my being laid aside, they would exalt themselves by their Judaizing preaching, and depreciate me and my preaching, and so cause me trouble of spirit in my bonds."
@@ -44,4 +44,4 @@ These quotes highlight the malicious intentions of those who preach Christ out o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

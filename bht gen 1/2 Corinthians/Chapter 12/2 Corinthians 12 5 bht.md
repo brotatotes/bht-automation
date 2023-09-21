@@ -9,7 +9,7 @@ In this verse, the speaker demonstrates humility and a commendable focus on God'
 2. "He strikes here again the keynote of the whole boasting in his infirmities."
 3. "He will boast of such a person, so favoured, so exalted; but this merely by the way: it is not his subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Self is put in the background, except in respect to his infirmities."
 2. "His glorying in his other self, to which the revelations were vouchsafed, was not in order to give glory to his fleshly self."
 3. "But to bring out in contrast the 'infirmities' of the latter, that Christ might have all the glory."
@@ -52,4 +52,4 @@ In this verse, the speaker demonstrates humility and a commendable focus on God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

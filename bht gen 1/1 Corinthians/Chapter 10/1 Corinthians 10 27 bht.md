@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the delicate balance between engagin
 2. "At such, there might be meat which had been offered to idols" - The commentary highlights the possibility of encountering food that had been offered to idols at the banquet.
 3. "On ( διὰ τ . συνείδ ., see above, 1 Corinthians 10:25" - The commentary refers to a previous verse (1 Corinthians 10:25) to provide further context for the phrase "through conscience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye be disposed to go—tacitly implying, they would be as well not to go, but yet not forbidding them to go" - This quote highlights the author's suggestion that while it may not be explicitly forbidden to attend the feast, it would be better for them not to go. 
 
 2. "The feast is not an idol feast, but a general entertainment, at which, however, there might be meat that had been offered to an idol." - This quote clarifies that the feast itself is not an idol feast, but there may be food present that has been offered to idols. 
@@ -47,4 +47,4 @@ In this Bible verse, commentators emphasize the delicate balance between engagin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

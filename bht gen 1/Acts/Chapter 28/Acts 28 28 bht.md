@@ -9,7 +9,7 @@ The verse in question speaks of the universal nature of God's salvation, extendi
 2. "They will also hear it."
 3. "It may perhaps, after all, have been omitted as appearing superfluous after Acts 28:25."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The salvation of God is sent to the Gentiles, and they will hear." - This verse highlights the inclusive nature of God's salvation, extending beyond the Jewish people to the Gentiles. It emphasizes that salvation is not limited to a specific group but is available to all who are willing to hear and receive it.
 
 2. "This departure to the Gentiles" - The phrase "departure to the Gentiles" signifies a shift in focus from the Jewish people to the non-Jewish nations. It indicates a significant turning point in the spread of the Gospel, where the message of salvation is now being directed towards the Gentiles.
@@ -45,4 +45,4 @@ The verse in question speaks of the universal nature of God's salvation, extendi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

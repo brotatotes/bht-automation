@@ -4,7 +4,7 @@
 In this verse, a blasphemous parody is made by comparing the beast to God. The language used is typically reserved for God, emphasizing the audacity of equating the two. It echoes the praise and adoration given to God in the Old Testament, highlighting the beast's attempt to usurp divine attributes. The worship given to the beast is not only a mockery of God, but also an extension of devil-worship, as the beast is depicted as a tool of the devil.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very language appropriated to God" - The commentary highlights that the phrase "Who is like unto the beast?" is a language typically used to describe God, emphasizing the blasphemous nature of assigning it to the beast. 
 
 2. "A parody of the name 'Michael'" - The commentary suggests that the phrase is a parody of the name "Michael," which means "Who is like unto God?" This further emphasizes the contrast between the beast and God. 
@@ -42,4 +42,4 @@ In this verse, a blasphemous parody is made by comparing the beast to God. The l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

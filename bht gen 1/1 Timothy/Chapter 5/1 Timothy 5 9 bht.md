@@ -9,7 +9,7 @@ In this verse, a woman who is at least sixty years old and has been the wife of 
 2. "Such [widows] are understood here by Chrys. himself in his homily on the passage, 'as there are choirs of virgins, so there were choirs of widows, and it was not allowed for them to be simply enrolled among the widows.'"
 3. "Let a woman be enrolled a widow, who is not less than sixty years old, the wife of one husband, having a good character in good works, if she brought up children, if she received strangers, if she washed the feet of the saints, if she relieved the distressed, if she followed every good work."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As a widow (that is, of the ecclesiastical order of widowhood; a kind of female presbytery), let none be enrolled (in the catalogue) who is less than sixty years old."
 2. "Traces of such a class appear in Acts 9:36-42. Dorcas herself was such a one."
 3. "Age was doubtless a requisite in presbyters, as it is here stated to have been in presbyteresses, with a view to their influence on the younger persons of their sex."
@@ -59,4 +59,4 @@ In this verse, a woman who is at least sixty years old and has been the wife of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

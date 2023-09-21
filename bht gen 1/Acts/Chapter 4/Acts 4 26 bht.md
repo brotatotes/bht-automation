@@ -4,7 +4,7 @@
 In this verse, powerful rulers and authorities gather together in opposition against Jesus, the Anointed One. The commentary highlights the significance of this opposition, as it is not merely directed against a human being, but against the Lord Himself. The opposition faced by Jesus is seen as an affront to God, reflecting the deep spiritual conflict between the kingdom of God and the kingdom of this world. It emphasizes the divine appointment and anointing of Jesus, underscoring that rejecting or opposing Him is tantamount to rejecting or opposing God Himself.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe the two opposite classes, representing the two interests which were about to come into deadly conflict." 
 
 2. "This verse highlights the tension and conflict that is about to unfold between the followers of Jesus and the religious leaders of the time." 
@@ -48,4 +48,4 @@ These quotes highlight the gathering of powerful rulers and their opposition aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

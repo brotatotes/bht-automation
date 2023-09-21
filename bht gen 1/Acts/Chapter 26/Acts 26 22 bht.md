@@ -9,7 +9,7 @@ In this verse, the author reflects on the divine assistance received when facing
 2. "μαρτυρόμενος must be passive, and signify 'testified to,' 'borne witness of.'"
 3. "There can, I think, be no question either critically or exegetically of the correctness of the other reading μαρτυρόμενος, bearing witness, as directly appropriate to the office to which Paul was appointed, that of a witness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having obtained help from God" - The author emphasizes the divine assistance received, highlighting the reliance on God's support in times of need.
 2. "I continue to stand" - This phrase underscores the author's determination to hold firm in their faith, refusing to be swayed or defeated by external challenges.
 3. "Witnessing...that is, This life of mine, so marvellously preserved" - The commentary highlights the significance of the author's life as a testimony to the power and faithfulness of God, despite facing numerous threats and dangers.
@@ -50,4 +50,4 @@ In this verse, the author reflects on the divine assistance received when facing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

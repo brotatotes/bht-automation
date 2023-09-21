@@ -10,7 +10,7 @@ Love is a virtue that encompasses many qualities and attitudes. It is patient an
 3. "περπερεύεται... displays not itself."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "suffereth long—under provocations of evil from others. The negative side of love."
 2. "is kind—the positive side. Extending good to others."
 3. "vaunteth not—in words, even of gifts which it really possesses; an indirect rebuke of those at Corinth who used the gift of tongues for mere display."
@@ -54,4 +54,4 @@ Love is a virtue that encompasses many qualities and attitudes. It is patient an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

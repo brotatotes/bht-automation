@@ -9,7 +9,7 @@ In this Bible verse, commentators describe the urgency and danger faced by the p
 2. "The urgency of the danger when the seamen would with their own hands, cast away what otherwise was needful to the ship and themselves." 
 3. "This not being seen, αὐτόχ . has been supposed to imply the first person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "cast out with our own hands—passengers and crew together." 
 2. "the tackling of the ship—whatever they could do without that carried weight."
 3. "This further effort to lighten the ship seems to show that it was now in a leaking condition."
@@ -45,4 +45,4 @@ In this Bible verse, commentators describe the urgency and danger faced by the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

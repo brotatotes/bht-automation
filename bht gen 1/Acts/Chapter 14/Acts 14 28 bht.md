@@ -4,7 +4,7 @@
 This verse describes a significant period of time spent by Paul and Barnabas in Antioch. They faced disputes and challenges, particularly regarding the observance of Jewish customs. However, this time in Antioch was also characterized by fellowship and the development of a thriving Christian community. This period marked a turning point in the history of Christianity, as the success of the church in Antioch paved the way for further spread of the gospel. Further insights into the disputes can be found in the subsequent chapter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the commencement of the mission till they left Antioch to go up to attend the council at Jerusalem, some four or five years elapsed." This quote highlights the significant amount of time that Paul and Barnabas spent in Antioch before embarking on their missionary journey. 
 
 2. "The rest of the time would be the period of their stay at Antioch." This quote emphasizes that the majority of the time was spent in Antioch, indicating the importance of this city in the early Christian movement. 
@@ -39,4 +39,4 @@ This verse describes a significant period of time spent by Paul and Barnabas in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

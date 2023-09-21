@@ -9,7 +9,7 @@ In this Bible verse, there is an acknowledgement of the diversity of languages a
 2. "The use of φωνῶν, and not γλωσσῶν, is no doubt intentional, to avoid confusion, γλῶσσα being for the most part used in this passage in a peculiar meaning."
 3. "None of them is without signification, as E. V.: or, is inarticulate."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It may be—that is, perhaps, speaking by conjecture."
 2. "So many—as may be enumerated by investigators of such matters."
 3. "None is without its own voice, or mode of speech, distinct from the rest."
@@ -50,4 +50,4 @@ In this Bible verse, there is an acknowledgement of the diversity of languages a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse emphasizes the importance of discerning the true nature of individuals by examining the outcomes of their actions. The focus should be on identifying false teachers, who may appear righteous but deliver corrupt teachings. The actions and behavior of a person reveal their true character, and good actions are the fruit of a good heart rooted in Christ. It serves as a warning against religious hypocrisy and reminds believers to align their actions with their words.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By their fruits ye shall know them" - This verse emphasizes the importance of discerning the true nature of individuals by examining the outcomes of their actions. It serves as a warning against religious hypocrisy and encourages believers to be vigilant in identifying false teachers.
 2. "The point I now press is not so much the end of such, as the means of detecting them" - The commentator highlights that the focus should not solely be on the ultimate fate of false teachers, but rather on the methods of identifying them. This suggests that believers should prioritize discernment and the examination of fruits as a means of recognizing false teachings.
 3. "The hypocrisy of teachers now leads to a solemn warning against religious hypocrisy in general" - The commentary points out that the hypocrisy of teachers serves as a warning against religious hypocrisy as a whole. This implies that the actions and teachings of religious leaders have a significant impact on the perception and practice of faith.
@@ -30,4 +30,4 @@ This verse emphasizes the importance of discerning the true nature of individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

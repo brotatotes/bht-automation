@@ -9,7 +9,7 @@ The verse being described highlights the diligent inquiry of the prophets into t
 2. "The sufferings regarding (spoken of with reference to; or, as before, ‘destined for’) Christ."
 3. "The glories after these (sufferings) (on these δόξαι, see ch. 1 Peter 3:18; 1 Peter 3:22; 1 Peter 5:1. 'Gloriam resurrectionis: gloriam adscensionis: gloriam judicii novissimi et regni cœlestis.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What expresses the time absolutely: what was to be the era of Messiah's coming; what manner of time; what events and features should characterize the time of His coming."
 2. "The 'or' implies that some of the prophets, if they could not as individuals discover the exact time, searched into its characteristic features and events."
 3. "Since 'the Spirit of Christ' is the Spirit of God, Christ is God. It is only because the Son of God was to become our Christ that He manifested Himself and the Father through Him in the Old Testament, and by the Holy Spirit, eternally proceeding from the Father and Himself, spake in the prophets."
@@ -55,4 +55,4 @@ The verse being described highlights the diligent inquiry of the prophets into t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

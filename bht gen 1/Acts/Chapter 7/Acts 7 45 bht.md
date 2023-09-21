@@ -9,7 +9,7 @@ The verse being described emphasizes the significance of succession, possession,
 2. "The word is one of those examples of verbal nouns in -σις where the meaning hovers uncertainly between the act of doing and the thing done."
 3. "The martyr combines rapidly a considerable period, during which this κατάσχεσις and this expulsion was taking place (for it was not complete till the time of David) in order to arrive at the next great event of his history, the substitution of the temple of Solomon for the tabernacle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having received it by succession" - The commentary highlights the idea that the custody of the tabernacle was passed down from generation to generation, emphasizing the importance and continuity of this responsibility.
 2. "at the taking possession of [the territory of] the Gentiles" - This quote explains that the possession of the tabernacle occurred when the Israelites conquered the land of the Gentiles, providing historical context for the event.
 3. "even that temple, magnificent though it was, was not the proper resting-place of Jehovah upon earth" - The commentary challenges the belief that the temple in Jerusalem was the ultimate dwelling place of God, suggesting that there is a deeper understanding of where God truly resides.
@@ -55,4 +55,4 @@ Note: The commentary is about the verse Acts 7:45.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

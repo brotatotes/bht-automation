@@ -9,7 +9,7 @@ In this verse, the hearers are deeply impacted by Peter's words, feeling a sharp
 2. "Concionis fructum Lucas refert, ut sciamus non modo in linguarum varietate exsertam fuisse Spiritus Sancti virtutem, sed in eorum etiam cordibus qui audiebant." (Translation: "Luke reports the fruit of the sermon, so that we may know that not only was the power of the Holy Spirit manifested in the diversity of languages, but also in the hearts of those who heard.")
 3. "ποιήσωμεν, the deliberative subjunctive, cf. Winer, edn. 6, § 41, a. 4, b. What most we do?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "pricked in their hearts—the begun fulfilment of Zechariah 12:10, whose full accomplishment is reserved for the day when 'all Israel shall be saved'." 
 2. "This is that beautiful spirit of genuine compunction and childlike docility, which, discovering its whole past career to have been one frightful mistake, seeks only to be set right for the future." 
 3. "So Saul of Tarsus (Acts 9:6)."
@@ -53,4 +53,4 @@ In this verse, the hearers are deeply impacted by Peter's words, feeling a sharp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

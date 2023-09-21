@@ -4,7 +4,7 @@
 This passage describes a rich individual who is faced with the difficult choice of either parting with his material possessions to follow Christ or holding onto his wealth. The person feels deep sorrow, but it is clear that their attachment to their riches is a hindrance in fully committing to Christ. The lack of willingness to give up their wealth is seen as a deficiency in fulfilling the requirements of the law and a barrier to genuine obedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sorry he was, very sorry, to part with Christ; but to part with his riches would have cost him a pang more."
 2. "When Riches or Heaven, on Christ's terms, were the alternative, the result showed to which side the balance inclined."
 3. "Thus was he shown to lack the one all-comprehensive requirement of the law—the absolute subjection of the heart to God, and this want vitiated all his other obediences."
@@ -28,4 +28,4 @@ This passage describes a rich individual who is faced with the difficult choice 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

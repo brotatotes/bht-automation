@@ -4,7 +4,7 @@
 In this verse, the seed of the word is sown among those who are consumed by the worries of the world, the allure of wealth, and various other desires. The thorns that grow up alongside the seed overwhelm it, preventing it from truly taking root and bearing fruit. These worldly concerns gain the upper hand, rendering the word ineffective and unproductive in their lives. The result is an unfortunate situation where the seed yields no fruit and fails to triumph over the distractions and temptations of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This case is that of ground not thoroughly cleaned of the thistles, c. which, rising above the good seed, 'choke' or 'smother' it, excluding light and air, and drawing away the moisture and richness of the soil."
 2. "The evil here is neither a hard nor a shallow soil—there is softness enough, and depth enough; but it is the existence in it of what draws all the moisture and richness of the soil away to itself, and so starves the plant."
 3. "What now are these 'thorns?'"
@@ -35,4 +35,4 @@ In this verse, the seed of the word is sown among those who are consumed by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

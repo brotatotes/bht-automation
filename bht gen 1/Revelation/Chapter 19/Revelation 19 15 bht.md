@@ -4,7 +4,7 @@
 In this verse, an authoritative figure emerges, equipped with a sharp sword representing the power and judgment of Christ. The ruler will exercise both shepherd-like guidance and a harsh iron rod of punishment. The language used portrays the intense wrath of God, symbolized by a winepress, as the ruler enacts divine justice upon rebellious forces. This imagery highlights the ruler's transformation from meekness to victorious power, ensuring the rightful subjection of all nations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here in its avenging power, 2 Thessalonians 2:8, 'consume with the Spirit of His mouth' (2 Thessalonians 2:8- :, to which there is allusion here); not in its convicting and converting efficacy."
 2. "The Father commits the judgment to the Son."
 3. "He, who would have shepherded them with pastoral rod and with the golden scepter of His love, shall dash them in pieces, as refractory rebels, with 'a rod of iron.'"
@@ -48,4 +48,4 @@ In this verse, an authoritative figure emerges, equipped with a sharp sword repr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

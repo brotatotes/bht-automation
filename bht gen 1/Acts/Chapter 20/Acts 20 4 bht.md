@@ -9,7 +9,7 @@ In this verse, we see a group of companions accompanying Paul on his journey. So
 2. "The name Πύῤῥου has been erased as that of an unknown person, and because the mention of the father is unusual in the N. T."
 3. "The Gaius here is not the Gaius of ch. Acts 19:29, who was a Macedonian. The epithet Δερβαῖος is inserted for distinction’s sake."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sopater [the son] of Pyrrhus of Berea." - The mention of Sopater's father distinguishes him from another person with a similar name, Sosipater. (Quote 1)
 2. "Gaius of Derbe...though he spent an important part of his Christian life away from his native Derbe, he had latterly retired to some place not very far from it." - Gaius had a connection to Derbe but had spent time elsewhere before retiring near his hometown. (Quote 2)
 3. "Tychicus and Trophimus...put themselves, from this time forward, at the apostle's disposal, and to the very last been a great comfort to him." - Tychicus and Trophimus were devoted companions to the apostle Paul and provided him with comfort. (Quote 3)
@@ -52,4 +52,4 @@ These quotes provide insight into the background and roles of the companions of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

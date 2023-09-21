@@ -4,7 +4,7 @@
 In this passage, we read about the judgment and destruction of the wicked, symbolized by the vine of the earth and the great winepress of the wrath of God. The commentators note that the vine represents those who have rejected God's planting and followed their own ways. The winepress is seen as a metaphor for God's wrath and the severe consequences that await those who oppose Him. This image of judgment and destruction is seen throughout the book of Revelation and serves as a reminder of the dire consequences of rejecting God's ways.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The vine" is the subject of judgment because its grapes are not what God looked for considering its careful culture, but "wild grapes."
 2. The apostate world of Christendom, not the world of heathendom who have not heard of Christ, is the object of judgment.
 3. Compare the emblem, Revelation 19:15; Isaiah 63:2; Isaiah 63:3; Joel 3:13.
@@ -38,4 +38,4 @@ In this passage, we read about the judgment and destruction of the wicked, symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

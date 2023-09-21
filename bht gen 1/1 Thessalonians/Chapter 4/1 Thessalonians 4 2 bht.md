@@ -9,7 +9,7 @@ This verse refers to a set of instructions or commandments that were previously 
 2. "The stress is on τίνας, to which τοῦτο answers."
 3. "By, i.e. coming from, παραγγελθείσας διὰ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "by the Lord Jesus—by His authority and direction, not by our own."
 2. "He uses the strong term, 'commandments,' in writing to this Church not long founded, knowing that they would take it in a right spirit, and feeling it desirable that they should understand he spake with divine authority."
 3. "'The Lord' marks His paramount authority, requiring implicit obedience."
@@ -49,4 +49,4 @@ This verse refers to a set of instructions or commandments that were previously 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a woman who was once seen as a great sinner is now recogniz
 2. "The sense of forgiveness of sin is not altogether correspondent to the sense of forgiveness of a debt. The latter must be altogether past, and a fact to be looked back on, to awaken gratitude: the former, by no means so."
 3. "The expectation, the desire, and hope of forgiveness, the πίστις of Luke 7:50, awoke this love; just as in our Christian life, the love daily awakened by a sense of forgiveness, yet is gathered under and summed up in a general faith and expectation, that ‘in that day’ all will be found to have been forgiven."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her sins which are many—"Those many sins of hers," our Lord, who admitted how much more she owed than the Pharisee, now proclaims in naked terms the forgiveness of her guilt."
 2. "for—not because, as if love were the cause of forgiveness, but 'inasmuch as,' or 'in proof of which.' The latter clause of the verse, and the whole structure of the parable, plainly show this to be the meaning."
 3. "little forgiven . . . loveth little—delicately ironical intimation of no love and no forgiveness in the present case."
@@ -50,4 +50,4 @@ In this Bible verse, a woman who was once seen as a great sinner is now recogniz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

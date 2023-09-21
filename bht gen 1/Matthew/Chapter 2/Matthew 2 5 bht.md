@@ -4,7 +4,7 @@
 The commentators unanimously point to the fulfillment of a prophetic declaration that establishes the divine plan and purpose behind Jesus' birth in Bethlehem. The religious leaders, though unwittingly, confirm the truth of this prophecy, which is well known among them. The testimony from the highest tribunal ultimately condemns Him to die, aligning with the common belief that the Messiah was to come from Bethlehem. This definitive answer is found in the scriptures, as it stands written by the prophet.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A prompt and involuntary testimony from the highest tribunal; which yet at length condemned Him to die." 
 2. "The testimony of the religious leaders unwittingly confirms the truth of the prophecy." 
 3. "The fulfillment of the prophecy demonstrates the divine plan and purpose behind Jesus' birth in Bethlehem."
@@ -30,4 +30,4 @@ The commentators unanimously point to the fulfillment of a prophetic declaration
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

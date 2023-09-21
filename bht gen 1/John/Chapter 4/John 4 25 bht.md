@@ -9,7 +9,7 @@ The Bible verse being described is a conversation between Jesus and a Samaritan 
 2. "The question of Joh 4:20 had not been answered to her liking or expectation: she therefore puts aside, as it were, what has been said, by a remark on that suspicion which was arising in her mind."
 3. "The name ὁ χριστός had become common in popular parlance, like many other Greek words and names."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we take our Lord's immediate disclosure of Himself, in answer to this, as the proper key to its meaning to His ear, we can hardly doubt that the woman was already all but prepared for even this startling announcement."
 2. "Thus quickly, under so matchless a Teacher, was she brought up from her sunken condition to a frame of mind and heart capable of the noblest revelations."
 3. "Tell us all things—an expectation founded probably on John 4:25-26."
@@ -55,4 +55,4 @@ The Bible verse being described is a conversation between Jesus and a Samaritan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

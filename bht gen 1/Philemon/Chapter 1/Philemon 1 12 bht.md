@@ -9,7 +9,7 @@ In this verse, the writer passionately appeals to the reader to receive and acce
 2. "But the expression more probably means, mine own heart 'as dear to me as mine own heart.'"
 3. "The construction (see var. readd.) is an anacoluthon: the Apostle goes off into the relative clause, and loses sight, as so often, of the construction with which he began: taking it up again at Philemon 1:17."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As dear to me as my own heart [Alford]." 
 2. "The object of my most intense affection as that of a parent for a child." 
 3. "As myself."
@@ -59,4 +59,4 @@ In this verse, the writer passionately appeals to the reader to receive and acce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described talks about the mysterious and unseen nature of the Sp
 
 3. "We see its effects, in ourselves, and others who have it; but we cannot trace its beginnings, nor can we prescribe to the Holy Spirit His course." - This quote emphasizes the mystery and sovereignty of the Holy Spirit, reminding us that we cannot fully understand or control His workings in our lives.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Breath and spirit are constantly brought together in Scripture as analogous."
 2. "The laws which govern the motion of the winds are even yet but partially discovered."
 3. "The risings, failings, and change in direction of those gentle breezes will probably ever be a mystery to us."
@@ -55,4 +55,4 @@ The verse being described talks about the mysterious and unseen nature of the Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

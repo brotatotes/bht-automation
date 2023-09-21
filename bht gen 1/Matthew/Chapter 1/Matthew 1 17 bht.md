@@ -9,7 +9,7 @@ In this genealogical record, the names of ancestors are carefully arranged by co
 2. "So that the three stand thus, according to the words of this verse: (1) ἀπὸ Ἀβραὰμ ἕως Δαυίδ . (2) ἀπὸ Δαυὶδ ἕως τ . μετ . Βαβ ., i.e. about the time when Josiah begat Jechonias. (3) ἀπὸ τ . μετ . Βαβ . (i.e. from Jechonias) ἕως τοῦ χριστοῦ ."
 3. "We may safely say, that the πᾶσαι does not, as Meyer, imply that Matthew intended to give the genealogy complete, and was not aware of the omissions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole may be conveniently divided into three fourteens, each embracing one marked era, and each ending with a notable event, in the Israelitish annals." 
 2. "Such artificial aids to memory were familiar to the Jews, and much larger gaps than those here are found in some of the Old Testament genealogies." 
 3. "LANGE thinks that this was meant as a tacit hint that Mary was to be supplied, as the thirteenth link of the last chain, as it is impossible to conceive that the Evangelist could have made any mistake in the matter."
@@ -38,4 +38,4 @@ In this genealogical record, the names of ancestors are carefully arranged by co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the importance of patience is highlighted as believers wait for t
 
 Note: The commentary provided is quite brief, so I have extracted the key points from it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hope is not wishful thinking or mere optimism, but a confident expectation in the promises of God." 
 2. "Patience is not passive resignation, but an active endurance and trust in God's timing and faithfulness." 
 3. "Our attitude of patient waiting reflects our trust in God's sovereignty and His perfect plan for our lives."
@@ -51,4 +51,4 @@ These quotes highlight the connection between hope, patience, and endurance in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

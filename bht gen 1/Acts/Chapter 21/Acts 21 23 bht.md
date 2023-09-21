@@ -9,7 +9,7 @@ In this Bible verse, we see four Christian Jews who were not only devoted to the
 2. "This vow must not be confounded, historically or analogically, with that of ch. Acts 18:18."
 3. "See note there, and Numbers 6:2-21."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have four men—Christian Jews, no doubt." This quote highlights the identity of the four men mentioned in the verse, emphasizing that they were both Christians and Jews. It suggests that their faith in Christ did not separate them from their Jewish heritage, but rather, it was a continuation and fulfillment of it.
 
 2. "Which have a vow—perhaps kept ready on purpose." This quote suggests that the four men may have taken a vow, possibly in anticipation of the opportunity to present it at the temple. It implies that they were intentional and prepared in their devotion to God, demonstrating their commitment to their faith.
@@ -59,4 +59,4 @@ These quotes highlight the challenges faced by the elders in dealing with the cu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a significant moment where Jesus enters Jerusalem on a donkey. Commentators emphasize that Jesus chose a donkey that had never been ridden before, symbolizing his royal status and the fulfillment of prophecies. This event is seen as a deliberate and intentional act, portraying Jesus' kingship and authority. The location of the village is debated among commentators, with some suggesting Bethany or Nob, but this detail does not take away from the significance of Jesus' grand entrance into the city.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'whereon, &c.' refers to the foundation of the house. The wise man builds his house on a solid foundation, which represents a life built on the principles and teachings of God's word."
 
 2. "The 'rock' mentioned in this verse symbolizes the unchanging and firm nature of God. By building our lives on the rock of God's truth, we can withstand the storms and challenges of life."
@@ -32,4 +32,4 @@ The verse being described is a significant moment where Jesus enters Jerusalem o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

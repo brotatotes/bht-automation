@@ -9,7 +9,7 @@ Believers, united together as living stones in the spiritual temple, are called 
 2. "No where is this more clearly declared by inference, than here."
 3. "It is this, rather than any distinction from the O. T. sacrifices, that is pointed at in πνευματικάς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many names which belong to Christ in the singular are assigned to Christians in the plural."
 2. "Christians are both the spiritual temple and the priests of the temple."
 3. "Our sacrifices are those of prayer, praise, and self-denying services in the cause of Christ."
@@ -55,4 +55,4 @@ Believers, united together as living stones in the spiritual temple, are called 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

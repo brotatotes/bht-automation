@@ -11,7 +11,7 @@ In the verse being described, a man named Stephen delivers a powerful speech tha
 
 3. "He was in a remarkable manner the forerunner of St. Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "blasphemous words against Moses—doubtless referring to the impending disappearance of the whole Mosaic system." 
 2. "against God—This must refer to the supreme dignity and authority which he claimed for Christ, as the head of that new economy which was so speedily to supersede the old."
 3. "the impending disappearance of the whole Mosaic system."
@@ -50,4 +50,4 @@ In the verse being described, a man named Stephen delivers a powerful speech tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

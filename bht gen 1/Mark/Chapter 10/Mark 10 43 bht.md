@@ -4,7 +4,7 @@
 In this verse, the commentator emphasizes the contrast between the values of the kingdom of God and the world. It calls for a radical transformation in leadership, challenging the cultural norms of seeking power and authority. The verse highlights the concept of servant leadership, where greatness is found in serving others selflessly. The emphasis is on humility, compassion, and laboring diligently in the ministry. It emphasizes the importance of compassionately healing both physical and spiritual ailments and bringing hope, redemption, and restoration to the oppressed and burdened souls.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever will be great among you, shall be your minister." This verse highlights the concept of servant leadership, emphasizing that true greatness is found in serving others rather than seeking power or authority over them.
 
 2. "But so shall it not be among you." This phrase indicates that the values and principles of the kingdom of God are different from those of the world. It challenges the prevailing cultural norms and calls for a radical transformation in the way people view and exercise leadership.
@@ -31,4 +31,4 @@ In this verse, the commentator emphasizes the contrast between the values of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

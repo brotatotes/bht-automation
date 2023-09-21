@@ -9,7 +9,7 @@ In this verse, we see the inseparable connection between sin and death. Sin acts
 2. "This verse highlights the universal nature of sin and its consequences."
 3. "It emphasizes the need for redemption and the role of Jesus as the savior of all mankind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If there were no sin, there would be no death. Man's transgression of the law gives death its lawful power."
 2. "The strength of sin is the law—Without the law sin is not perceived or imputed."
 3. "The law makes sin the more grievous by making God's will the clearer."
@@ -50,4 +50,4 @@ These quotes highlight the relationship between sin and death, emphasizing how s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

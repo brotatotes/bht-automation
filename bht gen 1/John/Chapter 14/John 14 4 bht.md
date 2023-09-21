@@ -9,7 +9,7 @@ The verse in question speaks of the way to the Father's house, which involves fo
 2. "We use thus 'you know,' leaving to be supplied, 'if you would give the matter thought.'"
 3. "ὅπου, to the Father; τὴν ὁδόν (in our Lord’s own case, of which this verse treats), His death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus saith, I am the way, c.—By saying this, He meant rather to draw out their inquiries and reply to them."
 2. "Christ is 'THE WAY' to the Father—'no man cometh unto the Father but by Me.'"
 3. "He is 'THE TRUTH' of all we find in the Father when we get to Him."
@@ -62,4 +62,4 @@ The verse in question speaks of the way to the Father's house, which involves fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

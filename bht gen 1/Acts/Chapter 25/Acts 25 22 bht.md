@@ -9,7 +9,7 @@ In this verse, we see Agrippa's curiosity and desire to hear Paul's defense. As 
 2. "It is, as Meyer explains it, a modest way of expressing a wish, formed in this case while the procurator was speaking, but spoken of by Agrippa as if now past by, and therefore not pressed."
 3. "Agrippa, as a Jew, is anxious to hear Paul’s defence, as a matter of national interest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was right when he said, 'The king knoweth of these things... for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner'." 
 2. "Hence his curiosity to see and hear the man who had raised such commotion and was remodelling to such an extent the whole Jewish life." 
 3. "Paul's desire to personally meet and hear from this man reflects the impact and significance of his actions in reshaping Jewish society."
@@ -45,4 +45,4 @@ In this verse, we see Agrippa's curiosity and desire to hear Paul's defense. As 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

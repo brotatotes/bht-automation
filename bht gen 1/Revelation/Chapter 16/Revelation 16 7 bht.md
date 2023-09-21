@@ -4,7 +4,7 @@
 In this verse, a personified altar is heard speaking, proclaiming the righteousness of God's judgments. The souls of martyrs are mentioned, emphasizing their cry for justice. The commentator notes the power and authority of God, emphasizing His ability to bring about judgment and fulfill His purposes. The description reflects a recognition and acceptance of God's judgments as true, righteous, and conformable to perfect righteousness. The verse underscores the significance of acknowledging God's sovereignty and aligning ourselves with His divine wisdom and justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I heard the altar [personified] saying."
 2. "On it the prayers of saints are presented before God."
 3. "Beneath it are the souls of the martyrs crying for vengeance on the foes of God."
@@ -51,4 +51,4 @@ In this verse, a personified altar is heard speaking, proclaiming the righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

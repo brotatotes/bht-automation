@@ -9,7 +9,7 @@ In this verse, believers are urged to live a life free from the love of money, c
 2. "For He hath said, I will not leave thee, no nor will I forsake thee." 
 3. "This is certainly singular, and cannot be mere coincidence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The love of filthy lust and the love of filthy lucre follow one another as closely akin, both alienating the heart from the Creator to the creature."
 2. "I will never leave thee, nor forsake thee—A promise tantamount to this was given to Jacob, to Israel, to Joshua, to Solomon. It is therefore like a divine adage."
 3. "He will neither withdraw His presence ('never leave thee') nor His help ('nor forsake thee')."
@@ -49,4 +49,4 @@ In this verse, believers are urged to live a life free from the love of money, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse, described by a compilation of commentators, speaks about the du
 2. "οὐκ εἶπεν ἐργαζόμενοι, ἀλλὰ διώκοντες, παιδεύων ἡμᾶς μὴ ἀναμένειν τοὺς δεομένους, πότε πρὸς ἡμᾶς ἔλθωσιν, ἀλλʼ αὐτοὺς ἐπιτρέχειν κ. καταδιώκειν." 
 3. "Chrys. Hom. xxi. p. 676."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Given to hospitality—that is, the entertainment of strangers." 
 2. "In times of persecution, and before the general institution of houses of entertainment, the importance of this precept would be at once felt." 
 3. "In the East, where such houses are still rare, this duty is regarded as of the most sacred character."
@@ -53,4 +53,4 @@ The Bible verse, described by a compilation of commentators, speaks about the du
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

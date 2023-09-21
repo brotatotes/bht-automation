@@ -4,7 +4,7 @@
 This Bible verse speaks of Joseph as the legal, rather than natural, father of Jesus, ensuring the unquestionable descent of Jesus from David. Jesus is referred to as the Anointed, a term signifying his divinely appointed role as the Redeemer and the fulfillment of prophecies. The genealogies of Joseph highlight his royal descent from David, emphasizing Jesus' rightful claim to the Messiahship. Through Joseph's lineage, Jesus embodies the promises of blessing to Abraham and the establishment of the Messiah's kingdom. This verse underscores the need for Christ as the mediator between humanity and God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And yet it is here studiously proclaimed that Joseph was not the natural, but only the legal father of our Lord. His birth of a virgin was known only to a few; but the acknowledged descent of his legal father from David secured that the descent of Jesus Himself from David should never be questioned."
 2. "Christ—signifying 'anointed.' It is applied in the Old Testament to the kings, the priests, and the prophets—these all being anointed with oil, the symbol of the needful spiritual gifts to consecrate them to their respective offices."
 3. "It was applied, in its most sublime and comprehensive sense, to the promised Deliverer, inasmuch as He was to be consecrated to an office embracing all three by the immeasurable anointing of the Holy Ghost."
@@ -35,4 +35,4 @@ This Bible verse speaks of Joseph as the legal, rather than natural, father of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

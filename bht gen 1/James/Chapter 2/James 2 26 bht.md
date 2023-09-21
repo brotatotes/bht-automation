@@ -9,7 +9,7 @@ Faith is described as a spiritual and living force, while works are seen as the 
 2. "Faith is the body, the sum and substance, of the Christian life: works (= obedience), the moving and quickening of that body."
 3. "Just as the body without the spirit is dead, so faith without works is also dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is a spiritual thing: works are material."
 2. "James reverses the expectation that faith corresponds to the spirit and works to the body."
 3. "Living faith does not derive its life from works, but rather from the animating spirit."
@@ -45,4 +45,4 @@ Faith is described as a spiritual and living force, while works are seen as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

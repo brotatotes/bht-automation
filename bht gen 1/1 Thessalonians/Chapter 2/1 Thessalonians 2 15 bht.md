@@ -11,7 +11,7 @@ In this verse, the commentators highlight the actions and attitudes of a particu
 4. "The μή gives a subjective sense: not exactly that of Bengel, al., 'Deo placere non quærentium.'"
 5. "The construction...goes on from ἐναντίων to κωλυόντων, in that they prevent, and thus κωλ . specifies wherein the ἐναντιότης consists, viz. in opposing the salvation of mankind by the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This enhances the glaring enormity of their sin, that in killing Jesus they killed the LORD."
 2. "He implies that with all their boast of being God's peculiar people, they all the while are 'no pleasers of God.'"
 3. "However, the contrariety to all men here meant is, in that they 'forbid us to speak to the Gentiles that they may be saved.'"
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the actions and attitudes of a particu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described by these commentators speaks of the aim and state of C
 2. "Complete, in your love of others; not one-sided, or exclusive, but all-embracing, and God-like." 
 3. "Likeness to God in inward purity, love, and holiness, must be the continual aim and end of the Christian in all the departments of his moral life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye shall therefore be... as My disciples and in My kingdom."
 2. "He refers to that full-orbed glorious completeness which is in the great Divine Model."
 3. "Manifestly, our Lord here speaks... of the kind of excellence which was to distinguish His disciples and characterize His kingdom."
@@ -50,4 +50,4 @@ The verse being described by these commentators speaks of the aim and state of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

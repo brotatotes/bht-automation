@@ -9,7 +9,7 @@ This verse speaks of someone who is excluded and lacks any share or inheritance 
 2. "The matter now spoken of, ‘to which I now allude.’"
 3. "Thy heart is not right, sincere, single-meaning, in God’s presence, ‘as God sees it:’ i.e., ‘seen as it really is, by God, is not in earnest in its seeking after the gospel, but seeks it with unworthy ends in view.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou hast neither part nor lot." - This quote highlights the exclusion of the person from any share or inheritance in the spiritual blessings of God.
 2. "Thy heart is not right." - This quote emphasizes the lack of sincerity and genuineness in the person's heart, indicating a need for repentance and transformation.
 3. "This is the fidelity of a minister of Christ." - This quote underscores the responsibility of a minister to speak the truth and confront deception, even in difficult and serious situations.
@@ -53,4 +53,4 @@ This verse speaks of someone who is excluded and lacks any share or inheritance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

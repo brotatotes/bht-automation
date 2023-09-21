@@ -9,7 +9,7 @@ In this verse, we are presented with a remarkable example of faith. Through the 
 2. "Abrahami exemplum Hebræis ad Christum conversis sufficere debebat, sed quia etiam alienigenis scribebat, adjunxit exemplum fœminæ extraneæ."
 3. "Post virum ponitur mulier: nam viros et mulieres appellat," ch. James 4:4 (see note there).
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She believed assuredly what her other countrymen disbelieved, and this in the face of every improbability that an unwarlike few would conquer well-armed numbers."
 2. "If an instance of obedience were wanting, Paul and James would hardly have quoted a woman of previously bad character, rather than the many moral and pious patriarchs."
 3. "The nature of the works alleged is such as to prove that James uses them only as evidences of faith, as contrasted with a mere verbal profession: not works of charity and piety, but works the value of which consisted solely in their being proofs of faith: they were faith expressed in act, synonymous with faith itself."
@@ -53,4 +53,4 @@ In this verse, we are presented with a remarkable example of faith. Through the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

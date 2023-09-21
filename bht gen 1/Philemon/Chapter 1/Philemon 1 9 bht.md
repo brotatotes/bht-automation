@@ -9,7 +9,7 @@ The passage being described is a request from the apostle Paul to a person named
 2. "Being such an one (as declared in διὸ .… παρακαλῶ), as (1) Paul the aged and (2) now a prisoner also of Christ Jesus".
 3. "The repetition of ἐμοῦ ἐγώ will serve, as Meyer remarks, to mark more forcibly the character of his own child, and ἐν τοῖς δεσμοίς gives more weight still to the entreaty".
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For love's sake" - This phrase emphasizes the motivation behind the request, highlighting the importance of love in relationships and actions.
 2. "Being such an one" - This phrase implies that the person making the request has a certain reputation or character that should be taken into account when considering the request.
 3. "And now also a prisoner of Jesus Christ" - This statement highlights the personal sacrifice and hardship endured by the person making the request, appealing to the reader's sense of compassion and empathy.
@@ -53,4 +53,4 @@ The passage being described is a request from the apostle Paul to a person named
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

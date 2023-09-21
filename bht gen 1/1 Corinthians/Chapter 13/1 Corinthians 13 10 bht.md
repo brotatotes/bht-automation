@@ -4,7 +4,7 @@
 In this verse, we are reminded that our current understanding of the world is limited and incomplete. It serves as a humbling reminder that we do not possess the full picture and should approach our knowledge with humility. The verse encourages us to seek out a broader understanding, to strive for a more comprehensive grasp of the world and our place in it. As we reach a state of perfection and perfect knowledge, the imperfections and limitations of our current understanding will fade away, revealing a greater and more complete truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse reminds us that our understanding of the world is limited and incomplete, like a fragment of a larger whole."
 2. "It serves as a humbling reminder that we do not possess the full picture and should approach our knowledge with humility and openness."
 3. "This verse encourages us to seek out the bigger picture, to strive for a more comprehensive understanding of the world and our place in it."
@@ -45,4 +45,4 @@ These quotes highlight the idea that the arrival of perfect knowledge will elimi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

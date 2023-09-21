@@ -9,7 +9,7 @@ The verse being described speaks of the conviction brought about by the Holy Spi
 2. "Not their own, but that of the accepted Man Christ Jesus standing at the right hand of God... manifested in the hearts of men by the Spirit to be their only righteousness."
 3. "It is the ὑπάγειν πρὸς τὸν πατέρα by which this righteousness is assured to us, and by the effect of which, the Spirit, the conviction respecting it is wrought in our hearts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beyond doubt, it is Christ's personal righteousness which the Spirit was to bring home to the sinner's heart."
 2. "But if He was the 'Faithful and True Witness,' the Father's 'Righteous Servant,' 'His Elect, in whom His soul delighted,' then was His departure to the Father, and consequent disappearance from the view of men, but the fitting consummation, the august reward, of all that He did here below."
 3. "This triumphant vindication of Christ's rectitude is to us divine evidence, bright as heaven, that He is indeed the Saviour of the world, God's Righteous Servant to justify many, because He bare their iniquities."
@@ -52,4 +52,4 @@ The verse being described speaks of the conviction brought about by the Holy Spi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

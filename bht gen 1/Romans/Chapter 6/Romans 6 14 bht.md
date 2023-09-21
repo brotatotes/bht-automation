@@ -9,7 +9,7 @@ In this verse, the emphasis is on the freedom Christians have from the dominion 
 2. "For ye are not under that law which is the strength of sin, but under that grace in which is no condemnation."
 3. "The assertion being merely that of the general matter of fact, about which there can be no question, that we (Christians) are not under the law, placed in a covenant of legal obedience, but under grace, placed in a covenant of justification by faith and under the promise of the indwelling Spirit subjects of a higher law even the law of the spirit of life in Christ Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be 'under the law' is, first, to be under its claim to entire obedience; and so, next under its curse for the breach of these."
 2. "To be 'under grace,' is to be under the glorious canopy and saving effects of that 'grace which reigns through righteousness unto eternal life through Jesus Christ our Lord.'"
 3. "So that, as when they were 'under the law,' Sin could not but have dominion over them, so now that they are 'under grace,' Sin cannot but be subdued under them."
@@ -50,4 +50,4 @@ In this verse, the emphasis is on the freedom Christians have from the dominion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

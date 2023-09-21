@@ -4,7 +4,7 @@
 Faith guides our lives with unwavering belief in the promise of eternal hope beyond the fleeting appearances of the present world. It enables us to walk not by what our physical eyes perceive but by the unseen realities we firmly hold onto. By relying on faith rather than relying on mere appearances, we can confidently expect and live according to the deep truths and invisible workings of God, who is both the source and ultimate reward of our faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our life is governed by faith in our immortal hope; not by the outward specious appearance of present things."
 2. "God has appointed in this life faith for our great duty, and in the next, vision for our reward."
 3. "Our walk as Christians is not determined by what we see with our physical eyes, but by our faith in the unseen."
@@ -45,4 +45,4 @@ Faith guides our lives with unwavering belief in the promise of eternal hope bey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

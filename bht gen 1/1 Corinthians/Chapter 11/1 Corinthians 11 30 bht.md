@@ -9,7 +9,7 @@ The Corinthians' failure to discern the Lord's body during the Lord's Supper is 
 2. "Meyer distinguishes ἀσθενεῖς, weaklings, persons whose powers have failed spontaneously, from ἄῤῥωστοι, invalids, persons whose powers are enfeebled by sickness."
 3. "ἀσθ. and ἄῤῥ. refer to physical, not (as Olsh., altern.) moral weaknesses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "weak" who has naturally no strength: "sickly," who has lost his strength by disease.
 2. sleep—are being lulled in death: not a violent death; but one the result of sickness, sent as the Lord's chastening for the individual's salvation.
 3. the mind being brought to a right state on the sick bed.
@@ -59,4 +59,4 @@ The Corinthians' failure to discern the Lord's body during the Lord's Supper is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

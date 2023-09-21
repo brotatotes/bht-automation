@@ -9,7 +9,7 @@ The verse being described in this commentary is a call to repentance for the chu
 2. "This making war must not be understood as Grotius, 'Prophetas excitabo in Ecclesia, qui id faciant quod Episcopus negligit, et fortiter se opponant Nicolaitis' (similarly Calov.) with ( ἐν , in, as armed with or arrayed in: but sometimes in the Rev. it is difficult to trace the proper meaning of ἐν , and it seems almost purely instrumental."
 3. "Many expositors (e. g., Grot., Wetst., Vitr., Beng., Stern, Hengst., Trench, al.) suppose an allusion to the sword of the angel, armed with which he withstood Balaam in the way (Numbers 22:23 ; Num 22:31 ), or to that and the sword by which those who sinned in the matter of Baal-peor ( Num 25:5 ), and eventually Balaam himself ( Num 31:8 ), were slain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole Church of Pergamos is called on to repent of not having hated the Nicolaitane teaching and practice."
 2. "I am coming...to fight against them...including also chastisement of the whole Church at Pergamos."
 3. "The spiritual Balaamites of John's day are to be smitten with the Lord's spiritual sword, the word or 'rod of His mouth'."
@@ -50,4 +50,4 @@ The verse being described in this commentary is a call to repentance for the chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse described in these commentaries portrays a tense encounter between Jesus and the Pharisees, who maliciously watched and scrutinized whether he would heal on the Sabbath. While the Scribes and Pharisees sought to find fault and bring accusations against Jesus, he exposed their hypocrisy and emphasized the importance of love and mercy over strict legalism. This exchange highlights the ongoing conflict between Jesus' compassionate approach and the Pharisees' rigid adherence to rules.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Matthew 12:9, this question is seen as an ensnaring one posed by the Pharisees to Jesus, revealing their malicious intent." 
 2. "Jesus responds to their question by addressing the true condition of their hearts, exposing their hypocrisy and lack of compassion." 
 3. "This exchange highlights the contrast between the Pharisees' legalistic approach and Jesus' emphasis on love and mercy."
@@ -30,4 +30,4 @@ The verse described in these commentaries portrays a tense encounter between Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

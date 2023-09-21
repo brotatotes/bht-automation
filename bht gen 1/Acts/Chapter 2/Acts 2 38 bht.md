@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the importance of repentance and
 2. "The miserable absurdity of rendering μεταν., or 'pœnitentiam agite,' by 'do penance,' or understanding it as referring to a course of external rites, is well exposed by this passage in which the internal change of heart and purpose is insisted on, to be testified by admission into the number of Christ’s followers."
 3. "Before, there had been the baptism of repentance for the remission of sins, by John, but now we have the important addition ἐπὶ τῷ ὀνόμ. Ἰησοῦ χριστοῦ, on the Name i.e. on the confession of that which the Name implies, and into the benefits and blessings which the Name implies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Repent—The word denotes change of mind, and here includes the reception of the Gospel as the proper issue of that revolution of mind which they were then undergoing."
 2. "baptized . . . for the remission of sins—as the visible seal of that remission."
 
@@ -54,4 +54,4 @@ In this Bible verse, the commentators highlight the importance of repentance and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

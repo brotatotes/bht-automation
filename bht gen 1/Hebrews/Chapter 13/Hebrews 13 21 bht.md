@@ -9,7 +9,7 @@ This verse speaks of a desire for perfection and the accomplishment of good work
 2. "The expression here is in the same final sense as there, as the aor. shews: it is not εἰς τὸ ποιεῖν, ‘to the habit of doing,’ but εἰς τὸ ποιῆσαι, ‘to the having done,’ i.e. ‘to the accomplishing.’"
 3. "It is a pregnant construction, involving τὸ ἀγαθὸν ἐνώπιον αὐτοῦ, καὶ διὰ τοῦτο εὐάρεστον αὐτῷ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Make you perfect—properly said of healing a rent; join you together in perfect harmony." 
 2. "Whatever good we do, God does in us." 
 3. "He closes as he began, with giving glory to Christ."
@@ -43,4 +43,4 @@ This verse speaks of a desire for perfection and the accomplishment of good work
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

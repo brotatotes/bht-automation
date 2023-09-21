@@ -9,7 +9,7 @@ The verse being described is a powerful statement about the preaching of Christi
 2. "It serves to give a slight prominence to the consequent clause, as compared with the antecedent one."
 3. "Still the expansion of ἡ μωρ . τ . κηρύγ . Now, σκάνδ . as regards the Jews, and μωρία as regards the Gentiles, correspond to the general term μωρία before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ crucified—The Greek expresses not the mere fact of His crucifixion, but the permanent character acquired by the transaction, whereby He is now a Saviour."
 2. "The opposition of Jew and Gentile alike shows that a religion so seemingly contemptible in its origin could not have succeeded if it had not been divine."
 3. "The oldest manuscripts read 'unto the Gentiles.'"
@@ -40,4 +40,4 @@ The verse being described is a powerful statement about the preaching of Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Let your walk be firm and unanimous, establishing a clear path for others to fol
 2. "If the whole congregation, by their united and consistent walk, trod a plain and beaten path for men’s feet, these lame ones, though halting, would be easily able to keep in it, and by keeping in the τροχιὰ ὀρθή, would even acquire the habit of walking straight onward, and so be healed."
 3. "The making a beaten track for all is, that they may not miss the way and lose the prize."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Make straight paths for thy feet." - The path should lead to joy and grace, aligning with the teachings of Hebrews 12:1-2 and 12:15.
 2. "Cease to 'halt' between Judaism and Christianity." - Don't vacillate between different beliefs, but firmly commit to the right direction.
 3. "Let your walk be so firm...that a plain track and 'highway' may be thereby established for those who accompany and follow you." - Set an example that others can follow, creating a clear path for them to walk in.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

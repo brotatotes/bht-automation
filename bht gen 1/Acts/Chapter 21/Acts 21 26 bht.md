@@ -9,7 +9,7 @@ In this verse, a man is completing a vow of purification, which involves the off
 2. "No definite time is prescribed in Numbers 6:0, but there seven days is the time of purification in case of uncleanness during the period of the vow."
 3. "Making known to the ministers of the temple the fulfilment, i.e. that he and the men had come to fulfil: announcing their intention of fulfilling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to signify—that is, announce to the priest." This quote highlights the purpose of the action being described in the verse - to inform the priest about the completion of the days of purification. 
 
 2. "the accomplishment of the days of purification." This quote emphasizes the significance of the days of purification and how their completion is being acknowledged through this action. 
@@ -55,4 +55,4 @@ In this verse, a man is completing a vow of purification, which involves the off
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

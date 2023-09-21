@@ -9,7 +9,7 @@ The verse being referred to describes a miracle performed by Jesus, which is not
 2. "Cf. John 2:11." 
 3. "The reference to John 2:11 suggests that this miracle is significant in revealing Jesus' glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His fame spread abroad throughout all the region round about Galilee" - This verse highlights the rapid and widespread impact of Jesus' ministry. It shows how his actions and teachings captivated the attention of the people in the surrounding areas, leading to his growing reputation.
 
 2. "The whole region of Galilee" - This phrase emphasizes the extent of Jesus' influence, reaching beyond the immediate vicinity of Galilee. It suggests that his fame and message were not confined to a small area but had a significant impact on a larger region.
@@ -35,4 +35,4 @@ The verse being referred to describes a miracle performed by Jesus, which is not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

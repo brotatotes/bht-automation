@@ -9,7 +9,7 @@ This verse describes the apostolic authority of Paul and his divine calling to b
 2. "Chrys., referring it to κλητός, says, ἐπειδὴ αὐτῷ ἔδοξεν, ἐκλήθημεν, οὐκ ἐπειδὴ ἄξιοι ἦμεν."
 3. "Perhaps some slight may have been put upon him by the parties at Corinth, and for that reason Paul puts him forward."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In assuming the ministerial office a man should see he does so not of his own impulse, but by the will of God."
 2. "Paul if left to his own will would never have been an apostle."
 3. "Saul the persecutor turned into Paul the apostle, and Sosthenes the leader in persecution against that apostle, were two trophies of divine grace that, side by side, would appeal with double power to the Church at Corinth."
@@ -53,4 +53,4 @@ This verse describes the apostolic authority of Paul and his divine calling to b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

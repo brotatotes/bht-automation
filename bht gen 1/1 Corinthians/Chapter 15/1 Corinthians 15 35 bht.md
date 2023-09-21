@@ -9,7 +9,7 @@ The verse in question explores the concept of resurrection and raises doubts abo
 2. "In what manner, and next specifically, with what kind of body do they come forth at that time?"
 3. "Assuming for the moment the truth of the resurrection as a thing actually happening in the course of things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is folly to deny a fact of REVELATION, because we do not know the 'how.' Some measure God's power by their petty intelligence, and won't admit, even on His assurance, anything which they cannot explain."
 2. "So Jesus argues not on principles of philosophy, but wholly from 'the power of God,' as declared by the Word of God."
 3. "Paul answers, In one sense it will be the same body, in another, a distinct body. It will be a body, but a spiritual, not a natural, body."
@@ -59,4 +59,4 @@ The verse in question explores the concept of resurrection and raises doubts abo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

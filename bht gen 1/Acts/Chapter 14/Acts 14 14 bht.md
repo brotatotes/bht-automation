@@ -9,7 +9,7 @@ The scene unfolds with a sense of urgency and boldness as the Apostles surge for
 2. "The image of the Apostles rushing forth into the crowd conveys a sense of urgency and boldness in their mission." 
 3. "Their immediate response to the news demonstrates their commitment and dedication to spreading the message of the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was something more than that abhorrence of idolatry which took possession of the Jews as a nation from the time of the Babylonish captivity: it was that delicate sensibility to everything which affects the honor of God which Christianity, giving us in God a reconciled Father, alone can produce."
 2. "Making the Christian instinctively feel himself to be wounded in all dishonor done to God, and filling him with mingled horror and grief when such gross insults as this are offered to him."
 3. "Christianity, giving us in God a reconciled Father, alone can produce."
@@ -57,4 +57,4 @@ The scene unfolds with a sense of urgency and boldness as the Apostles surge for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

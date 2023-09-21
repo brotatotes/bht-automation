@@ -9,7 +9,7 @@ The passage describes a journey at sea, where the travelers board a ship adorned
 2. "The ancient ships carried at their prow a painted or carved representation of the sign which furnished their name."
 3. "Castor and Pollux, sons of Jupiter and Leda, were considered the tutelar deities of sailors."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An incidental mark of consistency in the narrative."
 2. "Such figureheads were anciently as common as now."
 3. "It is highly improbable that two ships of Alexandria should have been casually found, of which the owners were able and willing to receive on board such a number of passengers."
@@ -55,4 +55,4 @@ The passage describes a journey at sea, where the travelers board a ship adorned
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

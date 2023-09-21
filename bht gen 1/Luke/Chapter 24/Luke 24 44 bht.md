@@ -9,7 +9,7 @@ This verse includes the realization of previous teachings about Jesus' resurrect
 2. "The following discourse apparently contains a summary of many things said during the last forty days before the ascension." 
 3. "Knowing apparently of no Galilæan appearances, he seems to relate the command of Luke 24:49, both here and in the Acts, as intended to apply to the whole time between the Resurrection and the descent of the Holy Ghost."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now you will understand what seemed so dark to you when I told you about the Son of man being put to death and rising again."
 2. "While...yet with you—a striking expression, implying that He was now, as the dead and risen Saviour, virtually dissevered from this scene of mortality, and from all ordinary intercourse with His mortal disciples."
 3. "Law...prophets...psalms—the three Jewish divisions of the Old Testament Scriptures."
@@ -59,4 +59,4 @@ These quotes highlight the fulfillment of Jesus' previous teachings about his de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 From the commentaries of different scholars, we can surmise that this Bible verse highlights the inclusivity of salvation, emphasizing that anyone who calls upon the name of the Lord can be saved. The verse also emphasizes the enduring and lasting nature of salvation through Jesus, as well as the shift from the exclusive focus on the Jewish state to opening up salvation to all people. Calling upon God and invoking His name is seen as an essential part of worship and prayer, leading to deliverance, redemption, and ultimate salvation from all forms of destruction and sin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "whosoever shall call on the name of the Lord shall be saved" - This verse highlights the inclusivity of salvation, emphasizing that anyone who calls upon the name of the Lord can be saved.
 2. "the permanent establishment of the economy of salvation" - This phrase suggests that the salvation offered through Jesus is not temporary or fleeting but rather a lasting and enduring plan for redemption.
 3. "the breaking up of the Jewish state" - This reference indicates that the establishment of salvation through Jesus marked a significant shift in the religious landscape, moving away from the exclusive focus on the Jewish state and opening up salvation to all people.
@@ -45,4 +45,4 @@ From the commentaries of different scholars, we can surmise that this Bible vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

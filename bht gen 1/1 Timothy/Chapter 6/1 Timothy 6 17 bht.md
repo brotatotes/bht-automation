@@ -9,7 +9,7 @@ The Bible verse being described speaks to the wealthy, cautioning them against p
 2. "God...affordeth us all things richly for enjoyment, to do good, to be rich in good works, to be free-givers, ready-contributors."
 3. "Laying up for themselves as a treasure...a good foundation for the future, that they may lay hold of that which is really life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The immortality of God, alone rich in glory, and of His people through Him, is opposed to the lust of money."
 2. "They who rest their trust on riches, rest trust on uncertainty itself."
 3. "He who trusts in riches transfers to them the duty he owes to God."
@@ -55,4 +55,4 @@ The Bible verse being described speaks to the wealthy, cautioning them against p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the early church, the younger members arose to serve their community, not as 
 2. "And the use of οἱ νεανίσκοι in Acts 5:10, as applying to these same persons, seems to decide that they were merely the younger members of the church."
 3. "The context will not permit any more careful enfolding of the body to be understood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the young men—some of the younger and more active members of the church"
 2. "not as office-bearers, nor coming forward now for the first time"
 3. "but who probably had already volunteered their services in making subordinate arrangements"
@@ -49,4 +49,4 @@ These quotes highlight the swift and respectful actions of the young men in resp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

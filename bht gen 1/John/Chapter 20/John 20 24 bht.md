@@ -9,7 +9,7 @@ Thomas, known as Didymus, was one of the twelve disciples who was absent when Je
 2. "On such a day, and in such a man, such an absence must have been designed."
 3. "I incline, with Stier, to think that it could not have been accidentally, nor 'negotio aliquo occupatus'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact merely is here stated, as a loving apology for his slowness of belief."
 2. "Thomas was not with them when Jesus came—why, we know not, though we are loath to think it was intentional, from sullen despondency."
 3. "The fact that Thomas was not present when Jesus appeared serves as a loving apology for his slowness of belief."
@@ -40,4 +40,4 @@ Thomas, known as Didymus, was one of the twelve disciples who was absent when Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

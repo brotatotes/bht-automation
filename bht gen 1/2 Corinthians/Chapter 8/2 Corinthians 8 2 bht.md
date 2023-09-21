@@ -9,7 +9,7 @@ In the midst of great trial and affliction, these individuals experienced not on
 2. "Their deep poverty produced abundant fruit, resulting in the manifestation of riches."
 3. "The collection of their liberality revealed the true extent of their generosity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In affliction (or, 'tribulation') which tested them" - The believers faced a great testing of affliction, highlighting the depth of their suffering and challenges they endured.
 2. "The greater was the depth of their poverty, the greater was the abundance of their joy" - Despite their poverty, the believers experienced an abundance of joy, demonstrating the triumph of their spirit over their material circumstances.
 3. "Their poverty had the effect, not of producing stinted gifts, but of 'abounding in the riches of liberality'" - Instead of being limited by their poverty, the believers were generous and gave abundantly, showcasing their singleness of motive to glorify God and benefit others.
@@ -52,4 +52,4 @@ In the midst of great trial and affliction, these individuals experienced not on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

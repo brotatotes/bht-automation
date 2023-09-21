@@ -4,7 +4,7 @@
 In this verse, the Bible describes the defeat and expulsion of a powerful adversary. This adversary is referred to as the "great dragon" and the "ancient serpent," highlighting their long history of deception and cruelty. It is emphasized that this adversary is not limited to a specific time or place, but has deceived and influenced the entire world. The verse stresses the need for vigilance against this enemy, whose purpose is to undermine faith and lead humanity astray.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That old serpent" refers to the serpent in the Garden of Eden, highlighting the continuity of Satan's deception throughout history (Genesis 3:1). 
 
 2. The term "Devil" emphasizes Satan's role as an accuser and slanderer, constantly seeking to undermine and condemn God's people. 
@@ -50,4 +50,4 @@ In this verse, the Bible describes the defeat and expulsion of a powerful advers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

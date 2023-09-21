@@ -9,7 +9,7 @@ In this passage, we witness the intense persecution that followed the stoning of
 2. "ἐν ἐκ τῇ ἡμ . can hardly mean, as some would render it, on that very day, viz. when Stephen was stoned."
 3. "Σαμαρείας is not without importance, as introducing the next step in the dissemination of the Gospel, according to our Lord’s command in ch. Acts 1:8."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Saul was consenting unto his death—The word expresses hearty approval."
 2. "They were all scattered abroad—all the leading Christians, particularly the preachers, agreeably to their Lord's injunctions."
 3. "Except the apostles—who remained, not certainly as being less exposed to danger, but, at whatever risk, to watch over the infant cause where it was most needful to cherish it."
@@ -64,4 +64,4 @@ Note: The provided quotes are numbered as requested.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

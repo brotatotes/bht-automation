@@ -9,7 +9,7 @@ When Jesus sent out His disciples on a mission, He instructed them not to make a
 2. "This forbidden provision would be of three kinds: money, food, and clothing."
 3. "The whole of this prohibition was temporary only; for their then journey, and no more."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Provide neither gold, nor silver, nor brass in your purses" - This verse emphasizes the importance of relying on God's provision rather than material wealth. It challenges believers to trust in God's faithfulness and not to place their security in earthly possessions.
 
 2. "For your purses" - The commentary highlights the significance of the phrase "your purses" as a reminder that our possessions are ultimately temporary and should not be the source of our confidence or security.
@@ -56,4 +56,4 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described emphasizes the authority and preeminence of Christ in relation to the Church. Christ is depicted as the head of the Church, with supreme power and influence over believers. As the firstborn from the dead, his resurrection is the source of spiritual and eternal life for all believers. In all aspects, whether in nature or grace, Christ is described to have the ultimate supremacy and preeminence. The depth of his superiority and greatness is beyond comprehension.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Church is His body by virtue of His entering into communion corporeally with human nature."
 2. "The same One who is the Head of all things and beings by creation, is also, by virtue of being 'the first-born from the dead,' and so 'the first-fruits' of the new creation among men, the Head of the Church."
 3. "Christ's primogeniture is threefold: (1) From eternity the 'first-begotten' of the Father; (2) As the first-born of His mother; (3) As the Head of the Church, mystically begotten of the Father, as it were to a new life, on the day of His resurrection."
@@ -50,4 +50,4 @@ Note: The commentary is quite technical and focused on specific Greek words and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus asserts the inseparable unity between Him and the Father. T
 2. "For it is the very nature of the Son to do whatever the Father doeth."
 3. "To do these works ὁμοίως after the same plan and proceeding, so that there can be no discord, but unity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son can have no separate interest or action from the Father."
 2. "Whatever the Father doeth that same doeth the Son."
 3. "What claim to absolute equality with the Father could exceed this: not only to do 'the same things,' but to do them as the Father does them?"
@@ -53,4 +53,4 @@ In this verse, Jesus asserts the inseparable unity between Him and the Father. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

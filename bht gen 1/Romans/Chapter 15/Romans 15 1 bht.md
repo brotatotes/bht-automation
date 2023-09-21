@@ -9,7 +9,7 @@ This verse speaks to the importance of unity and understanding among believers, 
 2. "ἀρέσκειν (reff.) to please or satisfy as a habit or motive of action."
 3. "Tholuck quotes from the Schol. on Æsch. Prom. 156, παρ ʼ ἑαυτῷ δίκαιον ἔχων Ζεύς, πάντα δικαίως οἰόμενος ποιεῖν, αὐτὸς ἑαυτῷ ἀρέσκων καὶ δίκαιον νομίζων εἶναι ὅπερ ἂν βούληται πράττειν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We then that are strong—on such points as have been discussed, the abolition of the Jewish distinction of meats and days under the Gospel." 
 
 2. "ought . . . not to please ourselves—ought to think less of what we may lawfully do than of how our conduct will affect others." 
@@ -61,4 +61,4 @@ These quotes highlight the importance of being understanding and patient with th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

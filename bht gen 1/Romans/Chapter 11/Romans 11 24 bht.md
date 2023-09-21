@@ -9,7 +9,7 @@ In this verse, commentators reflect on the concept of being grafted contrary to 
 2. "The antithesis of κατὰ and παρὰ φ . being rather verbal than logical, as is so common in the writings of the Apostle." 
 3. "The fact of congruity of nature (τῇ ἰδίᾳ ἐλαίᾳ) is set against incongruity, as making the re-engrafting more probable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the excision of the merely engrafted Gentiles through unbelief is a thing much more to be expected than was the excision of the natural Israel, before it happened..."
 2. "...the restoration of Israel, when they shall be brought to believe in Jesus, is a thing far more in the line of what we should expect..."
 3. "...than the admission of the Gentiles to a standing which they never before enjoyed."
@@ -50,4 +50,4 @@ In this verse, commentators reflect on the concept of being grafted contrary to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

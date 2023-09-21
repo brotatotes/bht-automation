@@ -9,7 +9,7 @@ In this awe-inspiring vision, the commentator's quotes unveil the profound natur
 2. "The simple reason seems to be, as assigned by Hengstb. and Düsterd., that St. John would describe simply that which he saw, as he saw it."
 3. "Thus we shall have ample material for symbolic meaning: whether, as Victorinus, Tichon., Primas, Bed, al., of the one great judgment by water (or of baptism) and the other by fire, as Andr, Areth, Lyra, al., of the goodness of God in nature and His severity in judgment, as Ansbert, of the divinity and humanity, &c., or as the moderns mostly, e. g. Bengel, Stern, Hengstb., of the holiness of God and His justice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I became in the Spirit" - The commentator explains that this phrase signifies being completely rapt in vision into the heavenly world, emphasizing the spiritual nature of the experience.
 
 2. "One sat on the throne" - The commentator identifies this figure as the Eternal Father, the Creator, drawing parallels to other verses in the Bible that designate the Father as the one who is, was, and is to come.
@@ -50,4 +50,4 @@ In this awe-inspiring vision, the commentator's quotes unveil the profound natur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

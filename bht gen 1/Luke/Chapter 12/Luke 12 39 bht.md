@@ -9,7 +9,7 @@ Be on guard and be ready, for the unexpected return of the Lord is likened to a 
 2. "For the purposes of this verse, they represent the οἰκοδεσπότης collectively, as put in charge with the Lord’s house and household." 
 3. "He is represented by the thief ἰδοὺ ἔρχομαι ὡς κλέπτης."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "loins . . . girded—to fasten up the long outer garment, always done before travel and work." 
 2. "The meaning is, Be in readiness." 
 3. "lights, &c.—(See on Acts 12:8)."
@@ -38,4 +38,4 @@ Be on guard and be ready, for the unexpected return of the Lord is likened to a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

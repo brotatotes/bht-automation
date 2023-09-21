@@ -11,7 +11,7 @@ In this verse, the heavenly hosts joyfully and visibly surround the scene. Angel
 
 3. "They are in white, because from the world of light: they sit, as not defending, but peacefully watching the Body: at the Head and the Feet, for the Body of the Lord was from head to foot in the charge of His Father and of His servants."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Come, see within what limits, marked off by the interval here between us two, the Lord lay!"
 2. "But she is in tears, and these suit not the scene of so glorious an Exit."
 3. "They are going to point out to her the incongruity."
@@ -49,4 +49,4 @@ In this verse, the heavenly hosts joyfully and visibly surround the scene. Angel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

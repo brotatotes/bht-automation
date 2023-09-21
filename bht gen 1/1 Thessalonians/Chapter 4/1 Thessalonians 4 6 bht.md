@@ -9,7 +9,7 @@ In this verse, the commentators provide insights into the nature of the sins add
 2. "That he should not set at nought or overreach his brother in the matter of acquiring possessions, that there should be among you none of those strifes on account of the passions of desire, the ‘teterrima belli causa’ in the heathen world."
 3. "It is not necessary to suppose that any idea of unchastity is conveyed by the term πλεονεκτεῖν, any more than in the tenth commandment, ‘Thou shalt not covet thy neighbour’s wife.’ The meaning exclusively arises from the connexion and application of the word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go beyond—transgress the bounds of rectitude in respect to his 'brother.'" 
 2. "Defraud—'overreach'; 'take advantage of.'"
 3. "The Lord—the coming Judge; the avenger—the Righter."
@@ -56,4 +56,4 @@ In this verse, the commentators provide insights into the nature of the sins add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

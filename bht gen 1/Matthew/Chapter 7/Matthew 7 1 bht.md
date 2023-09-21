@@ -9,7 +9,7 @@ In this verse, the Bible warns against rash, unkind judgment that is driven by p
 2. "κρίνειν has been taken for κατακρίνειν here...this seems necessary, at least in so far that κρίνειν should be taken as implying an ill judgment."
 3. "The sense then is, ‘that you have not to answer before God for your rash judgment and its consequences.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thing here condemned is that disposition to look unfavorably on the character and actions of others, which leads invariably to the pronouncing of rash, unjust, and unlovely judgments upon them."
 2. "No doubt it is the judgments so pronounced which are here spoken of; but what our Lord aims at is the spirit out of which they spring."
 3. "Provided we eschew this unlovely spirit, we are not only warranted to sit in judgment upon a brother's character and actions, but in the exercise of a necessary discrimination are often constrained to do so for our own guidance."
@@ -43,4 +43,4 @@ In this verse, the Bible warns against rash, unkind judgment that is driven by p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

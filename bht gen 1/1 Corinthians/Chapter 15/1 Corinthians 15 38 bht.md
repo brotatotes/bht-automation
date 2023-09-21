@@ -9,7 +9,7 @@ In this verse, the commentator quotes describe how God is the ultimate authority
 2. "the whole gift to the species being God’s, to continue or withhold"
 3. "why should it be thought necessary that the same body should rise as was sown, or that God cannot give to each a resurrection-body, as in nature?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God can and will give to the blessed at the resurrection their own appropriate body, such as it pleases Him." 
 2. "A body peculiar to the individual, substantially the same as the body sown." 
 3. "God can and will give to the blessed at the resurrection their own appropriate body, such as it pleases Him, and such as is suitable to their glorified state."
@@ -52,4 +52,4 @@ In this verse, the commentator quotes describe how God is the ultimate authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

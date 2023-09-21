@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the concept of worthiness and divi
 2. "The spirit of these commands binds Christian ministers to all accustomed courtesies of manner in the countries and ages in which their mission may lie."
 3. "And this is to be without any respect to the worthiness or otherwise of the inhabitants of the house."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if the house be worthy—showing this by giving you a welcome. let your peace come upon it—This is best explained by the injunction to the Seventy, 'And into whatsoever house ye enter, first say, Peace be to this house' (Luke 10:5)."
 2. "But from the lips of Christ and His messengers, it means something far higher, both in the gift and the giving of it, than in the current salutation."
 3. "If your peace finds a shut, instead of an open, door in the heart of any household, take it back to yourselves, who know how to value it; and it will taste the sweeter to you for having been offered, even though rejected."
@@ -45,4 +45,4 @@ In this verse, the commentators shed light on the concept of worthiness and divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

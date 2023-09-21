@@ -11,7 +11,7 @@ In this Bible verse, the narrator describes the angel's appearance as one of rad
 
 3. "not his form, but his appearance" - This quote reiterates the distinction between Jesus' form and his appearance, reinforcing the idea that the focus is on his radiant and glorious presence rather than his physical attributes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His countenance was like lightning" - This description of the angel's appearance suggests a radiant and powerful presence, symbolizing the divine glory that surrounds him.
 
 2. "His raiment white as snow" - The angel's pure white garments symbolize the heavenly purity and holiness that he embodies, emphasizing his divine nature.
@@ -49,4 +49,4 @@ In this Bible verse, the narrator describes the angel's appearance as one of rad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

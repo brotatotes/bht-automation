@@ -9,7 +9,7 @@ In the darkness of the night, soldiers faithfully followed their orders, silentl
 2. "They might have well made so much way during the night and the next day, for the text will admit of that interpretation." 
 3. "τῇ ἐπαύρ . being not necessarily the morrow after they left Jerusalem, but after they arrived at Antipatris."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The journey from Jerusalem to Antipatris was a long and arduous one, spanning nearly forty miles. This detail highlights the determination and commitment of those who brought the apostle Paul to safety, as they were willing to endure such a difficult journey for his sake."
 
 2. "The naming of Antipatris after Herod's father, Antipater, reveals the influence and power of the Herodian dynasty. It serves as a reminder of the political and cultural context in which this event took place, and the complex dynamics at play during the early Christian era."
@@ -56,4 +56,4 @@ In the darkness of the night, soldiers faithfully followed their orders, silentl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ If the people truly acknowledged their blindness and lack of knowledge, they wou
 2. "Observe there is a middle clause understood, between 'ye would never have incurred guilt,' and 'your guilt remaineth;' and that is, 'ye have incurred guilt.'"
 3. "By the Scriptures being committed to you, by God's grace, which ought to have led you to faith in me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye were blind—wanted light to discern My claims, and only waited to receive it."
 2. "ye should have no sin—none of the guilt of shutting out the light."
 3. "ye say, We see; therefore your sin remaineth—Your claim to possess light, while rejecting Me, is that which seals you up in the guilt of unbelief."
@@ -59,4 +59,4 @@ If the people truly acknowledged their blindness and lack of knowledge, they wou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

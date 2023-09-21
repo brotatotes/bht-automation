@@ -9,7 +9,7 @@ This Bible verse is a revelation from the Lord, bearing the certainty and author
 2. "he himself expected to be alive, together with the majority of those to whom he was writing, at the Lord’s coming." 
 3. "those who are alive at the last day will not enter into the presence of the Lord before those who have died."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the 'mystery,' a truth once hidden, now revealed, which Paul shows."
 2. "The Spirit designed that believers in each successive age should live in continued expectation of the Lord's coming."
 3. "The 'we' is an affectionate identifying of ourselves with our fellows of all ages, as members of the same body, under the same Head, Christ Jesus."
@@ -53,4 +53,4 @@ This Bible verse is a revelation from the Lord, bearing the certainty and author
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

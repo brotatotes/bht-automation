@@ -9,7 +9,7 @@ In this passage, the speaker acknowledges that their testimony alone is not suff
 2. "If such a separation, and independent testimony, as is here supposed, could take place, it would be a falsification of the very conditions of the Truth of God as manifested by the Son."
 3. "The φῶς being the ἀπαύγασμα τῆς δόξης τοῦ πατρός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Standing alone, and setting up any separate interest." This quote highlights the importance of not relying solely on one's own testimony or personal agenda. It emphasizes the need for external validation and the avoidance of self-centeredness.
 
 2. "If I witness of myself." This quote draws attention to the potential bias and unreliability of self-testimony. It suggests that a person's own words about themselves may not always be trustworthy or accurate.
@@ -57,4 +57,4 @@ In this passage, the speaker acknowledges that their testimony alone is not suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a call to action, revealing both the vast number of
 2. "He sends out the disciples not only to gather the harvest, but also to instruct them, just as one would train athletes in the Palestinian wrestling arena, so that they may be prepared for the challenges of the world."
 3. "Chrysostom emphasizes the importance of the disciples' training and preparation for the mission, likening it to the rigorous training of athletes in order to face the struggles of the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The harvest truly is plenteous—His eye doubtless rested immediately on the Jewish field, but this he saw widening into the vast field of 'the world,' teeming with souls having to be gathered to Him." 
 
 2. "But the laborers—men divinely qualified and called to gather them in—are few." 
@@ -50,4 +50,4 @@ The verse being described is a call to action, revealing both the vast number of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

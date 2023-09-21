@@ -9,7 +9,7 @@ This verse emphasizes the vital importance of remaining deeply connected to Jesu
 2. "The branch cannot sever itself from the vine: but, such a case supposed, every one will see the inevitable consequence."
 3. "It is the permitted freewill of the creature which makes the difference between the branches in the two cases."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abide in me, and I in you; as the branch cannot bear fruit of itself, except it abide in the vine." - This verse emphasizes the importance of remaining connected to Christ in order to bear spiritual fruit. 
 
 2. "All spiritual fruitfulness had been ascribed to the mutual inhabitation, and living, active interpenetration of Christ and His disciples." - The commentary highlights that the source of spiritual fruitfulness is the intimate relationship between Christ and His followers. 
@@ -59,4 +59,4 @@ This verse emphasizes the vital importance of remaining deeply connected to Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

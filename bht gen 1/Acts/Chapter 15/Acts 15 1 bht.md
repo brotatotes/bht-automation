@@ -9,7 +9,7 @@ In the midst of the early church, a conflict arose between certain individuals w
 2. "With this party Paul was in conflict all his life; and even long after, we find it raising its head again in the sects of the Ebionites and the Nazarenes."
 3. "On the idea that Cerinthus and Ebion were the τινές here spoken of, see the patristic reff. in Wordsw.’s note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Certain men" refers to a specific group of individuals mentioned in Galatians 2:4.
 2. These individuals are described further in Galatians 2:4.
 
@@ -50,4 +50,4 @@ In the midst of the early church, a conflict arose between certain individuals w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

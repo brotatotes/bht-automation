@@ -11,7 +11,7 @@ Amplifying the Gospel accounts, these commentators shed light on various element
 
 3. "Herod was not king properly, but only tetrarch." This quote emphasizes the limited authority of Herod, helping readers understand the political dynamics of the time and how it affected Herod's actions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The murdered prophet haunted his guilty breast like a specter, and seemed to him alive again and clothed with unearthly powers, in the person of Jesus."
 2. "The murdered prophet haunted his guilty breast like a specter."
 3. "Seemed to him alive again and clothed with unearthly powers, in the person of Jesus."
@@ -47,4 +47,4 @@ Amplifying the Gospel accounts, these commentators shed light on various element
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

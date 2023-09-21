@@ -11,7 +11,7 @@ This verse describes God's active and intentional nature, as He stretches forth 
 
 3. "By means of the Name of Thy Holy Servant Jesus" - This quote underscores the centrality of Jesus' name in the process of healing, indicating that it is through His name that the signs and wonders occur, emphasizing the authority and power vested in Jesus as God's Holy Servant.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe the two opposite classes" - This highlights the contrasting groups that were present, foreshadowing the conflict that was about to unfold.
 2. "Representing the two interests" - This emphasizes that the two groups had different interests and motivations, setting the stage for the clash between them.
 3. "About to come into deadly conflict" - This phrase conveys the seriousness and intensity of the impending conflict, indicating that the outcome would be significant and potentially violent.
@@ -49,4 +49,4 @@ This verse describes God's active and intentional nature, as He stretches forth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

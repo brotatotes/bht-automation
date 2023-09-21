@@ -9,7 +9,7 @@ The verse being described speaks of the institution of the Lord's Supper, where 
 2. "Hence the insertion of κλώμενον."
 3. "τοῦτο ποι... See note on Matt. ut supra."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The breaking of the bread involves its distribution and reproves the Corinthian mode at the love-feast, of 'every one taking before other his own supper.'" 
 2. "The literal 'body' could not have been meant; for Christ was still sensibly present among His disciples when He said, 'This is My body.' They could only have understood Him symbolically and analogically: As this bread is to your bodily health, so My body is to the spiritual health of the believing communicant." 
 3. "The words, 'Take, eat,' are not in the oldest manuscripts."
@@ -51,4 +51,4 @@ The verse being described speaks of the institution of the Lord's Supper, where 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

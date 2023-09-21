@@ -9,7 +9,7 @@ In this verse, commentators describe the significance and true nature of the foo
 2. "This verse is decisive against all explaining away or metaphorizing the passage."
 3. "Food and drink are not here mere metaphors; rather are our common material food and drink mere shadows and imperfect types of this only real reception of refreshment and nourishment into the being."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He says they must not only 'eat His flesh' but 'drink His blood,' which could not but suggest the idea of His death—implied in the separation of one's flesh from his blood."
 2. "And as He had already hinted that it was to be something very different from a natural death, saying, 'My flesh I will give for the life of the world' (John 6:51), it must have been pretty plain to candid hearers that He meant something above the gross idea which the bare terms expressed."
 3. "The truth really conveyed here is no other than that expressed in John 6:51- :, though in more emphatic terms—that He Himself, in the virtue of His sacrificial death, is the spiritual and eternal life of men."
@@ -45,4 +45,4 @@ In this verse, commentators describe the significance and true nature of the foo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

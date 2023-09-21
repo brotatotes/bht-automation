@@ -9,7 +9,7 @@ The Bible verse being described speaks of the Lord as the Spirit and the embodim
 2. "Christ is the Spirit of Christ."
 3. "Where the Spirit of the Lord is, there is liberty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is the Spirit and 'end' of the Old Testament, who giveth life to it, whereas 'the letter killeth'." 
 2. "They are free to serve God in the Spirit, and rejoice in Christ Jesus: they have no longer the spirit of bondage, but of free sonship." 
 3. "Liberty is opposed to the letter (of the legal ordinances), and to the veil, the badge of slavery: also to the fear which the Israelites felt in beholding Moses' glory unveiled."
@@ -55,4 +55,4 @@ The Bible verse being described speaks of the Lord as the Spirit and the embodim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

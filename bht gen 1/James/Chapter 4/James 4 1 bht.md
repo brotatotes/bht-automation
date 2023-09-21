@@ -9,7 +9,7 @@ The Bible verse being described is one that addresses the issue of quarrels, war
 2. "Ye desire and possess not; ye murder and envy, and are not able to obtain; ye fight and make war." 
 3. "Ye have not, because ye ask not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cause of quarrels is often sought in external circumstances, whereas internal lusts are the true origin."
 2. "The members are the first seat of war thence it passes to conflict between man and man, nation and nation."
 3. "They (without his knowledge) war against the soul of the man himself, and against the Spirit; therefore they must be 'mortified' by the Christian."
@@ -53,4 +53,4 @@ The Bible verse being described is one that addresses the issue of quarrels, war
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

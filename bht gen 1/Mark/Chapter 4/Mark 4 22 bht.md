@@ -9,7 +9,7 @@ This verse highlights the all-encompassing knowledge of God and the inevitabilit
 2. "We may add Xen. Mem. iii. 13. 6, ἤρετο αὐτόν , εἰ καὶ φορτίον ἔφερε ; μὰ Δί ʼ οὐκ ἔγωγ ʼ, ἔφη , ἀλλὰ τὸ ἱμάτιον."
 3. "Hartung, Partikel. ii. 43, cites Eur. Hippol [13] 633, ῥᾷστον δ ʼ ὅτῳ τὸ μηδὲν ἀλλ ʼ ἀνωφελὴς | εὐηθίᾳ κατ ʼ οἶκον ἵδρυται γυνή · | σοφὴν δὲ μισῶ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For there is nothing hid which shall not be manifested." - This quote emphasizes the idea that nothing can remain hidden forever and that eventually, all things will be revealed.
 2. "I have privately expounded to you these great truths, but only that ye may proclaim them publicly." - This quote highlights the purpose of sharing knowledge privately - it is meant to be spread and shared with others.
 3. "These are not designed for secrecy. They are imparted to be diffused abroad, and they shall be so." - This quote emphasizes that the truths and teachings should not be kept secret but should be shared and spread widely.
@@ -52,4 +52,4 @@ This verse highlights the all-encompassing knowledge of God and the inevitabilit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

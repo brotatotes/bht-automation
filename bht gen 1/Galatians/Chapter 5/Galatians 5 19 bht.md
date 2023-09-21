@@ -9,7 +9,7 @@ In this passage, the commentator highlights the contrast between the works of th
 2. "almost = 'for example:' 'qualia sunt'"
 3. "It does not seem to include necessarily the idea of lasciviousness...The best word for it seems to be wantonness, 'protervitas'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hidden fleshly principle betrays itself palpably by its works, so that these are not hard to discover, and leave no doubt that they come not from the Spirit."
 2. "The 'fruit of the Spirit' is singular, because, however manifold the results, they form one harmonious whole."
 3. "This passage shows that 'the flesh' does not mean merely sensuality, as opposed to spirituality: for 'divisions' in the catalogue here do not flow from sensuality."
@@ -48,4 +48,4 @@ In this passage, the commentator highlights the contrast between the works of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

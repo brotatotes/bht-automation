@@ -9,7 +9,7 @@ Through Jesus' sacrifice, God publicly displayed His means of salvation before a
 2. "διὰ πίστεως by faith, as the subjective means of appropriation of this propitiation."
 3. "εἰς ἔνδειξιν κ . τ . λ. in order to the manifestation of His righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to be a propitiation, in His blood, through faith." - This phrase emphasizes the role of faith in Christ's sacrifice as the means of propitiation, or appeasement of God's wrath. 
 
 2. "the sins committed under the old economy, before Christ came to 'put away sin by the sacrifice of Himself.'" - This clarifies that the sins referred to as "past" are not the sins committed by believers before coming to Christ, but rather the sins committed before Christ's sacrifice. 
@@ -61,4 +61,4 @@ Overall, these quotes shed light on the purpose and significance of Jesus' sacri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

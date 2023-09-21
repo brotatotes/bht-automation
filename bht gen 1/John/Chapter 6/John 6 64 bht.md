@@ -9,7 +9,7 @@ In this Bible verse, Jesus confronts his disciples' lack of belief, emphasizing 
 2. "The foreknowledge of our Lord with regard to Judas renders it impossible to apply the ordinary rules of moral treatment."
 3. "We come here to a form of the problem of divine foreknowledge and human free-will, which, in any of its endless combinations of expression, it is equally impossible for us to solve."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But it matters little to some of you in what sense I speak, for ye believe not."
 2. "This was said, adds the Evangelist, not merely of the outer but of the inner circle of His disciples."
 3. "He knew the traitor, though it was not yet time to expose him."
@@ -57,4 +57,4 @@ In this Bible verse, Jesus confronts his disciples' lack of belief, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

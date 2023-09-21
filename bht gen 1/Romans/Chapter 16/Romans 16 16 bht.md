@@ -9,7 +9,7 @@ The Bible verse in question encourages believers to greet one another with a hol
 2. "It became soon a custom in the churches at the celebration of the Lord’s Supper."
 3. "This assurance is stated evidently on the Apostle’s authority, speaking for the churches; not implying as Bengel, 'quibuscum fui, c. xv. 26. His significarat, se Romam scribere,' but vouching for the brotherly regard in which the Roman church was held by all churches of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The custom of greeting one another with a holy kiss originated from the Jews and was likely adopted by the early Christian churches as a symbol of a deeper fellowship. It was a way for believers to express their Christian affection towards one another." 
 
 2. "The apostle's desire in asking the Romans to greet one another with a holy kiss was for them to explicitly demonstrate their love and unity as Christians. It was a tangible way for them to testify their Christian affection towards one another."
@@ -65,4 +65,4 @@ The Bible verse in question encourages believers to greet one another with a hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

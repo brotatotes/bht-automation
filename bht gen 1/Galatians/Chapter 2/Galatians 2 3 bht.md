@@ -9,7 +9,7 @@ Even though Titus, a Greek, was with Paul, he was not forced to undergo circumci
 2. "The demand was not complied with, but resisted by Paul and Barnabas." 
 3. "This [circumcision of Titus] was a demonstration of Paul's agreement with the other Apostles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not even Titus who was with me, who was a Greek (and therefore uncircumcised), was compelled to be circumcised." - This quote highlights the acceptance and validation of Paul's ministry among the Gentiles, as even Titus, a Greek, was not forced to be circumcised. 
 
 2. "Christianity did not interfere with Jewish usages, regarded merely as social ordinances, though no longer having their religious significance, in the case of Jews and proselytes." - This quote explains that while Jewish customs were respected for Jews and proselytes, they were not considered essential for Gentile converts.
@@ -57,4 +57,4 @@ Even though Titus, a Greek, was with Paul, he was not forced to undergo circumci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

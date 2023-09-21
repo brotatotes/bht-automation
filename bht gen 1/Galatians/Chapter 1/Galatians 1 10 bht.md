@@ -9,7 +9,7 @@ In this verse, the apostle Paul emphasizes that his purpose in preaching the Gos
 2. "Nay) if I any longer (implying that such is the course of the world before conversion to Christ; not necessarily referring back to the time before his own conversion, any more than that is contained by implication in the words, but rather perhaps to the accumulated enormity of his being, after all he had gone through, a man-pleaser) were pleasing men"
 3. "I were not ( ἤμην is a late form, found however in Xen. Cyr. vi. 1. 9: see Ellic. here) the (or a, but better ‘the’) servant of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is what I have just now said a sample of men-pleasing, of which I am accused?"
 2. "Once, when a Pharisee, I was actuated only by a regard to human authority and to please men, but NOW I teach as responsible to God alone."
 3. "Regard is to be had to God alone."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes that his purpose in preaching the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

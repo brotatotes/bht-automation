@@ -13,7 +13,7 @@ In this verse, the commentator quotes highlight the enduring faith and patience 
 
 These quotes emphasize the importance of Abraham's patience, his fulfillment of the promise, and his status as an inheritor of God's promises.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'so' indicates that the action being taken is a direct result of relying on the promise. It shows the connection between faith and action, emphasizing that faith is not passive but prompts us to take steps of obedience."
 
 2. "By relying on the promise, we are acknowledging that God's word is trustworthy and that He will fulfill what He has said. It is an act of surrender and dependence on Him, recognizing that our own efforts are insufficient."
@@ -58,4 +58,4 @@ These quotes emphasize the importance of Abraham's patience, his fulfillment of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

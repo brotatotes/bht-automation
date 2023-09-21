@@ -11,7 +11,7 @@ In this Bible verse, our Lord encounters a bold and deadly attack from Satan, wh
 
 3. "From this time, our Lord is known by the devils, and casts them out by a word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord no longer deals with him as a pretended friend and pious counsellor, but calls him by his right name—His knowledge of which from the outset He had carefully concealed till now—and orders him off."
 2. "This is the final and conclusive evidence, as we think, that Matthew's must be the right order of the temptations."
 3. "Thus does our Lord part with Satan on the rock of Scripture."
@@ -52,4 +52,4 @@ In this Bible verse, our Lord encounters a bold and deadly attack from Satan, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

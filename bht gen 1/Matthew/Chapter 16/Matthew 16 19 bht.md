@@ -9,7 +9,7 @@ In this verse, Jesus gives Peter the power to open the gates of salvation to bot
 2. "Those who deny the reference of Mat 16:18 to St. Peter, will find it very difficult to persuade any unbiassed Greek scholar, that the καὶ δώσω σοί, with σοι thus lying unemphatically behind the verb, is not a continuation of a previous address, but a change of address altogether."
 3. "But strictly considered, the binding and loosing belong to the power of legislation in the Church committed to the Apostles, in accordance with the Jewish way of using the words אסר and התיר for prohibuit and licitum fecit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatever this mean, it was soon expressly extended to all the apostles...the claim of supreme authority in the Church, made for Peter by the Church of Rome, and then arrogated to themselves by the popes as the legitimate successors of St. Peter, is baseless and impudent."
 2. "As first in confessing Christ, Peter got this commission before the rest; and with these 'keys,' on the day of Pentecost, he first 'opened the door of faith' to the Jews, and then, in the person of Cornelius, he was honored to do the same to the Gentiles."
 3. "One thing is clear, that not in all the New Testament is there the vestige of any authority either claimed or exercised by Peter, or conceded to him, above the rest of the apostles—a thing conclusive against the Romish claims in behalf of that apostle."
@@ -48,4 +48,4 @@ In this verse, Jesus gives Peter the power to open the gates of salvation to bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ At the heart of the passage lies our altar, not to be elevated above the sacrifi
 2. "We Christians have an altar whereof (even) they who serve the (Christian) tabernacle have no right to eat: i. e. as explained by Hofmann, as the high priest himself did not eat of the sin-offerings whose blood was brought into the tabernacle, but they were burnt without the camp, so we Christians have no sacrifice of which we have any right to eat, no further profit to be derived from that one sacrifice, by which we have been reconciled to God."
 3. "The only true reference of our words, as also that which has been all but universally acknowledged, is that to the Jewish priesthood, and in them to those who have part with them in serving the rites and ordinances of the ceremonial law. These have no right to eat of our altar: for just as the bodies of those beasts whose blood was brought into the sanctuary were burnt without the camp, so Jesus suffered altogether without the gate of legal Judaism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who serve the (Jewish) tabernacle," have no right to eat our spiritual Gospel meat."
 2. "The Lord's table represents this altar, the cross; as the bread and wine represent the sacrifice offered on it."
 3. "That not a literal eating of the sacrifice of Christ is meant in the Lord's Supper, but a spiritual is meant."
@@ -48,4 +48,4 @@ At the heart of the passage lies our altar, not to be elevated above the sacrifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

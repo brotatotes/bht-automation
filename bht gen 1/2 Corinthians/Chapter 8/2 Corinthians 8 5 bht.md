@@ -4,7 +4,7 @@
 The verse being described speaks of a generous and selfless act. The commentators agree that the people went beyond expectations, giving not only their worldly possessions but also giving themselves completely to God and His servants. They trusted in God's provision, willing to do whatever was necessary in obedience to His will. This act of devotion and surrender was not only an act of Christian principle but also a demonstration of their commitment to God's service.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And not as we hoped (that is, far beyond our hopes), but their own selves gave they first to the Lord." 
 
 2. "The giving of themselves takes precedency of their other gifts, as being the motive which led them to the latter."
@@ -50,4 +50,4 @@ The verse being described speaks of a generous and selfless act. The commentator
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

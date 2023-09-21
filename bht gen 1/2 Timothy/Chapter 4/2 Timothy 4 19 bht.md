@@ -4,7 +4,7 @@
 This verse mentions individuals and their households who have displayed unwavering support and dedication to spreading the Gospel. The married couple, Prisca and Aquila, were not only companions and supporters of Paul but also actively involved in opening their home to believers. The mention of the household of Onesiphorus highlights the impact of individuals in fostering a sense of community and support. The verse underscores the close bond among believers and the importance of mutual support, even across different locations and circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prisca and Aquila—(Acts 18:2; Acts 18:3; Romans 16:3; Romans 16:4; 1 Corinthians 16:19, written from Ephesus, where therefore Aquila and Priscilla must then have been)." 
 2. "If he were dead at the time, the 'household' would not have been called 'the household of Onesiphorus.'"
 3. "He was probably absent."
@@ -39,4 +39,4 @@ This verse mentions individuals and their households who have displayed unwaveri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described is about the gratitude and acknowledgement of Christ's role in enabling and empowering individuals for their specific ministry. It emphasizes the trust and confidence that Christ has in the faithfulness of those He calls, highlighting the divine appointment and purpose behind their calling. The verse recognizes that the gifts and abilities for ministry come from the free grace of God and stresses that being chosen for a specific role in the service of God is not of one's own doing, but a result of God's grace and favor.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The honor done him in having the Gospel ministry committed to him suggests the digression to what he once was, no better than those lawless ones described above, when the grace of our Lord visited him."
 2. "Enabled me, namely, for the ministry. 'It is not in my own strength that I bring this doctrine to men, but as strengthened and nerved by Him who saved me.'"
 3. "He foreordered and foresaw that I would be faithful to the trust committed to me. Paul's thanking God for this shows that the merit of his faithfulness was due solely to God's grace, not to his own natural strength."
@@ -50,4 +50,4 @@ The Bible verse being described is about the gratitude and acknowledgement of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

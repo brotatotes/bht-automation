@@ -9,7 +9,7 @@ In the city of Damascus, there is a street called Straight, known for its direct
 2. "Still, true as this is, we have sometimes proofs and illustrations unexpectedly appearing, as research goes on, which identify as authentic, sites long pointed out by tradition."
 3. "TARSUS was the capital of the province of Cilicia, a large and populous city in a fruitful plain on the river Cydnus, which flowed through the midst of it, with a swift stream of remarkably cold water."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is something touching in the minuteness of these directions."
 2. "Beautiful note of encouragement as to the frame in which Ananias would find the persecutor."
 3. "Struggling desires after light and life in the Persecuted One."
@@ -55,4 +55,4 @@ In the city of Damascus, there is a street called Straight, known for its direct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a group of believers who are united and persistent in thei
 2. "Here I think we must take σὺν γυν. not as meaning ‘with women,’ as Hackett, but, the art. not being expressed after the preposition σύν, as = σὺν ταῖς γυν., and interpret γυν., the women, viz. those spoken of by Luke himself, Luke 8:2-3, where, besides those named, he mentions ἕτεραι πολλαί."
 3. "The καί gives eminence to one among those previously mentioned. So τῶνδε εἵνεκα, καὶ γῆς ἱμέρῳ, Herod. i. 73."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "continued with one accord—knit by a bond stronger than death."
 2. "in prayer and supplication—for the promised baptism, the need of which in their orphan state would be increasingly felt."
 3. "and Mary the mother of Jesus—distinguished from the other 'women,' but 'so as to exclude the idea of her having any pre-eminence over the disciples. We find her with the rest in prayer to her glorified Son' [WEBSTER and WILKINSON]."
@@ -57,4 +57,4 @@ In this verse, we see a group of believers who are united and persistent in thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

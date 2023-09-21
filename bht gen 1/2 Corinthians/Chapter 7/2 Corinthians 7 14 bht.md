@@ -9,7 +9,7 @@ The verse being described is a passage highlighting the joy and satisfaction of 
 2. "But truthfulness was shown to be my constant rule of speech, to whomsoever I spoke."
 3. "Our boasting concerning you before Titus was proved to be truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am not put to shame," namely, by learning from Titus that you did not realize the high character I gave him of you.
 2. "As our speaking in general to you was true, so our particular boasting to Titus concerning you is now, by his report, proved to be truth."
 3. "Some oldest manuscripts read expressly, 'concerning you'; this in either reading is the sense."
@@ -45,4 +45,4 @@ The verse being described is a passage highlighting the joy and satisfaction of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

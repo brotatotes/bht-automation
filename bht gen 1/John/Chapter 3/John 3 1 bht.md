@@ -9,7 +9,7 @@ In this Bible verse, we encounter a man named Nicodemus, a ruler among the Jews 
 2. "He was a member of the Sanhedrim and, besides, a νομοδιδάσκαλος." 
 3. "This might certainly have been; still it must be quite uncertain whether he be the same with this Nicodemus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nicodemus—In this member of the Sanhedrim sincerity and timidity are seen struggling together." 
 2. "Nicodemus, a Pharisee and a ruler of the Jews, came to Jesus by night, seeking a personal interview with Him." 
 3. "Nicodemus was a man of culture and influence, a teacher and ruler in Israel, yet he was not satisfied with his position."
@@ -52,4 +52,4 @@ Note: The commentary provided does not directly quote or comment on a specific B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

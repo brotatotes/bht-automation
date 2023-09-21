@@ -9,7 +9,7 @@ At a door in Jerusalem, a woman, who had served as a porter, guarded the entranc
 2. "Female porters were not unheard of among the Jews."
 3. "There were precedents for women serving as porters among the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The naturalness of these small details is not unworthy of notice."
 2. "This other disciple first made good his own entrance on the score of acquaintance with the high priest; this secured, he goes forth again, now as a privileged person, to make interest for Peter's admission."
 3. "But thus our poor disciple is in the coils of the serpent."
@@ -38,4 +38,4 @@ At a door in Jerusalem, a woman, who had served as a porter, guarded the entranc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

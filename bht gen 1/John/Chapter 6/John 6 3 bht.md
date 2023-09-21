@@ -11,7 +11,7 @@ In a secluded and possibly hilly area, Jesus intentionally ascended a mountain, 
 
 3. "no inference can be drawn from that, for this is the only portion of the Galilæan Ministry related by him" - The commentator points out that the fact that this event is only mentioned by John does not imply any significance or difference in the event itself, highlighting the uniqueness of John's account in the Gospel narrative.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mountain mentioned here is believed to be located in the hilly range on the east side of the lake."
 2. "This mountain serves as a significant geographical reference point in the story."
 3. "The specific location of the mountain adds to the authenticity and historical context of the narrative."
@@ -56,4 +56,4 @@ In a secluded and possibly hilly area, Jesus intentionally ascended a mountain, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

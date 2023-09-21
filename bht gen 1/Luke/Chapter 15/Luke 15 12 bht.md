@@ -9,7 +9,7 @@ In this Bible verse, the parable presents a compelling depiction of mankind's fr
 2. "βίος = οὐσία: no distinction is implied, as some (Paulus, Stier) have thought."
 3. "The parable sets before us very strikingly the permission of free will to man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is man impatient of divine control, desiring to be independent of God, seeking to be his own master that 'sin of sins, in which all subsequent sins are included as in their germ, for they are but the unfolding of this one'." [TRENCH]
 
 2. "Thus 'God, when His service no longer appears a perfect freedom, and man promises himself something far better elsewhere, allows him to make the trial and he shall discover, if need be by saddest proof, that to depart from Him is not to throw off the yoke, but to exchange a light yoke for a heavy one, and one gracious Master for a thousand imperious tyrants and lords'." [TRENCH]
@@ -57,4 +57,4 @@ In this Bible verse, the parable presents a compelling depiction of mankind's fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

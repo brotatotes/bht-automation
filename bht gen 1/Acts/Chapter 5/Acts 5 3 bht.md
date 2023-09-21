@@ -9,7 +9,7 @@ In this passage, we see Ananias and Sapphira deceiving the Holy Spirit by lying 
 2. "Why hast thou allowed Satan to fill, &c.?" 
 3. "The question implies a rebuke for permitting Satan to gain such influence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why hath Satan filled—"why hast thou suffered him to fill" thine heart—so criminally entertaining his suggestion?" 
 
 2. "to lie to the Holy Ghost—to men under His supernatural illumination." 
@@ -57,4 +57,4 @@ In this passage, we see Ananias and Sapphira deceiving the Holy Spirit by lying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

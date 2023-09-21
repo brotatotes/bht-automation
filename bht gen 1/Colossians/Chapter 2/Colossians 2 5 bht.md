@@ -9,7 +9,7 @@ Though physically absent, the spiritual presence and concern of the commentator 
 2. "Seeing your order and the solid basis of your faith on Christ." 
 3. "The solid basis of your faith on Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For—argument against their suffering themselves to be beguiled, drawn from a regard to his personal authority as though he were present."
 2. "Order—your good order; answering to 'knit together' as a well-organized body."
 3. "Steadfastness—Greek, 'the firm (or 'solid') foundation.' As 'order' expresses the outward aspect of the Church; so 'steadfastness' expresses the inner basis on which their Church rested."
@@ -51,4 +51,4 @@ Though physically absent, the spiritual presence and concern of the commentator 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

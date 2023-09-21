@@ -9,7 +9,7 @@ In this verse, believers are described as finding honor and joy in enduring sham
 2. "So the Heb. שֵׁם is used Leviticus 24:11; Leviticus 24:16."
 3. "Compare τῆς ὁδοῦ, ch. Acts 9:2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "thought worthy by God to be dishonored by man" (Matthew 5:12; 1 Peter 4:14; 1 Peter 4:16)
 2. "This was their first taste of persecution, and it felt sweet for His sake"
 3. "rejoicing that they were counted worthy to suffer shame for his name"
@@ -61,4 +61,4 @@ These quotes emphasize the need for believers to find joy in the midst of suffer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

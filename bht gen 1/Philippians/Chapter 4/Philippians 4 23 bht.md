@@ -9,7 +9,7 @@ The closing benediction of this letter highlights the foundational role of grace
 2. "Paul's emphasis on the grace of Jesus Christ is a powerful reminder that our salvation is not based on our own efforts or works, but on the unmerited favor and love of God."
 3. "The mention of the Holy Spirit in this benediction highlights the role of the Spirit in our lives as the one who empowers and guides us in our journey of faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The oldest manuscripts read, 'Be with your spirit,' and omit 'Amen.'" This highlights the importance of the spiritual aspect of the verse, emphasizing the connection between the individual's spirit and the presence of God.
 2. "Be with your spirit." This phrase reminds us of the significance of nurturing and tending to our inner being, our spirit, as we navigate through life's challenges and seek a deeper relationship with God.
 3. "Be with you all." This simple yet powerful statement serves as a reminder of the unity and support that can be found within a community of believers, as they come together to encourage and uplift one another in their faith journeys.
@@ -42,4 +42,4 @@ The closing benediction of this letter highlights the foundational role of grace
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

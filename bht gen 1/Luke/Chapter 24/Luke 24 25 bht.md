@@ -9,7 +9,7 @@ This verse highlights the lack of understanding and spiritual insight of the dis
 2. "Without understanding" refers to their lack of spiritual insight and discernment. 
 3. "Sluggish in disposition to believe" highlights their reluctance to accept the truth of Christ's resurrection.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fools are those who lack wisdom and understanding, who act senselessly and make foolish decisions." 
 
 2. "They are devoid of knowledge and fail to grasp the deeper meaning and implications of their actions." 
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

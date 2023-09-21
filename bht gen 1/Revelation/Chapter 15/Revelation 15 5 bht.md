@@ -4,7 +4,7 @@
 The description describes a verse in the Bible that depicts the opening of the temple, referred to as the "tabernacle of the testimony." The temple symbolizes God's faithfulness and righteousness, and it contains the ark of the covenant, which serves as a witness against sin. This unveiling signifies a new phase in which divine judgments are revealed and executed, emphasizing the immediate and certain manifestation of God's justice. The opening of the temple represents a powerful moment of divine revelation and an opportunity for the true religion to flourish.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tabernacle of the testimony" appropriately here comes to view, where God's faithfulness in avenging His people with judgments on their foes is about to be set forth.
 2. We need to get a glimpse within the Holy place to "understand" the secret spring and the end of God's righteous dealings.
 3. Behold—omitted by A, B, C, Syriac, and ANDREAS. It is supported only by Vulgate, Coptic, and PRIMASIUS, but no manuscript.
@@ -51,4 +51,4 @@ The description describes a verse in the Bible that depicts the opening of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

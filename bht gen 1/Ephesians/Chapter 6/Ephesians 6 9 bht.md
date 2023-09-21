@@ -11,7 +11,7 @@ Masters are urged to treat their servants with kindness and respect, forgoing th
 
 3. "respect of persons (warping of justice from regard to any man’s individual pre-eminence, see reff.  exists not with Him" - The commentary highlights the importance of impartiality and fairness, stating that God does not show favoritism based on someone's social status or position of power.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love regulates the duties both of servants and masters, as one and the same light attempers various colors."
 2. "Christianity makes all men brothers."
 3. "As you treat your servants, so will He treat you."
@@ -57,4 +57,4 @@ Masters are urged to treat their servants with kindness and respect, forgoing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

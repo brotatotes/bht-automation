@@ -4,7 +4,7 @@
 In this verse, there is a powerful convergence of testimonies to the truth of Jesus Christ's sonship and Messiahship. The Holy Spirit, baptism in water, and the redeeming blood shed on the cross all bear witness to his divine nature and work. These witnesses are not in conflict, but rather complement and reinforce one another, providing a solid foundation for the belief in Jesus as the Son of God. The unity and agreement among the witnesses demonstrate the credibility and significance of their testimony, ultimately leading us to a deep and unwavering faith in Jesus Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their agreeing testimony to Jesus' Sonship and Messiahship they give by the sacramental grace in the water of baptism, received by the penitent believer, by the atoning efficacy of His blood, and by the internal witness of His Spirit." 
 2. "It was by His coming by water (that is, His baptism in Jordan) that Jesus was solemnly inaugurated in office, and revealed Himself as Messiah."
 3. "By the baptism then received by Christ, and by His redeeming blood-shedding, and by that which the Spirit of God, whose witness is infallible, has effected, and still effects, by Him, the Spirit, the water, and the blood, unite, as the threefold witness, to verify His divine Messiahship."
@@ -45,4 +45,4 @@ In this verse, there is a powerful convergence of testimonies to the truth of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

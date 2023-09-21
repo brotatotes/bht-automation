@@ -9,7 +9,7 @@ In this well-known parable, the father's extravagant love and mercy are vividly 
 2. "The ring, a token of a distinguished and free person." (James 2:2; Genesis 41:42)
 3. "The shoes, also the mark of a free man." (Zechariah 10:12; Ephesians 6:15)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The son has not said all he purposed, not so much, because the father's demonstrations had rekindled the filial, and swallowed up all servile feeling." 
 2. "The father's heart is made to appear too full to listen, at that moment, to more in this strain." 
 3. "We have here a threefold symbol of freedom and honor, restored, as the fruit of perfect reconciliation."
@@ -57,4 +57,4 @@ These quotes highlight the symbolic significance of the robe, ring, and shoes in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

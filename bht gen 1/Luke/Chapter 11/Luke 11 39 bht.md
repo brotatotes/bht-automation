@@ -9,7 +9,7 @@ This passage describes Jesus' confrontation with the Pharisees, exposing their h
 2. "The outside apparent conduct, and the inner unseen motives."
 3. "The simple fact is, that the parable and its interpretation are intermixed throughout the whole, the mind of the hearer being left to find its own way in allotting each its part."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cup and platter—remarkable example of our Lord's way of drawing the most striking illustrations of great truths from the most familiar objects and incidents of life."
 2. "Ravening—rapacity."
 
@@ -59,4 +59,4 @@ These quotes highlight the unique teaching style of Jesus, who often used everyd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

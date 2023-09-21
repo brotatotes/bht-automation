@@ -11,7 +11,7 @@ They "cannot please God" — Without the indwelling of the Holy Spirit, they lac
 4. "nearly κατὰ σάρκα ὄντες above, which however denotes the rule which they follow"
 5. "Hic locus maxime refutat Pelagianos et omnes qui imaginantur homines sine Spiritu Sancto legi obedire"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that are in—and, therefore, under the government of the flesh cannot please God—having no obediential principle, no desire to please Him."
 
 2. "Having no obediential principle, no desire to please Him."
@@ -56,4 +56,4 @@ They "cannot please God" — Without the indwelling of the Holy Spirit, they lac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

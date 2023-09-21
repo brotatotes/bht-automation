@@ -9,7 +9,7 @@ In this verse, the enmity and cruelty of the rich and powerful towards the just 
 2. "The behavior of the just under your persecutions is ever that of meekness and submission."
 3. "And thus we have as it were standing before us the slain and unresisting righteous man, when lo the curtain falls: Be patient, brethren, wait!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their condemnation of Christ, 'the Just,' is foremost in James' mind."
 2. "The justice or righteousness of Jesus and His people is what peculiarly provoked the ungodly great men of the world."
 3. "The very patience of the Just one is abused by the wicked as an incentive to boldness in violent persecution."
@@ -50,4 +50,4 @@ In this verse, the enmity and cruelty of the rich and powerful towards the just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

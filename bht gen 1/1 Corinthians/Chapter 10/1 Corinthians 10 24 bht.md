@@ -9,7 +9,7 @@ The verse in question urges believers to prioritize the welfare of others over t
 2. "In the second clause, ἕκαστος must be supplied from μηδείς (hence it has found its way into the rec.): so Plato, Rep. ii. p. 366 D, οὐδεὶς ἑκὼν δίκαιος , ἀλλ ʼ … ψέγει τὸ ἄδικον , i.e. ἕκαστος ψέγει."
 3. "See Bernhardy, Syntax, p. 458."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle Paul reminds us that our primary goal as believers is not to please ourselves, but to seek the well-being and edification of others." (Romans 15:1)
 
 2. "Love does not keep a record of wrongs, but instead chooses to forgive and extend grace to others." (1 Corinthians 13:5)
@@ -59,4 +59,4 @@ These quotes emphasize the importance of considering the welfare of others and p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

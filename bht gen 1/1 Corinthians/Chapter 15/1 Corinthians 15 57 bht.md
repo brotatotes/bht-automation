@@ -9,7 +9,7 @@ This verse expresses gratitude towards God for granting believers a victorious t
 2. "he breaks out in thanks to God, who gives it to us"
 3. "through our Lord Jesus Christ"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The victory was in no way due to ourselves." 
 2. "The victory, which death and Hades had aimed at, but which we have gained." 
 3. "The repetition of the word is appropriate to the triumph gained."
@@ -61,4 +61,4 @@ Overall, this commentary emphasizes the victorious work of Christ and the gratit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

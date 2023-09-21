@@ -9,7 +9,7 @@ In this Bible verse, a sorcerer named Elymas opposes the teachings of Saul and B
 2. "διαστρέψαι … ἀπό] A pregnant construction, as ἀπέστησεν ὀπίσω, ch. Acts 5:37." 
 3. "ἀπέστησεν ὀπίσω" (Acts 5:37).
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Elymas—or 'the wise.' for so is his name by interpretation—the word is from the Arabic." 
 2. "Withstood them—perceiving, probably, how eagerly the proconsul was drinking in the word, and fearing a dismissal."
 3. "Elymas, the sorcerer, was opposing them, seeking to turn the proconsul away from the faith. He was a false prophet, a deceiver, and a hinderer of the truth."
@@ -48,4 +48,4 @@ In this Bible verse, a sorcerer named Elymas opposes the teachings of Saul and B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

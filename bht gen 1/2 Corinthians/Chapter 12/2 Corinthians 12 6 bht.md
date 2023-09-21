@@ -10,7 +10,7 @@ The verse, described by various commentators, highlights the humility and wisdom
 2. "I shall speak the truth"
 3. "He wished to be judged of by what they really had seen and heard of and from himself in person"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For if I should desire to glory, I shall not be a fool." - The commentator highlights that Paul has legitimate reasons to boast, but he chooses not to do so in order to avoid appearing foolish. This shows Paul's humility and wisdom in not seeking personal glory.
 
 2. "I wish each of you to estimate me by 'what he sees' my present acts and 'hears' my teaching to be." - The commentator emphasizes the importance of evaluating Paul based on his actions and teachings rather than his past revelations. This encourages discernment and a focus on the present rather than dwelling on past accomplishments.
@@ -53,4 +53,4 @@ The verse, described by various commentators, highlights the humility and wisdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

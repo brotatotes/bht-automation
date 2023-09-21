@@ -9,7 +9,7 @@ This Bible verse emphasizes the importance of hope and anticipation while engagi
 2. "The words used in this sentence are evidently spiritual, and not literal. They are inseparably connected with διʼ ἡμᾶς which precedes them."
 3. "So Chrys. and Theophyl.: τουτέστιν, ὁ διδάσκαλος ὀφείλει ἀροτριᾷν, καὶ κοπιᾷν ἐπʼ ἐλπίδι ἀμοιβῆς κ. ἀντιμισθίας."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Does he (the divine lawgiver) by all means say it for our sakes?" 
 2. "It would be untrue, that God saith it altogether (in the sense of solely) for our sakes."
 3. "The obligation rests with the people not to let their minister labor without remuneration."
@@ -57,4 +57,4 @@ This Bible verse emphasizes the importance of hope and anticipation while engagi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

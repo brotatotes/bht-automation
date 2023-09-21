@@ -9,7 +9,7 @@ This Bible verse emphasizes the concept of God's grace being bestowed upon the h
 2. "God is set against the proud, but giveth grace to the lowly." 
 3. "The humble and lowly are the objects of His gifts of ever-increasing grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God giveth more grace—ever increasing grace; the farther ye depart from 'envy'." 
 2. "The same God who causes His spirit to dwell in believers, by the Spirit also speaks in Scripture." 
 3. "God repays sinners in their own coin. 'Pride' is the mother of 'envy'; it is peculiarly satanic, for by it Satan fell."
@@ -53,4 +53,4 @@ This Bible verse emphasizes the concept of God's grace being bestowed upon the h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

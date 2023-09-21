@@ -9,7 +9,7 @@ The verse encourages believers to grow not just in numbers, but also in faith, k
 2. "Make you to abound towards all men, even your enemies." 
 3. "Have a measure and example of love in us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But what concerns 'YOU,' whether we come or not, 'may the Lord make you to increase and abound in love.'" 
 2. "The Greek for 'increase' has a more positive force that for 'abound' a more comparative force, 'make you full and even abound.'" 
 3. "The Lord may here be the Holy Spirit; so the Three Persons of the Trinity will be appealed to, as in 1 Thessalonians 3:13."
@@ -45,4 +45,4 @@ The verse encourages believers to grow not just in numbers, but also in faith, k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

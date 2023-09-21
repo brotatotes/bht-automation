@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse where Jesus refers to God as His ow
 2. "And that this their understanding was the right one, the discourse testifies."
 3. "Thus we obtain from the adversaries of the faith a most important statement of one of its highest and holiest doctrines."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God was his Father—literally, 'His own [or peculiar] Father,' making himself equal with God." 
 2. "The addition is their own, but a very proper one." 
 3. "He positively sets His seal to it in the following verses, merely explaining how consistent such claim was with the prerogatives of His Father."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

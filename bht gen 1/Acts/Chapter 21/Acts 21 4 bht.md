@@ -9,7 +9,7 @@ Based on the quotes from commentators, the verse describes Paul and his companio
 2. "We thus have an instance of that which Paul asserts 1 Corinthians 14:32, that the spirits of prophets are subject to prophets, i.e., that the revelation made by the Holy Spirit to each man’s spirit was under the influence of that man’s will and temperament, moulded by and taking the form of his own capacities and resolves." 
 3. "But he paid no regard to the prohibition, being himself under a leading of the same Spirit too plain for him to mistake it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Finding disciples—finding out the disciples, implying some search." This quote highlights the idea that the disciples were not easily found, indicating that there may have been a need for some effort or investigation to locate them.
 
 2. "Perhaps they were not many; yet there were gifted ones among them." This quote suggests that while the number of disciples may have been small, they possessed unique talents or abilities that made them valuable to Paul and his mission.
@@ -59,4 +59,4 @@ These quotes provide insights into the context and dynamics surrounding the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The birth of Isaac, unlike Ishmael's, was a supernatural event that surpassed th
 2. "διʼ ἐπαγγελίας, by virtue of (the) promise, as the efficient cause of Sara’s becoming pregnant contrary to nature." 
 3. "see Romans 4:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "born according to the usual course of nature: in contrast to Isaac, who was born 'by virtue of the promise' (so the Greek), as the efficient cause of Sarah's becoming pregnant out of the course of nature." 
 2. "Abraham was to lay aside all confidence in the flesh (after which Ishmael was born), and to live by faith alone in the promise (according to which Isaac was miraculously born, contrary to all calculations of flesh and blood)." 
 3. "Isaac's birth was a testament to the power of God's promise and the faith of Abraham, while Ishmael's birth was a result of relying on human effort and the flesh."
@@ -57,4 +57,4 @@ These quotes highlight the contrasting circumstances of the births of Ishmael an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the commentators highlight the seriousness of showing favoritis
 2. "Being convicted by the law as transgressors." 
 3. "Deus enim proximos jubet diligere, non eligere personas." (Translation: "God commands us to love our neighbors, not to choose persons.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Respect of persons violates the command to love all alike 'as thyself.'" 
 2. "Your works are sin, whatever boast of the law ye make in words." 
 3. "Convinced - Old English for 'convicted.'"
@@ -61,4 +61,4 @@ These quotes shed light on the gravity of showing favoritism and the consequence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

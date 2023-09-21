@@ -9,7 +9,7 @@ In this parable, a group of virgins eagerly awaits the arrival of the bridegroom
 2. "The interpretation is these are souls come out from the world into the Church, and there waiting for the coming of the Lord not hypocrites, but faithful souls, bearing their lamps."
 3. "All views of this parable which represent the foolish virgins as having only a dead faith, only the lamp without the light, the body without the spirit, &c., are quite beside the purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This supplies a key to the parable, whose object is, in the main, the same as that of the last parable—to illustrate the vigilant and expectant attitude of faith."
 2. "This entire and beautiful change of figure brings out the lesson of the former parable in quite a new light."
 3. "The Virgins and the Bridegroom holding forth all the intended instruction: nor could believers be represented both as Bride and Bridal Attendants without incongruity."
@@ -48,4 +48,4 @@ In this parable, a group of virgins eagerly awaits the arrival of the bridegroom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

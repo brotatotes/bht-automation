@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul mentions a group of Christians who are les
 2. "Hermas is thought to be the author of the ‘Shepherd,’ but this latter is generally supposed to have been the brother of Pius, bishop of Rome, about 150 A.D."
 3. "The σὺν αὐτοῖς ἀδελφοί of Romans 16:14, and σὺν αὐτοῖς πάντες ἅγιοι of Romans 16:15, have been taken to point to some separate associations of Christians, perhaps assemblies or unions for missionary purposes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These little peeps into the rudimental forms which Christian fellowship first took in the great cities, though too indistinct for more than conjecture, are singularly interesting."
 2. "Our apostle would seem to have been kept minutely informed as to the state of the church at Rome, both as to its membership and its varied activities, probably by Priscilla and Aquila."
 3. "It would seem to indicate that they were each a center of some few Christians who met at his house—it may be for further instruction, for prayer, for missionary purposes, or for some other Christian objects."
@@ -43,4 +43,4 @@ In this Bible verse, the apostle Paul mentions a group of Christians who are les
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

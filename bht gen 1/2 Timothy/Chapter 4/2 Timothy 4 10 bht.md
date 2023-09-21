@@ -4,7 +4,7 @@
 The verse being described is about the departure of Demas and the movements of Crescens and Titus from Paul's ministry. Through the commentaries, we understand that Paul feels deserted by Demas, a former co-worker, and he expresses disappointment. Crescens, another preacher, has gone to Galatia for ministry work while Titus has left Crete and headed to Dalmatia. These departures highlight the ever-changing nature of relationships and the dedication of Paul and his fellow laborers to spreading the Gospel wherever they are called.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Demas—once a 'fellow laborer' of Paul, along with Mark and Luke." 
 2. "His motive for forsaking Paul seems to have been love of worldly ease, safety, and comforts at home, and disinclination to brave danger with Paul."
 3. "Titus—He must have therefore left Crete after 'setting in order' the affairs of the churches there."
@@ -58,4 +58,4 @@ These quotes highlight the commentary's criticism of a man who prioritized his o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

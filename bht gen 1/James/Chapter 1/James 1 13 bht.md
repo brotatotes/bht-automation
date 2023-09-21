@@ -9,7 +9,7 @@ In this verse, commentators emphasize that God does not tempt individuals to sin
 2. "God ordains the temptation, overrules the temptation, but does not tempt, is not the spring of the solicitation to sin."
 3. "God is unversed in things evil...God is not one who tempteth to evil...God is no tempter of evil men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let no one fancy that God lays upon him an inevitable necessity of sinning."
 2. "God does not send trials on you in order to make you worse, but to make you better."
 3. "Neither do any of our sins tempt God to entice us to worse things, nor does He tempt any of His own accord."
@@ -57,4 +57,4 @@ In this verse, commentators emphasize that God does not tempt individuals to sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

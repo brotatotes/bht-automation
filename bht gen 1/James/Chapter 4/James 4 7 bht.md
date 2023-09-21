@@ -11,7 +11,7 @@ The verse being described focuses on the concepts of submitting to God's authori
 
 3. "He shall flee from you" - This promise assures believers that when they resist the devil, he will ultimately be defeated and forced to retreat. It conveys the power and authority that believers have in Christ to overcome the enemy's attacks.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Submit to . . . God—so ye shall be among 'the humble.'" 
 2. "Resist . . . devil—Under his banner pride and envy are enlisted in the world; resist his temptations to these."
 3. "Faith, humble prayers, and heavenly wisdom, are the weapons of resistance."
@@ -55,4 +55,4 @@ The verse being described focuses on the concepts of submitting to God's authori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, there is a distinction in the ranks of those who will rise in the
 2. "The three ranks are mentioned in order of priority, but this does not constitute their distinctive character." 
 3. "The key to the understanding of this passage is to be found in the prophecy of our Lord, Matthew 24:25, but especially in the latter chapter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though all shall rise again, let not any think all shall be saved; nay, each shall have his proper place."
 2. "Christ's own flock shall share His glory 'at His coming,' which is not to be confounded with 'the end,' or general judgment."
 3. "The second coming of Christ is not a mere point of time, but a period beginning with the resurrection of the just at His appearing, and ending with the general judgment."
@@ -57,4 +57,4 @@ In this verse, there is a distinction in the ranks of those who will rise in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

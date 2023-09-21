@@ -9,7 +9,7 @@ In the face of overwhelming evidence of Jesus' resurrection, some chose to deny 
 2. "This account of the matter" (referring to the lie of the Jews) (Justin Martyr, Dial. c. Tryph. § 108, p. 202)
 3. "Eisenmenger gives an expansion of this lie of the Jews from the book called Toldoth Jeschu." (Justin Martyr, Dial. c. Tryph. § 108, p. 202)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus consenting to brand themselves with infamy."
 2. "The wonder is that so clumsy and incredible a story lasted so long."
 3. "Those who are resolved not to come to the light will catch at straws."
@@ -42,4 +42,4 @@ These quotes highlight the actions of the soldiers who were bribed, the blindnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

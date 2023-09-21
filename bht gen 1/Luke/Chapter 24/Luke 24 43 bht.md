@@ -4,7 +4,7 @@
 In this Bible verse, Jesus intentionally eats in the presence of his disciples, not for his own need, but to convince them of his physical resurrection. By consuming food, Jesus demonstrates the reality of his resurrected body and lovingly reassures his followers of his presence with them. This act of eating serves as a concrete proof of Jesus' existence and his victory over death, which the disciples later refer to as evidence of his resurrection, emphasizing its significance in their understanding and proclamation of the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Eat before them—that is, let them see Him doing it: not for His own necessity, but their conviction." 
 
 2. "By eating in their presence, Jesus was demonstrating His physical resurrection and proving that He was not a mere spirit or ghost." 
@@ -37,4 +37,4 @@ In this Bible verse, Jesus intentionally eats in the presence of his disciples, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ I apologize, but it seems I made an error in understanding the task. The quotes 
 2. "No endurance or patience would be wanted, when they had done the will of God, to receive the promise."
 3. "But that which they really do want ὑπομονή for is that they may δοκιμάζειν τί τὸ θέλημα τοῦ θεοῦ τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον , and thus receive the promise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Patience is the enduring perseverance that allows us to wait for the fulfillment of God's will."
 2. "We must not only do the will of God, but also show patient, persevering endurance in order to receive the promised reward."
 3. "Patience is not just a passive virtue, but an active and persevering doing of God's will."
@@ -61,4 +61,4 @@ I apologize, but it seems I made an error in understanding the task. The quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

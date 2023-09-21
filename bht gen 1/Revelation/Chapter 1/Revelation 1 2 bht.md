@@ -11,7 +11,7 @@ The verse being described is a part of a book referred to as the Revelation or t
 
 3. "The very adjective ὅσα refutes it. For the Evangelist distinctly tells us, John 20:30, that in writing his Gospel, he did not set down ὅσα εἶδεν, but only a portion of the things which Jesus did in the presence of His disciples, whereas in the case of this Revelation it was otherwise: he set down all which he saw, as a faithful transmitter of the Apocalyptic vision to the churches."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word of God constitutes his testimony."
 2. "The testimony of Jesus - 'the Spirit of prophecy'."
 3. "Whatsoever things he saw, in apposition with the word of God and the testimony of Jesus Christ."
@@ -54,4 +54,4 @@ The verse being described is a part of a book referred to as the Revelation or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

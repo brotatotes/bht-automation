@@ -9,7 +9,7 @@ In this verse, Jesus speaks to his disciples using proverbs and figurative langu
 2. "Olshausen finely remarks, that all human language is a παροιμία, only able to hint at, not to express fully, the things of God; and that the Lord contrasts the use of this weak and insufficient medium, with the inward teaching of the Holy Spirit."
 3. "This inward teaching, because it is a real imparting of the divine Nature and Life, brings with it not only prayer in the name of Jesus, but a free access to the Father Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Proverbs—in obscure language, opposed to 'showing plainly'—that is, by the Spirit's teaching." 
 
 2. "The use of obscure language in Proverbs serves as a contrast to the straightforward and direct teaching of the Spirit." 
@@ -50,4 +50,4 @@ In this verse, Jesus speaks to his disciples using proverbs and figurative langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

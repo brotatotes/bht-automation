@@ -4,7 +4,7 @@
 In a remarkable display of power and authority, a man who was bedridden for years suddenly rose and carried his bed home. Witnesses marveled and glorified the God who had granted such miraculous power to men. The sight left the people in awe, with mixed emotions of wonder, gratitude, and fear. The undeniable impact of this event signaled the manifesting of the kingdom of God like never before, surpassing human comprehension and leaving all in astonishment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The bed had borne the man: now the man bore the bed."
 2. "He who could work such a glorious miracle of healing, must indeed 'have power on earth to forgive sins.'"
 3. "They marvelled, and glorified God, which had given such power unto men."
@@ -33,4 +33,4 @@ In a remarkable display of power and authority, a man who was bedridden for year
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

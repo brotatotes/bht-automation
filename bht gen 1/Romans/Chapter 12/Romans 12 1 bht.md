@@ -9,7 +9,7 @@ In this verse, Paul closes his letter by urging believers to offer their entire 
 2. "Our great sacrifice, the Lord Jesus, having been slain for us, and by the shedding of His Blood perfect remission having been obtained, we are now enabled to be offered to God no longer by the shedding of blood, but as living sacrifices."
 3. "The sacrifice of our bodies should be accompanied by the dedication of our practical activities, such as acts of charity, words of blessing, and attentive listening to divine teachings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The death of the one 'Lamb of God, taking away the sin of the world,' has swept all dead victims from off the altar of God, to make room for the redeemed themselves as 'living sacrifices' to Him."
 2. "Every outgoing of their grateful hearts in praise, and every act prompted by the love of Christ, is itself a sacrifice to God of a sweet-smelling savor."
 3. "Believers, 'yielding themselves to God as those that are alive from the dead, and their members as instruments of righteousness unto God,' are, in His estimation, not ritually but really 'holy,' and so acceptable—'well-pleasing' unto God."
@@ -53,4 +53,4 @@ In this verse, Paul closes his letter by urging believers to offer their entire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

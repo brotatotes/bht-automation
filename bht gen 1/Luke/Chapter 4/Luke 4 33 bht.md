@@ -9,7 +9,7 @@ In a synagogue, a man was tormented physically and spiritually, possessed by a s
 2. "The true account of the use of ἀκάθαρτον here seems to be, that this evil spirit was of a kind, in its effects on its victim, especially answering to the epithet."
 3. "So much for the accuracy of the data, on which inferences of this kind are founded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The frequency with which this character of impurity is applied to evil spirits is worthy of notice."
 2. "(See Matthew 8:29 Mark 3:11)."
 
@@ -43,4 +43,4 @@ Note: The commentary provided is incomplete and does not contain enough informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

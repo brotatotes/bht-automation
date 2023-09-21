@@ -9,7 +9,7 @@ The verse in question addresses the authority of John the Baptist and his minist
 2. "If they had recognized the heavenly mission of John, they must have also acknowledged the authority by which Jesus did these things."
 3. "John expressly declared that he was sent to testify of him, and bore witness to having seen the Holy Spirit descend and rest upon Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The baptism of John—meaning his whole mission and ministry, of which baptism was the proper character."
 2. "What wisdom there was in this way of meeting their question will best appear by their reply."
 3. "Why did ye not believe the testimony which he bore to Me, as the promised and expected Messiah?"
@@ -45,4 +45,4 @@ The verse in question addresses the authority of John the Baptist and his minist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

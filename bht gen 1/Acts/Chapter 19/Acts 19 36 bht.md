@@ -4,7 +4,7 @@
 In light of the commentaries provided, the Bible verse being described emphasizes the importance of maintaining peace and order in the city. The verse advises the people to avoid rash actions that could provoke the displeasure of the ruling authorities. The town-clerk, in his passionate and persuasive speech, highlights the necessity of refraining from hasty measures and preserving good relations with those in power. The verse urges the people to be well-informed and composed, considering the potential consequences of their actions before proceeding.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Like a true legal man, he urges that such was notoriously the constitution and fixed character of the city, with which its very existence was all but bound up."
 2. "Did they suppose that all this was going to be overturned by a set of itinerant orators? Ridiculous!"
 3. "What did they mean, then, by raising such a stir?"
@@ -40,4 +40,4 @@ In light of the commentaries provided, the Bible verse being described emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

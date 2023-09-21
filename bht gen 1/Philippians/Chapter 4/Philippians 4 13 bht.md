@@ -9,7 +9,7 @@ In this verse, the speaker declares their reliance on Christ for strength and ab
 2. "I can do all things in him who strengthens me." - Paul (Philippians 4:13)
 3. "The Apostle rises above mere relations of prosperous and adverse circumstance, to the general." - De W.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have strength for all things"
 2. "In Him who giveth me power"
 3. "by virtue of my living union and identification with Him"
@@ -59,4 +59,4 @@ In this verse, the speaker declares their reliance on Christ for strength and ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

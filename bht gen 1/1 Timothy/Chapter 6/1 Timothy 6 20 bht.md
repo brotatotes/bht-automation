@@ -4,7 +4,7 @@
 The verse being described here is a call to protect and preserve the deposit of faith, the rich treasure of the Gospel entrusted to us. It encourages believers to guard against empty controversies and false teachings, avoiding the deceptive knowledge that opposes true Christian faith. This verse emphasizes the importance of holding fast to the sound words of the Gospel, steering clear of meaningless arguments, and discerning between genuine wisdom and empty philosophies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Keep—the deposit... 'Keep,' saith he, 'the deposit,'; preserve intact and inviolate the talent of the catholic faith."
 2. "Not that there is to be no progress in religion in Christ's Church. Let there be so by all means, and the greatest progress; but then let it be real progress, not a change of the faith."
 3. "where there is not faith, there is not knowledge... This gift was soon counterfeited by false teachers arrogating to themselves pre-eminently the gift."
@@ -52,4 +52,4 @@ The verse being described here is a call to protect and preserve the deposit of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

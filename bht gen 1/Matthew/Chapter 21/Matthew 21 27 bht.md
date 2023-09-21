@@ -4,7 +4,7 @@
 In this Bible verse, Jesus responds to the question asked by the religious leaders with wisdom and composure, refusing to give them a direct answer. He discerns their intentions and recognizes their lack of understanding. Their refusal to believe or accept the truth leads Jesus to withhold further information from them. Despite Jesus' clear teachings, they remain stubborn and refuse to believe. This interaction showcases Jesus' authority and highlights the importance of personal responsibility in accepting the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the truth itself they cared nothing whatever." 
 2. "What composure and dignity of wisdom does our Lord here display."
 3. "Taking advantage of the surprise, silence, and awe produced by this reply, our Lord followed it up immediately by the two following parables."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus responds to the question asked by the religious leade
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

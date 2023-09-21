@@ -4,7 +4,7 @@
 In this verse, the commentators stress the importance of holding fast to the Gospel preached, as salvation relies on it. They caution against a superficial or fleeting understanding of the message, urging readers to persevere in the true faith. The resurrection of Christ is highlighted as a crucial belief, a pledge of the saints' future resurrection. True faith is deemed indispensable, for it is the work of God's grace and leads to everlasting salvation, while a vain or delusional faith proves empty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are being saved."
 2. "I declare unto you the Gospel in what words I preached it unto you."
 3. "If ye hold it fast."
@@ -44,4 +44,4 @@ In this verse, the commentators stress the importance of holding fast to the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

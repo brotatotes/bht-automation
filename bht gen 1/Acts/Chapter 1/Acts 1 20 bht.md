@@ -9,7 +9,7 @@ The verse being described is a Messianic psalm, applicable to both David and Jes
 2. "And Judas being the first and most notable of these, the Apostle applies eminently to him the words which in the Psalm are spoken in the plural of all such enemies."
 3. "The same is true of Psalms 109:0, and there one adversary is even more pointedly marked out."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His bishopric—or 'charge.'" - This quote highlights the significance of the word "bishopric" in the verse, emphasizing that it refers to Jesus' divine mission and responsibility.
 2. "The apostle discerns a greater than David." - This quote suggests that the verse is not only about David but also points to Jesus as someone greater than him, indicating the messianic nature of the verse.
 3. "A worse than Ahithophel and his fellow conspirators against David." - This quote draws attention to the presence of a more wicked figure than Ahithophel, implying that the verse has a deeper meaning and foreshadows the betrayal of Jesus by Judas Iscariot.
@@ -47,4 +47,4 @@ These quotes highlight the interpretation of the Psalm and its application to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

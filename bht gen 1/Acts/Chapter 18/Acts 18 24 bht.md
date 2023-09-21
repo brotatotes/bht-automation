@@ -4,7 +4,7 @@
 In this Bible verse, we encounter an individual named Apollos, who is described as an eloquent and knowledgeable man, well-versed in the Scriptures. This highlights the significance of not only possessing a deep understanding of the Scriptures but also being able to effectively communicate and share its teachings. Apollos' story serves as a reminder that God can use our unique talents and abilities to serve His kingdom, and when combined with a fervent spirit and knowledge of the Scriptures, they have the potential to make a substantial impact in the ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An intelligent Jew educated in that city could hardly fail to manifest all these elements in his mental character."
 2. "His eloquence enabling him to express clearly and enforce skillfully what, as a Jew, he had gathered from a diligent study of the Old Testament Scriptures."
 3. "On what errand is not known."
@@ -54,4 +54,4 @@ In this Bible verse, we encounter an individual named Apollos, who is described 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

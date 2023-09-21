@@ -9,7 +9,7 @@ In this verse, Jesus provides his disciples with a sign that will lead them to t
 2. "This person carrying water would probably be a slave."
 3. "The time, towards evening, the usual hour of fetching in water."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He Himself probably stayed at Bethany during the day" - This suggests that Jesus had a specific plan and purpose in mind when entering the city, indicating his intentionality and foreknowledge.
 
 2. "There shall a man" - This phrase alludes to the divine orchestration of events, highlighting God's sovereignty in arranging for the man to meet Jesus at the appointed time and place.
@@ -39,4 +39,4 @@ In this verse, Jesus provides his disciples with a sign that will lead them to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

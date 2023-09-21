@@ -4,7 +4,7 @@
 In this verse, the power and healing virtue of Jesus is showcased as something inherent to his being, not external to him. Jesus knew and felt the power leaving him, emphasizing his intimate connection to the miraculous acts he performed. He compassionately sought out the person he had healed, not for personal acclaim but to manifest his glory and strengthen the faith of those around him. This verse reflects the divine nature of Jesus and his ability to heal both physical and spiritual ailments through the outpouring of his limitless power and mercy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus immediately knowing in himself that virtue had gone out of him." This quote highlights the unique power of Jesus, as his healing power was not something foreign to him but a part of his own being.
 2. "He was conscious of the forthgoing of His healing power." This quote emphasizes Jesus' awareness of the healing power leaving him, showing his deep connection to the miraculous acts he performed.
 3. "Who touched my clothes?" This question from Jesus reveals his desire to identify the person who had received healing, demonstrating his compassion and personal engagement with those he healed.
@@ -35,4 +35,4 @@ In this verse, the power and healing virtue of Jesus is showcased as something i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, Jesus asks a gentle and inviting question, seeking to understand the desires and wishes of those seeking Him. He is recognized as a Teacher and Prophet, drawing people to desire more than just a passing look, but to seek His dwelling and abide with Him. The disciples express their desire to be with Jesus, to be instructed by Him, and to find a proper place for conversation with Him. The verse shows Jesus' willingness to receive and teach those who sincerely seek Him, cherishing and encouraging the first motions of grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What seek ye—gentle, winning question, remarkable as the Redeemer's first public utterance."
 2. "Where dwellest thou—that is, 'That is a question we cannot answer in a moment; but had we Thy company for a calm hour in private, gladly should we open our burden.'"
 
@@ -41,4 +41,4 @@ These quotes highlight the gentle and inviting nature of Jesus' question and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

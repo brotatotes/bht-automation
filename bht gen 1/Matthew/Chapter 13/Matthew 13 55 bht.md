@@ -9,7 +9,7 @@ The Bible verse being described is the account of Jesus' visit to his hometown o
 2. "That not a word is any where dropped to prevent us from inferring that the ἀδελφοί and ἀδελφαὶ αὐτοῦ were His relations in the same literal sense as we know ἡ μήτηρ αὐτοῦ to have been; but that His own saying, where He distinguishes His relations according to the flesh from His disciples, seems to sanction that inference."
 3. "The fact is, that the two matters, the miraculous conception of the Lord Jesus by the Holy Ghost, and the subsequent virginity of His Mother, are ESSENTIALLY AND ENTIRELY DISTINCT."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These particulars of our Lord's human history constitute the most valuable testimony, first, to His true and real humanity—for they prove that during all His first thirty years His townsmen had discovered nothing about Him different from other men."
 2. "Secondly, to the divine character of His mission—for these Nazarenes proclaim both the unparalleled character of His teaching and the reality and glory of His miracles, as transcending human ability."
 3. "And thirdly, to His wonderful humility and self-denial—in that when He was such as they now saw Him to be, He yet never gave any indications of it for thirty years, because 'His hour was not yet come.'"
@@ -38,4 +38,4 @@ The Bible verse being described is the account of Jesus' visit to his hometown o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the writer exhorts others to remain steadfast in teaching the ori
 2. "The sense of προσμεῖναι, to tarry, or stay at a place, is sufficiently clear from ref. Acts."
 3. "The meanings of ‘other teaching’ and ‘false teaching,’ when we remember that the faith which St. Paul preached was incapable (Gal 1:8-9) of any the least compromise with the errors subsequently described, lie very close to one another."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The office of superintending overseer, needed for a time at Ephesus or Crete, in the absence of the presiding apostle, subsequently became a permanent institution on the removal, by death, of the apostles who heretofore superintended the churches."
 2. "He meant to have added, 'so I still beseech thee,' but does not complete the sentence until he does so virtually, not formally."
 3. "The terms of the former were not that he should never visit Ephesus again (which this verse implies he did), but that they all should 'see his face no more.'"
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

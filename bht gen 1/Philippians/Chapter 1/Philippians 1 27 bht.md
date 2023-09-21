@@ -11,7 +11,7 @@ Let your focus be on standing fast in one spirit, with complete unity among beli
 
 3. "The phrase 'μιᾷ ψυχῇ συναθλοῦντες' highlights the need for Christians to strive together with one another, supporting and encouraging each other in their spiritual journey."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By supposing this or that future contingency, many persuade themselves they will be such as they ought to be, but it is better always without evasion to perform present duties under present circumstances."
 2. "Let your walk as citizens (namely, of the heavenly state) be."
 3. "There is sometimes natural antipathies among believers; but these are overcome, when there is not only unity of spirit, but also of soul."
@@ -63,4 +63,4 @@ Let your focus be on standing fast in one spirit, with complete unity among beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

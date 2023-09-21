@@ -9,7 +9,7 @@ In this Bible verse, we see the consequences of Herod's actions as he searches f
 2. "Kuin. takes εἰς Κ. as = ἐν Κ. with διέτρ., and κατελθών alone, which is not so natural on account of the position of the words." 
 3. "The interpretation of εἰς Κ. as = ἐν Κ. with διέτρ. is more in accordance with the usage of the N.T."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Examined the keepers—who, either like the keepers of our Lord's sepulchre, had 'shaken and become as dead men' (Matthew 28:4), or had slept on their watch and been divinely kept from awaking." 
 2. "Commanded that they should be put to death—Impotent vengeance!" 
 3. "Herod's miserable end—growing success of the gospel—Barnabas and Saul return to Antioch."
@@ -50,4 +50,4 @@ These quotes highlight Herod's actions in searching for the escaped prisoner, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

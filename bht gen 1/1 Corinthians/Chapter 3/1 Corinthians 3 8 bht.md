@@ -9,7 +9,7 @@ In this verse, there is a clear emphasis on the unity and interconnectedness of 
 2. "Each minister has a separate responsibility for the results of their own labor." - Theodoret
 3. "Though they are one in their ministry, they are diverse in their work." - Theodoret
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are essentially 'one,' yet every minister is separately responsible in 'his own' work."
 2. "Every man shall receive his own reward, according to his own labor."
 3. "The reward is something over and above personal salvation."
@@ -54,4 +54,4 @@ Note: The commentary provides an explanation of how the individuals mentioned in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

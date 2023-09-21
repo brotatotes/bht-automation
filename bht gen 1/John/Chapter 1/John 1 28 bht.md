@@ -9,7 +9,7 @@ In this verse, there is a reference to a location referred to as "Bethabara" or 
 2. "The whole series of transactions here recorded, from Joh 1:15 onwards, certainly happened after the baptism of our Lord; for before that event John did not know Him as ὁ ἐρχόμενος." 
 3. "And among John’s disciples and the multitudes who frequented his baptism, many reports of such his sayings would naturally be current."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethabara—Rather, 'Bethany' (according to nearly all the best and most ancient manuscripts); not the Bethany of Lazarus, but another of the same name, and distinguished from it as lying 'beyond Jordan,' on the east." 
 
 2. "This distinction is important because it helps us understand the context and location of the events that took place in the verse." 
@@ -56,4 +56,4 @@ In this verse, there is a reference to a location referred to as "Bethabara" or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

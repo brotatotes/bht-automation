@@ -4,7 +4,7 @@
 The verse describes a divine presence characterized by both radiant beauty and a sense of awe-inspiring power. The appearance of gemstones, including jasper and sardius, illustrates the diverse nature of God's attributes, such as purity, justice, and holiness. The image of a rainbow surrounding the throne reflects God's harmonious providential dealings and His consolatory promises amidst judgments. Overall, this verse paints a picture of a resplendent and multifaceted God, whose glory is both captivating and humbling.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The watery brightness represents God's holiness, while the fiery redness represents His justice executing fiery wrath." 
 2. "The rainbow surrounding the throne symbolizes the varied aspects of God's providential dealings uniting in one harmonious whole." 
 3. "The predominating color of the rainbow is green, symbolizing God's consolatory promises in Christ to His people amidst judgments on His foes."
@@ -47,4 +47,4 @@ The verse describes a divine presence characterized by both radiant beauty and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

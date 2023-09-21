@@ -9,7 +9,7 @@ The verse under consideration encourages believers to move beyond the foundation
 2. "Not again laying the foundation of repentance from dead works, and faith on God."
 3. "The best explanation of πίστις ἐπὶ θεόν is found in St. Paul’s language, Romans 4:5, τῷ δὲ μὴ ἐργαζομένῳ, πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ, λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As in building a house one must never leave the foundation: yet to be always laboring in 'laying the foundation' would be ridiculous" [CALVIN].
 2. "Let us together press forward" - implying active exertion: press on.
 3. "The matured knowledge of those who are 'of full age' in Christian attainments."
@@ -54,4 +54,4 @@ These quotes provide insights into the progression of Christian doctrine, the si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

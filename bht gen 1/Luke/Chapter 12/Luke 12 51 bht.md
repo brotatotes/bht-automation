@@ -4,7 +4,7 @@
 The verse being described is a powerful declaration from Jesus about his mission on earth. It dispels the misconception that his coming would bring immediate peace, highlighting instead the reality of division and conflict. Jesus' peace is not about external circumstances, but rather a deep inner peace that can be found amidst the chaos. His message calls for radical transformation and challenges the status quo, disrupting the comfortable and calling for a change in hearts and minds.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The connection of all this with the foregoing warnings about hypocrisy, covetousness, and watchfulness, is deeply solemn."
 2. "My conflict hasten apace Mine over, yours begins; and then, let the servants tread in their Master's steps, uttering their testimony entire and fearless."
 3. "Looking forward, as I do, to the completion of their testimony, when, reaching the haven after the tempest, they shall enter into the joy of their Lord."
@@ -35,4 +35,4 @@ The verse being described is a powerful declaration from Jesus about his mission
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

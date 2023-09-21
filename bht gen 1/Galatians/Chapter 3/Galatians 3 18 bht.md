@@ -9,7 +9,7 @@ The verse in question speaks of the inheritance promised to Abraham, which inclu
 2. "The inheritance, the blessings promised to Abraham, is summed up in his Seed who was to inherit the land, in other words, for the Kingdom of Christ."
 3. "To Abraham by promise hath God granted it (the inheritance), and therefore it is not of the Law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The inheritance—all the blessings to be inherited by Abraham's literal and spiritual children, according to the promise made to him and to his Seed, Christ, justification and glorification."
 2. "But to Abraham it was by promise that God hath given it."
 3. "Therefore the inheritance is not of, or from the law."
@@ -55,4 +55,4 @@ The verse in question speaks of the inheritance promised to Abraham, which inclu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

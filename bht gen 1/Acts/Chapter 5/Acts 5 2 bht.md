@@ -4,7 +4,7 @@
 In this verse, we see the story of an individual who deceptive kept back a portion of something he claimed to have given in full, with his wife being aware and complicit in this act. The commentators describe this act as an intentional deception, a wrongful appropriation, and a misrepresentation of the truth. It serves as a cautionary tale about the danger of partial truths, manipulation, and the need for discernment in seeking the complete truth. It reminds us to question the motives behind the information presented to us and to verify facts before drawing conclusions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The coolness with which they planned the deception aggravated the guilt of this couple." 
 2. "Kept back part of the price, his wife also being privy to it." 
 3. "Pretending it to be the whole proceeds of the sale."
@@ -44,4 +44,4 @@ In this verse, we see the story of an individual who deceptive kept back a porti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

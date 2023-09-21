@@ -9,7 +9,7 @@ After John the Baptist was imprisoned, Jesus embarked on a purposeful journey in
 2. "Wieseler, Chron. Synops. pp. 162 ff., sees in this a proof that St. Matthew recognized a ministry in Judæa during the interval."
 3. "Certainly he does not exclude it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now when Jesus had heard that John was cast into prison—more simply, 'was delivered up,' as recorded in Matthew 14:3-5; Mark 6:17-20; Luke 3:19; Luke 3:20."
 
 2. "He departed—rather, 'withdrew.'"
@@ -57,4 +57,4 @@ After John the Baptist was imprisoned, Jesus embarked on a purposeful journey in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

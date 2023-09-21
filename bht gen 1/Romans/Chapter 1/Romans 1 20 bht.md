@@ -9,7 +9,7 @@ In this Bible verse, it is explained that God's invisible attributes and qualiti
 2. "His eternal Power...the evidence of Creation is plainest of all: Eternal, and Almighty, have always been recognized epithets of the Creator." 
 3. "Divinity...the fact that the Creator is divine; is of a different nature from ourselves, and accompanied by distinct attributes, and those of the highest order, which we call divine."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The outward creation is not the parent but the interpreter of our faith in God."
 2. "The inner and the outer revelation of God are the complement of each other, making up between them one universal and immovable conviction that God is."
 3. "All their degeneracy being a voluntary departure from truth thus brightly revealed to the unsophisticated spirit."
@@ -57,4 +57,4 @@ Note: The commentary provides insights into the invisibility of God and the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, a multitude of angels, described as an army or heavenly host, gather to celebrate and announce peace. These noble and powerful beings, ministers of God, encamp around His people and tirelessly serve and protect them. The song of the heavenly host serves as a proclamation of joy and peace, as they join in harmonious praise at the foundation of man's salvation through the incarnation of the Son of God. The angels' unity highlights the abominable nature of unbelief, disturbing the delightful harmony between heaven and earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Suddenly—as if only waiting till their fellow had done." 
 2. "An army celebrating peace!" 
 3. "To let it be known how this event is regarded in heaven and should be regarded on earth."
@@ -40,4 +40,4 @@ In this verse, a multitude of angels, described as an army or heavenly host, gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described emphasizes the importance of proper behavior within the house of God (the church). The church is depicted as the "pillar of truth," upholding and preserving the word of God. It serves as a place where God dwells and provides for His people, distinguishing it from idols and false temples. The verse instructs Timothy on how to guide church members and highlights the church's role in defending and spreading the truth. It serves as a support and prop for the truth, ensuring its continuity and protection in the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that the sphere of thy functions is 'the congregation of the living God' is the strongest motive to faithfulness in this behavior as president of a department of the house." 
 2. "The Church is 'the pillar of the truth,' as the continued existence (historically) of the truth rests on it; for it supports and preserves the word of truth." 
 3. "The Church is to be the stay of the truth and its conserver for the world, and God's instrument for securing its continuance on earth, in opposition to those heresies."
@@ -48,4 +48,4 @@ The verse being described emphasizes the importance of proper behavior within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

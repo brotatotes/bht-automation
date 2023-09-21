@@ -9,7 +9,7 @@ The verse being described draws on insights from a variety of commentators. It s
 2. "Eligendos facit Deus, non invenit," is an important remark of Augustine.
 3. "By this description of the readers, an anticipation is given of the whole train of thought in the Epistle: the aim of which is to impress the blessed certainty of salvation, and with that, the obligations incurred by receiving God’s gift."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's foreknowledge is not the perception of any ground of action out of Himself; still in it liberty is comprehended, and all absolute constraint debarred."
 2. "The Hebrew and Greek 'know' include approval and acknowledging as one's own."
 3. "Believers are 'sanctified through the offering of Christ once for all.' This is the true sanctification of the Spirit, to obey the Gospel, to trust in Christ."
@@ -50,4 +50,4 @@ Note: The commentary provides additional context and explanations for the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

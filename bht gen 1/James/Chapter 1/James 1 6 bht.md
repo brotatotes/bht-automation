@@ -9,7 +9,7 @@ This verse encourages believers to approach God with unwavering faith, fully tru
 2. "The deep-lying ground of doubt is pride."
 3. "He that doubteth is like a wave of the sea driven by the wind and tossed about."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ask in faith—that is, the persuasion that God can and will give."
 2. "Wavering—between belief and unbelief."
 3. "Like a wave of the sea—tossed from within, by its own instability."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of faith in prayer, highlighting that true
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

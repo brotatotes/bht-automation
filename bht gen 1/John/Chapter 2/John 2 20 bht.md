@@ -9,7 +9,7 @@ The verse in question refers to the construction of the temple, which took a con
 2. "The sense of this aor. is curiously illustrated by a passage in Ezra 5:16, τότε Σαβανασὰρ ἐκεῖνος ἧλθε καὶ ἔδωκε θεμελίους τοῦ οἴκου τοῦ θεοῦ ἐν Ἱερουσαλήμ, καὶ ἀπὸ τότε ἕως τοῦ νῦν ᾠκοδομήθη καὶ οὐκ ἐτελέσθη."
 3. "Reckoning from this latter, we shall have twenty years till the birth of Christ, and thirty years since that event, from which fifty, however, four must be taken, since our era is four years too late. This gives forty-six."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of the forty-six years is significant because it helps to establish the historical context of the verse. It shows that Jesus was referring to a specific period of time, highlighting the accuracy and precision of his statement." 
 
 2. "By referencing the reign of Herod, the commentary provides a historical anchor for understanding the timeline mentioned in the verse. This helps to situate the events within a broader historical context, giving readers a deeper understanding of the significance of the forty-six years." 
@@ -59,4 +59,4 @@ The verse in question refers to the construction of the temple, which took a con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

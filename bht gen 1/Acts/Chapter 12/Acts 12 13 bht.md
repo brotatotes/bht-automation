@@ -4,7 +4,7 @@
 The Bible verse in question involves someone coming to hearken, not to open, but to listen and discern who was present. The timing was not appropriate for opening, indicating a specific purpose behind their actions. The individual who answered the door was a young female slave or servant, who came out to listen and try to identify the person before opening. The knocking at the gate reflects opportunities, challenges, or people seeking connection, reminding us to be attentive and receptive to life's various offerings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Came to hearken—not to open; for neither was it a time nor an hour of night for that, but to listen who was there." This quote highlights the intention behind the action of coming to hearken. It emphasizes that the purpose was not to open, but rather to listen and discern who was present.
 
 2. "Not to open; for neither was it a time nor an hour of night for that." This quote explains the reason why the person came to hearken. It clarifies that the timing was not appropriate for opening, indicating that there was a specific purpose behind their actions.
@@ -51,4 +51,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

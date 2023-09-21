@@ -9,7 +9,7 @@ The verse being described highlights the imperfections of the Old Testament prie
 2. "The verb is a vox media, and may be applied to any sort of endurance treated of in the context, which clearly here treats of abiding in the priesthood." 
 3. "It would be somewhat tautological to say that they were hindered by death from continuing in life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ dies not, and so hath a priesthood which passes not from one to another."
 2. "His 'unchangeable (that does not pass from one to another) priesthood.'"
 3. "Hindered from permanently continuing, namely, in the priesthood."
@@ -53,4 +53,4 @@ The verse being described highlights the imperfections of the Old Testament prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

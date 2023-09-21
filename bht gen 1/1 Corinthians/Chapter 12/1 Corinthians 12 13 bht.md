@@ -11,7 +11,7 @@ In this verse, believers are reminded of their unity through the work of the Hol
 
 3. "The water of baptism, here taken as identical with the Spirit whose influence accompanied it." - This suggests that baptism is not merely a physical act, but a spiritual experience where believers are filled with the presence and power of the Holy Spirit.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The designed effect of baptism, which is realized when not frustrated by the unfaithfulness of man."
 2. "There is an indirect allusion to the Lord's Supper, as there is a direct allusion to baptism in the beginning of the verse."
 3. "The Spirit, the water, and the blood similarly combine the two outward signs with the inward things signified, the Spirit's grace."
@@ -60,4 +60,4 @@ In this verse, believers are reminded of their unity through the work of the Hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

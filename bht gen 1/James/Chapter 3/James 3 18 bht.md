@@ -9,7 +9,7 @@ The Bible verse under consideration describes the fruitful outcome of righteousn
 2. "Fruit of righteousness is sown in peace, betokening the spirit and mode in which the sowing takes place, as opposed to ὅπου ζῆλος κ . ἐριθεία." 
 3. "The dative participle is not a 'dativus commodi,' but the dat. of the agent: the former view would leave out of the proposition that which is in fact its necessary and most important feature, viz. that the peace-workers themselves are the sowers of the fruit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The peaceable fruit of righteousness." - This phrase emphasizes that righteousness is the true wisdom and that its ultimate result is peace. It highlights the connection between sowing righteousness and reaping the fruit of righteousness, which is the everlasting reward of the righteous.
 
 2. "Sowing in peace produces the fruit of righteousness." - This quote explains the cause and effect relationship between sowing in peace and the resulting fruit of righteousness. It suggests that cultivating peace and working towards reconciliation are essential in producing righteousness.
@@ -50,4 +50,4 @@ The Bible verse under consideration describes the fruitful outcome of righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

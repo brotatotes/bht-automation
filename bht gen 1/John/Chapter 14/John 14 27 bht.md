@@ -9,7 +9,7 @@ This verse is a farewell message from Jesus to his disciples, emphasizing the pe
 2. "The world can only give peace in empty formulæ, saying ‘Peace, peace,’ when there is no peace."
 3. "The going of Jesus to the Father is an advancement... the cessation of the state of humiliation, and entering into His glory, which would take place on His being received up to the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is a parting word, but of richest import, the customary 'peace' of a parting friend sublimed and transfigured."
 2. "As 'the Prince of Peace' He brought it into flesh, carried it about in His Own Person ('My peace'), died to make it ours, left it as the heritage of His disciples upon earth."
 3. "Christ is the Executor of His own Testament; the peace He 'leaves' He 'gives'; Thus all is secure."
@@ -57,4 +57,4 @@ These quotes highlight the nature of the peace that Jesus offers. It is not just
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described in these commentaries emphasizes the transient n
 2. "Quicquid ex carne veluti flos ex gramine suo efflorescit."
 3. "The grass was dried up and the flower fell away."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye were born again of flesh, corruptible seed, ye must also perish again as the grass; but now that from which you have derived life remains eternally, and so also will render you eternal."
 2. "The glory is the wisdom, strength, riches, learning, honor, beauty, art, virtue, and righteousness of the NATURAL man, which all are transitory, not OF MAN absolutely, for the glory of man, in his true ideal realized in the believer, is eternal."
 3. "The grass is the flesh: 'the flower' its glory."
@@ -48,4 +48,4 @@ The Bible verse being described in these commentaries emphasizes the transient n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

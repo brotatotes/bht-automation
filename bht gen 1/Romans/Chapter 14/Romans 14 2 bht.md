@@ -11,7 +11,7 @@ In this verse, the commentator discussions focus on the contrast between those w
 2. "The phrase 'believes that he may eat' can be understood as either believing that he is allowed to eat or daring to eat. The latter interpretation is supported by a reference in Acts where it says 'we trust to be saved.'"
 3. "The phrase 'λάχ  .   ἐσθ .,' refers to the discussion in the previous chapter, indicating that the topic of eating is being continued in this chapter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One believeth that he may eat all things—See Acts 10:16." 
 2. "Another, who is weak, eateth herbs—restricting himself probably to a vegetable diet, for fear of eating what might have been offered to idols, and so would be unclean."
 3. "See 1 Corinthians 8:1-13."
@@ -59,4 +59,4 @@ In this verse, the commentator discussions focus on the contrast between those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Consider the beauty of the wild flowers, such as lilies, anemones, poppies, glad
 2. "These lilies have been supposed to be the crown imperial, which grows wild in Palestine, or the amaryllis lutea, whose golden liliaceous flowers cover the autumnal fields of the Levant."
 3. "Probably, however, the word here may be taken in a wider import, as signifying all wild flowers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consider—observe well. the lilies of the field, how they grow: they toil not—as men, planting and preparing the flax." 
 2. "neither do they spin—as women." 
 3. "This verse reminds us of the beauty and simplicity of nature, and how it can teach us valuable lessons about trust and faith."
@@ -35,4 +35,4 @@ Consider the beauty of the wild flowers, such as lilies, anemones, poppies, glad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

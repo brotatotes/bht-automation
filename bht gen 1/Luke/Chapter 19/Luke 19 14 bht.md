@@ -9,7 +9,7 @@ In this Bible verse, a nobleman, who represents the Lord Jesus, is appointed as 
 2. "Their cry went up to Heaven, in the persecutions of his servants, &c."
 3. "The parable has a double import: suited both to the disciples and the multitude."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His citizens—His proper subjects; meaning the Jews, who expressly repudiating our Lord's claims said, 'We have no king but Cæsar'." 
 2. "In Christendom, these correspond to infidel rejecters of Christianity, as distinguished from professed Christians." 
 3. "These citizens represent those who reject Jesus as their king and instead align themselves with worldly powers."
@@ -47,4 +47,4 @@ Note: The commentary provides historical context and parallels between the parab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes a woman who indulges in luxurious and pleasurable living, pr
 2. "σπαταλῶσα] Wetst. from the glossaries, gives σπαταλᾷ, λίαν τρυφᾷ, ἀσώτως ζῇ. In the Anthol., iv. 28. 14, we have coupled πᾶν τὸ βρότων σπατάλημα κ. ἡ πολύολβος ἐδωδή."
 3. "ζῶσα τέθνηκεν] while alive in the flesh, has no real life in the Spirit: see ref. and Matthew 8:22; Ephesians 5:14."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She that liveth in pleasure—the opposite of such a widow as is described in 1 Timothy 5:3, and therefore one utterly undeserving of Church charity."
 2. "The Greek expresses wanton prodigality and excess."
 3. "Dead while she liveth—dead in the Spirit while alive in the flesh."
@@ -61,4 +61,4 @@ Note: The commentary is quite lengthy and does not provide clear and concise quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

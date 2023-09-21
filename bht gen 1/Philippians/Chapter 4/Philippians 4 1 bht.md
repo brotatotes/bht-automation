@@ -11,7 +11,7 @@ This verse encourages believers to imitate the example of Paul and other Christi
 
 3. "as ye have an example in us." - This statement reminds the readers that they have a tangible example of faithful living in the lives of Paul and other Christians. It suggests that their lives are a model for others to follow and learn from.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wherefore"; since we have such a glorious hope.
 2. "Dearly beloved"—implying that his great love should be a motive to obedience.
 3. "Longed for"—yearned after in your absence.
@@ -59,4 +59,4 @@ This verse encourages believers to imitate the example of Paul and other Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

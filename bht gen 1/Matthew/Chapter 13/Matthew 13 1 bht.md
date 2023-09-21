@@ -9,7 +9,7 @@ On a day filled with stress and strain, Jesus left a stuffy house and chose to s
 2. "The instances of their occurrence in John (John 14:20; John 16:23; Joh 16:26) are not to the point, their use there being prophetical."
 3. "ἀπὸ τῆς οἰκ . perhaps implies that the foregoing discourse was delivered in a house, as some have thought."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus's choice to sit by the seaside demonstrates his desire to connect with people in their everyday lives, rather than confining his ministry to the religious spaces of the time."
 2. "By going out of the house and sitting by the seaside, Jesus shows his willingness to meet people where they are, to engage with them in their own environment."
 3. "This simple act of sitting by the seaside reveals Jesus's accessibility and his desire to reach out to all people, regardless of their social status or background."
@@ -35,4 +35,4 @@ On a day filled with stress and strain, Jesus left a stuffy house and chose to s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

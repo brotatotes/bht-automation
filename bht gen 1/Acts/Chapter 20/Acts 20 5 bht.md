@@ -9,7 +9,7 @@ In this passage, we see the intimate connection between the narrator and Paul, a
 2. "For what reason, is not said: but we may well conceive, that if they bore the contributions of the churches, a better opportunity, or safer ship, may have determined Paul to send them on, he himself having work to do at Philippi."
 3. "It is not impossible that both may have been combined: before the end of the days of unleavened bread, a favourable opportunity occurs of sailing to Troas, of which they, with their charge, avail themselves: Paul and Luke waiting till the end of the feast, and taking the risk of a less desirable conveyance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These going before—perhaps to announce and prepare for the apostle's coming." 
 2. "Tarried for us at Troas." 
 3. "Their presence and delay in Troas demonstrated their commitment to the mission and their willingness to wait for Paul."
@@ -47,4 +47,4 @@ In this passage, we see the intimate connection between the narrator and Paul, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, the choice lies with the individual, as indicated by the us
 
 3. "The use of the word 'or' in this context also implies that there may be consequences or outcomes associated with each option. It suggests that the choice made will have an impact on the individual's life or circumstances. This reminds us of the significance of our decisions and the potential ramifications they may have."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The clearing of the temple was a powerful act of Jesus, demonstrating his authority and zeal for the purity of worship. It was a bold statement against the corruption and exploitation that had infiltrated the sacred space. This action revealed Jesus' deep concern for the true worship of God and his commitment to restoring the sanctity of the temple." 
 
 2. "By driving out the money changers and those selling animals for sacrifice, Jesus was challenging the prevailing system of religious exploitation and manipulation. He was calling for a return to genuine worship, where the focus is on God and not on material gain. This act of cleansing the temple was a prophetic sign of the coming judgment and the need for repentance." 
@@ -32,4 +32,4 @@ In this Bible verse, the choice lies with the individual, as indicated by the us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

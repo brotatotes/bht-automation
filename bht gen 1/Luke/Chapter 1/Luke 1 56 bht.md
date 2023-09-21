@@ -4,7 +4,7 @@
 The verse being described is a significant moment in the biblical narrative, where Mary returns to her own house after visiting her cousin, Elizabeth. Commentators note the ordinary and humble nature of Mary's life, despite the extraordinary circumstances surrounding her pregnancy. This transition signals a shift in focus to the events surrounding the birth of John the Baptist and the subsequent events in Mary's life. Mary's return also highlights her obedience, trust in God's plan, and willingness to embrace her role as the mother of Jesus, emphasizing the divine orchestration of events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What an honored roof was that which, for such a period, overarched these cousins!"
 2. "The progeny of those two women—the one but the honored pioneer of the other—have made the world new."
 3. "Returned to her own house—at Nazareth, after which took place what is recorded in [Luke 1:57-80]."
@@ -37,4 +37,4 @@ The verse being described is a significant moment in the biblical narrative, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described portrays the unique and transcendent nature of C
 2. "The key-text to the understanding of it here is ref. Exod. ὀφθῆναι, not ἐμφανισθῆναι, is the word commonly used for the divine appearances: but Moses desired to advance beyond the mere ὄψις of God, and prayed ἐμφάνισόν μοι σεαυτόν."
 3. "He brings before the face of God no offering which has exhausted itself and, as only sufficing for a time, needs renewal; but He himself is in person our offering and by virtue of the eternal Spirit, i. e. of the imperishable life of His person, now for ever freed from death, our eternally present offering before God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He entered in once into the holy place, by his own blood." 
 2. "Mere man may have a vision through a medium, or veil, as Moses had. Christ alone beholds the Father without a veil, and is His perfect image."
 3. "The saints shall hereafter see God's face in Christ: the earnest of which is now given."
@@ -55,4 +55,4 @@ The Bible verse being described portrays the unique and transcendent nature of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

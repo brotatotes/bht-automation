@@ -11,7 +11,7 @@ The verse being described is a powerful prophecy about the arrival of the Messia
 4. "ἀπειθής, not unbelieving, but disobedient."
 5. "est sensus, ut etiam filii sic intelligant legem, id est, Judæi, quemadmodum patres eam intellexerunt, id est Prophetæ, in quibus erat et ipse Moyses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By comparing this with Malachi 3:1; Isaiah 40:3, it is plainly 'Jehovah' in the flesh of Messiah before whom John was to go as a herald to announce His approach." 
 2. "Both [John the Baptist and Elijah] fell on degenerate times; both witnessed fearlessly for God; neither appeared much save in the direct exercise of their ministry; both were at the head of schools of disciples; the success of both was similar." 
 3. "If 'the disobedient' be 'the children,' and to 'the fathers' belongs 'the wisdom of the just,' the meaning will be, 'he shall bring back the ancient spirit of the nation into their degenerate children.'"
@@ -55,4 +55,4 @@ The verse being described is a powerful prophecy about the arrival of the Messia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

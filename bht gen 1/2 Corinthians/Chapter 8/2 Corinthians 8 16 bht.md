@@ -9,7 +9,7 @@ In this verse, we see the deep concern and unity of purpose shared between Paul 
 2. "διδόντι ἐν, see reff. τὴν αὐτ. σπ., viz. ‘as in myself.’"
 3. "This is evident from ὑπὲρ ὑμῶν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Which put the same earnest care for you into the heart of Titus" - This quote highlights how Titus shared the same level of concern and care for the Corinthians as Paul did. It emphasizes the unity of purpose and dedication between the two individuals.
 2. "My care for you led me to 'desire' him" - This quote suggests that Paul's deep concern for the Corinthians motivated him to send Titus to them. It implies that Paul's love for the Corinthians compelled him to take action and seek their well-being.
 3. "Titus had of himself the same care" - This quote emphasizes that Titus independently possessed the same level of care and concern for the Corinthians. It suggests that Titus's genuine care for them was not influenced or imposed upon him by Paul, but rather originated from his own heart.
@@ -45,4 +45,4 @@ In this verse, we see the deep concern and unity of purpose shared between Paul 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

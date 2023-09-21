@@ -9,7 +9,7 @@ In this verse, the apostles are described as powerful witnesses of the resurrect
 2. "That the Spirit did not inspire them with unbroken uniformity in matters of fact, our present Gospels, the remnants to us of this very testimony, sufficiently witness."
 3. "Each man reported what he had heard and seen; and it was in the manner of delivering this report that the great power of the Spirit was shown."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With great power" refers to the profound impact the message had on people's minds, highlighting the transformative nature of the gospel. 
 2. "Great grace was upon them all" emphasizes the abundant outpouring of God's grace that encompassed the entire community, indicating the divine favor and blessings they experienced. 
 3. The commentary underscores the collective nature of the grace, suggesting that it was not limited to a few individuals but extended to the entire community, fostering unity and spiritual growth.
@@ -53,4 +53,4 @@ In this verse, the apostles are described as powerful witnesses of the resurrect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

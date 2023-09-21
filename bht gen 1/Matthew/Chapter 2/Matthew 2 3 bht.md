@@ -9,7 +9,7 @@ In this verse, we see the reaction of Herod, the king, and the people of Jerusal
 2. "There may also be a trace of the popular notion that the times of the Messiah would be ushered in by great tribulations."
 3. "Here and apparently at ch. Matthew 3:5, used as a feminine singular."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod the king had heard these things, he was troubled—viewing this as a danger to his own throne." 
 2. "Perhaps his guilty conscience also suggested other grounds of fear." 
 3. "All Jerusalem with him—from a dread of revolutionary commotions, and perhaps also of Herod's rage."
@@ -45,4 +45,4 @@ In this verse, we see the reaction of Herod, the king, and the people of Jerusal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

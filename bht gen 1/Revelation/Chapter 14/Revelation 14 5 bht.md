@@ -4,7 +4,7 @@
 In this verse, the individuals described are portrayed as sincere, blameless, and free from deceit. They are not only pure in their words and actions but also have integrity in all aspects of their lives. Their character is marked by a steadfast commitment to truthfulness and a genuine devotion to God. Through their faithfulness to Christ, they have preserved a spotless purity of soul and body, remaining untainted by sin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The allusion seems to be to Psalms 15:1; Psalms 15:2. Compare Psalms 15:2- :, 'stood on Mount Sion.'" 
 2. "Not absolutely, and in themselves blameless; but regarded as such on the ground of His righteousness in whom alone they trusted, and whom they faithfully served by His Spirit in them."
 3. "The oldest Vulgate manuscript supports them."
@@ -42,4 +42,4 @@ In this verse, the individuals described are portrayed as sincere, blameless, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

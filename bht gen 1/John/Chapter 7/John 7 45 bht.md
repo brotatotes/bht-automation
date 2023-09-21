@@ -4,7 +4,7 @@
 The officers, fueled by their own agenda, eagerly sought to capture Jesus. Underestimating His power, they anticipated an easy arrest. Sent by a higher authority, they acted as instruments to silence Him. However, His last words left them powerless, influencing their inability to lay hands on Him. While sitting in expectation, the officers' failure to apprehend Jesus incited fury and rage from the Sanhedrin. This outcome stunned and greatly disappointed them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Already thirsting for their Victim" - The officers were eager to capture Jesus, viewing Him as a target for their own agenda. This quote highlights the hostile intentions of those who sought to arrest Him.
 2. "Thinking it an easy matter to seize and bring Him" - The officers underestimated Jesus, assuming that apprehending Him would be a simple task. This quote emphasizes their lack of understanding of His power and authority.
 3. "Sent to take him" - The fact that the officers were sent to apprehend Jesus implies that there was a higher authority behind their actions. This quote suggests that there were influential figures who wanted to silence Jesus and were using the officers as their instruments.
@@ -33,4 +33,4 @@ The officers, fueled by their own agenda, eagerly sought to capture Jesus. Under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

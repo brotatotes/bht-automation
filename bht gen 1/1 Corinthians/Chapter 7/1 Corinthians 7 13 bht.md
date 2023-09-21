@@ -9,7 +9,7 @@ In this verse, the Apostle addresses the dynamics of mixed marriages within the 
 2. "By the Greek as well as Roman customs, the wife had the power of effecting a divorce."
 3. "Paul puts both alternatives because he regards the Christian party as the superior one in the marriage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The woman—a believer." This commentary highlights the importance of the woman being a believer, indicating that the instruction applies specifically to Christian marriages.
 2. "Let her not put away her husband." This quote emphasizes the prohibition against divorce, urging the wife not to separate from her husband.
 3. "The wife had the power of effecting a divorce." This statement provides historical context, explaining that in Greek and Roman law, the wife had the ability to initiate a divorce. This sheds light on the cultural context in which the instruction was given.
@@ -33,4 +33,4 @@ In this verse, the Apostle addresses the dynamics of mixed marriages within the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

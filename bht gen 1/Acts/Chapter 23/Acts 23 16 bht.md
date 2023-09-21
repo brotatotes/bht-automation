@@ -9,7 +9,7 @@ From the commentators' insights, we can gather that the Bible verse describes a 
 2. "But from this knowledge of the plot, which presupposes other acquaintances than he would have been likely to make if he had come with Paul."
 3. "I should suppose him to have been domiciled at Jerusalem, possibly under instruction, as was formerly Paul himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's sister's son—(See on Acts 9:30)." 
 2. "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted." 
 3. "He may have been providentially placed there to be the instrument of Paul's deliverance."
@@ -45,4 +45,4 @@ From the commentators' insights, we can gather that the Bible verse describes a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

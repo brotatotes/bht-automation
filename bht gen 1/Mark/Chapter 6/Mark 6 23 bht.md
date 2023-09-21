@@ -9,7 +9,7 @@ In this Bible verse, a king is making a grandiose and exaggerated promise to gra
 2. "Webst. and Wilk. quote a parallel from Cic. de Senectute, c. xii.: 'Flaminius, cum esset consul in Gallia, exoratus in convivio a scorto est, ut securi feriret aliquem eorum, qui in vinculis essent, damnati rei capitalis.'" 
 3. "Mark 6:26 provides another example of ἀθετέω being used in the sense of 'disregard' or 'set aside.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those in whom passion and luxury have destroyed self-command will in a capricious moment say and do what in their cool moments they bitterly regret." 
 2. "The king's rash and extravagant promise reveals the lack of self-control and wisdom that can come from a life of indulgence." 
 3. "This momentary act of foolishness highlights the consequences of allowing one's desires to rule over reason and prudence."
@@ -40,4 +40,4 @@ In this Bible verse, a king is making a grandiose and exaggerated promise to gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

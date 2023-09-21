@@ -9,7 +9,7 @@ The speaker in this verse expresses their self-awareness and integrity, stating 
 2. "I know no harm by him... I am not thereby justified." 
 3. "This circumstance which clears me of blame... does not decide the matter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am conscious to myself of no (ministerial) unfaithfulness."
 2. "Therefore conscience is not an infallible guide."
 3. "This verse is directly against the judicial power claimed by the priests of Rome."
@@ -52,4 +52,4 @@ The speaker in this verse expresses their self-awareness and integrity, stating 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

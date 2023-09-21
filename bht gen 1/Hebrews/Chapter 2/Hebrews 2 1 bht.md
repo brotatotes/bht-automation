@@ -9,7 +9,7 @@ Given these commentator quotes, we can describe the Bible verse as a caution aga
 2. "We are exhorted to adhere to the things we have heard and that we do not at any time float past them, be not carried away beside them, led astray from the course on which they would take us."
 3. "The meaning is as untenable, as the simile (after προσέχειν) is irrelevant. And, as Kuin. and Bleek remark, the passage of Terence cited in justification, Eun. i. 2. 25, 'Plenus rimarum sum, hac atque illac perfluo,' has reference not to forgetfulness, but to indiscreet loquacity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because Christ, the Mediator of the new covenant is so far above all angels, the mediators of the old covenant."
 2. "The more abundantly [the message] was heard, spoken by God and by the Lord."
 3. "Let them not let the message 'flow past them'."
@@ -55,4 +55,4 @@ Given these commentator quotes, we can describe the Bible verse as a caution aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse highlights the divine authority and power of Jesus Christ, the Son of man. As a man, Jesus possesses the ability to forgive sins, demonstrating his compassion and willingness to extend forgiveness to those in need. This forgiving power resides within him, highlighting the indwelling nature of forgiveness. Jesus' authority to forgive sins is not hindered by his human nature, but rather, his humility and incarnation as a man only serve to magnify the grandeur of his divine power. This authority extends beyond his earthly ministry, even into his heavenly exaltation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son of man hath power on earth to forgive sins" - This quote emphasizes that Jesus, as the Son of man, possesses the authority to forgive sins. It highlights the divine power that resides within Jesus and his ability to offer forgiveness to those in need.
 
 2. "That forgiving power dwells in the Person of this Man" - This quote points to the indwelling nature of the forgiving power within Jesus. It suggests that Jesus himself is the embodiment of forgiveness, and it is through his person that this power is manifested.
@@ -30,4 +30,4 @@ This verse highlights the divine authority and power of Jesus Christ, the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

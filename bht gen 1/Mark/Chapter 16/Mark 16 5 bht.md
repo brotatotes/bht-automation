@@ -9,7 +9,7 @@ The Bible verse describes the scene of Jesus' resurrection, where an angel appea
 2. "The incident to which these accounts point must be distinct from that related John 20:11, which was after Mary Magdalene returned from the city."
 3. "It is not worth while to detail the attempts which have been made to reconcile these various reports of the incident: they present curious examples of the ingenuity, and (probably unconscious) disingenuousness, of the Harmonists."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is described as he appeared to the eye, in the bloom of a life that knows no decay."
 2. "He seems...to have gone in with them from without; only awaiting their arrival to accompany them into the hallowed spot, and instruct them about it."
 3. "Having respect to the position in which His Lord had lain there. This trait is peculiar to Mark."
@@ -37,4 +37,4 @@ The Bible verse describes the scene of Jesus' resurrection, where an angel appea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In a remarkable encounter with Jesus, a woman who had been afflicted with a chro
 
 3. "See notes on Luke." This quote reinforces the idea that there is valuable information in the notes on the Gospel of Luke, implying that studying those notes can provide deeper insights into the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only was her issue of blood stanched, but the cause of it was thoroughly removed."
 2. "By her bodily sensations she immediately knew herself perfectly cured."
 3. "The instantaneous cure of this inveterate malady was designed to show that the same almighty power which had gone forth from Him was now lodged in His Church, and would continue to be exerted in her behalf."
@@ -42,4 +42,4 @@ In a remarkable encounter with Jesus, a woman who had been afflicted with a chro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

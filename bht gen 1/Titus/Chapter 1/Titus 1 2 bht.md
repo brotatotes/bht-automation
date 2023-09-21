@@ -11,7 +11,7 @@ The verse being described is not mentioned.
 
 3. "promised from eternal ages" - This phrase indicates that the promise of eternal life was not a recent development but was part of God's eternal plan. It underscores the divine intention and purpose behind the promise, which was established before time began.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That whereon rests my aim as an apostle to promote the elect's faith and full knowledge of the truth, is, 'the hope of eternal life'." 
 2. "That cannot lie." 
 3. "Promised before the world began."
@@ -57,4 +57,4 @@ The verse being described is not mentioned.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

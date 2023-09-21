@@ -11,7 +11,7 @@ Those who are under the control of their sinful nature focus on worldly desires 
 4. "The higher aims and objects of desire of the spiritual life."
 5. "The latter is the evidence of the former."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that are after the flesh... give their attention to the things of the flesh." 
 2. "Men must be under the predominating influence of one or other of these two principles."
 3. "According as the one or the other has the mastery, will be the complexion of their life."
@@ -69,4 +69,4 @@ Those who are under the control of their sinful nature focus on worldly desires 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

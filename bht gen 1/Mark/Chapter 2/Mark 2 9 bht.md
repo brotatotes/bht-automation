@@ -4,7 +4,7 @@
 This verse reminds us that sin and disease are both within the realm of God's power. Just as Jesus demonstrated His authority to heal the physical body, He also showed His ability to forgive sins and heal the soul. The concept of "walking" suggests intentional and purposeful movement, reflecting a continuous way of life. It encourages us to actively seek and explore the truths of God's Word, while being mindful of the choices we make along the way. Ultimately, this verse highlights the remarkable and transformative power of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is it easier to command away disease than to bid away sin?"
 2. "If, then, I do the one which you can see, know thus that I have done the other, which you cannot see."
 3. "If Jesus can heal the physical body, it is a demonstration of His authority to forgive sins and heal the soul."
@@ -25,4 +25,4 @@ This verse reminds us that sin and disease are both within the realm of God's po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

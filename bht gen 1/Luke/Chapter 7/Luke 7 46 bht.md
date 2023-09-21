@@ -4,7 +4,7 @@
 In this verse, Jesus is speaking with his host, highlighting the difference in treatment between himself and a sinful woman. He points out that the host did not offer the customary anointing of his head with common oil, as was done for guests at feasts. However, this woman, with deep love and devotion, not only used precious and costly ointment for the anointing, but she humbly applied it to Jesus' feet. The contrasting actions of the host and the woman emphasize the woman's genuine forgiveness and her profound expression of honor and respect towards Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What evidence was thus afforded of any feeling which forgiveness prompts?"
 2. "Our Lord speaks this with delicate politeness, as if hurt at these inattentions of His host."
 3. "The inference is plain—only one of the debtors was really forgiven, though in the first instance, to give room for the play of withheld feelings, the forgiveness of both is supposed in the parable."
@@ -40,4 +40,4 @@ Note: The commentary did not provide any additional quotes that meet the require
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

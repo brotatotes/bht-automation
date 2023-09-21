@@ -9,7 +9,7 @@ This Bible verse highlights the inclusivity of God's grace and acceptance. It em
 2. "It is clearly unreasonable to suppose Peter to have meant, that each heathen’s natural light and moral purity would render him acceptable in the sight of God: for, if so, why should he have proceeded to preach Christ to Cornelius, or indeed any more at all?"
 3. "And it is equally unreasonable to find any verbal or doctrinal difficulty in ἐργ. δικαιοσύνην, or to suppose that δικ. must be taken in its forensic sense, and therefore that he alludes to the state of men after becoming believers. He speaks popularly, and certainly not without reference to the character he had heard of Cornelius, which consisted of these very two parts, that he feared God, and abounded in good works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that feareth him, and worketh righteousness—This being the well-known phraseology of the Old Testament in describing the truly godly man, within the pale of revealed religion, it cannot be alleged that Peter meant it to denote a merely virtuous character, in the heathen sense."
 2. "Peter had learned enough... to convince him that the whole religious character of this Roman officer had been moulded in the Jewish faith."
 3. "There can be no doubt that the apostle intended to describe exactly such saintship—in its internal spirituality and external fruitfulness—as God had already pronounced to be genuine and approved."
@@ -51,4 +51,4 @@ This Bible verse highlights the inclusivity of God's grace and acceptance. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

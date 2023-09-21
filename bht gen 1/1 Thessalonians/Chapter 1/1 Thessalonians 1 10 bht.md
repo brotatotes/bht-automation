@@ -9,7 +9,7 @@ The verse being described speaks of the faith and hope of the Thessalonians, who
 2. "Certainly these words would give them an idea of the nearness of the coming of Christ."
 3. "By ὃν ἤγ . ἐκ τῶν νεκρῶν, that whereby Jesus was declared to be the Son of God with power, is emphatically prefixed to His name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To wait for the Lord's coming is a sure characteristic of a true believer, and was prominent amidst the graces of the Thessalonians."
 2. "His coming is seldom called his return because the two advents are regarded as different phases of the same coming."
 3. "The grand proof of His divine Sonship is his resurrection from the dead."
@@ -55,4 +55,4 @@ The verse being described speaks of the faith and hope of the Thessalonians, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

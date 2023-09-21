@@ -4,7 +4,7 @@
 The verse being described here is one where the author, believed to be the apostle Paul, writes a personal salutation at the end of the letter with his own hand. This act serves as a way to authenticate the genuineness of the letter and distinguish it from any counterfeit ones. It also demonstrates Paul's commitment, care, and concern for the recipients, emphasizing the importance and authority of the message he is delivering. The personal touch and authenticity of the closing salutation add weight and credibility to the content being conveyed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The salutation with Paul's own hand at the end of the letter adds a personal touch and authenticity to his message."
 2. "By dictating the rest of the Epistle, Paul shows his trust in his scribe and his confidence in the accuracy of the message being conveyed."
 3. "This act of writing with his own hand also demonstrates Paul's commitment and dedication to the recipients of the letter, emphasizing the importance of the message he is delivering."
@@ -44,4 +44,4 @@ These quotes collectively emphasize Paul's personal involvement, ownership, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentator affirms that a crown of righteousness is prepared
 
 3. "There is, as Calv. has shewn, no sort of inconsistency here with the doctrines of grace: 'neque enim gratuita justificatio quæ nobis per fidem confertur, cum operum remuneratione pugnat quin potius rite conveniunt ista duo, gratis justificari hominem Christi beneficio, et tamen operum mercedem coram Deo relaturum.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reward is in recognition of righteousness wrought in Paul by God's Spirit; the crown is prepared for the righteous; but it is a crown which consists in righteousness." 
 2. "A man is justified gratuitously by the merits of Christ through faith; and when he is so justified God accepts his works and honors them with a reward which is not their due, but is given of grace."
 3. "The favorable sentence passed on the 'brethren' of the Judge, who sit with Him on His throne, is in Matthew 25:40, taken for granted as already awarded, when that affecting those who benefited them is being passed."
@@ -57,4 +57,4 @@ In this verse, the commentator affirms that a crown of righteousness is prepared
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

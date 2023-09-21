@@ -4,7 +4,7 @@
 This Bible verse describes how believers are made fit and ready for the heavenly inheritance, which is a portion reserved for them in the kingdom of light. Through God's grace, believers have been prepared and equipped to partake in the glorious inheritance and walk in the light as children of God. This is accomplished through understanding the true nature of Christ and His finished work on the cross, as well as the ongoing process of sanctification by the Holy Spirit. Through justification and sanctification, believers are made suitable for the eternal glory that awaits them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The connection is not, 'We do not cease to pray for you giving thanks.'"
 2. "Not 'is making us meet' by progressive growth in holiness; but once for all made us meet."
 3. "The Christian life of heavenliness is the first stage of heaven itself."
@@ -48,4 +48,4 @@ This Bible verse describes how believers are made fit and ready for the heavenly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this dramatic and urgent incident presented uniquely by Mark, we encounter a man who is both deaf and has difficulty speaking. Christ, in His own way, heals the man, laying His hands on him and using symbolic gestures such as spittle and touch. By doing so, He demonstrates His authority over physical and spiritual impediments, emphasizing the importance of bringing those who are deaf and mute in the figurative sense to Him. This accounts for both the physical and spiritual aspects, drawing parallels between physical deafness, spiritual deafness, and the need for divine intervention.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In their eagerness they appear to have been somewhat too officious."
 2. "Though usually doing as here suggested, He will deal with this case in His own way."
 3. "He will deal with this case in His own way."
@@ -45,4 +45,4 @@ In this dramatic and urgent incident presented uniquely by Mark, we encounter a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

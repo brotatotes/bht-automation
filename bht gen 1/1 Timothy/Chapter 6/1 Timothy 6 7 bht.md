@@ -9,7 +9,7 @@ When reflecting on the verse, we are reminded of our transient nature and the fu
 2. "The sentiment is found in Job 1:21, Ecclesiastes 5:14."
 3. "Non licet plus efferre, quam intuleris." (Translation: "It is not allowed to carry out more than you brought in.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We brought nothing into the world (to teach us to remember) that neither can we carry anything out." 
 2. "Therefore, we should have no gain-seeking anxiety, the breeder of discontent."
 3. "The brevity of life and the certainty of death should remind us to focus on contentment rather than material gain."
@@ -61,4 +61,4 @@ When reflecting on the verse, we are reminded of our transient nature and the fu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

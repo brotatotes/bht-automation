@@ -4,7 +4,7 @@
 This verse challenges readers to reflect on their ability to truly perceive and understand. It highlights the importance of being attentive and open-minded in our observations and interpretations. It reminds us to draw wisdom from past experiences and encourages us to explore the broader context of the Bible to deepen our understanding. The verse emphasizes the significance of both physical and spiritual senses, urging us to not just see and hear, but to truly comprehend and apply what we encounter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having eyes, see ye not? and having ears, hear ye not?" - This quote highlights the importance of not just physical sight and hearing, but also the ability to truly perceive and understand. It reminds us to be attentive and open-minded in our observations and interpretations.
 
 2. "Do ye not remember?" - This quote serves as a reminder to reflect on past experiences and lessons learned. It encourages us to draw from our memories and apply them to our current situations, emphasizing the value of wisdom gained through personal history.
@@ -20,4 +20,4 @@ This verse challenges readers to reflect on their ability to truly perceive and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

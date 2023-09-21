@@ -9,7 +9,7 @@ In this Bible verse, we witness a remarkable demonstration of God's grace and th
 2. "The silence of the penitent is broken by the ἡμᾶς of the other compromising him in the scoff."
 3. "Οὐδέ alludes to the multitude: 'Dost thou too not fear God?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let others jeer, but dost thou?"
 2. "Thou art within an hour or two of eternity, and dost thou spend it in reckless disregard of coming judgment?"
 3. "Doth even a common lot kindle no sympathy in thy breast?"
@@ -50,4 +50,4 @@ In this Bible verse, we witness a remarkable demonstration of God's grace and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

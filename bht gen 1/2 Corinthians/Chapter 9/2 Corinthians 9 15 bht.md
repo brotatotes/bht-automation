@@ -9,7 +9,7 @@ The verse being described is a profound expression of gratitude for the incompar
 2. "And the ascription, as coming from Paul’s fervent spirit, is very natural in this connexion."
 3. "It is impossible to apply such a term, so emphatically placed as here, to any gift short of THAT ONE."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His unspeakable gift—the gift of His own Son, which includes all other inferior gifts." 
 2. "If we have received from God 'His unspeakable gift,' what great thing is it, if we give a few perishing gifts for His sake?" 
 3. "The gift of His Son is the ultimate expression of God's love and grace towards humanity."
@@ -54,4 +54,4 @@ The verse being described is a profound expression of gratitude for the incompar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

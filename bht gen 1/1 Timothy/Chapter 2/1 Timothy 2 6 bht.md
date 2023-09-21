@@ -4,7 +4,7 @@
 The verse being described is a powerful statement about the sacrificial nature of Christ's death and his role as the ultimate ransom for humanity. Jesus gave himself, his body and soul, as a payment equal to the sins of all people. This act of selflessness extends to all ranks, conditions, and sins, encompassing Jews and Gentiles alike. The timing of this testimony, planned by God and revealed at the perfect moment, emphasizes the divine wisdom behind Jesus' redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only the Father gave Him for us, but the Son gave Himself." 
 2. "The Son of God became man in order that, being made like unto us in all things, sin only excepted, as our elder brother He should redeem us."
 3. "The Greek implies not merely ransom, but a substituted or equivalent ransom: the Greek preposition, 'anti,' implying reciprocity and vicarious substitution."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

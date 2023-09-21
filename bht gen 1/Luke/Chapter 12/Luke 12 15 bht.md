@@ -9,7 +9,7 @@ Take heed and guard yourselves against covetousness, which is the root of all ev
 2. "No man’s life consists in what he possesses."
 3. "Man’s life is of God, not of his goods, however abundant they may be."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He would strike at once at the root of the evil." 
 2. "A singularly weighty maxim, and not less so because its meaning and its truth are equally evident." 
 3. "The best copies have 'all,' that is, 'every kind of covetousness'; because as this was one of the more plausible forms of it."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

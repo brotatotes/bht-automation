@@ -4,7 +4,7 @@
 In this verse, we witness a remarkable act of compassion and kindness, where an unexpected Samaritan becomes the epitome of love and mercy. Despite the deep animosity between Samaritans and Jews, this individual not only overcame prejudice but also went above and beyond to help someone in dire need. The Samaritan's genuine care and selflessness, which surpassed the actions of a priest and a Levite, highlight the transformative power of empathy. This narrative serves as a powerful reminder that true neighborliness transcends social divisions and is rooted in the innate desire to alleviate suffering.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who gives outward things gives something external to himself, but he who imparts compassion and tears gives him something from his very self" - Gregory the Great
 2. "No doubt the priest and Levite had their excuses... So might the Samaritan have reasoned, but did not" - Trench
 3. "Nor did he say, He's a Jew, who would have had no dealings with me, and why should I with him?"
@@ -45,4 +45,4 @@ In this verse, we witness a remarkable act of compassion and kindness, where an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

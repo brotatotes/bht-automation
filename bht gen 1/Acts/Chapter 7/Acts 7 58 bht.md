@@ -9,7 +9,7 @@ In the midst of a tumultuous and unjust execution, the witnesses laid down their
 2. "The question whether this was a legal proceeding on sentence, or a tumultuary one, is not easy to answer."
 3. "That they observed the forms of their own law, in the place and manner of the stoning, is no objection to this view."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The actual stoning is recorded in Hebrews 13:12-." 
 2. "How thrilling is this our first introduction to one to whom Christianity... owes more perhaps than to all the other apostles together!"
 3. "Here he is, having perhaps already a seat in the Sanhedrim, some thirty years of age, in the thick of this tumultuous murder of a distinguished witness for Christ."
@@ -48,4 +48,4 @@ In the midst of a tumultuous and unjust execution, the witnesses laid down their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

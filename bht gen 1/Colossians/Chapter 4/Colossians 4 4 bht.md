@@ -9,7 +9,7 @@ In this Bible verse, the Apostle Paul expresses his desire to openly reveal and 
 2. "Certainly this is the meaning, and not, as ordinarily understood, that he might boldly declare the Gospel in his imprisonment."
 3. "He would be fulfilling the requirements of that apostolic calling, from which now in his imprisonment he was laid aside."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul asks their prayers for his release as if it were the 'only' way by which he could 'make it (the Gospel) manifest' as he ought."
 2. "A door for the word could be opened, and was opened, for its manifestation, even while he remained imprisoned."
 3. "Paul's imprisonment did not hinder the spread of the Gospel, but rather served as an opportunity for its advancement."
@@ -52,4 +52,4 @@ In this Bible verse, the Apostle Paul expresses his desire to openly reveal and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

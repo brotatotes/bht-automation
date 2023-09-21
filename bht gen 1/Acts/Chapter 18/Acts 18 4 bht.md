@@ -4,7 +4,7 @@
 In this verse, the apostle Paul is described as reasoning and engaging in thoughtful discussions to spread the Gospel. Despite facing rejection by the Jews, he strategically turns to the Gentiles, highlighting the universality of the message. Through reasoning, Paul seeks to convince both Jews and Greeks of the truth of the Gospel, addressing doubts and objections. His diligent efforts in preaching Christ on the Sabbath and laboring with his own hands reflect his unwavering commitment to sharing the message. As a result, some Jews and Gentiles are convinced and embrace the truth of his doctrine.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greeks—that is, Gentile proselytes; for to the heathen, as usual, he only turned when rejected by the Jews." 
 
 2. "Paul's turning to the Gentiles was not a hasty decision but a strategic move in response to the rejection by the Jews." 
@@ -44,4 +44,4 @@ In this verse, the apostle Paul is described as reasoning and engaging in though
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

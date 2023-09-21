@@ -9,7 +9,7 @@ The verse being described portrays a scene in which a group of individuals becom
 2. "as in Verres’ case" - This quote alludes to a specific case involving Verres, implying that the fear of the individuals mentioned in the verse could be similar to the fear Verres experienced in facing punishment.
 3. "or even for their popularity with the very mob of Roman citizens who had demanded the punishment" - This quote highlights that the fear of the individuals could also stem from the possibility of losing their popularity among the Roman citizens who had demanded punishment.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fear of the crowd upon hearing that they were Romans highlights the power and authority associated with Roman citizenship."
 2. "The mention of their Roman identity emphasizes the potential legal consequences they faced for their actions."
 3. "The fear of the crowd reflects the precarious position of those who had violated the rights and privileges of Roman citizens."
@@ -35,4 +35,4 @@ The verse being described portrays a scene in which a group of individuals becom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

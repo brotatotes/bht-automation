@@ -9,7 +9,7 @@ The greeting of "Grace be unto you, and peace from God" in this verse reflects t
 2. "The presence of peace in the midst of conflict is a powerful testimony to the transformative power of the gospel." 
 3. "Peace is not the absence of conflict, but the presence of God's reconciling and transforming grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peace—peculiarly needed in the Corinthian church, on account of its dissensions."
 2. "Peace is not just the absence of conflict, but the presence of harmony and unity."
 3. "The pursuit of peace requires intentional effort and a willingness to reconcile and forgive."
@@ -56,4 +56,4 @@ The greeting of "Grace be unto you, and peace from God" in this verse reflects t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

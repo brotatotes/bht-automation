@@ -11,7 +11,7 @@ In the verse, at that time, specifically, Jesus spoke to the multitude in parabl
 
 3. "Euthymius Zigabenus, 1116" - This attribution provides the name and year of the commentator, allowing readers to further explore the insights and interpretations of Euthymius Zigabenus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus spoke to the multitude in parables, using vivid and relatable stories to convey deep spiritual truths. By speaking in parables, Jesus engaged the listeners' imagination and allowed them to draw their own conclusions, making the message more impactful and memorable."
 
 2. "The use of parables also served as a filter, separating those who were truly seeking understanding from those who were merely curious or looking for signs and wonders. It required the listeners to actively participate in deciphering the meaning, revealing their level of receptiveness to the teachings of Jesus."
@@ -42,4 +42,4 @@ In the verse, at that time, specifically, Jesus spoke to the multitude in parabl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

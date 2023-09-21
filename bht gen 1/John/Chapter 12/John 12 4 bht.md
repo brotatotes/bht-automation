@@ -9,7 +9,7 @@ In this verse, we see the contrast between the deep devotion of Mary and the imp
 2. "It may well be, as some have supposed, that by the rebuke of the Lord on this occasion, the traitorous scheme of Judas, long hidden in his inmost soul, may have been stimulated to immediate action."
 3. "ὁ μέλλεν αὐτὸν παραδιδόναι is not inserted, nor are any such notices in St. John without significance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judas . . . who should betray him" - This phrase highlights the role of Judas Iscariot as the one who would betray Jesus. It emphasizes the significance of his actions in the narrative.
 
 2. "For the reason why this is here mentioned" - This phrase suggests that there is a specific reason for mentioning Judas in this context. It implies that the mention of Judas serves a purpose in the overall message or theme of the passage.
@@ -49,4 +49,4 @@ In this verse, we see the contrast between the deep devotion of Mary and the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

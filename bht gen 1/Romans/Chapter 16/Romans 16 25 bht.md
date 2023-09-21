@@ -9,7 +9,7 @@ This passage speaks of God's power to establish and strengthen believers from al
 2. "κατὰ ἀποκ. is best taken... as subordinate to κήρυγμα, the preaching of Jesus Christ according to, &c."
 3. "The mystery of the gospel is often said to have been thus hidden from eternity in the counsels of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To Him that is able." 
 2. "Confirm, or uphold you." 
 3. "According to the revelation of the mystery."
@@ -58,4 +58,4 @@ This passage speaks of God's power to establish and strengthen believers from al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

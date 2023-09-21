@@ -9,7 +9,7 @@ In this verse, commentators describe the mysterious and transformative nature of
 2. "We shall be like Him, because we shall see Him as He is."
 3. "The full and perfect accomplishment of this knowledge in the actual fruition of God Himself must of necessity bring with it entire likeness to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers have some degree of the manifestation already, though the world has not."
 2. "We know (in general; as a matter of well-assured knowledge) that when He shall be manifested, we shall be like Him."
 3. "The transition from God the Father to 'He,' 'Him,' referring to Christ, implies the entire unity of the Father and the Son."
@@ -57,4 +57,4 @@ In this verse, commentators describe the mysterious and transformative nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

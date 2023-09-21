@@ -11,7 +11,7 @@ This verse speaks to the timeless nature of God and His ability to transcend and
 
 3. "Placing Him far above all human limits of time." - This statement underscores the supremacy of God over time and His ability to transcend and control it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's delay in fulfilling His promise is not, like men's delays, owing to inability or fickleness in keeping His word, but through 'long-suffering.'"
 2. "His eternity exceeds all measures of time: to His divine knowledge all future things are present: His power requires not long delays for the performance of His work: His long-suffering excludes all impatient expectation and eager haste, such as we men feel."
 3. "No delay which occurs is long to God: as to a man of countless riches, a thousand guineas are as a single penny. God's oeligonologe (eternal-ages measurer) differs wholly from man's horologe (hour-glass)."
@@ -56,4 +56,4 @@ This verse speaks to the timeless nature of God and His ability to transcend and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator's insights indicate that the actions described - 
 2. "He evidently means in self-sacrifice: for country, or friends." 
 3. "The objections to it seem to me to be, (1) It leaves παραδῶ standing in a very vague and undefined meaning 'deliver, to what?' (2) It introduces an irrelevant and confusing element, a boastful motive, into a set of hypotheses which put forward merely an act or set of acts on the one side, and the absence of love on the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One of the highest functions of the 'helps'." 
 2. "These are most noble exemplifications of love in giving and in suffering."
 3. "Men will fight for Christianity, and die for Christianity, but not live in its spirit, which is love."
@@ -55,4 +55,4 @@ These quotes highlight the importance of love in actions, the biblical commandme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

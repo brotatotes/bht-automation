@@ -9,7 +9,7 @@ Esau, the tragic example of an apostate, sought in vain for a reversal of the co
 2. "μετάνοιας τόπος is, in fact, μετάνοια. He found no place for μετάνοια: if he had found one, μετάνοια would have been secured: this was what he sought."
 3. "It is obvious, that our passage, rightly understood, cannot by any means favour the exclusion of any sinner from repentance. In Esau’s case the μετανοίας τόπος was closed, by circumstances themselves: the blessing had been given and could not be recalled. And this is our warning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As in the believer's case, so in the unbeliever's, there is an 'afterwards' coming, when the believer shall look on his past griefs, and the unbeliever on his past joys, in a very different light from that in which they were respectively viewed at the time." 
 2. "He that will not when he may, when he will, shall have nay." 
 3. "Had he sought real repentance with tears he would have found it. But he did not find it because this was not what he sought. His were tears of vain regret and remorse, not of repentance."
@@ -55,4 +55,4 @@ Esau, the tragic example of an apostate, sought in vain for a reversal of the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

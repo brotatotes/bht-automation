@@ -11,7 +11,7 @@ This verse is about the commendable nature of zeal when it is directed towards a
 
 Note: The commentary is quite lengthy and difficult to understand, but these quotes provide a general understanding of the author's interpretation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I do not find fault with them for zealously courting you, nor with you for being zealously courted: provided it be 'in a good cause'." 
 2. "Their zealous courting of you is not in a good cause." 
 3. "I do not desire that I exclusively should have the privilege of zealously courting you. Others may do so in my absence with my full approval, if only it be in a good cause, and if Christ be faithfully preached."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy and difficult to understand, but these quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

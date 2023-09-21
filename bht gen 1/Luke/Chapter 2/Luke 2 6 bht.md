@@ -4,7 +4,7 @@
 In the midst of unseen providence and divine timing, the days appointed for Mary's delivery arrived. Oblivious to the prophetic requirement for Jesus to be born in Bethlehem, Mary found herself guided by the providence of God to the very place where her child would come into the world. This remarkable convergence of events, orchestrated by a hidden hand, serves as a reminder of the mysterious workings of God's providential plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary had up to this time been living at the wrong place for Messiah's birth."
 2. "A little longer stay at Nazareth, and the prophecy would have failed."
 3. "But lo! with no intention certainly on her part, much less of Cæsar Augustus, to fulfil the prophecy, she is brought from Nazareth to Bethlehem, and at that nick of time her period arrives, and her Babe is born."
@@ -37,4 +37,4 @@ In the midst of unseen providence and divine timing, the days appointed for Mary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

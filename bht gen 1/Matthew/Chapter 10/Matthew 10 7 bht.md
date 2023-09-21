@@ -8,7 +8,7 @@ This passage describes a group of itinerant preachers who were sent to proclaim 
 1. "This announcement shews the preparatory nature of this first apostolic mission."
 2. "Compare, shewing the difference of their ultimate message to the world, Colossians 1:26-28."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The command to preach is given to all believers, not just to a select few. We are all called to share the good news of the kingdom of heaven."
 2. "The phrase 'at hand' implies that the kingdom of heaven is not a distant future event, but a present reality. It is within our reach and available to us now."
 3. "Preaching is not just about words, but about living out the kingdom of heaven in our daily lives. Our actions should reflect the love, grace, and power of God's kingdom."
@@ -44,4 +44,4 @@ This passage describes a group of itinerant preachers who were sent to proclaim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ By loving our Christian brethren, we demonstrate our love for God and His comman
 2. "In this we know that we love the children of God when we love God, and do His commandments."
 3. "It will be seen from what has been said, that all the devices which have been used to extract from this verse a sense different from that which it really conveys, are wholly unneeded, nay, out of place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our love to the brethren is the sign and test of our love to God."
 2. "Love to one's brother is prior, according to the order of nature; love to God is so, according to the order of grace."
 3. "John shows what true love is, namely, that which is referred to God as its first object."
@@ -53,4 +53,4 @@ By loving our Christian brethren, we demonstrate our love for God and His comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

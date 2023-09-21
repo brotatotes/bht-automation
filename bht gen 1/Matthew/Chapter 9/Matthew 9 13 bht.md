@@ -9,7 +9,7 @@ In this verse, Jesus uses a combination of quotes from Hosea, references to sacr
 2. "ἔλεος θέλ." 
 3. "The whole of this discourse, with the exception of the citation, is almost verbatim in Mark, and (with ὑγιαίνοντες = ἰσχύοντες , ἐλήλυθα = ἦλθον , and the addition of εἰς μετάνοιαν ) Luke also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sacrifice," the chief part of the ceremonial law, is here put for a religion of literal adherence to mere rules; while "mercy" expresses such compassion for the fallen as seeks to lift them up.
 2. The duty of keeping aloof from the polluted, in the sense of "having no fellowship with the unfruitful works of darkness," is obvious enough; but to understand this as prohibiting such intercourse with them as is necessary to their recovery, is to abuse it.
 3. When Christ "called" the latter, as He did Matthew, and probably some of those publicans and sinners whom he had invited to meet Him, it was to heal them of their spiritual maladies, or save their souls: "The righteous," like those miserable self-satisfied Pharisees, "He sent empty away."
@@ -50,4 +50,4 @@ In this verse, Jesus uses a combination of quotes from Hosea, references to sacr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

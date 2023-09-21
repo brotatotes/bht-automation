@@ -4,7 +4,7 @@
 In this verse, Jesus speaks of the special relationship he has with his disciples, who have been given to him by God. This highlights their unique role in his mission and emphasizes the faithfulness and preservation of those entrusted to Jesus. However, it also serves as a reminder that not all who are initially chosen will remain steadfast, as seen in the example of Judas. Jesus' statement points to the importance of endurance and remaining faithful until the end.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I should lose nothing, but should raise it up at the last day" - This quote highlights the assurance that Jesus will not lose any of the people entrusted to Him by God. He will raise them up on the last day, indicating the promise of eternal life and the resurrection of the dead.
 
 2. "To let 'nothing' of such 'be lost,' but 'raise them up at the last day,' must involve, first, giving His flesh for them" - This quote emphasizes the sacrificial nature of Jesus' mission. He gave His flesh, referring to His death on the cross, in order to ensure that none of the entrusted ones would be lost.
@@ -52,4 +52,4 @@ In this verse, Jesus speaks of the special relationship he has with his disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

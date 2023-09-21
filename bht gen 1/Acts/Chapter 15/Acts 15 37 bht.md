@@ -4,7 +4,7 @@
 Barnabas, a wise and discerning individual, made the decision to bring his nephew, John Mark, along on their journey. This choice was based on John's character and abilities rather than solely on their familial relationship. By including John, Barnabas demonstrated the importance of companionship, teamwork, and mentorship in the ministry. This act of investing in John's growth not only benefited him personally but also enriched the overall ministry, showcasing the value of meaningful relationships and the wisdom of surrounding oneself with supportive and inspirational individuals.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas, known for his encouragement and support, made the decision to bring along John Mark, his nephew, on their journey." 
 
 2. "This decision by Barnabas reveals his heart for mentoring and investing in the next generation of believers."
@@ -53,4 +53,4 @@ These quotes highlight Barnabas' strong desire to take John Mark with them on th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

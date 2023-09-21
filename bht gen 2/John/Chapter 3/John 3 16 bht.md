@@ -11,7 +11,7 @@ For those who put their faith in him and hold fast to their confidence until the
 4. "It would besides give us a very mean idea of the honesty or reverence of one who sets forth so sublime a view of the Divinity and Authority of our Lord, to suppose him capable, in any place, of attributing to his Master words and sentiments of his own invention."
 5. "The Lord here reveals Love as the one ground of the divine counsel in redemption, salvation of men, as its one purpose with regard to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What proclamation of the Gospel has been so oft on the lips of missionaries and preachers in every age since it was first uttered?"
 2. "What has sent such thrilling sensations through millions of mankind?"
 3. "What has been honored to bring such multitudes to the feet of Christ?"
@@ -75,4 +75,4 @@ For those who put their faith in him and hold fast to their confidence until the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described here emphasizes that certain customs and practices, such as dietary restrictions, are ultimately inconsequential and transitory. These regulations originate from human traditions rather than divine authority and hold no lasting significance. The use of perishable items and observance of temporary ordinances cannot bring true righteousness or eternal life. Instead, the focus should be on matters of the soul and the enduring principles of true worship and faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The three things handled, touched, and tasted are constituted for perishing in their consumption." 
 2. "Therefore they cannot really and lastingly defile a man." 
 3. "All these 'ordinances' are according to human, not divine, injunction."
@@ -43,4 +43,4 @@ The verse being described here emphasizes that certain customs and practices, su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

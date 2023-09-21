@@ -9,7 +9,7 @@ In this verse, the speaker, influenced by the teachings of Christ, rejects any p
 2. "the whole system of unspiritual and unchristian men and things."
 3. "he chooses, in relation to σταυρός above, this stronger word, which at once brings in his union with the death of Christ, besides his relation to the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'cross,' the great object of shame to them, and to all carnal men, is the great object of glorying to me."
 2. "For by it, the worst of deaths, Christ has destroyed all kinds of death."
 3. "We are to testify the power of Christ's death working in us, after the manner of crucifixion."
@@ -57,4 +57,4 @@ Note: The commentary is not very clear and lacks substantial content. However, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

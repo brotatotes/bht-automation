@@ -11,7 +11,7 @@ The verse being described focuses on the multiplication of grace and peace throu
 
 3. "Every unusual expression, like Ἰης. τοῦ κυρ. ὑμῶν, occurring only Romans 4:24, should be noticed as a morsel of evidence to the independence of the Epistle." - The commentary points out the significance of unique expressions in the verse, suggesting that they provide evidence for the originality and distinctiveness of the Epistle.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grace...peace" - The commentary highlights the significance of grace and peace, emphasizing that they can only be multiplied within the sphere of God's presence.
 2. "Full knowledge" - The commentary draws attention to the Greek term used for knowledge, indicating that it refers to a comprehensive and deep understanding.
 3. "The knowledge of Jesus our Lord" - The commentary emphasizes that the primary focus of Peter's exhortation is to have a profound knowledge of Jesus, with the knowledge of the Father being secondary.
@@ -59,4 +59,4 @@ The verse being described focuses on the multiplication of grace and peace throu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

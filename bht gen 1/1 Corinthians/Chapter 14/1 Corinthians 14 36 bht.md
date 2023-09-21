@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse that urges the Corinthians to consi
 2. "To be inseparably connected with what follows, the recognition of his apostolic orders."
 3. "As those of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are you about to obey me?" - The commentator questions the obedience of the readers, implying that they may be placing their own judgment above that of other churches.
 2. "Do you pretend that your church is the first church from which the gospel word came?" - The commentator challenges the readers' claim to be the original church from which the gospel originated, suggesting that they may be asserting their authority over other churches.
 3. "Or are you the only persons in, from whom it has come?" - The commentator questions whether the readers believe that they are the sole recipients of the gospel, insinuating that they may be claiming exclusivity in their understanding and interpretation of the word.
@@ -49,4 +49,4 @@ Note: The commentary provides additional context and explanations, but the quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

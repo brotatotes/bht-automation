@@ -9,7 +9,7 @@ In this Bible verse, a person is using a writing tablet to communicate. The tabl
 2. "This also confirms the view that Zacharias was deaf."
 3. "There would be nothing wonderful in his acceding to his wife’s suggestion, if he had known it: the coincidence, apparently without this knowledge, was the matter of wonder."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marvelled all—at his giving the same name" - This quote highlights the astonishment of the people witnessing the naming of John the Baptist. It emphasizes the uniqueness of the name given by God and the surprise of the community at this divine intervention.
 
 2. "Not knowing of any communication between them" - This quote emphasizes the lack of human involvement in the naming of John the Baptist. It suggests that the name was not influenced by any human tradition or communication, but rather was a direct revelation from God.
@@ -47,4 +47,4 @@ In this Bible verse, a person is using a writing tablet to communicate. The tabl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

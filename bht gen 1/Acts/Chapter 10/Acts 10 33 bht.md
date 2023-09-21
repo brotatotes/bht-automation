@@ -10,7 +10,7 @@ In this verse, there is a remarkable reading regarding the presence of Cornelius
 3. "The sense, ‘We are all here present before thee,’ follows better on the two preceding verses."
 4. "Not doubting that God, who had directed him to Peter, had also directed Peter what to speak to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beautiful expression of entire preparedness to receive the expected divine teaching through the lips of this heaven-commissioned teacher."
 2. "Delightful encouragement to Peter to give free utterance to what was doubtless already on his lips!"
 3. "We are all here present before God, to hear all things that are commanded thee of God."
@@ -62,4 +62,4 @@ Note: The commentary is quite long and complex, so it was challenging to find sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

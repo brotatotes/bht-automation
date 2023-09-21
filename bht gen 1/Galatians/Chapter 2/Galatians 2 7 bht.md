@@ -9,7 +9,7 @@ The passage being described in these commentaries is one in which Paul defends h
 2. "They saw that I was entrusted with the Gospel of the uncircumcision, as Peter with that of the circumcision; therefore they had only to accede to the appointment of God." 
 3. "Peter was not the Apostle of the circumcision only, for he had opened the door to the Gentiles, but in the ultimate assignment of the apostolic work, he wrought less among the Gentiles and more among the Jews than Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So far from adding any new light to ME, THEY gave in THEIR adhesion to the new path on which Barnabas and I, by independent revelation, had entered."
 2. "So far from censuring, they gave a hearty approval to my independent course, namely, the innovation of preaching the Gospel without circumcision to the Gentiles."
 3. "Peter had originally opened the door to the Gentiles. But in the ultimate apportionment of the spheres of labor, the Jews were assigned to him."
@@ -57,4 +57,4 @@ These quotes highlight the understanding that the Gospel was entrusted to differ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the future mission of the Apostles, as they speak not on t
 2. "It is to be observed that our Lord never in speaking to His disciples says our Father, but either my Father or your Father."
 3. "In the great work of God in the world, human individuality sinks down and vanishes, and God alone, His Christ, His Spirit, is the great worker."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For it is not ye that speak, but the Spirit of your Father which speaketh in you" - This verse highlights the divine inspiration and guidance that believers receive when speaking about their faith. It reminds us that our words can carry the power and authority of God Himself.
 
 2. "How remarkably this has been verified, the whole history of persecution thrillingly proclaims" - The commentary emphasizes the enduring testimony of countless martyrs throughout history who have boldly proclaimed their faith, even in the face of persecution. Their unwavering commitment to speaking the truth is a testament to the indwelling presence of the Holy Spirit.
@@ -30,4 +30,4 @@ In this verse, we see the future mission of the Apostles, as they speak not on t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

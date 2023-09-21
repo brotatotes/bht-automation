@@ -9,7 +9,7 @@ The group, driven by a sense of urgency and determination, departed without taki
 2. "The agape was a veritable meal."
 3. "'After so doing:' see reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With what a mixture of awe and joy after such an occurrence!"
 2. "How lifelike this record of dear Christian fellowship, as free and gladsome as it was solemn!"
 3. "His farewell address to them."
@@ -56,4 +56,4 @@ The group, driven by a sense of urgency and determination, departed without taki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ With deep compassion and love, Jesus longs to gather his people like a hen gathe
 
 3. "His assertion that Mat 23:39 has no sense here, is implicitly refuted below."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How ineffably grand and melting is this apostrophe! It is the very heart of God pouring itself forth through human flesh and speech."
 2. "It is this incarnation of the innermost life and love of Deity, pleading with men, bleeding for them, and ascending only to open His arms to them and win them back by the power of this story of matchless love."
 3. "Under His great Mediatorial wing would He have 'gathered' Israel. For the figure, see Deuteronomy 32:10-12; Ruth 2:12; Psalms 17:8; Psalms 36:7; Psalms 61:4; Psalms 63:7; Psalms 91:4; Isaiah 31:5; Malachi 4:2."
@@ -65,4 +65,4 @@ With deep compassion and love, Jesus longs to gather his people like a hen gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

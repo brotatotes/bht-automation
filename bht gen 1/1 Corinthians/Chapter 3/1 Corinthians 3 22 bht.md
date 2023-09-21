@@ -4,7 +4,7 @@
 In this Bible verse, commentators highlight the inclusive and comprehensive nature of God's love and providence. The verse reminds us that all things, whether teachers, circumstances, or even present challenges, ultimately belong to Christ and are for the benefit of the Church. God's love extends to every moment of our lives, guiding and comforting us. We are urged to recognize that Christ is the sole master whom we should follow, and to prioritize unity and love over divisions and rivalries. Overall, this verse emphasizes the all-encompassing and transformative power of God's love in our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enumeration of some of the 'all things.' The teachers, in whom they gloried, he puts first."
 2. "Not only shall they not 'separate you from the love of God in Christ,' but they 'all are yours,' that is, are for you and belong to you, as they belong to Christ your Head."
 3. "Things present - 'things actually present'."
@@ -51,4 +51,4 @@ In this Bible verse, commentators highlight the inclusive and comprehensive natu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a clear depiction of the immediate and supernatural knowle
 2. "The knowledge was most carefully and precisely here signified."
 3. "The knowledge was immediate and supernatural, as is most carefully and precisely here signified."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reasoning in the heart is as truly a sin as speaking with the lips; and it is a sin which is very common, and which is often indulged in by those who would be shocked at the thought of uttering a word of blasphemy."
 
 2. "The evil thought, the impure desire, the unholy purpose, the revengeful feeling, the covetous wish, the envious emotion, the proud and ambitious design, the secret indulgence of any sin, is a sin in the sight of God."
@@ -34,4 +34,4 @@ In this verse, we see a clear depiction of the immediate and supernatural knowle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

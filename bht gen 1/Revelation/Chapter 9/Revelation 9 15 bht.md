@@ -4,7 +4,7 @@
 In this Bible verse, a time period is described with precise and specific timing. The appointed hour, day, month, and year have been fixed by God, and the angels, who had been prepared and kept ready, are finally released to carry out their mission. The timing of this event is significant, as it marks the culmination of a period of destruction and devastation brought upon the inhabitants of the earth. The progression in the reckoning of time reflects the gradual growth of the event, starting small but ultimately leading to a significant and profound impact on the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek article (teen), put once only before all the periods, implies that the hour in the day, and the day in the month, and the month in the year, and the year itself, had been definitely fixed by God."
 2. "The article would have been omitted had a sum-total of periods been specified, namely, three hundred ninety-one years and one month."
 3. "The third part of men refers to the earthly men, the inhabitants of the earth, as distinguished from God's sealed people."
@@ -45,4 +45,4 @@ In this Bible verse, a time period is described with precise and specific timing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

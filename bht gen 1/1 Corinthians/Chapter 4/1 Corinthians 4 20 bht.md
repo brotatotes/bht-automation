@@ -9,7 +9,7 @@ The commentators provide valuable insights into the Bible verse, emphasizing tha
 2. "The Kingdom announced by the prophets, preached by the Lord and the Apostles, being now prepared on earth and received by those who believe on Christ."
 3. "The kingdom is not in mere word, but in power is a kingdom of power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of God is not in word" - The commentary suggests that the kingdom of God is not merely about empty speeches or words. It emphasizes that the true presence of the kingdom is manifested through the power of the Spirit.
 2. "The manifest power of the Spirit attests the presence of the kingdom of God" - This quote highlights that the presence of the kingdom of God is confirmed by the evident power of the Holy Spirit. It implies that the kingdom is not just a concept, but a spiritual reality.
 3. "The reign of the Gospel spiritually" - The commentary describes the kingdom of God as the reign of the Gospel in a spiritual sense. It suggests that the kingdom is not limited to a physical location, but is experienced within the hearts of believers.
@@ -45,4 +45,4 @@ The commentators provide valuable insights into the Bible verse, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

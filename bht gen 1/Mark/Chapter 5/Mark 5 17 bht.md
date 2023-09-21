@@ -4,7 +4,7 @@
 In this passage, we find a vivid account of a powerful and miraculous encounter. The people in this region, driven by fear and astonishment, plead for Jesus to leave their borders, not recognizing the divine presence among them. The clash between the spiritual welfare brought by Jesus and the worldly concerns of the people is evident, as they prioritize their own material possessions over the healing and salvation that Jesus offers. Their lack of understanding and fear of being affected negatively by Jesus' power illustrate the contrasting perspectives between the spiritual and the worldly.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The evil spirits had thus, alas! their object."
 2. "Irritated, the people could not suffer His presence; yet awe-struck, they dared not order Him off."
 3. "He takes them at their word."
@@ -30,4 +30,4 @@ In this passage, we find a vivid account of a powerful and miraculous encounter.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

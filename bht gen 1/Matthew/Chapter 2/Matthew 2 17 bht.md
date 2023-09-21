@@ -9,7 +9,7 @@ This verse showcases the fulfillment of prophecy and the divine authority of Scr
 2. "None of the expressions of this prophecy must be closely and literally pressed."
 3. "We must also take into account the close relation between the tribes of Judah and Benjamin, which had long subsisted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the fulfillment of prophecy, emphasizing the divine inspiration and authority of the Scriptures." 
 
 2. "The mention of Jeremiah as the source of the prophecy underscores the continuity and consistency of God's message throughout the Old Testament."
@@ -42,4 +42,4 @@ This verse showcases the fulfillment of prophecy and the divine authority of Scr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

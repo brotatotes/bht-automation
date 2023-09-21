@@ -9,7 +9,7 @@ The Bible verse being described is one that speaks about the concept of punishme
 2. "I very much questioned whether the thorough study of Scripture prophecy would not make me more and more distrustful of all human systematizing, and less willing to hazard strong assertion on any portion of the subject."
 3. "The coincidence of these portions with the process of the great last things in Revelation 20:1-15; Rev 21:1-27 is never to be overlooked, and should be our guide to their explanation, however distrustful we may be of its certainty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sentence, it should seem, was first pronounced—in the hearing of the wicked—upon the righteous, who thereupon sit as assessors in the judgment upon the wicked."
 2. "Sentence is first executed, it should seem, upon the wicked, in the sight of the righteous—whose glory will thus not be beheld by the wicked, while their descent into 'their own place' will be witnessed by the righteous."
 3. "The decisions of this awful day will be final, irreversible, unending."
@@ -43,4 +43,4 @@ The Bible verse being described is one that speaks about the concept of punishme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

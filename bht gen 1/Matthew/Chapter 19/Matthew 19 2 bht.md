@@ -9,7 +9,7 @@ The verse being described is one that depicts the immense popularity and healing
 2. "For St. Mark has ἐδίδασκεν (he was teaching) instead of ἐθεράπευεν (he was healing)." 
 3. "This suggests that Jesus not only healed the sick, but also taught them, emphasizing the importance of both physical and spiritual healing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And great multitudes followed him; and he healed them there." - This verse highlights the immense popularity and healing power of Jesus, as large crowds followed him and witnessed his miraculous healings.
 2. "He taught them there." - Mark emphasizes that Jesus not only performed miracles but also took the opportunity to teach the crowds. This implies that Jesus' healing ministry was not just about physical restoration but also about imparting spiritual wisdom.
 3. "What we now have on the subject of divorce is some of that teaching." - The commentary suggests that the following verses will delve into Jesus' teachings on divorce, indicating that this topic is of significant importance and relevance to the audience.
@@ -33,4 +33,4 @@ The verse being described is one that depicts the immense popularity and healing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse serves as a cautionary reminder against tempting and challenging the 
 2. "He warns the Corinthians, that they should not in like manner provoke God by their sins and their partaking with idols."
 3. "The temptation of God...to be in danger arising from those who spoke with different tongues."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Israel's discontented complainings were temptings of Christ especially, the 'Angel' of the covenant."
 2. "Though they drank of 'that Rock . . . Christ,' they yet complained for want of water."
 3. "The Corinthians were in danger of provoking God's long-suffering by walking on the verge of idolatry, through overweening confidence in their knowledge."
@@ -53,4 +53,4 @@ This verse serves as a cautionary reminder against tempting and challenging the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

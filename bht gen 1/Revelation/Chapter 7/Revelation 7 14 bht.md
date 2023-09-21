@@ -4,7 +4,7 @@
 In this verse, a question is posed to a heavenly being, whom the commentator refers to as "my lord" and "my master." The commentator acknowledges their own ignorance and seeks divine knowledge. The verse speaks of those who have come out of great tribulation, encompassing all past, present, and future sufferings, and have been cleansed from guilt through the blood of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Comparatively ignorant ourselves of divine things, it is well for us to look upward for divinely communicated knowledge."
 2. "The great tribulation, namely, the tribulation to which the martyrs were exposed under the fifth seal, the same which Christ foretells as about to precede His coming."
 3. "Meanwhile, in contrast with their previous sufferings, they are exempt from the hunger, thirst, and scorching heats of their life on earth and are fed and refreshed by the Lamb of God Himself."
@@ -38,4 +38,4 @@ In this verse, a question is posed to a heavenly being, whom the commentator ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

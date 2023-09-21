@@ -11,7 +11,7 @@ The verse being described is one in which Jesus appears to his disciples. He sho
 
 3. "ἄνδρες ἀδελφοί should be taken together" - This quote suggests that the phrase "ἄνδρες ἀδελφοί" should be understood as a collective term, referring to the people of Israel as a whole. It emphasizes the familial bond and shared identity among the Israelites.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses, grieved at the spectacle, interposes as a mediator" - This quote highlights Moses' role as a mediator, showing his concern for the conflict between two parties within Israel. It emphasizes his desire to bring about reconciliation and peace among his people.
 
 2. "His interference, as unauthorized, is resented by the party in the wrong" - This quote suggests that Moses' intervention was not welcomed by the party that was at fault. It implies that Moses' actions were seen as unauthorized or unwarranted, indicating the resistance he faced in trying to resolve the conflict.
@@ -56,4 +56,4 @@ The verse being described is one in which Jesus appears to his disciples. He sho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

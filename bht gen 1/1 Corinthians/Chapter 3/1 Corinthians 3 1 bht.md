@@ -9,7 +9,7 @@ The Bible verse describes how the Corinthians, though in Christ, were still lack
 2. "I was obliged to regard you as mere men of flesh, without the Spirit: and it is not far different even now: ye are yet fleshly, ye retain the same character."
 3. "He speaks of his first visit to Corinth, when they were recently admitted into the faith of Christ, and excuses his merely elementary teaching by the fact that they then required it. Not this, but their still requiring it, is adduced as matter of blame to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I was compelled to speak to you as I would to MEN OF FLESH."
 2. "Paul had to speak to them as he would to men wholly natural, inasmuch as they are still carnal in many respects, notwithstanding their conversion."
 3. "He blames them for being still in a degree babes in Christ, when by this time they ought to have 'come unto a perfect man, unto the measure of the stature of the fulness of Christ'."
@@ -55,4 +55,4 @@ The Bible verse describes how the Corinthians, though in Christ, were still lack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

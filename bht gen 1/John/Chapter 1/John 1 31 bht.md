@@ -9,7 +9,7 @@ In this Bible verse, commentators highlight the relationship between John the Ba
 2. "This testimony does not rest upon my long personal acquaintance with Him, but on that which happened during my work of baptizing."
 3. "But our narrative is not built upon any such Jewish belief, for it is evidently only as a spiritual preparation, through repentance, for the knowledge of Him, that John regarded his baptism."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John only knew that at a definite time after his own call, his Master would show Himself."
 2. "The spirit of the Baptist heaving under a divine presentiment that the moment had at length arrived."
 3. "Then, catching up the voice from heaven, 'he saw and bare record that this is the Son of God.'"
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the relationship between John the Ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

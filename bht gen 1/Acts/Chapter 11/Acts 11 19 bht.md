@@ -9,7 +9,7 @@ The verse being described speaks of a scattering and dispersal of believers from
 2. "It soon became a great and populous city."
 3. "It became afterwards one of the five great centres of the Christian church, with Jerusalem, Rome, Alexandria, and Constantinople."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They which were scattered abroad upon the persecution that arose about Stephen" - This highlights the reason for the dispersion of the believers and sets the context for their journey and preaching.
 2. "An active commercial intercourse subsisted between Phenice and Cyprus" - This emphasizes the connection and trade between these two regions, providing insight into the potential spread of the gospel message.
 3. "Antioch... containing a large colony of Jews, to whose religion there were there numerous proselytes" - This description of Antioch helps us understand the diverse religious and cultural landscape of the city, which would have influenced the reception of the gospel message.
@@ -59,4 +59,4 @@ The verse being described speaks of a scattering and dispersal of believers from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

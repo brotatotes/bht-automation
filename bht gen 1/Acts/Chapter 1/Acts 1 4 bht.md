@@ -9,7 +9,7 @@ The disciples were commanded to wait in Jerusalem, with patience and trust in Go
 2. "‘Simul manere jussi sunt, quoniam uno omnes Spiritu donandi erant. Si fuissent dispersi, unites minus cognita fuisset.’ Calvin." 
 3. "περιμ .] to await, i.e. wait till the completion of: the περι implies this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit was to glorify the existing economy, by descending on the disciples at its metropolitan seat." 
 
 2. "Out of Zion might go forth the law, and the word of the Lord from Jerusalem." 
@@ -57,4 +57,4 @@ The disciples were commanded to wait in Jerusalem, with patience and trust in Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

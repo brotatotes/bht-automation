@@ -4,7 +4,7 @@
 The apostle Paul faced imprisonment, but even in his confinement, his ministry continued to thrive and bring about the furtherance of the Gospel. His bonds in Christ were made known, even reaching the palace and other places, inspiring many to speak the Word without fear. Paul's journey ultimately led him to Rome, the capital of the Roman world, where the principal agent in establishing Christianity resided. The Acts of the Apostles conclude here, highlighting the victory and shining brilliance of the Gospel, leaving a lasting impact on the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enjoying, in the uninterrupted exercise of his ministry, all the liberty of a guarded man."
 2. "The Gospel having in consequence penetrated even into the palace, and pervaded the city, while the preachers of Christ were emboldened."
 3. "That the apostle suffered martyrdom under Nero at Rome has never been doubted."
@@ -35,4 +35,4 @@ Note: The provided commentary is quite lengthy and does not directly quote or pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

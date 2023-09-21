@@ -8,7 +8,7 @@ In this verse, the author speaks of a heartfelt hope, one that fuels his unwaver
 1. "Having and cherishing this hope."
 2. "Also, as well as they."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On this account, accordingly; that is, looking forward to that awful day."
 2. "The 'I' here is emphatic; 'Whatever they do, this is my study.'"
 3. "These are the great principles of my life and conduct—how different from turbulence and sectarianism!"
@@ -54,4 +54,4 @@ In this verse, the author speaks of a heartfelt hope, one that fuels his unwaver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Paul's words in this verse emphasize the partnership between believers and God i
 2. "of GOD that ye are the tillage" - This imagery highlights that we are like the cultivated field, being nurtured and cared for by God. (Quote 2)
 3. "of GOD that ye are the building" - This metaphor suggests that we are like a construction project, with God as the master builder, shaping and forming us. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For (in proof that 'each shall receive reward according to his own labor,' namely, from God) it is of God that we are the fellow workers (laboring with, but under, and belonging to Him as His servants, 2 Corinthians 5:20; 2 Corinthians 6:1; compare 2 Corinthians 6:1- :) of God."
 2. "Building is a new image introduced here, as suited better than that of husbandry, to set forth the different kinds of teaching and their results, which he is now about to discuss."
 3. "To edify" or "build up" the Church of Christ is similarly used (Ephesians 2:21; Ephesians 2:22; Ephesians 4:29).
@@ -55,4 +55,4 @@ These quotes highlight the diligent and hardworking nature of ministers in sprea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

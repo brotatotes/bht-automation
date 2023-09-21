@@ -9,7 +9,7 @@ The Jews, lacking faith, demand Jesus to perform a miracle as proof of his autho
 2. "It was not only to justify His having driven out the abomination; this any one might have done; but to justify the mission and the whole course of action which the words τοῦ πατρός μου implied."
 3. "They used the same expression at the end of His ministry, Matthew 21:23."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the act and the words of Christ, taken together, were sign enough, they were unconvinced." 
 2. "They were awed, and though at His very next appearance at Jerusalem they 'sought to kill Him' for speaking of 'His Father' just as He did now."
 3. "At this early stage, they only ask a sign."
@@ -57,4 +57,4 @@ The Jews, lacking faith, demand Jesus to perform a miracle as proof of his autho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

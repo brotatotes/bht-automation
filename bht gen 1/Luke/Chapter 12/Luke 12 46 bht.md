@@ -4,7 +4,7 @@
 This passage warns of the consequences for those who lack fidelity and trustworthiness. It speaks of a punishment, the cutting asunder, which is not unknown in the East, for the unbelievers and hypocrites who falsely call themselves servants. The commentary emphasizes the importance of fidelity rather than just faith, shedding light on the deeper meaning of the verse. It highlights God's role as the ultimate judge, emphasizing that God has the authority to determine the destiny of individuals and assign them their rightful place.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cut him in sunder" - a punishment not unknown in the East.
 2. "The unbelievers" - the unfaithful, those unworthy of trust.
 3. "The hypocrites" - falsely calling themselves "servants."
@@ -35,4 +35,4 @@ This passage warns of the consequences for those who lack fidelity and trustwort
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

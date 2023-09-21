@@ -9,7 +9,7 @@ In this Bible verse, the challenges and trials faced by the speaker are acknowle
 2. "You were the object of our consolation: the faith which you showed was the means whereby that object was applied to our minds."
 3. "in (reff., i.e. ‘in the midst of,’ ‘in spite of’) all our necessity and tribulation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "over you—in respect to you."
 2. "in—in the midst of"
 3. "notwithstanding 'all our distress (Greek, 'necessity') and affliction,' namely, external trials at Corinth"
@@ -45,4 +45,4 @@ In this Bible verse, the challenges and trials faced by the speaker are acknowle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

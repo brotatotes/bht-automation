@@ -9,7 +9,7 @@ In this verse, Jesus instructs his followers not to seek revenge or retaliate wh
 2. "He gave his back to the smiters, and his cheeks to them that plucked off the hair, and hid not his face from shame and spitting."
 3. "Or, perhaps, in the indefinite sense, as before, evil, generally, 'when thus directed against thee.' Only, the other possible meaning there, 'the evil one,' is precluded here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord's own meek, yet dignified bearing, when smitten rudely on the cheek, is the best comment on these words."
 2. "It is the preparedness, after one indignity, not to invite but to submit meekly to another, without retaliation, which this strong language is meant to convey."
 3. "Whosoever shall smite thee on thy right cheek, turn to him the other also."
@@ -51,4 +51,4 @@ These quotes highlight the idea that resisting evil or wrong through non-violent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

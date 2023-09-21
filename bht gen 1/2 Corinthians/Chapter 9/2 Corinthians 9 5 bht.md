@@ -9,7 +9,7 @@ In this verse, the commentator highlights the previous mention or discussion of 
 2. "He who defrauds the poor by stinting them πλεονεκτεῖ, in the literal sense."
 3. "There is no need to alter the primitive meaning, or to make the word signify ‘tenacity,’ as Calv., De Wette, al.: he who defrauds the poor by stinting them πλεονεκτεῖ, in the literal sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That they should go before" - The author emphasizes the importance of the Macedonians going ahead as promised, indicating the significance of fulfilling their commitment. 
 
 2. "Promised before" - The commentator highlights the fact that the announcement of the Macedonians' contribution was made in advance, underscoring the reliability and trustworthiness of their pledge. 
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the previous mention or discussion of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

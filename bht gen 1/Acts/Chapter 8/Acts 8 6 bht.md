@@ -9,7 +9,7 @@ The unity and eagerness among the Samaritans are evident as they enthusiasticall
 2. "The narrative in John 4:0 will fully account for this." 
 3. "If this place was Sychem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The way being prepared perhaps by the fruits of our Lord's sojourn, as He Himself seems to intimate." 
 2. "We may mark the providence of God in sending a Grecian, or a Hellenistic Jew, to a people who from national antipathy would have been unlikely to attend to a native of Judea." 
 3. "The people with one accord gave heed to Philip."
@@ -46,4 +46,4 @@ The unity and eagerness among the Samaritans are evident as they enthusiasticall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

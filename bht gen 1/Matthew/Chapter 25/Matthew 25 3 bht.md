@@ -4,7 +4,7 @@
 This verse warns of the danger of being spiritually unprepared, lacking the necessary oil of the Holy Spirit for a lasting relationship with God. The foolish virgins had the appearance of readiness but lacked the vital oil, symbolizing spiritual vitality and readiness. It emphasizes the need for a personal and intimate connection with God, as true faith requires more than religious practices and calls us to continually seek and cultivate a deep relationship with Him. Without the oil of grace and a faith working by love, our lamp can dim and our spiritual emptiness will be exposed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The foolish virgins represent those who are unprepared and lack the necessary resources to sustain their faith. They may have the appearance of being ready, but they lack the essential oil of the Holy Spirit, which is necessary for a genuine and lasting relationship with God."
 
 2. "This verse serves as a reminder that it is not enough to simply have a form of godliness or go through the motions of religious practices. True faith requires a personal and intimate connection with God, symbolized by the oil in the lamps."
@@ -39,4 +39,4 @@ This verse warns of the danger of being spiritually unprepared, lacking the nece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

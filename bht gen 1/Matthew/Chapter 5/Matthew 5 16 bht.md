@@ -9,7 +9,7 @@ By living a life that reflects the teachings of the Bible and showcasing our goo
 2. "Thus the praise and glory of a well-lighted and brilliant feast would be given, not to the lights, but to the master of the house; and of a stately city on a hill, not to the buildings, but to those who built them."
 3. "The whole of this division of our Lord’s sermon is addressed to all His followers, not exclusively to the ministers of his word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven." - Christians are called to live in such a way that their actions and behavior are a testimony to the transformative power of God in their lives. By shining their light, they bring glory to God and inspire others to seek redemption and transformation.
 
 2. "Christians, being the light of the world, instead of hiding their light, are so to hold it forth before men that they may see what a life the disciples of Christ lead." - Christians are not meant to hide their faith or keep it to themselves. They are called to boldly and visibly live out their faith, so that others may witness the impact it has on their lives.
@@ -59,4 +59,4 @@ Note: The commentary provided does not have clear divisions or headings. The quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

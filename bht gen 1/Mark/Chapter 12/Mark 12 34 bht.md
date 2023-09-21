@@ -9,7 +9,7 @@ Jesus commends a sincere seeker who stands at the threshold of the kingdom of Go
 2. "The Lord shows us here that even outside His flock, those who can answer νουνεχῶς who have knowledge of the spirit of the great command of Law and Gospel, are nearer to being of his flock, than the formalists."
 3. "The enquiry which follows did more than silence their questioning: it silenced their answering too."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art not far from the kingdom of God" - Jesus recognizes the sincere understanding and insight of the lawyer, acknowledging that he is on the verge of entering the kingdom of God.
 2. "He needed only the experience of another eminent scribe" - The commentary highlights the importance of personal experience and transformation in fully embracing the kingdom of God, drawing a parallel to the journey of the apostle Paul.
 3. "No man after that durst ask any question" - The power and wisdom displayed by Jesus leaves the Pharisees and others in awe, realizing that they are no match for Him and causing them to refrain from further questioning.
@@ -48,4 +48,4 @@ Jesus commends a sincere seeker who stands at the threshold of the kingdom of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

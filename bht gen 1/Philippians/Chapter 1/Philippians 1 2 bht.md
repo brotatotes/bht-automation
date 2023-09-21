@@ -11,7 +11,7 @@ The verse being described emphasizes the divine initiative in salvation and the 
 
 3. "The grace and peace mentioned here are not merely empty words or wishes, but the actual blessings that come from a relationship with God. Grace is the unmerited favor of God, while peace is the inner tranquility and well-being that comes from knowing and trusting in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very form of this salutation implies the union of Jew, Greek, and Roman."
 2. "Grace must come first if we are to have true peace."
 3. "God our Father and the Lord Jesus Christ are most closely connected."
@@ -44,4 +44,4 @@ The verse being described emphasizes the divine initiative in salvation and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

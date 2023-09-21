@@ -9,7 +9,7 @@ In the tense and oppressive atmosphere of the time, people hesitated to openly e
 2. "The others spoke plainly enough."
 3. "Here again οἱ Ἰουδ. are distinguished from the ὄχλοι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "None spake openly of him" - This highlights the fear and hesitation of people to openly express their support for Jesus due to the opposition and persecution they might face from the ruling Jews.
 
 2. "In His favor" - This phrase emphasizes that those who refrained from speaking openly about Jesus were actually sympathetic towards Him and believed in His teachings, but were constrained by the fear of the consequences.
@@ -63,4 +63,4 @@ In the tense and oppressive atmosphere of the time, people hesitated to openly e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, there is a threat to the temple and worship of the goddess Diana,
 2. "The temple of Artemis at Ephesus, having been burnt to the ground by Herostratus on the night of the birth of Alexander the Great (B.C. 355), was restored with increased magnificence, and accounted one of the wonders of the ancient world."
 3. "And that she should be deposed from her greatness, whom &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That indeed is a small matter but there is something far worse."
 2. "In both cases religious zeal was the hypocritical pretext; self-interest, the real moving cause of the opposition made."
 3. "What power must have attended the preaching of that one man by whom the death blow was felt to be given to their gigantic and witching superstition!"
@@ -53,4 +53,4 @@ In this verse, there is a threat to the temple and worship of the goddess Diana,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

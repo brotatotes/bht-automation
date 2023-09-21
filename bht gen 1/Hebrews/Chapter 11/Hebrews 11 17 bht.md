@@ -9,7 +9,7 @@ In a remarkable display of faith, Abraham offered up his son Isaac, not only thr
 2. "he that had accepted the promises (ἀναδεξάμενος, more than ἔχων, ch. Hebrews 7:6; he had as it were with open arms accepted and taken to himself each and all of the promises, the possession of Canaan, the multiplication of his seed, the blessing of all nations in his seed)"
 3. "his only begotten (so Aquila, and similarly Symm. (τὸν μόνον σου) in Genesis 22:2, for בִּנְךָ אֶת־יְחִידְךָ τὸν υἱόν σου τὸν ἀγαπητόν, LXX. And so Philo de Somn. i. § 34, vol. i. p. 650, Ἀβραὰμ ἐπὶ τῆς τοῦ ἀγαπητοῦ καὶ μόνου παιδὸς ὁλοκαυτώσεως."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As far as His intention was concerned, he did sacrifice Isaac; and in actual fact 'he offered him,' as far as the presentation of him on the altar as an offering to God is concerned."
 2. "Not that God 'tempts' to sin, but God 'tempts' in the sense of proving or trying."
 3. "Abraham is a type of the Father not sparing His only-begotten Son to fulfill the divine purpose of love."
@@ -53,4 +53,4 @@ In a remarkable display of faith, Abraham offered up his son Isaac, not only thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

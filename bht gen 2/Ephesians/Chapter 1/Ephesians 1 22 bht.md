@@ -11,7 +11,7 @@ In this Bible verse, it is revealed that Christ has been given authority over al
 4. "The Apostle’s own usage is our best guide, πληροῦσθε ἐν πνεύματι, and directs us to the instrumental or elemental meaning—the thing with, or by, or in which as an element, the filling takes place."
 5. "The reference is, I think, to the Father, not to Christ. The latter has been imagined principally from strictly parallelizing the two clauses, τὸ σῶμα | αὐτοῦ, τὸ πλήρωμα | τοῦ τ. π. ἐν π. πληρουμένου. But this is by no means conclusive: the second definitive clause may assert more than the first; may be, not subordinate to the first, but inclusive of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "HIM He gave as Head over all things to the Church."
 2. "Had it been anyone save HIM, her Head, it would not have been the boon it is to the Church."
 3. "He is over all things; in contrast to the words, 'to the Church,' namely, for her advantage."
@@ -69,4 +69,4 @@ In this Bible verse, it is revealed that Christ has been given authority over al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

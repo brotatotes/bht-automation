@@ -9,7 +9,7 @@ The described Bible verse highlights the diverse and essential roles played by d
 2. "The prophet spoke under immediate inspiration; the διδάσκαλος under inspiration working by the secondary instruments of his will and reason and rhetorical powers."
 3. "The inspired διδάσκαλος would speak, though not technically προφητείας, yet the mind of the Spirit in all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here used imports any kind of service, from the dispensing of the word of life to the administering of the temporal affairs of the Church."
 2. "Teachers are expressly distinguished from prophets, and put after them, as exercising a lower function."
 3. "Probably it consisted mainly in opening up the evangelical bearings of Old Testament Scripture; and it was in this department apparently that Apollos showed his power and eloquence."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of diligently carrying out the ministry, u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

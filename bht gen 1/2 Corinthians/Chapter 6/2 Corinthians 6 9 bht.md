@@ -9,7 +9,7 @@ The believers, though unrecognized and despised by the world, are fully known an
 2. "Surely we must now drop altogether the putative meaning of the ὡς . The sense has been (see above) some time verging that way, and in the clauses which follow, the ὡς expresses just what it does in ὡς θεοῦ διάκονοι , viz. ‘quippe qui simus.’"
 3. "Ps. 117:18, LXX, seems to have been in his mind: παιδεύων ἐπαίδευσέ με ὁ (om ὁ [7] ) κύριος , καὶ τῷ θανάτῳ οὐ παρέδωκέ με …"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unknown by men, yet acknowledged by God" - CONYBEARE
 2. "Behold" calls attention to the fact as something beyond all expectation.
 3. "Chastened . . . not killed" - realizing Psalms 118:18.
@@ -54,4 +54,4 @@ The believers, though unrecognized and despised by the world, are fully known an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

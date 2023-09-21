@@ -9,7 +9,7 @@ This passage describes the danger of false prophets and corrupt leaders who try 
 2. "However the sheep may for a while listen to these false shepherds, they do not hear them, so as to follow them. Those who do, belong not to the true flock."
 3. "He is here set in opposition to ὁ κλέπτης, and thus insensibly passes into the place of a ποιμήν, who has been hitherto thus opposed. Then the ζωὴν ἔχωσιν binds on to νομὴν εὑρήσει and καὶ περισὶ ἔχ.: q. d. not merely as a door to pass through, but actively, abundantly, to bestow abundance of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All that ever came before me—the false prophets; not as claiming the prerogatives of Messiah, but as perverters of the people from the way of life, all pointing to Him." 
 
 2. "The sheep did not hear them—the instinct of their divinely taught hearts preserving them from seducers, and attaching them to the heaven-sent prophets."
@@ -50,4 +50,4 @@ This passage describes the danger of false prophets and corrupt leaders who try 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

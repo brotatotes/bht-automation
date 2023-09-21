@@ -4,7 +4,7 @@
 In this Bible verse, the scene is vividly described with an emphasis on order and organization. Jesus commands the multitude to sit in groups on the green grass, highlighting their arrangement and making the distribution of food more efficient. The commentators comment on the attention to detail in Mark's gospel, his graphic and descriptive writing style, as well as providing historical and cultural context. Mark's intention is not only to provide a detailed account but to also allow the readers to visualize the scene and witness the miracle that is about to take place.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He commanded them to make all sit down by companies upon the green grass." - This emphasizes the order and organization in Jesus' instructions, as he wanted the people to be seated in groups on the green grass.
 
 2. "The rank grass of those bushy wastes." - This description highlights the abundance of grass in the area, indicating the suitability of the location for the gathering.
@@ -39,4 +39,4 @@ Note: The commentary provides historical and cultural context about the arrangem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

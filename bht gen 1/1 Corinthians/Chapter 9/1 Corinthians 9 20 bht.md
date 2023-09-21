@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul demonstrates his ability to adapt and conn
 2. "These again are not Jewish converts; nor proselytes, who would not be thus distinguished from other Jews."
 3. "The Apostle did not belong to the number of these, not being himself under the law, whereas he was nationally a Jew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not Judaizing in essentials, but in matters where there was no compromise of principle."
 2. "An undesigned coincidence between the history and the Epistle, and so a sure proof of genuineness."
 3. "Perhaps the reason for distinguishing this class from the former is that Paul himself belonged nationally to 'the Jews,' but did not in creed belong to the class of 'them that are under the law.'"
@@ -43,4 +43,4 @@ In this Bible verse, the apostle Paul demonstrates his ability to adapt and conn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

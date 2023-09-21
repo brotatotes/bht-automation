@@ -10,7 +10,7 @@ The verse being described is a powerful reflection of the Apostle Paul's deep em
 3. "τίς σκανδ.] 'Non priore, sed hac versiculi parte addit ego: nam illic infirmo se accommodat: hic dissimilem se scandalizantis fatetur, partes a scandalizante neglectas scandalizati causa ipse suscipiens. Partes a scandalizante neglectæ sunt amor, prudentia, &c. Idem tamen Paulus etiam partes scandalizati, sive incommodum quod scandalizatus sentit, in se suscipit.' Bengel." (Translation: "'Who is weak, if I am not weak?' i.e. 'Who can be called weak, if I am not so?'")
 4. "πυροῦμαι, with zeal, or with indignation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Care generates sympathy, which causes the minister of Christ personally to enter into the feelings of all his people, as if he stood in their position, so as to accommodate himself to all" [CALVIN].
 2. "The 'weak' is most liable to be 'offended.'"
 3. "I not only enter into the feeling of the party offended, but I burn with indignation at the offender, I myself taking up his cause as my own."
@@ -59,4 +59,4 @@ Overall, Paul's actions and sufferings serve as powerful testimonies to his auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

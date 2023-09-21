@@ -9,7 +9,7 @@ In this passage, individuals, including Paul and Barnabas, are received by the c
 2. "A protest was entered on the part of the Pharisee believers, in no way doubting the truth of these conversions, nor in any way disparaging the ministry of Paul and Barnabas."
 3. "Paul did not lay before the whole assembly the Gospel which he preached among the Gentiles, for fear of its being hastily disparaged or repudiated, and so his work being hindered."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was Paul's THIRD VISIT TO JERUSALEM after his conversion." 
 2. "The deputation being one so influential, and from a church of such note." 
 3. "They declared all things that God had done with them."
@@ -57,4 +57,4 @@ In this passage, individuals, including Paul and Barnabas, are received by the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

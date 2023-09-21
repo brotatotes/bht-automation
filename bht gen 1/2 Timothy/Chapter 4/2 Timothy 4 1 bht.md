@@ -4,7 +4,7 @@
 In this verse, the writer presents a strong and solemn charge, urging the reader to take action. The charge is given in anticipation of the future appearing of Jesus and the establishment of his kingdom. This highlights the importance of living in light of these future events. Jesus' appearing will not only bring about the manifestation of his glory, but it will also signify the culmination of his kingdom. The verse emphasizes the accountability and responsibility that believers have towards God in light of these future realities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His commission from God is mentioned, his resolution to do so, the execution of his commission, here." 
 2. "His kingdom is real now, but not visible. It shall then be both real and visible." 
 3. "Now he reigns in the midst of His enemies expecting till they shall be overthrown. Then He shall reign with His adversaries prostrate."
@@ -56,4 +56,4 @@ In this verse, the writer presents a strong and solemn charge, urging the reader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

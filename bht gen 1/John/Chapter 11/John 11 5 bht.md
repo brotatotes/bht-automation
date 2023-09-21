@@ -4,7 +4,7 @@
 In this verse, we see the depth of Jesus' personal relationships, as demonstrated by his love for Martha, Mary, and Lazarus. The use of the word "loved" emphasizes a deep and genuine affection towards them, different from any other kind of love. This love is a powerful example of Christ's personal attachment to specific individuals, refuting any notion that the Gospel lacks a focus on private friendships. The expectation of the sisters and their deep faith in Jesus' healing power further reveal the profound bond between them and Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus loved Martha and her sister and Lazarus—what a picture!—one that in every age has attracted the admiration of the whole Christian Church."
 2. "No wonder that those miserable skeptics who have carped at the ethical system of the Gospel, as not embracing private friendships in the list of its virtues, have been referred to the Saviour's peculiar regard for this family as a triumphant refutation."
 3. "Jesus' love for Martha, Mary, and Lazarus serves as a powerful example of the depth of his personal relationships and challenges any notion that the Gospel lacks a focus on private friendships."
@@ -40,4 +40,4 @@ In this verse, we see the depth of Jesus' personal relationships, as demonstrate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

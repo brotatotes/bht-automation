@@ -9,7 +9,7 @@ In this verse, commentators emphasize the depth and totality of love that we are
 2. "Beck’s useful little manual, Die biblische Seelenlehre, p. 110"
 3. "ἰσχύς is the inner spiritual strength of the heart"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "LOVE is an all-inclusive affection, embracing not only every other affection proper to its object, but all that is proper to be done to its object; for as love spontaneously seeks to please its object, so, in the case of men to God, it is the native well spring of a voluntary obedience."
 2. "One may fear an event, one may hope for an event, one may rejoice in an event; but one can love only a Person. It is the tenderest, the most unselfish, the most divine of all affections. Such, then, is the affection in which the essence of the divine law is declared to consist."
 3. "Taking these four things together, the command of the Law is, 'Thou shalt love the Lord thy God with all thy powers—with a sincere, a fervid, an intelligent, an energetic love.' But this is not all that the Law demands. God will have all these qualities in their most perfect exercise."
@@ -33,4 +33,4 @@ In this verse, commentators emphasize the depth and totality of love that we are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

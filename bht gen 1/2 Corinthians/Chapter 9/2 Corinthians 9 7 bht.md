@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of giving willingly and chee
 2. "Such givers, that is implied, God does not love."
 3. "δότης is not a classical word. δότηρ, δωτήρ and (Hes. Op. 353) δώτης, are used."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let the full consent of the free will go with the gift."
 2. "Opposed to 'of necessity,' as 'grudgingly' is opposed to 'a cheerful giver.'"
 3. "A cheerful giver."
@@ -58,4 +58,4 @@ The verse being described emphasizes the importance of giving willingly and chee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this particular Bible verse, we encounter a scene where the disciples are in 
 2. "I believe certainly before this announcement, as in Luke: and if before it, perhaps before the washing of the disciples’ feet."
 3. "For I see no break which would admit it between our Joh 13:1 and John 13:21."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Generous, simple hearts! They abhorred the thought, but, instead of putting it on others, each was only anxious to purge himself and know if he could be the wretch." 
 2. "Their putting it at once to Jesus Himself, as knowing doubtless who was to do it, was the best, as it certainly was the most spontaneous and artless evidence of their innocence."
 3. "Judas, last of all, answered and said, Lord, is it I? evidently feeling that when all were saying this, if he held his peace, that of itself would draw suspicion upon him."
@@ -48,4 +48,4 @@ In this particular Bible verse, we encounter a scene where the disciples are in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

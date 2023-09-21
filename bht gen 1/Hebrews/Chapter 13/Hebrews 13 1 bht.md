@@ -9,7 +9,7 @@ The author emphasizes the importance of maintaining brotherly love among Christi
 2. "We learn from the Acts...how eminent this brotherly love had been in that church" - The commentary highlights the historical context of the church in Jerusalem, where brotherly love had been prominent.
 3. "Let it then remain, not die out" - The author urges the readers to actively maintain and nurture brotherly love, indicating that it should not fade away or be neglected.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "brotherly love—a distinct special manifestation of 'charity' or 'love'." 
 2. "The Church of Jerusalem... was distinguished by this grace."
 3. "Charity will itself continue. See that it continue with you."
@@ -61,4 +61,4 @@ The author emphasizes the importance of maintaining brotherly love among Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

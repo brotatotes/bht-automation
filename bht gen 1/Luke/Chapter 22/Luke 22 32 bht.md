@@ -9,7 +9,7 @@ In the midst of Peter's upcoming denial, Jesus prays for him, desiring that his 
 2. "We may notice here, that our Lord speaks of the total failure of even an Apostle’s faith, as possible."
 3. "There can, I think, be little doubt that this word is here used in the general N.T. sense, of returning as a penitent after sin, turning to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But I have prayed—have been doing it already." - This quote highlights the continuous and persistent nature of the speaker's prayers, indicating a deep commitment to intercession.
 
 2. "Fail not—that is, entirely; for partially it did fail." - This quote suggests that while the speaker's faith may have faltered to some extent, it did not completely fail. It speaks to the human struggle with doubt and the need for divine intervention.
@@ -56,4 +56,4 @@ Note: The given commentary does not provide any additional quotes that meet the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

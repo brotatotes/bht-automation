@@ -9,7 +9,7 @@ In this verse, we find the apostle Paul acknowledging his limitations and weakne
 2. "For I ought to have been recommended by you, for I was nothing behind these overmuch Apostles."
 3. "Even though I am nothing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am become a fool." He sounds a retreat [BENGEL].
 2. "It is YE who have compelled me; for I ought to have been commended by you," instead of having to commend myself.
 3. "Was I behind" when I was with you?
@@ -57,4 +57,4 @@ In this verse, we find the apostle Paul acknowledging his limitations and weakne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

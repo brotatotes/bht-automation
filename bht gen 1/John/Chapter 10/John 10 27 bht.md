@@ -4,7 +4,7 @@
 The verse being described emphasizes the deep and personal relationship between Jesus and His followers. It conveys the idea that true disciples of Jesus have an intimate connection with Him and are able to discern His voice amidst the noise of the world. Jesus knows and cares for each of His sheep individually, demonstrating a sense of love, attention, and ownership. Believers hear and obey His commandments, following Him faithfully and imitating His example. The verse also highlights the assurance and hope that believers have in Jesus, as their faith in Him leads to the ultimate reward of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'my sheep hear my voice' implies a deep and personal relationship between Jesus and his followers. It suggests that true disciples of Jesus have an intimate connection with him and are able to discern his voice amidst the noise of the world."
 
 2. "The idea of Jesus knowing his sheep by name highlights the individual and personal nature of his relationship with each believer. It conveys a sense of care, love, and attention that Jesus has for his followers."
@@ -44,4 +44,4 @@ The verse being described emphasizes the deep and personal relationship between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

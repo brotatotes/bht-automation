@@ -9,7 +9,7 @@ In this Bible verse, some commentators explain that there are certain individual
 2. "I have no sympathy with these θέλοντες εὐπροσωπῆσαι ἐν σαρκί." (I have no sympathy with those who want to make a good impression in the flesh.)
 3. "They are compelling me to be persecuted with the Cross of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrast between his zeal in their behalf, implied in Galatians 6:11, and the zeal for self on the part of the Judaizers."
 2. "They escaped in a great degree the Jews' bitterness against Christianity and the offense of the cross of Christ, by making the Mosaic law a necessary preliminary in fact, making Christian converts into Jewish proselytes."
 3. "Constrain you—by example (Galatians 6:13) and importuning."
@@ -53,4 +53,4 @@ In this Bible verse, some commentators explain that there are certain individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

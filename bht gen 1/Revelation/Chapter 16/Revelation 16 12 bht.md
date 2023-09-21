@@ -9,7 +9,7 @@ In this Bible verse, the commentators offer insights that enrich our understandi
 2. "The time is now come for this gathering and by the drying up of the Euphrates, the way of those kings who are to come to it from the East is made ready."
 3. "This is the only understanding of these words which will suit the context, or the requirements of this series of prophecies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The drying up of the Euphrates, I think, is to be taken figuratively, as Babylon itself, which is situated on it, is undoubtedly so." 
 2. "The drying up of the waters of Babylon expresses the same thing as the ten kings stripping, eating, and burning the whore." 
 3. "Israel's promotion to the priest-kingdom after Pharaoh's downfall, and at the Lord's descent at Sinai to establish the theocracy, typifies the restored kingdom of Israel at the Lord's more glorious descent, when Antichrist shall be destroyed utterly."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators offer insights that enrich our understandi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, God's inclusive nature and equality in salvation are emphasized. It highlights that there is no distinction between Jews and non-Jews when it comes to matters of faith and conversion. The purification of hearts is achieved through genuine faith, rather than external actions or ceremonies. The verse also underscores the radical shift in God's approach, treating all believers equally and not making any difference between them. Ultimately, this verse emphasizes the transformative power of faith in experiencing a profound inward revolution and being united as one body in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Purification" here refers to "sprinkling (of the conscience by the blood of Jesus) from dead works to serve the living God."
 2. How rich is this brief description of the inward revolution wrought upon the genuine disciples of the Lord Jesus!
 3. The genuine disciples of the Lord Jesus have their hearts purified by faith, experiencing a profound inward transformation.
@@ -47,4 +47,4 @@ These quotes highlight the inclusive nature of God's salvation, the equal treatm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

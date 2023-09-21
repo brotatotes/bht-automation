@@ -4,7 +4,7 @@
 This verse speaks of the diverse nature of bodies, both earthly and heavenly. It reminds us that just as there are different kinds of flesh and bodies found in nature, there will also be a distinction in the resurrection. The examples given illustrate the uniqueness and variety within creation. Overall, it emphasizes that the resurrection bodies will be distinct from earthly bodies, yet still retain the essence of flesh and their own individual qualities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He implies by the word that our resurrection bodies shall be in some sense really flesh, not mere phantoms of air."
 2. "But Philippians 3:21- : below implies, it is not 'flesh and blood' in the animal sense we now understand them; for these 'shall not inherit the kingdom of God.'"
 3. "Not the same—not flesh of the same nature and excellency. As the kinds of flesh, however widely differing from one another, do not cease to be flesh, so the kinds of bodies, however differing from one another, are still bodies."
@@ -50,4 +50,4 @@ This verse speaks of the diverse nature of bodies, both earthly and heavenly. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

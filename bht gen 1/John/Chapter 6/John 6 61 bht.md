@@ -9,7 +9,7 @@ This verse describes Jesus' divine knowledge and self-sufficiency. He possesses 
 2. This phrase emphasizes that Jesus does not need to rely on external sources for knowledge but has all wisdom and understanding within Himself.
 3. It highlights the self-sufficiency and self-contained nature of Jesus' divine knowledge, affirming His deity and authority.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye are stumbled at what I have said, how will ye bear what I now say?" - This quote highlights the challenge Jesus presents to his listeners, questioning their ability to accept and understand his teachings. It emphasizes the importance of being open-minded and receptive to spiritual truths.
 
 2. "Not that His ascension itself would stumble them more than His death, but that after recoiling from the mention of the one, they would not be in a state of mind to take in the other." - This quote explains that the reason for Jesus' question is not that his ascension would be more difficult to accept than his death, but rather that the listeners' resistance to one aspect of his message would hinder their ability to comprehend the rest.
@@ -47,4 +47,4 @@ This verse describes Jesus' divine knowledge and self-sufficiency. He possesses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

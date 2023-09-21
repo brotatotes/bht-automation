@@ -9,7 +9,7 @@ The commentators offer insights into a Bible verse that emphasizes the desire fo
 2. "In all wisdom and spiritual understanding."
 3. "So that ye may walk worthily of the Lord unto all well-pleasing in every good work."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to desire—"to make request."" - The commentator highlights the specific nature of Paul's prayer, emphasizing his desire to make a request on behalf of the Colossians.
 2. "knowledge—Greek, 'full and accurate knowledge.'" - The commentator explains the meaning of the Greek word used for knowledge, emphasizing that it refers to a deep and comprehensive understanding.
 3. "wisdom—often mentioned in this Epistle, as opposed to the (false) 'philosophy' and 'show of wisdom'" - The commentator draws attention to the recurring theme of wisdom in the Epistle, contrasting it with false philosophy and superficial displays of wisdom.
@@ -53,4 +53,4 @@ The commentators offer insights into a Bible verse that emphasizes the desire fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

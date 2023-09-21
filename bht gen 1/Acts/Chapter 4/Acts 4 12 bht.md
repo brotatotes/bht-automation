@@ -9,7 +9,7 @@ The apostle's declaration regarding salvation through Jesus Christ emphasizes th
 2. "For neither is there another name under heaven (which is) given (by God) among men, whereby we must be saved."
 3. "Dr. Burton’s rendering, ‘For neither is the name which is given among men, whereby we are to be saved, any other than this,’ is ungrammatical."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither is there salvation in any other." - The apostle emphasizes that salvation cannot be found in anyone or anything else. This highlights the exclusivity of Jesus as the only source of salvation.
 
 2. "None other name under heaven given among men whereby we must be saved." - The phrase emphasizes the uniqueness and necessity of Jesus' name for salvation. It underscores the importance of recognizing and acknowledging Jesus as the only way to be saved.
@@ -59,4 +59,4 @@ The apostle's declaration regarding salvation through Jesus Christ emphasizes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

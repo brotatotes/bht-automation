@@ -9,7 +9,7 @@ The Israelites, in their journey towards the Promised Land, experienced a deep s
 2. "They turned back in their heart to Egypt: not, 'they wished to return to Egypt,' of which in Exodus 32:0 there is no trace... but 'they apostatized in heart to the Egyptian idolatries.'"
 3. "The very title by which Aaron proclaims his idol, is, 'These be thy gods, O Israel, which brought thee up out of the land of Egypt,' Exodus 32:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here he shows that the deepest dishonor done to Moses came from the nation that now professed the greatest jealousy for his honor."
 2. "In their hearts turned back... into Egypt." - "Stephen would have his hearers read the downward career on which they were themselves entering."
 
@@ -51,4 +51,4 @@ The Israelites, in their journey towards the Promised Land, experienced a deep s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

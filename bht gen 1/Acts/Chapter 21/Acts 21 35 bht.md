@@ -9,7 +9,7 @@ In this verse, commentators provide insights into the physical setting of the ev
 2. "The description of the tower or fort Antonia in Jos. B. J. v. 5. 8, sets the scene vividly before us."
 3. "The tower was connected to the temple by passageways, which the guards used to patrol and keep watch during festivals."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Away with him" - This quote highlights the rejection and hostility Jesus faced from those who wanted him to be removed. It emphasizes the opposition he encountered during his crucifixion and the lack of acceptance he received from the people.
 
 2. "As before of his Lord" - This quote draws attention to the parallel between Jesus being rejected by the people and how he was also rejected by his own disciples and even denied by Peter. It emphasizes the betrayal and abandonment Jesus experienced from those closest to him.
@@ -42,4 +42,4 @@ In this verse, commentators provide insights into the physical setting of the ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

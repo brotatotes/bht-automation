@@ -4,7 +4,7 @@
 In this awe-inspiring verse, the Son of man, appearing in His personal and divine glory, will come with a grand retinue of holy angels. Sitting upon His glorious and majestic throne, He will come as a king and judge to establish perfect order, crush His enemies, and reward His faithful subjects. Contemplating this heavenly revelation, we are called to encourage ourselves in the hope of the heavenly life, patiently awaiting the day when Christ will openly manifest His finished victory and reign with surpassing majesty and grandeur.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When the Son of man shall come in his glory—His personal glory." 
 2. "And all the holy angels with him—See Deuteronomy 33:2; Daniel 7:9; Daniel 7:10; Judges 1:14; Hebrews 1:6; 1 Peter 3:22." 
 3. "Then shall he sit upon the throne of his glory—the glory of His judicial authority."
@@ -38,4 +38,4 @@ In this awe-inspiring verse, the Son of man, appearing in His personal and divin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

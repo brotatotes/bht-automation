@@ -11,7 +11,7 @@ In this verse, Jesus rebukes and humiliates a group of individuals, leaving them
 
 3. "Jesus' actions demonstrated that he saw the crowd as more deserving of his attention, while the rebuked individuals were left feeling unworthy." - Euthymius Zigabenus
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, having put them down, turns to the multitude, who at this time were prepared to drink in everything He said."
 2. "With admirable plainness, strength, and brevity, [Jesus] lays down the great principle of real pollution."
 3. "A world of bondage and uneasiness of conscience would be dissipated in a moment, and the sense of sin be reserved for deviations from the holy and eternal law of God."
@@ -35,4 +35,4 @@ In this verse, Jesus rebukes and humiliates a group of individuals, leaving them
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the face of an impending spiritual battle, the apostles were warned of Satan'
 2. "This must include Judas, though it does not follow that he was present."
 3. "The sifting separated the chaff from the wheat, which chaff he was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simon, Simon—desired to have—rather, 'hath obtained you,' properly 'asked and obtained'; alluding to Job...that he might sift him as wheat." 
 2. "Insinuating as 'the accuser of the brethren'...that he would find chaff enough in his religion, if indeed there was any wheat at all." 
 3. "You—not Peter only, but them all."
@@ -57,4 +57,4 @@ In the face of an impending spiritual battle, the apostles were warned of Satan'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

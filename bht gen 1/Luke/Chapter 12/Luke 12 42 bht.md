@@ -9,7 +9,7 @@ In this passage, various commentators shed light on the meaning of the Bible ver
 2. "...but that its application is gradationally downwards through all those who know their Master’s will, even to the lowest, whose measure both of responsibility and of reward is more limited."
 3. "Notice that ἀπίστων here = ὑποκριτῶν in Matt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fidelity is the first requisite in a servant, wisdom (discretion and judgment in the exercise of his functions), the next."
 2. "To you certainly in the first instance, representing the 'stewards' of the 'household' I am about to collect, but generally to all 'servants' in My house."
 3. "Shall make—will deem fit to be made."
@@ -42,4 +42,4 @@ In this passage, various commentators shed light on the meaning of the Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

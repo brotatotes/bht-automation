@@ -4,7 +4,7 @@
 In this verse, a heavenly messenger reveals a glorious prospect to John. Overwhelmed by the majesty and truth revealed, John is impulsively drawn to worship the angel, but is warned not to engage in idolatry. The angel reminds John that worship is reserved for God alone and that they are fellow servants with all who have the testimony of Jesus. This cautionary reminder emphasizes the importance of not allowing our emotions to overcome us and the significance of the Spirit of prophecy in bearing witness to Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John's intending to worship the angel here, as in Revelation 19:10, on having revealed to him the glory of the new Jerusalem, is the involuntary impulse of adoring joy at so blessed a prospect."
 2. "It exemplifies the corrupt tendencies of our fallen nature that even John, an apostle, should have all but fallen into 'voluntary humility and worshipping of angels,' which Paul warns us against."
 3. "We angels, and you apostles, all alike have the testimony of (bear testimony concerning) Jesus by the operation of one and the same Spirit, who enables me to show you these revelations and enables you to record them: wherefore we are fellow servants, not I your lord to be worshipped by you."
@@ -43,4 +43,4 @@ In this verse, a heavenly messenger reveals a glorious prospect to John. Overwhe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

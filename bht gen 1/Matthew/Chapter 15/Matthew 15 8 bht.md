@@ -9,7 +9,7 @@ Described in these commentaries, the Bible verse portrays a contrast between the
 2. "Its threats and promises are for all times of the Church; the particular event then foretold being but one fulfillment of those deeper and more general declarations of God."
 3. "The prophecy is nearly according to the LXX, which compare."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By putting the commandments of men on a level with the divine requirements, their whole worship was rendered vain—a principle of deep moment in the service of God."
 2. "The drivelling nature of their multitudinous observances is here pointedly exposed, in contrast with the manly observance of 'the commandment of God'."
 3. "It is implied that He had but given a specimen of the hideous treatment which the divine law received, and the grasping disposition which, under the mask of piety, was manifested by the ecclesiastics of that day."
@@ -42,4 +42,4 @@ Described in these commentaries, the Bible verse portrays a contrast between the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

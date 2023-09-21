@@ -9,7 +9,7 @@ The verse being described is one in which Jesus speaks about the mystery of the 
 2. "τοῖς ἔξω added here (= τοῖς λοιποῖς , Luke) means the multitudes those out of the circle of his followers."
 3. "τὰ πάντα γίνεται ] the whole matter is transacted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto you it is given to know the mystery of the kingdom of God." This quote highlights the privilege and special knowledge granted to the disciples. It emphasizes that they have been chosen to understand the deeper truths and secrets of God's kingdom.
 
 2. "But unto them, &c." This quote suggests that there are those who are not granted the same understanding as the disciples. It implies that not everyone will have access to the same level of insight and revelation about the kingdom of God.
@@ -49,4 +49,4 @@ The verse being described is one in which Jesus speaks about the mystery of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

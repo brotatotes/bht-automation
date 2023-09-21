@@ -4,7 +4,7 @@
 The Bible verse describes the hopeful anticipation of creation to be delivered from its present state of decay and corruption. The suffering and longing of nature are not in vain, but serve a purpose in the plan of redemption. This future deliverance will bring about a glorious freedom, not only for humanity but also for the creation itself. The connection between mankind's fall and the bondage experienced by the created world is evident, yet there is a sense of hope that one day the entire creation will experience the glorious liberty it was meant to enjoy in its original state.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The creation itself shall, in a glorious sense, be delivered into that freedom from debility and decay in which the children of God, when raised up in glory, shall expatiate."
 2. "Into this freedom from corruptibility the creation itself shall, in a glorious sense, be delivered."
 3. "The creation itself shall be delivered from the bondage of corruption, its bondage to the principle of decay."
@@ -50,4 +50,4 @@ The Bible verse describes the hopeful anticipation of creation to be delivered f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

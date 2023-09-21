@@ -9,7 +9,7 @@ After bidding farewell to their loved ones at Miletus, the group, torn and reluc
 2. "εὐθυδρομ. See ref., having run before the wind."
 3. "Rhodes was at this time free, cf. Strabo, xiv. 2; Tac. Ann. xii. 58: ‘Redditur Rbodiis libertas, adempta sæpe aut firmata, prout bellis externis meruerant, aut domi seditione deliquerant.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we were gotten—"torn."" - This quote highlights the emotional pain and difficulty of parting from loved ones, emphasizing the deep impact of the separation.
 2. "with a straight course—running before the wind" - This quote illustrates the smooth and efficient journey, symbolizing the favorable circumstances and guidance they experienced.
 3. "thence unto Patara—a town on the magnificent mainland of Lycia" - This quote provides geographical context, describing the location of Patara and its significance as the seat of a renowned oracle of Apollo.
@@ -50,4 +50,4 @@ After bidding farewell to their loved ones at Miletus, the group, torn and reluc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

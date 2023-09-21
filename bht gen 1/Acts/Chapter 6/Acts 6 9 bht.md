@@ -9,7 +9,7 @@ In this Bible verse, we are introduced to a scene where Stephen faces opposition
 2. "It seems doubtful whether this genitive also depends on συναγωγῆς . At first sight it would seem not, from the repetition of τῶν , answering to the τῶν before."
 3. "Asia, not exactly as in ch. Acts 2:9, where it is distinguished from Phrygia, here and usually in the Acts implies Asia proconsularis, a large and important Roman province, including Mysia, Lydia, Caria, and Phrygia known also as Asia cis Taurum."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "synagogue of the Libertines—Jewish freedmen; manumitted Roman captives, or the children of such, expelled from Rome"
 2. "Cyrenians—Jews of Cyrene, in Libya, on the coast of Africa"
 3. "them of Cilicia—amongst whom may have been Saul of Tarsus"
@@ -57,4 +57,4 @@ In this Bible verse, we are introduced to a scene where Stephen faces opposition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

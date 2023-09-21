@@ -9,7 +9,7 @@ The writer passionately implores the readers to fervently pray for his restorati
 2. "τάχιον is the form of the comparative usual in later Greek: in Attic θᾶσσον is commoner."
 3. "ἐὰν ἐξαγαγὼν τοὺς ὁμήρους ἀποκαταστήσῃ τοῖς γονεῦσι καὶ ταῖς πόλεσιν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I the more abundantly beseech you." - This quote highlights the urgency and sincerity of Paul's request for the recipients to pray for him. It emphasizes the importance of their support and intercession.
 2. "It is here first in the letter he mentions himself, in a way so unobtrusive." - This quote points out the subtle approach Paul takes in mentioning himself, avoiding any potential prejudice from his Hebrew readers. It shows his tact and consideration in addressing his audience.
 3. "Not to prejudice his Hebrew readers against him." - This quote reveals Paul's awareness of the potential bias or resistance he might face from his Hebrew readers. It demonstrates his desire to establish a connection and build rapport with them.
@@ -47,4 +47,4 @@ The writer passionately implores the readers to fervently pray for his restorati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

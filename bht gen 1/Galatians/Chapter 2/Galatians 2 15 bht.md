@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize that both Jews and Gentiles are 
 2. "By the works of the law shall all flesh find no justification."
 3. "It is an axiom in our theology that by the works of the law shall no flesh be justified."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We (I and thou, Peter) by nature (not by proselytism), Jews, and not sinners as (Jewish language termed the Gentiles) from among the Gentiles..."
 2. "YET (literally, 'BUT') knowing that... even we (resuming the 'we' of Galatians 2:16- :, 'we also,' as well as the Gentile sinners; casting away trust in the law), have believed..."
 3. "...casting away trust in the law."
@@ -53,4 +53,4 @@ In this Bible verse, the commentators emphasize that both Jews and Gentiles are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a future time of great distress and external threats to Jerusalem, there will be a call to immediate action and complete detachment from worldly possessions. This urgency emphasizes the need for readiness and spiritual preparedness, as one must be willing to leave everything behind and prioritize their spiritual well-being over material possessions. The verse serves as a reminder to be vigilant and aware of the signs of the times, as they indicate significant events on the horizon.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a warning against that lingering reluctance to part with present treasures"
 2. "induces some to remain in a burning house, in hopes of saving this and that precious article"
 3. "The cases here supposed, though different, are similar."
@@ -55,4 +55,4 @@ In a future time of great distress and external threats to Jerusalem, there will
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

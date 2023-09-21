@@ -4,7 +4,7 @@
 In this verse, the commentator describes the anticipation of the marriage of the Lamb, signifying the imminent union between Christ and his Church. The commentator notes that the exact nature of this union is not fully understood, even by the righteous in paradise. The verse also prompts believers to reflect on the purity of heart required to contemplate these spiritual truths. Overall, the verse alludes to the profound significance of this divine union and the depth of its meaning.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The elect-Church, the heavenly Bride, soon after the destruction of the harlot, is transfigured at the Lord's coming, and joins with Him in His triumph over the beast."
 2. "Perfect union with Him personally, and participation in His holiness; joy, glory, and kingdom, are included in this symbol of 'marriage'."
 3. "Besides the heavenly Bride, the transfigured, translated, and risen Church, reigning over the earth with Christ, there is also the earthly bride, Israel, in the flesh, never yet divorced, though for a time separated, from her divine husband, who shall then be reunited to the Lord, and be the mother Church of the millennial earth, Christianized through her."
@@ -49,4 +49,4 @@ In this verse, the commentator describes the anticipation of the marriage of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

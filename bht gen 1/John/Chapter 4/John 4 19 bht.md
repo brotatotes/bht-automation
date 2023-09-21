@@ -9,7 +9,7 @@ From the commentaries, we gather that the verse describes a profound encounter b
 2. "The idea of her endeavoring to escape from the Lord's rebuke is quite inconsistent with her recognition of Him as a prophet."
 3. "Rather we may suppose a pause, which makes it evident that He does not mean to proceed further with His laying open of her character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How slowly does the human heart submit to thorough humiliation!"
 2. "The Prince of preachers takes another method: He humors the poor woman, letting her take her own way, allowing her to lead while He follows—but thus only the more effectually gaining His object."
 3. "He answers her question, pours light into her mind on the spirituality of all true worship, as of its glorious Object, and so brings her insensibly to the point at which He could disclose to her wondering mind whom she was all the while speaking to."
@@ -53,4 +53,4 @@ From the commentaries, we gather that the verse describes a profound encounter b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

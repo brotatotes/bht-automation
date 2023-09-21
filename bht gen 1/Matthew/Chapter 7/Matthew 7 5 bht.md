@@ -9,7 +9,7 @@ In this verse, Jesus admonishes against hypocrisy and urges self-reflection befo
 2. "ὡς προφάσει μὲν διορθώσεως τὸ ἀλλότριον σφάλμα πολυπραγμονοῦντα, σκοπῷ δὲ κατακρίσεως τοῦτο ποιοῦντα" - The hypocrite pretends to correct others' faults while actually seeking to condemn them.
 3. "ἐκβαλεῖν τὸ κάρφος to help thy brother to be rid of his fault, by doing him the best and most difficult office of Christian friendship" - The goal of seeing clearly is to assist others in overcoming their faults through genuine Christian friendship.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'hypocrisy' which, not without indignation, He charges it with, consists in the pretense of a zealous and compassionate charity, which cannot possibly be real in one who suffers worse faults to lie uncorrected in himself."
 2. "He only is fit to be a reprover of others who jealously and severely judges himself."
 3. "Such persons will not only be slow to undertake the office of censor on their neighbors, but, when constrained in faithfulness to deal with them, will make it evident that they do it with reluctance and not satisfaction, with moderation and not exaggeration, with love and not harshness."
@@ -52,4 +52,4 @@ In this verse, Jesus admonishes against hypocrisy and urges self-reflection befo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

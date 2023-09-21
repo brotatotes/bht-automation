@@ -9,7 +9,7 @@ In this verse, Jesus teaches the importance of discernment in relationships and 
 2. "O that all Christians would remember this!"
 3. "Still, there is a propriety, a tempering the rebuke with a gracious reminiscence of their unity with Him, and something exceedingly suiting the χριστοῦ ἐστέ below, in ἡμῶν ἡμῶν ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No one will readily speak evil of Me who has the faith to do a miracle in My name."
 2. "If such a person cannot be supposed to be against us, ye are to consider him for us."
 3. "Simply teaches how such a person was to be regarded, namely, as a reverer of His name and a promoter of His cause."
@@ -49,4 +49,4 @@ In this verse, Jesus teaches the importance of discernment in relationships and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse encourages us to have an unwavering spirit of gratitude, offering thanks to God in all circumstances, whether they are blessings or adversities. We are reminded that every good thing we have comes from God, who is the ultimate source of every blessing in our lives. Through our relationship with Jesus Christ, we have access to all things, enabling us to overcome challenges and find comfort even in distress. The verse also emphasizes the importance of expressing our gratitude to God through praise and thanksgiving, recognizing that these should be the focal points of our worship.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "thanks . . . for all things—even for adversities; also for blessings, unknown as well as known" - This quote highlights the importance of gratitude in all circumstances, whether they are positive or negative. It encourages us to give thanks to God for everything in our lives, even the challenges and hardships we face.
 
 2. "unto God and the Father—the Fountain of every blessing in Creation, Providence, Election, and Redemption" - This quote emphasizes that God is the ultimate source of all blessings in our lives. It reminds us that everything we have comes from Him, and we should acknowledge Him as the giver of every good thing.
@@ -49,4 +49,4 @@ The verse encourages us to have an unwavering spirit of gratitude, offering than
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse in question sheds light on the character of the Cretans, who were infa
 
 3. "The appellation 'prophet' seems to have belonged to him in its literal sense... giving instances of his prophetic power." - This quote suggests that Epimenides was recognized as a prophet due to his ability to foresee future events, as mentioned by ancient writers such as Cicero and Apuleius.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To Cretanize" was proverbial for to lie: as "to Corinthianize" was for to be dissolute.
 2. "Not merely at times, as every natural man is. Contrast 1 Corinthians 15:33- :, 'God that cannot lie.' They love 'fables' (Titus 1:14); even the heathen poets laughed at their lying assertion that they had in their country the sepulchre of Jupiter."
 3. "Crete was a country without wild beasts. Epimenides' sarcasm was that its human inhabitants supplied the place of wild beasts."
@@ -60,4 +60,4 @@ The verse in question sheds light on the character of the Cretans, who were infa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

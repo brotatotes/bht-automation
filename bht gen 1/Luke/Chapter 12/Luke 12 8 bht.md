@@ -4,7 +4,7 @@
 This verse encourages believers to openly and sincerely confess their faith in Jesus. It assures them that Jesus himself will acknowledge and affirm them before the angels of God on the day of judgment. The angels will witness this recognition as Jesus fulfills his promise to honor and openly confess those who have remained faithful to him, demonstrating the genuine and authentic nature of their devotion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The point lies in doing it 'before men,' because one has to do it 'despising the shame.'" 
 2. "But when done, the Lord holds Himself bound to repay it in kind by confessing such 'before the angels of God.'" 
 3. "For the rest, see on [previous verse]."
@@ -34,4 +34,4 @@ This verse encourages believers to openly and sincerely confess their faith in J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

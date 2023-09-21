@@ -9,7 +9,7 @@ This verse emphasizes the significance of effective communication in order to ed
 2. "The second ἐάν is parallel to the first, not dependent on ὠφελήσω. It is the negative side of the supposition."
 3. "The ground of προφητεία is ἀποκάλυψις, and that of διδαχή, γνῶσις: the former being a direct speaking in the Spirit, and the latter a laying forth by the aid of the Spirit of knowledge acquired."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no edification without interpretation."
 2. "Revelation is the supernatural unveiling of divine truths to man."
 3. "Prophesying is the enunciation to men of such revelations."
@@ -53,4 +53,4 @@ This verse emphasizes the significance of effective communication in order to ed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

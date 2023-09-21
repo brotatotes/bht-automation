@@ -4,7 +4,7 @@
 This commentary underscores the profound impact of internal impurities compared to external actions. It highlights the consequences of harboring evil within oneself, as it corrupts both body and soul, leading to guilt and eternal punishment. The commentator also emphasizes that neglecting to perform certain rituals, like washing hands before a meal, does not carry the same weight of moral defilement. Instead, the focus is on recognizing and repenting of the inherently sinful and abominable actions that only the blood of Christ can cleanse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These are the things which defile a man: but to eat with unwashen hands defileth not a man." - This quote highlights the main point of the commentary, emphasizing that external actions or rituals do not determine a person's defilement. 
 2. "Thus does our Lord sum up this whole searching discourse." - This quote suggests that the commentary provides a comprehensive analysis of the topic, leading to the conclusion stated by Jesus. 
 3. "THE WOMAN OF CANAAN AND HER DAUGHTER." - This quote indicates that the commentary includes an exposition on the story of the woman of Canaan and her daughter, likely providing further insights or interpretations related to the verse.
@@ -30,4 +30,4 @@ This commentary underscores the profound impact of internal impurities compared 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

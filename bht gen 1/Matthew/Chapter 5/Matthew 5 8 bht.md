@@ -9,7 +9,7 @@ The Bible verse being described is about the blessedness of those who possess in
 2. "The καθ. τῇ κ. are οἱ ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς."
 3. "But there is also allusion to the nearer vision of God attained by progressive sanctification, of which St. Paul speaks, begun indeed in this life, but not perfected till the next."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This heart purity begins in a 'heart sprinkled from an evil conscience,' or a 'conscience purged from dead works'... The conscience thus purged—the heart thus sprinkled—there is light within wherewith to see God." 
 2. "The inward vision thus clarified, and the whole inner man in sympathy with God, each looks upon the other with complacency and joy."
 3. "But the full and beatific vision of God is reserved for that time to which the Psalmist stretches his views—'As for me, I shall behold Thy face in righteousness: I shall be satisfied, when I awake, with Thy likeness'."
@@ -54,4 +54,4 @@ The Bible verse being described is about the blessedness of those who possess in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

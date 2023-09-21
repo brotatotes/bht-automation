@@ -9,7 +9,7 @@ The Bible verse being described is a warning about the seriousness of rejecting 
 2. "The greater punishment includes the less." 
 3. "His death is an event contingent on, added to, the fact of two or three witnesses appearing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Despised—'set at naught': utterly and heinously violated, not merely some minor detail, but the whole law and covenant." 
 2. "Apostasy answers to such an utter violation of the old covenant." 
 3. "Without mercy—literally, 'mercies': removal out of the pale of mitigation, or a respite of his doom."
@@ -57,4 +57,4 @@ The Bible verse being described is a warning about the seriousness of rejecting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The commentators provide insights into a Bible verse discussing the relationship between the law, righteousness, and sin. They highlight how the law serves as a restraint for the wicked, exposing their sinfulness and the need for redemption. The verse emphasizes that the law does not burden or condemn righteous individuals, but rather targets those who act lawlessly and disobediently. It addresses those who violate the first and second commandments, showing the importance of recognizing God's authority and worshipping Him alone.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For sanctification, the law gives no inward power to fulfill it; but as the justified man often does not give himself up wholly to the inward leading of the Spirit, he morally needs the outward law to show him his sin and God's requirements."
 2. "The reason why the ten commandments have no power to condemn the Christian is not that they have no authority over him, but because Christ has fulfilled them as our surety."
 3. "The opposers of God, from the law comes; those inwardly impure, and those deserving exclusion from the outward participation in services of the sanctuary; sinners against the third and fourth commandments; sinners against the fifth commandment; sinners against the sixth commandment."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite technical and specific to the Greek langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

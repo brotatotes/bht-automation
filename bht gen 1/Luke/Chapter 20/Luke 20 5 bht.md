@@ -4,7 +4,7 @@
 The verse in question presents a thought-provoking question to the individuals involved, challenging their lack of faith in John the Baptist's testimony about Jesus. Through their reasoning and internal deliberation, they grapple with the consequences of their disbelief. The verse highlights the importance of believing in the witness of others and underscores the significance of John the Baptist's testimony as the culmination of his ministry. If they had fully believed in his message regarding the Messiah, the question posed would have been rendered unnecessary.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why then believed ye him not?" - This question challenges the lack of faith in the testimony of John the Baptist regarding Jesus. It highlights the importance of belief in the witness of others and the need to trust in the words of those who testify to the truth.
 
 2. "In his testimony to Jesus, the sum of his whole witness." - This phrase emphasizes that John the Baptist's testimony about Jesus was the culmination of his entire ministry. It underscores the significance of John's witness and the weight it should carry in influencing one's belief in Jesus.
@@ -32,4 +32,4 @@ The verse in question presents a thought-provoking question to the individuals i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

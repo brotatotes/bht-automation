@@ -11,7 +11,7 @@ In this Bible verse, a woman, who is wise and understands the words spoken to he
 
 3. "of his ultimate resurrection" - This phrase emphasizes the specific aspect of resurrection being referred to in the conversation. It distinguishes it as the ultimate resurrection, implying a significant event that holds great importance and significance.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Martha's statement reveals her faith in the resurrection and her understanding of the future hope that believers have in Christ."
 2. "Martha's words reflect the common belief among Jews at that time that there would be a general resurrection at the end of the age."
 3. "Martha's statement also reveals her limited understanding of Jesus' power and authority, as she did not yet grasp the concept of Jesus as the resurrection and the life."
@@ -52,4 +52,4 @@ In this Bible verse, a woman, who is wise and understands the words spoken to he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

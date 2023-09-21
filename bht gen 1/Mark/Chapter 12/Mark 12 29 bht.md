@@ -9,7 +9,7 @@ The verse being described emphasizes the unity and singularity of God, while als
 2. "This is faith working by love: for κ . ὁ θ . ἡμῶν is the language of faith."
 3. "The Vat. reading διανοίας and the Alex. καρδίας are combined: and ἰσχύος ═ δυνάμεως."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord here gives His explicit sanction to the distinction between commandments of a more fundamental and primary character, and commandments of a more dependent and subordinate nature."
 2. "This every devout Jew recited twice every day, and the Jews do it to this day; thus keeping up the great ancient national protest against the polytheisms and pantheisms of the heathen world."
 3. "It is the great utterance of the national faith in One Living and Personal God—'ONE JEHOVAH!'"
@@ -30,4 +30,4 @@ The verse being described emphasizes the unity and singularity of God, while als
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

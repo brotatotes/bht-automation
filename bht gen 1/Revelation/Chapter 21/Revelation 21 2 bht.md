@@ -4,7 +4,7 @@
 The Bible verse describes the majestic vision of the New Jerusalem, which encompasses the ultimate fulfillment of God's promises. It is a heavenly city, symbolizing the intimate relationship between Christ and His Church. This new metropolis represents the renovated world, adorned like a bride for her husband. It is a place of unity, purity, and joy, where God's people will dwell in a state of complete peace and prosperity for eternity. Its descent from heaven signifies the glorious act of divine fulfillment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The descent of the new Jerusalem out of heaven is plainly distinct from the earthly Jerusalem in which Israel in the flesh shall dwell during the millennium, and follows on the creation of the new heaven and earth."
 2. "Hierousaleem is a Hebrew name, the original and holy appellation. Hierosoluma is the common Greek term, used in a political sense."
 3. "There is no longer merely a Paradise as in Eden, no longer a mere garden, but now the city of God on earth, costlier, statelier, and more glorious, but at the same time the result of labor and pains such as had not to be expended by man in dressing the primitive garden of Eden."
@@ -47,4 +47,4 @@ The Bible verse describes the majestic vision of the New Jerusalem, which encomp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

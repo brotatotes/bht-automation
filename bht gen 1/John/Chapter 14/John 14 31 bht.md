@@ -9,7 +9,7 @@ In this verse, we see that Jesus willingly obeys the Father's command to give Hi
 2. "We may notwithstanding safely believe that the ἐγ . ἄγ . ἐντ ., without this connexion, does undoubtedly express the holy boldness of the Lord in going to meet that which was to come upon Him."
 3. "These words imply a movement from the table to depart. Probably the rest of the discourse, and the prayer, ch. 17, were delivered when now all were standing ready to depart."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But to the Prince of the world, though he has nothing in Me, I shall yield Myself up even unto death, that the world may know that I love and obey the Father, whose commandment it is that I give My life a ransom for many."
 
 2. "Arise, let us go hence... We think it was the dictate of that saying of earlier date, 'I have a baptism to be baptized with, and how am I straitened till it be accomplished!'—a spontaneous and irrepressible expression of the deep eagerness of His spirit to get into the conflict."
@@ -55,4 +55,4 @@ In this verse, we see that Jesus willingly obeys the Father's command to give Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

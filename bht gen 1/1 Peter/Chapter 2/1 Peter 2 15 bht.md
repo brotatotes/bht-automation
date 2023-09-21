@@ -9,7 +9,7 @@ The verse being described emphasized the importance of believers leading a life 
 2. "ἀγνωσία, see the instructive parallel, ref. 1 Cor., is not simply ignorance of this or that fact, but a state of lack of knowledge or understanding, habitual ignorance."
 3. "This state is here introduced as speaking, 'having (as Wiesinger) ever its mouth open rather than its eyes,' ready to cry out upon any mere appearance of things as misunderstood by it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Maintain such a walk that they shall have no charge against you, except touching your faith." 
 2. "Their ignorance should move the believer's pity, not his anger." 
 3. "Influenced by mere appearances, and ever ready to open their mouths, rather than their eyes and ears."
@@ -59,4 +59,4 @@ These quotes highlight the importance of understanding the ignorance and lack of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

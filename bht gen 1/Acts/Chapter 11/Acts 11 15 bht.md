@@ -9,7 +9,7 @@ In the early church's history, this significant moment echoes the opening words 
 2. "The outpouring of the Holy Spirit on the Gentiles in this verse signifies the breaking down of barriers and the inclusion of all people in the kingdom of God."
 3. "This event serves as a powerful confirmation of God's acceptance of the Gentiles and His desire for them to be partakers of the same salvation as the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No mention of Cornelius' name, much less of his high position, as if that affected the question."
 2. "To the charge, 'Thou wentest in to men uncircumcised,' he simply speaks of the uncircumcised 'man' to whom he had been divinely sent."
 3. "He had been divinely sent."
@@ -40,4 +40,4 @@ In the early church's history, this significant moment echoes the opening words 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

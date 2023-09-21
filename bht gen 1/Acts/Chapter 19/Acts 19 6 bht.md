@@ -9,7 +9,7 @@ Through the laying on of hands, believers receive the continuous outpouring of t
 2. "The manifestation of speaking in tongues is a sign of the Holy Spirit's presence and power." 
 3. "The Holy Spirit empowers believers to boldly proclaim the gospel and testify to the truth of Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The laying on of hands was a significant act in the early church, symbolizing the impartation of spiritual gifts and authority. In this case, it resulted in the manifestation of speaking in tongues, which was a sign of the Holy Spirit's presence and power." 
 
 2. "Speaking in tongues was not a random or meaningless babble, but a supernatural ability to speak in languages unknown to the speaker. It served as a powerful testimony to the reality and work of the Holy Spirit among believers."
@@ -40,4 +40,4 @@ Through the laying on of hands, believers receive the continuous outpouring of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

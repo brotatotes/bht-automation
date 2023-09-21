@@ -4,7 +4,7 @@
 The verse being described is a proverbial expression about the power of influence and the potential for corruption. It warns against underestimating the impact of even a small amount of error or false teaching, as it can spread and corrupt an entire group or community. This idea is compared to leaven, which can permeate and transform a lump of dough. It reminds readers to be discerning, proactive, and aware of the potential consequences of their actions and beliefs.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A small portion of legalism, if it be mixed with the Gospel, corrupts its purity."
 2. "To add legal ordinances and works in the least degree to justification by faith, is to undermine 'the whole.'"
 3. "So 'leaven' is used of false doctrine."
@@ -56,4 +56,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

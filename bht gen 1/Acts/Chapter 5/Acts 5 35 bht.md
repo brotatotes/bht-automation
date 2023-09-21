@@ -9,7 +9,7 @@ In this Bible verse, commentators speak of the need for caution and deliberation
 2. "The transposition of words is not unexampled in the Acts, see ch. Acts 1:2; Acts 19:4."
 3. "The latter would give the more usual construction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Theudas—not the same with a deceiver of that name whom JOSEPHUS mentions as heading an insurrection some twelve years after this." 
 2. "Such insurrections were frequent." 
 3. "Some other of whom he makes no mention."
@@ -35,4 +35,4 @@ In this Bible verse, commentators speak of the need for caution and deliberation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

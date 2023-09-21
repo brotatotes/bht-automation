@@ -9,7 +9,7 @@ Urged by an intense sense of duty and a strong connection to the Holy Spirit, Pa
 2. "He was bound, by the Spirit of God leading captive, constraining, his own spirit."
 3. "He had no detailed knowledge of futurity nothing but what the Holy Spirit, in general forewarning, repeated at every point of his journey."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I" is emphatic here.
 2. This internal pressure, unattended with any knowledge of "what was to befall him there," was the result of that higher guidance which shaped all his movements.
 3. This internal pressure, unattended with any knowledge of "what was to befall him there," was the result of that higher guidance which shaped all his movements.
@@ -55,4 +55,4 @@ Urged by an intense sense of duty and a strong connection to the Holy Spirit, Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

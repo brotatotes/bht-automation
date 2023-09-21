@@ -4,7 +4,7 @@
 In this verse, we see the principle of multiplication and growth emphasized. The parable teaches us that when we are faithful with what we have been given, we can experience an increase in blessings and opportunities. It doesn't matter how much or how little we start with; what matters is our willingness to use and multiply what has been entrusted to us. Our efforts and labor, under the divine blessing, will be rewarded and accepted by our Lord, regardless of the initial amount we were given.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each doubling what he received" - This quote highlights the principle of multiplication and growth in the context of the parable. It emphasizes the idea that when we are faithful with what we have been given, we can experience an increase in blessings and opportunities.
 
 2. "Both equally faithful" - This quote emphasizes the equality of the two servants who received different amounts. It suggests that faithfulness is not measured by the quantity of what we have, but rather by our willingness to use and multiply what has been entrusted to us.
@@ -20,4 +20,4 @@ In this verse, we see the principle of multiplication and growth emphasized. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

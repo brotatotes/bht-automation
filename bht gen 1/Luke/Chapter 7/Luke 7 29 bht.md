@@ -4,7 +4,7 @@
 The commentators highlight the significance of John the Baptist's ministry and Jesus' baptism. They emphasize that through John's preaching, the common people and even notorious sinners acknowledged the wisdom and righteousness of God's preparatory ministry. However, the religious leaders, in refusing John's baptism and rejecting Jesus' proclamation, disregarded God's merciful plan and brought about their own destruction. Jesus, by being baptized, vindicated and affirmed the righteousness of God's will. His act served as a public declaration, demonstrating His humility, identification with humanity, and fulfillment of all righteousness as He initiated His ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They acknowledged the divine wisdom of such a preparatory ministry as John's, in leading them to Him who now spake to them."
 2. "The publicans—a striking clause."
 3. "The Pharisees and lawyers, true to themselves in refusing the baptism of John, set at naught also the merciful design of God in the Saviour Himself, to their own destruction."
@@ -42,4 +42,4 @@ The commentators highlight the significance of John the Baptist's ministry and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, there is an emphasis on the unity and oneness that believers have
 2. "One faith (in that one Lord: the subjective medium by which that one Lord is apprehended and appropriated: not ‘fides quæ creditur,’ but ‘fides quâ creditur:’ but it is necessarily understood, that this subjective faith has for its object the One Lord just mentioned)." 
 3. "One baptism (the objective seal of the subjective faith, by which, as a badge, the members of Christ are outwardly and visibly stamped with His name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith" is not here that which we believe, but the act of believing, the mean by which we apprehend the "one Lord." (1 Corinthians 12:13)
 2. "Baptism" is specified, being the sacrament whereby we are incorporated into the "one body." (1 Corinthians 12:13)
 3. The Church is one in unity of faith, unity of origination, unity of sacraments, unity of "hope," unity of charity, and unity (not uniformity) of discipline and government. (Ephesians 4:5; Judges 1:3; Ephesians 2:19-21; Titus 1:2; Ephesians 4:3)
@@ -61,4 +61,4 @@ These quotes highlight the emphasis on unity in the commentary, emphasizing that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

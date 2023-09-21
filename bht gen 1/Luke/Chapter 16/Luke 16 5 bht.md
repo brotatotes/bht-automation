@@ -9,7 +9,7 @@ In this passage, a steward is portrayed as dealing with debtors, suggesting his 
 2. "τοῦ κ. ἑαυτοῦ, of his own lord, shewing the unprincipled boldness of his plan for saving himself."
 3. "He robbed his own father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Deducting a half from the debt of the one, and a fifth from that of the other." This quote highlights the specific amounts by which the debts were reduced, emphasizing the fairness and generosity of the forgiveness offered.
 
 2. "Fifty . . . fourscore." This quote provides the numerical range of the debts, indicating that they were significant amounts. It helps to emphasize the magnitude of the forgiveness extended by the master.
@@ -39,4 +39,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

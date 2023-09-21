@@ -11,7 +11,7 @@ In this powerful passage, the immense force and urgency of Jesus' ministry is vi
 
 3. "These words highlight the dynamic and powerful nature of the events described. They convey a sense of urgency, intensity, and the need for immediate action."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Net brake" refers to the breaking or tearing of the net, indicating the immense amount of fish caught. 
 
 2. The phrase "net brake" implies that the net was not able to contain the abundance of fish, highlighting the miraculous nature of the catch. 
@@ -58,4 +58,4 @@ Overall, the commentary sheds light on the magnitude of the catch and the challe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

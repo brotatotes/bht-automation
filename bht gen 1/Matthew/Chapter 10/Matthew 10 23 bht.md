@@ -4,7 +4,7 @@
 The verse being described emphasizes the urgency and limited time frame for the disciples to spread the message of Jesus to all the cities of Israel. It encourages them not to be discouraged by persecution but to persist in their mission, making haste and reaching as many people as possible. The completion of their mission is tied to the coming of Jesus, implying that they need to act swiftly before a significant event takes place. The verse highlights the importance and urgency of the disciples' task in fulfilling their mission before the Son of man comes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This, though applicable to all time, and exemplified by our Lord Himself once and again, had special reference to the brief opportunities which Israel was to have of 'knowing the time of His visitations.'"
 2. "What will startle you, but at the same time show you the solemnity of your mission, and the need of economizing the time for it."
 3. "To understand this...seems almost trifling. 'The coming of the Son of man' has a fixed doctrinal sense, here referring immediately to the crisis of Israel's history as the visible kingdom of God, when Christ was to come and judge it."
@@ -45,4 +45,4 @@ The verse being described emphasizes the urgency and limited time frame for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

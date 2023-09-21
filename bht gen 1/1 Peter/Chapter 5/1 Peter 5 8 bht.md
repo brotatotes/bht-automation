@@ -9,7 +9,7 @@ In the Bible verse being described, believers are urged to maintain sobriety of 
 2. "Can it be that Peter thought of his Lord’s οὕτως οὐκ ἰσχύσατε μίαν ὥραν γρηγορῆσαι μετ ʼ ἐμοῦ, on the fatal night when he denied Him?"
 3. "Your great and well-known adversary: 'ut sciant, hac lege se Christi fidem profiteri, ut cum diabolo continuum bellum habeant. Neque enim membris parcet, qui cum capite prœliatur,' Calv."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be sober, that is, self-restrained. Yet, lest this freedom from care should lead any to false security, he adds, 'Be vigilant' against 'your adversary.' Let this be your 'care.' God provides, therefore do not be anxious. The devil seeks, therefore watch." 
 
 2. "The broken and disjointed sentences are more fervid and forcible."
@@ -59,4 +59,4 @@ These quotes collectively shed light on the urgency of remaining watchful, the f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

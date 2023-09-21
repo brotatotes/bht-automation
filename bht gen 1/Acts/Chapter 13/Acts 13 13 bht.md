@@ -9,7 +9,7 @@ When Paul and his companions departed from Paphos and arrived in Antioch of Pisi
 2. "The inhabitants of Pamphylia were nearly allied in character to those of Cilicia."
 3. "John probably took the opportunity of some ship sailing from Perga."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perga was the metropolis of Pamphylia, on the river Cestrus, and about seven miles inland from Attalia." 
 2. "Paul afterwards peremptorily refused to take Mark with him on his second missionary journey, because he 'had departed [or 'fallen off'] from them and had not gone with them to the work.'" 
 3. "There can be no doubt that he had either wearied of it or been deterred by the prospect of the dangers which lay before him."
@@ -55,4 +55,4 @@ When Paul and his companions departed from Paphos and arrived in Antioch of Pisi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

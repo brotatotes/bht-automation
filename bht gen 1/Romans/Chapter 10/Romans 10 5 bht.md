@@ -9,7 +9,7 @@ The verse being described highlights the connection between righteousness and li
 2. "As regards the life here promised, the Jewish interpreters themselves included in it more than mere earthly felicity in Canaan, and extended their view to a better life hereafter."
 3. "In the N. T., this idea (of life) is always exalted into that of life blessed and eternal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses describeth the righteousness which is of the law, That the man that doeth those things hath done, which it commands." 
 2. "This is the one way of justification and life—by 'the righteousness which is of (or, by our own obedience to) the law.'" 
 3. "The law demands perfect obedience, and it promises life to those who perfectly obey it."
@@ -59,4 +59,4 @@ These quotes highlight the connection between Paul's teachings and the Old Testa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

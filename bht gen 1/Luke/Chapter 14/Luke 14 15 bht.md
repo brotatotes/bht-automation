@@ -9,7 +9,7 @@ This passage describes a man expressing his anticipation of feasting in the futu
 2. "φάγεται is a future tense verb, indicating that the action of eating will happen in the future." 
 3. "The contraction of φάγεται from φαγήσεται is a common linguistic phenomenon in Greek."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The great Feast is prepared already the invitations are issued, but declined; the feast, notwithstanding, shall not want abundance of guests; but not one of its present contemners—who shall yet come to sue for admission—shall be allowed to taste of it."
 2. "This shows what was lacking in the seemingly pious exclamation of this man. It was Balaam's, 'Let me die the death of the righteous, and let my last end be like his' (Numbers 23:10), without any anxiety about living his life; fondly wishing that all were right with him at last, while all heedless of the precious present."
 3. "The thought passes through this man's mind, how blessed they would be who should be honored to sit down to it."
@@ -49,4 +49,4 @@ This passage describes a man expressing his anticipation of feasting in the futu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

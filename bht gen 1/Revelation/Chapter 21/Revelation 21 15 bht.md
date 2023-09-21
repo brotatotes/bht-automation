@@ -4,7 +4,7 @@
 The Bible verse being described is about the measuring of the city, its walls, and its gates with a golden reed. Commentators explain that, through this measurement, the city's noble proportions, conformity to God's word, and glorious state are revealed. The use of a golden reed signifies the divine standard. These measurements symbolize the perfect and just nature of God's judgment, as well as the preparation of the city for a multitude of inhabitants in a state of glory and spiritual bodies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the non-measuring of the outer courts of the temple implied its being given up to secular and heathen desecration."
 2. "the city being measured implies the entire consecration of every part, all things being brought up to the most exact standard of God's holy requirements."
 3. "God's accurate guardianship henceforth of even the most minute parts of His holy city from all evil."
@@ -45,4 +45,4 @@ The Bible verse being described is about the measuring of the city, its walls, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

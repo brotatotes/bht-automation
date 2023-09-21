@@ -9,7 +9,7 @@ In this verse, believers are exhorted to live wisely, understanding the will of 
 2. "Be not senseless, but understand."
 3. "Know intelligently what is the will of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wherefore—seeing that ye need to walk so circumspectly, choosing and using the right opportunity of good."
 2. "unwise—a different Greek word from that in :-. Translate, 'foolish,' or 'senseless.'"
 3. "understanding—not merely knowing as a matter of fact (:-), but knowing with understanding."
@@ -56,4 +56,4 @@ In this verse, believers are exhorted to live wisely, understanding the will of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

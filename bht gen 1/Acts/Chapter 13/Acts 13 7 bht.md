@@ -9,7 +9,7 @@ The Bible verse describes a proconsul named Sergius Paulus, the governor of the 
 2. "The imperial provinces, on the other hand, were governed by a military officer, a Proprætor or Legatus of the Emperor who was girded with the sword, and not revocable unless by the pleasure of the Emperor."
 3. "The title of Proconsul is found on Cyprian coins, both in Greek and Latin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This name was reserved for the governors of settled provinces, which were placed under the Roman Senate, and is never given in the New Testament to Pilate, Felix, or Festus, who were but procurators, or subordinate administrators of unsettled, imperial, military provinces."
 2. "In most striking confirmation of this minute accuracy of the sacred historian, coins have actually been found in the island, stamped with the names of proconsuls, both in Greek and Latin."
 3. "Sergius Paulus, a prudent man—an intelligent man, who thirsting for truth, sent for Barnabas and Saul, desiring ('earnestly desiring') to hear the Word of God."
@@ -59,4 +59,4 @@ These quotes highlight Sergius Paulus' search for a deeper understanding of God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the future fulfillment of God's plan to bring all nations to worship and fear Him. Through Christ's judgment and presence, hearts will be opened to receive His mercy. The judgments and punishments inflicted on wicked powers will teach people to honor and revere God. With His perfect holiness and infinite nature, God will be the sole object of worship for people from all walks of life. This universal worship will be a result of the manifestation of God's truth, as the Gospel is preached to all nations, filling the earth with knowledge of Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The conversion of all nations, therefore, shall be when Christ shall come, and not till then; and the first moving cause will be Christ's manifested judgments preparing all hearts for receiving Christ's mercy."
 2. "He shall effect by His presence what we have in vain tried to effect in His absence."
 3. "The confederacy of 'the apostates against Christ becomes, when overthrown with fearful judgments, the very means in God's overruling providence of preparing the nations not joined in the Antichristian league to submit themselves to Him."
@@ -35,4 +35,4 @@ In this verse, the commentators highlight the future fulfillment of God's plan t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

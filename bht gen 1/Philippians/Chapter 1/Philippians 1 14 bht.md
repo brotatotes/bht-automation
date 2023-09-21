@@ -9,7 +9,7 @@ The brethren, both within and outside the church, found courage in the author's 
 2. "Having confidence in my bonds." 
 3. "Are venturing more abundantly to speak the word of God fearlessly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the Lord," distinguishes them from "brethren after the flesh," Jewish fellow countrymen. ELLICOTT translates, "Trusting in the Lord." 
 2. "By my bonds—encouraged by my patience in bearing my bonds."
 3. "Much more bold—Translate as Greek, 'are more abundantly bold.'"
@@ -57,4 +57,4 @@ The brethren, both within and outside the church, found courage in the author's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse involves the use of the word "καί" as an introduction to the concl
 2. "The use of καί in this context serves as a marker for the conclusion or result of the preceding statement." 
 3. "By using καί, the author is emphasizing the logical connection between the two clauses and highlighting the inevitable outcome of the preceding action."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "immediately recognizing in the child, with unhesitating certainty, the promised Messiah"
 2. "without needing Mary to inform him of what had happened to her"
 3. "The remarkable act of taking the babe in his arms... 'This is all my salvation and all my desire'" (2 Samuel 23:5).
@@ -35,4 +35,4 @@ This verse involves the use of the word "καί" as an introduction to the concl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

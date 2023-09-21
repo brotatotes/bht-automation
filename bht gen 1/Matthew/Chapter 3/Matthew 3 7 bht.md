@@ -9,7 +9,7 @@ The verse being described is a confrontation by John the Baptist towards the Pha
 2. "The two sects, mutually hostile, are found frequently in the Gospels united in opposition to our Lord; the Pharisees representing hypocritical superstition; the Sadducees, carnal unbelief."
 3. "The reference of John’s ministry to the prophecy concerning Elias would naturally suggest to men’s minds 'the wrath to come' there also foretold. It was the general expectation of the Jews that troublous times would accompany the appearance of the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O generation of vipers—'Viper brood,' expressing the deadly influence of both sects alike upon the community."
 2. "God's 'wrath,' in Scripture, is His righteous displeasure against sin, and consequently against all in whose skirts sin is found, arising out of the essential and eternal opposition of His nature to all moral evil."
 3. "In this view of it, how striking is the word he employs to express that step—fleeing from it—as of one who, beholding a tide of fiery wrath rolling rapidly towards him, sees in instant flight his only escape!"
@@ -48,4 +48,4 @@ The verse being described is a confrontation by John the Baptist towards the Pha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

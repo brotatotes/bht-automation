@@ -9,7 +9,7 @@ This verse speaks about the potential happiness and freedom from earthly cares t
 2. "It gives us the true meaning of the saying that he is giving his opinion, as 1 Corinthians 7:25; viz. not that he is speaking without inspiration, but that in the consciousness of inspiration he is giving that counsel which should determine the question."
 3. "'as well as other teachers.' Whether said with a general or particular reference, we cannot tell, from not being sufficiently acquainted with the circumstances."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "happier" - This commentary highlights the concept of happiness in relation to the verse. It suggests that following the advice given in 1 Corinthians 7:1, 28, 34, and 35 can lead to a state of greater happiness.
 
 2. "I also think" - The commentary emphasizes that the author is expressing their opinion, but it is backed by inspiration. This suggests that the advice given in the verse is not just a personal viewpoint, but carries weight and authority.
@@ -54,4 +54,4 @@ This verse speaks about the potential happiness and freedom from earthly cares t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

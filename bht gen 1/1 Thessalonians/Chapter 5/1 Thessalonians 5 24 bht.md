@@ -9,7 +9,7 @@ The described Bible verse focuses on the concept of quenching the Spirit. Quench
 2. "True to His word and calling." 
 3. "Bringing out God's office, as the Caller of his people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful—to His covenant promises." 
 2. "He that calleth you—God, the caller of His people, will cause His calling not to fall short of its designed end."
 3. "You must not look at the foes before and behind, on the right hand and on the left, but to God's faithfulness to His promises, God's zeal for His honor, and God's love for those whom He calls."
@@ -63,4 +63,4 @@ The described Bible verse focuses on the concept of quenching the Spirit. Quench
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

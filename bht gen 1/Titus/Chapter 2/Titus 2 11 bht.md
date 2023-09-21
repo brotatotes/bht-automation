@@ -9,7 +9,7 @@ The Bible verse describes the manifestation of God's grace as a transformative e
 2. "Our old difficulty of rendering σώφρων and its derivatives recurs. 'Soberly' seems here to express the adverb well, though 'sober' by no means covers the meaning of the adjective."
 3. "The passage is just as important a testimony to the divinity of our Saviour: according to (1), by asserting His possession of Deity and right to the appellation of the Highest: according to (2), even more strikingly, asserting His equality in glory with the Father, in a way which would be blasphemy if predicated of any of the sons of men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grace of God hath now been embodied in Jesus, the brightness of the Father's glory," manifested as the "Sun of righteousness," "the Word made flesh."
 2. "The Gospel dispensation is hence termed 'the day.'"
 3. "The grace...that bringeth salvation to all men hath appeared," or "been manifested."
@@ -54,4 +54,4 @@ The Bible verse describes the manifestation of God's grace as a transformative e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

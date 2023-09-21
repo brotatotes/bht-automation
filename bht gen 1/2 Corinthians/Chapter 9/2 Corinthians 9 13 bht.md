@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the importance of genuine subjection
 2. "that your ὁμολογία, (= ‘you who confess Christ,’) ‘is really and truly subject in holy obedience, as regards the gospel of Christ.’"
 3. "the genuineness of your fellowship"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The experimental proof of your Christian character, afforded by 'this ministration.'" 
 2. "Your subjection in accordance with your profession, in relation to the Gospel." 
 3. "The liberality of your contribution in relation to them."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite fragmented and lacks a clear structure. A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse emphasizes the disciples' role as messengers of the Name, calling the
 
 3. "By using ἐπί, the verse implies that the disciples were actively engaging in conversations centered around the Name, rather than passively mentioning it." This quote sheds light on the active involvement of the disciples in discussing and exploring the significance of the Name.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the ultimate authority that believers should recognize and submit to: God. It challenges us to question whether it is right to prioritize human opinions and traditions over the commands and teachings of God."
 2. "By posing the question 'judge ye,' the verse emphasizes the individual responsibility of each person to discern and make a decision regarding the authority they choose to follow. It encourages believers to critically evaluate the sources of guidance in their lives."
 3. "This verse reminds us that our loyalty and obedience should be directed towards God above all else. It prompts us to examine our own hearts and actions, ensuring that we are not compromising our faith by giving precedence to human authority over divine authority."
@@ -46,4 +46,4 @@ This verse emphasizes the disciples' role as messengers of the Name, calling the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

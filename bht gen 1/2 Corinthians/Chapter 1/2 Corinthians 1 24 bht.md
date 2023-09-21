@@ -4,7 +4,7 @@
 The verse being described is a reminder of the limitations of ministers in relation to the faith of believers. It emphasizes that ministers do not have dominion over the faith of others, as faith is a gift from God. Instead, their role is to support and assist in the joy and growth of faith. This commentary illuminates the humble and supportive nature of the ministerial role, highlighting the importance of promoting happiness and fostering a sense of community.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith" is here emphatic. He had "dominion" or a right to control them in matters of discipline, but in matters of "faith" he was only a "fellow helper of their joy."
 2. His desire is to cause them not sorrow, but "joy."
 3. "By faith ye stand"; therefore it is that I bestow such pains in "helping" your faith, which is the source of all true "joy."
@@ -47,4 +47,4 @@ The verse being described is a reminder of the limitations of ministers in relat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

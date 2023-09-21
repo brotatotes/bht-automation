@@ -9,7 +9,7 @@ The Bible verse being described portrays the distinct roles of men and women. Co
 2. "The man is the image of God, having been created first, directly, and in a special manner: the woman indirectly, only through the man."
 3. "Man is God's glory: He represents God on earth. Woman is man's glory: shining not with light direct from God, but with light derived from man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Man is the representative of God's 'glory' this ideal of man being realized most fully in the Son of man." 
 2. "Man is declared in Scripture to be both the 'image,' and in the 'likeness,' of God." 
 3. "But as the moon in relation to the sun, so woman shines not so much with light direct from God, as with light derived from man."
@@ -53,4 +53,4 @@ The Bible verse being described portrays the distinct roles of men and women. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

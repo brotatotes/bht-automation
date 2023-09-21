@@ -9,7 +9,7 @@ In this verse, the commentator quotes various perspectives on the roles and rela
 2. "If any distinction is to be made between the two words, it would rather seem to be the opposite of that laid down by Schulz and others: ἱερατεία seems more to denote the service of the priest, ἱερωσύνη the office and power."
 3. "Those of the sons of Levi, when they are invested with the priesthood, receive commandment to tithe the people according to the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tithes originally paid to the whole tribe of Levi, became at length attached to the priesthood." 
 2. "Though thus on a level by common descent from Abraham, they yet pay tithe to the Levites, whose brethren they are." 
 3. "How great then, must this Melchisedec be in respect to his priesthood, as compared with the Levitical, though the latter received tithes!"
@@ -55,4 +55,4 @@ In this verse, the commentator quotes various perspectives on the roles and rela
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

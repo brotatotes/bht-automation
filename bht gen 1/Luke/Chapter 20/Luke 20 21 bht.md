@@ -4,7 +4,7 @@
 This description focuses on the personal and intimate nature of God's communication with individuals. It emphasizes the importance of personal prayer and seeking God in private, highlighting that God is interested in our private conversations with Him. It also suggests that God's communication is not just for information but for transformation, as He desires to guide and shape our lives through His teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hoping by flattery to throw Him off His guard."
 
 2. "The Pharisees and Herodians were trying to trap Jesus by asking Him a politically charged question about paying taxes to Caesar. Their intention was to either get Him in trouble with the Roman authorities or alienate Him from the Jewish people."
@@ -39,4 +39,4 @@ These quotes highlight the commentary's praise for the master's ability to teach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

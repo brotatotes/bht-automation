@@ -9,7 +9,7 @@ In this Bible verse, Jesus questions the Pharisees' understanding of the Messiah
 2. "The same thing is signified by πῶς λέγουσιν οἱ γρ. in Mark." 
 3. "I mention these things as marks of the independence of the accounts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The difficulty can only be solved by the higher and lower—the divine and human natures of our Lord."
 2. "Mark the testimony here given to the inspiration of the Old Testament."
 3. "The son of David. He saith unto them, How then doth David in spirit call Him Lord?"
@@ -37,4 +37,4 @@ In this Bible verse, Jesus questions the Pharisees' understanding of the Messiah
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

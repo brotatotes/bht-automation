@@ -9,7 +9,7 @@ In this verse, the importance of reconciliation is emphasized, as even acts of w
 2. "It is not what complaints we have against others that we are to consider at such a time, but what they have against us."
 3. "Our διαλλάγηθι is simply become reconciled thyself, without being influenced by the status of the other towards thee."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The paramount importance of reconciliation is highlighted in this verse. Bringing a gift to the altar is an act of worship, but it is incomplete if there is unresolved conflict with a brother. It emphasizes the need to remember and address any grievances before approaching God in worship."
 
 2. "The mention of 'thy brother hath aught against thee' emphasizes the responsibility we have in seeking reconciliation. It is not just about our own grievances, but also about being aware of how our actions may have affected others and taking steps to make amends."
@@ -42,4 +42,4 @@ In this verse, the importance of reconciliation is emphasized, as even acts of w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

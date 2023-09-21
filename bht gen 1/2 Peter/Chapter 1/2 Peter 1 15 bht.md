@@ -9,7 +9,7 @@ As we read this passage, it becomes clear that the verse being described highlig
 2. "The Apostle should use so close together the words which were there also associated, viz. σκήνωμα and ἔξοδος."
 3. "An interpretation has been given to this latter clause which the very position of the Greek words, μετὰ τὴν ἐμὴν ἔξοδον, after ἔχειν ὑμᾶς, ought sufficiently to have guarded against."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter thus fulfils Christ's charge, 'Feed My sheep'." 
 2. "'Tabernacle' is another term found here as well as there: an undesigned coincidence confirming Peter's authorship of this Epistle." 
 3. "Not merely 'to remember,' as sometimes we do, things we care not about; but 'have them in (earnest) remembrance,' as momentous and precious truths."
@@ -50,4 +50,4 @@ As we read this passage, it becomes clear that the verse being described highlig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

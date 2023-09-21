@@ -9,7 +9,7 @@ According to these commentaries, the passage being described emphasizes the sign
 2. "For through the mouth, perishable food enters the perishable body. But words come forth, laws of the immortal soul, by which the rational life is governed." (Commentary on 1 Corinthians 6:17)
 3. "The mouth is the gateway for both physical nourishment and spiritual expression, allowing the mortal body to receive sustenance while the immortal soul communicates through words and laws." (Commentary on 1 Corinthians 6:17)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Familiar though these sayings have now become, what freedom from bondage to outward things do they proclaim."
 2. "Nothing which enters from without can really defile us."
 3. "Only the evil that is in the heart, that is allowed to stir there, to rise up in thought and affection, and to flow forth in voluntary action, really defiles a man!"
@@ -38,4 +38,4 @@ According to these commentaries, the passage being described emphasizes the sign
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

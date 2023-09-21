@@ -9,7 +9,7 @@ The Bible verse being described is focused on the concept of sin and its varying
 2. "The sin unto death being thus a sin leading to eternal death, being no further explained to the readers here, must be presumed as meant to be understood by what the Evangelist has elsewhere laid down concerning the possession of life and death."
 3. "This alone of all sins bears upon it the stamp of severance from Him who is the Life itself. As the confession of Christ, with the mouth and in the heart, is salvation unto life, so denial of Christ with the mouth and in the heart, is sin unto death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every unrighteousness (even that of believers) is sin."
 2. "The sin unto death must be one tending 'towards' death."
 3. "The chief sin is that by which faith and love are destroyed."
@@ -50,4 +50,4 @@ The Bible verse being described is focused on the concept of sin and its varying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

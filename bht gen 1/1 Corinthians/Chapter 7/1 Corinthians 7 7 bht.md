@@ -11,7 +11,7 @@ In this Bible verse, the speaker expresses a desire for all individuals to posse
 
 3. "One in one way, another in another." - This quote emphasizes the diversity of choices and lifestyles when it comes to marriage and celibacy.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This wish does not hold good absolutely, else the extension of mankind and of the Church would cease." 
 
 2. "Relatively to 'the present distress'." 
@@ -63,4 +63,4 @@ These quotes highlight the cultural and religious context surrounding marriage d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

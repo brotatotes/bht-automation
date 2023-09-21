@@ -9,7 +9,7 @@ The verse being described is a powerful condemnation of the actions and mindset 
 2. "the (predestined, or predicted, or merited) wrath (of God) came upon them."
 3. "the wrath: so that it shall exhaust all its force on them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their hindrance of the Gospel preaching to the Gentiles was the last measure added to their continually accumulating iniquity, which made them fully ripe for vengeance."
 2. "The divine wrath has come upon them to the uttermost"; not merely partial wrath, but wrath to its full extent, "even to the finishing stroke."
 3. "The past tense implies that the fullest visitation of wrath was already begun. Already in A.D. 48, a tumult had occurred at the Passover in Jerusalem, when about thirty thousand were slain; a foretaste of the whole vengeance which speedily followed."
@@ -55,4 +55,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

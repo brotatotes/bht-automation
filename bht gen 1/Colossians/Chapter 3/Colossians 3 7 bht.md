@@ -4,7 +4,7 @@
 Before their transformation, the Ephesians lived in and walked according to sinful desires and behaviors. These vices were a common part of their pagan culture. However, when they turned to Christ, they left behind their former sinful ways and embraced a new life. The distinction between living and walking emphasizes that their conversion was both an internal change of heart and an external change in actions. Through their faith in Christ, they were no longer defined by their past sins but were made new.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These sins were the very element in which ye 'lived' (before ye became once for all dead with Christ to them); no wonder, then, that ye 'walked' in them." 
 2. "The 'living' comes first in both cases, the walking follows." 
 3. "Compare on the opposite side, 'living in the Spirit,' having as its legitimate consequence, 'walking in the Spirit'."
@@ -52,4 +52,4 @@ Overall, these quotes from the commentary shed light on the transformation that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

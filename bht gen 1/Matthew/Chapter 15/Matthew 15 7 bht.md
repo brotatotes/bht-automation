@@ -4,7 +4,7 @@
 The verse under consideration exposes the religious leaders' hypocrisy, highlighting the timeless nature of this flaw. Jesus quotes the prophet Isaiah to condemn their actions and remind them of the consequences they will face. The verse emphasizes the importance of genuine and praiseworthy actions, not just superficial displays of goodness. It warns against mere outward appearances and encourages believers to worship God in spirit and truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the hypocrisy of the religious leaders of Jesus' time, as well as the timeless nature of hypocrisy itself." 
 2. "Jesus is quoting the prophet Isaiah to emphasize that their actions were foreseen and condemned long before." 
 3. "By using this quote, Jesus is not only exposing their hypocrisy but also reminding them of the consequences they will face for their actions."
@@ -46,4 +46,4 @@ The verse under consideration exposes the religious leaders' hypocrisy, highligh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

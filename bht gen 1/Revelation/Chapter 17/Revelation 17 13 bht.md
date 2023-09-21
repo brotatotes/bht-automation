@@ -4,7 +4,7 @@
 The verse being described highlights the unified purpose and sentiments of those who support the beast. These supporters, including both the princes and subjects of various kingdoms, are united in their religious beliefs, transitioning from Arianism to Catholicism. They not only lend their influence to the beast but also grant it ecclesiastical authority, allowing it to exert control over their kingdoms. Additionally, they contribute their riches and wealth to the beast's power and opulence, creating a sense of extravagance and luxury associated with the entity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "one mind—one sentiment."
 2. "They become his dependent allies."
 3. "The true KING OF KINGS appears and dashes him down in a moment to destruction."
@@ -40,4 +40,4 @@ The verse being described highlights the unified purpose and sentiments of those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

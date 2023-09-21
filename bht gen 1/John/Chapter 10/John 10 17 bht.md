@@ -9,7 +9,7 @@ In this remarkable verse, lies the mystery of the love of the Father for the Son
 2. "The Son has condescended to the work of humiliation, and to earn the crown through the cross."
 3. "Without this purpose in view, the Death of Christ would neither be lawful nor possible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the highest act of the Son's love to the Father was the laying down of His life for the sheep at His 'commandment,' so the Father's love to Him as His incarnate Son reaches its consummation, and finds its highest justification, in that sublimest and most affecting of all acts."
 2. "His resurrection-life being indispensable to the accomplishment of the fruit of His death."
 3. "The Father's love for the Son is demonstrated by the Son's willingness to lay down His life and take it up again, showing the inseparable bond between the Father and the Son."
@@ -48,4 +48,4 @@ In this remarkable verse, lies the mystery of the love of the Father for the Son
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

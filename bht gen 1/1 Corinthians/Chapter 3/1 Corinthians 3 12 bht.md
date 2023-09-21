@@ -9,7 +9,7 @@ In this verse, Paul discusses the work of different teachers in building upon th
 2. "Gold, silver, &c., refer to the matter of the ministers' teaching, primarily; and by inference to those whom that teaching penetrates and builds up in Christ."
 3. "The builder of the worthless and unsubstantial is in the end SAVED, so that even his preaching was preaching of Christ, and he himself was in earnest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'gold, silver, precious stones,' which all can withstand fire, are teachings that will stand the fiery test of judgment."
 2. "Wood, hay, stubble," are those teachings which cannot stand the test of judgment; they are mixed with human philosophy and Judaism, curious rather than useful.
 3. "Where there is the least grain of real gold of faith, it shall never be lost."
@@ -57,4 +57,4 @@ In this verse, Paul discusses the work of different teachers in building upon th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

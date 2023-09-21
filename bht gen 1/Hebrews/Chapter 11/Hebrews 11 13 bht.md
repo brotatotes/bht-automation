@@ -11,7 +11,7 @@ This verse speaks of individuals who died in faith, not having received the prom
 
 Note: The commentary is quite lengthy and includes various references and explanations. The selected quotes capture the essence of the commentary by highlighting the faith of those who died without receiving the promises, their longing for the fulfillment of those promises, and their acknowledgment of their temporary status as strangers and sojourners on earth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were true to this principle of faith even unto, and especially in, their dying hour."
 2. "This promise of eternal redemption is the inner essence of the promises made to Abraham."
 3. "Christ, as the Word, was preached to the Old Testament believers, and so became the seed of life to their souls, as He is to ours."
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy and includes various references and explan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is about the role of Jesus Christ as a high prie
 2. "It must be something with which and by virtue of which, and as offering and applying which, our High Priest enters and ministers in the Holy of Holies above."
 3. "This blood of sprinkling is regarded as being in heaven, as being sprinkled on the believer as the end of his election, as cleansing us from all sin, as that wherein the saints wash their robes and make them white."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ has entered the heavenly Holy Place with His own blood."
 2. "That 'blood of sprinkling' is in heaven."
 3. "Christ, as a priest, has His blood as His oblation to offer before God."
@@ -45,4 +45,4 @@ The Bible verse being described is about the role of Jesus Christ as a high prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

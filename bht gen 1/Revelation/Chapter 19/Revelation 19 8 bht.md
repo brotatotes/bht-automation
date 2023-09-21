@@ -4,7 +4,7 @@
 In this verse, the bride is presented as a glorious and spotless Church, adorned with righteousness bestowed by Christ Himself. This righteousness is symbolized by the bride's garments of fine linen, representing purity and innocence. It is not a superficial display, but rather a righteousness that becomes an integral part of the bride's being. Through Christ's gift, the Church is sanctified and made holy, prepared to meet the Bridegroom and enter into an everlasting union. This righteousness, both in terms of justification and sanctification, is not the Church's own, but a gracious bestowment from the Lord.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is He who, by giving Himself for her, presents her to Himself a glorious Church, not having spot, but holy and without blemish."
 2. "He sanctifies her, naturally vile and without beauty, with the washing of water by the word, and puts His own comeliness on her, which thus becomes hers."
 3. "Each saint must have this righteousness: not merely be justified, as if the righteousness belonged to the Church in the aggregate; the saints together have righteousnesses."
@@ -43,4 +43,4 @@ In this verse, the bride is presented as a glorious and spotless Church, adorned
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

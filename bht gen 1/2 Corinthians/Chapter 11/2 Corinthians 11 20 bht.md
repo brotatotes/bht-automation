@@ -9,7 +9,7 @@ In this Bible verse, we are urged to bear with the oppressive and deceitful acti
 2. "If one devours you (by exaction on your property)." 
 3. "If one uplifts himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye may well 'bear with' fools; for ye even 'bear with' oppressors."
 2. "The height of insolence on their part, and of servile endurance on yours."
 3. "The false apostles bring you into bondage to himself, devours, takes, exalts, and smites."
@@ -55,4 +55,4 @@ These quotes highlight the themes of patience, freedom in true Christianity, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

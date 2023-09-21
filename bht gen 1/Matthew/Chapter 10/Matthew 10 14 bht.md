@@ -9,7 +9,7 @@ In this Bible verse, the disciples are instructed to shake off the dust from the
 2. "We free ourselves from all participation in your condemnation: will have nothing in common with those who have rejected God’s message."
 3. "Those then who would not receive the apostolic message were to be treated as no longer Israelites, but Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "shake off the dust of your feet—"for a testimony against them"
 2. "By this symbolical action they vividly shook themselves from all connection with such, and all responsibility for the guilt of rejecting them and their message."
 3. "Such symbolical actions were common in ancient times, even among others than the Jews, as strikingly appears in Pilate."
@@ -48,4 +48,4 @@ In this Bible verse, the disciples are instructed to shake off the dust from the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

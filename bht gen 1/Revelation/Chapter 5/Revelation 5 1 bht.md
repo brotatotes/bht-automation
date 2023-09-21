@@ -9,7 +9,7 @@ The verse in question describes a book with seven seals that contains a divine r
 2. "The completeness of the contents as containing the divine counsels: there was no room for addition to that which was therein written."
 3. "The opening of the seals, as notified by the symbolic visions belonging to each, does not relate to things past, but to things which were yet future when this book was written."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The roll, or book, appears from the context to be 'the title-deed of man's inheritance' redeemed by Christ, and contains the successive steps by which He shall recover it from its usurper and obtain actual possession of the kingdom already 'purchased' for Himself and His elect saints." 
 2. "The opening of the seals will mean the successive steps by which God in Christ clears the way for the final opening and reading of the book at the visible setting up of the kingdom of Christ."
 3. "The question is not (as commonly supposed), Who should reveal the destinies of the Church (for this any inspired prophet would be competent to do)? but, Who has the WORTH to give man a new title to his lost inheritance?"
@@ -50,4 +50,4 @@ These quotes highlight the symbolism and significance of the book with seven sea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

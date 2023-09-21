@@ -9,7 +9,7 @@ In this verse, we see a group of people who were unwavering in their conviction 
 2. "διαγιν. ἀκρ.] not as E. V. ‘enquire something more perfectly:’ but... to determine with greater accuracy."
 3. "σὺν τῷ συνεδρ. belongs to ὑμεῖς, or perhaps better to ἐμφανίσατε."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What will not unscrupulous and hypocritical religionists do under the mask of religion?"
 2. "The narrative bears unmistakable internal marks of truth."
 3. "He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme."
@@ -52,4 +52,4 @@ In this verse, we see a group of people who were unwavering in their conviction 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

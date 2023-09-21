@@ -9,7 +9,7 @@ The verse being described emphasizes the urgency of not neglecting the great sal
 2. "The Lord was confirmed unto us by those who heard it, God also bearing witness to it with signs and wonders and various miraculous powers."
 3. "The Holy Spirit is distributed according to God's will."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "so great salvation—embodied in Jesus, whose very name means 'salvation,' including not only deliverance from foes and from death, and the grant of temporal blessings...but also grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life." 
 2. "Both law and Gospel came from God, the difference here referred to lay in the instrumentality by which each respectively was promulgated."
 3. "Paul mentions what they had heard, rather than what they had seen, conformably with what he began with, 'spake...spoken.' Appropriately also in his Epistles to Gentiles, he dwells on his independent call to the apostleship of the Gentiles; in his Epistle to the Hebrews, he appeals to the apostles who had been long with the Lord."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

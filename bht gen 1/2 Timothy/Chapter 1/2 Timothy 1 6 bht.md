@@ -4,7 +4,7 @@
 In this verse, the writer urges Timothy to diligently cultivate and reignite the gift of God within him. The call to "stir up" the flame of faith emphasizes the need for active engagement and nurturing of one's spiritual gifts. These gifts, described as divine and received through God's grace, empower and equip individuals for their ministerial roles. The reminder serves as a personal and heartfelt encouragement from the apostle, highlighting the deep affection and investment he has in Timothy's spiritual journey.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For which cause," namely, because thou hast inherited, didst once possess, and I trust ("am persuaded") still dost possess, such unfeigned faith.
 2. Paul does not doubt the existence of real faith in Timothy, but he desires it to be put into active exercise.
 3. The spiritual grace received for his ministerial office, either at his original ordination, or at his consecration to the particular office of superintending the Ephesian Church, imparting fearlessness, power, love, and a sound mind.
@@ -52,4 +52,4 @@ In this verse, the writer urges Timothy to diligently cultivate and reignite the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

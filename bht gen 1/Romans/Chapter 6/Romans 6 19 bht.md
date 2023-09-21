@@ -9,7 +9,7 @@ The scripture, in speaking about the transformation from a life of sin to a life
 2. "I speak as a man on account of the weakness of your flesh."
 3. "Like as you once rendered up your members as servants to impurity and to lawlessness, so now render up your members as servants to righteousness unto sanctification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I speak after the manner of men—descending, for illustration, to the level of common affairs."
 2. "because of the infirmity of your flesh—the weakness of your spiritual apprehension."
 3. "Looking back upon the heartiness with which ye served Sin, and the lengths ye went to be stimulated now to like zeal and like exuberance in the service of a better Master."
@@ -53,4 +53,4 @@ The scripture, in speaking about the transformation from a life of sin to a life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

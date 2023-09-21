@@ -9,7 +9,7 @@ The true purpose of Jesus' arrival on Earth was not to bring condemnation, as so
 2. "The κρῖμα there, as here, results from the separation of mankind into two classes, those who will and those who will not come to the light; and that result itself is not the purpose why the Son of God came into the world, but is evolved in the accomplishment of the higher purpose, viz. Love, and the salvation of men."
 3. "Observe, the latter clause does not correspond to the former it is not ἵνα σώζῃ τὸν κόσμον, but ἵνα σωθῇ ὁ κόσμος διʼ αὐτοῦ: the free will of the κόσμος is by this strikingly set forth, in connexion with John 3:19-20."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though 'condemnation' is to many the issue of Christ's mission, it is not the object of His mission, which is purely a saving one."
 2. "The purpose of Christ's mission is not to condemn, but to save."
 3. "This statement emphasizes the compassionate and redemptive nature of Christ's mission."
@@ -59,4 +59,4 @@ Note: The commentary is about John 3:17.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

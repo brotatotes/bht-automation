@@ -4,7 +4,7 @@
 In this Bible verse, believers are earnestly pleading with Paul to receive their contribution for the poor saints. They desire to actively participate in ministering to those in need, emphasizing their eagerness and determination to be involved. The grace mentioned here refers not only to God's favor, but also the honor and privilege of being able to give and contribute. The Corinthians are encouraged to stay within their limits and not exceed their abilities, as Paul had previously admonished them with love and care.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beseeching of us... the grace and fellowship of (that is, to grant them the favor of sharing in) the ministering unto the saints."
 2. "The Macedonian contributions must have been from Philippi, because Philippi was the only church that contributed to Paul's support."
 3. "Philippians 4:10; Philippians 4:15; Philippians 4:16."
@@ -47,4 +47,4 @@ Note: The provided commentary is quite brief, so the quotes are also brief.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the aftermath of Judas' betrayal, commentators shed light on his remorse, mis
 2. "For by this time, nay when he delivered his Prisoner at the house of Annas, he would have in that case received the rest."
 3. "Observe also ὁ παραδιδοὺς αὐτόν, His betrayer, the part. pres. being used as a designation, as in ὁ πειράζων, 'the Tempter,' ch. Matthew 4:3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The condemnation, even though not unexpected, might well fill him with horror."
 2. "Perhaps this unhappy man expected, that, while he got the bribe, the Lord would miraculously escape, as He had once and again done before, out of His enemies' power."
 3. "A remarkable illustration of the power of an awakened conscience."
@@ -59,4 +59,4 @@ In the aftermath of Judas' betrayal, commentators shed light on his remorse, mis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

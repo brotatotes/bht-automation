@@ -9,7 +9,7 @@ The commentator's words reveal a profound understanding of the verse. The descri
 2. "He names the plant τὸ σῶμα τὸ γενησόμενον, having already in his eye the application to the Resurrection."
 3. "εἰ τύχοι] if it should so happen, peradventure: not, ‘for example.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No longer without stalk or ear, but clothed with blade and ears, and yielding many grains instead of only one."
 2. "There is a hidden germ which constitutes the identity of body amidst all outward changes: the outward accretions fall off in its development, while the germ remains the same."
 3. "Every such germ ('seed') 'shall have its own body,' and be instantly recognized, just as each plant now is known from the seed that was sown."
@@ -50,4 +50,4 @@ The commentator's words reveal a profound understanding of the verse. The descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

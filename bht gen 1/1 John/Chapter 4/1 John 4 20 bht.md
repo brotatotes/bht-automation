@@ -9,7 +9,7 @@ The verse under discussion emphasizes the interconnectedness between loving God 
 2. "His love has begotten us anew in love: in this us are included our brethren; objects of our daily sight: if therefore we do not love them, we do not love Him."
 3. "If any say, 'I love God, and hate his brother, he is a liar: for he that loveth not his brother whom he hath seen, cannot love God whom he hath not seen."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is easier for us, influenced as we are here by sense, to direct love towards one within the range of our senses than towards One unseen, appreciable only by faith."
 2. "If we do not love the brethren, the visible representatives of God, how can we love God, the invisible One, whose children they are?"
 3. "The true ideal of man, lost in Adam, is realized in Christ, in whom God is revealed as He is, and man as he ought to be."
@@ -63,4 +63,4 @@ Note: The commentary provides a grammatical analysis of the verse and references
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

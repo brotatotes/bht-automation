@@ -4,7 +4,7 @@
 In this verse, Jesus speaks of his betrayal and impending death, indicating a shift in the location and circumstances of his ministry. It also highlights the divine knowledge and authority of Jesus as the Son of God. The disciples, however, struggle to fully grasp the meaning of these words, revealing their limited perspective and the need for humility and trust in their discipleship. Jesus' emphasis on his sacrifice and resurrection underscores the central theme of redemption in his ministry, demonstrating his willingness to give his life for the salvation of humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He Himself was little more in public there, and He was soon to bid it a final adieu."
 2. "Be not carried off your feet by the grandeur you have lately seen in Me, but remember what I have told you, and now tell you again, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom."
 3. "The plainest statements, when they encounter long-continued and obstinate prejudices, are seen through a distorting and dulling medium."
@@ -37,4 +37,4 @@ In this verse, Jesus speaks of his betrayal and impending death, indicating a sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

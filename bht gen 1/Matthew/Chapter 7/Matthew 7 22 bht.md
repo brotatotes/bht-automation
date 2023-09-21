@@ -9,7 +9,7 @@ In this verse, Jesus speaks of a future day of judgment, when individuals will c
 2. "τῷ σῷ ὀνόματι perhaps =  ἐν τ . σ . ὀν ., jussu et auctoritate tua, but better by thy Name, that name having, as Meyer, filled out our belief and been the object of our confession of faith."
 3. "ἐπροφητ  . preached, not necessarily foretold future events: 1 Corinthians 12:10, and note. On  δαιμ  .   ἐξ  . see note on ch. Matthew 8:32."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What, Lord? How is this? Are we to be disowned?"
 2. "As one of the special gifts of the Spirit in the early Church, it has the sense of 'inspired and authoritative teaching,' and is ranked next to the apostleship."
 3. "These are selected as three examples of the highest services rendered to the Christian cause, and through the power of Christ's own name, invoked for that purpose; He Himself, too, responding to the call."
@@ -53,4 +53,4 @@ In this verse, Jesus speaks of a future day of judgment, when individuals will c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

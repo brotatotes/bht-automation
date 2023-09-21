@@ -9,7 +9,7 @@ Description: The verse being described is centered around the unchanging nature 
 2. "In each and either of them, it is out of all question that falsehood should be suspected in Him." 
 3. "We who have fled for refuge to lay hold on the hope set before us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His not being able to deny Himself is a proof, not of weakness, but of strength incomparable."
 2. "Kadesh, that is, holy, implies the holiness of Jesus, our Refuge."
 3. "Shechem, that is, shoulder, the government is upon his shoulder."
@@ -61,4 +61,4 @@ Note: The commentary provides additional context and explanations, but the selec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

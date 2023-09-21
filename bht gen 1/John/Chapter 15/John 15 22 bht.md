@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the inexcusable nature of the sin co
 2. "The sin of hatred to Him and His, which might have been excused otherwise, but now that He had come and discoursed with them, had no excuse, since He had plainly shown them the proofs of his mission from the Father."
 3. "Euthymius Zigabenus says well, 'It deprives the Jews of all excuse for their voluntary wickedness.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All other sins being light compared with the rejection of the Son of God."
 2. "Now they have no pretext for their sin."
 3. "Comparatively none; all other sins being light compared with the rejection of the Son of God."
@@ -55,4 +55,4 @@ In this Bible verse, commentators emphasize the inexcusable nature of the sin co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

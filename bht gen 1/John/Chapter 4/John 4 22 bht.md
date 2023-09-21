@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse that addresses the worship practice
 2. "In the Samaritan worship there was no leading of God to guide them, there were no prophetic voices revealing more and more of His purposes."
 3. "The nearest approach to it is in His answer to the Canaanitish woman, Matthew 15:24; Matthew 15:26."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye worship ye know not what—without any revealed authority, and so very much in the dark."
 2. "Salvation is of the Jews—intimating to her that Salvation was not a thing left to be reached by any one who might vaguely desire it of a God of mercy, but something that had been revealed, prepared, deposited with a particular people."
 3. "Must be sought in connection with, and as issuing from them; and that people, 'the Jews'."
@@ -58,4 +58,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the author speaks highly of Andronicus and Junias, who are 
 2. "Two renderings are given: (1) ‘of note among the Apostles,’ so that they themselves are counted among the Apostles... or (2) ‘noted among the Apostles,’ i.e. well known and spoken of by the Apostles."
 3. "If the wider sense found in Acts 14:4; Act 14:14; 2 Corinthians 8:23; 1 Thessalonians 2:6 (compare Rom 1:1) be taken, there need be no doubt concerning the meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And of course, if 'Junia' is to be taken for a woman, this latter must be the meaning."
 2. "The apostle writes as if he envied them this priority in the faith."
 3. "Very possibly they may have been among the first-fruits of Peter's labors, gained to Christ either on the day of Pentecost or on some of the succeeding days."
@@ -57,4 +57,4 @@ In this Bible verse, the author speaks highly of Andronicus and Junias, who are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

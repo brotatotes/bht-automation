@@ -11,7 +11,7 @@ The religious leaders, led by Caiaphas, were determined to put Jesus to death. T
 
 These quotes highlight the deliberate and premeditated nature of the decision to kill Jesus. It emphasizes that the intention to slay Him was not a fleeting thought, but a carefully planned and executed plot.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "they took council together to put him to death—Caiaphas but expressed what the party was secretly wishing, but afraid to propose."
 2. "Jesus . . . walked no more openly among the Jews—How could He, unless He had wished to die before His time?"
 3. "near to the wilderness—of Judea."
@@ -50,4 +50,4 @@ Overall, these quotes shed light on the increasing hostility towards Jesus and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

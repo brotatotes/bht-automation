@@ -9,7 +9,7 @@ This verse speaks of the blessedness and congratulation bestowed upon a person t
 2. "It is very clear that this righteousness must be χωρὶς ἔργων, because its imputation consists in the remission and hiding of offences."
 3. "None can be legally righteous in whom there is any, even the smallest offence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blessedness of the man unto whom the Lord imputeth righteousness without works." This quote highlights the concept that righteousness is not earned through good works, but rather imputed by the Lord. It emphasizes the grace and mercy of God in declaring someone righteous, regardless of their own actions.
 
 2. "Whom, though void of all good works, He, nevertheless, regards and treats as righteous." This quote emphasizes that God's righteousness is not dependent on human efforts or achievements. It underscores the idea that God's evaluation of a person's righteousness is not based on their own merit, but on His grace and favor.
@@ -56,4 +56,4 @@ This verse speaks of the blessedness and congratulation bestowed upon a person t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

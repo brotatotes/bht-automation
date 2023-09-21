@@ -4,7 +4,7 @@
 The divine message delivered to Mary is one of extraordinary and miraculous nature. It announces the conception of Jesus, the Son of God, who fulfills ancient prophecies and brings salvation to humanity. The choice of his name, Jesus, signifies his role as the appointed Savior by God, who delivers his people from sin and all forms of opposition. This announcement reveals God's divine plan unfolding through the seed of a pure virgin, offering spiritual and eternal salvation to all who believe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The angel purposely conforms his language to Isaiah's famous prophecy" - This quote highlights the intentionality of the angel's words, emphasizing the fulfillment of Isaiah's prophecy.
 
 2. "The angel purposely conforms his language to Isaiah's famous prophecy" - This quote suggests that the angel's choice of words is not accidental but deliberate, indicating a divine plan at work.
@@ -53,4 +53,4 @@ The divine message delivered to Mary is one of extraordinary and miraculous natu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

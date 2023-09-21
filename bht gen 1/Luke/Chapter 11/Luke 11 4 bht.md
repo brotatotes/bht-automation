@@ -9,7 +9,7 @@ The verse being described is a prayer asking for forgiveness and emphasizing the
 2. "The difference there is no ἁμαρτία here between man and man, only the ordinary business word of this world." 
 3. "This varied expression may serve to show how far 'Luke's reporter' was from misunderstanding the words of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the content of the commentary you mentioned. Could you please provide the commentary so that I can extract the quotes for you?
 
 ### Marvin Vincent:
@@ -36,4 +36,4 @@ I'm sorry, but I cannot see the content of the commentary you mentioned. Could y
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

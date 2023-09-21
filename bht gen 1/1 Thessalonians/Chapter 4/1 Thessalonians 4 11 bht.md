@@ -9,7 +9,7 @@ The verse being described encourages believers to be ambitious in pursuing a qui
 2. "the omission of any copula before ἡσυχ . would introduce great harshness into the sentence."
 3. "From  ἐργ  .   τ  .   χερσ  .   ὑμ  . , it appears that the members of the Thessalonian church were mostly of the class of persons thus labouring."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Make it your ambition to be quiet, and to do your own business." - This quote highlights the contrast between the world's ambition of seeking attention and being busybodies, and the Christian ambition of seeking quietness and focusing on one's own responsibilities.
 2. "The Thessalonian converts were, it thus seems, chiefly of the working classes." - This quote provides context about the audience of the verse, indicating that the Thessalonian converts were predominantly from the working class.
 3. "The expectation was right in so far as that the Church should be always looking for Him; but they were wrong in making it a ground for neglecting their daily work." - This quote explains the correct understanding of the expectation of Christ's coming, emphasizing that while the Church should always be anticipating His return, it should not be used as an excuse to neglect one's daily responsibilities.
@@ -55,4 +55,4 @@ The verse being described encourages believers to be ambitious in pursuing a qui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

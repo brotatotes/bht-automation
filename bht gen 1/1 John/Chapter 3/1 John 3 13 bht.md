@@ -9,7 +9,7 @@ Do not be amazed or surprised, brethren, if the world hates you. The world's hat
 2. "Marvel not, brethren, if (no doubt is expressed by this εἰ. The hypothesis is set forth as actually fulfilled."
 3. "The world hateth you ('magis esset mirabile si diligerent eos,' says Didymus. This verse is in close sequence on the example just given: Cain being taken as the prototype and exemplar of such hate)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marvel not—The marvel would be if the world loved you."
 2. "The world—of whom Cain is the representative (1 John 3:12)."
 3. "The world feels its bad works tacitly reproved by your good works."
@@ -45,4 +45,4 @@ Do not be amazed or surprised, brethren, if the world hates you. The world's hat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

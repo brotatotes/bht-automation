@@ -4,7 +4,7 @@
 In the anticipation of Christ's return, believers eagerly desire and hope for His glorious appearing. This confident expectation is rooted in the divinity of Jesus Christ, who is not a lesser deity but the great God and Savior. Embracing this blessed hope, Christians actively wait for the fulfillment of God's promises and the ultimate revelation of Christ's glory, demonstrating their devotion and faithfulness in the present as they long for the future.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Looking for—with constant expectation (so the Greek) and with joy... This will prove the antidote to worldly lusts, and the stimulus to 'live in this present world' conformably to this expectation." 
 2. "The blessed hope and manifestation of the glory." 
 3. "There is but one Greek article to 'God' and 'Saviour,' which shows that both are predicated of one and the same Being."
@@ -54,4 +54,4 @@ These quotes highlight the concept of hope in relation to Christ and the eternal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

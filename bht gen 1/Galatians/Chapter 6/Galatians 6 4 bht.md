@@ -11,7 +11,7 @@ The verses being described highlight the importance of self-examination, persona
 
 These quotes highlight the importance of the practical result of one's life, the personal nature of boasting, and the avoidance of comparison with others.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have his (matter for) glorying in regard to himself alone, and not in regard to another."
 2. "Not that really a man by looking to 'himself alone' is likely to find cause for glorying in himself."
 3. "The only true glorying, if glorying it is to be called, is in the testimony of a good conscience, glorying in the cross of Christ."
@@ -53,4 +53,4 @@ These quotes emphasize the importance of self-examination, forming a fair estima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

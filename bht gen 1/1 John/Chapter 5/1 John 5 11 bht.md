@@ -9,7 +9,7 @@ The Bible verse describes the gift of eternal life given by God, a present reali
 2. "This life is in His Son." - The source of eternal life is found in Jesus Christ. He is the embodiment of life itself, both physically and spiritually.
 3. "We have to guard against...interpretations." - The commentator warns against interpretations that try to diminish the significance of eternal life in Jesus. We must be cautious of rationalistic explanations that undermine the true nature of this gift.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only 'promised' it." 
 2. "Life is in his Son—essentially."
 3. "It is in the second Adam, the Son of God, that this life is secured to us."
@@ -48,4 +48,4 @@ The Bible verse describes the gift of eternal life given by God, a present reali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Without mentioning the specific Bible verse, the commentators collectively empha
 2. "Some things, as life, food, raiment, &c., he does continually receive from God."
 3. "Where the Father is not expressly distinguished from the Son by the context, the Godhead, in its unity, is to be understood by ὁ θεός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Real faith is something more than a mere thinking or surmise."
 2. "He does receive many things from God, food, raiment, &c., but these are the general gifts of His providence."
 3. "Of the things specially granted in answer to prayer, the waverer shall not receive 'anything,' much less wisdom."
@@ -42,4 +42,4 @@ Without mentioning the specific Bible verse, the commentators collectively empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

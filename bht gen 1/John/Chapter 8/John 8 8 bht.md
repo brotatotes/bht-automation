@@ -11,7 +11,7 @@ In this verse, Jesus stoops down and writes on the ground, drawing attention to 
 
 3. "The mention of Jesus being occupied with writing suggests that he was engaged in a task that required his full attention, giving the disciples an opportunity to retreat unnoticed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The second stooping and writing on the ground was a strategic move by Jesus to allow the woman's accusers to escape unnoticed, sparing them from the shame of being exposed by His discerning gaze."
 2. "This act of Jesus demonstrated His compassion and mercy, giving the woman a chance to be freed from condemnation and allowing her accusers to silently retreat, realizing their own guilt."
 3. "By stooping down and writing on the ground, Jesus not only protected the woman from public humiliation but also revealed His divine wisdom and discernment, exposing the hypocrisy and self-righteousness of her accusers."
@@ -41,4 +41,4 @@ In this verse, Jesus stoops down and writes on the ground, drawing attention to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

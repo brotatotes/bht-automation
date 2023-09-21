@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the importance of patience, self-control, and restraint when dealing with current wrongdoings, urging us to exercise forgiveness and let go of past grievances. They also highlight the example set by Christ, who forgave us despite our countless faults, urging us to extend forgiveness and grace to others. The verse emphasizes the need for both forbearance and forgiveness in relationships, recognizing that we all make mistakes and that extending understanding is crucial for healthy interactions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Forbearing - as to present offenses." This quote highlights the importance of patience and restraint when dealing with current wrongdoings, emphasizing the need to exercise self-control and not react impulsively.
 
 2. "Forgiving - as to past offenses." This quote emphasizes the significance of letting go of past grievances and choosing to forgive, showing the transformative power of forgiveness in healing relationships and moving forward.
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of patience, self-control, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

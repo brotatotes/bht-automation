@@ -9,7 +9,7 @@ In this verse, the commentator's words highlight the irony and paradox inherent 
 2. "The irony does not stop here: it is not only a matter of presumption that they would tolerate fools with complacency, but the matter of fact testified it: they were doing this." 
 3. "Compare the earnestness of 1 Corinthians 3:1-4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A plea why they should 'bear with' ( :-) him in his folly, that is, boasting; ye are, in sooth, so 'wise'": This quote highlights the irony in Paul's plea to the Corinthians. He acknowledges their wisdom but also subtly challenges them to extend that wisdom to bear with his own folly.
 
 2. "Paul's real view of their wisdom was very different": This quote suggests that Paul's perception of the Corinthians' wisdom differs from their own perception. It implies that Paul sees their wisdom as flawed or misguided in some way.
@@ -58,4 +58,4 @@ In this verse, the commentator's words highlight the irony and paradox inherent 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

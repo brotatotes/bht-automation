@@ -9,7 +9,7 @@ In this Bible verse, we see the Jewish leaders' strict observance of religious c
 2) "Possibly the law concerning Levitical defilements and purifications had in that age been made more stringent or otherwise modified; possibly, they called some other meal, besides the actual Passover, by its name."
 3) "Thus, he says, any time after 3 P.M. on Thursday might be called by St. Mark 'the first day of unleavened bread, when they sacrificed the passover,' and by St. Luke, 'the day of unleavened bread, when the Passover must be killed,' it being killed after the first and before the second evening on Friday, and thus, loosely speaking, within the day, which commenced at 3 o’clock, and, strictly speaking, within that which commenced at sunset on Thursday."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here rendered 'hall of judgment' is from the Latin, and denotes 'the palace of the governor of a Roman province.'"
 2. "They themselves went not into the judgment hall lest they should be defiled—by contact with ceremonially unclean Gentiles."
 3. "These are questions which have occasioned immense research and learned treatises. But as the usages of the Jews appear to have somewhat varied at different times, and our present knowledge of them is not sufficient to clear up all difficulties, they are among the not very important questions which probably will never be entirely solved."
@@ -61,4 +61,4 @@ In this Bible verse, we see the Jewish leaders' strict observance of religious c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

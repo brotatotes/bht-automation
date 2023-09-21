@@ -9,7 +9,7 @@ In the midst of persecution and violence, Paul's life was preserved through a mi
 2. "From Derbe not being enumerated, 2 Timothy 3:11, with Antioch, Iconium, and Lystra, as the scene of any of Paul’s sufferings, we may perhaps infer that none befell him there."
 3. "They may have fled to Derbe, as being in a different jurisdiction from Lystra; the latter being comprised in the Roman province of Galatia, whereas Derbe seems to have belonged at this time to Antiochus, king of Commagene."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Disciples" had been gathered, who now rallied around the bleeding body.
 2. And one appears to have been gained on this occasion, of far more importance than all the rest—TIMOTHEUS.
 3. It is possible that this recovery was natural; the insensibility occasioned by such treatment as he had received sometimes passing away of itself, and leaving the patient less hurt than appeared. But certainly the impression naturally left on the mind by the words is that the restoration was miraculous; and so the best interpreters understand the words.
@@ -57,4 +57,4 @@ In the midst of persecution and violence, Paul's life was preserved through a mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

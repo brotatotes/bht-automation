@@ -4,7 +4,7 @@
 In this verse, the imagery portrays a powerful and seductive entity that represents the corruption and compromise of the church. The woman, clothed in worldly splendor and luxury, deceives the nations with her allure. Her golden cup symbolizes her deceptive enticement, leading people astray. She is adorned in purple and scarlet, signifying her authority and influence. However, beneath her external grandeur lies abominable teachings and practices, as she juxtaposes hypocrisy with her superficial beauty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whenever and wherever the Church, instead of being 'clothed (as at first, Revelation 12:1) with the sun' of heaven, is arrayed in earthly meretricious gauds, compromising the truth of God through fear, or flattery, of the world's power, science, or wealth, she becomes the harlot seated on the beast, and doomed in righteous retribution to be judged by the beast." 
 2. "Instead of drinking her Lord's 'cup' of suffering, she has 'a cup full of abominations and filthinesses.'"
 3. "Meanwhile the world power gives up its hostility and accepts Christianity externally; the beast gives up its God-opposed character, the woman gives up her divine one. They meet halfway by mutual concessions; Christianity becomes worldly, the world becomes Christianized."
@@ -44,4 +44,4 @@ In this verse, the imagery portrays a powerful and seductive entity that represe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This passage presents a joyous and inclusive message of salvation. It conveys the idea that the good news of the birth of Christ is intended for all people, starting with the people of Israel but with the ultimate goal of reaching the entire world. The message brings great joy and is characterized by the fatherly love of God, which brings tranquility to our minds. It is a gospel message that overcomes all distresses and offers the promise of salvation to all who believe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to all people—"to the whole people," that is, of Israel; to be by them afterwards opened up to the whole world."
 
 2. "The message of salvation was first given to the people of Israel, but it was always intended to be shared with the entire world."
@@ -42,4 +42,4 @@ This passage presents a joyous and inclusive message of salvation. It conveys th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

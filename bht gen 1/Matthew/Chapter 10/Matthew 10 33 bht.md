@@ -4,7 +4,7 @@
 This verse warns about the grave consequences of denying Jesus before others, which results in Jesus denying that person before God. Denying Christ involves more than a simple rejection; it is a complete breach of the disciple's relationship with Him, contrary to His mind and will. It includes dropping or opposing truths about Christ's person, office, and grace, hiding them out of fear or shame. Denying Christ is a heinous crime that leads to a public and final separation, with Jesus declaring His disapproval of those who deny Him as workers of iniquity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever shall deny me before men, him will I also deny before my Father which is in heaven." - This verse emphasizes the consequences of denying Jesus before others, as it results in Jesus denying that person before God.
 2. "He shall have from Me his own treatment of Me on the earth." - This quote highlights the principle of reciprocity, indicating that the way we treat Jesus on earth will determine how he treats us in the presence of God.
 3. "But see on :-)" - This comment suggests that there is further explanation or reference to be found elsewhere, inviting the reader to explore additional insights on the verse.
@@ -23,4 +23,4 @@ This verse warns about the grave consequences of denying Jesus before others, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

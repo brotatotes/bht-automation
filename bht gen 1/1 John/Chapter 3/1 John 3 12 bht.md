@@ -9,7 +9,7 @@ This description showcases the story of Cain and Abel, emphasizing the contrast 
 2. "Cain murdered his brother: therefore he hated him: and hate belongs to the children of the evil one, classes him at once among those whose works are evil, and who hate those who, like Abel, are testified to (Heb 11:4) that they are of the children of God who work righteousness." 
 3. "Whatever might be the exciting occasion of the murder, this lay at the root the hatred which the children of the devil ever bear to the children of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "evil one," to accord with "Because his own works were evil." Compare, "of the devil," in contrast to "of God," 1 John 3:10.
 2. "slew he him? Because his own works were evil, and his brother's righteous—through envy and hatred of his brother's piety, owing to which God accepted Abel's, but rejected Cain's offering."
 3. Enmity from the first existed between the seed of the woman and the seed of the serpent.
@@ -56,4 +56,4 @@ These quotes highlight the importance of brotherly love, the influence of Satan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

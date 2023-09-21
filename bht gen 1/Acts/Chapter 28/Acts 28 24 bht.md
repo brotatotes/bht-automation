@@ -4,7 +4,7 @@
 In this Bible verse, we see a diverse response to the Gospel message. Some are persuaded, while others continue to disbelieve. It reveals that belief is a personal choice based on individual disposition and openness to truth. The verse highlights the power of belief, which is not merely an intellectual assent, but a deep conviction that leads to action and transformation. It also emphasizes the role of God's grace in faith, as it is a gift and fruit of divine power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What simplicity and candor are in this record of a result repeated from age to age where the Gospel is presented to a promiscuous assemblage of sincere and earnest inquirers after truth, frivolous worldlings, and prejudiced bigots!"
 2. "The verse highlights the diverse responses to the Gospel, showing that belief is not universal, but rather a personal choice based on individual disposition and openness to truth."
 3. "This verse reminds us that the Gospel has the power to both unite and divide, as it exposes the true nature of people's hearts and their willingness to accept or reject the message of salvation."
@@ -45,4 +45,4 @@ In this Bible verse, we see a diverse response to the Gospel message. Some are p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

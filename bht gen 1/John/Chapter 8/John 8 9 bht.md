@@ -9,7 +9,7 @@ In this Bible verse, Jesus delivers a powerful and convicting message to a group
 2. "It was a case somewhat analogous to that in which His ἐγώ εἰμι struck His foes to the ground."
 3. "If the consciences of older sinners have heavier loads on them, those of younger ones are more tender."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The trap failed to catch Him for whom it was laid, it caught those who laid it."
 2. "Stunned by the unexpected home thrust, they immediately made off."
 3. "The impudence of those impure hypocrites in dragging such a case before the public eye is disgusting."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus delivers a powerful and convicting message to a group
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

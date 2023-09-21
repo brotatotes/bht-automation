@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the cultural context and practices
 2. "No stress must be laid on this word as implying ostentation; for it was the ordinary posture of prayer." 
 3. "The synagogues were places of prayer; so that, as Theophyl. (Thol.), οὐ βλάπτει ὁ τόπος, ἀλλὰ ὁ τρόπος καὶ ὁ σκυπός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When ye pray ye shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets—that they may be seen of men." 
 2. "The standing posture in prayer was the ancient practice, alike in the Jewish and in the early Christian Church."
 3. "But of course this conspicuous posture opened the way for the ostentatious."
@@ -54,4 +54,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

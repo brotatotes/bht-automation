@@ -11,7 +11,7 @@ In this verse, Jesus distinguishes himself as coming from a heavenly realm, whil
 
 3. "ὁ κόσμος οὗτος of course does not only imply 'this present state of things,' but involves the deeper meaning, of the origin of that state of things and its end." - This quote emphasizes that the phrase "this present state of things" encompasses not only the current state but also the origin and ultimate end of the world.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are from beneath; I am from above" - This quote highlights the contrasting origins of Jesus and the people he is addressing. It emphasizes that Jesus is not just a messenger from God, but someone who comes from a completely different realm, making it impossible for them to have a true fellowship.
 2. "Men sprung from and breathing an opposite element from His" - This quote further emphasizes the stark difference between Jesus and the people he is speaking to. It suggests that their very nature and essence are fundamentally different from his, creating a barrier to their eternal togetherness.
 3. "Rendered it impossible that He and they should have any present fellowship" - This quote underscores the immediate inability for Jesus and the people to have any meaningful fellowship. It implies that their contrasting origins and natures make it impossible for them to truly understand and connect with each other.
@@ -52,4 +52,4 @@ These quotes highlight the contrast between the earthly and corrupt nature of hu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

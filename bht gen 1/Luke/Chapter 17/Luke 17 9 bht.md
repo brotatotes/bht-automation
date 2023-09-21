@@ -11,7 +11,7 @@ This verse speaks to the rightful state of our relationship with God and emphasi
 
 3. "And whom we serve."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I trow not" can be understood as a strong denial, expressing the speaker's disbelief or incredulity.
 2. This phrase implies that the speaker considers the idea being presented as highly unlikely or impossible.
 3. The use of "I trow not" suggests a sense of certainty and conviction in the speaker's response.
@@ -56,4 +56,4 @@ This verse speaks to the rightful state of our relationship with God and emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

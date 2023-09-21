@@ -11,7 +11,7 @@ In this Bible verse, the commentators highlight the significance of self-reflect
 
 3. "The collocation of the (imperfect) tenses may be rendered either way." - This statement acknowledges the flexibility in interpreting the tense of the verse, allowing for different translations and interpretations.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we duly judged ourselves, we should not be (or not have been) judged" - This quote emphasizes the importance of self-reflection and self-judgment. By examining our own actions and attitudes, we can avoid being judged by others or facing negative consequences.
 
 2. "In order to duly judge or 'discern [appreciate] the Lord's body,' we need to 'duly judge ourselves'" - This quote highlights the connection between self-judgment and our ability to understand and appreciate the significance of the Lord's body. It suggests that by examining ourselves, we can better comprehend the spiritual significance of the Eucharist.
@@ -63,4 +63,4 @@ In this Bible verse, the commentators highlight the significance of self-reflect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

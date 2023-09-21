@@ -9,7 +9,7 @@ In this verse, the writer appeals to the Corinthians to receive the brethren cou
 2. "The Apostle chooses such general terms as a mild reproof to the Corinthians, who, well aware as they were of the duty of ministering to the saints, were yet somewhat remiss in this particular example of the duty."
 3. "There is an emphasis on γράφειν: 'nam testes habebitis præsentes,' Bengel. Theophyl. well remarks: τοσαῦτα καὶ πρότερον εἰπὼν καὶ πάλιν μέλλων εἰπεῖν, ὅμως περιττὸν αὐτῷ λέγει τὸ περὶ τούτων γράφειν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Show love to the messengers of the churches." 
 2. "Concerning the ministration for the saints, it is superfluous for me to write to you who are so forward already." 
 3. "It is superfluous to 'write,' for you will have witnesses present."
@@ -44,4 +44,4 @@ In this verse, the writer appeals to the Corinthians to receive the brethren cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

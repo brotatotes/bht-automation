@@ -11,7 +11,7 @@ In this Bible verse, Jesus is seen teaching and preaching from a boat, demonstra
 
 3. "νυκτός, the ordinary time of fishing" - This quote explains that the fishing expedition took place during the night, which was the usual time for fishing. This contextual detail helps to understand the circumstances of the disciples' fishing efforts.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'for a draught' refers to the payment or recompense that Jesus offers to Peter for the use of his boat. This highlights the munificence of Jesus, as he generously rewards Peter for his willingness to lend his boat." 
 
 2. "By providing a recompense for the use of his boat, Jesus demonstrates his appreciation for Peter's contribution and the value he places on the partnership between them. This emphasizes the importance of mutual support and collaboration in the work of spreading the Gospel." 
@@ -53,4 +53,4 @@ These quotes emphasize Jesus' role as a teacher and preacher, the need to step o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

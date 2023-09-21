@@ -9,7 +9,7 @@ The Bible verse described above emphasizes the Apostle Paul's desire to serve as
 2. "The offering [up] of the Gentiles may be acceptable, sanctified by the Holy Ghost" - This phrase suggests that the Gentiles themselves are seen as an offering, sanctified by the Holy Spirit, indicating their acceptance and inclusion in the faith.
 3. "The language is evidently figurative... he offers to God the acceptable sacrifice of those who by his means believe on Christ" - The commentary clarifies that the language used here is figurative, emphasizing that Paul's role as a ministering priest is not about literal sacrifices but rather about offering the acceptable sacrifice of believers through his preaching and ministry.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here used is commonly employed to express the office of the priesthood, from which accordingly the figurative language of the rest of the verse is taken."
 2. "As the word here is a still more priestly one, it should be rendered, 'ministering as a priest in the Gospel of God.'"
 3. "The offering up of the Gentiles—as an oblation to God, in their converted character, might be acceptable, being sanctified by the Holy Ghost—the end to which the ancient offerings typically looked."
@@ -57,4 +57,4 @@ The Bible verse described above emphasizes the Apostle Paul's desire to serve as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

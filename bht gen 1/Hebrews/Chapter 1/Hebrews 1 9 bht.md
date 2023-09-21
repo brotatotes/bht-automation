@@ -4,7 +4,7 @@
 This verse depicts the anointing and elevated status of the subject, who is addressed as God. They are characterized by their love of righteousness and their abhorrence of iniquity. As the chosen one, they are anointed with the oil of gladness, symbolizing divine favor and joy. Their position is unrivaled, as they surpass all others in greatness and honor. This verse highlights their purity, divine approval, and elevated status among humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God . . . thy God—JEROME, AUGUSTINE, and others translate Psalms 45:7, 'O God, Thy God, hath anointed thee,' whereby Christ is addressed as God."
 2. "The anointing here meant is not that at His baptism, when He solemnly entered on His ministry for us; but that with the 'oil of gladness,' or 'exulting joy' (which denotes a triumph, and follows as the consequence of His manifested love of righteousness and hatred of iniquity)."
 3. "Thus He is antitype to Solomon, 'chosen of all David's many sons to sit upon the throne of the kingdom of the Lord over Israel,' even as His father David was chosen before all the house of his father's sons."
@@ -48,4 +48,4 @@ This verse depicts the anointing and elevated status of the subject, who is addr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

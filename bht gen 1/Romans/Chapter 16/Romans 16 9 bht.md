@@ -4,7 +4,7 @@
 In this verse, we encounter the names of Urbanus and Stachys, individuals who played significant roles in the early Christian community. Urbanus, known as a fellow laborer in Christ, symbolizes the essence of collaboration and support within the body of believers. Stachys, described as beloved, signifies the deep affection and close bond between this individual and the apostle. Together, these names serve as a reminder of the unity and diversity within the early Christian movement, highlighting the importance of teamwork, love, and the shared responsibility of spreading the gospel message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Urbane—rather, 'Urbanus.' It is a man's name." This quote clarifies that the word "Urbane" should actually be "Urbanus," which is a specific man's name. This adds specificity and accuracy to our understanding of the verse.
 
 2. "Our helper—'fellow labourer' in Christ." This quote highlights the role of Urbanus as a helper and fellow laborer in the context of their shared faith in Christ. It emphasizes the importance of collaboration and support within the Christian community.
@@ -44,4 +44,4 @@ In this verse, we encounter the names of Urbanus and Stachys, individuals who pl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

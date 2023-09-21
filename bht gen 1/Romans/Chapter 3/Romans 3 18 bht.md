@@ -4,7 +4,7 @@
 The verse described in these commentaries highlights the absence of reverence and awe towards God, leading to a disregard for His commands and principles. It emphasizes that without a genuine love for God, one cannot truly understand and appreciate His character and will. The fear of God and the love of God are interconnected, as a true understanding of His holiness and authority should lead to a deep love and devotion towards Him. This verse serves as a reminder of the importance of both reverence and love in our relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did the eyes but 'see Him who is invisible'... a reverential awe of Him with whom we have to do would chasten every joy and lift the soul out of its deepest depressions." 
 2. "How graphic is this picture of human depravity, finding its way through each several organ of the body into the life."
 3. "But how small a part of the 'desperate wickedness' that is within 'proceedeth out of the heart of man!'"
@@ -55,4 +55,4 @@ Note: The commentary does not explicitly reference Psalms 36:1, but provides a b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

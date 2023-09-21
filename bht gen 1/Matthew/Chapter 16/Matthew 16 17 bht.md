@@ -9,7 +9,7 @@ In this Bible verse, a person is declared blessed, not merely praised, as they a
 2. "The reason of it is, the fact that the Father had revealed the Son to him."
 3. "The name Simon Bar Jonas is doubtless used as indicating his fleshly state and extraction, and forming the greater contrast to his spiritual state, name, and blessing, which follow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, in this noble testimony to Christ, only expressed the conviction of all the Twelve."
 2. "He alone seems to have had clear enough apprehensions to put that conviction in proper and suitable words."
 3. "This is not the fruit of human teaching."
@@ -50,4 +50,4 @@ In this Bible verse, a person is declared blessed, not merely praised, as they a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

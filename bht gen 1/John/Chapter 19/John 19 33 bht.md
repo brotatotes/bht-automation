@@ -4,7 +4,7 @@
 The verse being described is about the death of Jesus on the cross. One commentator explains that Jesus' death was prolonged and filled with suffering, unlike the death of the criminals crucified along with Him. Another commentator highlights that Jesus' death was visible and undeniable to those who observed it. Furthermore, the verse mentions that Jesus' legs were not broken, a detail which had a deep theological significance. Finally, it is noted that Jesus' death came more rapidly than expected, showcasing both the cruelty of His tormentors and the divine providence that ensured the completion of His sacrifice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There being in His case elements of suffering, unknown to the malefactors, which might naturally hasten His death, lingering though it always was in such cases, not to speak of His previous sufferings."
 2. "A fact of vast importance, as showing that the reality of His death was visible to those whose business it was to see to it."
 3. "The other divine purpose served by it will appear presently."
@@ -35,4 +35,4 @@ The verse being described is about the death of Jesus on the cross. One commenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

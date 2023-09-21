@@ -9,7 +9,7 @@ In the bustling city of Ephesus, the famous temple of Diana attracted devotees f
 2. "We may find an exact parallel in the usages of that corrupt form of Christianity, which, whatever it may pretend to teach, in practice honours similarly the 'great goddess' of its imagination."
 3. "Chrys. καὶ πῶς ἔνι ναοὺς ἀργυροῦς γενέσθαι; ἴσως ὡς κιβώρια μικρά."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The models of the chapel of our Lady of Loretto, and such like, which the Church of Rome systematically encourages, are such a palpable imitation of this heathen practice that it is no wonder it should be regarded by impartial judges as Christianity paganized."
 2. "Silver shrines were purchased by visitors as memorials of what they had seen, and were carried about and deposited in houses as a charm."
 3. "The gain to the craftsmen refers to the master-artificers who profited from the sale of these silver shrines."
@@ -48,4 +48,4 @@ In the bustling city of Ephesus, the famous temple of Diana attracted devotees f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

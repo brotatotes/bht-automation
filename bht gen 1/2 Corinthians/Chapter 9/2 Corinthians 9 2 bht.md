@@ -9,7 +9,7 @@ This verse describes the Corinthians' readiness and zeal in their act of generos
 2. "The Apostle, judging by their readiness, had made this boast concerning them, supposing it was really so." 
 3. "The zeal which proceeds from you...stirred up the greater number of them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your zeal—Greek, 'the zeal from you,' that is, on your part; propagated from you to others." This quote highlights the active and contagious nature of the Corinthians' zeal, emphasizing that it was not just a personal attribute but something that influenced and inspired others.
 
 2. "Provoked—that is, stimulated." This quote clarifies the meaning of "provoked" in the context of the verse, emphasizing that the Corinthians' zeal was not passive but rather a result of being stimulated or motivated.
@@ -56,4 +56,4 @@ Note: The commentary is referring to 2 Corinthians 9:2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

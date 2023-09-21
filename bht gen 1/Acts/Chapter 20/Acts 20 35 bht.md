@@ -9,7 +9,7 @@ This verse reminds believers of the universal application of Paul's instruction,
 2. "A word used by Paul fourteen times" - This highlights the significance of the word "κοπιῶντας" in Paul's writings, suggesting that it carries a specific meaning or connotation.
 3. "Not here the weak in faith...but the poor" - The commentator argues against the interpretation of "ἀσθενούντων" as referring to the weak in faith, instead suggesting that it refers to the poor. This provides a different perspective on the verse and its intended audience.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That so labouring—as I have done for others as well as myself." - This quote highlights the selfless and sacrificial nature of the apostle Paul's work, serving as an example for others to follow.
 
 2. "Ye ought to support the weak." - This quote emphasizes the importance of caring for and assisting those who are vulnerable or in need, showing compassion and solidarity within the community.
@@ -52,4 +52,4 @@ This verse reminds believers of the universal application of Paul's instruction,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

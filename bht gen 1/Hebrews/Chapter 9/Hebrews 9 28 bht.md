@@ -9,7 +9,7 @@ The Bible verse being described is a powerful reminder of the sacrificial death 
 2. "He shall appear the second time without sin, having done with, separate from, sin."
 3. "The object of Christ’s second appearance shall be, to bring in salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He represents all men of every age, and therefore needed to die but once for all, so as to exhaust the penalty of death incurred by all."
 2. "Our sins were laid on Him. When, therefore, He was lifted up on the cross, He bare up our sins along with Him."
 3. "At His second coming He shall have no more to do with sin, unto salvation—to bring in completed salvation; redeeming then the body which is as yet subject to the bondage of corruption."
@@ -43,4 +43,4 @@ The Bible verse being described is a powerful reminder of the sacrificial death 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

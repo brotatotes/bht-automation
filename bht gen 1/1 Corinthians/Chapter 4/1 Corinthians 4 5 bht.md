@@ -10,7 +10,7 @@ This verse urges us to refrain from passing judgment and making hasty conclusion
 3. "He shall make manifest the counsels of the hearts, then first shewing, what your teachers really are, in heart."
 4. "Then shall the fitting praise accrue to each from God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore—as the Lord is the sole Decider or Dijudicator."
 2. "Here all judgments in general are forbidden, which would, on our part, presumptuously forestall God's prerogative of final judgment."
 3. "Our judgments now (as those of the Corinthians respecting their teachers) are necessarily defective; as we only see the outward act, we cannot see the motives of 'hearts'."
@@ -56,4 +56,4 @@ This verse urges us to refrain from passing judgment and making hasty conclusion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

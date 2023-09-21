@@ -9,7 +9,7 @@ In the midst of a raging storm, the crew of a ship faced imminent danger. Strivi
 2. "That a vessel can anchor by the stern is sufficiently proved by the history of some of our own naval engagements."
 3. "Uncertain, whether their ship might not go down at her anchors: and, even supposing her to ride out the night safely, uncertain whether the coast to leeward might not be iron-bound, affording no beach where they might land in safety."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ancient ships, built with both ends alike, were fitted with hawseholes in the stern, so that in case of need they could anchor either way." 
 2. "The very best thing they could do was to anchor by the stern."
 3. "The ship might go down at her anchors, or the coast to leeward might be iron-bound, affording no beach on which they could land with safety. Hence their anxious longing for day."
@@ -42,4 +42,4 @@ In the midst of a raging storm, the crew of a ship faced imminent danger. Strivi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

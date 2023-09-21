@@ -4,7 +4,7 @@
 In this verse, the speaker conveys a message of great importance, emphasizing that it is not to be taken lightly. The ongoing communication between the speaker and listener highlights a personal and intimate relationship. The small size of the book suggests that it contains profound teachings. The verse introduces a new symbol of "eating the book," which signifies a significant event before the accomplishment of a greater mystery. Taken together, these commentaries shed light on the authority, intimacy, and significance of the message being conveyed in this Bible verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Spake . . . and said" - This emphasizes the importance and authority of the message being conveyed. It suggests that the words spoken are not to be taken lightly or ignored.
 
 2. "I heard again speaking with me, and saying" - This highlights the ongoing communication between the speaker and the listener. It suggests a continuous dialogue or conversation, indicating a personal and intimate relationship.
@@ -49,4 +49,4 @@ Note: The commentary provides some grammatical analysis and points out the use o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

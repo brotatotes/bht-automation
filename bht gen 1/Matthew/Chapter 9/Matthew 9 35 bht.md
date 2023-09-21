@@ -4,7 +4,7 @@
 In this verse, we see Jesus' extensive and continuous ministry as he traveled throughout Galilee, spreading his teachings and performing miracles. He was not confined to one place, but went to various cities and villages, displaying his kindness and compassion. Jesus not only taught in synagogues, sharing words of exhortation, but also healed people from all kinds of physical and spiritual ailments, bringing both physical and spiritual health to those who came to him. His ministry was characterized by actively reaching out to people and meeting their needs, both in body and in soul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The language here is so identical with that used in describing the first circuit, that we may presume the work done on both occasions was much the same. It was just a further preparation of the soil, and a fresh sowing of the precious seed." 
 
 2. "To these fruitful journeyings of the Redeemer, 'with healing in His wings,' Peter no doubt alludes, when, in his address to the household of Cornelius, he spoke of 'How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil: for God was with Him' (Acts 10:38)."
@@ -42,4 +42,4 @@ In this verse, we see Jesus' extensive and continuous ministry as he traveled th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

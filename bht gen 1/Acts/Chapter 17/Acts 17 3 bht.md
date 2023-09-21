@@ -9,7 +9,7 @@ The verse being described speaks of Paul's exposition and propounding of the Scr
 2. "The ὁ χριστός takes up τὸν χριστόν above, and attaches to ὁ Ἰησοῦς the office concerning which this necessity of suffering, &c., was predicated."
 3. "Even the particularity of this παθεῖν ( ἀπέθανεν ) κ . ἀναστῆναι is reproduced in 1 Thessalonians 4:14."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His preaching, it seems, was chiefly expository, and designed to establish from the Old Testament Scriptures that the predicted Messiah was to be a suffering and dying, and therefore a rising, Messiah." 
 2. "The Old Testament Scriptures were the foundation upon which Paul built his case for Jesus as the Messiah." 
 3. "Paul's approach to preaching was rooted in the authority and fulfillment of the Scriptures, showing how Jesus perfectly fulfilled the prophecies and promises of the Old Testament."
@@ -48,4 +48,4 @@ The verse being described speaks of Paul's exposition and propounding of the Scr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

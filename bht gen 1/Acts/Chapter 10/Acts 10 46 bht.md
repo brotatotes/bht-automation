@@ -4,7 +4,7 @@
 In this Bible verse, believers are described as being filled with the Holy Spirit and speaking in tongues. This miraculous gift allows them to speak in languages they have never learned, as a manifestation of God's power. It is a way for them to glorify God and proclaim His wonderful works and graciousness. This event serves as a sign of the Holy Spirit's presence and acceptance of the Gentiles into the fellowship of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having the living discipleship imparted to them and visibly stamped upon them" - This quote highlights the idea that receiving the Holy Spirit is not enough, but baptism is necessary to fully enter into the fellowship of the Church.
 
 2. "What objection can there be to admitting them, by the seal of baptism, into the full fellowship of the Church?" - This quote emphasizes the importance of baptism as a means of formal inclusion into the community of believers.
@@ -46,4 +46,4 @@ In this Bible verse, believers are described as being filled with the Holy Spiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

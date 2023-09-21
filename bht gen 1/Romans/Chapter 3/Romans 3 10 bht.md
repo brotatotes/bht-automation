@@ -4,7 +4,7 @@
 In this verse, the Psalmist's statements reflect the depravity of humanity. The Apostle Paul uses these quotes to show that both Jews and Gentiles are equally dependent on the mercy of God, incapable of being justified by their works. Paul's use of a chain of quotations emphasizes that all are under sin, highlighting the universal nature of human unrighteousness. This verse serves as a summary and sets the tone for the rest of the passage, exposing the absence of righteousness among humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These statements of the Psalmist were indeed suggested by particular manifestations of human depravity occurring under his own eye." 
 2. "This only showed what man, when unrestrained, is in his present condition."
 3. "They were quite pertinent to the apostle's purpose."
@@ -39,4 +39,4 @@ In this verse, the Psalmist's statements reflect the depravity of humanity. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

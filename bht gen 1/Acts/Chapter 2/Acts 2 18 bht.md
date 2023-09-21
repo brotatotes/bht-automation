@@ -9,7 +9,7 @@ This passage expresses the pouring out of the Spirit upon believers, signifying 
 2. "The CODEX VATICANUS...has been occasionally consulted for the verification of certain readings by Tregelles, Tischendorf, and others."
 3. "The CODEX SINAITICUS...has been altered by several different correctors, one or more of whom Tischendorf considers to have lived in the sixth century."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, standing up with the eleven—in advance, perhaps, of the rest." This suggests that Peter took a leadership role among the disciples, stepping forward to address the crowd. 
 
 2. "Peter's boldness and courage are evident in his willingness to speak out in front of a large crowd." This highlights Peter's bravery in proclaiming the message of Jesus, despite the potential opposition or ridicule from the listeners. 
@@ -45,4 +45,4 @@ This passage expresses the pouring out of the Spirit upon believers, signifying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a determined individual with a clear plan in mind. They ha
 2. "He has them in his mind."
 3. "The aim of his scheme is that they may receive him into their houses, give him shelter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His one object—when cast out of one home to secure another." This quote highlights the central focus of the parable, which is the protagonist's determination to find a new home after being rejected from his previous one.
 
 2. "This is the key to the parable, on which there have been many differing views." This quote acknowledges the various interpretations and perspectives that exist regarding the meaning of the parable, emphasizing the complexity and depth of its message.
@@ -49,4 +49,4 @@ In this verse, we see a determined individual with a clear plan in mind. They ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

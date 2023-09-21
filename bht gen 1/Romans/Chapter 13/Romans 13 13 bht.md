@@ -9,7 +9,7 @@ In this verse, the imagery of banqueting is used to convey a sense of abundance,
 2. "Various kinds of wantonness."
 3. "Plural of 1 Peter 2:1: hypocrisies, envies, evil speakings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Men choose the night for their revels, but our night is past, for we are all the children of the light and of the day: let us therefore only do what is fit to be exposed to the light of such a day."
 2. "Not in rioting and drunkenness—varied forms of intemperance; denoting revels in general, usually ending in intoxication."
 3. "Not in chambering and wantonness—varied forms of impurity; the one pointing to definite acts, the other more general."
@@ -60,4 +60,4 @@ In this verse, the imagery of banqueting is used to convey a sense of abundance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

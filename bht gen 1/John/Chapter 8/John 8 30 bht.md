@@ -9,7 +9,7 @@ With words of majesty and authority, Jesus spoke about his impending crucifixion
 2. "Faith wrought by hearing is higher than that by miracles."
 3. "But still wanted confirming."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of wondering at this, the wonder would be if words of such unearthly, surpassing grandeur could be uttered without captivating some that heard them."
 2. "And just as 'all that sat in the council' to try Stephen 'saw his face'—though expecting nothing but death—'as it had been the face of an angel,' so may we suppose that, full of the sweet supporting sense of His Father's presence, amidst the rage and scorn of the rulers, a divine benignity beamed from His countenance."
 3. "Irradiated the words that fell from Him, and won over the candid 'many' of His audience."
@@ -58,4 +58,4 @@ These quotes highlight the perseverance of God's word, even in seemingly unfavor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

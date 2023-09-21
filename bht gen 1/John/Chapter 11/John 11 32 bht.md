@@ -9,7 +9,7 @@ In this Bible verse, we see a poignant scene where Mary, overcome with grief and
 2. "She was perhaps interrupted by the arrival of the Jews."
 3. "When the genitive of the enclitic personal pronoun is prefixed to its substantive, a slight sense of the dativus commodi is given."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Master is come and calleth for thee" - This quote highlights the urgency and significance of Jesus' arrival. It emphasizes that Jesus is not just visiting, but specifically requesting Lazarus' presence.
 2. "The narrative does not give us this interesting detail" - This quote acknowledges that the specific mention of Jesus calling for Lazarus is not explicitly stated in the biblical account. It suggests that Martha's words provide additional insight and context to the story.
 3. "Martha's words do" - This quote emphasizes the importance of Martha's statement, indicating that her words reveal a deeper understanding of Jesus' intentions and actions. It suggests that her words contribute to the overall understanding of the story.
@@ -45,4 +45,4 @@ In this Bible verse, we see a poignant scene where Mary, overcome with grief and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

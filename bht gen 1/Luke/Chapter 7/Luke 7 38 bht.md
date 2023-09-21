@@ -4,7 +4,7 @@
 The verse describes a remarkable scene where a woman, overcome by love and gratitude, washes Jesus' feet with her tears and dries them with her hair. Her actions serve as a genuine expression of deep reverence and penitence. With her tears taking the place of water, she demonstrates her desire to anoint Jesus' feet with the ointment she had brought. This act of humility and sacrifice displays her gratitude for forgiveness and her unwavering devotion to the Savior.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tears, which were quite involuntary, poured down in a flood upon His naked feet, as she bent down to kiss them and deeming them rather fouled than washed by this, she hastened to wipe them off with the only towel she had, the long tresses of her own hair." 
 2. "The word signifies 'to kiss fondly, to caress,' or to 'kiss again and again,' which shows is meant here. What prompted this? Much love, springing from a sense of much forgiveness."
 3. "No personal interview had up to this time taken place between them but she could keep her feelings no longer to herself, and having found her way to Him, they burst forth in this surpassing yet most artless style, as if her whole soul would go out to Him."
@@ -40,4 +40,4 @@ The verse describes a remarkable scene where a woman, overcome by love and grati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

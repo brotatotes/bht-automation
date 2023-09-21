@@ -9,7 +9,7 @@ The Bible is the divinely inspired Word of God, not mere human writings. Its aut
 2. "The man of God may be perfect, thoroughly made ready to every good work."
 3. "The value of Scripture lies not only in its inspiration, but also in its profitableness for the spiritual life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every Scripture given by inspiration of God is also profitable." - This quote emphasizes the divine inspiration of all Scripture and highlights its usefulness for believers.
 
 2. "All Scripture is God-inspired and therefore useful." - This quote clarifies that the usefulness of Scripture is a result of its divine inspiration, rather than the other way around.
@@ -59,4 +59,4 @@ These quotes highlight the grammatical nuances and different ways to understand 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the chosen servant, the beloved of God, is described as one
 2. "In these words the majesty of his future glory is contrasted with the meekness about to be spoken of."
 3. "'And yet He shall not,' &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased." This verse highlights the special relationship between God and Jesus, emphasizing Jesus' divine selection and the pleasure God finds in him.
 2. "I will put my Spirit upon him." This phrase reveals that Jesus is empowered by the Holy Spirit, indicating his divine authority and the source of his miraculous works.
 3. "He shall show judgment to the Gentiles." This statement signifies that Jesus' mission extends beyond the Jewish people to include the Gentiles, demonstrating his role as a universal savior and judge.
@@ -45,4 +45,4 @@ In this Bible verse, the chosen servant, the beloved of God, is described as one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ From the compassionate mercy of our God springs forth the dayspring from on high
 2. "The word had come apparently to be a name for the Messiah: thus in ref. Zech. ἰδοὺ ἀνήρ, Ἀνατολὴ ὄνομα αὐτῷ: and then figures arising from the meaning of the word itself, became mixed with that which was said of Him."
 3. "The day-spring does not come ἐξ ὕψους, but from beneath the horizon; but the Messiah does."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through the tender mercy of our God—the sole spring, necessarily, of all salvation for sinners." 
 2. "Christ Himself, as the 'Sun of righteousness,' arising on a dark world." 
 3. "The light which He sheds."
@@ -55,4 +55,4 @@ From the compassionate mercy of our God springs forth the dayspring from on high
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

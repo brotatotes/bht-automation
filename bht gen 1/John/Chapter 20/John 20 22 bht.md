@@ -9,7 +9,7 @@ In this Bible verse, the disciples receive a symbolic impartation of the Holy Sp
 2. "The presence of the Lord among them now was a slight and temporary fulfilment of His promise of returning to them; and so the imparting of the Spirit now, was a symbol and foretaste of that which they should receive at Pentecost."
 3. "This giving of the Spirit was not the Spirit’s personal imparting of Himself to them, but only a partial instilling of His influence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He breathed on them—a symbolical conveyance to them of the Spirit." This quote highlights the significance of Jesus breathing on the disciples as a symbolic act of imparting the Holy Spirit to them.
 
 2. "Receive ye the Holy Ghost—an earnest and first-fruits of the more copious Pentecostal effusion." This quote emphasizes that the disciples receiving the Holy Spirit at this moment was just a foretaste of the more abundant outpouring that would occur at Pentecost.
@@ -55,4 +55,4 @@ In this Bible verse, the disciples receive a symbolic impartation of the Holy Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

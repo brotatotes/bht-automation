@@ -11,7 +11,7 @@ The verse being described is a reminder that leaders in the Corinthian church, s
 
 3. "ἑκάστῳ ὡς...ὁ κύρ. ἑκάστῳ" - This phrase refers to the hearers, not the teachers, highlighting the intended audience of the verse and clarifying the relationship between the Corinthians and their leaders.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How much more does humility, rather than self-seeking, become ordinary ministers!"
 2. "He puts Apollos before himself in humility."
 3. "Who is Apollos . . . Paul? (mere) ministers (a lowly word appropriate here, servants), by whom (not 'in whom' by whose ministrations) ye believed."
@@ -54,4 +54,4 @@ The verse being described is a reminder that leaders in the Corinthian church, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This Bible verse speaks about the discipline and education that Christians receive through the grace of God. By denying ungodliness and worldly lusts, they live a sober, righteous, and godly life. This discipline entails abstaining from and detesting such desires, while also prudently and justly carrying out their duties towards others. The Gospel promotes godliness and teaches believers to live with self-control and piety, cultivating purity and holiness in all aspects of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The education which the Christian receives from 'the grace' of God is a discipline often trying to flesh and blood: just as children need disciplining."
 2. "The discipline which it exercises teaches us to deny ungodliness and worldly lusts, and to live soberly, righteously, and godly, in this present world where such self-discipline is needed."
 3. "We deny 'worldly lusts' when we withhold our consent from them, when we refuse the delight which they suggest, and the act to which they solicit us, nay, tear them up by the roots out of our soul and mind."
@@ -43,4 +43,4 @@ This Bible verse speaks about the discipline and education that Christians recei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The prophetic writings, containing the hidden mysteries of God's plan for salvat
 2. "The manifestation of the mystery by the preachers of the gospel thus taking place."
 3. "The aim in order to their becoming obedient to the faith: the second, the local extent of the manifestation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The introduction of the Gentile believers to an equality with their Jewish brethren, and the new, and, to the Jews, quite unexpected form which this gave to the whole Kingdom of God."
 2. "This the apostle calls here a mystery hitherto undisclosed, in what sense Romans 16:25 will show, but now fully unfolded."
 3. "The Scriptures of the prophets contain all that he and other preachers of the Gospel had to declare on these topics, and indeed that the same 'everlasting God,' who 'from eternal ages' had kept these things hid, had given 'commandment' that they should now, according to the tenor of those prophetic Scriptures, be imparted to every nation for their believing acceptance."
@@ -43,4 +43,4 @@ The prophetic writings, containing the hidden mysteries of God's plan for salvat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

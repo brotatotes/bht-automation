@@ -4,7 +4,7 @@
 In this verse, believers are promised an eternal state in which all their physical and spiritual needs are abundantly met. The verse emphasizes the complete satisfaction and fulfillment that they will experience, highlighting the absence of hunger, thirst, and other earthly hardships. The verse also underscores the spiritual nature of the future life, contrasting it with shallow materialistic conceptions. Ultimately, believers will dwell in God's presence, where they will be shielded from the difficulties of life, and His divine guidance will provide light and protection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hunger no more - as they did here."
 2. "Thirst any more - the sun, literally scorching in the East."
 3. "Neither... light - by no means at all... light (fall)."
@@ -46,4 +46,4 @@ These quotes provide insights into the verse's message of eternal satisfaction, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

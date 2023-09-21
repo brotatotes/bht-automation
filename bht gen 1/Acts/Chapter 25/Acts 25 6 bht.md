@@ -9,7 +9,7 @@ In this passage, we encounter a significant time constraint as the governor, Fes
 2. "It is possible, as Meyer also observes, that a perverted notion of the necessity of an absolute precision in details in the inspired text, may have occasioned the erasure of one of the numbers."
 3. "The erasure of one of the numbers may have been due to a perverted notion of the necessity of an absolute precision in details in the inspired text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul is in custody at Caesarea." 
 2. "Paul himself would depart shortly thither." 
 3. "Paul should be kept."
@@ -49,4 +49,4 @@ In this passage, we encounter a significant time constraint as the governor, Fes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

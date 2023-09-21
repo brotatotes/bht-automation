@@ -4,7 +4,7 @@
 In this verse, it is revealed that those who disregard and neglect their duty to show love and compassion towards others will face severe consequences. These individuals will be separated from God's presence and cast into eternal punishment. The punishment will be everlasting, just as the rewards of righteousness and salvation are, emphasizing the importance of actively pursuing a life of faith and righteousness. The verse further emphasizes that hell was not originally intended for humans but was prepared for the devil and his angels, underscoring the tragic outcome of rejecting God's grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As for you on the left hand, ye did nothing for Me. I came to you also, but ye knew Me not: ye had neither warm affections nor kind deeds to bestow upon Me: I was as one despised in your eyes."
 2. "But thus ye treated these little ones that believe in Me and now stand on My right hand. In the disguise of these poor members of Mine I came soliciting your pity, but ye shut up your bowels of compassion from Me: I asked relief, but ye had none to give Me."
 3. "Take back therefore your own coldness, your own contemptuous distance: Ye bid Me away from your presence, and now I bid you from Mine—Depart from Me, ye cursed!"
@@ -40,4 +40,4 @@ In this verse, it is revealed that those who disregard and neglect their duty to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

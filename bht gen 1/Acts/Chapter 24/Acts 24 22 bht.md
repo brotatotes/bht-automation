@@ -9,7 +9,7 @@ The commentator quotes reveal that the verse in question involves a situation wh
 2. "He put them off to another time, not as requiring any more information about 'the way,' for that matter he knew before"
 3. "I will adjudge your matters"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having more perfect knowledge of that—"the" way—" - This quote highlights the commentator's emphasis on the specific way or path being referred to in the verse, suggesting that there is a deeper understanding or insight to be gained.
 2. "Felix might have dismissed the case as a tissue of unsupported charges." - This quote suggests that Felix had the power to dismiss the case against Paul, but his interest in the matter led him to consider the presence of other parties involved, indicating a potential bias or preconceived notions.
 3. "Acts 24:2- :, however, seems to show that at that time his prepossessions in favor of Paul were strong." - This quote implies that there is evidence in Acts 24:2- that suggests Felix had a favorable opinion of Paul, further highlighting the potential bias in the case.
@@ -50,4 +50,4 @@ The commentator quotes reveal that the verse in question involves a situation wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

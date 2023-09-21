@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the universal significance of Ch
 2. "In order to confine the women to their true limits, he reminds them of their subjection to the man, to whom again he assigns his place in the spiritual order of creation, and traces this precedence up to God Himself."
 3. "Observe that though the distinction of the sexes is abolished in Christ, as far as the offer of and standing in grace is concerned, yet for practical purposes, and for order and seemliness, it subsists and must be observed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel, doubtless, did raise women from the degradation in which they had been sunk, especially in the East."
 2. "Yet, while on a level with males as to the offer of, and standing in grace, their subjection in point of order, modesty, and seemliness, is to be maintained."
 3. "He grounds his reproof here on the subjection of woman to man in the order of creation."
@@ -51,4 +51,4 @@ These quotes highlight the contrast between the censure and praise in the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

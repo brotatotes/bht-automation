@@ -9,7 +9,7 @@ In this verse, the Jewish chief priests, who were meant to recognize God as thei
 2. "However, it furthered the present purpose, and to this all was sacrificed, including truth itself." 
 3. "The confession was not only degrading, but false in their mouths."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Crucify your King? . . . We have no king but Cæsar." - This quote highlights the irony of the situation, as the Jewish leaders, who were supposed to be waiting for the Messiah, rejected Jesus as their King and instead proclaimed their allegiance to Caesar. 
 
 2. "Some of those who thus cried died miserably in rebellion against Cæsar forty years afterwards." - This quote points out the consequences of their decision to reject Jesus as their King. The Jewish people who rejected Jesus and chose Caesar eventually faced the wrath of Rome during the Jewish rebellion, resulting in their own destruction and suffering. 
@@ -47,4 +47,4 @@ Note: The commentary does not provide any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a strong condemnation of lukewarm faith and indifference. It addresses the Church with a warning that being half-hearted in serving God and being indifferent to religion is loathsome to Christ. This warning carries a sense of urgency, as Christ is about to reject and cast out those who do not repent. The verse uses vivid imagery of spewing lukewarm water and emphasizes the severe consequences of lukewarmness in the eyes of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord addresses the angel as the embodiment and representative of the Church."
 2. "The chief minister is answerable for his flock if he have not faithfully warned the members of it."
 3. "I have it in my mind: implying graciously the possibility of the threat not being executed, if only they repent at once."
@@ -45,4 +45,4 @@ The verse being described is a strong condemnation of lukewarm faith and indiffe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

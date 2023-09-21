@@ -4,7 +4,7 @@
 The verse being described emphasizes the unique relationship between the Father and the Son, highlighting the divine act of bestowing a special gift upon the Son. It speaks to the eternal nature of the Son's existence, affirming that He has always been begotten by the Father. Furthermore, it emphasizes the Son's divine nature and self-sufficiency, suggesting that He possesses inherent life and serves as the source of life for others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Does this refer to the essential life of the Son before all time...or to the purpose of God that this essential life should reside in the Person of the Incarnate Son?" 
 2. "The question is as difficult as the subject is high."
 3. "All that Christ says of His essential relation to the Father is intended to explain and exalt His mediatorial functions."
@@ -50,4 +50,4 @@ The verse being described emphasizes the unique relationship between the Father 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

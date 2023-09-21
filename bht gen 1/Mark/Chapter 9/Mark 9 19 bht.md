@@ -9,7 +9,7 @@ In this passage, Jesus expresses frustration towards the lack of faith among the
 2. "The additional words καὶ διεστραμμένη (Matt. Luke) are probably from Deuteronomy 32:5."
 3. "The race and generation among whom the Lord’s ministry was fulfilled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is to us surprising that some interpreters...should represent this rebuke as addressed, not to the disciples at all, but to the scribes who disputed with them."
 2. "With BENGEL, DE WETTE, and MEYER, we regard it as addressed directly to the nine apostles who were unable to expel this evil spirit."
 3. "And who does not see that this was fitted, more than anything else, to impress upon the by-standers the severe loftiness of the training He was giving to the Twelve, and the unsophisticated footing He was on with them?"
@@ -40,4 +40,4 @@ In this passage, Jesus expresses frustration towards the lack of faith among the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

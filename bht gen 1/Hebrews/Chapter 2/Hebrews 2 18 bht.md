@@ -9,7 +9,7 @@ In that he hath suffered being tempted himself, this verse speaks of Jesus' pers
 2. "The δύναται βοηθῆσαι here is not to be understood of the power to which the Lord has been exalted through death and suffering to be a Prince and a Saviour, which is not here in question: but of the power of sympathy which He has acquired by personal experience of our sufferings."
 3. "The N. T. Messiah is above Moses, because He, α . of Himself, as Son of the house, is above him who was only the servant of the house, and, β . because the work, of bringing Israel into rest, which was not finished by Moses, is now finished by Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is able to succor them that are being tempted" in the same temptation; and as "He was tempted (tried and afflicted) in all points," He is able (by the power of sympathy) to succor us in all possible temptations and trials incidental to man."
 2. "He is the antitypical Solomon, having for every grain of Abraham's seed (which were to be as the sand for number), 'largeness of heart even as the sand that is on the seashore.'"
 3. "Not only as God He knows our trials, but also as man He knows them by experimental feeling."
@@ -55,4 +55,4 @@ In that he hath suffered being tempted himself, this verse speaks of Jesus' pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

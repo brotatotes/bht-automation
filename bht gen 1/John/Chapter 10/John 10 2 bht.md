@@ -4,7 +4,7 @@
 The verse being described depicts a true shepherd, recognized by God, entering through the proper door with a genuine concern for the well-being of the sheep. This shepherd is a symbol of care, protection, and guidance, leading the sheep to green pastures and still waters, providing nourishment and rest. Jesus uses this metaphor to highlight his role as the ultimate shepherd, in contrast to false shepherds who seek to deceive and exploit. He is the one who cares for and guides his followers, drawing a sharp contrast between himself and those lacking compassion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that entereth in by the door" refers to a true shepherd who is recognized by God. This implies that there are false shepherds who try to enter through other means, seeking to deceive and exploit the sheep.
 
 2. The door represents the proper and legitimate way to enter into the role of a shepherd. It signifies the authority and calling given by God to care for His people.
@@ -37,4 +37,4 @@ The verse being described depicts a true shepherd, recognized by God, entering t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

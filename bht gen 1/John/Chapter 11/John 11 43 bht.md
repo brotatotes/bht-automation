@@ -9,7 +9,7 @@ In this verse, Jesus performs a miraculous act by calling Lazarus back to life. 
 2. "κραυγάζειν was not His wont: see Matthew 12:19. This cry signified that greater one, which all shall hear, ch. John 5:28."
 3. "Some suppose that the revivification had taken place before εὐχαριστῶ σοι, and these words were merely a summoning forth. But this is highly improbable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His last utterance was a 'loud cry'... What a sublime contrast is this 'loud cry' to the magical 'whisperings' and 'mutterings' of which we read in Isaiah 8:19; Isaiah 29:4 (as GROTIUS remarks)!"
 2. "It is second only to the grandeur of that voice which shall raise all the dead."
 3. "His 'loud cry' on the cross signifies the completion of His redemptive work and the victory over sin and death."
@@ -51,4 +51,4 @@ In this verse, Jesus performs a miraculous act by calling Lazarus back to life. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

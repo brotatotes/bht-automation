@@ -9,7 +9,7 @@ In the face of provocation, don't succumb to revenge, but rather conquer evil wi
 2. "Do not thus, but in this, and in all things, overcome the evil (in others) by your good." 
 3. "Overcoming evil with good is not only a powerful response, but it also aligns with the teachings of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not overcome of evil—for then you are the conquered party. but overcome evil with good—and then the victory is yours; you have subdued your enemy in the noblest sense."
 2. "Christians should not feel themselves at liberty to be conformed to the world, if only they avoid what is manifestly sinful; but rather, yielding themselves to the transforming power of the truth as it is in Jesus, they should strive to exhibit before the world an entire renovation of heart and life."
 3. "What would the world be, if it were filled with Christians having but one object in life, high above every other—to 'serve the Lord'—and throwing into this service 'alacrity' in the discharge of all duties, and abiding 'warmth of spirit'!"
@@ -48,4 +48,4 @@ In the face of provocation, don't succumb to revenge, but rather conquer evil wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this description, the verses being discussed are emphasized as being taught a
 2. "The Apostle is giving a test to distinguish, not the children of God from those who are not children of God, but the spirit of truth from the spirit of error."
 3. "The reception of the false teachers by the world, the reception of the true teachers by those that apprehend God, and their rejection by those who are not of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We—true teachers of Christ: in contrast to them."
 2. "are of God—and therefore speak of God: in contrast to 'speak they of the world.'"
 3. "heareth us—Compare 1 John 2:14- :, 'Every one that is of the truth, heareth My voice.'"
@@ -54,4 +54,4 @@ In this description, the verses being discussed are emphasized as being taught a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

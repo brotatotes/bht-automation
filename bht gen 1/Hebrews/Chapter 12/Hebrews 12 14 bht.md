@@ -10,7 +10,7 @@ The verse being described speaks to the importance of actively pursuing peace wi
 2. "The sentiment thus is the same as in Romans 14:19, ἄρα οὖν τὰ τῆς εἰρήνης διώκωμεν, καὶ τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους."
 3. "And sanctification... the wider meaning, as a rule, must always be kept where the context does not require a narrower."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Follow peace with all men—with the brethren especially, that so the 'lame' among them be not 'turned out of the way' and that no one of them 'fail of the grace of God.'" (Hebrews 12:13)
 2. "His is absolute holiness: our part is to put on His holiness, becoming 'holy as He is holy,' by sanctification." (Hebrews 12:13)
 3. "Without holiness in them, they could not enjoy Him who is holiness itself." (Zechariah 14:20)
@@ -58,4 +58,4 @@ The verse being described speaks to the importance of actively pursuing peace wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

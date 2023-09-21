@@ -9,7 +9,7 @@ In this verse, the writer, addressing his readers with affectionate terms, empha
 2. "The very announcement there made, that if we confess our sins He in His faithfulness and righteousness will cleanse us from all sin, sufficiently substantiates what the Apostle here says."
 3. "The hypothesis is made, as ever by this formula, purely and generally. The resumption of the first person immediately, makes it evident that the hypothesis is in fact realized in us all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My purpose in writing what I have just written is not that you should abuse them as giving a license to sin but, on the contrary, 'in order that ye may not sin at all.'" 
 2. "The divine purpose has for its aim, either to prevent the commission of, or to destroy sin."
 3. "Advocacy is God's family blessing; other blessings He grants to good and bad alike, but justification, sanctification, continued intercession, and peace, He grants to His children alone."
@@ -48,4 +48,4 @@ In this verse, the writer, addressing his readers with affectionate terms, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

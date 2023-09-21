@@ -11,7 +11,7 @@ The narrative of Stephen's extraordinary life and faith is just beginning to unf
 2. "χάριτος, divine grace (not ‘favour with the people’): the effects of which, the miracles, were called χαρίσματα."
 3. "The miracles performed by Stephen were not just a display of power, but a manifestation of the divine grace bestowed upon him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The foregoing narrative seems to be only an introduction to what follows." This suggests that there is more to come in the story of Stephen and his faith, indicating that his actions and words are significant and worth paying attention to.
 
 2. "Full of grace." This alternative reading of the phrase "full of faith" highlights the idea that Stephen's faith is not just a belief, but a manifestation of God's grace working in and through him. It emphasizes the divine empowerment and favor that enables Stephen to live out his faith boldly.
@@ -52,4 +52,4 @@ The narrative of Stephen's extraordinary life and faith is just beginning to unf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

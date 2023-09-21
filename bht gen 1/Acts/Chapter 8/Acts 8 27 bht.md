@@ -11,7 +11,7 @@ In this Bible verse, we see the walls of separation being broken down as the Gos
 
 3. "The way gradually paved for the great and as yet incomprehensible truth of Galatians 3:28."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Eunuchs were generally employed for confidential offices in the East, and to some extent are still." 
 2. "Candace—the family name of the queens of Upper Egypt, like Pharaoh, Cæsar, c. (as appears from classic authors)." 
 3. "He had come to Jerusalem to worship—that is, to keep the recent feast of Pentecost, as a Gentile proselyte to the Jewish faith."
@@ -55,4 +55,4 @@ In this Bible verse, we see the walls of separation being broken down as the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

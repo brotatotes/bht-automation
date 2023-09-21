@@ -11,7 +11,7 @@ In the face of suffering endured by the faithful, it is crucial to remember that
 
 3. "This addition, ἐν ἀγαθοπ ., shews that the confident surrender to God is to be joined, not with careless indolence, but with active practice of good."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing that the godly know that their sufferings are by God's will, to chasten them that they may not perish with the world, they have good reason to trust God cheerfully amidst sufferings, persevering in well-doing."
 2. "Not only under ordinary circumstances, but also in time of suffering, let believers commit [themselves to God]."
 3. "Our committing of ourselves to God is to be, not in indolent and passive quietism, but accompanied with active well-doings."
@@ -62,4 +62,4 @@ These quotes emphasize the importance of trusting in God's will, committing our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

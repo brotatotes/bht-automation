@@ -9,7 +9,7 @@ The verse being described is a call for believers to strengthen their hearts thr
 2. "The coming of the Lord is nigh (perf.: ‘hath (already) drawn near, and is therefore at hand,’ as the perfects ἕστηκα , ἔγνωκα , &c.)"
 3. "Colligendum robur ad durandum: colligi autem melius non potest, quam ex spe et quasi intuitu propinqui adventus Domini."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are to live in a continued state of expectancy of the Lord's coming, as an event always nigh."
 2. "Nothing can more 'stablish the heart' amidst present troubles than the realized expectation of His speedy coming."
 3. "The Greek expresses present time and a settled state, 'is at hand.'"
@@ -52,4 +52,4 @@ The verse being described is a call for believers to strengthen their hearts thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

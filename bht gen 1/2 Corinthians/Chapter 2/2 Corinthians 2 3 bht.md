@@ -9,7 +9,7 @@ In this passage, the author writes to the Corinthians about his change of plans,
 2. "Trusting that you too would feel that there was sufficient reason for the postponement, if it interfered with our mutual joy."
 3. "Meyer well observes, that 'πάντας ὑμᾶς', in spite of the existence of an anti-pauline faction in the Corinthian church, is a true example of the love which 'πάντα πιστεύει, πάντα ἐλπίζει'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He refers to the first Epistle... The latter happy effect was produced by his first Epistle, whereas the former would have been the result, had he then visited them as he had originally proposed."
 2. "Trusting that you, too, would feel that there was sufficient reason for the postponement, if it interfered with our mutual joy."
 3. "The communion of saints, he feels confident in them 'ALL'... will make his joy their joy."
@@ -50,4 +50,4 @@ In this passage, the author writes to the Corinthians about his change of plans,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

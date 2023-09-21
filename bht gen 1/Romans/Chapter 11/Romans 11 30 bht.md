@@ -9,7 +9,7 @@ In the Bible verse being described, it speaks of the transformation from a state
 2. "The breaking off of the natural branches giving opportunity for the grafting in of you."
 3. "They have become disobedient to the mercy shown to you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For as ye in times past have not believed—or, 'obeyed' God—that is, yielded not to God 'the obedience of faith,' while strangers to Christ." 
 
 2. "yet now have obtained mercy through—by occasion of their unbelief." 
@@ -40,4 +40,4 @@ In the Bible verse being described, it speaks of the transformation from a state
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

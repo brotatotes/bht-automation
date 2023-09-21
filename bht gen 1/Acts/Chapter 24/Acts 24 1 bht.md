@@ -9,7 +9,7 @@ In this Bible verse, we encounter Paul's trial where he is accused by the Sanhed
 2. "This is one of the cases where, in the present state of our evidence, we are obliged to adopt readings which are not according to subjective canons of criticism."
 3. "An orator forensis or causidicus, persons who abounded in Rome and the provinces."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ananias . . . with the elders—a deputation of the Sanhedrim." 
 2. "A certain orator—one of those Roman advocates who trained themselves for the higher practice of the metropolis by practicing in the provinces."
 3. "Informed . . . against Paul—"laid information," that is, put in the charges."
@@ -47,4 +47,4 @@ In this Bible verse, we encounter Paul's trial where he is accused by the Sanhed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

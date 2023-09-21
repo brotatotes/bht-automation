@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the significance of hearing and under
 2. "The publication of the Gospel produces belief in it."
 3. "The hearing is by means of the word of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith cometh by hearing" - This verse emphasizes the importance of actively listening to the Word of God in order to develop faith. It implies that faith is not a passive belief, but rather a response to hearing and understanding the message of God.
 
 2. "Hearing by the word of God" - This phrase highlights the authority and power of the Word of God. It suggests that true hearing and understanding can only come through the divine revelation found in the Scriptures.
@@ -59,4 +59,4 @@ Note: The commentary provides an explanation of how faith is obtained through he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

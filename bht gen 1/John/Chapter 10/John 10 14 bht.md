@@ -4,7 +4,7 @@
 In this Bible verse, the speaker identifies himself as the good shepherd, indicating his role in guiding and providing for his followers. He emphasizes the intimate and personal relationship he has with his sheep, knowing them individually and intimately. The sheep, in turn, reciprocate this knowledge by recognizing and acknowledging the shepherd, trusting him and demonstrating their love and loyalty. This verse underscores the importance of a deep connection with Jesus, highlighting that true discipleship involves more than outward actions, but rather a profound and personal relationship with the Savior.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the good shepherd, and know my sheep—in the peculiar sense of am known of mine—the soul's response to the voice that has inwardly and efficaciously called it; for of this mutual loving acquaintance ours is the effect of His." 
 2. "The Redeemer's knowledge of us is the active element, penetrating us with His power and life; that of believers is the passive principle, the reception of His life and light." 
 3. "In this reception, however, an assimilation of the soul to the sublime object of its knowledge and love takes place; and thus an activity, though a derived one, is unfolded, which shows itself in obedience to His commands."
@@ -45,4 +45,4 @@ In this Bible verse, the speaker identifies himself as the good shepherd, indica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

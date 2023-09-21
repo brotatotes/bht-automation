@@ -9,7 +9,7 @@ In this verse, the person described experiences a humbling and transformative ev
 2. "At his first and second request, no answer was given to him: on the third occasion, it came."
 3. "In respect of this angel of Satan, I thrice besought the Lord that he might depart from me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To his third the answer came, which satisfied his faith and led him to bow his will to God's will."
 2. "So Paul's master, Jesus, thrice prayed on the Mount of Olives, in resignation to the Father's will."
 3. "Escape from the cross is not to be sought even indirectly from Satan."
@@ -55,4 +55,4 @@ In this verse, the person described experiences a humbling and transformative ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

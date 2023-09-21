@@ -4,7 +4,7 @@
 From the commentators' insights, we understand that this verse depicts the corrupt nature of the human heart. It reveals that evil thoughts and reasonings are the source of sinful actions. The verse highlights the progression of sin, starting from wicked thoughts and leading to various transgressions, such as murder and covetousness. It also warns against harmful speech, encompassing reviling, backbiting, and other forms of verbal abuse. Overall, this verse serves as a profound reminder of the need for vigilance in guarding our hearts and minds against sinful inclinations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first shape which the evil that is in the heart takes, when it begins actively to stir, is that of 'considerations' or 'reasonings' on certain suggested actions."
 2. "Here the reference seems to be to detractions, whether directed against God or man."
 3. "How appalling is this black catalogue!"
@@ -44,4 +44,4 @@ From the commentators' insights, we understand that this verse depicts the corru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

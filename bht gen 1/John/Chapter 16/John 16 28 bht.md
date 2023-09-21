@@ -9,7 +9,7 @@ This verse, containing a great summary, emphasizes the divinity and divine missi
 2. "And your belief is sound: for I did indeed come forth" - Jesus (John 13:3)
 3. "Exiit a Patre, quia de Patre est; in mundum venit, quia mundo suum corpus ostendit quod de virgine assumpsit; reliquit mundum corporali discessione, perrexit ad Patrem hominis adscensione, nec mundum deseruit præsentiæ gubernatione." - Augustine (He came forth from the Father because He is from the Father; He came into the world because He showed His body, which He assumed from the Virgin, to the world; He left the world by His bodily departure, He went to the Father by His ascension as man, and He did not abandon the world by His governing presence.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I came forth from the Father" - Jesus affirms his divine origin and his connection to God the Father. This statement emphasizes his preexistence and divine nature.
 
 2. "I have indeed so come forth" - Jesus confirms the truth of his coming from the Father. This reinforces his divine mission and purpose on earth.
@@ -54,4 +54,4 @@ This verse, containing a great summary, emphasizes the divinity and divine missi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

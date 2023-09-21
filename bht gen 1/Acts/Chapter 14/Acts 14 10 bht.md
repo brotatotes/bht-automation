@@ -8,7 +8,7 @@ In this powerful biblical account, a man who had been lame from birth finds hims
 1. "Raising his voice above the tone in which he was before speaking."
 2. "The article is important."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A certain man, a cripple from his mother's womb, heard Paul speak." This highlights the miraculous nature of the healing that is about to take place. The man's condition from birth emphasizes the severity of his disability and sets the stage for the extraordinary power of God to be displayed through Paul's ministry.
 
 2. "The same heard Paul speak—in the open air and to a crowd of people." This emphasizes the public nature of the healing and the impact it had on the surrounding audience. The healing was not done in secret but was witnessed by many, further validating the power and authority of Paul's message.
@@ -49,4 +49,4 @@ In this powerful biblical account, a man who had been lame from birth finds hims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

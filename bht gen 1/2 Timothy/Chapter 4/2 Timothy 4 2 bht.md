@@ -9,7 +9,7 @@ The verse being described emphasizes the urgency, constancy, and dedication requ
 2. "There seems no need to confine the sense so narrowly. The quotations in De W. himself justify the meaning of 'press on,' 'be urgent,' generally: not perhaps in preaching only, but in the whole work of the ministry."
 3. "The junction is harsh, but not therefore to be avoided. Of course, hendiadys (= ἐν πάσῃ μακροθυμίᾳ διδαχῆς , Grot., Rosenm.) is out of the question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Preach—literally, 'proclaim as a herald.' The term for the discourses in the synagogue was daraschoth; the corresponding Greek term (implying dialectial style, dialogue, and discussion) is applied in Acts to discourses in the Christian Church." 
 
 2. "The bishops and presbyters had the right and duty to preach, but they sometimes called on deacons, and even laymen, to preach. In this, the Church imitated the synagogue." 
@@ -61,4 +61,4 @@ The verse being described emphasizes the urgency, constancy, and dedication requ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

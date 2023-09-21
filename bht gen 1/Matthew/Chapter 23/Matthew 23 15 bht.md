@@ -9,7 +9,7 @@ The verse being described condemns the scribes and Pharisees for their hypocrisy
 2. "These were rare and it was to the credit of our nature that they were. For what could such a proselyte, made by such teachers, become? A disciple of hypocrisy merely neither a sincere heathen nor a sincere Jew doubly the child of hell condemned by the religion which he had left condemned again by that which he had taken."
 3. "The expression διπλότερον ὑμῶν occurs in the same connexion, and probably in allusion to this passage, in Justin Martyr, Tryph. § 122, p. 215, οἱ δὲ προσήλυτοι οὐ μόνον οὐ πιστεύουσιν, ἀλλὰ διπλότερον ὑμῶν βλασφημοῦσιν εἰς τὸ ὄνομα αὐτοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woe unto you, scribes and Pharisees, hypocrites!" - This phrase highlights the strong condemnation Jesus has for the religious leaders who were hypocritical in their actions and teachings.
 
 2. "Ye compass sea and land to make one proselyte" - This quote emphasizes the extent to which the scribes and Pharisees would go to convert someone to their religious beliefs, even going as far as traveling great distances.
@@ -47,4 +47,4 @@ Note: The commentary provided is not a direct quote from a specific source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

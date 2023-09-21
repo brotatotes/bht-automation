@@ -4,7 +4,7 @@
 The verse described refers to a significant event in Jerusalem, contrary to popular belief that it references Rome. The conversion of a large portion of the city's inhabitants marks an important step towards fulfilling God's plan. The conversion is driven by a "blessed terror" that leads them to give glory to God, reflecting the transformative power of true conversion. This description sheds light on the identity of the city, the impact of the conversion, and the spiritual change experienced by its inhabitants.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Six is the number of the world power's greatest triumph, but at the same time verges on seven, the divine number, when its utter destruction takes place."
 2. "Thus, in the Church-historical view, it is hereby implied that one of the ten apostate world kingdoms fall."
 3. "The remnant, consisting of the Israelite inhabitants not slain, become in the flesh the loyal subjects of Christ reigning over the earth with His transfigured saints."
@@ -49,4 +49,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

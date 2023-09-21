@@ -11,7 +11,7 @@ This verse speaks about the peril of regressing into worldly temptations after b
 
 3. "The ἥττηται and ἡττῶνται marking the identity." This comment suggests that the use of different forms of the verb "to be overcome" emphasizes the ongoing and continuous nature of their entanglement in sin.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Themselves" have escaped - The seducers are described as escaping their own pollutions, indicating that they were once entangled in their own deceitful ways.
 2. "Pollutions" which bring "corruption" - The pollutions referred to here are not just external defilements, but they lead to internal corruption and moral decay.
 3. "Latter end is worse than the beginning" - Peter recalls the words of Christ, emphasizing that the ultimate outcome for these seducers will be even more severe than their initial state of deception.
@@ -57,4 +57,4 @@ This verse speaks about the peril of regressing into worldly temptations after b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

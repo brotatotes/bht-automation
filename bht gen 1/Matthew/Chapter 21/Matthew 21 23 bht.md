@@ -9,7 +9,7 @@ In this Bible verse, Jesus is being confronted by religious leaders who question
 2. "The question was the result of a combination to destroy Jesus." 
 3. "They do not now ask, as in John 2:18, 'What sign do you show us that you have authority to do these things?' for they had had many signs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question of authority is a recurring theme in the Gospel narratives, as the religious leaders constantly challenged Jesus and questioned the source of his power." 
 
 2. "The religious leaders were not only questioning Jesus' authority to cleanse the temple, but also his authority to teach and perform miracles." 
@@ -40,4 +40,4 @@ In this Bible verse, Jesus is being confronted by religious leaders who question
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

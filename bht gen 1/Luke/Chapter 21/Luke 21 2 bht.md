@@ -4,7 +4,7 @@
 In this verse, a small act of giving is shown to be of great significance. The woman, described as the poor widow, offers two tiny coins, the smallest Jewish currency, known as two mites or a farthing. Though seemingly insignificant, her genuine faith and sacrificial spirit are recognized by Jesus, who commends her for giving more than all others combined. This story emphasizes the importance of humility, sincere devotion, and the true value of our offerings in the eyes of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "two mites—"which make a farthing" (Mark 12:42), the smallest Jewish coin." 
 2. "She might have kept one" [BENGEL]. 
 3. The woman's act of giving her two mites, even though it was a small amount, demonstrated her faith and trust in God's provision.
@@ -30,4 +30,4 @@ In this verse, a small act of giving is shown to be of great significance. The w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

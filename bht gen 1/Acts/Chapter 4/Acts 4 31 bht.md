@@ -9,7 +9,7 @@ The disciples, after praying for the manifestation of God's presence, received a
 2. "It was on every ground probable that the token of the especial presence of God would be some phænomenon which would be recognized by those present as such."
 3. "ἐπλήσθησαν, with a fresh and renewed outpouring."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The place was shaken—glorious token of the commotion which the Gospel was to make."
 2. "The Spirit rested upon the entire community, first, in the very way they had asked, so that they 'spake the word with boldness.'"
 3. "The community of goods was but an outward expression of this, and natural in such circumstances."
@@ -47,4 +47,4 @@ The disciples, after praying for the manifestation of God's presence, received a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

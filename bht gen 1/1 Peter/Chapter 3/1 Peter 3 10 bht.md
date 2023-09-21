@@ -9,7 +9,7 @@ This verse encourages us to embrace a positive outlook and cultivate a heart of 
 2. "He that loves life and wishes to continue to do so."
 3. "The word itself, like the English one 'refrain,' implies a natural tendency towards that from which the abstention is to take place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who loves life (present and eternal), and desires to continue to do so, not involving himself in troubles which will make this life a burden, and cause him to forfeit eternal life." 
 2. "Men commonly think that they would be exposed to the wantonness of their enemies if they did not strenuously vindicate their rights. But the Spirit promises a life of blessedness to none but those who are gentle and patient of evils." 
 3. "First he warns against sins of the tongue, evil-speaking, and deceitful, double-tongued speaking; next, against acts of injury to one's neighbor."
@@ -55,4 +55,4 @@ This verse encourages us to embrace a positive outlook and cultivate a heart of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

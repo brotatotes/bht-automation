@@ -11,7 +11,7 @@ In this verse, Jesus engages in a conversation with someone, recognizing the tru
 
 3. "Doubtful words of this verse" - The commentary implies that the woman's words may be insincere or lacking in genuine repentance, further emphasizing the importance of Jesus' knowledge of her true heart.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is not obtuseness—that is giving way—it expresses a wondering desire after she scarce knew what from this mysterious Stranger."
 
 2. "The woman's request for the living water reveals her recognition of her own spiritual thirst and her longing for something more than the physical water in the well."
@@ -63,4 +63,4 @@ In this verse, Jesus engages in a conversation with someone, recognizing the tru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

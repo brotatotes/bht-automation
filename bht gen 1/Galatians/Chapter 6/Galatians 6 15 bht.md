@@ -9,7 +9,7 @@ In this verse, commentators emphasize that external rituals and distinctions hol
 2. "The new birth by the Spirit is all in all." 
 3. "The result, as regards an individual, is that he is a new creature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only are they of no avail, but they are nothing."
 2. "Christ's cross is 'all in all,' as a subject for glorying."
 3. "A transformation by the renewal of the mind."
@@ -63,4 +63,4 @@ Note: The commentary also mentions the phrase "but a creature" and the phrase "n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a house in Capernaum, Jesus was approached by two blind men crying out for me
 2. "The healing, implied in 'Have mercy on us.'"
 3. "Touching, or anointing the eyes, was the ordinary method which our Lord took of impressing on the blind the action of the divine power which healed them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To try their faith and patience, He seems to have made them no answer."
 2. "Doubtless our Lord's design was not only to put their faith to the test by this question, but to deepen it, to raise their expectation of a cure, and so prepare them to receive it."
 3. "The cordial acknowledgment, so touchingly simple, which they immediately made to Him of His power to heal them, shows how entirely that object was gained."
@@ -38,4 +38,4 @@ In a house in Capernaum, Jesus was approached by two blind men crying out for me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

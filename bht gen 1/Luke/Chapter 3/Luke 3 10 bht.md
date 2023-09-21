@@ -9,7 +9,7 @@ In response to the question of what one must do to demonstrate true repentance, 
 2. "Acts 2:37, Acts 16:30, and Acts 22:10 provide similar answers to the question of what one must do to be saved."
 3. "Micah 6:8 emphasizes the importance of acts of justice and righteousness as a demonstration of true repentance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What shall we do then?" - This question reflects the genuine desire of individuals to know how they can demonstrate true repentance. It highlights the importance of taking action and making tangible changes in one's life as a response to repentance.
 
 2. "To show the sincerity of our repentance." - This phrase emphasizes the need for repentance to be accompanied by visible actions that reflect a genuine change of heart. It implies that repentance is not just a matter of words or emotions but requires concrete steps towards righteousness.
@@ -63,4 +63,4 @@ In response to the question of what one must do to demonstrate true repentance, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

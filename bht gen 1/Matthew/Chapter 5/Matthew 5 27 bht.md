@@ -4,7 +4,7 @@
 This passage challenges the traditional interpretation of the commandment against adultery, which limited its application to married individuals. Jesus clarifies that the law not only applies to outward actions but also requires pure and holy affections of the heart. He condemns the false meanings imposed on the law by dishonest interpreters and calls for a radical transformation of the heart and mind. Even the slightest hint of lust is to be dealt with seriously, leading Jesus to emphasize the need to remove anything that causes us to sin, no matter how dear or valuable it may be.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have heard that it was said... Thou shall not commit adultery." - This verse challenges the traditional interpretation of the commandment, which limited its application to married individuals. 
 
 2. "Interpreting this seventh, as they did the sixth commandment, the traditional perverters of the law restricted the breach of it to acts of criminal intercourse between, or with, married persons exclusively." - The commentary highlights how the traditional interpreters of the law narrowed the scope of adultery to only include married individuals. 
@@ -44,4 +44,4 @@ This passage challenges the traditional interpretation of the commandment agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

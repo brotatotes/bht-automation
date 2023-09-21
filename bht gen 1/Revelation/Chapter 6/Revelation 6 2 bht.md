@@ -4,7 +4,7 @@
 In this verse, the imagery of victory, triumph, and dominion is vividly portrayed. The rider on the white horse, representing Christ or his angel, is preparing for his glorious return. The white color symbolizes triumph and purity, while the bow signifies the power of the Gospel to strike down enemies. The rider is adorned with many crowns, demonstrating his victorious progress and the multitude of realms under his dominion. This verse portrays a message of conquest and successive victories, leading to the expansion and triumph of God's kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, whether in person or by His angel, is preparing for His coming again." 
 2. "The crown symbolizes His victory, as white is the emblem of victory." 
 3. "The last step in His victorious progress is represented by Him wearing many diadems and being personally attended by the hosts of heaven."
@@ -43,4 +43,4 @@ In this verse, the imagery of victory, triumph, and dominion is vividly portraye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

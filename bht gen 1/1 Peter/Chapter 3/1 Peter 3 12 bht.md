@@ -9,7 +9,7 @@ The Bible verse being described is about the watchful and protective nature of G
 2. "The face of the Lord is upon men doing evil things." 
 3. "The Lord's gaze brings favor and blessing to the righteous, while His wrath is directed towards those who do evil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord's eyes are ever over them for good."
 2. "The eyes imply favorable regard."
 3. "The face of the Lord upon them that do evil, implies that He narrowly observes them, so as not to let them really and lastingly hurt His people."
@@ -48,4 +48,4 @@ The Bible verse being described is about the watchful and protective nature of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

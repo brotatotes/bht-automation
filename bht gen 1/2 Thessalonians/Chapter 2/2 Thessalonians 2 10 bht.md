@@ -4,7 +4,7 @@
 In this verse, we see a vivid description of the deceptive nature of unrighteousness and its ability to mislead others. It emphasizes the superiority and skill of this deceit employed by unrighteousness. However, we also learn about the power of faith and the importance of embracing the truth with love. The rejection of the truth and contempt for it ultimately lead to the perishing of those who fall under the strong delusion and deceit propagated by unrighteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the victims of him whose very name describes his perishing nature, 'the son of perdition'"
 2. "in just retribution for their having no love for the truth which was within their reach"
 3. "love of THE truth (and of Jesus who is the Truth, in opposition to Satan's 'lie'), can save"
@@ -48,4 +48,4 @@ In this verse, we see a vivid description of the deceptive nature of unrighteous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The religious leaders found themselves in a predicament. On one hand, they ackno
 2. "They shrunk from the reproof which was sure to follow their acknowledging it now." 
 3. "The intelligence of it may have been originally derived from Nicodemus or Joseph of Arimathea."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We fear the people—rather, 'the multitude.'"
 2. "All the people will stone us—to death."
 3. "Crooked, cringing hypocrites! No wonder Jesus gave you no answer."
@@ -30,4 +30,4 @@ The religious leaders found themselves in a predicament. On one hand, they ackno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

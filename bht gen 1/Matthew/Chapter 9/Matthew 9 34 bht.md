@@ -4,7 +4,7 @@
 In this verse, we see the Pharisees' desperate attempts to undermine Jesus and discredit His power. They acknowledge the reality of the miracles, but their response is fueled by dark malignity and stubborn refusal to accept Jesus as the true source of power. Their accusation not only questions His authority, but also seeks to tarnish His character and delegitimize His ministry. Jesus exposes the flawed logic of the Pharisees, revealing the absurdity of their claim and demonstrating that their blasphemy stems from a state of blindness and wickedness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This seems to be the first muttering of a theory of such miracles which soon became a fixed mode of calumniating them—a theory which would be ridiculous if it were not melancholy as an outburst of the darkest malignity."
 2. "As the Mission of the Twelve supposes the previous choice of them—of which our Evangelist gives no account, and which did not take place till a later stage of our Lord's public life—it is introduced here out of its proper place."
 3. "Third Galilean Circuit (Matthew 9:1- :) —and probably the last."
@@ -42,4 +42,4 @@ In this verse, we see the Pharisees' desperate attempts to undermine Jesus and d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

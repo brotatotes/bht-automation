@@ -4,7 +4,7 @@
 One of the twelve disciples, known as Judas Iscariot, secretly approached the chief priests with a proposition to betray Jesus. He sought to make a deal with them, driven by his avarice and anger. This act of treachery occurred immediately after Jesus rebuked him, highlighting the contrast between Judas' outward appearance and his inward motivations. His actions exemplify the destructive power of unchecked sin, as he allowed his greed and resentment to lead him down a dark path of betrayal.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them—that is, to make his proposals, and to bargain with them." 
 
 2. "The thirty pieces of silver were thirty shekels, the fine paid for man- or maid-servant accidentally killed." 
@@ -34,4 +34,4 @@ One of the twelve disciples, known as Judas Iscariot, secretly approached the ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

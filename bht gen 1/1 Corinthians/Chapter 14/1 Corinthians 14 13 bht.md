@@ -9,7 +9,7 @@ In this passage, the commentators highlight the importance of seeking interpreta
 2. "The rendering of Meyer and De Wette, ‘pray, with a view to interpret (what he has spoken in a tongue),’ is unobjectionable, but does not give any reason for the choice of προσευχέσθω, any more than εὐχαριστείτω, or the like."
 3. "If a man prays in a tongue, his spirit prays, but his understanding is barren. This prayer of his spirit is, the intense direction of his will and affections to God, accompanied by the utterance of sounds to him unintelligible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let him who speaketh with a tongue [unknown] in his prayer (or, when praying) strive that he may interpret" - This verse suggests that even if someone speaks in an unknown tongue during prayer, they should make an effort to interpret it. This highlights the importance of understanding and making the prayer meaningful to others.
 
 2. "Though his words be unintelligible to his hearers, let him in them pray that he may obtain the gift of interpreting" - This quote emphasizes the idea that even if the words spoken in an unknown tongue are not understood by others, the person praying should still pray for the ability to interpret, showing a desire for clarity and understanding.
@@ -61,4 +61,4 @@ In this passage, the commentators highlight the importance of seeking interpreta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we learn about the true light that came into the world. It 
 2. "The former construction can only be defended by a Rabbinical usage, by which כָּל בָּאֵי עוֹלָם means ‘all men’ (Schöttgen, i. 223). But it is very questionable whether John ever speaks thus."
 3. "We are driven then to the only legitimate rendering, which is to take ἦν ἐρχόμενον as equivalent to an imperfect came: this usage being frequent in the N.T., see reff.: i.e. at the time when John bore this witness, the true light which lighteth every man, came was in process of manifesting Himself, into the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "which, coming into the world, enlighteneth every man" - This phrase emphasizes that Jesus is the Light of the world, bringing illumination and understanding to all people.
 2. "Coming into the world" - This description of Jesus is a familiar and recurring theme in the writings of the Gospel of John, highlighting his divine mission and purpose.
 3. "the Light of the world" - This title further emphasizes Jesus' role as the source of spiritual enlightenment and guidance for humanity.
@@ -48,4 +48,4 @@ In this Bible verse, we learn about the true light that came into the world. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

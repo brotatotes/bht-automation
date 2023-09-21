@@ -9,7 +9,7 @@ The Bible verse being described speaks about the importance of avoiding foolish 
 2. "In meekness correcting those who oppose themselves, if at any time God may give them repentance in order to the knowledge of the truth."
 3. "They may awake sober out of the snare of the devil, having been taken captive by him unto the will of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Uninstructive"; in contrast with "instructing" (2 Timothy 2:25), and "wise unto salvation" (2 Timothy 3:15).
 2. "Undisciplined"; not tending to promote the discipline of faith and morals (Proverbs 5:23).
 3. "Avoid" or "decline."
@@ -48,4 +48,4 @@ The Bible verse being described speaks about the importance of avoiding foolish 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

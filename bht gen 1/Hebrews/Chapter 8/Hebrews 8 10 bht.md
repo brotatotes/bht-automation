@@ -9,7 +9,7 @@ In this verse, God promises to establish a new covenant with His people. The new
 2. "The inscription of the new covenant is not external, like the inscription on tables of stone, but internal, on the mind and heart."
 3. "God will be their God, and they shall be His people, in a relationship of intimacy and belonging."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are united in the spiritual Israel, the elect Church, now: they shall be so in the literal restored kingdom of Israel to come."
 2. "This is the first of the 'better promises'."
 3. "This progressive advance of the significance of the Old Testament institutions, &c., shows the transparency and prophetic character which runs throughout the whole."
@@ -55,4 +55,4 @@ In this verse, God promises to establish a new covenant with His people. The new
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we find Jesus and his disciples reclining at a table, follo
 2. "The disciple meant is John himself, see ch. John 21:20; also designated thus, ch. John 19:26; John 21:7."
 3. "The beloved disciple, John, reclined next to Jesus, with his head near the breast of Jesus, following the customary seating arrangement."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There was leaning on Jesus' bosom one of his disciples, whom Jesus loved—Thus modestly does our Evangelist denote himself, as reclining next to Jesus at the table." This quote highlights the close relationship between Jesus and the disciple whom Jesus loved, emphasizing the intimacy and trust between them.
 
 2. "Peter . . . beckoned to him to ask who it should be of whom he spake—reclining probably at the corresponding place on the other side of Jesus." This quote reveals Peter's curiosity and eagerness to know more about the person Jesus was referring to, showing his desire to understand and learn from Jesus.
@@ -55,4 +55,4 @@ In this Bible verse, we find Jesus and his disciples reclining at a table, follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

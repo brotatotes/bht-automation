@@ -9,7 +9,7 @@ At the age of twelve, the boy Jesus was called "son of the law" and became respo
 2. "At that time, then, commences the second step of the life of the Lord, the time when the τὰ πρέποντα for Him began."
 3. "Now first appear those higher consciousnesses to have found expression, which unfolded within Him, till the full time of his public ministry arrived."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At this age every Jewish boy was styled 'a son of the law,' being put under a course of instruction and trained to fasting and attendance on public worship, besides being set to learn a trade."
 2. "Long ere He beheld it, He had doubtless 'loved the habitation of God's house and the place where His honor dwelt,' a love nourished, we may be sure, by that 'word hid in His heart,' with which in afterlife He showed so perfect a familiarity."
 3. "On catching the first view of 'the city of their solemnities,' and high above all in it, 'the place of God's rest,' we hear Him saying to Himself, 'Beautiful for situation, the joy of the whole earth is Mount Zion, on the sides of the north, the city of the great King: Out of Zion, the perfection of beauty, God doth shine.'"
@@ -51,4 +51,4 @@ At the age of twelve, the boy Jesus was called "son of the law" and became respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

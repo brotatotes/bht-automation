@@ -9,7 +9,7 @@ On one of the major Jewish feasts, possibly Pentecost, Jesus enters Jerusalem. T
 2. "I believe with Lücke, De Wette, and Tholuck, that we cannot with any probability gather what feast it was." 
 3. "No reason need be given why John does not name the feast; it is quite in accordance with his practice of mentioning nothing that does not concern his subject-matter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No question has more divided the Harmonists of the Gospels, and the duration of our Lord's ministry may be said to hinge on it."
 2. "Those who are dissatisfied with the Passover-view all differ among themselves what other feast it was."
 3. "In our judgment the evidence is in favor of its being a Passover, but the reasons cannot be stated here."
@@ -63,4 +63,4 @@ On one of the major Jewish feasts, possibly Pentecost, Jesus enters Jerusalem. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

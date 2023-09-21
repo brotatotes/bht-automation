@@ -9,7 +9,7 @@ In this verse, various commentators highlight the universal state of sinfulness 
 2. "If we confess our sins...He is faithful and just to forgive us our sins." 
 3. "To forgive us our sins and cleanse us from all unrighteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If thou shalt confess thyself a sinner, the truth is in thee; for the truth is itself light."
 2. "To confess our need of cleansing from present sin is essential to 'walking in the light'; so far is the presence of some sin incompatible with our in the main 'walking in light.'"
 3. "We cannot deceive God; we only make ourselves to err from the right path."
@@ -48,4 +48,4 @@ In this verse, various commentators highlight the universal state of sinfulness 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is one that promises authority and victory to th
 2. "And I will give to him the star of the morning...In Dan 12:3 we read that the righteous shall shine ὡς οἱ ἀστέρες, and in Mat 13:43 that they ἐκλάμψουσιν ὡς ὁ ἥλιος ἐν τῇ βασιλείᾳ τοῦ πατρὸς αὐτῶν."
 3. "The interpretations given, even in the Catena, are very various and inconsistent...And this interpretation is probably near the mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And—implying the close connection of the promise to the conqueror that follows, with the preceding exhortation."
 2. "The works which I command and which are the fruit of My Spirit."
 3. "At Christ's coming the saints shall possess the kingdom 'under the whole heaven'; therefore over this earth."
@@ -47,4 +47,4 @@ The Bible verse being described is one that promises authority and victory to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

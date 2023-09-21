@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the spiritual nature of the circumci
 2. "This body is put off in baptism, the sign and seal of the new life."
 3. "The circumcision of Christ...shows that the root and cause of this circumcision without hands is in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye were (once for all) circumcised (spiritually, at your conversion and baptism) with a circumcision made without hands." 
 2. "This fleshly body, in its sinful aspect, is put off in baptism as the seal of regeneration where received in repentance and faith."
 3. "This spiritual circumcision is realized in, or by, union with Christ, whose 'circumcision,' whereby He became responsible for us to keep the whole law, is imputed to believers for justification."
@@ -53,4 +53,4 @@ In this Bible verse, commentators emphasize the spiritual nature of the circumci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

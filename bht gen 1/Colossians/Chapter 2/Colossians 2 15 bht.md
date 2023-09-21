@@ -9,7 +9,7 @@ In this Bible verse, we see that God, through Christ, has triumphed over the evi
 2. "Now the words have occurred before in this very passage, Colossians 2:10, where Christ is exalted as the κεφαλὴ πάσης ἀρχῆς κ. ἐξουσίας: and it is hardly possible to avoid connecting our present expression with that, seeing that in τὰς ἀρχὰς κ. τὰς ἐξουσίας the articles seem to contain a manifest reference to it."
 3. "Thus God ἀπεξεδύσατο τὰς ἀρχὰς κ. τὰς ἐξουσίας divested Himself of, put off from Himself, that ἀγγέλων διαταγή, manifesting Himself henceforward without a veil in the exalted Person of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God put off from Himself the angels, that is, their ministry, not employing them to be promulgators of the Gospel in the way that He had given the law by their 'disposition' or ministry."
 2. "In the sacrifice of Jesus on the cross, God subjected all the principalities, c., to Jesus, declaring them to be powerless as to His work and His people."
 3. "If 'in Him,' that is, Christ, be read, still the Cross will be the place and means of God's triumph in Christ over the principalities."
@@ -55,4 +55,4 @@ In this Bible verse, we see that God, through Christ, has triumphed over the evi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

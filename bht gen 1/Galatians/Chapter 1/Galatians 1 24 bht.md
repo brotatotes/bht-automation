@@ -4,7 +4,7 @@
 This passage, described by a variety of commentators, speaks of a remarkable transformation in a person's life, leading others to praise and glorify God. The believers marvel at the evident work of God and the grace bestowed upon the individual, recognizing the power of God's transformative hand. The connection between the speaker and the subject is emphasized, highlighting the personal responsibility and impact of their actions. Ultimately, this passage exemplifies the gratitude, recognition, and appreciation for the work of God in the life of the transformed individual.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having understood the entire change, and that the former wolf is now acting the shepherd's part, they received occasion for joyful thanksgiving to God in respect to me."
 2. "How different, he implies to the Galatians, their spirit from yours!"
 3. "In me - 'in my case.'"
@@ -58,4 +58,4 @@ These quotes collectively emphasize the believers' recognition of God's work in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

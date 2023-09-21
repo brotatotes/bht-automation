@@ -4,7 +4,7 @@
 This passage describes the pursuit of valuable spiritual truths and treasures, emphasizing the importance of actively seeking and investing in the kingdom of heaven. It encourages discernment in prioritizing and evaluating our spiritual pursuits, highlighting the significance of seeking what is truly valuable and meaningful in life. The verses also convey the profound love and sacrifice of God, who seeks and reconciles lost souls through the redemption of Christ's blood. The passage further underscores the transformative power of the Gospel and the need for Christian discipline and exhortation in separating oneself from worldly influences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This parable highlights the value and worth of the kingdom of heaven. Just as a merchantman seeks out valuable pearls, so should we seek after the kingdom of heaven with the same fervor and determination." 
 
 2. "The merchantman in this parable represents those who are actively searching for spiritual truth and are willing to invest their time, effort, and resources in order to obtain it. It emphasizes the importance of actively seeking and pursuing a relationship with God."
@@ -32,4 +32,4 @@ This passage describes the pursuit of valuable spiritual truths and treasures, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

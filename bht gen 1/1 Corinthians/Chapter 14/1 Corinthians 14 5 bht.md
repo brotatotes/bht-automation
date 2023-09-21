@@ -9,7 +9,7 @@ In this Bible verse, the commentator suggests that the gift of speaking in tongu
 2. "δέ is transitional."
 3. "μείζων: superior in usefulness, and therefore in dignity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tongues must therefore mean languages, not ecstatic, unintelligible rhapsodie (as NEANDER fancied): for Paul could never 'wish' for the latter in their behalf."
 2. "Greater—because more useful."
 3. "Except he interpret—the unknown tongue which he speaks, 'that the Church may receive edifying (building up).'"
@@ -52,4 +52,4 @@ In this Bible verse, the commentator suggests that the gift of speaking in tongu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

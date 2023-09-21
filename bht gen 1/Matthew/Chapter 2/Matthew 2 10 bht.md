@@ -4,7 +4,7 @@
 The verse describes the overwhelming joy of the wise men upon seeing the star, conveying a sense of excitement and jubilation. Their joy was not just a fleeting emotion, but a deep and profound experience that moved them greatly. This joy was a direct result of finding what they were searching for, indicating the fulfillment of their desires and the success of their journey. The star, which served as a divine signpost, guided them with specificity and accuracy to the exact location of the child, symbolizing the divine presence and favor upon Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they saw the star, they rejoiced with exceeding great joy" - The language used here emphasizes the intense and overwhelming joy experienced by the wise men upon seeing the star. It conveys a sense of excitement and jubilation.
 
 2. "The language is very strong" - This comment highlights the powerful and emphatic nature of the words used in the verse. It suggests that the level of joy experienced by the wise men was beyond ordinary or expected, adding depth to their emotional response.
@@ -39,4 +39,4 @@ The verse describes the overwhelming joy of the wise men upon seeing the star, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

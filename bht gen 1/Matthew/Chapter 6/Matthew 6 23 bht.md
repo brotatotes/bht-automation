@@ -4,7 +4,7 @@
 In this Bible verse, the commentators paint a vivid picture of a divided heart and mind, engulfed in darkness and blind to the light. The verse describes the consequences of straying from a single and supreme dedication to God. It warns that a heart consumed by worldly desires and sinful temptations will be filled with darkness, obscuring one's ability to discern what is right and just. The commentators emphasize the importance of maintaining spiritual clarity amidst the darkness of earthly distractions, or else one risks being lost in a state of eternal darkness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As a vitiated eye, or an eye that looks not straight and full at its object, sees nothing as it is, so a mind and heart divided between heaven and earth is all dark."
 2. "If these be not simple and heavenward, but distorted and double, what must all the other faculties and principles of our nature be which take their direction and character from these, and what must the whole man and the whole life be but a mass of darkness?"
 3. "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
@@ -33,4 +33,4 @@ In this Bible verse, the commentators paint a vivid picture of a divided heart a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

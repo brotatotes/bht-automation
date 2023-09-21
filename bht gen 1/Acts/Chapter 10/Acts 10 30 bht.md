@@ -9,7 +9,7 @@ In a recent event, a man describes an encounter he had a few days ago, emphasizi
 2. "The only legitimate meaning of ταύτ . τ . ὥρ . I take to be this hour of the day"
 3. "The hour alluded to is probably the sixth, the hour of the mid-day meal, which was the only one partaken by the Jews on their solemn days."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The four-day journey of the messengers highlights the urgency and importance of the message they carried. It shows the commitment and dedication of those involved in spreading the Gospel."
 2. "The delay in Peter's arrival allowed for the anticipation and preparation of Cornelius and his household. It demonstrates the divine timing and orchestration of events in bringing together the Gentiles and the message of salvation."
 3. "The journey from Joppa to Caesarea symbolizes the bridging of the gap between the Jewish and Gentile communities. It signifies the breaking down of barriers and the inclusion of all people in God's plan of redemption."
@@ -63,4 +63,4 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

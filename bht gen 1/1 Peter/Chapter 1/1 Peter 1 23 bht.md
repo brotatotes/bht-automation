@@ -9,7 +9,7 @@ The verse described captures the essence of being born again through the incorru
 2. "The word of God is not the begetting principle itself, but only that by which the principle works: as it were the coccus or grain which is the involucrum and vehicle of the mysterious germinating power."
 3. "The word itself is no mere perishing vehicle; no mere sacramental symbol, lost in the using: but it lives by and with the divine principle of life which it conveys and expands, and abides forever."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christian brotherhood flows from our new birth of an imperishable seed, the abiding word of God."
 2. "By means of the word the man receives the incorruptible seed of the Holy Spirit, and so becomes one 'born again.'"
 3. "The word is an eternal divine power. For though the voice or speech vanishes, there still remains the kernel, the truth comprehended in the voice."
@@ -57,4 +57,4 @@ The verse described captures the essence of being born again through the incorru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

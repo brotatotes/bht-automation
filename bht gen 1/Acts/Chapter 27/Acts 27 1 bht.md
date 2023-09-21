@@ -9,7 +9,7 @@ In this Bible verse, we see the fulfillment of God's decree for the apostle Paul
 2. "Here we have again the first person, the narrator having, in all probability, remained in Palestine, and in the neighbourhood of Paul, during the interval since ch. Acts 21:18."
 3. "More than one of the legions at different times bore the honorary title ‘Augusta.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'we' here reintroduces the historian as one of the company."
 2. "Julius—who treats the apostle throughout with such marked courtesy."
 3. "A centurion of Augustus' band—the Augustan cohort, an honorary title given to more than one legion of the Roman army."
@@ -54,4 +54,4 @@ These quotes highlight the divine plan for the apostle to go to Rome, the distin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

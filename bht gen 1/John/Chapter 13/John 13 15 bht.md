@@ -11,7 +11,7 @@ In this verse, Jesus provides a symbolic representation to his disciples, servin
 
 3. "To restore such an one in the spirit of meekness" - This quote suggests that when someone has made a mistake, the approach should be one of gentleness and humility, seeking to restore them rather than condemn or judge them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Know ye what I have done?" - The question serves as a way to capture the attention of the listeners and prepare them for the forthcoming answer. It invites them to reflect on the significance of Jesus' actions.
 
 2. "That is, its intent." - This phrase clarifies that the question is not seeking a factual response, but rather an understanding of the deeper meaning behind Jesus' actions. It emphasizes the importance of discerning the purpose and message behind his deeds.
@@ -49,4 +49,4 @@ In this verse, Jesus provides a symbolic representation to his disciples, servin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

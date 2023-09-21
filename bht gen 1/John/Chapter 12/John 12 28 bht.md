@@ -9,7 +9,7 @@ In this Bible verse, the speaker humbly prays for the name of God to be honored 
 2. "This 'voice' can no otherwise be understood, than as a plain articulate sound, miraculously spoken, heard by all, and variously interpreted."
 3. "In the manifestation hitherto made of the Son of God, imperfect as it was, in all O.T. type and prophecy; in creation; and indeed 'antequam facerem mundum'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Father, glorify thy name—by a present testimony."
 2. "I have both glorified it—referring specially to the voice from heaven at His baptism, and again at His transfiguration."
 3. "and will glorify it again—that is, in the yet future scenes of His still deeper necessity; although this promise was a present and sublime testimony, which would irradiate the clouded spirit of the Son of man."
@@ -55,4 +55,4 @@ In this Bible verse, the speaker humbly prays for the name of God to be honored 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

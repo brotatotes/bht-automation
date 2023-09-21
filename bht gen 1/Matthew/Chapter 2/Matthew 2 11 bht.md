@@ -9,7 +9,7 @@ In this verse, we see Joseph absent from the scene as the Magi present their gif
 2. "The general idea is, that the Purification was previous to the visit of the magi. Being persuaded of the historic reality of these narratives of Matt. and Luke, we shall find no difficulty in also believing that, were we acquainted with all the events as they happened, their reconcilement would be an easy matter."
 3. "The ancient Fathers were fond of tracing in the gifts symbolical meanings: ὡς βασιλεῖ τὸν χρυσόν, ὡς δὲ τεθνηξομένῳ τὴν σμύρναν, ὡς δὲ θεῷ τὸν λιβανωτόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Clearly this was no civil homage to a petty Jewish king, whom these star-guided strangers came so far, and inquired so eagerly, and rejoiced with such exceeding joy, to pay, but a lofty spiritual homage."
 2. "Beyond doubt, therefore, we are to understand the presentation of these gifts by the Magi as a religious offering."
 3. "That the gold was presented to the infant King in token of His royalty; the frankincense in token of His divinity, and the myrrh, of His sufferings; or that they were designed to express His divine and human natures; or that the prophetical, priestly, and kingly offices of Christ are to be seen in these gifts; or that they were the offerings of three individuals respectively, each of them kings, the very names of whom tradition has handed down—all these are, at the best, precarious suppositions."
@@ -50,4 +50,4 @@ In this verse, we see Joseph absent from the scene as the Magi present their gif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

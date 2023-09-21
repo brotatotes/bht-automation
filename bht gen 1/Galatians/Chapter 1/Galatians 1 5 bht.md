@@ -11,7 +11,7 @@ In this verse, we find a powerful doxology, a proclamation of giving glory to Go
 
 3. "When joined with one or more substantives, it appears sometimes with the article (1 Peter 4:11; Revelation 1:6; Rev 7:12): sometimes without it (Romans 2:10; 1 Timothy 1:17; Jud 1:25)." - Ellicott
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be the glory" - emphasizing that the glory belongs solely to God and is not to be shared or attributed to anyone or anything else.
 2. "The glory which is peculiarly and exclusively His" - highlighting the unique and unmatched glory that belongs to God alone, distinguishing Him from all other beings or entities.
 3. "Compare Note, see on" - indicating that there is further explanation or reference available in the commentary for additional insights on this topic.
@@ -61,4 +61,4 @@ In this verse, we find a powerful doxology, a proclamation of giving glory to Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

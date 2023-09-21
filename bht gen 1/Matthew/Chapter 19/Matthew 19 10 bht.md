@@ -11,7 +11,7 @@ The commentators shed light on a Bible verse that tackles the disciples' concern
 
 3. "the only reason justifying divorce" - This phrase refers to the interpretation that some scholars have given to the word "αἰτία" in this context. It suggests that there may be specific circumstances or reasons that could justify divorce. This quote implies that divorce should not be taken lightly and should only be considered in certain situations that meet the criteria of being a valid reason.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this view of marriage, surely it must prove a snare rather than a blessing, and had better be avoided altogether."
 2. "The disciples' response reflects a common sentiment of their time, where marriage was seen as a burden rather than a joy."
 3. "Their comment highlights the tension between the ideal of marriage and the challenges that come with it, causing them to question its value."
@@ -50,4 +50,4 @@ The commentators shed light on a Bible verse that tackles the disciples' concern
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

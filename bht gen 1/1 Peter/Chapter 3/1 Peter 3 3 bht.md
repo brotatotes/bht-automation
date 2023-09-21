@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the need for modesty and inner beauty 
 2. "The outward adornment of braiding of hair and putting round of golden ornaments or putting on of dresses."
 3. "The sex which began first our engagement to the necessity of clothing, having still a peculiar propensity to be curious in that, to improve the necessity to an advantage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To whom let there belong... not the outward adornment... of plaiting... wearing... apparel." 
 2. "Have the blush of modesty on thy face instead of paint."
 3. "Moral worth and discretion instead of gold and emeralds."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the need for modesty and inner beauty 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

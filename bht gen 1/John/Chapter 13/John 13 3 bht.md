@@ -9,7 +9,7 @@ In this verse, we see the full understanding and awareness of Jesus' divine natu
 2. "The perfect, δέδωκεν, and present, ὑπάγει, are used indefinitely: of things fixed in the counsel of God." 
 3. "To give life and presence to the whole scene."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus knowing that the Father had given all things into his hands" - This quote highlights Jesus' awareness of his authority and power, emphasizing his divine nature and the trust placed in him by the Father.
 
 2. "An unclouded perception of His relation to the Father" - This phrase emphasizes Jesus' deep understanding of his intimate connection with God, underscoring the profound spiritual insight he possessed.
@@ -63,4 +63,4 @@ These quotes highlight Jesus' humility and willingness to serve, despite his div
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

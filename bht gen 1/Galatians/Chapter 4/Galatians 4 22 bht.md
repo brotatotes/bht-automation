@@ -9,7 +9,7 @@ In this Bible verse, there is a comparison between the two sons of Abraham, Ishm
 
 2. "Phrynichus says on παιδίσκη, τοῦτο ἐπὶ τῆς θεραπαίνης οἱ νῦν τιθέασιν, οἱ δʼ ἀρχαῖοι ἐπὶ τῆς νεάνιδος, οἷς ἀκολουθητέον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham—whose sons ye wish to be." 
 2. "A bond maid . . . a free woman—rather, as Greek, 'the bond maid . . . the free woman.'"
 3. "Compare Genesis 21:2-."
@@ -61,4 +61,4 @@ In this Bible verse, there is a comparison between the two sons of Abraham, Ishm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

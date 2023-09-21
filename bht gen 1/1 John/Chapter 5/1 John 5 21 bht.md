@@ -11,7 +11,7 @@ This verse serves as a solemn warning against the dangers of idolatry, urging be
 
 3. "To leave on their minds a wholesome terror of any the least deviation from the truth of God, seeing into what relapse it would plunge them." - The author emphasizes the need for believers to have a healthy fear of straying from the truth of God, recognizing the potential consequences and dangers of deviating from His teachings. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christians were then everywhere surrounded by idolaters, with whom it was impossible to avoid intercourse."
 2. "Hence the need of being on their guard against any even indirect compromise or act of communion with idolatry."
 3. "The moment we cease to abide 'in Him that is true (by abiding) in Jesus Christ,' we become part of 'the world that lieth in the wicked one,' given up to spiritual, if not in all places literal, idolatry."
@@ -58,4 +58,4 @@ This verse serves as a solemn warning against the dangers of idolatry, urging be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

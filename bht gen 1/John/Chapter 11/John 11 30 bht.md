@@ -4,7 +4,7 @@
 In this verse, Martha expresses her belief that Jesus has come and is specifically calling for her brother Lazarus. Her words reveal her recognition of Jesus as the Master and her faith in his power. The narrative does not mention Jesus calling for Lazarus, but Martha's statement provides additional insight into Jesus' purpose. By meeting Martha away from the mourners, Jesus avoids the presence of onlookers, emphasizing the personal nature of his visit. Additionally, Jesus remains outside the town, closer to Lazarus's grave, demonstrating his proximity to the situation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Master is come and calleth for thee" - This quote highlights Martha's recognition of Jesus as the Master and her belief that he has come specifically to call for her brother Lazarus. It shows her faith in Jesus' power and authority.
 
 2. "The narrative does not give us this interesting detail" - This quote acknowledges that the specific detail of Jesus calling for Lazarus is not mentioned in the narrative. It emphasizes the importance of Martha's words in providing this additional information.
@@ -30,4 +30,4 @@ In this verse, Martha expresses her belief that Jesus has come and is specifical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

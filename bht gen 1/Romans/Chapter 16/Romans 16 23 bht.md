@@ -9,7 +9,7 @@ In this verse, we encounter a group of individuals who played significant roles 
 2. "The host of the whole church probably implies that the assemblies of the church were held in his house: or perhaps, that his hospitality to Christians was universal." 
 3. "The benediction repeated; see above on Romans 16:20. The omission (see var. read.) has perhaps been by the caprice of the copyists."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His Christian hospitality appears to have been something uncommon."
 2. "Erastus the chamberlain—'treasurer' of the city—doubtless of Corinth."
 3. "Nothing more is known of this Quartus."
@@ -50,4 +50,4 @@ In this verse, we encounter a group of individuals who played significant roles 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

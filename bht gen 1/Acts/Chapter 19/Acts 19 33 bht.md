@@ -9,7 +9,7 @@ In the midst of an uproar, a man named Alexander is urged forward by a portion o
 2. "προεβ. urged forward, through the crowd; the Jews pushing him on from behind, ‘propellentibus.’" - This quote suggests that the Jews played a role in pushing Alexander forward, potentially to divert blame from themselves or to use him as a scapegoat.
 3. "He appears to have been a Christian convert from Judaism, whom the Jews were willing to expose as a victim to the fury of the mob." - This quote provides insight into Alexander's background, indicating that he may have been a convert from Judaism and was being used by the Jews as a target for the anger of the crowd.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some of the multitude urged forward Alexander, the Jews thrusting him forward." - This quote highlights the role of the Jews in pushing Alexander to the forefront, possibly to absolve themselves of blame for the tumult.
 2. "They seem to have put forward this man to clear them of all responsibility for the riot." - This quote suggests that the Jews strategically used Alexander as a scapegoat to distance themselves from any blame for the disturbance.
 3. "Beckoned with the hand." - This quote references a gesture made by Alexander, which can be compared to similar actions in Acts 13:16 and Acts 21:40.
@@ -52,4 +52,4 @@ In the midst of an uproar, a man named Alexander is urged forward by a portion o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

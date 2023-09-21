@@ -4,7 +4,7 @@
 The author of the message is conveying important instructions and guidance, particularly regarding the roles of bishops and deacons within the church. There is a sense of urgency in this message, as the author expresses a desire to visit the recipient in person. The hope of a personal visit indicates a deeper connection and further emphasizes the significance of the message being conveyed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As his hope was not very confident, he provides for Timothy's lengthened superintendence by giving him the preceding rules to guide him."
 2. "He now proceeds to give more general instructions to him as an evangelist, having a 'gift' committed to him."
 3. "This verse best suits the theory that this First Epistle was not written after Paul's visit and departure from Ephesus when he had resolved to winter at Corinth after passing the summer in Macedonia, but after his first imprisonment at Rome; probably at Corinth, where he might have some thoughts of going on to Epirus before returning to Ephesus."
@@ -45,4 +45,4 @@ Note: The commentary provided is very brief and does not offer much depth or ana
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

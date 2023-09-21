@@ -4,7 +4,7 @@
 In this verse, believers are reminded that their relationship with Christ extends beyond mere salvation. They are urged to endure hardships and sufferings, for it is through these trials that they will reign with Him. However, if they deny Him, they will also be denied by Him and not acknowledged as His own. Denying Christ can take various forms, including refusing to suffer for His sake, turning away from discipleship, or rejecting His lordship and prioritizing personal desires. The consequences of denial are severe, underscoring the importance of remaining steadfast in faith and loyalty to Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reigning is something more than mere salvation." 
 2. "Deny with the mouth. As 'believe' with the heart follows." 
 3. "He also will deny us."
@@ -42,4 +42,4 @@ In this verse, believers are reminded that their relationship with Christ extend
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

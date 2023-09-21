@@ -11,7 +11,7 @@ In this verse, believers are encouraged to view various trials and temptations a
 
 (Note: The commentary is quite lengthy and contains a lot of technical language. I have selected the quotes that provide a concise and clear understanding of the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My brethren—a phrase often found in James, marking community of nation and of faith."
 2. "Count all 'divers temptations' to be each matter of joy."
 3. "Every possible trial to the child of God is a masterpiece of strategy of the Captain of his salvation for his good."
@@ -57,4 +57,4 @@ These quotes highlight the idea that believers should view trials and difficulti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

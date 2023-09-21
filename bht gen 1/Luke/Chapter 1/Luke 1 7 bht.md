@@ -11,7 +11,7 @@ In this verse, the author describes the situation of a couple who are "well stri
 
 3. "By using τῇ ἡλικίᾳ, the author highlights the significance of age as a determining factor in the process of advancement, indicating that it is not just a chronological progression, but also a maturation and growth in wisdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These couples exemplify the faithfulness and providence of God in fulfilling His promises. Despite their own limitations and challenges, they trusted in God's plan and saw His faithfulness unfold in their lives." 
 
 2. "The stories of Abraham and Sarah, Isaac and Rebekah, Elkanah and Hannah, and Manoah and his wife remind us that God can work through ordinary people to accomplish extraordinary things. Their stories inspire us to trust in God's timing and to have faith that He will fulfill His promises in our lives." 
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

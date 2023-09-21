@@ -9,7 +9,7 @@ In this verse, it is evident that there was a prior descent before the ascension
 2) "The ascent implied a previous descent."
 3) "The greater the descent, the greater the ascent: and if the αἰχμαλωσία consisted of Satan and his powers, the warfare in which they were taken captive would most naturally be contemplated in all its extent, as reaching to their habitation itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul reasons that (assuming Him to be God) His ascent implies a previous descent; and that the language of the Psalm can only refer to Christ, who first descended, then ascended."
 2. "The antithesis or contrast to 'far above all heavens,' is the argument of ALFORD and others, to show that this phrase means more than simply the earth, namely, the regions beneath it, even as He ascended not merely to the visible heavens, but 'far above' them."
 3. "Christ, as Lord of all, took possession first of the earth, the unseen world beneath it, then of heaven."
@@ -55,4 +55,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

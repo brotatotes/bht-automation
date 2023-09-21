@@ -4,7 +4,7 @@
 In this Bible verse, a curse is pronounced upon a fig tree that symbolizes the Jewish people and outwardly religious individuals. The tree's barrenness represents the lack of genuine righteousness and good works despite the appearance of religious devotion. The curse is a strong prohibition, signifying the utter ruin and destruction that will befall those who merely talk about righteousness but bear no fruits of grace and righteousness. Ultimately, they will face eternal punishment as dry wood fueling everlasting burnings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That word did not make the tree barren, but sealed it up in its own barrenness." 
 2. "And his disciples heard it—and marked the saying. This is introduced as a connecting link, to explain what was afterwards to be said on the subject."
 3. "Lessons from the Cursing of the Fig Tree."
@@ -39,4 +39,4 @@ Note: The commentary provided is incomplete and lacks specific details.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

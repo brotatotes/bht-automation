@@ -9,7 +9,7 @@ The verse in question depicts a contrast between God's righteousness and the sel
 2. "Seeking to set up their own righteousness, that which is described in Romans 10:5."
 3. "They were not subjected to the righteousness of God, the rule or method to which they were never subjected as they were to the law of Moses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For they being ignorant of God's righteousness—that is, for the justification of the guilty." 
 2. "Going about 'seeking' to establish their own righteousness." 
 3. "Have not submitted themselves to the righteousness of God."
@@ -57,4 +57,4 @@ The verse in question depicts a contrast between God's righteousness and the sel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

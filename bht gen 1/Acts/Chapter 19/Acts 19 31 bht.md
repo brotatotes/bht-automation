@@ -9,7 +9,7 @@ The passage discusses the principal officers of Asia who presided over the publi
 2. "These Ephesian games in honour of Artemis took place in May, which whole month was sacred to, and named Artemisian after, the goddess."
 3. "Kypke remarks: ‘latet in phrasi, quod periculum Paulo in theatro immineat.’ E. V. adventure himself ; an excellent translation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And certain of the chief of Asia—literally, 'And certain also of the Asiarchs.' These were wealthy and distinguished citizens of the principal towns of the Asian province, chosen annually, and ten of whom were selected by the proconsul to preside over the games celebrated in the month of May (the same month which Romanism dedicates to the Virgin)."
 2. "It was an office of the highest honor and greatly coveted."
 3. "Certain of these, it seems, were favorably inclined to the Gospel, at least were Paul's 'friends,' and knowing the passions of a mob, excited during the festivals, 'sent (a message) to him desiring him not to adventure himself into the theater.'"
@@ -56,4 +56,4 @@ The passage discusses the principal officers of Asia who presided over the publi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

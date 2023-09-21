@@ -9,7 +9,7 @@ In this Bible verse, the commentators describe the ultimate culmination of God's
 2. "the KINGDOM OF CHRIST over this world, in its beginning, its furtherance, and its completion, has one great end, THE GLORIFICATION OF THE FATHER BY THE SON."
 3. "when it shall be fully established, every enemy overcome, every thing subjected to Him, He will, not, reign over it and abide its King, but DELIVER IT UP TO THE FATHER."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His giving up of the mediatorial kingdom to the Father, when the end for which the mediatorial economy was established has been accomplished, is altogether in harmony with its continuing everlastingly."
 2. "The change which shall then take place, shall be in the manner of administration, not in the kingdom itself; God shall then come into direct connection with the earth, instead of mediatorially."
 3. "The unity of the Godhead, and the unity of the Church, shall be simultaneously manifested at Christ's second coming."
@@ -54,4 +54,4 @@ In this Bible verse, the commentators describe the ultimate culmination of God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

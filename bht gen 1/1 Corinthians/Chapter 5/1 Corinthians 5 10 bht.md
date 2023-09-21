@@ -9,7 +9,7 @@ In this Bible verse, the commentator's descriptions help us understand the conte
 2. "οὐ, not μή, because not the whole context of the prohibition is negatived, but only one portion of it."
 3. "The root of the two sins being the same, viz. lust or greed, they come often to be mentioned together and as if running into one another."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As in dissolute Corinth to 'company with no fornicators,' c., would be almost to company with none in the (unbelieving) world." 
 2. "Ye need not utterly ('altogether') forego intercourse with fornicators, c., of the unbelieving world." 
 3. "The attempt to get 'out of the world,' in violation of God's will that believers should remain in it but keep themselves from its evil, led to monasticism and its consequent evils."
@@ -59,4 +59,4 @@ These quotes provide insights into the different interpretations of the verse an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

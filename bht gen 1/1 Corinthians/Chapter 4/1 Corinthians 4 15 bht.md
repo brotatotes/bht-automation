@@ -9,7 +9,7 @@ In the passage described by these commentaries, the verse highlights the role of
 2. "ἀλλ ʼ οὐ brings out the contrast strongly, giving almost the sense of ‘at non ideo.’"
 3. "For in Christ Jesus (as the spiritual element in which the begetting took place: so commonly ἐν χριστῷ, applied to relations of life, see 1 Corinthians 4:17, bis, not to be joined as De W. with ἐγώ, q. d. ἐγὼ γὰρ ἐν χ. Ἰησοῦ δ. τ. εὐ. ὑμ. ἐγέννησα) by means of the gospel (the preached word being the instrument) I (emphatic) begat you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Corinthians had more of them than was desirable."
 2. "Instructors...who had the care of rearing, but had not the rights, or peculiar affection, of the father."
 3. "Paul admits that these 'instructors' were not mere legalists, but evangelical teachers."
@@ -55,4 +55,4 @@ In the passage described by these commentaries, the verse highlights the role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

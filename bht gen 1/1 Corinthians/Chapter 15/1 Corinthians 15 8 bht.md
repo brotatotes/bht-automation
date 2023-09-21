@@ -9,7 +9,7 @@ This Bible verse describes a significant event in the life of Paul, who refers t
 2. "That this is the meaning is evident from 1 Corinthians 15:9, which drops the figure." 
 3. "He appeared to me also: viz. on the road to Damascus. This, and this only, can here be meant; as he is speaking, not of a succession of visions, but of some one definite apparition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the one abortively born": the abortion in the family of the apostles.
 2. "As a child born before the due time is puny, and though born alive, yet not of the proper size, and scarcely worthy of the name of man, so 'I am the least of the apostles,' scarcely 'meet to be called an apostle.'"
 3. "a supernumerary taken into the college of apostles out of regular course, not led to Christ by long instruction, like a natural birth, but by a sudden power, as those prematurely born."
@@ -57,4 +57,4 @@ This Bible verse describes a significant event in the life of Paul, who refers t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

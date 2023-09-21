@@ -9,7 +9,7 @@ The Bible verse being described is a passage about the transient nature of our p
 2. "The οἰκία which in this verse is said, at the time of dissolution, to be ἐν τοῖς οὐρανοῖς, is, when we put it on, in the next verse, our οἰκητήριον τὸ ἐξ οὐρανοῦ. Thus the intermediate state, though lightly passed over, as not belonging to the subject, is evidently in the mind of St. Paul."
 3. "Some Commentators, Photius, Anselm, Thomas Aq. (in Estius), Wolf, Rosenm., al., understand these words themselves (οἰκ. ἀχειρ. αἰών. ἐν τ. οὐρ.) of the intermediate state of absence from the body; Usteri and Flatt, of an immediate glorified body in heaven, to be united with the body of the resurrection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If this daily delivering unto death should end in actual death."
 2. "The Holy Spirit is enshrined in the believer's body as in a sanctuary."
 3. "A solid building, not a temporary tabernacle or tent."
@@ -57,4 +57,4 @@ The Bible verse being described is a passage about the transient nature of our p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

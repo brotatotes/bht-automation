@@ -4,7 +4,7 @@
 In this Bible verse, we are encouraged to instruct and correct those who engage in uninstructive and undisciplined questioning. We should patiently and calmly guide those who oppose themselves, even if they hold different opinions. Through meekness and gentle persuasion, we can lead them to repentance, helping them acknowledge the truth. Our labors may seem fruitless, but with the grace of God, they can have a transformative impact.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "instructing with correction, which those who deal in 'uninstructive' or 'undisciplined questions' need"
 2. "those that oppose themselves... those of a different opinion"
 3. "repentance... their minds being corrupted and their lives immoral"
@@ -50,4 +50,4 @@ Note: The commentary provides explanations and references for each quote, but th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators highlight the joyful and transcendent nature of the 
 2. "The principal reference is to God as the giver, and not to us as the deservers."
 3. "These words, ἐν τοῖς οὐρανοῖς, must not be taken as having any bearing on the question as to the future habitation of the glorified saints."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Exult...as if He would have their inward transport to overpower and absorb the sense of all these affronts and sufferings; nor will anything else do it."
 2. "Great is your reward in heaven...You do but serve yourselves heirs to their character and sufferings, and the reward will be common."
 3. "You do but serve yourselves heirs to their character and sufferings, and the reward will be common."
@@ -47,4 +47,4 @@ In this verse, commentators highlight the joyful and transcendent nature of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Abraham, the father of many nations, had a spiritual understanding of the coming
 2. "The intent is to shew that Abraham did in his time keep Christ’s word, viz. by a prospective realizing faith; and therefore that he, in the sense of John 8:51, had not seen death."
 3. "From the sense it is evident that Abraham saw by faith and will see in fact, not the first coming only, but that which it introduces and implies, the second also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham rejoiced to see my day, exulted to see it, that is, by anticipation."
 2. "He actually beheld it, to his joy."
 3. "He seems to refer to the familiar intercourse which Abraham had with God, who is once and again in the history called 'the Angel of the Lord,' and whom Christ here identifies with Himself."
@@ -53,4 +53,4 @@ Abraham, the father of many nations, had a spiritual understanding of the coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

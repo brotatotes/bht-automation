@@ -11,7 +11,7 @@ The verse being described emphasizes the presence of false apostles who are dece
 
 3. "By the abundance of my sufferings, and distinctions vouchsafed by the Lord, my Apostolicity will be fully proved" - The commentary highlights the Apostle's confidence in his own apostolic authority. He believes that his endurance of suffering and the blessings bestowed upon him by the Lord serve as evidence of his true apostleship, in contrast to the false apostles.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "False apostles are those who are no apostles at all." 
 2. "Deceitful workers pretend to be workmen for the Lord, but are actually seeking their own gain." 
 3. "They and those like them are the reason why he is unwilling they should be thought like him."
@@ -52,4 +52,4 @@ The verse being described emphasizes the presence of false apostles who are dece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

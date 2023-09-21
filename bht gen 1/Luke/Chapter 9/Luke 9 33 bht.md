@@ -9,7 +9,7 @@ In this passage, Peter is filled with a mixture of emotions as he witnesses the 
 2. "From fear and astonishment, for they became terrified." 
 3. "The disciples were filled with a mixture of emotions, torn between wanting to stay and wanting to leave."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ah! bright manifestations in this vale of tears are always 'departing' manifestations." 
 
 2. "Bright moments of joy and clarity in our lives are often fleeting, like a shooting star that quickly disappears from view." 
@@ -42,4 +42,4 @@ In this passage, Peter is filled with a mixture of emotions as he witnesses the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

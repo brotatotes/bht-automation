@@ -9,7 +9,7 @@ Among a faith-filled community, there exists a distinct contrast between those w
 2. "All the day I stretched forth my hands, the attitude of gracious invitation." 
 3. "To a people disobedient and gainsaying, rebellious."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mere sincerity, and even earnestness in religion—though it may be some ground of hope for a merciful recovery from error—is no excuse, and will not compensate, for the deliberate rejection of saving truth."
 2. "The true cause of such rejection of saving truth, by the otherwise sincere, is the prepossession of the mind by some false notions of its own."
 3. "How piercingly and perpetually should that question—'HOW SHALL THEY HEAR WITHOUT A PREACHER?'—sound in the ears of all churches."
@@ -57,4 +57,4 @@ Overall, this commentary highlights the dichotomy between believers and unbeliev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

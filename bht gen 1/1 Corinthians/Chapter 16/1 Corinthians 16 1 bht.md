@@ -9,7 +9,7 @@ In this verse, the commentator remarks on the significance and emotional impact 
 2. "That poverty was no doubt increased by the continual troubles with which Jerusalem was harassed in this, the distressful close of the Jewish national history."
 3. "He refers to the occasion, whatever it was, when that order was given."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He says 'saints' rather than 'the poor,' to remind the Corinthians that in giving, it is to the Lord's people, their own brethren in the faith."
 2. "A beautiful fruit of grace it was, that he who had by persecutions robbed many of their all should become the foremost in exertions for their relief."
 3. "He proposes the Galatians as an example to the Corinthians, the Corinthians to the Macedonians, the Corinthians and Macedonians to the Romans. There is great force in example."
@@ -52,4 +52,4 @@ In this verse, the commentator remarks on the significance and emotional impact 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

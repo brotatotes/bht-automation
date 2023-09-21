@@ -4,7 +4,7 @@
 In the midst of Jesus' weariness and hunger, His disciples express their concern for His well-being and urge Him to eat. Their request is rooted in their awareness of His physical needs and their desire for Him to find rest and rejuvenation. This moment highlights the disciples' understanding of the importance of self-care and their recognition of Jesus' divine humanity. It also serves as a reminder that God is always at work, orchestrating events and preparing the way for His plans to unfold, even in the midst of our own moments of waiting and uncertainty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fatigue and thirst we saw He felt; here is revealed another of our common infirmities to which the Lord was subject—hunger."
 2. "While the woman was away."
 3. "Meantime."
@@ -42,4 +42,4 @@ In the midst of Jesus' weariness and hunger, His disciples express their concern
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of a descendant of David, Jeconiah, who was deemed "childless,
 2. "The LXX render this word עֲרִירִי, ἐκκήρυκτον: but the Talmudical writers explain it according to our rendering."
 3. "Either this may have been a different Zerubbabel, or Salathiel may, according to the law, have raised up seed to his brother."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nor does this contradict Jeremiah 22:30, 'Thus saith the Lord, Write ye this man (Coniah, or Jeconiah) childless'; for what follows explains in what sense this was meant—'for no man of his seed shall prosper, sitting upon the throne of David.' He was to have seed, but no reigning child."
 2. "But it would appear from 1 Chronicles 3:19 that Zerubbabel was Salathiel's grandson, being the son of Pedaiah, whose name, for some reason unknown, is omitted."
 3. "Salathiel—or Shealtiel—begat Zorobabel."
@@ -35,4 +35,4 @@ This verse speaks of a descendant of David, Jeconiah, who was deemed "childless,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the described passage, commentators emphasize the profound impact of the destruction of a great city, evoking deep emotions and lamentation. The uniqueness and prominence of this city are underscored, highlighting its unparalleled greatness among all others. Its downfall not only encompassed physical destruction but also revealed its moral corruption and spiritual decay, characterized by pride, luxury, idolatry, superstition, blasphemy, and impenitence. This verse reflects a city's demise that goes far beyond its physical existence, delving into its moral and spiritual significance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Greek, 'blepo,' is to use the eyes, to look: the act of seeing without thought of the object seen."
 2. "Greek, 'horao,' refers to the thing seen or presented to the eyes."
 3. "Contrast the attribution of this praise to God, to whom alone it is due, by His servants."
@@ -32,4 +32,4 @@ In the described passage, commentators emphasize the profound impact of the dest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

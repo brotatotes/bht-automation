@@ -9,7 +9,7 @@ In this verse, there are two prominent women in the church who are urged to reco
 2. "The repetition of the verb παρακαλῶ not merely signifies ‘vehementiam affectus’ (Erasm.), but hints at the present separation between them."
 3. "He adds ἐν κυρίῳ, both to shew them wherein their unanimity must consist, and perhaps to point out to them that their present alienation was not ἐν κυρίῳ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Euodia and Syntyche were two women who seem to have been at variance; probably deaconesses of the church." 
 2. "He repeats, 'I beseech,' as if he would admonish each separately, and with the utmost impartiality." 
 3. "In the Lord—the true element of Christian union; for those 'in the Lord' by faith to be at variance, is an utter inconsistency."
@@ -55,4 +55,4 @@ In this verse, there are two prominent women in the church who are urged to reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

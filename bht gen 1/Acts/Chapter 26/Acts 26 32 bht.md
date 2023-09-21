@@ -9,7 +9,7 @@ This verse describes a situation where Paul's appeal to Caesar prevented his rel
 2. "Nam appellatione potestas judicis, a quo appellatum est, cessare incipit ad absolvendum non minus quam ad condemnandum."
 3. "Crimina euim iutegra servanda sunt cognitioni snperioris."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This man might have been set at liberty if he had not appealed to Cæsar." This quote highlights the consequence of Paul's decision to appeal to Caesar, implying that it hindered his chances of being released. 
 
 2. "It would seem from this that such appeals, once made, behooved to be carried out." This quote suggests that once an appeal to Caesar was made, it was obligatory to follow through with it, indicating the seriousness and finality of the decision.
@@ -44,4 +44,4 @@ These quotes highlight the importance of boldness and fidelity in proclaiming th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

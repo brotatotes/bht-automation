@@ -4,7 +4,7 @@
 In this verse, we see the mention of a person who strongly opposes and resists the teachings of Paul and Timothy. This individual is described as malicious, ill-natured, and troublesome, having even been delivered up to Satan. The verse emphasizes the need for caution and vigilance, encouraging the recipient to keep away from such individuals and be on guard against them. It underscores the significant opposition faced by Paul and Timothy, with the person mentioned actively withstanding their teachings and doctrines.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our words—the arguments of us Christians for our common faith." This quote emphasizes the importance of verbal communication and persuasion in promoting the shared beliefs of Christians.
 
 2. "Believers have a common cause." This quote highlights the unity and solidarity among believers, as they all strive towards a shared purpose or mission.
@@ -46,4 +46,4 @@ In this verse, we see the mention of a person who strongly opposes and resists t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

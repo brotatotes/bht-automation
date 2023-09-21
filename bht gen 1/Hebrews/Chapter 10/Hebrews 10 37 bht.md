@@ -9,7 +9,7 @@ In this passage, there is a sense of anticipation and urgency, as the brevity of
 2. "It gives the sense of very small, 'aliquantillum' as Hermann expresses it." 
 3. "He that is coming, 'He that is to come:’ see reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Encouragement to patient endurance by consideration of the shortness of the time till Christ shall come."
 2. "God's rejection of him that draws back."
 3. "Christ, being the grand and ultimate subject of all prophetical vision, is here made by Paul, under inspiration, the subject of the Spirit's prophecy by Habakkuk, in its final and exhaustive fulfilment."
@@ -61,4 +61,4 @@ In this passage, there is a sense of anticipation and urgency, as the brevity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

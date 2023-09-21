@@ -9,7 +9,7 @@ The person being described in this verse is commended for their unwavering commi
 2. "ἐγένετο ἐν τῷ ἱερ .… ἔ λ αχεν" - This construction is common in Luke, implying that the author frequently uses this particular phrase to convey a certain meaning or emphasis.
 3. "In the phrase ἐντολαῖς κ . δικαιώμασιν, we must not press any difference between the terms." - This statement suggests that there should not be a significant distinction between the terms "ἐντολαῖς" and "δικαιώμασιν" in the verse. Both terms refer to God's ordinances and what is righteous for humanity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "commandments and ordinances—The one expressing their moral—the other their ceremonial—obedience" - This quote highlights the distinction between moral and ceremonial commandments and ordinances, emphasizing that they require different forms of obedience.
 
 2. "It has been denied that any such distinction was known to the Jews and New Testament writers." - This quote acknowledges the denial of the distinction between moral and ceremonial commandments, indicating a potential disagreement among scholars.
@@ -61,4 +61,4 @@ These quotes highlight the righteousness of Zacharias and Elizabeth before God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse depicts a judge who lacks reverence for God and disregards the rights
 2. "A common form of expression for an unprincipled and reckless person."
 3. "Instances in Wetstein."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feared not . . . neither regarded" - This phrase highlights the audacity of those who defy God's vengeance and disregard the opinions of others. It speaks to their lack of fear and their arrogance in the face of consequences.
 2. "Widow - weak, desolate, defenseless" - This description of a widow emphasizes their vulnerability and helplessness. It draws a parallel to the widows mentioned in 1 Timothy 5:5, further emphasizing their need for support and protection.
 3. "Taken from this" - This phrase suggests a connection between the verse being commented on and the passage in 1 Timothy 5:5. It implies that the concept of widows being weak and defenseless is derived from the verse being discussed, reinforcing the significance of this commentary.
@@ -47,4 +47,4 @@ This verse depicts a judge who lacks reverence for God and disregards the rights
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

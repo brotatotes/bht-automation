@@ -4,7 +4,7 @@
 An ambassador, bound by chains, proclaiming the gospel with boldness and fearlessness, representing Christ's message and entrusted with the high commission of being an ambassador for Him. Paul, in his imprisonment, epitomizes the paradoxical nature of an ambassador in chains, unveiling the dignity and courage entwined within his role as a messenger of God. His plight elicits prayers and honor from believers, as they recognize the sacredness and significance of his mission, despite his physical confinement.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An ambassador in bonds—a paradox. Ambassadors were held inviolable by the law of nations, and could not, without outrage to every sacred right, be put in chains."
 2. "The Romans used to bind a prisoner to a soldier by a single chain, in a kind of free custody."
 3. "The term, 'bonds' (plural), on the other hand, is used when the prisoner's hands or feet were bound together."
@@ -48,4 +48,4 @@ An ambassador, bound by chains, proclaiming the gospel with boldness and fearles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

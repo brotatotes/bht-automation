@@ -9,7 +9,7 @@ The verse being described is about Jesus addressing the people's unbelief and th
 2. "He overlooks their malice, not answering it, that He may go forward with the revelation of Himself."
 3. "The truth of which is all-important, and excludes less weighty things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have many things to say and to judge of you; but he that sent me is true." - This quote highlights that Jesus has a deep understanding of the people he is speaking to and has many things to say and judge about them. However, he acknowledges that the one who sent him, God the Father, is true and his message is aligned with the Father's will.
 
 2. "I could, and at the fitting time, will say and judge many things of you." - This quote emphasizes that Jesus has the authority and knowledge to speak and judge the people, but he chooses to do so at the appropriate time. It shows his discernment and wisdom in delivering his message.
@@ -65,4 +65,4 @@ Overall, the commentary emphasizes Jesus' authority, his concern for the people,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

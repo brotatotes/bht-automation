@@ -9,7 +9,7 @@ In this verse, we see the disciple Andrew, who, along with another disciple, hea
 2. "But He furthers their wish by inviting them to follow, and they will see."
 3. "They remained with Him the rest of that day, which would be four or five hours, and need not strictly be limited by sunset."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His great sensitiveness is touchingly shown in his representation of this first contact with the Lord; the circumstances are present to him in the minutest details; he still remembers the Very hour."
 2. "He reports no particulars of those discourses of the Lord by which he was bound to Him for the whole of His life; he allows everything personal to retire."
 3. "Peter's brother—and the elder of the two."
@@ -40,4 +40,4 @@ These quotes highlight the identity of the disciple who followed Jesus, Andrew, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

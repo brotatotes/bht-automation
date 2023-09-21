@@ -4,7 +4,7 @@
 In this verse, a multitude of voices rise up like the roaring of mighty waters and thunder, praising God for His reign as the Almighty. The voices of this vast assembly, representing the redeemed from all corners of the world, joyfully declare the establishment of God's kingdom. Their unified worship signifies the grandeur and power of God, prompting all of His servants to join in the chorus of praise.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many waters—Contrast the 'many waters' on which the whore sitteth." 
 2. "His reign is a fact already established. Babylon, the harlot, was one great hindrance to His reign being recognized."
 3. "Her overthrow now clears the way for His advent to reign; therefore, not merely Rome, but the whole of Christendom in so far as it is carnal and compromised Christ for the world, is comprehended in the term 'harlot'."
@@ -42,4 +42,4 @@ In this verse, a multitude of voices rise up like the roaring of mighty waters a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

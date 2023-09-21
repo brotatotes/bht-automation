@@ -9,7 +9,7 @@ In this passage, Jesus questions the disciples' belief, challenging their confid
 2. "It was the aim and purpose of the whole prophetic office of Jesus, to prepare some first disciples for the reception of the Spirit of Truth and the fruits of His Death, by grounding in them firm belief in His Person."
 3. "He therefore recognizes their faith; but shows them how weak it as yet was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is well ye do, for it is soon to be tested, and in a way ye little expect."
 2. "A deep and awful sense of wrong experienced is certainly expressed here, but how lovingly!"
 3. "That He was not to be utterly deserted, that there was One who would not forsake Him, was to Him matter of ineffable support and consolation."
@@ -45,4 +45,4 @@ In this passage, Jesus questions the disciples' belief, challenging their confid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

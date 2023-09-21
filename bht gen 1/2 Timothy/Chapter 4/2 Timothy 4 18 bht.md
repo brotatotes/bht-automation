@@ -9,7 +9,7 @@ The verse being described is focused on the assurance and trust in God's deliver
 2. "The meaning adopted by Huther, Wiesinger, al., that the ἔργα πονηρά are the works of his adversaries plotting against him, is totally beside the purpose."
 3. "It is hardly necessary to observe, that πονηροῦ here cannot be gen. masc., ‘of the evil one,’ as Pelagius and Mosheim, in De W.), and shall preserve me safe unto his kingdom in heaven."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hope draws its conclusions from the past to the future." - This quote highlights the idea that hope is based on looking back at what God has done in the past and trusting that He will continue to be faithful in the future.
 
 2. "He saves from evil; He gives good things." - This quote emphasizes that God is not only a deliverer from evil, but also a giver of good things. It reminds us that God's salvation goes beyond just rescuing us from harm, but also includes blessings and provisions.
@@ -59,4 +59,4 @@ The verse being described is focused on the assurance and trust in God's deliver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Blessed are those who wash their robes, for they have been brought through great afflictions and cleansed by the grace and power of God. They are called to serve Him in constant and uninterrupted worship, like priests in the heavenly temple. The dwelling of God among them provides not only a place of worship but also a protective covering, spreading His glory over them. It is through this purification and service that they are granted the right to eternal life and entrance into His heavenly city.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed are those who wash their robes, that they may have right to the tree of life, and may enter in through the gates into the city." (Revelation 22:14) - The washing of robes symbolizes the purification necessary to enter God's holy heaven.
 
 2. "Christ is at once King and Priest on His throne." - Christ's role as both King and Priest allows us to approach the heavenly King through priestly mediation.
@@ -46,4 +46,4 @@ Note: The commentary does not provide any additional context or explanation for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

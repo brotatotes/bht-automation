@@ -4,7 +4,7 @@
 The Bible verse being described depicts a powerful and cunning entity, identified as a dragon, with fiery rage and a murderous nature. This dragon is associated with the color red, symbolizing its bloodthirstiness and destructive tendencies. It possesses seven heads, representing its dominion over various powers, and ten horns, signifying its control over worldly instruments of authority. Despite its formidability, the dragon remains an enemy of God and threatens the existence of the church. Its strength and power are emphasized, but it is ultimately unable to conquer.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The color of the dragon implies his fiery rage as a murderer from the beginning."
 2. "His universal dominion as prince of this fallen world is implied by the seven diadems."
 3. "His worldly instruments of power are marked by the ten horns, ten being the number of the world."
@@ -46,4 +46,4 @@ The Bible verse being described depicts a powerful and cunning entity, identifie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

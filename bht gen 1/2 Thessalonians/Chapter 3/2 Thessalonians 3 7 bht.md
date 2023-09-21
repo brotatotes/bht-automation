@@ -9,7 +9,7 @@ In this verse, the apostle Paul calls the Thessalonians to imitate his example o
 2. "ἀτακτέω also occurs in Lysias κατὰ Ἀλκιβ .  a . p. 141. 18, in this sense, of ‘leading a disorderly life.’"
 3. "πῶς δεῖ μιμ. ἡμ. is a concise way of expressing ‘how ye ought to walk in imitation of us.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How ye ought to follow us" - This quote emphasizes the importance of living in a way that imitates the example set by others. It suggests that we should seek to emulate the actions and behaviors of those who are living according to the teachings of the Bible.
 
 2. "How ye ought to live" - This quote highlights the idea that following the example of others is not limited to specific actions, but encompasses the entirety of one's life. It implies that our entire way of living should reflect the principles and values of the Bible.
@@ -47,4 +47,4 @@ In this verse, the apostle Paul calls the Thessalonians to imitate his example o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

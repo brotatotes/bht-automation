@@ -4,7 +4,7 @@
 In this Bible verse, a man was refused lodging by the Samaritans, as he set his face towards Jerusalem. The rejection stemmed from the Samaritans' national prejudices and their expectation that he would support their claims in the dispute over the location of the temple. The rejection was met with humility and love by the man, who was resolute in his decision to go to Jerusalem, showcasing his unwavering dedication to his beliefs despite the rejection he faced.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Galileans, in going to the festivals at Jerusalem, usually took the Samaritan route."
 2. "If they were asked to prepare quarters for the Messiah, in the person of one whose 'face was as though He would go to Jerusalem,' their national prejudices would be raised at so marked a slight upon their claims."
 3. "Their national prejudices would be raised at so marked a slight upon their claims."
@@ -51,4 +51,4 @@ These quotes highlight the reasons behind the Samaritans' rejection of Jesus and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

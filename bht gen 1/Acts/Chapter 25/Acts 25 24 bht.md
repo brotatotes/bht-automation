@@ -9,7 +9,7 @@ In this Bible verse, the shift from chaos to order is highlighted as the Jews, b
 2. "By their deputation." 
 3. "The verse highlights the shift from a chaotic and noisy gathering to a more organized and official representation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was right when he said, 'The king knoweth of these things... for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner' (Acts 26:26)." 
 2. "Hence his curiosity to see and hear the man who had raised such commotion and was remodelling to such an extent the whole Jewish life."
 3. "The king's desire to personally meet and hear Paul reflects the significant impact he had made and the attention he had garnered."
@@ -38,4 +38,4 @@ In this Bible verse, the shift from chaos to order is highlighted as the Jews, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

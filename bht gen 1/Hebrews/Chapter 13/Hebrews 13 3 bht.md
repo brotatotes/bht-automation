@@ -11,7 +11,7 @@ In this Bible verse, we are called to remember and show empathy towards those wh
 
 3. "When you consider that you also have a body that is subject to suffering, you will be more inclined to show mercy to them, both out of sympathy and out of fear that you may suffer similar things due to inhumanity." - This quote further emphasizes the need for empathy and compassion, suggesting that the recognition of one's own vulnerability can motivate acts of mercy towards others.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Remember—in prayers and acts of kindness."
 2. "Bound with them—by virtue of the unity of the members in the body under one Head, Christ."
 3. "Being yourselves also in the body—and so liable to the adversities incident to the natural body, which ought to dispose you the more to sympathize with them, not knowing how soon your own turn of suffering may come."
@@ -47,4 +47,4 @@ In this Bible verse, we are called to remember and show empathy towards those wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

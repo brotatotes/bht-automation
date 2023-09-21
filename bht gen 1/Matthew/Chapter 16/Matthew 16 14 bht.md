@@ -11,7 +11,7 @@ In this Bible verse, we see the varied opinions and beliefs surrounding Jesus. S
 
 3. "It was not a metempsychosis, but a bodily resurrection which was believed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So that Herod Antipas was not singular in his surmise."
 2. "Was this theory suggested by a supposed resemblance between the 'Man of Sorrows' and 'the weeping prophet?'"
 3. "That He was a prophetical person, resembling those of old."
@@ -45,4 +45,4 @@ In this Bible verse, we see the varied opinions and beliefs surrounding Jesus. S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse unveils the profound and hidden nature of the religious life, emphasi
 
 3. "He was seen by angels, preached among the nations, believed on in the world, received up in glory." This sequence of events traces the ministry and impact of Jesus on earth, from his interaction with angels to the spread of the gospel to all nations. It culminates in his ascension into glory, highlighting the exalted position of Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confessedly great is the mystery of godliness: (namely), HE WHO was manifested in (the) flesh (He who) was justified in the Spirit." - The commentary highlights the grandeur of Christ's person and emphasizes the essential superhuman nature of Jesus. 
 
 2. "The mystery—the divine scheme embodied in CHRIST...once hidden from, but now revealed to, us who believe." - The commentary explains that the mystery of godliness is the divine plan revealed through Christ, which was previously hidden but is now accessible to believers. 
@@ -57,4 +57,4 @@ This verse unveils the profound and hidden nature of the religious life, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

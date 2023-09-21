@@ -9,7 +9,7 @@ Believers, having been already cleansed through faith in Christ, are called to m
 2. "This foot-washing represented to them, besides its lesson of humility and brotherly love, their daily need of cleansing from daily pollution, even after spiritual regeneration, at the hands of their Divine Master."
 3. "See 2 Corinthians 7:1; James 1:21; Act 15:8-9; 2 Peter 2:22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that is washed—in this thorough sense, to express which the word is carefully changed to one meaning to wash as in a bath."
 2. "This cleansing is effected once for all, and is never repeated."
 3. "The other cleansing, described as that of 'the feet,' is such as one walking from a bath quite cleansed still needs, in consequence of his contact with the earth."
@@ -53,4 +53,4 @@ Believers, having been already cleansed through faith in Christ, are called to m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

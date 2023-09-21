@@ -9,7 +9,7 @@ The verse being described emphasizes the superiority of Christ over the rituals 
 2. "the substantial blessings, which those legal observances typified, are attached to, brought in by, found in union with, Christ"
 3. "if the ordinance of the Sabbath had been, in any form, of lasting obligation on the Christian Church, it would have been quite impossible for the Apostle to have spoken thus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blessings of the Christian covenant, the substance of which Jewish ordinances were but the type."
 2. "The real substance (of the blessings typified by the law) belongs to Christ."
 3. "The body is of Christ."
@@ -55,4 +55,4 @@ The verse being described emphasizes the superiority of Christ over the rituals 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

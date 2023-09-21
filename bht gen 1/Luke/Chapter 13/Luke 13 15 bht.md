@@ -9,7 +9,7 @@ In this particular passage, an incident occurs where Jesus confronts a hypocriti
 2. "A man hardly could give forth a doctrine so at variance with common sense and common practice, without some by-end, with which he covered his violation of truth."
 3. "The instance chosen exactly fits the circumstances. A beast tied to the manger is confined down as this poor woman was."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How 'the faithful and true Witness' tears off the masks which men wear!"
 2. "The Lord...hypocrite!"
 3. "His ox, c."
@@ -59,4 +59,4 @@ In this particular passage, an incident occurs where Jesus confronts a hypocriti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

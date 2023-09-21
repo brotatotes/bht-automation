@@ -9,7 +9,7 @@ In this passage, commentators emphasize the importance of a warning given to the
 2. "Its reception was almost uniformly unfavorable."
 3. "Against such anticipated rejection he now warns them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware, therefore, &c." - This warning serves as a cautionary message to the readers, urging them to be cautious and attentive.
 2. "By this awful warning of the Old Testament" - The commentary highlights the significance of the warning, emphasizing its importance and seriousness.
 3. "The apostle would fain 'shut them up unto the faith.'" - The apostle's intention is to guide and direct the readers towards faith, encouraging them to embrace it wholeheartedly.
@@ -50,4 +50,4 @@ In this passage, commentators emphasize the importance of a warning given to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

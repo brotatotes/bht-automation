@@ -4,7 +4,7 @@
 The Bible verse described in these commentaries highlights the concept of divine complacency and God's will. It emphasizes that pleasing God is not just about personal preferences or reasons, but about aligning oneself with His gracious will and purpose. It further emphasizes that understanding and accepting God's will can be challenging, but it is the key to acquiring wisdom and perceiving the greater good in His eternal arrangements. Overall, the verse speaks of surrendering to God's will and finding solace in His good pleasure, even if we may not fully comprehend His reasons or plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The emphatic and chosen term for expressing any object of divine complacency."
 2. "God's gracious eternal arrangements."
 3. "The glory of it—not so much in the light of its own reasonableness as of God's absolute will that so it should be—had filled His soul."
@@ -33,4 +33,4 @@ The Bible verse described in these commentaries highlights the concept of divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

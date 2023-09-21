@@ -9,7 +9,7 @@ This verse depicts the complex impact that Jesus has on those who encounter him.
 2. "Rising up in the sense of faith and holiness." 
 3. "He that humbleth himself shall be exalted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two stages of temporary 'fall of many in Israel' through unbelief, during our Lord's earthly career, and the subsequent 'rising again' of the same persons after the effusion of the Spirit at Pentecost threw a new light to them on the whole subject."
 2. "The determined enemies of the Lord Jesus."
 3. "Such opposite views of Christ are taken from age to age."
@@ -55,4 +55,4 @@ This verse depicts the complex impact that Jesus has on those who encounter him.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

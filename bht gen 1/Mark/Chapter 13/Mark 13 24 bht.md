@@ -9,7 +9,7 @@ In this passage, various commentators shed light on a Bible verse that speaks of
 2. "Those days come after that tribulation."
 3. "ἀλλά is more than the simple 'but' and is best rendered by 'nevertheless'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The darkening of the sun and the moon not giving their light is a powerful symbol of the cosmic upheaval that will accompany the end times. It signifies the dramatic and unprecedented events that will unfold, capturing the attention of all humanity." 
 
 2. "This verse reminds us that even in the midst of great tribulation and darkness, there is hope. It is a reminder that God's light can still shine through the darkest of times, offering comfort and guidance to those who seek it." 
@@ -47,4 +47,4 @@ In this passage, various commentators shed light on a Bible verse that speaks of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the commentators describe the allure of positions of honor and recognition within religious and social settings. They highlight the desire for prominence and status among the religious leaders and guests at feasts, emphasizing the human inclination to seek power and recognition. The commentators also point to the dangers of seeking recognition, as it can lead to hypocrisy and a neglect of genuine service. This verse serves as a reminder to prioritize humility and genuine service over the pursuit of positions of honor.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief seats in the synagogues, and the uppermost rooms at feasts" - These positions of honor and prominence were highly sought after by the religious leaders of the time. (Quote 1)
 2. "On this love of distinction" - The commentary highlights the underlying motive behind the desire for these positions, which is the love of being recognized and esteemed by others. (Quote 2)
 3. "See on" - The commentary refers the reader to other passages in the Bible that further explore the topic of seeking recognition and the dangers associated with it. (Quote 3)
@@ -30,4 +30,4 @@ In this Bible verse, the commentators describe the allure of positions of honor 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

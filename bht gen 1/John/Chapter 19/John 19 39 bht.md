@@ -9,7 +9,7 @@ The verse in question showcases the immense love and devotion of Nicodemus and J
 2. "And thus this act of love on the part of both these men is a testimony for Jesus, and for the future effect of His death."
 3. "Hence also it appears why the Evangelist mentions the weight of the spices, as a proof of the greatness of their love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This remark corresponds to the secrecy of Joseph's discipleship, just noticed, and calls attention to the similarity of their previous character and conduct, and the remarkable change which had now taken place."
 2. "An immense quantity, betokening the greatness of their love."
 3. "Part of it probably intended as a layer for the spot on which the body was to lie."
@@ -38,4 +38,4 @@ The verse in question showcases the immense love and devotion of Nicodemus and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

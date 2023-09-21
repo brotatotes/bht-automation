@@ -9,7 +9,7 @@ This Bible verse portrays a scene of profound distress and agony as a boy is sei
 2. "ἵνα combines the purpose of the εἶπα with the purport."
 3. "see note on 1 Corinthians 14:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And wheresoever he taketh him, he teareth him; and he foameth, and gnasheth with his teeth, and pineth away." - This quote describes the physical and emotional torment experienced by the possessed boy, highlighting the severity of his condition.
 
 2. "Lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him." - This quote provides additional details from Luke's account, emphasizing the violent and uncontrollable nature of the spirit's influence on the boy.
@@ -42,4 +42,4 @@ These quotes describe the intense suffering and torment experienced by the posse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse highlights the sacrificial love husbands should have for their wives,
 
 3. "The word, preached and received, is the conditional element of purification, the real water of spiritual baptism; that wherein and whereby alone the efficacy of baptism is conveyed that wherein and whereby we are regenerated, the process of sanctification being subsequent and gradual." - The preached word of faith, received and confessed in baptism, is the means by which believers are purified, regenerated, and sanctified. It is through the power of the divine word that the efficacy of baptism is conveyed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do you wish your wife to obey you, as the Church is to obey Christ? Then have a solicitude for her as Christ had for the Church."
 2. "If it be necessary to give thy life for her, or to be cut in ten thousand pieces, or to endure any other suffering whatever, do not refuse it."
 3. "For no bound is more sovereign in binding than such bonds, especially in the case of husband and wife."
@@ -52,4 +52,4 @@ This verse highlights the sacrificial love husbands should have for their wives,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

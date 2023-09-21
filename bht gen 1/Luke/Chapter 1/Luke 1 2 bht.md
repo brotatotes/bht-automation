@@ -9,7 +9,7 @@ This verse describes how the teachings and events of Jesus were passed down from
 2. "He cannot therefore have seen (or, having seen, not recognized as such, which is highly improbable) the Gospel of Matthew."
 3. "ὑπηρέτης had long lost trace of its original derivation, in its more common meaning; and it would be abhorrent from good taste to suppose St. Luke to have used it with so pedantic an allusion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'from the beginning' refers to the start of Jesus' public ministry, as indicated by the subsequent events described in the passage."
 
 2. "This verse highlights the significance of Jesus' ministry and the impact it had on those who witnessed it."
@@ -47,4 +47,4 @@ This verse describes how the teachings and events of Jesus were passed down from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

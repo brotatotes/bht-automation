@@ -4,7 +4,7 @@
 In this verse, a woman anoints Jesus' head with a valuable ointment, prompting criticism from those present. The value of the ointment is emphasized, illustrating the woman's sacrifice. There is a disagreement on how the money could have been better used, with some suggesting it should have been given to the poor. The negative reaction of the crowd is evident, as they murmur against the woman's act of devotion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This he said," remarks John (John 12:6), and the remark is of exceeding importance, "not that he cared for the poor but because he was a thief, and had the bag"—the scrip or treasure chest—"and bare what was put therein." 
 
 2. What a remarkable arrangement was this, by which an avaricious and dishonest person was not only taken into the number of the Twelve, but entrusted with the custody of their little property!
@@ -37,4 +37,4 @@ In this verse, a woman anoints Jesus' head with a valuable ointment, prompting c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

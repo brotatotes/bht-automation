@@ -11,7 +11,7 @@ As we reflect on this verse, we are reminded of the earthly nature of humanity a
 
 3. "See, as admirably illustrating this verse, Philippians 3:20-21." This quote suggests that the commentary finds Philippians 3:20-21 as a fitting illustration of the verse. It encourages readers to explore that passage for further insights into the concept of our citizenship in heaven.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All Adam's posterity in their natural state."
 2. "His people in their regenerate state."
 3. "As the former precedes the latter state, so the natural bodies precede the spiritual bodies."
@@ -47,4 +47,4 @@ As we reflect on this verse, we are reminded of the earthly nature of humanity a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

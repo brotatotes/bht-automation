@@ -11,7 +11,7 @@ If we deny our sins, we are denying the truth of God's word, rejecting His decla
 
 3. "God declares that to be true which we assume to be untrue." - This quote underscores the contradiction between our denial of sin and God's declaration of our sinful nature, emphasizing the importance of aligning our beliefs with God's truth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we have not sinned—referring to the commission of actual sins, even after regeneration and conversion"
 2. "we make Him a liar, by denying His word that all men are sinners"
 3. "Our rejection of 'His word' in respect to our being sinners, implies as the consequence our rejection of His word and will revealed in the law and Gospel as a whole"
@@ -63,4 +63,4 @@ If we deny our sins, we are denying the truth of God's word, rejecting His decla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

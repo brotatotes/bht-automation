@@ -4,7 +4,7 @@
 This passage speaks to a community of believers, possibly a church, bound together by their shared faith and close relationship. It emphasizes the divine sovereignty in choosing and calling individuals to be part of God's family, highlighting the spiritual kinship and unity among believers. The mention of children walking in the truth underscores the importance of passing down the knowledge and belief in God from one generation to the next. It serves as a reminder of the challenges and hardships faced by early Christians, highlighting the need for encouragement and connection even in times of distance or loss.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The non-mention of the 'lady' herself here seems rather to favor the hypothesis that a Church is meant." 
 
 2. "The use of the term 'elect lady' suggests that the writer is addressing a specific group of believers, possibly a church." 
@@ -41,4 +41,4 @@ This passage speaks to a community of believers, possibly a church, bound togeth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

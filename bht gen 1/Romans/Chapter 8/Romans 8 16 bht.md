@@ -11,7 +11,7 @@ The Bible verse being described emphasizes the testimony of the Spirit within be
 
 3. "On this direct testimony of the Holy Ghost rests, ultimately, all the regenerate man’s conviction respecting Christ and His work." - The commentator emphasizes that the testimony of the Spirit is the foundation of a believer's conviction about Christ and His work, as it reveals the divine nature and influence of the Spirit in their lives.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The testimony of our own spirit is borne in that cry of conscious sonship, 'Abba, Father'; but we are not therein alone; for the Holy Ghost within us, yea, even in that very cry which it is His to draw forth, sets His own distinct seal to ours." 
 2. "The apostle had before called us 'sons of God,' referring to our adoption; here the word changes to 'children,' referring to our new birth."
 3. "The one expresses the dignity to which we are admitted; the other the new life which we receive."
@@ -59,4 +59,4 @@ The Bible verse being described emphasizes the testimony of the Spirit within be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

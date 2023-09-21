@@ -9,7 +9,7 @@ The Bible verse being described in these commentaries focuses on the promise mad
 2. "The central point of the Apostle’s argument is this: The seed to whom the promises were made, was Christ."
 3. "Christ contains His people, and the mention even of the personal Christ would bring with it, in the Apostle’s mind, the inclusion of His believing people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The covenant of promise was not 'spoken' (so Greek for 'made') to Abraham alone, but 'to Abraham and his seed'; to the latter especially; and this means Christ." 
 2. "In the spiritual seed there is no distinction of Jew or Greek; but to the literal seed, the promises still in part remain to be fulfilled." 
 3. "The promise that in Him 'all the families of the earth shall be blessed' joins in this one Seed, Christ, Jew and Gentile, as fellow heirs on the same terms of acceptability, namely, by grace through faith."
@@ -53,4 +53,4 @@ The Bible verse being described in these commentaries focuses on the promise mad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

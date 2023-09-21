@@ -9,7 +9,7 @@ In this verse, Jesus strongly emphasizes his divine knowledge and awareness of t
 2. "ὁ ἐρχόμενος" describes the betrayer as the one who is coming, emphasizing the imminent nature of the betrayal.
 3. This verse uses the indefinite characteristic present to highlight the identity of the betrayer without explicitly naming him.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our language cannot bring out the intensely vivid contrast between the 'Thou' and the 'my,' which, by bringing them together, the original expresses."
 2. "Thus far, and in the question itself, there was nothing but the most profound and beautiful astonishment at a condescension to him quite incomprehensible."
 3. "Jesus ministers no rebuke as yet, but only bids him wait a little, and he should understand it all."
@@ -47,4 +47,4 @@ In this verse, Jesus strongly emphasizes his divine knowledge and awareness of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

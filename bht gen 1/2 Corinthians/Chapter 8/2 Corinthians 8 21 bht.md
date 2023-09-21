@@ -9,7 +9,7 @@ In this verse, the importance of acting with integrity and maintaining a good re
 2. "This caution aligns with the teachings of Romans and Proverbs." 
 3. "The importance of caution is emphasized in both the book of Romans and the book of Proverbs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For we provide." - This phrase from the oldest manuscripts suggests that the act of providing for others is an important aspect of living a righteous life.
 2. "Honest things." - The term "honest things" refers to things that are honorable and morally upright. It implies that our actions should align with principles of integrity and righteousness.
 3. "Things honorable." - This phrase emphasizes the importance of conducting ourselves in a way that is honorable and respectable, reflecting the values and virtues of a righteous life.
@@ -52,4 +52,4 @@ In this verse, the importance of acting with integrity and maintaining a good re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of Paul's missionary journey, he arrived in Ephesus, a city located
 2. "These seem to have been in the same situation as Apollos... They had received only John’s baptism, and had had no proof of the descent of the Holy Spirit, nor knowledge of His gifts."
 3. "They cannot have been mere disciples of John, on account of πιστεύσαντες, which can bear no meaning but that of believing on the Lord Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apollos' powerful ministry in Corinth had created a division in the Church, with some preferring his style of preaching over Paul's. This may have been due to the influence of Greek philosophic culture, which Paul intentionally avoided. (1 Corinthians 1:12; 1 Corinthians 3:4)"
 
 2. "Paul, having traveled through the elevated interior of Asia Minor, arrived in Ephesus, fulfilling his promise. (Acts 18:21)"
@@ -52,4 +52,4 @@ In the midst of Paul's missionary journey, he arrived in Ephesus, a city located
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

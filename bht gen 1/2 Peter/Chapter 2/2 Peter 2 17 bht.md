@@ -11,7 +11,7 @@ These Bible verses depict individuals who present themselves as trustworthy and 
 
 3. "For whom the blackness of darkness is reserved." - This phrase suggests a future judgment or punishment for those described as wells without water and clouds without water. (Quote 17)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their 'great swelling words' are found on trial to be but 'vanity'." (Judges 1:13)
 2. "Whence the latter term is applied sometimes to the saints; fit emblem of the children of darkness." (Judges 1:13)
 3. "'Mist'—blackness; 'the chilling horror accompanying darkness'." (Judges 1:13)
@@ -61,4 +61,4 @@ These Bible verses depict individuals who present themselves as trustworthy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

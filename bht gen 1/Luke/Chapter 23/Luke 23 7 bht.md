@@ -9,7 +9,7 @@ In this Bible verse, the sender, Pilate, made a strategic move by sending Jesus 
 2. "Nam remittitur reus qui alicubi comprehensus mittitur ad judicem aut originis aut habitationis." (For the accused is sent back to the judge of his place of origin or residence.)
 3. "Itaque Pilatus Herodi, ut Tetrarchæ ejus loci unde esse Jesus dicebatur, potestatem permisit Jesum abducendi in Galilæam, ibique, si vellet, cognoscendi de ejus causa." (So Pilate allowed Herod, the Tetrarch of the place where Jesus was said to be from, to have the power to take Jesus to Galilee and there, if he wished, to investigate his case.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sending Jesus to Herod was a strategic move by Pilate, hoping to avoid making a decision that would either condemn an innocent man or release a potentially dangerous one. It was a way for Pilate to shift the responsibility onto someone else." 
 
 2. "The timing of Jesus' trial and crucifixion was significant, as it coincided with the Passover festival in Jerusalem. This added to the tension and complexity of the situation, as the city was filled with pilgrims and religious fervor." 
@@ -52,4 +52,4 @@ In this Bible verse, the sender, Pilate, made a strategic move by sending Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

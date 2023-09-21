@@ -9,7 +9,7 @@ The verse describes a distinction between the literal Israel, who were involved 
 2. "The question has been raised, and with reason, why the Apostle did not say κοινωνοὶ τοῦ θεοῦ? Meyer answers, because the Jew was already in covenant with God, and the Apostle wished to express a closer connexion, brought about by the sacrifice in question."
 3. "But to carry this view further, and suppose with Rückert that he would not concede to the Ἰσρ. κατὰ σάρκα any κοινωνία θεοῦ, is (Meyer) contradicted by Romans 9:4-5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Israel after the flesh—the literal, as distinguished from the spiritual, Israel." 
 
 2. "Partakers of the altar—and so of God, whose is the altar." 
@@ -57,4 +57,4 @@ The verse describes a distinction between the literal Israel, who were involved 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

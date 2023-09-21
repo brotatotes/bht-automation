@@ -9,7 +9,7 @@ In this Bible verse, the severity of the situation is emphasized as the innocent
 2. "What shall become of them who are cast forth as a branch and are withered?"
 3. "The explanations which make the green-tree = the young, and the dry = the old, or the green-tree = the women, comparatively innocent, the dry = the guilty, at the destruction of Jerusalem seem to me unworthy of the place which the words hold."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If such sufferings alight upon the innocent One, the very Lamb of God, what must be in store for those who are provoking the flames?"
 2. "The proverb here plainly means: 'If such sufferings alight upon the innocent One, the very Lamb of God, what must be in store for those who are provoking the flames?'"
 3. "The green tree—that naturally resists the fire. The dry—that attracts the fire, being its proper fuel."
@@ -55,4 +55,4 @@ In this Bible verse, the severity of the situation is emphasized as the innocent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

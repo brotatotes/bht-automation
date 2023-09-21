@@ -9,7 +9,7 @@ In this Bible verse, we see that the breach between light and darkness only wide
 2. "Evil men and seducers shall grow worse and worse, advancing in the direction of worse."
 3. "Deceiving and being deceived, those who deceive others are themselves deceived."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reason why persecutions must be expected, and these becoming worse and worse as the end approaches."
 2. "The breach between light and darkness, so far from being healed, shall be widened."
 3. "He who has once begun to deceive others, is the less easily able to recover himself from error, and the more easily embraces in turn the errors of others."
@@ -55,4 +55,4 @@ In this Bible verse, we see that the breach between light and darkness only wide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

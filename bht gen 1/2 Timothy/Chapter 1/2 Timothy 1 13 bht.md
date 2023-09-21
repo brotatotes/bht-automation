@@ -9,7 +9,7 @@ The verse being described in this paragraph is 2 Timothy 1:13, which states, "Ho
 2. "To what does ὑποτύπωσιν ἔχε refer? I answer, to the saying immediately preceding, οἶδα γὰρ κ . τ . λ ."
 3. "Let me in thus speaking, ‘I know whom I have believed &c.,’ call to thy mind, by one example, those faithful sayings, those words of spiritual health, which thou once heardest with such receptivity and ardour as a Christian believer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have (that is, keep) a pattern of sound (Greek, 'healthy') words which thou hast heard from me, in faith and love."
 2. "Keep" suits the reference to a deposit in the context.
 3. Have such a pattern drawn from my sound words, in opposition to the unsound doctrines so current at Ephesus, vividly impressed on thy mind.
@@ -61,4 +61,4 @@ The verse being described in this paragraph is 2 Timothy 1:13, which states, "Ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

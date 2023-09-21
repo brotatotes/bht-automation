@@ -4,7 +4,7 @@
 In this verse, we should beware of the Scribes and Pharisees, who seek recognition and honor. Their desire for status and prominence is cautioned against, as Jesus emphasizes the importance of humility and genuine devotion to God. This serves as a reminder to prioritize the needs of others and to avoid hypocrisy, focusing instead on inner sincerity and seeking God's approval rather than the praise of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware, c." - This quote warns readers to be cautious and attentive to what follows, indicating that the commentary will provide important insights or warnings.
 
 2. "(See on :- and Luke 20:1)." - This quote directs readers to refer to previous explanations or related passages for further understanding, suggesting that the commentary will provide additional context or connections to other verses.
@@ -34,4 +34,4 @@ In this verse, we should beware of the Scribes and Pharisees, who seek recogniti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a testament to the author's unwavering devotion and
 2. "The serving God in his spirit was a guarantee that his profession was sincere, and that the oath just taken was no mere form, but a solemn and earnest appeal of his spirit."
 3. "His peculiar method of λατρεία was concerned with the gospel of the Son of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word denotes religious service."
 2. "From my inmost soul."
 3. "Paul's whole religious life and official activity were consecrated."
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

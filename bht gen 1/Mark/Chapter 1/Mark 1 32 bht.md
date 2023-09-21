@@ -4,7 +4,7 @@
 The Bible verse being described is a scene where people bring their sick and possessed to Jesus after the Sabbath has ended. The mention of the sun setting signifies the transition from darkness to light, mirroring the healing and restoration that will take place. Jesus' actions demonstrate his compassion and disregard for societal expectations, as he heals the afflicted despite the risks. The strict adherence to the Sabbath observance highlights the disciples' obedience and respect for Jewish laws.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Luke (Matthew 8:16- :) says it was setting." 
 2. "From Luke 13:14 we see how unlawful they would have deemed it to bring their sick to Jesus for a cure during the sabbath hours."
 3. "Our Lord afterwards took repeated occasion to teach the people by example, even at the risk of His own life, how superstitious a straining of the sabbath rest this was."
@@ -42,4 +42,4 @@ The Bible verse being described is a scene where people bring their sick and pos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

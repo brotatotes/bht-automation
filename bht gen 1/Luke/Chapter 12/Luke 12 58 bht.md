@@ -4,7 +4,7 @@
 In this verse, the urgency of the situation is emphasized by multiple commentators. They stress the necessity for immediate action and decision, highlighting the need for repentance and deliverance. The verse warns against procrastination, urging individuals to separate themselves from negative influences or harmful situations before it's too late. The consequences of delay are depicted as dire, as depicted in the imagery of being delivered over to executioners and facing eternal ruin.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The urgency of the case with them, and the necessity, for their own safety, of immediate decision."
 2. "The urgency of the case with them."
 3. "The necessity, for their own safety, of immediate decision."
@@ -40,4 +40,4 @@ In this verse, the urgency of the situation is emphasized by multiple commentato
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The passage, spoken by Jesus, emphasizes the significance of keeping His teachin
 
 3. "θεωρεῖν θάν ., as γεύεσθαι θαν ., is a Hebraism for to die, see reff., and must not be pressed to mean, ‘shall not feel (the bitterness of) death,’ in a temporal sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If a man keep my saying, he shall never see death—Partly thus vindicating His lofty claims as Lord of the kingdom of life everlasting, and, at the same time, holding out even to His revilers the scepter of grace."
 
 2. "The word 'keep' is in harmony with 'If ye continue in My word,' expressing the permanency, as a living and paramount principle, of that faith to which He referred."
@@ -57,4 +57,4 @@ The passage, spoken by Jesus, emphasizes the significance of keeping His teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

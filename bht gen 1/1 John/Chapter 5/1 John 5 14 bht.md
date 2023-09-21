@@ -4,7 +4,7 @@
 This Bible verse highlights the connection between prayer, confidence, and God's will. It emphasizes that as believers, we can approach God with boldness and assurance, knowing that he hears and answers our prayers when they align with his will. Prayer is not simply about asking for our own desires, but about seeking God's will and submitting to it. When we pray in faith, according to God's revealed will, we can have confidence that he hears us and responds with favor.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The confidence—boldness in prayer, which results from knowing that we have eternal life."
 2. "In so far as God's will is not our will, we are not abiding in faith, and our prayers are not accepted."
 3. "If we knew God's will thoroughly, and submitted to it heartily, it would be impossible for us to ask anything for the spirit or for the body which He should not perform."
@@ -43,4 +43,4 @@ This Bible verse highlights the connection between prayer, confidence, and God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

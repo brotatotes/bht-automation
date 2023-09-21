@@ -9,7 +9,7 @@ In this Bible verse, Christ's gifts are summed up in the gift of Himself. The in
 2) "The inscription which gives the stone its real value, being, as it is, a token of reward and approval from the Son of God."
 3) "It should be the recipient’s own name, a new name however; a revelation of his everlasting title, as a son of God, to glory in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the manna hidden in the sanctuary was by divine power preserved from corruption, so Christ in His incorruptible body has passed into the heavens, and is hidden there until the time of His appearing."
 2. "Believers are now hidden, even as their meat is hidden. As the manna in the sanctuary, unlike the other manna, was incorruptible, so the spiritual feast offered to all who reject the world's dainties for Christ is everlasting: an incorruptible body and life forever in Christ at the resurrection."
 3. "The 'new name' is Christ's: some new revelation of Himself which shall hereafter be imparted to His people, and which they alone are capable of receiving."
@@ -50,4 +50,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks to the relationship between a disciple and thei
 2. "De Wette, Kuinoel, &c., have given a strange rendering of this clause, making κατηρτ . ὡς ὁ δ . αὐτ . the predicate ‘every disciple will be instructed as his Master.’"
 3. "But if I mistake not, the position of κατηρτ . as first in the sentence forbids this rendering."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciple aims to come up to his master, and he thinks himself complete when he does so."
 2. "If you then be blind leaders of the blind, the perfection of one's training under you will only land him the more certainly in one common ruin with yourselves."
 3. "The disciple's goal is to reach the level of his master, considering himself accomplished when he achieves this. However, if the leaders are blind and misguided, the disciple's training under them will only lead to their mutual destruction."
@@ -54,4 +54,4 @@ The verse being described speaks to the relationship between a disciple and thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

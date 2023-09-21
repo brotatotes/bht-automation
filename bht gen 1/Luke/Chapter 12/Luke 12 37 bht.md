@@ -11,7 +11,7 @@ In a remarkable act of humility and love, the one who comes will serve and bless
 
 3. "Compare the washing of the disciples’ feet in John 13:1 ff., which was a foreshewing of this last great act of self-abasing love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a promise the most august of all: Thus will the Bridegroom entertain his friends (nay, servants) on the solemn Nuptial Day" [BENGEL].
 2. "This act of girding himself with a towel was a symbol of humility and servanthood, as it was typically done by the lowest of servants." [COMMENTARY]
 3. "Jesus, the Son of God, willingly took on the role of a servant to demonstrate the depth of his love and to teach his disciples the importance of humility and service." [COMMENTARY]
@@ -56,4 +56,4 @@ In a remarkable act of humility and love, the one who comes will serve and bless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

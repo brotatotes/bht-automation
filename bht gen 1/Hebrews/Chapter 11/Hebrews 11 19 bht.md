@@ -9,7 +9,7 @@ In this verse, we see Abraham's unwavering faith in God's power to overcome even
 2. "It was not God’s power to raise Isaac, but God’s power, generally, to raise from the dead, that Abraham believed."
 3. "Under the figure of that ram, Isaac was slain, being received back by his father in his proper person, risen from that death which he had undergone ἐν παραβολῇ, in, under, the figure of the ram."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith answered the objections which reason brought against God's command to Abraham to offer Isaac, by suggesting that what God had promised He both could and would perform, however impossible the performance might seem."
 2. "The quickening of Sarah's dead womb suggested the thought of God's power to raise even the dead, though no instance of it had as yet occurred."
 3. "I prefer understanding the figure to be the representation which the whole scene gave to Abraham of Christ in His death (typified by Isaac's offering in intention, and the ram's actual substitution answering to Christ's vicarious death), and in His resurrection (typified by Abraham's receiving him back alive from the jaws of death)."
@@ -48,4 +48,4 @@ In this verse, we see Abraham's unwavering faith in God's power to overcome even
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

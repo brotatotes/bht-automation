@@ -9,7 +9,7 @@ As believers, we belong to Christ, being His property, His subjects, and His mem
 2. "He possesses not you for Himself; but (δέ again) κεφαλὴ χριστοῦ ὁ θεός, ch. 1 Corinthians 11:3." 
 3. "CHRIST HIMSELF, the Incarnate God the Mediator, belongs to God, is subordinate to the Father, see John 14:28; John, 17 passim."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye are Christ's—not Paul's, or Apollos,' or Cephas'" - This quote emphasizes the importance of belonging to Christ rather than being divided by human leaders. (1 Corinthians 11:3; Matthew 23:8-10)
 
 2. "Not merely a particular section of you, but ye all are Christ's" - This quote highlights the inclusive nature of being Christ's, encompassing all believers. (1 Corinthians 1:12)
@@ -52,4 +52,4 @@ As believers, we belong to Christ, being His property, His subjects, and His mem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

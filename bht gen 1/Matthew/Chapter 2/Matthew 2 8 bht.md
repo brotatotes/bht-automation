@@ -9,7 +9,7 @@ In the verse being described, commentators note the meticulousness and urgency w
 2. "Their insertion always gives fulness and accuracy to the meaning."
 3. "It may be remarked, that although not strictly needed in the sentences where they occur."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Search out carefully." - This phrase emphasizes the importance of thorough investigation, suggesting that the task given to the wise men was not to be taken lightly.
 2. "The cunning and bloody hypocrite!" - This strong statement reveals the commentator's disdain for Herod, highlighting his deceitful nature and contrasting it with the genuine intentions of the wise men.
 3. "This royal mandate would meantime serve as a safe conduct to the strangers." - This remark sheds light on the strategic thinking of Herod, who used his request to search for the child as a way to gain information about the wise men's intentions and protect his own interests.
@@ -45,4 +45,4 @@ In the verse being described, commentators note the meticulousness and urgency w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus exposes the deceptive claims of certain individuals who pro
 2. "ὁμολογήσω is here a remarkable word, as a statement of the simple truth of facts, as opposed to the false colouring and self-deceit of the hypocrites ‘I will tell them the plain truth.’"
 3. "Neither the preaching Christ, nor doing miracles in His Name, are infallible signs of being His genuine servants, but only the devotion of life to God’s will which this knowledge brings about."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I never knew you—What they claimed—intimacy with Christ—is just what He repudiates, and with a certain scornful dignity."
 2. "They claimed intimacy with Christ, and in the corresponding passage, Matthew 25:41, are represented as having gone out and in with Him on familiar terms. 'So much the worse for you,' He replies: 'I bore with that long enough; but now—begone!'"
 3. "Ye that work iniquity—not 'that wrought iniquity'; for they are represented as fresh from the scenes and acts of it as they stand before the Judge."
@@ -54,4 +54,4 @@ Note: The commentary provided is not a complete or comprehensive analysis of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of a miraculous escape, the haste of Peter is evident as he quickly
 2. "James, the brother of the Lord, whom we find presiding over the church at Jerusalem."
 3. "I see in these words a minute mark of truth in our narrative. Under the circumstances, the place of Peter’s retreat would very naturally at the time be kept secret."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the hubbub of joyful and wondering interrogatories there might mingle reflections, thrown out by one against another, for holding out so long against the testimony of Rhoda."
 2. "The emotion of the apostle's own spirit would be too deep and solemn to take part in such demonstrations or utter a word till, with his hand, he had signified his wish for perfect silence."
 3. "James is singled out, because he had probably begun to take the oversight of the Church in Jerusalem, which we afterwards find him exercising."
@@ -53,4 +53,4 @@ In the midst of a miraculous escape, the haste of Peter is evident as he quickly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

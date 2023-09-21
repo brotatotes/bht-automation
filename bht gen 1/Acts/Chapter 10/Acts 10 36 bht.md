@@ -9,7 +9,7 @@ In this verse, the commentators provide valuable insights into its meaning. The 
 2. "I the more incline to this, the simplest and most forcible rendering, from observing that so far from ὑμεῖς οἴδατε being (Meyer’s objection) a harsh beginning to a new sentence, it is the very form in which Peter began his address to them Acts 10:28"
 3. "He is Lord of ALL MEN; with a strong emphasis on πάντων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For to them (he would have them distinctly know) the Gospel was first preached, even as the facts of it took place on the special theater of the ancient economy."
 2. "Preaching peace by Jesus Christ—the glorious sum of all Gospel truth."
 3. "He is Lord of all—exalted to embrace under the canopy of His peace, Jew and Gentile alike, whom the blood of His Cross had cemented into one reconciled and accepted family of God."
@@ -63,4 +63,4 @@ Note: The commentary provides additional explanations and contextual information
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

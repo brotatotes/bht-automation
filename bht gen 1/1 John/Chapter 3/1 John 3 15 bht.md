@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the deep connection between love and h
 2) "He who hates his brother is stated to be an ἀνθρωποκτόνος. The example given, 1 John 3:12, showed the true and normal result of hate."
 3) "Eternal life, which abides in God’s children, which is the living growth of the seed of God in them, is evidenced by love: if the very crown and issue of hate, homicide, be present, it is utterly impossible that this germ of life can be coexistent with it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love and hatred, like light and darkness, life and death, necessarily replace, as well as necessarily exclude, one another."
 2. "Whereas, 1 John 3:14 desires us to lay down our lives for the brethren; duels require one (awful to say!) to risk his own life, rather than not deprive another of life."
 3. "God regards the inward disposition as tantamount to the outward act which would flow from it."
@@ -52,4 +52,4 @@ These quotes emphasize the seriousness of hatred and its equivalence to murder i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

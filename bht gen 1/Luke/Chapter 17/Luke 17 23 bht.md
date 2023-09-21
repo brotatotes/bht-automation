@@ -9,7 +9,7 @@ This verse cautions against being deceived by false reports and sensationalistic
 2. "A warning to all so-called expositors, and followers of expositors, of prophecy, who cry ἰδοὺ ἐκεῖ and ἰδοὺ ὧδε, every time that war breaks out, or revolutions occur."
 3. "See on these verses, 23, 24, Mat 24:23-27 and notes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A warning to all so-called expositors of prophecy and their followers, who cry, Lo there and see here, every time that war breaks out or revolutions occur."
 
 2. "A caution against being easily swayed by those who claim to have special knowledge or insight into future events."
@@ -42,4 +42,4 @@ This verse cautions against being deceived by false reports and sensationalistic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

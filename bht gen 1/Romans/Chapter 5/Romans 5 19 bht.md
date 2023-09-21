@@ -9,7 +9,7 @@ Through the disobedience of Adam, all of humanity became sinners, inheriting a n
 2. "Justification, as regards the many, is not yet completed."
 3. "In Christ and united to Him, he is made righteous, not by a fiction, or imputation only of Christ’s righteousness, but by a real and living spiritual union with a righteous Head as a righteous member."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By the 'obedience' of Christ here is plainly not meant more than what divines call His active obedience, as distinguished from His sufferings and death it is the entire work of Christ in its obediential character."
 2. "The significant word twice rendered made, does not signify to work a change upon a person or thing, but to constitute or ordain, as will be seen from all the places where it is used."
 3. "The change of tense from the past to the future—'as through Adam we were made sinners, so through Christ we shall be made righteous'—delightfully expresses the enduring character of the act, and of the economy to which such acts belong, in contrast with the forever-past ruin of believers in Adam."
@@ -57,4 +57,4 @@ Through the disobedience of Adam, all of humanity became sinners, inheriting a n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

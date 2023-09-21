@@ -9,7 +9,7 @@ In this Bible verse, an episode unfolds where Herod and his soldiers display con
 2. "or white, as λαμπρ. is rendered by some (but see note), Acts 10:30."
 3. "ἐσθῆτα λαμπρ. ] Variously interpreted: either purple, as befitting a king, and why should this not be the very χλαμὺς κοκκίνη afterwards used by Pilate’s soldiers (Matthew 27:28; ἱμάτιον πορφυροῦν, Joh 19:2)? or white, as λαμπρ. is rendered by some (but see note), Acts 10:30."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "stung with disappointment at His refusal to amuse him with miracles or answer any of his questions."
 2. "If this mean (as sometimes) of shining white, this being the royal color among the Jews, it may have been in derision of His claim to be 'King of the Jews.'"
 3. "Thus he implicated himself with Pilate in all the guilt of His condemnation, and with him accordingly he is classed."
@@ -57,4 +57,4 @@ These quotes highlight the mockery and contempt that Herod and his soldiers show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

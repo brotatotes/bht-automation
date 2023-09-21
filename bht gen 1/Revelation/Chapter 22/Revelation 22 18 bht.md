@@ -4,7 +4,7 @@
 This verse contains a solemn and personal testimony that serves as a warning against distorting the teachings of this book. It emphasizes the importance of preserving the integrity of the message and refraining from adding or subtracting anything from it. This admonition is specifically directed towards preventing misinterpretations and false glosses that could lead to severe consequences. The verse highlights the significance of responsibly interpreting and delivering the teachings contained in this book while avoiding any deliberate or willful perversion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I testify" - The emphasis on "I" in the Greek highlights the personal and authoritative nature of the testimony being given. It underscores the importance and reliability of the statement being made.
 
 2. "Unto these things" - The use of "these" instead of "them" suggests a specific reference to the matters being discussed. It indicates a focused and direct testimony regarding the subject at hand.
@@ -30,4 +30,4 @@ This verse contains a solemn and personal testimony that serves as a warning aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a poignant moment, as captured by Luke, Jesus turned and made eye contact wit
 2. "We need not enquire, how our Lord could hear what was going on round the fire in the court, as some Commentators have done."
 3. "The anathemas of Peter, spoken to οἱ παρεστῶτες with vehemence, and the crowing of the cock, were not these audible?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord turned, and looked upon Peter." This moment captures the depth of Jesus' love and compassion for Peter, despite his denial. It shows that Jesus sees beyond our failures and weaknesses, offering us forgiveness and restoration.
 
 2. "Jesus' look was not one of condemnation, but of understanding and mercy." This emphasizes the grace and forgiveness that Jesus extends to us, even when we fall short. It reminds us that we can always turn to Him for forgiveness and restoration.
@@ -39,4 +39,4 @@ In a poignant moment, as captured by Luke, Jesus turned and made eye contact wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

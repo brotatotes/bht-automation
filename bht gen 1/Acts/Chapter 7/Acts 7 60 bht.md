@@ -9,7 +9,7 @@ In the face of persecution, Stephen exemplified the spirit of Christ by kneeling
 2. "This again was somewhat similar (though not exactly, see note there) to our Lord’s prayer, Luke 23:34."
 3. "But it became the usual Christian term for death. Its use here, when the circumstances, and the actors in them, are remembered, is singularly touching, from the contrast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cried with a loud voice—with something of the gathered energy of his dying Lord."
 2. "Comparing this with nearly the same prayer of his dying Lord, it will be seen how very richly this martyr of Jesus had drunk into his Master's spirit, in its divinest form."
 3. "How bright the record of this first martyrdom for Christ, amidst all the darkness of its perpetrators; and how many have been cheered by it to like faithfulness even unto death!"
@@ -50,4 +50,4 @@ These quotes highlight the voluntary and prayerful nature of Stephen's kneeling,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

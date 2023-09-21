@@ -9,7 +9,7 @@ The Bible verse being described talks about God's power to give life and restore
 2. "The fact of a confession having been made in both cases that is put in the foreground and that our Lord’s was made in the midst of danger and with death before him, is a powerful argument to firmness for his servant in his own confession." 
 3. "The commandment, entrusted to thee as a deposit, must be kept by thee unstained and unreproached."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He urges Timothy to faithfulness here by the present manifestation of God's power in preserving all things, as in Nehemiah 9:6, by the future manifestation of God's power at the appearing of Christ."
 2. "The assurance that 'eternal life' will be the result of 'fighting the good fight' rests on the fulness and power of Him who is the God of all life, present and to come."
 3. "The confession was His testimony that He was King, and His kingdom that of the truth. Christ, in attesting, or bearing witness to this truth, attested the truth of the whole of Christianity. Timothy's profession, or confession, included therefore the whole of the Christian truth."
@@ -61,4 +61,4 @@ Overall, these quotes highlight the power and faithfulness of God in giving life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

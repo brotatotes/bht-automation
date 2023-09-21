@@ -4,7 +4,7 @@
 In this verse, the final trumpet is sounded, signifying the completion of God's divine plan. The kingdoms of the world are now under the possession of our Lord and His Christ, ushering in a new era where God's reign is established on earth. This victorious takeover is celebrated in heaven with great voices and joyful praise. It marks the end of the age-long struggle against Satan, as Jesus rejects partnership with him and chooses to reign with divine authority. As God's people, we can rejoice in this ultimate victory and the establishment of His everlasting kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Six is the number of the world given over to judgment. It is half of twelve, the Church's number, as three and a half is half of seven, the divine number for completeness."
 2. "The seventh trumpet, like the seventh seal and seventh vial, being the consummation, is accompanied differently from the preceding six: not the consequences which follow on earth, but those IN HEAVEN, are set before us."
 3. "The distinction of worldly and spiritual shall then cease. There will be no beast in opposition to the woman. Poetry, art, science, and social life will be at once worldly and Christian."
@@ -45,4 +45,4 @@ In this verse, the final trumpet is sounded, signifying the completion of God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

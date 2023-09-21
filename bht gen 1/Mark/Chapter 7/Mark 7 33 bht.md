@@ -9,7 +9,7 @@ In this well-known Bible verse, Jesus compassionately heals a man who is deaf an
 2. "It is remarkable that the same medium of conveying the miraculous cure is used also in ch. Mark 8:23."
 3. "By the symbolic use of external means, our Lord signified the healing virtue for afflicted human kind, which resides in and proceeds from Him incarnate in our flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To the impotent man He said, 'Wilt thou be made whole?' to the blind men, 'What will ye that I shall do unto you?' and 'Believe ye that I am able to do this?'"
 2. "But as this patient could hear nothing, our Lord substitutes symbolical actions upon each of the organs affected."
 3. "Moistening the man's parched tongue with saliva from His own mouth, as if to lubricate the organ or facilitate its free motion; thus indicating the source of the healing virtue to be His own person."
@@ -53,4 +53,4 @@ In this well-known Bible verse, Jesus compassionately heals a man who is deaf an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

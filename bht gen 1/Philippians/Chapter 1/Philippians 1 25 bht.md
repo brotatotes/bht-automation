@@ -11,7 +11,7 @@ This verse conveys the Apostle's unwavering confidence in his own survival and e
 
 3. "It is their faith which is to advance, by the continuance of his teaching, and to rejoice, as explained below, on account of his presence among them." - This quote explains how the believers' faith will be strengthened and their joy increased through the Apostle's teaching and presence.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And being confident of this." - The author of the commentary suggests that Paul's confidence comes from prophetical intimations of the Spirit. This implies that Paul's assurance is not based on human appearances or circumstances.
 2. "He did not yet know the issue, as far as human appearances were concerned." - This quote highlights that Paul's confidence is not based on his own understanding or knowledge of the situation. It emphasizes the importance of relying on spiritual guidance rather than relying solely on human perception.
 3. "Joy of faith." - The commentary points out that the phrase "joy in your faith" refers to the joy that comes from having faith. This implies that faith itself can bring about a sense of joy and fulfillment.
@@ -59,4 +59,4 @@ This verse conveys the Apostle's unwavering confidence in his own survival and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

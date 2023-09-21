@@ -9,7 +9,7 @@ The Bible verse being described is a powerful declaration about the unchanging a
 2. "They, on account of their deaths, are subject to continual renewal: He, because He lives for ever, has, &c."
 3. "The adjective a pure predicate, not an epithet. ἀπαράβατος is a word of later Greek: sec Lob. on Phryn. p. 313."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "THOU art a priest"; singular, not priests, "many."
 2. "Remaineth," namely, in life.
 3. "This Man, because He liveth ever, hath no successor in office, not even Peter."
@@ -60,4 +60,4 @@ These quotes highlight the unique and enduring nature of Jesus' priesthood, emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

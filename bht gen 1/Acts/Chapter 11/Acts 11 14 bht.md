@@ -9,7 +9,7 @@ The Bible verse described in these commentaries is a promise of salvation and tr
 2. "This is implied in the angel's speech."
 3. "Especially if the prayer of Cornelius had been for such a boon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salvation is here made to hang upon 'words,' that is, the Gospel message concerning Christ."
 2. "The angel expresses this much more generally."
 3. "Perhaps this fuller and richer form of what the angel said was given to Peter."
@@ -45,4 +45,4 @@ The Bible verse described in these commentaries is a promise of salvation and tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -10,7 +10,7 @@ Peter, in his response to the crowd, addresses their tendency to attribute the m
 2. "Ye did it in ignorance, but God thereby fulfilled His counsel."
 3. "Their error was not the wonder itself, but their wondering at the Apostles, as if they had done it by their own power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Miracles are marvels only in relation to the limited powers of man."
 2. "Neither the might nor the merit of the cure are due to us, mere agents of Him whom we preach."
 3. "As though by our own power or holiness we had made this man to walk."
@@ -58,4 +58,4 @@ Peter, in his response to the crowd, addresses their tendency to attribute the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse in question addresses the distinction between men and women in how the
 2. "When therefore we deal with the proprieties of the artificial state, of clothing the body, we must be regulated by nature’s suggestion."
 3. "The Apostle (see above) makes no allusion to the customs of nations in the matter, nor is even the mention of them relevant: he is speaking of the dictates of nature herself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that nature has provided woman, and not man, with long hair, proves that man was designed to be uncovered, and woman covered." 
 2. "The Nazarite, however, wore long hair lawfully, as being part of a vow sanctioned by God." 
 3. "Compare as to Absalom, 2 Samuel 14:26; Acts 18:18."
@@ -48,4 +48,4 @@ The verse in question addresses the distinction between men and women in how the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

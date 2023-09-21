@@ -9,7 +9,7 @@ Paul, in this Bible verse, humbly addresses the Corinthians, contrasting his app
 2. "We adopt no such vague standard for our boasting."
 3. "We reach as far as to you, according to the measure of the rule which God apportioned to us as a measure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no limit to a man's high opinion of himself, so long as he measures himself by himself and his fellows, and does not compare himself with his superiors."
 2. "Undeterred by the charge of vanity, he felt he must vindicate his apostolic authority by facts."
 3. "Paul's 'measure' is the apportionment of his sphere of Gospel labors ruled for him by God."
@@ -55,4 +55,4 @@ Paul, in this Bible verse, humbly addresses the Corinthians, contrasting his app
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

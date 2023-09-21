@@ -9,7 +9,7 @@ From the various commentaries, we can glean insights about the Bible verse being
 2. "The west, in Judæa, would be the direction of the sea." 
 3. "There is a somewhat similar saying of our Lord at Matthew 16:2 ff., but differing both in its occasion and its substance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A word of special warning to the thoughtless crowd." 
 2. "The multitude, before dismissing them." 
 3. "A reminder to the people, to be mindful and cautious."
@@ -40,4 +40,4 @@ From the various commentaries, we can glean insights about the Bible verse being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

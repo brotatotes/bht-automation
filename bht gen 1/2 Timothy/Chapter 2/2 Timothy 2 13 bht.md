@@ -4,7 +4,7 @@
 The commentators provide insights into a verse that highlights the unwavering faithfulness of God, regardless of our doubts or unbelief. They emphasize that God remains faithful to his promises even when we are unfaithful to him. It is emphasized that our doubts or denials do not diminish God's glory or the truth of his word. Ultimately, God's faithfulness is unchangeable, and he will fulfill all his promises to those who believe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we are unbelievers (literally, 'unfaithful'), He remains faithful" (Deuteronomy 7:9; Deuteronomy 7:10).
 2. "He cannot be unfaithful to His word that He will deny those who deny Him, though we be not faithful to our profession of faith in Him" (Romans 3:3).
 3. "Three things are impossible to God, to die, to lie, and to be deceived" (Hebrews 6:18).
@@ -45,4 +45,4 @@ These quotes emphasize that our faith in Christ is not dependent on our own acti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

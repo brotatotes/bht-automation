@@ -9,7 +9,7 @@ The verse being described is one that encompasses a range of extraordinary gifts
 2. "the power of distinguishing between the operation of the Spirit of God and the evil spirit, or the unassisted human spirit" - the discerning of spirits.
 3. "the power of uttering, in ecstasy, as the mouthpiece of the Spirit, prayer and praise in languages unknown to the utterer, or even in a spiritual language unknown to man" - the power of speaking in different kinds of tongues.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Miracles of special and extraordinary power."
 2. "The inspired disclosure of the future."
 3. "Discerning between the operation of God's Spirit, and the evil spirit, or unaided human spirit."
@@ -45,4 +45,4 @@ The verse being described is one that encompasses a range of extraordinary gifts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

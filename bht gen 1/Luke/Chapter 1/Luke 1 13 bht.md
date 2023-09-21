@@ -9,7 +9,7 @@ In this Bible verse, a pious man named Zacharias receives an answer to his praye
 2. "Many Commentators have thought his prayer was for the salvation of Israel by the appearance of the Messiah: but the former view appears more probable."
 3. "Ἰωάννην = יְהוֹחָנָן , Ἰωανάν LXX, 1 Chronicles 3:24 ; Ἰωνά , 4 Kings 25:23; Ἰωάνης , 2 Chronicles 28:12 ; = ‘God is favourable.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thy prayer is heard—doubtless for offspring, which by some presentiment he even yet had not despaired of." 
 2. "John—the same as 'Johanan,' so frequent in the Old Testament, meaning 'Jehovah's gracious gift.'"
 
@@ -52,4 +52,4 @@ In this Bible verse, a pious man named Zacharias receives an answer to his praye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

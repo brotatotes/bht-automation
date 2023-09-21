@@ -4,7 +4,7 @@
 The birth of a man child signifies the establishment of Christ's kingdom on earth, with the expansion of the Christian church to include many nations and their leaders. This child, representing Christ, is taken out of the reach of the dragon, symbolizing Christ's triumph over evil forces. Christ, who is formed in his members, rules over all nations with a rod of iron, exercising his authority and dominion as the ruler and judge of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On the deep significance of this term, see on :-."
 2. "A rod is for long-continued obstinacy until they submit themselves to obedience."
 3. "The male son's birth cannot be the origin of the Christian state, which was not a divine child of the woman, but had many impure worldly elements."
@@ -47,4 +47,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

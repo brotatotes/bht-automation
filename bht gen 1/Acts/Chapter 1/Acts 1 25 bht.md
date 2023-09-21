@@ -9,7 +9,7 @@ In this Bible verse, the commentator descriptions shed light on the fate of an i
 2. "regarding the former word τόπος as being selected to correspond to the more proper and dreadful use of the word here, that Judas deserted his τόπος, his appointed place, here among us, that he might go to his own appointed τόπος elsewhere, viz. among the dead in the place of torment."
 3. "At the same time, no absolute sentence is pronounced on the traitor, but that dark surmise expressed by the euphemism τὸν τόπον τ. ἴδ., which none can help feeling with regard to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A euphemistic or softened expression of the awful future of the traitor."
 2. "Implies not only destined habitation but congenial element."
 3. "Highlights the contrast between the place Jesus is going (to the Father) and the place Judas is going (to his own place)."
@@ -53,4 +53,4 @@ In this Bible verse, the commentator descriptions shed light on the fate of an i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

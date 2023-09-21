@@ -9,7 +9,7 @@ This verse speaks of a generation that will witness the fulfillment of prophecie
 2. "Never were a nation so completely one γενεά, in all accuracy of meaning, as the Jewish people."
 3. "This is exactly what is here wanted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or...that the generation then existing would not pass away without seeing a begun fulfilment of this prediction, the facts entirely correspond."
 2. "For either the whole was fulfilled in the destruction accomplished by Titus, as many think; or, if we stretch it out, according to others, till the thorough dispersion of the Jews a little later, under Adrian, every requirement of our Lord's words seems to be met."
 3. "Every requirement of our Lord's words seems to be met."
@@ -36,4 +36,4 @@ This verse speaks of a generation that will witness the fulfillment of prophecie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

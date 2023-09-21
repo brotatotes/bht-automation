@@ -9,7 +9,7 @@ This Bible verse describes the judgment and defeat of Satan, the prince of this 
 2. "But this better judgment itself is that very truth of God manifested in the Lord Jesus, by which the Prince of this world is cast out."
 3. "The great convictive work of the Spirit is to bring man OUT OF HIMSELF INTO CHRIST, Who must be made unto him (subjectively), (1) ἀπολύτρωσις, (2) δικαιοσύνη, (3) σοφία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prince of this world is judged" means that his dominion over men, or his power to enslave and ruin them, is destroyed. (Quote 11)
 2. The death of Christ "judged" or judicially overthrew the prince of this world, and he was cast out from his usurped dominion. (Quote 11)
 3. The Spirit brings a sense of emancipation from the fetters of Satan, whose judgment brings liberty to be holy and transformation from servants of the devil into sons and daughters of the Lord Almighty. (Quote 11)
@@ -50,4 +50,4 @@ This Bible verse describes the judgment and defeat of Satan, the prince of this 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

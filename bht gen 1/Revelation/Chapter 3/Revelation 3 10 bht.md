@@ -4,7 +4,7 @@
 In this Bible verse, the word of Christ is described as a Gospel that requires patient endurance. It is a word that teaches patience in the midst of trials, providing grace and strength to bear them with a Christian spirit. Those who keep His word will be kept out of the trial, protected from its power. The trial, which encompasses the whole inhabited world, serves to distinguish the righteous from the wicked. Ultimately, this verse highlights the need for perseverance and faith in the face of adversity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word of My endurance" is My Gospel word, which teaches patient endurance in expectation of my coming. My endurance is the endurance which I require, and which I practice.
 2. Christ Himself now endures, patiently waiting until the usurper be cast out, and all "His enemies be made His footstool." So, too, His Church, for the joy before her of sharing His coming kingdom, endures patiently.
 3. The appointed season of affliction and temptation, literally, "the temptation": the sore temptation which is coming on: the time of great tribulation before Christ's second coming.
@@ -49,4 +49,4 @@ These quotes highlight the idea that the word of Christ teaches patience, and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

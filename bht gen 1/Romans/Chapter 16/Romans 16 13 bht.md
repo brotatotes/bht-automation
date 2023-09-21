@@ -9,7 +9,7 @@ This verse references a person named Rufus, who may have been the son of Simon o
 2. "ἐκλεκτόν not to be softened, as De W., al., to merely 'eximium,' a sense unknown to our Apostle; elect, i.e. one of the elect of the Lord."
 3. "καὶ ἐμοῦ the Apostle adds from affectionate regard towards the mother of Rufus: 'my mother,' in my reverence and affection for her."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute Rufus, chosen—"the chosen" in the Lord—meaning, not "who is one of the elect," as every believer is, but "the choice" or "precious one" in the Lord." 
 
 2. "From this we naturally conclude that when Mark wrote his Gospel, Alexander and Rufus must have been well known as Christians among those by whom he expected his Gospel to be first read; and, in all likelihood, this was that very 'Rufus'; in which case our interest is deepened by what immediately follows about his mother."
@@ -58,4 +58,4 @@ These quotes provide insights into the significance of Rufus being chosen in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The Bible verse being described highlights the divine origin of Jesus, emphasizi
 
 3. "Are ye stoning (preparing to stone) Me?" - This quote captures Jesus' surprise and disbelief at the crowd's intention to stone Him, highlighting the gravity of their accusation. (John 8:32)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many good works have I showed you—that is, works of pure benevolence."
 2. "This He says to meet the imputation of unwarrantable assumption of the divine prerogatives."
 3. "For which of those works do ye stone me?"
@@ -54,4 +54,4 @@ The Bible verse being described highlights the divine origin of Jesus, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

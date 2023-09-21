@@ -9,7 +9,7 @@ This verse emphasizes the interconnection between faith in Christ and love for o
 2. "His commandment is this, that we should believe the name of His Son Jesus Christ, and love one another." 
 3. "To believe the Gospel message concerning Him, and Him as living in it, in all His fulness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith and love are not separate commandments, but are indissolubly united."
 2. "We cannot truly love one another without faith in Christ, nor can we truly believe in Him without love."
 3. "Believe - once for all; Greek aorist."
@@ -57,4 +57,4 @@ This verse emphasizes the interconnection between faith in Christ and love for o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is filled with powerful imagery and symbolism. It refe
 2. "There does not seem to be any allusion to the horns of the altar."
 3. "The mere notion of a refuge is never connected with the Messiah’s Kingdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "horn of salvation—that is 'strength of salvation,' or 'mighty Salvation,' meaning the Saviour Himself" - This quote highlights that the term "horn of salvation" refers to Jesus as the source of strength and deliverance.
 
 2. "The metaphor is taken from those animals whose strength is in their horns" - This quote explains the origin of the metaphor and its association with animals known for their strength.
@@ -59,4 +59,4 @@ The verse being described is filled with powerful imagery and symbolism. It refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

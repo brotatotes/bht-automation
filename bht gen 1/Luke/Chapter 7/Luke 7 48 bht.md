@@ -4,7 +4,7 @@
 In this Bible verse, Jesus speaks words of assurance and forgiveness to a woman who was judged by others. The commentaries highlight the significance of this forgiveness, noting its unexpected nature and its ability to bring comfort and strength to the woman. They emphasize that this assurance is not merely a repetition of previous forgiveness but a new declaration, emphasizing the permanence of God's forgiveness. Jesus' words showcase his divine authority and demonstrate that he is not only a prophet but also the one who has the power to forgive sins.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An unsought assurance, usually springing up unexpected in the midst of active duty and warm affections." 
 2. "It flies from those who mope and are paralyzed for want of it." 
 3. "Often it flies from those who mope and are paralyzed for want of it."
@@ -41,4 +41,4 @@ In this Bible verse, Jesus speaks words of assurance and forgiveness to a woman 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

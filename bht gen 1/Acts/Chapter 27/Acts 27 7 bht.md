@@ -9,7 +9,7 @@ Based on the given commentary, the verse being described is associated with the 
 2. "With N.W. winds the ship could work up from Myra to Cnidus; because, until she reached that point, she had the advantage of a weather shore, under the lee of which she would have smooth water."
 3. "Unless she had put into that harbour (Cnidus), and waited for a fair wind, her only course was to run under the lee of Crete, in the direction of Salmone, which is the eastern extremity of that island."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "sailed slowly many days—owing to contrary winds." 
 2. "scarce—with difficulty." 
 3. "But for the contrary wind they might have made the distance from Myra in one day."
@@ -48,4 +48,4 @@ Apollonius of Rhodes, in his epic poem "Argonautica," mentions Cnidus as one of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

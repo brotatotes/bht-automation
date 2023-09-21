@@ -9,7 +9,7 @@ This verse captures the compassion and understanding of the speaker towards the 
 2. "There need be no difficulty in the application of the ἄγνοια to even the rulers of the Jews. It admits of all degrees from the unlearned, who were implicitly led by others, and hated Him because others did, up to the most learned of the scribes, who knew and rightly interpreted the Messianic prophecies, but from moral blindness, or perverted expectations, did not recognize them in our Lord."
 3. "Even Caiaphas himself, of whom apparently this could least be said, may be brought under it in some measure: even he could hardly have delivered over Jesus to Pilate with the full consciousness that He was the Messiah, and that he himself was accomplishing prophecy by so doing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our preacher, like his Master, 'will not break the bruised reed.' His heaviest charges are prompted by love, which now hastens to assuage the wounds it was necessary to inflict." 
 2. "I wot—'know.'"
 3. "Through ignorance ye did it."
@@ -50,4 +50,4 @@ This verse captures the compassion and understanding of the speaker towards the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus responds to the request of his disciples, highlighting thei
 2. "Was already, so to speak, sprinkled with the first drops of spray of His baptism of blood."
 3. "That I am to drink of and to be baptized with."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How gentle the reply to such a request, preferred at such a time, after the sad announcement just made!"
 2. "To 'drink of a cup' is in Scripture a figure for getting one's fill either of good or of ill. Here it is the cup of suffering."
 3. "The object of this question seems to have been to try how far those two men were capable of the dignity to which they aspired and this on the principle that he who is able to suffer most for His sake will be the nearest to Him in His kingdom."
@@ -39,4 +39,4 @@ In this verse, Jesus responds to the request of his disciples, highlighting thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, the disciples are confronted with their lack of understanding despite witnessing miracles and hearing Jesus' teachings. The question "Do ye not yet understand?" highlights their ignorance and the need for deeper comprehension. Jesus' words about the leaven of the Pharisees, Sadducees, and Herod are intended to caution against false teachings, but the disciples fail to grasp the true meaning. Their lack of understanding indicates a deficiency in both their faith and intelligence, emphasizing the importance of perseverance in gaining wisdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do not understand that the warning I gave you could not have been prompted by any such petty consideration as the want of loaves in your scrip."
 2. "Profuse as were our Lord's miracles, we see from this that they were not wrought at random, but that He carefully noted their minutest details."
 3. "Even the different kind of baskets used at the two miraculous feedings, so carefully noted in the two narratives, are here also referred to; the one smaller, of which there were twelve, the other much larger, of which there were seven."
@@ -28,4 +28,4 @@ In this passage, the disciples are confronted with their lack of understanding d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

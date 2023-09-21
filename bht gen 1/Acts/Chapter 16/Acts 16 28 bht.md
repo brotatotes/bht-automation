@@ -4,7 +4,7 @@
 In this verse, we witness a remarkable scene of divine intervention and humanity. Moved by the supernatural events they had just witnessed, the prisoners were captivated by the Hebrew hymns of Paul and Silas. Their captivation prevented them from escaping. At this moment, the jailer, overwhelmed by a sense of wonder and awe, was about to take his own life. However, Paul's words stopped him from proceeding. It is a powerful testament to the power of God and the profound impact the Christian faith has on preserving and valuing human life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What divine calmness and self-possession!"
 2. "Anxiety to save a fellow creature from sending himself into eternity, ignorant of the only way of life."
 3. "Under the resistless conviction that there must be something supernatural in their instantaneous liberation without human hand, such wonder and awe should possess them as to take away for the time not only all desire of escape, but even all thought on the subject."
@@ -38,4 +38,4 @@ In this verse, we witness a remarkable scene of divine intervention and humanity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

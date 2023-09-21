@@ -9,7 +9,7 @@ In the narrative, Jacob's faith is evident as he nears his death, blessing Josep
 2. "This act of worship was one of faith, inasmuch as it was connected with a command, the point of which was, God’s promise respecting the land of Canaan."
 3. "The real question with regard to the passage is confined within very narrow limits. The same Hebrew word מטה signifies a staff, or a bed, according as it is pointed מַטֶּה or מִטָּה."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He knew not Joseph's sons, and could not distinguish them by sight, yet he did distinguish them by faith, transposing his hands intentionally, so as to lay his right hand on the younger, Ephraim, whose posterity was to be greater than that of Manasseh." 
 
 2. "His faith, as Joseph's, consisted in his so confidentially anticipating the fulfilment of God's promise of Canaan to his descendants, as to desire to be buried there as his proper possession."
@@ -59,4 +59,4 @@ In the narrative, Jacob's faith is evident as he nears his death, blessing Josep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse, described by various commentators, speaks of the deep understanding a
 2. "All these pleadings of the Spirit are heard and answered, even when inarticulately uttered."
 3. "We may extend the same comforting assurance to the imperfect and mistaken verbal utterances of our prayers, which are not themselves answered to our hurt, but the answer is given to the voice of the Spirit which speaks through them, which we would express, but cannot."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that searcheth the hearts knoweth what is the mind of the Spirit, because he—the Spirit maketh intercession for the saints according to the will of God." 
 2. "It cannot but swell the heart of every intelligent Christian to think that if external nature has been mysteriously affected for evil by the fall of man, it only awaits his completed recovery, at the resurrection, to experience a corresponding emancipation from its blighted condition into undecaying life and unfading beauty." 
 3. "If when 'my Beloved stands behind our wall, looking forth at the windows, showing Himself through the lattice'—that thin veil which parts the seen from the unseen—if He is even thus to me 'Fairer than the children of men,' what shall He be when He stands confessed before my undazzled vision, the Only-begotten of the Father in my own nature, and I shall be like Him, for I shall see Him as He is?"
@@ -50,4 +50,4 @@ The verse, described by various commentators, speaks of the deep understanding a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

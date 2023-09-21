@@ -9,7 +9,7 @@ Before faith came, we were kept under the law, implying a state of confinement a
 2. "We were kept in ward, shut up under the law, in order to the faith about to be revealed."
 3. "As long as there was no such thing as faith in Christ, this faith was not yet revealed, was as yet an element of life hidden in the counsel of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is the object of our trust and belief, specifically the faith in Christ. It is the foundation on which our salvation rests." 
 2. "Being 'kept in ward' refers to the state of being confined or imprisoned by sin and the law. It is the result of our fallen nature and inability to save ourselves." 
 3. "Our only hope and refuge is found in faith. It is through faith that we are able to receive the salvation that was later revealed in Christ."
@@ -55,4 +55,4 @@ Before faith came, we were kept under the law, implying a state of confinement a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

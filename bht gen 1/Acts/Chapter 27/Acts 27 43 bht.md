@@ -11,7 +11,7 @@ Amidst a treacherous shipwreck, a unique figure emerges: the apostle Paul. His p
 
 3. "This verse emphasizes the importance of self-reflection and the conscious decision to cast away certain things from one's life." This quote emphasizes the significance of self-reflection and the intentional choice to remove certain things from one's life.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great must have been the influence of Paul over the centurion's mind to produce such an effect."
 2. "According to the divine pledge and Paul's confident assurance given them, every soul got safe to land—yet without miracle."
 3. "The graphic minuteness of this narrative of the shipwreck puts it beyond doubt that the narrator was himself on board."
@@ -44,4 +44,4 @@ Amidst a treacherous shipwreck, a unique figure emerges: the apostle Paul. His p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

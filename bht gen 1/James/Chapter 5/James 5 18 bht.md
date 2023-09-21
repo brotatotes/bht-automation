@@ -11,7 +11,7 @@ This description discusses the power of prayer in bringing tangible results, suc
 
 3. "used transitively in the 1 aor." - This quote provides a linguistic explanation for the use of the verb "brought forth" in a transitive manner. It shows that the usage of the verb in this context is not uncommon and can be found in other ancient texts as well.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark the connection between the prayer and its accomplishment."
 2. "Her fruit - her usual and due fruit, heretofore withheld on account of sin."
 3. "Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.'"
@@ -49,4 +49,4 @@ This description discusses the power of prayer in bringing tangible results, suc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

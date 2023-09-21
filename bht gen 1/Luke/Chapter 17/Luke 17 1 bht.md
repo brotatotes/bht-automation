@@ -11,7 +11,7 @@ In this Bible verse, commentators describe the seriousness of causing others to 
 
 3. "ἀνένδεκτόν ἐστιν = οὐκ ἐνδέχεται, ch. Luke 13:33."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse serves as a solemn warning about the seriousness of causing others to stumble in their faith. It emphasizes the responsibility we have to protect and nurture the faith of those around us, especially the vulnerable and innocent."
 
 2. "Jesus' words here highlight the severe consequences that await those who lead others astray. It is a reminder that our actions and words have the power to either build up or tear down the faith of those who look to us for guidance."
@@ -42,4 +42,4 @@ In this Bible verse, commentators describe the seriousness of causing others to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the connection between our inner thoughts and desires and our external actions. They highlight that God's authority extends to both our inner being and outward behavior. The commentators argue that it is unwise and wicked to separate the two, and that true cleansing involves both internal and external purification. The verse challenges the hypocrisy of focusing only on external appearances while neglecting the purity of the soul. Ultimately, the message is that God cares about our whole selves, and true righteousness involves both inward transformation and outward actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He to whom belongs the outer life, and right to demand its subjection to Himself—is the inner man less His?" This quote highlights the idea that if God has authority over our external actions and behaviors, then surely He also has authority over our inner thoughts and desires.
 
 2. "that which is without" refers to the external, visible aspects of our lives, while "the inner man" refers to our internal thoughts, emotions, and desires. This quote emphasizes the interconnectedness of our inner and outer lives, suggesting that God is concerned with both.
@@ -35,4 +35,4 @@ In this verse, the commentators emphasize the connection between our inner thoug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

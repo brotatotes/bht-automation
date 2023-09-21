@@ -9,7 +9,7 @@ Beloved, let us not be swayed by the negative examples set by others, but instea
 2. "He that doeth good, is from God." 
 3. "He that doeth evil, hath not seen God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that which is evil, as manifested in Diotrephes, but good." 
 2. "Good, as manifested in Demetrius, is of God." 
 3. "He who is born of God, who is good, hath not seen God spiritually, not literally."
@@ -54,4 +54,4 @@ Beloved, let us not be swayed by the negative examples set by others, but instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the righteous are described as shining forth like the sun in the 
 2. "τοῦ πατρός, answering to οἱ υἱοί, Matthew 13:38." 
 3. "This sublime announcement is over and above the interpretation of the parable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Then shall the righteous shine forth as the sun in the kingdom of their Father." - This quote highlights the future glory and exaltation of the righteous in the kingdom of God, emphasizing their transformation from a state of obscurity to a state of radiance.
 2. "Who hath ears to hear, let him hear." - This quote serves as an invitation for those who are willing to listen and understand the deeper meaning behind the parables, urging them to pay attention and grasp the spiritual truths being conveyed.
 3. "The subject of this last pair...is the same, but also under a slight diversity of aspect: namely—THE PRICELESS VALUE OF THE BLESSINGS OF THE KINGDOM." - This quote explains the central theme of the parables, which is the incomparable worth and significance of the blessings that come from being a part of God's kingdom.
@@ -45,4 +45,4 @@ In this verse, the righteous are described as shining forth like the sun in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

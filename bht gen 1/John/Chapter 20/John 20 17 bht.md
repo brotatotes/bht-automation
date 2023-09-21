@@ -9,7 +9,7 @@ In this Bible verse, Jesus conveys to his disciples that the time for physical, 
 2. "I nolo ut ad me corporaliter venias, nec ut me sensu carnis agnoscas: ad sublimiora te differo, majora tibi præparo: cum ad Patrem ascendero, tunc me perfectius veriusque palpabis, apprehensura quod non tangis, et creditura quod non cernis."
 3. "By this term He testifies that He has not put off his humanity, nor his love for his own, in his resurrection state."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Old familiarities must now give place to new and more awful yet sweeter approaches; but for these the time has not come yet."
 2. "That He had still our Humanity, and therefore 'is not ashamed to call us brethren,' is indeed grandly evidenced by these words."
 3. "Jesus had called God habitually His Father, and on one occasion, in His darkest moment, His God. But both are here united, expressing that full-orbed relationship which embraces in its vast sweep at once Himself and His redeemed."
@@ -57,4 +57,4 @@ In this Bible verse, Jesus conveys to his disciples that the time for physical, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

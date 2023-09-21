@@ -4,7 +4,7 @@
 In this verse, the opening of the temple in heaven reflects the presence and power of God, revealing His divine intervention and accessibility to believers. The temple represents a sacred space where God dwells, signifying His faithfulness and covenant with His people. The imagery of the sharp sickle carried by the fifth angel highlights the precision and effectiveness of God's judgment, as the angels gather the vintage and separate the righteous from the wicked. This task is aligned with Christ's divine purpose and the execution of God's will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The imagery of the temple in heaven signifies the presence and power of God. It represents the heavenly realm where God dwells and from where He governs the universe."
 
 2. "The act of the temple being opened in heaven suggests that God's presence and power are being revealed and made manifest to the world. It is a significant moment of divine intervention and revelation."
@@ -48,4 +48,4 @@ In this verse, the opening of the temple in heaven reflects the presence and pow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

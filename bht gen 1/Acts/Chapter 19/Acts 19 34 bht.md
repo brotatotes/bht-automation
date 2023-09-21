@@ -9,7 +9,7 @@ In a tumultuous scene, a shouting mob in Ephesus resolutely defends their idolat
 2. "They would hear nothing from a Jew."
 3. "Being an enemy of image-worship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The very appearance of a Jew had the opposite effect to that intended."
 2. "To prevent him obtaining a hearing, they drowned his voice in one tumultuous shout in honor of their goddess."
 3. "Frantic enthusiasm as took two hours to exhaust itself."
@@ -53,4 +53,4 @@ In a tumultuous scene, a shouting mob in Ephesus resolutely defends their idolat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

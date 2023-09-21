@@ -8,7 +8,7 @@ The people, with hopeful anticipation, question if Jesus is indeed the long-awai
 1. "Μήτι" is a form of question that implies a doubtful denial, suggesting that the answer is actually in the affirmative.
 2. The phrase "ὁ υἱὸς Δ" can be found in Matthew 9:27, indicating a reference to a previous passage in the book of Matthew.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is not this the son of David?"—The people thus indicating their secret impression that this must be He.
 2. "Can it possibly be?"—the people expressing their doubt and expectation of a negative answer.
 3. "Saving themselves from the wrath of the ecclesiastics, which a direct assertion of it would have brought upon them."
@@ -44,4 +44,4 @@ The people, with hopeful anticipation, question if Jesus is indeed the long-awai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

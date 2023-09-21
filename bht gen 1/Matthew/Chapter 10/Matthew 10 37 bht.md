@@ -9,7 +9,7 @@ Commentators have varied interpretations of this Bible verse. Some emphasize the
 2. "Compare Deuteronomy 33:9, and Exodus 32:26-29, to which passages this verse is a reference."
 3. "Stier well remarks..."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that loveth father or mother more than me, is not worthy of me." - This quote emphasizes the importance of prioritizing one's love and devotion to Jesus above all other relationships. It highlights the need for a deep and unwavering commitment to Christ.
 
 2. "He that loveth son or daughter more than me, is not worthy of me." - This quote extends the previous statement to include the love for one's children. It underscores the idea that even the closest and most cherished relationships should not surpass the love and devotion to Jesus.
@@ -47,4 +47,4 @@ Commentators have varied interpretations of this Bible verse. Some emphasize the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

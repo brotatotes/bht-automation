@@ -9,7 +9,7 @@ This verse reminds believers to dismiss anxiety and over-carefulness, trusting i
 2. "It is, be not anxious, ‘at sea,’ tossed about between hope and fear."
 3. "So Thucyd. (ii. 8) describes Greece as being πᾶσα μετέωρος when the two first cities were at war."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse reminds us to avoid being unsettled or uncertain in our thinking, especially when it comes to matters of faith and belief."
 2. "It encourages us to have a firm and steadfast mind, rooted in the truth of God's Word."
 3. "We are called to put off any doubts or uncertainties that may arise, and instead, trust in the unwavering promises of God."
@@ -50,4 +50,4 @@ This verse reminds believers to dismiss anxiety and over-carefulness, trusting i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse in question describes a generation that rejected both John the Baptist and Jesus. The commentators highlight the reasons for this rejection, including John being viewed as unsocial and Jesus associating with the lowest classes of society. Although they were different in their approach, both John and Jesus represented wisdom and truth. The verse uses vivid comparisons and a grammatically precise language to bring attention to the obstinacy of this generation and invites readers to further explore the details provided in the book of Matthew.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That generation rejected both John and his Master: the one because he was too unsocial—more like a demoniac than a rational man the other, because He was too much the reverse, given to animal indulgences, and consorting with the lowest classes of society."
 2. "But the children of Wisdom recognize and honor her, whether in the austere garb of the Baptist or in the more attractive style of his Master, whether in the Law or in the Gospel, whether in rags or in royalty."
 3. "For 'the full soul loatheth an honeycomb, but to the hungry soul every bitter thing is sweet'."
@@ -30,4 +30,4 @@ The verse in question describes a generation that rejected both John the Baptist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

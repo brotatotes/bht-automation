@@ -9,7 +9,7 @@ To fall into the hands of the living God is both a fearful and blessed prospect.
 2. "For the faithful, in their chastisement, it is a blessed thing to fall into God's hands." 
 3. "For the unfaithful, in their doom, a dreadful one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is good like David to fall into the hands of God, rather than man, when one does so with filial faith in his father's love." 
 2. "It is fearful to fall into His hands as a reprobate and presumptuous sinner doomed to His just vengeance as Judge." 
 3. "Living God—therefore able to punish for ever."
@@ -48,4 +48,4 @@ To fall into the hands of the living God is both a fearful and blessed prospect.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

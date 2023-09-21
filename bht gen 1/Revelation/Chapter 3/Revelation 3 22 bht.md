@@ -11,7 +11,7 @@ The verse being described captures the beginning of the main revelation in the b
 
 3. "chap. 4 is properly the scene itself: chap. 5 being a further unfolding of its details with a view to the vision of the seals which is to follow." This quote clarifies the relationship between chapters 4 and 5, explaining that chapter 4 sets the scene while chapter 5 provides further details leading to the vision of the seals.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "None but those who 'keep themselves' are likely to 'save' others." 
 2. "Convict, reprove to their conviction; confute, so as to convince." 
 3. "When separating themselves" or "when contending with you."
@@ -42,4 +42,4 @@ The verse being described captures the beginning of the main revelation in the b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

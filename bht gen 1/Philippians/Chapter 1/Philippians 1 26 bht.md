@@ -9,7 +9,7 @@ The verse being described is a call for the Corinthians to find their true sourc
 2. "May abound in Christ Jesus, its field, element of increase, it being a Christian matter of glorying."
 3. "I being the worker of that which furnishes this material, by means of my presence again with you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That your matter of glorying may abound in Christ Jesus" - Alford suggests that the Corinthians' rejoicing and boasting should be centered on their possession of the Gospel, which they received from Paul. This implies that their joy should come from their relationship with Christ.
 
 2. "In me, implies that Paul is the worker of the material of abounding in Christ Jesus" - According to Alford, Paul is seen as the one who brings about the increase and assurance of their rejoicing in Christ Jesus. He plays a significant role in their spiritual growth and development.
@@ -50,4 +50,4 @@ The verse being described is a call for the Corinthians to find their true sourc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

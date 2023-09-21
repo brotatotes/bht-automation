@@ -4,7 +4,7 @@
 The verse describes the importance of being prepared and ready for spiritual battles, likening it to a soldier's readiness for march. The "preparation of the Gospel of peace" refers to having a firm foundation, being established, and being firmly rooted in the gospel's message of peace with God. This readiness comes from having a deep knowledge and understanding of the gospel, which brings peace to our hearts and guides our steps in life. It emphasizes the importance of having a peaceable disposition and a firm standing in the faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Preparedness to do and suffer all that God wills; readiness for march, as a Christian soldier."
 2. "The 'peace' within forms a beautiful contrast to the raging of the outward conflict."
 3. "The preparation of the Gospel of peace."
@@ -50,4 +50,4 @@ Note: The commentary does not contain any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

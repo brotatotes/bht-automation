@@ -9,7 +9,7 @@ The Bible verse being described is one that contains the "first commandment with
 2. "The fact certainly is so, and the occurrence of the description of God as ‘shewing mercy unto thousands, &c.’ after the second commandment, does not, as Jer., al., have thought, present any difficulty for that is no special promise attached to the commandment."
 3. "It is surely a mistake, as Jer., Aq., Est., Olsh., to spiritualize the promise, and understand by τῆς γῆς the heavenly Canaan. The very fact of the omission of the special clause removes the words from the region of type into undoubted reality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here the authority of revealed law is added to that of natural law."
 2. "The main motive is, because it is God's will."
 3. "This verse proves the law in the Old Testament is not abolished."
@@ -55,4 +55,4 @@ The Bible verse being described is one that contains the "first commandment with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

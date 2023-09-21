@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the faithful's reliance on G
 2. "Clearly spoken of God, not of the word of His grace, which cannot be said δοῦναι κληρον., however it might οἰκοδομῆσαι."
 3. "The expression κληρον. ἐν τ. ἡγ. πᾶς. is strikingly similar to τῆς κληρονομίας αὐτοῦ ἐν τοῖς ἁγίοις, Ephesians 1:18, addressed to this same church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I commend you to God—the almighty Conservator of His people." 
 2. "and to the word of his grace—that message of His pure grace by the faith of which He keeps us." 
 3. "is able to build you up, and to give you an inheritance."
@@ -57,4 +57,4 @@ The verse being described is a powerful reminder of the faithful's reliance on G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

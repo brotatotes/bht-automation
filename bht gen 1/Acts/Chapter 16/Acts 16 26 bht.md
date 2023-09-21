@@ -9,7 +9,7 @@ In this powerful account, the Bible verse describes a miraculous intervention fr
 2. "It is some satisfaction to find, that neither Meyer, De Wette, nor Kuinoel have attempted to rationalize this wonderful example of the triumph of prayer."
 3. "See some excellent remarks on Baur’s attempt to do so, in Neander, Pfl. u. L. p. 302, note 3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In answer, doubtless, to the prayers and expectations of the sufferers that, for the truth's sake and the honor of their Lord, some interposition would take place."
 2. "By this and the joyous strains which they had heard from the sufferers, not to speak of the change wrought on the jailer, these prisoners could hardly fail to have their hearts in some measure opened to the truth."
 3. "This part of the narrative seems the result of information afterwards communicated by one or more of these men."
@@ -43,4 +43,4 @@ In this powerful account, the Bible verse describes a miraculous intervention fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

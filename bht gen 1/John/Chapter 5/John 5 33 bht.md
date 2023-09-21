@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the significance of the testimony of
 2. "Not merely a modest statement, but necessarily the truth."
 3. "ἐμοί would have been asserting what the next verse denies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Receive not testimony...from man" - The commentary warns against relying solely on human testimony when it comes to matters of faith. It encourages readers to seek a deeper understanding and personal connection with God.
 2. "I refer to him merely to aid your salvation" - The commentator emphasizes that the purpose of referring to John is not for personal gain or recognition, but to assist in the salvation of others. This highlights the selflessness and sincerity of the message being conveyed.
 3. "Depend not on human testimony" - The commentary emphasizes the need to go beyond the opinions and beliefs of others and to seek a direct relationship with God. It encourages readers to trust in their own experiences and understanding of the divine.
@@ -53,4 +53,4 @@ In this Bible verse, commentators emphasize the significance of the testimony of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

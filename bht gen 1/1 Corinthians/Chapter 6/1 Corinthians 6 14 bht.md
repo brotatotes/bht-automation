@@ -9,7 +9,7 @@ The Bible verse being described is about the resurrection of believers and the s
 2. "The Apostle refers to the virtual and proleptic resurrection which has already taken place in the case of the believer." 
 3. "The future corresponds to 'katargēsei' and is used with 'hēmas', contrary to the usual practice of Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers shall be raised up out of the rest of the dead."
 2. "The first resurrection."
 3. "The Lord's coming rather than death is the great object of the Christian's expectation."
@@ -50,4 +50,4 @@ The Bible verse being described is about the resurrection of believers and the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

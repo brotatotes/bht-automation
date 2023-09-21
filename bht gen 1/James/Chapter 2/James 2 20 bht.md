@@ -9,7 +9,7 @@ The verse being described is a passage that addresses the relationship between f
 2. "Void of knowledge and seriousness: content with a dead and bootless notion."
 3. "Faith separate from works is idle, without result."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Vain men are not willing to know, since they have no wish to 'do' the will of God."
 2. "Vain - who deceivest thyself with a delusive hope, resting on an unreal faith."
 3. "Without works - separate from the works which ought to flow from it if it were real."
@@ -53,4 +53,4 @@ The verse being described is a passage that addresses the relationship between f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

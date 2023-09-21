@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the responsibility of those with knowl
 2. "The brother, in whose behalf Christ died." 
 3. "See again Rom. as above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A single act seemingly unimportant may produce everlasting consequences."
 2. "Note here, that it is no argument against the dogma that Christ died for all, even for those who perish, to say that thus He would have died in vain for many."
 3. "Even the condemned shall manifest God's love in the great day, in that they too had the offer of God's mercy."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the responsibility of those with knowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

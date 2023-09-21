@@ -9,7 +9,7 @@ In the final moments of his life, Joseph, a man of unwavering faith, mentions th
 2. "Even Joseph, who had attained such eminence and power in Egypt, did not account it his country, but in faith spoke of the promise of God as certain."
 3. "Joseph realized it so as to enjoin the removal of his own remains when it should come to pass."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joseph's eminent position in Egypt did not make him regard it as his home: in faith he looked to God's promise of Canaan being fulfilled and desired that his bones should rest there." 
 2. "Testifying thus: (1) that he had no doubt of his posterity obtaining the promised land: and (2) that he believed in the resurrection of the body, and the enjoyment in it of the heavenly Canaan." 
 3. "His wish was fulfilled."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

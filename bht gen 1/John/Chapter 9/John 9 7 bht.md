@@ -9,7 +9,7 @@ The verse describes a blind man being directed by Jesus to go and wash his eyes 
 2. "A beggar blind from his birth would know the localities sufficiently to be able to find his way; so that there is no necessity to suppose a partial restoration of sight before his going."
 3. "I should rather regard the healing virtue imparted to the water to be denoted, as symbolical of Him who was sent, and whose mission it was to give the healing water of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prescribed action was purely symbolical in its design."
 2. "The Evangelist notices the symbolical name of the pool as in this case bearing testimony to him who was sent to do what it only symbolized."
 3. "The pool is used figuratively to denote 'the streams that make glad the city of God,' and which, humble though they be, betoken a present God of Israel."
@@ -49,4 +49,4 @@ The verse describes a blind man being directed by Jesus to go and wash his eyes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

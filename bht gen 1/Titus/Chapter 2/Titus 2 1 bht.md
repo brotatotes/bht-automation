@@ -9,7 +9,7 @@ This verse encourages us to prioritize the health of our souls just as much as o
 2. "That the aged men be sober, grave, self-restrained, healthy in their faith, in their love, in their patience."
 3. "The occurrence of τῇ ἀγάπῃ and τῇ ὑπομονῇ prevents us from rendering τῇ πίστει objective as in ch. Titus 1:13, and compels us to take the subjective and reflective meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He deals more in exhortations, because those intent on useless questions needed chiefly to be recalled to the study of a holy, moral life; for nothing so effectually allays men's wandering curiosity, as the being brought to recognize those duties in which they ought to exercise themselves."
 2. "Speak without restraint."
 3. "Doctrine - 'instruction' or 'teaching'."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of living a good life and fulfilling our d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

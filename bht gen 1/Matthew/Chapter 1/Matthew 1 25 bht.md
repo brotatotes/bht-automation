@@ -9,7 +9,7 @@ The commentator quotes shed light on a biblical verse that is often subject to i
 2. "Everywhere in the N.T. marriage is spoken of in high and honourable terms; and the words of the angel to Joseph rather imply, than discountenance, such a supposition."
 3. "No one would ever have thought of interpreting the verse any otherwise than in its primâ facie meaning, except to force it into accordance with a preconceived notion of the perpetual virginity of Mary."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'till' does not necessarily imply that they lived on a different footing afterwards."
 2. "The word 'first-born' does not decide the much-disputed question, whether Mary had any children to Joseph after the birth of Christ."
 3. "The law, in speaking of the first-born, regarded not whether any were born after or no, but only that none were born before."
@@ -56,4 +56,4 @@ The commentator quotes shed light on a biblical verse that is often subject to i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

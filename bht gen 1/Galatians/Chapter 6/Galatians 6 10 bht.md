@@ -10,7 +10,7 @@ This verse encourages believers to seize the opportunities presented to them to 
 3. "τὸ ἀγ. the good thing: as we say, 'he did the right thing:' that which is (in each case) good."
 4. "τ. οἰκείους τ. πίστ. those who belong to the faith: there does not seem to be any allusion to a household, as in E. V."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As thou art able, and while thou art able, and when thou art able." 
 2. "The whole life is, in one sense, the 'seasonable opportunity' to us: and, in a narrower sense, there occur in it more especially convenient seasons."
 3. "We shall not always have the opportunity 'we have' now. Satan is sharpened to the greater zeal in injuring us, by the shortness of his time. Let us be sharpened to the greater zeal in well-doing by the shortness of ours."
@@ -60,4 +60,4 @@ These quotes emphasize the importance of taking advantage of opportunities to do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

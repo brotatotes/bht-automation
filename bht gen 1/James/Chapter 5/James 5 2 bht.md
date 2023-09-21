@@ -9,7 +9,7 @@ In this passage, commentators describe the temporary nature and perils of worldl
 2. "Your riches are corrupted and your garments are become motheaten."
 3. "The expression is figurative, and 'πλοῦτος' to be understood of all riches: 'your possessions'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your riches perish without being of any use either to others or even to yourselves." 
 2. "Your garments which are moth-eaten in your chests." 
 3. "Referring to Matthew 6:19; Matthew 6:20."
@@ -57,4 +57,4 @@ Note: The commentary provides insight into the concept of hoarding wealth and po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

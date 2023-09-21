@@ -9,7 +9,7 @@ The Bible verse described showcases the events surrounding King Herod's furious 
 2. "Herod had marked the way to his throne, and his reign itself, with blood; had murdered his wife and three sons (the last just about this time); and was likely enough, in blind fury, to have made no enquiries, but given the savage order at once."
 3. "Besides, there might have been a reason for not making enquiry, but rather taking the course he did, which was sure, as he thought, to answer the end, without divulging the purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that sitteth in the heavens doth laugh at thee the Lord hath thee in derision. He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise." (Psalms 2:4)
 2. "That blessed Babe shall die indeed, but not by thy hand... Bitter satire!" (Luke 13:32; Luke 13:33)
 3. "Heaven and earth shall sooner pass away than thou shalt have that Babe into thy hands. Therefore, Herod, thou must be content to want Him: to fill up the cup of thy bitter mortifications, already full enough—until thou die not less of a broken heart than of a loathsome and excruciating disease."
@@ -53,4 +53,4 @@ The Bible verse described showcases the events surrounding King Herod's furious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

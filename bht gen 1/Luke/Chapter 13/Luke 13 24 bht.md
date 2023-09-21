@@ -9,7 +9,7 @@ In this verse, the urgency to enter into the kingdom of God is emphasized. One s
 2. "The emphasis of the command is, seek to enter at the strait door: for many shall seek to enter (elsewhere), and shall not be able."
 3. "After εἰσελθ ., is to be supplied in both places, εἰς σωτηρίαν, or εἰς τ. βασ. τ. θεοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strive—The word signifies to 'contend' as for the mastery, to 'struggle,' expressive of the difficulty of being saved, as if one would have to force his way in."
 2. "Strait gate—another figure of the same."
 3. "For many... will seek 'desire,' that is, with a mere wish or slothful endeavor, and shall not be able—because it must be made a life-and-death struggle."
@@ -57,4 +57,4 @@ In this verse, the urgency to enter into the kingdom of God is emphasized. One s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

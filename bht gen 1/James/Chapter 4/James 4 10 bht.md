@@ -11,7 +11,7 @@ In this verse, we are called to embrace a mindset deeply rooted in humility, rec
 
 3. "He shall exalt you... by His grace and counsel here to the hidden glory of His waiting children, and by His fruition and presence hereafter to the ineffable glory of His manifested children."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the sight of the Lord—as continually in the presence of Him who alone is worthy to be exalted: recognizing His presence in all your ways, the truest incentive to humility."
 2. "The tree, to grow upwards, must strike its roots deep downwards; so man, to be exalted, must have his mind deep-rooted in humility."
 3. "Humble yourselves under the mighty hand of God, namely, in His dealings of Providence: a distinct thought from that here. Lift you up—in part in this world, fully in the world to come."
@@ -45,4 +45,4 @@ In this verse, we are called to embrace a mindset deeply rooted in humility, rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

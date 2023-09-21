@@ -9,7 +9,7 @@ In this verse, the commentators shed light on a situation where some individuals
 2. "towards (with a view to) maintaining and propagating the truth (objectively, the unadulterated character) of the Gospel."
 3. "If thou, being (by birth, originally, cf. Act 16:20 and note) a Jew, livest (as thy usual habit... as a Gentile) and not as a Jew, how (is it that) thou art compelling the Gentiles to Judaize?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "were not walking with straightforward steps"
 2. "the truth of the gospel"
 3. "If thou, although being a Jew, livest as a Gentile, and not as a Jew, how is it that thou art compelling the Gentiles to live as do the Jews?"
@@ -53,4 +53,4 @@ In this verse, the commentators shed light on a situation where some individuals
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

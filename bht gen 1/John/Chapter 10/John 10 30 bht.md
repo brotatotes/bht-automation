@@ -4,7 +4,7 @@
 This verse, as exclaimed by various commentators, reveals a profound union between the Father and the Son, existing not only in their will and plan but also in their essence and nature. With different arguments against the Sabellians and the Arians, the commentators emphasize that the oneness of God extends beyond mere numerical unity to a fusion of their being. Despite their distinct personhood, the Father and the Son share the same divine perfections and power, evoking awe and reverence as they are portrayed not just as united, but also as intrinsically connected to one another.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are" is in the masculine gender—"we (two persons) are"; while "one" is neuter—"one thing." Perhaps "one interest" expresses, as nearly as may be, the purport of the saying.
 2. "Neither have they," says He; "though He has given them to Me, they are as much in His own almighty hands as ever—they cannot be, and when given to Me they are not, given away from Himself; for HE AND I HAVE ALL IN COMMON."
 3. Thus it will be seen, that, though oneness of essence is not the precise thing here affirmed, that truth is the basis of what is affirmed, without which it would not be true. And AUGUSTINE was right in saying the "We are" condemns the Sabellians (who denied the distinction of Persons in the Godhead), while the "one" (as explained) condemns the Arians (who denied the unity of their essence).
@@ -45,4 +45,4 @@ This verse, as exclaimed by various commentators, reveals a profound union betwe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

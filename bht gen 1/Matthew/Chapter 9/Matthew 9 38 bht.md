@@ -11,7 +11,7 @@ In this Bible verse, Jesus instructs his disciples to pray to the Lord of the ha
 
 3. "Hence it is clear that He Himself is the husbandman, Himself the Lord of the harvest, Himself the master of the prophets." (Chrysost. Hom. xxxii. 2, 3, p. 367)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pray ye therefore the Lord of the harvest—the great Lord and Proprietor of all."
 2. "Compare: 'I am the true vine, and My Father is the husbandman.'"
 3. "That he will send forth labourers into his harvest—The word properly means 'thrust forth'; but this emphatic sense disappears in some places, as in Matthew 9:25; John 10:4—'When He putteth forth His own sheep.'"
@@ -50,4 +50,4 @@ In this Bible verse, Jesus instructs his disciples to pray to the Lord of the ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

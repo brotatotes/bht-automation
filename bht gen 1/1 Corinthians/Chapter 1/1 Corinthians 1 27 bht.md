@@ -4,7 +4,7 @@
 This verse reveals God's unconventional ways of working, confounding the wise and shaming the strong by choosing the foolish and weak. It emphasizes God's deliberate and purposeful selection, showcasing His sovereignty in choosing those whom the world may deem as insignificant. The repetition of this theme underscores the intentional and deliberate actions of God's gracious will, highlighting His desire to bring about salvation through unexpected means. In contrast to worldly wisdom and power, God's choice challenges human understanding, reminding us that it is through humility and reliance on Him that true strength and wisdom are found.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even things (and those, too, foolish things) are chosen by God to confound persons, and those too persons who are wise."
 2. "God confounds the wise by effecting through His instruments, without human wisdom, that the worldly wise, with it, cannot effect, namely, to bring men to salvation."
 3. "The repetition indicates the gracious deliberateness of God's purpose."
@@ -38,4 +38,4 @@ This verse reveals God's unconventional ways of working, confounding the wise an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators paint a vivid picture of a gathering taking plac
 2. "Stier would rather understand it of things, as well as men, who are afterwards designated."
 3. "On ὁ κλ. κ. ὁ βρ., see note at ch. Matthew 8:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ungodly shall not stand in the judgment, nor sinners [abide] in the congregation of the righteous." (Psalms 1:5)
 2. "All those who have proved a stumbling-block to others."
 3. "The former class, as the worst, are mentioned first."
@@ -45,4 +45,4 @@ In this verse, the commentators paint a vivid picture of a gathering taking plac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

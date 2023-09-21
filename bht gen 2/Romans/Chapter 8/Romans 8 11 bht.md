@@ -11,7 +11,7 @@ The verse speaks of the power of the Spirit who raised Jesus from the dead, show
 4. "the variation was older than the time of this heresy, and, however it may then have been appealed to, its origin cannot be assigned to any falsification by either of the then disputant parties"
 5. "'Non de ultima resurrectione, quæ momento fiet, habetur sermo, sed de continua Spiritus operatione, quæ reliquias carnis paullatim mortificans, cœlestem vitam in nobis instaurat.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If He dwell in you as the Spirit of the Christ-raising One"
 2. "in all the resurrection-power which He put forth in raising Jesus"
 3. "your mortal bodies by reason of His Spirit that dwelleth in you"
@@ -54,4 +54,4 @@ The verse speaks of the power of the Spirit who raised Jesus from the dead, show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

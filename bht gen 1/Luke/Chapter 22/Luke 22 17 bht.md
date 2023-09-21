@@ -9,7 +9,7 @@ In this significant moment, Jesus takes a cup, signifying the fulfillment of the
 2. "Henceforward, He who fulfilled the Law for man will no more eat and drink of it."
 3. "That was the institution of a new rite; this the abrogation of an old one, now fulfilled, or about to be so, in the person of the true Lamb of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is to be your last as well as Mine, 'until the Kingdom of God come,' or as it is beautifully given in Matthew 26:29, 'until that day when I shall drink it new with you in my Father's kingdom.'"
 2. "It was the point of transition between two economies and their two great festivals, the one about to close for ever, the other immediately to open and run its majestic career."
 3. "Until from earth it be transferred to heaven."
@@ -52,4 +52,4 @@ In this significant moment, Jesus takes a cup, signifying the fulfillment of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

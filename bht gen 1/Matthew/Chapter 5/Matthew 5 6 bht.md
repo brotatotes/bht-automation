@@ -9,7 +9,7 @@ Those who passionately desire and long for righteousness, specifically the holin
 2. "They shall be satisfied in the new heaven and new earth, where righteousness dwells." 
 3. "This hunger and thirst after righteousness is admirably set forth in the three first petitions of the Lord’s prayer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From this verse," says THOLUCK, "the reference to the Old Testament background ceases." Surprising! On the contrary, none of these beatitudes is more manifestly dug out of the rich mine of the Old Testament.
 
 2. But what is the precise meaning of "righteousness" here? ... it is clearly to be taken ... in a much wider sense, as denoting that spiritual and entire conformity to the law of God, under the want of which the saints groan, and the possession of which constitutes the only true saintship.
@@ -61,4 +61,4 @@ These quotes highlight the idea that those who hunger and thirst for righteousne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

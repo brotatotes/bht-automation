@@ -9,7 +9,7 @@ In Hebrews 3:5, the passage describes Moses' faithful service in God's house, em
 2. "The whole ministry of Moses was, εἰς μαρτύριον of these λαληθησόμενα."
 3. "There is but one house throughout, and that one, the Church of God, in which both are faithful; one as a servant, the other as a son: this house was Israel, this house are we, if we are found faithful in the covenant."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "faithful in all his house—that is in all GOD'S house" - This quote highlights the faithfulness of Moses in carrying out his responsibilities in God's house, emphasizing his role as a steward in God's service.
 2. "not here the Greek for 'slave,' but 'a ministering attendant'" - This quote clarifies that the term "servant" used for Moses does not imply a position of inferiority, but rather emphasizes his high office as a ministering attendant in God's house.
 3. "in order that he might in his typical institutions give 'testimony' to Israel" - This quote explains that Moses' role was to provide a testimony or a witness to the people of Israel through the various institutions and rituals he established, foreshadowing the coming of Christ and the Gospel message.
@@ -55,4 +55,4 @@ In Hebrews 3:5, the passage describes Moses' faithful service in God's house, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

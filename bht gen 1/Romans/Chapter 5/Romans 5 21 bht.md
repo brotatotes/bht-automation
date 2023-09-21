@@ -9,7 +9,7 @@ The verse being described highlights the contrast between sin and grace, emphasi
 2. "That, as sin reigned in death, so also grace may reign by means of righteousness."
 3. "Grace may reign by means of righteousness, unto life eternal through Jesus Christ our Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grace which originated the scheme of salvation, the grace which 'sent the Son to be the Saviour of the world,' the grace which 'made Him to be sin for us who knew no sin,' the grace which 'makes us to be the righteousness of God in Him,' so that 'we who receive the abundance of grace and of the gift of righteousness do reign in life by One, Jesus Christ!'"
 2. "This is here represented as the righteous medium through which grace reaches its objects and attains all its ends, the stable throne from which Grace as a Sovereign dispenses its saving benefits to as many as are brought under its benign sway."
 3. "Life—as a state of enjoyment of the favor of God, of pure fellowship with Him, and voluntary subjection to Him—is a blighted thing from the moment that sin is found in the creature's skirts... Such are all his posterity from their birth... This final extinction in soul and body of all that constitutes life, but yet eternal consciousness of a blighted existence—this, in its amplest and most awful sense, is 'DEATH'!"
@@ -50,4 +50,4 @@ The verse being described highlights the contrast between sin and grace, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

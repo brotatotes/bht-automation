@@ -9,7 +9,7 @@ In this verse, the speaker is declaring specifically and in detail the powerful 
 2. "Winer, in his sixth edition, discusses this kind of attraction in section 24.2.b, providing further insights and examples."
 3. "Understanding this grammatical concept can enhance our understanding of the verse and its intended meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He declared particularly—in detail." 
 2. "What God had wrought among the Gentiles by his ministry." 
 3. "Referring to the insidious and systematic efforts of the Judaizing party to shrivel the Church of Christ into a Jewish sect."
@@ -43,4 +43,4 @@ In this verse, the speaker is declaring specifically and in detail the powerful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

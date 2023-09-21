@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the comforting doctrines that bring so
 2. "The Apostle’s declarations here are made in the practical tone of strict matter of fact, and are given as literal details, to console men’s minds under an existing difficulty."
 3. "Either these details must be received by us as matter of practical expectation, or we must set aside the Apostle as one divinely empowered to teach the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Comfort one another" - This phrase emphasizes the importance of offering support and solace to those who are grieving. It reminds us of the power of compassion and empathy in times of loss and sorrow.
 
 2. "In your mourning for the dead" - This phrase highlights the specific context in which the comfort is needed - the mourning for the deceased. It acknowledges the pain and sadness that comes with the loss of a loved one and encourages us to be there for each other during this difficult time.
@@ -47,4 +47,4 @@ These quotes highlight the comforting doctrines that the commentary emphasizes: 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

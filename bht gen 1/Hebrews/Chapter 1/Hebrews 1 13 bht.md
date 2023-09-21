@@ -9,7 +9,7 @@ This verse captures the divine authority and exaltation of the Messiah, who sits
 2. "And no Psalm more clearly finds its ultimate reference and completion only in Christ."
 3. "On the theocratic principle of interpretation, there is not the slightest difficulty in the application of the words directly to Him who is Israel’s King, the Head and Chief of the theocracy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The image is taken from the custom of conquerors putting the feet on the necks of the conquered." 
 2. "The act of putting the feet on the neck symbolizes complete victory and subjugation." 
 3. "This image emphasizes the power and authority of God over His enemies."
@@ -57,4 +57,4 @@ These quotes emphasize that God never intended to exalt the angels in the same w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

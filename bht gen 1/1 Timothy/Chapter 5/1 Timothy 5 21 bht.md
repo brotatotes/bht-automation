@@ -9,7 +9,7 @@ In this verse, the charge given to Timothy holds great solemnity and weight. He 
 2. "electos vocat angelos non tantum ut a reprobis discernat, sed excellentiæ causa, ut plus reverentiæ habeat eorum testimonium." 
 3. "that thou keep these things without prejudice, doing nothing according to partiality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I adjure thee"; so it ought to be translated. He vividly sets before Timothy the last judgment, in which God shall be revealed, and Christ seen face to face with His angels.
 2. "Elect angels" - an epithet of reverence. Not only "elect" in contradistinction to the reprobate angels, but also to mark the excellence of the angels in general and give more solemnity to their testimony.
 3. "Without preferring one before another" - there ought to be judgment, but not prejudging. There should be no partiality or bias in favor of a man.
@@ -56,4 +56,4 @@ In this verse, the charge given to Timothy holds great solemnity and weight. He 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

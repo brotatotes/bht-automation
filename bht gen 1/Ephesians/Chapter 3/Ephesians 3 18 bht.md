@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the desire for believers to fully comprehend the vastness and greatness of Christ's love. The verse emphasizes the need for believers to be strong and rooted in love, with the goal of understanding the breadth of Christ's love that encompasses all humanity. The verse also acknowledges the depth of this love, which is beyond human comprehension. Through this verse, believers are encouraged to explore and experience the immeasurable love of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "May be fully able." 
 2. "The 'breadth' implies Christ's world-wide love, embracing all men."
 3. "The 'depth,' its profound wisdom which no creature can fathom."
@@ -59,4 +59,4 @@ Note: The commentary also mentions the four dimensions of love mentioned by Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

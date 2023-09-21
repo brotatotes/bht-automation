@@ -9,7 +9,7 @@ The commentators describe a powerful message in which the prayer of faith is see
 2. "The Lord shall raise him up from his bed of sickness." 
 3. "Even if he have committed sins, it shall be forgiven him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He does not say the oil shall save: it is but the symbol."
 2. "Not all who are sick are so because of some special sins."
 3. "The absolution of the sick, retained in the Church of England, refers to the sins which the sick man confesses and repents of, whereby outward scandal has been given to the Church and the cause of religion."
@@ -55,4 +55,4 @@ The commentators describe a powerful message in which the prayer of faith is see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

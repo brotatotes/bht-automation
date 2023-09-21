@@ -4,7 +4,7 @@
 In this verse, we are presented with a situation where the tomb of Jesus is being secured with a Roman guard to prevent any tampering or theft. The religious leaders fear the potential impact of a resurrection claim and wish to expose what they perceive as deception. There is a concern about the credibility and authority of these leaders if Jesus' resurrection gains traction. The belief in Jesus' resurrection is seen as the last error or delusion, leading people away from the true teachings of Christianity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Command therefore that the sepulchre be made sure—by a Roman guard." - This quote highlights the request for a Roman guard to secure the tomb, emphasizing the seriousness of the situation and the need to prevent any tampering or theft of the body.
 
 2. "After which, if He still lay in the grave, the imposture of His claims would be manifest to all." - This quote suggests that the purpose of guarding the tomb was to expose the supposed deception of Jesus' claims if His body remained in the grave after the third day.
@@ -46,4 +46,4 @@ In this verse, we are presented with a situation where the tomb of Jesus is bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

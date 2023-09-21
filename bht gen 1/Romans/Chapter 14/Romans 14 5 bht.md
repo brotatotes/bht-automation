@@ -9,7 +9,7 @@ In this verse, there is a discussion about differing views on the importance of 
 2. "He classes the observance or non-observance of particular days, with the eating or abstaining from particular meats." 
 3. "The obvious inference from his strain of arguing is, that he knew of no such obligation, but believed all times and days to be, to the Christian strong in faith, ALIKE."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One man esteemeth one day above another: another esteemeth every day." - This verse highlights the diversity of beliefs and practices among individuals when it comes to observing certain days. It acknowledges that people may have different perspectives on the significance of specific days.
 
 2. "Let every man be fully persuaded in his own mind." - This quote emphasizes the importance of personal conviction and individual conscience. It encourages individuals to follow their own beliefs and convictions rather than being swayed by external pressures or opinions.
@@ -57,4 +57,4 @@ In this verse, there is a discussion about differing views on the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

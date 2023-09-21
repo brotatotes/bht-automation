@@ -4,7 +4,7 @@
 In this verse, the commentator emphasizes the importance of using pure and uncorrupted speech, both in public and private settings. The goal is for our words to be spiritually healthy, free from fault or condemnation, and capable of putting adversaries to shame. This requires speaking truthfully with kindness, without filthiness or foolishness, and avoiding harmful words that can cause division. Through wholesome speech, we reflect Christ's character and bring blessings and encouragement to others, fostering unity and building up the body of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speech—discourse in public and private ministrations."
 2. "He that is of the contrary part—the adversary...whether he be heathen or Jew."
 3. "May be ashamed—put to confusion by the power of truth and innocence."
@@ -49,4 +49,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

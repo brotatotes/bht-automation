@@ -9,7 +9,7 @@ The verses being described capture the heartfelt longing of the writers to be re
 2. "No longer being able to bear our continued absence from you." 
 3. "We determined to be left behind in Athens alone."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When we could no longer contain ourselves in our yearning desire for you."
 2. "The non-mention of Silas at Athens implies that he did not follow Paul to Athens as was at first intended; but Timothy did."
 3. "It was an act of self-denial for their sakes that Paul deprived himself of the presence of Timothy at Athens, which would have been so cheering to him in the midst of philosophic cavillers."
@@ -48,4 +48,4 @@ The verses being described capture the heartfelt longing of the writers to be re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

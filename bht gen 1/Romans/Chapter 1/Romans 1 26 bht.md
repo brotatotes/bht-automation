@@ -9,7 +9,7 @@ This verse describes the alarming depths of immorality and degradation to which 
 2. "Contrast 1 Thessalonians 4:4, τὸ ἑαυτοῦ σκεῦος κτᾶσθαι ἐν τιμῇ."
 3. "This abuse is spoken of first, as being the most revolting to nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When the passions, scourged by violent and continued indulgence in natural vices, became impotent to yield the craved enjoyment, resort was had to artificial stimulants by the practice of unnatural and monstrous vices."
 2. "How early these were in full career, in the history of the world, the case of Sodom affectingly shows and because of such abominations, centuries after that, the land of Canaan 'spued out' its old inhabitants."
 3. "No wonder that, thus sick and dying as was this poor humanity of ours under the highest earthly culture, its many-voiced cry for the balm in Gilead, and the Physician there, 'Come over and help us,' pierced the hearts of the missionaries of the Cross, and made them 'not ashamed of the Gospel of Christ!'"
@@ -52,4 +52,4 @@ This verse describes the alarming depths of immorality and degradation to which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the metaphorical nature of the expression used, comparing the difficulty of a rich person entering the kingdom of God to a camel passing through the eye of a needle. The expression is not meant to be taken literally but to convey the notion that it is extremely challenging for someone with material wealth to enter the realm of spiritual riches. This highlights the importance of humility and surrendering earthly possessions in order to fully embrace the treasures of God's kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "easier for a camel, &c.—a proverbial expression denoting literally a thing impossible" - This quote highlights the figurative nature of the expression used in the verse, emphasizing that it is not meant to be taken literally but rather as a metaphor for something very difficult.
 
 2. "figuratively, very difficult" - This quote further emphasizes that the expression is meant to convey a sense of extreme difficulty rather than an actual impossibility.
@@ -34,4 +34,4 @@ In this verse, commentators emphasize the metaphorical nature of the expression 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

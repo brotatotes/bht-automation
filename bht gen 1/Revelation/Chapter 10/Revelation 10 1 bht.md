@@ -4,7 +4,7 @@
 Clothed with a cloud, this mighty angel appears distinct from the previous one, emphasizing the strength and power required for his mission. Along with the rainbow on his head symbolizing covenant mercy, his arrival brings peace and light, like sunshine after a storm. Connected with the Son of Man, this angel holds the book open as the uncreated Angel, Jesus Christ, offering comfort and good tidings to the church. With his face shining like the sun, his presence illuminates the righteous who shall shine forth in glory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Another mighty angel—as distinguished from the mighty angel who asked as to the former and more comprehensive book, 'Who is worthy to open the book?'" 
 2. "Clothed with a cloud—the emblem of God coming in judgment."
 3. "Rainbow upon his head—the emblem of covenant mercy to God's people, amidst judgments on God's foes."
@@ -45,4 +45,4 @@ Clothed with a cloud, this mighty angel appears distinct from the previous one, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful declaration about the new covenant found
 2. "Ministers, not of letter, but of Spirit."
 3. "The Spirit of the gospel, i.e. God’s Holy Spirit, giveth life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ministers not of the mere literal precept, in which the old law, as then understood, consisted; 'but of the Spirit,' that is, the spiritual holiness which lay under the old law, and which the new covenant brings to light."
 2. "No piety of spirit could exempt a man from the yoke of the letter of each legal ordinance under the Old Testament; for God had appointed this as the way in which He chose a devout Jew to express his state of mind towards God. Christianity, on the other hand, makes the spirit of our outward observances everything, and the letter a secondary consideration."
 3. "No literal precepts could fully comprehend the wide range of holiness which LOVE, the work of the Holy Spirit, under the Gospel, suggests to the believer's heart instinctively from the word understood in its deep spirituality."
@@ -56,4 +56,4 @@ The verse being described is a powerful declaration about the new covenant found
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

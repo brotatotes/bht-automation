@@ -9,7 +9,7 @@ The verse being described is a powerful depiction of Jesus' divine nature and ch
 2. "His eyes as a flame of fire, representing perhaps, as Vitr., 'perspicaciam divinæ et puræ mentis, omnia arcana pervadentis.'"
 3. "The 'fiery eye,' among the sons of men, is indicative of energy and power of command: so also in the Son of man Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The color is the point of comparison; signifying purity and glory."
 2. "Not age, for hoary hairs are the sign of decay."
 3. "All-searching and penetrating like fire: at the same time, also, implying consuming indignation against sin."
@@ -42,4 +42,4 @@ The verse being described is a powerful depiction of Jesus' divine nature and ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

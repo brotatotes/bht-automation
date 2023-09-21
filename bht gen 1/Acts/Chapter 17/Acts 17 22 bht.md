@@ -11,7 +11,7 @@ In the midst of a diverse assembly filled with judges, philosophers, and religio
 
 3. "To understand this word as E. V. 'too superstitious' is to miss the fine and delicate tact of the speech, by which he at once parries the charge against him, and in doing so introduces the great Truth which he came to preach."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This prefatory allusion to the position he occupied shows the writer's wish to bring the situation vividly before us."
 2. "I perceive that in all things ye are too superstitious—rather, 'in all respects extremely reverential' or 'much given to religious worship.'"
 3. "The authorized translation would imply that only too much superstition was wrong, and represents the apostle as repelling his hearers in the very first sentence; whereas the whole discourse is studiously courteous."
@@ -57,4 +57,4 @@ In the midst of a diverse assembly filled with judges, philosophers, and religio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

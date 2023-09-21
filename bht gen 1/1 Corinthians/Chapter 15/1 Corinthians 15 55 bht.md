@@ -9,7 +9,7 @@ In this verse, the apostle Paul, filled with triumphant exclamation, questions t
 2. "The figure of death as a venomous beast is natural, from the serpent."
 3. "TRIUMPHANT EXCLAMATION of the Apostle realizing in his mind that glorious time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "O death, where are thy plagues? Where, O Hades, is thy destruction?" - The Hebrew translation of the verse highlights the question of where death's plagues and Hades' destruction are. This emphasizes the defeat of death and the triumph over the powers of darkness.
 2. "Sting" answers to the Hebrew "plagues," namely, a poisoned sting causing plagues. - The concept of the sting of death is compared to the plagues in Hebrew, indicating the harmful and destructive nature of death.
 3. "Victory" answers to the Hebrew "destruction." - The victory over death is equated with the destruction mentioned in Hebrew, signifying the complete annihilation of death's power.
@@ -62,4 +62,4 @@ In this verse, the apostle Paul, filled with triumphant exclamation, questions t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul addresses the issue of marriage for widows
 2. "let her marry a Christian."
 3. "within the limits of Christian connexion in the element in which all Christians live and walk."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bound by the law" is a phrase that is omitted in the oldest manuscripts, suggesting that it may not have been part of the original text. 
 
 2. The commentary suggests that a woman should only marry a Christian, emphasizing the importance of shared faith in a marriage. 
@@ -52,4 +52,4 @@ In this Bible verse, the apostle Paul addresses the issue of marriage for widows
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse addresses the belief in the unity of God, which is common among both 
 2. "The construction with ὅτι after πιστεύεις instead of εἰς or ἐν, implies that merely a theoretical faith is spoken of."
 3. "Their belief does nothing for them but certify to them their own misery."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou—emphatic. Thou self-deceiving claimant to faith without works."
 2. "But unless thy faith goes farther than an assent to this truth, 'the evil spirits believe' so far in common with thee."
 3. "Their faith only adds to their torment at the thought of having to meet Him who is to consign them to their just doom: so thine."
@@ -56,4 +56,4 @@ This verse addresses the belief in the unity of God, which is common among both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

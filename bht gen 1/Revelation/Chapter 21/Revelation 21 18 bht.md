@@ -4,7 +4,7 @@
 The commentator descriptions reveal that the Bible verse being described speaks of a magnificent city with walls made of jasper, symbolizing strength, durability, and beauty. The city itself is of pure gold, representing purity, preciousness, and the divine presence of God. This verse emphasizes the security, protection, and splendor of God's kingdom, which surpasses the earthly realm in beauty and value. Salvation is also referenced, highlighting its impregnability, enduring nature, and the glory it brings forth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The building—'the structure' [TREGELLES], Greek, 'endomeesis.'" 
 2. "Gold, like . . . clear glass—Ideal gold, transparent as no gold here is [ALFORD]."
 3. "Excellencies will be combined in the heavenly city which now seem incompatible."
@@ -45,4 +45,4 @@ The commentator descriptions reveal that the Bible verse being described speaks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

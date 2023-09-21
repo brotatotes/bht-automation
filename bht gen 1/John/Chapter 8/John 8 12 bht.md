@@ -9,7 +9,7 @@ The verse being described is John 8:12, where Jesus proclaims, "I am the light o
 2. "This discourse comes in very well after ch. John 7:52. The last saying of Jesus had referred to a festal usage then just over: He now adds another of the same kind."
 3. "Surely to say in both cases, as Lücke and De Wette do, that the allusion could not have been made unless the usage took place on that day, is mere trifling."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I AM THE LIGHT OF THE WORLD"—plainly in the most absolute sense.
 2. "he that followeth me—as one does a light going before him, and as the Israelites did the pillar of bright cloud in the wilderness."
 3. "but shall have the light of life—the light, as of a new world, a newly awakened spiritual and eternal life."
@@ -55,4 +55,4 @@ The verse being described is John 8:12, where Jesus proclaims, "I am the light o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

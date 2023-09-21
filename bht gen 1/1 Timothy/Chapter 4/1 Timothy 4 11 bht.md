@@ -11,7 +11,7 @@ In this passage, the author emphasizes the importance of commanding and teaching
 
 3. "Those insisted on since ver.7" - This reference indicates that the teachings being commanded and taught are not arbitrary but have been previously emphasized and established. It suggests a continuity of instruction and reinforces the importance of consistency in teaching the foundational principles.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These truths, to the exclusion of those useless and even injurious teachings" - The commentary emphasizes the importance of focusing on the essential truths of the Bible and disregarding teachings that are unhelpful or harmful. 
 
 2. "While weighing well thyself" - This quote highlights the need for self-reflection and introspection when considering these truths. It encourages individuals to examine their own beliefs and actions in light of the teachings of the Bible. 
@@ -42,4 +42,4 @@ In this passage, the author emphasizes the importance of commanding and teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

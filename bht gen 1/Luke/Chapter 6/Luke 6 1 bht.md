@@ -9,7 +9,7 @@ In this verse, there is a mention of a day called the "second-first Sabbath," wh
 2. "The point so much insisted on, that this must have been after the presentation of the first-fruits which took place on the 16th of Nisan, on account of the prohibition in Leviticus 23:14, is of no weight."
 3. "ψώχ. τ. χ. is a detail peculiar to Luke: rubbing them and blowing away the chaff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "second sabbath after the first—an obscure expression" - This commentary highlights the ambiguity of the phrase, emphasizing the need for further examination and interpretation.
 
 2. "generally understood to mean, the first sabbath after the second day of unleavened bread" - This quote provides a possible explanation for the meaning of the phrase, offering insight into the context and significance of the verse.
@@ -50,4 +50,4 @@ In this verse, there is a mention of a day called the "second-first Sabbath," wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

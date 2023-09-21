@@ -9,7 +9,7 @@ In this verse, commentators reflect on the concept of Jesus being sent by God. T
 2. "The aor. will not allow of the figurative interpretation, confining, as it does, the ‘sending’ to one definite event."
 3. "Him who was predestined your Messiah, namely, Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He shall send your predestinated (or foreordained) Messiah, Jesus." This quote highlights the concept of predestination and foreordination in the sending of Jesus Christ.
 2. "He shall send your predestinated (or foreordained) Messiah, Jesus." This quote emphasizes the divine plan and purpose behind the sending of Jesus as the Messiah.
 3. "He shall send your predestinated (or foreordained) Messiah, Jesus." This quote underscores the fulfillment of God's promise to send Jesus as the long-awaited Messiah.
@@ -59,4 +59,4 @@ Note: The commentary provides insights into the purpose of Jesus' coming, the fu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

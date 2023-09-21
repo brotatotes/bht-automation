@@ -9,7 +9,7 @@ In a moment of schism among the Jews, the ruler of the synagogue, Crispus, broke
 2. "The ruler of the synagogue attached himself to Paul."
 3. "Many of the Corinthians believed and were baptized."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Crispus, the chief ruler of the synagogue, believed on the Lord with all his house—an event felt to be so important that the apostle deviated from his usual practice and baptized him." This quote highlights the significance of Crispus' conversion and the apostle's personal involvement in baptizing him, emphasizing the importance of this event.
 
 2. "Many of the Corinthians believed and were baptized—The beginning of the church gathered there." This quote emphasizes the impact of the Corinthians' belief and baptism, marking the establishment of the church in Corinth and the growth of the Christian community in that region.
@@ -49,4 +49,4 @@ In a moment of schism among the Jews, the ruler of the synagogue, Crispus, broke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

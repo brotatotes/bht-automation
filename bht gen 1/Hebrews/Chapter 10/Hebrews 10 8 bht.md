@@ -9,7 +9,7 @@ The verse being described speaks of the rejection of legal sacrifices and the ac
 2. "The sacrifices and offerings, and whole burnt-offerings, and sacrifices concerning sin thou wouldest not, nor yet didst approve."
 3. "The particular ordinance of Moses. If we say ‘according to law,’ we mean the same, but transfer ourselves to the standing-point of a Jew, with whom ‘the law’ was ‘law’."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse combines the two clauses previously quoted distinctly, in contrast to the sacrifice of Christ with which God was well pleased."
 2. "The oldest manuscripts read, 'Sacrifices and offerings' (plural), emphasizing the multitude and variety of sacrifices being referred to."
 3. "Hebrews 10:8 identifies Christ as the one who fulfills and surpasses all previous sacrifices and offerings."
@@ -60,4 +60,4 @@ The verse being described speaks of the rejection of legal sacrifices and the ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

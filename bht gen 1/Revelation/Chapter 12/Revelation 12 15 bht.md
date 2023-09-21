@@ -4,7 +4,7 @@
 In this Bible verse, it describes a powerful flood, represented by a stream of Germanic tribes threatening to destroy Christianity and the malice of the papal body against the true church. The imagery emphasizes being carried away and completely engulfed by the flood, highlighting the overwhelming and helpless nature of the situation. This flood symbolizes the relentless efforts of Satan to destroy the church, manifesting in various forms of persecution, heresies, and errors throughout history. It portrays a struggle between the forces of evil and the church, emphasizing the need for divine protection and intervention.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The flood, or river, is the stream of Germanic tribes which, pouring on Rome, threatened to destroy Christianity."
 2. "But the earth helped the woman, by swallowing up the flood."
 3. "Perhaps it includes also, generally, the help given by earthly powers (those least likely, yet led by God's overruling providence to give help) to the Church against persecutions and also heresies."
@@ -33,4 +33,4 @@ In this Bible verse, it describes a powerful flood, represented by a stream of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

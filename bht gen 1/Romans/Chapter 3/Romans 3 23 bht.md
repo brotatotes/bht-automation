@@ -9,7 +9,7 @@ In this verse, it is emphasized that every person, without exception, has fallen
 2. "Of the praise which comes from God, see reff. (so Grot., Thol., Reiche, Fritz., Meyer, Rückert, De Wette): not, 'of praise in God's sight' (Luther, Calv., Estius, Köllner): nor, 'of glory with God,' as ch. Romans 5:2 (Œc, Beza, al.), for the Apostle is not speaking here of future reward, but of present worthiness."
 3. "nor, of the glorious image of God which we have lost through sin (Calov., al., Rückert, Olsh.), which is against both the usage of the word, and the context of the passage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is absolutely no difference between the best and the worst of men, in the fact that 'all have sinned'." 
 2. "All have come short of the glory of God, meaning they have failed to earn His approbation." 
 3. "The best interpreters agree that all have failed to earn God's praise."
@@ -55,4 +55,4 @@ In this verse, it is emphasized that every person, without exception, has fallen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

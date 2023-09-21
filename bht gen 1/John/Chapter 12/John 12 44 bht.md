@@ -4,7 +4,7 @@
 With a loud voice and deep conviction, Jesus cried out, summarizing his past teachings and urging his listeners to believe not only in him but also in the One who sent him. His cry emphasized the unity between the Father and Himself, as faith in one necessitates faith in the other. Through these words, Jesus implores his audience to firmly place their trust in him, recognizing his divine authority and the inseparable bond between him and the Father who sent him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus cried—in a loud tone, and with peculiar solemnity." 
 2. "He that believeth on me, &c.—This seems to be a supplementary record of some weighty proclamations." 
 3. "Introduced here as a sort of summary and winding up of His whole testimony."
@@ -50,4 +50,4 @@ With a loud voice and deep conviction, Jesus cried out, summarizing his past tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

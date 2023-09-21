@@ -4,7 +4,7 @@
 In this passage, a fair and just master responds to a worker's complaint, emphasizing the importance of honoring agreements and contracts. The master's address of "friend" shows respect and personal connection, highlighting the significance of clear agreements and the need to fulfill obligations. It reminds individuals of their responsibility to reflect on their decisions and actions, underscoring the accountability we have for our choices. Ultimately, this verse serves as a reminder to treat others with fairness, integrity, and the recognition that our actions have consequences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The master's response to the complaint reveals his fairness and justice. He addresses the worker as 'friend,' showing a level of respect and personal connection. This response highlights the importance of clear agreements and the need to honor them." 
 
 2. "By reminding the worker of their initial agreement, the master emphasizes the importance of upholding one's word. This quote serves as a reminder that agreements and contracts should not be taken lightly, and that both parties have a responsibility to fulfill their obligations." 
@@ -38,4 +38,4 @@ In this passage, a fair and just master responds to a worker's complaint, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

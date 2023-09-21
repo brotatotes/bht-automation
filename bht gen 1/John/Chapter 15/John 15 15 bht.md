@@ -4,7 +4,7 @@
 In this verse, Jesus elevates his disciples from servants to intimate friends, emphasizing a deep level of trust and closeness in their relationship. He opens up to them, sharing everything he has received from the Father, symbolizing a deep level of trust and unity. The shift from being servants under the law to a personal and intimate relationship with God is highlighted. Through the Gospel, believers have the privilege of knowing the heart of Christ, which serves as a testimony of his love and never fails to guide them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Henceforth I call you not servants... but... friends" - Jesus elevates his disciples from mere servants to intimate friends, indicating a deep level of trust and closeness in their relationship.
 
 2. "The servant knoweth not what his lord doeth" - This highlights the limited knowledge and understanding that servants have of their master's plans, emphasizing the hierarchical nature of their relationship.
@@ -50,4 +50,4 @@ In this verse, Jesus elevates his disciples from servants to intimate friends, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is one in which the speaker, possibly Paul, discusses 
 2. "στέγομεν: We endure all things: viz. labour, privations, hardships."
 3. "The ἐγκοπαί (hindrances) would arise from his being charged with covetousness and self-seeking, which his independence of them would entirely prevent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We desire to conceal any distress we suffer from straitened circumstances." 
 2. "The same Greek is in 2 Corinthians 11:20-." 
 3. "The less of incumbrance and expense caused to the Church, and the more of work done, the better for the cause of the Gospel."
@@ -59,4 +59,4 @@ The verse being described is one in which the speaker, possibly Paul, discusses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described showcases the Apostle Paul's selflessness and dedication to 
 2. "I wrote (write) not these things however, that it may be thus (viz. after the examples which I have alleged) done to me."
 3. "For it were good for me rather to die than that any one should make void my (matter of) boasting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's special gift of continency, which enabled him to abstain from marriage, and his ability to maintain himself without interrupting seriously his ministry, made that expedient to him which is ordinarily inexpedient."
 2. "What to him was a duty, would be the opposite to one, for instance, to whom God had committed a family, without other means of support."
 3. "Rather than hinder the progress of the Gospel by giving any pretext for a charge of interested motives, Paul would 'die' of hunger."
@@ -52,4 +52,4 @@ The verse described showcases the Apostle Paul's selflessness and dedication to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

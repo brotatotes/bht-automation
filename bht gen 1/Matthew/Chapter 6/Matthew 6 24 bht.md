@@ -11,7 +11,7 @@ In this verse, there is a clear message from commentators that highlights the im
 
 Note: The commentary provided is quite lengthy, and it was challenging to find concise and impactful quotes within the given word limit. However, the selected quotes touch on the idea of division within oneself, the choices one must make between serving God or Mammon, and the clarification that Mammon is not a Syrian deity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other." - This quote emphasizes the impossibility of serving two masters simultaneously and highlights the inevitable conflict that arises when our affections are divided.
 
 2. "If we determine resolutely to 'hold to the one,' we must at the same time disregard, and (if he insist on his claims upon us) even 'despise the other.'" - This quote underscores the necessity of making a firm decision to prioritize one master over the other, even if it means disregarding and despising the other.
@@ -61,4 +61,4 @@ Note: The commentary provided is quite lengthy, and it was challenging to find c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

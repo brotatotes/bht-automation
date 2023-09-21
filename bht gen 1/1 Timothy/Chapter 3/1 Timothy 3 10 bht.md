@@ -9,7 +9,7 @@ The verse being described is about the qualifications and selection process for 
 2. "The word is of their act in the office, not of their reception of it."
 3. "If they are found to be irreproachable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let them act as deacons." - This quote emphasizes that the individuals being considered for the role of deacons should not only be blameless, but also actively demonstrate their suitability for the position through their actions.
 
 2. "Unexceptionable." - This word highlights the high standard that is expected of those who are chosen to serve as deacons. They should be beyond reproach and free from any accusations or faults.
@@ -61,4 +61,4 @@ These quotes highlight the assumption of proving the Bishops, the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

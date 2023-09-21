@@ -9,7 +9,7 @@ In this verse, we are warned about the potential betrayal, persecution, and host
 2. "The δέ turns from the internal character to behaviour in regard of outward circumstances."
 3. "ἐν τ. συν. μαστιγ. ὑ  .] See Acts 22:19; Acts 26:11. The scourging in the synagogues is supposed to have been inflicted by order of the Tribunal of Three, who judged in them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware of men; for they will deliver you up to the councils." - This warns of the potential betrayal and persecution that believers may face at the hands of civil magistrates.
 2. "They will scourge you in their synagogues." - This highlights the specific form of persecution that may come from religious leaders, emphasizing the potential hostility from ecclesiastics.
 3. "By this is meant persecution at the hands of the ecclesiastics." - This clarifies that the persecution mentioned in the previous quote refers specifically to religious persecution, further emphasizing the potential opposition from religious authorities.
@@ -59,4 +59,4 @@ In this verse, we are warned about the potential betrayal, persecution, and host
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

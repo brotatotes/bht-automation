@@ -4,7 +4,7 @@
 This passage reveals the incomparable immortality of God, which He uniquely possesses, independent of any other source. It illustrates the unfathomable brilliance and unapproachability of His divine dwelling, even for the highest angelic beings. While God cannot be seen with physical eyes, there is a promise and hope for believers to one day behold Him as He truly is. It highlights the transcendent nature of God and the longing of humanity to experience the fullness of divine presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As He hath immortality, so will He give it to us who believe; to be out of Him is death."
 2. "It is mere heathen philosophy that attributes to the soul indestructibility in itself, which is to be attributed solely to God's gift."
 3. "That light is unapproachable to creatures, except in so far as they are admitted by Him, and as He goes forth to them."
@@ -54,4 +54,4 @@ Note: The commentary for 1 Timothy 6:16 discusses the immortality of God, the sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a prayer for mercy upon the household of Onesiphoru
 2. "Onesiphorus...refreshed me and was not ashamed of my chain." 
 3. "When he was in Rome, sought me out with extraordinary diligence and found me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord give mercy—even as ONESIPHORUS had abounded in works of mercy." 
 2. "His household would hardly retain his name after the master was dead." 
 3. "God blesses not only the righteous man himself, but all his household."
@@ -55,4 +55,4 @@ The verse being described is a prayer for mercy upon the household of Onesiphoru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

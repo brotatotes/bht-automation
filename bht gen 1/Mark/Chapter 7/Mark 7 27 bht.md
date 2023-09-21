@@ -9,7 +9,7 @@ In this verse, there is a clear emphasis on the priority given to the Jewish peo
 2. "The Jews were first to have the Gospel offered to them, for their acceptance or rejection."
 3. "It was not yet time for the Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is there hope for me here?"
 2. "Then my turn, it seems, is coming!—but then, 'The CHILDREN first?' Ah! when, on that rule, shall my turn ever come!"
 3. "Is this the death of her hopes? Nay, rather it is life from the dead. Out of the eater shall come forth meat."
@@ -45,4 +45,4 @@ In this verse, there is a clear emphasis on the priority given to the Jewish peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

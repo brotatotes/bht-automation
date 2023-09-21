@@ -9,7 +9,7 @@ In this notable Bible verse, the profound impact of an extraordinary event is un
 2. "οὐκ ἔφ. οὐδὲ ἔπ., There is no occasion to soften these words."
 3. "the effect produced on him by the οὐράνιος ὀπτασία (ch. Act 26:19), aided by his own deeply penitent and remorseful state of mind, rendered him indifferent to all sustenance whatever."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Only one other space of three days' duration can be mentioned of equal importance in the history of the world" [HOWSON].
 2. "What materials these for spiritual exercise during those three days of total darkness, fasting, and solitude!"
 3. "Is it too much to say that all that profound insight into the Old Testament, that comprehensive grasp of the principles of the divine economy, that penetrating spirituality, that vivid apprehension of man's lost state, and those glowing views of the perfection and glory of the divine remedy...were all quickened into life during those three successive days?"
@@ -48,4 +48,4 @@ In this notable Bible verse, the profound impact of an extraordinary event is un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

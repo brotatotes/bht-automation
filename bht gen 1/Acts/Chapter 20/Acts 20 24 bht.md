@@ -9,7 +9,7 @@ In this verse, the speaker, having devoted their life to a higher purpose, holds
 2. "But I hold my life of no account, nor is it so precious to me, as the finishing of my course."
 3. "A similitude peculiar to Paul: occurring, remarkably enough, in his speech at ch. Acts 13:25."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His jealousy for the peculiar character of his mission, as immediately from Christ Himself on which all the charges against him turned."
 2. "The burden of that Gospel which he preached—GRACE; it was 'the Gospel of the Grace of God.'"
 3. "In this noble expression of absolute dedication to the service of Christ and preparedness for the worst that could befall him in such a cause."
@@ -61,4 +61,4 @@ In this verse, the speaker, having devoted their life to a higher purpose, holds
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

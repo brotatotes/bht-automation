@@ -4,7 +4,7 @@
 The commentators shed light on a Bible verse that speaks of the departure of Jesus from Jerusalem. They describe this departure as the withdrawal of His ministry and the departure of glory from the city. The commentators also emphasize the consequences that will befall Jerusalem because of this departure, including its becoming desolate. They further mention the future conversion of the Jews and the hope that remains despite the forthcoming judgments. Overall, the verse speaks of the temporary absence of Jesus and the eventual transformation and redemption that will come.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Does Jesus mean that He was Himself the Lord of the temple, and that it became 'deserted' when HE finally left it? It is even so. Now is thy fate sealed, O Jerusalem, for the glory is departed from thee!"
 2. "That glory, once visible in the holy of holies, over the mercy seat, when on the day of atonement the blood of typical expiation was sprinkled on it and in front of it—called by the Jews the Shekinah, or the Dwelling, as being the visible pavilion of Jehovah—that glory, which Isaiah saw in vision, the beloved disciple says was the glory of Christ."
 3. "Yet brief as well as 'sudden' was the manifestation to be: for the words He was now uttering were to be HIS VERY LAST within its precincts."
@@ -43,4 +43,4 @@ The commentators shed light on a Bible verse that speaks of the departure of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

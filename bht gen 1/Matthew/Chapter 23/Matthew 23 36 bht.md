@@ -4,7 +4,7 @@
 Upon this generation, the sins of Israel accumulated until they reached their fullness, awaiting the divine retribution that would descend upon them in the destruction of Jerusalem. This impending judgment, emphasizing the immediacy and certainty of divine consequences, serves as a solemn warning for all generations. As the chosen nation turned away from God, rejecting His messengers, the guilt and punishment due to them would culminate in the devastating calamities spoken by Christ. The gravity of their actions necessitated repentance before it was too late.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As it was only in the last generation of them that 'the iniquity of the Amorites was full' (Genesis 15:16), and then the abominations of ages were at once completely and awfully avenged, so the iniquity of Israel was allowed to accumulate from age to age till in that generation it came to the full, and the whole collected vengeance of heaven broke at once over its devoted head."
 2. "In the first French Revolution the same awful principle was exemplified, and Christendom has not done with it yet."
 3. "Lamentation over Jerusalem, and Farewell to the Temple."
@@ -30,4 +30,4 @@ Upon this generation, the sins of Israel accumulated until they reached their fu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

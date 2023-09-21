@@ -9,7 +9,7 @@ The verse being described in this commentary is about the priesthood of Jesus an
 2. "He would not even belong to the category of priests." 
 3. "There are already those who offer the gifts according to the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Implying that Christ's priestly office is exercised in heaven, not in earth; in the power of His resurrection life, not of His earthly life."
 2. "If He were on earth, He would not even be a priest."
 3. "His sacerdotal 'ministry' must be 'in the heavens,' not on earth."
@@ -53,4 +53,4 @@ The verse being described in this commentary is about the priesthood of Jesus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

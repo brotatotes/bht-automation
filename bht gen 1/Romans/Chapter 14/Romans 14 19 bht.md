@@ -9,7 +9,7 @@ This verse emphasizes the importance of pursuing both peace and edification in o
 2. "Edification towards one another, i.e. the work of edification."
 3. "The love that leads to edification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The things of peace" refers to actions, words, and attitudes that promote harmony and unity among believers. It emphasizes the importance of pursuing peace and resolving conflicts in a spirit of love and understanding.
 
 2. "The things of mutual edification" highlights the need for believers to build each other up and encourage one another in their faith. It emphasizes the importance of using our words and actions to strengthen and support our fellow believers.
@@ -57,4 +57,4 @@ This verse emphasizes the importance of pursuing both peace and edification in o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

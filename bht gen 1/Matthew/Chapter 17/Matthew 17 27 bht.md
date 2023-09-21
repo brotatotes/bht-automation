@@ -9,7 +9,7 @@ In this Bible verse, Jesus demonstrates His authority and compassion by performi
 2. "The natural interpretation (of Paulus and Storr), that the fish was to be sold for the money (and a wonderful price it would be for a fish caught with a hook), is refuted by the terms of the narrative."
 3. "The stater = four drachmæ, the exact payment required."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Notwithstanding, lest we should offend—stumble. them—all ignorant as they are of My relation to the Lord of the Temple, and should misconstrue a claim to exemption into indifference to His honor who dwells in it."
 2. "Go thou to the sea—and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shall find a piece of money—a stater."
 3. "That take, and give unto them for me and thee—literally, 'instead of Me and thee'; perhaps because the payment was a redemption of the person paid for (Exodus 30:12) —in which view Jesus certainly was 'free'."
@@ -50,4 +50,4 @@ Note: The quotes have been slightly modified to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

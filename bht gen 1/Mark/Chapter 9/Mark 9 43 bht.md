@@ -4,7 +4,7 @@
 In this Bible verse, the commentator emphasizes the necessity of removing anything that hinders one's spiritual journey, even if it is as valuable as a hand or eye. The verse extends to both people and things that may lead one astray. It not only focuses on the act of offending but also addresses the potential consequences of being offended. Overall, it calls for taking decisive action to uphold one's commitment to God and to maintain healthy relationships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell." - This quote emphasizes the importance of taking drastic measures to remove anything that leads to sinful behavior, even if it means sacrificing something valuable.
 
 2. "The only difference between the words there and here is that there they refer to impure inclinations; here, to an ambitious disposition, an irascible or quarrelsome temper, and the like." - This quote highlights the broader application of the verse, suggesting that it can be applied to various negative tendencies and not just impure thoughts.
@@ -39,4 +39,4 @@ In this Bible verse, the commentator emphasizes the necessity of removing anythi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

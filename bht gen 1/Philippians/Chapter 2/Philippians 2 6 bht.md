@@ -4,7 +4,7 @@
 In this verse, the majestic nature of Christ is described as "the form of God", depicting His eternal divinity and the infinite glories that accompany it. Christ, in this divine form, did not consider it a violation to claim equality with God, as He possessed the same essence and unchanging perfection. He willingly emptied Himself of His heavenly glory, humbly descending from the highest heights to the lowest depths for the sake of humanity. This self-emptying demonstrates the remarkable contrast between His divine nature and His sacrificial mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The divine nature had infinite BEAUTY in itself, even without any creature contemplating that beauty: that beauty was 'the form of God';"
 2. "He never emptied Himself of the fulness of His Godhead, or His 'BEING on an equality with God'; but between His being 'in the FORM of God,' and His 'taking on Him the form of a servant,'"
 3. "Being on an equality with God, is not identical with subsisting in the form of God"; the latter expresses the external characteristics, majesty, and beauty of the Deity, which "He emptied Himself of," to assume "the form of a servant";
@@ -52,4 +52,4 @@ In this verse, the majestic nature of Christ is described as "the form of God", 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

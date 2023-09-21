@@ -9,7 +9,7 @@ The arrival of the speaker is met with warm and enthusiastic reception from the 
 2. "This is by no means implied."
 3. "James and the elders are not mentioned till Acts 21:18."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The brethren received us gladly" - This highlights the warm and welcoming reception that the disciples received from the believers. It indicates their acceptance and support, creating a sense of unity and fellowship among the early Christians.
 
 2. "The disciples generally, as distinguished from the official reception" - This distinction emphasizes that the reception mentioned here was not an official or formal one, but rather a genuine expression of love and hospitality from the believers. It shows that the disciples embraced Paul and his companions on a personal level, beyond any official obligations.
@@ -49,4 +49,4 @@ The arrival of the speaker is met with warm and enthusiastic reception from the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

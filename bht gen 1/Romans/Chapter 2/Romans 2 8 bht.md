@@ -9,7 +9,7 @@ This verse addresses those who are factious and disobedient to the truth, instea
 2. "The mistake of rendering it 'contentiousness,' and imagining a derivation from ἔρις prevailed universally... It appears to have arisen from ἐρεθίζω being somewhat similar in sound."
 3. "ὀργὴ κ. θυμός: the former word denotes the abiding, settled mind of God towards them, and the latter, the outbreak of that anger at the great day of retribution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "referring to such keen and determined resistance to the Gospel as he himself had too painfully witnessed on the part of his own countrymen."
 2. "indignation and wrath—in the bosom of a sin-avenging God."
 3. "See Acts 13:44-46 Acts 17:5; Acts 17:13; Acts 18:6; Acts 18:12; and compare 1 Thessalonians 2:15; 1 Thessalonians 2:16."
@@ -53,4 +53,4 @@ This verse addresses those who are factious and disobedient to the truth, instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

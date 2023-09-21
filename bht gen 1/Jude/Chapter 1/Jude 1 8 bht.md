@@ -9,7 +9,7 @@ In this verse, the commentator quotes describe individuals who are spiritually a
 2. "And those being got rid of, and a fortiori the interpretation given by Bretschneider, 'falsis oraculis decepti, vel falsa oracula edentes' (see reff.), we have but this left, that the word should represent that state of dreaming in the sleep of sin, out of which men are so often called on to awake to righteousness and the light of Christ."
 3. "So De Wette: similarly Huther, but understanding κυριότητα of God, and δόξας of the angels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All sinners are spiritually asleep, and their carnal activity is as it were a dream."
 2. "Their speaking evil of dignities is because they are dreaming, and know not what they are speaking evil of."
 3. "The natural man's lusts are agitated by joy, distress, fear, and the other passions. But he is a stranger to self-command."
@@ -57,4 +57,4 @@ Note: The commentary is about Jude 1:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

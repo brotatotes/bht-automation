@@ -9,7 +9,7 @@ The verse described here is a call for people to seize the opportunity presented
 2. "The light is an easy transition from their question, if, as above supposed, Psa 89:36 was alluded to: 'His (David’s) seed shall endure for ever, and his throne as the sun before Me.'"
 3. "'Has no guide nor security, no principle to lead him.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yet a little while is the light with you. Walk while ye have the light." - Jesus warns against wasting their limited time and urges them to take advantage of the light while it is still available. 
 
 2. "Let in the Light while they have it in the midst of them, that they themselves might be 'light in the Lord'." - Jesus encourages them to embrace the Light, not only for their own benefit but also to become a source of light themselves.
@@ -52,4 +52,4 @@ The verse described here is a call for people to seize the opportunity presented
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

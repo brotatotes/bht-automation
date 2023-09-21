@@ -4,7 +4,7 @@
 In this passage, the speaker is confronted by critics who accuse him of being demon-possessed and out of his senses. The people are perplexed by his claim to offer exemption from death, as it goes against their knowledge and the experiences of their revered ancestors. However, the speaker stands firm, assuring them that his promise transcends human logic and is grounded in a divine reality. The critics, blinded by their own worldly perception, fail to grasp the profound truth that the speaker offers - eternal life through faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art now self-convicted only a demoniac could speak so." 
 2. "The most illustrious of our fathers are dead, and Thou promisest exemption from death to anyone who will keep Thy saying!" 
 3. "Pray, who art Thou?"
@@ -40,4 +40,4 @@ In this passage, the speaker is confronted by critics who accuse him of being de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

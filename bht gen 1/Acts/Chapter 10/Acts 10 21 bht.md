@@ -4,7 +4,7 @@
 In this verse, we see the divine understanding and awareness of Jesus as he responds to the men seeking him. His supernatural ability to perceive their purpose is evident even before any communication is made. Furthermore, the verse highlights that Jesus was not only aware of the men, but also understood the details of their visit. This underscores his omniscience and ability to discern intentions. The verse also emphasizes the cause or reason behind their visit, inviting readers to explore connections with similar themes in other passages of the Bible.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am he whom ye seek" - This statement shows that Jesus had knowledge of the men and their purpose even before any communication was made to Peter. It highlights his divine understanding and awareness of the situation.
 
 2. "Said without any communication being made to Peter" - This emphasizes that Jesus' knowledge and response were not dependent on human communication or information. It underscores his supernatural ability to perceive and comprehend things beyond the ordinary.
@@ -43,4 +43,4 @@ This quote emphasizes that the usage of "cause" or "reason" in the given verse i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

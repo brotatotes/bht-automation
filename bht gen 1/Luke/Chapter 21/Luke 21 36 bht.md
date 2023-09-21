@@ -11,7 +11,7 @@ In this verse, angels are involved in the setting described, highlighting their 
 
 3. "see Mat 24:31" - This quote refers to another Bible verse (Matthew 24:31) that provides further context and understanding of the setting mentioned in the verse, encouraging readers to explore the interconnectedness of biblical passages.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Watch . . . pray, &c.—the two great duties which in prospect of trial are constantly enjoined."
 2. "These warnings, suggested by the need of preparedness for the tremendous calamities approaching, and the total wreck of the existing state of things, are the general improvement of the whole discourse."
 3. "Carrying the mind forward to Judgment and Vengeance of another kind and on a grander and more awful scale—not ecclesiastical or political but personal, not temporal but eternal—when all safety and blessedness will be found to lie in being able to 'STAND BEFORE THE SON OF MAN' in the glory of His personal appearing."
@@ -45,4 +45,4 @@ In this verse, angels are involved in the setting described, highlighting their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

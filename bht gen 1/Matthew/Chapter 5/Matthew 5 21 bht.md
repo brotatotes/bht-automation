@@ -9,7 +9,7 @@ In this verse, Jesus addresses prevailing misconceptions regarding the Mosaic la
 2. "The above remarks comprise a brief answer to the important but somewhat misapprehended question, whether our Lord impugned the Mosaic law itself, or only its inadequate interpretation by the Jewish teachers?"
 3. "There is no inconsistency in the above view with the assertion in Matthew 5:19: the just and holy and true law was necessarily restricted in meaning and degraded in position, until He came, whose office it was to fulfil and glorify it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nearly all who would translate 'to the ancients' take the speaker of the words quoted to be Moses in the law; 'the ancients' to be the people to whom Moses gave the law; and the intention of our Lord here to be to contrast His own teaching, more or less, with that of Moses; either as opposed to it—as some go the length of affirming—or at least as modifying, enlarging, elevating it."
 2. "To us it seems as plain as possible that our Lord's one object is to contrast the traditional perversions of the law with the true sense of it as expounded by Himself."
 3. "Thou shall not kill:—that is, This being all that the law requires, whosoever has imbrued his hands in his brother's blood, but he only, is guilty of a breach of this commandment."
@@ -43,4 +43,4 @@ In this verse, Jesus addresses prevailing misconceptions regarding the Mosaic la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we encounter a significant moment in Peter's journey with Jesus. The repetition of the crowing of the rooster not only serves as a reminder of Peter's denial but also highlights the certainty and gravity of his actions. This pivotal point underscores the tension between Peter's name, meaning steadfastness, and his faltering faith. It is a sobering reminder that even those called to be steady in their faith can stumble and make mistakes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The crowing of the rooster symbolizes the moment of Peter's denial, serving as a reminder of his failure and the fulfillment of Jesus' prediction."
 2. "The repetition of the crowing emphasizes the certainty and significance of Peter's denial, highlighting the gravity of his actions."
 3. "This moment serves as a pivotal point in Peter's journey, leading to his deep remorse and eventual restoration in his relationship with Jesus."
@@ -38,4 +38,4 @@ In this verse, we encounter a significant moment in Peter's journey with Jesus. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, believers are encouraged to have unity of mind and to love one an
 
 3. "humble-minded (the word forms a note of transition to the next verse: humility being essential both to true gentleness of love and to true patience under injuries)" - This commentary highlights the connection between humility and the ability to love others genuinely and patiently, even in the face of mistreatment or harm.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having compassion one of another—Greek, 'sympathizing' in the joy and sorrow of others." 
 
 2. "Love as brethren—Greek, 'loving the brethren.'" 
@@ -59,4 +59,4 @@ In this verse, believers are encouraged to have unity of mind and to love one an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

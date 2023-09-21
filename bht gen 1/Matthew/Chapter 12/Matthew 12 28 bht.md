@@ -9,7 +9,7 @@ The verse described in these commentaries speaks of a profound and unexpected ar
 2. "It does not seem to occur in this latter sense in the N.T."
 3. "But Fritzsche’s dictum, ad Rom. 2:356, 'Alexandrinis scriptoribus φθάνειν nihil nisi venire, pervenire, pertinere valet,' certainly is not right; for we have it indisputably in the sense of to anticipate, prevent, 1 Thessalonians 4:15."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The living Personal Agent was made use of by the Lord Jesus in every exercise of that power."
 2. "If this expulsion of Satan is, and can be, by no other than the Spirit of God, then is his Destroyer already in the midst of you."
 3. "That kingdom which is destined to supplant his is already rising on its ruins."
@@ -38,4 +38,4 @@ The verse described in these commentaries speaks of a profound and unexpected ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

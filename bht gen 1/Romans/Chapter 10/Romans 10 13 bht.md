@@ -11,7 +11,7 @@ This verse emphasizes the inclusivity of salvation, extending to all who call up
 
 3. "Used here of Christ beyond a doubt, as the next verse shews." - This statement suggests that the use of the name "Lord" in this verse refers to Christ, as confirmed by the subsequent verse, further supporting the understanding of Jesus' divine nature.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Everyone whosoever" - The expression is emphatic, emphasizing that this promise applies to all people, without exception.
 2. "Shall call upon the name of the Lord" - This phrase highlights the action required for salvation, emphasizing the importance of actively seeking and reaching out to the Lord.
 3. "Shall be saved" - This final statement confirms the assurance of salvation for those who call upon the name of the Lord, providing hope and comfort to believers.
@@ -51,4 +51,4 @@ This verse emphasizes the inclusivity of salvation, extending to all who call up
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

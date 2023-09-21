@@ -9,7 +9,7 @@ The Bible verse under consideration speaks to the topic of marriage and the pote
 2. "But if also thou shalt have married, thou didst not sin (viz. when thou marriedst); and if a virgin shall have married, she sinned not."
 3. "Such persons shall have tribulation in the flesh, but I am sparing you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those who marry, he says, shall incur 'trouble in the flesh' (that is, in their outward state, by reason of the present distress), not sin, which is the trouble of the spirit."
 2. "My motive in advising you so is, to 'spare you' such trouble in the flesh."
 3. "I spare you further details of the inconveniences of matrimony, lest even the incontinent may at the peril of lust be deterred from matrimony: thus I have regard for your infirmity."
@@ -54,4 +54,4 @@ The Bible verse under consideration speaks to the topic of marriage and the pote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

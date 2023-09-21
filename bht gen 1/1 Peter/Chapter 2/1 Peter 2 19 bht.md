@@ -9,7 +9,7 @@ In this verse, the Bible speaks of the commendable act of enduring unjust treatm
 2. "The idea that it means 'gratiam divinam concilians,' Wahl, leading on to 'hoc est opus supererogationis,' Lyra, is theologically inadmissible, besides doing violence to the construction."
 3. "on account of consciousness of God...realization in a man’s inner being, of God’s presence and relation to himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A course out of the common, and especially praiseworthy in the eyes of God."
 2. "Conscientious regard to God, more than to men."
 3. "Patiently bear up under...griefs."
@@ -59,4 +59,4 @@ Note: The commentary provides additional explanations and references, but the qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

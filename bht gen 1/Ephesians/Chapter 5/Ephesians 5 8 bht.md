@@ -11,7 +11,7 @@ In this Bible verse, the commentators highlight the transformation that occurs w
 4. "The fruit of the light is in all goodness and righteousness and truth." 
 5. "Proving what is well-pleasing to the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye ought to have no fellowship with sin, which is darkness, for your state as darkness is now PAST."
 2. "Light—not merely 'enlightened'; but light enlightening others."
 3. "Children of light—not merely 'of the light'; just as 'children of disobedience' is used on the opposite side; those whose distinguishing characteristic is light."
@@ -61,4 +61,4 @@ In this Bible verse, the commentators highlight the transformation that occurs w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

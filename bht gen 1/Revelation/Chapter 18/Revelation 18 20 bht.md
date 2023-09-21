@@ -11,7 +11,7 @@ The Bible verse being described is a call for the heavens and the holy ones to r
 
 Note: The commentary is referring to the verse Revelation 18:20.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is more joy in heaven at the harlot's downfall than at that of the two beasts."
 2. "The worldliness of the Church is the most worldly of all worldliness."
 3. "The term 'harlot' describes the false Church's essential character. She retains her human shape as the woman, does not become a beast: she has the form of godliness, but denies its power."
@@ -54,4 +54,4 @@ Note: The commentary is referring to the verse Revelation 18:20.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

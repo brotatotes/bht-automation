@@ -9,7 +9,7 @@ If Christ has not been raised, then our preaching and faith are in vain. The con
 2. "Idle also is our preaching, idle also is your faith."
 3. "Without the copula δέ, the clause is much more forcible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The principal argument of the first preachers in support of Christianity was that God had raised Christ from the dead." 
 
 2. "If this fact were false, the faith built on it must be false too." 
@@ -59,4 +59,4 @@ If Christ has not been raised, then our preaching and faith are in vain. The con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a person who is deeply focused on a divine encounter, disp
 2. "There has been found a difficulty by some in the fact that Cornelius’s works were received as well pleasing to God, before he had justifying faith in Christ."
 3. "His faith was all that he could then attain to, and brought forth its fruits abundantly in his life: one of which fruits, and the best of them, was, the earnest seeking by prayer for a better and more perfect faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What is it, Lord?" - This language reflects the humility and reverence of the speaker, demonstrating a childlike faith.
 2. "Thy prayers and thine alms" - The emphasis on both prayers and acts of charity highlights the importance of both spiritual and practical expressions of faith.
 3. "Are come up for a memorial before God" - This phrase suggests that the prayers and acts of charity are pleasing sacrifices to God, akin to a sweet-smelling aroma.
@@ -61,4 +61,4 @@ In this verse, we see a person who is deeply focused on a divine encounter, disp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

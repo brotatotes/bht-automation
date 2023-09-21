@@ -9,7 +9,7 @@ In a notable act of courage and strategic thinking, the speaker rescues someone 
 2. "This was an attempt to conceal the fault that he had committed, see ch. Acts 22:29."
 3. "For this assertion cannot refer to the second rescue, see next verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "came I with an army" - This phrase emphasizes the power and authority behind the speaker's arrival. It suggests that the speaker is not alone, but has a strong force accompanying them.
 
 2. "with the military" - This alternative translation highlights the organized and disciplined nature of the group that came with the speaker. It implies that they are not just a random gathering, but a well-prepared and strategic force.
@@ -57,4 +57,4 @@ In a notable act of courage and strategic thinking, the speaker rescues someone 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

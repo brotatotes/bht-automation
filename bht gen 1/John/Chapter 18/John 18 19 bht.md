@@ -9,7 +9,7 @@ In this verse, a high priest questions Jesus about his disciples and teachings, 
 2. "His party, or adherents, as the High Priest would understand His disciples to be; how many, and who they were, and with what object gathered together; and what His customary teaching of them had been."
 3. "But He substitutes for them ὁ κόσμος, to which He had spoken plainly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high priest . . . asked Jesus of his disciples, and of his doctrine—probably to entrap Him into some statements which might be used against Him at the trial."
 2. "From our Lord's answer it would seem that 'His disciples' were understood to be some secret party."
 3. "His disciples were not a secret society, but a group of individuals who followed Him and believed in His teachings."
@@ -50,4 +50,4 @@ In this verse, a high priest questions Jesus about his disciples and teachings, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, we see the disciples of John the Baptist sharing the heartbreaking news of his brutal execution with Jesus. The disciples were deeply affected by the loss of their master and sought solace in Jesus. Despite the danger and opposition they faced, they felt compelled to honor John's body by properly burying it. Their actions reflect their loyalty, courage, and commitment to their teacher, even in the face of profound grief and hostility.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How Jesus felt, or what He said, on receiving this intelligence, is not recorded; but He of whom it was said, as He stood by the grave of His friend Lazarus, 'Jesus wept,' was not likely to receive such intelligence without deep emotion."
 2. "And one reason why He might not be unwilling that a small body of John's disciples should cling to him to the last, might be to provide some attached friends who should do for his precious body, on a small scale, what was afterwards to be done for His own."
 3. "Here, for the first time, all the four streams of sacred text run parallel. The occasion and all the circumstances of this grand section are thus brought before us with a vividness quite remarkable."
@@ -42,4 +42,4 @@ In this Bible verse, we see the disciples of John the Baptist sharing the heartb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

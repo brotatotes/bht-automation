@@ -9,7 +9,7 @@ There is a verse in the Bible that describes a man who unjustly takes advantage 
 2. "His act was not an act of justice, but of injustice; his very ἐκδίκησις was ἀδικία, because he did it from self-regard, and not from a sense of duty."
 3. "He, like the steward above, was τῆς ἀδικίας, belonging to, being of, the iniquity which prevails in the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Always" is emphasized, highlighting the continuous nature of the action or attitude being described. This suggests that the behavior or mindset should be maintained consistently, without interruption or wavering.
 2. The word "faint" implies a sense of weariness or discouragement. This reminds us that it is important to persevere and not give up, even when faced with challenges or setbacks.
 3. The phrase "lose heart" further emphasizes the need to remain steadfast and not allow discouragement to weaken our resolve.
@@ -37,4 +37,4 @@ There is a verse in the Bible that describes a man who unjustly takes advantage 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

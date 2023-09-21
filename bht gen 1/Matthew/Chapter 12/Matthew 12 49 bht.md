@@ -4,7 +4,7 @@
 In this passage, Jesus extends his hand towards his disciples, emphasizing the close relationship he shares with them and the importance of their commitment to learning and growth. His gaze encompasses all who sit around him, signifying the inclusiveness of his discipleship beyond his immediate family. Jesus declares that those who follow him are as dear to him as his mother and brethren, highlighting the spiritual bond shared among his followers. This gesture and statement serve to assert the primacy of his Messianic mission and the extent of his spiritual family.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How graphic is this! It is the language evidently of an eye-witness."
 2. "And he stretched forth his hand toward his disciples."
 3. "Behold my mother and my brethren!"
@@ -37,4 +37,4 @@ In this passage, Jesus extends his hand towards his disciples, emphasizing the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

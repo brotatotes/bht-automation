@@ -9,7 +9,7 @@ In this verse, Jesus is acknowledged as both a "Master" and a "Lord". These term
 2. "This usage is consistent with other references in the Bible."
 3. "According to Winer, these titular nominatives serve to designate the function or position of the individuals mentioned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye call me Master and Lord...and ye say well, for so I am." - This quote highlights the authority and divinity of Jesus, as he acknowledges the correctness of being called Master and Lord. 
 
 2. "The conscious dignity with which this claim is made is remarkable." - This quote emphasizes the confidence and self-assuredness with which Jesus asserts his identity as Master and Lord. 
@@ -45,4 +45,4 @@ In this verse, Jesus is acknowledged as both a "Master" and a "Lord". These term
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

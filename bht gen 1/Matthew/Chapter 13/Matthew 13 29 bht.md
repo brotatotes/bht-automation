@@ -11,7 +11,7 @@ In this passage, commentators highlight the difficulty of distinguishing between
 
 3. "Still the construction here would hardly bear its omission." - However, the construction of the sentence would not make sense if ἅμα were omitted, indicating its importance in conveying the intended meaning.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It will be done in due time, but not now, nor is it your business."
 2. "Nothing could more clearly or forcibly teach the difficulty of distinguishing the two classes."
 3. "The high probability that in the attempt to do so these will be confounded."
@@ -37,4 +37,4 @@ In this passage, commentators highlight the difficulty of distinguishing between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

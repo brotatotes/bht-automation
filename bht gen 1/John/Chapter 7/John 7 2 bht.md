@@ -11,7 +11,7 @@ The verse being described is a recounting of the feast of tabernacles, a signifi
 
 3. "During this festival, the Israelites were commanded to dwell in temporary booths or tabernacles, as a reminder of their time in the wilderness and their dependence on God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feast of Tabernacles...celebrated on the fifteenth of the seventh month." 
 
 2. "This festival was a time of great rejoicing and thanksgiving for the harvest and God's provision." 
@@ -58,4 +58,4 @@ The verse being described is a recounting of the feast of tabernacles, a signifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

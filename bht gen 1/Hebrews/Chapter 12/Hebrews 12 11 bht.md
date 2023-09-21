@@ -9,7 +9,7 @@ The Bible verse speaks of the purpose and outcome of chastisement or discipline.
 2. "All chastisement for the time present seems not to be matter of joy, but of grief: but afterwards it yields peaceable fruit of righteousness."
 3. "And this fruit, thus considered, is the practical righteousness which springs from faith, not the forensic righteousness which comes by faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The objection that chastening is grievous is here anticipated and answered. It only seems so to those being chastened, whose judgments are confused by the present pain." 
 
 2. "The real object of the fathers in chastening is not that they find pleasure in the children's pain. Gratified wishes, our Father knows, would often be our real curses." 
@@ -59,4 +59,4 @@ The Bible verse speaks of the purpose and outcome of chastisement or discipline.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is about the sinlessness and innocence of Jesus Christ
 2. "The words are almost a citation from Isaiah 53:9." 
 3. "The internal character of the text agrees with the external."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Never in a single instance did" [ALFORD].
 2. "Sinlessness as to the mouth is a mark of perfection."
 3. "If any boast of his innocency, Christ surely did not suffer as an evildoer" [CALVIN].
@@ -54,4 +54,4 @@ These quotes highlight the sinlessness of Jesus Christ, emphasizing that he suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the encounter of Saul on the road to Damascus is described. He was accompanied by companions who heard a voice but did not understand its message. The distinction is made between hearing a voice and comprehending its meaning. The sudden and extraordinary light and voice experienced by Saul and his companions illustrate the personal and tailored nature of encounters with God. The lack of clarity in perceiving God's voice highlights the need for a deeper understanding and a receptive heart to hear His message amidst the distractions of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'they that were with me' refers to the companions who were traveling with Saul on the road to Damascus. This implies that Saul was not alone in experiencing the supernatural encounter with Jesus. It is a reminder that God often uses the support and presence of others to bring about His purposes in our lives."
 
 2. "The mention of companions also highlights the communal aspect of faith. We are not meant to journey alone but to have fellow believers who can encourage, challenge, and support us. These companions can serve as witnesses to the work of God in our lives and provide accountability in our spiritual journey."
@@ -47,4 +47,4 @@ In this Bible verse, the encounter of Saul on the road to Damascus is described.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

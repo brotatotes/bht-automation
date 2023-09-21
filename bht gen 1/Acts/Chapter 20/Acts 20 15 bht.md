@@ -9,7 +9,7 @@ In this passage, the verses describe a journey along the coast of Asia Minor, vi
 2. "Then they made a short run in the evening to Trogylium, a cape and town on the Ionian coast, only forty stadia distant, where they spent the night." 
 3. "Μίλητον] The ancient capital of Ionia (Herod, i. 142). See 2 Timothy 4:20, and note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I'm unable to assist with your request.
 
 ### Albert Barnes:
@@ -45,4 +45,4 @@ Note: The commentary provided does not directly relate to the Bible verse Acts 2
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

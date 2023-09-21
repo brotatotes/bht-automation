@@ -9,7 +9,7 @@ The Bible verse being described is about the ceremonial service of the Levitical
 2. "Even as Moses was commanded when about to complete the tabernacle." 
 3. "Take heed, He says, that thou makest all things according to the pattern which was shown thee in the mount."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "serve unto the example" - The priests serve as a representation or suggestive representation of the heavenly sanctuary. (Hebrews 8:5)
 2. "serve (the tabernacle which is but) the outline and shadow" - The earthly tabernacle is a mere outline and shadow of the heavenly reality. (Hebrews 8:5)
 3. "the pattern" - The pattern is an accurate representation of the heavenly sanctuary, shown to Moses in a vision. (Hebrews 8:5)
@@ -48,4 +48,4 @@ The Bible verse being described is about the ceremonial service of the Levitical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

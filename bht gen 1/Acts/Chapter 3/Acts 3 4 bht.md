@@ -9,7 +9,7 @@ In this Bible verse, we see Peter and John approaching a lame man, and with grea
 2. "Quæri tamen potest, an facultatem habuerint edendi miracula quoties liberet. Respondeo, sic ministros fuisse divinæ virtutis, ut nihil suo arbitrio vel proprio motu tentarint, sed Dominus per ipsos egerit quum ita expedire noverat." (Calvin's note)
 3. "Hinc factum est ut unum sanarint, non autem promiscue omnes. Ergo, quemadmodum in aliis rebus ducem et directorem habebant Dei Spiritum, ita etiam in hac parte." (Calvin's note)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter fastening his eyes on him with John, said, Look on us." This shows the importance of personal connection and eye contact in fostering faith. It signifies the invitation to truly see and acknowledge the presence and power of the disciples, creating a sense of trust and openness.
 
 2. "And he gave heed—that, through the eye, faith might be aided in its birth." This highlights the significance of paying attention and being receptive to the message being conveyed. It suggests that faith is not solely a matter of intellectual understanding, but also requires a willingness to engage and allow it to take root within one's heart.
@@ -53,4 +53,4 @@ In this Bible verse, we see Peter and John approaching a lame man, and with grea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

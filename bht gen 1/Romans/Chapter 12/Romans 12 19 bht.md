@@ -9,7 +9,7 @@ In this verse, the apostle Paul addresses believers with deep affection, emphasi
 2. "Allow space, i.e. 'interpose delay,' to anger." 
 3. "Make not the wrath your own, but leave it for God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But give room or space for wrath to spend itself."
 2. "The injunction is to leave vengeance to God."
 3. "Wrath here seems to mean, not the offense, which we are tempted to avenge, but the avenging wrath of God."
@@ -55,4 +55,4 @@ These quotes highlight the importance of not seeking personal vengeance and leav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

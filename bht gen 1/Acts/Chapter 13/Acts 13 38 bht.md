@@ -9,7 +9,7 @@ Through this verse, Paul speaks of the justification of sinners, emphasizing the
 2. "He does not unfold here that higher sense of δικαιόω, the accounting righteous, which those who have from God are δίκαιοι ἐκ πίστεως."
 3. "It is the first office of the Spirit by which he spoke, ἐλέγχειν περὶ ἁμαρτίας, before He ἐλέγχει περὶ δικαιοσύνης."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The forgiveness of sins—the first necessity of the sinner, and so the first experienced blessing of the Gospel." 
 2. "The forgiveness of sins is not only a divine act of mercy but also a transformative experience for the sinner." 
 3. "Through the forgiveness of sins, the burden of guilt is lifted, and the sinner is reconciled with God, experiencing a newfound freedom and peace."
@@ -47,4 +47,4 @@ Through this verse, Paul speaks of the justification of sinners, emphasizing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

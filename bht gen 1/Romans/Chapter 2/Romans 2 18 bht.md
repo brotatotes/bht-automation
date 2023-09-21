@@ -9,7 +9,7 @@ The verse being described highlights the value of discernment and knowledge of G
 2. "provest (in the sense of sifting and coming to a conclusion on) things which differ." 
 3. "being (habitually, not in youth only, force of pres.) instructed (not merely catechetically but didactically, in the synagogues, &c.) out of the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "approvest the things that are excellent" - This phrase implies that we should not settle for mediocrity or compromise in our choices. We are encouraged to discern and choose what is truly excellent and worthy of approval.
 
 2. "triest the things that differ" - This suggests that we should carefully examine and evaluate the differences between various options or choices. It emphasizes the importance of discernment and wisdom in making decisions.
@@ -45,4 +45,4 @@ The verse being described highlights the value of discernment and knowledge of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ COMMENTARY_FOLDER = "commentary_output"
 
 STUDYLIGHT_NT_VERSE_PARTITIONED_COMMENTARIES = {
     "Henry Alford" : "https://studylight.org/commentaries/eng/hac.html",
-    "Jamieson Fausset Brown" : "https://studylight.org/commentaries/eng/jfb.html",
+    "Jamieson-Fausset-Brown" : "https://studylight.org/commentaries/eng/jfb.html",
     "Albert Barnes" : "https://studylight.org/commentaries/eng/bnb.html",
     "Marvin Vincent" : "https://studylight.org/commentaries/eng/vnt.html",
     "John Calvin" : "https://studylight.org/commentaries/eng/cal.html",

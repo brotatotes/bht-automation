@@ -4,7 +4,7 @@
 The verse being described in these commentaries depicts a powerful and influential city that holds a spiritual significance beyond its physical presence. This city is identified as Rome, which has exercised its dominion over kings and is associated with the concept of reigning. However, the commentators emphasize that the woman, representing this city, is not limited to Rome alone but symbolizes a broader spiritual power that aligns itself with the world and exerts its influence for evil. This description ties together the themes of authority, control, and spiritual implications associated with the city of Rome in the biblical verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The harlot cannot be a mere city literally, but is called so in a spiritual sense." 
 2. "The beast cannot represent a spiritual power, but a world power." 
 3. "In this verse, the harlot is presented before us ripe for judgment."
@@ -42,4 +42,4 @@ The verse being described in these commentaries depicts a powerful and influenti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

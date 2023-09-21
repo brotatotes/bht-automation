@@ -9,7 +9,7 @@ In this verse, the commentators provide insights into the context and implicatio
 2. "Having now finished his explanation of the prohibition formerly given, and with it the subject of the fornicator among them, he gives, before passing on, a plain command in terms for the excommunication of the offender." 
 3. "And this he does in the very words of Deuteronomy 24:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put away from among yourselves" - This phrase refers to the act of excommunication, a severe form of discipline within the community. It signifies the removal of a wicked person from the fellowship of believers.
 
 2. "That wicked" - The term "wicked" here refers to someone who persistently engages in sinful behavior and refuses to repent. It highlights the seriousness of their actions and the need for their removal from the community.
@@ -67,4 +67,4 @@ In this verse, the commentators provide insights into the context and implicatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

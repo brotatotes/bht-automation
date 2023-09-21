@@ -9,7 +9,7 @@ The verse described is a call for believers to hold fast to their faith without 
 2. "The confession becomes without wavering."
 3. "He is faithful that promised."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hope rests on faith, and at the same time quickens faith, and is the ground of our bold confession." (Hebrews 3:6)
 2. "Hope is similarly connected with purification." (Hebrews 10:22)
 3. "God is faithful to His promises, but man is too often unfaithful to his duties." (Hebrews 6:17; Hebrews 6:18; Hebrews 11:11; Hebrews 12:26; Hebrews 12:28; 1 Corinthians 1:9; 1 Corinthians 10:13; 1 Thessalonians 5:24; 2 Thessalonians 3:3; John 12:26)
@@ -60,4 +60,4 @@ The verse described is a call for believers to hold fast to their faith without 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

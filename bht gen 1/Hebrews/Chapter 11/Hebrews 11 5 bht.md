@@ -1,7 +1,7 @@
 # Hebrews 11:5 Commentary Help Text
 
 ## BHT:
-This description encompasses the biblical verse without explicitly stating it. It draws from Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, and John Wesley. The description provides insight into the extraordinary nature of Enoch's translation, the role of faith and divine favor, the confirmation of his teachings, the power of God's intervention, the pleasing of God through righteousness, and the mysterious disappearance that parallels Elijah. It emphasizes Enoch's close relationship with God and the eternal implications of his translation.
+This description encompasses the biblical verse without explicitly stating it. It draws from Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, and John Wesley. The description provides insight into the extraordinary nature of Enoch's translation, the role of faith and divine favor, the confirmation of his teachings, the power of God's intervention, the pleasing of God through righteousness, and the mysterious disappearance that parallels Elijah. It emphasizes Enoch's close relationship with God and the eternal implications of his translation.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -13,7 +13,7 @@ This description encompasses the biblical verse without explicitly stating it. I
 
 These quotes shed light on the remarkable nature of Enoch's translation and the role of faith and divine favor in this event.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith was the ground of his pleasing God; and his pleasing God was the ground of his translation."
 2. "Implying a sudden removal from mortality without death to immortality: such a CHANGE as shall pass over the living at Christ's coming."
 3. "The Scripture testimony virtually expresses that he pleased God, namely, 'Enoch walked with God.'"
@@ -56,4 +56,4 @@ These quotes shed light on the remarkable nature of Enoch's translation and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

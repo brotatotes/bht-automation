@@ -9,7 +9,7 @@ In this verse, the author responds to those who doubt his authority and legitima
 2. "With 1 Corinthians 9:4 a new course of questions begins, which furnish no ἀπολογία."
 3. "τοῖς ἐμὲ ἀνακρ.: For the dat. see Acts 19:33; 2 Corinthians 12:19: to those, who call me in question: ἐμέ, emphatic, as Chrys. says, of 1 Corinthians 9:2, κἂν βούληταί τις … μαθεῖν ποθεν ὅτι ἀπόστολός εἰμι, ὑμᾶς προβάλλομαι, p. 181."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To them that examine me—that is, who call in question mine apostleship." This quote highlights the fact that the commentary is addressing those who doubt the author's authority as an apostle. 
 
 2. "You are the seal of mine apostleship." This quote suggests that the readers themselves serve as evidence or proof of the author's legitimacy as an apostle. 
@@ -61,4 +61,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

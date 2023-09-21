@@ -9,7 +9,7 @@ In this Bible verse, the author encourages individuals to hold onto their faith 
 2. "Before God, because He is the object of faith."
 3. "It is a blessed thing to have no scruples about things in which we allow ourselves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not mere sincerity, or a private opinion, of which the apostle speaks; it is conviction as to what is the truth and will of God."
 2. "If thou hast formed this conviction in the sight of God, keep thyself in this frame before Him."
 3. "Happy is he that condemneth not himself in that which he alloweth—allows himself to do nothing, about the lawfulness of which he has scruples; does only what he neither knows nor fears to be sinful."
@@ -53,4 +53,4 @@ In this Bible verse, the author encourages individuals to hold onto their faith 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verses being described are a powerful depiction of the unalterable separatio
 2. "The irresistible decree then truly so, but no such on earth by which the Almighty Hand hath separated us and you, in order that, not merely so that, none may pass it."
 3. "This expression precludes all idea that the following verse indicates the beginning of a better mind in the rich man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Independently of this consideration."
 2. "By an irrevocable decree there has been placed a vast impassable abyss between the two states."
 3. "The occupants of each state are eternally separated from one another."
@@ -54,4 +54,4 @@ The verses being described are a powerful depiction of the unalterable separatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

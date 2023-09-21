@@ -11,7 +11,7 @@ Woe unto those who meticulously tithe insignificant things like mint and rue, ye
 
 3. "See note on Matthew 23:23." - This quote directs readers to refer to a specific note in Matthew 23:23, indicating that further explanation or clarification can be found there.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord purposely names the most trifling products of the earth, as examples of what they punctiliously exacted the tenth of." 
 2. "The reference is to Micah 6:6-8, whose third element of all acceptable religion, 'walking humbly with God,' comprehends both 'love' and 'faith.'"
 3. "There is no need for one set of duties to jostle out another but of the greater, our Lord says, 'Ye ought to have done' them; of the lesser, only 'ye ought not to leave them undone.'"
@@ -52,4 +52,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

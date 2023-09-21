@@ -4,7 +4,7 @@
 In this passage, Jesus enters the house of Peter where his mother-in-law is sick with a fever. Jesus shows his compassion by healing her, touching her hand and bringing personal restoration. The immediate response of Peter's mother-in-law after being healed testifies to the transformative power of Jesus, as she promptly begins to serve them. This passage illustrates the importance of hospitality, service, and the spiritual healing that Jesus brings to our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of these four—which is peculiar to Mark—is the first of those traces of Peter's hand in this Gospel, of which we shall find many more."
 2. "The house being his, and the illness and cure so nearly affecting himself, it is interesting to observe this minute specification of the number and names of the witnesses."
 3. "Interesting also as the first occasion on which the sacred triumvirate of Peter and James and John are selected from among the rest, to be a threefold cord of testimony to certain events in their Lord's life."
@@ -44,4 +44,4 @@ In this passage, Jesus enters the house of Peter where his mother-in-law is sick
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

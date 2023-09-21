@@ -9,7 +9,7 @@ This passage describes a group of individuals who, upon hearing about Jesus and 
 2. "But, in matter of fact, such a baptism as this was a baptism into the name of the Father, Son, and Holy Ghost. As Jews, these men were already servants of the living God and by putting on the Son, they received in a new and more gracious sense the Father also."
 3. "Where such manifestations were present, the form of words might be wanting; but with us, who have them not, it is necessary and imperative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they heard this—not the mere words reported in Acts 19:4, but the subject expounded according to the tenor of those words." 
 
 2. "They were baptized—not however by Paul himself (1 Corinthians 1:14)." 
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

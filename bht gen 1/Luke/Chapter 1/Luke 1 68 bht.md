@@ -11,7 +11,7 @@ This verse describes God's active intervention and inspection for the purpose of
 
 3. "contained in the following dative" - The object of God's visitation, "τὸν λαὸν αὐτοῦ," is found in the subsequent dative case.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is not a word in this noble burst of divine song about his own child; like Elisabeth losing sight entirely of self, in the glory of a Greater than both."
 2. "Lord God of Israel—the ancient covenant God of the peculiar people."
 3. "In the Old Testament, God is said to 'visit' chiefly for judgment, in the New Testament for mercy."
@@ -47,4 +47,4 @@ This verse describes God's active intervention and inspection for the purpose of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

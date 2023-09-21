@@ -9,7 +9,7 @@ In this verse, the analogy of a soldier is used to emphasize the commitment and 
 2. "The taking of these precepts according to the letter, to signify that no minister of Christ may have a secular occupation, is quite beside the purpose."
 3. "It is not ministers, but all soldiers of Christ who are spoken of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No one while serving as a soldier." - This verse highlights the importance of focus and dedication in the life of a believer. It suggests that believers should not be entangled or over-engrossed in the affairs of this world, but rather maintain a single-minded devotion to their calling as followers of Christ.
 
 2. "The businesses of life." - This phrase emphasizes that the distractions and responsibilities of everyday life can hinder one's commitment to their spiritual journey. It reminds believers to prioritize their relationship with God above all other pursuits and obligations.
@@ -59,4 +59,4 @@ These quotes collectively emphasize the need for believers to maintain a focused
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

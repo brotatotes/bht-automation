@@ -9,7 +9,7 @@ The verse being described is a call to repentance and conversion, urging individ
 2. "In order that the times of ἀνάψυξις may come. What is ἀνάψ.? Clearly, from the above rendering, some refreshment, future, and which their conversion was to bring about."
 3. "From the presence of God (the Father), who has reserved these καιροί in His own power. When they arrive, it is by His decree, which goes forth from His presence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The times of refreshing" refers to a future period of repose, prosperity, and joy that is promised by the prophets. It is a time of renewal and rejuvenation for the Church and the world.
 2. This period of refreshing is contingent upon the national conversion of Israel, as foretold by the prophets. It is a time when God's chosen people will turn to Him and experience a spiritual revival.
 3. The promise of the times of refreshing gives hope to the Church and the world, assuring them that there is a future beyond their present struggles and hardships. It is a reminder that God is faithful to fulfill His promises and bring about a time of restoration and peace.
@@ -61,4 +61,4 @@ Note: The commentary provided is a direct quote and has not been modified in any
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

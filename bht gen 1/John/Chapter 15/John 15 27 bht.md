@@ -9,7 +9,7 @@ The verse under consideration speaks of a unified witness of the Spirit through 
 2. "This verse alludes to the historical witness which the Holy Ghost in the ministers and eye-witnesses of the word should enable them to give."
 3. "But both the one and the other are given by the self-same SPIRIT; neither of them inconsistent with, or superseding the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye also shall bear witness" - emphasizing the future witness-bearing of the disciples and their present opportunities for acquiring qualifications for that office.
 2. "Their present ample opportunities for acquiring their qualifications" - highlighting the disciples' current experiences and interactions with Jesus as a means of preparing them for their future witness-bearing.
 3. "They had been 'with Him from the beginning'" - underscoring the disciples' unique position of having been with Jesus from the start, further enhancing their credibility as witnesses.
@@ -47,4 +47,4 @@ The verse under consideration speaks of a unified witness of the Spirit through 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

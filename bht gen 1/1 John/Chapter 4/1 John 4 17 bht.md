@@ -4,7 +4,7 @@
 This verse speaks of the fulfillment and perfection of love through our relationship with God. It highlights the confidence and fearlessness we will have when facing judgment, and the assurance of our status as children of God. The presence of genuine love for our brethren serves as evidence of our spiritual rebirth and inheritance in Christ. The verse emphasizes the communion with God that allows our love to be perfected and our fear to be transformed into boldness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love dwelling in us advances to its consummation 'with us' that is, as it is concerned with us."
 2. "Herein is our love perfected, namely, in God dwelling in us, and our dwelling in God, involving as its result 'that we can have confidence (or boldness) in the day of judgment.'"
 3. "The ground of our 'confidence' is, 'because even as He (Christ) is, we also are in this world' (and He will not, in that day, condemn those who are like Himself), that is, we are righteous as He is righteous, especially in respect to that which is the sum of righteousness, love."
@@ -47,4 +47,4 @@ These quotes highlight the purpose of God's love, the confidence we have in His 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

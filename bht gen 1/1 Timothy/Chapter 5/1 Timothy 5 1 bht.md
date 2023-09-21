@@ -4,7 +4,7 @@
 The quoted commentaries shed light on a biblical verse that advises humility and respect when rebuking others, especially those who are older or in positions of authority. The verse emphasizes the importance of approaching correction with kindness and understanding, acknowledging the limitations of our own youth or inexperience. It encourages us to exercise discernment and restraint, avoiding harshness and instead offering rebuke in a gentle and empathetic manner. The commentary highlights the need for humility, empathy, and wisdom in the process of correction and admonishment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrasted with 'the younger men.' As Timothy was admonished so to conduct himself as to give no man reason to despise his youth (1 Timothy 4:12); so here he is told to bear in mind his youth, and to behave with the modesty which becomes a young man in relation to his elders."
 2. "Rebuke not sharply: a different word from 'rebuke' in 1 Timothy 4:12- :."
 3. "As brethren—and therefore equals; not lording it over them (1 Timothy 4:12- :)."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of gentleness and respect in correcting an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

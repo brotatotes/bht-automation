@@ -9,7 +9,7 @@ The verse in question emphasizes the significance of remembering one's heavenly 
 2. "The two imperfects in this sentence present some little difficulty... It would therefore seem that the imperfects are here used not so much in their logical temporal places, as on account of the habitual sense which both members of the sentence are meant to convey."
 3. "If they were, through their lives, mindful &c., they would have through their lives, they would continually be having, opportunities."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham, had he desired to leave his pilgrim life in Canaan, and resume his former fixed habitation in Ur, among the carnal and worldly." 
 
 2. "In his long life ample opportunities to have done so." 
@@ -55,4 +55,4 @@ The verse in question emphasizes the significance of remembering one's heavenly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a reminder of the importance of unity in the body o
 2. "The Majesty of Christ's Person is set against the unworthy insinuation conveyed by 'Is Christ divided,' in 'Surely Paul was not crucified for you?' the meanness of the individual, Paul, is set against the triumph of divine Love implied in 'crucified for you.'"
 3. "By repudiating all possibility of himself being the Head and ἐπώνυμος of their church, he does so à fortiori for Cephas and Apollos: for he founded the Church at Corinth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The unity of His body is not to be cut in pieces, as if all did not belong to Him, the One Head."
 2. "In the former question the majesty of 'CHRIST' implies the impossibility of His being 'divided.'"
 3. "The cross claims us for Christ, as redeemed by Him; baptism, as dedicated to Him."
@@ -48,4 +48,4 @@ The verse being described is a reminder of the importance of unity in the body o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

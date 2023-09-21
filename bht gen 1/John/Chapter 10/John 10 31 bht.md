@@ -9,7 +9,7 @@ In this passage, we see the intense hostility and disbelief of the Jewish leader
 2. "It is more than αἴρειν." 
 3. "Cf. Hom. Od. λ. 594 (λᾶαν βαστάζοντα πελώριον ἀμφοτέρῃσιν), Polyb. 15:26. 3 (βαστάσας τὸ παιδίον)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews' reaction to Jesus' statement reveals their deep-seated disbelief and rejection of His claim to be the eternal God. They were so offended by His words that they picked up stones to stone Him, a punishment reserved for blasphemy." 
 
 2. "This incident highlights the ongoing conflict between Jesus and the religious leaders, who refused to accept His divine authority and sought to silence Him through violence. Their reaction demonstrates their hardened hearts and unwillingness to believe in Him." 
@@ -54,4 +54,4 @@ In this passage, we see the intense hostility and disbelief of the Jewish leader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

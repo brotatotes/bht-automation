@@ -4,7 +4,7 @@
 In this Bible verse, Jesus immediately responds to Peter's cry for help and demonstrates his willingness to rescue those with faith in him. However, Jesus also reproves Peter's doubt, reminding us that even those who have witnessed miracles can struggle with their faith. The question "why didst thou doubt?" challenges Peter and encourages believers to reflect on their doubts, seeking a deeper understanding of their faith. Jesus reaches out his hand and catches Peter, showing his compassion and support for the faithful in times of weakness and fear.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus stretched forth his hand, demonstrating his immediate response to Peter's cry for help. This shows his willingness to rescue and support those who have faith in him." 
 
 2. "The phrase 'O thou of little faith' highlights Jesus' disappointment in Peter's doubt. It serves as a reminder that even those who have witnessed miracles can still struggle with their faith." 
@@ -35,4 +35,4 @@ In this Bible verse, Jesus immediately responds to Peter's cry for help and demo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

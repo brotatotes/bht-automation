@@ -9,7 +9,7 @@ In the opening verse of the Gospel, the author presents the beginning of the goo
 2. "If the genit. after εὐαγγ. is not a person, it is always that of the object, as εὐαγγ. τῆς βασιλείας, τῆς σωτηρίας κ.τ.λ."
 3. "Here it decides for the latter (Mar 1:2-8). Render therefore, the glad tidings concerning Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The abruptness with which he announces his subject, and the energetic brevity with which, passing by all preceding events, he hastens over the ministry of John and records the Baptism and Temptation of Jesus—as if impatient to come to the Public Life of the Lord of glory—have often been noticed as characteristic of this Gospel." 
 
 2. "What strikes every one is, that though the briefest of all the Gospels, this is in some of the principal scenes of our Lord's history the fullest."
@@ -65,4 +65,4 @@ In the opening verse of the Gospel, the author presents the beginning of the goo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

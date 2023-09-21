@@ -9,7 +9,7 @@ The verse being described highlights the significance of the cross of Christ as 
 2. "The dative is normal."
 3. "Not the Israel after the flesh, among whom these teachers wish to enrol you, are blessed: but the ISRAEL OF GOD."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peace—from God" - This quote highlights that the peace mentioned in the verse comes from God, emphasizing its divine origin and significance.
 2. "Mercy—" - This quote suggests that mercy is another attribute that believers can expect to receive from God, further emphasizing His grace and compassion.
 3. "Israel of God—not the Israel after the flesh" - This quote clarifies that the "Israel of God" refers to the spiritual descendants of Abraham through faith, rather than the physical descendants, highlighting the importance of faith in defining one's relationship with God.
@@ -57,4 +57,4 @@ The verse being described highlights the significance of the cross of Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

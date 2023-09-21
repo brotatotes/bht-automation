@@ -9,7 +9,7 @@ The departure of Jesus may seem counterintuitive, but it is actually beneficial 
 2. "Every rendering of this verse ought to keep the distinction between 'go away' and 'depart.' Depart and go would be better: the first expressing merely the leaving them, the second, the going up to the Father."
 3. "The gift of the Spirit at and since the day of Pentecost, was and is something TOTALLY DISTINCT from anything before that time: a new and loftier dispensation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is expedient for you that I go away" - This quote highlights the paradoxical nature of Jesus' departure. While it may seem counterintuitive for Jesus to leave, it is actually beneficial for his disciples. It suggests that the coming of the Comforter, the Holy Spirit, is contingent upon Jesus' departure. 
 
 2. "Can it ever be that I should gain by losing thee?" - This quote expresses the deep emotional struggle of the speaker, questioning how it is possible to benefit from losing Jesus. It captures the tension between the disciples' attachment to Jesus and the greater spiritual blessings that will come through his departure.
@@ -58,4 +58,4 @@ The departure of Jesus may seem counterintuitive, but it is actually beneficial 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

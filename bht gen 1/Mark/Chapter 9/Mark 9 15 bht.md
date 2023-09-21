@@ -9,7 +9,7 @@ In this verse, we witness a profound and unexpected moment as Jesus makes a sudd
 2. "So strong a word as ἐξεθαμβήθησαν would hardly have been used merely of their surprise at His sudden approach."
 3. "That brightness, however, terrified the people: this attracts them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The singularly strong expression of surprise, the sudden arrest of the discussion, and the rush of the multitude towards Him, can be accounted for by nothing less than something amazing in His appearance."
 2. "There can hardly be any doubt that His countenance still retained traces of His transfiguration-glory."
 3. "Our Lord, however, takes no notice of what had attracted them, and probably it gradually faded away as He drew near; but addressing Himself to the scribes, He demands the subject of their discussion, ready to meet them where they had pressed hard upon His half-instructed and as yet timid apostles."
@@ -47,4 +47,4 @@ Note: The provided commentary is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

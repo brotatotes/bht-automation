@@ -9,7 +9,7 @@ In this inspiring Bible verse, the Apostle Paul exemplifies his commitment to se
 2. "Not the result, but the practice on Paul's part." 
 3. "His great aim and end."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I please—I try to please" - This quote highlights the Apostle Paul's desire to please others and serve them selflessly. It reflects his willingness to adapt and accommodate different people's needs and preferences.
 2. "Not seeking mine own" - This quote emphasizes Paul's selflessness and his commitment to prioritizing the needs and interests of others over his own. It speaks to his humility and willingness to put others before himself.
 3. "Many" - This quote draws attention to the Greek phrase "THE many," suggesting that Paul's actions and efforts are directed towards a wide range of people. It implies that his desire to please and serve extends to a large number of individuals, emphasizing the inclusivity and breadth of his ministry.
@@ -48,4 +48,4 @@ In this inspiring Bible verse, the Apostle Paul exemplifies his commitment to se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

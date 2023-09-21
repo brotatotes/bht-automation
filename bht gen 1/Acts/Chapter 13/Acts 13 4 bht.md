@@ -9,7 +9,7 @@ Being guided by the Holy Spirit, the apostles embarked on a purposeful journey t
 2. "A very strong fortified city...supposed impregnable."
 3. "It was called seleucia ad mare, and Pieria, or ἡ ἐν Πιερίᾳ, from Mount Pierius, on which it was built, to distinguish it from other Syrian towns of the same name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Four reasons may have induced them to turn in first to this island: (1) Its nearness to the mainland..."
 2. "It was the native place of Barnabas... family ties had not been without effect on the progress of the Gospel."
 3. "It could not be unnatural to suppose that the truth would be welcomed in Cyprus when brought by Barnabas and his kinsman Mark, to their own connections or friends."
@@ -55,4 +55,4 @@ Being guided by the Holy Spirit, the apostles embarked on a purposeful journey t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

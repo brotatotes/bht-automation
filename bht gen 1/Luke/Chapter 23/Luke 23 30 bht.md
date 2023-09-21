@@ -9,7 +9,7 @@ In this verse, the consequences of turning away from God and the destructive nat
 2. "And the whole warning as every other respecting the destruction of Jerusalem looks through the type to the antitype, the great day of His wrath."
 3. "It is interesting to see how often David, who had passed so long in hiding among the rocks of the wilderness from Saul, calls the Lord his Rock."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "mountains . . . hills, c.— (Hosea 10:8), flying hither and thither as they did in despair for shelter" - This quote highlights the imagery of mountains and hills trembling and seeking shelter during a time of distress, emphasizing the magnitude of the impending calamity.
 
 2. "during the siege a very slight premonition of cries of another and more awful kind" - This quote suggests that the cries and desperation witnessed during a siege are merely a foreshadowing of even more intense and terrifying cries to come in the future.
@@ -49,4 +49,4 @@ In this verse, the consequences of turning away from God and the destructive nat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

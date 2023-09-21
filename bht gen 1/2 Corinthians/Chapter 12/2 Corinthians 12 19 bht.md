@@ -9,7 +9,7 @@ In this passage, the speaker addresses misconceptions and misunderstandings amon
 2. "κατ. θεοῦ is emphatic, and opposed to ὑμῖν." 
 3. "τὰ δὲ πάντα as ‘all our things’, i.e. our words and deeds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is before God that we speak in Christ" - This phrase emphasizes that the speaker's words are not meant to excuse themselves to others, but rather to be accountable before God. It highlights the sincerity and integrity of their message.
 
 2. "This long time ye think that we are excusing ourselves unto you?" - This question challenges the perception of the audience that the speaker is simply making excuses. It suggests that there is a deeper purpose and intention behind their words.
@@ -56,4 +56,4 @@ These quotes highlight the importance of not being overly concerned with one's o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

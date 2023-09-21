@@ -9,7 +9,7 @@ The verse being described is one where a woman, facing a long-term illness, beli
 2. "ἐν ἑαυτῇ may be understood." 
 3. "The imperfect looks very like the minute accuracy of one reporting what had been an habitual saying of the poor woman in her distress."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If I may touch but his clothes, I shall be whole—that is, if I may but come in contact with this glorious Healer at all." 
 2. "Remarkable faith this!" 
 3. "For she said—'within herself'."
@@ -40,4 +40,4 @@ The verse being described is one where a woman, facing a long-term illness, beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

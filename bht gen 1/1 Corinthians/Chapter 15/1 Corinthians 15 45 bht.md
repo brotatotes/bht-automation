@@ -9,7 +9,7 @@ The Bible verse being described is about the contrast between the first Adam and
 2. "The question of when the second Adam became a life-bestowing Spirit is not one to be pressed: in the union of the two natures, the second Adam was constituted a life-bestowing Spirit, and is such now in heaven, yet having the resurrection-body."
 3. "He was a πνεῦμα ζωοποιοῦν, even while in the σῶμα ψυχικόν; and is still such in the σῶμα πνευματικόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Man became (was made to become) a living soul, that is, endowed with an animal soul, the living principle of his body." 
 2. "He is so called in Job 19:25; see on Job 19:25- : (compare Job 19:25- :). In contrast to 'the last,' Paul calls 'man' (Genesis 2:7) 'the FIRST Adam.'"
 3. "As the natural or animal-souled body is the fruit of our union with the first Adam, an animal-souled man, so the spiritual body is the fruit of our union with the second Adam, who is the quickening Spirit."
@@ -55,4 +55,4 @@ The Bible verse being described is about the contrast between the first Adam and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

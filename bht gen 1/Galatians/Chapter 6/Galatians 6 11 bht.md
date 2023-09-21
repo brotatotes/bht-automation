@@ -13,7 +13,7 @@ This letter, with its large letters and unusual length, showcases Paul's persona
 
 These quotes highlight the commentator's interpretation that Paul personally wrote the entire Epistle, possibly due to its unique nature and style.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "See in how large letters I have written." - Paul wrote in large letters due to his weakness of eyes. This was a token to show that he wrote the whole Epistle with his own hand, demonstrating his regard for the Galatians and contrasting with the Judaizing teachers who sought their own ease.
 
 2. "He usually dictated his Epistles to an amanuensis, excepting the concluding salutation, which he wrote himself." - Paul's decision to write this letter with his own hand further emphasizes his personal investment and care for the Galatians.
@@ -65,4 +65,4 @@ These quotes highlight the commentator's interpretation that Paul personally wro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

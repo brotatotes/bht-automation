@@ -10,7 +10,7 @@ The Bible verse being described depicts Pilate's attempt to satisfy the crowd by
 3. "Joh 19:5 is the accurate and graphic delineation of an eye-witness, and intimately connected with the speech of Pilate which follows."
 4. "For the ἰδοὺ ὁ ἄνθ . is to move their contempt and pity; 'See this man who submits to and has suffered these indignities how can He ever stir up the people, or set Himself up for King? Now cease to persecute Him; your malice surely ought to be satisfied.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pilate . . . went forth again, and saith . . . Behold, I bring him forth to you" - This quote highlights Pilate's action of bringing Jesus before the crowd, emphasizing his role as the judge in this situation.
 2. "that ye may know I find no fault in him" - Pilate's declaration of Jesus' innocence is a significant statement that underscores his belief in Jesus' innocence despite the pressure from the crowd.
 3. "by scourging Him and allowing the soldiers to make sport of Him, have gone as far to meet your exasperation as can be expected from a judge" - This quote reveals Pilate's attempt to appease the crowd by subjecting Jesus to punishment, indicating his willingness to compromise his own judgment for political reasons.
@@ -34,4 +34,4 @@ The Bible verse being described depicts Pilate's attempt to satisfy the crowd by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

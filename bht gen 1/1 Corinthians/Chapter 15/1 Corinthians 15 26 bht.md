@@ -9,7 +9,7 @@ This verse describes the sequence of Christ's triumph over his enemies, starting
 2. "Death is personified, as in Revelation 20:14."
 3. "καταργεῖται, pres., either as a prophetic certainty as παραδιδοῖ above, or as an axiomatic truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is to believers especially this applies." 
 2. "Even in the case of unbelievers, death is done away with by the general resurrection."
 3. "Satan brought in sin, and sin brought in death!"
@@ -51,4 +51,4 @@ These quotes highlight the idea that before the final resurrection, various enem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Based on the commentaries provided, it can be inferred that the Bible verse bein
 2. "ἦν does not necessarily imply that the places no longer existed when the Apostle wrote."
 3. "It is more natural to explain the past tense by his regarding Jerusalem and its neighbourhood as laid waste at the time when he published his Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethany was nigh Jerusalem, about fifteen furlongs—rather less than two miles." This geographical detail helps us understand the context of the visits of sympathy mentioned in the following words. It highlights the proximity of Bethany to Jerusalem, making it easier for people to visit and offer their support.
 
 2. "The visits of sympathy noticed in the following words, which the proximity of the two places facilitated." This commentary emphasizes how the closeness of Bethany to Jerusalem made it convenient for people to come and express their sympathy. It suggests that the proximity played a significant role in the events that follow.
@@ -52,4 +52,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

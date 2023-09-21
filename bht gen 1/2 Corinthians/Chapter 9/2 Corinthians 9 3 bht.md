@@ -9,7 +9,7 @@ The passages from Paul's letter to the Corinthians reveal his purpose in sending
 2. "That our boast of you, so ample and various, may not break down in this one department." 
 3. "Ye may be prepared."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A tacit compliment, softening the sharp monition."
 2. "Should be proved futile in this particular, however true in general."
 3. "As I was saying."
@@ -60,4 +60,4 @@ The passages from Paul's letter to the Corinthians reveal his purpose in sending
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

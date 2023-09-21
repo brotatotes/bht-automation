@@ -9,7 +9,7 @@ In this beautiful verse, commentators describe the deep joy and exultation that 
 2. "I prefer the former interpretation, and the quasi-future sense of ἀγαλλιᾶσθε in both places."
 3. "Looking back from the time of which exultation, the grief is regarded as passed away and gone."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salvation is realized by faith as a thing so actually present as to cause exulting joy in spite of existing afflictions."
 2. "The realized joy of the coming salvation makes the present grief seem as a thing of the past."
 3. "The temptations or trials that believers face are meant to test their faith."
@@ -55,4 +55,4 @@ In this beautiful verse, commentators describe the deep joy and exultation that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

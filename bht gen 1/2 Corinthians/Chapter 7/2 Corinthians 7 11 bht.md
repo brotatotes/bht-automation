@@ -9,7 +9,7 @@ This verse describes the transformative power of repentance. The believers displ
 2. "Fear of Paul: not here of God. The context is brought out well by Chrys. and Theophyl. The latter says, on 'ἐπιπόθησιν,' πρὸς ἐμέ. εἰπὼν δὲ φόβον, ἵνα μὴ δόξῃ αὐθεντεῖν, συντόμως διωρθώσατο, ἐπιπόθησιν εἰπών · ὅπερ ἐνδεικτικὸν ἀγάπης, οὐκ ἐξουσίας."
 3. "The six accusatives preceded by ἀλλά fall into three pairs: ἀπολογίαν and ἀγανάκτησιν, relating to their own feelings of shame, φόβον and ἐπιπόθησιν to Paul, ζῆλον and ἐκδίκησιν to the offender."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear is in spite of one's self. 'Longing desire' is spontaneous, and implies strong love and an aspiration for correction."
 2. "Their 'carefulness' was exhibited in the six points just specified: 'clearing of themselves,' and 'indignation' in relation to themselves; 'fear' and 'vehement desire' in respect to the apostle; 'zeal' and 'revenge' in respect to the offender."
 3. "Whatever suspicion of complicity rested on you through your former remissness, you have cleared off by your present strenuousness in reprobating the deed."
@@ -55,4 +55,4 @@ This verse describes the transformative power of repentance. The believers displ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse calls for active listening and understanding, emphasizing the importa
 
 3. "The invitation to overcome and receive this promise is a call to persevere in faith and remain faithful to Christ, even in the face of persecution and trials."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see or access any external content. Please provide the commentary directly in your response.
 
 ### Philip Schaff:
@@ -30,4 +30,4 @@ I'm sorry, but I cannot see or access any external content. Please provide the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

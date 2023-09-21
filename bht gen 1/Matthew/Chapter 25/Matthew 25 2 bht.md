@@ -4,7 +4,7 @@
 This verse contrasts the wise and foolish, without distinguishing between good and bad. It warns against those who resemble believers but will be disowned by Jesus. God requires wisdom from all His children, especially stewards, to avoid being prey to Satan. The wise virgins, representing the prepared and faithful, trust in Jesus for salvation, while the foolish rely on temporary and unreliable foundations. This equal division carries significance, as it emphasizes the need for wisdom and steadfast faith in Christ for eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are not distinguished into good and bad, but into 'wise' and 'foolish'." 
 2. "To make anything of the equal number of both classes would, we think, be precarious." 
 3. "Save to warn us how large a portion of those who, up to the last, so nearly resemble those that love Christ's appearing will be disowned by Him when He comes."
@@ -28,4 +28,4 @@ This verse contrasts the wise and foolish, without distinguishing between good a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

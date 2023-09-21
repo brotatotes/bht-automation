@@ -9,7 +9,7 @@ The prodigal son makes a heartfelt confession to his father, expressing his deep
 2. "His filial confidence is sufficiently awakened to prevent the request."
 3. "His Father’s touching and reassuring kindness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Father, I have sinned" - This confession acknowledges the wrongdoing and humbly seeks forgiveness from the Father.
 2. "This confession is uttered after the kiss of reconciliation" - The act of reconciliation is symbolized by a kiss, signifying the restoration of the relationship between the Father and the repentant sinner.
 3. "The kiss of reconciliation" - This gesture represents the Father's acceptance and forgiveness, demonstrating His love and mercy towards the repentant sinner.
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

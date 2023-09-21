@@ -9,7 +9,7 @@ This verse emphasizes the absolute identity between the Son of God and eternal l
 2. "The having the Son is the possession of Christ by faith testified by the Spirit, the water, and the blood: and the having the life is the actually possessing it, not indeed in its most glorious development, but in all its reality and vitality." - This quote explains that having the Son is not just a theoretical belief, but a personal possession of Christ through faith, resulting in the actual possession of eternal life.
 3. "The Apostle is contemplating, at all events primarily, rather a possible contingency than an actual fact: and thus is, primarily again, confining his saying to those to whom the divine testimony has come." - This statement clarifies that the Apostle is primarily addressing those who have received the divine testimony, highlighting the importance of responding to that testimony in order to experience the fullness of life or face the consequences of rejecting it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To have the Son is to be able to say as the bride, 'I am my Beloved's, and my Beloved is mine'." 
 2. "Faith is the mean whereby the regenerate HAVE Christ as a present possession, and in having Him have life in its germ and reality now."
 3. "Eternal life here is: (1) initial, and is an earnest of that which is to follow; in the intermediate state (2) partial, belonging but to a part of a man, though that is his nobler part, the soul separated from the body; at and after the resurrection (3) perfectional."
@@ -52,4 +52,4 @@ This verse emphasizes the absolute identity between the Son of God and eternal l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

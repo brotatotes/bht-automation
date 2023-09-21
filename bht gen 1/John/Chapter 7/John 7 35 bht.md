@@ -4,7 +4,7 @@
 In this verse, commentators highlight the anticipation and speculation surrounding the Messiah's mission. There is a sense of awe and contempt from both Jewish leaders and the Gentiles regarding Jesus' teachings and movements. The dispersion of Jews among the Gentiles, particularly in Greece, is emphasized, underscoring the Messiah's mission to reach out to the marginalized Jewish communities living among the Gentiles. Additionally, there is a suggestion of the Messiah's universal message, extending to both Jews and Gentiles, demonstrating the inclusive nature of God's redemptive plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They cannot comprehend Him, but seem awed by the solemn grandeur of His warning."
 2. "He takes no notice, however, of their questions."
 3. "Whither will he go, &c."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the anticipation and speculation surroundi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

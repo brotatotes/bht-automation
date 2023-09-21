@@ -4,7 +4,7 @@
 In this Bible verse, the commentators emphasize the concept of a unified family under God's fatherhood. God, as the great prototype of the paternal relation, is the original source of this familial bond. This family extends beyond earthly boundaries and includes angels, saints, and believers, forming one holy community. Whether on earth or in heaven, all members of this family bear the same name derived from the redeeming work of Christ. They are united under one head and share a relationship grounded in reconciliation and adoption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, in His relation of Father to us His adopted children, is the great prototype of the paternal relation wherever found."
 2. "Angels and men, the saints militant and those with God, are one holy family joined under the one Father in Christ."
 3. "The Church is part of the grand family, or kingdom, which comprehends, besides men, the higher spiritual world, where the archetype, to the realization of which redeemed man is now tending, is already realized."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize the concept of a unified family 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

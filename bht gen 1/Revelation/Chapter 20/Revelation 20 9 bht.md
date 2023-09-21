@@ -4,7 +4,7 @@
 The verse describes a scene of immense struggle and conflict. It depicts a powerful and vast invading force spreading across the land, encircling the beloved city of Jerusalem and surrounding the camp of the saints, possibly referring to the early Christian community. The destruction brought upon these adversaries is swift and complete, as fire descends from heaven, devouring them. The imagery used evokes a sense of the extermination of the enemies of God and the protection of the faithful.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The camp of the saints encircling the beloved city, Jerusalem."
 2. "Gog and Magog are mystical names representing the final adversaries led by Satan in person."
 3. "Even during the millennium there is a separation between heaven and earth, transfigured humanity and humanity in the flesh."
@@ -49,4 +49,4 @@ The verse describes a scene of immense struggle and conflict. It depicts a power
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

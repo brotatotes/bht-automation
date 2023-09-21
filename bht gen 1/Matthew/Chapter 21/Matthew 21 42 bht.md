@@ -9,7 +9,7 @@ The verse being described speaks of a rejected stone that becomes the cornerston
 2. "The addition is made in this changed similitude to show them that though they might reject and kill the Son, yet He will be victorious in the end."
 3. "The corner-stone binds together both walls of the building; so Christ unites Jews and Gentiles in Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did ye never read in the scriptures" - This quote emphasizes the importance of studying and knowing the scriptures, suggesting that the answer to their question can be found within the written word.
 
 2. "The stone which the builders rejected" - This quote refers to the rejection of Jesus by the religious leaders, highlighting the irony that the very stone they rejected would become the cornerstone of God's kingdom.
@@ -49,4 +49,4 @@ The verse being described speaks of a rejected stone that becomes the cornerston
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

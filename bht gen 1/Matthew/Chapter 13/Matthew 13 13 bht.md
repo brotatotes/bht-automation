@@ -9,7 +9,7 @@ In this particular Bible verse, the commentators shed light on the reason why Je
 2. "Taking the saying of Mat 13:12 for our guide we have ὅστις οὐκ ἔχει = ὅτι βλέπ . οὐ βλέπουσιν."
 3. "The difficulties raised on these variations, and on the prophecy quoted in Matthew 13:14-15, have arisen entirely from not keeping this in view."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They 'saw,' for the light shone on them as never light shone before; but they 'saw not,' for they closed their eyes."
 2. "They 'heard,' for He taught them who 'spake as never man spake'; but they 'heard not,' for they took nothing in, apprehending not the soul-penetrating, life-giving words addressed to them."
 3. "The duty men voluntarily refuse to do, and in point of fact do not do, they at length become morally incapable of doing."
@@ -45,4 +45,4 @@ In this particular Bible verse, the commentators shed light on the reason why Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

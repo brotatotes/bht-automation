@@ -9,7 +9,7 @@ In this verse, the Lord Jesus is revealed with the full attributes of Deity, emp
 2. "Our beloved brother Paul...wrote to you."
 3. "Our Epistle belongs to a date when the Pauline Epistles were no longer the property only of the churches to which they were written, but were dispersed through, and considered to belong to, the whole Christian Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The long-suffering is salvation—is designed for the salvation of those yet to be gathered into the Church."
 2. "Peter praises the very Epistles which contain his condemnation."
 3. "Supernatural and inspired wisdom 'GIVEN' him, not acquired in human schools of learning."
@@ -48,4 +48,4 @@ In this verse, the Lord Jesus is revealed with the full attributes of Deity, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

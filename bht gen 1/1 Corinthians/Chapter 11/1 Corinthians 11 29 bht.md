@@ -11,7 +11,7 @@ The Bible verse being described speaks of the consequences of partaking in the L
 
 (Note: The commentary is discussing the consequences of partaking in the bread and cup of the Lord's Supper without proper understanding and reverence for the significance of the Body and Blood of Christ.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The right translation is 'judgment.' The judgment is described as temporal."
 2. "Not distinguishing in judgment from common food, the sacramental pledges of the Lord's body."
 3. "The Lord's body is His literal body appreciated and discerned by the soul in the faithful receiving, and not present in the elements themselves."
@@ -63,4 +63,4 @@ The Bible verse being described speaks of the consequences of partaking in the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

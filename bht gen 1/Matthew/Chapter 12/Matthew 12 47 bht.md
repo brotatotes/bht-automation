@@ -4,7 +4,7 @@
 In the midst of His powerful teachings, Jesus faces an interruption from his family. The commentators suggest that this interruption may have been an attempt to distract Jesus or test his loyalty to his mission. However, Jesus seizes this opportunity to convey a profound lesson, demonstrating his unwavering commitment and spiritual purpose. The verse, though debated in terms of its authenticity, can also be found in other Gospels, further augmenting our understanding of the incident. It serves as a reminder that even those closest to Jesus may not fully comprehend his divine mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Absorbed in the awful warnings He was pouring forth, He felt this to be an unseasonable interruption, fitted to dissipate the impression made upon the large audience." 
 2. "Such an interruption as duty to the nearest relatives did not require Him to give way to." 
 3. "But instead of a direct rebuke, He seizes on the incident to convey a sublime lesson, expressed in a style of inimitable condescension."
@@ -30,4 +30,4 @@ In the midst of His powerful teachings, Jesus faces an interruption from his fam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

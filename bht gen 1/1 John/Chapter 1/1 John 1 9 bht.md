@@ -4,7 +4,7 @@
 In this Bible verse, we are reminded of the importance of confessing our sins to both God and others, as it is through confession that we open ourselves up to receive forgiveness. The verse emphasizes that when we confess our sins, we are acknowledging our offenses and seeking reconciliation with God. We are assured that God is faithful and just, ready to forgive us and cleanse us from all unrighteousness. It is through God's righteous and merciful nature that we find redemption and the assurance that our sins will be pardoned.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confess with the lips, speaking from a contrite heart; involving also confession to our fellow men of offenses committed against them."
 2. "Not merely the mercy, but the justice or righteousness of God is set forth in the redemption of the penitent believer in Christ."
 3. "His forgiving us our sins and cleansing us, is in furtherance of the ends of His eternal faithfulness and justice."
@@ -38,4 +38,4 @@ In this Bible verse, we are reminded of the importance of confessing our sins to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

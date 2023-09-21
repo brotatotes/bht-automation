@@ -11,7 +11,7 @@ In a remarkable account, a multitude of people, including sailors, soldiers, and
 
 3. "Their unity and devotion to the teachings of Christ were evident in their actions." - The commentary implies that the actions of the believers reflected their strong commitment to following the teachings of Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul—now looked up to by all the passengers as the man to direct them."
 2. "besought them all to take meat—'partake of a meal.'"
 3. "saying, This is the fourteenth day ye have tarried—'waited for a breathing time.'"
@@ -40,4 +40,4 @@ In a remarkable account, a multitude of people, including sailors, soldiers, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

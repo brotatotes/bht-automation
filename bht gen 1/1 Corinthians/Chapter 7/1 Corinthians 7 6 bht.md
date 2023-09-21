@@ -9,7 +9,7 @@ The commentator's quotes shed light on a verse that discusses the topic of separ
 2. "The meaning 'by permission,' E. V., is ambiguous, appearing as if it meant by permission of the Lord (to say it)."
 3. "That given by Hammond, al., κατὰ τὴν ἐμὴν γνώμην, is philologically inadmissible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "by permission . . . not of commandment" - This phrase suggests that the author is not speaking on behalf of God, but rather giving advice or guidance based on their own understanding.
 2. "by way of permission to you, not as a commandment" - The author clarifies that their words should not be taken as a commandment from God, but rather as a suggestion or recommendation.
 3. "This" refers to the directions - The word "this" refers to the specific directions or instructions being discussed, indicating that the author is about to provide further guidance on a particular topic.
@@ -52,4 +52,4 @@ These quotes highlight the commentator's interpretation of Paul's words in 1 Cor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

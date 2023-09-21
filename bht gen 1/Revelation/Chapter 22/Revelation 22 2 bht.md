@@ -4,7 +4,7 @@
 In the heavenly city, there is a tree of life that holds significant importance, symbolizing the presence of Christ, the author of life. It is situated between the streets where the saints commune and the river of God's everlasting love, representing the delightful and comfortable manner in which Christ is seen and enjoyed by all. The leaves of this tree are for the preservation and constant health of the people of God, depicting the abundant and diverse fruits of the Spirit. In this realm, there is no need for restoration as there is no sickness or sorrow.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How striking it is that, as in the beginning we found Adam and Eve, his bride, in innocence in Paradise, then tempted by the serpent, and driven from the tree of life, and from the pleasant waters of Eden, yet not without a promise of a Redeemer who should crush the serpent; so at the close, the old serpent cast out forever by the second Adam, the Lord from heaven, who appears with His Bride, the Church, in a better Paradise, and amidst better waters."
 2. "The antitype exceeds the type: in the first Paradise was only one tree of life; now there are 'very many trees at the bank of the river, on the one side and on the other.'"
 3. "The leaves shall be the health-giving preventive securing the redeemed against, not healing them of, sicknesses, while 'the fruit shall be for meat.'"
@@ -43,4 +43,4 @@ In the heavenly city, there is a tree of life that holds significant importance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

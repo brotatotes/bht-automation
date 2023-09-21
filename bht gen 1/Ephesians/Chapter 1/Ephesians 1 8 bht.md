@@ -9,7 +9,7 @@ The Bible verse describes the wisdom and prudence that God abundantly bestows up
 2. "The giving forth of the Gospel under God’s providential arrangements." 
 3. "All creation is summed up in Christ: it was all the result of the Love of the Father for the Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul attributes to the Gospel of God's grace 'all' possible 'wisdom and prudence,' in opposition to the boasts of wisdom and prudence which the unbelieving Jews and heathen philosophers and false apostles arrogated for their teachings."
 2. "Christ crucified, though esteemed 'foolishness' by the world, is 'the wisdom of God.'"
 3. "The Gospel of God's grace encompasses the 'manifold wisdom of God.'"
@@ -55,4 +55,4 @@ The Bible verse describes the wisdom and prudence that God abundantly bestows up
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

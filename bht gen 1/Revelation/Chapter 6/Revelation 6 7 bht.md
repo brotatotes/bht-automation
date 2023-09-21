@@ -4,7 +4,7 @@
 This verse describes the opening of a seal, symbolizing divine judgment swiftly descending on the ungodly from a high-soaring eagle, representing God's wisdom and perspective. The proclamation from the fourth living creature signifies the power and authority of God, reminding us of His omnipresence and sovereignty. The verse also highlights the unity and harmony among the heavenly beings, emphasizing the greatness of God's justice, which is righteous, swift, and leaves no room for escape. It reminds us that God's voice transcends human understanding and expectations, speaking to us in unexpected ways.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fourth living creature, who was 'like a flying eagle,' introduces this seal; implying high-soaring intelligence, and judgment descending from on high fatally on the ungodly, as the king of birds on his prey." 
 
 2. "The image of a flying eagle symbolizes divine judgment, suggesting that God's judgment will come swiftly and decisively upon the ungodly."
@@ -36,4 +36,4 @@ This verse describes the opening of a seal, symbolizing divine judgment swiftly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

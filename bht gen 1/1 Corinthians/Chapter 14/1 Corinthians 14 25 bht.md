@@ -10,7 +10,7 @@ The revealing nature of His word exposes the hidden depths of their hearts, prom
 In this way, the verse demonstrates the impact of God's truth, bringing about true character revelation and a deep sense of God's indwelling presence among His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No argument is stronger for the truth of religion than its manifestation of men to themselves in their true character."
 2. "Hence hearers even now often think the preacher must have aimed his sermon particularly at them."
 3. "He will worship God, announcing...that God is in you of a truth."
@@ -53,4 +53,4 @@ In this way, the verse demonstrates the impact of God's truth, bringing about tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

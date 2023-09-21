@@ -4,7 +4,7 @@
 In the days of the seventh angel, the long-awaited fulfillment of God's redemption plan will be accomplished. This mystery, once hidden but now being revealed, refers to His scheme of redemption and the establishment of the kingdom of the Messiah and the saints on earth. Prophets play a crucial role in proclaiming this good news, and the timing of its fulfillment is associated with the sounding of the seventh trumpet. The ultimate purpose of God in human history will be declared, and His plan will be manifested, bringing an end to darkness and ushering in everlasting light.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There shall be no longer time (that is, delay), but in the days of the voice of the seventh angel, when he is about to sound his trumpet, then the mystery of God is finished." (Revelation 10:7) - The seventh trumpet shall be sounded without further delay, bringing sweet consolation to the waiting saints.
 
 2. "The mystery of God—the theme of the 'little book,' and so of the remainder of the Apocalypse. What a grand contrast to the 'mystery of iniquity Babylon!' The mystery of God's scheme of redemption, once hidden in God's secret counsel and dimly shadowed forth in types and prophecies, but now more and more clearly revealed." - The mystery of God refers to His scheme of redemption, which was hidden but is now being revealed more and more clearly.
@@ -40,4 +40,4 @@ In the days of the seventh angel, the long-awaited fulfillment of God's redempti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

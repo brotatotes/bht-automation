@@ -4,7 +4,7 @@
 In this passage, we learn that nothing can remain concealed forever, as all hidden things will eventually be brought to light. Through the Gospel, the truth of God's Word, which may seem hidden to some, is revealed by the work of the Holy Spirit. This Gospel cannot be understood by human wisdom alone, but requires the divine revelation of the Holy Spirit. These truths were spoken by Jesus on multiple occasions, emphasizing the importance and inevitability of all secrets being made known.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tis no use concealing anything, for all will one day come out."
 2. "Give free and fearless utterance then to all the truth."
 3. "Compare 1 Corinthians 4:3; 1 Corinthians 4:5."
@@ -32,4 +32,4 @@ In this passage, we learn that nothing can remain concealed forever, as all hidd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

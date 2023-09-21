@@ -9,7 +9,7 @@ In this Bible verse, the writer refers to a significant period of time, stressin
 2. "The ways of speaking, in ch. Galatians 1:18, and here, are very similar."
 3. "It was the object of the Apostle to specify, not all his visits to Jerusalem, but all his occasions of intercourse with the other Apostles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His omitting allusion to that decree is... because he argues the point upon principle, not authoritative decisions."
 2. "The decree did not go the length of the position maintained here: the council did not impose Mosaic ordinances; the apostle maintains that the Mosaic institution itself is at an end."
 3. "The Galatians were Judaizing, not because the Jewish law was imposed by authority of the Church as necessary to Christianity, but because they thought it necessary to be observed by those who aspired to higher perfection."
@@ -57,4 +57,4 @@ These quotes from the commentary provide insights into the temporal significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

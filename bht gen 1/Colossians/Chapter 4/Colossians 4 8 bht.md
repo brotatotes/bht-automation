@@ -4,7 +4,7 @@
 In this verse, the apostle Paul sends a messenger to the Colossian recipients to inquire about their condition and well-being. The purpose of this visit is not only for the messenger to gain knowledge about the recipients but also for the recipients to understand the apostle's circumstances. It highlights the importance of sharing both worldly and spiritual matters, emphasizing the need for communication, mutual understanding, and support between the apostle and the recipients.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That he may know your state": This phrase emphasizes the importance of Paul wanting to understand the condition and well-being of the Colossians, particularly in light of the challenges they faced from false teachers.
 2. "Paul was the more anxious to know the state of the Colossians": This highlights Paul's deep concern for the spiritual welfare of the Colossians, as he faced great conflict on their behalf and desired to offer them comfort and support.
 3. "Comfort your hearts": This phrase speaks to the emotional distress experienced by the Colossians due to Paul's imprisonment and their own trials, underscoring the need for encouragement and solace.
@@ -39,4 +39,4 @@ These quotes collectively emphasize the importance of communication, mutual unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

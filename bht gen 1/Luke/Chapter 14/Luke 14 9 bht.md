@@ -11,7 +11,7 @@ In this particular verse, we see a powerful message about humility and how our a
 
 3. "σὲ καὶ αὐτόν, not 'thyself also,' but thee and him." This quote clarifies the meaning of the phrase "σὲ καὶ αὐτόν," emphasizing that it refers to both "thee and him" rather than just "thyself also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The lowest - not a lower merely." This quote highlights the idea that being the lowest is not just about being lower than others, but it carries a deeper significance. It suggests that there is a distinction between simply being low and embracing a humble position willingly.
 
 2. "To be lowest is only ignominious to him who affects the highest." This quote emphasizes that feeling shame in being the lowest is only a burden for those who strive to be the highest. It implies that true humility comes from letting go of the desire for superiority and embracing a position of lowliness.
@@ -42,4 +42,4 @@ In this particular verse, we see a powerful message about humility and how our a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

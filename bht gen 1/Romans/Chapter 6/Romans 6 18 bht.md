@@ -9,7 +9,7 @@ Being set free from the bondage of sin through faith in Christ, the believer und
 2. "This verse is closely united with the foregoing."
 3. "It might be stated as a syllogistic conclusion, of which the dilemma is the major, and the fact of Rom 6:17 the minor."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being then...made free from Sin, ye became the servants of Righteousness" - The commentary highlights the transition from being slaves to sin to becoming servants of righteousness, emphasizing the change in allegiance and the freedom found in serving righteousness.
 
 2. "There is no middle state of personal independence; for which we were never made, and to which we have no claim." - The commentary emphasizes that humans were not created for personal independence but rather for a relationship of servitude, either to sin or to righteousness. This challenges the notion of self-sufficiency and underscores the need for a higher authority.
@@ -56,4 +56,4 @@ Being set free from the bondage of sin through faith in Christ, the believer und
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

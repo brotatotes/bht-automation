@@ -9,7 +9,7 @@ At an accepted time, God listened and helped in the day of salvation, and now is
 2. "NOW is the day of salvation." 
 3. "The prophecy is one directly of the Lord Jesus, as the restorer and gatherer of his people; and the time of acceptance is the interval of the offer of the covenant to men, conceded to Him by the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's own promise is the ground of our exhortation."
 2. "In the eternal purposes of my love I have hearkened to thy prayer for the salvation of thy people."
 3. "As it is God's time of receiving sinners, receive ye His grace: accept the word of reconciliation in His accepted time."
@@ -57,4 +57,4 @@ At an accepted time, God listened and helped in the day of salvation, and now is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

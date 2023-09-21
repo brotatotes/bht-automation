@@ -11,7 +11,7 @@ The purpose of this verse is to assure believers of their possession of eternal 
 
 3. "The two readings come, in the sense, to much the same" - This statement acknowledges that the different readings of the verse convey a similar meaning, providing flexibility in interpretation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things have I written unto you...that ye may know that ye have eternal life." 
 2. "To 'know that we have eternal life' is the sure way to 'joy in God.'"
 3. "He, towards the close of his Gospel, wrote similarly, stating his purpose in having written."
@@ -57,4 +57,4 @@ The purpose of this verse is to assure believers of their possession of eternal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the described passage, a figure is confronted and accused of a controversial act of associating with those considered unclean and breaking cultural and religious traditions. The commentators emphasize the significance of the act, acknowledging the lack of respect for authority and the defiance of established norms. The actions include not only eating with the uncircumcised but also potentially preaching to and baptizing them, highlighting the complexity of the situation and the potential clash between personal beliefs and religious duty. The confrontation sheds light on the transformative power of the gospel, challenging divisions and promoting unity among believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These objectors scruple not to demand from Peter, though the first among the apostles, an explanation of his conduct." 
 
 2. "Nor is there any insinuation on Peter's part of disrespect towards his authority in that demand." 
@@ -46,4 +46,4 @@ In the described passage, a figure is confronted and accused of a controversial 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

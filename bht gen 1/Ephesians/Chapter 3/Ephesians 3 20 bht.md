@@ -9,7 +9,7 @@ This verse describes the incomprehensible power of God, who is capable of doing 
 2. "It is noticeable that ὑπέρ occurs nearly thrice as many times in St. Paul’s Epistles and the Epistle to the Hebrews as in the rest of the N. T., and that, with a few exceptions, the compounds of ὑπέρ are all found in St. Paul’s Epistles."
 3. "The power is the might of the indwelling Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That is able above all things to do exceeding abundantly above what we ask or (even) think": thought takes a wider range than prayers.
 2. "The word, above, occurs thrice as often in Paul's writings, as in all the rest of the New Testament, showing the warm exuberance of Paul's spirit."
 3. "According to the power—the indwelling Spirit (Romans 8:26). He appeals to their and his experience."
@@ -55,4 +55,4 @@ These quotes highlight the all-encompassing power of God, his ability to exceed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

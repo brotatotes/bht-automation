@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the diverse roles and functions with
 2. "The Christian community is like a body with many members having various duties."
 3. "See the same idea further worked out, 1 Corinthians 12:12 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same diversity and yet unity obtains in the body of Christ, whereof all believers are the several members, as in the natural body."
 2. "The body of Christ is made up of many members, each with its own unique function and purpose."
 3. "Just as the various parts of the body work together harmoniously for the overall well-being of the individual, so too should believers in Christ work together for the advancement of the Kingdom of God."
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the diverse roles and functions with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

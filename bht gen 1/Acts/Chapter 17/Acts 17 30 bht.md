@@ -9,7 +9,7 @@ In this verse, we are reminded of the times when people were ignorant of the tru
 2. "God overlooked them, i.e. corrected not this ignorance itself as a sin, but the abuses even of this, by which the heathen sunk into deeper degradation."
 3. "The genuine reading gives the emphatic πάντας πανταχοῦ, following on the foregoing assertion of Acts 17:25-26, its proper place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The times of this ignorance God winked at—literally (and far better), 'overlooked,' that is, bore with, without interposing to punish it, otherwise than suffering the debasing tendency of such worship to develop itself."
 2. "But now—that a new light was risen upon the world."
 3. "Commandeth—'That duty—all along lying upon man estranged from his Creator, but hitherto only silently recommending itself and little felt—is now peremptory.'"
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

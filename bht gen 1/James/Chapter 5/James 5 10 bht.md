@@ -4,7 +4,7 @@
 The verse described in these commentaries speaks of the importance of patience and endurance in the face of affliction. The commentators emphasize the significance of looking to the prophets as examples of suffering and patience. Despite being persecuted and enduring various hardships, the prophets remained faithful to their calling. Their afflictions serve as a model for all who face trials, reminding them that they are not alone in their struggles. The verse encourages believers to find solace in the knowledge that even the prophets, who were blessed and highly favored by God, also experienced suffering and adversity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prophets—who were especially persecuted, and therefore were especially 'blessed.'" 
 2. "Example of suffering." 
 3. "Affliction—rather, simply, 'of affliction,' literally, 'evil treatment.'"
@@ -48,4 +48,4 @@ The verse described in these commentaries speaks of the importance of patience a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

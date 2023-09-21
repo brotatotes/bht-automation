@@ -9,7 +9,7 @@ In this parable, individuals are entrusted with different capacities and abiliti
 2. "They did each receive the same, for they received according to their ability, their character and powers."
 3. "There is no Pelagianism in this, for each man’s powers are themselves the gift of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While the proportion of gifts is different in each, the same fidelity is required of all, and equally rewarded. And thus there is perfect equity."
 2. "His natural capacity as enlisted in Christ's service, and his opportunities in providence for employing the gifts bestowed on him."
 3. "In both cases, it denotes the leaving of men to the action of all those spiritual laws and influences of Heaven under which they have been graciously placed for their own salvation and the advancement of their Lord's kingdom."
@@ -55,4 +55,4 @@ In this parable, individuals are entrusted with different capacities and abiliti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

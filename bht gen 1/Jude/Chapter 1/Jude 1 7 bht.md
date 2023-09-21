@@ -9,7 +9,7 @@ The verse being described is a warning about the cities of Sodom and Gomorrha. T
 2. "The sin of Sodom was afterwards common in the most enlightened nations of antiquity."
 3. "Undergoing the just punishment of eternal fire, which shall never be quenched."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sodom, etc. - giving themselves over to fornication - following fornication extraordinarily, that is, out of the order of nature."
 2. "Going after strange flesh - departing from the course of nature, and going after that which is unnatural."
 3. "The lasting marks of the fire that consumed the cities irreparably, is a type of the eternal fire to which the inhabitants have been consigned."
@@ -52,4 +52,4 @@ The verse being described is a warning about the cities of Sodom and Gomorrha. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

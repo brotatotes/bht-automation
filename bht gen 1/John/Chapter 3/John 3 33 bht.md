@@ -4,7 +4,7 @@
 The verse describes the act of affirming the truth of the Messiah's words by setting a seal, a customary practice among the Jews. This signifies the certainty and authenticity of his testimony. By setting this seal, it is a declaration that God is true, confirming the trustworthiness and divine nature of the Messiah's message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hath set to His seal" - This phrase emphasizes the authority and authenticity of God's words spoken by Christ. It signifies that God has confirmed and approved the message conveyed by Christ, adding weight and significance to His teachings.
 
 2. "gives glory to God" - By speaking the words of God, Christ brings honor and praise to God. This highlights the humility and obedience of Christ, as He seeks to glorify the Father rather than exalt Himself.
@@ -47,4 +47,4 @@ The verse describes the act of affirming the truth of the Messiah's words by set
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

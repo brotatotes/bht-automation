@@ -4,7 +4,7 @@
 In this verse, we are presented with the solemn truth that God's omniscient gaze is upon every professed disciple of the Lord Jesus throughout the ages. As commentators explain, it signifies the future judgment of individuals rather than a national judgment. The parable illustrates how individuals are called to accept the invitation of being in a relationship with God, symbolized by putting on the Lord Jesus. It cautions against being mere bystanders in the Church, emphasizing the importance of genuine faith and a transformed life, as God examines our hearts to ensure our true acceptance of His invitation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Solemn expression this, of that omniscient inspection of every professed disciple of the Lord Jesus from age to age, in virtue of which his true character will hereafter be judicially proclaimed!"
 2. "This shows that it is the judgment of individuals which is intended in this latter part of the parable: the first part represents rather national judgment."
 3. "And what can that be but what is meant by 'putting on the Lord Jesus,' as 'THE LORD OUR RIGHTEOUSNESS?'"
@@ -43,4 +43,4 @@ In this verse, we are presented with the solemn truth that God's omniscient gaze
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

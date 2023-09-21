@@ -9,7 +9,7 @@ The verse being described is a combination of God's commandment to love our neig
 2. "Our Lord's 'fulfilment' of neighbourly love extends it to all mankind."
 3. "The hating of enemies is, in His fulfilment of it, no longer an individual or national aversion, but a coming out and being separate from all that rebel against God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou shalt love thy neighbour—To this the corrupt teachers added, and hate thine enemy—as if the one were a legitimate inference from the other, instead of being a detestable gloss, as BENGEL indignantly calls it."
 2. "LIGHTFOOT quotes some of the cursed maxims inculcated by those traditionists regarding the proper treatment of all Gentiles."
 3. "No wonder that the Romans charged the Jews with hatred of the human race."
@@ -59,4 +59,4 @@ The verse being described is a combination of God's commandment to love our neig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

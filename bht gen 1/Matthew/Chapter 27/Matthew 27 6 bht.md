@@ -9,7 +9,7 @@ In this verse, the chief priests, in their hypocritical manner, hesitate to put 
 2. "τιμὴ αἵματος, the price given for shedding of blood, the wages of a murderer." 
 3. "The commentary suggests that the phrase 'τιμὴ αἵματος' refers to the price or penalty paid for taking a life, similar to the concept of 'the wages of a murderer' mentioned in Deuteronomy 23:18."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury." - This quote highlights the hypocrisy of the chief priests, who were meticulous about following the law when it came to the silver pieces, but were blind to their own guilt in condemning Jesus to death.
 
 2. "The Corban, or chest containing the money dedicated to sacred purposes." - This quote provides insight into the purpose of the treasury and the significance of the silver pieces. It shows that the priests considered the money to be dedicated to sacred purposes, further emphasizing their hypocrisy in accepting blood money.
@@ -50,4 +50,4 @@ In this verse, the chief priests, in their hypocritical manner, hesitate to put 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

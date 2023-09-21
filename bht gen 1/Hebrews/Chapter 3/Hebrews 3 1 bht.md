@@ -9,7 +9,7 @@ The verse being described centers around the profound and prayerful consideratio
 2. "The calling being ἐπουράνιος and proceeding from heaven, must of necessity be heavenly in its purport and heavenward in its result."
 3. "The word ἄγγελον being, as Ebrard, avoided, on account of its technical use before, to prevent Christ being confused with the angels in nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whence," that is, seeing we have such a sympathizing Helper you ought to "consider attentively," "contemplate" (Hebrews 12:2).
 2. "Him who is at once Apostle and High Priest"—Apostle, as Ambassador sent by the Father, pleading the cause of God with us; High Priest, as pleading our cause with God (Hebrews 3:1).
 3. The words "of our profession" mark that it is not of the legal ritual, but of our Christian faith, that He is the High Priest (Hebrews 3:1).
@@ -55,4 +55,4 @@ The verse being described centers around the profound and prayerful consideratio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

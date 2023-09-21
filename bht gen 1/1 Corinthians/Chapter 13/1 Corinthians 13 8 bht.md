@@ -9,7 +9,7 @@ Love is an enduring and unchanging virtue that will never cease to exist. It sur
 2. "the time alluded to is that of the coming of the Lord" - The reference is to the future time when the Lord returns.
 3. "The two first, προφ . and γλῶσσ ., shall be absolutely superseded: γνῶσις, relatively: the imperfect, by the perfect." - The gifts of prophecy and speaking in tongues will be completely replaced, while knowledge will be relatively superseded by something better.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "never faileth—never is to be out of use; it always holds its place."
 2. "Translate, 'Shall be done away with,' that is, shall be dispensed with at the Lord's coming, being superseded by their more perfect heavenly analogues."
 3. "A primary fulfilment of Paul's statement took place when the Church attained its maturity; then 'tongues' entirely 'ceased,' and 'prophesyings' and 'knowledge,' so far as they were supernatural gifts of the Spirit, were superseded as no longer required."
@@ -59,4 +59,4 @@ These quotes highlight the enduring nature of love and its superiority over temp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

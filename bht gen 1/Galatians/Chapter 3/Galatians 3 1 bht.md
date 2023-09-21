@@ -9,7 +9,7 @@ The verse describes how the Galatians foolishly allowed themselves to be deceive
 2. "ἐβάσκανεν...fascinated: so Aristot. Probl. xx. 34, διὰ τί τὸ πήγανον βασκανίας φασὶ φάρμακον εἶναι; ἢ διότι βασκαίνεσθαι δοκοῦσι λάβρως ἐσθίοντες? … ἐπιλέγουσι γοῦν, ὅταν τῆς αὐτῆς τραπέζης ἰδίᾳ τι προσφέρωνται, μεταδιδόντες, “ἵνα μὴ βασκάνῃς με.”"
 3. "ἐσταυρωμένος, as expressing the whole mystery of redemption by grace, and of freedom from legal obligation. 'It has an echo of συνεσταύρωμαι in ch. Galatians 2:20.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bewitched - fascinated you so that you have lost your wits." 
 2. "You, before whose eyes Jesus Christ hath been graphically set forth among you, crucified." 
 3. "The sight of Christ crucified ought to have been enough to counteract all fascination."
@@ -53,4 +53,4 @@ The verse describes how the Galatians foolishly allowed themselves to be deceive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

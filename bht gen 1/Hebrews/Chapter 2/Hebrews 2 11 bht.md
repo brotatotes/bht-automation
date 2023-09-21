@@ -4,7 +4,7 @@
 The Bible verse being described is a powerful reminder of the intimate bond between Christ and believers. Commentators emphasize the concept of sanctification, the process of being made holy and set apart for God. Christ, as the sanctifier, brings believers into a union with Him that is marked by a oneness and brotherhood. This union is not based on merit, but on the grace of God who deems believers worthy of being called His children. Through Christ, believers are not only sanctified, but also connected to a divine kinship that transcends all earthly relationships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sanctification is glory working in embryo; glory is sanctification come to the birth, and manifested" [ALFORD].
 2. "Sons of God" is, in Scripture usage, the dignity obtained by our union with Christ; and our brotherhood with Him flows from God being His and our Father.
 3. "It is a striking feature in Christianity that it unites such amazing contrasts as 'our brother and our God'" [THOLUCK].
@@ -43,4 +43,4 @@ The Bible verse being described is a powerful reminder of the intimate bond betw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

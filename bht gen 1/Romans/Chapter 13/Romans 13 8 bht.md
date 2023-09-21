@@ -9,7 +9,7 @@ The verse being described emphasizes the obligation of love towards one another.
 2. "This debt increases the more, the more it is paid: because the practice of love makes the principle of love deeper and more active."
 3. "He who practices Love, the higher duty, has, even before he does this, fulfilled the law, the lower."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Acquit yourselves of all obligations except love, which is a debt that must remain ever due."
 2. "For he that loveth another hath fulfilled the law."
 3. "The law itself is but love in manifold action, regarded as matter of duty."
@@ -53,4 +53,4 @@ The verse being described emphasizes the obligation of love towards one another.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

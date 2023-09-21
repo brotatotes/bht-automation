@@ -9,7 +9,7 @@ The verse being described is one in which the author mentions that the people ha
 2. "No example is found of the former use of ὅτι by St. Paul, except in O. T. citations." 
 3. "My example was the cause of their glorifying God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were hearing": tidings were brought them from time to time.
 2. "He which persecuted us in times past": our former persecutor.
 3. "Destroyed": was destroying.
@@ -48,4 +48,4 @@ The verse being described is one in which the author mentions that the people ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

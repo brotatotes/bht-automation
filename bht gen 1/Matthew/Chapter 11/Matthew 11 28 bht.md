@@ -9,7 +9,7 @@ In this verse, the Son invites all who are weary and burdened to come to Him and
 2. "But the way to this heavenly wisdom is by quietness and confidence, rest unto the soul, the reception of the divine grace for the pardon of sin, and the breaking of the yoke of the corruption of our nature."
 3. "No mere man could have spoken these words. They are parallel with the command in Isaiah 45:22, which is spoken by Jehovah Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Come unto me, all ye that labour and are heavy laden, and I will give you rest." - These words offer incomparable and ravishing sounds, providing a glimmer of hope in a weary and groaning world.
 
 2. "What gentleness, what sweetness is there in the very style of the invitation - 'Hither to Me'." - The invitation to come to Jesus is filled with gentleness and sweetness, drawing us closer to Him with open arms.
@@ -55,4 +55,4 @@ In this verse, the Son invites all who are weary and burdened to come to Him and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

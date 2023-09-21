@@ -9,7 +9,7 @@ Praying in an unknown tongue is a deeply personal and spiritual act of communica
 2. "When I pray in a tongue, my higher being, my spirit, filled with the Holy Ghost, is inflamed with holy desires, and rapt in prayer."
 3. "My intellectual part, having no matter before it on which its powers can be exercised, bears no fruit to the edification of others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "spirit—my higher being, the passive object of the Holy Spirit's operations" - This quote highlights the concept of the spirit as a receptive vessel for the work of the Holy Spirit. It suggests that the spirit is not an active agent but rather a recipient of divine influence.
 
 2. "instrument of prayer in the unknown tongue" - This quote emphasizes the role of the spirit as a tool for expressing prayer in a language that is not understood by others. It suggests that the spirit is involved in a form of communication that transcends human comprehension.
@@ -59,4 +59,4 @@ These quotes shed light on the nature of the spirit as a passive recipient of di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

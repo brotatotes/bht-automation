@@ -9,7 +9,7 @@ In this verse, Jesus is confronted by the Sadducees, who deny the resurrection a
 2. "The use of ἀντιλέγ . μή (or τὸ μή ) is frequent in Xenophon."
 3. "See also Herod. i. 68: Soph. Œd. Tyr. 57."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'nor angel nor spirit' indicates that the materialists of that time denied not only the resurrection of the body but also the existence of spiritual beings such as angels. This verse highlights the prevailing skepticism and disbelief in the supernatural among certain groups during that era." 
 
 2. "The denial of resurrection by the materialists reflects their limited understanding and refusal to acknowledge the spiritual realm. It serves as a reminder of the importance of faith and belief in the unseen, beyond the confines of the physical world."
@@ -44,4 +44,4 @@ In this verse, Jesus is confronted by the Sadducees, who deny the resurrection a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

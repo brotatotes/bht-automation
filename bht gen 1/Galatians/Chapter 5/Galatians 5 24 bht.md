@@ -11,7 +11,7 @@ Believers in Christ have crucified their flesh, separating themselves from sinfu
 
 Note: The commentary seems to be discussing the idea that those who belong to Christ have crucified their fleshly desires and are no longer bound by the law.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They that are of Christ Jesus"; they that belong to Christ Jesus; being "led by (His) Spirit" have crucified the flesh—They nailed it to the cross once for all when they became Christ's, on believing and being baptized (Romans 6:3; Romans 6:4): they keep it now in a state of crucifixion (Romans 6:6): so that the Spirit can produce in them, comparatively uninterrupted by it, "the fruit of the Spirit" (Romans 6:6- :)." 
 
 2. "Man, by faith, is dead to the former standing point of a sinful life, and rises to a new life (Romans 6:6- :) of communion with Christ (Romans 6:6- :)." 
@@ -61,4 +61,4 @@ Note: The commentary seems to be discussing the idea that those who belong to Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

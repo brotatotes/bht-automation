@@ -4,7 +4,7 @@
 In this verse, a multitude of destructive locusts emerges from smoke, symbolizing a numerous and hostile people. These locusts are different from ordinary ones, as they specifically target and harm humans, not vegetation or trees. Among them are terrifying scorpions from the earth, known for their venomous sting and situated in dark, hidden places. This portrayal of formidable creatures causing distress and ruin aligns with various other biblical references and parallels historical events involving religious clergy and invading forces.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Upon—Greek, 'unto,' or 'into.'" This quote highlights the significance of the preposition used in the verse, emphasizing the movement or direction of the action described.
 2. "As the scorpions of the earth—as contrasted with the 'locusts' which come up from hell, and are not 'of the earth.'" This quote draws attention to the distinction between the scorpions and the locusts, providing a deeper understanding of the imagery used in the verse.
 3. "Have power—namely, to sting." This quote succinctly explains the specific ability or action associated with the scorpions, adding clarity to their role in the verse.
@@ -47,4 +47,4 @@ Note: The commentary provides additional references and information about locust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

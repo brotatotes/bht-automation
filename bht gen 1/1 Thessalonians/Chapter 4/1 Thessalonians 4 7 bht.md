@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the nature of God's call and its purpo
 2. "Chap. 1 Thessalonians 2:3, which is adduced to show that it may here represent covetousness, is a very doubtful example."
 3. "ἐπί, for the purpose of, on condition of: ἐν, in, 'in the element of,' not = εἰς, the aim: but ἁγιασμός is the whole sphere of our Christian life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Holiness is the element in which our calling has place."
 2. "Our calling is in a sphere of holiness."
 3. "Saint is another name for Christian."
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize the nature of God's call and its purpo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, Jesus proclaims himself as the source of resurrection and the giver of life. He assures believers that through him, death is not the end but a doorway to eternal life. Jesus is not only the one who raises the dead, but also the sustainer of life here and now. This verse speaks of the power and hope found in Jesus as the resurrection and the life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole power to restore, impart, and maintain life, resides in Me."
 2. "The believer's death shall be swallowed up in life, and his life shall never sink into death."
 3. "The temporary separation of soul and body is here regarded as not even interrupting, much less impairing, the new and everlasting life imparted by Jesus to His believing people."
@@ -46,4 +46,4 @@ In this verse, Jesus proclaims himself as the source of resurrection and the giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

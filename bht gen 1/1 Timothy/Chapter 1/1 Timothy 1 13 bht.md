@@ -9,7 +9,7 @@ This verse describes someone who was a blasphemer, persecutor, and insulter, act
 2. "howbeit I had mercy shewn me"
 3. "because I did it ignorantly in unbelief"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One who acts injuriously from arrogant contempt of others."
 2. "God's mercy, and Paul's want of it, stand in sharp contrast."
 3. "Ignorance does not in itself deserve pardon; but it is a less culpable cause of unbelief than pride and wilful hardening of one's self against the truth."
@@ -55,4 +55,4 @@ Note: The commentary is on 1 Timothy 1:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

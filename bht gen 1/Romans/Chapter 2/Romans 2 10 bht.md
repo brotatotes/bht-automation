@@ -9,7 +9,7 @@ This verse speaks of the highest sense of peace, a restored relationship with Go
 2. This verse reminds us that true peace can only be found in Jesus, who reconciles us to God and brings us into a state of harmony and wholeness.
 3. The peace that Jesus offers is not merely the absence of conflict, but a deep and abiding sense of well-being and contentment that transcends all circumstances.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'to the Jew first' highlights the unique privilege and responsibility that the Jewish people have in receiving and proclaiming the gospel. It reminds us that God's redemptive plan began with the Jewish nation and that they have a special place in God's heart." 
 
 2. "The mention of 'perdition if unfaithful' serves as a warning to the Jews that their disobedience and rejection of the truth will lead to their own destruction. It emphasizes the importance of faith and obedience in receiving salvation." 
@@ -35,4 +35,4 @@ This verse speaks of the highest sense of peace, a restored relationship with Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

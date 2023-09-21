@@ -9,7 +9,7 @@ In this Bible verse, the skepticism and disbelief of the people towards Jesus ar
 2. "Fifty years was with the Jews the completion of manhood."
 3. "The reading τεσσαράκοντα found in Cod. [139], and read by Chrys., of which Euthym [140] says, ὅπερ δοκεῖ ἀκριβέστερον, has probably been introduced for that very reason."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fifty years was with the Jews the completion of manhood" [ALFORD].
 2. "He had said Abraham saw Him, as being his peculiar privilege" [commentator].
 3. "They give the opposite turn to it—'Hast Thou seen Abraham?' as an honor too great for Him to pretend to" [commentator].
@@ -55,4 +55,4 @@ Note: The commentary provided is not an accurate representation of the Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described portrays a scene where the people are in awe of Jesus'
 2. "This was going on, when the next incident began." 
 3. "The use of the imperfect tense emphasizes the ongoing nature of their amazement."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Putting it in this general form, it was impossible for sedition itself to dispute it, and yet it dissolved the snare."
 2. "How much is there in this profound but to them startling addition to the maxim, and how incomparable is the whole for fulness, brevity, clearness, weight!"
 3. "They marvelled at him, held their peace, and left Him, and went their way."
@@ -40,4 +40,4 @@ The verse being described portrays a scene where the people are in awe of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

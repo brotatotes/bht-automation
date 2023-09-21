@@ -9,7 +9,7 @@ This verse, spoken by Jesus, marks a significant shift in the narrative. The pri
 2. "The ἔθνος here spoken of is not the Gentiles in general, but the Church of the truly faithful."
 3. "The ἔθνος ἅγιον, λαὸς εἰς περιποίησιν of 1 Peter 2:9; see Acts 15:14."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of God... shall be taken from you, and given to a nation bringing forth the fruits thereof." - This verse highlights the transfer of God's kingdom from the Jewish nation to the faithful community, which includes Gentiles. It emphasizes the inclusivity and expansion of the kingdom beyond a specific ethnic group.
 
 2. "The great evangelical community of the faithful... would consist chiefly of Gentiles." - This quote emphasizes the significant role of Gentiles in the new community of believers. It showcases the shift from a primarily Jewish focus to a more diverse and inclusive community.
@@ -47,4 +47,4 @@ This verse, spoken by Jesus, marks a significant shift in the narrative. The pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

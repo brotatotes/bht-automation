@@ -4,7 +4,7 @@
 This passage emphasizes the intimate fellowship that believers have with God the Father and His Son Jesus Christ. It speaks of the unity and communion that is experienced through faith. The commentator notes that this fellowship is not only with the Father, but also with His Son, highlighting the oneness and divine connection between them. It is through this fellowship that believers can know, partake in, and declare the truths and blessings of the Gospel message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our fellowship is with the Father and with His Son." - This quote highlights the essence of fellowship in Christianity, which is the communion with both God the Father and Jesus Christ. It emphasizes the unity of the Father and Son, and how believers can partake in this divine fellowship.
 
 2. "Faith realizes what we have not seen as spiritually visible; not till by faith we too have seen, do we know all the excellency of the true Solomon." - This quote emphasizes the role of faith in perceiving the spiritual realities that are not physically visible. It suggests that through faith, believers can truly understand the greatness and glory of God.
@@ -46,4 +46,4 @@ This passage emphasizes the intimate fellowship that believers have with God the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

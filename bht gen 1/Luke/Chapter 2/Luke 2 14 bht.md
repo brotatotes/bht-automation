@@ -9,7 +9,7 @@ In this Bible verse, the hymn of praise signifies the glory that the plan of red
 2. "εὐδοκία is that good pleasure of God in Christ by which He reconciles the world to Himself in Him."
 3. "The only admissible rendering is, ‘Among men of God’s good pleasure,’ i.e. among the elect people of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'glory to God,' which the new-born 'Saviour' was to bring, is the first note of this sublime hymn."
 2. "Peace" with God is the grand necessity of a fallen world."
 3. "To bring in this, and all other peace in its train, was the prime errand of the Saviour to this earth."
@@ -53,4 +53,4 @@ In this Bible verse, the hymn of praise signifies the glory that the plan of red
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

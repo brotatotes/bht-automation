@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the superiority of Christ over Moses,
 2. "This person hath been held worthy of more glory than Moses, inasmuch as he hath more honour than the house."
 3. "Just as he who has built and furnished a house, for himself namely, as master of the house, stands higher in honour than the house itself and the individual οἰκέται, so does Christ higher than Moses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consider Christ highly as they regard Moses who resembled Him in faithfulness."
 2. "Christ has been counted worthy of more glory by God, when He exalted Him to His own right hand."
 3. "Christ the Founder and Establisher is greater than the house so established, including the servants."
@@ -61,4 +61,4 @@ Note: The commentary provides a comparison between Moses and Christ, highlightin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

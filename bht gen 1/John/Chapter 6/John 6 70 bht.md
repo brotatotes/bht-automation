@@ -9,7 +9,7 @@ In this verse, Jesus addresses his chosen disciples, highlighting the contrast b
 2. "The solemn addition, τοὺς δώδεκα after ὑμᾶς, heightens the contrast to the opposite result which follows."
 3. "Certainly, in the dark act here prophesied, Judas was under the immediate instigation of and yielded himself up to Satan."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though I have chosen you but twelve, one even of these is a 'devil'." 
 
 2. "The 'we' embraces not so wide a circle as in the simplicity of thine heart thou thinkest." 
@@ -55,4 +55,4 @@ In this verse, Jesus addresses his chosen disciples, highlighting the contrast b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

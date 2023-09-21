@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul emphasizes the divine calling and authorit
 2. "The strongest possible contrast is here drawn between man, in the ordinary sense, on the one side, and Jesus Christ, and God the Father, on the other."
 3. "The Resurrection, including and implying the Ascension, was the Father’s bestowal on Christ of gifts for men, by virtue of which Paul’s Apostleship had been received."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not only was the call from God as its ultimate source, but by Christ and the Father as the immediate agent in calling him."
 2. "The opposition between 'Christ' and 'man,' and His name being put in closest connection with God the Father, imply His Godhead."
 3. "He had seen and been constituted an apostle by Him in His resurrection power."
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul emphasizes the divine calling and authorit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse, drawing from various commentators, speaks about the exclusion of a pa
 2. "The analogy of God’s dealings, in the partial deliverance of Israel from captivity, and their great final deliverance from death eternal, is the key to the interpretation of the prophecy cited."
 3. "The words are spoken by Isaiah of the return from captivity of a remnant of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though the number of the children of Israel be as the sand of the sea, the elect remnant only shall be saved." This quote highlights the idea that not all of Israel will be saved, but only a chosen few.
 
 2. "Isaiah's testimony is a solemn and open declaration about the salvation of Israel." This quote emphasizes the significance and weight of Isaiah's words in relation to the salvation of Israel.
@@ -50,4 +50,4 @@ The verse, drawing from various commentators, speaks about the exclusion of a pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

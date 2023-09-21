@@ -9,7 +9,7 @@ Do you perceive and understand the meaning behind the actions performed by the L
 2. "The question is not asked for the purpose of obtaining information, but to awaken thought and reflection."
 3. "It is a question that demands attention and self-examination."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Know ye what I have done?" - The question serves as a way to capture the attention of the listeners and prepare them for the forthcoming answer. It prompts them to reflect on the actions of Jesus and the significance behind them.
 
 2. "Its intent" - This phrase emphasizes the deeper meaning and purpose behind Jesus' actions. It suggests that there is a greater significance to what Jesus has done, beyond the surface level, and invites the listeners to ponder and explore the spiritual implications.
@@ -56,4 +56,4 @@ Do you perceive and understand the meaning behind the actions performed by the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

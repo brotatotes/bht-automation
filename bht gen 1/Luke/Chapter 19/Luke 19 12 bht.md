@@ -9,7 +9,7 @@ The Bible verse being described is about Christ's journey to a far country to re
 2. "The kings of the Herodian family made journeys to Rome, to receive their βασιλείαν."
 3. "The situation was appropriate; for at Jericho was the royal palace which Archelaus had built with great magnificence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A far country" - This phrase dismisses the misconception that Jesus was simply on His way to establish His kingdom. It emphasizes that He went away to receive a kingdom, indicating His royal authority and the fulfillment of His divine purpose.
 
 2. "To receive... a kingdom" - This phrase highlights the significance of Jesus' departure and subsequent exaltation. It draws a parallel to earthly kings who would travel to a distant land to be invested with royalty. Jesus, in His ascension, was enthroned at the right hand of God, demonstrating His divine authority and sovereignty.
@@ -54,4 +54,4 @@ The Bible verse being described is about Christ's journey to a far country to re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

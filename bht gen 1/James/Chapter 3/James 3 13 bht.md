@@ -11,7 +11,7 @@ The verse being described focuses on the importance of demonstrating wisdom and 
 
 Note: The commentary is discussing the meaning and distinction between the terms "σοφός" (wise) and "ἐπιστήμων" (man of knowledge) in relation to good conduct and works. It emphasizes the importance of demonstrating good conduct and works in meekness of wisdom.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All wish to appear 'wise': few are so."
 2. "Show 'by works,' and not merely by profession."
 3. "Wisdom and knowledge, without these being 'shown,' are as dead as faith would be without works."
@@ -55,4 +55,4 @@ Note: The commentary is discussing the meaning and distinction between the terms
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

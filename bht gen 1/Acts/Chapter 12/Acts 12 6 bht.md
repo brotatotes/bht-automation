@@ -9,7 +9,7 @@ In the midst of impending trial, the events of that fateful night unfolded. The 
 2. "The practice of attaching a prisoner to one keeper or more by a chain is alluded to by several ancient authors."
 3. "ἐτήρουν τὴν φυλ. ] not, kept the watch, but guarded the prison."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such, however, is the 'law' of God's procedure."
 2. "Ye think your prey secure, bloodthirsty priests and thou obsequious tyrant."
 3. "Meanwhile, 'Peter is sleeping!' In a few hours he expects a stingless death; 'neither counts he his life dear unto him, so that he may finish his course with joy and the ministry which he has received of the Lord Jesus.'"
@@ -57,4 +57,4 @@ In the midst of impending trial, the events of that fateful night unfolded. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

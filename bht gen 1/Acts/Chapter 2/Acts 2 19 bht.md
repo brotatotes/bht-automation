@@ -9,7 +9,7 @@ During a time of great revelation and grace, there will also be signs and judgme
 2. "αἷμα κ. πῦρ.…] Not, ‘bloodshed and wasting by fire,’ as commonly interpreted: not devastations, but prodigies, are foretold: bloody and fiery appearances: pillars of smoke, Heb."
 3. "The MS. referred to by this symbol is that commonly called the Alexandrine, or CODEX ALEXANDRINUS. It once belonged to Cyrillus Lucaris, patriarch of Alexandria and then of Constantinople, who in the year 1628 presented it to our King Charles I. It is now in the British Museum."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will show wonders" - This verse refers to the signs and wonders that were to occur before the destruction of Jerusalem. It suggests that God's power and intervention would be evident in these events.
 
 2. "referring to the signs which were to precede the destruction of Jerusalem" - The commentary highlights the specific context of this verse, emphasizing that the wonders mentioned here are connected to the impending destruction of Jerusalem.
@@ -52,4 +52,4 @@ During a time of great revelation and grace, there will also be signs and judgme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

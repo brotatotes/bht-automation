@@ -4,7 +4,7 @@
 The Bible verse describes the exhortation to diligently strive for the promised rest, as highlighted by commentators. It warns against the disobedience and unbelief that the Israelites demonstrated, emphasizing the importance of faith and perseverance. The verse encourages believers to labor, seek, and give diligence in their pursuit of this rest, understanding that it requires strength, industry, and the help of God. The potential danger of falling or stumbling on the spiritual journey is emphasized, urging believers to remain steadfast and continue growing in their relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing such a promise is before us, which we may, like them, fall short of through unbelief."
 2. "Strive diligently for that rest, which is still future and so glorious."
 3. "Lest any fall into such disobedience as they gave a sample of."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

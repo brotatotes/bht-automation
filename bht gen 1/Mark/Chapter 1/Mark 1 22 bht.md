@@ -11,7 +11,7 @@ The people who heard Jesus were amazed and astonished at His teaching. It was di
 
 3. "By including this formula, Matthew and Luke highlight the uniqueness and power of Jesus' teaching, setting it apart from the teachings of other religious leaders."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And they were astonished at his doctrine" - This phrase emphasizes the impact of Jesus' teaching on the people, highlighting their surprise and amazement at his authority and wisdom.
 2. "He taught them as one that had authority" - This quote highlights the distinctive quality of Jesus' teaching, contrasting it with the traditional teaching of the scribes. It suggests that Jesus' teaching carried a sense of power and authenticity that captivated his audience.
 3. "Not as the scribes" - This short phrase draws a clear distinction between Jesus' teaching and the teaching of the scribes. It implies that Jesus' teaching was unique and different from the religious authorities of the time, making it even more remarkable and compelling to the listeners.
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

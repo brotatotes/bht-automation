@@ -4,7 +4,7 @@
 In this verse, we see a powerful contrast as Jesus is rejected by His own people in Judea, yet warmly received by the Samaritans, who invite Him to stay with them. The commentators emphasize the unexpected nature of this encounter, highlighting the historical tension between Jews and Samaritans. The Samaritans, captivated by Jesus' teachings, eagerly sought His company, recognizing Him as the Messiah. Jesus, in His wisdom, granted their request, not wanting to discourage them, but also being mindful of causing offense. The result was a joyful and fruitful time spent with the Samaritans.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unsought, He had come to His own, yet His own received Him not: now those who were not His own had come to Him, been won by Him, and invited Him to their town that others might share with them in the benefit of His wonderful ministry." 
 2. "Here, then, would He solace His already wounded spirit and have in this outfield village triumph of His grace, a sublime foretaste of the inbringing of the whole Gentile world into the Church." 
 3. "SECOND GALILEAN MIRACLE—HEALING OF THE COURTIER'S SON."
@@ -37,4 +37,4 @@ Note: The commentary is concise, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

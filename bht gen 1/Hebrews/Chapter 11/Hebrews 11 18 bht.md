@@ -9,7 +9,7 @@ This verse highlights the significance of Isaac as the chosen one through whom A
 2. "The most probable account of its appearing here is, that the Writer takes it from the O. T. text, but uses it as the recitative particle" - The commentary explains that the phrase "In Isaac shall thy seed be called" is likely taken from the Old Testament text and used as a recitative particle in this context.
 3. "In Isaac, through and in descent from him, shall thy seed be called thy seed" - The commentary clarifies that the phrase "In Isaac shall thy seed be called" means that Isaac's descendants will be known as Abraham's seed, emphasizing the importance of Isaac's lineage.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse gives a definition of the 'only-begotten Son'." 
 2. "The posterity of Isaac alone shall be accounted as the seed of Abraham."
 3. "The heir of the promises."
@@ -49,4 +49,4 @@ This verse highlights the significance of Isaac as the chosen one through whom A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

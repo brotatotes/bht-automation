@@ -9,7 +9,7 @@ We speak the mysterious wisdom of God, concealed for ages until revealed, surpas
 2. "The wisdom which God possesses and has revealed."
 3. "Which God foreordained before the ages to our glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wisdom of God—emphatically contrasted with the wisdom of men and of this world."
 2. "We speak as dealing with a mystery; that is not something to be kept hidden, but what heretofore was so, but is now revealed."
 3. "It is hidden before it is brought forward, and when it is brought forward it still remains hidden to those that are imperfect."
@@ -61,4 +61,4 @@ We speak the mysterious wisdom of God, concealed for ages until revealed, surpas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

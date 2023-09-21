@@ -9,7 +9,7 @@ As Jesus sat near the treasury, He attentively observed his surroundings. His ey
 2. "It was not the rich only, but the crowd who were casting gifts in."
 3. "The act of casting gifts in was not merely an expression of wealth, but also a demonstration of devotion and faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "looking up He saw"—as in Zaccheus' case, not quite casually.
 2. "the people," says Mark 12:41 "cast money into the treasury, and many rich east in much"
 3. into chests deposited in one of the courts of the temple to receive the offerings of the people towards its maintenance (2 Kings 12:9; John 8:20).
@@ -40,4 +40,4 @@ As Jesus sat near the treasury, He attentively observed his surroundings. His ey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

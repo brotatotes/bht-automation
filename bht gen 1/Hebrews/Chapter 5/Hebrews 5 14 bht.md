@@ -9,7 +9,7 @@ The Bible verse being described highlights the idea that there are different lev
 2. "The reference here of good and evil is manifestly not to moral qualities, but to excellence and inferiority, wholesomeness and corruptness in doctrine." 
 3. "The spiritual sense is found in references, the distinction of good and evil is not about life, but about sound and lofty doctrines."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "strong meat—'solid food.'"
 2. "to discern both good and evil"
 3. "The mere child puts into its mouth things hurtful and things nutritious, without discrimination: but not so the adult."
@@ -48,4 +48,4 @@ The Bible verse being described highlights the idea that there are different lev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

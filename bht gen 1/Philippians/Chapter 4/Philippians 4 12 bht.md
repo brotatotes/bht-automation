@@ -9,7 +9,7 @@ In this verse, the author reveals a profound wisdom gained through personal expe
 2. "I know also how to abound, in every thing and in all things." 
 3. "I have been taught the lesson both to be satiated and to hunger, both to abound and to be in need."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "abased—in low circumstances" - This quote highlights the idea that the verse is referring to being in a state of humility or experiencing hardship. It suggests that the individual is in a position of lowliness or difficulty.
 2. "everywhere—rather, 'in each, and in all things'" - This quote emphasizes that the instruction or secret teaching mentioned in the verse applies to all aspects of life. It suggests that the knowledge or understanding being referred to is all-encompassing and relevant in every situation.
 3. "instructed—in the secret" - This quote reveals that the instruction being discussed is related to a secret teaching or mystery that is unknown to the world. It implies that the knowledge being imparted is exclusive and reserved for those who have been initiated into it.
@@ -57,4 +57,4 @@ In this verse, the author reveals a profound wisdom gained through personal expe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

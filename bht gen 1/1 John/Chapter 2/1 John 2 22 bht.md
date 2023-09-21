@@ -9,7 +9,7 @@ The verse describes the seriousness of denying Jesus as the Christ, which is equ
 2. "This is the antichrist, who denieth the Father and the Son."
 3. "It is implied then, that the denying Jesus to be the Christ, is equivalent to denying the Father and the Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who is the liar?" - This question highlights the accusation against those who deny the truth about Jesus being the Christ, emphasizing the seriousness of their falsehood.
 2. "The ideal of Antichrist is 'he that denieth the Father and the Son.'" - This statement clarifies that the concept of Antichrist is not just a personal figure, but also includes anyone who denies the relationship between the Father and the Son.
 3. "The truth as to the Son must be held in its integrity." - This emphasizes the importance of acknowledging and affirming the truth about Jesus as the Son of God, as it is foundational to the entire Christian faith.
@@ -48,4 +48,4 @@ The verse describes the seriousness of denying Jesus as the Christ, which is equ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

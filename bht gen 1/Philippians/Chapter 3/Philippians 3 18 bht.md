@@ -11,7 +11,7 @@ The Bible verse being described is one that addresses the consequences for those
 
 3. "their glory in their shame" - The commentary points out the twisted mindset of these individuals who take pride in things that are actually shameful, highlighting the moral corruption and distorted values that they possess.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Follow not evildoers, because they are 'many'. Their numbers are rather a presumption against their being Christ's 'little flock'." 
 2. "There is need of constant warning." 
 3. "A hard tone in speaking of the inconsistencies of professors is the very opposite of Paul's spirit, and David's, and Jeremiah's."
@@ -59,4 +59,4 @@ The Bible verse being described is one that addresses the consequences for those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

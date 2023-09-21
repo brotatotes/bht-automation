@@ -9,7 +9,7 @@ In this verse, Abraham is depicted as the father of many nations, not just physi
 2. "Who quickens the dead, a general description of God’s almighty creative power, applied particularly to the matter in hand - the deadness of generative physical power in Abraham himself, which was quickened by God."
 3. "Who calleth (nameth, speaketh of) the things that are not, as being (as if they were). This He did in the present case with regard to the seed of Abraham, which did not as yet exist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus Abraham, in the reckoning of Him whom he believed, is the father of us all, in order that all may be assured, that doing as he did, they shall be treated as he was."
 2. "The nature and greatness of that faith of Abraham which we are to copy is here strikingly described."
 3. "What he was required to believe being above nature, his faith had to fasten upon God's power to surmount physical incapacity, and call into being what did not then exist."
@@ -55,4 +55,4 @@ In this verse, Abraham is depicted as the father of many nations, not just physi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

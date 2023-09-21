@@ -8,7 +8,7 @@ The Bible verse described in these commentaries emphasizes the connection betwee
 1. "The way thus to remain is prescribed; even that way of simple obedience to His Will, which He followed to the Will of the Father."
 2. "On τῇ ἀγάπῃ μου, see above: in the last clause, αὐτοῦ is prefixed, as Meyer well says, to denote the high consciousness of bliss and dignity in abiding in the Father’s love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The obedient spirit of true discipleship cherishing and attracting the continuance and increase of Christ's love."
 2. "This was the secret even of His own abiding in His Father's love!"
 3. "Keeping God's commandments is the key to abiding in His love."
@@ -49,4 +49,4 @@ The Bible verse described in these commentaries emphasizes the connection betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

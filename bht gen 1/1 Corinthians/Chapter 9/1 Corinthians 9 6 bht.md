@@ -9,7 +9,7 @@ This verse prompts us to reflect on the apostles' choice to support themselves t
 2. "Why Barnabas? Perhaps on account of his former connection with Paul...but this seems hardly enough reason for his being here introduced." 
 3. "It is not improbable that having been at first associated with Paul, Barnabas may have retained the same self-denying practice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas - long the associate of Paul, and, like him, in the habit of self-denyingly forbearing to claim the maintenance which is a minister's right." 
 
 2. "So Paul supported himself by tent-making." 
@@ -54,4 +54,4 @@ This verse prompts us to reflect on the apostles' choice to support themselves t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

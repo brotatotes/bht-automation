@@ -9,7 +9,7 @@ In this Bible verse, women are assured of their salvation despite the challenges
 2. "Just as that man should be saved through, as passing through, fire which is his trial, his hindrance in his way, in spite of which he escapes, so she shall be saved, through, as passing through, her child-bearing, which is her trial, her curse, her hindrance in the way of it."
 3. "If they have remained in faith and love and holiness with self-restraint."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In spite of the trial of childbearing which she passes through, she shall be saved."
 2. "The very curse will be turned into a condition favorable to her salvation, by her faithfully performing her part in doing and suffering what God has assigned to her."
 3. "This may be an ulterior reference of the Holy Spirit in this verse; but the primary reference required by the context is the one above given."
@@ -54,4 +54,4 @@ In this Bible verse, women are assured of their salvation despite the challenges
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

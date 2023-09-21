@@ -9,7 +9,7 @@ In this verse, the commentary provides insights into the character and motivatio
 2. "the sense of carrying off, i.e. purloining, may be here intended"
 3. "examples in Josephus somewhat analogous: e.g. Antt. vii. 15. 3, where Hyrcanus the High Priest, wishing to give Antiochus Eusebes money to raise the siege, καὶ ἀλλαχόθεν οὐκ εὐπορῶν, ἀνοίξας ἕνα οἶκον τῶν ἐν τῷ Δαυίδου μνήματι, καὶ βαστάσας τρισχίλια τάλαντα, μέρος ἔδωκεν Ἀντιόχῳ"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How worthy of notice is this arrangement, by which an avaricious and dishonest person was not only taken into the number of the Twelve, but entrusted with the custody of their little property!"
 2. "The purposes which this served are obvious enough."
 3. "The remotest hint was never given to the eleven of His true character, nor did the disciples most favored with the intimacy of Jesus ever suspect him, till a few minutes before he voluntarily separated himself from their company—for ever!"
@@ -45,4 +45,4 @@ Note: The commentary provides additional information about the meaning and usage
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

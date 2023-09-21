@@ -4,7 +4,7 @@
 This passage encourages acts of generosity and beneficence, comparing them to sowing seeds. It emphasizes the principle of reaping what one sows, both in terms of the extent of generosity and the subsequent blessings received. The use of agricultural metaphors resonates with the audience and underscores the importance of exercising restraint and moderation. The verse is a universal principle that applies to all contexts, and God determines the extent of the reward based on the quantity of the work and the underlying attitude.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But remember this."
 2. "The reaping shall correspond to the proportions and spirit of the sowing."
 3. "Showers of blessing."
@@ -52,4 +52,4 @@ This passage encourages acts of generosity and beneficence, comparing them to so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

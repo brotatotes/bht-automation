@@ -9,7 +9,7 @@ This book presents the genealogy of Jesus Christ, tracing his lineage from Abrah
 2. "Ἰησοῦ χριστοῦ being used in the enunciation, and the close being Ἰησοῦς ὁ λεγόμενος χριστός."
 3. "That He should be son of Abraham, was too solemn a subject of prophecy to be omitted here, even though implied in the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The book of the generation—an expression purely Jewish; meaning, 'table of the genealogy.' We have here, then, the title, not of this whole Gospel of Matthew, but only of the first seventeen verses."
 2. "The word 'Christ'—though applied to Him as a proper name by the angel who announced His birth to the shepherds—only began to be so used by others about the very close of His earthly career."
 3. "To a Jewish reader, accordingly, these behooved to be the two great starting-points of any true genealogy of the promised Messiah; and thus this opening verse, as it stamps the first Gospel as one peculiarly Jewish, would at once tend to conciliate the writer's people."
@@ -56,4 +56,4 @@ This book presents the genealogy of Jesus Christ, tracing his lineage from Abrah
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

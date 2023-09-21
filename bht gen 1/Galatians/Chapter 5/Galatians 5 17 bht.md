@@ -11,7 +11,7 @@ In this verse, there is a clear contrast and conflict depicted between the desir
 
 3. "So that our verse requires expansion, both in the direction of Romans 7:15-20, and in the other direction, οὐ γὰρ ὃ θέλω (after the natural man) ποιῶ κακόν · ἀλλ ʼ ὃ οὐ θέλω ἀγαθόν, τοῦτο ποιῶ, to make it logically complete." - This quote suggests that to fully understand the verse, it needs to be expanded and connected to other passages in Romans, specifically addressing the struggle between the desires of the flesh and the desires of the Spirit.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit strives against the flesh and its evil influence; the flesh against the Spirit and His good influence, so that neither the one nor the other can be fully carried out into action."
 2. "The flesh and Spirit are contrary one to the other, so that you must distinguish what proceeds from the Spirit, and what from the flesh."
 3. "Here Galatians 5:17 contemplates the inability both for fully accomplishing the good we 'would,' owing to the opposition of the flesh, and for doing the evil our flesh would desire, owing to the opposition of the Spirit."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

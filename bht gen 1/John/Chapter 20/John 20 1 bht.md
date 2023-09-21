@@ -4,7 +4,7 @@
 In this Bible verse, various commentators shed light on the scene of Mary Magdalene visiting the empty tomb of Jesus early in the morning. They emphasize the significance of His resurrection and the importance of this event in confirming the Christian faith. The commentators also highlight Mary's deep love, zeal, and diligence in honoring Christ, as well as the attention given to the details of the day and time. Ultimately, this verse portrays the remarkable transformation that can occur in the lives of believers, as exemplified by Mary Magdalene.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary Magdalene early, c.—(See on John 20:1; Matthew 28:1; Matthew 28:2)." 
 2. "Dear disciple! thy dead Lord is to thee 'the Lord' still." 
 3. "thy dead Lord is to thee 'the Lord' still."
@@ -33,4 +33,4 @@ In this Bible verse, various commentators shed light on the scene of Mary Magdal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

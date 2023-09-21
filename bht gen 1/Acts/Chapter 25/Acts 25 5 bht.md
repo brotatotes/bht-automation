@@ -9,7 +9,7 @@ In this verse, the speaker addresses the powerful individuals within the communi
 2. "The powerful among you: those who have the ability to make a significant impact and bring about positive change."
 3. "The powerful among you: those who possess the resources and capabilities to contribute to the betterment of society."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let them...which among you are able, go down." This quote highlights the call for capable leaders to take action and lead the way. It emphasizes the importance of having competent individuals who can step forward and take responsibility.
 
 2. "Your leading men." This phrase emphasizes the significance of having strong and capable leaders within a community. It suggests that those who possess leadership qualities should step forward and guide others in times of need.
@@ -53,4 +53,4 @@ These quotes highlight the importance of selecting individuals who are capable, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

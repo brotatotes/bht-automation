@@ -9,7 +9,7 @@ In a specific location with five porches, there were sick and weak individuals, 
 2. "The fact that there are no less than seven words used either here only, or here only in this sense, is strong against its genuineness."
 3. "As a marginal gloss, it certainly does good service, as explaining both the obscure points the assemblage of sick, and the answer in John 5:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'impotent' here refers to a state of being infirm or weak. It highlights the powerlessness and vulnerability of the person being described."
 2. "This term emphasizes the lack of strength or ability to accomplish something. It conveys a sense of helplessness and incapacity."
 3. "The use of the word 'impotent' in this context underscores the physical or spiritual weakness of the individual, emphasizing their inability to overcome or achieve certain things."
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

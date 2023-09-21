@@ -9,7 +9,7 @@ In this verse, believers are compared to Moses who veiled his face after seeing 
 2. "The change here spoken of is a spiritual one, not the bodily change at the Resurrection: it is going on here in the process of sanctification."
 3. "The transformation is effected by the Spirit, the Author and Upholder of spiritual life, who ‘takes of the things of Christ, and shows them to us,’ John 16:14, see also Romans 8:10-11, who sanctifies us till we are holy as Christ is holy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with unveiled face" (the veil being removed at conversion): contrasted with "hid" (2 Corinthians 4:1- :).
 2. "the image of Christ's glory, spiritually now (Romans 8:29; 1 John 3:3); an earnest of the bodily change hereafter (1 John 3:3- :)."
 3. "from one degree of glory to another. As Moses' face caught a reflection of God's glory from being in His presence, so believers are changed into His image by beholding Him."
@@ -57,4 +57,4 @@ These quotes highlight the idea that the people's understanding of God's glory w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this commentary, John Wesley discusses the dwindling authority of Moses as a 
 2. "The 'serpent' is in Scripture symbolism, the devil, from the historical temptation in Genesis 3:0. downwards."
 3. "Now was not the Lord Jesus made ἐν ὁμοιώματι σαρκὸς ἁμαρτίας, Rom 8:3? Was not He made 'Sin for us, who knew no sin' (2Co 5:21)? Did not He, on His Cross, make an open shew of, and triumph over, the Enemy, so that it was as if the Enemy himself had been nailed to that Cross (Col 2:15)?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In both cases the remedy was divinely provided. In both the way of cure strikingly resembled that of the disease."
 2. "But as the uplifted serpent had none of the venom of which the serpent-bitten people were dying, so while the whole human family were perishing of the deadly wound inflicted on it by the old serpent, 'the Second Man,' who arose over humanity with healing in His wings, was without spot or wrinkle, or any such thing."
 3. "Both methods are stumbling to human reason. What, to any thinking Israelite, could seem more unlikely than that a deadly poison should be dried up in his body by simply looking on a reptile of brass? Such a stumbling-block to the Jews and to the Greeks foolishness was faith in the crucified Nazarene as a way of deliverance from eternal perdition."
@@ -54,4 +54,4 @@ These quotes highlight the idea that through the preaching of the Gospel, Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

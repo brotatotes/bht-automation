@@ -9,7 +9,7 @@ The verse being described is a contrast between the law given by Moses and the g
 2. "Certainly, the distinction must not be lost sight of, nor denied, as Lücke attempts to do: for Bengel truly observes: 'Nullus philosophus tam accurate verba ponit, differentiamque eorum observat, quam Johannes, in hoc præsertim capite.'"
 3. "I must again caution the student against any such wholly inadequate explanations as that these words are put 'per hendiadyn' for χάρις ἀληθινή. It is in this way that the depths of Scripture have been covered over by the rubbish of expositors."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Law elicits the consciousness of sin and the need of redemption it only typifies the reality."
 2. "The Gospel actually communicates reality and power from above."
 3. "Paul terms the Old Testament 'shadow,' while he calls the New Testament 'substance'."
@@ -48,4 +48,4 @@ The verse being described is a contrast between the law given by Moses and the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

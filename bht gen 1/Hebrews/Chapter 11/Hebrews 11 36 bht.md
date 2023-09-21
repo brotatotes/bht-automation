@@ -9,7 +9,7 @@ In this verse, the commentators describe the experiences of individuals who face
 2. "Yea moreover, of bonds and prison." 
 3. "The word must mean insult accompanied with cruelty, judging from its use in the place here referred to."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "others—of a different class of confessors for the truth"
 2. "trial—testing their faith"
 3. "imprisonment—as Hanani, imprisoned by Asa. Micaiah, the son of Imlah, by Ahab"
@@ -45,4 +45,4 @@ In this verse, the commentators describe the experiences of individuals who face
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

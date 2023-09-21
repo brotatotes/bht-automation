@@ -4,7 +4,7 @@
 Amidst the various messages and commentaries, it becomes evident that the described Bible verse revolves around the themes of idolatry, temptation, and doctrinal compromise within the church. The verse exposes the seductive power of idol-meats, leading to the participation in idolatrous practices and the enticement of others to do the same. The presence of false teachers within the church is highlighted, emphasizing their role in perpetuating erroneous doctrine and leading believers astray. The verse also underscores the significance of staying faithful to the teachings of Christ, resisting the allure of sin, and guarding against compromising one's faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Few—in comparison of the many tokens of thy faithfulness."
 2. "The teaching of Balaam, namely, that which he taught Balak."
 3. "The temptation to eat idol-meats was a peculiarly strong one to the Gentile converts."
@@ -43,4 +43,4 @@ Amidst the various messages and commentaries, it becomes evident that the descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

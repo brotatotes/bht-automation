@@ -9,7 +9,7 @@ The verse described in these commentaries captures a significant moment in Jesus
 2. "The words πόλιν τῆς Γ . come in unnaturally after the mention of Καφαρν . in Luke 4:23, and evidently show that this was originally intended to be the first mention of the place."
 3. "The expression καὶ οὐχ ὡς οἱ γραμματεῖς (Mark) is not added by Luke."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Capernaum, located on the Sea of Galilee, was a bustling fishing village and a major hub of activity. This geographical detail helps us understand the significance of Jesus choosing to go there. It was a place where people from different backgrounds and walks of life would gather, making it an ideal location for Jesus to minister and spread his message." 
 
 2. "The healing of the demoniac in Capernaum serves as a powerful demonstration of Jesus' authority and power over the spiritual realm. It shows that Jesus not only has the ability to heal physical ailments but also to deliver people from the grip of spiritual oppression and darkness." 
@@ -47,4 +47,4 @@ The verse described in these commentaries captures a significant moment in Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this account of the empty tomb, various commentators shed light on the perple
 2. "The only reason for the insertion would be, to tally with Luke 24:24, and in that case it certainly would not mention Peter alone."
 3. "The meaning of πρὸς ἑαυτόν, as belonging to ἀπῆλθεν and not to θαυμάζων, is fixed by the expression in John, l. c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, &c." - This phrase refers to the disciples Peter and another unnamed disciple who were on their way to Emmaus. It highlights the fact that even the closest followers of Jesus were not exempt from doubt and confusion after his crucifixion.
 
 2. "CHRIST APPEARS TO THE TWO" - This statement emphasizes the miraculous encounter between Jesus and the two disciples on the road to Emmaus. It signifies the power and presence of Christ, even in moments of despair and uncertainty.
@@ -45,4 +45,4 @@ In this account of the empty tomb, various commentators shed light on the perple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, those who overcome sin and temptation are promised a glorious reward. They will be clothed in radiant white garments, symbolizing victory, joy, and holiness. Their names will be written and preserved in the book of life, ensuring eternal life and fellowship with God. Furthermore, the Lord Himself will openly acknowledge and commend their faithful devotion. This verse emphasizes the triumph of the faithful and the everlasting significance of their confession and perseverance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The body transfigured into the likeness of Christ's body, and emitting beams of light reflected from Him, is probably the 'white raiment' promised here."
 2. "He that overcometh shall receive the same reward as they who 'have not defiled their garments' therefore the two are identical."
 3. "The pale of salvation is wider than that of election. Election is fixed. Salvation is open to all and is pending (humanly speaking) in the case of those mentioned here."
@@ -46,4 +46,4 @@ In this Bible verse, those who overcome sin and temptation are promised a glorio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

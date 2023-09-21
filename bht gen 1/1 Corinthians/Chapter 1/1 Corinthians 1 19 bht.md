@@ -11,7 +11,7 @@ This verse highlights the temporary nature of human wisdom and understanding. Ev
 
 3. "The citation is after the LXX, with the exception of ἀθετήσω for κρύψω." - This quote explains that the citation of the prophecy is based on the Septuagint (LXX) version, with a slight variation in the Greek word used.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wisdom of the wise shall perish, and the understanding of their prudent men shall be hid." - This verse highlights the temporary nature of human wisdom and understanding. It emphasizes that even the most knowledgeable and intelligent individuals will eventually lose their wisdom and understanding.
 
 2. "Paul by inspiration gives the sense of the Spirit, by making GOD the cause of their wisdom perishing." - This quote suggests that God is the ultimate source of wisdom and understanding. It implies that God has the power to remove or destroy human wisdom as He sees fit.
@@ -59,4 +59,4 @@ This verse highlights the temporary nature of human wisdom and understanding. Ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

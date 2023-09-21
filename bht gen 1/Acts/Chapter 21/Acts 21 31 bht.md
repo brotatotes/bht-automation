@@ -11,7 +11,7 @@ In this Bible verse, the possibility of violence is imminent as preparations for
 
 3. "Claudius Lysias, the tribune of the cohort (whose proper complement was 1000 men)." This quote provides information about the identity of the person referred to as the tribune of the cohort. It mentions their name and their role, giving the reader a clearer understanding of who they are.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tidings came" - This phrase indicates that news or information was received, suggesting that something significant has happened or is about to happen. It creates a sense of anticipation and sets the stage for an important event.
 
 2. "Went up" - This phrase implies that the news traveled to a higher authority or a place of importance. It suggests that the information is being conveyed to someone in a position of power or influence, adding weight and significance to the message.
@@ -61,4 +61,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

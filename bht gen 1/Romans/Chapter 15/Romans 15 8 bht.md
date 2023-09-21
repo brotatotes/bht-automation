@@ -9,7 +9,7 @@ In this passage, the focus is on the role of Christ as a servant and minister, b
 2. "The Gentiles glorified God on account of His mercy." 
 3. "Among the Gentiles Christ’s triumphs were to take place, as well as among the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I say that Jesus Christ was a minister of the circumcision." - This expression highlights Jesus' role as the servant of God for the salvation of the Jewish people, emphasizing the importance of Israel in God's plan.
 
 2. "To confirm the Messianic promises made unto the fathers." - This quote emphasizes that Jesus came to fulfill the promises made to the patriarchs of Israel, showing the faithfulness of God in keeping His word.
@@ -57,4 +57,4 @@ In this passage, the focus is on the role of Christ as a servant and minister, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

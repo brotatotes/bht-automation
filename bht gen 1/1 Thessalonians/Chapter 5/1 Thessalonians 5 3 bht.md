@@ -9,7 +9,7 @@ In this verse, we see a vivid description of an event happening suddenly and une
 2. "The emphasis is on the suddenness, becoming a kind of predicate."
 3. "It is not the woman, nor her condition, that is the subject of comparison, but the unexpected pang of labor which comes on her."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peace— (Judges 18:7; Judges 18:9; Judges 18:27; Judges 18:28; Jeremiah 6:14; Ezekiel 13:10)." 
 2. "then—at the very moment when they least expect it. Compare the case of Belshazzar, Daniel 5:1-5; Daniel 5:6; Daniel 5:9; Daniel 5:26-28; Herod, Acts 12:21-23." 
 3. "sudden—'unawares' (Luke 21:34)."
@@ -57,4 +57,4 @@ In this verse, we see a vivid description of an event happening suddenly and une
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

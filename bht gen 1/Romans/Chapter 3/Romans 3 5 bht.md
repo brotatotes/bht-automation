@@ -9,7 +9,7 @@ In this passage, there is a contemplation about the relationship between human u
 2. "It would almost seem as if God would be unjust in inflicting His wrath on men whose very impiety has been the means whereby His own righteousness has been shown forth and established."
 3. "Said, as elsewhere by Paul, to excuse a supposition bearing with it an aspect of inconsistency or impiety."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The more faithless we are, so much the more illustrious will the fidelity of God appear." 
 
 2. "For Him to take vengeance on us for our unfaithfulness would be unrighteousness in God." 
@@ -57,4 +57,4 @@ In this passage, there is a contemplation about the relationship between human u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

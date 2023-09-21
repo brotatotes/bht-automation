@@ -4,7 +4,7 @@
 The verse being described emphasizes the urgency and responsibility of proclaiming the Gospel. It suggests that the Gospel, which includes the doctrines of Christ's death, burial, and resurrection, is a message that needs to be continuously shared and not taken lightly. The commentary underscores the importance of holding fast to the belief in the resurrection, as it is a central aspect of the Gospel and the hope of believers. It also highlights that neglecting or forgetting this message can lead to being carried away by delusions or falling from the high standing of one's faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I make known": it implies some degree of reproach that it should be now necessary to make it known to them afresh.
 2. "This is your present actual privilege, if ye suffer not yourselves to fall from your high standing."
 
@@ -48,4 +48,4 @@ The verse being described emphasizes the urgency and responsibility of proclaimi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

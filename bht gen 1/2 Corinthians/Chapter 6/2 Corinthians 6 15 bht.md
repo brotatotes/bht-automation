@@ -9,7 +9,7 @@ The verse under consideration contrasts the characters of Christ and Belial, emp
 2. "βελίαρ ] Heb. בְּלִיַּעַל , ‘contemptibleness,’ ‘wickedness:' found 1Sa 2:12 al., and variously translated by the LXX."
 3. "It appears to have been subsequently personified, and used, as here, for a name of the Evil One."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Belial being here opposed to Christ, must denounce all manner of Antichristian uncleanness." 
 2. "Belial—Hebrew, 'worthlessness, unprofitableness, wickedness.'"
 3. "Translate, 'a believer with an unbeliever.'"
@@ -61,4 +61,4 @@ Note: The commentary provides various interpretations and etymologies of the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

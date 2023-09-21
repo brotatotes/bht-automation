@@ -4,7 +4,7 @@
 The ministration of the Spirit, as described by these commentators, refers to the transformative and empowering work of the Holy Spirit in the lives of believers under the new covenant. It is through the Spirit that God's grace and power are made available, enabling believers to live in obedience, experience blessings, and bear the fruit of the Spirit. This ministry is in contrast to the external rituals of the law, as the Spirit works internally, transforming hearts and empowering righteous living. It brings about a deep and intimate relationship with God, assuring believers of their salvation and inheritance in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be rather glorious" - emphasizing the idea of being invested in glory, suggesting that there is a greater level of glory to be attained.
 2. "Shall be found to be in part now" - indicating that the glory experienced in the present is only a partial manifestation, with the fullness of glory to be revealed in the future.
 3. "The glory of Christ and His saints" - highlighting the connection between the glory of believers and the glory of Christ, suggesting that they are intertwined and will be fully revealed together.
@@ -53,4 +53,4 @@ The ministration of the Spirit, as described by these commentators, refers to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

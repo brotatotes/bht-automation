@@ -9,7 +9,7 @@ The commentators collectively suggest that the Bible verse in question pertains 
 2. "Where did our Evangelist get this remarkable expression?"
 3. "In his supposed compilation from Matt. and Luke?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people were speculating about the identity of Jesus, some suggesting that he was Elijah, while others thought he might be a prophet or one of the prophets." 
 
 2. "This confusion and uncertainty among the people highlights the profound impact that Jesus had on those who encountered him. His teachings and miracles were so extraordinary that people struggled to fit him into preconceived categories."
@@ -39,4 +39,4 @@ The commentators collectively suggest that the Bible verse in question pertains 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

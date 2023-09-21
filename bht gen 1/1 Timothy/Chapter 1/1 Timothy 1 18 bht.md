@@ -9,7 +9,7 @@ In this verse, the author entrusts a charge to Timothy, emphasizing the importan
 2. "Holding fast faith and good conscience, which some having thrust from them made shipwreck concerning the faith." 
 3. "Whom I delivered over to Satan, that they may be disciplined not to blaspheme."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This charge—namely, 'that thou in them (so the Greek) mightest war,' that is, fulfil thy high calling, not only as a Christian, but as a minister officially, one function of which is, to 'charge some that they teach no other doctrine'." 
 2. "I commit—as a sacred deposit to be laid before thy hearers."
 3. "The prophecies which went before on thee—the intimations given by prophets respecting thee at thy ordination, 1 Timothy 4:14."
@@ -55,4 +55,4 @@ In this verse, the author entrusts a charge to Timothy, emphasizing the importan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

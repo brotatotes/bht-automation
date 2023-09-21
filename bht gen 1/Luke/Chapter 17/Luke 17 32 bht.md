@@ -9,7 +9,7 @@ The cautionary tale of Lot's wife serves as a reminder to not repeat the same mi
 2. "Remember her who did."
 3. "This caution serves as a reminder to not repeat the same mistakes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lot's wife—her 'look back,' for that is all that is said of her, and her recorded doom." 
 2. "Her heart was in Sodom still, and the 'look' just said, 'And must I bid it adieu?'" 
 3. "Lot's wife serves as a cautionary tale, a reminder of the danger of clinging to worldly desires and attachments."
@@ -47,4 +47,4 @@ The cautionary tale of Lot's wife serves as a reminder to not repeat the same mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

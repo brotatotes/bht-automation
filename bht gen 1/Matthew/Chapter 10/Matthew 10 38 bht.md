@@ -9,7 +9,7 @@ To be a disciple of Christ, we must be prepared to endure trials and burdens for
 2. "He does not here plainly mention His Cross; but leaves it to be understood."
 3. "Seeing then that we do thus understand it, his inference has no value for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "taking up one's cross"—in the sense of "being prepared for trials in general for Christ's sake"
 2. "a preparedness to go forth even to crucifixion"
 3. "a saying the more remarkable as our Lord had not as yet given a hint that He would die this death"
@@ -57,4 +57,4 @@ To be a disciple of Christ, we must be prepared to endure trials and burdens for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

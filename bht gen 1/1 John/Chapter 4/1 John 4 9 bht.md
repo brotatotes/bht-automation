@@ -4,7 +4,7 @@
 In this verse, the profound love of God is revealed through the sending of His only begotten Son, who serves as the ultimate proof of this divine love. The incarnation of Christ is emphasized as a remarkable demonstration of God's special love towards His elect. Through His sacrifice, Jesus embodies the nature and character of God, offering salvation and the opportunity for eternal life. This love not only provides redemption but also serves as a powerful motivation for believers to exhibit love towards one another.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the grand proof of God's love, His having sent 'His only-begotten Son, that we might live through Him,' who is the Life, and who has redeemed our forfeited life."
 2. "Otherwise, too, He could not have been our life, our 'propitiation,' or our 'Saviour.'"
 3. "It is also the grand motive to our mutual love."
@@ -38,4 +38,4 @@ In this verse, the profound love of God is revealed through the sending of His o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

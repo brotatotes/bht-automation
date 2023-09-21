@@ -9,7 +9,7 @@ The verse describes the organic unity of believers in Christ, emphasizing the di
 2. "The γάρ confirms the preceding ἓν κ . τὸ αὐτὸ πνεῦμα, by an analogy."
 3. "By the repetition, τὸ σῶμα, … τοῦ σώματος …, σῶμα, the unity of the members as an organic whole is more strongly set forth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unity, not unvarying uniformity, is the law of God in the world of grace, as in that of nature."
 2. "As the many members of the body compose an organic whole and none can be dispensed with as needless, so those variously gifted by the Spirit, compose a spiritual organic whole, the body of Christ."
 3. "So also is Christ—that is, the whole Christ, the head and body."
@@ -54,4 +54,4 @@ The verse describes the organic unity of believers in Christ, emphasizing the di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

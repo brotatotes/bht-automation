@@ -11,7 +11,7 @@ In the passage described, Jesus enters Jerusalem to the enthusiastic praise of t
 
 3. "Matt. certainly does not speak here so exactly, having transposed the anointing in Bethany."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out into Bethany with the twelve." - This verse sets the stage for Jesus' actions in Jerusalem and highlights his observant nature.
 
 2. "It was not now safe for the Lord to sleep in the city, nor, from the day of His Triumphal Entry, did He pass one night in it, save the last fatal one." - This quote reveals the increasing hostility towards Jesus in Jerusalem and foreshadows the events that will unfold.
@@ -54,4 +54,4 @@ In the passage described, Jesus enters Jerusalem to the enthusiastic praise of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

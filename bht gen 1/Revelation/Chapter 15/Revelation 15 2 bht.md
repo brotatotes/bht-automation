@@ -4,7 +4,7 @@
 The verse describes a sea of glass, clear and pristine like its own reflection. Mingled with fire, it signifies both purification and divine judgment. The redeemed, victorious over the beast and standing firm in their faith, find themselves on the shore of this sea, surrounded by the glory of God. Holding the harps of God, these instruments devoted to worship and praise, they express their joyful adoration in the presence of the Almighty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sea of glass represents the purified state of the saints, who have been cleansed by the baptism of water and the Spirit. It symbolizes their victory over sin and their standing in the presence of God." 
 
 2. "The mingling of fire in the sea of glass signifies the fiery trials that believers undergo in order to be purified. It represents the refining process that removes the impurities from their lives, just as gold is purified in a furnace."
@@ -55,4 +55,4 @@ The verse describes a sea of glass, clear and pristine like its own reflection. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

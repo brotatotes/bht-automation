@@ -9,7 +9,7 @@ In this verse, the stumbling of the Jewish people, their rejection of the Messia
 2. "The stress is on πέσωσιν, and it is the fall which is denied: not on ἵνα πέσωσιν, so that the purpose merely should be denied, and the fall admitted)? God forbid: but by their trespass salvation (has come) to the Gentiles, for to provoke them (Israel) to jealousy."
 3. "By this stumble of the Jews out of their national place in God’s favour, and the admission of the Gentiles into it, the very people thus excluded are to be stirred up to set themselves in the end effectually to regain, as a nation, that pre-eminence from which they are now degraded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Did they stumble" - that they should fall? God forbid; but through their fall... [DE WETTE]
 2. "through their fall" - best rendered "false step" [DE WETTE]
 3. "salvation is come to the Gentiles, to provoke them to jealousy" - emulation is a legitimate stimulus to what is good.
@@ -51,4 +51,4 @@ In this verse, the stumbling of the Jewish people, their rejection of the Messia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

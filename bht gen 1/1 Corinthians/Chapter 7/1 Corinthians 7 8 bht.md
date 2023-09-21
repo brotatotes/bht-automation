@@ -9,7 +9,7 @@ In this verse, the apostle Paul addresses the issue of marriage and singleness. 
 2. "καλόν, see on 1 Corinthians 7:1, it is good for them, i.e. ‘their best way.’"
 3. "ὡς κἀγώ, i.e. ἄγαμος. This brings the Apostle’s own circumstances more clearly before us than 1 Corinthians 7:7, which might be misunderstood: and there can be little doubt from this, that he never was married."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle Paul addresses the issue of marriage and singleness, emphasizing the importance of remaining unmarried for those who are able. He encourages the unmarried and widows to stay single, just as he himself is. This highlights the value of dedicating oneself fully to serving God without the distractions and responsibilities of marriage." 
 
 2. "Paul's words remind us that singleness is not a lesser state but a valid and honorable choice. It allows individuals to focus on their relationship with God and serve Him wholeheartedly. It is a calling that should be respected and supported within the Christian community." 
@@ -45,4 +45,4 @@ In this verse, the apostle Paul addresses the issue of marriage and singleness. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

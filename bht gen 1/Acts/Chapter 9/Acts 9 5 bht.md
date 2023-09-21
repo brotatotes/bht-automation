@@ -11,7 +11,7 @@ In this Bible verse, Saul, who later becomes the apostle Paul, encounters a divi
 
 3. "Such appearances could hardly form the subject of autoptic testimony which should rank with that of the other apostles: this, on the contrary, was no ἔκστασις, but the real bodily appearance of the risen Jesus: so that it might be adduced as the ground of testimony to His Resurrection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus knew Saul ere Saul knew Jesus."
 2. "That Saul saw as well as heard this glorious Speaker."
 3. "The term 'JESUS' is purposely chosen, to convey to him the thrilling information that the hated name which he sought to hunt down—'the Nazarene,' was now speaking to him from the skies, 'crowned with glory and honor'."
@@ -57,4 +57,4 @@ In this Bible verse, Saul, who later becomes the apostle Paul, encounters a divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

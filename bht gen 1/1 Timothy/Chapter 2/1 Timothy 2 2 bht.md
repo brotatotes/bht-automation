@@ -4,7 +4,7 @@
 The Bible verse encourages Christians to pray for kings and those in authority, recognizing the importance of their character, plans, and the impact they have on society. Praying for them brings peace and order to the state. The prayers aim for the hearts of leaders to be inclined towards righteousness, protecting the freedom of religion and promoting moral behavior. This promotes a tranquil and quiet life, where godliness and honesty are upheld, resulting in a dignified and reverent society.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prayers of Christians for the government bring down from heaven peace and order in a state."
 2. "He is peaceable who makes no disturbance; he is quiet who is himself free from disturbance."
 3. "As 'piety' is in relation to God, 'gravity' is propriety of behavior among men."
@@ -48,4 +48,4 @@ The Bible verse encourages Christians to pray for kings and those in authority, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

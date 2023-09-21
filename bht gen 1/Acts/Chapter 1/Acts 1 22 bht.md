@@ -9,7 +9,7 @@ In this verse, we find Peter urging the selection of a new apostle to replace Ju
 2. "This one event was the passage-point between the Lord’s life of humiliation and His life of glory, the completion of His work below and beginning of His work above."
 3. "It is remarkable that Peter here lays down experience of matters of fact, not eminence in any subjective grace or quality, as the condition of Apostleship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beginning from the baptism of John—by whom our Lord was not only Himself baptized, but first officially announced and introduced to his own disciples." 
 2. "How clearly is the primary office of the apostles here expressed: (1) to testify, from personal observation, to the one great fact of 'the resurrection of the Lord Jesus'; (2) to show how this glorified His whole previous life, of which they were constant observers, and established His divine claims." 
 3. "The apostles were to be witnesses of the resurrection, not just in word, but through their personal experiences and observations."
@@ -45,4 +45,4 @@ In this verse, we find Peter urging the selection of a new apostle to replace Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

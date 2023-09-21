@@ -9,7 +9,7 @@ From the extremity of the visible plane of the earth, where the sky touches that
 2. "Shall proceed to the point where the sky touches that plane on the other side." 
 3. "The verse emphasizes the vastness of God's gathering, encompassing the entire visible realm from earth to sky."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the tribes of Israel were anciently gathered together by sound of trumpet, so any mighty gathering of God's people, by divine command, is represented as collected by sound of trumpet."
 2. "The ministry of angels, employed in all the great operations of Providence, is here held forth as the agency by which the present assembling of the elect is to be accomplished."
 3. "No one can fail to see that the language swells beyond any gathering of a human family into a Church upon earth, and forces the thoughts onward to that gathering of the Church 'at the last trump,' to meet the Lord in the air, which is to wind up the present scene."
@@ -42,4 +42,4 @@ From the extremity of the visible plane of the earth, where the sky touches that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

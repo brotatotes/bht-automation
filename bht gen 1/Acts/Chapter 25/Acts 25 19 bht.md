@@ -9,7 +9,7 @@ This verse is a dialogue between Festus and Agrippa, where Festus describes Paul
 2. "The term δεισιδαιμονία (deisidaimonia) carries the connotation of excessive fear or anxiety about religious matters."
 3. "Festus uses this term to describe Paul's beliefs, suggesting that he sees them as a form of religious devotion or piety rather than mere superstition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It cannot be supposed that Festus would use the word in any discourteous sense in addressing his Jewish guest."
 2. "Thus speaks this miserable Festus of Him to whom every knee shall bow."
 3. "The insignificance of the whole affair in the eyes of Festus is manifest."
@@ -48,4 +48,4 @@ This verse is a dialogue between Festus and Agrippa, where Festus describes Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

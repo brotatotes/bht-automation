@@ -9,7 +9,7 @@ The verse discussed by these commentators delves into a profound contrast betwee
 2. "This faith is neither reasoning, nor knowledge, but a reception of divine Truth declared by One who came from God; and so it is far above reasoning and knowledge."
 3. "The ἐπίγεια are the matters relating to the new birth which have hitherto been spoken of; called so because that side of them has been exhibited which is upon earth, and happens among men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Regeneration, the gate of entrance to the kingdom of God on earth." 
 2. "Nicodemus should have understood better, as a truth even of that more earthly economy to which he belonged." 
 3. "The things of the new and more heavenly evangelical economy, only to be fully understood after the effusion of the Spirit from heaven through the exalted Saviour."
@@ -57,4 +57,4 @@ The verse discussed by these commentators delves into a profound contrast betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful testament to the impact of the gospel in
 2. "As indeed, 'siquidem.'"
 3. "This confirmation was internal, by faith and permanence in the truth, not external, by miracles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The testimony of Christ was confirmed among you." 
 2. "God confirmed, or gave effect to the Gospel among the Corinthians by their accepting it and setting their seal to its truth." 
 3. "Through the inward power of His Spirit, and the outward gifts and miracles accompanying it."
@@ -57,4 +57,4 @@ The verse being described is a powerful testament to the impact of the gospel in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

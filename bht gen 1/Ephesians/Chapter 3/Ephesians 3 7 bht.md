@@ -4,7 +4,7 @@
 The verse being described is a powerful declaration of the divine origin and transformative nature of the apostleship. It emphasizes that the grace of God is the foundation of this calling, highlighting that it is not based on human merit. The verse also underlines the active and empowering role of God's power, attributing the effectiveness of the ministry to His working. Furthermore, it acknowledges the personal involvement of the apostle while recognizing that it is ultimately God who enables and accomplishes the work.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gift of the grace of God" is the foundation of the Gospel, emphasizing that it is not something earned or deserved, but freely given by God. 
 2. The phrase "given to me" highlights the personal nature of the Gospel, as the author acknowledges that it was given to them individually. 
 3. The "effectual working of His power" emphasizes the active and transformative nature of God's power, which is at work in the Gospel.
@@ -50,4 +50,4 @@ The verse being described is a powerful declaration of the divine origin and tra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

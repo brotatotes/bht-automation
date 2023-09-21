@@ -11,7 +11,7 @@ Beloved and chosen, as part of the Christian body, we are called to manifest com
 
 (Note: The commentary is quite lengthy and complex, so these quotes provide a concise summary of the main points.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Election from eternity precedes sanctification in time; the sanctified, feeling God's love, imitate it." 
 2. "Bowels express the yearning compassion, which has its seat in the heart, and which we feel to act on our inward parts." 
 3. "True 'lowliness of mind'; not the mock 'humility' of the false teachers."
@@ -50,4 +50,4 @@ Beloved and chosen, as part of the Christian body, we are called to manifest com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

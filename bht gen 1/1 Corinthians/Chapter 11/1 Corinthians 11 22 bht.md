@@ -9,7 +9,7 @@ In this passage, the Apostle Paul rebukes the Corinthians for their behavior dur
 2. "This contempt was expressed by their not sharing with the congregation the portion which they brought."
 3. "What must I say to you? Shall I praise you in this matter? I praise you not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That is the place to satiate the appetite, not the assembly of the brethren."
 2. "The congregation mostly composed of the poor, whom 'God hath chosen,' however ye show contempt for them."
 3. "I praise you not."
@@ -59,4 +59,4 @@ These quotes highlight the Apostle's dissatisfaction with the custom of feasting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

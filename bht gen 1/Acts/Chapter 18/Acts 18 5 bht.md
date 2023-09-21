@@ -9,7 +9,7 @@ In this Bible verse, we see how Paul, upon the arrival of Silas and Timotheus, w
 2. "A crisis in the work being imminent, which resulted in their rejection of the word of life."
 3. "He discoursed in the synagogue, but when Silas and Timotheus arrived, he was earnestly occupied in discoursing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul was pressed in the spirit—rather (according to what is certainly the true reading) 'was pressed with the word'; expressing not only his zeal and assiduity in preaching it, but some inward pressure which at this time he experienced in the work."
 2. "His early ministry at Corinth was colored by these feelings. Himself deeply humbled, his power as a preacher was more than ever felt to lie in demonstration of the Spirit."
 3. "Such emotions are known only to the ministers of Christ, and, even of them, only to such as 'travail in birth until Christ be formed in' their hearers."
@@ -52,4 +52,4 @@ In this Bible verse, we see how Paul, upon the arrival of Silas and Timotheus, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

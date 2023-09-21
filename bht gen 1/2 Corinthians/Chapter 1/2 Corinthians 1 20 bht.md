@@ -9,7 +9,7 @@ In Him, all the promises of God find their solid affirmation and fulfillment, br
 2. "Through Him is the Amen, for glory to God by our (the Apostles’) means."
 3. "Thus ἀμήν will be merely a strengthening of ναί the affirmation and completion of God’s promises."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Him is the 'yea' - faithfulness in His word" - The commentary highlights that in Christ, there is complete faithfulness and reliability in God's promises. This emphasizes the trustworthiness of God's word and His commitment to fulfilling His promises.
 
 2. "In Him is faithfulness ('yea') to His word, 'wherefore through Him' is the immutable verification of it ('Amen')" - The commentary explains that through Christ, God's promises are not only affirmed but also made certain. The use of "Amen" signifies the unchanging nature of God's word and His oath, providing double assurance of their fulfillment.
@@ -65,4 +65,4 @@ These quotes collectively convey the idea that in Christ, there is unwavering fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

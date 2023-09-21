@@ -4,7 +4,7 @@
 In this verse, the author expresses gratitude to God, acknowledging their faithful service that has been passed down through generations. They mention the importance of maintaining a pure conscience and serving God according to one's own understanding. The remembrance of those who have gone before, who have walked in the same faith, brings comfort and joy to the author as they approach the end of their own life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He does not mean to put on the same footing the Jewish and Christian service of God; but simply to assert his own conscientious service of God as he had received it from his progenitors."
 2. "The memory of those who had gone before to whom he is about to be gathered, is now, on the eve of death, pleasant to him; hence also, he calls to mind the faith of the mother and grandmother of Timothy; as he walks in the faith of his forefathers, so Timothy should persevere firmly in the faith of his parent and grandparent."
 3. "The cause of Paul's feeling thankful is, not that he remembers Timothy unceasingly in his prayers, but for what Timothy is in faith and graces."
@@ -54,4 +54,4 @@ In this verse, the author expresses gratitude to God, acknowledging their faithf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

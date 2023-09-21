@@ -9,7 +9,7 @@ The encounter between Mary and Elisabeth was a moment filled with the presence o
 2. "The movement of the babe in her womb was part of the effect of the same spiritual influence."
 3. "The known mysterious effects of sympathy in such cases, at least lead us to believe that there may be corresponding effects where the causes are of a kind beyond our common experience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is plain that this maternal sensation was something extraordinary." 
 2. "A sympathetic emotion of the unconscious babe, at the presence of the mother of his Lord." 
 3. "The babe leaped, signifying a recognition and response to the presence of the Messiah, even in the womb."
@@ -59,4 +59,4 @@ The encounter between Mary and Elisabeth was a moment filled with the presence o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

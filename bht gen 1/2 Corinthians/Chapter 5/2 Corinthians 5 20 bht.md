@@ -4,7 +4,7 @@
 Believers are appointed as ambassadors on behalf of Christ, carrying out His mission and delivering His message to the world. As representatives of a higher authority, they have a responsibility to accurately reflect God's character and values. Their purpose is to go into the world, sharing the good news of salvation and offering hope and reconciliation to all. Reconciliation extends beyond initial salvation to include ongoing forgiveness and embracing the act of God in Christ's death. God, through His ambassadors, extends His invitation with unparalleled condescension and tender mercies, urging all to accept His offer of peace and pardon.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Translate in both cases 'on Christ's behalf.'" 
 2. "Such 'beseeching' is uncommon in the case of 'ambassadors,' who generally stand on their dignity." 
 3. "Be reconciled to God, that is, let God reconcile you to Himself."
@@ -52,4 +52,4 @@ Believers are appointed as ambassadors on behalf of Christ, carrying out His mis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

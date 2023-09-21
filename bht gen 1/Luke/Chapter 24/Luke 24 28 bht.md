@@ -4,7 +4,7 @@
 In this Bible verse, Jesus subtly indicates that he intends to continue his journey, as if he would go further. His actions speak volumes, as he persists in walking forward without explicitly stating his intention. However, the disciples, influenced by Jesus' presence and wanting more of his company, press him to stay. This encounter showcases Jesus' modesty, civility, and prudence, as he adapts his actions to the situation at hand.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "made as though" - This phrase suggests that the disciples were pretending or acting as if they were in trouble, possibly to test Jesus or to see how he would respond to their distress.
 
 2. "Compare Mark 6:48" - This reference to another biblical passage invites the reader to explore a similar incident in the Gospel of Mark, which may provide additional insights or perspectives on the disciples' actions and Jesus' response.
@@ -54,4 +54,4 @@ In this Bible verse, Jesus subtly indicates that he intends to continue his jour
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

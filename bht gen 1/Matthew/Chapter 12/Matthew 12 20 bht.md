@@ -9,7 +9,7 @@ In this verse, we see a depiction of Jesus' compassionate and gentle nature towa
 2. "Until He shall have brought out the conflict, the cause, the judgment, unto victory, caused it, i.e., to issue in victory."
 3. "Such shall be his behaviour and such his gracious tenderness, during the day of grace: while the conflict is yet going on, the judgment not yet decided."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grandeur and completeness of Messiah's victories would prove, it seems, not more wonderful than the unobtrusive noiselessness with which they were to be achieved."
 2. "And whereas one rough touch will break a bruised reed, and quench the flickering, smoking flax, His it should be, with matchless tenderness, love, and skill, to lift up the meek, to strengthen the weak hands and confirm the feeble knees."
 3. "To comfort all that mourn, to say to them that are of a fearful heart, Be strong, fear not."
@@ -48,4 +48,4 @@ In this verse, we see a depiction of Jesus' compassionate and gentle nature towa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

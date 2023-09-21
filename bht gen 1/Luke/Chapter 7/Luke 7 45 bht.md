@@ -4,7 +4,7 @@
 In this verse, the absence of a kiss signifies a lack of love or affection, emphasizing the significance of genuine care and deep emotional connection. While the host neglected to offer a customary welcome, this unbidden woman continued to shower the Savior's feet with tender and heartfelt kisses, expressing her continuous display of love and devotion. The act of kissing becomes a powerful symbol of intimacy and heartfelt expression, in contrast to the lack of affection shown by others in the story.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No kiss—of salutation." This phrase highlights the absence of a customary greeting, indicating a lack of love or affection between the individuals involved.
 
 2. "How much love was here?" This question prompts us to consider the depth of love that should have been present in this situation, emphasizing the significance of genuine affection and care.
@@ -39,4 +39,4 @@ In this verse, the absence of a kiss signifies a lack of love or affection, emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

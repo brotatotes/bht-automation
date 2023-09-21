@@ -11,7 +11,7 @@ In this verse, a speaker is granted permission to defend himself. Paul, who is c
 
 3. "The stretching out of the hand was not to ensure silence, but rather a gesture commonly used by speakers to emphasize their words."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Agrippa said—Being a king" - This quote highlights the significance of Agrippa's position as a king, indicating his authority and power in the situation.
 2. "Paul stretched forth the hand—chained to a soldier" - This quote emphasizes the physical constraint that Paul was under, being chained to a soldier. It adds context to the actions and gestures described in the verse.
 3. "and see on Acts 26:1" - This quote suggests that there is additional information or context provided in Acts 26:1 that is relevant to understanding the scene described in the commentary. It encourages the reader to explore further for a deeper understanding.
@@ -42,4 +42,4 @@ In this verse, a speaker is granted permission to defend himself. Paul, who is c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

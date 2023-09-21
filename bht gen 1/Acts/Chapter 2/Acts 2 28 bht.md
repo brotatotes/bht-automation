@@ -11,7 +11,7 @@ In this verse, the speaker expresses gratitude to God for revealing the ways of 
 
 3. "These two last clauses refer to the Resurrection and the Ascension respectively." This statement helps to interpret the previous phrases in the context of the Resurrection and Ascension of Jesus. It connects the promises of God's revelation and the fullness of joy with these significant events in the Christian faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou hast made known to me the ways of life" - This verse refers to the revelation of resurrection life. It signifies the understanding and knowledge of the eternal life that comes through Christ's resurrection.
 
 2. "Thou shalt make me full of joy with thy countenance" - This phrase points to the future glory that believers will experience in the presence of God. It suggests that the ultimate source of joy and fulfillment is found in the radiant face of God.
@@ -54,4 +54,4 @@ In this verse, the speaker expresses gratitude to God for revealing the ways of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

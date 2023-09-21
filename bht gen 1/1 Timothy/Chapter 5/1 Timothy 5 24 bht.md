@@ -9,7 +9,7 @@ Commentary on the Bible verse focuses on the distinction between sins that are o
 2. "Of some men the sins are evident, going before them to judgment." 
 3. "But some men again, their sins follow, after-proof brings out the correctness or otherwise of the judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two kinds of sins are specified: those palpably manifest (so the Greek for 'open beforehand' ought to be translated; so in 1 Timothy 5:24, it is translated 'evident'; literally, 'before' the eyes, that is, notorious), further explained as 'going before to judgment'; and those which follow after the men ('some men they, that is, their sins, follow after'), namely, not going beforehand, loudly accusing, but hidden till they come to the judgment."
 2. "Both alike 'cannot be hid'; the former class in the case of bad and good are manifest already; the latter class in the case of both are not manifest now, but shall be so at the final judgment."
 3. "Thus he implies that Timothy can only be responsible if he connive at manifest, or evident sins; not that those that are otherwise shall escape judgment at last: just as in the case of good works, he can only be responsible for taking into account in his judgments those which are patent to all, not those secret good works which nevertheless will not remain hidden at the final judgment."
@@ -57,4 +57,4 @@ Commentary on the Bible verse focuses on the distinction between sins that are o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

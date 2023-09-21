@@ -9,7 +9,7 @@ As we reflect on this Bible verse, we witness a poignant moment where Christ add
 2. "Nor again were His sacred sufferings a mere popular tragedy for street-bewailing."
 3. "Many of those who now bewailed Him perished in the siege of Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Noble spirit of compassion, rising above His own dread endurances"
 2. "In tender commiseration of sufferings yet in the distance and far lighter"
 3. "But without His supports and consolations"
@@ -43,4 +43,4 @@ As we reflect on this Bible verse, we witness a poignant moment where Christ add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

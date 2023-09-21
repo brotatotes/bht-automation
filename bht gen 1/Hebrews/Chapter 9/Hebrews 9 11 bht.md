@@ -4,7 +4,7 @@
 The passage being described speaks of the introduction of Christ as the ultimate High Priest, surpassing the previous Levitical priesthood. He brings about a more perfect system of atonement and salvation, freeing the conscience from guilt. Jesus, as the High Priest, offers a more radical and complete redemption, enabling personal communion with God and the purging of the conscience. This is accomplished through his glorified body, serving as a greater and more perfect tabernacle, surpassing the earthly temples of the Old Testament.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ . . . High Priest," exactly answers to Leviticus 4:5, "the priest that is anointed."
 2. "So not our righteousness, nor any other priest's sacrifice, but Christ alone atones."
 3. "His glorified body, as the meeting place of God and all Christ's redeemed, and the angels, answers to the heavens through which He passed, and passes."
@@ -52,4 +52,4 @@ Note: The commentary provides additional insights into the Greek language and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

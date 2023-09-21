@@ -9,7 +9,7 @@ In this verse, we see the importance of eyewitness testimony and credibility as 
 2. "The presence of these witnesses would have added credibility to Paul's account of his conversion and his subsequent ministry."
 3. "Their presence also highlights the importance of eyewitness testimony in confirming the truth of the Gospel message."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No mention of Cornelius' name, much less of his high position, as if that affected the question."
 2. "To the charge, 'Thou wentest in to men uncircumcised,' he simply speaks of the uncircumcised 'man' to whom he had been divinely sent."
 3. "He had been divinely sent."
@@ -42,4 +42,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

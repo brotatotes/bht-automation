@@ -9,7 +9,7 @@ In this verse, the writer emphasizes the personal nature of the message, highlig
 2. "The dative τῷ υἱῷ indicates that the things written were intended for the benefit or advantage of the son."
 3. "This dative construction emphasizes the personal nature of the message, highlighting the intimate relationship between the writer and the recipient."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ Himself read, and would have us to read, the Old Testament, in which some otherwise evangelical interpreters find no prophecies, or virtually none, of the sufferings of the Son of man."
 2. "All written by the prophets concerning the Son of man... be accomplished."
 3. "Showing how Christ Himself read, and would have us to read, the Old Testament."
@@ -38,4 +38,4 @@ In this verse, the writer emphasizes the personal nature of the message, highlig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

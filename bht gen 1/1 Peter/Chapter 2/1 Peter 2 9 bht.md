@@ -9,7 +9,7 @@ The Bible verse describes believers as a chosen and blessed people, a special ra
 2. "The expression is from the LXX of Exodus 19:6. In the N.T. church these two elements, the kingship and the priesthood, are united in every individual believer, as in our great Head, Jesus Christ."
 3. "The light to which St. John alludes, when he says, 'ἐὰν ἐν τῷ φωτὶ περιπατῶμεν, ὡς αὐτός ἐστιν ἐν τῷ φωτί.' Had not this been intended, surely neither εἰς nor αὐτοῦ would have been used."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers, like Christ, the antitypical Melchisedec, are at once kings and priests."
 2. "They have no reason to magnify themselves above others for once they had been in the same darkness, and only through God's grace had been brought to the light which they must henceforth show forth to others."
 3. "Peter, with characteristic boldness, brands as darkness what all the world calls light; reason, without the Holy Spirit, in spite of its vaunted power, is spiritual darkness."
@@ -55,4 +55,4 @@ The Bible verse describes believers as a chosen and blessed people, a special ra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

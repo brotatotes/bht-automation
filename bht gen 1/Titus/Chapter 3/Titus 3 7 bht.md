@@ -9,7 +9,7 @@ This verse speaks of our justification through the grace of God, which is not ea
 2. "The aorist participle 'having been justified' is antecedent to 'we might be made heirs,' emphasizing the theological consideration of the place of justification in the Christian life."
 3. "The grace of the Father is the efficient cause of our justification in Christ, so that we might be made heirs according to the hope of eternal life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That being (having been) justified (accounted righteous through faith at our 'regeneration,' and made righteous by the daily 'renewing of the Holy Ghost') by His grace (as opposed to works) we should be made heirs." 
 2. "His grace—Greek, 'the grace of the former,' that is, God."
 3. "heirs—according to the hope of eternal life; the eternal inheritance fully satisfying the hope."
@@ -51,4 +51,4 @@ This verse speaks of our justification through the grace of God, which is not ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

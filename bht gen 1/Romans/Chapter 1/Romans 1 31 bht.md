@@ -4,7 +4,7 @@
 The verse being described is a powerful indictment of human depravity and moral decay. It speaks of people who have been given over to a corrupted mindset due to their lack of understanding and knowledge of God. They are described as covenant breakers, showing no regard for their commitments and promises. Furthermore, they are without natural affection, implacable, and unmerciful, lacking the basic qualities of empathy, compassion, and forgiveness. This verse paints a vivid picture of the devastating effects of sin on individuals and society as a whole, revealing the desperate need for redemption and transformation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gave them over—or 'up' (see on :-)." 
 2. "To do those things which are not convenient—in the old sense of that word, that is, 'not becoming,' 'indecorous,' 'shameful.'"
 
@@ -46,4 +46,4 @@ The verse being described is a powerful indictment of human depravity and moral 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

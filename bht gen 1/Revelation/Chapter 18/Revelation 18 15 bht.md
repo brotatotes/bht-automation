@@ -4,7 +4,7 @@
 The verse being described discusses the impact of a city upon its merchants, who derived their wealth from their association with it. These merchants, aware of their involvement in the city's wrongdoing, stand at a distance out of fear of its impending torment. Some commentators suggest that they may even outwardly renounce their previous allegiance to the city, seeking to distance themselves from its destruction. This verse portrays the merchants' apprehension and the profound consequences of their relationship with the city.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Made rich by her" - The commentary highlights that the people mentioned in the verse derived their wealth from the subject being discussed, emphasizing the source of their riches.
 2. "Stand afar off for the fear" - This quote suggests that the people mentioned in the verse are keeping their distance due to fear, indicating the impact and power of the subject being discussed.
 3. "Wailing" - The commentary uses this word to describe the mourning of the people, emphasizing the depth of their sorrow and lamentation.
@@ -32,4 +32,4 @@ The verse being described discusses the impact of a city upon its merchants, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

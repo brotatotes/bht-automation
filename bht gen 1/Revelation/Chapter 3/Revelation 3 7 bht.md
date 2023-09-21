@@ -4,7 +4,7 @@
 In this verse, the commentator's insights reveal a profound description of Christ's authority and role. Christ is hailed as the Holy One, truly divine and genuine, consecrated and set apart for God's service. He is the ultimate source of truth and possesses the key of David, representing supreme authority and control over the spiritual city. Through Christ, the Scriptures are opened to those who seek Him, while being shut to those who reject Him. His power is unmatched, allowing Him to determine who gains access to the kingdom and who does not.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that is holy—as in the Old Testament, 'the Holy One of Israel.' Thus Jesus and the God of the Old Testament are one."
 2. "true—Greek, 'alethinos': 'VERY God,' as distinguished from the false gods and from all those who say that they are what they are not: real, genuine."
 3. "he that hath the key of David—the antitype of Eliakim, to whom the 'key,' the emblem of authority 'over the house of David,' was transferred from Shebna, who was removed from the office of chamberlain or treasurer, as unworthy of it."
@@ -45,4 +45,4 @@ In this verse, the commentator's insights reveal a profound description of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The commentators provide insights into an unidentified Bible verse. They emphasi
 2. "This one is put forward to indicate their deep ingratitude, if they did complain, seeing that the only point of difference in their treatment had been a preference."
 3. "The irony here reaches its height."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "wherein you were inferior—that is, were treated with less consideration by me than were other churches."
 2. "I myself—I made a gain of you neither myself, nor by those others whom I sent, Titus and others."
 3. "wrong—His declining support from the Corinthians might be regarded as the denial to them of a privilege, and a mark of their spiritual inferiority, and of his looking on them with less confidence and love."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

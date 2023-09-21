@@ -9,7 +9,7 @@ The verse being described is a powerful call to recognize the significance of gi
 2. "The τὰ ἐνόντα are the contents of the vessel, which vessel is ὑμεῖς."
 3. "Such persons being καθαροὶ τῇ καρδίᾳ, to them, as τοῖς καθαροῖς, πάντα καθαρά."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give alms . . . and . . . all . . . clean—a principle of immense value."
 2. "Our Lord bids them exemplify the opposite character, and then their outside, ruled by this, would be beautiful in the eye of God."
 3. "Their meals would be eaten with clean hands, though never so fouled with the business of this worky world."
@@ -51,4 +51,4 @@ These quotes highlight the idea that giving to the poor can serve as a way to re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

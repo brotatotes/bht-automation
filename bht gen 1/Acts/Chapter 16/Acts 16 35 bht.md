@@ -9,7 +9,7 @@ In a dramatic turn of events, the Roman pretors, possibly influenced by the eart
 2. "I should rather set it down to calmer thought, repudiating the tumultuary proceeding of the evening before."
 3. "The lictors, 'bearers of the rods,' were carried before the colonial duumviri."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cause of this change can only be conjectured."
 2. "When the commotion ceased, reflection would soon convince them of the injustice they had done."
 3. "If rumor reached them that the prisoners were somehow under supernatural protection, they might be the more awed into a desire to get rid of them."
@@ -55,4 +55,4 @@ In a dramatic turn of events, the Roman pretors, possibly influenced by the eart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

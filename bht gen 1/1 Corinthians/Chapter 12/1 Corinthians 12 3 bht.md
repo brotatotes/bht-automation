@@ -9,7 +9,7 @@ In this passage, it is clear that the Holy Spirit's influence is attributed to C
 2. "Jesus (not Christ, the Name of office, itself in some measure the object of faith, but Jesus, the personal Name, the historical Person whose life was matter of fact) is accursed." 
 3. "By these last words the influence of the Holy Spirit is widened by the Apostle from the supernatural gifts to which perhaps it had been improperly confined, to the faith and confession of every Christian."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same Spirit is called at one time 'the Spirit of GOD'; at another, 'the HOLY Ghost,' or 'Holy Spirit.' Infinite Holiness is almost synonymous with Godhead." 
 2. "Here, 'say' means a spiritual and believing confession of Him. Jesus—not an abstract doctrine, but the historical, living God-man." 
 3. "The spiritual man feels Him to be the Source of all blessings and to be severed from Him is to be accursed. 'Lord' is the Septuagint translation for the incommunicable Hebrew name JEHOVAH."
@@ -54,4 +54,4 @@ In this passage, it is clear that the Holy Spirit's influence is attributed to C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the commentator highlights the concept of decay and destruction, 
 
 3. The different translations of "διαφθοράν" highlight the concept of decay and the consequences of sin. (Quote 27)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wilt not leave my soul in hell—in its disembodied state." This quote highlights the idea that the verse is referring to the soul's state after death, suggesting that it will not be abandoned or left in a state of despair.
 2. "Neither . . . suffer thine Holy One to see corruption—in the grave." This quote emphasizes the belief that the Holy One, referring to Jesus, will not experience decay or corruption in the grave, indicating his divine nature and victory over death.
 3. "In its disembodied state . . . in the grave." These phrases further clarify the commentary's interpretation, distinguishing between the soul's state after death and the physical body's decay in the grave.
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the concept of decay and destruction, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

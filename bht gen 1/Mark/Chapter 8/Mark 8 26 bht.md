@@ -9,7 +9,7 @@ In this verse, we see Jesus prohibiting the man from returning to the village, e
 2. "No, nor so much as tell it to any who dwelt in the village." 
 3. "The emphasis here is on the secrecy and confidentiality of the miracle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Retirement in this case would be salutary to himself."
 2. "Peter's noble confession of Christ."
 3. "Our Lord's first explicit announcement of his approaching sufferings, death, and resurrection."
@@ -47,4 +47,4 @@ In this verse, we see Jesus prohibiting the man from returning to the village, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this profound Bible verse, Jesus reveals that the hour of His passion has arr
 2. "Judgment, properly so called, the work of the Spirit who was to come, on the world, which ὅλος ἐν τῷ πονηρῷ κεῖται."
 3. "The casting out shall be gradual, as the drawing in the next verse. But after the death of Christ the casting out began, and its first-fruits were, the coming in of the Gentiles into the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now is the judgment of this world—the world that 'crucified the Lord of glory' (1 Corinthians 2:8), considered as a vast and complicated kingdom of Satan, breathing his spirit, doing his work, and involved in his doom, which Christ's death by its hands irrevocably sealed."
 2. "How differently is that fast-approaching 'hour' regarded in the kingdoms of darkness and of light! 'The hour of relief; from the dread Troubler of our peace—how near it is! Yet a little moment, and the day is ours!' So it was calculated and felt in the one region."
 3. "'Now shall the prince of this world be cast out,' is a somewhat different view of the same event. We know who was right. Though yet under a veil, He sees the triumphs of the Cross in unclouded and transporting light."
@@ -57,4 +57,4 @@ In this profound Bible verse, Jesus reveals that the hour of His passion has arr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

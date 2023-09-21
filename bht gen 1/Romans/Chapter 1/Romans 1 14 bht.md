@@ -9,7 +9,7 @@ This verse speaks of the apostle Paul's sense of indebtedness to preach the Gosp
 2. "These words must not be pressed as applying to any particular churches, or as if any one of them designated the Romans themselves, or even as if σοφοῖς belonged to Ἕλλησιν, and ἀνοήτοις to βαρβάροις." 
 3. "Notice that he does not call himself a debtor to the Jews for they can hardly be included in βαρβάροις."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul recognizes that he has a debt to both the Greeks and the Barbarians, highlighting his sense of obligation to share the gospel with all people, regardless of their cultural background or social status."
 2. "By acknowledging his debt to both the cultivated Greeks and the rude Barbarians, Paul emphasizes the universal nature of the gospel message, which is meant to reach people from all walks of life."
 3. "This statement reflects Paul's humility and his understanding that he has a responsibility to bring the good news of Christ to everyone, regardless of their cultural or societal differences."
@@ -48,4 +48,4 @@ This verse speaks of the apostle Paul's sense of indebtedness to preach the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

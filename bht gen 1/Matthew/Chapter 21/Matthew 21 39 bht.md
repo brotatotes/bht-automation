@@ -9,7 +9,7 @@ This verse describes the rejection and exclusion of Jesus, symbolized by his bei
 2. "In Mark the order is different, ἀπέκτειναν κ . ἐξέβ . ἔξω." 
 3. "See also John 19:17, and Hebrews 13:11-12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of casting him out of the vineyard symbolizes the rejection and exclusion of Jesus from the religious establishment. It is a powerful image of the religious leaders' refusal to accept Jesus as the Messiah." 
 
 2. "The killing of the son in the parable foreshadows the crucifixion of Jesus. It highlights the extreme hostility and violence that Jesus would face from those who opposed him." 
@@ -32,4 +32,4 @@ This verse describes the rejection and exclusion of Jesus, symbolized by his bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

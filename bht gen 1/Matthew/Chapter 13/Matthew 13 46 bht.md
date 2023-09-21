@@ -4,7 +4,7 @@
 In this verse, we find a powerful description of God's love. It is a love that is not earned or deserved, but freely given to all of humanity. This love is so valuable and precious that it requires us to let go of everything else in our pursuit of it. Through Jesus' sacrificial death on the cross, God's love is fully expressed, offering us the opportunity for eternal life and reconciliation with Him. It is a love that knows no boundaries and is willing to give up everything for our sake.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The one pearl of great price, instead of being found by accident, as in the former case, is found by one whose business it is to seek for such, and who finds it just in the way of searching for such treasures."
 2. "But in both cases the surpassing value of the treasure is alike recognized, and in both all is parted with for it."
 3. "The object of this brief parable is the same as that of the Tares and Wheat. But as its details are fewer, so its teaching is less rich and varied."
@@ -37,4 +37,4 @@ In this verse, we find a powerful description of God's love. It is a love that i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

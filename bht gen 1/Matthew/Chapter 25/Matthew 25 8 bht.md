@@ -4,7 +4,7 @@
 The foolish virgins, deeply regretting their lack of preparedness, acknowledge the wisdom of the wise and seek their assistance. The imagery of the lamps going out illustrates the diminishing faith of those who only profess religion outwardly. This passage serves as a warning against negligence and emphasizes the urgency of nurturing and upholding genuine faith before facing the uncertainty of death or judgment. In their desperation, the foolish virgins realize the futility of seeking help elsewhere and come to recognize the emptiness of their own self-love-driven desires for grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ah! now at length they have discovered not only their own folly, but the wisdom of the other class, and they do homage to it."
 2. "They did not perhaps despise them before, but they thought them righteous overmuch; now they are forced, with bitter mortification, to wish they were like them."
 3. "They are faced with the consequences of their lack of preparation and are now seeking help from those who were wise enough to be prepared."
@@ -43,4 +43,4 @@ The foolish virgins, deeply regretting their lack of preparedness, acknowledge t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

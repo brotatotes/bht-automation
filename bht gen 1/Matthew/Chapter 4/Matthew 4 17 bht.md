@@ -9,7 +9,7 @@ From the moment Jesus began his public ministry, he echoed the urgent message of
 2. "It is not correct to suppose...that this preaching of repentance was of a different character from the after-teaching of our Lord."
 3. "We recognize the same formula, though only partly cited, in ch. Matthew 10:7: Luke 10:10, and find our Lord still preaching repentance, Luke 13:3, after repeated declarations of His Messiahship."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Repent; for the kingdom of heaven is at hand" - This summons by Jesus echoes the message of John the Baptist, emphasizing the urgency of repentance in light of the imminent arrival of the kingdom of heaven.
 
 2. "Our Lord sometimes speaks of the new kingdom as already come... but the economy of it was only 'at hand' until the blood of the cross was shed" - Jesus' ministry and presence on earth marked the beginning of the kingdom of heaven, but its full realization awaited the sacrifice of Jesus on the cross and the outpouring of the Holy Spirit on Pentecost.
@@ -60,4 +60,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

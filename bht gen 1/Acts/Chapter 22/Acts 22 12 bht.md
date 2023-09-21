@@ -9,7 +9,7 @@ This verse describes a devout and respected individual, highly regarded among bo
 2. "Before the Roman governor in ch. 26, he does not mention him at all, but compresses the whole substance of the command given to Ananias into the words spoken by the Lord to himself."
 3. "Such features in his speeches are highly instructive and valuable to those who would gather from Scripture itself its own real character: and be, not slaves to its letter, but disciples of its spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ananias, a devout man, according to the law" - This description highlights Ananias' commitment to his religious beliefs and practices. It emphasizes his adherence to the Jewish law and his dedication to living a righteous life.
 
 2. "having a good report of all the Jews which dwelt there" - This phrase indicates that Ananias was highly respected and esteemed among his fellow Jews. It suggests that he had a reputation for being upright, trustworthy, and honorable in the eyes of the community.
@@ -52,4 +52,4 @@ This verse describes a devout and respected individual, highly regarded among bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

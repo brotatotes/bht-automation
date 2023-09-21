@@ -9,7 +9,7 @@ In this Psalm, the psalmist utilizes parables, dark sayings, and symbolic langua
 2. "When we find De Wette, &c. maintaining that the Psalm contains no parable, and that consequently these words can only be cited out of their context, we must remember that such a view is wholly inconsistent with any deep insight into the meaning of the Scripture record."
 3. "The prophet, according to the superscription of Psalms 78:1-72, is Asaph, so called 2 Chronicles 29:30, LXX."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That it might be fulfilled which was spoken by the prophet, saying" - This verse highlights the fulfillment of Old Testament prophecies in the life and teachings of Jesus, emphasizing the divine plan and purpose behind his ministry.
 
 2. "I will open my mouth in parables" - This quote draws attention to Jesus' use of parables as a teaching tool, revealing deeper spiritual truths to those who have ears to hear. It underscores the significance of Jesus' words and the need for attentive and discerning listeners.
@@ -56,4 +56,4 @@ In this Psalm, the psalmist utilizes parables, dark sayings, and symbolic langua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

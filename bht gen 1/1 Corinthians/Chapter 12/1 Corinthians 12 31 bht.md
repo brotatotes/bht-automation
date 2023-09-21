@@ -9,7 +9,7 @@ Described in the commentaries is a verse that encourages believers to desire and
 2. "There is thus no need to explain away ζηλοῦτε, as Grot. ('agite cum Deo precibus ut accipiatis') and others: or to depart from the known usage of χαρίσματα, and explain it to mean faith, hope, and love, as Morus, or the fruits of love, as Billroth."
 3. "The opening verses of ch. 13 shewing, that he does not draw a comparison between love and gifts, but only shews that it is the only WAY, in which gifts can be made effectual in the highest sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hold in the highest estimation" - BEZA explains, which accords with the distinction in his view between "follow after charity—zealously esteem spiritual gifts."
 2. "Besides recommending your zealous desire for the greatest gifts, I am about to show you something still more excellent, 'the way of love.'"
 3. "This love, or 'charity,' includes both 'faith' and 'hope,' and bears the same fruits as the ordinary and permanent fruits of the Spirit."
@@ -55,4 +55,4 @@ Described in the commentaries is a verse that encourages believers to desire and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

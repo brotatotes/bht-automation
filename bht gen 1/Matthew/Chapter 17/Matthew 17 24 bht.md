@@ -9,7 +9,7 @@ In this Bible verse, the scene is set in Capernaum, where Jesus resided. Every y
 2. "Many Commentators... have entirely missed the meaning of this miracle, by interpreting the payment as a civil one, which it certainly was not."
 3. "Οἱ τ. δ. λαμβ. are not the publicans, but they who received the didrachma, i.e. one for each person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole teaching of this very remarkable scene depends upon this distinction."
 2. "This explains several things in the narrative."
 3. "The question seems to imply that the payment of this tax was voluntary, but expected."
@@ -48,4 +48,4 @@ In this Bible verse, the scene is set in Capernaum, where Jesus resided. Every y
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

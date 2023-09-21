@@ -9,7 +9,7 @@ In this Bible verse, the commentators describe a glorious inheritance for the be
 2. "This inheritance is more closely defined as σωτηρία, χάρις ζωῆς, δόξα, or ἡ αἰώνιος τοῦ θεοῦ δόξα."
 3. "Our inheritance is glorious in these three respects: it is in substance, incorruptible; in purity, undefiled; in beauty, unfading."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The inheritance is the believer's already by title, being actually assigned to him; the entrance on its possession is future, and hoped for as a certainty."
 2. "Negations of the imperfections which meet us on every side here are the chief means of conveying to our minds a conception of the heavenly things which 'have not entered into the heart of man,' and which we have not faculties now capable of fully knowing."
 3. "Even the most delicate part of the heavenly inheritance, its bloom, continues unfading. 'In substance incorruptible; in purity undefiled; in beauty unfading.'"
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the contrast between the Samaritans, who believed in Jesus
 2. "The reason (Joh 4:1) why He left Judæa for Galilee was, because of the publicity which was gathering round Himself and his ministry."
 3. "He betakes Himself to Galilee therefore, to avoid fame, testifying that His own country (Galilee) was that where, as a prophet, He was least likely to be honoured."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For it seems strange, if 'His own country' here means Nazareth, which was in Galilee, that it should be said He came to Galilee because in one of its towns He expected no good reception."
 2. "But all will be simple and natural if we fill up the statement thus: 'He went into the region of Galilee, but not, as might have been expected, to that part of it called 'His own country,' Nazareth.'"
 3. "He acted on the maxim which He oft repeated, that 'a prophet,'"
@@ -53,4 +53,4 @@ And He did not many mighty works there because of their unbelief [και ουκ 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

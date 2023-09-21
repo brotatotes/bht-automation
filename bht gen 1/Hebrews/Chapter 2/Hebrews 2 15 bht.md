@@ -4,7 +4,7 @@
 The Bible verse being described in these commentaries speaks of the deliverance that Christ brings from the fear and bondage of death. The dread and fear of death is depicted as a miserable state resulting from a lack of knowledge of Christ's victory over death. Through His death and resurrection, Christ has destroyed the power of sin, Satan, and death, offering peace and safety to believers. The passage emphasizes that faith in Christ's triumph over death is essential in overcoming the fear of death and experiencing true freedom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear of death—even before they had experienced its actual power."
 2. "Such a life can hardly be called life."
 3. "Christ by delivering us from the curse of God against our sin, has taken from death all that made it formidable."
@@ -48,4 +48,4 @@ The Bible verse being described in these commentaries speaks of the deliverance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

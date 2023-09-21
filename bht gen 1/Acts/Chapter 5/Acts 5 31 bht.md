@@ -4,7 +4,7 @@
 Amidst various commentators' perspectives on this Bible verse, it becomes evident that it celebrates the exaltation of Jesus Christ as the Prince and Saviour who brings both repentance and forgiveness of sins. Jesus' exaltation signifies His royalty and the transformative power of His work. Through His sacrifice and resurrection, Jesus offers repentance and forgiveness, influencing a change of heart and granting the gift of eternal life. Only through faith in Him and His grace can sins be forgiven and lives be transformed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prince and a Saviour—the first word expressing that Royalty which all Israel looked for in Messiah, the second the Saving character of it which they had utterly lost sight of."
 2. "Each of these features in our Lord's work enters into the other, and both make one glorious whole."
 3. "How gloriously is Christ here exhibited; not, as in other places, as the Medium, but as the Dispenser of all spiritual blessings!"
@@ -54,4 +54,4 @@ These quotes highlight the significance of Jesus' exaltation and its connection 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

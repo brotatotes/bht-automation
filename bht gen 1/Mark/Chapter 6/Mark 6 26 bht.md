@@ -4,7 +4,7 @@
 In this Bible verse, we see a story of Herod's conflicted conscience, driven by personal ambition and the fear of others' opinions. Herod is deeply remorseful, but his sorrow is fueled not by genuine religious conviction, but rather by the consequences that John's preaching had on his conscience. This account portrays the tension between societal pressures and personal morality, the danger of prioritizing power over principles, and the tragic consequences that can arise when one's conscience is stifled by one's environment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With his feelings regarding John, and the truths which so told upon his conscience from that preacher's lips."
 2. "See how men of no principle, but troublesome conscience, will stick at breaking a rash oath, while yielding to the commission of the worst crimes!"
 3. "Under the influence of that false shame, which could not brook being thought to be troubled with religious or moral scruples. To how many has this proved a fatal snare!"
@@ -45,4 +45,4 @@ No problem! Please provide the commentary for Matthew.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

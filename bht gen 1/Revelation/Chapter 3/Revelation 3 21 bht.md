@@ -9,7 +9,7 @@ The promise made to those who overcome is one of the highest and grandest of all
 2. "The final and complete act is also pointed out by the aor. καθίσαι."
 3. "The glory of the redeemed will be a participation in that of the Father and the Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The highest place is within reach of the lowest; the faintest spark of grace may be fanned into the mightiest flame of love."
 2. "Two thrones are here mentioned: (1) His Father's, upon which He now sits, and has sat since His ascension, after His victory over death, sin, the world; (2) the throne which shall be peculiarly His as the once humbled and then glorified Son of man, to be set up over the whole earth."
 3. "The grandest and crowning promise, is placed at the end of all the seven addresses, to gather all in one. It also forms the link to the next part of the book, where the Lamb is introduced seated on His Father's throne."
@@ -52,4 +52,4 @@ The promise made to those who overcome is one of the highest and grandest of all
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

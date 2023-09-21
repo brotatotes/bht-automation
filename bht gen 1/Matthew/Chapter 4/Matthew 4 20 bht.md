@@ -11,7 +11,7 @@ From the moment that Jesus called them, the disciples became constant followers 
 
 (Note: The commentary does not provide any additional quotes that meet the requirements.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The immediacy of their response is remarkable. They didn't hesitate or question Jesus' call, but immediately left their nets and followed Him. This demonstrates their deep trust and faith in Him."
 2. "By leaving their nets, the disciples symbolically left behind their old way of life and embraced a new purpose and calling. It is a reminder for us to let go of the things that hold us back from fully following Jesus."
 3. "This verse also highlights the transformative power of Jesus' presence. His mere presence was enough to compel the disciples to abandon their livelihoods and embark on a new journey with Him."
@@ -35,4 +35,4 @@ From the moment that Jesus called them, the disciples became constant followers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

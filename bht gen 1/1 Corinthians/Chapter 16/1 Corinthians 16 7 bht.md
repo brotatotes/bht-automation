@@ -9,7 +9,7 @@ This passage captures Paul's intention to deviate from his original plan, indica
 2. "The ἄρτι refers to the occasion, the news from ‘them of Chloe,’ which had made it advisable that he should not now pay them a mere passing visit."
 3. "ἐπιτρέψῃ shall have permitted me, i.e. ‘if it shall so turn out, in the Lord’s direction of my work, that I shall then find my way open to do so.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I do not wish to see you this time in passing" - The author expresses a desire to have a more meaningful encounter with the readers, rather than a brief and superficial visit. This suggests a longing for deeper connection and engagement.
 
 2. "In contrast to 'a while,' that is, some time" - The author emphasizes that the desired meeting is not just a matter of waiting for a short period, but rather a longing for a more significant and substantial interaction.
@@ -49,4 +49,4 @@ This passage captures Paul's intention to deviate from his original plan, indica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

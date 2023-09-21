@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of the work of God, which is
 2. "This is a most important saying of our Lord, as containing the germ of that teaching afterwards so fully expanded in the writings of Paul."
 3. "All eternal life in men proceeds from nothing else than faith in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The work of God lies at the threshold of all acceptable obedience."
 2. "It is not only the prerequisite to obedience, but also the proper spring of it."
 3. "It is emphatically 'the work of God', the work of works."
@@ -59,4 +59,4 @@ Note: The commentary also mentions the Jewish interpretation of reducing all the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

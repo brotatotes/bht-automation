@@ -4,7 +4,7 @@
 In Titus 3:13, a man named Zenas is mentioned as a lawyer, whose background is uncertain but believed to be either a Roman lawyer or an expert in Jewish law. This inclusion reveals Paul's appreciation for the diverse expertise and knowledge of individuals from different professions. It also emphasizes the importance of legal matters within the Christian community. Overall, the verse showcases the inclusivity of early Christianity, as individuals from various backgrounds were welcomed and esteemed for their unique skills and contributions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enable them to proceed forward by supplying necessaries for their journey."
 2. "A civil lawyer."
 3. "Paul and Apollos thus appear in beautiful harmony in that very city where their names had been formerly the watchword of unchristian party work."
@@ -47,4 +47,4 @@ Please note that the quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

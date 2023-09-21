@@ -9,7 +9,7 @@ In a city where Jewish influence was limited but substantial, the influential an
 2. "These were proselytes of the gate, or at least inclined to Judaism."
 3. "Though the πρῶτοι τῆς πόλεως, at the instigation, probably, of their wives, were concerned, this seems to have been no legal expulsion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The potent influence of the female character both for and against the truth is seen in every age of the Church's history."
 2. "The devout and honourable women—female proselytes of distinction, jaundiced against the new preachers by those Jewish ecclesiastics to whom they had learned to look up."
 3. "Expelled them—an easier thing than to refute them."
@@ -50,4 +50,4 @@ In a city where Jewish influence was limited but substantial, the influential an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

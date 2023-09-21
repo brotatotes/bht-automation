@@ -4,7 +4,7 @@
 In the final judgment, all the dead, both the wicked and the righteous, will stand before the majestic presence of God. The books containing a collection of records and accounts will be opened, while the book of life, a symbol of God's grace, will be a testament to those who will be saved. The judgment will be based on written evidence, revealing the true character of every individual. In this moment, hidden things will be brought to light, and every person will come to know themselves with the utmost precision.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The godly who were transfigured and reigned with Christ during it, shall also be present, not indeed to have their portion assigned as if for the first time, but to have it confirmed for ever, and that God's righteousness may be vindicated in the case of both the saved and the lost, in the presence of an assembled universe."
 2. "The saints having been first pronounced just themselves by Christ out of 'the book of life,' shall sit as assessors of the Judge."
 3. "The books of God's remembrance, alike of the evil and the good: conscience, the word of Christ, the law, God's eternal counsel."
@@ -53,4 +53,4 @@ In the final judgment, all the dead, both the wicked and the righteous, will sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

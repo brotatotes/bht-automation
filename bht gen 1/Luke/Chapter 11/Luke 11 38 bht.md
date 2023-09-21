@@ -9,7 +9,7 @@ In this Bible verse, our Lord surprises the Pharisees by challenging their cerem
 2. "This use of the word shews that it did not imply necessarily immersion of the whole body; for it was only the hands which the Pharisees washed before meat."
 3. "See His proceeding when nothing was said, ch. Luke 7:39-40."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people marveled at the gracious words that proceeded out of his mouth, for they had never heard such words before." 
 
 2. "Jesus' words were filled with grace and truth, captivating the hearts of those who listened."
@@ -40,4 +40,4 @@ In this Bible verse, our Lord surprises the Pharisees by challenging their cerem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

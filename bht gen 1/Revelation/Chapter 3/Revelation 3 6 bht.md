@@ -11,7 +11,7 @@ The Bible verse being described is a powerful invitation to partake in eternal l
 
 3. "By referencing the tree of life, Jesus is inviting us to partake in the abundant life He offers, both now and in eternity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse reminds us that God's love is not limited to a select few, but is extended to all people, regardless of their background or status in society." 
 
 2. "This verse challenges us to examine our own hearts and ask ourselves if we are truly living out the command to love our neighbors as ourselves." 
@@ -37,4 +37,4 @@ The Bible verse being described is a powerful invitation to partake in eternal l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the jailer, responsible for the prisoners' safekeeping, is 
 2. "Nam ipsum volumus hujusmodi pœnæ consumi, cui obnoxius docebitur fuisse, qui fugerit.’"
 3. "Dean Howson notices, by the examples of Cassius, Brutus, Titinius, and many of the proscribed, after the battle, that Philippi is famous in the annals of suicide (p. 361)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The keeper, realizing that his life was in danger, drew his sword, ready to take his own life." 
 2. "This desperate act shows the severity of the consequences he would face if any prisoners escaped." 
 3. "The keeper's willingness to end his own life rather than face the punishment for his failure highlights the seriousness of his responsibility."
@@ -50,4 +50,4 @@ In this Bible verse, the jailer, responsible for the prisoners' safekeeping, is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

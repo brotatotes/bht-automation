@@ -4,7 +4,7 @@
 In this verse, the commentators describe the final victory of Christ over death. Death and Hades, personified as enemies of Christ and His Church, are cast into the lake of fire, signifying the end of separation of souls and bodies. This lake of fire symbolizes the eternal punishment and torment for those who reject God's grace, emphasizing the severe consequences of rebellion against Him. Through this verse, we are reminded of the importance of seeking a relationship with God and accepting His gift of salvation to avoid the second death and everlasting separation from Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Death and Hades, as personified representatives of the enemies of Christ and His Church, are said to be cast into the lake of fire to express the truth that Christ and His people shall never more die, or be in the state of disembodied spirits."
 2. "In hell the ancient form of death, which was one of the enemies destroyed by Christ, shall not continue, but a death of a far different kind reigns there, 'everlasting destruction from the presence of the Lord': an abiding testimony of the victory of Christ."
 3. "The lake of fire is added in A, B, and ANDREAS. English Version, which omits the clause, rests on inferior manuscripts."
@@ -47,4 +47,4 @@ In this verse, the commentators describe the final victory of Christ over death.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

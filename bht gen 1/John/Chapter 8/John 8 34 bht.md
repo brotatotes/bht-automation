@@ -9,7 +9,7 @@ This verse reflects Jesus' response to people who questioned their spiritual con
 2. "It implies living in the practice of sin, doing sin, as a habit."
 3. "The mere moral sentiment of which this is the spiritual expression, was common among the Greek and Roman philosophers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever committeth sin—that is, liveth in the commission of it—(Compare 1 John 3:8; Matthew 7:23)." 
 2. "is the servant of sin—that is, the bond-servant, or slave of it; for the question is not about free service, but who are in bondage. (Compare 2 Peter 2:19; Revelation 6:16)." 
 3. "The great truth here expressed was not unknown to heathen moralists; but it was applied only to vice, for they were total strangers to what in revealed religion is called sin."
@@ -59,4 +59,4 @@ These quotes highlight the deeper meaning behind the verse, emphasizing that it 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

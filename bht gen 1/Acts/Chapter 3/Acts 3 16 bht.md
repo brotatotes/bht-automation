@@ -9,7 +9,7 @@ Through faith in his name, the apostles experienced the power and love of Jesus 
 2. "His name (the efficient cause), by means of, or on account of (our) faith in His name (the medium operandi), &c."
 3. "It is the firm belief in His name on the part of us His witnesses, of which he is here speaking, as the medium whereby His name had in this case worked."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through faith in his name, hath made this man strong" - The commentary highlights the power of faith in Jesus' name, emphasizing how it can bring strength and transformation to individuals.
 2. "With what skill does the apostle use the miracle both to glorify his ascended Lord" - The commentary acknowledges the apostle's skill in using the miracle to bring glory to Jesus, recognizing the intentionality behind his actions.
 3. "Bring the guilt of His blood more resistlessly home to his audience" - The commentary points out how the apostle uses the miracle to convict the audience of their guilt in rejecting Jesus, highlighting the persuasive impact of the miracle in their hearts.
@@ -59,4 +59,4 @@ Through faith in his name, the apostles experienced the power and love of Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

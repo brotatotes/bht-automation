@@ -9,7 +9,7 @@ During his imprisonment in Caesarea, Paul awaited a second hearing under the gov
 2. "He found the province wasted and harassed by bands of robbers and sicarii, and the people the prey of false prophets."
 3. "The reading χάριτα, brought into the text by the evidence of the best MSS., has apparently been a correction to suit the context, only one such act being spoken of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This repose would be medicine to his spirit; he would not, and could not, be entirely inactive, so long as he was able by pen and message to communicate with the churches."
 2. "He would doubtless learn the salutary truth that even he was not essential to his Master's cause."
 3. "Felix, willing to show the Jews a pleasure—'to earn the thanks of the Jews,' which he did not."
@@ -53,4 +53,4 @@ During his imprisonment in Caesarea, Paul awaited a second hearing under the gov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

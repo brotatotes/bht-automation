@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize that the Lord Jesus has commanded th
 2. "Here the Apostle is establishing an analogy between the rights of the sacrificing priests of the law, and of the preachers of the gospel."
 3. "We may fairly infer that no such character of the Christian minister was then known."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only inference to be drawn from this passage is, not that the Christian ministry is of a sacrificial character as the Jewish priesthood, but simply, that as the latter was supported by the contributions of the people, so should the former."
 2. "The stipends of the clergy were at first from voluntary offerings at the Lord's Supper."
 3. "The duty of the Christian minister is plainly marked as preaching the gospel, in contrast to the ministering about sacrifices and waiting at the altar of the Jewish priesthood and Levites."
@@ -47,4 +47,4 @@ Note: The commentary provides an explanation of how the Lord has ordained that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

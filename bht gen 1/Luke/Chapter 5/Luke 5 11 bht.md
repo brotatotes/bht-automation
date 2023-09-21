@@ -4,7 +4,7 @@
 The verse being described involves a profound moment of decision and surrender. The disciples, led by their unwavering devotion and love for Jesus, willingly abandoned their boats, nets, and even their previous lives to follow him. This act of leaving behind their livelihoods and worldly attachments symbolizes a radical commitment to Jesus and signifies a transformative shift in their relationship with him. It demonstrates the disciples' readiness to prioritize their spiritual journey over their earthly pursuits and serves as an inspiring example for others to consider their own devotion to Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They forsook all—They did this before (Matthew 4:20); now they do it again; and yet after the Crucifixion they are at their boats once more (John 21:3)."
 2. "In such a business this is easily conceivable."
 3. "After Pentecost, however, they appear to have finally abandoned their secular calling."
@@ -46,4 +46,4 @@ These quotes highlight the sacrifice made by the disciples in leaving behind the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

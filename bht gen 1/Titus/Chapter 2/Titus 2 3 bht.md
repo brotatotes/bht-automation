@@ -9,7 +9,7 @@ A passage in the Bible urges aged women to conduct themselves in a reverent mann
 2. "The word is one of our greatest difficulties."
 3. "Their keeping, or working, at home, should not degenerate into churlishness or niggardliness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being by our Christian calling priestesses unto God."
 2. "Observant of sacred decorum."
 3. "Addiction to wine is slavery."
@@ -60,4 +60,4 @@ A passage in the Bible urges aged women to conduct themselves in a reverent mann
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

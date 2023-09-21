@@ -9,7 +9,7 @@ This verse is a solemn sequel to our Lord's announcement respecting Himself and 
 2. "They all have a life to save, more precious than all else to them."
 3. "The great day of account of that life’s welfare should be ever before them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Turning the rebuke of one into a warning to all." 
 2. "If any man will come after me, let him deny himself." 
 3. "Take up his cross, and follow me."
@@ -43,4 +43,4 @@ This verse is a solemn sequel to our Lord's announcement respecting Himself and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

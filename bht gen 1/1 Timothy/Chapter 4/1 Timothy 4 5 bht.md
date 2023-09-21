@@ -4,7 +4,7 @@
 This verse is a reminder of the sanctification that can be found in everyday aspects of life. Through the use of Scripture and prayer, food and other items are consecrated and made holy. It emphasizes the need for faith and gratitude in our daily activities, recognizing that everything we use can be a means of grace when approached with the right perspective. It calls believers to seek God's blessing and sanctification in all areas of life, acknowledging His role as the ultimate source of holiness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Just as in the Lord's Supper, the thanksgiving prayer sanctifies the elements, separating them from their naturally alien position in relation to the spiritual world, and transferring them to their true relation to the new life."
 2. "So in every use of the creature, thanksgiving prayer has the same effect, and ought always to be used."
 3. "The Apostolic Constitutions give this ancient grace, almost wholly consisting of Scripture, 'Blessed art thou, O Lord, who feedest me from my youth, who givest food to all flesh: Fill our hearts with joy and gladness, that we, having all sufficiency, may abound unto every good work in Christ Jesus our Lord, through whom glory, honour, and might, be to thee for ever. Amen.'"
@@ -52,4 +52,4 @@ These quotes highlight the concept that food is sanctified through consecration 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

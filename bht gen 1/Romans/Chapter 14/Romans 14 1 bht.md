@@ -9,7 +9,7 @@ In this Bible verse, we are advised to be compassionate towards those who may ha
 2. "The particular weakness consisted in a want of broad and independent principle, and a consequent bondage to prejudices."
 3. "Give him your hand, count him one of you, opposed to rejecting or discouraging him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Him that is weak in faith...not 'him that is weak in the truth believed'...but 'him whose faith wants that firmness and breadth which would raise him above small scruples.'" 
 2. "Receive him to full brotherly confidence and cordial interchange of Christian affection is the most effectual way of drawing them off." 
 3. "The strong...are those who knew these to be abolished under the Gospel; 'the weak' are those who had scruples on this point."
@@ -55,4 +55,4 @@ In this Bible verse, we are advised to be compassionate towards those who may ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

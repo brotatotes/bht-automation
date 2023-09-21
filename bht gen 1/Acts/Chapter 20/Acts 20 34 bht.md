@@ -9,7 +9,7 @@ This verse portrays a person whose hands have been used for physical labor and s
 2. "ὑπηρετεῖν is used only twice more; once by Paul, ch. Acts 13:36, once of Paul, ch. Acts 24:23."
 3. "This is not without meaning his friends were among his χρεῖαι he supplied by his labour, not his and their wants, but his wants and them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These hands—doubtless holding them up, as before Agrippa in chains." This quote suggests that the speaker's hands have been used for both physical labor and as a symbol of their commitment to their faith, even in difficult circumstances.
 
 2. "Have ministered unto my necessities, and to them that were with me." This quote highlights the speaker's selflessness and willingness to serve others, not just in meeting their own needs but also in supporting and caring for those around them.
@@ -50,4 +50,4 @@ This verse portrays a person whose hands have been used for physical labor and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

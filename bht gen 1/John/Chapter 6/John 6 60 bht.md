@@ -9,7 +9,7 @@ In this verse, commentators describe a saying of Jesus that is both challenging 
 2. "It seems clear that it was not the difficulty, so much as the strangeness of the saying, which scandalized them."
 3. "ἀκούειν, to listen to it 'Who can stay and hear such sayings as this?' not, 'to understand it.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many...of his disciples—His pretty constant followers, though an outer circle of them."
 2. "Hard saying—not merely harsh, but insufferable, as the word often means in the Old Testament."
 3. "Who can hear—submit to listen to it."
@@ -59,4 +59,4 @@ In this verse, commentators describe a saying of Jesus that is both challenging 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

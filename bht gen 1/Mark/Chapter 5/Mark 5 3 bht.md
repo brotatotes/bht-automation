@@ -9,7 +9,7 @@ This verse describes a man characterized by extreme isolation, destitution, and 
 2. "It conveys the idea that God is completely free and sovereign, not subject to any limitations or restrictions imposed by human means." 
 3. "The use of the word 'chain' symbolizes the strongest form of physical restraint, yet even this is insufficient to confine or control God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He ware no clothes, neither abode in any house." - This quote highlights the extreme state of the man's isolation and destitution, emphasizing his detachment from society and normal human living conditions.
 2. "These tombs were hewn out of the rocky caves of the locality, and served for shelters and lurking places." - This quote provides a vivid description of the tombs, emphasizing their purpose as both shelters and hiding spots, further emphasizing the man's isolation and separation from society.
 3. "These tombs were hewn out of the rocky caves of the locality" - This quote highlights the physical setting of the tombs, emphasizing their natural and rugged nature, which adds to the overall atmosphere of the story.
@@ -42,4 +42,4 @@ Note: The commentary is from John Calvin's Commentary on the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

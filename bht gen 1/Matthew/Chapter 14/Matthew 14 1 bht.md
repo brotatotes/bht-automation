@@ -9,7 +9,7 @@ This passage describes a ruler named Herod Antipas, also known as a tetrarch, wh
 2. "He prevailed on her to leave her husband, and live with him."
 3. "It was the fame of the preaching and miracles of the twelve, on their mission, of which Herod heard."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod Antipas, one of the three sons of Herod the Great, and own brother of Archelaus, ruled as ethnarch over Galilee and Perea." 
 
 2. "His name was spread abroad." 
@@ -56,4 +56,4 @@ This passage describes a ruler named Herod Antipas, also known as a tetrarch, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

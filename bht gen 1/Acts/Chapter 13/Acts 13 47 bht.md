@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the significance and fulfillment o
 2. "The internal character of the text agrees with the external, as the student may judge for himself from the readings given in the digest."
 3. "The Codex has been occasionally consulted for the verification of certain readings by Tregelles, Tischendorf, and others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These and other predictions must have been long before this brought vividly home to Paul's mind in connection with his special vocation to the Gentiles." 
 2. "I have set thee—that is, Messiah from which Paul inferred that he was but following out this destination of his Lord."
 3. "In transferring to the Gentiles those 'unsearchable riches' which were now by the Jews rejected and despised."
@@ -50,4 +50,4 @@ In this verse, the commentators shed light on the significance and fulfillment o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

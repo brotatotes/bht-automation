@@ -9,7 +9,7 @@ The verse being described is about Abraham's faith and his anticipation of a hea
 2. "the architect and master-builder is God" - God is the ultimate creator and designer of the heavenly city, demonstrating His wisdom and skill. (Quote 2)
 3. "the hopes and prospects and surmises built upon the character of that promise" - The faith of the patriarchs went beyond mere belief in the promise, shaping their hopes and expectations for the future. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was expecting; waiting for with eager expectation."
 2. "The godly patriarchs waited for their city hereafter."
 3. "The city is worthy of its Framer and Builder."
@@ -59,4 +59,4 @@ The verse being described is about Abraham's faith and his anticipation of a hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

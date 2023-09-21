@@ -9,7 +9,7 @@ The Bible verse under consideration portrays a unique and compassionate High Pri
 2. "Our great High Priest...is able to sympathize with our infirmities."
 3. "He was tempted in all things according to our similitude, apart from sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though 'great' (Hebrews 4:14), He is not above caring for us; nay, as being in all points one with us as to manhood, sin only excepted, He sympathizes with us in every temptation."
 2. "He, though sinless, can sympathize with us sinners; His understanding more acutely perceived the forms of temptation than we who are weak can; His will repelled them as instantaneously as the fire does the drop of water cast into it."
 3. "In Him alone we have an example suited to men of every character and under all circumstances. In sympathy He adapts himself to each, as if He had not merely taken on Him man's nature in general, but also the peculiar nature of that single individual."
@@ -53,4 +53,4 @@ The Bible verse under consideration portrays a unique and compassionate High Pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

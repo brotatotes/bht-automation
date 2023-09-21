@@ -9,7 +9,7 @@ The verse being described is a rebuke to the Corinthians for their gatherings th
 2. "This makes it hardly possible to refer τοῦτο to what follows; for if so, some definite command should immediately succeed."
 3. "These last words ὅτι … συνέρχ, are introduced with a manifest view to include more than the subject hitherto treated, and to prepare the way for other abuses of their assemblies to be noticed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This I enjoin (you) not praising (you)." - The commentary highlights that Paul is not praising the Corinthians in this particular matter, indicating that there is a serious issue that needs to be addressed.
 2. "I must now give injunction in the name of the Lord." - Paul is emphasizing the authority behind his instruction, stating that he is speaking on behalf of the Lord.
 3. "The result of such 'coming together' must be 'condemnation'." - The commentary suggests that if the Corinthians continue in their current behavior, it will lead to condemnation rather than progress. This emphasizes the importance of addressing the issue at hand.
@@ -52,4 +52,4 @@ The verse being described is a rebuke to the Corinthians for their gatherings th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

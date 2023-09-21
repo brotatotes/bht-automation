@@ -9,7 +9,7 @@ In this Bible verse, we find a mention of Jesus Justus, a common name among the 
 2. "The construction is of the nature of an anacoluthon, οἱ ὄντες ἐκ π. being equivalent to 'of those of the circumcision.'"
 3. "The judaistic teachers were for the most part in opposition to St. Paul: cf. his complaint, Philippians 1:15; Php 1:17)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Justus—that is, righteous; a common name among the Jews; Hebrew, 'tzadik'." 
 2. "This implies that Epaphras, Luke, and Demas were not of the circumcision. This agrees with Luke's Gentile name and the Gentile aspect of his Gospel." 
 3. "These only, c.—namely, of the Jews. For the Jewish teachers were generally opposed to the apostle of the Gentiles. Epaphras, &c., were also fellow laborers, but Gentiles."
@@ -53,4 +53,4 @@ In this Bible verse, we find a mention of Jesus Justus, a common name among the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

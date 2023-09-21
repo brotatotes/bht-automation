@@ -4,7 +4,7 @@
 In this verse, commentators reflect on the disciples' limited understanding of Jesus' words, emphasizing their inability to grasp the deeper meaning. They highlight Jesus' divine connection to the temple, underscoring his purpose in fulfilling God's will. Furthermore, they suggest Joseph's absence from the narrative and lack of mention afterward, hinting at the brevity of his life. These commentaries invite readers to contemplate the depth and significance of Jesus' mission and the fleeting nature of human life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had never expressly said as much, and so confounded them, though it was but the true interpretation of many things which they had seen and heard from Him at home."
 2. "But lest it should be thought that now He threw off the filial yoke, and became His own Master henceforth, and theirs too, it is purposely added, 'And He went down with them, and was subject unto them.'"
 3. "The marvel of this condescension lies in its coming after such a scene, and such an assertion of His higher Sonship; and the words are evidently meant to convey this."
@@ -42,4 +42,4 @@ In this verse, commentators reflect on the disciples' limited understanding of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

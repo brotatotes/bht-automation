@@ -9,7 +9,7 @@ The verse in question discusses the shamefulness of speaking about secret sins, 
 2. "The least part in them, even in speaking of them, is shameful."
 3. "Your connexion with them must be only that which the act of ἔλεγξις necessitates."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the things done in secret by them, it is a shame even to speak of."
 2. "The 'for' gives his reason for 'not naming' in detail the works of darkness."
 3. "Reprove them, for to speak of them without reproving them, is a shame."
@@ -50,4 +50,4 @@ The verse in question discusses the shamefulness of speaking about secret sins, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

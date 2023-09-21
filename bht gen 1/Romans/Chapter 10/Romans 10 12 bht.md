@@ -9,7 +9,7 @@ In this Bible verse, it is explained that there is no distinction or difference 
 2. "By εἰς is signified the direction in which the stream of grace rushes forth." 
 3. "The universal offer of the riches of God’s mercy in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For there is no difference or distinction between Jew and Greek." 
 2. "The same Lord over all, that is, Christ." 
 3. "To call upon the name of the Lord Jesus is a customary expression."
@@ -55,4 +55,4 @@ In this Bible verse, it is explained that there is no distinction or difference 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

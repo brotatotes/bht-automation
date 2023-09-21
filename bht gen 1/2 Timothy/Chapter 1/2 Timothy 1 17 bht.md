@@ -4,7 +4,7 @@
 In the bustling city of Rome, amidst the grandeur of the metropolis, a man named Onesiphorus diligently sought and found the imprisoned apostle Paul. Risking his own life, Onesiphorus went through great lengths to locate Paul, who was not confined to a specific place but housed with a soldier, his wrists bound by a long chain. This faithful seeker pursued Paul with loyal and loving kindness, his actions embodying the compassion and mercy that characterize those who will find favor in the sight of the Lord on a future day when the entire universe will be assembled.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "found me—in the crowded metropolis." This quote highlights the significance of being found by God in the midst of a busy and bustling city. It emphasizes the idea that God's mercy and grace can reach us no matter where we are or how chaotic our surroundings may be.
 
 2. "May he find mercy of the Lord in that day." This quote alludes to a future day when the entire universe will be gathered together. It suggests that on that day, everyone will have the opportunity to experience God's mercy and find favor in His sight.
@@ -37,4 +37,4 @@ These quotes highlight the determination and effort of Onesiphorus in seeking ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

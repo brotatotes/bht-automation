@@ -9,7 +9,7 @@ This verse speaks to the transformative power of faith and the need for redempti
 2. "we (Christians) also (as well as they) were (emphatically prefixed) once without understanding (of spiritual things, see Eph 4:18), disobedient (to God, ch. Titus 1:16; he is no longer speaking of authorities, but has passed into a new train of thought), led astray" - The commentary emphasizes that Christians were once without understanding, disobedient, and led astray, highlighting the transformative power of faith.
 3. "slaves to divers lusts and pleasures, passing our lives in malice and envy, hateful, hating one another" - The commentary describes the sinful state of humanity, enslaved to various desires and living in malice, envy, and hatred towards one another. This highlights the need for redemption and the contrast with the virtues Christians are called to embody.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Despise none, for such wast thou also."
 2. "As the penitent thief said to his fellow thief, 'Dost thou not fear God . . . seeing that thou art in the same condemnation.'"
 3. "Grace is the sole remedy for foolishness."
@@ -57,4 +57,4 @@ This verse speaks to the transformative power of faith and the need for redempti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

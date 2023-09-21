@@ -4,7 +4,7 @@
 This verse speaks about the Son of man, who is a divine figure exemplifying salvation and not destruction, as demonstrated through his miracles. It also emphasizes the importance of imitating the spirit of the Son of man and bearing opposition in discipleship. The verse is a reflection on the compassionate nature of Jesus, who came to save rather than destroy, healing diseases and casting out demons, contrary to the harsh consequences of the Old Testament. It addresses the rejection Jesus faced and the possibility of continued ministry despite opposition.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the Son of man, a saying truly divine, of which all His miracles—for salvation, never destruction—were one continued illustration." 
 2. "Illustrating His own precept (Matthew 10:23)." 
 3. "Incidents illustrative of discipleship."
@@ -30,4 +30,4 @@ Note: The commentary does not have clear paragraph breaks, so the quotes are pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

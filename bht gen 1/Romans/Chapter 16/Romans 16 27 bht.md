@@ -9,7 +9,7 @@ In this verse, we find a resumption of the doxology from a previous passage, ack
 2. "It must then be rendered to the only wise God through Jesus Christ, i.e. Him who is revealed to us by Christ as such."
 3. "It cannot without great harshness be referred to Christ, seeing that the words μόνῳ σοφῷ θεῷ resume the chief subject of the sentence, and to them the relative must apply."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To Him, I say, be the glory for ever. Amen." - This is an ascription of glory to the power that could gather a redeemed people out of all nations.
 2. "The wisdom of the serpent and the harmlessness of the dove" - Christians should strive to combine these qualities, as taught by Jesus, in order to have a solid and influential Christian character.
 3. "Christians should cheer their own and each other's hearts, amidst the toils and trials of their protracted warfare, with the assurance that it will have a speedy and glorious end." - Christians should have hope and trust in the God of peace, knowing that their Enemy will be defeated and they will have victory.
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy, but these quotes capture the essence of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

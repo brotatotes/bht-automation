@@ -9,7 +9,7 @@ In this Bible verse, it is portrayed that individuals were using the phrase "Cor
 2. "Such an one will certainly not honour his father or his mother."
 3. "The future ind. after οὐ μή makes the certainty more apparent: so καὶ τοῦτο γὰρ εὖ εἰδέναι χρὴ ὅτι οὐ μὴ δυνήσεται Κῦρος εὑρεῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever shall say to his father or his mother, 'It is a gift' - or simply, 'A gift!' In Mark (Mark 7:11), it is, 'Corban!' that is, 'An oblation!' meaning, any unbloody offering or gift dedicated to sacred uses." 
 
 2. "This was a practice among the Jews, by which they evaded the duty of supporting their parents, under the pretense that what they should have given to them was devoted to religious uses." 
@@ -52,4 +52,4 @@ In this Bible verse, it is portrayed that individuals were using the phrase "Cor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the author expresses the need for prayers and divine assistance i
 2. "Here, the idea of final result is prominent: but the purport is also included." 
 3. "This would, seeing that the Apostle was a prisoner, naturally be given first and most chiefly, as far as he was concerned, by his liberation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a door for the word" - an opportunity for preaching the word, which would be best afforded by his release from prison.
 2. "the mystery of Christ" - the hidden truth and revelation of Christ.
 3. "on account of which I am ALSO in bonds" - Paul's imprisonment is directly related to his proclamation of the mystery of Christ.
@@ -55,4 +55,4 @@ In this verse, the author expresses the need for prayers and divine assistance i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

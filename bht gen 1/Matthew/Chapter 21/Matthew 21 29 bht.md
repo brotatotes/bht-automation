@@ -4,7 +4,7 @@
 In this verse, we witness the unapologetic defiance of sinners, as they respond disrespectfully and refuse to obey. The commentaries emphasize the deliberate rebellion and audacity of those who openly resist God, without remorse for their disobedience. However, true repentance requires a genuine change of heart and complete transformation, not just mere sorrow or regret. It is through the grace of God, and a deep spiritual understanding of the nature of sin, that one can experience true repentance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rudeness of this answer, and the total absence of any attempt to excuse such disobedience" - TRENCH highlights the disrespectful and unapologetic nature of the response, emphasizing the defiance of sinners who resist God.
 2. "Careless, reckless sinners resisting God to His face" - TRENCH vividly describes the audacity of those who openly defy God, emphasizing their deliberate rebellion.
 3. "Representing careless, reckless sinners" - TRENCH suggests that this response serves as a representation of the attitude and behavior of individuals who are careless and reckless in their disobedience towards God.
@@ -33,4 +33,4 @@ In this verse, we witness the unapologetic defiance of sinners, as they respond 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

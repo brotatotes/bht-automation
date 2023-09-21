@@ -9,7 +9,7 @@ In this Bible verse, Jesus compassionately responds to the woman's desire for un
 2. "He who knew what was in man, varied His revelations and injunctions, as the time and place, and individual dispositions required."
 3. "ἐγώ εἰμι ] The verb involves in it the predicate."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had magnified them to the woman, and yet to themselves He is to the last far more reserved than to her—proving rather than plainly telling them He was the Christ."
 2. "But what would not have been safe among them was safe enough with her, whose simplicity at this stage of the conversation appears from the sequel to have become perfect."
 3. "What now will the woman say? We listen, the scene has changed, a new party arrives, the disciples have been to Sychar, at some distance, to buy bread, and on their return are astonished at the company their Lord has been holding in their absence."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus compassionately responds to the woman's desire for un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

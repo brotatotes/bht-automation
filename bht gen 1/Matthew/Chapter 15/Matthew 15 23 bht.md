@@ -9,7 +9,7 @@ In this passage, Jesus remains silent in response to a Canaanite woman's plea, t
 2. "She will draw the attention of all upon us."
 3. "The word ἀπόλυσον does not necessarily imply granting her request, nor the contrary; but simply dismiss her, leaving the method to our Lord Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But he answered her not a word." This silence from Jesus may seem harsh, but it serves as a test of the woman's faith and persistence. It reveals that sometimes God's apparent silence is an invitation for us to press in and seek Him even more earnestly.
 
 2. "Send her away; for she crieth after us." The disciples' response to the woman's pleas reflects a common human tendency to dismiss those who are in need or inconvenient to us. It reminds us to examine our own hearts and attitudes towards others, and to be willing to extend compassion and help even when it may be inconvenient for us.
@@ -54,4 +54,4 @@ In this passage, Jesus remains silent in response to a Canaanite woman's plea, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

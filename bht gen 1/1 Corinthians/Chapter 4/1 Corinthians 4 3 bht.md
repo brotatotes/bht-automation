@@ -9,7 +9,7 @@ In this verse, the speaker expresses a deep humility and detachment from human j
 2. "I do not judge even myself."
 3. "The construction is a mixed one in such clauses as this, compounded of ἐλάχιστόν ἐστιν ἀνακριθῆναι, and ἐλαχίστου ἂν πριαίμην, ἵνα ἀνακριθῶ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It amounts to a very small matter" - The commentary highlights the insignificance of human judgment compared to God's judgment. It emphasizes that the opinion of man is of little importance in the grand scheme of things.
 
 2. "The day of man" - The commentary introduces the concept of "man's day" as a contrast to the day of the Lord. It suggests that all days prior to the day of the Lord are considered as man's days, further emphasizing the temporary nature of human judgment.
@@ -57,4 +57,4 @@ In this verse, the speaker expresses a deep humility and detachment from human j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

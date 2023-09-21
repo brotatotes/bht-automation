@@ -4,7 +4,7 @@
 In this verse, the Holy Spirit plays a significant role in guiding and leading the characters involved. The divine intervention and timing of events are emphasized, demonstrating the fulfillment of God's plan and the adherence to religious customs. The commentary highlights the importance of seeking spiritual understanding and relying on the guidance of the Holy Spirit when interpreting and studying Scripture.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit guided him to the temple" - This quote highlights the role of the Holy Spirit in guiding Simeon to the temple. It emphasizes the divine intervention and guidance in the events surrounding the presentation of Jesus to the Lord.
 
 2. "At the very moment when the Virgin was about to present Him to the Lord" - This quote emphasizes the perfect timing of Simeon's arrival at the temple. It underscores the significance of the moment and the fulfillment of the law regarding the presentation of the firstborn.
@@ -47,4 +47,4 @@ In this verse, the Holy Spirit plays a significant role in guiding and leading t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

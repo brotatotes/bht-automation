@@ -11,7 +11,7 @@ The Bible verse in question addresses the consequences of a supposition that cha
 
 These quotes highlight the consequences of the supposition, the questioning of judgment, and the condemnation of those who advocate for doing evil for the sake of good.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such reasoning amounts to this—which indeed we who preach salvation by free grace are slanderously accused of teaching—that the more evil we do, the more glory will redound to God a damnable principle."
 2. "Mark the place here assigned to the Scriptures. In answer to the question, 'What advantage hath the Jew?' or, 'What profit is there of circumcision?' those holding Romish views would undoubtedly have laid the stress upon the priesthood, as the glory of the Jewish economy. But in the apostle's esteem, 'the oracles of God' were the jewel of the ancient Church."
 3. "God's eternal purposes and man's free agency, as also the doctrine of salvation by grace and the unchanging obligations of God's law, have ever been subjected to the charge of inconsistency by those who will bow to no truth which their own reason cannot fathom. But amidst all the clouds and darkness which in this present state envelop the divine administration and many of the truths of the Bible, such broad and deep principles as are here laid down, and which shine in their own luster, will be found the sheet-anchor of our faith."
@@ -57,4 +57,4 @@ These quotes highlight the consequences of the supposition, the questioning of j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

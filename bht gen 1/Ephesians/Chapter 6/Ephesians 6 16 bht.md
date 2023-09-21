@@ -4,7 +4,7 @@
 The Bible verse describes a powerful shield called faith that covers and protects the believer from various dangers. This shield, described as "large and oblong," effectively deflects and extinguishes the enemy's attacks. It encompasses the believer with God's divine perfections and power, giving them the ability to resist and conquer the temptations of Satan. By exercising a strong and lively faith, the believer can effectively quench the fiery darts of the devil's fierce and sudden temptations.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Above all—rather, 'Over all'; so as to cover all that has been put on before."
 2. "The shield of faith will certainly intercept, and so 'quench, all the fiery darts' (an image from the ancient fire-darts, formed of cane, with tow and combustibles ignited on the head of the shaft, so as to set fire to woodwork, tents, &c.)."
 3. "Faith conquers him (1 Peter 5:9), and his darts of temptation to wrath, lust, revenge, despair, &c. It overcomes the world (1 John 5:4), and so the prince of the world (1 John 5:4- :)."
@@ -48,4 +48,4 @@ The Bible verse describes a powerful shield called faith that covers and protect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

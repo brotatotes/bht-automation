@@ -9,7 +9,7 @@ In this verse, the distinction between the baptism of water and the baptism of t
 2. "Now, God had Himself, by pouring out on the Gentiles the Holy Spirit, included them in the number of these ὑμεῖς, and pronounced them to be members of the church of believers in Christ, and partakers of the Holy Ghost, the end of baptism."
 3. "This (in all its blessed consequences, = the gift of μετάνοια, εἰς ζωήν) was the ἴση δωρεά bestowed on them: and, this having been bestowed, to refuse the symbolic and subordinate ordinance, or to regard them any longer as strangers from the covenant of promise, would have been, so far as in him lay, κωλῦσαι τὸν θεόν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John baptized with water; but ye shall be baptized with the Holy Ghost." - This quote highlights the distinction between the baptism of John and the baptism of the Holy Ghost, emphasizing the spiritual significance of the latter.
 
 2. "Since God Himself has put them on a level with ourselves, by bestowing on them what the Lord Jesus pronounced the higher baptism of the Holy Ghost." - This quote emphasizes that God's act of giving the Holy Ghost to the Gentiles signifies their equal standing with the Jewish believers.
@@ -51,4 +51,4 @@ These quotes emphasize the distinction between the external sign of baptism and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

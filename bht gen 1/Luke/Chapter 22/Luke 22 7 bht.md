@@ -9,7 +9,7 @@ During the Passover, Jesus observes the significant event in the Jewish calendar
 2. "On this whole subject see notes on Matthew 26:17, and John 18:28."
 3. "ᾗ ἔδει, the legal time of the Passover being sacrificed. So the narrators in the three Gospels evidently intend."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the day of unleavened bread—strictly the fifteenth Nisan (part of our March and April) after the paschal lamb was killed"
 2. "the fourteenth (Thursday)"
 3. "Into the difficult questions raised on this we cannot here enter."
@@ -48,4 +48,4 @@ During the Passover, Jesus observes the significant event in the Jewish calendar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

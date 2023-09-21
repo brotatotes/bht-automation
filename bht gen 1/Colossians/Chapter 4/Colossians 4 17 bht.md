@@ -9,7 +9,7 @@ In this verse, the congregation is given the authority to reprove and discipline
 2. "The hierarchical turn given to the passage by Thl. and Œc. belongs to a later age."
 3. "Take heed to the ministry which thou receivedst in the Lord, that thou fulfil it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This proves that Scripture belongs to the laity as well as the clergy; and that laymen may profitably admonish the clergy in particular cases when they do so in meekness."
 2. "The word, 'fulfil,' accords with his ministry being near its close."
 3. "The element in which every work of the Christian, and especially the Christian minister, is to be done."
@@ -48,4 +48,4 @@ In this verse, the congregation is given the authority to reprove and discipline
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

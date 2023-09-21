@@ -4,7 +4,7 @@
 In this verse, the importance of sincerity and authenticity in one's spiritual practices is emphasized. It reminds us to focus on our relationship with God rather than seeking approval or recognition from others. The concept of doing good deeds without seeking recognition is highlighted, as it is just the reverse of hypocrites. This verse encourages humility and sincerity in one's actions and reassures that our efforts made in secret will be rewarded openly by God. It also reminds readers to critically examine the scriptures and consider historical context for a deeper understanding.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That thou appear not unto men to fast, but unto thy Father which is in secret." - This quote emphasizes the importance of sincerity and authenticity in one's spiritual practices. It reminds us to focus on our relationship with God rather than seeking approval or recognition from others.
 
 2. "Thy Father, which seeth in secret, shall reward thee openly." - This quote highlights the belief that God sees and knows our secret actions and intentions. It reassures us that our efforts and sacrifices made in private will not go unnoticed, as God will openly reward us according to His divine wisdom.
@@ -32,4 +32,4 @@ In this verse, the importance of sincerity and authenticity in one's spiritual p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

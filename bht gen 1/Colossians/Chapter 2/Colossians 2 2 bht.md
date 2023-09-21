@@ -4,7 +4,7 @@
 The hearts of believers are comforted and strengthened through unity, love, and the pursuit of knowledge in the Christian faith. Paul's prayer encompasses both the Colossians and believers at large, showing his genuine concern for their spiritual well-being. Love serves as the binding force that unites believers and counters the divisive effects of false doctrine. The goal is for believers to attain a deep and thorough understanding of the mystery of God, which leads to full assurance and a comprehensive grasp of the gospel message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That their hearts may be comforted" - The prayer for comfort includes both the Colossians and the other believers whom Paul had not seen in person, indicating his fervent concern for their well-being.
 2. "Their hearts would be comforted by knowing what conflict he had for them" - Paul's prayer for comfort is linked to his ongoing struggle and conflict on behalf of the believers, demonstrating his deep care and interest in their spiritual welfare.
 3. "Being knit together in love" - Love serves as the bond that unites believers and counters the divisive effects of false doctrine, emphasizing the importance of love for God and one another in Christ.
@@ -55,4 +55,4 @@ The hearts of believers are comforted and strengthened through unity, love, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

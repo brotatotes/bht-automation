@@ -9,7 +9,7 @@ This passage highlights the incompatibility between participating in the Lord's 
 2. "The ποτήριον δαιμονίων is said as corresponding to the cup of which mention has been already made, not as Grot., al., and De Wette fancy, referring to the libation at an idol feast."
 3. "From this passage probably, the τράπεζα κυρίου became an expression current in all ages of the Christian Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye cannot drink the cup of the Lord—really and spiritually; though ye may outwardly." 
 2. "The Lord's Supper stands, however, in the same relation, analogically, to Christ's sacrifice, as the Jews' sacrificial feasts did to their sacrifices."
 3. "Our one sacrifice of Christ is the only substantial reality; therefore, while the partaker of the Jew's sacrificial feast partook rather 'of the altar' than of GOD manifested fully, and the heathen idol-feaster had fellowship really with demons, the communicant in the Lord's Supper has in it a real communion of, or fellowship in, the body of Christ once sacrificed, and now exalted as the Head of redeemed humanity."
@@ -52,4 +52,4 @@ This passage highlights the incompatibility between participating in the Lord's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

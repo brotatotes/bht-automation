@@ -9,7 +9,7 @@ In this verse, believers are called to put away negative emotions and harmful sp
 2. "The norm and method of the renewal is, according to the image of Him that created him."
 3. "Every distinctive category of humanity is done away as to worth or privilege, and all have been absorbed into and center in this one, Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do ye also put away all these."
 2. "Reviling, evil-speaking."
 3. "Foul language best retains the ambiguity of the original."
@@ -53,4 +53,4 @@ In this verse, believers are called to put away negative emotions and harmful sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

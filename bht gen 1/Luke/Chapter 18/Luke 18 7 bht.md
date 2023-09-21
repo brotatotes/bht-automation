@@ -10,7 +10,7 @@ This Bible verse portrays God as the righteous and just Judge who will avenge an
 2. "This answers to the 'always' in Luke 18:1, but is an amplification of it."
 3. "The re [104]. reading, μακροθυμῶν, conveys the same meaning...This is perhaps what the E. V. means by 'though He bear long with them,' which is ambiguous as it stands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Shall not God...avenge—redeem from oppression." - This quote highlights that God is not unjust, but rather the infinitely righteous Judge who will bring justice and deliverance to His people who are oppressed.
 
 2. "His own elect...dear to Him as the apple of the eye." - This quote emphasizes that God's chosen ones, His elect, are not treated with indifference or contempt like the widow in the parable. Instead, they are cherished and beloved by Him.
@@ -58,4 +58,4 @@ This Bible verse portrays God as the righteous and just Judge who will avenge an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a moment of unity and reverence, the believers lift their voices to God, acknowledging His authority as the Creator of heaven and earth. With full confidence, they address Jesus as Lord, recognizing His power and sovereignty over all creation. As they pray, they express their trust and surrender to His lordship, seeking His help in times of danger and relying on His promises. In this collective prayer, they find comfort and strength, knowing that God hears their petitions and that their prayers are rooted in unwavering faith and hope.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With one accord—the breasts of all present echoing every word of this sublime prayer."
 2. "Lord—(See on :-). Applied to God, the term expresses absolute authority."
 3. "God which hast made heaven and earth—against whom, therefore, all creatures are powerless."
@@ -52,4 +52,4 @@ In a moment of unity and reverence, the believers lift their voices to God, ackn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

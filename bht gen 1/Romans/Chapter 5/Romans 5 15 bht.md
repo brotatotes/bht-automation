@@ -10,7 +10,7 @@ In this verse, we are presented with a comparison between the consequences of Ad
 3. "So that I think the quantitative sense the better, and join πολλῷ μᾶλλον with ἐπερίσσευσεν, in the sense of much more abundant (rich in diffusion) was the gift, &c."
 4. "The grace of our Lord Jesus Christ (His self-offering love, see 2Co 8:9) is the medium by which the free gift is imparted to men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two cases present points of contrast as well as resemblance."
 2. "By 'the free gift' is meant... the glorious gift of justifying righteousness."
 3. "And the 'much more,' of the one case than the other, does not mean that we get much more of good by Christ than of evil by Adam... but that we have much more reason to expect... that the many should be benefited by the merit of one, than that they should suffer for the sin of one."
@@ -56,4 +56,4 @@ Note: The commentary is discussing the comparison between Adam and Christ, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

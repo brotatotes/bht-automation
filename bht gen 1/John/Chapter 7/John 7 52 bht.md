@@ -9,7 +9,7 @@ In the face of Jesus' Galilean identity, the people answered with personal attac
 2. "It was not historically true; for two Prophets at least had arisen from Galilee: Jonah of Gathhepher, and the greatest of the Prophets, Elijah of Thisbe; and perhaps also Nahum and Hosea."
 3. "Their contempt for Galilee made them lose sight of historical accuracy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even a word of caution, or the gentlest proposal to inquire before condemning, was with them equivalent to an espousal of the hated One."
 2. "But rage is blind, and deep prejudice distorts all facts."
 3. "It was just because he had 'searched,' as they advised him, that he went the length even that he did."
@@ -59,4 +59,4 @@ These quotes highlight the evasive response of the people and their attempt to d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under consideration expresses the reciprocal nature of giving and rece
 2. "This general principle is very similarly enounced in 1 Corinthians 9:11."
 3. "It is suggested by Grot., al., that by this Paul wished to hint to the Romans the duty of a similar contribution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things." 
 2. "They owe it also to support and provide for those who have ministered to them spiritually." 
 3. "This reciprocity of giving and receiving is a principle that should be applied in the Christian community."
@@ -53,4 +53,4 @@ The verse under consideration expresses the reciprocal nature of giving and rece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described here speaks of the necessary path of suffering that Ch
 
 3. "The sufferings were the means through which Christ would achieve His ultimate glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ought not Christ to suffer...and enter into His glory." - This quote highlights the necessary path of suffering that Christ had to endure in order to enter into His glory. It emphasizes the significance of Christ's suffering as a means of achieving His ultimate purpose.
 
 2. "Through the gate of suffering...to enter into His glory." - This quote vividly portrays suffering as a gateway that Christ had to pass through in order to attain His glory. It conveys the idea that suffering is not an obstacle to be avoided, but rather a necessary passage to reach a higher state.
@@ -61,4 +61,4 @@ The verse being described here speaks of the necessary path of suffering that Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

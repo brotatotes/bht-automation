@@ -9,7 +9,7 @@ In this verse, Jesus responds to the plea of a desperate father, assuring him th
 2. "Thus (as Trench observes, after Chrysostom) the weak faith of the nobleman is strengthened, while the humility of the centurion is honoured."
 3. "When the sign (║) occurs in a reference, it is signified that the word occurs in the parallel place in the other Gospels, which will always be found indicated at the head of the note on the paragraph."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man believed the word" - The immediate belief of the man in Jesus' word demonstrates the power of faith and its ability to bring about miraculous healing.
 2. "The cure, shooting quicker than lightning from Cana to Capernaum, was felt by the dying youth" - The speed at which the healing took place highlights the instantaneous and powerful nature of Jesus' miracles.
 3. "His whole house believed" - The faith of the father not only resulted in the healing of his son but also had a ripple effect, leading to the belief of his entire household. This emphasizes the transformative power of faith and its ability to impact others.
@@ -44,4 +44,4 @@ In this verse, Jesus responds to the plea of a desperate father, assuring him th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

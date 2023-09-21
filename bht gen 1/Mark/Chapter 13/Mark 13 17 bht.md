@@ -4,7 +4,7 @@
 Alas for them, the verse mentions the vulnerability and hardship faced by pregnant women and nursing mothers during distressing times. It emphasizes the challenges they encounter in escaping swiftly, burdened by their condition and the responsibility of caring for their children. These women, both physically and emotionally burdened, face the distressing dilemma of choosing between leaving their children behind or struggling to carry them while fleeing. The verse calls for empathy and understanding towards the plight of these mothers and their children during times of danger.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woe to them—or, 'alas for them.'"
 2. "In consequence of the aggravated suffering which those conditions would involve."
 3. "The mention of pregnant women and nursing mothers highlights the vulnerability and hardship they would face during those days."
@@ -20,4 +20,4 @@ Alas for them, the verse mentions the vulnerability and hardship faced by pregna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

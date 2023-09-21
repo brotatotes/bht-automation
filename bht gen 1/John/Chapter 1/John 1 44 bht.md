@@ -9,7 +9,7 @@ In the calling of the disciples, Jesus reveals his connection to them as individ
 2. "Here we find Jesus himself calling a disciple, for the first time."
 3. "The going to search for others to be disciples unites Philip to the company of those who have been before mentioned, who we know were not immediately or inseparably attached as followers to Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The city of Andrew and Peter—of their birth probably, for they seem to have lived at Capernaum." 
 2. "Their connection to Capernaum suggests a deep-rooted familiarity and attachment to the place." 
 3. "This geographical detail highlights the personal and intimate nature of Jesus' call to these disciples."
@@ -45,4 +45,4 @@ In the calling of the disciples, Jesus reveals his connection to them as individ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

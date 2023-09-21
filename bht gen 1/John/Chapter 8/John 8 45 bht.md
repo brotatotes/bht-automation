@@ -9,7 +9,7 @@ The commentators provide insights on a Bible verse that emphasizes the oppositio
 2. "You are not of the truth, but of him who is falsehood itself." 
 3. "This implies a charge of wilful striving against known and recognized truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And because I tell you the truth, ye believe me not." - The commentary highlights that the reason for their disbelief is not because Jesus is lying, but because He is telling them the truth. This quote emphasizes the irony of their response to His words.
 
 2. "Not although, but just because He did so." - The commentary clarifies that their disbelief is not in spite of Jesus telling the truth, but rather because of it. This quote highlights the paradoxical nature of their response.
@@ -54,4 +54,4 @@ The commentators provide insights on a Bible verse that emphasizes the oppositio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

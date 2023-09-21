@@ -4,7 +4,7 @@
 In this verse, the commentators affirm that the new city described in the Bible will be filled with the radiant presence and light of God and the Lamb. They emphasize that this heavenly light surpasses any natural or earthly light, illustrating the incomparable magnificence and splendor of God's glory. The commentary further highlights the eternal and spiritual nature of the city, where the need for natural light is replaced by the overwhelming brilliance and radiance that emanates from God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The direct light of God and the Lamb shall make the saints independent of God's creatures, the sun and moon, for light."
 2. "The direct light of God and the Lamb shall make the saints independent of God's creatures."
 3. "The saints will no longer need the sun and moon for light."
@@ -47,4 +47,4 @@ Overall, this commentary emphasizes the spiritual and eternal nature of the city
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

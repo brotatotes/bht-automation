@@ -4,7 +4,7 @@
 In this powerful Bible verse, the commentator remarks on the concept of requital and justice. The verse calls for retribution against the harlot, stressing the idea of giving back in the same measure as she has received. The punishment will be twofold, indicating the severity of her offense. This double severity is not excessive, but rather a fair and suitable response to her deserving sins. The verse emphasizes the executioners of God's vengeance doing what is just and right.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She had not rewarded or repaid the world power for some injury which the world power had inflicted on her; but she had given the world power that which was its due, namely, spiritual delusions, because it did not like to retain God in its knowledge."
 2. "Contrast with this the double of joy which Jerusalem shall receive for her past suffering; even as she has received double punishment for her sins."
 3. "Fill to her double - of the Lord's cup of wrath."
@@ -47,4 +47,4 @@ In this powerful Bible verse, the commentator remarks on the concept of requital
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

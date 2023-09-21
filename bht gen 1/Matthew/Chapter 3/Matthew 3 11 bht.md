@@ -9,7 +9,7 @@ The verse being described is about John the Baptist acknowledging his role as th
 2. "The expressions therefore in all the Gospels amount to the same." 
 3. "The members of comparison in this verse are strictly parallel to one another: the baptism by water, the end of which is μετάνοια, a mere transition state, a note of preparation, and the baptism by the Holy Ghost and fire, the end of which is (Mat 3:12) sanctification, the entire aim and purpose of man’s creation and renewal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But there cometh the Mightier than I" - This emphasizes the surpassing power and authority of the one who is to come after John the Baptist. It highlights the humility of John, recognizing his role as a servant compared to the greatness of the one who is to come.
 
 2. "His it is, as His sole prerogative, to dispense the inward reality" - John acknowledges that he only administers the outward symbol of purification through water baptism, while the true baptism with the Holy Spirit is the work of the coming Messiah. This shows John's understanding of his limited role and the exalted position of the one who is to come.
@@ -55,4 +55,4 @@ The verse being described is about John the Baptist acknowledging his role as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

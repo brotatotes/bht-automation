@@ -9,7 +9,7 @@ The verse being described is urging believers to be prepared and vigilant for th
 2. "Above all things, having your love towards one another intense, because love covereth a multitude of sins." 
 3. "It is a truth from which we need not shrink, that every sin which love hides from man's sight, is hidden in God's sight also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The nearness meant is not that of mere 'time,' but that before the Lord; as he explains to guard against misapprehension, and defends God from the charge of procrastination."
 2. "We live in the last dispensation, not like the Jews under the Old Testament. The Lord will come as a thief; He is 'ready' to judge the world at any moment."
 3. "Temperance promotes wakefulness or watchfulness, and both promote prayer. Drink makes drowsy, and drowsiness prevents prayer."
@@ -53,4 +53,4 @@ The verse being described is urging believers to be prepared and vigilant for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The disciples, particularly Philip, reveal their limited understanding and desir
 
 3. "Philip misunderstands ἑωρ. to mean ‘seeing in a vision,’ and intimates..." - This quote emphasizes the misunderstanding of Philip, indicating a potential misinterpretation of the verse and the subsequent implications of his understanding.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son is the ordained and perfect manifestation of the Father."
 2. "His works ought to remove doubts."
 3. "The 'greater' works were the conversion of thousands in a day, by His Spirit accompanying them."
@@ -49,4 +49,4 @@ The disciples, particularly Philip, reveal their limited understanding and desir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

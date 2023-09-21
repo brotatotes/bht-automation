@@ -10,7 +10,7 @@ In the midst of a perplexing and tumultuous situation, the disciples find themse
 3. "αὐτῶν 'The Apostles,' the αὐτούς of Acts 5:22; not 'these words,' as would appear at first sight."
 4. "τί ἂν γέν. τοὺτο To what this would come; 'whereunto this would grow,' E. V.: not 'quomodo factum sit,' as Kuin., nor 'quid hoc esset rei' (τί ὂν εἴη, as ch. Act 10:17), as Grot. and others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples' doubt and perplexity in this moment is a reminder that even those closest to Jesus struggled to fully comprehend his power and authority."
 2. "Their doubt serves as a reminder that faith is not always easy or immediate, but requires ongoing trust and surrender to God's plan."
 3. "In their doubt, the disciples were given an opportunity to witness Jesus' miraculous power and to grow in their understanding of who he truly was."
@@ -48,4 +48,4 @@ In the midst of a perplexing and tumultuous situation, the disciples find themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

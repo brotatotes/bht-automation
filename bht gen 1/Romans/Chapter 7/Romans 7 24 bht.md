@@ -9,7 +9,7 @@ The Bible verse being described is a cry from a wretched individual, expressing 
 2. "From this wretched condition, which is a very death in life, who shall deliver him?"
 3. "The cry is uttered, as De Wette well observes, in full consciousness of the deliverance which Christ has effected, and as leading to the expression of thanks which follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle speaks of the 'body' here with reference to 'the law of sin' which he had said was 'in his members,' but merely as the instrument by which the sin of the heart finds vent in action, and as itself the seat of the lower appetites."
 2. "He calls it 'the body of this death,' as feeling, at the moment when he wrote, the horrors of that death into which it dragged him down."
 3. "But the language is not that of a sinner newly awakened to the sight of his lost state; it is the cry of a living but agonized believer, weighed down under a burden which is not himself, but which he longs to shake off from his renewed self."
@@ -56,4 +56,4 @@ The Bible verse being described is a cry from a wretched individual, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

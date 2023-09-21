@@ -9,7 +9,7 @@ The verse being described by the commentators is one that highlights the noble a
 2. "Stirred up, not to envy, but to enquiry." 
 3. "The doctrine of Acts 17:3, which Paul and Silas preached here also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These were more noble than those in Thessalonica" - The comparison is between the Jews of the two places; for the triumphs of the Gospel at Thessalonica were mostly among the Gentiles.
 2. "Received the word with all readiness of mind" - Heard it not only without prejudice, but with eager interest, with sincere desire to be taught aright.
 3. "Searched the scriptures daily whether those things were so" - Whether the Christian interpretation which the apostle put upon the Old Testament Scriptures was the true one.
@@ -59,4 +59,4 @@ These quotes highlight the noble attitude of the Beroeans in their eagerness to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

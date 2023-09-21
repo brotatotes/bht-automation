@@ -9,7 +9,7 @@ In this passage, Jesus delivers a parable that challenges the conventional belie
 2. "Either Peter took it for a parable, or παραβ. must be taken in its wider sense of 'a hard saying.'"
 3. "Their questioning as to the meaning of parables in ch. 13 had habituated them to asking for explanations in this form."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's request for an explanation of the parable shows his desire to understand the deeper meaning behind Jesus' teachings." 
 
 2. "The fact that Jesus had entered the house from the people suggests that He wanted to have a private conversation with His disciples, emphasizing the importance of their understanding." 
@@ -42,4 +42,4 @@ In this passage, Jesus delivers a parable that challenges the conventional belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

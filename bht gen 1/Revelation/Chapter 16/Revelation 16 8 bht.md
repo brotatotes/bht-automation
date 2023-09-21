@@ -4,7 +4,7 @@
 In this passage, a powerful angel pours out a bowl upon the sun, intensifying its bright scorching power, a stark contrast to the darkness caused by a previous trumpet. The scorching is not literal, but mystical, symbolizing divine authority behind the judgment. The scorching takes place in fire, emphasizing the intense and destructive nature of the judgment. The severe plague of extreme heat is described as a burning and painful sensation, causing a clear and painful revelation of every man's work.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fourth vial intensifies the sun's bright scorching power, contrasting with the fourth trumpet where the sun is darkened."
 2. "The power is given to the sun, symbolizing the divine authority behind this judgment."
 3. "The men affected by this vial are specifically those who had the mark of the beast, emphasizing the connection between their allegiance and the consequences they face."
@@ -49,4 +49,4 @@ In this passage, a powerful angel pours out a bowl upon the sun, intensifying it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

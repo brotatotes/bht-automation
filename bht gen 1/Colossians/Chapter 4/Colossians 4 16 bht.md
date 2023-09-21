@@ -9,7 +9,7 @@ The verse in question refers to an epistle, whose specific identity is uncertain
 2. "The phrase  τὴν ἐκ so commonly having the pregnant meaning of ‘which is there and must be sought from there.'"
 3. "We may safely say that a letter not from, but  to the Laodiceans is meant."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Epistles from the apostles were publicly read in the church assemblies." 
 2. "Thus, they and the Gospels were put on a level with the Old Testament, which was similarly read." 
 3. "The Holy Spirit inspired Paul to write, besides those extant, other Epistles which He saw necessary for that day, and for particular churches; and which were not so for the Church of all ages and places."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

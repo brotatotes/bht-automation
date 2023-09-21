@@ -9,7 +9,7 @@ In this Bible verse, we find an encouragement for believers with a reminder that
 2. "The aorist participle, as so often, is contemporaneous with the aorist verb, as in ἀποκριθεὶς εἶπε, &c."
 3. "The construction of ὄμνυμι with κατά and a genitive is found when a thing is used as binding the oath."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Confirming the reasonableness of resting on 'the promises' as infallibly sure, resting as they do on God's oath."
 2. "He now gives consolation, by the oath of God's grace, to those whom, in the second, third, and fourth chapters, he had warned by the oath of God's 'wrath.'"
 3. "The oath of grace is in force forever."
@@ -55,4 +55,4 @@ In this Bible verse, we find an encouragement for believers with a reminder that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

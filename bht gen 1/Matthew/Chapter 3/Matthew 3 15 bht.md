@@ -9,7 +9,7 @@ In this verse, Jesus proclaims the significance of fulfilling God's righteous or
 2. "This ἄρτι is spoken from the Lord’s foreknowledge, that this relation of subjection to John was only temporary, and that hereafter their relative situations would be inverted." 
 3. "Now was fulfilled the prophetic announcement of Psalms 40:7-8."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou recoilest, and no wonder, for the seeming incongruity is startling; but in the present case do as thou art bidden."
 2. "The import of circumcision and of baptism seems to be radically the same."
 3. "Thus do I impledge Myself to the whole righteousness of the Law—thus symbolically do enter on and engage to fulfil it all."
@@ -47,4 +47,4 @@ In this verse, Jesus proclaims the significance of fulfilling God's righteous or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

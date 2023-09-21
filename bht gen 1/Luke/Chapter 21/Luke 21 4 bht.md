@@ -9,7 +9,7 @@ In this verse, we see a stark contrast between the majority who gave out of thei
 2. The use of the article "τὰ" before "δῶρ" indicates a particular set of gifts, rather than just any gifts.
 3. The phrase "εἰς τὰ δῶρ" suggests a movement or inclusion into the realm of gifts, highlighting the significance and purpose of these gifts.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ's standard of commendable offering is not our superfluity, but our deficiency—not what will never be missed, but what costs us some real sacrifice."
 2. "As temple offerings are needed still for the service of Christ at home and abroad, so 'looking down' now, as then 'up,' Me 'sees' who 'cast in,' and how much."
 3. "Christ's prophecy of the destruction of Jerusalem and warnings to prepare for his second coming, suggested by it - his days and nights during his last week."
@@ -44,4 +44,4 @@ These quotes highlight the contrast between those who gave out of their abundanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

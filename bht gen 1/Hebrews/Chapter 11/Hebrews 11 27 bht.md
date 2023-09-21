@@ -9,7 +9,7 @@ In this verse, we see the remarkable faith of Moses as he courageously led the I
 2. "The fact of his flight was the effect of his fear, but the same flight itself, the dereliction of Egypt and reserving himself for further action, showed that that fear did not possess nor bear him away." 
 3. "He so left Egypt, as intending to return to it, but avoiding the thrusting of himself into danger at the moment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He did not fear the king so as to neglect his duty and not return when God called him."
 2. "His resolution to take his portion with oppressed Israel, which he could not have done had he stayed, was the motive of his flight, and constituted the 'faith' of this act."
 3. "He had fled, not so much from fear of Pharaoh, as from a revulsion of feeling in finding God's people insensible to their high destiny, and from disappointment at not having been able to inspire them with those hopes for which he had sacrificed all his earthly prospects."
@@ -45,4 +45,4 @@ In this verse, we see the remarkable faith of Moses as he courageously led the I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

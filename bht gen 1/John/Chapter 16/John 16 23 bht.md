@@ -9,7 +9,7 @@ In this verse, the disciples are reassured that in their future relationship wit
 2. "But such an opposition is contrary to the whole spirit of these discourses, and asking the Father in Christ’s name, is in fact asking HIM."
 3. "He shall give it you in my name, He being, as Luthardt expresses it, the element, the region, of all communication between God and the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In that day—of the dispensation of the Spirit." 
 2. "Ye shall ask—inquire of me nothing—by reason of the fulness of the Spirit's teaching." 
 3. "The fulness of the Spirit's teaching."
@@ -52,4 +52,4 @@ In this verse, the disciples are reassured that in their future relationship wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

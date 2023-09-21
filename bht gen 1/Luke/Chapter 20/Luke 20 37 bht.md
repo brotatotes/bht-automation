@@ -9,7 +9,7 @@ In this verse, Jesus engages in a theological debate, appealing to the authority
 2. "The mention of Moses in this verse challenges the belief that he contradicts the point being made."
 3. "The reference to Moses serves as a reminder of the rich history and wisdom contained in the Bible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The religious leaders had just quoted Moses to try and trap Jesus, but Jesus reminds them that even Moses himself testified about Him. This shows that Jesus is not just a mere prophet, but the fulfillment of the Law and the Prophets."
 
 2. "By referring to Moses, Jesus is asserting His authority and divine nature. He is essentially saying, 'If you believe in Moses, then you should believe in me, because Moses spoke about me.'"
@@ -51,4 +51,4 @@ In this verse, Jesus engages in a theological debate, appealing to the authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

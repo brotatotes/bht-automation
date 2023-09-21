@@ -4,7 +4,7 @@
 The verse describes a powerful force represented by a scarlet-colored beast, which seeks to control and manipulate others. This force is guided by a woman, symbolizing the city of Rome or the apostate church. The woman's influence leads the beast to exhibit blasphemous pretensions, indicating a connection to the papacy. The vision is not a literal relocation but a spiritual ecstasy, allowing the author to witness the downfall of Rome and the beast's animalistic nature. The scene is laid in a wilderness to symbolize the future condition of this influential entity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "she is contented to have her portion in this moral wilderness."
 2. "Rome, resting on the world power and ruling it by the claim of supremacy, is the chief, though not the exclusive, representative of this symbol."
 3. "Under the harlot's superintendence, the world power puts forth blasphemous pretensions worse than in pagan days."
@@ -45,4 +45,4 @@ The verse describes a powerful force represented by a scarlet-colored beast, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

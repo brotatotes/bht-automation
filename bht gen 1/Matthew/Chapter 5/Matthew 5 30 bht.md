@@ -4,7 +4,7 @@
 In this verse, we are urged to prioritize righteousness over any worldly attachment, even if it means sacrificing our most cherished possessions. It emphasizes the importance of self-control and self-denial for the sake of avoiding sin and maintaining purity of heart and mind. This call to refrain from impure practices is not intended to be taken literally, but as a reminder to guard our thoughts and actions from anything that would defile us. Ultimately, this verse teaches us about the universal scope of God's love, which extends to all people, regardless of their background, through faith in Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if thy right hand—the organ of action, to which the eye excites." 
 2. "The repetition, in identical terms, of such stern truths and awful lessons seems characteristic of our Lord's manner of teaching." 
 3. "Compare Matthew 18:8."
@@ -28,4 +28,4 @@ In this verse, we are urged to prioritize righteousness over any worldly attachm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

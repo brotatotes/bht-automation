@@ -9,7 +9,7 @@ Throughout their time in Macedonia, Paul and his companions faced intense physic
 2. "The outward ones of fightings generating inward fears."
 3. "Paul speaks of ἡ σὰρξ ἡμῶν, to understand ἔξωθεν of the state of things without him [personally], contentions with adversaries either within or without the church, and ἔσωθεν of that within [him personally], fears."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My 'flesh' had no rest" - Paul refers to his physical body, indicating that his external circumstances were causing him distress and unrest.
 2. "Fightings with adversaries 'without'" - Paul faced external opposition and conflict from adversaries who were opposing his ministry and causing trouble.
 3. "Fears for the Corinthian believers 'within' the Church" - Paul also experienced internal concerns and anxieties for the well-being and spiritual condition of the Corinthian believers, particularly due to the presence of false brethren.
@@ -60,4 +60,4 @@ Throughout their time in Macedonia, Paul and his companions faced intense physic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

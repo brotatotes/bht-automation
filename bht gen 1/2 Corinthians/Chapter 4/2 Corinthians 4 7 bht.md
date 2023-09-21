@@ -9,7 +9,7 @@ In this Bible verse, the revelation and understanding of God's glory through Chr
 2. "the vessel is the body, not the whole personality" - The vessel refers to the physical body, highlighting the fragility and temporary nature of our earthly existence. (2 Corinthians 4:7)
 3. "the power consisting in the effects of the apostolic ministry" - The power of God is manifested through the apostolic ministry, both in the preaching of the Gospel and in the endurance of trials and difficulties. (2 Corinthians 4:7)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This very fact is one of the most marvellous proofs of God's power, that an earthen vessel could bear such splendor and keep such a treasure."
 2. "The fragile 'earthen vessel' is the body, the 'outward man,' liable to afflictions and death."
 3. "God often allows the vessel to be chipped and broken, that the excellency of the treasure contained, and of the power which that treasure has, may be all His."
@@ -48,4 +48,4 @@ In this Bible verse, the revelation and understanding of God's glory through Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

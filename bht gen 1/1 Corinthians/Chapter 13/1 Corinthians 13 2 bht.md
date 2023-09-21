@@ -9,7 +9,7 @@ This verse speaks of the importance of love in the exercise of spiritual gifts a
 2. "The verb belongs to both μυστ . and γνῶσιν."
 3. "The full construction would be εἰδῶ μυστ . and ἔχω γνῶσιν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mysteries refer to the deep counsels of God hitherto secret, but now revealed to His saints." 
 2. "The practical power of the will elevated by faith [NEANDER]; confidence in God that the miraculous result will surely follow the exercise of the will at the secret impulse of His Spirit." 
 3. "Without 'love' prophecy, knowledge, and faith, are not what they seem... and so fail of the heavenly reward."
@@ -53,4 +53,4 @@ This verse speaks of the importance of love in the exercise of spiritual gifts a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

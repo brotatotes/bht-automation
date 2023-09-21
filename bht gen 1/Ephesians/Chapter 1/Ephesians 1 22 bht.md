@@ -9,7 +9,7 @@ The verse being described is a powerful declaration about Christ's authority and
 2. "The church, being the Body of Christ, is dwelt in and filled by God: it is His πλήρωμα in an especial manner." 
 3. "The Church is the special receptacle and abiding place, the πλήρωμα κατ᾽ ἐξοχήν, of Him who fills all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "HIM He gave as Head over all things to the Church." - This quote emphasizes the special advantage the Church has in having Christ as its Head, as opposed to anyone else. 
 
 2. "He is OVER ('far above') all things; in contrast to the words, 'TO the Church,' namely, for her advantage." - This quote highlights the contrast between Christ's dominion over all things and His specific role as Head for the benefit of the Church. 
@@ -61,4 +61,4 @@ The verse being described is a powerful declaration about Christ's authority and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

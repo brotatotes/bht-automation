@@ -9,7 +9,7 @@ In a land hungry for a prophet, the appearance and message of this remarkable fi
 2. "There need be no surprise at such multitudes going out to John. The nature of his announcement, coupled with the prevalent expectation of the time, was enough to produce this effect."
 3. "See, as strictly consistent with this account, chap. Matthew 11:7-15."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cry of this great preacher of repentance and herald of the approaching Messiah brought trooping penitents and eager expectants."
 2. "From the metropolitan center to the extremities of the Judean province, Jerusalem, all Judea, and all the region round about Jordan responded to his call."
 3. "The gathering of people from different regions demonstrates the widespread impact and influence of John's message."
@@ -37,4 +37,4 @@ In a land hungry for a prophet, the appearance and message of this remarkable fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

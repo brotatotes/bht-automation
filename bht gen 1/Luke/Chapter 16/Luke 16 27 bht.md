@@ -9,7 +9,7 @@ In this passage, a lost spirit, having realized the truth, expresses sympathy to
 2. "That a lost spirit should feel and express such sympathy, is not to be wondered at."
 3. "The misery of such will be very much heightened by the awakened and active state of those higher faculties and feelings which selfishness and the body kept down here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abandoning all hope for himself."
 2. "No waking up of good in the heart of the lost."
 3. "Bitter reproach against God and the old economy, as not warning him sufficiently."
@@ -44,4 +44,4 @@ Note: The provided commentary is quite short and does not provide much depth or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

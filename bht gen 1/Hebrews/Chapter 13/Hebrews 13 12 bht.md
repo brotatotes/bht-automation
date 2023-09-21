@@ -9,7 +9,7 @@ Jesus, in order to sanctify the people through his own blood, suffered outside t
 2. "His offering on earth, which was accomplished on the cross, and answered to the slaying of the legal victim and the destruction of its body by fire, the annihilation of the fleshly life." 
 3. "His offering in the holy place above, which consisted in His entering heaven, the abode of God, through the veil, that is to say His flesh, and carrying His blood there as a standing atonement for the world’s sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His blood has been brought into the heavenly sanctuary, and 'sanctifies the people' by cleansing them from sin, and consecrating them to God."
 2. "The fiery ordeal of His suffering on the cross, answers to the burning of the victims; thereby His mere fleshly life was completely destroyed, as their bodies were."
 3. "The second part of His offering was His carrying His blood into the heavenly holiest before God at His ascension, that it should be a perpetual atonement for the world's sin."
@@ -47,4 +47,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The authority and unity of the apostles are highlighted in the description, with
 2. "The force of the καί is distributed over the whole supposition following."
 3. "The preposition παρά indicates specific difference, overstepping the limit into a new region."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A new revelation, even though seemingly accredited by miracles, is not to be received if it contradict the already existing revelation. For God cannot contradict Himself."
 2. "The Judaizing teachers sheltered themselves under the names of the great apostles, James, John, and Peter: 'Do not bring these names up to me, for even if an angel,' &c."
 3. "The Greek expresses not so much 'any other gospel different from what we have preached,' as, 'any gospel BESIDE that which we preached.'"
@@ -55,4 +55,4 @@ The authority and unity of the apostles are highlighted in the description, with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

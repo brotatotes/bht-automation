@@ -4,7 +4,7 @@
 The verse being described warns against the dangers of pride and ignorance. The person in question is filled with self-conceit and their knowledge is centered around meaningless arguments rather than the truth. They are prone to engaging in useless debates and their communication is marked by contentious disputes and suspicious thoughts. This ignorance and arrogance stem from their lack of understanding of true religion and the simplicity of the gospel. Their behavior not only harms their own peace and comfort but also breeds envy, strife, and slander.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is proud—literally, 'wrapt in smoke'; filled with the fumes of self-conceit." 
 2. "Truth is not the center about which his investigations move, but mere word-strifes."
 3. "These stand with them instead of 'godliness' and 'wholesome words'."
@@ -50,4 +50,4 @@ The verse being described warns against the dangers of pride and ignorance. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

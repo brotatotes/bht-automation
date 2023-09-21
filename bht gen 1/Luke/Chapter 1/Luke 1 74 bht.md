@@ -4,7 +4,7 @@
 The Bible verse describes the purpose of redemption, emphasizing that we should serve and worship the Lord with holiness and righteousness. This service is seen as a privilege and an honor, not just a duty. It involves obeying, honoring, and dedicating ourselves to God, free from fear of death, enemies, or external foes. Through deliverance, we are granted the opportunity to joyfully and fearlessly love and serve God, yielding obedience as children to a loving Father who has saved us from spiritual enemies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The purpose of all redemption - 'that we should serve Him' - that is, 'the Lord God of Israel'. The word signifies religious service distinctively - 'the priesthood of the New Testament'." 
 2. "The nature of this service - 'in holiness and righteousness before Him' - or, as in His presence."
 3. "Its fearlessness - 'might serve Him without fear'."
@@ -50,4 +50,4 @@ The Bible verse describes the purpose of redemption, emphasizing that we should 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

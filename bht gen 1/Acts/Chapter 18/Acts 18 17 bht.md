@@ -9,7 +9,7 @@ In this incident, the crowd reacts with rage towards Sosthenes, who had caused t
 2. "The carelessness of Gallio about the matter clearly seems to be a further instance of his contempt for the Jews, and indisposition to favour them or their persecution of Paul."
 3. "‘So little did the information against Paul prosper, that the informers themselves were beaten without interference of the judge.’ Meyer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is very improbable that this was the same Sosthenes as the apostle afterwards calls 'his brother'." 
 2. "And beat him before the judgment-seat—under the very eye of the judge." 
 3. "And Gallio cared for none of those things—nothing loath, perhaps, to see these turbulent Jews, for whom probably he felt contempt, themselves getting what they hoped to inflict on another."
@@ -59,4 +59,4 @@ These quotes highlight the idea that believers will face opposition and persecut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

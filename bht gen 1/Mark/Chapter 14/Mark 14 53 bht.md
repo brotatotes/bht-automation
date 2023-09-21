@@ -9,7 +9,7 @@ In a pivotal moment, Jesus is arrested and brought before the high priest and th
 2) "It is not easy to interpret συνέρχονται αὐτῷ. Meyer, relying on the fact that the dative after συνέρχεσθαι is always one of companionship, maintains that αὐτῷ refers to our Lord 'there come with him.'"
 3) "I venture therefore to prefer the usual construction of the words, 'there come together to him.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was then a full and formal meeting of the Sanhedrim."
 2. "The natural impression is that the scene around the fire took place overnight."
 3. "If our Lord had to be transferred from the residence of Annas to that of Caiaphas, one is apt to wonder that there is no mention of His being marched from the one to the other."
@@ -37,4 +37,4 @@ In a pivotal moment, Jesus is arrested and brought before the high priest and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

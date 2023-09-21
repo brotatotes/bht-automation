@@ -9,7 +9,7 @@ In this verse, we find a specific situation where Christians were being reported
 2. "No female relations mentioned" - This observation highlights the absence of any mention of women, indicating that the verse may be focusing on a particular group or aspect of the situation.
 3. "But the general idea is also included" - This statement implies that while the verse may have a specific context, it also encompasses a broader concept or principle that can be applied more generally.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deep and virulent hostility of the old nature and life to the new—as of Belial to Christ—was to issue in awful wrenches of the dearest ties."
 2. "The disciples, in the prospect of their cause and themselves being launched upon society, are here prepared for the worst."
 3. "The brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death."
@@ -43,4 +43,4 @@ In this verse, we find a specific situation where Christians were being reported
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

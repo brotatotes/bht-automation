@@ -4,7 +4,7 @@
 In this verse, we see the foundation of the Church being built among the Samaritans, who were initially expectant of the promised Messiah. The Samaritans' faith in Jesus is ignited by the powerful testimony of the woman who encountered Him, leading many to believe in Him through her clear and honest witness. Their belief is further strengthened by their recognition that Jesus has supernatural knowledge and could only be the long-awaited Savior of the world. This passage highlights the impact of personal testimony and the transformative power of faith in Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These Samaritans were the foundation of the Church afterwards built up there."
 2. "No miracle appears to have been wrought there (but unparalleled supernatural knowledge displayed)."
 3. "'We have heard Him ourselves' sufficed to raise their faith to a point never attained by the Jews, and hardly as yet by the disciples—that He was 'the Saviour of the world'."
@@ -42,4 +42,4 @@ In this verse, we see the foundation of the Church being built among the Samarit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

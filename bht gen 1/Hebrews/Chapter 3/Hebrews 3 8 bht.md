@@ -4,7 +4,7 @@
 The verse at hand warns against hardening our hearts, a conscious act that obstructs the entrance of God's grace. It refers to the provocation and temptation faced by the Israelites, exemplifying their lack of faith and habitual disobedience. The Israelites' repeated testing of God's patience serves as a cautionary tale, reminding us of the perils of doubting His faithfulness. Yet, God's response is not one of anger or abandonment, but rather a display of His patience and mercy as He continues to provide for and lead His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Harden not your hearts—This phrase here only is used of man's own act; usually of God's act (Romans 9:18)."
 2. "The first offense especially ought to be guarded against, and is the most severely reproved, as it is apt to produce many more."
 3. "In the day—Greek, 'according to the day of.'"
@@ -54,4 +54,4 @@ The verse at hand warns against hardening our hearts, a conscious act that obstr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

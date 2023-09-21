@@ -4,7 +4,7 @@
 In this verse, commentators highlight the human tendency to seek recognition, status, and honor. They emphasize the desire for prominence in social and religious settings, indicating a longing for validation and approval from others. The commentators shed light on the cultural context, where sitting arrangements and positions of influence were of great importance. Ultimately, these commentaries provide insights into the dangers of seeking earthly recognition and the importance of true humility in the eyes of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love the uppermost rooms at feasts" - This refers to seeking the place of highest honor and recognition. It highlights the human tendency to desire recognition and status in social settings.
 2. "The chief seats in the synagogues" - This emphasizes the desire for prominence and influence in religious gatherings. It reveals the inclination to seek positions of power and authority within religious institutions.
 3. "The place of highest honor" - This phrase underscores the human longing for recognition and validation. It reminds us of the importance society places on status and the need to be esteemed by others.
@@ -49,4 +49,4 @@ In this verse, commentators highlight the human tendency to seek recognition, st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a person is under the custody of two soldiers, bound with two cha
 2. "Who he might be (subjective possibility)." This quote suggests that there is uncertainty about the identity of the person being referred to in the verse, adding an element of mystery and intrigue to the narrative.
 3. "What he had done (assuming that he must have done something)." This quote implies that there is an assumption that the person in question must have done something to warrant being in custody, raising questions about his actions and potential guilt.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of commanding Paul to be bound with two chains symbolizes the opposition and persecution he faced for his faith. It serves as a reminder of the sacrifices and hardships endured by those who follow Christ."
 
 2. "The use of two chains highlights the severity of Paul's imprisonment. It signifies the physical restraint placed upon him, as well as the spiritual battle he was engaged in. It is a testament to his unwavering commitment to the Gospel."
@@ -56,4 +56,4 @@ These quotes highlight the significance of Paul's imprisonment, emphasizing how 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

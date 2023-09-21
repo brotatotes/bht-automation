@@ -9,7 +9,7 @@ Forgetting intentionally, scoffers choose to ignore the origins of the heavens a
 2. "the heavens were from of old and the earth formed out of water and by means of water"
 3. "water was the material, out of which the earth was made"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their ignorance is voluntary."
 2. "They obstinately shut their eyes to the Scripture record of the creation and the deluge."
 3. "The flood came in spite of their reasonings; so will the conflagration of the earth come in spite of the 'scoffers' of the last days, changing the whole order of things."
@@ -57,4 +57,4 @@ Forgetting intentionally, scoffers choose to ignore the origins of the heavens a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

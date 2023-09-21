@@ -9,7 +9,7 @@ In this Bible verse, we see the transcendent influence of God as He impresses a 
 2. "No nominative (as διαλογισμός , Kuin.) must be supplied: it is impersonal."
 3. "The exact age was traditional, see Lightf."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The life of Moses is represented as embracing three periods, of forty years each; the Jewish writers say the same."
 2. "His heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
 3. "His heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
@@ -55,4 +55,4 @@ In this Bible verse, we see the transcendent influence of God as He impresses a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

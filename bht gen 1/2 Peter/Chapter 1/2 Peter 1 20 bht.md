@@ -9,7 +9,7 @@ The verse under consideration cautions against private interpretation of scriptu
 2. "the saying regards, not our interpretation of prophecy, but its resolution, or interpretation, by the prophets themselves"
 3. "prophecy springs not out of human interpretation, i.e. is not a prognostication made by a man knowing what he means when he utters it"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No prophecy is found to be the result of 'private interpretation' (solution), and so origination." 
 2. "The words of the prophetical (and so of all) Scripture writers were not mere words of the individuals, and therefore to be interpreted by them, but of 'the Holy Ghost' by whom they were 'moved.'"
 3. "In a secondary sense the text teaches also, as the word is the Holy Spirit's, it cannot be interpreted by its readers (any more than by its writers) by their mere private human powers, but by the teaching of the Holy Ghost."
@@ -59,4 +59,4 @@ The verse under consideration cautions against private interpretation of scriptu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

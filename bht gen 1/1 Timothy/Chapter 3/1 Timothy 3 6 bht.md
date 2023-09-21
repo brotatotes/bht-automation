@@ -9,7 +9,7 @@ Description: This passage cautions against appointing newly converted individual
 2. "the pother which a man’s pride raises about him so that he cannot see himself or others as they are."
 3. "the (reproach and) snare which the devil lays."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The young convert has not yet been disciplined and matured by afflictions and temptations."
 2. "Inflated with self-conceit and exaggerated ideas of his own importance, he cannot see himself or others in the true light."
 3. "Pride was the cause of Satan's condemnation."
@@ -57,4 +57,4 @@ Note: The commentary provides additional references to other Bible verses to sup
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

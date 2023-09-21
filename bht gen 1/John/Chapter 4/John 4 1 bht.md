@@ -9,7 +9,7 @@ In this Bible verse, Jesus exhibits his divine knowledge and understanding of th
 2. "The report which the Pharisees had heard is given verbatim: the 'ὅτι' is 'recitantis' merely."
 3. "ὃτι Ἰησοῦς, not ὅτι αὐτὸς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord knew" - The commentary suggests that the Lord's knowledge is not based on hearsay or report, but rather on a deep understanding and intimate knowledge of the situation.
 
 2. "Not by report" - This phrase emphasizes that the Lord's knowledge is not second-hand or based on external sources, but rather comes from a direct and personal understanding.
@@ -49,4 +49,4 @@ In this Bible verse, Jesus exhibits his divine knowledge and understanding of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

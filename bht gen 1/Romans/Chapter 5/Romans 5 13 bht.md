@@ -9,7 +9,7 @@ Before the giving of the Mosaic law, sin already existed in the world. Sin is no
 2. "I am persuaded that the right sense of ἐλλ . is, reckoned, 'set down as transgression,' 'put in formal account,' by God."
 3. "The revelation of the law exaggerated, brought into prominent and formal manifestation, the sinfulness of sin, which was before culpable and punishable, but in a less degree."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Until the law sin was in the world" - This highlights the fact that sin existed before the giving of the Mosaic law. It implies that sin was present from the time of Adam, indicating that sin is not solely a result of the law, but a deeper issue within humanity.
 
 2. "God continued to treat men as sinners" - This suggests that even before the law, God recognized the sinful nature of humanity. It implies that God's judgment and dealings with mankind were based on their sinful state, regardless of the absence of a specific law.
@@ -50,4 +50,4 @@ Before the giving of the Mosaic law, sin already existed in the world. Sin is no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this particular Bible verse, we see a crowd of people murmuring in response t
 2. "His profession in life, and perhaps an unprincipled exercise of his power in it, had earned him this name with his fellow-countrymen."
 3. "Cf. his confession in the next verse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Something more than 'eating with' such" - This phrase suggests that being a guest or lodging with someone goes beyond simply sharing a meal. It implies a deeper level of connection and intimacy.
 2. "A sinner—that was one but a minute ago, but now is not." - This quote highlights the transformative power of God's grace. It emphasizes that even though the person was considered a sinner in the past, they have experienced a profound change in their life.
 3. "This mighty change, however, was all unknown to them. But they shall know it presently." - This statement suggests that the people around the transformed individual may not be aware of the change that has taken place. However, the commentator assures that they will soon come to recognize the transformation.
@@ -55,4 +55,4 @@ In this particular Bible verse, we see a crowd of people murmuring in response t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

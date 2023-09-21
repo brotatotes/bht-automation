@@ -9,7 +9,7 @@ In this Bible verse, we are called to honor and show respect to all people, reco
 2. "Love the brotherhood...as your habit of mind and act." 
 3. "Fear God, honour the king."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Equals have a respect due to them. Christ has dignified our humanity by assuming it; therefore we should not dishonor, but be considerate to and honor our common humanity, even in the very humblest."
 2. "The first 'honor' is in the Greek aorist imperative, implying, 'In every case render promptly every man's due.'"
 3. "Fear God . . . the king—The king is to be honored; but God alone, in the highest sense, feared."
@@ -50,4 +50,4 @@ In this Bible verse, we are called to honor and show respect to all people, reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

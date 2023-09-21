@@ -9,7 +9,7 @@ In this verse, the commentator's insights shed light on the exhortation to refra
 2. "If you are full of the Spirit, there will be a joy indeed, but not that of ἀσωτία: one which will find its expression not in drunken songs, but in Christian hymns, and continual thankfulness."
 3. "The Christian's ᾠδή is to be spiritual, inspired by that fulness of the Spirit which is in him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Excess—worthless, ruinous, reckless prodigality."
 2. "The effect in inspiration was that the person was 'filled' with an ecstatic exhilaration, like that caused by wine; hence the two are here connected."
 3. "Hence arose the abstinence from wine of many of the prophets, for example, John the Baptist, namely, in order to keep distinct before the world the ecstasy caused by the Spirit, from that caused by wine."
@@ -57,4 +57,4 @@ In this verse, the commentator's insights shed light on the exhortation to refra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Believers who have true faith, akin to that mentioned in the previous verse, can
 2. "There are credible testimonies of miraculous powers having been exercised in the Church considerably after the Apostles’ time."
 3. "The Lord Himself has declared how weighty a sign this was, Matthew 12:28."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And these signs shall follow them that believe" - This verse suggests that believers will experience supernatural signs and wonders as a result of their faith.
 2. "They shall take up serpents" - This phrase implies that believers will have the power to overcome dangerous situations or spiritual attacks.
 3. "The Ascension and Triumphant Proclamation of the Gospel Thereafter" - This highlights the significance of Jesus' ascension and the subsequent spread of the Gospel message, indicating the victorious nature of the Christian faith.
@@ -57,4 +57,4 @@ These quotes emphasize the connection between faith and miracles, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

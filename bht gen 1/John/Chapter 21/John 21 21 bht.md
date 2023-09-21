@@ -9,7 +9,7 @@ In this Bible verse, one disciple, Peter, asks Jesus about the fate of another d
 2. "This was not mere idle curiosity, but that longing which we all feel for our friends."
 3. "Facilius nos ipsos voluntati divinæ impendimus, quam curiositatem circa alios, æquales præsertim aut suppares, deponimus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter's question reveals a natural curiosity about the fate of his fellow disciple. It is a common tendency to compare ourselves to others and wonder about their destiny. However, Jesus redirects Peter's focus back to his own calling and purpose, reminding him that it is not his place to worry about the path of others."
 
 2. "Jesus' response to Peter's question is a gentle rebuke, reminding him that each person has their own unique journey and relationship with God. It is not for us to judge or compare, but to faithfully follow our own calling and trust in God's plan for our lives."
@@ -42,4 +42,4 @@ In this Bible verse, one disciple, Peter, asks Jesus about the fate of another d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

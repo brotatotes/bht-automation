@@ -9,7 +9,7 @@ The verse described in these commentaries portrays Jesus as the ultimate example
 2. "His sufferings were mere work which He gave Him to do."
 3. "The words in the Messianic Psalm are addressed to the Father, not to those for whom Christ suffered."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For even Christ pleased not—lived not to please himself." This quote highlights the selflessness of Christ, emphasizing that he did not prioritize his own desires or personal agenda. 
 
 2. "The reproaches, &c." This quote refers to the reproaches and sufferings that Christ endured, as mentioned in Mark 10:42-45. It suggests that Christ's actions were not driven by seeking personal glory or avoiding hardship. 
@@ -54,4 +54,4 @@ These quotes highlight Christ's selflessness, his obedience to God's will, and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

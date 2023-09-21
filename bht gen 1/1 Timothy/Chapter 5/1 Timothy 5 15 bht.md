@@ -4,7 +4,7 @@
 The verse being described speaks of individuals who have been led astray by Satan, succumbing to temptations and straying from their faith in Christ. It warns against idleness, sexual passion, and errors that can lead one to turn aside from the right path. These individuals are described as following behind Satan, surrendering themselves to his influence. The commentary emphasizes the need for spiritual discernment and remaining committed to Christ in the face of these temptations. It highlights the danger of being led astray and the importance of vigilance and resistance against the schemes of the enemy.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some (widows) are already turned aside after Satan" - This quote highlights how certain individuals have already been led astray by the seductive influence of Satan, specifically through sexual passion, idleness, and other errors. 
 
 2. "Satan finds some mischief still for the idle hands to do" - This quote emphasizes the danger of idleness, suggesting that when people have nothing productive to occupy their time, they become susceptible to the temptations and schemes of Satan. 
@@ -51,4 +51,4 @@ The verse being described speaks of individuals who have been led astray by Sata
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the contrast is drawn between a woman, who is a descendant of Abr
 2. "Between a few hours since the last watering and 'lo these eighteen years.'"
 3. "The emphasis is on the long duration of the woman's suffering, highlighting the significance of her healing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How gloriously the Lord vindicates the superior claims of this woman, in consideration of the sadness and long duration of her suffering." 
 
 2. "Her dignity notwithstanding, as an heir of the promise!" 
@@ -50,4 +50,4 @@ In this verse, the contrast is drawn between a woman, who is a descendant of Abr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

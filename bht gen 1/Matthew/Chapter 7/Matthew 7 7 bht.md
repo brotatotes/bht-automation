@@ -9,7 +9,7 @@ In this verse, there is a progression in our approach to prayer, from asking to 
 2. "They form a climax: ἀπὸ δὲ τοῦ κρούειν τὸ μετὰ σφοδρὀτητος προσιέναι καὶ μετὰ θερμῆς διανοίας ἐδήλωσε." 
 3. "Chrys. Hom, xxiii. 4, p. 289."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you." - This verse presents a progression in our approach to God, from asking to seeking to knocking. Each action represents a different aspect of our desires and needs.
 
 2. "We ask for what we wish; we seek for what we miss; we knock for that from which we feel ourselves shut out." - The commentary highlights that each action of asking, seeking, and knocking represents a different perspective on our relationship with God. We ask for what we desire, seek for what we lack, and knock for what we feel excluded from.
@@ -40,4 +40,4 @@ In this verse, there is a progression in our approach to prayer, from asking to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

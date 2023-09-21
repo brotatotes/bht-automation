@@ -9,7 +9,7 @@ In this Bible verse, believers are exhorted to consider one another's humanity, 
 2. "Let us consider one another...bearing one another’s characters and wants and weaknesses in mind."
 3. "With a view to provocation of love and good works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hope and love follow faith; the Pauline triad of Christian graces."
 2. "Contemplating with continual consideration the characters and wants of our brethren, so as to render mutual help and counsel."
 3. "With a view to provoking unto love, instead of provoking to hatred, as is too often the case."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of considering and understanding one anoth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

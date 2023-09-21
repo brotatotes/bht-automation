@@ -9,7 +9,7 @@ In this verse, Jesus reveals that he has other sheep beyond the Jewish nation wh
 2. "The Lord speaks of His bringing them, and their hearing His voice: meaning that His servants in His name and by His power would accomplish this work."
 3. "The μία ποίμνη is remarkable not μία αὐλή, as characteristically, but erroneously rendered in E. V.: not ONE FOLD, but ONE FLOCK; no one exclusive enclosure of an outward church, but one flock, all knowing the one Shepherd and known of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He means the perishing Gentiles, already His 'sheep' in the love of His heart and the purpose of His grace to 'bring them' in due time."
 2. "This is not the language of mere foresight that they would believe, but the expression of a purpose to draw them to Himself by an inward and efficacious call."
 3. "There shall be one flock."
@@ -55,4 +55,4 @@ In this verse, Jesus reveals that he has other sheep beyond the Jewish nation wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, Jesus defends his disciples who pluck and eat corn-ears on the Sabbath, pleading necessity. He shows compassion and understanding of human needs, emphasizing that the true essence of the Sabbath is meeting people's needs, not rigid adherence to rules. The incident occurs during the time of the Passover and the second Sabbath after it, as Jesus and his hungry disciples pass through fields of ripe grain. Their action of plucking and eating the ears of corn is done out of hunger and necessity, and they content themselves with this simple sustenance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus defends their plucking the corn-ears and eating them on the plea of necessity." 
 2. "This incident highlights Jesus' compassion and understanding of human needs, even in the face of religious regulations." 
 3. "By plucking the corn-ears and eating them, Jesus demonstrates that the true essence of the Sabbath is not about rigid adherence to rules, but about meeting the needs of people."
@@ -45,4 +45,4 @@ In this passage, Jesus defends his disciples who pluck and eat corn-ears on the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

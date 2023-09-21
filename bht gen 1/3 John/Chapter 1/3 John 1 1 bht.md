@@ -9,7 +9,7 @@ In this verse, the elder addresses a beloved individual, expressing deep affecti
 2. "The epithet τῷ ἀγαπητῷ seems to be used this first time in a general sense." 
 3. "The Apostle declares that he personally joins in the affection for him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved" is repeated often in this Epistle, indicating strong affection.
 2. "Love in the truth" expresses a deep and genuine love that is rooted in the truth of God's Word.
 3. The author's personal emphasis on Gaius or Caius suggests a close relationship and personal investment in his well-being.
@@ -50,4 +50,4 @@ In this verse, the elder addresses a beloved individual, expressing deep affecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

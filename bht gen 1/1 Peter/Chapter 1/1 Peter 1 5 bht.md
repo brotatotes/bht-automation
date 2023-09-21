@@ -9,7 +9,7 @@ Believers are continuously guarded and protected by the unmatched power of God. 
 2. "The stress of the ἑτοίμην ἀποκαλυφθῆναι is, as Wiesinger well remarks, not the nearness of the ἀποκάλυψις, but the fact of the salvation being ready to be revealed: not yet to be brought in and accomplished, but already complete, and only waiting God’s time to be manifested."
 3. "In the last time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are guarded in the world as our inheritance is kept in heaven."
 2. "God Himself is our sole guarding power. It is His power which saves us from our enemies. It is His long-suffering which saves us from ourselves."
 3. "The believer lives spiritually in God, and in virtue of His power, and God lives in him."
@@ -59,4 +59,4 @@ Believers are continuously guarded and protected by the unmatched power of God. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

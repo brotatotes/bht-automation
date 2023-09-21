@@ -9,7 +9,7 @@ The disciples, filled with the Holy Spirit, began speaking in various languages,
 2. "I believe the event related in our text to have been a sudden and powerful inspiration of the Holy Spirit, by which the disciples uttered, not of their own minds, but as mouth-pieces of the Spirit, the praises of God in various languages, hitherto, and possibly at the time itself, unknown to them."
 3. "The idea of a gift of speaking in various languages having been conferred for the dissemination of the Gospel, appears not to have originated until the gift of tongues itself had some time disappeared from the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "real, living languages, as is plain from what follows"
 2. "The thing uttered, probably the same by all, was 'the wonderful works of God'"
 3. "the speakers themselves understood nothing of what they uttered"
@@ -53,4 +53,4 @@ The disciples, filled with the Holy Spirit, began speaking in various languages,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators make it clear that everyone must make a choice b
 2. "The yielding ourselves servants for obedience to any one implies the serving, being (in reality) the servants of such person."
 3. "Now this must be true of you with regard either to sin or to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that to whom ye yield yourselves servants to obey—with the view of obeying him. his servants ye are to whom ye obey—to whom ye yield that obedience." 
 2. "whether of Sin unto death—that is, 'issuing in death,' in the awful sense of Romans 8:6, as the sinner's final condition." 
 3. "or of Obedience unto righteousness—that is, obedience resulting in a righteous character, as the enduring condition of the servant of new Obedience."
@@ -54,4 +54,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so ther
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

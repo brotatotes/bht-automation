@@ -9,7 +9,7 @@ Paul's departure from Athens, after facing resistance and ridicule, exemplified 
 2. "with an expectation of being heard again?"
 3. "The 'so' of the E. V. does not give this forcibly enough, but looks like a mere particle of transition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whether he would have opened, to any extent, the Gospel scheme in this address, if he had not been interrupted, or whether he reserved this for exposition afterwards to earnest inquirers, we cannot tell."
 2. "Only the speech is not to be judged of as quite complete."
 3. "The interruption of the Jews did not deter Paul from his purpose, but only led him to transfer his labors to the Gentiles."
@@ -45,4 +45,4 @@ Paul's departure from Athens, after facing resistance and ridicule, exemplified 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

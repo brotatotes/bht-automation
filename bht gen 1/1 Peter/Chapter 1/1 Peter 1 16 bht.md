@@ -11,7 +11,7 @@ This verse calls believers to pursue holiness, striving to reflect the character
 
 3. "The call to holiness is not a suggestion, but a divine imperative that requires believers to actively pursue a life of righteousness and separation from sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Scripture is the true source of all authority in questions of doctrine and practice."
 2. "As I am the fountain of holiness, being holy in My essence, be ye therefore zealous to be partakers of holiness, that ye may be as I also am."
 3. "God is essentially holy: the creature is holy in so far as it is sanctified by God."
@@ -53,4 +53,4 @@ This verse calls believers to pursue holiness, striving to reflect the character
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

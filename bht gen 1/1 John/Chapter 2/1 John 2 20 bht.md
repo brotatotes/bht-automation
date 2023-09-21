@@ -4,7 +4,7 @@
 In this verse, believers are described as anointed ones, empowered by the Holy Spirit to resist the deceptions of false teachers. Through the anointing, they have a deep understanding of the truth and are enlightened to see it in a new light. This anointing serves as a guide, teaching and expanding their knowledge of truth. It is a gift from the Holy One, Christ Himself, and is available to all Christians, ensuring their perseverance and knowledge of God's truth for their eternal salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those anointed of God in Christ alone can resist those anointed with the spirit of Satan, Antichrists, who would sever them from the Father and from the Son."
 2. "The Spirit is the token that we are in the Father and in the Son; without it, a man is none of Christ."
 3. "We can have no share in Him as Jesus, except we become truly Christians, and so be in Him as Christ, anointed with that unction from the Holy One."
@@ -50,4 +50,4 @@ In this verse, believers are described as anointed ones, empowered by the Holy S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

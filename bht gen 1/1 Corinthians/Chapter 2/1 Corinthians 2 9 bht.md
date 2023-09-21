@@ -9,7 +9,7 @@ The Bible verse being described is a powerful passage that reveals the incredibl
 2. "There is no anacoluthon (as De W.) nor irregularity of construction, as some suppose."
 3. "Whence is the citation made? Origen says, ‘In nullo regular libro invenitur, nisi in secretis Eliæ prophetæ,’ a lost apocryphal book."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The things which eye saw not . . . the things which God prepared . . . to us God revealed through His Spirit."
 2. "Rather construe, as ESTIUS, 'We speak,' supplied from 1 Corinthians 2:6, things which eye saw not (heretofore), . . . things which God prepared . . . But God revealed them to us," &c.
 3. "The quotation is not a verbatim one, but an inspired exposition of the 'wisdom' from Isaiah 64:4."
@@ -57,4 +57,4 @@ The Bible verse being described is a powerful passage that reveals the incredibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

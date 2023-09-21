@@ -4,7 +4,7 @@
 In this passage, Jesus urges his followers to trust in God's provision and care, rather than being consumed by anxiety about their material needs. He uses examples of birds and flowers to illustrate God's faithfulness in providing for His creation and emphasizes the importance of prioritizing a relationship with God above all else. This verse reminds us that worrying about our basic needs is unnecessary and counterproductive, and encourages us to have faith in God's perfect plan for our lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you are referring to. Please provide the commentary so that I can assist you in extracting the best parts.
 
 ### Marvin Vincent:
@@ -35,4 +35,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Please provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

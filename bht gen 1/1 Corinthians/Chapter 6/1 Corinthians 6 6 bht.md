@@ -9,7 +9,7 @@ In this verse, believers are warned against taking one another to court, as it i
 2. "So Xen. Mem. i. 2. 2, πῶς οὖν αὐτὸς ὢν τοιοῦτος ἄλλους ἂν ἀσεβεῖς … ἐποίησεν?"
 3. "Ἀλλ ʼ ἔπαυσε μὲν τούτων πολλούς , ἀρετῆς ποιήσας ἐπιθυμεῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But—emphatically answering the question in the end of 1 Corinthians 6:5 in the negative." 
 
 2. "Translate, 'Nay,' &c." 
@@ -42,4 +42,4 @@ In this verse, believers are warned against taking one another to court, as it i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described emphasizes the importance of a leader's responsibility
 
 3. "If any man knows not how to preside over his own house, how shall he take charge of the church of God?" - This poses a rhetorical question, suggesting that if a man cannot effectively manage his own household, he would not be capable of leading and caring for the church.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "having his children—rather as Greek, 'having children (who are) in subjection' (Titus 1:6)." 
 2. "gravity—propriety: reverent modesty on the part of the children [ALFORD]." 
 3. "The fact that he has children who are in subjection to him in all gravity, is the recommendation in his favor as one likely to rule well the Church."
@@ -61,4 +61,4 @@ Overall, this commentary underscores the idea that a pastor's ability to lead an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

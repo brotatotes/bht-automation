@@ -9,7 +9,7 @@ In this verse, there is a significant conflict between the powers of good and ev
 2. "The conflict then is that between Satan and the church. Its first great incident is the birth and triumph of the Son of God and of man."
 3. "If we are disposed to carry out this idea, we might see the great realization of the flight into the wilderness in the final severance of the Eastern and Western churches in the seventh century, and the flood cast after the woman by the dragon in the irruption of the Mahometan armies."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When Christ appeared before God as our Advocate, Satan, the accusing adversary, could no longer appear before God against us, but was cast out judicially." 
 2. "Michael and his angels . . . the dragon . . . and his angels—It was fittingly ordered that, as the rebellion arose from unfaithful angels and their leader, so they should be encountered and overcome by faithful angels and their archangel, in heaven." 
 3. "The conflict on earth, as in Luke 19:38- :, has its correspondent conflict of angels in heaven."
@@ -43,4 +43,4 @@ In this verse, there is a significant conflict between the powers of good and ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

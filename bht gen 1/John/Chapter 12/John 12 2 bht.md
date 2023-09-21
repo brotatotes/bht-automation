@@ -9,7 +9,7 @@ In this verse, the incident in Bethany is described, where the relationships bet
 2. "Notice the climax, from mere connecting mention in John 12:1, then nearer connection in John 12:2, to his being the cause of the Jews flocking to Bethany in John 12:9."
 3. "Lazarus was the joint object with Jesus of the enmity of the chief priests, in John 12:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Martha served—This, with what is afterwards said of Mary's way of honoring her Lord, is so true to the character in which those two women appear in :-, as to constitute one of the strongest and most delightful confirmations of the truth of both narratives."
 2. "Lazarus . . . sat at the table—"Between the raised Lazarus and the healed leper (Simon, Mark 14:3), the Lord probably sits as between two trophies of His glory."
 3. "The Lord's presence in the house of Lazarus was a testimony to the power of His resurrection, and His fellowship with Lazarus at the table was a symbol of the intimate relationship He desires to have with His followers."
@@ -49,4 +49,4 @@ In this verse, the incident in Bethany is described, where the relationships bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

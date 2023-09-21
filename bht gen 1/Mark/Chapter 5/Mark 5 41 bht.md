@@ -9,7 +9,7 @@ In this particular Bible verse, Jesus speaks in Aramaic to a young girl. The use
 2. "Talitha, in the ordinary dialect of the people, is a word of endearment addressed to a young maiden: = κοράσιον." 
 3. "On the nom. with the article standing as a vocative, see Winer, § 29. 2. Bernhardy, Syntax, p. 67, remarks that the idiom had originally something harsh in it, being used only in emphatically imperative addresses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words are Aramaic, or Syro-Chaldaic, the then language of Palestine." 
 2. "Mark loves to give such wonderful words just as they were spoken." 
 3. "See Mark 7:34; Mark 14:36."
@@ -49,4 +49,4 @@ In this particular Bible verse, Jesus speaks in Aramaic to a young girl. The use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

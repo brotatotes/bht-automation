@@ -4,7 +4,7 @@
 In this Bible verse, a fallen star is seen as a connection to Satan's expulsion from heaven, representing both a physical and spiritual fall from grace. The star, symbolizing a potentate or power, holds the key to the bottomless pit, a place associated with hell. This abyss, depicted as a deep shaft, is like a well leading to the dwelling of Satan and his demons. It is a dark and hideous prison, distinct from the lake of fire.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The last three trumpets of the seven are called, from Revelation 8:13, the woe-trumpets."
 2. "When John saw it, it was not in the act of falling, but had fallen already."
 3. "This is a connecting link of this fifth trumpet with Revelation 12:8; Revelation 12:9; Revelation 12:12, 'Woe to the inhabiters of the earth, for the devil is come down,' c. Compare Revelation 12:12- :, 'How art thou fallen from heaven, Lucifer, son of the morning!'"
@@ -44,4 +44,4 @@ In this Bible verse, a fallen star is seen as a connection to Satan's expulsion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

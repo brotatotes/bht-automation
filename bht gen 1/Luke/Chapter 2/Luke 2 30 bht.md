@@ -4,7 +4,7 @@
 In this verse, commentators describe a profound encounter with Christ, emphasizing the significance of salvation and the person of Jesus. The commentators highlight how seeing Christ, whether as a child or in His glory, evokes a deep sense of faith rewarded by sight. It is through Christ, the chosen and promised Savior, that all aspects of salvation are found – forgiveness, reconciliation, and eternal life. This encounter with the Savior transcends human effort and brings about a transformative understanding of our own inadequacy, focusing our hearts on Christ as the only source of true salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many saw this child, nay, the full-grown 'man, Christ Jesus,' who never saw in Him 'God's Salvation.' This estimate of an object of sight, an unconscious, helpless babe, was pure faith."
 2. "He 'beheld His glory.'"
 3. "In another view, it was prior faith rewarded by present sight."
@@ -38,4 +38,4 @@ In this verse, commentators describe a profound encounter with Christ, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

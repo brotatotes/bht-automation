@@ -9,7 +9,7 @@ This passage speaks of a bountiful feast, prepared by God, where the sacrifice h
 2. "That thus the slaying of the Lord is not the doing of the invited, but is mentioned as done for the Feast, is no real difficulty." 
 3. "The discourse of Peter in that chapter is the best commentary on πάντα ἕτοιμα · δεῦτε εἰς τοὺς γ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This points to those Gospel calls after Christ's death, resurrection, ascension, and effusion of the Spirit, to which the parable could not directly allude, but when only it could be said, with strict propriety, 'that all things were ready.'"
 2. "Christ our Passover is sacrificed for us; therefore, let us keep the feast."
 3. "I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread which I will give is My flesh, which I will give for the life of the world."
@@ -55,4 +55,4 @@ This passage speaks of a bountiful feast, prepared by God, where the sacrifice h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

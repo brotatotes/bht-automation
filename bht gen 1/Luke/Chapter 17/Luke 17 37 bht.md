@@ -9,7 +9,7 @@ In this verse, the commentators describe the imagery of vultures or eagles being
 2. "Observe, there is not a word, except so far as the greater coming includes the lesser, in all this, of the destruction of Jerusalem."
 3. "The future παρουσία of the Lord is the only subject: and thus it is an entirely distinct discourse from that in Matthew 24:0, or our ch. 21."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As birds of prey scent out the carrion, so wherever is found a mass of incurable moral and spiritual corruption, there will be seen alighting the ministers of divine judgment."
 2. "A proverbial saying terrifically verified at the destruction of Jerusalem, and many times since."
 3. "Though its most tremendous illustration will be at the world's final day."
@@ -58,4 +58,4 @@ In this verse, the commentators describe the imagery of vultures or eagles being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

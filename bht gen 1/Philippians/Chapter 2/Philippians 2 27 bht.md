@@ -9,7 +9,7 @@ This verse speaks of a beloved individual who had fallen ill and was later heale
 2. "παραπλήσιον does not involve any ellipsis (De W.) as of ἀφίκετο or the like, but (as Mey.) it stands adverbially as παραπλησίως; so in Polyb. iii. 33. 10, εἰ πεποιήκαμεν παραπλήσιον τοῖς ἀξιοπίστως ψευδομένοις τῶν συγγραφέων: and θανάτῳ is the dative of congruence after it, sometimes a genitive, as Plato, Soph. p. 217, λόγων ἐπελάβου παραπλησίων ὧν … διερωτῶντες ἐτυγχάνομεν."
 3. "λύπην ἐπὶ λύπην] for construction, see reff. The dative after ἐπί is more usual: so φόνος ἐπὶ φόνῳ, Eur. Iph. Taur. 197 (189): the accus. giving the sense of accession, 'sorrow coming upon sorrow,' not, sorrow superimposed upon sorrow."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Epaphroditus' sickness proves that the apostles had not ordinarily the permanent gift of miracles, any more than of inspiration: both were vouchsafed to them only for each particular occasion, as the Spirit thought fit."
 2. "Lest I should have sorrow upon sorrow—namely, the sorrow of losing him by death, in addition to the sorrow of my imprisonment."
 3. "Here only occurs anything of a sorrowful tone in this Epistle, which generally is most joyous."
@@ -49,4 +49,4 @@ This verse speaks of a beloved individual who had fallen ill and was later heale
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Knowing with full assurance that just as God raised Jesus from the dead, He will
 2. "And present us with you, i.e. as in Jude 1:24, at the day of His coming."
 3. "This confidence, of being presented at that day with you, is only analogous to his expressions elsewhere."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Knowing—by faith" - This quote highlights the importance of having faith in understanding the resurrection. It suggests that true knowledge comes from a deep belief in the teachings of Jesus.
 
 2. "shall raise up us also—at the resurrection" - This quote emphasizes the promise of resurrection for believers. It implies that just as Jesus was raised from the dead, believers will also be raised up at the appointed time.
@@ -37,4 +37,4 @@ Knowing with full assurance that just as God raised Jesus from the dead, He will
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

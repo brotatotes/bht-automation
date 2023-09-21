@@ -9,7 +9,7 @@ This verse showcases the plight of Lazarus, who endures great suffering and negl
 2. "He got the crumbs."
 3. "None to pity him but the dogs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words may mean indeed 'was fain to feed on,' or 'gladly fed on,' as in [ALFORD, WEBSTER and WILKINSON, &c.]. But the context rather favors the former." 
 2. "A touching act of brute pity, in the absence of human relief." 
 3. "It is a case of heartless indifference, amidst luxuries of every kind, to one of God's poorest and most afflicted ones, presented daily before the eye."
@@ -45,4 +45,4 @@ This verse showcases the plight of Lazarus, who endures great suffering and negl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

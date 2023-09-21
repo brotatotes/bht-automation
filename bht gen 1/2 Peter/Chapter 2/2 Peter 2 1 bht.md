@@ -9,7 +9,7 @@ False teachers, with their deceptive tactics and hidden agendas, introduce destr
 2. "Denying the master who bought them." 
 3. "Bringing upon themselves swift destruction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Already symptoms of the evil were appearing."
 2. "False teachers—teachers of falsehood."
 3. "Going even to such a length as to deny both in teaching and practice."
@@ -59,4 +59,4 @@ Note: The commentary is on 2 Peter 2:1.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

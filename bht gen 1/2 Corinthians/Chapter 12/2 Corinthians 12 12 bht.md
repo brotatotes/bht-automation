@@ -9,7 +9,7 @@ This verse portrays the undeniable signs and wonders performed by an apostle, de
 2. "The Apostle’s own personality as the worker is modestly veiled behind the passive." 
 3. "Endurance of opposition, which did not cause me to leave off working."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Patience is not one of the 'signs,' but the element IN which they were wrought: endurance of opposition which did not cause me to leave off working."
 2. "The passing allusions to miracles in seven Epistles prove that the writers were not enthusiasts to whom miracles seem the most important thing."
 3. "Signs and wonders is the regular formula of the Old Testament, which New Testament readers would necessarily understand of supernatural works."
@@ -49,4 +49,4 @@ This verse portrays the undeniable signs and wonders performed by an apostle, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

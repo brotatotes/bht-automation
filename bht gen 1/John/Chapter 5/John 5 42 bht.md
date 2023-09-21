@@ -9,7 +9,7 @@ In this verse, the commentator highlights the strong contrast between Jesus and 
 2. "By long trial and bearing with your manners these many generations; and personally also: 'Hoc radio penetrat corda auditorum.'"
 3. "This love, if they had it, would teach them, the whole heart, and soul, and mind, and strength being given to God, to seek honour only from Him, and thus to appreciate the glory which He hath given to His Son, and His testimony concerning Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The love of God in you" refers to a deep and genuine love for God that motivates one to seek His will above all else.
 2. This love should inspire a strong desire to know God's mind and will, indicating a willingness to submit to His guidance.
 3. It is important to embrace God's will without being hindered by personal biases or concerns about the potential consequences.
@@ -50,4 +50,4 @@ In this verse, the commentator highlights the strong contrast between Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

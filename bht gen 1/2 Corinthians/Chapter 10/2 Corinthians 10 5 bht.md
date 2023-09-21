@@ -9,7 +9,7 @@ This verse speaks of the power of the gospel to demolish false philosophies and 
 2. "By λογισμούς he means, as Chrys., p. 585, τὸν τῦφον τὸν Ἑλληνικόν, καὶ τῶν σοφισμάτων κ. τῶν συλλογισμῶν τὴν ἰσχύν: but not only these: every towering conceit κατὰ σάρκα is also included."
 3. "And every lofty edifice (fortress or tower) which is being raised (or, raising itself) against the knowledge of God, and leading captive every intent of the mind into subjection to Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True knowledge makes men humble. Where there is exaltation of self, there knowledge of God is wanting."
 2. "The three steps of the apostle's spiritual warfare are: (1) It demolishes what is opposed to Christ (2) It leads captive; (3) It brings into obedience to Christ."
 3. "The 'reasonings' are utterly 'cast down.' The 'mental intents' are taken willing captives, and tender the voluntary obedience of faith to Christ the Conqueror."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the power of the gospel to o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

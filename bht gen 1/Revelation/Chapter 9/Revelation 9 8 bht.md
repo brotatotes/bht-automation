@@ -4,7 +4,7 @@
 The verse describes individuals with flowing, woman-like hair, drawing a parallel between the delicate nature of women's hair and the antennae of locusts. It also compares the destructive power of these individuals to the teeth of lions, symbolizing their strength and ability to spread terror. Additionally, the verse alludes to cultural practices, specifically highlighting the Arabians or Saracens who wore long, uncut hair and were known for their ravages and devastations. This description provides a visual and cultural understanding of the verse's imagery and the significance of long hair and locusts in relation to power, destruction, and cultural identity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hair of women—long and flowing." - This quote highlights the description of the hair of women in the verse, emphasizing its length and flowing nature. It adds a visual element to the commentary.
 
 2. "An Arabic proverb compares the antlers of locusts to the hair of girls." - This quote provides an interesting cultural reference, showing how the comparison between locusts and women's hair is not unique to the Bible. It adds depth to the understanding of the verse.
@@ -42,4 +42,4 @@ The verse describes individuals with flowing, woman-like hair, drawing a paralle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

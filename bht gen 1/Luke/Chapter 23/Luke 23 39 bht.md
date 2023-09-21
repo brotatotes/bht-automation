@@ -4,7 +4,7 @@
 In this Bible verse, we see Jesus being reviled and mocked by a criminal who demands Him to save himself and others. The reviling reflects the extent and power of sin, as the criminal persistently engages in abusive and slanderous language. Despite the jeers, this verse serves as a reminder to believers of the unspeakable glory of the dying Redeemer, who endured such reproach to grant us the honor of being acknowledged as brethren among angels. It also highlights the wickedness and obstinacy of those who would continue to blaspheme, even in the midst of their own torments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, 'reviled, reviles not again'"
 2. "Another voice from the cross shall nobly wipe out this dishonor"
 3. "Turn it to the unspeakable glory of the dying Redeemer"
@@ -43,4 +43,4 @@ In this Bible verse, we see Jesus being reviled and mocked by a criminal who dem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

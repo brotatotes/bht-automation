@@ -9,7 +9,7 @@ In this Bible verse, the Sanhedrin is unable to find a way to punish Peter and J
 2. "The difficulty with the Sanhedrim was, to find any means of punishing them which should not stir up the people."
 3. "διὰ τὸν λαόν belongs to this clause, not to ἀπέλυσαν αὐτ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Finding nothing how they might punish them, because of the people—not at a loss for a pretext, but at a loss how to do it so as not to rouse the opposition of the people." 
 2. "Peter and John dismissed from the Sanhedrin, report the proceedings to the assembled disciples."
 3. "They engage in prayer—the astonishing answer and results."
@@ -55,4 +55,4 @@ In this Bible verse, the Sanhedrin is unable to find a way to punish Peter and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

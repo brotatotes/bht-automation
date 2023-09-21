@@ -4,7 +4,7 @@
 In this verse, Jesus reveals God's name, which represents His boundless love for humanity. The verse emphasizes the desire for a profound connection between God and His followers, where His love and presence dwell within them. Through this intimate relationship, believers are empowered to love God with the same fervor and passion that He loves them. The verse reaffirms that true knowledge of God and His love can only be found through Christ, making this passage a profound and comforting statement of God's eternal love and desire for an intimate relationship with His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have declared... thy name" - Jesus not only revealed God's name in His past ministry, but He continues to declare it through the Holy Spirit, even to this day.
 2. "The love wherewith thou hast loved... me may be in them" - The love of the Father, which was first bestowed upon Christ, is now imparted to all who believe in Him. It is a love that takes up permanent residence in the hearts of believers.
 3. "He abiding in them and they in Him" - Through the indwelling of the Holy Spirit, believers are united with Christ and become one with Him in spirit. This profound truth is the culmination of Jesus' prayer for His disciples and for the Church throughout all ages.
@@ -45,4 +45,4 @@ These quotes highlight the importance of Christ as the revealer of God's nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

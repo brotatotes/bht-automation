@@ -9,7 +9,7 @@ The verse in question describes the astonishment of Jewish believers, who were o
 2. "The λαλεῖν γλώσσαις here is identified with the λ. ἑτέραις γλ. of ch. Acts 2:4, by the assertion of ch. Acts 11:15, just cited; and this again with the ἐλάλουν γλώσσαις of ch. Acts 19:6: so that the gift was one and the same throughout."
 3. "On the whole subject, see note, ch. Acts 2:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The astonishment of the circumcised believers at the outpouring of the Holy Spirit on the Gentiles without the requirement of circumcision reveals their deeply ingrained cultural and religious biases."
 
 2. "This event challenges the notion that salvation is exclusive to a particular group or through specific rituals, emphasizing the universal nature of God's grace and the inclusivity of the Gospel message."
@@ -59,4 +59,4 @@ The verse in question describes the astonishment of Jewish believers, who were o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

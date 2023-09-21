@@ -11,7 +11,7 @@ In this verse, a divine figure, likely the Son of God, identifies himself as Jeh
 
 3. "The angel bears the authority and presence of God Himself, likely referring to the great Angel of the covenant, the Son of God." - The angel mentioned here is believed to be the same as the Angel of His Presence mentioned in Isaiah 63:9. (Quote ἄγγελος)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Angel of the Covenant," who immediately calls Himself JEHOVAH - This highlights the divine nature of the angel and suggests that he is a manifestation of God Himself.
 2. The use of the title "JEHOVAH" emphasizes the authority and power of the angel, indicating that he is acting on behalf of God.
 3. The identification of the angel as the Angel of the Covenant suggests a connection to God's promises and covenants with His people, indicating that he is bringing a message or fulfilling a specific purpose related to God's covenant relationship with humanity.
@@ -56,4 +56,4 @@ Note: The commentary provided is quite technical and does not offer much insight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

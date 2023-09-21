@@ -9,7 +9,7 @@ In this verse, Jesus is described as the propitiation for our sins, reconciling 
 2. "According to the constant usage of Scripture, God is in so far ἵλεως in regard to the sins of men, as He suffers His ἔλεος to prevail instead of His ὀργή."
 3. "The reason of the insertion of the particular here, is well given by Luther: 'It is a patent fact that thou too art a part of the whole world: so that thine heart cannot deceive itself and think, The Lord died for Peter and Paul, but not for me.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is our all-prevailing Advocate, because He is Himself 'the propitiation'; the propitiatory sacrifice, provided by the Father's love, removing the estrangement, and appeasing the righteous wrath, on God's part, against the sinner."
 2. "The only other place in the New Testament where Greek 'propitiation' occurs, is 1 John 4:10; it answers in the Septuagint to Hebrew, 'caphar,' to effect an atonement or reconciliation with God."
 3. "Christ's 'advocacy' is limited to believers: His propitiation extends as widely as sin extends."
@@ -50,4 +50,4 @@ In this verse, Jesus is described as the propitiation for our sins, reconciling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

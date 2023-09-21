@@ -4,7 +4,7 @@
 The Bible verse, as described by various commentators, emphasizes the importance of seemingly weaker and more delicate members in the body. These parts, though feeble and uncomely, are necessary and indispensable for the proper functioning of the whole. They include the brain, belly, eyes, and other vital organs that may be less visible but are essential for life. The verse challenges our tendency to value certain gifts or roles over others, reminding us of the interconnectedness and unique contributions of each member in the body of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their very feebleness, so far from doing away with the need for them, calls forth our greater care for their preservation, as being felt 'necessary.'" 
 2. "More feeble—more susceptible of injury: for example, the brain, the belly, the eye." 
 3. "The feebleness of these parts highlights the importance of our care for their preservation."
@@ -45,4 +45,4 @@ The Bible verse, as described by various commentators, emphasizes the importance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

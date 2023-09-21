@@ -4,7 +4,7 @@
 The verse described portrays a powerful and awe-inspiring scene of divine judgment. The living creatures, representing the redeemed, present golden bowls filled with the wrath of God, which symbolize the answering of the prayers of the saints. These bowls, broader at the top than the bottom, signify the abundant and overwhelming nature of God's judgment. It is a solemn reminder of the eternal, unchanging anger of the living God being poured out upon the earth. The pouring out of these vials signifies the urgency of repentance and the culmination of God's righteous purposes in the execution of divine judgment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The presentation of the vials to the angels by one of the living creatures implies the ministry of the Church as the medium for manifesting to angels the glories of redemption."
 2. "The breadth of the vials in their upper part would tend to cause their contents to pour out all at once, implying the overwhelming suddenness of the woes."
 3. "How sweetly do the vials full of odors, that is, the incense-perfumed prayers of the saints, contrast with these!"
@@ -51,4 +51,4 @@ The verse described portrays a powerful and awe-inspiring scene of divine judgme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The passage describes the transition between the second woe and the third woe, h
 2. "Before he does so, another series of prophetic visions must be given, regarding not merely the dwellers on the earth, but the Church herself, her glory and her shame, her faithfulness and her apostasy."
 3. "And now God’s avenging judgments on the earth, in answer to the prayers of His saints, having reached their final point of accomplishment, and the armies of heaven having given solemn thanks for the hour being come, again the veil is dropt, and again a new procession of visions begins from the beginning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woe to the world, joy to the faithful, as their redemption draweth nigh." - This quote highlights the contrasting emotions of the world and the faithful during the sixth trumpet. While the world experiences woe, the faithful find joy in the nearness of their redemption.
 
 2. "The grand consummation is summarily noticed, the thanksgiving of the twenty-four elders in heaven for the establishment of Christ's kingdom on earth." - This quote emphasizes the significance of the establishment of Christ's kingdom on earth, which is a cause for thanksgiving among the twenty-four elders in heaven.
@@ -49,4 +49,4 @@ The passage describes the transition between the second woe and the third woe, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

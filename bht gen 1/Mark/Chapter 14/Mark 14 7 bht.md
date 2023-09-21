@@ -9,7 +9,7 @@ This verse, mentioned by various commentators, speaks of the enduring presence o
 2. "In these words there appears to be a reproach conveyed to Judas, and perhaps an allusion to the office of giving to the poor being his."
 3. "The additional clause in Mark's account suggests that there is more to the story, highlighting the possibility of a deeper meaning or intention behind the actions of Judas."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ye have the poor with you always" - This quote highlights the enduring presence of poverty in society, reminding us of our responsibility to care for those in need.
 2. "Whensoever ye will ye may do them good" - This quote emphasizes the freedom and opportunity we have to help the poor, encouraging us to take action and make a positive difference in their lives.
 3. "But me ye have not always" - This quote serves as a subtle reminder of Jesus' impending departure, underscoring the preciousness of His presence and the need to cherish the time we have with Him.
@@ -39,4 +39,4 @@ This verse, mentioned by various commentators, speaks of the enduring presence o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

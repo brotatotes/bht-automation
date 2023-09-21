@@ -9,7 +9,7 @@ In this Bible verse, we see the profound connection between the sufferings of Ch
 2. "We suffer because we are His members; we are consoled because He is our Head." 
 3. "There is no comparison between the personal sufferings of Christ and theirs."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sufferings endured, whether by Himself, or by His Church, with which He considers Himself identified."
 2. "Christ calls His people's sufferings His own suffering: (1) because of the sympathy and mystical union between Him and us; (2) They are borne for His sake; (3) They tend to His glory."
 3. "The sufferings (plural) are many; but the consolation (though singular) swallows up them all."
@@ -57,4 +57,4 @@ In this Bible verse, we see the profound connection between the sufferings of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

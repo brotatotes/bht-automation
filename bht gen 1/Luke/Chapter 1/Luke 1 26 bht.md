@@ -9,7 +9,7 @@ In this Bible verse, the events take place during the sixth month of Elisabeth's
 2. "In this particular, the information of our Evangelist appears to be fuller than that of Matthew."
 3. "Matthew seems not to be aware of any residence at Nazareth previous to the birth of our Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sixth month of Elisabeth's time" - This quote indicates that the events in the verse are taking place during the sixth month of Elisabeth's pregnancy. This adds context to the timing of the events and highlights the significance of the moment.
 
 2. "Joseph, of the house of David" - This quote emphasizes Joseph's lineage, tracing it back to the house of David. It highlights the fulfillment of the prophecy that the Messiah would come from the line of David, establishing Jesus' royal and messianic lineage.
@@ -61,4 +61,4 @@ In this Bible verse, the events take place during the sixth month of Elisabeth's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

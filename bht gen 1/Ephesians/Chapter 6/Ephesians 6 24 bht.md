@@ -13,7 +13,7 @@ This verse highlights the significance of having a love for the Lord Jesus Chris
 
 (Note: The commentary provides additional interpretations and explanations, but these three quotes capture the essence of the commentary and provide valuable insights into the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrast the malediction on all who love Him not (1 Corinthians 16:22)."
 2. "Not a fleeting, earthly love, but a spiritual and eternal one."
 3. "Where the Lord Jesus has a true believer, there I have a brother."
@@ -57,4 +57,4 @@ This verse highlights the significance of having a love for the Lord Jesus Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

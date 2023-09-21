@@ -9,7 +9,7 @@ In this verse, the commentator describes the powerful influence and deceptive na
 2. "Christ is the image of God, into which same image we, looking on it in the mirror of the gospel, are changed by the Spirit."
 3. "The blinding inflicted on the unbelieving is marked as falling under its category."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is, in fact, 'the prince of the power of the air, the spirit that ruleth in the children of disobedience' (Ephesians 2:2)."
 2. "Those perishing unbelievers are not merely veiled, but blinded (2 Corinthians 3:14; 2 Corinthians 3:15): Greek, not 'blinded,' but 'hardened.'"
 3. "'The glory of Christ' is not a mere quality (as 'glorious' would express) of the Gospel; it is its very essence and subject matter."
@@ -56,4 +56,4 @@ Note: The commentary is referring to 2 Corinthians 4:4, which states, "The god o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

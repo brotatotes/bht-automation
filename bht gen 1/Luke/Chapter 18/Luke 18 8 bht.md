@@ -9,7 +9,7 @@ In this verse, the commentators describe the future return of the Son of man, em
 2. "And this is no inconsistency with μακροθυμεῖ."
 3. "Or the meaning may be general and objective; as in reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yet ere the Son of man comes to redress the wrongs of His Church, so low will the hope of relief sink, through the length of the delay, that one will be fain to ask, Will He find any faith of a coming avenger left on the earth?"
 2. "That in these circumstances importunate, persevering prayer for deliverance is the Church's fitting exercise."
 3. "That notwithstanding every encouragement to this, so long will the answer be delayed, while the need of relief continues the same, and all hope of deliverance will have nearly died out, and 'faith' of Christ's coming scarcely to be found."
@@ -57,4 +57,4 @@ In this verse, the commentators describe the future return of the Son of man, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, believers are described as being intimately united with Chr
 2. "The Greek Fathers mostly give ἀρχὴν τῆς ὑποστάσεως the sense of 'our faith.'"
 3. "It is somewhat doubtful, whether τὴν ἀρχὴν τῆς ὑποστ. is to be understood 'the beginning of our confidence,' i.e. our incipient confidence, which has not yet reached its perfection, or, 'our former confidence,' τὴν ὑπόστασιν τὴν ἐξ ἀρχῆς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Partakers of Christ" and "partakers of the Holy Ghost" emphasize the intimate relationship between believers and Christ, highlighting the importance of their connection to Him (Hebrews 3:14).
 2. Believers are encouraged to "hold fast" to their faith, implying the need for perseverance and steadfastness in the face of challenges and temptations (Hebrews 3:14).
 3. The phrase "the beginning of our confidence" refers to the initial solid and substantial confidence of faith that believers have when they first begin their journey with Christ (Hebrews 3:14).
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

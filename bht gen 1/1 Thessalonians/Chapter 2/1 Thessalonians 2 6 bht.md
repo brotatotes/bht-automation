@@ -9,7 +9,7 @@ The verse being described highlights the apostle's rejection of seeking glory fr
 2. "I therefore take them with Chrys. (Œc., Thl., undecided), Ambrst., Erasm., Calv., &c., Olsh., De W., Lün., as equivalent to ἐν τιμῇ εἶναι εἰκὸς γὰρ τοὺς παρὰ θεοῦ πρὸς ἀνθρώπους ἀποσταλέντας , ὡσανεὶ ἀπὸ τοῦ οὐρανοῦ νῦν ἥκοντας πρέσβεις , πολλῆς ἀπολαῦσαι τιμῆς."
 3. "βάρος is used of importance, dignity, ‘ weight ,’ as we say: e.g. Diod. Sic. iv. 61, ἀπὸ τούτων τῶν χρόνων Ἀθηναῖοι , διὰ τὸ βάρος τῆς πόλεως , φρονήματος ἐνεπίμπλαντο , κ . τῆς τῶν Ἑλλήνων ἡγεμονίας ὠρέχθησαν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many teach heretical novelties, though not for fain, yet for 'glory.' Paul and his associates were free even from this motive."
 2. "Translate, 'when we might have borne heavily upon you,' by pressing you with the weight of self-glorifying authority, and with the burden of our sustenance."
 3. "On weight being connected with authority, compare Note, see on 1 Thessalonians 2:7- :, 'His letters are weighty' (1 Corinthians 4:21)."
@@ -61,4 +61,4 @@ These quotes highlight the selfless motives and actions of the apostles, who did
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

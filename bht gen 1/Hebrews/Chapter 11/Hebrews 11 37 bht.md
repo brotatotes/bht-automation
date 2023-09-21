@@ -11,7 +11,7 @@ The verse being described depicts the intense trials faced by those who remained
 
 3. "The deep earnestness of one thrust out from the world." - The mention of sheepskins and goats' skins intensifies the idea of separation from the world and emphasizes the seriousness of their commitment to their faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were tempted in every possible way, by friends and foes, by human and satanic agents, by caresses and afflictions, by words and deeds, to forsake God, but in vain, through the power of faith."
 2. "Both alike are marvellous effects of faith. In both accomplishes great things and suffers great things, without counting it suffering."
 3. "They were white; as the 'goat-skins' were black."
@@ -47,4 +47,4 @@ The verse being described depicts the intense trials faced by those who remained
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

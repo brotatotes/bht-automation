@@ -9,7 +9,7 @@ In a remarkable display of divine power, Jesus emits a spiritual force that brin
 2. "The power that went forth from Jesus was not a physical force, but a spiritual power that brought healing and restoration." 
 3. "This verse reminds us that Jesus has the power to heal and restore, not just physically, but also spiritually and emotionally."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Healed—kept healing, denoting successive acts of mercy till it went over 'all' that needed." 
 2. "There is something unusually grand and pictorial in this touch of description."
 3. "The verse highlights the continuous and abundant nature of God's healing power."
@@ -44,4 +44,4 @@ In a remarkable display of divine power, Jesus emits a spiritual force that brin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

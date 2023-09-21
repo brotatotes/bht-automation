@@ -9,7 +9,7 @@ In the verse described, a powerful judge, filled with pride and self-conviction 
 2. "No just judge has any such power as this, to punish or to loose."
 3. "ἀπολῦσαι, first seems most natural, as appealing most to the prisoner: σταυρῶσαι follows, as the alternative in case the other is rejected."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He falls back upon the pride of office, which doubtless tended to blunt the workings of his conscience." 
 2. "Knowest thou not that I have power to crucify thee, and have power to release thee?—said to work upon Him at once by fear and by hope." 
 3. "He falls back upon the pride of office, which doubtless tended to blunt the workings of his conscience."
@@ -45,4 +45,4 @@ In the verse described, a powerful judge, filled with pride and self-conviction 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

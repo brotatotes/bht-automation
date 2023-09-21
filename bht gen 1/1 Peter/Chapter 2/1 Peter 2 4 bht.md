@@ -10,7 +10,7 @@ The verse being described is a powerful one that speaks of the significance and 
 3. "The Lord being alive from the dead."
 4. "Chosen out, had in honor."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is positively termed the 'living stone'; living, as having life in Himself from the beginning, and as raised from the dead to live evermore after His rejection by men, and so the source of life to us." 
 2. "Like no earthly rock, He lives and gives life."
 3. "Many are alienated from the Gospel, because it is not everywhere in favor, but is on the contrary rejected by most men. Peter answers that, though rejected by men, Christ is peculiarly the stone of salvation honored by God."
@@ -57,4 +57,4 @@ The verse being described is a powerful one that speaks of the significance and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this biblical passage, there is a dynamic and awe-inspiring scene taking place before the throne of God. The four and twenty elders, symbols of the redeemed saints throughout history, are present, demonstrating their deep reverence for God. As they fall on their faces, they worship Him with profound adoration and gratitude. This act of worship showcases their recognition of God's supreme authority and their special position as co-rulers with Christ, representing the redeemed human race. Their worshipful response to the divine presence highlights their unique role and privilege in the heavenly realm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Before the throne of God" - This phrase emphasizes the divine presence and authority that believers stand before. It highlights the significance of being in the presence of God and the reverence that should accompany it.
 
 2. "Seats" - The use of the term "thrones" instead of "seats" suggests that believers are not just passive observers, but active participants in the heavenly realm. It implies that believers have a role and responsibility in the divine plan and are given authority to rule alongside God.
@@ -42,4 +42,4 @@ Note: The commentary is about the four and twenty elders in the book of Revelati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

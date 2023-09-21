@@ -9,7 +9,7 @@ This Bible verse addresses a situation where false teachers were trying to under
 2. "The expression ψευδαπόστολος 2 Corinthians 11:13, seems to me to refer to, and give the plain sense of, this ironical designation of ὑπερλίαν ἀπόστολοι."
 3. "It has been the practice of Protestant Commentators to adduce this verse against the primacy of Peter, and of the Romanists to evade the inference by supposing the pre-eminence to be only in gifts and preaching, not in power and jurisdiction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My claim is superior to the false teachers."
 2. "I have not been, and am not the very chiefest apostles."
 3. "Those overmuch apostles, those surpassers of the apostles in their own esteem."
@@ -50,4 +50,4 @@ This Bible verse addresses a situation where false teachers were trying to under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

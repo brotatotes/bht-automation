@@ -4,7 +4,7 @@
 In this verse, the power and authority of Jesus are magnified and acknowledged, as seen through the exaltation of his name. The incident also highlights how even the devil's malice can unintentionally contribute to the furtherance of the Gospel, emphasizing God's ability to turn negative situations into opportunities for his purposes. Ultimately, the verse underscores the ongoing progress and expansion of the Gospel message and its transformative impact on individuals and communities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of Sceva being the chief of the priests gives us insight into the social and religious status of the seven sons. It suggests that they came from a privileged background and were likely well-versed in Jewish religious practices."
 
 2. "The fact that the seven sons attempted to cast out demons in the name of Jesus without having a personal relationship with Him reveals their lack of understanding and faith. It serves as a reminder that true spiritual authority comes from a genuine relationship with Christ."
@@ -54,4 +54,4 @@ In this verse, the power and authority of Jesus are magnified and acknowledged, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The women, filled with trembling, fled from the sepulchre in terror, astonished 
 2. "All attempts to reconcile this with the other Gospels are futile."
 3. "It is a manifest evidence that our narrative is here suddenly broken off, and (perhaps?) that no more information about the women was in the possession of its author."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For tremor and amazement seized them." 
 2. "How intensely natural and simple is this!" 
 3. "Appearances of Jesus after His Resurrection."
@@ -40,4 +40,4 @@ Note: The commentary provided is quite lengthy and technical, making it difficul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

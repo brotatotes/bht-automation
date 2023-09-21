@@ -9,7 +9,7 @@ The commentaries shed light on a Bible verse that calls out the hypocrisy of tho
 2. "The law was to be read before all Israel every seventh year in the feast of tabernacles: whether this was such a year is uncertain: but this verse may allude to the practice, even if it was not."
 3. "In their killing the Lord of Life was summed up all their transgression of God’s law. It was the greatest proof of their total ignorance of and disobedience to it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In opposing Me ye pretend zeal for Moses, but to the spirit and end of that law which he gave ye are total strangers." 
 
 2. "In going about to kill Me, ye are its greatest enemies." 
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on exposing hypocrisy, addressi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

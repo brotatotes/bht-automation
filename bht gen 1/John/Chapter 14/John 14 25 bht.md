@@ -9,7 +9,7 @@ These commentaries shed light on the significance, content, and purpose of the w
 2. "Meyer supposes that a pause took place here, and the Lord looks back on what He had said to them."
 3. "But this does not seem so natural."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bringing to living consciousness what lay like slumbering germs in their minds." 
 2. "On this rests the credibility and ultimate divine authority of THE GOSPEL HISTORY." 
 3. "The whole of what is here said of THE SPIRIT is decisive of His divine personality."
@@ -60,4 +60,4 @@ These quotes provide insights into the context, theme, purpose, and assurance co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

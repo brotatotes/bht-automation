@@ -9,7 +9,7 @@ In this passage, the author emphasizes the importance of abiding in Christ, main
 2. "The doing of righteousness, the sign of new birth from God: the opposite, the sign of not being of God." 
 3. "Hoping as we do to be entirely like Christ at His appearing, each one of us, in pursuance of this hope, is even now approximating to this perfect likeness by purifying himself even as He is pure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Little children—Greek, 'little sons,' as in 1 John 2:1; believers of every stage and age."
 2. "John repeats his monition with a loving appellation, as a father addressing dear children."
 3. "Ashamed before him—literally, 'from Him'; shrink back from Him ashamed."
@@ -48,4 +48,4 @@ In this passage, the author emphasizes the importance of abiding in Christ, main
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

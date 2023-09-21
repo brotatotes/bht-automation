@@ -9,7 +9,7 @@ In the discussion of the Bible verse, commentators highlight the contrast betwee
 2. "Men who die receive tithes."
 3. "The testimony meant is certainly that of scripture; probably, that in Psalms 110:4, where an eternal priesthood, and therefore duration, is predicated of Melchisedek."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Melchisedec's priesthood was enduring, while the Levitical priesthood was transitory."
 2. "The Levitical priesthood was parenthetical and temporary between Melchisedec's enduring priesthood and its realization in Christ."
 3. "Christ is 'ever living after the power of an endless life,' while Melchisedec's priesthood is continued in Christ's own person."
@@ -57,4 +57,4 @@ Note: The commentary is referring to Hebrews 7:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

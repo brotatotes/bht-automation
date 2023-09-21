@@ -11,7 +11,7 @@ The Bible verse being described is about the feast of the Passover and the unlea
 
 3. "The Passover and the feast of unleavened bread are classed together."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The passover was the first and the chief of the three great annual festivals, commemorative of the redemption of God's people from Egypt, through the sprinkling of the blood of a lamb divinely appointed to be slain for that end; the destroying angel, 'when he saw the blood, passing over' the Israelitish houses, on which that blood was seen, when he came to destroy all the first-born in the land of Egypt." 
 2. "By the determinate counsel and foreknowledge of God, who is wonderful in counsel and excellent in working, it was so ordered that precisely at the passover season, 'Christ our Passover should be sacrificed for us.'"
 3. "The consultation was held in the palace of Caiaphas the high priest, between the chief priests, [the scribes], and the elders of the people, how 'they might take Jesus by subtlety and kill Him.'"
@@ -40,4 +40,4 @@ The Bible verse being described is about the feast of the Passover and the unlea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This Bible verse describes individuals whose eyes are constantly filled with lus
 
 3. "having a heart practised in covetousness" - indicating that their hearts are well-versed and experienced in the sin of greed and desire for material possessions. This reveals their deep-rooted and habitual attachment to worldly wealth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "full of an adulteress," as though they carried about adulteresses always dwelling in their eyes: the eye being the avenue of lust [HORNEIUS].
 2. "that cannot be made to cease from sin."
 3. "laying baits for."
@@ -54,4 +54,4 @@ This Bible verse describes individuals whose eyes are constantly filled with lus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

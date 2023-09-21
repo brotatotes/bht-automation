@@ -9,7 +9,7 @@ Description: This verse captures the intense moment when Judas Iscariot is on th
 2. "Satan entered fully into him, took full possession of him, so that his will was not only bent upon doing the deed of treachery, but fixed and determined to do it then and there."
 3. "The command to go on is but the echo of that mysterious appointment by which the sinner in the exercise of his own corrupted will becomes the instrument of the purposes of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The devil had already put it into his heart to betray his Lord." - This quote highlights the influence of Satan in Judas' decision to betray Jesus, emphasizing the spiritual battle that Judas may have faced before carrying out the betrayal.
 
 2. "With the thirty pieces of silver already in his possession, he seems still to have quailed." - This quote suggests that Judas may have experienced moments of hesitation and remorse even after accepting the payment for betraying Jesus, indicating the internal struggle he may have undergone.
@@ -59,4 +59,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

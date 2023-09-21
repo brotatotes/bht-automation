@@ -4,7 +4,7 @@
 The verse described by these commentaries emphasizes the connection between contemplation of the Son, belief, and everlasting life. It highlights the importance of not just seeing, but earnestly contemplating and believing in Jesus for salvation. The verse also points to the Father's will in preserving and raising up those who believe in the Son, ultimately leading to eternal life. Furthermore, it emphasizes that faith is a sufficient testimony of God's predestination and the promise of resurrection. Overall, the verse is a reminder of the vital role faith plays in obtaining salvation and the ongoing nature of eternal life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have it expressly in charge that everyone that so 'beholdeth' (so vieweth) the Son as to believe on Him shall have everlasting life."
 2. "That none of Him be lost, 'I will raise him up at the last day.'"
 3. "This is the human side of the same thing as in the foregoing verse, and answering to 'Him that cometh unto Me I will in no wise cast out'."
@@ -50,4 +50,4 @@ The verse described by these commentaries emphasizes the connection between cont
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

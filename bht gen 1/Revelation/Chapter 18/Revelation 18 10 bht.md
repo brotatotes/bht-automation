@@ -4,7 +4,7 @@
 In this commentary, we explore the significance of Rome as a strong and fortified city. The commentators highlight the fear and awe inspired by God's judgments, the lamentation over the fall of a once great city, and the suddenness of the judgment that befalls it. The analysis also delves into the historical and etymological associations of Rome with strength and power. Through these insights, we gain a deeper understanding of the verse and the impact of Rome's downfall.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's judgments inspire fear even in the worldly, but it is of short duration." 
 2. "The kings and great men soon attach themselves to the beast in its last and worst shape, as open Antichrist."
 3. "They claim all that the harlot had claimed in blasphemous pretensions and more, making up for the loss of the harlot."
@@ -37,4 +37,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

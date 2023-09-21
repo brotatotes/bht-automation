@@ -9,7 +9,7 @@ In this Bible verse, Jesus willingly goes to His death, surrendering Himself fre
 2. "It is perhaps safer to follow the best MSS., even against our own conviction, that St. John can hardly have written τῶν κέδρων." 
 3. "The ravine in the bottom of which flows the Kidron, is to the East of Jerusalem, between the city and the Mount of Olives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "over the brook Kedron—a deep, dark ravine, to the northeast of Jerusalem, through which flowed this small storm brook or winter torrent, and which in summer is dried up." 
 
 2. "where was a garden—at the foot of the Mount of Olives, 'called Gethsemane; that is, olive press.'" 
@@ -52,4 +52,4 @@ In this Bible verse, Jesus willingly goes to His death, surrendering Himself fre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

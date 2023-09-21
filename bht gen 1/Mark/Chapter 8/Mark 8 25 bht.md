@@ -9,7 +9,7 @@ While the exact verse remains undisclosed, the commentators shed light on a mira
 2. "(Thence-forward) saw all things plainly." 
 3. "The text is in much uncertainty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the only recorded example of a progressive cure, and it certainly illustrates similar methods in the spiritual kingdom."
 2. "Of the four recorded cases of sight restored, all the patients save one either came or were brought to the Physician."
 3. "So some seek and find Christ; of others He is found who seek Him not."
@@ -47,4 +47,4 @@ Note: The commentary provided is not a traditional commentary on a Bible verse. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

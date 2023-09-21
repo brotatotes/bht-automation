@@ -9,7 +9,7 @@ This Bible verse expresses the profound accomplishment of Jesus' mission on eart
 2. "The force of it here surely is, that our Lord stands by anticipation at the end of His accomplished course, and looks back on it all as past, as historically gathered up in one act: which is the very sense and propriety of the aorist."
 3. "τὸ ἔργον is not only the ministerial life of our Lord, but the whole Life, with all its appointed manifestations of humility and purity, the perfect righteousness which by that life He has planted in our nature, and His prophetic and declarative office, terminated by His Passion and Death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have glorified thee on the earth." - This quote emphasizes that Jesus has already glorified God on earth, indicating that his work and mission have been completed. 
 
 2. "I have finished the work which thou gavest me to do." - This quote highlights that Jesus has successfully completed the task that God assigned to him. It signifies the fulfillment of his purpose and mission on earth. 
@@ -61,4 +61,4 @@ These quotes highlight how Jesus glorified God through his personal expression, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

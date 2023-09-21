@@ -4,7 +4,7 @@
 In this verse, we see a depiction of the ungodly in a state of immense suffering and distress. They eagerly desire to escape their torment, seeking relief through death. However, death eludes them, prolonging their anguish. The intensity of their agony is emphasized, highlighting the urgency and desperateness of their situation. The verse calls for empathy towards those who are enduring such suffering, reminding us of the importance of compassion and support.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ungodly shall desire, eagerly desire, and set their mind on fleeing." 
 2. "In Revelation, the ungodly seek annihilation, not from the torment of their suffering, but from fear of the face of the Lamb before whom they have to stand." 
 3. "The ungodly flee, continually seeking to escape the consequences of their actions."
@@ -45,4 +45,4 @@ In this verse, we see a depiction of the ungodly in a state of immense suffering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

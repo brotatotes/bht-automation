@@ -4,7 +4,7 @@
 The verse being described in these commentaries refers to the power and influence of the second beast, closely linked to the first, exercising spiritual dominion in the world. It is believed to represent a new authority rising from the same place as the old power, sustaining and ministering to it. The aspects of this power include making war on the saints, ruling over consciences, and subjecting nations to its temporal authority, all seen as a continuation of the influence of the first beast.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The non-existence of the beast embraces the whole Germanic Christian period."
 2. "The Church becomes the harlot: the world's political power, the Antichristian beast; the world's wisdom and civilization, the false prophet."
 3. "These three forms of apostasy are reducible to two: the apostate Church and the apostate world, pseudo-Christianity and Antichristianity, the harlot and the beast."
@@ -33,4 +33,4 @@ The verse being described in these commentaries refers to the power and influenc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

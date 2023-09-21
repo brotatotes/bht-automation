@@ -12,7 +12,7 @@ John Wesley:
 2. "There may have been a reason for the irregularity here."
 3. "They will not receive from thee thy testimony concerning me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can it be, Lord, that they will resist the testimony of one whom they knew so well as among the bitterest of all against Thy disciples?"
 2. "Whom nothing short of resistless evidence could have turned to Thee?"
 3. "They will not receive thy testimony."
@@ -57,4 +57,4 @@ John Wesley:
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, there is a concerning situation where a multitude is coming
 2. "they will meet and discuss your proceeding in a hostile manner"
 3. "the multitude must needs come together"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They glorified the Lord" - This phrase highlights the response of the believers in Jerusalem, who praised and honored God for the work He was doing through Paul. It signifies their recognition of God's power and presence in the midst of their community.
 
 2. "Constrained to justify his course" - This phrase implies that Paul felt compelled to defend his actions and beliefs to the Jewish Christians in Jerusalem. It suggests that there may have been skepticism or opposition towards Paul's ministry due to its association with Gentiles.
@@ -59,4 +59,4 @@ In this Bible verse, there is a concerning situation where a multitude is coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

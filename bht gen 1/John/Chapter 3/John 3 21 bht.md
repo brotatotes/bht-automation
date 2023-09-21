@@ -9,7 +9,7 @@ The verse under consideration speaks about the importance of living out true rel
 2. "The good man seeks the light, and to place his works in the light, not from a vain love of praise, but from a desire for communion wherein he finds strength and security."
 3. "The manifesting his works, that they are wrought in God, is and can be only by the candle of the Lord being kindled within him, and he himself born again in the Kingdom of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doeth truth—whose only object in life is to be and do what will bear the light."
 2. "Therefore he loves and 'comes to the light,' that all he is and does, being thus thoroughly tested, may be seen to have nothing in it but what is divinely wrought and divinely approved."
 3. "This is the 'Israelite, indeed, in whom is no guile.'"
@@ -57,4 +57,4 @@ The verse under consideration speaks about the importance of living out true rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

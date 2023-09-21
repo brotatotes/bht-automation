@@ -4,7 +4,7 @@
 There is a sense of indignation and anger within a group of individuals, sparked by a display of rivalry and ambition that stirred their emotions. Despite previous warnings against it, these individuals became displeased, filled with wrath, and ready to quarrel as their resentment grew. Their reactions reveal the complex dynamics at play, highlighting the tensions and struggles that unfolded in response to a particular event.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And can we blame the ten for the indignation which they felt?"
 2. "Yet there was probably a spice of the old spirit of rivalry in it."
 3. "In spite of our Lord's recent lengthened, diversified, and most solemn warnings against it, had not ceased to stir in their breasts."
@@ -18,4 +18,4 @@ There is a sense of indignation and anger within a group of individuals, sparked
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

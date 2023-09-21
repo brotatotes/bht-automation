@@ -9,7 +9,7 @@ Flee from the impetuous passions and lusts that are prone to young individuals, 
 2. "these last words belong to those who call upon the Lord, and serve to designate the earnest and single-minded, as contrasted with the false teachers."
 3. "love and peace: ἀγαπᾶν μὲν γὰρ ἅπαντας δυνατόν, ἐπειδήπερ τοῦτο καὶ ὁ εὐαγγελικὸς παρακελεύεται νόμος, Ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν; εἰρηνεύειν δὲ οὐ πρὸς ἅπαντας ἔνεστι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There are many lusts from which our greatest safety is in flight." 
 2. "Avoid occasions of sin." 
 3. "We are to love all men, but it is not possible to be at peace with all men, for this needs community of purpose and opinion; they alone who call on the Lord sincerely have this community."
@@ -53,4 +53,4 @@ Flee from the impetuous passions and lusts that are prone to young individuals, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

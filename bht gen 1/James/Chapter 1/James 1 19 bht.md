@@ -9,7 +9,7 @@ The verse being described highlights the significance of being attentive and rec
 2. "Let every man be swift to hear... slow to speak... slow to wrath." 
 3. "Be eager to listen, not eager to discourse: the former may lead to implanting or strengthening the new life, the latter to wrath and suddenness of temper."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "YE KNOW IT, my beloved brethren; BUT let every man be swift to hear," - emphasizing the importance of being receptive to the word of truth.
 2. "Slow to speak authoritatively as a master or teacher of others" - cautioning against speaking hastily and arrogantly, especially when it comes to matters of God.
 3. "Slow in becoming heated by debate" - advising against getting easily provoked or angry during discussions, as it can hinder the ability to hear God's word.
@@ -57,4 +57,4 @@ These quotes emphasize the importance of being receptive and attentive to God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

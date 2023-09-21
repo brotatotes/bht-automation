@@ -9,7 +9,7 @@ The verse being described speaks of the universal dominion bestowed upon man by 
 2. "The sufferings of Christ being treated of as necessary to His being our perfect Redeemer."
 3. "It became Christ, in order to be the great and merciful High Priest of humanity, to be perfected through human sufferings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For in that" God saith in the eighth Psalm, "He put the all things in subjection under him (man), He left nothing." - This quote highlights the biblical reference to Psalm 8, emphasizing that God has placed all things under the authority of mankind.
 
 2. "As no limitation occurs in the sacred writing, the 'all things' must include heavenly, as well as earthly things." - This quote suggests that the scope of the "all things" mentioned in the verse extends beyond earthly possessions and includes heavenly realms as well.
@@ -54,4 +54,4 @@ The verse being described speaks of the universal dominion bestowed upon man by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

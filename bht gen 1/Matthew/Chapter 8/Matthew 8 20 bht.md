@@ -9,7 +9,7 @@ The Bible verse being described is a reflection of Jesus' identity as the Son of
 2. "The Jews understood the Son of Man to mean the Messiah."
 3. "The Son of Man encompasses all the conditions of humiliation, suffering, and exaltation that the Messiah must go through."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wilt thou?" replies the Lord Jesus. "Knowest thou whom thou art pledging thyself to follow, and whither haply He may lead thee? No warm home, no downy pillow has He for thee: He has them not for Himself. The foxes are not without their holes, nor do the birds of the air lack their nests; but the Son of man has to depend on the hospitality of others, and borrow the pillow whereon He lays His head." 
 2. "Let the dead bury their dead: but go thou and preach the kingdom of God." Like all the other paradoxical sayings of our Lord, the key to it is the different senses—a higher and a lower—in which the same word "dead" is used: There are two kingdoms of God in existence upon earth; the kingdom of nature, and the kingdom of grace: To the one kingdom all the children of this world, even the most ungodly, are fully alive; to the other, only the children of light.
 3. "No man, having put his hand to the plough, and looking back, is fit for the kingdom of God." The figure of putting one's hand to the plough and looking back is an exceedingly vivid one, and to an agricultural people most impressive. As ploughing requires an eye intent on the furrow to be made, and is marred the instant one turns about, so will they come short of salvation who prosecute the work of God with a distracted attention, a divided heart.
@@ -50,4 +50,4 @@ The Bible verse being described is a reflection of Jesus' identity as the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

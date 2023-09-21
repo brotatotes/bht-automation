@@ -9,7 +9,7 @@ Man, in all his frailty and mortal nature, is the subject of this verse, as expr
 2. "Whatever high and glorious things can be said of man, belong de proprio jure to Him only, propriâ personâ to Him only, but derivatively to us His brethren and members."
 3. "To hold that our Lord is from the first intended by ἄνθρωπος and υἱὸς ἀνθρώπου here, is to disturb altogether the logical sequence, which runs thus: ‘It is not to angels that He has subjected the latter dispensation, but to man. Still, we do not see man in possession of this sovereignty. No; but we do see Jesus, whose humiliation fulfilled the conditions of manhood, crowned with glory and honour, and thus constituted the Head of our race, so that His death and sufferings were our deliverance and our perfecting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul proves that it is to MAN, not to angels, that God has subjected the 'world to come.'"
 2. "How insignificant in himself, yet how exalted by God's grace!"
 3. "The Hebrew, 'Enosh' and 'Ben-Adam,' express 'man' and 'Son of man' in his weakness: 'Son of man' is here used of any and every child of man."
@@ -50,4 +50,4 @@ Man, in all his frailty and mortal nature, is the subject of this verse, as expr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a bold and intentional decision, one must thrust in their sickle, forcefully driving out the opposition to enter the kingdom of God. The Savior, with a sense of urgency, cuts down the harvest, gathering His people to Himself. With divine authority and readiness, the righteous respond to the call, reaping the souls through the preaching of the Gospel, fulfilling their God-given purpose and longing to be united with Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'thrust' or 'cast' implies force and urgency. It suggests that the action of entering the kingdom of God requires a deliberate and determined effort. It is not a passive or casual endeavor, but rather a bold and intentional decision."
 
 2. "This verse reminds us that simply desiring or wishing to enter the kingdom of God is not enough. It requires action and a willingness to push through any obstacles or resistance that may arise."
@@ -44,4 +44,4 @@ In a bold and intentional decision, one must thrust in their sickle, forcefully 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In exploring the concept of divine election, the commentator highlights the case of Rebecca and her two sons. Despite being twins and having the same parents, God made a distinction and chose one over the other. This selection was not based on their actions or merits, but rather on God's sovereign choice. The example of Jacob and Esau serves as a powerful illustration that God's blessing is not indiscriminately given to all descendants of Abraham and that it is solely a result of God's calling, not human works.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But there could be no such reason in the case of Rebecca, Isaac's only wife for the choice of her son Jacob was the choice of one of two sons by the same mother and of the younger in preference to the elder, and before either of them was born, and consequently before either had done good or evil to be a ground of preference."
 2. "And all to show that the sole ground of distinction lay in the unconditional choice of God."
 3. "Not of works, but of Him that calleth."
@@ -50,4 +50,4 @@ In exploring the concept of divine election, the commentator highlights the case
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

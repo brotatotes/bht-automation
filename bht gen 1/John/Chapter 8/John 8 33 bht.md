@@ -9,7 +9,7 @@ In this verse, the dialogue between Jesus and the Jews reveals their pride in be
 2. "The assertion οὐδενὶ δεδουλεύκαμεν was so contrary to historical truth, that we must suppose some technical meaning to have been attached to δεδουλεύκαμεν, in which it may have been correct."
 3. "As usual, they take the words of our Lord in their outward literal sense. Perhaps this was not always an unintentional misunderstanding."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The pride of the Jewish nation, even now after centuries of humiliation, is the most striking feature of their character."
 2. "Had they forgotten their long and bitter bondage in Egypt? their dreary captivity in Babylon? their present bondage to the Roman yoke, and their restless eagerness to throw it off?"
 3. "Our Lord, therefore, though He knew what slaves they were in this sense, drives the ploughshare somewhat deeper than this, to a bondage they little dreamt of."
@@ -55,4 +55,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

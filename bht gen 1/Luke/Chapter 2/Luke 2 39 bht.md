@@ -9,7 +9,7 @@ This verse describes how Joseph and Mary returned to their hometown of Nazareth 
 2. "It is wholly impossible to suggest any satisfactory method of uniting them; every one who has attempted it has, in some part or other of his hypothesis, violated probability and common sense."
 3. "The only inference from these two accounts, which is inevitable, is that they are wholly independent of one another."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nothing is more difficult than to fix the precise order in which the visit of the Magi, with the flight into and return from Egypt, are to be taken, in relation to the circumcision and presentation of Christ in the temple, here recorded."
 2. "It is perhaps best to leave this in the obscurity in which we find it, as the result of two independent, though if we knew all, easily reconcilable narratives."
 3. "The focus should not be on the chronological order, but on the message conveyed by these events and the fulfillment of prophecies."
@@ -52,4 +52,4 @@ This verse describes how Joseph and Mary returned to their hometown of Nazareth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

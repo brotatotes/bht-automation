@@ -9,7 +9,7 @@ At a marriage feast that had already been extended for several days, the wine ha
 2. "Chrysostom suggests that she had been led to expect the manifestation of his Messianic power about this time."
 3. "The most probable explanation is that our Lord Himself had recently given some reason to expect that He would show forth His glory by wonderful works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No wine" - This phrase suggests that the people were anticipating a manifestation of Jesus' glory and were subtly indicating that the time for such a display had come.
 2. "Expecting some display of His glory" - The people had high expectations of Jesus and were eagerly waiting for a miraculous demonstration of His power and authority.
 3. "Hinting that now was His time" - The mention of "no wine" implies that the people believed it was the opportune moment for Jesus to reveal His divine nature and perform a miraculous act.
@@ -52,4 +52,4 @@ At a marriage feast that had already been extended for several days, the wine ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

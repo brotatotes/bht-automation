@@ -9,7 +9,7 @@ In this verse, commentators highlight the deeper meaning behind the imagery of a
 2. "All that false humility, by which men put themselves lowest and dispraise themselves of set purpose to be placed higher, is, by the very nature of our Lord’s parable, excluded."
 3. "The exaltation at the hands of the Host is not to be a subjective end to the guests, but will follow true humility."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord avoids the appearance of personality by this delicate allusion." 
 2. "This allusion highlights the humility of Jesus, as he chooses not to assert his authority or take a prominent seat at the wedding feast." 
 3. "By seating himself at the wedding, Jesus demonstrates his willingness to partake in the joyous celebration and engage with those around him."
@@ -40,4 +40,4 @@ In this verse, commentators highlight the deeper meaning behind the imagery of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

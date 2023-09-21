@@ -9,7 +9,7 @@ The passage describes a poignant scene in which the author, filled with a deep l
 2. "There was no weakness of faith, as Hengstb. fancies: indeed such a supposition is entirely out of place here: St. John is in this book the simple recipient of the Apocalypse."
 3. "Christ, as the opener of the book, is not yet revealed to him: and to have him anticipating that revelation by the power of his individual faith, would be to put him out of his place and violate consistency."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John having been promised a revelation of 'things which must be hereafter,' weeps now at his earnest desire being apparently frustrated."
 2. "He is a pattern to us to imitate, as an eager and teachable learner of the Apocalypse."
 3. "John's tears reveal his deep longing for understanding and his genuine desire to receive the revelation that has been promised to him."
@@ -52,4 +52,4 @@ The passage describes a poignant scene in which the author, filled with a deep l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

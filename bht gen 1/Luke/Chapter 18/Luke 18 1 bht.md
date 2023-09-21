@@ -9,7 +9,7 @@ In this verse, the commentators highlight the significance and essence of prayer
 2. "The earnest desire of the heart is prayer."
 3. "To languish, to give up through the weight of overpowering evil."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Always" is emphasized here, indicating that the action or attitude being described should be constant and unwavering, just like the contrast between night and day.
 2. The word "faint" suggests a sense of losing heart or becoming discouraged, highlighting the importance of perseverance and not giving up.
 3. The use of the word "slacken" further emphasizes the need to maintain a consistent effort, without becoming lax or lazy in one's actions or attitude.
@@ -50,4 +50,4 @@ In this verse, the commentators highlight the significance and essence of prayer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

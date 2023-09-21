@@ -11,7 +11,7 @@ This verse captures the apostle Paul's unwavering pursuit of spiritual perfectio
 
 3. "in my case there was another instance of the καταλαβεῖν" - Paul highlights that his experience of being apprehended by Christ was unique and significant, emphasizing the transformative power of his conversion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I do not wish to be understood as saying that, I obtained, namely, a perfect knowledge of Christ, and of the power of His death, and fellowship of His sufferings, and a conformity to His death."
 2. "I press on."
 3. "If so be that I may lay hold on that (namely, the prize) for which also I was laid hold on by Christ."
@@ -55,4 +55,4 @@ This verse captures the apostle Paul's unwavering pursuit of spiritual perfectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse describes a significant moment in Jesus' life, symbolizing the beginning of the end and foreshadowing the events that are about to unfold. Jesus, in the garden of Gethsemane, prays with deep anguish and is willingly taken into custody. His disciples, although spiritually unaware, follow him, providing witness to his sorrows and agony. This moment reveals Jesus' unwavering faith, love, and compassion for both God and his disciples, highlighting the importance of regular prayer and communion with God in the face of testing and trial.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'as was his custom' indicates that Jesus had a consistent habit of going to the Mount of Olives to pray. This highlights the importance of regular prayer and communion with God in the life of a believer."
 
 2. "Jesus' prayer in the garden of Gethsemane reveals his deep anguish and inner struggle. It shows his humanity and the weight of the task he was about to undertake, while also demonstrating his complete submission to the will of the Father."
@@ -37,4 +37,4 @@ This verse describes a significant moment in Jesus' life, symbolizing the beginn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

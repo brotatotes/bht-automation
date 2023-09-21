@@ -4,7 +4,7 @@
 This verse describes a complex and dramatic story involving Herod, his wife Herodias, and John the Baptist. It depicts Herod's moral compromise as he leaves his wife to be with Herodias, ultimately resulting in his defeat in war and a lasting impact on his life. The verse also highlights the clash between truth and power, as Herod imprisons John in an attempt to silence righteousness. This cautionary tale serves as a reminder of the consequences of pursuing selfish desires and disregarding the sanctity of marriage.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herodias, his half-brother Philip's wife, to forsake her husband and live with him, on condition... that he should put away his own wife." 
 2. "This involved him afterwards in war with Aretas, who totally defeated him and destroyed his army." 
 3. "From the effects of which he was never able to recover himself."
@@ -27,4 +27,4 @@ Note: The commentary provided is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

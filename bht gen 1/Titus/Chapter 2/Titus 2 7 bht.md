@@ -4,7 +4,7 @@
 The verse being described emphasizes the significance of a teacher's example in confirming their words. It stresses the need for untainted purity of motive and dignified seriousness in setting forth the truth. The description highlights that a teacher's integrity, moral purity, and seriousness in delivering doctrine are crucial in commanding respect and being an authentic model for others to follow. It emphasizes the importance of aligning actions with words, setting a pattern of moral conduct, and maintaining a blameless reputation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All teaching is useless unless the teacher's example confirm his word."
 2. "Uncorruptness, that is, untainted purity of motive on thy part."
 3. "Gravity—dignified seriousness in setting forth the truth."
@@ -54,4 +54,4 @@ These quotes emphasize the importance of a teacher's life reflecting the teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

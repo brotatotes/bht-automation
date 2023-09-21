@@ -9,7 +9,7 @@ Those who are driven by their sinful desires solely focus on satisfying their ow
 2. "Those who live according to the Spirit...mind the things belonging to the Spirit." 
 3. "The former is the evidence of the latter, and a consequence of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For they that are after the flesh... do mind the things of the flesh." - This quote highlights that those who are driven by their fleshly desires will focus their attention on fulfilling those desires. It emphasizes the importance of our mindset and how it influences our actions.
 
 2. "Men must be under the predominating influence of one or other of these two principles." - This quote emphasizes that everyone is influenced by either the flesh or the spirit. It suggests that our actions and character are shaped by which principle has the upper hand in our lives.
@@ -59,4 +59,4 @@ Those who are driven by their sinful desires solely focus on satisfying their ow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

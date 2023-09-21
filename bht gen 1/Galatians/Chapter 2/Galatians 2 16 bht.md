@@ -4,7 +4,7 @@
 The verse under consideration reveals that justification is not attained through works but rather through faith in Jesus Christ. The law and faith, doing and believing, works and faith are presented as opposing concepts. Justification is not a mere pardon, but a declaration of righteousness in God's sight, grounded on the merits of Christ. It is the righteousness of faith that allows sinners to be regarded and treated as if they had not sinned. This truth holds firm, stating that we are justified by faith alone, not by works of the law.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The works of the law" are those which have the law for their object—which are wrought to fulfil the law.
 2. "But only (in no other way save) through faith in Jesus Christ," as the MEAN and instrument of justification.
 3. He rests his argument on this as an axiom in theology, referring to "Moses and Jesus Christ; The law and the promise; Doing and believing; Works and faith; Wages and the gift; The curse and the blessing—are represented as diametrically opposed."
@@ -50,4 +50,4 @@ The verse under consideration reveals that justification is not attained through
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

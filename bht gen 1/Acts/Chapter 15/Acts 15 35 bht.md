@@ -11,7 +11,7 @@ In Antioch, amidst a time of revival and preaching the word of the Lord, Paul an
 
 3. "The journey included a stop in Ephesus, a city where Paul would later spend a significant amount of time and establish a thriving Christian community."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How rich must Antioch at this time have been in the ministrations of the Gospel!" - This quote highlights the abundance of teaching and preaching happening in Antioch, emphasizing the thriving spiritual atmosphere in the city.
 
 2. "They part company to prosecute separate missionary tours." - This quote reveals the reason for the dissension between Paul and Barnabas, leading to their decision to go on separate missionary journeys. It shows the importance of their individual callings and the commitment to spreading the Gospel.
@@ -51,4 +51,4 @@ In Antioch, amidst a time of revival and preaching the word of the Lord, Paul an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

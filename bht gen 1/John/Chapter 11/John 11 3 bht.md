@@ -11,7 +11,7 @@ The sender of the message, filled with love and confidence in Jesus, simply stat
 
 3. "The message (see John 11:21; Joh 11:32)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A most womanly appeal, yet how reverential, to the known affection of her Lord for the patient."
 2. "Those whom Christ loves are no more exempt than others from their share of earthly trouble and anguish."
 3. "Rather are they bound over to it more surely."
@@ -54,4 +54,4 @@ The sender of the message, filled with love and confidence in Jesus, simply stat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

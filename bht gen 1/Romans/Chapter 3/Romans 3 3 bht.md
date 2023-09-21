@@ -9,7 +9,7 @@ The verse in question addresses the potential objection that the unbelief of som
 2. "For what? The γάρ confirms the preceding, the τί indicates some difficulty, or anticipated objection to it."
 3. "If we place an interrogation at γάρ, we must render this, suppose some were unfaithful; if only a comma, as in E. V., 'For what if…' The former seems preferable, as more according to usage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the unbelief of the great body of the nation which the apostle points at; but as it sufficed for his argument to put the supposition thus gently, he uses this word 'some' to soften prejudice." 
 2. "Shall their unbelief make the faith of God—or, 'faithfulness of God'—nullify, invalidate it." 
 3. "The unbelief of some does not diminish or undermine the faithfulness of God."
@@ -53,4 +53,4 @@ The verse in question addresses the potential objection that the unbelief of som
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

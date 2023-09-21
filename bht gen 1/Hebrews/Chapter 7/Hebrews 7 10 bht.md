@@ -11,7 +11,7 @@ In this verse, the significance of Levi's existence is highlighted as he is cons
 
 3. "Whether Christ also did not pay tithe in Abraham" - This rhetorical question challenges the notion that Christ, being divine, would be subject to earthly obligations such as paying tithes. It emphasizes the uniqueness and superiority of Christ's position.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ did not, in this sense, pay tithes in Abraham, for He never was in the loins of an earthly father." 
 2. "Being supernaturally, without human father, conceived, as He is above the natural law of birth, so is he above the law of tithes." 
 3. "Not so Christ, who derived only His flesh, not also the taint of the flesh, from Abraham."
@@ -42,4 +42,4 @@ In this verse, the significance of Levi's existence is highlighted as he is cons
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

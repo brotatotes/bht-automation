@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the potential confusion and misu
 2. "The ἰδ. plainly cannot be, as De W. maintains, an unbeliever, for his case is separately mentioned. Such plain men, or perhaps a company of unbelievers, have come in: they have no understanding of what is going on: the γλῶσσαι sound to them an unmeaning jargon."
 3. "They come to the conclusion, ‘These men are mad;’ just as men did infer, on the day of Pentecost, that the speakers were drunken."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The more there are assembled, and the more that speak in unknown tongues, the more will the impression be conveyed to strangers 'coming in' from curiosity ('unbelievers'), or even from a better motive ('unlearned'), that the whole body of worshippers is a mob of fanatical 'madmen'." 
 2. "The Church is like the company of builders of Babel after the confusion of tongues, or like the cause tried between two deaf men before a deaf judge, celebrated in the Greek epigram."
 3. "Unlearned - having some degree of faith, but not gifts."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators highlight the potential confusion and misu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the voice from the excellent glory affirms the divine nature and 
 
 3. "This is my beloved Son, in whom I am well pleased" - These words affirm the special relationship between Jesus and God, expressing God's delight and approval in His Son. This quote emphasizes the divine identity and mission of Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "received . . . honour—in the voice that spake to Him."
 2. "glory—in the light which shone around Him."
 3. "from the excellent glory—rather as Greek, 'by (that is, uttered by) the magnificent glory (that is, by God: as His glorious manifested presence is often called by the Hebrews 'the Glory').'"
@@ -55,4 +55,4 @@ In this verse, the voice from the excellent glory affirms the divine nature and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

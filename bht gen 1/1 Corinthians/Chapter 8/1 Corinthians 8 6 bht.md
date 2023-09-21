@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the belief in the unity of God and the
 2. "One Lord Jesus Christ, by whom are all things, and we by Him." 
 3. "The inference from the foregoing is that, per se, the eating of meat offered to idols is a thing indifferent, and therefore allowed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God the Father is the end for whom and for whose glory believers live."
 2. "In Colossians 1:16, all things are said to be created not only 'by' Christ, but also 'for Him.'"
 3. "One Lord, contrasted with the 'many lords' of heathendom."
@@ -52,4 +52,4 @@ Note: The commentary provides additional references to other verses and passages
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

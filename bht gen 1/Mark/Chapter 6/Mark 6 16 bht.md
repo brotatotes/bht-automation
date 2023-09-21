@@ -9,7 +9,7 @@ In this verse, we see the inner turmoil and guilt of Herod, who is haunted by hi
 2. "The principal additional particulars in the following account of John’s imprisonment and execution are...that it was Herodias who persecuted John...whereas Herod knew his worth and holiness, and listened to him with pleasure..." 
 3. "...the maiden went and asked counsel of her mother before making the request..."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is John, whom I beheaded; he is risen from the dead." - This quote highlights Herod's guilt and fear, as he immediately associates the news of Jesus' miracles with the beheading of John the Baptist. It reveals the weight of his conscience and the haunting presence of his past actions.
 
 2. "Himself has risen; as if the innocence and sanctity of his faithful reprover had not suffered that he should lie long dead." - This quote emphasizes the irony of Herod's statement. Despite Herod's attempt to silence John by killing him, his innocence and righteousness continue to have a lasting impact, even beyond death.
@@ -47,4 +47,4 @@ In this verse, we see the inner turmoil and guilt of Herod, who is haunted by hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

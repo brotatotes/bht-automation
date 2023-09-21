@@ -9,7 +9,7 @@ The Bible verse being described is Ephesians 4:23, which states, "And be renewed
 2. "The fact is, that in the N. T. the πνεῦμα of man is only then used ‘sensu proprio,’ as worthy of its place and governing functions, when it is one Spirit with the Lord."
 3. "Thus then the disciples of Christ are ἀνανεούμενοι, undergoing a process of renewal in the life of God, by the agency of the πνεῦμα of their minds, the restored and divinely-informed leading principle of their νοῦς, just as the children of the world are walking in the ματαιότης of their minds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The continued renewal in the youth of the new man."
 2. "By the Spirit of your mind, that is, by your new spiritual nature."
 3. "The 'spirit' of man in New Testament is only then used in its proper sense, as worthy of its place and governing functions, when it is one spirit with the Lord."
@@ -62,4 +62,4 @@ The Bible verse being described is Ephesians 4:23, which states, "And be renewed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

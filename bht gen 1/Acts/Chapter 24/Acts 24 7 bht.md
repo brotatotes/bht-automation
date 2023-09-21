@@ -4,7 +4,7 @@
 In this verse, we learn about a dramatic rescue mission led by the chief captain, Lysias, who intervened to save Paul from the plot against him. The Jewish leaders had intended to unjustly judge Paul and even resort to violence. However, Lysias recognized the corrupt nature of their intentions and protected Paul, preventing him from being harmed. This passage highlights the contrast between Paul's pursuit of truth and justice and the deceitful tactics of his accusers, ultimately emphasizing the importance of standing up for what is right, even in the face of opposition and injustice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lysias came upon us, and with great violence took him out of our hands—a wilful falsehood and calumnious charge against a public officer."
 2. "He had commanded the Sanhedrim to meet for no other purpose than to 'judge him according to their law.'"
 3. "Only when, instead of doing so, they fell to disputing among themselves, and the prisoner was in danger of being 'pulled in pieces of them' (Acts 23:27) —did he rescue him, as was his duty, 'by force' out of their hands."
@@ -41,4 +41,4 @@ In this verse, we learn about a dramatic rescue mission led by the chief captain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

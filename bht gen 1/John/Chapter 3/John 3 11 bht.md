@@ -9,7 +9,7 @@ This verse unfolds a conversation between Jesus and Nicodemus, highlighting the 
 2. The use of plurals in Jesus' discourse may be a proverbial saying to highlight the unreasonableness of unbelief.
 3. The statement "You do not receive" is directed at Nicodemus and the Jews, emphasizing their rejection of Jesus' witness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We speak that we know, and . . . have seen—that is, by absolute knowledge and immediate vision of God." 
 
 2. "The 'we' and 'our' are here used, though Himself only is intended, in emphatic contrast, probably, with the opening words of Nicodemus, 'Rabbi, we know.'"
@@ -55,4 +55,4 @@ This verse unfolds a conversation between Jesus and Nicodemus, highlighting the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

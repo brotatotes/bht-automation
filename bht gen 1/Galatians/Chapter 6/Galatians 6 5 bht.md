@@ -9,7 +9,7 @@ In this verse, every person is urged to bear their own burdens and to take respo
 2. "The load imposed on each by his own fault." 
 3. "The future, in this sense of that which must be in the nature of things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each man shall bear his own 'burden,' or rather, 'load' (namely, of sin and infirmity), the Greek being different from that in Galatians 6:2. This verse does not contradict Galatians 6:2. There he tells them to bear with others' 'burdens' of infirmity in sympathy; here, that self-examination will make a man feel he has enough to do with 'his own load' of sin, without comparing himself boastfully with his neighbor."
 
 2. "Instead of 'thinking himself to be something,' he shall feel the 'load' of his own sin: and this will lead him to bear sympathetically with his neighbor's burden of infirmity."
@@ -57,4 +57,4 @@ In this verse, every person is urged to bear their own burdens and to take respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

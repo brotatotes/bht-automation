@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of unity and consistenc
 2. "Nevertheless...as far as we have attained...walk by the same (path)."
 3. "The exhortation refers to the onward advance of the Christian life - let us go on together, each one in his place and degree of advance, but all in the same path."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expectation of a new revelation is not to make you less careful in walking according to whatever degree of knowledge of divine things and perfection you have already attained."
 2. "God makes further revelations to those who walk up to the revelations they already have."
 3. "Whereunto we have attained, let us walk on (a military term, march in order) in the same (the measure of knowledge already attained)."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this parable, the first messengers of the Gospel, including John the Baptist,
 2. "These first δοῦλοι are then the first messengers of the Gospel, John the Baptist, the Twelve, and the Seventy, who preached, saying ‘The Kingdom of heaven is at hand.’"
 3. "And even our Lord Himself must in some sort be here included, inasmuch as He μορφὴν δοὺλου ἔλαβεν, and preached this same truth, with however the weighty addition of δεῦτε πρός με."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "representing all preachers of the Gospel"
 2. "the Jews, who were 'bidden,' from the first choice of them onwards through every summons addressed to them by the prophets"
 3. "the issue of the whole ministry of the Baptist, our Lord Himself, and His apostles thereafter, too sadly showed"
@@ -48,4 +48,4 @@ In this parable, the first messengers of the Gospel, including John the Baptist,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

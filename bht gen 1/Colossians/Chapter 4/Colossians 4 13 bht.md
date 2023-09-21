@@ -9,7 +9,7 @@ In this Bible verse, we see the Apostle Paul commending Epaphras for his fervent
 2. "LAODICEA was a city of Phrygia Magna, large and rich, on the river Lycus." 
 3. "Ἱεραπόλει: Six Roman miles north from Laodicea: famed for many mineral springs, which are still flowing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A great zeal" - The commentator notes that the phrase can also be translated as "much labor," indicating the intensity and effort put into the task at hand.
 2. "A motive why you should be anxious for yourselves" - The commentator highlights the importance of being vigilant and cautious, as there is a risk of being seduced or led astray.
 3. "All the three cities were destroyed by an earthquake in A.D. 62" - The commentator provides historical context, mentioning the significant event that affected the cities of Laodicea, Hierapolis, and Colosse.
@@ -45,4 +45,4 @@ In this Bible verse, we see the Apostle Paul commending Epaphras for his fervent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

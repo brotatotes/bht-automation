@@ -9,7 +9,7 @@ The verse being described is a passage that emphasizes the importance of fellows
 2. "Know, the prep. giving force, and slightly altering the meaning to that of recognition."
 3. "In honor, hold them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My refreshment of spirit redounds to yours, as being my disciples." 
 2. "Render them due acknowledgments by a kind reception of them." 
 3. "Know them in their true worth and treat them accordingly."
@@ -47,4 +47,4 @@ The verse being described is a passage that emphasizes the importance of fellows
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

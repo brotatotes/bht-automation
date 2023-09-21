@@ -4,7 +4,7 @@
 In this verse, a well-known saying is presented that holds great importance and reliability. It speaks of believers being united with Christ in his death, emphasizing the concept of dying to oneself and finding new life in Christ. The verse may have originated from a hymn or confession, suggesting its regular use and significance in worship. Through this verse, believers are encouraged to find hope in the assurance of salvation and eternal glory, as they die to sin and live in unity with Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful is the saying." - This phrase indicates that the statement being made is trustworthy and reliable. It suggests that the truth being conveyed is of great importance and should be taken seriously.
 
 2. "If we be dead with Him... we shall also live with Him." - This highlights the concept of dying to oneself and being united with Christ in His death and resurrection. It emphasizes the inseparable connection between death and life in the Christian faith.
@@ -57,4 +57,4 @@ In this verse, a well-known saying is presented that holds great importance and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus utters the words "I thirst," embodying both a physical and 
 2. "Having it in view to leave no pre-appointed particular of the circumstances of his suffering unfulfilled, Jesus, speaking doubtless also in intense present agony of thirst, but only speaking because He so willed it, and because it was an ordained part of the course which He had taken upon Him, said this word."
 3. "Nec hoc levamentum petiisset, nisi scivisset id quoque ad κριτήρια Messiæ secundum Prophetas spectare. Unde hæc altera motiva additur: ut consummaretur Scriptura."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus knowing that all things were now accomplished—that is, the moment for the fulfilment of the last of them." 
 2. "The time was come for that too, in consequence of the burning thirst which the fevered state of His frame occasioned." 
 3. "Now there was set a vessel full of vinegar—on the offer of the soldiers' vinegar."
@@ -45,4 +45,4 @@ In this verse, Jesus utters the words "I thirst," embodying both a physical and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

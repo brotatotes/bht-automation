@@ -9,7 +9,7 @@ In this verse, there is a vivid contrast drawn between our present limited under
 2. "We must think, not of our mirrors of glass, but of the imperfectly-reflecting metallic mirrors of the ancients."
 3. "There is a reference to ref. Num., στόμα κατὰ στόμα λαλήσω αὐπῷ ἐν εἴδει, καὶ οὐ διʼ αἰνιγμάτων. Many take the words adverbially, 'enigmatically' (so E. V., 'darkly'): but this cannot be [the strict rendering], because αἴνιγμα is objective, not subjective: 'a dark hint given by words.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The contrast is between the inadequate knowledge of an object gained by seeing it reflected in a dim mirror (such as ancient mirrors were), compared with the perfect idea we have of it by seeing itself directly."
 2. "But neither 'eye nor ear' can fully represent (though the believer's soul gets a small revelation now of) 'the things which God hath prepared for them that love Him.'"
 3. "God's communications with Moses were 'not in enigmas.' But compared with the intuitive and direct vision of God hereafter, even the revealed word now is 'a dark discourse,' or a shadowing forth by enigma of God's reflected likeness."
@@ -55,4 +55,4 @@ In this verse, there is a vivid contrast drawn between our present limited under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

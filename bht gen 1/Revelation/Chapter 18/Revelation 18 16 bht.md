@@ -4,7 +4,7 @@
 The verse being described portrays a great city adorned with luxurious and extravagant attire of fine linen, purple, scarlet, and embellished with gold, precious stones, and pearls. The opulence of the city is highlighted, reflecting the excessive display of wealth and the allure of worldly possessions. The description serves as a warning against being captivated by the superficial beauty of material riches, as the sudden and complete destruction of wealth is imminent, causing lamentation and despair among its merchants and inhabitants.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And—so Vulgate and ANDREAS. But A, B, and C omit." 
 2. "decked—literally, 'glided.'"
 3. "stones . . . pearls—Greek, 'stone . . . pearl.' B and ANDREAS read 'pearls.' But A and C, 'pearl.'"
@@ -39,4 +39,4 @@ The verse being described portrays a great city adorned with luxurious and extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

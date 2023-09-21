@@ -9,7 +9,7 @@ The Apostle Paul's unwavering confidence in bringing the blessing of Christ to t
 2. "So he calls his presence in the churches a χάρις, 2 Corinthians 1:15."
 3. "See also ch. Romans 1:11."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am sure—that I shall come in the fulness of the blessing of Christ." This quote highlights the Apostle's unwavering confidence that he will bring the complete and abundant blessing of Christ to the believers in Rome.
 
 2. "Such, beyond all doubts, is the true reading." This quote emphasizes the certainty and authenticity of the chosen reading, indicating that it is the most reliable and accurate version of the text.
@@ -58,4 +58,4 @@ The Apostle Paul's unwavering confidence in bringing the blessing of Christ to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

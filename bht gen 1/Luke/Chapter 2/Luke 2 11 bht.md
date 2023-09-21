@@ -4,7 +4,7 @@
 In this verse, God's message of hope and salvation is revealed in a personal and tailored way to the humble shepherds, representing Israel and all of mankind. It emphasizes God's love for all people, regardless of their background, and His desire to guide and protect them. The birth of Jesus, revealed to the lowly shepherds, demonstrates the humility and grace of God, challenging human expectations. This proclamation of the Gospel is a message of great joy and gladness, offering eternal hope to all who believe.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto us a Child is born." It is a birth—"The Word is made flesh" (John 1:14).
 2. "How dear to us should be these historic moorings of our faith! With the loss of them, all substantial Christianity is lost."
 3. "By means of them how many have been kept from making shipwreck, and attained to a certain external admiration of Him, ere yet they have fully 'beheld His glory.'"
@@ -52,4 +52,4 @@ In this verse, God's message of hope and salvation is revealed in a personal and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

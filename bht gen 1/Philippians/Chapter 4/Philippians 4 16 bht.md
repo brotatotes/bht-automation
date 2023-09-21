@@ -9,7 +9,7 @@ In this verse, we see the remarkable generosity and support received by the apos
 2. "The account of the expression being, that when the first arrived, they had sent once: when the second, not only once, but twice."
 3. "The opposite expression, οὐχ ἅπαξ οὐδὲ δίς, is found in Plato, Clitoph. § 7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even in Thessalonica" - This phrase highlights the generosity of the Thessalonians, who supported the apostle Paul even in the early stages of his ministry. It showcases their willingness to help and their commitment to the spread of the gospel.
 
 2. "Ye sent me supplies for my necessities more than once" - This quote emphasizes the repeated acts of support from the Thessalonians. It reveals their consistent care for Paul's needs, demonstrating their dedication to the work of God and their desire to assist those who are spreading the message of Christ.
@@ -49,4 +49,4 @@ In this verse, we see the remarkable generosity and support received by the apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

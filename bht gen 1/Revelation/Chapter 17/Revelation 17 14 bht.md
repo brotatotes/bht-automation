@@ -4,7 +4,7 @@
 A coalition of kings, in league with the beast and papacy, wage war against the Lamb. They seek to extinguish true religion, but the Lamb's chosen and faithful followers will overcome them. Crowned heads are subject to the Lamb's supreme power, and his servants who fight under him are called, chosen, and faithful. They will partake in the triumph and share in the victory, as they remain steadfast and unwavering in their devotion to the Lamb and his cause.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These shall...war with the Lamb—in league with the beast."
 2. "This shall not be till after they have first executed judgment on the harlot."
 3. "And they that are with Him, called chosen, and faithful (shall overcome them, namely, the beast and his allied kings)."
@@ -35,4 +35,4 @@ A coalition of kings, in league with the beast and papacy, wage war against the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a group of ecclesiastics approached the apostles with caution, no
 2. "The omission of ἵνα changes the interpretation of the verse, suggesting that violence is indeed involved."
 3. "The meaning of the verse hinges on the presence or absence of ἵνα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hardened ecclesiastics, all unawed by the miraculous tokens of God's presence with the apostles." 
 2. "The fear of the mob only before their eyes!" 
 3. "Being dismissed, they depart rejoicing, and continue their preaching."
@@ -38,4 +38,4 @@ In this verse, a group of ecclesiastics approached the apostles with caution, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

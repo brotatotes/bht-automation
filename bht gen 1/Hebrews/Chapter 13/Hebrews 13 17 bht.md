@@ -9,7 +9,7 @@ In this verse, there is an exhortation to obey and submit to leaders, with an em
 2. "They may do this with joy, and not lamenting, for this is unprofitable for you." 
 3. "The exhortation is like Paul in its spirit, but more like Luke in its expression."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Obey your living rulers; nay, more, not only obey in cases where no sacrifice of self is required, and where you are persuaded they are right, but submit yourselves as a matter of dutiful yielding, when your judgment and natural will incline you in an opposite direction."
 2. "Watch for your soul's eternal salvation. It is a perilous responsibility for a man to have to give account for others' deeds, who is not sufficient for his own."
 3. "Mitigate their toil by every office of attention and respect, that with alacrity, rather than with grief, they may fulfill their duty, arduous enough in itself, even though no unpleasantness be added on your part."
@@ -57,4 +57,4 @@ In this verse, there is an exhortation to obey and submit to leaders, with an em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

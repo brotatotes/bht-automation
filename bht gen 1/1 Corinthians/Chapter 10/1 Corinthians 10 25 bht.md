@@ -9,7 +9,7 @@ This verse addresses the issue of eating food that has been offered to idols. Th
 2. "Eat without enquiry, that your conscience may not be offended."
 3. "If you made enquiry, and heard in reply, that the meat had been offered to idols, your conscience would be offended."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Asking no question—whether it has been offered to an idol or not." 
 2. "For conscience' sake—If on asking you should hear it had been offered to idols, a scruple would arise in your conscience which was needless."
 3. "And never would have arisen had you asked no questions."
@@ -56,4 +56,4 @@ These quotes highlight the apostle's intention to address a specific issue and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

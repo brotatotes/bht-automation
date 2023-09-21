@@ -4,7 +4,7 @@
 This verse requires wisdom and a level of spiritual discernment to fully grasp its meaning. It goes beyond mere intellectual understanding and implies that true wisdom is needed to comprehend its deeper message. The verse makes use of symbolism, particularly the reference to seven heads representing either a geographical location or a metaphorical representation of power and authority. These commentaries emphasize the need for wisdom and provide insights into the symbolic components of the verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The connection between mountains and kings must be deeper than the mere outward fact to which incidental allusion is made, that Rome (the then world city) is on seven hills."
 2. "The true connection is, as the head is the prominent part of the body, so the mountain is prominent in the land. Like 'sea' and 'earth' and 'waters . . . peoples,' so 'mountains' have a symbolical meaning, namely, prominent seats of power."
 3. "Especially such as are prominent hindrances to the cause of God, especially Babylon, in majestic contrast to which stands Mount Zion, 'the mountain of the Lord's house,' and the heavenly mount; 'a great and high mountain . . . and that great city, the holy Jerusalem.'"
@@ -44,4 +44,4 @@ Overall, these quotes highlight the importance of wisdom in understanding the ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

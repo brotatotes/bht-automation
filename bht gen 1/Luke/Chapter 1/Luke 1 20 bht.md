@@ -9,7 +9,7 @@ This verse describes a condition of both silence and deafness, as the individual
 2. "κ.μ.δυν.λαλ. This is not a repetition, but an explanation of the ground and reason, of σιωπῶν."
 3. "ἄχρι ἧς ἡμέρας γέν. ταῦτα ποῖα; ἡ γέννησις δηλαδή, καὶ ἡ κλῆσις τοῦ ὀνόματος." (Euthymius Zigabenus, 1116)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "dumb—speechless." - This quote highlights the state of being speechless, emphasizing the silence and inability to speak. 
 
 2. "He asked a sign, and now he got it." - This quote suggests that the person mentioned in the verse had requested a sign, and now they have received it. It implies that their request has been fulfilled. 
@@ -59,4 +59,4 @@ These quotes emphasize the importance of faith and belief in God's words, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In brotherly love, we are called to be tenderly affectionate and show honor to o
 2. "προηγούμενοι] 'invicem prævenientes,' latt. μὴ μένε φιλεῖσθαι παρ ʼ ἑτέρου, ἀλλ ʼ αὐτὸς ἐπιπήδα τούτῳ καὶ κατάρχου." 
 3. "‘in giving honour: anticipating one another’ (so Stuart)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In brotherly love be affectionate one to another in [giving, or showing] honor, outdoing each other."
 2. "How opposite is this to the reigning morality of the heathen world!"
 3. "It is only those whom 'the love of Christ constrains to live not unto themselves,' who are capable of thoroughly acting in the spirit of this precept."
@@ -57,4 +57,4 @@ In brotherly love, we are called to be tenderly affectionate and show honor to o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of Jesus' desire to be glorified with the Fathe
 2. "This direct testimony to the eternal præ-existence of the Son of God has been evaded by the Socinian and also the Arminian interpreters."
 3. "‘before all creation.’ 'Antequam fieret mundus, gloriam illam habebat Filius; sed cum fieret mundus, gloria illa se cœpit (?) exserere.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A PERFECT RECIPROCITY OF SERVICES of the Son to the Father first, and then of the Father to the Son in return, is what our Lord means here to express."
 2. "With this pre-existent glory, which He veiled on earth, He asks to be reinvested, the design of the veiling being accomplished."
 3. "Not, however, simply as before, but now in our nature."
@@ -55,4 +55,4 @@ The verse being described speaks of Jesus' desire to be glorified with the Fathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

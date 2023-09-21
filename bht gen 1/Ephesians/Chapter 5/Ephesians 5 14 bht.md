@@ -9,7 +9,7 @@ The Bible verse being described is a call to wake up from spiritual slumber and 
 2. "Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee." 
 3. "The Apostle cites, and had a perfect right to cite, the language of prophecy in the light of the fulfilment of prophecy: and that he is here doing so, the bare word ‘Christ’ shews us beyond dispute."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing that light (spiritual) dispels the pre-existing darkness, He (God) saith..."
 2. "The words are a paraphrase of Isaiah 60:1; Isaiah 60:2, not an exact quotation."
 3. "Believers are called on to 'awake' out of sleep; unbelievers, to 'arise' from the dead."
@@ -57,4 +57,4 @@ The Bible verse being described is a call to wake up from spiritual slumber and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

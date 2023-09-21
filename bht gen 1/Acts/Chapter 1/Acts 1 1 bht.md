@@ -9,7 +9,7 @@ The second part of the Bible is a continuation of the first, focusing on the wor
 2. "Whatever latitude may be given to this word, it must at all events exclude the notion that Luke had at this time seen the Gospels of Matt. or Mark, in which many things which Jesus did and taught are contained, which he had not related in his πρῶτος λόγος."
 3. "The Gospel contained the ἀρχάς, the outset, of all the doings and teachings of our Lord, as distinguished from this second treatise, which was to relate their sequel and results."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The one embracing His work on earth, the other His subsequent work from heaven."
 2. "The one in His own Person, the other by His Spirit."
 3. "The grand history of what Jesus did and taught does not conclude with His departure to the Father; but Luke now begins it in a higher strain."
@@ -54,4 +54,4 @@ The second part of the Bible is a continuation of the first, focusing on the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

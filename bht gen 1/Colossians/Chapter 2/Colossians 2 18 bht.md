@@ -8,7 +8,7 @@ In this verse, the commentators warn against false teachers who seek to deceive 
 1. "Let no one purposefully defraud you of your prize." 
 2. "This deprivation of their prize, and this wrong, they would suffer at the hands of those who would
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Defraud you of your prize," literally, "to adjudge a prize out of hostility away from him who deserves it" [TRENCH].
 2. "His 'humility,' so called, is a pleasing of self: thus it stands in parallelism to 'his fleshly mind' (its real name, though he styles it 'humility'), as 'wishing' or 'delighting' does to 'puffed up.'"
 3. "Plainly the things were actually seen by him, whether of demoniacal origination or phenomena resulting from natural causation, mistaken by him as if supernatural."
@@ -54,4 +54,4 @@ In this verse, the commentators warn against false teachers who seek to deceive 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

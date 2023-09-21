@@ -9,7 +9,7 @@ In this verse, the voice from heaven confirms the divine authority of Jesus and 
 2. "The epithet would naturally arise when the gospel history was known, as marking a place where a manifestation of this divine presence and glory had taken place." 
 3. "All we can infer from it is, that the history was assumed to be already well known."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We heard borne from heaven."
 2. "Transfiguration mount came to be regarded, on account of the manifestation of Christ's divine glory there."
 3. "We, James and John, as well as myself."
@@ -57,4 +57,4 @@ In this verse, the voice from heaven confirms the divine authority of Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

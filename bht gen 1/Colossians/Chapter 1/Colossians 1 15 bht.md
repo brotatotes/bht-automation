@@ -9,7 +9,7 @@ This Bible verse describes the unique and majestic role of Christ. He is the ima
 2) "The first and simplest meaning is that of priority of birth. But a secondary and derived meaning of πρωτότοκος, as a designation of dignity and precedence, implied by priority, cannot be denied."
 3) "Christ was not only first-born of His mother in the world, but first-begotten of His Father, before the worlds, and that He holds the rank, as compared with every created thing, of first-born in dignity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who have experienced in themselves 'redemption' know Christ in the glorious character here described, as above the highest angels." 
 2. "Image always supposes a prototype, which it not merely resembles, but from which it is drawn: the exact counterpart, as the reflection of the sun in the water: the child the living image of the parent." 
 3. "Even before His incarnation He was the image of the invisible God, as the Word by whom God created the worlds, and by whom God appeared to the patriarchs."
@@ -55,4 +55,4 @@ This Bible verse describes the unique and majestic role of Christ. He is the ima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

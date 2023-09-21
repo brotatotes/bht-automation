@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of gathering together for wo
 2. "The former is held by Primasius (“congregationem fidelium”), Calvin, Justiniani (“Ego malim de tota ecclesia hæc verba Pauli intelligere, ut hortetur Hebræos ad retinendam fidem, utque a cœtu fidelium non recedant”), Jac. Cappell., Böhme, Bretschneider, al. But the other is held by most Commentators, and seems far more appropriate here."
 3. "An alternative in Œc
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The assembling or gathering of ourselves for Christian communion in private and public, is an earnest of our being gathered together to Him at His appearing."
 2. "Union is strength; continual assemblings together beget and foster love, and give good opportunities for 'provoking to good works,' by 'exhorting one another'."
 3. "The Church being in all ages kept uncertain how soon Christ is coming, the day is, and has been, in each age, practically always near; whence, believers have been called on always to be watching for it as nigh at hand."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of gathering together for wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

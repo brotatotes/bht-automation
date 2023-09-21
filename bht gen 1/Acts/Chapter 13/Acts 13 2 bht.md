@@ -9,7 +9,7 @@ In this particular verse, we see the recognition and appointment of Barnabas and
 2. "The announcement being to the church, and several persons being mentioned, we can hardly, with Meyer, suppose it to have been an inner command merely to some one person, as in the case of Philip, ch. Acts 8:29."
 3. "The apostolic office terminated with the apostolic times, and by its very nature, admitted not of continuance: the episcopal office, in its ordinary sense, sprung up after the apostolic times and the two are entirely distinct."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word denotes the performance of official duties of any kind, and was used to express the priestly functions under the Old Testament. Here it signifies the corresponding ministrations of the Christian Church."
 2. "As this was done in other cases on special occasions, it is not improbable that they had been led to expect some such prophetic announcement at this time."
 3. "While the personality of the Holy Ghost is manifest from this language, His supreme divinity will appear equally so by comparing it with Hebrews 5:4."
@@ -57,4 +57,4 @@ In this particular verse, we see the recognition and appointment of Barnabas and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

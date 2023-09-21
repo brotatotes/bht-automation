@@ -4,7 +4,7 @@
 In this verse, the commentators shed light on the importance of having a heart that does not condemn us. They emphasize that it does not imply sinlessness but rather the assurance of fellowship with God, providing boldness and confidence in our relationship with Him. This confidence extends to our communication with God, as our prayers will be answered when we have a heart that aligns with His Word. It is through this confidence that we can approach God with full assurance, knowing that He hears our prayers and will answer them according to His will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved—There is no 'But'" - This phrase marks a transition in the commentary, contrasting two cases and emphasizing the importance of love in the context of the brethren walking in confidence (1 John 3:21).
 
 2. "The two results of our being able to 'assure our hearts before Him' are, (1) confidence toward God; (2) a sure answer to our prayers." - This quote highlights the benefits of having a heart that is not condemning, leading to confidence in our relationship with God and the assurance that our prayers will be answered (1 John 3:19-21).
@@ -45,4 +45,4 @@ In this verse, the commentators shed light on the importance of having a heart t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

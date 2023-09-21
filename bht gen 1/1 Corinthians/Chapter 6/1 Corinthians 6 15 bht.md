@@ -9,7 +9,7 @@ This verse reminds us that our bodies, as believers, are not just physical entit
 2. "Having then alienated the members of Christ (i.e. my own members) shall I make them an harlot’s members?"
 3. "The expression πόρνης μέλη is put as coarsely and startlingly as possible, with the emphasis on πόρνης."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The body is for the Lord" - emphasizing the purpose of the body in relation to Christ (1 Corinthians 12:27; Ephesians 4:12; Ephesians 4:15; Ephesians 4:16; Ephesians 5:30).
 
 2. "They cannot be at the same time 'the members of a harlot' and 'of Christ'" - highlighting the contradiction between participating in immoral acts and belonging to Christ.
@@ -49,4 +49,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

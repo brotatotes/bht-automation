@@ -11,7 +11,7 @@ The verse encourages believers to have a shared belief, confess their faith open
 
 3. "The ordinary one, the God and Father... is preferable on account of its simplicity." - This comment suggests that the simpler interpretation of the phrase, referring to God as both "God" and "the Father," is more favorable due to its straightforwardness and clarity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That with one accord ye may with one mouth glorify the God and Father of our Lord Jesus Christ" - emphasizing the unity and harmony of believers in giving glory to God.
 2. "The mind and the mouth of all giving harmonious glory to His name" - highlighting the alignment of thoughts and words in worshiping God.
 3. "What a prayer! And shall this never be realized on earth?" - expressing the longing for the fulfillment of this prayer for unity and worship among believers.
@@ -47,4 +47,4 @@ The verse encourages believers to have a shared belief, confess their faith open
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

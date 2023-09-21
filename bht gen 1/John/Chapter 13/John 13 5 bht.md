@@ -9,7 +9,7 @@ In this Bible verse, Jesus performs a humble act of washing the feet of his disc
 2. "ᾧ is perhaps by attraction for ὅ, which would be the ordinary case after διεζωσμένος, cf. Revelation 1:13; Revelation 15:6; or it may be dative by construction, as in Hom. Il. κ. 77, πὰρ δὲ ζωστὴρ κεῖτο παναίολος, ᾧ ῥʼ ὁ γεραιὸς Ζώννυθʼ."
 3. "and other examples in Meyer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beyond all doubt the feet of Judas were washed, as of all the rest." 
 2. "The act of washing the feet was a symbol of humility and servanthood." 
 3. "By washing the feet of his disciples, Jesus was teaching them the importance of serving one another."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus performs a humble act of washing the feet of his disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

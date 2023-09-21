@@ -9,7 +9,7 @@ This verse speaks of a future event known as the "day of the Lord," in which Jes
 2. "It is both the suddenness and the terribleness of the Day’s coming, which is here dwelt on."
 3. "οὕτως fills up the comparison as a thief in the night (comes), so ... it comes (not for future, but expressing the absolute truth and certainty of that predicated it is its attribute, to come)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The night is wherever there is quiet unconcern" - BENGEL
 2. "The thief not only gives no notice of his approach but takes all precaution to prevent the household knowing of it." 
 3. "Signs will precede the coming, to confirm the patient hope of the watchful believer; but the coming itself shall be sudden at last."
@@ -53,4 +53,4 @@ This verse speaks of a future event known as the "day of the Lord," in which Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

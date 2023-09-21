@@ -11,7 +11,7 @@ The Bible verse describes the spiritual man, who possesses spiritual discernment
 
 3. "himself is judged of by none" - The spiritual man, being guided by the Spirit, is not subject to the judgment of others who are not also spiritual. This highlights the unique and elevated status of the spiritual man in relation to the world.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The spiritual is the man distinguished above his fellow men, as he in whom the Spirit rules."
 2. "He has a practical insight into the verities of the Gospel, though he is not infallible on all theoretical points."
 3. "The Spirit leads into all truth and holiness; but His influence on believers and on the Church is as yet partial."
@@ -52,4 +52,4 @@ The Bible verse describes the spiritual man, who possesses spiritual discernment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

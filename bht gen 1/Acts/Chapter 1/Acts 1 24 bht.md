@@ -9,7 +9,7 @@ In this verse, the disciples humbly seek God's guidance in selecting someone to 
 2. "We are sure, from the προσκυνήσαντες αὐτόν of Luke 24:52, that even at this time, before the descent of the Spirit, the highest kind of worship was paid to the ascended Redeemer."
 3. "Not, as in E. V., 'shew whether of these two Thou hast chosen,' but appoint (see reff.) one of these two (him) whom Thou hast chosen."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'Lord,' placed absolutely, denotes in the New Testament almost universally THE SON and the words, 'Show whom Thou hast chosen,' are decisive."
 2. "The apostles are just Christ's messengers: It is He that sends them, and of Him they bear witness."
 3. "Here, therefore, we have the first example of a prayer offered to the exalted Redeemer; furnishing indirectly the strongest proof of His divinity."
@@ -54,4 +54,4 @@ Note: The commentary is referring to the importance of praying for God's guidanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described is about the benefits and limitations of bodily exerci
 
 3. "Piety has promise of the life which is now and which is to come." - The commentary highlights that piety holds the promise of both a fulfilling life in the present and eternal life in the future.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul does not deny that fasting and abstinence from conjugal intercourse for a time, with a view to reaching the inward man through the outward, do profit somewhat."
 2. "Paul, therefore, while not disapproving of this in its due proportion and place, shows the vast superiority of godliness or piety, as being profitable not merely 'to a small extent,' but unto all things."
 3. "Piety, which is the end for which thou art to 'exercise thyself,' is the essential thing: the means are secondary."
@@ -59,4 +59,4 @@ The verse being described is about the benefits and limitations of bodily exerci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

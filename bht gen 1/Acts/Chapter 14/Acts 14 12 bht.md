@@ -9,7 +9,7 @@ In this verse, there are two distinct characters: one is Barnabas, who is compar
 2. "So Chrysostom, ἐμοὶ δοκεῖ καὶ ἀπὸ τῆς ὄψεως ἀξιοπρεπὴς εἶναι ὁ Βαρνάβας, Hom. xxx., p. 237."
 3. "ἡγούμενος τοῦ λόγου] So Iamblichus, of Hermes, in reff.: ‘vocis et sermonis potens,’ Macrob. Saturn, i. 8: λόγου προφήτης, Orph. H. xxvii. 4: λαλίστατος κ. λογιώτατος θεῶν ἁπάντων, Lucian, Gallus, 2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They called Barnabas, Jupiter—the father of the gods, from his commanding mien." This quote highlights how the people perceived Barnabas as a figure of authority and power, comparing him to the supreme deity in their mythology.
 
 2. "And Paul, Mercurius—the god of eloquence and the messenger and attendant of Jupiter, in the heathen mythology." This quote reveals how the people saw Paul as a skilled speaker and messenger, associating him with the god of eloquence in their belief system.
@@ -47,4 +47,4 @@ In this verse, there are two distinct characters: one is Barnabas, who is compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

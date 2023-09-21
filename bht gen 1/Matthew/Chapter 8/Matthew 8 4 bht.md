@@ -9,7 +9,7 @@ This verse tells of a leper who, upon being cleansed by Jesus, is instructed to 
 2. "Christ alone is the cleanser. 'Ut Dominus ostenderet, quod non sacerdotali judicio, sed largitate divinæ gratiæ peccato emundatur, leprosum tangendo mundavit, et postea sacerdoti sacrificium ex lege offerre præcepit.'"
 3. "It is satisfactory to observe this drawing of parallels between the Levitical and (popularly so called) Christian priesthood, thus completely shewing the fallacy and untenableness of the whole system; all those priests being types, not of future human priests, but of Him, who abideth a Priest for ever in an unchangeable priesthood, and in Whom not a class of Christians, but all Christians, are priests unto God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A hard condition this would seem to a grateful heart, whose natural language, in such a case, is 'Come, hear, all ye that fear God, and I will declare what He hath done for my soul'." 
 2. "What the sequel was, our Evangelist Matthew does not say; but Mark thus gives it: 'But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to Him from every quarter'." 
 3. "And He withdrew Himself...into the secret place of the Most High, and thus coming forth as dew upon the mown grass, and as showers that water the earth."
@@ -45,4 +45,4 @@ This verse tells of a leper who, upon being cleansed by Jesus, is instructed to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The completion of God's plan and the fulfillment of prophecies are declared, as all that was spoken by the prophets has come to pass. God, as the Alpha and Omega, the beginning and the end, is revealed as the Everlasting, possessing authority over all things. Through the Lamb, God promises to quench the spiritual thirst of those who seek Him, offering the water of life freely.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All is as sure as if it actually had been fulfilled for it rests on the word of the unchanging God."
 2. "When the consummation shall be, God shall rejoice over the work of His own hands, as at the completion of the first creation."
 3. "As gratuitous as was man's hatred of God, so gratuitous is God's love to man: there was every cause in Christ why man should love Him, yet man hated Him; there was every cause in man why (humanly speaking) God should have hated man, yet God loved man."
@@ -49,4 +49,4 @@ The completion of God's plan and the fulfillment of prophecies are declared, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described urges readers not to yield or devote their bodies to s
 2. "Render yourselves to God, as alive from having been dead."
 3. "And your members as instruments of righteousness to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither yield ye your members instruments of unrighteousness unto Sin, but yield yourselves unto God as those that are alive from the dead." - This quote emphasizes the importance of surrendering to God and living a righteous life, instead of allowing sin to control our actions.
 
 2. "Your members—till now prostituted to sin." - This quote highlights the idea that our bodies were previously used for sinful purposes, but through surrendering to God, we can redirect our actions towards righteousness.
@@ -61,4 +61,4 @@ Note: The provided commentary is quite lengthy and contains repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

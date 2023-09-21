@@ -13,7 +13,7 @@ In this verse, commentators emphasize the importance of actively rejecting and r
 
 (Note: The commentary is quite lengthy and complex, so these quotes provide a concise summary of key points.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the old man—your old unconverted nature"
 2. "which is being corrupted ('perisheth,' compare Galatians 6:8, 'corruption,' that is, destruction) according to (that is, as might be expected from) the lusts of deceit."
 3. "Corruption and destruction are inseparably associated together."
@@ -63,4 +63,4 @@ These quotes highlight the concept of putting off the old man, which refers to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a call to believers to be different from their form
 2. "The depths of the sacred tongue were given us to descend into, not to bridge over."
 3. "This ignorance marks not only the period, but also the ground and element of these lusts prevailing in fashioning the life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is the highest obedience, because discharged to the highest command" - Luther.
 2. "The outward fashion is fleeting, and merely on the surface. The 'form,' or conformation in the New Testament, is something deeper and more perfect and essential."
 3. "The sanctification is first described negatively, c. the putting off the old man, even in the outward fashion, as well as in the inward conformation, then positively, putting on the new man."
@@ -55,4 +55,4 @@ The verse being described is a call to believers to be different from their form
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

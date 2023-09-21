@@ -4,7 +4,7 @@
 The verse being described emphasizes the divine purpose behind the institution of marriage, drawing from the creation account in Genesis. It highlights the intimate union and spiritual bond between a husband and wife, reflecting the unity between Christ and His Church. The verse underscores the sacredness and permanence of marriage, calling for a wholehearted commitment and a leaving behind of previous family ties. It points to the need for mutual affection and love in the marriage relationship, serving as a prophecy of what marriage ought to be.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The propagation of the Church from Christ, as that of Eve from Adam, is the foundation of the spiritual marriage."
 2. "The natural marriage...is not the principal thing meant here, but the spiritual marriage represented by it, and on which it rests."
 3. "In natural marriage, husband and wife combine the elements of one perfect human being: the one being incomplete without the other."
@@ -56,4 +56,4 @@ The verse being described emphasizes the divine purpose behind the institution o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

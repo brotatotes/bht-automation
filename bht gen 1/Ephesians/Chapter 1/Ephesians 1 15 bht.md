@@ -4,7 +4,7 @@
 The verse being described is a powerful reminder of the inseparable nature of faith and love in the life of a believer. It emphasizes that true faith goes beyond mere words, manifesting in actions and a transformed way of living. The mention of faith and love also serves as a testimony to others, inspiring and encouraging them in their own journey of faith. This verse highlights the importance of nurturing and growing in faith and love, as they form the foundation for other virtues to flourish.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith and love he often joins together. A wondrous pair" [CHRYSOSTOM].
 2. "A distinguishing characteristic of true Christianity."
 3. "Hope is added."
@@ -54,4 +54,4 @@ The verse being described is a powerful reminder of the inseparable nature of fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

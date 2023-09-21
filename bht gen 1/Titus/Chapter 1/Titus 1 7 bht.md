@@ -9,7 +9,7 @@ In describing the qualifications of a bishop, commentators recognize the importa
 2. "The faithful word which is according to the instruction, that he may be able both to exhort in healthy teaching and to reprove the gainsayers."
 3. "The overseer is not merely a servant and commissioned agent of the Church. According to the Apostle’s teaching, church government does not grow up out of the ground."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reason why I said 'blameless,' is the very idea of a 'bishop' involves the necessity for such blamelessness, if he is to have influence over the flock."
 2. "The Church is God's house, over which the minister is set as a steward."
 3. "Not making the Gospel a means of gain. In opposition to those 'teaching for filthy lucre's sake'."
@@ -53,4 +53,4 @@ Note: The commentary also discusses the vice of self-will and the corruption in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

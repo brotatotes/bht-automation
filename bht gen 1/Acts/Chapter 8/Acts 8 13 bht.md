@@ -9,7 +9,7 @@ In this Bible verse, we witness Simon's encounter with Philip and his growing be
 2. "He was convinced, from the works which Philip did, that he was in league with some powerful spirit: he viewed baptism as the initiation into communion with that spirit, and expected that he should be able to make use of the higher power thus gained for his own purposes, and unite this new magical power to his own."
 3. "All were baptized who professed belief in Jesus as the Messiah: there was therefore no reason for rejecting Simon, considering besides, that from the nature of the case he would for the time have given up his magical practices."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Left without followers, he thinks it best to join the man who had fairly outstripped him, not without a touch of real conviction." 
 2. "What a light does this throw on what is called Baptismal Regeneration!" 
 3. "He continued with Philip - 'was in constant attendance upon' him."
@@ -60,4 +60,4 @@ Note: The commentary provided contains some negative assumptions about Simon's f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described talks about a rest that goes beyond the physical rest 
 2. "It does not appear that any parallel between the typical and the great final Deliverer is intended: but it could hardly fail to be suggested to the readers."
 3. "Our translators, in retaining the word 'Jesus' here, have introduced into the mind of the ordinary English reader utter confusion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The objection is raised that those brought into Canaan by Joshua had already entered the rest of God. However, if the rest of God referred to Canaan, then God would not have spoken of another future day of entering the rest."
 2. "The rest of God mentioned here cannot simply be equated with the physical land of Canaan, as there is still a future day of entering the rest that God speaks of."
 3. "This suggests that the rest of God is not merely a physical place, but a spiritual state of being that goes beyond the boundaries of a specific land."
@@ -56,4 +56,4 @@ These quotes highlight the idea that the rest mentioned in the Psalm is a divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

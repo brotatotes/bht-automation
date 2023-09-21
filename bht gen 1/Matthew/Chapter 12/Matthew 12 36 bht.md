@@ -9,7 +9,7 @@ In this Bible verse, Jesus reveals the significance and accountability of our wo
 2. "ἀργός = ἀεργός, and is perhaps best taken here in its milder and negative sense, as not yet determined on till the judgment."
 3. "Our Lord’s saying is a deduction 'a minori,' and if of every ῥῆμα ἀργόν, then how much more of every ῥῆμα πονηρόν!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Words, as the index of the heart, however idle they may seem, will be taken account of, whether good or bad, in estimating character in the day of judgment."
 2. "It was not nothing, and at the great day will not be treated as nothing."
 3. "Jesus replies, 'It was not nothing, and at the great day will not be treated as nothing: Words, as the index of the heart, however idle they may seem, will be taken account of, whether good or bad, in estimating character in the day of judgment.'"
@@ -53,4 +53,4 @@ In this Bible verse, Jesus reveals the significance and accountability of our wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

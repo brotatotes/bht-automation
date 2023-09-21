@@ -9,7 +9,7 @@ The Bible verse being described is a declaration about the importance of repenta
 2. "In ch. Act 24:24 it seems to be taken from his own expression." 
 3. "This use of εἰς is mostly Pauline: and in ch. Act 24:24 it seems to be taken from his own expression."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Repentance, as distinguished from faith, is that state of the 'honest and good heart' which arises from a discovery of one's contrariety to the righteous demands of the divine law."
 2. "FAITH is said to be 'toward our Lord Jesus Christ,' because in that frame of mind just described it eagerly credits the testimony of relief divinely provided in Christ, gladly embraces the overtures of reconciliation in Him."
 3. "Thus we have here a brief summary of all Gospel preaching. And it is easy to see why repentance is here put before faith; for the former must of necessity precede the latter."
@@ -53,4 +53,4 @@ The Bible verse being described is a declaration about the importance of repenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

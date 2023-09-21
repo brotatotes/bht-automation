@@ -4,7 +4,7 @@
 In this verse, we find the high priest Caiaphas unwittingly prophesying about the imminent death of Jesus. His words were driven not by his own intentions, but by the Spirit of God. Though Caiaphas meant it as a political expediency, his statement carries divine significance, revealing the predetermined plan of Jesus' sacrifice as foretold by the prophets. This serves as a poignant demonstration of God's love for humanity, as Jesus willingly gave his life to bring salvation to all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He meant nothing more than that the way to prevent the apprehended ruin of the nation was to make a sacrifice of the Disturber of their peace."
 2. "But in giving utterance to this suggestion of political expediency, he was so guided as to give forth a divine prediction of deep significance."
 3. "God so ordered it that it should come from the lips of the high priest for that memorable year, the recognized head of God's visible people, whose ancient office, symbolized by the Urim and Thummim, was to decide in the last resort, all vital questions as the oracle of the divine will."
@@ -35,4 +35,4 @@ Note: The provided commentary is incomplete and lacks context. It is advisable t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

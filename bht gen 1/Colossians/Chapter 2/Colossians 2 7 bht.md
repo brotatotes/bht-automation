@@ -4,7 +4,7 @@
 The verse being described focuses on the importance of believers being rooted in Christ and building their lives on the foundation of faith. Like a vine rooted in the ground, believers should have a deep and intimate connection with Christ. They should also build their lives on the sure foundation of Jesus, ensuring stability and growth. These metaphors serve as powerful reminders of the vital elements needed for a strong and flourishing Christian life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As 'rooted' implies their vitality; so 'builted up,' massive solidity."
 2. "Thus 'walking,' a third image (Colossians 2:6), expresses the thought which 'rooted' and 'built,' though each suggesting a thought peculiar to itself, could not express, namely, onward motion."
 3. "Ephesians 2:20 refers to the Church; but the passage here to their individual progress in edification."
@@ -50,4 +50,4 @@ The verse being described focuses on the importance of believers being rooted in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

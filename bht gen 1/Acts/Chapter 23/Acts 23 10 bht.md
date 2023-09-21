@@ -9,7 +9,7 @@ Amidst a heated dispute and escalating conflict among the people, Paul faced the
 2. "It is one of those cases where, notwithstanding our strong suspicion that the later MSS. contain the true reading, we are bound to follow our existing authorities."
 3. "διασπασθῇ to be taken literally, not as merely = ‘should be killed.’ The Pharisees would strive to lay hold of him to rescue him: the Sadducees, to destroy him, or at all events to secure him. Between them both, there was danger of his being pulled asunder by them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief captain, fearing lest Paul should have been pulled to pieces, commanded the soldiers to go down and take him by force." 
 2. "Instead of the Sanhedrim trying the cause, the proceedings quickly consisted in the one party attempting to seize the prisoner, and the other to protect him." 
 3. "An infamous conspiracy to assassinate him is providentially defeated, and he is despatched by night with a letter from the commandant to Felix at Cæsarea, by whom arrangements are made for a hearing of his cause."
@@ -45,4 +45,4 @@ Amidst a heated dispute and escalating conflict among the people, Paul faced the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

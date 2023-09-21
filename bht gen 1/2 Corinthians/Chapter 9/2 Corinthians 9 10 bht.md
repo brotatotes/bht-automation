@@ -9,7 +9,7 @@ This verse speaks of God's abundant provision and multiplication of resources. T
 2. "He that ministers seed to the sower and bread for eating."
 3. "Shall supply and multiply your seed and will increase the fruits of your righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that ministereth (supplieth) seed to the sower and bread for food" - The commentary highlights the provision of God, supplying both physical needs (bread for food) and resources for generosity (seed for sowing).
 2. "Your seed—your means for liberality" - This quote emphasizes that the resources given to us by God are intended for us to be generous and to bless others.
 3. "The fruits of your righteousness—the heavenly rewards for your Christian charity" - The commentary points out that our acts of righteousness and generosity will be rewarded by God, both in this life and in eternity.
@@ -57,4 +57,4 @@ This verse speaks of God's abundant provision and multiplication of resources. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

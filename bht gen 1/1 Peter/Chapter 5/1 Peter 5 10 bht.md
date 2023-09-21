@@ -9,7 +9,7 @@ The Bible verse is a comforting declaration about the nature of God, who is desc
 2. "When you have suffered a little while, shall Himself perfect, confirm, strengthen, and ground you." 
 3. "He who has begun grace with a view to glory, will not cut off grace till it be perfected in glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Comforting assurance that God will finally 'perfect' His work of 'grace' in them, after they have undergone the necessary previous suffering." 
 2. "The God to whom as its source all grace is to be referred; who in grace completes what in grace He began." 
 3. "Christ is He in virtue of whom, and in union with whom, believers are called to glory."
@@ -57,4 +57,4 @@ The Bible verse is a comforting declaration about the nature of God, who is desc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

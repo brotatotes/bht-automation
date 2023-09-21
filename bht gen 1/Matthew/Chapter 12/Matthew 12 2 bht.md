@@ -4,7 +4,7 @@
 The disciples' act of plucking grain on the Sabbath was considered a violation by the Pharisees due to their strict interpretation of the law. Although it was permitted on any other day, the Pharisees saw it as a sinful act on the holy Sabbath day. They deemed it as a form of harvesting, threshing, and even a breaking of God's law. According to the Rabbinic statutes, these actions were seen as servile work, forbidden on the Sabbath.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act itself was expressly permitted (Deuteronomy 23:25)."
 2. "But as being 'servile work,' which was prohibited on the sabbath day, it was regarded as sinful."
 3. "The Pharisees saw it as a violation of their strict interpretation of the law."
@@ -40,4 +40,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

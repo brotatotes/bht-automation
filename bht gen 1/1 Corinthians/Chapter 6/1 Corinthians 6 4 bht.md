@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes Paul's admonition to the Corinthians
 2. "Your office is to judge angels: mere business causes of this world are almost beneath your notice. If such causes arise among you (he continues in a lofty irony) set those to judge them who are of no account among you: do not go out of your own number to others to have them judged: the meanest among you is capable of doing it."
 3. "The context is this: 'Your office is to judge angels:' mere business causes of this world are almost beneath your notice. If such causes arise among you (he continues in a lofty irony) set those to judge them who are of no account among you: do not go out of your own number to others to have them judged: the meanest among you is capable of doing it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Questions of earthly property are of secondary consequence in the eyes of true Christians." 
 2. "Judgments, or cases for judgment, should be delegated to those in a secondary position in the Church." 
 3. "Any, however low in the Church, should be chosen over the heathen for handling these matters."
@@ -59,4 +59,4 @@ In this Bible verse, the commentator quotes Paul's admonition to the Corinthians
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

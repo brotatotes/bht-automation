@@ -9,7 +9,7 @@ This verse challenges comparisons and exclusions within the body of Christ. It e
 2. "These words [may be taken, here and in the next verse, 'it is not therefore not of the body.' But they] are best taken as a question, appealing to the sense of the reader: they thus have more of the vigour of the Apostle’s style."
 3. "The double negation strengthens."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The humbler members ought not to disparage themselves, or to be disparaged by others more noble."
 2. "The humble speaks of the more honorable member which most nearly resembles itself."
 3. "As in life each compares himself with those whom he approaches nearest in gifts, not those far superior."
@@ -52,4 +52,4 @@ This verse challenges comparisons and exclusions within the body of Christ. It e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

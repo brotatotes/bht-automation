@@ -9,7 +9,7 @@ In Matthew 27:51-53, the precise details found in Mark's account are not recorde
 2. "His report is that of one man and that man, more than probably, a convert. Matthew’s is of many, and represents their general impression." 
 3. "It cannot be doubtful, I think, that he used these words in the Jewish sense and with some idea of that which they implied."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Truly this was the Son of God—There cannot be a reasonable doubt that this expression was used in the Jewish sense, and that it points to the claim which Jesus made to be the Son of God, and on which His condemnation expressly turned."
 2. "The meaning, then, clearly is that He must have been what He professed to be; in other words, that He was no impostor."
 3. "There was no medium between those two."
@@ -57,4 +57,4 @@ These quotes highlight the centurion's recognition of Jesus as the Son of God an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

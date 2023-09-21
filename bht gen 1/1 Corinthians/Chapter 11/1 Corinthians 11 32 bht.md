@@ -9,7 +9,7 @@ The verse being described portrays God's discipline as an act of love, with the 
 2. "Chastisement is meant to bring us to repentance." 
 3. "The purpose of this chastisement is to prevent us from being condemned with the unbelieving world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Chastening is a form of discipline that is meant to correct and train us. It is a sign of God's love for us, as a father disciplines his children out of love and concern for their well-being."
 2. "The world, on the other hand, does not experience this kind of chastening. They are like illegitimate children who are not under the care and guidance of a loving father. They are left to their own devices and do not receive the correction and guidance that comes from a relationship with God."
 3. "We should be grateful for God's chastening, as it shows that we are His children and that He cares enough about us to correct us when we go astray."
@@ -59,4 +59,4 @@ These quotes highlight the idea that God's punishments are not meant to destroy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

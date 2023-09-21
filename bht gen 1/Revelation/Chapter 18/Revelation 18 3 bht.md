@@ -4,7 +4,7 @@
 The verse describes the downfall of a corrupt city, referred to as Babylon or papal Rome. This city has seduced and corrupted the nations, leading them astray from God. Its destruction is a consequence of its spiritual corruption and involvement in idolatry. The verse emphasizes the justice of God's judgment, as the city's fall is a direct result of its immoral practices. The city's downfall is mourned by those who have gained from its indulgences and worldly compromises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They have drunk of her fornication, the consequence of which will be wrath to themselves."
 2. "Babylon, the whore, is destroyed before the beast slays the two witnesses, and then the beast himself is destroyed."
 3. "The reference is not to earthly merchandise, but to spiritual wares, indulgences, idolatries, superstitions, worldly compromises, wherewith the harlot, that is, the apostate Church, has made merchandise of men."
@@ -38,4 +38,4 @@ The verse describes the downfall of a corrupt city, referred to as Babylon or pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

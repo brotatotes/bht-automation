@@ -4,7 +4,7 @@
 This verse emphasizes the importance of being alert and vigilant in our spiritual lives, reminding us to be cautious of false teachings and to stay attentive to our thoughts and actions. It encourages us to be awake and prayerful, seeking guidance and protection from God. The verse also reminds us of the uncertainty of the future and the need to be prepared for whatever may come our way, urging us to stay watchful and devoted in our faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take ye heed, watch and pray" - This verse emphasizes the importance of being alert and vigilant in our spiritual lives. It reminds us to be cautious and attentive, not only to the world around us but also to our own thoughts, actions, and intentions.
 
 2. "For ye know not when the time is" - This phrase serves as a reminder that we do not have control over the timing of events in our lives. It encourages us to live in the present moment, being fully aware and prepared for whatever may come our way.
@@ -35,4 +35,4 @@ This verse emphasizes the importance of being alert and vigilant in our spiritua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

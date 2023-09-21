@@ -4,7 +4,7 @@
 The described passage focuses on the cherubim, who are depicted as powerful and majestic beings with an important role in the heavenly realm. Their positioning in facing the east symbolizes their readiness and anticipation for God's presence and guidance. This orientation also signifies their responsibility as guardians of the sacred Garden of Eden. By highlighting their role and position, the commentary underscores the cherubim's devotion to serving God's purpose and their constant vigilance in fulfilling their heavenly duties.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The lion-like boldness with which, in the successive great revivals, the faithful have testified for Christ, and especially a little before His coming shall testify." 
 2. "Come and deliver the groaning creature from the bondage of corruption." 
 3. "The opening of the seals marks a progressive step towards the end."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

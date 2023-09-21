@@ -10,7 +10,7 @@ The verse being described is about the observance of days and the consumption of
 3. "εὐχαριστεῖ, adduced as a practice of both parties, shews the universality among the early Christians of thanking God at meals: see 1 Timothy 4:3-4. The εὐχαριστία of the μὴ ἐσθίων was over his 'dinner of herbs.'"
 4. "κυρίῳ is CHRIST."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that regardeth the day, regardeth it to the Lord—the Lord CHRIST, as before." 
 2. "He that earth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks." 
 3. "Certainly it could not, if the sabbath were merely one of the Jewish festival days; but it will not do to take this for granted merely because it was observed under the Mosaic economy."
@@ -54,4 +54,4 @@ Note: The commentary does not provide a clear and concise explanation of the Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a profound acknowledgment of God's deliberate choice of a 
 2. "ταπείν is a low condition, not humility; the noun is an objective one." 
 3. "The phrase ἐπιβλέψαι ἐπὶ τὸν υἱόν μου can be understood as 'look upon my son with compassion'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is it unnatural to suppose that the spirit of the blessed Virgin had been drawn beforehand into mysterious sympathy with the ideas and the tone of this hymn?"
 2. "In both songs, those holy women, filled with wonder to behold 'the proud, the mighty, the rich,' passed by, and, in their persons the lowliest chosen to usher in the greatest events."
 3. "In both songs the strain dies away on CHRIST; in Hannah's under the name of 'Jehovah's King'—to whom, through all His line, from David onwards to Himself, He will 'give strength'; His 'Anointed,' whose horn He will exalt; in the Virgin's song, it is as the 'Help' promised to Israel by all the prophets."
@@ -52,4 +52,4 @@ In this verse, we see a profound acknowledgment of God's deliberate choice of a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

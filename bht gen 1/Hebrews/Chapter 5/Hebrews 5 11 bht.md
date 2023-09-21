@@ -9,7 +9,7 @@ The verse being described is a passage in which the writer addresses the complex
 2. "The Writer returns to Melchisedek." 
 3. "Our λόγος, that which we have to say, is both πολύς, abundant in quantity, and δυσερμήνευτος, difficult to state perspicuously to you, in quality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At Hebrews 6:20 he resumes the comparison of Christ to Melchisedec."
 2. "Hard for me to state intelligibly to you owing to your dulness about spiritual things."
 3. "That the Hebrew believers AT JERUSALEM were dull in spiritual things, and legal in spirit, appears from Hebrews 6:20- :, where James and the elders expressly say of the 'thousands of Jews which believe,' that 'they are all zealous of the law'."
@@ -55,4 +55,4 @@ The verse being described is a passage in which the writer addresses the complex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we are reminded that all things, whether favorable or difficult, 
 2. "To those who love God, all things work together." 
 3. "The calling here and elsewhere spoken of by the Apostle is the working, in men, of 'the everlasting purpose of God.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We know that to them that love God all things work together for good [even] to them who are called according to His (eternal) purpose." 
 2. "This working of all things for good is done quite naturally to 'them that love God,' because such souls, persuaded that He who gave His own Son for them cannot but mean them well in all His procedure, learn thus to take in good part whatever He sends them, however trying to flesh and blood."
 3. "And knowing that it is in pursuance of an eternal 'purpose' of love that they have been 'called into the fellowship of His Son Jesus Christ,' they naturally say within themselves, 'It cannot be that He should suffer that purpose to be thwarted by anything really adverse to us, or that He should not make all things, dark as well as light, crooked as well as straight, to co-operate to the furtherance and final completion of His high design.'"
@@ -53,4 +53,4 @@ In this verse, we are reminded that all things, whether favorable or difficult, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

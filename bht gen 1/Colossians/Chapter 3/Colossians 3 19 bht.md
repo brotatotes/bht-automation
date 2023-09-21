@@ -9,7 +9,7 @@ In this verse, husbands are instructed to love their wives with sacrificial and 
 2. "Kypke illustrates the word from Plutarch, de ira cohibenda, p. 457, ‘ubi dicit, animi prodere imbecillitatem quum viri πρὸς γύναια διαπικραίνονται.'"
 3. "Eurip. Helen. 303: ἀλλ ʼ ὅταν πόσις πικρὸς | ξυνῇ γυναικί , κ . τὸ δῶμ ʼ ἐστι (lege σώζεσθαι ) πικρόν , θανεῖν κράτιστον."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not bitter—ill-tempered and provoking."
 2. "Many who are polite abroad, are rude and bitter at home because they are not afraid to be so there."
 3. "They are not afraid to be so there."
@@ -56,4 +56,4 @@ In this verse, husbands are instructed to love their wives with sacrificial and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

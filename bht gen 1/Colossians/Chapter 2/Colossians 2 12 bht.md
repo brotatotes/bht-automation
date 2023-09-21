@@ -9,7 +9,7 @@ In this verse, the commentators share insights on the significance of baptism as
 2. "The things represented by both figures belong to the essentials of the Christian life: the minor details of the sacrament which corresponded to them, may in different ages or climates be varied; but the spiritual figures remain."
 3. "Faith is the hand by which we lay hold on Christ the Ark of our refuge."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Baptism is regarded as the burial of the old carnal life, to which the act of immersion symbolically corresponds."
 2. "The spirit of the ordinance is kept by affusion, where immersion would be inconvenient or dangerous."
 3. "Faith in God's mighty operation in raising again Jesus, is saving faith; and it is wrought in the soul by His same 'mighty working' whereby He 'raised Jesus from the dead'."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy and contains technical language. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

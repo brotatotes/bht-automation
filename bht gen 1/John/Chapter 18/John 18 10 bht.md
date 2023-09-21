@@ -9,7 +9,7 @@ In this passage, we witness Peter's fierce loyalty to Jesus as he defends him wi
 2. "The (external) ear, though severed, was apparently still hanging on the cheek."
 3. "Our Lord is said in Luke 22:51, to have touched τοῦ ὠτίου αὐτοῦ in performing the healing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "None of the other Evangelists mention the name either of the ardent disciple or of his victim. John being 'known to the high priest' (18:15), the mention of the servant's name by him is quite natural, and an interesting mark of truth in a small matter."
 2. "As to the right ear, specified both here and in Luke (22:51), the man was 'likely foremost of those who advanced to seize Jesus, and presented himself in the attitude of a combatant; hence his right side would be exposed to attack."
 3. "The blow of Peter was evidently aimed vertically at his head."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

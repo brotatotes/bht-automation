@@ -9,7 +9,7 @@ In this verse, we see a person who exemplifies leadership and bravery, going bef
 2. "We must not forget that even now 'He is gone to receive a Kingdom and return.'"
 3. "We see not yet all things put under His feet."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Referring to the awful destruction of Jerusalem, but pointing to the final destruction of all that are found in open rebellion against Christ." 
 2. "Christ's triumphant entry into Jerusalem and tears over it." 
 3. "(See on 1 Samuel 15:33- :.)"
@@ -52,4 +52,4 @@ In this verse, we see a person who exemplifies leadership and bravery, going bef
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

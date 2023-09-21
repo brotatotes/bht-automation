@@ -13,7 +13,7 @@ The verse under discussion emphasizes the contrast between being in the flesh an
 
 These quotes from the commentary shed light on the contrast between being in the flesh and being in the Spirit, the significance of having the Spirit of Christ, and the different terms used to describe the Holy Spirit's indwelling in believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be 'in the spirit' means here to be under the dominion of our own renewed mind because the indwelling of God's Spirit is given as the evidence that we are 'in the spirit'." 
 2. "It is as 'the Spirit of Christ' that the Holy Ghost takes possession of believers, introducing into them all the gracious, dove-like disposition which dwelt in Him." 
 3. "Even though intellectually convinced of the truth of Christianity, and in a general sense influenced by its spirit, if any man's heart be void of the blessed Author of them, 'the Spirit of Christ,' he is none of his."
@@ -54,4 +54,4 @@ These quotes from the commentary shed light on the contrast between being in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

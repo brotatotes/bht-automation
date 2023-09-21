@@ -9,7 +9,7 @@ Are there any other commentators you would like me to include in the description
 2. "The only way left seems...to take προεχόμεθα as middle, and understand it as προέχομεν Have we (Jews) the (any) preference?"
 3. "No, by no means. This would more naturally be πάντως οὐ...The meaning ‘not in every way,’ ‘not altogether,’...will not apply, for it does not agree with what follows, where the Apostle proves absolute equality in respect of his argument."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No, in no wise—Better off the Jews certainly were, for having the oracles of God to teach them better."
 2. "But as they were no better, that only aggravated their guilt."
 3. "Having the knowledge of God's truth and His commandments, the Jews were held to a higher standard and therefore had a greater responsibility to live according to God's will."
@@ -57,4 +57,4 @@ Are there any other commentators you would like me to include in the description
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

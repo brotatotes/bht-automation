@@ -4,7 +4,7 @@
 The verse being described focuses on the universal worship of God amidst His great and marvelous works. The song, echoing both the Old and New Testaments, celebrates the redemption of God's people and His just and true ways. It highlights the awe-inspiring power of God and His divine attributes, underscoring the unity of His church across time. The verse paints a picture of victory, deliverance, and adoration towards the Almighty God, inviting all nations to worship before Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The New Testament song of the Lamb is the antitype to the triumphant Old Testament song of Moses and the Israelites at the Red Sea." 
 2. "The passage through the Red Sea under the pillar of cloud was Israel's baptism, to which the believer's baptism in trials corresponds."
 3. "The Lamb leads the song in honor of the Father amidst the great congregation. This is the 'new song' mentioned in Revelation 14:3."
@@ -45,4 +45,4 @@ These quotes highlight the awe-inspiring nature of God's works, the grace that f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

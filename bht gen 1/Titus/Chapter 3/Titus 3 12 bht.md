@@ -9,7 +9,7 @@ In this verse, Paul instructs Titus to hasten to him to Nicopolis and sends gree
 2. "Forward on their journey with zeal Zenas the lawyer and Apollos." 
 3. "That nothing may be wanting to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Artemas or Tychicus—to supply thy place in Crete."
 2. "Tychicus was sent twice by Paul from Rome to Lesser Asia in his first imprisonment."
 3. "Nicopolis—'the city of victory,' called so from the battle of Actium, in Epirus."
@@ -52,4 +52,4 @@ In this verse, Paul instructs Titus to hasten to him to Nicopolis and sends gree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

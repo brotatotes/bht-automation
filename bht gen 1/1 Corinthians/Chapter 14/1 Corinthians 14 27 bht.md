@@ -9,7 +9,7 @@ The verse being described is one that addresses the orderly exercise of the gift
 2. "One after another, not together." 
 3. "Someone who has the gift, and not more than one, should interpret what is said in the tongue."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not more than two or three might speak with tongues at each meeting." This suggests that speaking in tongues should not be a chaotic or overwhelming experience, but rather a controlled and orderly one.
 2. "In turns." This implies that there should be a sense of order and fairness in the exercise of spiritual gifts, with each person taking their turn to speak or interpret.
 3. "Let one interpret." This highlights the importance of having someone with the gift of interpreting tongues present, emphasizing the need for understanding and clarity in the use of spiritual gifts.
@@ -57,4 +57,4 @@ The verse being described is one that addresses the orderly exercise of the gift
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

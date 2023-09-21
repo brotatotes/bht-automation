@@ -9,7 +9,7 @@ In this verse, a courageous and composed Paul stands before an enraged crowd, be
 2. "His motive is implied (ch. Act 22:2) to be, that they might be the more disposed to listen to him."
 3. "They might be the more disposed to listen to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What nobler spectacle than that of Paul at this moment! There he stood, bound with two chains, ready to make his defense to the people. The Roman commander sits by, to enforce order by his presence. An enraged populace look up to him from below. Yet in the midst of so many dangers, how self-possessed is he, how tranquil!" - CHRYSOSTOM (or in his name) in HACKETT.
 2. "A great silence - the people awed at the permission given him by the commandant, and seeing him sitting as a listener."
 3. "In the Hebrew tongue - the Syro-Chaldaic, the vernacular tongue of the Palestine Jews since the captivity."
@@ -50,4 +50,4 @@ In this verse, a courageous and composed Paul stands before an enraged crowd, be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

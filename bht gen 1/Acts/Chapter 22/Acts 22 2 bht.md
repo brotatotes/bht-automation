@@ -4,7 +4,7 @@
 In this Bible passage, the commentator's insights reveal the significance of language, cultural context, and effective communication. By addressing the crowd in their beloved Hebrew tongue, the Jews were awed into deeper silence, recognizing the value and importance of their mother tongue. This act of speaking in Hebrew not only provided a gift of understanding but also conveyed respect for their cultural heritage. The use of the Hebrew language connected the crowd to their roots and conciliated their minds, allowing for a more receptive atmosphere to Paul's message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sound of their holy mother tongue awed them into deeper silence."
 2. "They could have understood him in Greek, and doubtless fully expected the renegade to address them in that language."
 3. "The Hebrew tongue... [made] them kept the more silence."
@@ -45,4 +45,4 @@ In this Bible passage, the commentator's insights reveal the significance of lan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

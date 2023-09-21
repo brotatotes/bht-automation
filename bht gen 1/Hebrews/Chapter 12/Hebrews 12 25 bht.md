@@ -9,7 +9,7 @@ Take heed that you do not turn away from the one who speaks, for if even those w
 2. "For if they did not escape, declining as they did him who spoke on earth, much more shall we not escape, who are turning away from him who speaketh from the heavens." 
 3. "The giving of the law is ever regarded in the O.T. as a speaking from heaven."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His word now is the prelude of the last 'shaking' of all things."
 2. "The same word which is heard in the Gospel from heaven, will shake heaven and earth."
 3. "The word implies greater refractoriness than 'refused,' or 'declined.'"
@@ -50,4 +50,4 @@ Take heed that you do not turn away from the one who speaks, for if even those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

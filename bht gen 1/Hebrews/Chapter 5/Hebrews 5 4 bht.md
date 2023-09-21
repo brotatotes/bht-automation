@@ -13,7 +13,7 @@ The Bible verse describes the high priesthood and its divine appointment. It emp
 
 Note: The commentary provided is quite lengthy and contains a lot of technical language and references. I have extracted the most relevant quotes that provide insights into the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man—of any other family but Aaron's, according to the Mosaic law, can take to himself the office of high priest."
 2. "The analogy in our Christian dispensation would warn ministers...that content with this, they should beware of assuming the sacrificial priesthood also, which belongs to Christ alone."
 3. "No Christian minister, as such, is ever called Hiereus, that is, sacrificing priest. All Christians, without distinction, whether ministers or people, have a metaphorical, not a literal, priesthood."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy and contains a lot of technical l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

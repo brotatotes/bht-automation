@@ -4,7 +4,7 @@
 In this Bible verse, commentators highlight the importance of growing in love, knowledge, and discernment. They emphasize that love should be continuous, overflowing, and expressed not just in words but in actions. Developing spiritual perception and understanding is vital, as it deepens our knowledge and strengthens our ability to make wise choices. The verse reminds us to cultivate love, as it can diminish over time due to various influences. Ultimately, the verse encourages us to seek continual growth in our spiritual lives, always striving to abound in love and spiritual insight.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your love—to Christ, producing love not only to Paul, Christ's minister, as it did, but also to one another."
 2. "Knowledge—of doctrinal and practical truth."
 3. "Judgment—rather, 'perception'; 'perceptive sense.' Spiritual perceptiveness: spiritual sight, spiritual hearing, spiritual feeling, spiritual taste."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the importance of growing in love, k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

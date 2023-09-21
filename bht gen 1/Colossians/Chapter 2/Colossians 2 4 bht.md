@@ -9,7 +9,7 @@ In this passage, the commentators warn against being deceived by persuasive word
 2. "The aim and design of it is to prevent deception." 
 3. "The contrast is between the assertion above and the reason of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He refers to the blending of Judaism with Oriental philosophy, and the combination of this mixture with Christianity."
 2. "enticing words—plausible as wearing the guise of wisdom and humility."
 3. "as wearing the guise of wisdom and humility."
@@ -49,4 +49,4 @@ In this passage, the commentators warn against being deceived by persuasive word
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

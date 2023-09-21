@@ -11,7 +11,7 @@ In this verse, the commentary uncovers the attitudes and beliefs of the Jews tow
 
 3. "the following titles may have been well-known and formal expressions of Jewish pride" - This quote suggests that the titles mentioned in the commentary were likely familiar expressions of Jewish pride used to differentiate themselves from those who were not part of the covenant.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—"But if" is, beyond doubt, the true reading here."
 2. "It differs but in a single letter from the received reading, and the sense is the same."
 3. "The true reading emphasizes the conditional nature of the statement, highlighting the importance of the 'if' clause."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

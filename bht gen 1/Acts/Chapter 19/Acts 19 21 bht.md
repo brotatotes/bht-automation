@@ -9,7 +9,7 @@ After firmly establishing the gospel in Ephesus, Paul's purpose and resolve to c
 2. "An expression mostly used by Paul."
 3. "He saw that the great metropolis of the Gentile world was the legitimate centre of his apostolic working."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After these things were ended—completed, implying something like a natural finish to his long period of labor at Ephesus." 
 2. "Paul purposed . . . when he had passed through Macedonia and Achaia, to go to Jerusalem . . . After I have been there, I must also see Rome—Mark here the vastness of the apostle's missionary plans."
 3. "They were all fulfilled, though he 'saw Rome' only as a prisoner."
@@ -48,4 +48,4 @@ After firmly establishing the gospel in Ephesus, Paul's purpose and resolve to c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

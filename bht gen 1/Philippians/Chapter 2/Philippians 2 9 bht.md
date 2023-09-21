@@ -4,7 +4,7 @@
 This passage speaks of the exaltation of Christ after his voluntary humiliation and obedience. It emphasizes that as Christ was highly exalted by God, all who follow his example in humility will be exalted in due time. Christ's exaltation includes his resurrection, the bestowing of gifts upon his ministers, and having all power and authority. The name Jesus, which represents his glory, dignity, and unmatched majesty, is above every name.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An intimation, that if we would hereafter be exalted, we too must, after His example, now humble ourselves."
 2. "Christ emptied Christ; God exalted Christ as man to equality with God."
 3. "The name 'JESUS', which is even now in glory His name of honor."
@@ -48,4 +48,4 @@ This passage speaks of the exaltation of Christ after his voluntary humiliation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

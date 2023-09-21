@@ -9,7 +9,7 @@ In this verse, we see the interaction between Barnabas and Saul, where Barnabas 
 2. "Speaking à priori, it seems very improbable that any considerable portion of time should have been spent by him before the great work of his ministry began."
 3. "Even supposing him during this retirement to have preached in Syria and Cilicia, judging by the analogy of his subsequent journeys, a few months at the most would have sufficed for this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas was the first to take the converted persecutor by the hand and procure his recognition as a disciple by the brethren at Jerusalem."
 2. "Instead of returning to Jerusalem, finding that the mine in Antioch was rich in promise and required an additional and powerful hand to work, he leaves it for a time, takes a journey to Tarsus, 'finds Saul,' and returns with him to Antioch."
 3. "As co-pastors, for the time being, of the Church there, they so labored that the Gospel, even in that great and many-sided community, achieved for itself a name which will live and be gloried in as long as this world lasts, as the symbol of all that is most precious to the fallen family of man: 'The disciples were called CHRISTIANS first in Antioch.'"
@@ -52,4 +52,4 @@ In this verse, we see the interaction between Barnabas and Saul, where Barnabas 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

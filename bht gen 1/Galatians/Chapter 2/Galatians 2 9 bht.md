@@ -9,7 +9,7 @@ In this Bible verse, there is a mention of prominent individuals referred to as 
 2. "στύλοι] pillars, i.e. principal supporters of the church, men of distinction and weight."
 3. "This division of labour was not, and could not be, strictly observed. Every where in the Acts we find St. Paul preaching ‘to the Jews first,’ and every where the Judaizers followed on his track."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To each apostle was assigned the sphere best suited to his temperament: to James, who was tenacious of the law, the Jerusalem Jews; to Peter, who had opened the door to the Gentiles but who was Judaically disposed, the Jews of the dispersion; to Paul, who, by the miraculous and overwhelming suddenness of his conversion, had the whole current of his early Jewish prejudices turned into an utterly opposite direction, the Gentiles."
 2. "Not separately and individually, but collectively the apostles together represented Christ, the One Head, in the apostleship. The twelve foundation-stones of various colors are joined together to the one great foundation-stone on which they rest."
 3. "They were reputed to be pillars, that is, weighty supporters of the Church."
@@ -57,4 +57,4 @@ These quotes highlight the significance of James, Cephas, and John as pillars of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

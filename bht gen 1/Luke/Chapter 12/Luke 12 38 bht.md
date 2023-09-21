@@ -9,7 +9,7 @@ In this Bible verse, the passage draws upon the historical Jewish practice of di
 2. "The fourth is not named, because the return was not likely to be so long delayed."
 3. "The decorum of the parable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To find them ready to receive Him at any hour of day or night, when one might least of all expect Him, is peculiarly blessed."
 2. "A servant may be truly faithful, even though taken so far unawares that he has not everything in such order and readiness for his master's return as he thinks is due to him."
 3. "If the servant have himself and all under his charge in such a state that at any hour when his master knocks, he can open to him 'immediately,' and hail his 'return'—that is the most enviable, 'blessed' servant of all."
@@ -49,4 +49,4 @@ In this Bible verse, the passage draws upon the historical Jewish practice of di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

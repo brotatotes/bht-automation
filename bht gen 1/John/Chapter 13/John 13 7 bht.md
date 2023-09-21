@@ -9,7 +9,7 @@ In this verse, Jesus washes the disciples' feet, symbolically teaching them a le
 2. "ὃ ἐγὼ ποιῶ, i.e. (1) this washing itself, as a lesson of humility and love, John 13:14. (2) Its symbolical meaning, John 13:9-10. (3) The great Act of Love, the laying aside my glory, and becoming in the form of a servant, that the washing of the Holy Spirit may cleanse men."
 3. "μετὰ ταῦτα (1) was known very soon, but (2) and (3) not till after the Spirit was given."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such condescension does need explanation; it is fitted to astonish."
 2. "Though viewed as a general maxim, applicable to all dark sayings in God's Word, and dark doings in God's providence, these words are full of consolation."
 3. "These words are full of consolation."
@@ -59,4 +59,4 @@ In this verse, Jesus washes the disciples' feet, symbolically teaching them a le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

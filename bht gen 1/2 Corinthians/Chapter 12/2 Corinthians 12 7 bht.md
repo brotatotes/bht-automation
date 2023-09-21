@@ -9,7 +9,7 @@ This verse speaks of a personal affliction, a thorn in the flesh, that caused th
 2. "Even if we read σατᾶν, it can only be the genitive. If taken as the nom., the expression would mean either, a hostile angel, which would be contrary to the universal usage of Satan, as a proper name: or, the angel Satan, which is equally inconsistent with N. T. usage."
 3. "On the whole, putting together the figure here used, that of a thorn, occasioning pain, and the κολαφισμός, buffeting or putting to shame, it seems quite necessary to infer that the Apostle alludes to some painful and tedious bodily malady, which at the same time put him to shame before those among whom he exercised his ministry."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How dangerous must self-exaltation be, when even the apostle required so much restraint!" 
 2. "It certainly was something personal, affecting him individually, and not as an apostle: causing at once acute pain and shame."
 3. "After experiencing the state of the blissful angels, he is now exposed to the influence of an evil angel. The chastisement from hell follows soon upon the revelation from heaven."
@@ -55,4 +55,4 @@ This verse speaks of a personal affliction, a thorn in the flesh, that caused th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

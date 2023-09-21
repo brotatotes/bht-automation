@@ -9,7 +9,7 @@ In this passage, Jesus addresses the issue of fasting and warns against the hypo
 2. "The allusion is not to covering the face, but to the squalor of the uncleansed face and hair of the head and beard."
 3. "The verb may just as well signify covering or plastering over as disfiguring."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moreover, when ye fast—referring, probably, to private and voluntary fasting, which was to be regulated by each individual for himself; though in spirit it would apply to any fast."
 2. "be not, as the hypocrites, of a sad countenance: for they disfigure their faces—literally, 'make unseen'; very well rendered 'disfigure.' They went about with a slovenly appearance, and ashes sprinkled on their head."
 3. "It was not the deed, but reputation for the deed which they sought; and with this view those hypocrites multiplied their fasts."
@@ -53,4 +53,4 @@ In this passage, Jesus addresses the issue of fasting and warns against the hypo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

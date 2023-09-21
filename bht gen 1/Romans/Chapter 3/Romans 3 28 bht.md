@@ -11,7 +11,7 @@ In this verse, the writer firmly believes and reckons that a man is justified by
 
 3. "boasting is excluded" - This statement suggests that the concept of justification by faith undermines any grounds for boasting or self-righteousness, as it is not based on personal achievements or merit.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is the unavoidable tendency of dependence upon our own works, less or more, for acceptance with God, to beget a spirit of 'boasting.'"
 2. "Our faith receives a righteousness that makes the sinner just."
 3. "This and no other way of salvation is adapted alike to Jew and Gentile."
@@ -52,4 +52,4 @@ In this verse, the writer firmly believes and reckons that a man is justified by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

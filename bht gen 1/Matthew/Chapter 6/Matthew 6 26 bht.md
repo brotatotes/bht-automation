@@ -9,7 +9,7 @@ In this verse, we are reminded not to be anxious about our needs, as our Heavenl
 2. "The second, besides this application, which (Mat 6:30) it also contains, is a reproof of the vanity of anxiety about clothing, which, in all its pomp of gorgeous colours, is vouchsafed to the inferior creatures, but not attainable by, as being unworthy of, us."
 3. "Notice, it is not said, μὴ σπείρετε μὴ θερίζετε μὴ συνάγετε; the birds are not our example to follow in their habits, for God hath made us to differ from them the doing all these things is part of our πόσῳ μᾶλλον διαφέρετε (Luke 12:24,) and increases the force of the à fortiori."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold the fowls of the air...so as to learn wisdom from them." 
 2. "The brute creation—void of reason—are incapable of sowing, reaping, and storing: yet your heavenly Father suffers them not helplessly to perish, but sustains them without any of those processes."
 3. "Will He see, then, His own children using all the means which reason dictates for procuring the things needful for the body—looking up to Himself at every step—and yet leave them to starve?"
@@ -38,4 +38,4 @@ In this verse, we are reminded not to be anxious about our needs, as our Heavenl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

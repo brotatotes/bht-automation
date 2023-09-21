@@ -9,7 +9,7 @@ The Bible verse being described is one in which an action is repeated three time
 2. The phrase can be compared to Genesis 41:32.
 3. This emphasizes the sureness and reliability of the revelation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition of the action three times emphasizes the seriousness and significance of Peter's denial. It highlights the depth of his betrayal and the magnitude of his failure."
 2. "Peter's denial serves as a stark reminder of the frailty and weakness of human nature. It shows that even the most devoted followers of Christ are susceptible to fear and temptation."
 3. "Despite Peter's denial, Jesus still showed him grace and forgiveness. This demonstrates the unconditional love and mercy of God, who is always ready to restore and redeem those who repent and turn back to Him."
@@ -52,4 +52,4 @@ The Bible verse being described is one in which an action is repeated three time
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

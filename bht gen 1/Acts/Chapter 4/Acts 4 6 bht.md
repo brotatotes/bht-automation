@@ -9,7 +9,7 @@ In this verse, we encounter a powerful and politically charged scene involving k
 2. "Lightfoot supposes John to be identical with the Jochanan ben Zacchai of the Talmud, who however (De W.) was not of the high-priestly, but only of the priestly race."
 3. "Pearson, Wolf, Krebs, and Mangey suppose Alexander to have been the brother of Philo Judæus, mentioned by Jos. Antt. xviii. 8. 1. But this is very improbable; for he was Alabarch of the Jews at Alexandria, Jos. ibid."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Annas and Caiaphas, the high priests during the time of Jesus, held significant religious and political power in Jerusalem. Their mention in this verse highlights the authority and influence they had in the Jewish community."
 2. "The inclusion of John and Alexander, although little is known about them, suggests that they were also prominent figures in the religious hierarchy. This further emphasizes the significance of the individuals involved in the trial of Jesus."
 3. "The mention of these high priests and their associates underscores the gravity of the situation. It reveals the powerful forces at play and the extent to which Jesus' trial was orchestrated by influential figures within the Jewish religious establishment."
@@ -44,4 +44,4 @@ In this verse, we encounter a powerful and politically charged scene involving k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described reveals a divine revelation given to the Apostles and 
 
 3. "I became a minister according to the gift of the grace of God which was given to me according to the working in me of his power." This quote emphasizes Paul's understanding of his ministry as a result of God's grace and power at work within him, highlighting the divine enablement and calling upon his life.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Making known by revelation is the source of making known by preaching."
 2. "The mystery of the call of the Gentiles...was not unknown to the Old Testament prophets. But they did not know it with the same explicit distinctness 'As' it has been now known."
 3. "They probably did not know that the Gentiles were to be admitted without circumcision or that they were to be on a level with the Jews in partaking of the grace of God."
@@ -55,4 +55,4 @@ The verse being described reveals a divine revelation given to the Apostles and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

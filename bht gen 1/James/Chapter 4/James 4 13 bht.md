@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the urgent and immediate nature 
 2. "We speak more presumptuously before men than we think in our own hearts; though there also we are too liable to forget God." 
 3. "The indic, fut. gives the fixed certainty of the assumption."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go to now—'Come now'; said to excite attention."
 2. "ye that say—boasting of the morrow."
 3. "Their plans for the future are all worldly."
@@ -55,4 +55,4 @@ These quotes highlight the debate about who the passage is addressed to, the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the importance of genuine knowledge of God is highlighted. The ur
 2. "The man saying, 'I have the knowledge of Him and not keeping His commandments, is a liar.'"
 3. "In this man, the truth is not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have knowledge of Him."
 2. "Compare with this verse 1 John 1:8."
 3. "I know" (Greek, "I have knowledge of Him.")
@@ -52,4 +52,4 @@ In this verse, the importance of genuine knowledge of God is highlighted. The ur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes a group of foreigners, specifically Samaritans, who are con
 2. "They had a mixed religion, but were themselves originally from other countries."
 3. "There may have been a reason for the nine Jews not returning, that they held the ceremonial duty imposed on them to be paramount, which the Samaritan might not rate so highly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The language is that of wonder and admiration." 
 2. "The exhibition of Gentile faith." 
 3. "This stranger, this alien."
@@ -33,4 +33,4 @@ This verse describes a group of foreigners, specifically Samaritans, who are con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a commentator emphasizes the need for spiritual cleansing and hum
 2. "If I wash thee not, thou hast no part in Me."
 3. "Whoever is washed by Jesus, has part in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Never shalt Thou wash my feet": that is, "That is an incongruity to which I can never submit." How like the man!
 2. "If I wash thee not, thou hast no part with me": What Peter could not submit to was, that the Master should serve His servant.
 3. "If Peter then could not submit to let his Master go down so low as to wash his feet, how should he suffer himself to be served by Him at all?"
@@ -53,4 +53,4 @@ In this verse, a commentator emphasizes the need for spiritual cleansing and hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

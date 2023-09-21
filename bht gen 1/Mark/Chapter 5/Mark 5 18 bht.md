@@ -9,7 +9,7 @@ When encountering evil spirits once again, a grateful heart seeks refuge in the 
 2. "The fear of encountering evil spirits again was a motivating factor for him." - Euthymius Zigabenus
 3. "His fear was rooted in the possibility of another attack by the forces of darkness." - Euthymius Zigabenus
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The grateful heart, fresh from the hand of demons, clinging to its wondrous Benefactor."
 2. "How exquisitely natural!"
 3. "The grateful heart, fresh from the hand of demons, clinging to its wondrous Benefactor."
@@ -45,4 +45,4 @@ When encountering evil spirits once again, a grateful heart seeks refuge in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

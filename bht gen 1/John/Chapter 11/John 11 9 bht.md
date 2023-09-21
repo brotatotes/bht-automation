@@ -4,7 +4,7 @@
 In this verse, Jesus refers to the division of time into twelve hours and highlights the importance of walking in the light of God. He emphasizes that during the allotted time, one should not stumble or be hindered by obstacles. The commentator points out the significance of seeing the light of this world, comparing it to seeing the light of God that surrounds and guides believers. This verse encourages us to live our lives in alignment with God's purpose and to find strength and clarity in His divine light.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord's day had now reached its eleventh hour, and having till now 'walked in the day,' He would not mistime the remaining and more critical part of His work."
 2. "If a man (so He speaks, putting Himself under the same great law of duty as all other men—if a man) walk in the night, he stumbleth, because there is no light in him."
 3. "He would not mistime the remaining and more critical part of His work, which would be as fatal, He says, as omitting it altogether."
@@ -42,4 +42,4 @@ In this verse, Jesus refers to the division of time into twelve hours and highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

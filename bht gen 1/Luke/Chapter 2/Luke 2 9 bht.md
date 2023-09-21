@@ -9,7 +9,7 @@ In this Bible verse, the shepherds are met by the angel of the Lord, possibly Ga
 2. The shepherds, like Symeon, were waiting for the consolation of Israel, indicating their anticipation of the fulfillment of God's promises.
 3. The analogy of divine dealings supports the idea that the shepherds were expecting the arrival of the Messiah, as it aligns with the pattern of God's interactions with His people.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the brightness or glory which is represented as encompassing all heavenly visions" - This quote highlights the majestic and awe-inspiring nature of the glory of the Lord, emphasizing its significance in heavenly visions.
 
 2. "Men have never felt easy with the invisible world laid suddenly open to their gaze." - This quote acknowledges the natural fear and unease that humans experience when confronted with the supernatural or the invisible world.
@@ -54,4 +54,4 @@ In this Bible verse, the shepherds are met by the angel of the Lord, possibly Ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

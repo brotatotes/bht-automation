@@ -9,7 +9,7 @@ The verse emphasizes Christ's selflessness and sacrificial love, as he willingly
 2. "The stress is on διʼ ὑμᾶς, to raise the motive of gratitude the more effectually in them."
 3. "That by His poverty (as the efficient cause) ye might become rich: viz. with the same wealth in which He was rich, the kingdom and glory of Heaven."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ye know the grace—the act of gratuitous love whereby the Lord emptied Himself of His previous heavenly glory for your sakes." 
 2. "became poor—Yet this is not demanded of you; but merely that, without impoverishing yourselves, you should relieve others with your abundance." 
 3. "If the Lord did so much more, and at so much heavier a cost, for your sakes; much more may you do an act of love to your brethren at so little a sacrifice of self."
@@ -58,4 +58,4 @@ These quotes highlight the selflessness and sacrifice of Christ, who gave up his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described in these commentaries captures the unity of Christ's d
 
 These quotes provide insights into the unity of Christ's descent and ascent, the Jewish understanding of the heavens, and the enduring nature of Christ's filling of all things.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "passed through the heavens" - Jesus has transcended all the heavens and has reached the very throne of God. This emphasizes His divine authority and power.
 2. "might fill" - Jesus continues to fill all the heavens with His divine presence and Spirit. This shows that His influence and impact are ongoing and timeless.
 3. "Christ, as God, is present everywhere; as glorified man, He can be present anywhere" - This highlights the dual nature of Jesus as both fully God and fully man. He is omnipresent as God, but also has the ability to be physically present as a glorified man.
@@ -63,4 +63,4 @@ Note: The commentary provided is quite brief, so there are not many quotes to ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

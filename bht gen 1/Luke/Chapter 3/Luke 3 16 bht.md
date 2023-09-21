@@ -4,7 +4,7 @@
 This passage describes a humble servant preparing the way for the arrival of a greater figure. The servant, knowing his own limitations, acknowledges that he is not worthy of the honor bestowed upon him. The anticipation of the arrival of another, "the mightier," is highlighted with references to baptism, emphasizing the transformative power of the coming Messiah. The scene is set for a judgment upon the world, symbolized by fire, with the promise of a baptism by the Holy Ghost.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So far from entertaining such a thought as laying claim to the honors of Messiahship, the meanest services I can render to that 'Mightier than I that is coming after me,' are too high an honor for me."
 2. "Beautiful spirit, distinguishing this servant of Christ throughout!"
 3. "One mightier than I - 'the Mightier than I.'"
@@ -30,4 +30,4 @@ Note: The commentary provided is incomplete and lacks specific references to Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

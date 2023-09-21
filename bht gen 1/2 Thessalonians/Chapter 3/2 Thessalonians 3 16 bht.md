@@ -9,7 +9,7 @@ The Bible verse being described is about the Lord of peace who, as the ultimate 
 2. "ἡ εἰρήνη must not be understood only of peace with one another: but of peace in general, outward and inward, here and hereafter."
 3. "May the Lord of Peace give you (that) Peace always in every way."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same title is given to Him as to the Father, 'the GOD of peace'." 
 2. "An appropriate title in the prayer here, where the harmony of the Christian community was liable to interruption from the 'disorderly'."
 3. "May He bless you not only with peace, but also with His presence."
@@ -59,4 +59,4 @@ The Bible verse being described is about the Lord of peace who, as the ultimate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

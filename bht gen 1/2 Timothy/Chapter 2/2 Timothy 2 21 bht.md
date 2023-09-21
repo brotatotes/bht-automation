@@ -11,7 +11,7 @@ In this Bible verse, it is emphasized that personal purification and self-discip
 
 3. "Prepared for every good work." - This quote emphasizes the readiness and willingness of a purified individual to engage in any good work that God calls them to. It speaks to the importance of being prepared and available for God's service at all times.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If a man purify himself (so as to separate) from among these (vessels unto dishonor)." 
 2. "Sanctified - set apart as wholly consecrated to the Lord."
 3. "Paul himself was such a vessel: once one among those of earth, but afterwards he became by grace one of gold."
@@ -55,4 +55,4 @@ In this Bible verse, it is emphasized that personal purification and self-discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

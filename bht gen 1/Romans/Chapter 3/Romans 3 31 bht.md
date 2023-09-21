@@ -11,7 +11,7 @@ The commentary emphasizes the importance of upholding the authority and purity o
 
 These quotes highlight the central theme of the commentary, which is the relationship between faith and the law in justification. They emphasize that faith is the foundation for justification for all, regardless of circumcision, and that the law itself was part of a covenant based on faith. Additionally, the mention of the law of God written in the consciences of the Gentiles adds depth to the understanding of how the law applies to different groups.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is a fundamental requisite of all true religion that it tend to humble the sinner and exalt God; and every system which breeds self-righteousness, or cherishes boasting, bears falsehood on its face."
 2. "The fitness of the Gospel to be a universal religion, beneath which the guilty of every name and degree are invited and warranted to take shelter and repose, is a glorious evidence of its truth."
 3. "The glory of God's law, in its eternal and immutable obligations, is then only fully apprehended by the sinner, and then only is it enthroned in the depths of his soul, when, believing that 'He was made sin for him who knew no sin,' he sees himself 'made the righteousness of God in Him'."
@@ -52,4 +52,4 @@ These quotes highlight the central theme of the commentary, which is the relatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

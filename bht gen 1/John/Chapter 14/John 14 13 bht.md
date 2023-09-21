@@ -9,7 +9,7 @@ In this verse, we find a powerful declaration of the authority and ability of Je
 2. "The reason why you shall do these greater works is, on account of the all-powerful Spirit of grace and supplication which My going to the Father shall bring down upon the Church."
 3. "By these μείζονα τούτων, the wonders of grace and triumphs of the Spirit, the Father may be glorified (His glory shewn forth) in and by the Son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatsoever ye ask in my name" emphasizes the role of Jesus as the Mediator between God and humanity, allowing believers to approach God with their requests through him.
 2. "That will I do" highlights Jesus' authority as the Head and Lord of the kingdom of God, indicating that he has the power to fulfill the requests made in his name.
 3. The repetition of this promise in John 14:13-14 underscores its significance and assures believers of the certainty of their prayers being answered.
@@ -43,4 +43,4 @@ In this verse, we find a powerful declaration of the authority and ability of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

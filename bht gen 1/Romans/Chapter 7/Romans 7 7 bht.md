@@ -9,7 +9,7 @@ The verse being described discusses the relationship between the law and sin. Co
 2. "I was living in a state of ignorance of sin, were it not ... This construction comprehends in it οὐκ ἂν ἔγνων as a consequence, and is therefore often said to be put for it; but it has its propriety, as here, where a historical state is being described, and the unconditional indicative is more appropriate." 
 3. "The law here is in the full sense of the Mosaic law as regarded himself, not excluding the wider sense on which I have insisted in the former part of the Epistle when applied to others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is the law sin? God forbid! Far from us be such a thought." 
 2. "It was by means of the law that I came to know what a virulence and strength of sinful propensity I had within me."
 3. "The apostle saw in it the prohibition not only of desire after certain things there specified, but of 'desire after everything divinely forbidden'; in other words, all 'lusting' or 'irregular desire.'"
@@ -57,4 +57,4 @@ The verse being described discusses the relationship between the law and sin. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

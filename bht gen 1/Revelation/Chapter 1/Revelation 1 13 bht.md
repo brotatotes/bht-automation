@@ -9,7 +9,7 @@ In this verse, a divine figure, resembling a human being, is seen standing among
 2. "The χιτὼν ποδήρης, vestis talaris, was a sign of high rank or office."
 3. "But perhaps after all the point is not to be pressed; for the angels in ch. Rev 15:6 are also girt περὶ τὰ στήθη."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His glorified form as man could be recognized by John, who had seen it at the Transfiguration."
 2. "His being in the midst of the candlesticks (only seen in the temple), shows that it is as a king-priest He is so attired."
 3. "The girdle bracing the frame together, symbolizes collected powers. Righteousness and faithfulness are Christ's girdle."
@@ -38,4 +38,4 @@ In this verse, a divine figure, resembling a human being, is seen standing among
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

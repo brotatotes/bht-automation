@@ -9,7 +9,7 @@ The Bible verse captures the profound yearning and shared suffering that permeat
 2. "The whole creation is depicted as groaning and travailing, expressing the deep longing and suffering that exists in the world." 
 3. "This groaning and travailing is not limited to humanity, but encompasses the entire created order."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For we know that the whole creation groaneth and travaileth in pain together until now" - The verse highlights the universal suffering and longing for redemption that extends beyond humanity to the entire creation. 
 
 2. "If for man's sake alone the earth was cursed, it cannot surprise us that it should share in his recovery" - The commentary suggests that if the earth was affected by the curse for the sake of humanity, it is reasonable to expect it to also partake in the restoration and redemption.
@@ -63,4 +63,4 @@ The Bible verse captures the profound yearning and shared suffering that permeat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a sense of astonishment and disbelief is conveyed through Peter's
 2. "Notice that μου is enclitic, not emphatic, in which case it would be ἐμοῦ."
 3. "The having his feet washed is a matter of course: it is the Person who is about to do it that offends him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our language cannot bring out the intensely vivid contrast between the 'Thou' and the 'my,' which, by bringing them together, the original expresses."
 2. "Every word of this question is emphatic."
 3. "Though there can be no doubt that already Peter's heart rebelled against it as a thing not to be tolerated, Jesus ministers no rebuke as yet, but only bids him wait a little, and he should understand it all."
@@ -54,4 +54,4 @@ In this verse, a sense of astonishment and disbelief is conveyed through Peter's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

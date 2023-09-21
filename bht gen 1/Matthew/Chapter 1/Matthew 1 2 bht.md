@@ -9,7 +9,7 @@ This verse in Matthew focuses on the genealogy of Jesus, tracing it back to Abra
 2. "Obiter Matthæus Christum ut cognatum omnibus Israelitis commendat." (Translation: "By the way, Matthew presents Christ as a relative to all Israelites.")
 3. "Matt. wanted to emphasize the connection between Jesus and the people of Israel, highlighting his role as the long-awaited Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren." - This verse highlights the genealogy of Jesus, tracing it back to Abraham, Isaac, Jacob, and Judas. It emphasizes the importance of lineage and how Jesus fulfills the Messianic prophecy from the descendants of Jacob.
 
 2. "Only the fourth son of Jacob is here named, as it was from his loins that Messiah was to spring." - This quote explains why only Judas (also known as Judah) is mentioned in the genealogy. It clarifies that the Messiah was prophesied to come from the line of Judah, making his inclusion significant in establishing Jesus' lineage.
@@ -42,4 +42,4 @@ This verse in Matthew focuses on the genealogy of Jesus, tracing it back to Abra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

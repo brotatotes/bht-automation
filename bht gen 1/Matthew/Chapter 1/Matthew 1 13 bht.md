@@ -1,7 +1,7 @@
 # Matthew 1:13 Commentary Help Text
 
 ## BHT:
-This verse showcases the significance of genealogical records in the Bible, as noted by Henry Alford and Jamieson Fausset Brown. The names mentioned in the genealogy were meticulously maintained and trusted by the Jews, highlighting the importance they placed on preserving their ancestral history. Philip Schaff adds that this genealogy reaches its lowest point with a humble carpenter from Nazareth, emphasizing the unexpected ways in which God works through ordinary individuals. Additionally, John Gill mentions the multiple names individuals may have had and the remarkable consistency between the genealogies in the Jewish Targum and the Gospel of Matthew.
+This verse showcases the significance of genealogical records in the Bible, as noted by Henry Alford and Jamieson-Fausset-Brown. The names mentioned in the genealogy were meticulously maintained and trusted by the Jews, highlighting the importance they placed on preserving their ancestral history. Philip Schaff adds that this genealogy reaches its lowest point with a humble carpenter from Nazareth, emphasizing the unexpected ways in which God works through ordinary individuals. Additionally, John Gill mentions the multiple names individuals may have had and the remarkable consistency between the genealogies in the Jewish Targum and the Gospel of Matthew.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ This verse showcases the significance of genealogical records in the Bible, as n
 2. "The objection, that thus the first generation after Zerubbabel would be omitted, need not have much weight, after the omission of three generations in the last tesseradecade."
 3. "Whether or not we may be inclined to adopt his conjectures on so intricate and uncertain a subject as the reconciling of the genealogies, too much praise cannot be given to the spirit of combined Christian reverence and enlightened critical courage in which it is treated throughout."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The names mentioned in this genealogy may not be familiar to us from the Old Testament, but they were taken from the reliable public or family registers that the Jews meticulously maintained."
 2. "The fact that the accuracy of these names was never challenged speaks to the trustworthiness of the Jewish records."
 3. "These names serve as a reminder of the importance the Jews placed on preserving their genealogical history."
@@ -28,4 +28,4 @@ This verse showcases the significance of genealogical records in the Bible, as n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

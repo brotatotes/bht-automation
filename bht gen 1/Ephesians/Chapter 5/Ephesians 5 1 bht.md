@@ -4,7 +4,7 @@
 In this verse, we are called to imitate and follow the example of God himself. This means forgiving and showing love to others, just as God has forgiven and loved us. It is a reminder that as children of God, we should reflect His character through acts of kindness and goodness. By imitating God, we align ourselves with His eternal and unchanging love, becoming imitators of the Divine rather than mere imitators of worldly figures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God in Christ forgave you" - emphasizing the importance of forgiveness as a model for followers of God.
 2. "Imitators of God, in respect to love" - highlighting the call for believers to imitate God's love in their own lives.
 3. "We are sons of men, when we do ill; sons of God, when we do well" - underscoring the idea that our actions reflect our identity as children of God.
@@ -50,4 +50,4 @@ In this verse, we are called to imitate and follow the example of God himself. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Within the verses, there is a reflection on the profound division that can occur within families and relationships when it comes to following Christ. The clash between the Spirit of Christ and the spirit of the world creates a deep-seated animosity that cannot easily be resolved. This contrast presents a choice between adhering to the higher standards of God's truth and righteousness or succumbing to the allurements and temptations of the world. Ultimately, it is a reminder of the tension and conflict that exist in navigating a life of faith amidst opposing forces.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To cause this element of life to take up its abode on earth, and wholly to pervade human hearts with its warmth, was the lofty destiny of the Redeemer."
 2. "An obscure expression, uttered under deep and half-smothered emotion."
 3. "And what should I have to desire if it were once already kindled?"
@@ -25,4 +25,4 @@ Within the verses, there is a reflection on the profound division that can occur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

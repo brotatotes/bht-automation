@@ -9,7 +9,7 @@ This verse portrays the astonishment and paradoxical nature of the message of th
 2. "The persons here meant are as yet kept indefinite, but evidently the Apostle has in his mind the unbelieving Jews, about whom his main discourse is employed." 
 3. "But not all hearkened to the glad tidings...for Esaias saith, Lord, who believed the hearing of us?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Scripture hath prepared us to expect this sad result."
 2. "Where shall one find a believer?"
 3. "The apostle softens this into 'They have not all believed.'"
@@ -56,4 +56,4 @@ This verse portrays the astonishment and paradoxical nature of the message of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

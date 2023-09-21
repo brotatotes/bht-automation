@@ -4,7 +4,7 @@
 This description illuminates a verse that references the bloodshed from Abel to Zacharias, emphasizing the historical significance of violence and justice in the Old Testament. It also connects the physical locations of the altar and the sanctuary, symbolizing the sacrificial system and sacred space. The commentary warns of impending destruction within forty years, highlighting the shocking manner in which the temple, city, and nation would be devastated. The description creates a vivid picture of the accountability and judgment that the current generation would face.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blood of Zacharias" is not a reference to a recent murder, but rather an allusion to the case of Zacharias in the Bible. (51)
 2. Zacharias' last words, "The Lord require it," serve as a warning that the generation of that time would also face consequences. (51)
 3. This reference to Zacharias serves as an illustration to emphasize the accountability and judgment that the current generation will face. (51)
@@ -38,4 +38,4 @@ These quotes highlight the impending destruction and devastation that would befa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

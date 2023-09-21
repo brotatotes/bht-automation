@@ -9,7 +9,7 @@ In this passage, which showcases a native New Testament Church, a woman is sudde
 2. The phrase implies that there was a period of time before they actually entered.
 3. This phrase leaves room for the possibility of a delay or pause before entering.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The later Jews buried before sunset of the day of death." This quote highlights the cultural practice of the Jews during that time, emphasizing the importance of burying the deceased promptly.
 
 2. "buried her by her husband." This quote indicates the significance of burying the wife alongside her husband, suggesting a strong bond and unity even in death.
@@ -42,4 +42,4 @@ In this passage, which showcases a native New Testament Church, a woman is sudde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

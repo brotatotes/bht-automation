@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the significance of the law refe
 2. "It is the law of our liberty, not as in contrast with a former law of bondage, but as viewed on the side of its being the law of the new life and birth, with all its spontaneous and free development of obedience." 
 3. "The life of obedience is the element wherein the blessedness is found and consists."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A blessed curiosity if it be efficacious in bearing fruit." 
 2. "The Gospel rule of life, perfect and perfecting...making us truly walk at liberty."
 3. "By the Spirit they are free from the yoke of sin, and free to obey by spontaneous instinct."
@@ -57,4 +57,4 @@ In this verse, the commentator quotes emphasize the significance of the law refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

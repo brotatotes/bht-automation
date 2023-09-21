@@ -11,7 +11,7 @@ This verse showcases how God used Pharaoh as an example to display His power and
 
 3. "The word chosen by the Apostle, ἐξεγείρω, in its transitive sense, is often used by the LXX for 'to rouse into action.' So that the meaning (3) given above for the Heb. verb 'prodire fecit, excitavit,' was evidently that intended by ἐξήγειρα." - This comment explains the usage of the Greek word ἐξεγείρω and how it aligns with the Hebrew verb meaning "to rouse into action," emphasizing that Pharaoh was called into action in his office to serve as an example.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God did not make Pharaoh wicked, He only forbore to make him good, by the exercise of special and altogether unmerited grace."
 2. "It was with a view to this that God provided that the evil which was in him should be manifested in this definite form."
 3. "This is the principle on which all punishment is inflicted, that the true character of the Divine Lawgiver should be known."
@@ -57,4 +57,4 @@ This verse showcases how God used Pharaoh as an example to display His power and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The message of God was spreading and gaining influence, overcoming obstacles and
 2. "At this time was probably the culminating point of popularity of the church at Jerusalem. As yet, all seemed going on prosperously for the conversion of Israel." 
 3. "This arrays against it that powerful and zealous sect, and henceforward it finds neither favour nor tolerance with either of the parties among the Jews, but increasing and bitter enmity from them both."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After Stephen's teaching and trial made it clear that sacerdotal interests could not stand with the Gospel, such priestly accessions became rare indeed."
 2. "How quickly and effectually such misunderstandings may be healed, where honest intentions, love, and wisdom reign."
 3. "What a beautiful model for imitation is furnished by the class here complained of, who, though themselves the majority, chose the new office-bearers from amongst the complaining minority!"
@@ -57,4 +57,4 @@ The message of God was spreading and gaining influence, overcoming obstacles and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

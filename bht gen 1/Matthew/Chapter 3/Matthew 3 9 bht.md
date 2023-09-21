@@ -9,7 +9,7 @@ The verse being described is a powerful rebuke to those who rely on their lineag
 2. "The expression λέγειν ἐν ἑαυτοῖς, as similar expressions in Scripture, is used to signify the act by which outward circumstances are turned into thoughts of the mind."
 3. "He possibly referred to Isaiah 51:1-2. This also is prophetic, of the admission of the Gentile Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Flatter not yourselves with the fond delusion that God stands in need of you, to make good His promise of a seed to Abraham."
 2. "Though you were all to perish, God is as able to raise up a seed to Abraham out of those stones as He was to take Abraham himself out of the rock whence he was hewn."
 3. "It was clearly the calling of the Gentiles... into the room of unbelieving and disinherited Israel that he meant thus to indicate."
@@ -54,4 +54,4 @@ The verse being described is a powerful rebuke to those who rely on their lineag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

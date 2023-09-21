@@ -9,7 +9,7 @@ In this Bible verse, the Apostle Paul passionately appeals to God as a witness o
 2. "in matters of faith he is only a fellow-helper of their joy, in order to show them the real department of his apostolic power."
 3. "it would not attempt to rule their faith, but only to secure to them, by purifying them, joy in believing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But I (for my part), in contrast to GOD who hath assured us of His promises being hereafter fulfilled certainly." 
 2. "Call God—the all-knowing One, who avenges wilful unfaithfulness to promises." 
 3. "I came not as yet—Greek, 'no longer'; that is, I gave up my purpose of then visiting Corinth."
@@ -57,4 +57,4 @@ In this Bible verse, the Apostle Paul passionately appeals to God as a witness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of a brother who was chosen and appointed by the churches to t
 2. "In order to subserve the glory of the Lord and our readiness." 
 3. "The union of this brother with Paul in the matter of the alms, which was done to avoid suspicions detrimental to Christ's glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These companions of Paul are called 'messengers of the churches' (2 Corinthians 8:23)."
 2. "The union of the brother with Paul in this affair of the collection was done to guard against suspicions injurious 'to the glory' of the Lord."
 3. "It was also done in order to produce a 'readiness' on the part of Paul and the brother to undertake the office which each, by himself, would have been less ready to undertake, for fear of suspicions arising (2 Corinthians 8:23- :) as to their appropriation of any of the money."
@@ -53,4 +53,4 @@ This verse speaks of a brother who was chosen and appointed by the churches to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

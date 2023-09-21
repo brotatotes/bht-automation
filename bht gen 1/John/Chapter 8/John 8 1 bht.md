@@ -9,7 +9,7 @@ In this verse, Jesus is depicted going to the Mount of Olives, a significant pla
 2. "When he introduces a new place, it is his habit to give explanations."
 3. "It is not in John's manner to relate that Jesus taught them, without relating what He taught."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The return of the people to the inert quiet and security of their dwellings, at the close of the feast, is designedly contrasted with our Lord's homeless way, so to speak, of spending the short night."
 2. "One cannot well see why what is recorded in Luke 21:37; Luke 21:38 may not even thus early have taken place; it might have been the Lord's ordinary custom from the beginning to leave the brilliant misery of the city every night, that so He might compose His sorrowful and interceding heart, and collect His energies for new labors of love."
 3. "Preferring for His resting-place Bethany, and the Mount of Olives, the scene thus consecrated by many preparatory prayers for His final humiliation and exaltation."
@@ -44,4 +44,4 @@ In this verse, Jesus is depicted going to the Mount of Olives, a significant pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

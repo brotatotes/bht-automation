@@ -9,7 +9,7 @@ In this passage, we see a scene unfold, where Jesus is struck by an officer or t
 2. "ῥάπισμα is not good Greek: see Phryn. p. 175, and Lobeck’s note."
 3. "This blow was a signal for the indignities which followed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Answerest Thou the high priest so" - This quote highlights the disbelief and shock of the people witnessing Jesus being struck by the high priest. It emphasizes the disrespect shown towards Jesus, who is being questioned by someone of authority.
 2. "Compare Acts 23:2" - This quote suggests that the incident of Jesus being struck by the high priest is similar to another event mentioned in the book of Acts. It encourages readers to explore the parallel account to gain a deeper understanding of the context and significance of this event.
 3. "See on Acts 23:2-" - This quote directs readers to further commentary on Acts 23:2, indicating that there is more information available to shed light on the situation. It invites readers to delve deeper into the text and explore the connections between the two passages.
@@ -57,4 +57,4 @@ In this passage, we see a scene unfold, where Jesus is struck by an officer or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

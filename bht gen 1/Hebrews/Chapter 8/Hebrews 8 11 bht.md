@@ -9,7 +9,7 @@ In this Bible verse, it is revealed that in the new covenant, believers will no 
 2. "They shall not have to teach every man his fellow-citizen and every man his brother, saying Know the Lord: because all shall know me."
 3. "Under the New, there is no more need for the believer to have recourse to man for teaching in the knowledge of God, for the Holy Spirit, which is given to all that ask, reveals the things of Christ to each."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They shall not have to teach" - The new covenant promises that believers will no longer need human teachers to instruct them in the ways of God. The Holy Spirit will be their teacher, guiding them in the knowledge of God's law.
 2. "Brother - a closer and more endearing relation than fellow citizen" - The relationship between believers in the new covenant is not merely that of fellow citizens, but of brothers and sisters. This highlights the intimacy and love that should characterize the community of believers.
 3. "The New Testament is shorter than the Old Testament" - The New Testament is not a comprehensive list of rules and regulations like the Old Testament. Instead, it provides overarching principles of the spiritual law written on the conscience, leading believers to spontaneous and instinctive obedience in their daily lives.
@@ -50,4 +50,4 @@ In this Bible verse, it is revealed that in the new covenant, believers will no 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

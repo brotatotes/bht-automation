@@ -4,7 +4,7 @@
 Christ, through His sacrificial death and the abolition of the ceremonial law, has removed the enmity between Jews and Gentiles. He reconciled them not only to each other but also to God, forming a new unity. This unity is rooted in Himself, as all are now one in Christ Jesus. The division and hostility caused by the ceremonial law have been replaced with a new creation and a common fellowship of grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ has in, or by, His crucified flesh, abolished it, so far as its condemning and enmity-creating power is concerned."
 2. "Translate what follows, 'that He might make the two (Jews and Gentiles) into one new man.' Not that He might merely reconcile the two to each other, but incorporate the two, reconciled in Him to God, into one new man."
 3. "We are all in God's sight but one in Christ, as we are but one in Adam."
@@ -50,4 +50,4 @@ These quotes highlight the explanation of the enmity between Jews and Gentiles, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

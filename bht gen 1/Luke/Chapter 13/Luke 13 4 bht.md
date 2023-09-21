@@ -4,7 +4,7 @@
 In this Bible verse, there is a mention of a tower in Siloam that collapsed, which serves as a metaphor for the unpredictability of life and the fragility of human existence. The incident challenges the belief that tragedy only befalls the sinful, emphasizing the need for humility and preparedness. It also highlights the importance of focusing on the eternal and prioritizing our relationship with God above worldly structures. The mention of debtors and allusions to other events and teachings further illustrate the responsibility of the listeners and the need for forgiveness and understanding in interpreting such events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tower in Siloam refers to a specific incident in which a tower in the city wall near the pool of Siloam collapsed. This event is significant because it challenges the common belief that tragedy only befalls those who are particularly sinful or deserving of punishment."
 
 2. "This verse serves as a reminder that life is unpredictable and that unexpected tragedies can happen to anyone, regardless of their moral standing. It emphasizes the importance of humility and the need to be prepared for the uncertainties of life."
@@ -40,4 +40,4 @@ In this Bible verse, there is a mention of a tower in Siloam that collapsed, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

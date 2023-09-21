@@ -9,7 +9,7 @@ The Bible verse discussed in these commentaries addresses the concept that our w
 2. "The δέ carries on the argument."
 3. "Bengel remarks... that παραστήσει is a verbum μέσον, after which may follow a good or a bad predicate: will not affect our (future) standing before God; and to this indifferent meaning of παραστήσει answers the antithetic alternative which follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither if we do not eat, are we the better: neither if we eat are we the worse": the language of the eaters who justified their eating thus [LACHMANN].
 2. Paul admits that "meat neither presents us as commended nor as disapproved before God": it does not affect our standing before God.
 3. This verse highlights the idea that our actions, such as eating or abstaining from certain foods, do not determine our worth or righteousness in the eyes of God.
@@ -59,4 +59,4 @@ The Bible verse discussed in these commentaries addresses the concept that our w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The religious leaders, filled with madness, were unable to comprehend Jesus' tea
 2. "It does not appear that this word can ever mean, as in some former editions, 'madness,' rage of a senseless kind."
 3. "See Ellicott's note on 2 Timothy 3:9, to which I owe this correction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Filled with madness—The word denotes senseless rage at the confusion to which our Lord had put them, both by word and deed." 
 2. "What . . . do to Jesus—not so much whether to get rid of Him, but how to compass it." 
 3. "The twelve apostles chosen—gathering multitudes—glorious healing."
@@ -47,4 +47,4 @@ The religious leaders, filled with madness, were unable to comprehend Jesus' tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

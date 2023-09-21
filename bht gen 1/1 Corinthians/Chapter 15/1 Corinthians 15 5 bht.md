@@ -9,7 +9,7 @@ In this verse, the appearances of the resurrected Christ are described in chrono
 2. "The occasion referred to seems to be that in John 20:19 ff.; Luke 24:36 ff."
 3. "Clearly we must not with Chrys., suppose Matthias to be included as possibly having seen Him after His ascension: for the appearance is evidently one and the same."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "seen of Cephas—Peter" - This quote highlights the significance of Peter as one of the first witnesses of the resurrected Christ. It emphasizes his importance and role in the early Christian community.
 
 2. "The Twelve was their ordinary appellation, even when their number was not full." - This quote explains that the term "The Twelve" was commonly used to refer to the group of disciples, even if their actual number was not complete. It shows the continued recognition and authority given to the original twelve disciples.
@@ -52,4 +52,4 @@ In this verse, the appearances of the resurrected Christ are described in chrono
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

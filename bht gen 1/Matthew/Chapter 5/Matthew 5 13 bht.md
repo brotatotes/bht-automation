@@ -9,7 +9,7 @@ Believers, being the salt of the earth, have the responsibility to bring a posit
 2. "If you become untrue to your high calling, there are no ordinary means by which you can be re-converted and brought back to your former state."
 3. "The salt in the sacrifice is the type of God's covenant of sanctification, whereby this earth shall be again hallowed for Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are the salt of the earth—to preserve it from corruption, to season its insipidity, to freshen and sweeten it."
 2. "The character and principles of Christians, brought into close contact with it, are designed to arrest the festering corruption of humanity and season its insipidity."
 3. "If that Christianity on which the health of the world depends, does in any age, region, or individual, exist only in name, or if it contain not those saving elements for want of which the world languishes, wherewith shall it be salted?"
@@ -55,4 +55,4 @@ Believers, being the salt of the earth, have the responsibility to bring a posit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

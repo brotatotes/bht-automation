@@ -11,7 +11,7 @@ This verse depicts a scene in which Jesus is surrounded by a mixed crowd of peop
 
 3. "The term 'all' is a general term, allowing for exceptions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man careth for my soul."
 
 ### Albert Barnes:
@@ -42,4 +42,4 @@ This verse depicts a scene in which Jesus is surrounded by a mixed crowd of peop
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

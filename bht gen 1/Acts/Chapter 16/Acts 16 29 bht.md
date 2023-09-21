@@ -9,7 +9,7 @@ In this verse, the emphasis is placed on the transformative power of light. The 
 2. "The plural form of 'lights' emphasizes the multiplicity and diversity of the sources of light in the world." 
 3. "This verse reminds us that we are not called to be solitary lights, but to join together with other believers to collectively shine the light of Christ in the darkness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How graphic this rapid succession of minute details, evidently from the parties themselves, the prisoners and the jailer, who would talk over every feature of the scene once and again." 
 2. "The hand of the Lord had been so marvelously seen." 
 3. "The prisoners and the jailer, who would talk over every feature of the scene once and again."
@@ -50,4 +50,4 @@ In this verse, the emphasis is placed on the transformative power of light. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

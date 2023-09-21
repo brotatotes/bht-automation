@@ -4,7 +4,7 @@
 In this verse, the commentator describes the significance of claiming to be in the light of Christ as a follower, highlighting the importance of love and unity among believers. The verse emphasizes that hatred towards one's brother contradicts the spiritual enlightenment and understanding associated with being in the light. It suggests that true enlightenment can only be attained through a life marked by love and compassion towards others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Wherever spiritual life is, however weak, there darkness and death no longer reign, and love supplants hatred."
 2. "Where love is not, there hatred is; for the heart cannot remain a void."
 3. "The very title 'brother' is a reason why love should be exercised."
@@ -49,4 +49,4 @@ These quotes emphasize the importance of genuine love and brotherhood in the Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

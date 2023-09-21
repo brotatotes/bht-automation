@@ -11,7 +11,7 @@ The mentioned Bible verse portrays Jesus' authority over the spiritual realm, sp
 
 3. "The mention of the abyss emphasizes the depth and darkness of the demonic realm, contrasting it with the light and power of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The entreaty, it will be observed, was made by one spirit, but in behalf of many—"he besought Him not to send them, &c."—just as in Mark 5:9, "he answered we are many.""
 
 2. "But what do they mean by entreating so earnestly not to be ordered out of the country?"
@@ -39,4 +39,4 @@ The mentioned Bible verse portrays Jesus' authority over the spiritual realm, sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

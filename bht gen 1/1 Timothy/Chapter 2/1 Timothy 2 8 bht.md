@@ -9,7 +9,7 @@ In this verse, various commentators offer insights into the importance and natur
 2. "Those hands are holy, which have not surrendered themselves as instruments of evil desire: the contrary are βέβηλοι χεῖρες, 2Ma 5:16."
 3. "Without wrath and disputation, i.e. in tranquillity and mutual peace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The emphasis, however, is not on this, but on the precept of praying, resumed from 1 Corinthians 14:35- :."
 2. "The early Christians turned up their palms towards heaven, as those craving help do."
 3. "The Greek for 'holy' means hands which have committed no impiety, and observed every sacred duty."
@@ -55,4 +55,4 @@ Note: The commentary contains additional information and references, but the quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

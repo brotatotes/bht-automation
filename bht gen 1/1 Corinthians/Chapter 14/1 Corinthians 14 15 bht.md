@@ -11,7 +11,7 @@ The verse being described emphasizes the importance of combining spiritual fervo
 
 3. "The two departments in which the gift of tongues was exercised were prayer and praise." - This statement reveals that the gift of tongues was utilized in both prayer and praise, indicating the diverse ways in which this spiritual gift was expressed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will not only pray with my spirit, which might leave the understanding unedified, BUT with the understanding also."
 2. "I will keep silence altogether if I cannot pray with the understanding (so as to make myself understood by others)."
 3. "A prescient warning, mutatis mutandis, against the Roman and Greek practice of keeping liturgies in dead languages, which long since have become unintelligible to the masses."
@@ -63,4 +63,4 @@ The verse being described emphasizes the importance of combining spiritual fervo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

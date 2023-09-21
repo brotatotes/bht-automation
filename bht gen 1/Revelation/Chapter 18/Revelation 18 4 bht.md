@@ -4,7 +4,7 @@
 In this verse, a call is made for God's elect people to come out of Babylon, signifying the urgency to separate from its corrupt ways and sinful influences. It emphasizes the importance of avoiding participation in Babylon's sins and escaping the punishment that will befall it. The call resonates throughout the Old and New Testaments, highlighting the need for believers to distance themselves from worldly temptations and seek fellowship with like-minded individuals. Through this separation, God's people are assured of His knowledge and care, ensuring their preservation amidst impending judgment and destruction.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even in the Romish Church God has a people: but they are in great danger; their only safety is in coming out of her at once." 
 2. "The harlot is not Rome alone (though she is pre-eminently so), but every Church that has not Christ's mind and spirit." 
 3. "The first justification of the woman is in her being called out of Babylon the harlot, as the culminating stage of the latter's sin, when judgment is about to fall."
@@ -49,4 +49,4 @@ In this verse, a call is made for God's elect people to come out of Babylon, sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

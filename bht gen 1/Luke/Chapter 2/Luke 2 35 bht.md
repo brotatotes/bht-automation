@@ -9,7 +9,7 @@
 2. "The sharp pangs of sorrow for sin must pierce her heart also."
 3. "That the reasonings out of many hearts may be revealed; that they who receive the Lord Jesus may be manifest, and they who reject Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed as thou art among women, thou shalt have thine own deep share of the struggles and sufferings which this Babe is to occasion."
 2. "Pointing not only to the continued obloquy and rejection of this Child of hers, those agonies of His which she was to witness at the cross, and her desolate condition thereafter."
 3. "Men's views and decisions regarding Christ are a mirror in which the very 'thoughts of their hearts' are seen."
@@ -55,4 +55,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

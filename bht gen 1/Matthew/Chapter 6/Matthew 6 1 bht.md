@@ -9,7 +9,7 @@ In this passage, Jesus transitions from addressing actions to motives. He warns 
 2. "The words 'πρὸς τὸ θεαθῆναι' clearly define the course of action objected to: not the open benevolence of the Christian who lets his light shine that men may glorify God, but the ostentation of him whose object is the praise and glory coming from man."
 3. "εἰ δὲ μήγε does not apply to προσέχετε, so as to mean, 'if ye do not take heed;' but to μὴ ποιεῖν, and means, if ye do."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By 'righteousness,' in this case, we are to understand that same righteousness of the kingdom of heaven, whose leading features - in opposition to traditional perversions of it - it is the great object of this discourse to open up."
 2. "To 'do' this righteousness, was an old and well-understood expression. Thus, 'Blessed is he that doeth righteousness at all times.' It refers to the actings of righteousness in the life - the outgoings of the gracious nature."
 3. "True, He had required them to let their light so shine before men that they might see their good works, and glorify their Father which is in heaven. But this is quite consistent with not making a display of our righteousness for self-glorification. In fact, the doing of the former necessarily implies our not doing the latter."
@@ -49,4 +49,4 @@ In this passage, Jesus transitions from addressing actions to motives. He warns 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

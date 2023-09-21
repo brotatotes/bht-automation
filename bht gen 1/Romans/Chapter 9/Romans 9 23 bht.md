@@ -4,7 +4,7 @@
 The verse describes the purposeful and intentional arrangement of God's plan for salvation, highlighting His abundant mercy towards those who have been chosen for redemption. God's glorious and overwhelming display of mercy and grace is demonstrated in His selection of vessels of mercy, in whom He manifests His divine attributes. The verse also emphasizes that God's choosing and enduring of vessels of wrath serves to magnify and accentuate His mercy towards the vessels of mercy. The verse questions the notion of injustice in God's actions, affirming His righteousness and sovereignty in His redemptive plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The riches of his glory on the vessels of mercy" refers to the abundant and glorious display of God's mercy towards those who have been chosen for salvation.
 2. The phrase "glorious exuberance of Divine mercy" emphasizes the overwhelming and extravagant nature of God's mercy towards sinners.
 3. The choosing and eternal arrangement for the salvation of sinners highlights the deliberate and intentional nature of God's plan for the redemption of humanity.
@@ -47,4 +47,4 @@ Note: The commentary for Romans 9:23 provides insights into God's purpose in end
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

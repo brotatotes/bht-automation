@@ -9,7 +9,7 @@ The verse in question speaks to the conflicting and divisive impact of Jesus' te
 2. "The immediate reference is to the divisions in families owing to conversions to Christianity."
 3. "When we read in Commentators, e.g. De Wette, that these divisions were not the purpose, but the inevitable results only, of the Lord’s coming, we must remember that with God, results are all purposed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am come not to send peace, but a sword" - This verse challenges the common perception of Jesus as a bringer of peace. It highlights the reality that following Jesus can lead to conflict and opposition, even within close relationships.
 2. "Strife, discord, conflict" - These words emphasize the disruptive nature of the message of Jesus. It suggests that the teachings of Jesus may challenge societal norms and lead to divisions among people.
 3. "Deadly opposition between eternally hostile principles" - This phrase suggests that the conflict caused by following Jesus is not merely superficial, but deeply rooted in opposing ideologies. It implies that the clash between good and evil, truth and falsehood, is an ongoing battle.
@@ -38,4 +38,4 @@ The verse in question speaks to the conflicting and divisive impact of Jesus' te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

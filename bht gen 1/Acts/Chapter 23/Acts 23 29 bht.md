@@ -4,7 +4,7 @@
 Amidst the religious controversy surrounding the accused, it becomes clear that the charges against him primarily revolve around questions of religious law. Not only do the accusations lack substantial evidence, but Roman magistrates consistently declare him innocent, recognizing that the alleged offenses do not warrant severe punishment. These charges are seen as trivial and foolish in the eyes of both the Roman authorities and even some within the religious council itself.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Amidst all his difficulty in getting at the charges laid against Paul, enough, no doubt, come out to satisfy him that the whole was a question of religion." 
 2. "There was no case for a civil tribunal." 
 3. "The charges against Paul were primarily religious in nature."
@@ -45,4 +45,4 @@ Amidst the religious controversy surrounding the accused, it becomes clear that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see Paul's dedication and faithfulness as he takes his leave f
 2. "That he should do so apologetically, to shew that the Apostle still countenanced conformity with the law, is a view which I cannot find justified by any features of this book."
 3. "There need be no enquiry what danger can have prompted such a vow on his part, when we recollect the catalogue given by him in 2 Corinthians 11:0."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "During his long residence at Corinth, Paul planted other churches in Achaia."
 2. "In this order the names also occur in 2 Corinthians 1:1, which seem to imply that the wife was the more prominent and helpful to the Church."
 3. "It was probably one made in one of his seasons of difficulty or danger, in prosecution of which he cuts off his hair and hastens to Jerusalem to offer the requisite sacrifice within the prescribed thirty days."
@@ -55,4 +55,4 @@ Note: The commentary provides additional context and references for further stud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

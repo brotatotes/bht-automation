@@ -4,7 +4,7 @@
 In this verse, there is a sense of accountability and justice, as the speaker expresses the intention to remember and recall the actions of those who have wronged them. The internal dynamics and conflicts within the early Christian community come to light, as a leader with anti-Jewish tendencies undermines others' influence and character. The commentary sheds light on the presence of gossip and slander, false accusations targeting not only the speaker but also others, with the accuser attempting to justify their own actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will bring to mind" - The commentary explains that this phrase means that the person speaking will remember and recall the actions of those who have wronged them. This suggests a sense of accountability and justice.
 
 2. "The brethren" - This term refers to the missionaries who are traveling on their journey. It highlights the importance of hospitality and support for those who are spreading the message of the Bible.
@@ -49,4 +49,4 @@ In this verse, there is a sense of accountability and justice, as the speaker ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

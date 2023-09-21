@@ -9,7 +9,7 @@ In this verse, we are reminded that through faith, we are able to comprehend the
 2. "The fact of its creation by God is perceived with our rational or spiritual faculties." 
 3. "The visible world has not been made out of apparent materials."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We perceive with our spiritual intelligence the fact of the world's creation by God, though we see neither Him nor the act of creation as described in Genesis 1:1-31."
 2. "The natural world could not, without revelation, teach us this truth, though it confirms the truth when apprehended by faith."
 3. "Faith in creation is the foundation and a specimen of all faith."
@@ -55,4 +55,4 @@ In this verse, we are reminded that through faith, we are able to comprehend the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse in question concerns the advantage or profit of being a Jew. The comme
 
 3. "The external forms of Judaism and circumcision have no profit or advantage in themselves, but only insofar as they point to and are fulfilled in the spiritual reality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the final judgment will turn solely on the state of the heart, and this may be as good in the Gentile without, as in the Jew within, the sacred enclosure of God's covenant, what better are we Jews for all our advantages?"
 2. "The advantage of being a Jew lies not in external privileges or religious rituals, but in having access to God's revelation and the knowledge of His will."
 3. "The true advantage of being a Jew is the opportunity to know and serve the one true God, and to be a channel of blessing to the world."
@@ -64,4 +64,4 @@ The verse in question concerns the advantage or profit of being a Jew. The comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

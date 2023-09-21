@@ -9,7 +9,7 @@ The Bible verse being described is a passage that discusses the unruly nature of
 2. "Full of death-bringing poison."
 3. "I cannot forbear referring the reader to Erasmus’s very elegant paraphrase of these two verses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man can control his neighbor's, nor even his own tongue."
 2. "The tongue is restless and incapable of restraint."
 3. "The tongue bursts from its barriers to assail and ruin men."
@@ -62,4 +62,4 @@ These quotes emphasize the inability of humans to control their tongues and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

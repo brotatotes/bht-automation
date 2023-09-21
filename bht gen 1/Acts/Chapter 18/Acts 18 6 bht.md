@@ -9,7 +9,7 @@ In this Bible verse, we see a shift in focus towards reaching out to the Gentile
 2. "Not absolutely, only at Corinth."
 3. "I shall henceforth with a pure conscience go to the Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your blood be upon your own heads" - This phrase suggests that individuals are responsible for their own actions and the consequences that follow. It emphasizes personal accountability and the idea that one's choices have a direct impact on their own fate.
 2. "I will go unto the Gentiles" - This statement indicates a shift in focus towards reaching out to non-Jewish individuals. It highlights the inclusive nature of the message and the intention to spread the teachings of the Bible to a wider audience beyond the Jewish community.
 3. "Compare Ezekiel 33:9" - This reference encourages readers to explore the related verse in Ezekiel, which provides further context and insights into the message being conveyed. It encourages a deeper understanding of the biblical text and promotes a holistic approach to interpretation.
@@ -53,4 +53,4 @@ In this Bible verse, we see a shift in focus towards reaching out to the Gentile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

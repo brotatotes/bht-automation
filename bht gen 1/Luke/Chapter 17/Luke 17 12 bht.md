@@ -9,7 +9,7 @@ In a village bordering Samaria and Galilee, there stood a group of lepers united
 2. "On the nature of leprosy and its significance."
 3. "See Leviticus 13:46; Numbers 5:2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Stood afar off" - This phrase echoes the Old Testament law found in Leviticus 13:45-46, where those with leprosy were required to stand at a distance from others. It highlights the social and spiritual isolation experienced by the lepers, emphasizing their separation from the community and their need for healing and restoration.
 
 2. "Stood afar off" - This distance also symbolizes the separation between humanity and God due to sin. Just as the lepers were kept at a distance, sin separates us from God. It serves as a reminder of our need for reconciliation and the healing power of Jesus to bridge that gap and restore our relationship with God.
@@ -49,4 +49,4 @@ In a village bordering Samaria and Galilee, there stood a group of lepers united
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, commentators warn against complacency and overconfidence in our f
 2. "The example of the Israelites is a warning to take heed."
 3. "Fall not, as they did from their place in God's church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our security, so far as relates to God, consists in faith; so far as relates to ourselves, it consists in fear."
 2. "That is, stands 'by faith . . . well pleasing' to God; in contrast to 1 Corinthians 10:5, 'with many of them God was not well pleased.'"
 3. "Both temporally and spiritually (1 Corinthians 10:5- :)."
@@ -54,4 +54,4 @@ In this verse, commentators warn against complacency and overconfidence in our f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the author describes an encounter with a heavenly vision that com
 
 3. "By referencing Isaiah 50:5, the author of Hebrews is drawing attention to the suffering servant motif found in the Old Testament. Just as the servant in Isaiah willingly endured suffering for the sake of others, so too did Jesus willingly endure the cross for the redemption of humanity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This musical and elevated strain, which carries the reader along with it, and doubtless did the hearers, bespeaks the lofty region of thought and feeling to which the apostle had risen while rehearsing his Master's communications to him from heaven."
 2. "The heavenly vision had produced its proper effect upon him, in making him obedient to its heavenly dictates."
 3. "The apostle's obedience to the heavenly vision was not a mere passive submission to a power that he could not resist, but a voluntary surrender of himself to the guidance and direction of his heavenly Master."
@@ -59,4 +59,4 @@ This quote further emphasizes that God's grace does not force obedience but rath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

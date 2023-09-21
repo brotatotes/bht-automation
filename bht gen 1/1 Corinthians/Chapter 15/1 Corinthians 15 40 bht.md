@@ -9,7 +9,7 @@ In this verse, the commentators provide insight into the nature of the bodies be
 2. "The δόξα belongs to the ἐπουράνια more strictly than to the ἐπίγεια."
 3. "In Luke 9:26, we have ἐν τῇ δόξῃ αὐτοῦ καὶ τοῦ πατρὸς καὶ τῶν ἁγίων ἀγγέλων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Celestial bodies refer to the bodies of angels, not the sun, moon, and stars. This distinction is important as it highlights the heavenly nature of angels and their role in God's creation." 
 
 2. "The glory of the celestial is seen in Luke 9:26, where Jesus speaks of the glory of the Son of Man. This glory surpasses anything found on earth and emphasizes the divine nature of Jesus." 
@@ -52,4 +52,4 @@ In this verse, the commentators provide insight into the nature of the bodies be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

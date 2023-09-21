@@ -9,7 +9,7 @@ The verse describes Moses placing a veil over his face after speaking with God, 
 2. "The opposition is twofold: (1) between the vailed and the unvailed ministry, quoad the mere fact of concealment in the one case, and openness in the other: (2) between the ministry which was suspended by the vailing, that its τέλος might not be seen, and that which proceeds ἀπὸ δόξης εἰς δόξαν, having no termination."
 3. "The vail was the symbol of concealment and transitoriness: the part revealed they might see: beyond that, they could not: the ministry was a broken, interrupted one; its end was wrapped in obscurity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The veil was the symbol of concealment, put on directly after Moses' speaking; so that God's revelations by him were interrupted by intervals of concealment."
 2. "Paul here passes from the literal fact to the truth symbolized by it, the blindness of Jews and Judaizers to the ultimate end of the law."
 3. "The veil which has been taken off to the believer is left on to the unbelieving Jew, so that he should not see."
@@ -55,4 +55,4 @@ The verse describes Moses placing a veil over his face after speaking with God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

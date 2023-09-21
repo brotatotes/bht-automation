@@ -9,7 +9,7 @@ This verse speaks of the unique authority of Jesus, for no one can understand he
 2. "He regards therefore throughout the passage, the great facts of redemption as accomplished, and makes announcements which could not be literally acted upon till they had been so accomplished."
 3. "To explain such expressions as ἀναβαίνειν εἰς τ . οὐρ ., &c., as mere Hebrew metaphors is no more than saying that Hebrew metaphors were founded on deep insight into divine truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No one has gone up but He that came down, even He who is at once both up and down." 
 2. "The perfect knowledge of God is not obtained by any man's going up from earth to heaven to receive it—no man hath so ascended." 
 3. "He whose proper habitation, in His essential and eternal nature, is heaven, hath, by taking human flesh, descended as the Son of man to disclose the Father."
@@ -55,4 +55,4 @@ These quotes emphasize that no one is qualified to speak of heavenly things exce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

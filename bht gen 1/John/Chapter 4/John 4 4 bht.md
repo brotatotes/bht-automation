@@ -9,7 +9,7 @@ Jesus' journey through Samaria was more than a geographical necessity; it was a 
 2. "Indeed without this assumption, we know that the Galilæans ordinarily took this way."
 3. "But there was probably design also in the journey. It could not have been mere speed, since He made two days’ stay on the way."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Must needs go through Samaria" - This phrase suggests that Jesus had a divine purpose for passing through Samaria, beyond just a geographical necessity. 
 
 2. "No doubt, as it lay straight in his way" - The commentary acknowledges the geographical reason for Jesus' route, highlighting the practical aspect of his decision.
@@ -65,4 +65,4 @@ Jesus' journey through Samaria was more than a geographical necessity; it was a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

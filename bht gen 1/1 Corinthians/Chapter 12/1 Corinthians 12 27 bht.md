@@ -9,7 +9,7 @@ Believers are not just individuals, but part of a larger body, which is the body
 2. "The whole Corinthian church as the body of Christ, and its individual components as members, each in his appointed place."
 3. "Each according to his allotted part in the body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each church is in miniature what the whole aggregate of churches is collectively, 'the body of Christ'." 
 2. "Its individual components are members, every one in his assigned place." 
 3. "Each member has a unique role and function within the church, just as each part of the body has a specific purpose."
@@ -57,4 +57,4 @@ Believers are not just individuals, but part of a larger body, which is the body
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

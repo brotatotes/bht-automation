@@ -9,7 +9,7 @@ In this passage, we see the early establishment of the Church and the unity amon
 2. "It was he who had... τὰς κλεῖδας τῆς βασιλείας τῶν οὐρανῶν, who opened the door to the 3000 on the day of Pentecost, now (as a formal and ratifying act) to the Samaritans, and in ch. 10 to the Gentiles."
 3. "The monstrous fiction begins, when to Peter is attributed a fixed diocese and successors, and to those successors a delegated power more like that ascribed to Simon Magus than that promised to Peter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles . . . sent Peter and John—showing that they regarded Peter as no more than their own equal." This highlights the equality among the apostles and their unity in carrying out their mission.
 2. "The act of sending Peter and John together also emphasizes the importance of partnership and collaboration in ministry." This emphasizes the value of working together and the power of collective effort in spreading the message of the Gospel.
 3. "This act of sending Peter and John also demonstrates the apostles' trust in their fellow disciples and their confidence in their abilities." It reveals the mutual trust and support among the apostles, reinforcing the idea that they were a team working towards a common goal.
@@ -57,4 +57,4 @@ In this passage, we see the early establishment of the Church and the unity amon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

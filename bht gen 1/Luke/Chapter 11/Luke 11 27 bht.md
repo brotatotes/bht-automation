@@ -4,7 +4,7 @@
 This verse captures a charming incident where a woman expresses her admiration for Jesus' mother, recognizing her blessedness in giving birth and nursing him. The commentator remarks on the naturalness of this sentiment, symbolizing the deep bond between a mother and her child. Jesus responds to her with gentle reproach, demonstrating his understanding and compassion towards her sincere praise. This interaction highlights the glory of Christ and reveals his tender nature amidst the admiration bestowed upon his mother.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A charming little incident and profoundly instructive."
 2. "He only holds up—as 'blessed rather'—the hearers and keepers of God's word; in other words, the humblest real saint of God."
 3. "How utterly alien is this sentiment from the teaching of the Church of Rome, which would excommunicate any one of its members who dared to talk in the spirit of this glorious saying!"
@@ -47,4 +47,4 @@ This verse captures a charming incident where a woman expresses her admiration f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

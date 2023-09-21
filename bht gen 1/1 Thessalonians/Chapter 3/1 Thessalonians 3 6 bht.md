@@ -9,7 +9,7 @@ The mentioned verse describes the immediate response of Paul upon receiving the 
 2. "First their Christian state comforted him, then, their constant remembrance of himself."
 3. "ἐπιποθεῖν τι (huc etiam redire structuram ἐπιποθεῖν sq. infinitivo nemo nescit) idem valet quod πόθον ἔχειν ἐπί τι, desiderium ferre in aliquid versum, cf. LXX. Psalms 42:0 (41):1, ὃν τρόπον ἐπιποθεῖ ἡ ἔλαφος ἐπὶ τὰς πηγὰς τῶν ὑδάτων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But Timotheus having just now come from you unto us" - This verse suggests that Paul is writing from Corinth, providing context for the letter. 
 
 2. "Faith was the solid foundation: charity the cement which held together the superstructure of their practice on that foundation." - This quote highlights the importance of both faith and charity in the Thessalonians' lives, emphasizing how they work together to shape their actions. 
@@ -59,4 +59,4 @@ These quotes highlight the positive report brought by Timothy, emphasizing the T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

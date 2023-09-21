@@ -9,7 +9,7 @@ The verse being described is highlighting the giving of the law by God through t
 2. "The key to the right rendering seems to be the similar expression in ref. Gal., ὁ νόμος διαταγεὶς δι ʼ ἀγγέλων. The law was given by God, but announced by angels." 
 3. "So Matthew 12:41, μετενόησαν εἰς τὸ κήρυγμα Ἰῶνα, 'they repented at the preaching of Jonas.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who have received the law by the disposition—"at the appointment" or "ordination," that is, by the ministry." This quote highlights the significance of the law being given through a divine appointment or ordination, emphasizing its authority and importance.
 
 2. "Of angels, and have not kept it." This quote points out the irony and severity of the situation, as those who received the law from angels have failed to keep it. It highlights the disobedience and failure of the people to uphold the law they were entrusted with.
@@ -57,4 +57,4 @@ The verse being described is highlighting the giving of the law by God through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

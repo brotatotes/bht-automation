@@ -9,7 +9,7 @@ The disciples, witnessing Jesus command the wind and sea, were filled with awe a
 2. "Who then is this?" 
 3. "The disciples were left in awe and wonder, questioning the identity and power of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What is this? Israel has all along been singing of JEHOVAH, 'Thou rulest the raging of the sea: when the waves thereof arise, Thou stillest them!' 'The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea!' But, lo, in this very boat of ours is One of our own flesh and blood, who with His word of command hath done the same!"
 2. "Exhausted with the fatigues of the day, He was but a moment ago in a deep sleep, undisturbed by the howling tempest, and we had to waken Him with the cry of our terror; but rising at our call, His majesty was felt by the raging elements, for they were instantly hushed."
 3. "WHAT MANNER OF MAN IS THIS?"
@@ -38,4 +38,4 @@ The disciples, witnessing Jesus command the wind and sea, were filled with awe a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

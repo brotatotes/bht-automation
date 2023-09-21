@@ -9,7 +9,7 @@ In this narrative, a feast takes place, where a diverse group of individuals, in
 2. "Surely the article might be used without any such significance, or designating any particular house, as would be very likely if Matthew himself is here the narrator."
 3. "The real difficulty, insuperable to a Harmonist, is the connexion here of the raising of Jaeirus’s daughter with this feast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The modesty of our Evangelist signally appears here."
 2. "Whether this feast was made now, or not till afterwards, is a point of some importance in the order of events, and not agreed among harmonists."
 3. "We conclude, therefore, that the feast was not made in the novelty of his discipleship, but after Matthew had had time to be somewhat established in the faith when returning to Capernaum."
@@ -43,4 +43,4 @@ In this narrative, a feast takes place, where a diverse group of individuals, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

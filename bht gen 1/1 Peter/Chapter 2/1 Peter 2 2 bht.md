@@ -9,7 +9,7 @@ The Bible verse describes the believers as newborn babes, highlighting their inn
 2. "Our English is too poor in psychological distinctions to be able to express it by any appropriate adjective: 'reasonable' (vulg.) is decidedly wrong, as E. V. in Rom."
 3. "The growth is the measure of the fulness of that not only rescue from destruction, but positive blessedness, which is implied in σωτηρία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The childlike spirit is indispensable if we would enter heaven."
 2. "The babe, instead of chemically analyzing, instinctively desires and feeds on the milk; so our part is not self-sufficient rationalizing and questioning, but simply receiving the truth in the love of it."
 3. "The believer of himself thirsts after the word of God."
@@ -55,4 +55,4 @@ The Bible verse describes the believers as newborn babes, highlighting their inn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

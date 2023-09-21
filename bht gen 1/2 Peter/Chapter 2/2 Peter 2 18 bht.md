@@ -9,7 +9,7 @@ The verse being described emphasizes the allure and danger of sin, as individual
 2. "They allure in lusts by licentiousnesses of the flesh." 
 3. "Those who are scarcely escaping from them who live in error."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The allurements of sin are like baits that are laid for us, tempting us to indulge in the lusts of the flesh."
 2. "These seducers use licentiousness as their bait, enticing those who have barely escaped from the clutches of sin to fall back into it."
 3. "It is a constant battle for believers to resist the allurements of the world and to remain steadfast in their faith."
@@ -59,4 +59,4 @@ These quotes provide insights into the language used in the verse, the behavior 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

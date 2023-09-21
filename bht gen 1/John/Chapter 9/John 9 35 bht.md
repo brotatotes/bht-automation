@@ -11,7 +11,7 @@ In this Bible verse, a seeker, showing persistence and determination, finds some
 
 3. "The question challenges the reader to reflect on their own faith and whether they still believe in Jesus as the Son of God, despite the difficulties they have faced." - Lampe in loc.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sympathy in that breast could not long keep aloof from its object." 
 2. "A question stretching purposely beyond his present attainments, in order the more quickly to lead him—in his present teachable frame—into the highest truth." 
 3. "Jesus heard—that is, by intelligence brought Him."
@@ -59,4 +59,4 @@ In this Bible verse, a seeker, showing persistence and determination, finds some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

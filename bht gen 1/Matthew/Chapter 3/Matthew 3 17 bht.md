@@ -11,7 +11,7 @@ At the baptism of Jesus, a divine voice from heaven declares his identity as the
 
 3. "Shewing the pre-eminence of our Lord’s anointing over that of all others." - This quote implies that Jesus' baptism and anointing surpasses any other anointing or consecration, emphasizing the unique and superior nature of Jesus' mission and ministry.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art" - Mark and Luke give a more direct form of the voice from heaven, emphasizing the identity of Jesus as the beloved Son. (Mark 1:11; Luke 3:22)
 2. "I delight" - The English translation of the verb used to express God's complacency towards Jesus may not fully capture the depth of His pleasure. "I delight" comes closer to conveying the ineffable complacency intended. 
 3. "Behold My Servant, whom I uphold; Mine Elect, IN WHOM MY SOUL DELIGHTETH" - The voice from heaven alludes to the Messianic prophecy in Isaiah 42:1, emphasizing the delight of God's soul in His chosen Servant.
@@ -49,4 +49,4 @@ At the baptism of Jesus, a divine voice from heaven declares his identity as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

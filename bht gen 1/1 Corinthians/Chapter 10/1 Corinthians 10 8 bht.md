@@ -9,7 +9,7 @@ In this verse, we are reminded of the severe consequences of disobedience, as se
 2. "Although the sin of Baal-peor was strictly speaking idolatry, yet the form which it exhibited was that of fornication, as incident to idolatrous feasting."
 3. "Thus it becomes even more directly applicable to the case of the Corinthians."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fornication was generally, as in this case, associated at the idol feasts with spiritual fornication, that is, idolatry." 
 2. "Balaam tempted Israel to both sins with Midian."
 3. "The solution is: Moses in Numbers includes all who died 'in the plague'; Paul, all who died 'in one day'; one thousand more may have fallen the next day."
@@ -50,4 +50,4 @@ In this verse, we are reminded of the severe consequences of disobedience, as se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

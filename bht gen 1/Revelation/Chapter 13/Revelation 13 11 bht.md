@@ -4,7 +4,7 @@
 In this verse, a powerful and persecuting sacerdotal authority is described, which is both physical and political, as well as spiritual. It rises from a perturbed state of affairs, appearing gentle and meek like a lamb, but with a hidden haughtiness and arrogance. This power professes religious truth but speaks with the fierce and murderous voice of a dragon. It is an antichrist figure, pretending to humility, performing miracles, and enforcing idolatry through tyranny and cruelty. This beast, although appearing differently, is fundamentally the same as the previous one, embodying both worldly power and worldly wisdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sacerdotal persecuting power, pagan and Christian; the pagan priesthood making an image of the emperors which they compelled Christians to worship, and working wonders by magic and omens; the Romish priesthood, the inheritors of pagan rites, images, and superstitions, lamb-like in Christian professions, dragon-like in word and act."
 2. "The second beast's, or false prophet's rise, coincides in time with the healing of the beast's deadly wound and its revival."
 3. "The first beast is physical and political; the second a spiritual power, the power of knowledge, ideas, and scientific cultivation. Both alike are beasts, from below, not from above; faithful allies, worldly Antichristian wisdom standing in the service of the worldly Antichristian power: the dragon is both lion and serpent: might and cunning are his armory."
@@ -33,4 +33,4 @@ In this verse, a powerful and persecuting sacerdotal authority is described, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

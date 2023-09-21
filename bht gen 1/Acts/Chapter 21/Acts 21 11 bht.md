@@ -9,7 +9,7 @@ In this Bible verse, a prophet named Agabus dramatically binds his own feet and 
 2. "De Wette remarks that τάδε λέγει τὸ πνεῦμα τὸ ἅγιον is the N. T. prophetic formula."
 3. "Instead of τάδε λέγει ὁ κύριος of the O. T."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such dramatic methods of announcing important future events would bring the old prophets to remembrance."
 2. "This prediction and that at Tyre were intended, not to prohibit him from going, but to put his courage to the test."
 3. "When he stood the test, to deepen and mature it."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

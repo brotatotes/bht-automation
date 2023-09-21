@@ -9,7 +9,7 @@ In this verse, the innocence and justice of Jesus are highlighted. The commentat
 2. "This is a remarkable testimony to the innocence of Jesus from one who was probably executed for his share in those very tumults which He was accused of having excited."
 3. "ἄτοπον, unseemly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He made Himself the promised Messiah, the Son of God; but in this He 'did nothing amiss'; He ate with publicans and sinners, and bade all the weary and heavy laden come and rest under His wing; but in this He 'did nothing amiss'." 
 2. "Does His next speech imply less than this? Observe: (1) His frank confession and genuine self-condemnation. (2) His astonishment and horror at the very different state of his fellow's mind. (3) His anxiety to bring him to a better mind while yet there was hope. (4) His noble testimony, not only to the innocence of Jesus, but to all that this implied of the rightfulness of His claims." 
 3. "In this defense then there seems more than meets the eye."
@@ -50,4 +50,4 @@ In this verse, the innocence and justice of Jesus are highlighted. The commentat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

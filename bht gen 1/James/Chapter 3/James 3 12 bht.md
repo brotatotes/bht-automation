@@ -9,7 +9,7 @@ Just as a tree bears fruit according to its kind, whether it be figs from a fig 
 2. "No tree can bring forth fruit inconsistent with its own nature."
 3. "If the mouth emit cursing, thereby making itself a brackish spring, it cannot to any purpose also emit the sweet stream of praise and good words: if it appear to do so, all must be hypocrisy and mere seeming."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No tree 'can' bring forth fruit inconsistent with its nature, as for example, the fig tree, olive berries: so if a man speaks bitterly, and afterwards speaks good words, the latter must be so only seemingly, and in hypocrisy, they cannot be real."
 2. "The mouth that emits cursing cannot really emit also blessing."
 3. "No tree 'can' bring forth fruit inconsistent with its nature."
@@ -47,4 +47,4 @@ These quotes highlight the importance of using our words wisely and responsibly,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

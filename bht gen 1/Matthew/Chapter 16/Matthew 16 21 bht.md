@@ -9,7 +9,7 @@ From the moment Peter made his confession, Jesus began to openly reveal the nece
 2. "Meyer in loc. reasons about the state of the disciples after the crucifixion just as if they had not suffered any remarkable overthrow of their hopes and reliances, and maintains that they must have remembered this precise prophecy if it had been given by the Lord."
 3. "It is in the highest degree improbable that the precision should have been given to this prophecy after the event, as Meyer supposes: both from the character of the Gospel History in general and because of the carefulness and precision in the words added by Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From that time forth began Jesus to show unto his disciples... how that he must go unto Jerusalem and suffer many things." 
 2. "He spake that saying openly—'explicitly,' or 'without disguise.'"
 3. "Not as before, merely by not receiving Him, but by formal deeds."
@@ -43,4 +43,4 @@ From the moment Peter made his confession, Jesus began to openly reveal the nece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

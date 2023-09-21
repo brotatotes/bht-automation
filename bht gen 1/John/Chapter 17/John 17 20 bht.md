@@ -9,7 +9,7 @@ The Bible verse being described highlights the significance of belief and faith 
 2. "The future would refer more to the act of belief by which that state is begun."
 3. "It is strikingly set forth here that all subsequent belief on Christ would take place through the apostolic word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither pray I for these alone—This very important explanation, uttered in condescension to the hearers and readers of this prayer in all time, is meant not merely of what follows, but of the whole prayer." 
 
 2. "Them also which shall believe—The majority of the best manuscripts read 'which believe,' all future time being viewed as present, while the present is viewed as past and gone." 
@@ -52,4 +52,4 @@ The Bible verse being described highlights the significance of belief and faith 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

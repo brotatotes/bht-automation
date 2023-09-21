@@ -9,7 +9,7 @@ On a notable and prophetic day, the second coming of the Lord will follow the ou
 2. "Their days witnessed the Pentecostal effusion, which was the beginning of the signs of the end: then follows the period, KNOWN TO THE FATHER ONLY, of waiting the Church for her Lord, the Lord Himself till all things shall have been put under His feet, and then the signs shall be renewed, and the day of the Lord shall come."
 3. "The gates of God’s mercy are thrown open in Christ to all people: no barrier is placed, no union with any external association or succession required: the promise is to individuals, AS individuals."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, standing up with the eleven—in advance, perhaps, of the rest." This suggests that Peter took a leadership role among the disciples, stepping forward to address the crowd. 
 
 2. "The number of names together were about a hundred and twenty." This highlights the fact that there were a significant number of followers of Jesus present, indicating a growing movement.
@@ -49,4 +49,4 @@ On a notable and prophetic day, the second coming of the Lord will follow the ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the speaker addresses a group of elders who may serve as represen
 2. "Or may not these words have even a wider application, to all who had been the subjects of his former personal ministry, now addressed through the Ephesian elders?"
 3. "The word οἶδα, in the mouth of Paul, does not necessarily imply that he spoke from divine and unerring knowledge, but expresses his own conviction of the certainty of what he is saying."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know that ye all shall see my face no more" - The commentary suggests that this statement is not a prophecy, but rather Paul's personal expectation based on his circumstances. This highlights the uncertainty of whether Paul would ever see them again.
 
 2. "Not an inspired prediction of what was certainly to be" - The commentary emphasizes that Paul's statement should not be seen as a divinely inspired prophecy, but rather as his own understanding of the situation. This helps to clarify the nature of Paul's words.
@@ -55,4 +55,4 @@ In this verse, the speaker addresses a group of elders who may serve as represen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

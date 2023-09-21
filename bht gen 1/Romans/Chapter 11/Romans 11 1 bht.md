@@ -9,7 +9,7 @@ The verse being described speaks to the idea of God's rejection of the people of
 2. "How can I say such a thing, who am myself an Israelite?" 
 3. "Thus the covenant of God with Israel, having been national, shall ultimately be fulfilled to them as a nation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord did indeed announce that 'the kingdom of God should be taken from Israel'... His reply is a virtual admission that Israel was in some sense already out of covenant." 
 2. "Yet here the apostle teaches that, in two respects, Israel was not 'cast away'; First, Not totally; Second, Not finally."
 3. "Israel is not wholly cast away... for I also am an Israelite... of the seed of Abraham... of the tribe of Benjamin."
@@ -55,4 +55,4 @@ The verse being described speaks to the idea of God's rejection of the people of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

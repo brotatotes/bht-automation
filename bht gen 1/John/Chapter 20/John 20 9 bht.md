@@ -4,7 +4,7 @@
 The disciples, consumed by grief and fixated on Jesus' death, were initially unaware of the scripture that foretold his resurrection. Their lack of understanding can be attributed to their preconceived notions and limited perspective. However, the powerful impact of the resurrection would soon become clear to them, as Jesus would reveal the truth and transform their faith and understanding. The disciples' journey from doubt to conviction serves as a reminder of the wondrous and transformative nature of the resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They believed in His resurrection at first, not because they were prepared by Scripture to expect it; but facts carried resistless conviction of it in the first instance to their minds." 
 2. "Facts carried resistless conviction of [Jesus' resurrection] in the first instance to their minds, and furnished a key to the Scripture predictions of it." 
 3. "The Scripture predictions of Jesus' resurrection were not fully understood by the disciples until they witnessed the actual event."
@@ -47,4 +47,4 @@ The disciples, consumed by grief and fixated on Jesus' death, were initially una
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

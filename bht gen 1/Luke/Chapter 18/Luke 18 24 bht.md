@@ -4,7 +4,7 @@
 How difficult it is for those who trust in their riches to enter the kingdom of God! The idolatrous trust in material wealth conquers their hearts, hindering them from fully embracing and living out the teachings of Christ. This ongoing struggle for the wealthy, who are actively involved in the act of entering, emphasizes the certainty of the future event. The seriousness of the matter is affirmed, highlighting the challenge faced by those who prioritize worldly possessions over their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How hardly, c.—with what difficulty."
 2. "How hard is it for them that trust in riches."
 3. "This idolatrous trust conquered, without which they cannot enter."
@@ -27,4 +27,4 @@ How difficult it is for those who trust in their riches to enter the kingdom of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

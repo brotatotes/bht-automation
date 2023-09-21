@@ -11,7 +11,7 @@ The Bible verse under consideration describes the tongue as a fire, a world of i
 
 3. "The tongue is set on fire by hell." - The source of the destructive power of our words is attributed to the influence of the devil, who tempts and instigates us to use our tongues for evil purposes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tongue, that world of iniquity, is a fire." - The tongue is compared to a fire, symbolizing its destructive power and ability to spread harm.
 2. "The tongue is (constituted), among the members, the one which defileth." - The tongue has the potential to defile and corrupt, highlighting the importance of using it wisely and responsibly.
 3. "While a man inflames others, he passes out of his own power, being consumed in the flame himself." - When someone uses their tongue to provoke and incite others, they ultimately harm themselves as well, emphasizing the negative consequences of using words to cause discord.
@@ -59,4 +59,4 @@ The Bible verse under consideration describes the tongue as a fire, a world of i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

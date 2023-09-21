@@ -4,7 +4,7 @@
 The Word of God is a powerful and penetrating force, displaying both judicial power and salvation. It divides the soul and spirit, exposing the deepest parts of our being. It is all-penetrating, searching the thoughts and intentions of the heart, bringing truth to light. Like a sharp sword, it inflicts wounds, revealing hypocrisy and self-deception. It is living and powerful, quickening and discerning, able to bring life or death to the hearers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The qualities here attributed to the word of God, and the whole context, show that it is regarded in its JUDICIAL power, whereby it doomed the disobedient Israelites to exclusion from Canaan, and shall exclude unbelieving so-called Christians from the heavenly rest."
 2. "The same word which is saving to the faithful is destroying to the disobedient."
 3. "The word of God divides the closely joined parts of man's immaterial being, soul and spirit, and penetrates to the innermost parts of the spirit."
@@ -47,4 +47,4 @@ The Word of God is a powerful and penetrating force, displaying both judicial po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

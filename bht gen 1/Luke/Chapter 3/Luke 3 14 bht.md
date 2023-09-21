@@ -9,7 +9,7 @@ In this Bible verse, we find an exhortation to soldiers. They are encouraged to 
 2. "The meaning here, to oppress or vex, corresponding to the Lat. concutere, seems to be confined to ecclesiastical use."
 3. "The way in which soldiers would be likely to act the part of informers, would be by laying vexatious charges of disaffection against persons."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Soldiers...do violence to none" - The soldiers are urged to refrain from intimidating or extorting money from others, emphasizing the importance of treating others with respect and fairness.
 2. "Accuse...falsely" - The soldiers are warned against acting as informers on false or frivolous grounds, highlighting the need for honesty and integrity in their actions.
 3. "Content with your wages" - This serves as a reminder for the soldiers to be satisfied with their allotted provisions, discouraging them from engaging in mutiny or seeking additional rewards. It emphasizes the importance of being content and grateful for what one has.
@@ -43,4 +43,4 @@ In this Bible verse, we find an exhortation to soldiers. They are encouraged to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

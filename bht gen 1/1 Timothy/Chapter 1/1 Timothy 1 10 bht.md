@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the importance of upholding morality and righteousness. They condemn the stealing of a person's liberty and acknowledge the detrimental nature of slavery, noting that those who own slaves are complicit in a system born out of theft. The verse pertains to the sound doctrine, which promotes Christian ethics and faith. It addresses various transgressions against the commandments, including sexual immorality, kidnapping, and dishonesty. The commentators also highlight the wrath of God against such abominations and the divine judgment that awaits those who commit these offenses.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No stealing of a man's goods can equal in atrocity the stealing of a man's liberty."
 2. "Christianity teaches principles sure to undermine, and at last overthrow [slavery], wherever Christianity has had its natural development."
 3. "Gospel grace is the only true means of sanctification as well as of justification."
@@ -54,4 +54,4 @@ Note: The commentary does not provide clear and concise quotes that can be easil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

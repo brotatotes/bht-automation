@@ -4,7 +4,7 @@
 The verse under consideration challenges us to cultivate a spirit of forgiveness that knows no bounds. Jesus emphasizes the limitless nature of forgiveness, urging his followers to extend it without measure or limit. It is not about setting a specific numerical limit but rather embracing a radical generosity of heart, forgiving as often as there is occasion, and never-ending forgiveness. This verse symbolizes the boundless love and forgiveness we are called to embody, where a certain number is put for an uncertain, reminding us that forgiveness should be unlimited and unconditional.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Until seventy times seven—that is, so long as it shall be needed and sought: you are never to come to the point of refusing forgiveness sincerely asked." 
 2. "Jesus emphasizes the limitless nature of forgiveness, urging his followers to extend it without measure or limit."
 3. "This verse challenges us to cultivate a spirit of forgiveness that goes beyond mere obligation and embraces a radical generosity of heart."
@@ -45,4 +45,4 @@ The verse under consideration challenges us to cultivate a spirit of forgiveness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

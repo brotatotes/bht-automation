@@ -4,7 +4,7 @@
 This verse emphasizes the importance of obedience in the relationship between Jesus and his followers. It highlights that true friendship with Jesus is not based on mere sentiment or emotion, but on a willingness to submit to his commands. It underscores the need for complete surrender and submission to Jesus, requiring a humble and obedient heart. Through faith and obedience, believers are elevated to the status of friends, enjoying a deep and intimate relationship with Jesus. Obedience to Christ's commands is a prerequisite to discipleship and fellowship, demonstrating our love and commitment to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are my friends, if ye do whatsoever I command you." This verse emphasizes the importance of obedience in the relationship between Jesus and his followers. It highlights that true friendship with Jesus is not based on mere sentiment or emotion, but on a willingness to submit to his commands.
 
 2. "Hold yourselves in absolute subjection to Me." This phrase underscores the need for complete surrender and submission to Jesus. It implies that true friendship with Jesus requires a humble and obedient heart, willing to yield to his authority and guidance.
@@ -53,4 +53,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes the actions of a Roman governor named Felix, who hoped to r
 2. "Tertullian quotes his conduct in this respect against those who were disposed to purchase escape from persecution."
 3. "A practice which prevailed and became a great evil in the time of Cyprian."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bribery in a judge was punishable by the Roman law, but the spirit of a slave (to use the words of TACITUS) was in all his acts." 
 2. "His communing with Paul—as if he cared for either him or his message—simply added hypocrisy to meanness."
 3. "The apostle would rather lie in prison than stoop to this!"
@@ -57,4 +57,4 @@ Note: The commentary seems to be discussing the actions and motivations of Felix
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

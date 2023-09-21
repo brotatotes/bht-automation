@@ -9,7 +9,7 @@ In this verse, a stone is laid in Zion, which is Jesus Christ, the cornerstone u
 2. "Isa 8:14 was evidently interpreted by the Jews themselves of the Messiah: for Simeon, Luke 2:34, when speaking of the child Jesus as the Messiah, expressly adduces the prophecy as about to be fulfilled."
 3. "What was there then to prevent the Apostle from giving to this Stone, plainly foretold as to be laid in Zion, that designation which prophecy also justifies, and which bears immediately on the matter here in hand?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To speak and act 'in Christ,' with a conscience not only illuminated, but under the present operation of the Holy Ghost, is not peculiar to the supernaturally inspired, but is the privilege, and ought to be the aim, of every believer." 
 2. "Grace does not destroy, but only intensify and elevate, the feelings of nature; and Christians should study to show this."
 3. "Yet the most sacred external distinctions and privileges will avail nothing to salvation without the heart's submission to the righteousness of God."
@@ -55,4 +55,4 @@ In this verse, a stone is laid in Zion, which is Jesus Christ, the cornerstone u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

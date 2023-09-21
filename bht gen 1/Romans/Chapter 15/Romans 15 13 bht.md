@@ -9,7 +9,7 @@ In this Bible verse, we are reminded that God is the ultimate source of hope. Ju
 2. "χαρᾶς κ. εἰρήνης, as the happy result of faith in God, and unanimity with one another; see ch. Romans 14:17."
 3. "CONCLUSION OF THE EPISTLE. PERSONAL NOTICES, RESPECTING THE APOSTLE HIMSELF (Rom 15:14-33), RESPECTING THOSE GREETED (Rom 16:1-16), AND GREETING: TOGETHER WITH WARNINGS AGAINST THOSE WHO MADE DIVISIONS AMONG THEM (Rom 16:16-23); AND CONCLUDING DOXOLOGY (Rom 16:24-27)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No Christian is at liberty to regard himself as an isolated disciple of the Lord Jesus, having to decide questions of duty and liberty solely with reference to himself."
 2. "Holy Scripture is the divine storehouse of all furniture for the Christian life, even in its most trying and delicate features."
 3. "The harmonious glorification of the God and Father of our Lord Jesus Christ by the whole body of the redeemed, as it is the most exalted fruit of the scheme of redemption, so it is the last end of God in it."
@@ -52,4 +52,4 @@ In this Bible verse, we are reminded that God is the ultimate source of hope. Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

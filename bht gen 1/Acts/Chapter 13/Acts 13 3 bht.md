@@ -9,7 +9,7 @@ In this verse, a group of individuals are described as fasting and praying befor
 2. "The ‘jejunia quatuor temporum,’ or ‘ember days at the four seasons,’ for the special purpose of ordinations, were probably not introduced till the fourth or even fifth century."
 3. "See on ch. Acts 6:6."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "recommending them to the grace of God for the work which they had to fulfil" - This highlights the importance of seeking God's grace and guidance in fulfilling our responsibilities and missions.
 2. "So clothed, their mission is thus described: 'They being sent forth by the Holy Ghost.'" - This emphasizes the role of the Holy Spirit in commissioning and empowering individuals for their divine assignments.
 3. "ARRIVING IN CYPRUS THEY PREACH IN THE SYNAGOGUES OF SALAMIS—AT PAPHOS, ELYMAS IS STRUCK BLIND, AND THE GOVERNOR OF THE ISLAND IS CONVERTED." - This shows the progression of the disciples' journey and the impact of their preaching, including the miraculous conversion of the governor.
@@ -50,4 +50,4 @@ In this verse, a group of individuals are described as fasting and praying befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

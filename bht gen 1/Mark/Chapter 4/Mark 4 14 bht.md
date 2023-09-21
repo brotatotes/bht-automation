@@ -4,7 +4,7 @@
 In this verse, the sower symbolically represents the one who spreads the word of God to people with different attitudes and responses. The seed represents the powerful message of God, which encompasses aspects of life, truth, peace, reconciliation, faith, righteousness, and salvation. Through the proclamation of this word, the message of hope and redemption in Jesus Christ is declared and made known to all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sower soweth the word"—the seed is the word of God. (Mark 4:14)
 2. "Every scatterer of that precious seed must be regarded as a sower." (Mark 4:14)
 3. "The great general lesson held forth in this parable is that however faithful the preacher, and how pure soever his message, the effect of the preaching of the word depends upon the state of the hearer's heart." (Mark 4:14)
@@ -39,4 +39,4 @@ In this verse, the sower symbolically represents the one who spreads the word of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

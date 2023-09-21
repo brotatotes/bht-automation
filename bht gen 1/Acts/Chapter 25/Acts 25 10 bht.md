@@ -9,7 +9,7 @@ In this verse, the apostle Paul confidently declares that he stands before the p
 2. "To the Jews I have done no harm, and they have therefore no claim to judge me."
 3. "κάλλιον will therefore mean, better than thou choosest to confess."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I stand at Cæsar's judgment seat—that is, I am already before the proper tribunal."
 2. "But from going to Jerusalem at all he was too well justified in shrinking, for there assassination had been quite recently planned against him."
 3. "To the Jews have I done no wrong, as thou knowest very well—literally, 'better,' that is, (perhaps), better than to press such a proposal."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul confidently declares that he stands before the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the mentioned verse, the punishment for the wicked is vividly described. The wine of God's wrath is undiluted, with no drop of water to cool its heat. It is a cup of pure wrath, poured out without mixture, without any allay of mercy. This punishment, in the presence of the rejected Savior, is a terrifying and fearful judgment, tormenting with fire and brimstone. The verse emphasizes the severity of God's anger, and the complete absence of mercy and hope in this final punishment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This wine of God's wrath is undiluted; there is no drop of water to cool its heat."
 2. "This terrible threat may well raise us above the fear of man's threats."
 3. "God's enemies are regarded by the saints as their enemies, and when the day of probation is past, their mind shall be so entirely one with God's, that they shall rejoice in witnessing visibly the judicial vindication of God's righteousness in sinners' punishment."
@@ -45,4 +45,4 @@ In the mentioned verse, the punishment for the wicked is vividly described. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

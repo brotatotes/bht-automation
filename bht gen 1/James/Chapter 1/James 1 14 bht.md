@@ -9,7 +9,7 @@ The verse being described highlights the power of personal desires and the inwar
 2. "The participles ἐξελκόμενος and δελεαζόμενος are abundantly illustrated by the Commentators, e.g. in Wetst. by Xen. Mem. ii. 1. 4, τὰ … ζῶα.… τούτων γὰρ δήπου τὰ μὲν γαστρὶ δελεαζόμενα … τῇ ἐπιθυμίᾳ τοῦ φαγεῖν ἀγόμενα πρὸς τὸ δέλεαρ, ἁλίσκεται."
 3. "Schneckenburger says, 'ἐξέλκειν et δελεάζειν sunt verba e re venatoria et piscatoria in rem amatoriam et inde in nostrum tropum translata: only we must not here interpret ἐξέλκειν which precedes δελεαζ., as in Herod. above, 'to draw to land,' but rather as Schulthess, 'elicere bestias ex tuto, ubi latent, in locum hamis retibusque expositum.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cause of sin is in ourselves. Even Satan's suggestions do not endanger us before they are made our own."
 2. "Each one has his own peculiar lust, arising from his own temperament and habit."
 3. "Lust flows from the original birth-sin in man, inherited from Adam."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any specific Bible verse, so the quotes ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

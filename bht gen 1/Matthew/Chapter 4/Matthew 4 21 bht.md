@@ -4,7 +4,7 @@
 In this Bible verse, we see James and John, hardworking fishermen, mending their nets with their father, Zebedee. Jesus, in the midst of their ordinary routine, calls these men to a higher purpose, symbolizing His desire to mend and restore broken lives. Jesus sees potential in people from all walks of life, including those diligently working in their professions. As James and John promptly leave their boat and father to follow Jesus, they exemplify their commitment, trust, and readiness to embark on a new path.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that James and John were with their father, Zebedee, mending their nets, indicates that they were hardworking fishermen, engaged in their daily occupation." 
 
 2. "Jesus calling James and John while they were in the midst of their work shows that He calls people from all walks of life, even in the midst of their ordinary routines." 
@@ -44,4 +44,4 @@ In this Bible verse, we see James and John, hardworking fishermen, mending their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

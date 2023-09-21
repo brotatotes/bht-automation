@@ -4,7 +4,7 @@
 The commentators describe a future event of great significance and power, the resurrection of the dead. They emphasize that this event should not be a cause for astonishment or wonder, as it is an inevitable and universal occurrence. All those who are in their graves, regardless of their location, will hear the voice of the Son of God and rise to life. This resurrection will encompass both the righteous and the wicked, demonstrating the completeness and impartiality of this divine act.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marvel not at this—this committal of all judgment to the Son of man." 
 2. "For the hour is coming." 
 3. "This was not to be till the close of the whole dispensation of mercy."
@@ -52,4 +52,4 @@ These quotes emphasize the idea that we should not be surprised or amazed by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

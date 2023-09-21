@@ -9,7 +9,7 @@ This verse addresses the relationship between slaves and their masters within th
 2. "The interchange of service between them in the Christian life being taken for granted, and this word purposely used to express it."
 3. "This question he answers in the affirmative: ‘servos qui negat dare aliquando domino beneficium, ignarus est juris humani: refert enim, cujus animi sit qui præstat, non cujus status.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let them (the slaves) not, because they (the masters) are brethren (and so equals, masters and slaves alike being Christians), despise them (the masters)."
 2. "But all the more (so much the more: with the greater good will) do them service because they (the masters) are faithful (that is, believers) and beloved who receive (in the mutual interchange of relative duties between master and servant so the Greek) the benefit."
 3. "The very term 'benefit' delicately implies service done with the right motive, Christian 'good will'."
@@ -55,4 +55,4 @@ This verse addresses the relationship between slaves and their masters within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

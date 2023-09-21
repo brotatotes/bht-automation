@@ -9,7 +9,7 @@ This commentary uses scriptural evidence to support its claim and also cites a "
 2. "ἀλλ ʼ ὁ μὲν τετελεύτηκε , καὶ οὐκ ἐξεγένετό οἱ τιμωρήσασθαι" - as in the example of Herodotus, it signifies that someone has died and cannot take revenge. (Quote 4)
 3. "see Kühner, § 441. 6." - refers to a specific source for further study on the topic. (Quote 4)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His burial is more closely connected with His resurrection than His death."
 2. "The grave was to Him not the destined receptacle of corruption, but an apartment fitted for entering into life."
 3. "The state thus begun, and its consequences, still continue."
@@ -50,4 +50,4 @@ This commentary uses scriptural evidence to support its claim and also cites a "
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

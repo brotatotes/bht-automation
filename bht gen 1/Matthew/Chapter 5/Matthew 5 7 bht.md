@@ -9,7 +9,7 @@ Blessed are those who show compassion and kindness towards others, especially th
 2. "The act of showing mercy is diverse and encompasses a wide range of ways to help others, making this commandment expansive." 
 3. "They will be shown mercy here by men, but there by God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With the merciful Thou wilt show Thyself merciful." - This verse highlights the reciprocal nature of mercy. When we show mercy to others, we can expect to receive mercy from God in return.
 
 2. "The Christian stands in a middle point, between a mercy received and a mercy yet needed." - As Christians, we are called to both remember the mercy we have received from God and to anticipate the mercy we still need. This understanding motivates us to show mercy to others.
@@ -65,4 +65,4 @@ Blessed are those who show compassion and kindness towards others, especially th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

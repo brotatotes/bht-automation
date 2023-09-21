@@ -9,7 +9,7 @@ Paul had made the decision to appeal his case to the Roman Emperor Nero, known a
 2. "This title, = Augustus, was first conferred by the senate on Octavianus and borne by all succeeding emperors."
 3. "ἀναπέμψω" is cited in reference to Lucian, Tox. § 17: ὁ δὲ βασιλεῖ τῷ μεγάλῳ ἀναπέμπει αὐτόν.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hearing of Augustus" refers to the moment when the Roman Senate bestowed the title of Augustus upon Octavius. This title marked a significant shift in power and authority, as Octavius became the first Roman Emperor. 
 
 2. The term "Augustus" carries a deep significance, as it was associated with divinity and reverence. This title elevated Octavius to a position of divine authority, emphasizing his power and influence over the Roman Empire. 
@@ -47,4 +47,4 @@ Paul had made the decision to appeal his case to the Roman Emperor Nero, known a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

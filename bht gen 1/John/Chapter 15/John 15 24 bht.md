@@ -9,7 +9,7 @@ The verse describes the remarkable works of Jesus that left no room for doubt or
 2. "ἐποίησεν is, not only by external evidence, but also by internal, the right reading."
 3. "ἑωράκασιν does not refer to the works (as Lücke), but to καὶ ἐμὲ καὶ τὸν πατέρα μου, see ch. John 14:9."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The works which none other did" - This phrase emphasizes the uniqueness and significance of Jesus' miracles. It highlights the extraordinary nature of his actions, setting him apart from any other individual in history.
 
 2. "If I had not done" - This statement suggests that Jesus' miracles were not merely acts of power, but also served a purpose. It implies that these works were essential in revealing his divine nature and fulfilling his mission on earth.
@@ -49,4 +49,4 @@ The verse describes the remarkable works of Jesus that left no room for doubt or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

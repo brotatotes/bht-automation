@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the desire for believers to be regarde
 2. "Fulfill all right purpose of goodness and all work of faith in power."
 3. "And ye in it [the name of our Lord]."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "May you be found among the saints whom God shall count worthy of their calling." 
 2. "The calling here is not merely the first actual call, but the whole of God's electing act, originating in His 'purpose of grace given us in Christ before the world began,' and having its consummation in glory."
 3. "Fulfil (His) every gracious purpose of goodness (on your part), that is, fully perfect in you all goodness according to His gracious purpose."
@@ -55,4 +55,4 @@ Note: The commentary provides insights into the meaning of the verse, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

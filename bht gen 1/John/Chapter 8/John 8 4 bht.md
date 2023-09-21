@@ -9,7 +9,7 @@ In this verse, a difficult question is posed to Jesus, tempting Him to make a co
 2. "But what reason had any of His sayings, who came to fulfil the Law, not to destroy it, given them to expect such mildness in this case?"
 3. "Since Jesus seems to avoid every kind of decision on the question put to Him, it follows that He found in it no reference to the great subjects of His teaching, but treated it as a purely civil or political matter, with which in His ministry He had no concern."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses . . . commanded . . . should be stoned—simply put to death." 
 2. "But these cunning hypocrites were overmatched."
 3. "hoping, whatever He might answer, to put Him in the wrong."
@@ -33,4 +33,4 @@ In this verse, a difficult question is posed to Jesus, tempting Him to make a co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

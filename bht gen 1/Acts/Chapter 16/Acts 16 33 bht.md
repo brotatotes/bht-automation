@@ -9,7 +9,7 @@ In this verse, we witness a powerful transformation through faith. The jailer no
 2. "This is much more natural than to take ἀπό as signifying 'on account of.'"
 3. "ἀπό (as in ἀπὸ τῆς χαρᾶς and the like) as signifying 'on account of' (see Bernhardy, Syntax, p. 225)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of 'the same hour of the night' seems to imply that they had to go forth into the open air, which, unseasonable as the hour was, they did."
 2. "These bleeding wounds had never been thought of by the indifferent jailer. But now, when his whole heart was opened to his spiritual benefactors, he cannot rest until he has done all in his power for their bodily relief."
 3. "He and all his, straightway—probably at the same fountain, since it took place 'straightway'; the one washing on his part being immediately succeeded by the other on theirs."
@@ -55,4 +55,4 @@ In this verse, we witness a powerful transformation through faith. The jailer no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

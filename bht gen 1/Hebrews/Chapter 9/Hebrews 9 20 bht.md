@@ -9,7 +9,7 @@ The Bible verse being described is a profound declaration about the significance
 2. "Surely it requires no more stretch of concession to acknowledge the victim in sacrifice to represent the Lamb of God in his sonship and his heritorship, than it does in his innocence and propitiatory power."
 3. "He is thinking in Greek. In Greek, διαθήκη has these two meanings: not divided off from one another by any such line of demarcation as when expressed by two separate words, but both lying under one and the same word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold the blood of the covenant, which the Lord has made with you concerning all these words." - This quote highlights the connection between the old and new covenants, emphasizing that Christ's inauguration of the new covenant is represented by His blood.
 2. "The term 'covenant' better suits the old dispensation, though the idea of testament is included, for the old was one in its typical relation to the new dispensation, to which the term 'testament' is better suited." - This quote explains the distinction between the terms "covenant" and "testament" and how they relate to the old and new dispensations respectively.
 3. "Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign." - This quote highlights the significance of Christ's blood in sealing the new testament and how the Lord's Supper serves as a symbolic representation of this sealing.
@@ -52,4 +52,4 @@ The Bible verse being described is a profound declaration about the significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

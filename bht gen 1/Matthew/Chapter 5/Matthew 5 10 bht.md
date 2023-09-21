@@ -11,7 +11,7 @@ The verse being described is a well-known one from the Bible that speaks about t
 
 3. "The repetition of the promise in Mat 5:3 is a close of the string of promises as it began." (Augustine) - The repetition of the promise in Matthew 5:3 serves as a conclusion to the series of promises that began with it.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
 2. "The world cannot hate you but Me it hateth, because I testify of it, that the works thereof are evil."
 3. "There is yet one man (said wicked Ahab to good Jehoshaphat) by whom we may inquire of the Lord: but I hate him; for he never prophesied good unto me, but always evil."
@@ -54,4 +54,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

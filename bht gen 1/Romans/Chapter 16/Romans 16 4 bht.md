@@ -4,7 +4,7 @@
 In this passage, we see the depth of gratitude expressed by the speaker for the selfless and sacrificial acts of those who risked their lives, even laying down their own necks, to protect and preserve the speaker's life. These acts were not taken lightly, as they exposed themselves to utmost danger. It is noteworthy that this support extended beyond a few individuals, encompassing the collective effort of multiple churches, including the one in Rome.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "who did for my life lay down" - This quote emphasizes the selfless sacrifice made by the individuals mentioned in the verse, highlighting their willingness to risk their lives for the sake of the speaker.
 2. "risked their lives" - This quote further emphasizes the courageous act of risking one's life, indicating the magnitude of the sacrifice made by these individuals.
 3. "whose special apostle this dear couple had rescued from imminent danger" - This quote reveals the significant impact and gratitude that the churches of the Gentiles had towards the couple mentioned, recognizing their role in rescuing the apostle from a dangerous situation.
@@ -54,4 +54,4 @@ In this passage, we see the depth of gratitude expressed by the speaker for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

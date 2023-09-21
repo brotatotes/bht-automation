@@ -9,7 +9,7 @@ In this verse, Jesus tenderly addresses his disciples as "little children," disp
 2. "But naturally the two clauses, ‘Ye shall seek Me and not find Me, and shall die in your sins,’ also spoken to the Jews (ch. John 7:33; Joh 8:21), are here omitted: and by this omission the connexion with Joh 13:34 is supplied."
 3. "The way is that of Love, to Me, and to one another forming an united Body, the Church, in which all shall recognize My presence among you as My disciples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Little children—From the height of His own glory He now descends, with sweet pity, to His 'little children,' all now His own." 
 2. "This term of endearment, nowhere else used in the Gospels, and once only employed by Paul (Galatians 4:19), is appropriated by the beloved disciple himself, who no fewer than seven times employs it in his first Epistle." 
 3. "Ye shall seek me—feel the want of Me. as I said to the Jews—(John 7:34; John 8:21). But oh in what a different sense!"
@@ -57,4 +57,4 @@ In this verse, Jesus tenderly addresses his disciples as "little children," disp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

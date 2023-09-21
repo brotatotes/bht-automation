@@ -4,7 +4,7 @@
 In this verse, the Messiah's gentle and humble nature is highlighted. He brings peace and reconciliation, not engaging in strife or contention. His voice is not heard in the streets, not seeking attention or recognition. This demonstrates his trust in God's plan, relying on the power of love and compassion. It is a contrast to the loud and boastful voices of the world, emphasizing that his actions speak louder than words.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the gentle and humble nature of the Messiah. He does not engage in strife or contention, but instead brings peace and reconciliation. His voice is not heard in the streets, indicating that he does not seek attention or recognition for his actions." 
 
 2. "The Messiah's silence in the streets can also be seen as a contrast to the loud and boastful voices of the world. He does not need to make a show of his power or authority; his actions speak louder than words." 
@@ -35,4 +35,4 @@ In this verse, the Messiah's gentle and humble nature is highlighted. He brings 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

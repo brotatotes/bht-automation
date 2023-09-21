@@ -9,7 +9,7 @@ In this Bible verse, it is emphasized that the strong desires and cravings we ha
 2. "The Love of God jealously desires as an object your love." - Wiesinger
 3. "The Apostle is speaking of the eager and jealous love of God towards those whom He has united as it were in the bond of marriage with Himself." - Theile
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The lust of desire does not ensure the actual possession."
 2. "Harass and oppress through envy."
 3. "God promises to those who pray, not to those who fight."
@@ -55,4 +55,4 @@ In this Bible verse, it is emphasized that the strong desires and cravings we ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

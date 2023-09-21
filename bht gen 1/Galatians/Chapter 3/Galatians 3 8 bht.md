@@ -11,7 +11,7 @@ The Scripture, with prescient wisdom, foresaw that God would justify the Gentile
 
 3. "In thee shall all the Gentiles be blessed" - The promise to Abraham extends to all the Gentiles, not just a specific group, and this promise of blessing is fulfilled through faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One great excellence of Scripture is, that in it all points liable ever to be controverted, are, with prescient wisdom, decided in the most appropriate language."
 2. "God justifieth the Jews, too, 'by faith, not by works.' But he specifies the Gentiles in particular here, as it was their case that was in question, the Galatians being Gentiles."
 3. "The Gospel, in its essential germ, is older than the law though the full development of the former is subsequent to the latter."
@@ -58,4 +58,4 @@ The Scripture, with prescient wisdom, foresaw that God would justify the Gentile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

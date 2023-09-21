@@ -4,7 +4,7 @@
 In the face of persecution, the saints demonstrate their unwavering patience and endurance as they refuse to compromise their faith by accepting the mark mentioned. Their commitment to keep the commandments of God is a defining characteristic of their true devotion. Central to their faith is the commandment to believe in Jesus, which serves as the anchor of their steadfastness and loyalty. Through their perseverance, the saints find strength in their unwavering obedience and unwavering trust in Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the fiery ordeal of persecution which awaits all who will not worship the beast, the faith and patience of the followers of God and Jesus shall be put to the test, and proved."
 2. "The second 'here' is omitted in A, B, C, Vulgate, Syriac, Coptic, and PRIMASIUS."
 3. "Translate, 'Here is the endurance of the saints, who keep,' &c."
@@ -49,4 +49,4 @@ These quotes provide insights into the themes of perseverance, blessedness, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

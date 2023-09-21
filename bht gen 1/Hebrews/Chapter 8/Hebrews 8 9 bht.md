@@ -9,7 +9,7 @@ In the verse under consideration, the commentator remarks on the distinction bet
 2. "The Law appears to be the mere ideal of a religious constitution, as it has never existed in fact: in practice, the Jews were almost throughout polytheists."
 3. "There is no period of the history of Israel before the captivity, in which more or less idolatry was not united with the worship of Jehovah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The new covenant enables us to obey by the Spirit's inward impulse producing love because of the forgiveness of our sins."
 2. "I took them by the hand—as a father takes his child by the hand to support and guide his steps."
 3. "The law was (1) a typical picture, tracing out the features of the glorious Gospel to be revealed; (2) it had a delegated virtue from the Gospel, which ceased, therefore, when the Gospel came."
@@ -57,4 +57,4 @@ In the verse under consideration, the commentator remarks on the distinction bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

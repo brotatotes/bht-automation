@@ -9,7 +9,7 @@ In this verse, we see the remarkable outcome of Abraham and Sarah's faith, as th
 2. "From one sprung there and that." 
 3. "Deadened even as the stars of the heaven in multitude, and as the sand which is by the lip of the sea which is innumerable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "as good as dead—literally, 'deadened'; no longer having, as in youth, energetic vital powers."
 2. "stars . . . sand—" ( :-).
 
@@ -56,4 +56,4 @@ In this verse, we see the remarkable outcome of Abraham and Sarah's faith, as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

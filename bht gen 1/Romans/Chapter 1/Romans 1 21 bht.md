@@ -9,7 +9,7 @@ In this Bible verse, commentators describe a group of people who are without exc
 2. "In their religion, they deposed God from His place as Creator, in their lives, they were ungrateful by the abuse of His gifts."
 3. "They became vain (idle, foolish) in their speculations, their thoughts became futile and empty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they knew God—that is, while still retaining some real knowledge of Him, and ere they sank down into the state next to be described."
 2. "They glorified him not as God, neither were thankful—neither yielded the adoration due to Himself, nor rendered the gratitude which His beneficence demanded."
 3. "Their foolish heart—that is, their whole inner man—was darkened—How instructively is the downward progress of the human soul here traced!"
@@ -57,4 +57,4 @@ These quotes highlight the contrast between the knowledge of God and the actions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

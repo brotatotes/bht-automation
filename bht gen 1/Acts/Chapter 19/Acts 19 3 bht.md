@@ -9,7 +9,7 @@ This verse raises the question of the purpose and significance of baptism, speci
 2. "If the question and answer in Act 19:2 regarded, as in E. V., the whole interval since their conversion, this enquiry would have been more naturally expressed in the perfect."
 3. "εἰς τί unto (with a view to, as introductory to) what profession? They answer, unto (that indicated by) the baptism of John, viz.: repentance, and the believing on Jesus, then to come, but now the object of our faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Apollos was at Corinth—where his ministry was so powerful that a formidable party in the Church of that city gloried in his type of preaching in preference to Paul's."
 2. "Paul having passed through the upper coasts—'parts,' the interior of Asia Minor, which, with reference to the seacoast, was elevated."
 3. "Finding certain disciples—in the same stage of Christian knowledge as Apollos at first, newly arrived, probably, and having had no communication as yet with the church at Ephesus."
@@ -52,4 +52,4 @@ This verse raises the question of the purpose and significance of baptism, speci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

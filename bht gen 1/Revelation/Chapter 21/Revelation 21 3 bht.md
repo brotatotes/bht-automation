@@ -4,7 +4,7 @@
 The verse being described is a powerful representation of God's presence and intimacy with humanity. It showcases the tabernacle as a symbol of God dwelling among His people, similar to the Shekinah Glory in the Old Testament. This description goes beyond the physical tabernacle, illustrating the personal presence of Christ with His saints and the covenant executed in a glorious manner. Ultimately, it highlights the deep relationship between God and His people, assuring them of His constant companionship and support.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tabernacle of God in the wilderness (wherein many signs of His presence were given): of which this is the antitype, having previously been in heaven."
 2. "The earnest of the true and heavenly tabernacle was afforded in the Jerusalem temple described in Hebrews 9:14- :, as about to be, namely, during the millennium."
 3. "Then He was in the weakness of the flesh: but at the new creation of heaven and earth He shall tabernacle among us in the glory of His manifested Godhead."
@@ -49,4 +49,4 @@ The verse being described is a powerful representation of God's presence and int
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

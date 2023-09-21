@@ -9,7 +9,7 @@ In this Bible verse, a man who had been paralyzed for eight years is healed by J
 2. "The emphasis is on the urgency and immediacy of the action."
 3. "The act of 'straitening' oneself implies a sense of readiness and preparedness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus Christ maketh thee whole." This quote emphasizes the power and authority of Jesus Christ in bringing about healing and restoration. It highlights the belief that it is through Jesus that true wholeness and healing can be found.
 
 2. "Make thy bed." This quote refers to the instruction given to Eneas to make his bed. It symbolizes the call to take responsibility for one's own healing and well-being. It suggests that while Jesus provides the healing, individuals are also called to actively participate in their own journey towards wholeness.
@@ -50,4 +50,4 @@ In this Bible verse, a man who had been paralyzed for eight years is healed by J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

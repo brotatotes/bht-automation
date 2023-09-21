@@ -9,7 +9,7 @@ The verse being described here speaks of Christ's redemptive work, specifically 
 2. "In buying off those under the law, He effected that all men should receive the adoption of sons."
 3. "The adoption of sons is not a recovery of the state before the fall, but a far more glorious thing, the bestowal of an adoption which Adam never had."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That He might redeem them...under the law" - The redemption mentioned here is not limited to the Jews, but also includes the Gentiles, as they are representative of the world. (Galatians 3:13)
 
 2. "Receive as something destined or due" - The Greek word used here implies that the redemption was predestined by God and is suitable for all. (Luke 23:41; 2 John 1:8)
@@ -52,4 +52,4 @@ The verse being described here speaks of Christ's redemptive work, specifically 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

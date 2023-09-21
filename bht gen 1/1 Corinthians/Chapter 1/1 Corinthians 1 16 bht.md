@@ -9,7 +9,7 @@ In this Bible verse, the author reflects on their baptism of Stephanas and his f
 2. "He leaves an opening for any others whom he may possibly have baptized and have forgotten it." 
 3. "The last clause is important as against those who maintain the absolute omniscience of the inspired writers on every topic which they handle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "household of Stephanas—"The first-fruits of Achaia," that is, among the first converted there." This quote highlights the significance of the household of Stephanas as early converts in the region of Achaia.
 
 2. "It is likely that such 'households' included infants." This quote suggests that infants were likely included in the households mentioned, indicating the practice of infant baptism in the early Church.
@@ -47,4 +47,4 @@ In this Bible verse, the author reflects on their baptism of Stephanas and his f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

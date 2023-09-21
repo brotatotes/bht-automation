@@ -4,7 +4,7 @@
 In a story full of symbolism and surrender, the mariners on board the ship make a decisive choice. Cutting off the ropes of the boat, they let it drift away into the darkness, relinquishing any possibility of escape. This act represents their complete detachment from the safety of the familiar and their willingness to trust in God's guidance. It is a powerful portrayal of surrendering their own plans and desires, embracing the unknown, and placing their faith in Paul as the hero who saves not only himself but also the lives of all on board.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of cutting off the ropes and letting the boat fall off symbolizes a complete detachment from the safety and security of the ship. It represents a willingness to let go of the familiar and venture into the unknown, trusting in God's guidance and provision." 
 
 2. "By allowing the boat to drift away, the soldiers were surrendering their control and relying solely on God's sovereignty. It is a powerful reminder that sometimes we need to release our grip on the things we hold onto tightly and allow God to direct our paths." 
@@ -37,4 +37,4 @@ In a story full of symbolism and surrender, the mariners on board the ship make 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

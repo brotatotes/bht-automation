@@ -4,7 +4,7 @@
 The commentators agree that the distractions and desires of the world, including cares, riches, and other lustful pursuits, can hinder the growth and effectiveness of the word in one's life. These distractions can lead to barrenness of soul and a lack of spiritual fruit. It is important for believers to guard their hearts and prioritize their pursuit of God's truth, ensuring that no other desires enter in to choke and hinder their spiritual growth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The cares of this world"—anxious, unrelaxing attention to the business of this present life.
 2. "The deceitfulness of riches"—of those riches which are the fruit of this worldly "care."
 3. "The pleasures of this life," or "the lusts of other things entering in"—the enjoyments in themselves may be innocent, which worldly prosperity enables one to indulge.
@@ -46,4 +46,4 @@ These quotes highlight how the cares of the world, the deceitfulness of riches, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

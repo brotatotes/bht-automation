@@ -9,7 +9,7 @@ In a powerful example of Divine vengeance, Sodom and Gomorrah were overthrown an
 2. "The cities of Sodom and Gomorrha, burnt to ashes, condemned to destruction, serve as a warning for those who live ungodly lives." 
 3. "The destruction of Sodom and Gomorrha serves as a historical proof and a powerful example of the consequences of living ungodly lives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "TO overthrow" - The commentary suggests that the word "with" in the verse implies a purpose or intention to overthrow. This sheds light on the severity of the punishment that awaits the ungodly.
 2. "ensample" - The commentary explains that this word refers to the fate that will befall those who live ungodly in the future. This highlights the verse's relevance beyond its immediate context and emphasizes the enduring message it carries.
 3. "set forth for an example" - The commentary draws a parallel with Judges 1:7, indicating that the verse serves as a warning or lesson for others. This underscores the significance of the verse as a cautionary tale for those who might follow in the footsteps of the ungodly.
@@ -52,4 +52,4 @@ In a powerful example of Divine vengeance, Sodom and Gomorrah were overthrown an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

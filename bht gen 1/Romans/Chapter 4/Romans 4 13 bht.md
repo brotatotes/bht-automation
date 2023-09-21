@@ -9,7 +9,7 @@ This verse speaks of the promises made to Abraham and his descendants. Commentat
 2. "The law should be the ground, or efficient cause, or medium, of the promise."
 3. "The inheritance of the world then is not the possession of Canaan merely, but that ultimate lordship over the whole world which Abraham, as the father of the faithful in all peoples, and Christ, as the Seed of Promise, shall possess."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the promise, &c.—This is merely an enlargement of the foregoing reasoning, applying to the law what had just been said of circumcision." 
 2. "that he should be the heir of the world—or, that 'all the families of the earth should be blessed in him.'" 
 3. "was not to Abraham or to his seed through the law—in virtue of obedience to the law. but through the righteousness of faith—in virtue of his simple faith in the divine promises."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

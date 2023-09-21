@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the transformative nature of
 2. "And this made their fall from Him the more matter of indignant appeal, as being a resistance of His will respecting them."
 3. "No change of the meaning of γνωσθ. must be resorted to, as 'approved,' 'loved': cf. Matthew 25:12; 2 Timothy 2:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They did not first know and love God, but God first, in His electing love, knew and loved them as His, and therefore attracted them to the saving knowledge of Him."
 2. "God's great grace in this made their fall from it the more heinous."
 3. "It is as if a schoolmaster should go back to learning the A, B, C's."
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the transformative nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

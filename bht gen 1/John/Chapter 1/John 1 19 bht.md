@@ -9,7 +9,7 @@ In this verse, the author highlights the testimony of John the Baptist regarding
 2. "John alone of the Evangelists uses this expression; principally as designating the chiefs of the Jewish people, the members of the Sanhedrim."
 3. "It is an interesting enquiry, what this usage denotes as to the author or date of our Gospel. Prof. Bleek, Beiträge, pp. 245 249, has satisfactorily shewn that no inference can be deduced from it against the Jewish origin of the author, as Bretschneider and Fischer endeavoured to do: but it is rather confirmatory of the belief that the Gospel was written after the Jews had ceased to be politically a nation, and among Gentiles; the author himself contemplating these last as his readers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "record—testimony" - The commentary suggests that the word "record" here refers to a testimony, indicating that the verse is emphasizing the importance of bearing witness to the truth. 
 
 2. "the Jews—that is, the heads of the nation, the members of the Sanhedrim" - This quote clarifies that when the term "the Jews" is used in this context, it specifically refers to the leaders of the Jewish nation, particularly the members of the Sanhedrin. 
@@ -52,4 +52,4 @@ Note: The commentary did not provide any additional quotes that met the requirem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the early morning, before the break of day, Jesus, driven by his deep depende
 2. "It is perhaps more simple to view it, with Me, as the natural result of the effect of the healing of the dæmoniac in the synagogue, on the popular mind."
 3. "The healing of the dæmoniac had created a buzz among the people, leading them to bring their sick to Jesus for healing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The nature of His mission required Him to keep moving, that all might hear the glad tidings." 
 2. "What a contrast to the Gadarenes!" 
 3. "They sought to stay Him, to hinder His progress, and detain Him among them."
@@ -44,4 +44,4 @@ These quotes highlight the actions and intentions of Jesus and the people seekin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

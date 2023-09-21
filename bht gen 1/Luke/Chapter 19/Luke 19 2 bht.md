@@ -9,7 +9,7 @@ In this verse, we encounter a man named Zacchaeus, whose name, meaning 'pure,' h
 2. "The term 'archit' likely refers to Zacchaeus being an administrator of the revenue from balsam production in the area."
 3. "Zacchaeus' name carries the connotation of purity, which adds depth to his transformation and redemption story."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Chief among the publicans—farming a considerable district, with others under him." This quote highlights the position and authority of the chief tax collector, emphasizing his role as a leader among his peers.
 2. "Rich—Ill-gotten riches some of it certainly was." This quote suggests that the wealth accumulated by the tax collector may have been acquired through dishonest means, implying a moral ambiguity in his financial status.
 3. "(See on :-.)" This reference indicates that further information or explanation can be found elsewhere, encouraging readers to explore additional sources for a deeper understanding of the verse.
@@ -50,4 +50,4 @@ In this verse, we encounter a man named Zacchaeus, whose name, meaning 'pure,' h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

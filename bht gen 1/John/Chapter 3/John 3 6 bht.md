@@ -9,7 +9,7 @@ The verses being described here discuss the concept of birth, but not in the lit
 2. "The Lord here answers Nicodemus's hypothetical question of John 3:4, by telling him that even could it be so, it would not accomplish the birth of which He speaks."
 3. "Such 'flesh and blood' cannot inherit the Kingdom of God, 1 Corinthians 15:50. But when the man is born again of the Spirit, then just as flesh generates flesh, so spirit generates spirit, after its own image."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That which is begotten carries within itself the nature of that which begat it." 
 2. "Not the mere material body, but all that comes into the world by birth, the entire man; yet not humanity simply, but in its corrupted, depraved condition, in complete subjection to the law of the fall."
 3. "Though a man 'could enter a second time into his mother's womb and be born,' he would be no nearer this 'new birth' than before."
@@ -55,4 +55,4 @@ The verses being described here discuss the concept of birth, but not in the lit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

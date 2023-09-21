@@ -9,7 +9,7 @@ The Bible verse being described is a commandment given by Jesus to His disciples
 2. "The commandment (as including all others) is again explained to be, mutual love."
 3. "After His example of Love to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The command to love one another is not a suggestion or a mere moral principle, but a clear and direct command from Jesus himself."
 2. "This love is not a superficial or conditional love, but a sacrificial and selfless love that mirrors the love of Christ for us."
 3. "By loving one another, we demonstrate to the world that we are disciples of Jesus and that his love dwells within us."
@@ -55,4 +55,4 @@ The Bible verse being described is a commandment given by Jesus to His disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

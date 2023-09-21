@@ -9,7 +9,7 @@ The author expresses surprise and concern over the readers' quick departure from
 2. "μετατίθ . ] are passing over, pres.: not as E. V. ‘are removed,’ which is doubly wrong, for μετ. is not passive but middle, in the common usage of the word, according to which the Galatians would understand it."
 3. "τοῦ καλέσ . ὑμ . ] not to be taken with χριστοῦ, as Syr., Jer., Luth., Calv., Grot., Bengel, &c., nor understood of Paul, as al. and recently by Bagge, but, as almost always with the Apostle, of GOD the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "he vehemently plunges into his subject, zealous for 'the glory' of God, which was being disparaged by the Galatians falling away from the pure Gospel of the 'grace' of God."
 2. "I marvel—implying that he had hoped better things from them, whence his sorrowful surprise at their turning out so different from his expectations."
 3. "removed—Translate, 'are being removed,' that is, ye are suffering yourselves so soon to be removed by Jewish seducers. Thus he softens the censure by implying that the Galatians were tempted by seducers from without, with whom the chief guilt lay."
@@ -55,4 +55,4 @@ The author expresses surprise and concern over the readers' quick departure from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

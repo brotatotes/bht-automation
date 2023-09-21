@@ -9,7 +9,7 @@ In this verse, a situation is described where a woman has left her husband due t
 2. "The Apostle does not add the qualification not found in Matthew 19:9. But we cannot hence infer that he was not aware of it."
 3. "The rule, not the exception, here was in his mind: and after what had been before said on the subject of fornication, the latter would be understood as a matter of course."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the sin of separation has been committed, that of a new marriage is not to be added."
 2. "Be reconciled by appeasing her husband's displeasure and recovering his good will."
 3. "In Matthew 5:32, the only exception allowed is, 'saving for the cause of fornication'."
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and lacks clarity in some parts.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

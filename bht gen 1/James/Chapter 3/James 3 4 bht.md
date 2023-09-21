@@ -9,7 +9,7 @@ The verse describes the power of a small instrument to guide and control somethi
 2. "The desire of the steersman may wish." 
 3. "The same thought occurs in Aristot. Quæst Mechan. 5, τὸ πηδάλιον, μικρὸν ὄν, καὶ ἐπʼ ἐσχάτῳ τῷ πλοίῳ, τοσαύτην δύναμιν ἔχει, ὥστε ὑπὸ μικροῦ οἴακος, καὶ ἑνὸς ἀνθρώπου δυνάμεως, καὶ ταύτης ἠρεμαίας, μεγάλα κινεῖσθαι μεγέθη πλοίων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The impulse of the steersman pleaseth." - This quote highlights the idea that just as a ship is directed by the will of the steersman, so too is the governor able to exercise control and authority over others. It emphasizes the power and influence that a leader possesses.
 
 2. "The feeling which moves the tongue corresponds with this." - This quote suggests that the ability to speak and express oneself is connected to the inner desires and intentions of a person. It implies that the governor's decisions and actions are driven by their own personal inclinations and motivations.
@@ -47,4 +47,4 @@ Note: The commentary is quite fragmented and lacks coherence, making it difficul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

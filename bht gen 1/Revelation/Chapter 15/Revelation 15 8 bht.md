@@ -4,7 +4,7 @@
 In the midst of the temple, filled with the smoke of God's glorious presence, no man was able to enter during the execution of divine judgments. The smoke symbolized the overwhelming and awe-inspiring nature of God's presence, serving as a barrier and protection against those who sought to harm His people. This metaphorical "smoke screen" kept out the blind and unrepentant, showcasing the righteous wrath and power of the Lawgiver. As the smoke from the glory of God filled the sanctuary, it was a reminder of both judgment and favor, a visible manifestation of His powerful and gracious presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The temple . . . filled— ( :-); compare Exodus 40:34; 2 Chronicles 5:14, as to the earthly temple, of which this is the antitype." 
 2. "The glory of God and . . . power—then fully manifested." 
 3. "No man was able to enter . . . the temple—because of God's presence in His manifested glory and power during the execution of these judgments."
@@ -43,4 +43,4 @@ In the midst of the temple, filled with the smoke of God's glorious presence, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

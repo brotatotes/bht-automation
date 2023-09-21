@@ -9,7 +9,7 @@ The Bible verse being described is about the fruit of righteousness, which encom
 2. "through Jesus Christ (by the working of the Spirit which He sends from the Father: “Silvestres sumus oleastri et inutiles, donee in Christum sumus insiti, qui viva sua radice frugiferas arbores nos reddit.” Calvin)"
 3. "unto the glory and praise of God (belongs to πεπληρωμένοι)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Regarding the works of righteousness, however manifold, as one harmonious whole, 'the fruit of the Spirit'." 
 2. "We are wild and useless olive trees till we are grafted into Christ, who, by His living root, makes us fruit-bearing branches." 
 3. "Through His sending to us the Spirit from the Father."
@@ -57,4 +57,4 @@ The Bible verse being described is about the fruit of righteousness, which encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, the verse vividly describes a fearsome sight - an immense army of horsemen clad in armor that shines like fire, with breastplates resembling fire, hyacinth, and brimstone. The horses themselves are symbols of war, and the riders are portrayed as strong, brave warriors. With flaming colors and weapons that emit fire and smoke, the visual impact of this scene is awe-inspiring. The detailed descriptions of these celestial beings are intended to capture the attention and imagination of the audience, painting a vivid picture of the apocalyptic events to come.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fiery color of the breastplates answering to the fire which issued out of their mouths."
 2. "Their dark, dull-colored breastplates correspond to the smoke out of their mouths."
 3. "Brimstone-colored: answering to the brimstone or sulphur out of their mouths."
@@ -33,4 +33,4 @@ In this passage, the verse vividly describes a fearsome sight - an immense army 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

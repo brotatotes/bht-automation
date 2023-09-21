@@ -4,7 +4,7 @@
 The verse being described depicts a powerful and triumphant Messiah, symbolized by his vesture dipped in blood. The blood symbolizes victory over enemies and signifies the Messiah's authority and power. It emphasizes that the Messiah has already conquered his adversaries, highlighting the redemptive and conquering nature of his mission. This imagery is rooted in Old Testament prophecy, showing the continuity and fulfillment of God's plan throughout history.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blood on His 'vesture,' reminding us of His own blood shed for even the ungodly who trample on it, is a premonition of the shedding of their blood in righteous retribution."
 2. "The Word of God... indicates His incommunicable Godhead, joined to His manhood, which He shall then manifest in glory."
 3. "The Lamb is the symbol of Christ in His gentleness. Who would be afraid of a lamb? Even a little child, instead of being scared, desires to caress it."
@@ -47,4 +47,4 @@ The verse being described depicts a powerful and triumphant Messiah, symbolized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

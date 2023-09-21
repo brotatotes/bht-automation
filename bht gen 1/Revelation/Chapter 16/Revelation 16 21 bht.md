@@ -4,7 +4,7 @@
 A devastating event occurs, where a hailstorm of enormous hailstones, symbolizing divine wrath, falls upon humanity. These hailstones have tremendous weight and destruction, each weighing around 50 to 60 pounds, and falling upon all the ungodly. The magnitude and impact of this storm are compared to previous judgments and emphasize the complete and awful destruction it brings upon those who reject and defy God. No one is spared from its consequences, and even those who survive cannot escape its devastating power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fell upon men" - This phrase emphasizes the direct impact and consequence of the event on humanity, highlighting the significance of the event.
 2. "Men blasphemed God" - This quote reveals the response of those who were not directly affected by the event, indicating their rejection and defiance towards God.
 3. "Unlike the result in the case of Jerusalem" - This statement draws a comparison to a previous event, suggesting that the outcome of the event in question is different and possibly more severe.
@@ -43,4 +43,4 @@ A devastating event occurs, where a hailstorm of enormous hailstones, symbolizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

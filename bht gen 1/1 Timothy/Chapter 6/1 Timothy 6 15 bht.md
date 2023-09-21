@@ -4,7 +4,7 @@
 In this verse, the manifestation of the kingdom of God is depicted in successive stages, each having its own appropriate time. God, the ultimate ruler and potentate, will reveal this manifestation at the times of His choosing. All the governments of the world may have authority, but they are subject to the dominion of God, who sets up and removes kings according to His will. The power, knowledge, and revelation of God's kingdom remain in His eternal mind, to be unveiled in His own appointed times.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The plural implies successive stages in the manifestation of the kingdom of God, each having its own appropriate time."
 2. "His 'APPEARING,' which is stronger than His 'coming,' and implies its visibility."
 3. "He is the Father, about to be the source of blessing to His people at Christ appearing, whence flows their 'blessed hope'."
@@ -48,4 +48,4 @@ In this verse, the manifestation of the kingdom of God is depicted in successive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

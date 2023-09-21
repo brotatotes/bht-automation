@@ -9,7 +9,7 @@ In this verse, Jesus addresses both the crowds and his disciples. He emphasizes 
 2. "Solemn denunciations of their hypocrisy (Mat 23:14-33)"
 3. "Conclusion, and mournful farewell to the temple and Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus spoke not only to the multitude, but also to his disciples, emphasizing the importance of his message reaching both the masses and his closest followers."
 
 ### John Calvin:
@@ -33,4 +33,4 @@ These quotes highlight Jesus' concern for the people's understanding of religion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

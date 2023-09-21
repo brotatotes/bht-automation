@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the contrast between serving fal
 2. "In οὐκ εἰδότ. θ., there is no inconsistency with Romans 1:21; there it is the knowledge which the Gentile world might have had: here, the matter of fact is alleged, that they had it not."
 3. "τοῖς φύσει μὴ οὖσιν θ. ] to gods, which by nature exist not: see 1 Corinthians 8:4; 1Co 10:19-20 and note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Appeal to them not to turn back from their privileges as free sons, to legal bondage again."
 2. "The heathen originally knew God, as Romans 1:21 states, but did not choose to retain God in their knowledge, and so corrupted the original truth."
 3. "They might still have known Him, in a measure, from His works, but as a matter of fact they knew Him not, so far as His eternity, His power as the Creator, and His holiness, are concerned."
@@ -59,4 +59,4 @@ These quotes highlight the lack of true knowledge of God among the Gentiles, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

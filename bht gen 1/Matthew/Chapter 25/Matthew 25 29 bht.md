@@ -4,7 +4,7 @@
 This verse speaks of a principle where those who wisely and faithfully utilize what they have been given will receive even more in return. It signifies God's generosity and emphasizes the importance of using our resources, abilities, and knowledge for His purpose. This principle applies throughout time and reflects God's consistent nature in rewarding those who are good stewards of what they have. It is a reminder to actively engage with our gifts and trust in God's faithfulness to fulfill His promises.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every one that hath" refers to those who already possess something, whether it be knowledge, faith, or resources. This verse emphasizes that those who use what they have been given will receive even more in return.
 
 2. The phrase "shall be given" suggests that God is a generous giver, rewarding those who are faithful and diligent in using their gifts. This encourages believers to be good stewards of what they have been entrusted with.
@@ -46,4 +46,4 @@ Note: The commentary provides an interpretation of the verse, explaining that th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

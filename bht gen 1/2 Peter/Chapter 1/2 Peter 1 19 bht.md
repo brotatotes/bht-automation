@@ -9,7 +9,7 @@ The Bible verse describes the power and significance of the prophetic word. It e
 2. "the written word of God, inspired into and transmitted through men, as something firmer, more secure, than the uttered voice of God Himself?"
 3. "the testimony of the Transfiguration presented only the glory of Christ in the days of His flesh, whereas the prophetic word substantiates His future glory also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prophecy assures us that Christ's sufferings, now past, are to be followed by Christ's glory, still future: the Transfiguration gives us a pledge to make our faith still stronger, that 'the day' of His glory will 'dawn' ere long."
 2. "The word was the 'lamp (Greek for 'light') heeded' by Old Testament believers, until a gleam of the 'day dawn' was given at Christ's first coming, and especially in His Transfiguration."
 3. "The day, when it dawns upon you, makes sure the fact that you saw correctly, though indistinctly, the objects revealed by the lamp."
@@ -55,4 +55,4 @@ These quotes highlight the comparison between the word of prophecy and the testi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

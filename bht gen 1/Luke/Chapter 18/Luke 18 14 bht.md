@@ -9,7 +9,7 @@ In this verse, one person returns home with his prayer answered, having grasped 
 2. "Therefore he who would seek justification before God must seek it by humility and not by self-righteousness."
 3. "Thus the particular instance is bound up with the general truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be self-emptied, or, 'poor in spirit,' is the fundamental and indispensable preparation for the reception of the 'grace which bringeth salvation'." 
 2. "Wherever this exists, the 'mourning' for it which precedes 'comfort' and the earnest 'hungerings and thirstings after righteousness' which are rewarded by the 'fulness' of it, will, as we see here, be surely found."
 3. "Such, therefore, and such only, are the justified ones."
@@ -50,4 +50,4 @@ In this verse, one person returns home with his prayer answered, having grasped 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

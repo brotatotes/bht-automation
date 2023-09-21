@@ -9,7 +9,7 @@ The verse being described showcases the power of faith and the rapid growth of t
 2. "Among such a multitude, admitted by a confession which allowed of so wide an interpretation, were probably many persons who brought into the church the seeds of that Judaizing form of Christianity which afterwards proved so hostile to the true faith."
 3. "Almost without doubt, this first baptism must have been administered, as that of the first Gentile converts was, by effusion or sprinkling, not by immersion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is difficult to say how three thousand could be baptized in one day, according to the old practice of a complete submersion;... The difficulty can only be removed by supposing that they already employed sprinkling, or baptized in houses in large vessels." [OLSHAUSEN]
 2. "Formal submersion in rivers, or larger quantities of water, probably took place only where the locality conveniently allowed it." [OLSHAUSEN]
 3. "Fitting inauguration of the new kingdom, as an economy of the Spirit!"
@@ -50,4 +50,4 @@ The verse being described showcases the power of faith and the rapid growth of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

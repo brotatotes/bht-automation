@@ -11,7 +11,7 @@ This verse calls for believers to endure hardships and share in suffering, liken
 
 3. "As a good soldier of Jesus Christ" - This comparison to a soldier emphasizes the need for discipline, courage, and loyalty in the Christian life. It implies that believers are engaged in a spiritual battle and must be prepared to endure hardships for the sake of Christ and His kingdom.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Endure hardness with (me)." - This quote emphasizes the importance of enduring hardship alongside others, suggesting that suffering is not meant to be faced alone but rather shared with others.
 2. "Take thy share in suffering." - This quote highlights the idea that suffering is a shared experience and encourages individuals to embrace their part in it, implying that it is a necessary aspect of life.
 3. "Endure hardship with (me)." - This quote implies that enduring hardship is not optional but rather a requirement, suggesting that it is through facing and overcoming challenges that one can grow and develop.
@@ -52,4 +52,4 @@ This verse calls for believers to endure hardships and share in suffering, liken
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

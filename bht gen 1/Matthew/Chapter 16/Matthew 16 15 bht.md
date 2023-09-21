@@ -4,7 +4,7 @@
 In a critical moment of Jesus' ministry, he asks his disciples, "But whom say ye that I am?" This question demands a personal and intimate confession of faith. Jesus seeks a decided expression of who he truly is, not just a general opinion or popular belief. Each individual is called to take ownership of their faith and openly declare their knowledge and belief in Jesus as the Messiah. It is not enough to simply believe in him; a true disciple is one who confidently knows and confesses Jesus as the Son of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But whom—rather, 'who.' say ye that I am?" - Jesus poses this question to his disciples, marking a critical moment in his ministry. 
 2. "We may suppose this to be one of those moments of which the prophet says, in His name, 'Then I said, I have labored in vain; I have spent my strength for naught, and in vain'." - Jesus may have felt a sense of frustration and weariness, seeking validation from his disciples. 
 3. "Yet some there are that have beheld My glory, the glory as of the Only-begotten of the Father, and I shall hear their voice, for it is sweet." - Despite the confusion and misinterpretation surrounding Jesus' identity, there are those who have recognized his true glory and their voices bring him joy.
@@ -40,4 +40,4 @@ In a critical moment of Jesus' ministry, he asks his disciples, "But whom say ye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

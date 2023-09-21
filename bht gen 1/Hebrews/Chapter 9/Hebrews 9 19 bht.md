@@ -9,7 +9,7 @@ In this verse, we see the meticulous adherence to the law by Moses, leaving no r
 2. "The additions made here to the text of Exodus fill up the account with subsequent usage, presuming that the solemn legal appointment of various ceremonial details was a divine sanction of practices already existing." 
 3. "The book is of course that out of which he had just read the ordinances of God: τὸ βιβλίον τῆς διαθήκης."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law in Exodus sanctioned formally many sacrificial practices in use by tradition, from the primitive revelation long before."
 2. "Scarlet or crimson, resembling blood: it was thought to be a peculiarly deep, fast dye, whence it typified sin."
 3. "The sprinkling of the roll (so the Greek for 'book') of the covenant, or testament, as well as of the people, implies that neither can the law be fulfilled, nor the people be purged from their sins, save by the sprinkling of the blood of Christ."
@@ -48,4 +48,4 @@ In this verse, we see the meticulous adherence to the law by Moses, leaving no r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

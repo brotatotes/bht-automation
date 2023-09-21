@@ -4,7 +4,7 @@
 In this Bible verse, individuals fervently approach Jesus, carrying a paralyzed man on a bed. The specific mention of four individuals highlights their collaboration and the power of unity in seeking divine intervention. This man's condition, characterized by complete paralysis and helplessness, underscores his need for healing and the support of others. Jesus, perceiving both his physical ailment and his spiritual paralysis, demonstrates His authority by not only healing the man but also forgiving his sins. Through this miracle, Jesus reveals His power to bring physical and spiritual restoration to those in need.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And they come unto him—that is, towards the house where He was." This quote highlights the action of the people approaching Jesus, emphasizing their determination and eagerness to seek help and healing from Him.
 
 2. "bringing one sick of the palsy—'lying on a bed.'" This quote provides a vivid description of the condition of the paralyzed person, emphasizing their helplessness and dependence on others for transportation.
@@ -44,4 +44,4 @@ In this Bible verse, individuals fervently approach Jesus, carrying a paralyzed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, the author expresses a heartfelt desire for God's grace and
 
 3. "The gospel reveals the wrath of God against all ungodliness and unrighteousness. It exposes the sinfulness of humanity and the need for salvation. Yet, it also reveals the grace and mercy of God, who offers forgiveness and reconciliation through Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek joins God the Father and our Lord Jesus Christ in closet union."
 2. "The Greek joins God the Father and our Lord Jesus Christ in closet union."
 3. "The Greek joins God the Father and our Lord Jesus Christ in closet union."
@@ -54,4 +54,4 @@ In this Bible verse, the author expresses a heartfelt desire for God's grace and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

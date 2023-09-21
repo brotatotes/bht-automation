@@ -9,7 +9,7 @@ In this verse, Jesus is depicted as looking up to heaven, sighing in distress an
 2. "He sighed, as Chrysostom (or Pseudo-Chrys.) in Cramer’s Catena, h. l., says, τὴν τοῦ ἀνθρώπου φύσιν ἐλεῶν, ἐς ποίαν ταπείνωσιν ἤγαγεν αὐτὴν ὅ τε μισόκαλος διάβολος, καὶ ἡ τῶν πρωτοπλάστων ἀπροσεξία."
 3. "ἐφφαθά = אֶתְסַּתַּח (Sy [30] .-chald.), imperative Hithp. from סָּתַח, aperuit: the word used in Isaiah 35:5, 'Then shall the ears of the deaf be unstopped, … and the tongue of the dumb sing.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He sighed—'over the wreck,' says TRENCH, 'which sin had brought about, and the malice of the devil in deforming the fair features of God's original creation.'" 
 2. "But, we take it, there was a yet more painful impression of that 'evil thing and bitter' whence all our ills have sprung." 
 3. "In thought of these his brows benign, Not even in healing, cloudless shine."
@@ -43,4 +43,4 @@ In this verse, Jesus is depicted as looking up to heaven, sighing in distress an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

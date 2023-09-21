@@ -4,7 +4,7 @@
 The verse being described depicts the final judgment, where the righteous are not specifically mentioned as their bliss had already begun. However, the inclusion in the book of life is critical for salvation, and the absence of one's name results in being cast into the lake of fire. The verse emphasizes the universal invitation to salvation, the importance of personal faith, and the consequence of not being included in the book of life. The lake of fire represents eternal punishment, paralleled with the destructive symbolism of the lake Asphaltites.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blissful lot of the righteous is not here specially mentioned as their bliss had commenced before the final judgment." 
 2. "Compare, however, Matthew 25:34; Matthew 25:41; Matthew 25:46."
 
@@ -41,4 +41,4 @@ The verse being described depicts the final judgment, where the righteous are no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

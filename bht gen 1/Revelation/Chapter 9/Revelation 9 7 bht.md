@@ -9,7 +9,7 @@ In this verse, we are presented with a vivid description of otherworldly creatur
 2. "Their faces were as the faces of men...the face of the locust, which under ordinary circumstances has a distant resemblance to the human countenance, bore this resemblance even more notably in the case of these supernatural locusts."
 3. "They had hair as the hair of women...perhaps we must regard the comparison as rather belonging to the supernatural portion of our description."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The plates of a horse armed for battle are an image on a larger scale of the outer shell of the locust." 
 2. "ELLIOTT explains this of the turbans of Mohammedans. But how could turbans be 'like gold?'" 
 3. "The 'as' seems to imply the locusts here do not mean men. At the same time they are not natural locusts, for these do not sting men."
@@ -43,4 +43,4 @@ In this verse, we are presented with a vivid description of otherworldly creatur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

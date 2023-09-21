@@ -9,7 +9,7 @@ In this verse, the commentators provide insights into the meaning of the phrase 
 2. "Our thoughts were weaned from all hope of surviving in this life, and fixed on that better deliverance which God shall work when He raises us from the dead."
 3. "Understanding it literally as above, I cannot see how it can be spoken with reference to the Ephesian tumult. If it alludes to any external danger, I should be disposed to refer it to the same obscure part of Paul’s history to which he alludes 1 Corinthians 15:32, where he also speaks of the hope of the resurrection as his great support."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our only hope was fixed on the coming resurrection."
 2. "His hope of the resurrection was what buoyed him up in contending with foes, savage as wild beasts."
 3. "He touches only on the doctrine of the resurrection, taking it for granted that its truth is admitted by the Corinthians, and urging its bearing on their practice."
@@ -52,4 +52,4 @@ In this verse, the commentators provide insights into the meaning of the phrase 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

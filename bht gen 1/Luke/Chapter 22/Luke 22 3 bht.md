@@ -4,7 +4,7 @@
 In this verse, the actions of Judas and the entrance of Satan into his heart are highlighted as key elements in the betrayal of Jesus. The commentators discuss how Satan's presence symbolizes the presence of temptation and the ongoing battle between good and evil. Judas, through his own decisions, allowed Satan to have influence over him. The verse serves as a cautionary tale, reminding us of the importance of discernment, loyalty, and staying vigilant against temptation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Covetousness being his master—passion, the Lord let it reveal itself and gather strength by entrusting him with 'the bag' (John 12:6), as treasurer to Himself and the Twelve."
 2. "Satan, seeing this door into his heart standing wide open, determines to enter by it, but cautiously (2 Corinthians 2:11) first merely 'putting it into his heart to betray Him' (John 13:2), suggesting the thought to him that by this means he might enrich himself."
 3. "Starting back, perhaps, or mercifully held back, for some time, the determination to carry it into immediate effect was not consummated till, sitting at the paschal supper, 'Satan entered into him' (see on John 13:2- :), and conscience, effectually stifled, only rose again to be his tormentor."
@@ -44,4 +44,4 @@ These quotes shed light on the spiritual dynamics at play in the betrayal of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

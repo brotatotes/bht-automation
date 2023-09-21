@@ -9,7 +9,7 @@ The verse being described is one that emphasizes God's patience and desire for r
 2. "He is long-suffering towards you, not willing that any should perish." 
 3. "He is...willing that all should go forward to repentance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His promise—which the scoffers cavil at." 
 2. "It shall be surely fulfilled 'according to His promise'." 
 3. "Long-suffering—waiting until the full number of those appointed to 'salvation' shall be completed."
@@ -55,4 +55,4 @@ The verse being described is one that emphasizes God's patience and desire for r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

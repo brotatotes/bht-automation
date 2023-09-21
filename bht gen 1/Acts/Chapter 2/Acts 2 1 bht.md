@@ -9,7 +9,7 @@ On the day of Pentecost, the promised outpouring of the Holy Spirit occurred. Th
 2. "The fiftieth day (inclusive) after the sixteenth of Nisan, the second day of the Passover... called 'the feast of harvest,' 'the feast of weeks'"
 3. "Not the Apostles only, nor the hundred and twenty mentioned... but all the believers in Christ, then congregated at the time of the feast in Jerusalem"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "when the day of Pentecost was fully come—The fiftieth from the morrow after the first Passover sabbath (Leviticus 23:15; Leviticus 23:16)." 
 
 2. "with one accord—the solemnity of the day, perhaps, unconsciously raising their expectations." 
@@ -52,4 +52,4 @@ On the day of Pentecost, the promised outpouring of the Holy Spirit occurred. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

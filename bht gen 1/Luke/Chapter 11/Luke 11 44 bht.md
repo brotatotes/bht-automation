@@ -9,7 +9,7 @@ The verse describes the deceptive nature of the Pharisees, likening them to hidd
 2. "The graves are not seen, and men thinking they are walking on clean ground are defiled by passing over them."
 3. "The difference of expression may have been occasioned by the greater wealth and splendour and display of the Pharisees in the metropolis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The plausible exterior of the Pharisees kept people from perceiving the pollution they contracted from coming in contact with such corrupt characters."
 2. "As one might unconsciously walk over a grave concealed from view, and thus contract ceremonial defilement..."
 3. "The Pharisees' outward appearance masked their inner corruption, just like a hidden grave that one unknowingly walks over."
@@ -45,4 +45,4 @@ The verse describes the deceptive nature of the Pharisees, likening them to hidd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

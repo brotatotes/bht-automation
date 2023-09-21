@@ -9,7 +9,7 @@ In this verse, the commentators describe the condition of mankind, highlighting 
 2. "The state of sin and unbelief."
 3. "Their habits, thoughts, practices, all these are included, were perverted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the condemnation, &c.—emphatically so, revealing the condemnation already existing, and sealing up under it those who will not be delivered from it."
 2. "Light is come into the world—in the Person of Him to whom Nicodemus was listening."
 3. "Loved darkness, &c.—This can only be known by the deliberate rejection of Christ, but that does fearfully reveal it."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

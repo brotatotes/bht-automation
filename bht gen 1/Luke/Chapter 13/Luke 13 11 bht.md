@@ -9,7 +9,7 @@ This verse describes a woman who has been afflicted by an evil spirit, causing h
 2. "There is nothing in our Lord’s words addressed to her, to imply possession."
 3. "He did not lay on His hands, or touch, but only in cases of sickness or bodily infirmity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From this it is probable, though not certain, that her protracted infirmity was the effect of some milder form of possession."
 2. "Yet she was 'a daughter of Abraham,' in the same gracious sense, no doubt, as Zaccheus, after his conversion, was 'a son of Abraham.'"
 3. "In being 'a daughter of Abraham,' she was a member of the covenant people, and as such, had a claim upon the covenant God."
@@ -57,4 +57,4 @@ This verse describes a woman who has been afflicted by an evil spirit, causing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

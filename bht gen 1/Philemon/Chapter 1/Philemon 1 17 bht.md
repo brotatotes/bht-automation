@@ -11,7 +11,7 @@ The verse being described emphasizes the idea of partnership and fellowship amon
 
 3. "The κοινωνία referred to is that shewn by the ἀγάπη of him, common to both, mentioned in the last verse: but extending far wider than it, even to the community of faith, and hope, and love between them as Christian men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A partner in the Christian fellowship of faith, hope, and love."
 2. "Receive him as myself."
 3. "Resuming 'receive him that is mine own bowels.'"
@@ -57,4 +57,4 @@ The verse being described emphasizes the idea of partnership and fellowship amon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

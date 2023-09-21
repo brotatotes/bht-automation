@@ -9,7 +9,7 @@ In this verse, Jesus is speaking about Lazarus' sickness, which will not result 
 2. "Its result as regards Lazarus will not be death, but it has a higher purpose, the glory of God; the glorification, by its means, of the Son of God."
 3. "And this δοξασθῇ how was it accomplished? By this miracle leading to his death, which in John’s diction is so frequently implied in that word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This sickness is not unto death—to result in death." - Jesus declares that Lazarus' sickness will not ultimately lead to death, but rather serve as an opportunity for the glory of God to be revealed. This statement highlights Jesus' power over death and foreshadows the miraculous resurrection that is about to take place.
 
 2. "The glory of GOD manifested in the resurrection of dead Lazarus would be shown to be the glory, personally and immediately, of THE SON." - This quote emphasizes that the resurrection of Lazarus is not just a display of God's glory, but also a manifestation of the glory of Jesus as the Son of God. It underscores the divine nature and authority of Jesus.
@@ -60,4 +60,4 @@ In this verse, Jesus is speaking about Lazarus' sickness, which will not result 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

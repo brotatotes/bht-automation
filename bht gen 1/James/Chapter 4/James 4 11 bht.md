@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of refraining from spea
 2. "He that speaketh against a brother...speaketh against the law."
 3. "If thou judgest the law, thou art not a doer of the law, but a judge."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speak not evil—literally, 'Speak not against' one another." 
 2. "Those who superciliously condemn the acts and words of others which do not please themselves, thus aiming at the reputation of sanctity, put their own moroseness in the place of the law, and claim to themselves a power of censuring above the law of God, condemning what the law permits."
 3. "This is the last mention of the law in the New Testament. ALFORD rightly takes the 'law' to be the old moral law applied in its comprehensive spiritual fulness by Christ: 'the law of liberty.'"
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the importance of refraining from spea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

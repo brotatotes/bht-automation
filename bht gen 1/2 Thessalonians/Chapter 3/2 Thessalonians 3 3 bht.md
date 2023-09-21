@@ -9,7 +9,7 @@ In a turbulent world where human faithfulness is questionable, the assurance of 
 2. "πιστός seems to be chosen in allusion to πίστις which has just preceded; but the allusion cannot be more than that of sound, as the things spoken of are wholly different."
 3. "τοῦ πονηροῦ may mean ‘the evil one,’ as in Matthew 13:19; Ephesians 4:16, al.: and so Ellic. But here the assurance seems, as before said, to correspond to the wish ch. 2 Thessalonians 2:17; and thus στηρίξαι ἐν παντὶ ἔργῳ κ. λόγῳ ἀγαθῷ = στηρίξει κ. φυλάξει ἀπὸ τοῦ πονηροῦ: in which case τ. πον. is neuter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith on the part of man answers to faithfulness on the part of God."
 2. "He turns away from asking the Thessalonians' prayers for HIS deliverance, to express his assurance of THEIR establishment in the faith, and preservation from evil."
 3. "He has before his mind the Lord's Prayer, 'Lead us not into temptation, but deliver us from evil'; where, as here, the translation may be, 'from the evil one'; the great hinderer of 'every good word and work.'"
@@ -53,4 +53,4 @@ In a turbulent world where human faithfulness is questionable, the assurance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

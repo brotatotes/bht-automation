@@ -9,7 +9,7 @@ The Bible verse being described depicts the access to God's grace through Jesus 
 2. "Wherein we stand." (describing the state of being accepted and acquitted with God)
 3. "Glory in the hope of the glory of God." (highlighting the anticipation of sharing in God's glory in His kingdom)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To that same faith which first gave us 'peace with God' we owe our introduction into that permanent standing in the favor of God which the justified enjoy."
 2. "Rejoice" is not strong enough. 
 3. "In hope of the glory of God."
@@ -55,4 +55,4 @@ The Bible verse being described depicts the access to God's grace through Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

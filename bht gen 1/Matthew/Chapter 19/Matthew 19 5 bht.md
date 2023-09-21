@@ -9,7 +9,7 @@ In Genesis 2:24, Adam, under divine revelation, speaks the words that establish 
 2. "The wedded pair are one flesh, i.e. one man within the limits of their united life in the flesh, for this world."
 3. "Beyond this limit, the marriage is broken by the death of the flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus here sends them back to the original constitution of man as one pair, a male and a female; to their marriage, as such, by divine appointment."
 2. "To the purpose of God, expressed by the sacred historian, that in all time one man and one woman should by marriage become one flesh."
 3. "This being God's constitution, let not man break it up by causeless divorces."
@@ -52,4 +52,4 @@ In Genesis 2:24, Adam, under divine revelation, speaks the words that establish 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

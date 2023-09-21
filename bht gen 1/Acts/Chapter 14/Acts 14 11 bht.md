@@ -9,7 +9,7 @@ This verse shows the awe and confusion that arise when divine power is manifeste
 2. "For this reason they, the Lycaonians, spoke unintelligibly to the Apostles." 
 3. "These ἐπιφάνειαι of the gods are frequent subjects of heathen poetry and mythology."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gods are come down to us in the likeness of men" - This quote highlights the perception of the Lycaonians, who saw Paul and Barnabas as divine beings. It emphasizes the contrast between their superstitious beliefs and the reality of the incarnation of Christ in Bethlehem.
 
 2. "That which was a superstition in Lycaonia... became a reality at Bethlehem" - This quote draws a parallel between the mistaken belief of the Lycaonians and the true incarnation of God in human form. It underscores the profound significance of Christ's birth and the fulfillment of prophecy.
@@ -59,4 +59,4 @@ This verse shows the awe and confusion that arise when divine power is manifeste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

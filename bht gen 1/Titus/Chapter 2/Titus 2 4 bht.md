@@ -4,7 +4,7 @@
 In this passage, commentators emphasize the importance of self-restraint, love, and discipline within the roles of women in society. They highlight the need for women to be sober-minded, to love and support their husbands, and to prioritize the well-being and proper guidance of their children. The commentaries also stress the role of older women in providing guidance to younger women, ensuring that these teachings are passed on through generations. Ultimately, the verse encourages women to exhibit self-control, loving relationships, and responsible parenting within their households.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to be sober—Greek, 'self-restrained,' 'discreet'; the same Greek as in Titus 2:2, 'temperate.'" 
 2. "That they school (admonish in their duty) the young women to be lovers of their husbands," &c. (the foundation of all domestic happiness)."
 3. "It was judicious that Titus, a young man, should admonish the young women, not directly, but through the older women."
@@ -50,4 +50,4 @@ In this passage, commentators emphasize the importance of self-restraint, love, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

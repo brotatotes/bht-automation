@@ -4,7 +4,7 @@
 The verse being described is a commendation of someone named Gaius for their faithful and upright actions, characterized by trustworthiness, generosity, and genuine sincerity in their belief in Christ. Gaius is praised for his hospitality and kindness towards both fellow believers and strangers, demonstrating an inclusive and compassionate spirit. These actions are seen as reflections of Gaius' faithful and sincere commitment to his Christian beliefs, exemplifying integrity and genuine care for others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "faithfully - an act becoming a faithful man."
 2. "whatsoever work, or labor of love, thou dost perform."
 3. "The fact of the brethren whom thou didst entertain being 'strangers,' enhances the love manifested in the act."
@@ -44,4 +44,4 @@ These quotes highlight the commendation of Gaius for his faithful and dutiful ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

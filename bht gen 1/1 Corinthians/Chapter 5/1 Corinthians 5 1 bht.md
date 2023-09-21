@@ -9,7 +9,7 @@ The commentary highlights the severity of the sexual immorality present in the C
 2. "Not even among the heathen does anyone hear of such a thing." 
 3. "So that one among you has his father's wife."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is reported," implies, that the Corinthians, though they "wrote" to Paul on other points, gave him no information on those things which bore against themselves.
 2. "Fornication of such a gross kind as (exists) not even among the heathen, so that one (of you) hath (in concubinage) his father's wife," that is, his stepmother, while his father is still alive.
 3. She was perhaps a heathen, for which reason he does not direct his rebuke against her.
@@ -65,4 +65,4 @@ Overall, the commentary sheds light on the presence of sexual immorality within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

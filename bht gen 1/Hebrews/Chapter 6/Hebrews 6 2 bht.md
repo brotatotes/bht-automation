@@ -9,7 +9,7 @@ The Bible verse being described explores the foundational teachings of the Chris
 2. "By laying on of hands, the sick were healed, officers and teachers of the Church were admitted to their calling, and converts were fully admitted into the Christian Church after baptism."
 3. "These [resurrection of the dead and eternal judgment] also were points of Jewish doctrine, confirmed and brought into clearer light by the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jewish believers passed, by an easy transition, from Jewish baptismal purifications, baptism of proselytes, and John's baptism, and legal imposition of hands, to their Christian analogues, baptism, and the subsequent laying on of hands, accompanied by the gift of the Holy Ghost."
 2. "The six particulars here specified had been, as it were, the Christian Catechism of the Old Testament; and such Jews who had begun to recognize Jesus as the Christ immediately on the new light being shed on these fundamental particulars, were accounted as having the elementary principles of the doctrine of Christ."
 3. "The first and most obvious elementary instruction of Jews would be the teaching them the typical significance of their own ceremonial law in its Christian fulfillment."
@@ -47,4 +47,4 @@ The Bible verse being described explores the foundational teachings of the Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

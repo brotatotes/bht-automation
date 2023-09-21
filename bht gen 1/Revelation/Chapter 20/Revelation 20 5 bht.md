@@ -4,7 +4,7 @@
 In this verse, we see a description of a resurrection, where those who have died are brought back to life in a renewed and revived state. This resurrection is not a mere continuation of their previous life, but rather a completely new and different existence. It signifies a transformation or revival of what was once dead or dormant. This first resurrection is contrasted with a second death, emphasizing the eternal contrast between those who are raised to life and those who are eternally separated from God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lived" is used for lived again, as in :-. John saw them not only when restored to life, but when in the act of reviving [BENGEL].
 2. The millennial reign on earth does not rest on an isolated passage of the Apocalypse, but all Old Testament prophecy goes on the same view.
 3. Jesus, while opposing the carnal views of the kingdom of God prevalent among the Jews in His day, does not contradict, but confirms, the Old Testament view of a coming, earthly, Jewish kingdom of glory.
@@ -45,4 +45,4 @@ In this verse, we see a description of a resurrection, where those who have died
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

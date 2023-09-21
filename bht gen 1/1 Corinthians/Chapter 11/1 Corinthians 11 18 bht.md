@@ -9,7 +9,7 @@ Within the context of this verse, the commentators emphasize the presence of div
 2. "The ABUSE OF SPIRITUAL GIFTS, which also created disorder in their assemblies, was the other point before his mind, when he wrote this πρῶτον."
 3. "That he takes no notice in ch. 1 Corinthians 12:1, by any ἔπειτα δέ or the like, of what has gone before, will be no objection to the above view to any one but the merest tiro in our Apostle’s style."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'divisions' (Greek, 'schisms') meant, are not merely those of opinion, but in outward acts at the love-feasts."
 2. "THE ABUSE OF SPIRITUAL GIFTS, which also created disorder in their assemblies."
 3. "The very ordinance instituted for uniting together believers in one body, was made an occasion of 'divisions' (schisms)."
@@ -55,4 +55,4 @@ These quotes highlight the context of the verse and clarify that the divisions m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

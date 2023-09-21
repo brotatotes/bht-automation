@@ -9,7 +9,7 @@ The commentators provide insights into a Bible verse that expresses the obligati
 2. "ὑπεραυξάνει: 'Frequentavit hujus generis voce Paulus...non quod iis delectaretur, sed quia vir vehemens natura duce sua cogitata gravibus verbis enuntiavit.'" 
 3. "εἰς ἀλλήλους goes with ἀγάπη."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We owe it as a debt" - They had prayed for the Thessalonians that they might "increase and abound in love"; their prayer having been heard, it is a small but a bounden return for them to make, to thank God for it.
 2. "We are bound" - "We are bound" expresses the duty of thanksgiving from its subjective side as an inward conviction.
 3. "Meet—right" - "Meet" expresses the objective side of thanksgiving as something that is right and fitting in response to the circumstances.
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse that expresses the obligati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

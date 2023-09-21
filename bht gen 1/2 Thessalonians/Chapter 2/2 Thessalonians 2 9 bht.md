@@ -4,7 +4,7 @@
 The Bible verse describes the coming of Antichrist, who is portrayed as the embodiment of Satan and the opposite of Christ. Antichrist imitates Christ's works with false signs and wonders, claiming divine power. The verse highlights the deceptive nature of his appearance and the fraudulent miracles associated with him, which are ultimately driven by Satan. The Antichrist's works are characterized by falsehood, evil doctrine, and the persecution of the saints, leading many astray.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As Christ is related to God, so is Antichrist to Satan, his visible embodiment and manifestation: Satan works through him."
 2. "His 'power, signs, and wonders,' all have falsehood for their base, essence, and aim."
 3. "Antichrist will try to imitate Christ's works as a 'sign,' or proof of divinity."
@@ -43,4 +43,4 @@ The Bible verse describes the coming of Antichrist, who is portrayed as the embo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

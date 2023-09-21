@@ -9,7 +9,7 @@ The Bible verse described in these commentaries is about the ascension of Jesus 
 2. "The tense is imperfect, signifying the continuance of the going up during the προσκυν . of the next verse."
 3. "The more particular account of the Ascension is given Acts 1:9-12, where see notes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Incarnate Love, Crucified Love, Risen Love, now on the wing for heaven, waiting only those odorous gales which were to waft Him to the skies, goes away in benedictions."
 2. "And oh, if angels were so transported at His birth into this scene of tears and death, what must have been their ecstasy as they welcomed and attended Him 'far above all heavens' into the presence-chamber."
 3. "Thou hast an everlasting right, O my Saviour, to that august place. The brightness of the Father's glory, enshrined in our nature, hath won it well for He poured out His soul unto death, and led captivity captive, receiving gifts for men, yea for the rebellious, that the Lord God might dwell among them."
@@ -47,4 +47,4 @@ The Bible verse described in these commentaries is about the ascension of Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

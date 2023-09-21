@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the disbelief and stubbornness of the people, despite witnessing miracles and hearing God's message through prophets. They point out that even Lazarus rising from the dead didn't convince them, and the resurrection of Jesus didn't win over the unbelieving nation either. The commentators highlight the need for repentance as the key, rather than relying on signs, wealth, or influence. Ultimately, the verse portrays a hardened and rebellious people who refuse to listen and repent, even in the face of overwhelming evidence and divine grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The greatest miracle will have no effect on those who are determined not to believe."
 2. "A real Lazarus soon 'rose from the dead,' but the sight of him by crowds of people, inclined thereby to Christ, only crowned the unbelief and hastened the murderous plots of the Pharisees against the Lord of glory."
 3. "Nor has His own resurrection, far more overpowering, yet won over that 'crooked and perverse nation.'"
@@ -38,4 +38,4 @@ In this verse, the commentators emphasize the disbelief and stubbornness of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage describes the speaker's decision not to visit again in a state of s
 2. "τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν] not again to come to you in grief. This is the only fair rendering of the words; implying that some former visit had been in grief."
 3. "ἐν λύπῃ] is explained in 2Co 2:2-3 to mean (so Estius, Bengel, Rückert, Olsh., De Wette, al.) in mutual grief: 'I grieving you (2Co 2:2), and you grieving me' (2Co 2:3)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same antithesis between Paul and them appears in 2 Corinthians 1:23." 
 2. "He had warned them 'he would not spare if he should come again'." 
 3. "The 'in heaviness' implies mutual pain; they grieving him, and he them."
@@ -59,4 +59,4 @@ This passage describes the speaker's decision not to visit again in a state of s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

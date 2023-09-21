@@ -9,7 +9,7 @@ In this verse, the apostle Paul finds himself in Athens, a city consumed by idol
 2. "ἐν τῇ ἀγορᾷ: It was the space before the στοὰ ποικίλη, where the Stoics held their διαλέξεις."
 3. "Strabo (x. 1) speaking of the Eretrians in Eubœa says that some suppose them to have been named ἀπὸ τῆς Ἀθήνῃσιν Ἐρετρίας, ἣ νῦν ἐστιν ἀγορά (as distinguished from the Ceramicus, which was the old forum)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore set he himself to lift up his voice to the idol city, but, as his manner was, he began with the Jews." 
 2. "Gentile proselytes."
 3. "Daily with them that met with him—or 'came in his way.'"
@@ -45,4 +45,4 @@ In this verse, the apostle Paul finds himself in Athens, a city consumed by idol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

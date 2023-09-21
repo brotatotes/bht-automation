@@ -9,7 +9,7 @@ The Bible verse describes two paths: one narrow and difficult, leading to life; 
 2. "The reason why the way to destruction is so broad, is because so few find their way into the narrow path of life."
 3. "The reading τί (adopted by Lachmann, Tregelles, Meyer, De Wette) will not bear the signification commonly assigned to it, ‘How narrow is the gate?’ And the interrogative meaning (Meyer) is inconsistent with ὀλίγοι εἰσίν, which follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The recommendation of the broad way is the ease with which it is trodden and the abundance of company to be found in it."
 2. "The one disadvantage of this course is its end—it 'leadeth to destruction.'"
 3. "The disadvantage of [the narrow way] lies in its narrowness and solicitude. Its very first step involves a revolution in all our purposes and plans for life, and a surrender of all that is dear to natural inclination."
@@ -28,4 +28,4 @@ The Bible verse describes two paths: one narrow and difficult, leading to life; 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

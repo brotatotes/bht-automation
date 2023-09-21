@@ -9,7 +9,7 @@ The verse being described discusses the anticipation and expectation of new heav
 2. "We expect new heavens and a new earth, in which righteousness dwelleth."
 3. "The promise of new heavens and a new earth is a fulfillment of what was written in Isaiah, where it is stated that there will be no unrighteousness in the holy mountain of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the flood was the baptism of the earth, eventuating in a renovated earth, partially delivered from 'the curse,' so the baptism with fire shall purify the earth so as to be the renovated abode of regenerated man, wholly freed from the curse."
 2. "The 'we' is not emphatical as in English Version."
 3. "Righteousness dwelleth in that coming world as its essential feature, all pollutions having been removed."
@@ -50,4 +50,4 @@ The verse being described discusses the anticipation and expectation of new heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

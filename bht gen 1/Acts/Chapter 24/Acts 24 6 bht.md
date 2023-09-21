@@ -4,7 +4,7 @@
 This Bible verse describes a false accusation made against Paul, suggesting he attempted to profane the temple by introducing a Gentile into the sacred enclosure. The commentators highlight the frivolous nature of the accusation and emphasize the lack of evidence and examination in the case against Paul. The verse also mentions the mob's attack on Paul, which could have resulted in his harm if it were not for the intervention of the chief captain and his soldiers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hath gone about—attempted."
 2. "to profane the temple—the third charge; and entirely false."
 3. "we . . . would have judged according to our law."
@@ -45,4 +45,4 @@ This Bible verse describes a false accusation made against Paul, suggesting he a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

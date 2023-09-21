@@ -9,7 +9,7 @@ In an upper chamber, filled with the radiance of many lights, a memorable scene 
 2. "Many lights are apt to increase drowsiness at such times."
 3. "The lights were used for solemnity's sake."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There were many lights in the upper chamber" - This detail is not just a random observation, but it may have contributed to the heat and drowsiness in the room. (HACKETT, HOWSON)
 2. "Not a mere piece of graphic detail by an eye-witness" - The mention of the lights is not just a superficial description, but it serves a purpose in the narrative. (HACKETT, HOWSON)
 3. "Mentioned, probably, as increasing the heat and contributing to drowsiness" - The presence of many lights in the room may have added to the uncomfortable conditions, leading to drowsiness among the people present. (WEBSTER and WILKINSON)
@@ -52,4 +52,4 @@ In an upper chamber, filled with the radiance of many lights, a memorable scene 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

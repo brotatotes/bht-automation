@@ -4,7 +4,7 @@
 The Bible verse in question presents a perplexing scenario of the disciples allegedly stealing Jesus' body while the guards were asleep. Commentators point out the implausibility of this claim, questioning how timid disciples could overpower trained soldiers. The accusation is criticized for its lack of probability and the illogical nature of the guards knowing about the theft if they were asleep. Additionally, the argument highlights that even if the guards were truly asleep, their negligence undermines their credibility as reliable witnesses. The commentary reinforces the inconsistency and confusion surrounding the accusation, urging readers to question its validity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The accusation that the disciples stole the body of Jesus while the guards were asleep is a desperate attempt to explain the empty tomb. It shows the lengths to which some will go to deny the resurrection." 
 
 2. "The idea that the disciples could have overpowered trained soldiers and stolen the body is highly improbable. It is a testament to the power of the resurrection that such a theory even exists." 
@@ -37,4 +37,4 @@ The Bible verse in question presents a perplexing scenario of the disciples alle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

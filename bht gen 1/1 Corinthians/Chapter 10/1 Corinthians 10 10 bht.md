@@ -9,7 +9,7 @@ In this verse, commentators provide different perspectives on the meaning of the
 2. "The destruction referred to must be that related Numbers 16:41 ff. when the pestilence took off 14,700 of the people."
 3. "The punishment of the unbelieving congregation in Numbers 14:0 does not seem to answer to the expression ἀπώλοντο ὑπὸ τ . ὀλοθρευτοῦ , nor to the τινες , seeing that all except Joshua and Caleb were involved in it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their murmurs against Moses and Aaron were virtually murmurs against God."
 2. "Paul herein glances at the Corinthian murmurs against himself, the apostle of Christ."
 3. "The same destroying angel sent by God as in Exodus 12:23; 2 Samuel 24:16."
@@ -54,4 +54,4 @@ In this verse, commentators provide different perspectives on the meaning of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

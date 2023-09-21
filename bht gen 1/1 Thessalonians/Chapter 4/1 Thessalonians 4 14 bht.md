@@ -11,7 +11,7 @@ The verse being described emphasizes the inseparable link between Jesus and beli
 4. "If we believe that Jesus died and rose again, then even thus also those, of whom we say that they sleep, just because of Jesus, will God, &c.: the emphasis being on the διὰ."
 5. "The bringing them with Jesus = their being raised when Jesus appears."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our hope rests on our faith ('if we believe')."
 2. "Believers are laid in sleep by Jesus, and so will be brought back from sleep with Jesus in His train when He comes."
 3. "The facts of Christ's experience are repeated in the believer's. He died and then rose: so believers shall die and then rise with Him."
@@ -58,4 +58,4 @@ The verse being described emphasizes the inseparable link between Jesus and beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described focuses on the swift and unhindered progress of the Lo
 2. "The word of the Lord is then glorified, when it becomes the power of God to salvation to the believer."
 3. "For they had thus received it: 1 Thessalonians 1:6."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "May have free course—literally, 'may run'; spread rapidly without a drag on the wheels of its course." 
 2. "That the new-creating word may 'run,' as 'swiftly' as the creative word at the first." 
 3. "Glorified—by sinners accepting it."
@@ -55,4 +55,4 @@ The verse being described focuses on the swift and unhindered progress of the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, it is evident that true knowledge of God goes beyond intellectual understanding. It is characterized by an experiential and heartfelt knowledge of Him as the advocate, the righteous one, and the propitiation. This knowledge is demonstrated through obedience to God's commandments, specifically those related to faith and love. As we keep His commandments in faith and with a desire to bring Him glory, it becomes a tangible evidence of our genuine knowledge of Him and His will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is herein," and herein only, that we know (present tense) that we have knowledge of (perfect tense, once-for-all obtained and continuing knowledge of) Him" (1 John 2:4; 1 John 2:13; 1 John 2:14).
 2. "Know Him," namely, as "the righteous" (1 John 2:1; 1 John 2:29); our "Advocate and Intercessor."
 3. Not faultless conformity, but hearty acceptance of, and willing subjection to, God's whole revealed will, is meant.
@@ -45,4 +45,4 @@ In this verse, it is evident that true knowledge of God goes beyond intellectual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

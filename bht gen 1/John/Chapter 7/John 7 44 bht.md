@@ -9,7 +9,7 @@ In this verse, we see the intense opposition and hostility that surrounded Jesus
 2. "The fact that the multitude was unable to seize Jesus highlights the divine power at work, protecting Him from harm." 
 3. "This verse demonstrates the supernatural intervention of God, ensuring that Jesus would not be captured before His appointed time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews sought to take Jesus, but their efforts were futile because it was not yet His appointed time to be arrested and crucified."
 2. "The sovereignty of God is evident in the fact that Jesus was able to move freely among the people, despite the opposition of the religious leaders."
 3. "Jesus' ministry was not controlled by the plans and schemes of men, but by the perfect timing and will of God."
@@ -42,4 +42,4 @@ In this verse, we see the intense opposition and hostility that surrounded Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

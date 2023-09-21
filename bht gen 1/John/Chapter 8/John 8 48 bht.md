@@ -9,7 +9,7 @@ In this verse, individuals direct intense and virulent scorn towards Jesus, accu
 2. "There may perhaps be a reference to the occurrence related in ch. John 4:5 ff.; but Schöttgen (p. 371) has shewn that 'Samaritanus es' is found in the Rabbis as addressed to one whose word is not to be believed."
 3. "As in the first clause they sundered Him from the communion of Israel, so now from that of Israel’s God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What intense and virulent scorn!" - This quote highlights the strong and malicious contempt directed towards Jesus by accusing him of being a Samaritan and having a devil.
 2. "The 'say we not well' refers to Hebrews 12:3" - This quote suggests that the phrase "say we not well" is a reference to Hebrews 12:3, which encourages believers to consider Jesus' endurance of hostility from sinners.
 3. "'A Samaritan' means more than 'no Israelite at all'" - This quote explains that being called a Samaritan was not just an accusation of not being an Israelite, but also implied that Jesus had no legitimate claim to the title, possibly challenging his lineage from Abraham.
@@ -53,4 +53,4 @@ In this verse, individuals direct intense and virulent scorn towards Jesus, accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

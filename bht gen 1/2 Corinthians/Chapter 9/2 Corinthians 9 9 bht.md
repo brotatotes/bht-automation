@@ -11,7 +11,7 @@ The verse being described speaks of a righteous person who generously disperses 
 
 3. "To build any inference from the text inconsistent with the great truths respecting δικαιοσύνη ever insisted on by Paul... is a manifest perversion." - This quote warns against misinterpreting the text and distorting the understanding of righteousness as taught by Paul, emphasizing the importance of aligning interpretations with Paul's teachings.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He—the 'good man' (Psalms 112:5). dispersed—as seed sown with full and open hand, without anxious thought in what direction each grain may fall."
 2. "It is implied also that he has always what he may disperse [BENGEL]."
 3. "The Greek word is found here only in New Testament, 'one in straitened circumstances, who earns his bread by labor.' The word usually employed means 'one so poor as to live by begging.'"
@@ -63,4 +63,4 @@ The verse being described speaks of a righteous person who generously disperses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, commentators emphasize the significance of demonstrating love and hospitality within the Christian community. The verse speaks of the commendation of Gaius for his love and generosity, setting an example for others to follow. It also encourages the support and provision for fellow believers who are sent out on their journey, highlighting the interconnectedness of the body of believers. Ultimately, the verse reminds readers that by practicing acts of kindness, they are doing what is pleasing to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To stimulate others by the good example."
 2. "If thou (continue to) forward on their journey."
 3. "In a manner worthy of God."
@@ -40,4 +40,4 @@ In this passage, commentators emphasize the significance of demonstrating love a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

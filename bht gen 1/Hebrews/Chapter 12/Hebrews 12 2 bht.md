@@ -10,7 +10,7 @@ In this Bible verse, we are encouraged to fix our gaze solely on Jesus, the pion
 3. "For thus we have ἀντί in reff., and in Xen. Hell. iv. 8. 6, ὀργιζόμενος τοῖς Λακεδαιμονίοις ἀνθ ʼ ὧν ἐπεπόνθει : Aristoph. Plut. 434, ἢ σφὼ ποιήσω τήμερον δοῦναι δίκην ἀνθ ʼ ὦν ἐμὲ ζητεῖτον ἐνθένδ ʼ ἀφανίσαι ."
 4. "He endured crucifixion, despising shame, and is set down on the right hand of the throne of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Looking from afar" - fixing the eyes upon Jesus seated on the throne of God, distinguishing Him as the Prince-leader and Captain of our salvation. (Quote 2)
 2. "Going before us as the Originator of our faith, and the Leader whose matchless example we are to follow always." (Quote 2)
 3. "He fulfilled the ideal of faith Himself, and so, both as a vicarious offering and an example, He is the object of our faith." (Quote 4)
@@ -58,4 +58,4 @@ In this Bible verse, we are encouraged to fix our gaze solely on Jesus, the pion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

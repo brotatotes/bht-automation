@@ -4,7 +4,7 @@
 The verse being described is a beautiful depiction of the messengers commissioned by God to preach the gospel of peace. These messengers, with their feet symbolizing their rapid approach and the urgency of their message, bring glad tidings of salvation and restoration. Their mission is of great significance, as they are sent by God to bring about spiritual freedom and the joyful release of reconciliation, righteousness, pardon, life, and eternal salvation through the crucified Christ. Their preaching is a demonstration of divine love and is essential for the world to hear and respond to the message of peace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How beautiful are the feet of them that preach the gospel of peace." - This quote highlights the beauty and significance of those who proclaim the message of peace found in the gospel. It suggests that the message they carry is of great importance and brings about a glorious release.
 
 2. "The whole chapter of Isaiah from which this is taken... are so richly Messianic." - This quote emphasizes that the chapter from Isaiah, including the verse in question, is filled with Messianic prophecies. It suggests that the glad tidings mentioned in the verse announce a more glorious release, beyond the release of Judah from captivity.
@@ -54,4 +54,4 @@ The verse being described is a beautiful depiction of the messengers commissione
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

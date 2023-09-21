@@ -9,7 +9,7 @@ The Bible verse being described is a record of the signs and miracles performed 
 2. "Many and other signs."
 3. "Miracles in the most general sense these after the Resurrection included."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The signs and miracles performed by Jesus were not merely random acts of power, but intentional demonstrations of his divinity and authority." 
 
 2. "These signs served as a means of revealing the true nature and character of Jesus, pointing to his identity as the Son of God." 
@@ -47,4 +47,4 @@ The Bible verse being described is a record of the signs and miracles performed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

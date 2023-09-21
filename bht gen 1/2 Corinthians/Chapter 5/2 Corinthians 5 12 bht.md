@@ -9,7 +9,7 @@ This Bible verse focuses on the intention behind the speaker's words, who seeks 
 2. "That you may have it against those who boast in face, and not in heart." 
 3. "Implying that their hearts are indifferent about the matters of which they boast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The false teachers gloried in their outward appearance, and in external recommendations... their learning, eloquence, wisdom, riches, not in vital religion in their heart."
 2. "Their conscience does not attest their inward sincerity, as mine does."
 3. "The reason why he leaves the manifestation of his sincerity in preaching to their consciences... his not wishing to 'commend' himself again."
@@ -52,4 +52,4 @@ This Bible verse focuses on the intention behind the speaker's words, who seeks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we hear a powerful invocation from Jesus, who rises above all deceit to speak with holy severity. His words carry divine significance, revealing truths and calling on the world to listen and know. With deep knowledge of the Father and a desire for his disciples to have true communion, Jesus exposes the dishonesty of those who oppose him and challenge their beliefs. His message is one of revelation, inviting all to embrace the transformative power of truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now rising to the summit of holy, naked severity" - This phrase suggests that the speaker is about to speak with utmost honesty and seriousness, leaving no room for deception or falsehood. 
 
 2. "Draw this long dialogue to a head" - This implies that the speaker is aiming to bring the ongoing conversation to a decisive conclusion or resolution. 
@@ -34,4 +34,4 @@ In this verse, we hear a powerful invocation from Jesus, who rises above all dec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

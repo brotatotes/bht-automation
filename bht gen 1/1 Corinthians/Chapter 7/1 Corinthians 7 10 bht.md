@@ -9,7 +9,7 @@ In this Bible verse, the writer appeals to the authority of Jesus Christ regardi
 2. "ALL is the outpouring of the Spirit, but not all for all time, nor all on the primary truths of the faith."
 3. "Not I, but the Lord, viz. in ref. Matt. See also Mark 10:12, where the woman’s part is brought out."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In ordinary cases he writes on inspired apostolic authority... but here on the direct authority of the Lord Himself."
 2. "In both cases alike the things written are inspired by the Spirit of God."
 3. "Let not the wife depart—literally, 'be separated from.'"
@@ -60,4 +60,4 @@ In this Bible verse, the writer appeals to the authority of Jesus Christ regardi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

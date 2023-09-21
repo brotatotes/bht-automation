@@ -9,7 +9,7 @@ In this verse, the people are eager to take Jesus with them and proclaim Him as 
 2. "The other three Evangelists... relate the fact, and Luke preserves in the very next verse a trace of its motive, by the question 'Whom do the people say that I am?'"
 3. "The answer, expressing the very confession of the people here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to rest, which He came to this 'desert place' on purpose to do before the miracle of the loaves, but could not for the multitude that followed Him"
 2. "to pray"
 3. "from His mountain-top He kept watching the ship and doubtless prayed both for them, and with a view to the new manifestation which He was to give them of His glory."
@@ -57,4 +57,4 @@ These quotes highlight the misunderstanding of the people about the nature of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

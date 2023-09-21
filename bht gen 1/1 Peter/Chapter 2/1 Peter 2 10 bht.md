@@ -9,7 +9,7 @@ In this verse, the commentators reveal that the passage describes a transformati
 2. "these words...apply most properly to Gentile Christians"
 3. "who were unpitied, objects of aversion and wrath, but now compassionated"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter plainly confirms Paul, who quotes the passage as implying the call of the Gentiles to become spiritually that which Israel had been literally, 'the people of God.'"
 2. "Primarily, the prophecy refers to literal Israel, hereafter to be fully that which in their best days they were only partially, God's people."
 3. "Implying that it was God's pure mercy, not their merits, which made the blessed change in their state; a thought which ought to kindle their lively gratitude, to be shown with their life, as well as their lips."
@@ -57,4 +57,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

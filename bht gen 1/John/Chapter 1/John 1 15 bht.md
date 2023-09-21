@@ -9,7 +9,7 @@ The testimony of John, parallel to the assertions and testimony of the Evangelis
 2. "μαρτυρεῖ, present, for solemnity as part of the testimony to Him, not only once given, but still subsisting."
 3. "This form of the words seems to shew, as indeed would appear from the announcement of his own office by the Baptist, that he had uttered these words in the power of the Spirit concerning Him whose forerunner he was before he saw and recognized Him in the flesh."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My Successor is my Superior, for He was my Predecessor."
 2. "This enigmatic play upon the different senses of the words 'before' and 'after' was doubtless employed by the Baptist to arrest attention, and rivet the thought."
 3. "The Evangelist introduces it just to clinch his own statements."
@@ -48,4 +48,4 @@ The testimony of John, parallel to the assertions and testimony of the Evangelis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

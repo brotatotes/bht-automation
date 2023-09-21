@@ -9,7 +9,7 @@ The verse describes how the apostle Paul was chosen and appointed by Christ as a
 2. "The expression 'ὑπηρέτην ὧν εἶδες' may be compared with 'ὑπηρέται τοῦ λόγου,' which Luke calls the αὐτόπται."
 3. "The genitive is exactly paralleled by Soph. Œd. Tyr. 788, ὧν μὲν ἱκόμην = τούτων δι' ἃ ἱκόμην. So here ὧν = τούτων δι' ἃ ὀφθ., the things in (or on account of) which I will appear to thee."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here the apostle appears to condense into one statement various sayings of his Lord to him in visions at different times, in order to present at one view the grandeur of the commission with which his Master had clothed him."
 2. "Putting him on a footing with those 'eye-witnesses and ministers of the word' mentioned in Luke 1:2."
 3. "Referring to visions he was thereafter to be favored with such as Acts 18:9; Acts 18:10; Acts 22:17-21; Acts 23:11; 2 Corinthians 12:1-10, &c. (Galatians 1:12)."
@@ -48,4 +48,4 @@ The verse describes how the apostle Paul was chosen and appointed by Christ as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

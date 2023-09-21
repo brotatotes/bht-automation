@@ -9,7 +9,7 @@ This verse encourages believers to find joy in their relationship with God, rejo
 2. "And how is this possible, you ask? If we desire it, it is possible. Then he also showed the way: 'Pray without ceasing, etc.'" 
 3. "For one who is accustomed to converse with God and give thanks to Him for everything as if they are happening for their benefit, it is evident that they will have continuous joy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In order to 'rejoice evermore,' we must 'pray without ceasing'." 
 2. "He who is wont to thank God for all things as happening for the best, will have continuous joy."
 3. "Rejoice in the Lord . . . by prayer and supplication with thanksgiving."
@@ -47,4 +47,4 @@ These quotes highlight the importance of maintaining a calm and composed mind, f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

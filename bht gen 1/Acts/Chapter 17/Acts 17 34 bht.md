@@ -9,7 +9,7 @@ In this verse, we encounter a man named Dionysius the Areopagite, who was not on
 2. "The writings which go by his name are undoubtedly spurious." 
 3. "Not, as Chrys., de Sacerd. iv. 7, vol. i. p. 412, seems to infer from the form of the expression, ἠκολούθησεν αὐτῷ μετὰ τῆς γυναικός, the wife of Dionysius: this would have been ἡ γυνὴ αὐτοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having listened eagerly, they joined themselves to the apostle for further instruction; and so they 'believed.'" 
 2. "Certainly the number of converts there and of men fit for office in the Church was not so great that there could be much choice." 
 3. "It is a serious and instructive fact that the mercantile populations of Thessalonica and Corinth received the message of God with greater readiness than the highly educated and polished Athenians."
@@ -55,4 +55,4 @@ In this verse, we encounter a man named Dionysius the Areopagite, who was not on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

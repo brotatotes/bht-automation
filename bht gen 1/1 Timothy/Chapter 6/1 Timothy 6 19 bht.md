@@ -4,7 +4,7 @@
 Commentators say that by wisely using possessions, we can lay up treasures in heaven, leading to eternal blessings and an enduring, meaningful life. The deliberate accumulation of valuable spiritual riches ensures a secure foundation beyond earthly vulnerabilities. Our actions in this life have eternal consequences, and acts of charity contribute to the pursuit of eternal life. Neglecting such acts may hinder our ability to receive God's grace and salvation, emphasizing the importance of treasuring up treasures in heaven.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is a treasure which we act wisely in laying up in store, whereas the wisest thing we can do with earthly treasures is 'to distribute' them and give others a share of them."
 2. "The sure reversion of the future heavenly inheritance: earthly riches scattered in faith lay up in store a sure increase of heavenly riches."
 3. "The oldest manuscripts and versions read, 'that which is really life,' its joys being solid and enduring. The life that now is cannot be called so, its goods being unsubstantial, and itself a vapor."
@@ -51,4 +51,4 @@ Commentators say that by wisely using possessions, we can lay up treasures in he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

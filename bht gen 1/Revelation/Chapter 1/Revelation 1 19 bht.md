@@ -9,7 +9,7 @@ Write the visions you have witnessed, signifying their meaning. These messages a
 2) "Is it not because the μέλλει γενέσθαι merely signifies the future time, in which this latter class, en masse, were to happen, whereas this ἃ εἰσί imports, what these things, each of them, severally, mean?"
 3) "I would take γενέσθαι in the sense of happening, not in the wide ages of history, but in apocalyptic vision: seeing that, ταῦτα meaning ἃ εἶδες, ἃ μέλλει γενέσθαι will by analogy mean the things which shall succeed these, i. e. a future vision."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Write therefore" (inasmuch as I, "the First and Last," have the keys of death, and vouchsafe to thee this vision for the comfort and warning of the Church).
 2. "The things which are" imply the present state of things in the churches when John was writing, as represented in the second and third chapters.
 3. "The things which shall be hereafter," the things symbolically represented concerning the future history of the fourth through twenty-second chapters.
@@ -45,4 +45,4 @@ Write the visions you have witnessed, signifying their meaning. These messages a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, individuals are urged to go beyond their comfort zones and share the message of the gospel with all, without discriminating or excluding anyone. It emphasizes the need to reach out to those who may be considered outcasts or far from God, as well as to those who may be deemed unworthy or undeserving. The verse calls for a universal invitation, extending grace and hope to individuals from all walks of life, regardless of their background or past actions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go ye therefore into the highways—the great outlets and thoroughfares, whether of town or country, where human beings are to be found." This quote emphasizes the importance of reaching out to people wherever they are, without any discrimination or judgment.
 
 2. "And as many as ye shall find, bid to the marriage—that is, just as they are." This quote highlights the inclusive nature of the invitation to the marriage feast, emphasizing that everyone is welcome, regardless of their background or current state.
@@ -51,4 +51,4 @@ In this verse, individuals are urged to go beyond their comfort zones and share 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

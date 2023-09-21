@@ -9,7 +9,7 @@ During a period of about four hundred and fifty years, God's people were led and
 2. "Paul followed a chronology current among the Jews, and agreeing with the book of Judges itself (the spaces of time in which, added together = exactly 450), and that adopted by Josephus, but not with that of our present Hebrew text of 1 Kings 6:1."
 3. "Wordsworth, contrary to his usual practice, takes refuge in the amended text of [68] [69] [70], and then characterizes in the severest language those who have had the moral courage to abide by the more difficult reading, charging them with “arbitrary caprice,” “gratifying a sceptical appetite,” &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "about four hundred fifty years elapsed from the time of the covenant with Abraham until the period of the judges"
 2. "this statement also will appear historically correct, if we include in it the interval of subjection to foreign powers which occurred during the period of the judges"
 3. "understand it to describe the whole period from the settlement of the tribes in Canaan to the establishment of royalty"
@@ -43,4 +43,4 @@ During a period of about four hundred and fifty years, God's people were led and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

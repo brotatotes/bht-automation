@@ -9,7 +9,7 @@ The verse being described in this commentary brings together the significance of
 2. "The Baptist, by his name John, spake of the ἔλεος or grace of God."
 3. "Zacharias signifies θεὸς ἐμνήσθη, and Elisabeth is connected with the ὅρκος θεοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole work and kingdom of Messiah is represented as a mercy pledged on oath to Abraham and his seed." 
 2. "The fulness of the time, gloriously made good." 
 3. "Grace, or the thing promised, and truth, or fidelity to the promise, are said to come by Jesus Christ."
@@ -47,4 +47,4 @@ The verse being described in this commentary brings together the significance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

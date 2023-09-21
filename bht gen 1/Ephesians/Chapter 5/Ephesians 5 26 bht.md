@@ -4,7 +4,7 @@
 In this verse, the commentator's insights reveal the profound significance behind the cleansing and sanctifying process described. Through the sacrifice of Jesus Christ, the church is purified and made holy. The word of God plays a crucial role in this sanctification, serving as the transformative power and guide. Baptism symbolizes our identification with Christ and the washing away of sin, representing the inward and spiritual grace received through faith. It is through the combination of God's truth and the cleansing power of Christ's sacrifice that believers are sanctified and set apart for God's purposes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I devote Myself as a holy sacrifice, that My disciples also may be devoted or consecrated as holy in (through) the truth."
 2. "As the bride passed through a purifying bath before marriage, so the Church."
 3. "The 'word of faith'... carries the real cleansing and regenerating power."
@@ -49,4 +49,4 @@ In this verse, the commentator's insights reveal the profound significance behin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

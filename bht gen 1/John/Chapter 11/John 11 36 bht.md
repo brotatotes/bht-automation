@@ -4,7 +4,7 @@
 In this verse, we witness the extraordinary love that Jesus had for Lazarus. Commentators emphasize the deep affection and attachment Jesus had for Lazarus, which was evident even to his enemies. They highlight the amazing nature of Christ's love, as it surpasses human understanding and originates from the eternal Son of God. Despite the doubts and ingratitude of the Jews, Jesus' love for Lazarus remains unwavering, reflecting the sacrificial nature of his love for all his people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold how he loved him!" - This quote highlights the Jews' recognition of Jesus' deep love for Lazarus, emphasizing the human tenderness of the Son of God.
 2. "We thank you, O ye visitors from Jerusalem" - This quote acknowledges the gratitude towards the Jews for their spontaneous testimony, indicating the significance of their observation.
 3. "spontaneous testimony to the human tenderness of the Son of God" - This quote emphasizes the commentary's interpretation of the Jews' statement as a genuine and heartfelt recognition of Jesus' compassionate nature.
@@ -35,4 +35,4 @@ In this verse, we witness the extraordinary love that Jesus had for Lazarus. Com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

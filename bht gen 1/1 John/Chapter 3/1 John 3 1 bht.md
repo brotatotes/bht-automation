@@ -9,7 +9,7 @@ Through the comments of commentators like John Gill and John Wesley, we gain a d
 2. "The reality of a believer’s sonship of God, and his non-recognition by the world, are thus necessarily connected together."
 3. "It is the world’s ignorance of God, considered as one great act of non-recognition, disobedience, rebellion, hate, which makes them incapable of recognizing, loving, sympathizing with, those who are veritably children of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All our doing of righteousness is a mere sign that God, of His matchless love, has adopted us as children; it does not save us, but is a proof that we are saved of His grace."
 2. "He does not say that God hath given us some gift, but love itself and the fountain of all honors, the heart itself, and that not for our works or efforts, but of His grace."
 3. "With God to call is to make really to be. Who so great as God? What nearer relationship than that of sons? The oldest manuscripts add, 'And we ARE SO' really."
@@ -58,4 +58,4 @@ Through the comments of commentators like John Gill and John Wesley, we gain a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

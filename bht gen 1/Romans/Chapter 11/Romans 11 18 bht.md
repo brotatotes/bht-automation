@@ -9,7 +9,7 @@ The verse being described is a warning against boasting or looking down upon oth
 2. "It is not thou that bearest the root, but the root thee." 
 3. "The ground of humiliation is 'Thou partakest of thy blessings solely by union with God’s spiritual church, which church has for its root that Father of the faithful, from whom they are descended. Regard them not therefore with scorn.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the branches may not boast over the root that bears them, then may not the Gentile boast over the seed of Abraham."
 2. "For what is thy standing, O Gentile, in relation to Israel, but that of a branch in relation to the root?"
 3. "From Israel hath come all that thou art and hast in the family of God; for 'salvation is of the Jews'."
@@ -53,4 +53,4 @@ The verse being described is a warning against boasting or looking down upon oth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

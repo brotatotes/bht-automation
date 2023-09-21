@@ -4,7 +4,7 @@
 The description of the Bible verse is about the divine plan unfolding throughout history, leading up to a culmination in Christ. It emphasizes that all things were once united in Christ, including angels and men. The verse also highlights the restorative aspect of Christ's work, gathering and bringing together all things under His leadership. The verse speaks of the unity of all God's creation, encompassing angels and men, both living and dead, in Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole of the Gospel times (plural) is meant, with the benefits to the Church dispensed in them severally and successively."
 2. "The coming of Jesus at the first advent, 'in the fulness of time,' was one of these 'times.'"
 3. "God's purpose is to sum up the whole creation in Christ, the Head of angels, with whom He is linked by His invisible nature, and of men with whom He is linked by His humanity; of Jews and Gentiles; of the living and the dead."
@@ -48,4 +48,4 @@ The description of the Bible verse is about the divine plan unfolding throughout
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

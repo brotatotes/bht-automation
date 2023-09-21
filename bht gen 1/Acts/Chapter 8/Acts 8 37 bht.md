@@ -4,7 +4,7 @@
 The Bible verse being described emphasizes the importance of faith and profession of belief before baptism. It is necessary to truly believe in Christ with the heart for a genuine profession of faith. This faith should not be superficial or insincere, but a true surrender of the heart, will, and affections to the truth of the Gospel. Without such faith, it is impossible to please God, making it a vital prerequisite for baptism.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The respect with which he here addresses Philip was prompted by his reverence for one whom he perceived to be his superior in divine things."
 2. "His own worldly position sinking before this."
 3. "The eunuch's response reflects his recognition of Philip's authority in matters of faith."
@@ -33,4 +33,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

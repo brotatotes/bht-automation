@@ -9,7 +9,7 @@ This Bible verse describes a questioning session where John clarifies his identi
 2. "The deputation asked the question in a mistaken and superstitious sense, expecting Elijah to physically come down from heaven. In this sense, John was not Elijah." 
 3. "The Jews expected a particular prophet to arise, distinct from the Messiah, whose coming was intimately connected with that of the Messiah Himself. John clarifies that he is not that prophet."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Elias—in His own proper person." This quote highlights the belief that Elijah would come back in the flesh, rather than in the form of another prophet. 
 
 2. "That prophet—announced in Deuteronomy 18:15, &c." This quote refers to the prophecy in Deuteronomy that speaks of a future prophet like Moses. It suggests that there was confusion among the people as to whether this prophet was the same as Elijah or the Messiah.
@@ -50,4 +50,4 @@ This Bible verse describes a questioning session where John clarifies his identi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

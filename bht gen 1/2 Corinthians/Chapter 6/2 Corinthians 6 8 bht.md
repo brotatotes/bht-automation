@@ -9,7 +9,7 @@ This Bible verse captures the paradoxical experiences faced by faithful believer
 2. "But in these following clauses a new point is perhaps brought out, viz. the difference of our real state from our reputed one."
 3. "Having said, διὰ δυσφημίας κ . εὐφημίας, he proceeds ὡς πλάνοι (answering to δυσφ .) καὶ ἀληθεῖς (answering to εὐφ .), ὡς ἀγνοούμενοι (still having δυσφ . in view, as ‘unknown,’ of obscure reputation), καὶ ἐπιγινωσκόμενοι (still looking back at εὐφ ., seeing that the ἐπίγνωσις would lead to good repute)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through glory and dishonor (disgrace), from those in authority, and accruing to us present."
 2. "By evil report and good report, from the multitude, and affecting us absent."
 3. "Regarded 'as deceivers' by those who, not knowing, dishonor and give us an evil report; 'as true,' by those who 'know' us in the real 'glory' of our ministry."
@@ -57,4 +57,4 @@ This Bible verse captures the paradoxical experiences faced by faithful believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

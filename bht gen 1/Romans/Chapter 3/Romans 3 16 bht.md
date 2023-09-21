@@ -4,7 +4,7 @@
 This Bible verse is a depiction of the destructive and harmful nature of human actions. The verse describes the paths taken by individuals that lead to ruin, misery, and the spread of chaos. It highlights the negative consequences of choices and behavior, resulting in the destruction of happiness, peace, and even the reputation of others. The verse emphasizes the far-reaching impact of these actions, not only affecting individuals in the present but also throughout history. It captures the essence of the devastating consequences of wickedness and the need for redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Destruction and misery are in their ways" - This quote highlights the negative impact of human actions, emphasizing the harm and suffering that people bring upon themselves and others through their choices and behaviors.
 
 2. "The way of peace have they not known" - This quote emphasizes the lack of understanding and experience of true peace among individuals. It suggests that people are unfamiliar with the path of peace, indicating a state of unrest and conflict in their lives.
@@ -42,4 +42,4 @@ This Bible verse is a depiction of the destructive and harmful nature of human a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

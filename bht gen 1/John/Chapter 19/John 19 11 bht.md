@@ -9,7 +9,7 @@ In this passage, Jesus confronts Pilate, recognizing that the power Pilate holds
 2. "The great stress is on the word ἄνωθεν, on which Grotius strikingly says, 'inde scilicet, unde ortus sum!'"
 3. "God has given to thee power over me; not insight into the character which I claim, that of being the son of God but simply power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou couldest... have no power at all against me." - The commentary highlights that Pilate's power over Jesus was not a result of his own authority, but rather a divine appointment. This quote emphasizes the limited control Pilate had in the situation.
 
 2. "Unless it had been given thee from above." - This quote further emphasizes the idea that Pilate's power was granted to him by divine appointment. It suggests that Pilate's authority was ultimately subject to a higher power.
@@ -63,4 +63,4 @@ These quotes highlight the connection between Pilate's power and Jesus' divine o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

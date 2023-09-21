@@ -9,7 +9,7 @@ In this verse, we are reminded of the intimate relationship between God and beli
 2. "This fact it is to which the Apostle here calls our attention, as proving not the external fact of the sending of the Son, but one within ourselves - the indwelling of God in us, and our abiding in Him."
 3. "And the presence of the Holy Spirit is most aptly adduced here where love is in question, His first fruit being love, and His presence being tested by His fruits."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The token vouchsafed to us of God's dwelling in us, though we see Him not, is this, that He hath given us 'of His Spirit'." 
 2. "Where the Spirit of God is, there God is." 
 3. "In Jesus alone the Spirit dwelt without measure."
@@ -33,4 +33,4 @@ In this verse, we are reminded of the intimate relationship between God and beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

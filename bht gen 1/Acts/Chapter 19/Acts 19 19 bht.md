@@ -9,7 +9,7 @@ In this Bible verse, a group of people in Ephesus renounced their magical practi
 2. "These last were celebrated by the name of Ἐφέσια γράμματα."
 3. "They were copies of the mystic words engraved on the image of the Ephesian Artemis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word signifies things 'overdone'; significantly applied to arts in which laborious but senseless incantations are practiced."
 2. "The tense, here used graphically, expresses progress and continuance of the conflagration."
 3. "The scene must have been long remembered at Ephesus, as a strong proof of honest conviction on the part of the sorcerers and a striking triumph of Jesus Christ over the powers of darkness."
@@ -54,4 +54,4 @@ In this Bible verse, a group of people in Ephesus renounced their magical practi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

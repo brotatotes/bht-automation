@@ -9,7 +9,7 @@ In this passage, the author warns against the potential dangers and temptations 
 2. "ἁδρότης, 'compact,' 'solid;' is used in Homer...of a firm and succulent habit of body."
 3. "What kind of abundance is meant, the context therefore alone determines."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Avoiding—taking precautions against this." - This quote highlights the importance of being cautious and taking measures to avoid falling into a particular situation or temptation.
 2. "In this abundance—in the case of this abundance." - This quote suggests that the need for caution is particularly relevant in times of abundance or excess, emphasizing the potential dangers that can arise when one has an abundance of something.
 3. "Taking precautions against this abundance." - This quote emphasizes the need to be proactive in guarding against the potential negative consequences that can come with having an abundance of something.
@@ -50,4 +50,4 @@ In this passage, the author warns against the potential dangers and temptations 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the midst of you stands one of great importance, who has already been recognized as the Messiah and has the power to baptize in the Holy Ghost. However, there is a tragic lack of knowledge and recognition among the people regarding this significant figure. John's baptism serves as a preparation for the coming of Jesus, a reminder that both Jews and Gentiles need to embrace him as their Savior and be cleansed from their sins through repentance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This must have been spoken after the baptism of Christ, and possibly just after His temptation." 
 
 2. "The Lamb of God, who takes away the sin of the world, is the central figure in God's redemptive plan." 
@@ -42,4 +42,4 @@ In the midst of you stands one of great importance, who has already been recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

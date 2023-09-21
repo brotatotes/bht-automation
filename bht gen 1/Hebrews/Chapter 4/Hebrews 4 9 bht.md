@@ -9,7 +9,7 @@ The Bible verse being described speaks of a sacred rest, a Sabbath-rest that rem
 2. "For He that entered into his (own or God’s) rest, Himself also rested from His works like as God rested from His own."
 3. "Thus, as Ebrard says, Jesus is placed in the liveliest contrast to Joshua, who had not brought God’s people to their rest; and is designated as ‘That one, who entered into God’s rest.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's rest was a Sabbatism; so also will ours be."
 2. "The 'rest' in Hebrews 4:9 is the nobler and more exalted (Hebrew) 'Sabbath' rest; literally, 'cessation': rest from work when finished."
 3. "The whole renovated creation shall share in it; nothing will there be to break the Sabbath of eternity; and the Triune God shall rejoice in the work of His hands."
@@ -52,4 +52,4 @@ The Bible verse being described speaks of a sacred rest, a Sabbath-rest that rem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

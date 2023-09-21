@@ -9,7 +9,7 @@ The verse being described highlights the instantaneous and complete restoration 
 2. "Οὕτως is not for τοῦτο or τοιοῦτό τι."
 3. "Approaches much more nearly to the Constantinopolitan, or generally received text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The object being simply to record the instantaneous restoration of the natural faculties on the removal of the malignant oppression of them." 
 2. "The very different effect of it upon another class." 
 3. "Referring, probably, not to this case only, but to all those miraculous displays of healing power which seemed to promise a new era in the history of Israel."
@@ -40,4 +40,4 @@ The verse being described highlights the instantaneous and complete restoration 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

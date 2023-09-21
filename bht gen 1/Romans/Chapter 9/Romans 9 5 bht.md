@@ -4,7 +4,7 @@
 The verse being described highlights the divinity of Jesus Christ, emphasizing his eternal existence, supreme authority, and gracious sovereignty. It depicts Jesus as both human and divine, with his descent from the Jews according to the flesh. The verse declares Jesus to be not just a figure of the past, but the self-existent, independent Being who is over all, God blessed for ever. It emphasizes that no words can adequately express the divine, supreme majesty of Jesus and his ability to extend his grace to all people, regardless of their background.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To get rid of the bright testimony here borne to the supreme divinity of Christ, various expedients have been adopted."
 2. "But it is fatal to this view, as even Socinus admits, that in other Scripture doxologies the word 'Blessed' precedes the name of God on whom the blessing is invoked."
 3. "Besides, any such doxology here would be 'unmeaning and frigid in the extreme'; the sad subject on which he was entering suggesting anything but a doxology, even in connection with Christ's Incarnation."
@@ -52,4 +52,4 @@ The verse being described highlights the divinity of Jesus Christ, emphasizing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

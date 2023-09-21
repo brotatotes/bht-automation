@@ -9,7 +9,7 @@ In this verse, the importance of supporting and sharing with those who teach the
 2. "The word 'κατηχούμενος' means 'giving oral instruction,' which is confined to later Greek." 
 3. "From the mention of bearing one another's burdens, he naturally passes to one way, and one case, in which those burdens may be borne, viz. by relieving the necessities of their ministers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'but' in the Greek, beginning of this verse, expresses this: I said, Each shall bear his own burden; BUT I do not intend that he should not think of others, and especially of the wants of his ministers."
 2. "communicate unto him—'impart a share unto his teacher': literally, 'him that teacheth catechetically.'"
 3. "in all good things—in every kind of the good things of this life, according as the case may require."
@@ -55,4 +55,4 @@ In this verse, the importance of supporting and sharing with those who teach the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

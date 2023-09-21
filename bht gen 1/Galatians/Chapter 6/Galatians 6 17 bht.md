@@ -9,7 +9,7 @@ In this passage, the Apostle Paul asserts his authority and pleads for peace, re
 2. "ἐγὼ γάρ] for it is I (not the Judaizing teachers) who carry (perhaps as in Galatians 6:5, and ch. Galatians 5:10, bear, as a burden: but Chrys.’s idea seems more adapted to the ‘feierlich’ character of the sentence: οὐκ εἶπεν, ἔχω, ἀλλά, βαστάζω, ὥσπερ τις ἐπὶ τροπαίοις μέγα φρονῶν ἢ σημείοις βασιλικοῖς: see reff. (2)) in (on) my body the marks of Jesus."
 3. "τὰ στίγματα, the marks branded on slaves to indicate their owners. So Herod. vii. 233, τοὺς πλεῦνας αὐτέων, κελεύσαντος Ξέρξεω, ἔστιζον στίγματα βασιλήϊα: and in another place (ii. 113) is a passage singularly in point: ὅτεῳ ἀνθρώπων ἐπιβάληται στίγματα ἱρά, ἑωϋτὸν διδοὺς τῷ θεῷ, οὐκ ἔξεστι τούτου ἅψασθαι. See many more examples in Wetst. These marks, in St. Paul’s case, were of course the scars of his wounds received in the service of his Master cf. 2 Corinthians 11:23 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let no man trouble me—by opposing my apostolic authority, seeing that it is stamped by a sure seal, namely, 'I bear (as a high mark of honor from the King of kings).'"
 2. "Paul's scars of wounds received for Christ's sake, indicate to whom he belongs, and in whose free and glorious service he is."
 3. "The Judaizing teachers gloried in the circumcision mark in the flesh of their followers: Paul glories in the marks of suffering for Christ on his own body."
@@ -55,4 +55,4 @@ In this passage, the Apostle Paul asserts his authority and pleads for peace, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

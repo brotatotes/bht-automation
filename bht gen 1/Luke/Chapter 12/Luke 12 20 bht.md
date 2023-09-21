@@ -10,7 +10,7 @@ In this Bible verse, a rich man is confronted with the harsh reality that his so
 3. "αἰτοῦσιν, not strictly impersonal; there are those whose business it is, even the angels, the ministers of the divine purposes: see ch. Luk 6:38 and note. The merely impersonal sense may be defended: cf. Luke 12:48: but this saying seems so solemn, as to require something more."
 4. "ἃ ἡτοίμασας, which thou madest ready; but not for thyself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This sudden cutting short of his career is designed to express not only the folly of building securely upon the future, but of throwing one's whole soul into what may at any moment be gone."
 2. "'Thy soul shall be required of thee' is put in opposition to his own treatment of it, 'I will say to my soul, Soul,' &c."
 3. "Compare Psalms 39:6, 'He heapeth up riches and knoweth not who shall gather them.'"
@@ -57,4 +57,4 @@ In this Bible verse, a rich man is confronted with the harsh reality that his so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

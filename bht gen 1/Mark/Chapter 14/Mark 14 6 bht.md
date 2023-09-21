@@ -9,7 +9,7 @@ In this verse, a woman pours out a costly perfume on Jesus, an act that reveals 
 2. The use of this phrase suggests that even Judas, who would later betray Jesus, is not excluded from the forgiveness and mercy offered by Jesus. (Quote 2)
 3. By including this statement, the Gospel emphasizes the universal nature of Jesus' forgiveness and the possibility of redemption for all, regardless of their actions or intentions. (Quote 3)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She hath wrought a good work on me" - This emphasizes that the act of the woman was not only good in itself, but it held a special significance to Jesus. It shows that our actions can have a personal impact on Christ.
 2. "It was eminently seasonable" - This highlights the perfect timing of the woman's act. It suggests that our actions can have a greater impact when they align with God's timing and purposes.
 3. "It was 'what she could'" - This reminds us that our offerings to God do not need to be grand or extravagant. God values the sincerity and effort behind our actions, regardless of their magnitude.
@@ -39,4 +39,4 @@ In this verse, a woman pours out a costly perfume on Jesus, an act that reveals 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

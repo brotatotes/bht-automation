@@ -4,7 +4,7 @@
 The disciples, perplexed and frustrated by their failed attempts to cast out a demon, privately approached Jesus seeking an explanation. Their question demonstrated both their humility and dependence on Jesus' power and authority. Despite their previous successes, they acknowledged their limitations and desired growth, displaying a teachable spirit essential for spiritual maturity. Even in their fear and confusion, the disciples sought reassurance and guidance from Jesus, recognizing their need for his wisdom and intervention.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples were perplexed and frustrated by their inability to cast out the demon, and they sought Jesus for an explanation. This question reveals their desire to understand the reason behind their failure, showing their humility and willingness to learn from their mistakes."
 
 2. "This question also highlights the disciples' dependence on Jesus' power and authority. They recognized that their own efforts were insufficient, and they needed Jesus' guidance and intervention to overcome the spiritual forces at work."
@@ -32,4 +32,4 @@ The disciples, perplexed and frustrated by their failed attempts to cast out a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

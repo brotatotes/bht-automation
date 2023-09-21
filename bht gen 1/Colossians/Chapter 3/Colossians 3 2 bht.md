@@ -4,7 +4,7 @@
 This verse urges us to focus our minds and affections on heavenly things rather than being consumed by the desires and distractions of this earthly realm, reminding us that idolizing worldly things can be detrimental to both believers and unbelievers. By contrasting those who fixate on earthly matters with those who prioritize eternal values, the verse highlights the need to seek and think about the heavenly realm. It encourages believers to not only seek heaven but also cultivate a heavenly mindset, setting their minds on things above rather than on trivial matters and sinful earthly pleasures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Set your mind on the things above, not on the things of the earth." - This verse reminds us to focus on heavenly things rather than being consumed by earthly desires and distractions.
 2. "Whatever we make an idol of, will either be a cross to us if we be believers, or a curse to us if unbelievers." - This quote highlights the danger of idolizing worldly things, as they can become stumbling blocks for believers and sources of destruction for unbelievers.
 3. "Contrast 'who mind earthly things'." - By contrasting those who focus on earthly things with those who set their minds on heavenly things, this verse emphasizes the importance of prioritizing eternal values over temporary pleasures.
@@ -45,4 +45,4 @@ This verse urges us to focus our minds and affections on heavenly things rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This Bible verse urges believers to redirect their pride and boasting away from 
 2. "The Source of all grace and strength and success in the ministry." 
 3. "See 1 Corinthians 15:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only true boasting is in the Lord."
 2. "In contrast to his opponents' practice of boasting in another's line or sphere."
 3. "Paul declares the only true boasting is in the Lord."
@@ -49,4 +49,4 @@ These quotes emphasize the importance of giving credit to the Lord for any achie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

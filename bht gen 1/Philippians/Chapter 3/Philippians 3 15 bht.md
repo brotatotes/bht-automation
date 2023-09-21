@@ -4,7 +4,7 @@
 In this Bible verse, believers are called to strive for perfection, not in the sense of absolute flawlessness, but in comparison to others who may be at a lower level of knowledge and experience. It emphasizes the need to press forward, forgetting past failures, and focusing on the ultimate goal of reaching Christ. God's Spirit will guide and reveal the truth to those who earnestly seek it, allowing them to grow and progress in their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As many of us then, as are perfect, fully established in things of God."
 2. "He who thinks that he has attained everything, hath nothing."
 3. "Paul taught externally God 'reveals' the truth internally by His Spirit."
@@ -50,4 +50,4 @@ Note: The commentary provides insights on the need for believers to strive for p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

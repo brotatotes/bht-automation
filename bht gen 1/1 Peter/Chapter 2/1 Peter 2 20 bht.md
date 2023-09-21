@@ -9,7 +9,7 @@ In this Bible verse, the commentator remarks on the different kinds of glory tha
 2. "Ye shall endure it... ye shall take it patiently." 
 3. "If well-doing and suffering... for this is thankworthy with God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What kind of glory is it that we receive when we are buffeted, as if we were slaves? It is a glory that surpasses the ordinary, a glory that is peculiar and unique." 
 
 2. "If we can endure the buffeting patiently, it becomes an acceptable and thankworthy act. It is a demonstration of our faith and trust in God, and it brings glory to His name." 
@@ -54,4 +54,4 @@ In this Bible verse, the commentator remarks on the different kinds of glory tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

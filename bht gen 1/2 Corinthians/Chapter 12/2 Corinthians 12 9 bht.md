@@ -9,7 +9,7 @@ In this verse, God reassures believers that His grace is sufficient to sustain t
 2. "My grace is sufficient for thee, spoken from the divine omniscience, 'suffices, and shall suffice: the trial must endure, untaken away: but the grace shall also endure, and never fail thee."
 3. "Most gladly therefore will I rather boast in my infirmities, that the Power of Christ may have its residence in me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The trial must endure, but the grace shall also endure and never fail thee."
 2. "Do not ask for sensible strength, FOR My power is perfected in man's 'strengthlessness'."
 3. "The Lord has more need of our weakness than of our strength: our strength is often His rival; our weakness, His servant, drawing on His resources, and showing forth His glory."
@@ -53,4 +53,4 @@ In this verse, God reassures believers that His grace is sufficient to sustain t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

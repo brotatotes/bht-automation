@@ -9,7 +9,7 @@ In this verse, we find a prayer for believers to receive the Spirit of wisdom an
 2. "Having the eyes of your heart enlightened, that you may know what is the hope of His calling."
 3. "What the riches of the glory of His inheritance in the saints."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus Himself called the Father 'My God' (Matthew 27:46)."
 2. "The Father of that infinite glory which shines in the face of Christ, who is 'the glory' (the true Shekinah)."
 3. "The spirit of wisdom...works wisdom in believers."
@@ -55,4 +55,4 @@ In this verse, we find a prayer for believers to receive the Spirit of wisdom an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

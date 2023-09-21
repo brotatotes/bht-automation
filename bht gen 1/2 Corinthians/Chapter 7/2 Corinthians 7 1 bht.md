@@ -9,7 +9,7 @@ The commentator notes that believers are called to actively purify themselves, b
 2. "The exhortations are general and regard all possible connection and participation, all leanings towards a return to heathenism which might be bred by too great familiarity with heathens." 
 3. "The fivefold variation of the term to express partnership shows the Apostle's command of the Greek language."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cleanse ourselves—This is the conclusion of the exhortation."
 2. "The spirit receives pollution through the flesh, the instrument of uncleanness."
 3. "The cleansing away impurity is a positive step towards holiness."
@@ -59,4 +59,4 @@ These quotes emphasize the call for believers to actively pursue holiness, both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

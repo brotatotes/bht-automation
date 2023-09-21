@@ -9,7 +9,7 @@ This verse describes the unyielding faith and courage of Paul in proclaiming the
 2. "The gospel, which is the greatest example of the Power of God, he strikingly calls that Power itself."
 3. "The direction in which this power acts in the gospel is εἰς σωτηρίαν, it is a healing, saving power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This language implies that it required some courage to bring to 'the mistress of the world' what 'to the Jews was a stumbling-block and to the Greeks foolishness'." 
 2. "But its inherent glory, as God's life-giving message to a dying world, so filled his soul, that, like his blessed Master, he 'despised the shame'." 
 3. "The apostle announces the great theme of his ensuing argument; SALVATION, the one overwhelming necessity of perishing men; this revealed IN THE GOSPEL MESSAGE."
@@ -61,4 +61,4 @@ Overall, these quotes shed light on Paul's mindset and the unique challenges he 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

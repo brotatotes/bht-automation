@@ -4,7 +4,7 @@
 In this passage, we see that Paul is currently being held captive in Caesarea and there are concerns for his safety and well-being. The governor, Festus, is cautious and protective of Paul, refusing the request to bring him to Jerusalem and ensuring that he is kept under proper guard. There is a sense of wisdom and prudence in Festus' actions, as he navigates the delicate situation, while also recognizing the rights and privileges of Paul as a Roman citizen. It is through these unseen workings that God's providence is evident, ensuring the preservation of Paul's life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul is in custody at Caesarea" - This quote highlights the current situation of Paul, indicating that he is being held captive in Caesarea. 
 
 2. "Paul himself would depart shortly thither" - This quote suggests that Paul plans to leave Caesarea soon, implying that there might be a change in his circumstances or a new development in his case. 
@@ -49,4 +49,4 @@ Note: The provided commentary does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The enmity against God refers to the deep-seated hostility and opposition that h
 
 3. "Neither can it." This phrase underscores the inability of the fleshly mind to conform to God's law, as demonstrated in the previous chapter.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The desire and pursuit of carnal ends is a state of enmity to God, wholly incompatible with true life and peace in the soul."
 2. "In such a state of mind there neither is nor can be the least subjection to the law of God."
 3. "Many things may be done which the law requires, but nothing either is or can be done because God's law requires it, or purely to please God."
@@ -61,4 +61,4 @@ The enmity against God refers to the deep-seated hostility and opposition that h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

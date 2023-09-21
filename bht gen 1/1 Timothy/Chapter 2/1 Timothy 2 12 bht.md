@@ -4,7 +4,7 @@
 In this verse, we are warned against women who seek to exert control and dominance over men in the church. The phrase "usurp authority over the man" implies a desire to be an autocrat and to dominate others. This prohibition is not a statement on women's intellectual capabilities, but rather reflects the cultural and societal norms of the time. The verse highlights the Apostle Paul's stance on women's roles in teaching within the church, emphasizing the importance of maintaining a God-ordained order of authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Usurp authority" means to "lord it over the man" and implies a desire to be an autocrat.
 2. The phrase suggests a misuse of power and a desire to dominate others.
 3. This verse warns against those who seek to exert control and authority over others in an oppressive manner.
@@ -52,4 +52,4 @@ In this verse, we are warned against women who seek to exert control and dominan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

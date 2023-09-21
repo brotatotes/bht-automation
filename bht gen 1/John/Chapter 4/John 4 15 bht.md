@@ -9,7 +9,7 @@ This verse describes a conversation between Jesus and a Samaritan woman who is i
 2. "Half in banter, half in earnest, wishing perhaps besides to see whether the gift would after all be conferred, and how, she mingles in with the τοῦτο τὸ ὕδωρ, implying some view of its distinct nature."
 3. "We must be able to enter into the complication of her character, and the impressions made on her by the strange things which she has heard, fully to appreciate the spirit of this answer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is not obtuseness—that is giving way—it expresses a wondering desire after she scarce knew what from this mysterious Stranger."
 
 2. "The woman's request for the living water is a reflection of her deep longing for something more, even if she doesn't fully understand what it is."
@@ -54,4 +54,4 @@ This verse describes a conversation between Jesus and a Samaritan woman who is i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

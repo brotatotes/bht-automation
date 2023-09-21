@@ -9,7 +9,7 @@ Approach the throne of grace with confidence, for it is where God, our reconcile
 2. "That we may receive compassion and may find grace for help in time." 
 3. "The throne of grace is open, and you yourselves not overwhelmed by the danger."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Boldly approach the throne of grace with confidence or freedom of speech."
 2. "Pleading our High Priest Jesus' meritorious death, we shall always find God on a throne of grace."
 3. "A supply of grace is in store for believers against all exigencies; but they are only supplied with it according as the need arises."
@@ -59,4 +59,4 @@ Approach the throne of grace with confidence, for it is where God, our reconcile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

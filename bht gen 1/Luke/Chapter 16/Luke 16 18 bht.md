@@ -4,7 +4,7 @@
 In this verse, Jesus confronts the hypocrisy of the religious leaders who distorted the law and undermined its true intent. He unequivocally affirms the enduring validity and significance of the law, emphasizing the gravity of adultery and the sanctity of marriage. Jesus challenges the prevailing cultural norms by reminding his listeners that divorce should not be taken lightly, but rather, they should prioritize commitment and reconciliation. He exposes the misplaced priorities of the Pharisees, urging his followers to honor their commitments and uphold the sacredness of marriage.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Far from intending to weaken the force of the law, in these allusions to a new economy, our Lord, in this unexpected way, sends home its high requirements with a pungency which the Pharisees would not fail to feel."
 
 2. "Putteth away his wife, &c.—(See on :-)." 
@@ -42,4 +42,4 @@ In this verse, Jesus confronts the hypocrisy of the religious leaders who distor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

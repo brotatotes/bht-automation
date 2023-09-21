@@ -9,7 +9,7 @@ The verse being described is a powerful testimony from the Holy Spirit, affirmin
 2. "ἡμῖν is the dat. commodi" - The use of the dative case indicates that the testimony of the Holy Spirit is for the benefit of Christians.
 3. "the other is far better" - The commentary suggests that the interpretation of ἡμῖν as referring to Christians in general, rather than just the Writer, is a more accurate understanding.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The testimony of all Three leads to the same conclusion."
 2. "The great object of the quotation here is to prove that, there being in the Gospel covenant, 'REMISSION of sins,' there is no more need of a sacrifice for sins."
 3. "The object of the same quotation in Hebrews 8:8-13 is to show that, there being a 'NEW covenant,' the old is antiquated."
@@ -40,4 +40,4 @@ The verse being described is a powerful testimony from the Holy Spirit, affirmin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

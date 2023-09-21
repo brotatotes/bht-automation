@@ -4,7 +4,7 @@
 In this verse, we see a contrast between the true church and the apostate church. The fine linen worn by the people of God represents their purity and righteousness bestowed upon them by God. However, the apostate church, represented by Egypt, is depicted as engaging in idolatry and worldly indulgence. The verse further highlights the opulence and luxury found in the apostate church, with mentions of precious stones, silk, and all manner of valuable vessels. This description serves as a cautionary reminder of the dangers of materialism and the importance of remaining steadfast in true faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fine linen" put on Israel and the New Testament Church, the Bride, by God, contrasts with the apostate Church represented by Egypt. (Revelation 11:8)
 2. Thyine wood, a sweet-smelling tree used for incense, adds to the sensory experience of the verse. (Revelation 11:8)
 3. The use of the phrase "all manner vessels" emphasizes the inclusivity of every type of vessel or furniture. (Revelation 11:8)
@@ -40,4 +40,4 @@ In this verse, we see a contrast between the true church and the apostate church
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

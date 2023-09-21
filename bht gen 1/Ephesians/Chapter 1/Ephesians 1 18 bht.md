@@ -4,7 +4,7 @@
 The verse being described is centered around the theme of enlightenment and spiritual understanding. The heart, representing the core of life and thoughts, is emphasized as the source of perception and contemplation. The quote emphasizes that this understanding is a result of spiritual enlightenment and God's calling. The verse also highlights the significance of faith and hope, emphasizing their divine nature and the immeasurable worth they hold. Overall, the verse encourages the reader to seek a deeper understanding of God's truth, His calling, and the blessings He has in store for His chosen people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having the eyes of your heart enlightened" - The commentary suggests that the heart is the core of life and the fountain of thoughts. It includes the mind and the inclination, and its inward vision receives and contemplates the light.
 2. "The eye is the symbol of intelligence" - This quote highlights the symbolism of the eye as representing intelligence, emphasizing the importance of spiritual understanding and enlightenment.
 3. "The inheritance which He has in his saints" - The commentary suggests that the saints themselves are the inheritance that God has in store, emphasizing the special relationship between God and His chosen people.
@@ -52,4 +52,4 @@ The verse being described is centered around the theme of enlightenment and spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

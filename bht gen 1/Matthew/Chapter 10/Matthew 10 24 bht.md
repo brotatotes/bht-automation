@@ -9,7 +9,7 @@ The verse being described invites disciples to emulate their Master, understandi
 2. "The threefold relation of our Lord and His followers here brought out may thus be exemplified from Scripture."
 3. "The view here is that disciples must not expect a better lot than their Master, but be well satisfied if they have no worse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciple is not above his master—teacher." - This quote emphasizes the hierarchical relationship between a disciple and their master. It implies that the disciple should not consider themselves superior or more knowledgeable than their teacher.
 
 2. "Nor the servant above his lord." - This quote highlights the importance of humility and submission in the relationship between a servant and their lord. It suggests that the servant should not think of themselves as higher in rank or authority than their master.
@@ -42,4 +42,4 @@ The verse being described invites disciples to emulate their Master, understandi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

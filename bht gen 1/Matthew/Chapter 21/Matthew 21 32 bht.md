@@ -9,7 +9,7 @@ In the Bible, there is a verse that speaks about John, who came to the people in
 2. "δικαιοσύνης for ‘repentance,’ as Noah is called δικ . κήρυξ (2Pe 2:5) in similar circumstances."
 3. "μετεμελ . ὕστ . are words repeated from the parable (Mat 21:29), and serving to fasten the application on the hearers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John came unto you in the way of righteousness—that is, calling you to repentance; as Noah is styled 'a preacher of righteousness,' when like the Baptist he warned the old world to 'flee from the wrath to come.'" 
 2. "They did not reject him; nay, they 'were willing for a season to rejoice in his light'; but they would not receive his testimony to Jesus." 
 3. "These outcasts gladly believed the testimony of John to the coming Saviour, and so hastened to Jesus when He came."
@@ -45,4 +45,4 @@ In the Bible, there is a verse that speaks about John, who came to the people in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

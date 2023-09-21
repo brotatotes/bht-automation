@@ -11,7 +11,7 @@ In this verse, there is a close relationship between Jesus and a disciple whom H
 
 Note: The commentary does not directly quote the Bible verse, so I am unable to include it in my response.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, turning about—showing that he followed immediately as directed." 
 2. "The Evangelist makes these allusions to the peculiar familiarity to which he had been admitted on the most memorable of all occasions."
 3. "Perhaps lovingly to account for Peter's somewhat forward question about him to Jesus."
@@ -59,4 +59,4 @@ Note: The commentary does not directly quote the Bible verse, so I am unable to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

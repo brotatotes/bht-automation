@@ -4,7 +4,7 @@
 In this visionary passage, two candlesticks stand before the Lord as representatives of the Church, drawing their light from the Spirit and the twofold Word. Preaching in sackcloth, they symbolize the ignominious treatment endured by the Word and Christ Himself. These candlesticks are connected to the two olive trees, which serve as sources of grace and spiritual nourishment for God's people. Just as the olive trees provide oil for the lamps, these anointed ones bring forth the oil of grace, shining as burning and shining lights, always waiting on God and asserting His authority over all things.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are 'the two candlesticks,' not that they are the Church, the one candlestick, but as its representative light-bearers." 
 2. "The Church in both dispensations has no light in herself, but derives it from the Spirit through the witness of the twofold word, the two olive trees." 
 3. "The two witnesses preach in sackcloth, marking the ignominious treatment which the word, like Christ Himself, receives from the world."
@@ -45,4 +45,4 @@ In this visionary passage, two candlesticks stand before the Lord as representat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

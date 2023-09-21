@@ -9,7 +9,7 @@ The Bible verse being described portrays the selection process of individuals to
 2. "For this use of the pass. not found in the Gospp."
 3. "The best remark is Lightfoot’s: ‘quare septem eligendi, dicat cui est audacia.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Look ye out among you...seven men of honest report." 
 2. "Full of the Holy Ghost...spiritually gifted." 
 3. "And wisdom...aptitude for practical business."
@@ -57,4 +57,4 @@ The Bible verse being described portrays the selection process of individuals to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

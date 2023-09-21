@@ -9,7 +9,7 @@ This verse describes a scene where the rulers are astonished by the boldness and
 2. "the word of contrast to those professionally acquainted with any matter: here therefore, laics, men of no knowledge on such a subject as this."
 3. "they recognized them; their astonishment setting them to think, and reminding them that they had seen these men with Jesus"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "unlearned and ignorant men—that is, uninstructed in the learning of the Jewish schools, and of the common sort; men in private life, untrained to teaching."
 2. "recognized them as having been in His company; remembering possibly, that they had seen them with Him, but more probably, perceiving in their whole bearing what identified them with Jesus."
 3. "What a testimony to these primitive witnesses! Would that the same could be said of their successors!"
@@ -55,4 +55,4 @@ This verse describes a scene where the rulers are astonished by the boldness and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

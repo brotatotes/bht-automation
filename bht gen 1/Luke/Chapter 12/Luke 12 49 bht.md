@@ -9,7 +9,7 @@ The verse in question speaks of a powerful and transformative force, symbolized 
 2. "This fire, in its purifying and separating effects on the mass of mankind, causes the διαμερισμός afterwards spoken of."
 3. "How I wish that it were already kindled!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To cause this element of life to take up its abode on earth, and wholly to pervade human hearts with its warmth, was the lofty destiny of the Redeemer."
 2. "An obscure expression, uttered under deep and half-smothered emotion."
 3. "And what should I have to desire if it were once already kindled?"
@@ -57,4 +57,4 @@ The verse in question speaks of a powerful and transformative force, symbolized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

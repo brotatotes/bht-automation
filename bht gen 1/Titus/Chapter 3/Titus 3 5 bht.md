@@ -4,7 +4,7 @@
 This verse emphasizes that salvation is not obtained through our own efforts or good works, but solely through the grace and mercy of God. It highlights the regenerative power of baptism as a symbol of the spiritual rebirth that occurs through the work of the Holy Spirit. The verse also underscores the importance of sanctification and the transformative work of the Holy Spirit in renewing believers and conforming them to the image of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We neither did works of righteousness, nor were saved in consequence of them but His goodness did the whole."
 2. "The apostles are wont to draw an argument from the sacraments to prove the thing therein signified, because it ought to be a recognized principle among the godly, that God does not mark us with empty signs, but by His power inwardly makes good what He demonstrates by the outward sign."
 3. "The Word is the remote and anterior instrument of the new birth; Baptism, the proximate instrument. The Word, the instrument to the individual; Baptism, in relation to the Society of Christians."
@@ -54,4 +54,4 @@ These quotes provide insights into the themes of salvation by grace, the symboli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

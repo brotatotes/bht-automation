@@ -4,7 +4,7 @@
 In this passage, a high-ranking officer confronts an accused person, expressing shock and disbelief at the possibility that they may be a Roman citizen. The question asked serves not only as an inquiry about nationality but also as a challenge to the person's identity and allegiance. The revelation of Roman citizenship brings curiosity and intrigue to the scene, adding complexity to the unfolding narrative. With a straightforward affirmation, the accused confirms their Roman citizenship, setting the stage for further events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Art thou a Roman?" - This question reveals that being from Tarsus did not automatically mean that Paul was a Roman citizen. It highlights the distinction between geographical origin and legal status.
 2. "This being of Tarsus...did not necessarily imply that he was a Roman citizen." - The commentary emphasizes that Paul's birthplace did not automatically grant him Roman citizenship. It underscores the importance of distinguishing between birthplace and legal rights.
 3. "Showing" - This word suggests that the question about Paul's Roman citizenship was a way of demonstrating or proving a point. It implies that there was a deeper purpose behind the inquiry, perhaps to establish Paul's legal standing or to challenge his authority.
@@ -28,4 +28,4 @@ In this passage, a high-ranking officer confronts an accused person, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

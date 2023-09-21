@@ -9,7 +9,7 @@ The Bible verse being described is a message of love and unity among believers. 
 2. "Peace be to you all that are in Christ."
 3. "The blessing differs also from those in St. Paul, in the limitation implied by 'peace to you, I mean, all that are, and in as far as they are, in Christ;'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Kiss of charity": the token of love to God and the brethren. Love and holiness are inseparable.
 2. "Peace" flowing from salvation, was Christ's own salutation after the resurrection, and from Him Peter derives it.
 3. "Be with you all that are in Christ Jesus": The oldest manuscripts omit "Jesus." Contrast, "Be with you all," Romans 16:24; 1 Corinthians 16:23.
@@ -50,4 +50,4 @@ The Bible verse being described is a message of love and unity among believers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

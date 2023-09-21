@@ -9,7 +9,7 @@ In this Bible verse, God promises to be a loving Father to His people, inviting 
 2. "Various passages of the O. T. are combined."
 3. "The expression οἱ υἱοί μου and αἱ θυγατέρες μου is found Isaiah 43:6."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will be to you in the relation of a Father, and ye shall be to me in the relation of sons and daughters." - This quote highlights the intimate and endearing relationship between God and His people, surpassing even the relationship of a God and His people.
 2. "The greatness of the Promiser enhances the greatness of the promises." - This quote emphasizes that the promises made by God are even more significant and powerful because they come from the Lord Almighty, the Universal Ruler.
 3. "Compare the promise to Solomon (1 Chronicles 28:6; Isaiah 43:6; Revelation 21:3; Revelation 21:7; Jeremiah 31:1; Jeremiah 31:9)." - This quote suggests that the promise of God's fatherly relationship with His people can be seen in various other biblical passages, further reinforcing its importance and significance.
@@ -50,4 +50,4 @@ In this Bible verse, God promises to be a loving Father to His people, inviting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described emphasizes the joy and hope that the writer has for th
 2. "He does not look forward to this as anticipating a reward for the conversion of the Thessalonians, but from generous desire to be found at that day with the fruits of his labour."
 3. "The ἤ introduces a second and negative interrogation, explanatory and confirmatory of what is implied in the first."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are not even ye our hope, joy, and crown of rejoicing before Jesus, when He shall come?"
 2. "The 'hope' here meant is his hope (in a lower sense), that these his converts might be found in Christ at His advent."
 3. "Paul's chief 'hope' was JESUS CHRIST."
@@ -55,4 +55,4 @@ The verse being described emphasizes the joy and hope that the writer has for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

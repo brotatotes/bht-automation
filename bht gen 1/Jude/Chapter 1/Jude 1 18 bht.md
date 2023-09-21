@@ -4,7 +4,7 @@
 In the last days, as prophesied, there will be mockers and scoffers who ridicule and reject the truth of God's Word. These individuals actively seek to undermine the faith of believers and lead them astray from the truth. However, believers should not be discouraged by their presence, but rather stand firm in their faith, rooted in the truth of God's Word. Our response to mockery provides an opportunity to demonstrate the love, grace, and truth of Christ, shining as a light in a dark world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word is found nowhere else in the New Testament."
 2. "How Alford can deny that [verse] is referred to (at least in part), I cannot imagine."
 3. "Jude quotes the very words of Peter as the words which the apostles used to speak to his (Jude's) readers."
@@ -46,4 +46,4 @@ In the last days, as prophesied, there will be mockers and scoffers who ridicule
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a commentator describes the testimony of John the Baptist, who pr
 2. "The question to be answered is, in calling Jesus by so definite a name as ὁ ἀμνὸς τοῦ θεοῦ, to what did John refer?"
 3. "The word in our verse will bear either of these meanings, or both conjoined; for if the Lamb is to suffer the burden of the sins of the world, and to take away sin and its guilt by expiation, this result must be accomplished by the offering of Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Lamb of God—the one God-ordained, God-gifted sacrificial offering."
 2. "The word signifies both, as does the corresponding Hebrew word. Applied to sin, it means to be chargeable with the guilt of it and to bear it away."
 3. "Wherever there shall live a sinner throughout the wide world, sinking under that burden too heavy for him to bear, he shall find in this 'Lamb of God,' a shoulder equal to the weight."
@@ -52,4 +52,4 @@ In this verse, a commentator describes the testimony of John the Baptist, who pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the role of ministers as co-workers wi
 2. "Receive not the grace of God to no purpose."
 3. "Unaccompanied by sanctification of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "workers together—with God" (Acts 15:4; 1 Corinthians 3:9).
 2. "beseech—entreat" (1 Corinthians 3:9). He is describing his ministry, not exhorting directly.
 3. "By a life of sin, showing that the word of reconciliation has been in vain, so far as you are concerned" (Hebrews 12:15; Judges 1:4).
@@ -55,4 +55,4 @@ Note: The commentary provided is a single sentence, so the quotes are taken from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

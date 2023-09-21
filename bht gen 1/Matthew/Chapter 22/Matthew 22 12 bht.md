@@ -4,7 +4,7 @@
 In this parable, a king invites guests to a wedding feast. However, one guest is found without a wedding garment, symbolizing the righteousness of Christ. Commentators emphasize that merely being present is not enough; one must be clothed in the righteousness of Christ to be accepted by God. The guest's silence when questioned highlights our dependence on Christ's righteousness and the impossibility of justifying ourselves. This parable serves as a warning against approaching God on our own terms, emphasizing the need for humility, repentance, and faith in Christ's righteousness for acceptance into the kingdom of heaven.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wedding garment represents the righteousness of Christ that is imputed to believers through faith. It is not enough to simply be present at the wedding feast; one must also be clothed in the righteousness of Christ to be accepted by God."
 
 2. "The question posed by the king to the man without the wedding garment reveals the man's lack of preparation and disregard for the king's invitation. It serves as a reminder that we cannot approach God on our own terms, but must come to Him in humility and repentance."
@@ -45,4 +45,4 @@ In this parable, a king invites guests to a wedding feast. However, one guest is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

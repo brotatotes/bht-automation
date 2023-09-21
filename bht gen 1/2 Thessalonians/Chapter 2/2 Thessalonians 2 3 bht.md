@@ -9,7 +9,7 @@ In this Bible verse, commentators describe the emergence of a figure known as th
 2. "He that withstands CHRIST, the ἀντί χριστος."
 3. "Shewing himself that he is God, designates the divine dignity which he predicates of himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ, in Matthew 24, gives the same warning in connection with the same event. He had indicated three ways in which they might be deceived."
 2. "The articles, 'the apostasy,' and 'the man of sin,' may also refer to their being well known as foretold in Daniel 7:8, 'the little horn speaking great words against the Most High, and thinking to change times and laws.'"
 3. "Antichrist is first in mystery, and afterwards shall be developed and revealed. As righteousness found its embodiment in Christ, 'the Lord our righteousness,' so 'sin' shall have its embodiment in 'the man of sin.'"
@@ -55,4 +55,4 @@ Note: The commentary is quite long and complex, making it difficult to extract c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

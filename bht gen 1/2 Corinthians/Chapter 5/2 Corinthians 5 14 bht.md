@@ -9,7 +9,7 @@ The love of Christ, demonstrated through His death for humanity, is an all-encom
 2. "The idea of συνέχω is that of forcible limitation, either in a good or a bad sense, of confining to one object, or within certain bounds."
 3. "‘Constraineth us,’ generally: limits us to one great end, and prohibits our taking into consideration any others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The love of Christ towards us, producing in turn love in us to Him, and not mere 'terror', constrains us with irresistible power, limiting us to the one great object to the exclusion of other considerations." 
 2. "Love is jealous of any rival object engrossing the soul."
 3. "His dying is just the same as if they all died; and in their so dying, they died to sin and self, that they might live to God their Redeemer, whose henceforth they are."
@@ -55,4 +55,4 @@ The love of Christ, demonstrated through His death for humanity, is an all-encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the biblical account being described, the commentators share insights into th
 2. "The sealing was by means of a cord or string passing across the stone at the mouth of the sepulchre." 
 3. "Fastened at either end to the rock by sealing-clay."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What more could man do?"
 2. "God makes use of their precautions for His own ends."
 3. "Their stone-covered, seal-secured sepulchre shall preserve the sleeping dust of the Son of God free from all indignities, in undisturbed, sublime repose."
@@ -48,4 +48,4 @@ In the biblical account being described, the commentators share insights into th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

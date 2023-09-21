@@ -9,7 +9,7 @@ The commentators provide insights into a Bible verse without explicitly naming t
 2. "the Rock was Christ."
 3. "That the MESSIAH, the ANGEL OF THE COVENANT, was present with the church of the Fathers, and that His upholding power was manifested in miraculous interferences for their welfare, was a truth acknowledged no less by the Jew than by the Christian."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The literal water typified 'spiritual drink,' and is therefore so called." 
 2. "Christ, the 'Spiritual Rock,' accompanied them." 
 3. "'Followed' implies His attending on them to minister to them; thus, though mostly going before them, He, when occasion required it, followed 'behind'."
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse without explicitly naming t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ During communal meals in the early church, there were instances of individuals p
 2. "One is craving (the poor), another is drunken (the rich)."
 3. "There is no need to soften the meaning of μεθύει: as Meyer says, 'Paul draws the picture in strong colours, and who can say that the reality was less strong?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of 'tarrying for one another' (1 Corinthians 11:33); hence the precept." 
 2. "His own supper—'His own' belly is his God." 
 3. "The one has more than is good for him, the other less."
@@ -58,4 +58,4 @@ These quotes highlight the selfish and disorderly behavior of some individuals d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the account, we see the profound impact and eagerness of Andrew, who was the 
 2. "We are justified in inferring that it was the Evangelist himself."
 3. "And such has been the general opinion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The previous preparation of their simple hearts under the Baptist's ministry, made quick work of this blessed conviction." 
 2. "While others hesitated till doubt settled into obduracy."
 3. "So it is still."
@@ -52,4 +52,4 @@ In the account, we see the profound impact and eagerness of Andrew, who was the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

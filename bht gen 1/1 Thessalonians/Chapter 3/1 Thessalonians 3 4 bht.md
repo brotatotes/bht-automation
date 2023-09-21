@@ -9,7 +9,7 @@ The verse being described portrays a clear warning from the Apostle Paul to the 
 2. "The subject to μέλλ ., as above, being ‘we Christians.’"
 3. "οἴδατε , viz. by experience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that we are about (we are sure) to suffer" according to the appointment of God.
 2. "even as it both came to pass and ye know"; ye know both that it came to pass, and that we foretold it.
 3. The correspondence of the event to the prediction powerfully confirms faith: "Forewarned, forearmed."
@@ -38,4 +38,4 @@ The verse being described portrays a clear warning from the Apostle Paul to the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

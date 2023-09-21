@@ -9,7 +9,7 @@ In this passage, we find an intriguing encounter between Jesus and Paul, and an 
 2. "No difference between γινώσκω and ἐπίσταμαι must be pressed: the two verbs are apparently used as separating Jesus and Paul, so that they do not stand together in the same category."
 3. "Jesus I know, and Paul I know: the One being God in heaven, the other man on earth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The evil spirit's response reveals its recognition of Jesus as someone of authority and power." 
 2. "The evil spirit's acknowledgment of Paul highlights the intimate knowledge it has of him, indicating a personal encounter or familiarity." 
 3. "The question posed by the evil spirit emphasizes its ignorance and lack of recognition towards the individuals it is addressing."
@@ -47,4 +47,4 @@ In this passage, we find an intriguing encounter between Jesus and Paul, and an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

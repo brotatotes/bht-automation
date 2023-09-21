@@ -9,7 +9,7 @@ In this verse, the writer urges readers to avoid engaging in futile arguments an
 2) "(a thing) useful for no purpose" - This quote highlights the futility of engaging in pointless actions or behaviors.
 3) "to the ruin of them that hear" - This quote underscores the negative consequences that can result from harmful actions or teachings.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strive not to have a mere war of words where the most vital matters are at stake."
 2. "Strive not thou in words, (a thing tending) to no profit, literally, 'profitable for nothing.'"
 3. "Sure to subvert (overturn) the hearers: the opposite of 'edifying' (building up)."
@@ -65,4 +65,4 @@ In this verse, the writer urges readers to avoid engaging in futile arguments an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

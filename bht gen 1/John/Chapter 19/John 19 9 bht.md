@@ -9,7 +9,7 @@ In this ambiguous and intense moment, the fear of Pilate becomes evident as he q
 2. "Our Lord, in His silence, was acting according to His own precept, Matthew 7:6."
 3. "This silence was the most emphatic answer to all who had ears to hear it; was a reference to what He had said before, ch. John 18:37, and so a witness to His divine origin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whence art thou?—beyond all doubt a question relating not to His mission but to His personal origin."
 2. "He had said enough; the time for answering such a question was past."
 3. "The weak and wavering governor is already on the point of giving way."
@@ -45,4 +45,4 @@ In this ambiguous and intense moment, the fear of Pilate becomes evident as he q
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

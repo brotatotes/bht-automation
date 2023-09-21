@@ -9,7 +9,7 @@ In return for their self-devotion, we are called to honor and respect those who 
 2. "In honouring their advice and being ready to be directed by them."
 3. "To such persons, meaning the individuals of Stephanas's family, whom they knew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That ye also, in your turn, may help with them." This quote emphasizes the idea of reciprocity and the importance of believers supporting one another in their selfless acts of service.
 2. "Laboureth by himself." This quote highlights the individual effort and dedication required in serving others, reminding readers that selflessness often involves personal sacrifice and hard work.
 3. "In return for their self-devotion." This quote underscores the selflessness and dedication of those being helped, emphasizing the need for gratitude and recognition for their sacrifices.
@@ -47,4 +47,4 @@ In return for their self-devotion, we are called to honor and respect those who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

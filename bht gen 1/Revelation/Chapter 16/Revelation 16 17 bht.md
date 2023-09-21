@@ -4,7 +4,7 @@
 The pouring out of the seventh phial is a decisive and final act, fulfilling God's judgment and accomplishing His purposes. It signifies a profound impact on the spiritual atmosphere and represents the culmination of His wrath and justice. This ultimate act of judgment is a culmination of all the previous plagues, bringing a complete and total defeat to the enemies of Christ and His church. The air, as the symbol of spiritual influence, is now subject to the power and authority of God's final judgment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's voice as to the final consummation, as Jesus' voice on the cross when the work of expiation was completed, 'It is finished.'" 
 2. "But A, B, Vulgate, and Syriac omit it." 
 3. "But A omits."
@@ -45,4 +45,4 @@ Apologies for the confusion, but I am unable to generate a response without the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

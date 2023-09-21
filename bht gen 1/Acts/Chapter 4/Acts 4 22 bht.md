@@ -9,7 +9,7 @@ The passage being described highlights a miraculous event that occurred to a man
 2. "καθῆσθαι ἐπί is commonly used when the fact is announced for the first time, with an accus.: but afterwards when the same fact is again referred to, with a gen. or dat."
 3. "The circumstance of his being more than forty years old both gave notoriety to his person as having long resorted there, and made the miracle more notable, his malady being more confirmed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the ultimate authority that believers should recognize and submit to - God. It challenges the reader to consider whether it is right to prioritize human authority over God's commands."
 2. "By posing the question 'judge ye,' the verse emphasizes the individual's responsibility to discern and make a judgment based on the supremacy of God's will."
 3. "This verse serves as a reminder that believers should not blindly follow human authority but instead evaluate it in light of God's truth and righteousness."
@@ -35,4 +35,4 @@ The passage being described highlights a miraculous event that occurred to a man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

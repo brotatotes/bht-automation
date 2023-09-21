@@ -9,7 +9,7 @@ In this biblical verse, a man who had been lame from birth experiences a miracul
 2. "His joy is quite sufficient to explain the gesture, and it is better to leave the narrative in its simplicity."
 3. "If καί before αἰνῶν is omitted, the present participle has its ratiocinative force, alleging the cause of the walking and leaping: and would best be rendered in English, in his praising of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every word here is emphatic, expressing the perfection of the cure."
 2. "Its immediateness."
 3. "The man went from being unable to walk to leaping, walking, and praising God."
@@ -45,4 +45,4 @@ In this biblical verse, a man who had been lame from birth experiences a miracul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

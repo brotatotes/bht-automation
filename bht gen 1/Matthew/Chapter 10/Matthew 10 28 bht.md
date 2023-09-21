@@ -9,7 +9,7 @@ In this verse, Jesus encourages His disciples to prioritize their spiritual well
 2. "GOD ALONE is throughout the Scripture the Almighty dispenser of life and death both temporal and eternal."
 3. "Fear Him who is the only Dispenser of Death and Life: of death, as here; of life, as in the case of the sparrows for whom He cares."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And fear not them which kill the body, but are not able to kill the soul." - This verse reminds us that physical death is not the ultimate fear, but rather the eternal destiny of our souls. It encourages us to prioritize our spiritual well-being over our physical safety.
 
 2. "I will forewarn you whom ye shall fear, even Him which is able to destroy both soul and body in hell." - This quote emphasizes the seriousness of fearing God above all else. It highlights the existence of hell as a place of eternal punishment for both the soul and the body, underscoring the eternal consequences of our actions.
@@ -52,4 +52,4 @@ In this verse, Jesus encourages His disciples to prioritize their spiritual well
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

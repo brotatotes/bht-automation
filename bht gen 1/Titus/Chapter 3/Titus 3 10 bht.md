@@ -9,7 +9,7 @@ In this Bible verse, the passage refers to a person who holds divergent beliefs 
 2. "These early heretics united moral depravity with erroneous teaching: their works bore witness against their doctrine."
 3. "Knowing that such an one is thoroughly perverted and is a sinner, being self-condemned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "heretic—Greek 'heresy,' originally meant a division resulting from individual self-will; the individual doing and teaching what he chose, independent of the teaching and practice of the Church."
 2. "The heretics of Crete, when Titus was there, were in doctrine followers of their own self-willed 'questions' reprobated in Titus 3:9, and immoral in practice."
 3. "reject—decline, avoid; not formal excommunication, but, 'have nothing more to do with him,' either in admonition or intercourse."
@@ -55,4 +55,4 @@ In this Bible verse, the passage refers to a person who holds divergent beliefs 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

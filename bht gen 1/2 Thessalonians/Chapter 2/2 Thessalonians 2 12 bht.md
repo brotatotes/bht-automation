@@ -4,7 +4,7 @@
 The Bible passage being described emphasizes the consequences faced by those who reject the truth and delight in unrighteousness. Commentators point out that the originally translated term "damned" should be understood as "judged" rather than strictly meaning damnation. The verse highlights the connection between unbelief and condemnation, emphasizing that those who do not believe the truth and choose sin over righteousness will face the deserved punishment. The passage serves as a reminder of the significance of accepting the truth and turning away from unrighteousness to avoid judgment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not all in the Church of Rome, or other anti-Christian systems, shall be damned, but only 'all who believed not the truth,' when offered to them." 
 2. "Love of unrighteousness being the great obstacle to believing the truth." 
 3. "They all...damned."
@@ -50,4 +50,4 @@ The Bible passage being described emphasizes the consequences faced by those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, we encounter individuals who arrive at the door of the bridegroom's house, pleading for entry. The exclamations of "Lord, Lord" express both the recognition of the bridegroom's authority and their desperation to be allowed into the festivities. Unfortunately, their lack of preparation and foolishness prevent them from gaining access. Their appeals are met with disappointment as they come to the realization of the consequences of their unpreparedness and lack of obedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this reiteration of the name was an exclamation rather of surprise." 
 2. "Here it is a piteous cry of urgency, bordering on despair." 
 3. "Ah! now at length their eyes are wide open, and they realize all the consequences of their past folly."
@@ -48,4 +48,4 @@ In this passage, we encounter individuals who arrive at the door of the bridegro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

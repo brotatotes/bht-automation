@@ -9,7 +9,7 @@ In this verse, Jesus urges his disciples to boldly proclaim the teachings and me
 2. "The secret speaking may mean the communication which our Lord would hold with them hereafter by His Spirit, which they were to preach and proclaim."
 3. "There is no need, with Lightfoot and others, to suppose any allusion to a custom in the synagogue, in the words εἰς τὸ οὖς ἀκούετε. They are a common expression derived from common life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What I tell you in darkness—in the privacy of a teaching for which men are not yet ripe." 
 2. "That speak ye in the light—for when ye go forth all will be ready." 
 3. "And what ye hear in the ear, that preach ye upon the housetops—Give free and fearless utterance to all that I have taught you while yet with you."
@@ -48,4 +48,4 @@ In this verse, Jesus urges his disciples to boldly proclaim the teachings and me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators highlight the profound nature of Jesus' identity
 2. "By the very form of the expression it is evident, that the sword alluded to could have no reference to that night's danger, or the defending Him from it."
 3. "The prophecy cited closes the section of Isaiah, which eminently predicts the Lord's sufferings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The things concerning me—decreed and written." This phrase emphasizes the divine plan and purpose behind Jesus' life and ministry, highlighting that everything that happened to him was part of God's predetermined plan.
 
 2. "Have an end—are rapidly drawing to a close." This statement suggests that Jesus' earthly mission was coming to a culmination, indicating the imminent fulfillment of God's plan. It conveys a sense of urgency and the importance of the events unfolding at that time.
@@ -56,4 +56,4 @@ Note: The commentary is referencing Isaiah 53:12, but the provided excerpt does 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

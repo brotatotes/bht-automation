@@ -1,7 +1,7 @@
 # Ephesians 2:1 Commentary Help Text
 
 ## BHT:
-In this verse, several commentators shed light on the powerful message conveyed. Albert Barnes emphasizes the idea of being made alive by God's grace, while Jamieson Fausset Brown warns that sin leads to death. Calvin asserts that our union with God is the true source of life, contrasting with a state of spiritual death. John Gill further adds that this passage demonstrates the sinfulness of man and the greatness of God's grace. Overall, this verse reveals the transformative power of God's mercy and the contrast between life and death in the spiritual realm.
+In this verse, several commentators shed light on the powerful message conveyed. Albert Barnes emphasizes the idea of being made alive by God's grace, while Jamieson-Fausset-Brown warns that sin leads to death. Calvin asserts that our union with God is the true source of life, contrasting with a state of spiritual death. John Gill further adds that this passage demonstrates the sinfulness of man and the greatness of God's grace. Overall, this verse reveals the transformative power of God's mercy and the contrast between life and death in the spiritual realm.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ In this verse, several commentators shed light on the powerful message conveyed.
 2. "A simple indication, then, of their state, without any temporal or causal adjunct, ‘when,’ ‘whereas,’ &c., seems in the present case most satisfactory, as less calling away the attention from the more emphatic ὑμᾶς."
 3. "It seems difficult to establish universally any distinction such as has been attempted...the two occur together, it may be accepted as correct."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A living corpse: without the gracious presence of God's Spirit in the soul, and so unable to think, will, or do aught that is holy." 
 2. "Sin is the death of the soul." 
 3. "Translate, as Greek, 'in your trespasses,' c. 'Trespass' in Greek, expresses a FALL or LAPSE, such as the transgression of Adam whereby he fell."
@@ -55,4 +55,4 @@ In this verse, several commentators shed light on the powerful message conveyed.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

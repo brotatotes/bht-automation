@@ -9,7 +9,7 @@ The verse being described expresses the condemnation of a woman named Jezebel wi
 2. "The denunciation of such a teacher under such a title would be at once startling and decisive."
 3. "The fact that this was the prevalent direction of the false teaching of the day, is important in a chronological point of view."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The symbolical Jezebel was to the Church of Thyatira what Jezebel, Ahab's 'wife,' was to him."
 2. "Like her father, she was swift to shed blood. Wholly given to Baal worship, like Eth-baal, whose name expresses his idolatry, she, with her strong will, seduced the weak Ahab and Israel beyond the calf-worship to that of Baal."
 3. "Her spiritual counterpart at Thyatira lured God's 'servants' by pretended utterances of inspiration to the same libertinism, fornication, and eating of idol-meats, as the Balaamites and Nicolaitanes."
@@ -45,4 +45,4 @@ The verse being described expresses the condemnation of a woman named Jezebel wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

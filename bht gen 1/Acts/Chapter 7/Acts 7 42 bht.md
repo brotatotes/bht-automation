@@ -9,7 +9,7 @@ In this verse, God is depicted as withdrawing His favor and turning away from th
 2. "It was a judicial delivering up, not a mere letting alone."
 3. "It is not true that ye offered to Me (but no stress on Me) sacrifices, &c. 'I regard it as never having happened.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gave them up—judicially." This phrase highlights the idea that God has handed over the people to their own sinful desires as a form of judgment. It implies that their actions have consequences and that God is allowing them to experience the full extent of their choices.
 
 2. "As . . . written in the book of the prophets." This quote emphasizes that the passage being referred to is not just a random statement but is rooted in the prophetic writings of the Old Testament. It adds credibility and authority to the message being conveyed.
@@ -52,4 +52,4 @@ These quotes highlight how God withdrew His presence and allowed the Israelites 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

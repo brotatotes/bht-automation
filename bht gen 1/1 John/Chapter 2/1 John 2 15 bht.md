@@ -4,7 +4,7 @@
 The verse being described is a call to believers to resist the pull of worldly desires and attachments. It highlights the opposition between God and the fallen world, emphasizing that one cannot fully love and align oneself with both. The description reminds us to not deceive ourselves by denying our love for the world while still being attached to its pursuits. It urges us to pursue victory over the world by actively overcoming its temptations and distractions, prioritizing our relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love not the world—that lieth in the wicked one, whom ye young men have overcome." - This quote highlights the call to not love the fallen world, which is in a state of alienation from God. It emphasizes that as believers, we should not have a congenial love for the world and its sinful ways.
 
 2. "A man might deny in general that he loved the world, while keenly following some one of THE THINGS IN IT: its riches, honors, or pleasures; this clause prevents him escaping from conviction." - This quote warns against the deception of denying love for the world while still being attached to its worldly pursuits. It reminds us that our actions speak louder than words and that we should be cautious of our attachments.
@@ -45,4 +45,4 @@ The verse being described is a call to believers to resist the pull of worldly d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

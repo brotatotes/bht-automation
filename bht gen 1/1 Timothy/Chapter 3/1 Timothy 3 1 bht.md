@@ -9,7 +9,7 @@ The verse being described emphasizes the significance and desirability of engagi
 2. "It behoves then an overseer to be blameless, husband of one wife."
 3. "Apt in teaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faithful is the saying." A needful preface to what follows: for the office of a bishop or overseer in Paul's day, attended as it was with hardship and often persecution, would not seem to the world generally a desirable and "good work."
 2. desire—literally, "stretch one's self forward to grasp"; "aim at": a distinct Greek verb from that for "desireth." What one does voluntarily is more esteemed than what he does when asked (1 Corinthians 16:15). This is utterly distinct from ambitious desires after office in the Church.
 3. good work—literally, "honorable work." Not the honor associated with it, but the work, is the prominent thought. He who aims at the office must remember the high qualifications needed for the due discharge of its functions.
@@ -57,4 +57,4 @@ The verse being described emphasizes the significance and desirability of engagi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

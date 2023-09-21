@@ -9,7 +9,7 @@ In the midst of an early Christian community, a man named Simon emerges as a fig
 2. "The fathers generally regard him as the founder of Gnosticism."
 3. "Exercising magic arts, such as then were very common in the East and found wide acceptance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Used sorcery—magical arts." This quote highlights the practice of sorcery and magical arts, indicating that the individuals mentioned in the verse were involved in supernatural and mystical practices.
 
 2. "Some great one . . . the great power of God—a sort of incarnation of divinity." This quote suggests that the people mentioned in the verse claimed to possess great power and authority, possibly even considering themselves as divine or godlike figures.
@@ -57,4 +57,4 @@ In the midst of an early Christian community, a man named Simon emerges as a fig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

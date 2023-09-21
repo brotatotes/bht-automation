@@ -9,7 +9,7 @@ The Bible verse being described highlights the importance of discernment and wis
 2. "The simpler and more usual meaning of both verbs is preferable, and has been adopted by Thdrt., Beza, Wolf, all., Wies., De Wette, al."
 3. "εἰς is not exactly = ἄχρι; it has more the meaning of ‘for,’ ‘so that when that day comes, ye may be found.’ Our temporal use of ‘against’ exactly gives it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With a view to your proving (and so approving and embracing) the things that excel" - not merely things not bad, but the things best among those that are good; the things of more advanced excellence.
 2. "Ask as to things, not merely, Is there no harm, but is there any good, and which is the best?" - Encouraging a deeper examination of what is truly good and seeking the best.
 3. "Sincere - from a Greek root. Examined in the sunlight and found pure." - Highlighting the importance of being genuine and pure in one's faith and actions.
@@ -55,4 +55,4 @@ The Bible verse being described highlights the importance of discernment and wis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

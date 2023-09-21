@@ -4,7 +4,7 @@
 In this verse, commentators question the knowledge and understanding of the rulers regarding Jesus' claims. They suggest that the rulers may have had some secret reason or discovery about Jesus, causing confusion and bewilderment. Despite his open and bold speaking, the rulers remain silent, leaving room for speculation. The commentators also emphasize the importance of recognizing Jesus as the Messiah and question whether the rulers truly understand and acknowledge His identity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do the rulers know, &c.—Have they got some new light in favor of His claims?" - This quote highlights the question posed by the commentator regarding the rulers' knowledge and understanding of Jesus' claims. It suggests that the commentator is questioning whether the rulers have received any new revelations or insights that would support Jesus' authority.
 
 2. "The rulers, who should have been the first to recognize and accept Jesus as the Messiah, were instead blinded by their own pride and self-interest." - This quote emphasizes the commentator's view that the rulers, despite their position of authority, failed to recognize Jesus as the Messiah due to their own arrogance and selfish motives.
@@ -44,4 +44,4 @@ These quotes highlight the confusion and speculation surrounding Jesus' boldness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The commentary quotes reveal that the Bible verse being described emphasizes the
 
 These quotes highlight the contrast between justification by works and justification by faith. They emphasize that Abraham's righteousness was not earned through his works, but rather through his trust in God's promise. The commentary also explains that the righteousness imputed to Abraham was not the same as the righteousness imputed to believers in Christ, as Abraham did not have the explicit revelation of Jesus as the object of his faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If works were the ground of Abraham's justification, he would have matter for boasting."
 2. "As it is perfectly certain that he hath none in the sight of God, it follows that Abraham could not have been justified by works."
 3. "And to this agree the words of Scripture."
@@ -59,4 +59,4 @@ These quotes highlight the contrast between justification by works and justifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

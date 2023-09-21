@@ -11,7 +11,7 @@ In this verse, the Apostle expresses his openness and transparency in his commun
 
 3. "He assures them of their place in his heart, which is wide enough for, and does contain them." - This quote reassures the Corinthians that they hold a significant place in the Apostle's heart, emphasizing the inclusivity and capacity of his love for them, despite any misunderstandings or disregard they may have towards him.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I use all freedom and openness of speech to you as to beloved friends."
 2. "The enlargement of his heart towards them produced his openness of mouth, that is, his unreserved expression of his inmost feelings."
 3. "The apostle's heart is enlarged by love, so as to take in his converts at Corinth, not only with their graces, but with their many shortcomings."
@@ -50,4 +50,4 @@ In this verse, the Apostle expresses his openness and transparency in his commun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

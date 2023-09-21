@@ -11,7 +11,7 @@ On the great day of the Lord, the true nature of each person's work and doctrine
 
 3. "The fire itself shall try...each man’s work, of what kind it is": The fire will directly pass upon the work of individuals, testing its quality and nature.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The day," that is, the great day of days, the long expected day.
 2. "He," the Lord, whose day it is.
 3. This fire is not till the last day, the supposed fire of purgatory begins at death.
@@ -52,4 +52,4 @@ These quotes highlight the idea that the true nature of a person's work or doctr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

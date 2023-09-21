@@ -4,7 +4,7 @@
 This verse describes a generation that tested and provoked God despite witnessing His miraculous works for forty years. They demanded proof of His power and neglected His abundant blessings. The commentator's words highlight the shamelessness, guilt, and persistence in sinful behavior displayed by the people, even in the presence of divine intervention. The verse underscores the consequences of testing God and the importance of recognizing His patience and forbearance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The authority of the ancients is not conclusive."
 2. "Putting (Me) to the proof whether I was able and willing to relieve them, not believing that I am so."
 3. "During the same forty years that they were tempting God by unbelief, notwithstanding their seeing God's miraculous works, God was being grieved."
@@ -48,4 +48,4 @@ This verse describes a generation that tested and provoked God despite witnessin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

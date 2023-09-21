@@ -9,7 +9,7 @@ In this verse, the purpose of God is revealed, displaying the riches of His divi
 2. "The future periods of the Church’s earthly career, or the ages of the glorified Church hereafter?"
 3. "The exceeding riches of His grace in goodness towards us in Christ Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That He might show forth...in the ages which are coming on." 
 2. "These good ages, though beginning with the first preaching of the Gospel, and thenceforth continually succeeding one another, are not consummated till the Lord's coming again."
 3. "The words, 'coming on,' do not exclude the time then present, but imply simply the ages following upon Christ's 'raising them up together' spiritually."
@@ -63,4 +63,4 @@ These quotes from the commentary help to deepen our understanding of the verse b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

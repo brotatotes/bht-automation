@@ -11,7 +11,7 @@ The commentators collectively bring to light the insufficiency of the sacrifices
 
 3. "For then they would have ceased to be offered." - This implies that if the sacrifices were truly effective, there would be no need for them to continue being offered, indicating their insufficiency in fully dealing with sin.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sacrifices of the law could not perfect the worshippers, as they were only temporary and symbolic. They could not truly cleanse the conscience of sin." 
 
 2. "The sacrifices were offered repeatedly, highlighting the ongoing nature of sin and the need for continuous atonement." 
@@ -54,4 +54,4 @@ The commentators collectively bring to light the insufficiency of the sacrifices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

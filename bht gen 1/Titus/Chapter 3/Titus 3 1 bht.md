@@ -4,7 +4,7 @@
 The passage being described refers to a call for the Cretan Christians to remember their duty of submission and obedience to the ruling authorities. It addresses the potential challenges faced by the Christians in a social and political context where rebellion and discontent were prevalent. The commentators emphasize the need for the Christians to willingly submit, recognize the authority of the governing powers, and actively obey as long as it aligns with their conscience and moral convictions. These exhortations aim to foster a spirit of respect and harmony within the Cretan Christian community.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put them in mind—as they are in danger of forgetting their duty, though knowing it."
 2. "The opposition of Christianity to heathenism, and the natural disposition to rebellion of the Jews under the Roman empire (of whom many lived in Crete), might lead many to forget practically what was a recognized Christian principle in theory, submission to the powers that be."
 3. "Willing obedience is implied in 'ready to every good work.' Compare :-, as showing that obedience to the magistracy would tend to good works, since the magistrate's aim generally is to favor the good and punish the bad."
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

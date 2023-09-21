@@ -9,7 +9,7 @@ This verse describes the faithfulness of Jesus as our Apostle and High Priest, h
 2. "The word itself is led to by, and takes up that other [πιστὸς ἀρχιερεύς of ch. Hebrews 2:18]." 
 3. "The word thus taken, is of course to be understood of that constitution of our Lord as our Apostle and High Priest in which He, being human, was made by the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He first notes the feature of resemblance between Moses and Christ, in order to conciliate the Hebrew Christians whom He addressed, and who still entertained a very high opinion of Moses; he afterwards brings forward Christ's superiority to Moses."
 2. "Who was faithful—The Greek implies also that He still is faithful, namely, as our mediating High Priest, faithful to the trust God has assigned Him."
 3. "The likeness of Moses to Messiah was foretold by Moses himself (Deuteronomy 18:15). Other prophets only explained Moses, who was in this respect superior to them; but Christ was like Moses, yet superior."
@@ -55,4 +55,4 @@ This verse describes the faithfulness of Jesus as our Apostle and High Priest, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

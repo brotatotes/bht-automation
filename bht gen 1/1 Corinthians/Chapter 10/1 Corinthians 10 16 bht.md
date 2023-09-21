@@ -9,7 +9,7 @@ In this verse, there is a focus on the cup of blessing over which Christians ble
 2. "The wine is the Blood, the bread is the Body, of Christ." 
 3. "We become therefore, by participation of that Bread, one Bread, i.e. ONE BODY: hence the close and literal participation in and with Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The minister 'blesses' (that is, consecrates with blessing) the cup, not by any priestly transmitted authority of his own, but as representative of the congregation, who virtually through him bless the cup." 
 2. "The act of joint blessing by him and them...and the consequent drinking of it together, constitute the communion, that is, the joint participation 'of the blood of Christ.'"
 3. "He who with faith partakes of the cup and the bread, partakes really but spiritually of the blood and body of Christ, and of the benefits of His sacrifice on the cross."
@@ -55,4 +55,4 @@ In this verse, there is a focus on the cup of blessing over which Christians ble
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

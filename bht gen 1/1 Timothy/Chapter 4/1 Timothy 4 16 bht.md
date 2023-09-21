@@ -9,7 +9,7 @@ In this verse, the commentators stress the essential elements of personal growth
 2. "Continue in them." 
 3. "Thou shalt save both thyself and those that hear thee."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two requisites of a good pastor: His teaching will be of no avail unless his own life accord with it; and his own purity of life is not enough unless he be diligent in teaching." 
 2. "In performing faithfully his duty to others, the minister is promoting his own salvation."
 3. "Indeed he cannot 'give heed unto the teaching' of others, unless he be at the same time 'giving heed unto himself.'"
@@ -57,4 +57,4 @@ In this verse, the commentators stress the essential elements of personal growth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

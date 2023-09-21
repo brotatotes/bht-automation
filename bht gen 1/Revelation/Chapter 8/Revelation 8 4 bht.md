@@ -4,7 +4,7 @@
 In the presence of God, the smoke of the incense, caused by the burning incense given to the angel by Christ the High Priest, ascended up before Him, blending with the prayers of the saints. This symbolic act represents the connection and acceptance of the prayers offered by the saints, covering their imperfections through the virtue of Christ's mediation. As the whole temple was filled with the smoke, it signifies the wonderful affection and care of Christ for His church and people, assuring them of His involvement and response to their supplications.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The smoke of the incense FOR (or 'given TO') the prayers of the saints ascended up, out of the angel's hand, in the presence of God." 
 2. "The angel merely burns the incense given him by Christ the High Priest, so that its smoke blends with the ascending prayers of the saints." 
 3. "The saints themselves are priests; and the angels in this priestly ministration are but their fellow servants."
@@ -49,4 +49,4 @@ In the presence of God, the smoke of the incense, caused by the burning incense 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

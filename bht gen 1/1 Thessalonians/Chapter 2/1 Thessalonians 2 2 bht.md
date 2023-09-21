@@ -9,7 +9,7 @@ This verse showcases an unwavering faith in God, even in the face of adversity. 
 2. "We had the confidence to speak."
 3. "Their work could be no κενόν, which was thus maintained."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A circumstance which would have deterred mere natural, unspiritual men from further preaching."
 2. "Shamefully entreated—ignominiously scourged."
 3. "The ground of our boldness in speaking was the realization of God as 'OUR God'."
@@ -50,4 +50,4 @@ This verse showcases an unwavering faith in God, even in the face of adversity. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The people, having witnessed miraculous signs and teachings from Jesus, are still doubtful, demanding further evidence of his divine authority. Their request for more signs reflects their lack of faith and understanding, as they prioritize tangible proof over recognizing Jesus as the One sent from God. Despite the clear message Jesus has conveyed, they persist in seeking physical signs, revealing their superficiality and reluctance to fully accept his teachings. This highlights the human tendency to doubt and constantly seek reassurance, rather than trusting in God's power and presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But how could they ask 'a sign,' when many of them scarce a day before had witnessed such a 'sign' as had never till then been vouchsafed to men..." 
 2. "The truth seems to be that they were confounded by the novel claims which our Lord had just advanced."
 3. "They saw very clearly that He was making a demand upon them beyond anything they were prepared to accord to Him, and beyond all that man had ever before made."
@@ -52,4 +52,4 @@ The people, having witnessed miraculous signs and teachings from Jesus, are stil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

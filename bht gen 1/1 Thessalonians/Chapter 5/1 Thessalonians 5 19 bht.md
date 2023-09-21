@@ -9,7 +9,7 @@ The verse being described is a call to not hinder or suppress the work of the Ho
 2. "It is conceived of as a flame, which may be checked and quenched."
 3. "The word is a common one with the later classics applied to wind."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do not throw cold water on those who, under extraordinary inspiration of the Spirit, stand up to speak with tongues, or reveal mysteries, or pray in the congregation."
 2. "The enthusiastic exhibitions of some...led others...from dread of enthusiasm, to discourage the free utterances of those really inspired, in the Church assembly."
 3. "On the other hand, the caution was needed, not to receive 'all' pretended revelations as divine, without 'proving' them."
@@ -57,4 +57,4 @@ The verse being described is a call to not hinder or suppress the work of the Ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

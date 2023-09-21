@@ -9,7 +9,7 @@ In the moments following the discovery of the empty tomb, the disciple John expe
 2. "He received into his mind, embraced with his assent, THE FACT OF THE RESURRECTION, for the first time."
 3. "Animum Joannis fide salvifica resurrectionis Jesu, tanquam novo quodam orti solis justitiæ radio, collustratum fuisse."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The repetition of this, in connection with his not having gone in till after Peter, seems to show that at the moment of penning these words the advantage which each of these loving disciples had of the other was present to his mind."
 2. "Probably he means, though he does not say, that he believed in his Lord's resurrection more immediately and certainly than Peter."
 3. "The order of their going in, and the impression produced on each, were according to the order of their faith."
@@ -54,4 +54,4 @@ These quotes highlight John's actions, the reversal of roles between Peter and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

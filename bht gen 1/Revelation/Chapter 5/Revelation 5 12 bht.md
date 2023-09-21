@@ -4,7 +4,7 @@
 In this verse, the commentators emphasize the worthiness of the Lamb who was sacrificed, highlighting the significance of His power, riches, wisdom, might, honor, glory, and blessing. They also draw attention to the Lamb's authority and dominion, symbolized by the seven seals, as well as the comprehensive nature of His power in all realms. The verse is a declaration of praise and acknowledgment for the sacrifices and virtues of Jesus Christ, the Lamb of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The remaining six (the whole being seven, the number for perfection and completeness) are all, as well as 'power,' ranged under the one Greek article, to mark that they form one complete aggregate belonging to God and His co-equal, the Lamb."
 2. "Riches—both spiritual and earthly."
 3. "Blessing—ascribed praise: the will on the creature's part, though unaccompanied by the power, to return blessing for blessing conferred."
@@ -49,4 +49,4 @@ These quotes highlight the significance of Jesus' sacrifice, his worthiness to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

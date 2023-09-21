@@ -9,7 +9,7 @@ The word of the Lord, which is present among us, has not been confined to a spec
 2. "The filling up would be, to insert καί after κόσμῳ as in rec. Then it would be, ‘which is present with you, as also in all the world, and καρπ . and αὐξ . (in all the world), as also among you.’"
 3. "The figure is taken from a tree, whose καρποφορία does not exclude its growth: with corn, it is otherwise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He speaks of the word as a living person present among them."
 2. "The Gospel should be preached to all nations, and not be limited, as the law was, to the Jews."
 3. "The Gospel is bearing fruits of righteousness and growing in numbers of its converts throughout all the world."
@@ -55,4 +55,4 @@ The word of the Lord, which is present among us, has not been confined to a spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Jesus declares that his kingdom is not of this world, emphasizing the spiritual 
 2. "They assert this other world before the representative of those who boasted of their ‘orbis terrarum.’"
 3. "If &c., I should have had servants, and those servants would have fought."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My kingdom is not of this world" - Jesus clarifies that His kingdom does not originate from or align with the world's systems and values. This distinction assures that His kingdom poses no threat to earthly powers and authorities.
 
 2. "If my kingdom were of this world, then would my servants fight" - Jesus emphasizes that His kingdom is not established or defended through physical force or violence. This statement highlights the peaceful and non-threatening nature of His reign.
@@ -59,4 +59,4 @@ These quotes shed light on the nature and origin of Jesus' kingdom, clarifying t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

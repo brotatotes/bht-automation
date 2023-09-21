@@ -11,7 +11,7 @@ Led by the Spirit into the wilderness, Jesus faced a genuine historical conflict
 
 3. "The whole is undoubtedly an objective historical narrative" - This affirms that the temptation of Jesus is a real event, recording an actual conflict between Him and the Power of Evil.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thought thus strongly expressed is the mighty constraining impulse of the Spirit under which He went; while Matthew's more gentle expression, 'was led up,' intimates how purely voluntary on His own part this action was."
 2. "The Spirit conducted Him into the wilderness simply to have His faith tried; but as the agent in this trial was to be the wicked one, whose whole object would be to seduce Him from His allegiance to God, it was a temptation in the bad sense of the term."
 3. "What was the high design of this? First, as we judge, to give our Lord a taste of what lay before Him in the work He had undertaken; next, to make trial of the glorious equipment for it which He had just received; further, to give Him encouragement, by the victory now to be won, to go forward spoiling principalities and powers, until at length He should make a show of them openly, triumphing over them in His cross."
@@ -50,4 +50,4 @@ Led by the Spirit into the wilderness, Jesus faced a genuine historical conflict
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

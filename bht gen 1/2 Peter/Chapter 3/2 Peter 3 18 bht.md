@@ -9,7 +9,7 @@ This verse encourages believers to persevere and progress in their Christian fai
 2. "The gen., τοῦ κυρ . κ . τ . λ ., belongs to both χάριτι and γνώσει." (The genitive stands in somewhat different relation to the two datives.)
 3. "To Him [be, or is] the glory (the glory i. e. all glory that is rendered: the sum total of glory) both now and to the day of eternity." (The glory belongs to Him both in the present and in the eternal future.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grow up into Him, the Head, Christ." - This quote emphasizes the importance of spiritual growth and progression in the Christian faith.
 
 2. "The grace of which Christ is the author, and the knowledge of which Christ is the object." - This quote highlights the significance of both grace and knowledge in relation to Christ, emphasizing their interconnectedness.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of continuous growth in grace, feeding the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

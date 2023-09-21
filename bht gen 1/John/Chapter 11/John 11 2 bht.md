@@ -9,7 +9,7 @@ In this passage, we encounter a profound demonstration of love and devotion to J
 2. "This reference...is a striking illustration of that prophecy."
 3. "John himself relates the occurrence, being necessary for the course of his narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was that Mary who anointed the Lord with ointment" - This action of Mary anointing the Lord with ointment is significant and well-known among the churches, as it was foretold by Jesus himself. (John 12:3)
 
 2. "She is first named, though the younger, as the more distinguished of the two" - Mary is mentioned first in this passage, highlighting her importance and distinction among the two Marys mentioned. (John 11:2)
@@ -55,4 +55,4 @@ In this passage, we encounter a profound demonstration of love and devotion to J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

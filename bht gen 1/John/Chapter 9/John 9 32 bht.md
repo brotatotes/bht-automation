@@ -4,7 +4,7 @@
 This verse describes a miracle that is extraordinary and unparalleled. It showcases Jesus’ divine power and authority, surpassing all prophets and even Moses himself. The opening of the eyes of a man born blind, an act never before seen, demonstrates Jesus’ uniqueness and confirms his divine mission. Additionally, this verse draws a parallel between the physical miracle and the spiritual miracle of opening one's understanding to the truth, highlighting the transformative nature of Jesus’ grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give God the praise; we know that this man is a sinner." - This quote highlights the skepticism and disbelief of the Pharisees towards Jesus, as they refuse to acknowledge the miraculous healing of the blind man. 
 
 2. "Not wishing him to own, even to the praise of God, that a miracle had been wrought upon him." - This quote reveals the Pharisees' reluctance to accept the truth and give credit to Jesus for performing the miracle, even if it meant acknowledging the power of God.
@@ -39,4 +39,4 @@ This verse describes a miracle that is extraordinary and unparalleled. It showca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

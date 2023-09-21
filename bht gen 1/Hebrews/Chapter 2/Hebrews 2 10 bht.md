@@ -9,7 +9,7 @@ The Bible verse being described in this paragraph is about the fitting and worth
 2. "The bringing of many sons to glory was the bringing of them to that supreme bliss and majesty which rightly belongs to God only, of which His divine Son is the ἀπαύγασμα, and of which believers in Christ are here in their degree partakers, and shall be fully so hereafter."
 3. "His sufferings were the appointed access to and the appointed elements of, His glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole plan was (not only not derogatory to, but) highly becoming God, though unbelief considers it a disgrace."
 2. "This scheme of redemption was altogether such a one as harmonizes with the love, justice, and wisdom of God."
 3. "Sonship, holiness, and glory, are inseparably joined. 'Suffering,' 'salvation,' and 'glory,' in Paul's writings, often go together."
@@ -48,4 +48,4 @@ The Bible verse being described in this paragraph is about the fitting and worth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

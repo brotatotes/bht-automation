@@ -9,7 +9,7 @@ In this passage, a desperate father brings his suffering son to Jesus, showing b
 2. "The wretched father counts his child’s misery his own." 
 3. "Thus the Syrophœnician woman, Matthew 15:25, βοήθει μοι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man is but struggling into faith: it must come a step farther."
 2. "He had to do with Him who breaks not the bruised reed, and who knew how to inspire what He demanded."
 3. "The man had said to Him, 'If Thou canst do.'"
@@ -50,4 +50,4 @@ In this passage, a desperate father brings his suffering son to Jesus, showing b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

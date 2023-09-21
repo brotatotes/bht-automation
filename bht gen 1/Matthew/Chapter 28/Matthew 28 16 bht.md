@@ -4,7 +4,7 @@
 On a mountain where Jesus had appointed them, the disciples gathered in response to His divine plan. This chosen location held previous significance, having been the site of Jesus' transfiguration. It is remarkable that over five hundred brethren witnessed His appearance, highlighting the widespread impact of Jesus' ministry and the multitude of eyewitnesses to His resurrection. This post-resurrection gathering reflects the intentional and glorious nature of Jesus' presence among His disciples.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What it was can only be conjectured; but of the two between which opinions are divided—the Mount of the Beatitudes or Mount Tabor—the former is much the more probable."
 2. "That the interview here recorded was the same as that referred to in one place only—1 Corinthians 15:6—when 'He was seen of above five hundred brethren at once of whom the greater part remained unto that day, though some were fallen asleep,' is now the opinion of the ablest students of the evangelical history."
 3. "Nothing can account for such a number as five hundred assembling at one spot but the expectation of some promised manifestation of their risen Lord: and the promise before His resurrection, twice repeated after it, best explains this immense gathering."
@@ -40,4 +40,4 @@ On a mountain where Jesus had appointed them, the disciples gathered in response
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

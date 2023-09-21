@@ -9,7 +9,7 @@ The verse being described emphasizes a significant shift in the disciples' under
 2. "ἀπ ʼ ἄρτι is not entirely future nor entirely present, but the moment of transition, the identification of the present and future."
 3. "Christ speaks here proleptically, in reference to the hour of His glorification being come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From henceforth" means from this point forward, indicating a shift or change in the situation or context.
 2. This phrase emphasizes the importance of the present moment and the significance of what follows.
 3. It invites the reader to pay attention to what is about to be said and to recognize its relevance and impact.
@@ -61,4 +61,4 @@ The verse being described emphasizes a significant shift in the disciples' under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

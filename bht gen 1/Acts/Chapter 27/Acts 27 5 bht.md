@@ -9,7 +9,7 @@ In a magnificent ruin-filled neighborhood, the name of a city still remains, whe
 2. "The name still remains." 
 3. "The various readings merely shew that the copyists were unacquainted with the place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul's familiarity with the coasts of Cilicia and Pamphylia suggests that he had a deep understanding of the local culture and customs, which would have been advantageous in his missionary work." 
 
 2. "The fact that Paul had been to Myra, a city of Lycia, indicates his extensive travels and his commitment to spreading the Gospel to various regions." 
@@ -42,4 +42,4 @@ In a magnificent ruin-filled neighborhood, the name of a city still remains, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

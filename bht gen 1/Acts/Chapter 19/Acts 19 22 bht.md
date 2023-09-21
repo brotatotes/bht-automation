@@ -9,7 +9,7 @@ In this verse, Paul sends Timothy and Erastus on a mission to Macedonia and Acha
 2. "Considerable uncertainty hangs over this journey."
 3. "Asia is named by way of contrast with Macedonia, just before mentioned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Timotheus and Erastus - as his pioneers, in part to bring 'them into remembrance of his ways which were in Christ,' partly to convey his mind on various matters." 
 2. "It is very unlikely that this Erastus was 'the chamberlain of the city' of Corinth, of that name." 
 3. "He himself stayed in the province of Asia for a season - that is, at Ephesus, its chief city."
@@ -38,4 +38,4 @@ In this verse, Paul sends Timothy and Erastus on a mission to Macedonia and Acha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

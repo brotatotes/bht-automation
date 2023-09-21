@@ -9,7 +9,7 @@ In this passage, Jesus returns to Capernaum and is warmly welcomed by the people
 2. "Welcomed Him." - This phrase suggests that Jesus was received with warmth and acceptance. It implies that there was a positive reception and a sense of joy in seeing Jesus again.
 3. "Here we have an eye-witness again." - This statement highlights the presence of someone who personally witnessed the events being described. It emphasizes the reliability and credibility of the account, adding weight to the narrative.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The abundant teaching of that day...had only whetted the people's appetite"
 2. "Disappointed...they remain hanging about the beach"
 3. "The tide of His popularity was now fast rising."
@@ -46,4 +46,4 @@ In this passage, Jesus returns to Capernaum and is warmly welcomed by the people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

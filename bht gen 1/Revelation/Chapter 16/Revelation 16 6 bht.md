@@ -4,7 +4,7 @@
 This verse depicts a scene of judgment and retribution by God against wicked oppressors who have shed the blood of the innocent. Rivers and fountains symbolize the recompense of blood being given to those who have caused harm, while emphasizing that this punishment is not ordinary or natural. The inclusion of the phrase "they are worthy" conveys a startling and significant message, highlighting the justice of God in avenging the harm done to His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse anticipates the judgment and punishment of the wicked, as described in Revelation 18:20 and Revelation 18:24. It highlights the justice of God, who will repay those who have harmed His people."
 2. "The reference to Genesis 9:6 emphasizes the sanctity of human life and implies that God will avenge those who have shed innocent blood."
 3. "Isaiah 49:26 further emphasizes God's commitment to protect His people and punish their oppressors. It reinforces the idea that God will bring justice to those who have caused harm."
@@ -48,4 +48,4 @@ Note: The commentary provided is a direct quote and has not been modified.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

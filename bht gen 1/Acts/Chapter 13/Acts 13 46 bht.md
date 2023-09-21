@@ -9,7 +9,7 @@ In this verse, the importance of delivering the message of salvation to both Jew
 2. "This verse echoes the theme of salvation for both Jews and Gentiles that is found throughout the book of Acts."
 3. "The reference to Acts 3:26 and Romans 1:16 highlights the universal nature of the gospel message."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is in the highest style of a last and solemn protestation."
 2. "It was necessary that the word should first have been spoken to you."
 3. "Pass sentence upon yourselves."
@@ -58,4 +58,4 @@ In this verse, the importance of delivering the message of salvation to both Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

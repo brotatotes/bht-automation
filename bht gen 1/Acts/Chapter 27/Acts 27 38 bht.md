@@ -9,7 +9,7 @@ In the face of a desperate situation at sea, the crew made a bold decision to ca
 2. "And this latter is much the more likely, for two reasons: (1) that σῖτος is mentioned here and not in Acts 27:18, which it would have been in all probability, had the material cast out there been the same as here; and (2) that the fact is related immediately after we are assured that they were satisfied with food."
 3. "It is a sufficient answer to Mr. Smith’s objection to this... that the ship was provisioned for the voyage to Italy for 276 persons, and that for the last fourteen days hardly any food had been touched."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With fresh strength after the meal, they make a third and last effort to lighten the ship."
 2. "Not only by pumping, as before, but by throwing the whole cargo of wheat into the sea."
 3. "This act of desperation shows the extreme measures they were willing to take to save themselves."
@@ -50,4 +50,4 @@ In the face of a desperate situation at sea, the crew made a bold decision to ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

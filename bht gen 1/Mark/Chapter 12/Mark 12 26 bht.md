@@ -9,7 +9,7 @@ In this passage, a significant event from the book of Moses is referenced, speci
 2. "when he was at the bush"
 3. "The former is the more probable, on account of the construction of the verse in our text."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have ye not read in the book of Moses—"even Moses"—how in the bush God spake unto him." This quote highlights the irony of the religious leaders trying to entangle Jesus by quoting Moses, when Jesus himself points out that they have not fully understood or grasped the teachings of Moses.
 2. "The structure of our verse suggests the latter sense, which is not unusual." This quote emphasizes the importance of understanding the context and structure of the verse in order to accurately interpret its meaning.
 3. "Saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?" This quote reminds us of the significance of God identifying himself as the God of the patriarchs, highlighting the continuity and faithfulness of God throughout generations.
@@ -44,4 +44,4 @@ In this passage, a significant event from the book of Moses is referenced, speci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

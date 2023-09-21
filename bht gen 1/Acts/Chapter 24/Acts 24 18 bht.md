@@ -9,7 +9,7 @@ In the midst of offering gifts and engaging in the sacred rituals of the temple,
 2. "The construction is irregular. A subject to εὗρον has to be supplied by a reference to some nominative case implied in οὐ μετὰ ὄχ . οὐδ . μ . θορ ."
 3. "On this sense of δέ , see Viger, ed. Hermann, p. 16, note 24; and Hermann’s note, p. 702."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "found me purified in the temple—not polluting it, therefore, by my own presence" - This quote highlights Paul's commitment to maintaining the sanctity of the temple and his innocence in any wrongdoing that could defile it.
 
 2. "neither gathering a crowd nor raising a stir" - This quote emphasizes Paul's peaceful and non-disruptive behavior in the temple, further supporting his claim of innocence.
@@ -45,4 +45,4 @@ In the midst of offering gifts and engaging in the sacred rituals of the temple,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

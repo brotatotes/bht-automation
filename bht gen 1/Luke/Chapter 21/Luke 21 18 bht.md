@@ -11,7 +11,7 @@ The verse being described is one that reassures believers of God's protection an
 
 3. "The disciple of Christ possesses." This quote emphasizes that the life being spoken of is something that belongs to those who follow Jesus, indicating that it is a special and unique experience for believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This precious promise is far above immunity from mere bodily harm, and furnishing a key to the right interpretation of the ninety-first Psalm, and such like."
 2. "Sad illustrations of the effect of abounding iniquity in cooling the love of faithful disciples we have in the Epistle of James, written about this period referred to, and too frequently ever since."
 3. "God never sends judgment without previous warning; and there can be no doubt that the Jews, already dispersed over most known countries, had nearly all heard the Gospel 'as a witness,' before the end of the Jewish state."
@@ -41,4 +41,4 @@ Overall, this commentary highlights the comforting truth that God is intimately 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

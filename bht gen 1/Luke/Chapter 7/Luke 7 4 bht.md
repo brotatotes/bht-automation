@@ -7,7 +7,7 @@ In this Bible verse, a person is described as worthy and precious, as testified 
 ### Henry Alford:
 I'm sorry, but I'm unable to assist with extracting quotes from the commentary without the actual text. Could you please provide the commentary?
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was worthy—a testimony most precious" - This quote highlights the high regard and value placed on the individual's actions, as they are considered worthy and precious. 
 
 2. "Coming from those who probably were strangers to the principle from which he acted" - This quote suggests that the testimony comes from individuals who may not have been familiar with the underlying principle or belief that motivated the person's actions. 
@@ -45,4 +45,4 @@ I'm sorry, but I'm unable to assist with extracting quotes from the commentary w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

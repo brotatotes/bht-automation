@@ -9,7 +9,7 @@ In this verse, Jesus teaches the principle of selflessness and self-denial, urgi
 2. "The saying here proclaims more plainly its true extent, by its immediate connexion with John 12:24."
 3. "ψυχή is not really in a double sense: as the wheat-corn retains its identity, though it die, so the ψυχή: so that the two senses are, in their depth, but one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal." 
 2. "Did our Lord mean to exclude Himself from the operation of the great principle here expressed—self-renunciation, the law of self-preservation; and its converse, self-preservation, the law of self-destruction?" 
 3. "As He became Man to exemplify this fundamental law of the Kingdom of God in its most sublime form, so the very utterance of it on this occasion served to sustain His own Spirit in the double prospect to which He had just alluded."
@@ -59,4 +59,4 @@ In this verse, Jesus teaches the principle of selflessness and self-denial, urgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

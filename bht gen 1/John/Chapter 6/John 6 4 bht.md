@@ -9,7 +9,7 @@ In this verse, we are presented with a significant and widely recognized feast, 
 2. "We must remember also that the reference of the following discourse to the Passover being so pointed, the remark would naturally be here inserted by the Evangelist."
 3. "But I would not, with Luthardt (i. 80; ii. 41) insist on this as the only reason for his making it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus kept away from [the Passover]": Jesus intentionally avoided attending the Passover, indicating his awareness of the growing hostility towards him and his mission.
 2. "Remaining in Galilee": Jesus chose to stay in Galilee instead of going to Jerusalem for the Passover, possibly to continue his ministry and avoid confrontation with the religious authorities.
 3. "Jesus walks on the sea": This event, mentioned in John 7:1, demonstrates Jesus' divine power and authority over nature, further emphasizing his unique identity as the Son of God.
@@ -42,4 +42,4 @@ In this verse, we are presented with a significant and widely recognized feast, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a tense situation arises where someone speaking the truth becomes
 2. "When did he thus incur their enmity by speaking the truth? Not at his first visit, from the whole tenor of this passage: nor in this letter, as some think, which they had not yet read; but at his second visit, when he probably found the mischief beginning, and spoke plainly against it." 
 3. "Obsequium amicos, veritas odium parit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Am I then become your enemy by telling you the truth?" - This quote highlights the tension between Paul and the Galatians, suggesting that his truthful words have caused a rift between them.
 2. "The occasion of his telling them the unwelcome truth must have been at his second visit." - This quote provides insight into the timing of Paul's confrontation with the Galatians, indicating that it likely occurred during his second visit to them.
 3. "The fool and sinner hate a reprover. The righteous love faithful reproof." - This quote emphasizes the contrasting reactions to reproof, with the foolish and sinful resisting it, while the righteous appreciate and value it.
@@ -50,4 +50,4 @@ In this verse, a tense situation arises where someone speaking the truth becomes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

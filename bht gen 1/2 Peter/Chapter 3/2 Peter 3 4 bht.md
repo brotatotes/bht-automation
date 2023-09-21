@@ -9,7 +9,7 @@ The commentators provide a deep analysis of the skepticism and doubt expressed t
 2. "Ever since the death of those to whom the promise was made, things have continued as we now see them from the beginning of creation." 
 3. "The 'terminus a quo' this general proposition is taken up and applied to the case in hand."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation, and arguing from the past continuity of nature's phenomena that there can be no future interruption to them, was the sin of the antediluvians, and shall be that of the scoffers in the last days."
 2. "Where—implying that it ought to have taken place before this, if ever it was to take place, but that it never will."
 3. "What becomes of the promise which you talk so much of?"
@@ -58,4 +58,4 @@ Overall, the commentary addresses the skepticism and doubt surrounding the fulfi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

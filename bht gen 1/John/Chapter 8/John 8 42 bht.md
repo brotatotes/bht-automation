@@ -9,7 +9,7 @@ The verse describes the eternal nature of God, His incarnation, and the unique r
 2. "ἥκω conveys the result of ἐξῆλθον, as Meyer; who also remarks that mere sending will not exhaust ἐξῆλθον." 
 3. "ἐξῆλθον must be taken metaphysically, of the proceeding forth of the Eternal Son from the essence of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye had anything of His moral image, as children have their father's likeness, ye would love Me, for I am immediately of Him and directly from Him."
 2. "My speech is unintelligible to you because ye cannot take in the truth which it conveys."
 3. "I am immediately of Him and directly from Him."
@@ -61,4 +61,4 @@ Overall, these quotes emphasize the significance of love as a reflection of one'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

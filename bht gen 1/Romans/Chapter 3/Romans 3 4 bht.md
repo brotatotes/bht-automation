@@ -9,7 +9,7 @@ The commentators highlight the unwavering truth and faithfulness of God. They em
 2. "The citation which follows goes to the depth of the matter. It is the penitent confession of a sinner, that he is sensible how entirely against God his sin has been, and how clearly his own unworthiness sets God’s judgment against sin vindicated before him."
 3. "That thou mightest be justified (shewn to be just) in thy sayings (sentences, words of judgment), and mightest conquer when Thou art judged."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God forbid—literally, 'Let it not be,' that is, 'Away with such a thought'—a favorite expression of our apostle, when he would not only repudiate a supposed consequence of his doctrine, but express his abhorrence of it."
 2. "The Scriptures do not authorize such a use of God's name as must have been common among the English translators of the Bible."
 3. "Yea, let God be held true, and every man a liar—that is, even though it should follow from this that every man is a liar."
@@ -60,4 +60,4 @@ Note: The commentary provided is quite brief, and there are not many substantial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators warn against being led astray by false teachings
 2. "μὴ πλαν ., as in ref., introduces a warning against moral self-deception."
 3. "The plur. ὁμιλίαι, points out the repetition of the practice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Evil communications corrupt good manners" - This saying emphasizes the influence of negative associations on one's behavior and character. It warns against engaging with those who deny the resurrection, as their beliefs can corrupt one's understanding of morality and spiritual truth.
 
 2. "Their notion seems to have been that the resurrection is merely spiritual, that sin has its seat solely in the body, and will be left behind when the soul leaves it" - This quote highlights the mistaken belief of some Corinthians that the resurrection is only spiritual and that sin is solely physical. It reveals their misunderstanding of the holistic nature of human existence and the need for moral transformation.
@@ -52,4 +52,4 @@ In this verse, the commentators warn against being led astray by false teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

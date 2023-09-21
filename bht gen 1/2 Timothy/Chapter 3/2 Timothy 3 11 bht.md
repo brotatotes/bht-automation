@@ -4,7 +4,7 @@
 In this passage, the verse is described as the Apostle Paul reflecting on the persecutions and afflictions he endured in places like Antioch, Iconium, and Lystra. These sufferings were severe, but the Lord delivered him from them all, serving as an encouragement to Timothy to not fear persecutions. The description highlights the consoling aspect of afflictions having a joyful end and emphasizes the presence and deliverance of God throughout Paul's journey. Additionally, it mentions the significance of Paul's experiences for Timothy, urging him to follow Paul's example.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Afflictions" refers to "sufferings" that Paul experienced in various places such as Antioch, Iconium, and Lystra (Acts 13:14; Acts 13:50; Acts 13:51; Acts 14:6; Acts 14:19).
 2. These afflictions were so grievous that Paul emphasizes their severity (Acts 14:22).
 3. Paul acknowledges that the Lord delivered him out of all these afflictions, which serves as an encouragement to Timothy to not fear persecutions (2 Timothy 4:17; Psalms 34:17; 2 Corinthians 1:10).
@@ -45,4 +45,4 @@ In this passage, the verse is described as the Apostle Paul reflecting on the pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Christ's resurrection is not only significant in fulfilling the purpose of His death, but it also signifies His exalted status and participation in divine power. His position at the right hand of God denotes His power to save and His will to do so through intercession. Christ's death and resurrection provide a security that He will not condemn His elect, as He paid the debt for our sins and continues to advocate for us before the Father.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not meaning that the resurrection of Christ was of more saving value than His death, but that having 'put away sin by the sacrifice of Himself'—which though precious to us was to Him of unmingled bitterness—it was incomparably more delightful to think that He was again alive, and living to see to the efficacy of His death in our behalf."
 
 2. "Christ's sitting at the right hand of God—predicted in Psalms 110:1, and historically referred to in Mark 16:19; Acts 2:33; Acts 7:56; Ephesians 1:20; Colossians 3:1; 1 Peter 3:22; Revelation 3:21—signifies the glory of the exalted Son of man, and the power in the government of the world in which He participates."
@@ -56,4 +56,4 @@ These quotes provide insight into the significance of Christ's resurrection, His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

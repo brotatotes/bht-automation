@@ -4,7 +4,7 @@
 The verse being described portrays a scene where Peter, recognizing Jesus as the Messiah and a teacher sent from God, reluctantly obeys a command despite his weariness and discouragement from a night of fruitless toil. This act of obedience, although lacking complete confidence, demonstrates Peter's acknowledgement of Christ's authority. The verse serves as a reminder for faithful preachers of the Gospel to endure and persevere in their ministry, relying on the commission and word of command they have received from Christ, despite the challenges they may face.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Master—betokening not surely a first acquaintance, but a relationship already formed." 
 2. "all night—the usual time of fishing then, and even now Peter, as a fisherman, knew how hopeless it was to 'let down his net' again, save as a mere act of faith."
 3. "at His word of command, which carried in it, as it ever does, assurance of success."
@@ -45,4 +45,4 @@ These quotes provide insights into the unique usage of the term "Master" by Luke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

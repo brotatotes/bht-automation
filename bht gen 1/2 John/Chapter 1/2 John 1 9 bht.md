@@ -11,7 +11,7 @@ In this verse, it is explained that those who try to set themselves up as teache
 
 3. "The order in the text is the theological one, the Father being mentioned first, then the Son." - This quote clarifies the theological significance of mentioning the Father first and then the Son in the context of abiding in the doctrine of Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The loss meant is here explained: the not having God, which results from abiding not in the doctrine of Christ." 
 
 2. "Every one who takes the lead" - emphasizing the importance of following Christ's teachings and guidance. 
@@ -54,4 +54,4 @@ In this verse, it is explained that those who try to set themselves up as teache
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

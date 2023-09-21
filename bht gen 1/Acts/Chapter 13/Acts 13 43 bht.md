@@ -9,7 +9,7 @@ In the aftermath of the synagogue gathering, Paul and Barnabas gathered a follow
 2. "Paul and Barnabas; and to the Jews and proselytes."
 3. "The work of the Gospel begun in the hearts of the converts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Speaking to them—following up the discourse in the synagogue by some further words of encouragement."
 2. "Persuaded them to continue in the grace of God—which they had experienced through the Gospel."
 3. "(Compare Acts 11:23)."
@@ -57,4 +57,4 @@ In the aftermath of the synagogue gathering, Paul and Barnabas gathered a follow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

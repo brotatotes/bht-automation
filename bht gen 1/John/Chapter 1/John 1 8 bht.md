@@ -11,7 +11,7 @@ John the Baptist was described as the precursor to the Light, the witness to the
 
 3. "And thus there is no ellipsis of ‘came’ or ‘was sent:’ John simply was, in order to &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a testimony to John to have to explain that 'he was not that Light!'"
 2. "Yet was he but a foil to set it off, his night-taper dwindling before the Dayspring from on high."
 3. "his night-taper dwindling before the Dayspring from on high."
@@ -37,4 +37,4 @@ John the Baptist was described as the precursor to the Light, the witness to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

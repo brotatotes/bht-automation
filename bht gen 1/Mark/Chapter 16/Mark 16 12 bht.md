@@ -9,7 +9,7 @@ On the road to Emmaus, Jesus appeared in a different form, not immediately recog
 2. "It was not as they walked, but as they sat at meat that He was manifested to them."
 3. "A slight difference from Luke 24:15-16, which relates as the reason why they did not know Him, that their eyes were holden, his being in his usual form being declared by αὐτὸς ὁ Ἰησοῦς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His manifestation to the two disciples going to Emmaus, so exquisitely told by the Third Evangelist." 
 2. "After that he appeared in another form." 
 3. "The reference here, of course, is to His manifestation to the two disciples going to Emmaus."
@@ -53,4 +53,4 @@ These quotes highlight the unique language choices made by the author of the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

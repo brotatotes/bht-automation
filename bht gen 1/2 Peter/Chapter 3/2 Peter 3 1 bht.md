@@ -13,7 +13,7 @@ This passage addresses the urgent need to have a sincere and pure mind, free fro
 
 (Note: The commentary provides additional explanations and references, but these quotes capture the essence of the commentary and provide valuable insights into the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mind, will, and affection, in relation to the outer world, being turned to God [the Sun of the soul], and not obscured by fleshly and selfish regards." 
 2. "Pure when examined by sunlight"; "sincere." Adulterated with no error. 
 3. "It is only needed that I remind you."
@@ -54,4 +54,4 @@ This passage addresses the urgent need to have a sincere and pure mind, free fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

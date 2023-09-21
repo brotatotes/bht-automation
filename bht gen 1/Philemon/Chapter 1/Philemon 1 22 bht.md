@@ -9,7 +9,7 @@ This passage highlights the themes of grace, hope, and personal restoration. The
 2. "We may, perhaps, take this direction as serving to secure the favourable reception of Onesimus."
 3. "Philemon was not to consider the Epistle as a mere petition for Onesimus, but as containing special messages on other matters to himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This prospect of Paul’s visiting Colosse would tend to secure a kindly reception for Onesimus, as Paul would know in person how he had been treated."
 2. "The same expectation is expressed by him, written in the same imprisonment."
 3. "The same expectation is expressed by him."
@@ -55,4 +55,4 @@ This passage highlights the themes of grace, hope, and personal restoration. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

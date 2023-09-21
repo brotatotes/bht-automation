@@ -4,7 +4,7 @@
 The description of the Bible verse revolves around the theme of judgment. The commentators highlight the limitations and flaws of human judgment, which is influenced by external appearances, preconceived opinions, and worldly desires. They emphasize that true judgment comes from a place of humility, compassion, and divine wisdom. Jesus, unlike humanity, does not judge according to the flesh but operates on a higher and just level. The verse also underscores the transformative power of the gospel in revealing the glory of Christ and freeing individuals from the blindness caused by worldly influences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye judge after the flesh—with no spiritual apprehension." This quote highlights the lack of understanding and discernment in the judgment of others. It suggests that the judgment based solely on external appearances is shallow and incomplete.
 
 2. "I judge no man." This quote emphasizes the humility and non-judgmental attitude of the speaker. It implies that true wisdom lies in refraining from passing judgment on others, leaving the task to a higher authority.
@@ -47,4 +47,4 @@ The description of the Bible verse revolves around the theme of judgment. The co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

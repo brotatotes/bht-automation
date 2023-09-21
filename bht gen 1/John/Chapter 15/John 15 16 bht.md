@@ -9,7 +9,7 @@ This Bible verse highlights the unmerited love and divine choice displayed by Je
 2. "The καρπός is not the Church, to be founded by the Apostles, and endure; this is evident, for here the fruit is spoken of with reference to themselves, and their ripening into the full stature of Christ."
 3. "The bearing fruit to God’s glory is of these the greater, being the result and aim of the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have not chosen me, but I . . . you—a wholesale memento after the lofty things He had just said about their mutual indwelling, and the unreservedness of the friendship they had been admitted to."
 2. "ordained—appointed."
 3. "that ye should go and bring forth fruit—that is, give yourselves to it."
@@ -55,4 +55,4 @@ This Bible verse highlights the unmerited love and divine choice displayed by Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

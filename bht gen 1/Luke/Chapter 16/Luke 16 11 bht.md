@@ -4,7 +4,7 @@
 The Bible verse emphasizes the contrast between "unrighteous mammon," referring to worldly possessions acquired through dishonest means, and the "true riches" bestowed by God. Material wealth is temporary and fleeting, while spiritual treasures are eternal and lasting. It is vital to be faithful in handling earthly possessions, using them wisely and in alignment with God's values. By demonstrating integrity in the small matters of this world, we open ourselves to receiving the greater gifts of God's grace and eternal riches.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "unrighteous mammon—To the whole of this He applies the disparaging term 'what is least,' in contrast with 'the true riches.'" 
 
 2. "The 'unrighteous mammon' refers to worldly wealth and possessions, which are often acquired through dishonest or unjust means. Jesus is highlighting the temporary and fleeting nature of material wealth, contrasting it with the eternal and lasting value of spiritual riches." 
@@ -42,4 +42,4 @@ The Bible verse emphasizes the contrast between "unrighteous mammon," referring 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

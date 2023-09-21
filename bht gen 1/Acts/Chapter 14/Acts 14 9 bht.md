@@ -9,7 +9,7 @@ In this Bible verse, a man was listening intently to Paul's preaching, showing e
 2. "The imperfect ἤκουεν is important."
 3. "ἀτεν. αὐτ." (See note on ch. Acts 13:9)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul may have been led by the sight of this cripple to dwell on the Saviour's miracles of healing, and His present power."
 2. "Perceiving from the eagerness with which the patient drank in his words, that he was prepared to put his own case into the Redeemer's hands."
 3. "The effect was instantaneous—he sprang to his feet 'and walked.'"
@@ -56,4 +56,4 @@ In this Bible verse, a man was listening intently to Paul's preaching, showing e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

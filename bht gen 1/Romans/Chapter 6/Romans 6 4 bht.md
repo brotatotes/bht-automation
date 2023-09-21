@@ -9,7 +9,7 @@ In this verse, commentators highlight the significance of baptism as a symbol of
 2. "The divine δόξα includes all that manifests the Creator to the creature: and hence also his Almightiness."
 3. "Thus we also should walk in newness of life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By the same baptism which publicly enters us into His death, we are made partakers of His burial also."
 2. "To leave a dead body unburied is represented, alike in heathen authors as in Scripture, as the greatest indignity."
 3. "We, in being 'buried with Him by our baptism into His death,' have by this public act severed our last link of connection with that whole sinful condition and life which Christ brought to an end in His death."
@@ -59,4 +59,4 @@ In this verse, commentators highlight the significance of baptism as a symbol of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

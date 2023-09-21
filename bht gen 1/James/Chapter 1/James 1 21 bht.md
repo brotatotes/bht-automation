@@ -9,7 +9,7 @@ In order to truly receive and be transformed by the word of the gospel, it is cr
 2. "the word spoken of is beyond doubt the same as the λόγος ἀληθείας above i. e. the gospel, in its fulness. But the epithet makes some little difficulty. First of all, it clearly is not, as Œc. seems to take it, 'innate': τὸν διακριτικὸν τοῦ βελτίονος καὶ τοῦ χείρονος, διʼ ὃ καὶ λογικοὶ ἐσμὲν καὶ λεγόμεθα: and so in the Apostolical Constt. viii. 12, νόμον δέδωκας ἔμφυτον, for this would stultify δέξασθε, we having it already."
 3. "It is the ψυχή which carries the personality of the man: which is between the πνεῦμα drawing it upwards, and the σάρξ drawing it downwards, and is saved or lost, passes into life or death, according to the choice between these two. And the λόγος ἔμφυτος, working through the πνεῦμα and by the divine πνεῦμα, is a spiritual agency, able to save the ψυχή."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Filthiness" is cleansed away by hearing the word.
 2. Meekness includes a childlike, docile, humble, as well as an uncontentious, spirit.
 3. The Gospel word is engrafted inwardly and fulfills the ultimate design of the law.
@@ -61,4 +61,4 @@ These quotes highlight the importance of laying aside wickedness, sin, and world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

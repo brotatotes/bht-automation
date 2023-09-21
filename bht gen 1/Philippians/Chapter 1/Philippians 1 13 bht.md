@@ -9,7 +9,7 @@ The author of this verse describes their imprisonment as bonds endured for the s
 2. "The fact here mentioned may be traced to St. Paul being guarded by a prætorian soldier, and having full liberty of preaching the Gospel."
 3. "The soldiers, and those who visited him, carried the fame of his being bound for Christ over all Rome."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So that my bonds have become manifest in Christ," - This quote highlights the fact that Paul's imprisonment was not in vain, but rather a testimony to his commitment to Christ and the Gospel.
 2. "The barrack of the Prætorian guards attached to the palace of Nero" - This quote provides context for the location of Paul's imprisonment, showing that he was in close proximity to the emperor and his bodyguards.
 3. "Paul had been now upwards of two years a prisoner, so that there was time for his cause and the Gospel having become widely known at Rome." - This quote emphasizes the duration of Paul's imprisonment and the opportunity it provided for the spread of the Gospel message.
@@ -50,4 +50,4 @@ The author of this verse describes their imprisonment as bonds endured for the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

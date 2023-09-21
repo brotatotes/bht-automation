@@ -9,7 +9,7 @@ As the disciples departed by land, the crowds recognized Jesus and eagerly follo
 2. "Herod. vii. 110, τουτέων οἱ μὲν παρὰ θάλ. κατοικημένοι ἐν τῇσι νηυσὶ εἵποντο · οἱ δὲ αὐτέων τὴν μεσόγαιαν οἰκέοντες … πεζῇ … εἵποντο." 
 3. "πεζῃ, and so most usually: e.g. Herod. vii. 110."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And many saw them departing, and knew or recognized [them]."
 2. "Here, perhaps, it should be rendered 'by land'—running round by the head of the lake, and taking one of the fords of the river, so as to meet Jesus, who was crossing with the Twelve by ship."
 3. "How exceedingly graphic is this! every touch of it betokening the presence of an eye-witness."
@@ -33,4 +33,4 @@ As the disciples departed by land, the crowds recognized Jesus and eagerly follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, Paul stands before Festus, who is perplexed by the charges 
 2. "Augustus and Tiberius refused this title; Caligula and all following bore it."
 3. "Now first was our Lord's prophecy fulfilled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The writer's accuracy should be remarked here."
 2. "It would have been . . . a mistake to apply this term ("lord") to the emperor a few years earlier."
 3. "But it had now come (rather, "was coming") into use as one of the imperial titles."
@@ -48,4 +48,4 @@ In this Bible verse, Paul stands before Festus, who is perplexed by the charges 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

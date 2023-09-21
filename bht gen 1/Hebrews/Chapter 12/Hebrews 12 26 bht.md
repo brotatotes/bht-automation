@@ -11,7 +11,7 @@ The Bible verse being described is a prophecy that speaks of a powerful shaking 
 
 Note: The commentary is quite lengthy and technical, so it was challenging to find concise and meaningful quotes.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The announcement of His coming to break up the present order of things is to the ungodly a terror, to the godly a promise, the fulfillment of which they look for with joyful hope."
 2. "The shaking began at the first coming of Messiah; it will be completed at His second coming, prodigies in the world of nature accompanying the overthrow of all kingdoms that oppose Messiah."
 3. "The two advents of Messiah are regarded as one, the complete shaking belonging to the second advent, of which the presage was given in the shakings at the first advent."
@@ -51,4 +51,4 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

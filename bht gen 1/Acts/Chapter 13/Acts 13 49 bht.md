@@ -4,7 +4,7 @@
 The Gospel message proclaimed by Paul, Barnabas, and the newly converted believers had a profound impact, spreading far and wide throughout the region. Multiple churches were established as a result, symbolizing the growth and expansion of Christianity. Additionally, the historical context of Antioch in Pisidia reveals the presence of influential bishops, such as Gregory, who played a role in theological debates concerning practices like the worship of images.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word of the Lord was published throughout all the region." - This suggests that the message of the Lord was not confined to one place but spread far and wide, indicating the impact and influence of the disciples' missionary work.
 
 2. "Implying some stay in Antioch and missionary activity in its vicinity." - This implies that the disciples did not simply pass through Antioch but spent some time there, establishing a presence and engaging in active missionary work in the surrounding areas.
@@ -39,4 +39,4 @@ The Gospel message proclaimed by Paul, Barnabas, and the newly converted believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

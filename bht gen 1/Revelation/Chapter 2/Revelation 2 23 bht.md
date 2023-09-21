@@ -4,7 +4,7 @@
 This passage describes a severe judgment from God on a woman and her followers. The punishment will be swift and certain, resulting in the destruction of those who align with her and engage in wicked practices. God's hand in this judgment will be unmistakable, evident for all to see. He will search the hearts and motives of individuals, leaving no secrets or impurities hidden. The consequences of their actions will extend to future generations and serve as a warning to all churches.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her proper adherents; not those who suffer her, but those who are begotten of her." 
 2. "Kill with death is a Hebraism for slay with most sure and awful death." 
 3. "So palpably shall God's hand be seen in the judgment on Thyatira, that the whole Church shall recognize it as God's doing."
@@ -42,4 +42,4 @@ This passage describes a severe judgment from God on a woman and her followers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

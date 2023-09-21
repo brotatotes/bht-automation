@@ -9,7 +9,7 @@ The verse being described is a powerful affirmation of the unwavering love and p
 2. "Neither death, nor life, nor angels, nor principalities, nor things present nor things to come, nor powers, nor height nor depth, nor any other created thing shall be able to sever us from the love of God which is in Christ Jesus our Lord."
 3. "Here plainly enough God’s love to us in Christ, to us, as we are in Christ, to us, manifested in and by Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither death, nor life, nor angels, nor principalities, nor powers—whether good or bad." 
 2. "But as the bad are not called 'angels,' or 'principalities,' or 'powers,' save with some addition to show that such are meant, probably the good are meant here."
 3. "Nor things present, nor things to come—no condition of the present life and none of the unknown possibilities of the life to come."
@@ -57,4 +57,4 @@ These quotes highlight the commentator's explanation of the verse, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

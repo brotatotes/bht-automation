@@ -9,7 +9,7 @@ In this verse, the apostle Paul emphasizes the need for self-discipline and self
 2. "It is not even of fasting or prayer that he is here speaking, but as the context, 1 Corinthians 9:19-23, shews, of breaking down the pride and obstinacy and self-seeking of the natural man by laying himself entirely out for his great work the salvation of the greatest number."
 3. "And this he says with a view to shew them the necessity of more self-denial, and less going to the extreme limit of their Christian liberty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not ascetic fasts or macerations of the body which are here recommended, but the keeping under of our natural self-seeking, so as, like Paul, to lay ourselves out entirely for the great work."
 2. "Unless the soul keep the body under, the body will get above the soul. The body may be made a good servant, but is a bad master."
 3. "A castaway - failing shamefully of the prize myself, after I have called others to the contest. Rejected by God, the Judge of the Christian race, notwithstanding my having, by my preaching, led others to be accepted."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes the need for self-discipline and self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

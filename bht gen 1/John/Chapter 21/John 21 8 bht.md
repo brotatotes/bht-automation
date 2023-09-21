@@ -11,7 +11,7 @@ In this Bible verse, a group of disciples embarked on a challenging journey acro
 
 3. "ὡς ἀπό: a mode of speech peculiar to John." - This quote highlights a unique linguistic characteristic of John's writing, indicating that the phrase "ὡς ἀπό" is a distinctive expression used by the author.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples faced a challenging journey, navigating the rough waters in a small ship. This reminds us that following Jesus does not guarantee a smooth and comfortable ride in life." 
 
 2. "The disciples' decision to travel by ship shows their commitment to continue their mission despite the difficulties they encountered. It teaches us the importance of perseverance and determination in our own spiritual journey."
@@ -52,4 +52,4 @@ In this Bible verse, a group of disciples embarked on a challenging journey acro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

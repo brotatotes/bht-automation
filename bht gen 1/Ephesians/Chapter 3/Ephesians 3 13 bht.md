@@ -9,7 +9,7 @@ In the midst of his sufferings, Paul implores his readers to not lose heart but 
 2. "The strange view of Harl., that ὑπὲρ ὑμῶν is to be joined with αἰτοῦμαι, needs no refutation."
 3. "ὅς, p. 547) your glory (πῶς ἐστι δόξα αὐτῶν; ὅτι οὕτως αὐτοὺς ἠγάπησεν ὁ θεός, ὥστε καὶ τ. υἱὸν ὑπὲρ αὐτῶν δοῦναι, κ. τοὺς δούλους κακοῦν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I entreat you not to be dispirited." 
 2. "Which are your glory," namely, inasmuch as showing that God loved you so much, as both to give His Son for you, and to permit His apostles to suffer "tribulations" for you.
 3. "My tribulations are your spiritual 'glory,' as your faith is furthered thereby."
@@ -57,4 +57,4 @@ In the midst of his sufferings, Paul implores his readers to not lose heart but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

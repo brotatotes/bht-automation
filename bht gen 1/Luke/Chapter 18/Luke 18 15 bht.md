@@ -9,7 +9,7 @@ In this verse, parents brought their infants and children to Jesus, seeking His 
 2. "The art. may be merely generic, as in E. V."
 3. "βρ. points out more distinctly the tender age of the children than παιδία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "showing that some, at least, of those called in Matthew and Mark simply 'little' or 'young children,' were literally 'babes.'"
 2. "put His hands on them and pray," or invoke a "blessing" on them, according to venerable custom.
 3. "Repeatedly the disciples thus interposed to save annoyance and interruption to their Master; but, as the result showed, always against the mind of Christ."
@@ -38,4 +38,4 @@ In this verse, parents brought their infants and children to Jesus, seeking His 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

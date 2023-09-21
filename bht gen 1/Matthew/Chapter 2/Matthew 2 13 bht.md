@@ -9,7 +9,7 @@ In this verse, we witness the immediate obedience of Joseph as he seeks refuge i
 2. "Egypt, as near, as a Roman province and independent of Herod, and much inhabited by Jews, was an easy and convenient refuge."
 3. "τοῦ ἀπολ. is not a Hebraism, but pure Greek, implying the purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe this form of expression, repeated in :- —another indirect hint that Joseph was no more than the Child's guardian."
 2. "Ah! blessed Saviour, on what a checkered career hast Thou entered here below! At Thy birth there was no room for Thee in the inn; and now all Judea is too hot for Thee."
 3. "But Egypt was a house of refuge before it was a house of bondage, and now it has but returned to its first use."
@@ -38,4 +38,4 @@ In this verse, we witness the immediate obedience of Joseph as he seeks refuge i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the speaker appeals to the authority and credibility of the high 
 2. "From whom, moreover."
 3. "Even those who were there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high priest, as the representative of the religious authority, and the elders, as the representatives of the political authority, were the most influential and powerful figures in Jewish society at that time."
 2. "Their testimony carries significant weight and credibility, as they were the ones who held the highest positions of authority and were responsible for making important decisions."
 3. "By mentioning the high priest and the elders, Paul is appealing to their knowledge and understanding of the events, emphasizing that his actions were not done in secret or without the knowledge of those in power."
@@ -52,4 +52,4 @@ In this verse, the speaker appeals to the authority and credibility of the high 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

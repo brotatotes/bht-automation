@@ -11,7 +11,7 @@ The Bible verse being described highlights the significance of circumcision and 
 
 3. "The real Jew only, and the real circumcision only, are expressed in both verses." - This statement clarifies that being a true Jew and having true circumcision are not merely outward labels, but rather qualities that are expressed in one's inner being.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For circumcision—that is, One's being within the covenant of which circumcision was the outward sign and seal."
 2. "Verily profiteth, if thou keep the law—if the inward reality correspond to the outward sign."
 3. "Otherwise, thou art no better than the uncircumcised heathen."
@@ -50,4 +50,4 @@ The Bible verse being described highlights the significance of circumcision and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

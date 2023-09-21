@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of sincere and selfless
 2. "As we say, in the dark." 
 3. "ἐν introducing the element, or sphere, in which."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That thine alms may be in secret" - This verse emphasizes the importance of doing acts of charity without seeking recognition or praise from others. It encourages humility and selflessness in giving.
 2. "Thy Father which seeth in secret himself shall reward thee openly" - This phrase highlights the belief that God sees and knows all, even the secret acts of kindness done in private. It reassures believers that their selfless acts will not go unnoticed and that God will reward them openly.
 3. "Prayer" - The mention of prayer in this commentary suggests that the following verses (Matthew 6:5-6) discuss the importance of praying sincerely and without seeking attention or approval from others. It emphasizes the need for a genuine and personal connection with God in prayer.
@@ -41,4 +41,4 @@ In this verse, the commentators emphasize the importance of sincere and selfless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

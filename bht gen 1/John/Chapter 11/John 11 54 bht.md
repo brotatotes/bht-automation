@@ -9,7 +9,7 @@ Amidst mounting opposition and aware of the impending danger, Jesus intentionall
 2. "He was still among Jews at Ephraim."
 3. "Its situation is at present unknown (see Winer, Realw. edn. 3, sub voce)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What do we? for this man doeth many miracles" - This quote highlights the recognition of Jesus' opponents that He performed numerous miracles. It emphasizes the undeniable evidence of His supernatural power and the impact it had on those who witnessed it.
 
 2. "While we trifle, 'this man,' by His 'many miracles,' will carry all before Him" - This quote underscores the urgency and concern of Jesus' enemies. They realize that if they continue to underestimate Him and dismiss His miracles as insignificant, He will gain an unstoppable momentum that will lead to their downfall.
@@ -52,4 +52,4 @@ Amidst mounting opposition and aware of the impending danger, Jesus intentionall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

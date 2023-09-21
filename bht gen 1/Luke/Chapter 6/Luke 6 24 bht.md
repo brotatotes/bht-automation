@@ -11,7 +11,7 @@ In this verse, the commentator's insights shed light on the dangers of wealth an
 
 3. "Or that they, and perhaps the four preceding beatitudes with them, were on some occasion spoken by our Lord in this exact form, and so have been here placed in that form."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Laugh—who have all their good things and joyous feelings here and now, in perishable objects."
 2. "Received your consolation—(see on Luke 6:1)."
 3. "Shall hunger—their inward craving strong as ever, but the materials of satisfaction forever gone."
@@ -52,4 +52,4 @@ In this verse, the commentator's insights shed light on the dangers of wealth an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

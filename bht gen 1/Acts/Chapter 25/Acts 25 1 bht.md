@@ -11,7 +11,7 @@ The verse being described is about Festus, the new governor of Judea, entering t
 
 3. "So also Josephus calls Festus ἔπαρχος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Festus . . . after three days" - This indicates that Festus wasted no time in familiarizing himself with the important city of Jerusalem. It shows his eagerness to understand the dynamics and challenges of his new jurisdiction.
 
 2. ". . . to make himself acquainted with the great central city of his government without delay" - This highlights Festus' desire to quickly gain knowledge and understanding of the city. It demonstrates his commitment to being an effective and informed leader.
@@ -54,4 +54,4 @@ The verse being described is about Festus, the new governor of Judea, entering t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

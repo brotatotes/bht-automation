@@ -9,7 +9,7 @@ Believers are given the astonishing privilege of judging not only human matters,
 2. "The meaning here then will be civil causes, matters of meum and tuum, as De Wette."
 3. "The sense is best with only a comma at κρινοῦμεν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We who are now 'a spectacle to angels' shall then 'judge angels.'" 
 2. "The saints shall join in approving the final sentence of the Judge on them." 
 3. "Believers shall, as administrators of the kingdom under Jesus, put down all rule that is hostile to God."
@@ -52,4 +52,4 @@ Believers are given the astonishing privilege of judging not only human matters,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

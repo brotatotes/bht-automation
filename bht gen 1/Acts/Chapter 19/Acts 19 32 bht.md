@@ -4,7 +4,7 @@
 In Acts 19:32, a massive and disorganized crowd gathered with a sense of injury but lacking clarity on the cause or desired resolution. The tumultuous meeting was filled with confusion and repetitive cries, likely resulting in a general riot. This assembly was characterized by a lack of organization and understanding, with individuals offering various explanations for the gathering. The chaotic nature of the crowd and their undefined purpose mirrored the disarray often observed in religious assemblies.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with noble forgetfulness of self"
 2. "the people met in public assembly"
 3. "The tense used implies only that they were using their efforts to restrain him"
@@ -40,4 +40,4 @@ These quotes highlight the chaotic and confused nature of the gathering describe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

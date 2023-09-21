@@ -4,7 +4,7 @@
 In this verse, a powerful figure holds a book in his left hand while raising his right hand to make an oath. The book being held signifies a significant role in prophesying and symbolizes the Bible in a smaller form. It represents the spreading of God's word and the transformative impact it will have on the world, as events are soon to unfold on both land and sea. This moment is significant as it marks a shift in the Revelation, where the language becomes clearer and less figurative, allowing for a deeper understanding of the unfolding events.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having." in his hand—in his left hand: as in Revelation 10:5, he lifts up his right hand to heaven.
 2. This other, a less book, contained only a portion which John was now to make his own and then to use in prophesying to others.
 3. The New Testament begins with the word "book" (Greek, "biblus"), of which "the little book" (Greek, "biblaridion") is the diminutive, "the little bible," the Bible in miniature.
@@ -41,4 +41,4 @@ In this verse, a powerful figure holds a book in his left hand while raising his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

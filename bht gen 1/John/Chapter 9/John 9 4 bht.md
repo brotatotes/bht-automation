@@ -9,7 +9,7 @@ The verse under consideration emphasizes the urgency and scope of the work to be
 2. "From ὅταν …, in John 9:5, it seems evident that ἡμέρα is the appointed course of the working of Jesus on earth, and νύξ the close of it."
 3. "It is true, that, according to John’s universal diction, the death of Jesus is His glorification; but the similitude here regards the effect on the world, see John 9:5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had a precise work to do upon earth, with every particular of it arranged and laid out to Him."
 2. "All He did upon earth was just 'the works of God'—particularly 'going about doing good,' though not exclusively by miracles."
 3. "Each work had its precise time and place in His programme of instructions, so to speak."
@@ -57,4 +57,4 @@ The verse under consideration emphasizes the urgency and scope of the work to be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

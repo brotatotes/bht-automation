@@ -9,7 +9,7 @@ The verse being described talks about the importance of love and kindness in the
 2. "Universal kindness of thought, word, and act towards all: a catholic large-heartedness, not confining the spirit of φιλαδελφία to ἀδελφοί only."
 3. "So that these two last correspond to the ἀγάπη εἰς ἀλλήλους καὶ εἰς πάντας of 1 Thessalonians 3:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your natural affection and brotherly kindness are to be sanctified by godliness."
 2. "From brotherly kindness we are to go forward to love."
 3. "In a retrograde order, he who has love will exercise brotherly kindness; he who has brotherly kindness will feel godliness needful; the godly will mix nothing stoical with his patience; to the patient, temperance is easy; the temperate weighs things well, and so has knowledge; knowledge guards against sudden impulse carrying away its virtue."
@@ -45,4 +45,4 @@ The verse being described talks about the importance of love and kindness in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

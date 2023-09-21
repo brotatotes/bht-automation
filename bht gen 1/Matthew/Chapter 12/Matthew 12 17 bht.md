@@ -9,7 +9,7 @@ This verse reveals Jesus' intentional fulfillment of Old Testament prophecies, e
 2. "It is strange that any should be found, at this period of the progress of exegesis, to go back to a view which is both superficial and ungrammatical."
 3. "The prophecy is partly from the LXX, partly an original translation. The LXX have Ἰακὼβ ὁ παῖς μου … Ἰσραὴλ ὁ ἐκλεκτός μου …, but the Rabbis generally understood it of the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the importance of prophecy in the fulfillment of God's plan. It shows that the events surrounding Jesus' life were not mere coincidences, but rather the fulfillment of ancient prophecies spoken by the prophet Isaiah."
 2. "By referencing the words of Isaiah, Jesus establishes a connection between his own ministry and the prophetic tradition of the Old Testament. This demonstrates the continuity of God's plan throughout history and reinforces Jesus' authority as the Messiah."
 3. "The phrase 'that it might be fulfilled' emphasizes the divine intention behind the events unfolding in Jesus' life. It reminds us that God is actively working behind the scenes to bring about his purposes, and that every detail of Jesus' life was orchestrated to fulfill the prophecies spoken centuries before."
@@ -42,4 +42,4 @@ This verse reveals Jesus' intentional fulfillment of Old Testament prophecies, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the commentator quotes shed light on a scene where the disciples had a challenging voyage the night before. They find themselves on the other side of the sea, waiting for boats to take them to Capernaum. While lingering on the shore, they realize that Jesus did not accompany them and decide to stay put. Their surprise is later met when they discover that Jesus has arrived in Capernaum without them. This passage showcases the disciples' dedication and reliance on Jesus, even in uncertain circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Evangelist's desire to mention every circumstance, however minute, that might call up the scene as vividly to the reader as it stood before his own view."
 2. "The people which stood on the other side of the sea—not the whole multitude that had been fed, but only such of them as remained over night about the shore."
 3. "The people had observed that there had been only one boat on the east side where they were, namely, the one in which the disciples had crossed at night to the other, the west side."
@@ -52,4 +52,4 @@ In this Bible verse, the commentator quotes shed light on a scene where the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

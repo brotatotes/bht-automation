@@ -9,7 +9,7 @@ Located in the once-prosperous city of Ephesus, this Bible verse takes us back t
 2. "The Jewish synagogue was outside the town, and Priscilla and Aquila were left in the town."
 3. "The verb 'διελέχθη' refers to a transient occasion, while 'διελέγετο' in Acts 18:4 refers to Paul's long stay and continual discourses in the Corinthian synagogue."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had been forbidden to preach the word in Asia, but he would not consider that as precluding this passing exercise of his ministry when Providence brought him to its capital."
 2. "It was a sail, right across from the west to the east side of the Ægean Sea, of some eight or ten days, with a fair wind."
 3. "He himself entered into the synagogue—merely taking advantage of the vessel putting in there."
@@ -40,4 +40,4 @@ Located in the once-prosperous city of Ephesus, this Bible verse takes us back t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

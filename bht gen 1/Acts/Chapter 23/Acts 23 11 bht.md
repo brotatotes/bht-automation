@@ -9,7 +9,7 @@ In the midst of Paul's troubles and imprisonment, the Lord appeared to him, prov
 2. "By these few words, the Lord assured him of an accomplishment of his intention of visiting Rome."
 3. "By these few words, the Lord assured him of the certainty that however he might be sent thither, he should preach the gospel, and bear testimony there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the night following—his heart perhaps sinking, in the solitude of his barrack ward, and thinking perhaps that all the predictions of danger at Jerusalem were now to be fulfilled in his death there."
 2. "the Lord—that is, Jesus. stood by him . . . Be of good cheer, Paul; for as thou hast testified of me in Jerusalem, so must thou . . . also at Rome"
 3. "Thy work in Jerusalem is done, faithfully and well done; but thou art not to die here; thy purpose next to 'see Rome' shall not be disappointed, and there also must thou bear witness of Me."
@@ -48,4 +48,4 @@ In the midst of Paul's troubles and imprisonment, the Lord appeared to him, prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus addresses the objections of his opponents who question the 
 2. "The very same argument is here used, but the other side of it presented to us."
 3. "He does witness of Himself, because His testimony is the testimony of the Father; He being the λόγος τοῦ θεοῦ, and the Father witnessing in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He meets this specious cavil not by disputing the wholesome human maxim that 'self-praise is no praise,' but by affirming that He was an exception to the rule."
 2. "Or rather, that it had no application to Him."
 3. "He was not boasting of Himself, but testifying to the truth about Himself."
@@ -55,4 +55,4 @@ In this verse, Jesus addresses the objections of his opponents who question the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

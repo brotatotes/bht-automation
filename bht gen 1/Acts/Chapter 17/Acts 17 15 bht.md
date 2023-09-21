@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul sends Timothy to the Thessalonians while h
 2. "Paul, on his arrival at Athens, sends (by his conductors, who returned) this message to both, to come to him as soon as possible. They did so, and found him (ch. Act 18:5) at Corinth."
 3. "Ἀθηνῶν] See a long and interesting description of the then state of Athens, its buildings, &c., in C. and H. chap. 10 vol. i. pp. 407 ff.; and Lewin, i. pp. 268 ff. It was a free city."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He probably wished their company and aid in addressing himself to so new and great a sphere as Athens."
 2. "He 'waited for them' there, as if unwilling to do anything till they came."
 3. "He had indeed sent for him to Athens; but, probably, when it appeared that little fruit was to be reaped there, while Thessalonica was in too interesting a state to be left uncherished, he seems to have thought it better to send him back again."
@@ -38,4 +38,4 @@ In this Bible verse, the apostle Paul sends Timothy to the Thessalonians while h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Based on the commentaries, the Bible verse can be understood as a reminder to be thankful for the grace and blessings of God while being conscious of the potential consequences of one's actions. It raises questions about the worthiness of risking one's reputation for personal freedom. The verse encourages individuals to consider the consistency of their actions with their beliefs and to prioritize self-denial when necessary. Ultimately, it emphasizes the significance of gratitude and the privilege of partaking in God's provisions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By grace—rather, 'thankfully' [ALFORD]." - This quote highlights the alternative interpretation of the phrase "by grace" as "thankfully." It suggests that the act of giving thanks is a demonstration of gratitude for the grace received.
 
 2. "I . . . be partaker—I partake of the food set before me." - This quote emphasizes the personal responsibility of the individual to partake in the provisions provided, indicating that it is an individual choice to accept and enjoy the blessings bestowed upon them.
@@ -54,4 +54,4 @@ Based on the commentaries, the Bible verse can be understood as a reminder to be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

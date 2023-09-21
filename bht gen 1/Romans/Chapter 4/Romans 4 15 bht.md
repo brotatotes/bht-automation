@@ -9,7 +9,7 @@ The commentators analyze a Bible verse discussing how the law does not justify o
 2. "Comparatively, there was no transgression before the law of Moses; and if we conceive a state in which the law whether written or unwritten should be altogether absent, there would be no transgression whatever." 
 3. "This reasoning does not touch the doctrine of the original taint of our nature in Adam, only referring to the discrimination of acts, words, and thoughts by the conscience in the light of the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law worketh wrath—has nothing to give to those who break is but condemnation and vengeance." 
 2. "For where there is no law, there is no transgression—It is just the law that makes transgression, in the case of those who break it; nor can the one exist without the other." 
 3. "The law reveals the standard of righteousness and exposes our inability to meet it, leading to condemnation and wrath."
@@ -50,4 +50,4 @@ These quotes highlight the commentary's emphasis on the law's inability to justi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

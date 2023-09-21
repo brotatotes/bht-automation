@@ -11,7 +11,7 @@ In a particular passage, Jesus visits his own country where his preaching was me
 
 3. "where see note." - This quote directs the reader to refer to a note for further information or clarification regarding the verse in question.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he did not many mighty works there, because of their unbelief." This quote highlights the significance of faith in witnessing miracles and the limitations imposed by unbelief.
 2. "Save that He laid His hands on a few sick folk, and healed them." This quote emphasizes Jesus' compassion and willingness to heal, even in the midst of unbelief.
 3. "See on Matthew 13:58." This quote directs readers to further explore the commentary on Matthew 13:58 for a deeper understanding of the context and implications of Jesus' limited miracles in that particular place.
@@ -54,4 +54,4 @@ In a particular passage, Jesus visits his own country where his preaching was me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

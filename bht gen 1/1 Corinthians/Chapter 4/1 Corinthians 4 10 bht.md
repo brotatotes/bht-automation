@@ -9,7 +9,7 @@ In this Bible verse, there is a stark contrast between the perceived wisdom of t
 2. "ἀσθενεῖς ἰσχυροί are both to be understood generally: the ἀσθένεια is not here that of persecution, but that of ch. 1 Corinthians 2:3; the strength is the high bearing of the Corinthians."
 3. "Ye are in honour (in glorious repute, party leaders and party men, highly honoured and looked up to), whereas we are despised (without honour). Then ἄτιμοι leads him to enlarge on the disgrace and contempt which the Apostle met with at the hands of the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How much your lot (supposing it real) is to be envied, and ours to be pitied."
 2. "Our connection with Christ only entails on us the lowest ignominy, 'ON ACCOUNT OF,' or 'FOR THE SAKE OF' Him, as 'fools'; yours gives you full fellowship IN Him as 'wise'."
 3. "We . . . weak . . . ye . . . strong— (1 Corinthians 2:3; 2 Corinthians 13:9)."
@@ -56,4 +56,4 @@ In this Bible verse, there is a stark contrast between the perceived wisdom of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

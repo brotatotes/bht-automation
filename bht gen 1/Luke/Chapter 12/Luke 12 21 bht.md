@@ -9,7 +9,7 @@ In utter confusion, and sudden destitution of all help and provision for eternit
 2. "He who is rich for himself, laying up treasure for himself, is by so much robbing his real inward life, his life in and toward God, of its resources."
 3. "These words may also...shew that Luke does not...use 'riches' as merely this world's wealth, but with a deeper spiritual meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such is a picture of his folly here, and of its awful issue."
 2. "Lives to amass and enjoy riches which terminate on self."
 3. "Lives and dies a beggar!"
@@ -48,4 +48,4 @@ In utter confusion, and sudden destitution of all help and provision for eternit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

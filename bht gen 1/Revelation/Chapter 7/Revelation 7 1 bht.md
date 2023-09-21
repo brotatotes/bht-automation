@@ -4,7 +4,7 @@
 Amidst the sequential visions, the opening of the seventh seal is preceded by significant events. The sealing of a chosen number, a true and secure church, occurs as a testament that even in times of turmoil, God's faithful remain protected. The four angels signify the restraint of evil forces and the prevention of false doctrines from permeating the churches across the world. These events serve as a preparation for the climactic seventh seal, carrying great significance and weight.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The second advent will be the time of the restoration of the kingdom to Israel, when the times of the Gentiles shall have been fulfilled, and the Jews shall at last say, 'Blessed is He that cometh in the name of the Lord.'"
 2. "The period of the Lord's absence has been a blank in the history of the Jews as a nation. As then Revelation is the Book of the Second Advent, naturally mention of God's restored favor to Israel occurs among the events that usher in Christ's advent."
 3. "The judgments to descend on these are in answer to the martyrs' prayer under the fifth seal."
@@ -43,4 +43,4 @@ Amidst the sequential visions, the opening of the seventh seal is preceded by si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

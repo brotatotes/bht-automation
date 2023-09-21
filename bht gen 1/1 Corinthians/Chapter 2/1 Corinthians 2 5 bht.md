@@ -9,7 +9,7 @@ The verse that these commentators are discussing emphasizes the importance of pl
 2. "Man has the capability of hindering its production."
 3. "Faith depends for its continuance on the same mighty Spirit, who is almost without intermission begetting it anew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Stand in the wisdom of men" - This phrase suggests that relying solely on human wisdom can lead to a shallow and limited understanding of the truth. It implies that true wisdom comes from a higher source and should be sought after.
 
 2. "Rest on it, owe its origin and continuance to it" - This quote emphasizes that human wisdom is not self-sustaining or eternal. It highlights the transient nature of human knowledge and the need for a deeper, more enduring wisdom.
@@ -49,4 +49,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so it w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

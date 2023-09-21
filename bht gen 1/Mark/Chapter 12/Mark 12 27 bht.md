@@ -4,7 +4,7 @@
 This verse emphasizes that God is not the God of the dead, but of the living, highlighting the eternal nature of His relationship with humanity. It speaks to the everlasting covenant between God and those who are accounted worthy, underscoring the importance of the resurrection and eternal life in God's plan. The verse's message is delivered with a sense of urgency, seriousness, and compassion, as it seeks to correct a great error and restore the understanding of God's power and covenant interest in His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is not the God of the dead, but the God of the living." - This statement emphasizes that God is not a God of the dead, but of the living. It highlights the eternal nature of God's relationship with humanity.
 
 2. "For all live unto Him." - This phrase suggests that in God's view or estimation, all human beings are alive and sustain a conscious relationship with Him. It speaks to the everlasting covenant relationship between God and those who are accounted worthy.
@@ -39,4 +39,4 @@ This verse emphasizes that God is not the God of the dead, but of the living, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

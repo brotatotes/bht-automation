@@ -9,7 +9,7 @@ In this thought-provoking verse, Jesus addresses the people, specifically direct
 2. "He addressed it to the people, to guard against interruption on the part of the chief priests." 
 3. "Bengel suggests that the purpose of addressing the parable to the people was to prevent any interference from the chief priests."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The vineyard in this parable represents the people of God, particularly the nation of Israel. It symbolizes the privileged position they had as God's chosen people, with the expectation that they would bear fruit of righteousness." 
 
 2. "The husbandmen in this parable refer to the spiritual guides and leaders of the people, who were entrusted with the responsibility of nurturing and cultivating the spiritual growth and righteousness of the nation."
@@ -51,4 +51,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

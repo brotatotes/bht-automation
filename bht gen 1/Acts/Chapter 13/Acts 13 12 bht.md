@@ -9,7 +9,7 @@ The verse described is a powerful demonstration of the impact and authenticity o
 2. "It is not said that he was baptized: but the supposition is not thereby excluded."
 3. "The divine power accompanying the Apostle's teaching is a clear sign of its authenticity and draws the attention of those who are seeking truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord." - This quote highlights the impact of witnessing the miraculous events and teachings of the Lord, which led to the deputy's belief.
 
 2. "What fruit, if any, followed this remarkable conversion, or how long after it the missionaries remained at Paphos, we know not." - This quote acknowledges the uncertainty surrounding the outcome and duration of the missionaries' stay in Paphos after the deputy's conversion.
@@ -57,4 +57,4 @@ The verse described is a powerful demonstration of the impact and authenticity o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

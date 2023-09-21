@@ -11,7 +11,7 @@ In this verse, we see the inclusivity and compassion of Jesus' ministry, as Luke
 
 3. "Luke's inclusion of this event serves as a reminder of Jesus' compassion and willingness to reach out to those who were marginalized or overlooked by society."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe the various reasons He had for crossing to the other side."
 2. "He sought privacy for undisturbed reflection on this begun preaching and progress of His kingdom."
 3. "Under the combined influence of all these considerations, our Lord sought this change."
@@ -53,4 +53,4 @@ In this verse, we see the inclusivity and compassion of Jesus' ministry, as Luke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

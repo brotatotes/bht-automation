@@ -4,7 +4,7 @@
 The verse being described highlights the apostle's concern about the possibility of false teachers introducing alternate versions of Jesus, the Spirit, and the Gospel. The commentators emphasize the impossibility of finding better alternatives and urge believers to remain steadfast in the original teachings. They also point out the irony in the eagerness to accept false teachers while disregarding the apostle's teachings. This description emphasizes the imperative of discernment and the invitation to remain grounded in the authentic message of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There can be no new Gospel, there is but the one which I first preached; therefore it ought not to be 'borne' by you, that the false teachers should attempt to supersede me."
 2. "Another implies a distinct individual of the same kind; different implies one quite distinct in kind."
 3. "The will of man is passive in RECEIVING the 'Spirit'; but it is actively concurrent with the will of God in ACCEPTING the 'Gospel'."
@@ -52,4 +52,4 @@ These quotes collectively emphasize the importance of staying true to the origin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

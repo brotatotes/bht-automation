@@ -9,7 +9,7 @@ The verse being described emphasizes the initial belief in Jesus as a teacher se
 2. "The mention of them precludes us from understanding John 4:54 as indicating that the healing of the ruler’s son was absolutely His second miracle." - Commentary
 3. "What miracles these were, is not related: certainly some notable ones." - Commentary
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The feast day" refers to a specific event or celebration, indicating that the events mentioned in the verse likely took place before the actual feast began.
 2. The belief of the people mentioned in the verse was superficial, based solely on the miracles performed by Jesus. This suggests that their faith was not deeply rooted or genuine.
 3. Although the commentary mentions that there is no record of the specific miracles that led to people's belief, it implies that these miracles played a significant role in convincing them.
@@ -57,4 +57,4 @@ The verse being described emphasizes the initial belief in Jesus as a teacher se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

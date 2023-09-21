@@ -9,7 +9,7 @@ In this verse, the commentators highlight the constant threat of death and perse
 2. "By this antithesis, the wonderful greatness of the divine power is strikingly brought out: God exhibits DEATH in the living, that He may exhibit LIFE in the dying."
 3. "The flesh being the very pabulum of decay and corruption."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we which live—in the power of Christ's 'life' manifested in us, in our whole man body as well as spirit"
 2. "Paul regards his preservation amidst so many exposures to 'death,' by which Stephen and James were cut off, as a standing miracle"
 3. "delivered unto—not by chance; by the ordering of Providence, who shows 'the excellency of His power' in delivering unto DEATH His living saints, that He may manifest LIFE also in their dying flesh"
@@ -45,4 +45,4 @@ I apologize for the confusion. Please provide the commentary in your next messag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

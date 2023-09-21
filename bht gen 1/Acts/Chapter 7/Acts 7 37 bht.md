@@ -11,7 +11,7 @@ This passage highlights the seamless connection between Moses and Christ, emphas
 
 3. "The commentary in Acts 3:22 may provide additional insights." This quote highlights the potential value of consulting the commentary in Acts 3:22 for additional insights or explanations related to the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is that Moses which said . . . A prophet . . . him shall ye hear" - This quote highlights the importance of recognizing Moses as a prophet and not the ultimate authority. It emphasizes that Moses was a precursor to the one whom the Church should truly have faith in.
 
 2. "This is quoted to remind his Moses-worshipping audience" - This quote emphasizes the need to remind the audience, who may have idolized Moses, that he was not the ultimate object of their faith.
@@ -54,4 +54,4 @@ This passage highlights the seamless connection between Moses and Christ, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

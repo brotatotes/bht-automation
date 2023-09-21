@@ -11,7 +11,7 @@ In this Bible verse, we learn that for those who are pure in heart and faith, ev
 
 3. "Uncleanness tainting their rational acts and their reflective self-recognitions, nothing can be pure to them." - This quote explains how impurity affects not only one's actions but also their self-perception, making it impossible for them to see anything as pure or good.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The distinction of pure and impure is not in the things, but in the disposition of him who uses them."
 2. "To the pure inwardly, all outward things are pure; all are open to their use."
 3. "Sin alone touches and defiles the soul."
@@ -58,4 +58,4 @@ In this Bible verse, we learn that for those who are pure in heart and faith, ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

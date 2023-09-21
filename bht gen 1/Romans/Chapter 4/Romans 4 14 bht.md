@@ -9,7 +9,7 @@ If one's inheritance is based on perfect obedience to the law, as highlighted by
 2. "Faith is robbed of its virtue and rendered useless." 
 3. "The promise has no longer place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the blessing is to be earned by obedience to the law."
 2. "If the blessing is to be earned by obedience to the law, faith is made void."
 3. "The whole divine method is subverted."
@@ -50,4 +50,4 @@ If one's inheritance is based on perfect obedience to the law, as highlighted by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

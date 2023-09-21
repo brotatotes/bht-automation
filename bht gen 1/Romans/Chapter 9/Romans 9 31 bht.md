@@ -9,7 +9,7 @@ The verse being described highlights the failures of Israel in obtaining righteo
 2. "They stumbled at the stone of stumbling...it was this mistaken method of pursuing which caused them to stumble against the stone of stumbling."
 3. "There is a close analogy between our text and the exhortation in Hebrews 12:1...the sacred Writer seems to have had in his mind the same comparison of Him to the pillar or goal, to which the eyes of the runners would be exclusively directed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Israel, which followed after the law of righteousness, hath not attained unto the law of righteousness." - This quote highlights the contrast between Israel's pursuit of righteousness and their failure to achieve it, despite their sincere efforts.
 
 2. "The word 'law' is used here... to denote 'a principle of action'." - This quote explains that the term "law" in this context refers to a guiding principle or standard of behavior, rather than a set of legal regulations.
@@ -45,4 +45,4 @@ The verse being described highlights the failures of Israel in obtaining righteo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

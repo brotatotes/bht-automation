@@ -9,7 +9,7 @@ In this verse, commentators highlight the unity and inclusivity of God's justifi
 2. "The former expresses the ground of justification, generally taken, by faith: the latter the means whereby the man lays hold on justification, by his faith: the former is the objective ground, the latter the subjective medium."
 3. "To understand τῆς πίστεως as referring to πίστεως just mentioned 'by the instrumentality of the identical faith which operates in the case of the circumcised,' is to contradict the fact: the faith was not, strictly speaking, identical in this sense, or the two cases never need have been distinguished."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is one God who shall justify." - This quote emphasizes the unchanging nature of God's decision to justify. 
 
 2. "The circumcision by faith, and the uncircumcision through faith." - This quote highlights the inclusive nature of justification through faith, regardless of one's background or status. 
@@ -49,4 +49,4 @@ In this verse, commentators highlight the unity and inclusivity of God's justifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

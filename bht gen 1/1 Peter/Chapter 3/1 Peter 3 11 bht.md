@@ -9,7 +9,7 @@ In this verse, we are reminded of the importance of turning away from evil and e
 2. "Let him seek peace, and pursue it." 
 3. "Inquirat pacem ut rem absconditam, et persequatur eam ut rem fugitivam" (Let him seek peace as a hidden thing, and pursue it as a fugitive thing).
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moreover (besides his words, in acts), let him." - This quote suggests that the verse is not just about what one says, but also about their actions. It implies that true wisdom is demonstrated through both words and deeds.
 
 2. "Eschew - 'turn from.'" - This quote emphasizes the importance of avoiding or turning away from actions that are contrary to wisdom. It implies that wisdom involves making choices that align with moral and ethical principles.
@@ -59,4 +59,4 @@ In this verse, we are reminded of the importance of turning away from evil and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

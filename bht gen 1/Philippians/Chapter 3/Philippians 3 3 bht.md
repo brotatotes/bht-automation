@@ -9,7 +9,7 @@ The verse being described emphasizes the true circumcision, not merely a physica
 2. "We serve by the Spirit of God, expressing the agent whereby our service is rendered." 
 3. "We glory in Christ Jesus and trust not in the flesh, but in the Spirit in our union with Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our religious service is rendered by the Spirit." 
 2. "Christian worship is spiritual, flowing from the inworkings of the Holy Spirit."
 3. "Rejoice in Christ Jesus, not in the law: the ground of their boasting."
@@ -57,4 +57,4 @@ These quotes highlight the concept of circumcision of the heart, the exclusive w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

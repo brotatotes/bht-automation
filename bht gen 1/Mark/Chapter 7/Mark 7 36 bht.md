@@ -11,7 +11,7 @@ In this verse, we witness a powerful community interceding on behalf of a blind 
 
 3. "This verse teaches us the importance of obedience and discernment in our actions. It reminds us to carefully consider the consequences of our choices and to respect the boundaries set by God, even when it may seem difficult or counterintuitive."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But in the former case there was no danger of obstructing His ministry by 'blazing the matter,' as He Himself had left the region; whereas now He was sojourning in it."
 2. "They could not be restrained; nay, the prohibition seemed only to whet their determination to publish His fame."
 3. "The more he charged them, so much the more a great deal they published it."
@@ -59,4 +59,4 @@ In this verse, we witness a powerful community interceding on behalf of a blind 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

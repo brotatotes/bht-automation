@@ -9,7 +9,7 @@ This verse depicts the ongoing battle between the desires of the flesh and the g
 2. "The spirit of persecution was begun." - So that we need not refer to tradition, as many have done, to account for St. Paul's expression. (Commentary on Galatians 4:29)
 3. "There is nothing that should wound our souls more deeply than contempt for God and mockery against His grace." - There is no form of persecution more deadly than when the salvation of souls is hindered. (Commentary on Galatians 4:29)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His mocking was probably directed against Isaac's piety and faith in God's promises."
 2. "Being the older by natural birth, he haughtily prided himself above him that was born by promise: as Cain hated Abel's piety."
 3. "The Jews persecuted Paul, not for preaching Christianity in opposition to heathenism, but for preaching it as distinct from Judaism."
@@ -50,4 +50,4 @@ This verse depicts the ongoing battle between the desires of the flesh and the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

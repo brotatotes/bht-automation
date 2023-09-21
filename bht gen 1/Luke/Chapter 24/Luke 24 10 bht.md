@@ -9,7 +9,7 @@ In this verse, the accounts of Jesus' resurrection are given by various witnesse
 2. "This account exactly agrees with his report afterwards."
 3. "It was Mary, &c. also the rest with them told the Apostles these things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Joanna's inclusion in this list highlights the significant role that women played in Jesus' ministry. It challenges the traditional notion that women were merely passive observers and emphasizes their active participation in spreading the message of the Gospel." 
 
 2. "The mention of Joanna also serves as a reminder that Jesus' ministry was not limited to a select few, but rather extended to people from all walks of life. It demonstrates his inclusive approach and his desire to reach out to those who were marginalized or overlooked by society." 
@@ -30,4 +30,4 @@ In this verse, the accounts of Jesus' resurrection are given by various witnesse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

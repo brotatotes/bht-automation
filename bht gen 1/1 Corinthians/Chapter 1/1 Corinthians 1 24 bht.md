@@ -9,7 +9,7 @@ The Bible verse being described is focused on the calling and response of believ
 2. "The repetition of χριστόν gives solemnity, at the same time that it concentrates the δύναμις and σοφία in the Person of Christ; q. d. ‘Christ even in His humiliation unto death, the power of God and wisdom of God.’"
 3. "to these, viz. the elect, the αὐτοῖς serving to identify them with the σωζόμενοι of 1 Corinthians 1:18. There it was ἡμῖν, here αὐτοῖς, because by the mention of preaching joined with ἡμεῖς, he has now separated off the hearers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same class as the 'us which are (being) saved' (1 Corinthians 1:18); the elect, who have obeyed the call; called effectually." 
 2. "When the offense of the cross is overcome, 'Christ' is received in all His relations, not only in His cross, but in His life and His future kingdom." 
 3. "The cross (the death of a slave), which to the Jews was a 'stumbling-block,' is really 'the power of God' to the salvation of all who believe."
@@ -45,4 +45,4 @@ The Bible verse being described is focused on the calling and response of believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

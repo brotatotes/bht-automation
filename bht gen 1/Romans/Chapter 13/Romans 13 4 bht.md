@@ -9,7 +9,7 @@ This verse describes the role and responsibility of civil magistrates. They are 
 2. "The reference to it here is among the many testimonies borne by Scripture against the attempt to abolish the infliction of the penalty of death for crime in Christian states."
 3. "It [εἰς ὀργήν] betokens the character of the ἐκδίκησις, that it issues in wrath."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sword is not to be used in vain, but rather as a symbol of the magistrate's authority to punish." 
 2. "The sword represents the power and responsibility given to the magistrate to maintain order and justice in society." 
 3. "The magistrate's use of the sword is not to be taken lightly, as it signifies the weight of their duty to uphold the law and protect the innocent."
@@ -60,4 +60,4 @@ This verse describes the role and responsibility of civil magistrates. They are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

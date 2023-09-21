@@ -9,7 +9,7 @@ Christ's victory over death is evident as we see the dominion of death no longer
 2. "But this vanishes when we remember that our Lord, by submitting to Death, virtually, and in the act of death, surrendered Himself into the power of Death."
 3. "Death could not hold Him and had no power over Him further than by his own sufferance: but power over Him it had, inasmuch as He died."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ being raised from the dead dieth no more; death hath no more dominion over him" - This highlights the victory of Christ over death and how His resurrection has broken the power of death.
 2. "That voluntary surrender gave death such rightful 'dominion over Him' as dissolved its dominion over us" - This emphasizes the sacrificial nature of Christ's death and how it has freed us from the dominion of death.
 3. "But this once past, 'death hath,' even in that sense, 'dominion over Him no more'" - This shows that Christ's resurrection has permanently removed the dominion of death over Him, signifying His eternal life and power.
@@ -40,4 +40,4 @@ Christ's victory over death is evident as we see the dominion of death no longer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

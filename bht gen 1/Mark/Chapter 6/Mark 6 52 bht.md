@@ -9,7 +9,7 @@ The commentators discuss a Bible verse where the people fail to comprehend the s
 2. "There was no intelligent comprehension founded on the miracle of the loaves."
 3. "They did not understand the significance of the miracle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace."
 2. "The details here are given with a rich vividness quite peculiar to this charming Gospel."
 3. "The meaning seems to be that if they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace."
@@ -43,4 +43,4 @@ The commentators discuss a Bible verse where the people fail to comprehend the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

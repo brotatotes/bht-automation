@@ -4,7 +4,7 @@
 The verse describes the invitation to acquire spiritual treasures from Christ. The commentators emphasize that the acquisition is not through human merit but through the renunciation of self-righteousness. These treasures include righteousness, symbolized by white raiment, and spiritual insight, represented by the eye-salve. Moreover, the invitation emphasizes that true riches come from having an interest in Christ's grace rather than earthly possessions. Through the purification of faith and the pursuit of holiness, believers can experience spiritual wealth and illumination.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Buy" does not imply that we can, by any work or merit of ours, purchase God's free gift; nay the very purchase money consists in the renunciation of all self-righteousness.
 2. Christ offers infinitely whiter raiment. As "gold tried in the fire" expresses faith tested by fiery trials: so "white raiment," Christ's righteousness imputed to the believer in justification and imparted in sanctification.
 3. Christ has for Laodicea an ointment far more precious than all the costly unguents of the East. The eye is here the conscience or inner light of the mind. According as it is sound and "single," the man sees aright spiritually, or does not.
@@ -43,4 +43,4 @@ The verse describes the invitation to acquire spiritual treasures from Christ. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

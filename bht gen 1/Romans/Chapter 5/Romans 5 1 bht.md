@@ -11,7 +11,7 @@ As believers, we are urged to embrace the peace that comes from being justified 
 
 3. "The whole passage is declaratory of the consequences flowing from justification by faith, and does not exhort, but assert." - The passage is not a call to action, but a declaration of the results that come from being justified by faith in Christ. It is a statement of truth rather than a command.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us have peace" a reading, however, which most reject, because they think it unnatural to exhort men to have what it belongs to God to give.
 2. If it be the privilege of the justified to "have peace with God," why might not the apostle begin his enumeration of the fruits of justification by calling on believers to "realize" this peace as belonged to them, or cherish the joyful consciousness of it as their own?
 3. This "peace" is first a change in God's relation to us; and next, as the consequence of this, a change on our part towards Him.
@@ -55,4 +55,4 @@ As believers, we are urged to embrace the peace that comes from being justified 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

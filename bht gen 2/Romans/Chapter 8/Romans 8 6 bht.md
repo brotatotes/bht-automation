@@ -10,7 +10,7 @@ The mind of the flesh is death - the sure mark of spiritual death. In contrast, 
 3. "The spiritual man cannot mind the things of the flesh because such a mind is death."
 4. "The peace of the Spirit being a blessed contrast to the tumult of the fleshly lusts, even in this life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be carnally minded...is death...carrying death into its bosom."
 2. "To be spiritually minded...is life and peace."
 3. "The pursuit of fleshly ends."
@@ -63,4 +63,4 @@ The mind of the flesh is death - the sure mark of spiritual death. In contrast, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

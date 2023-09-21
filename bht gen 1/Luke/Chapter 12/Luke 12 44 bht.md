@@ -4,7 +4,7 @@
 The Bible verse being described highlights the concept of faithful stewardship and the rewards that await those who diligently serve and follow Christ. The verse emphasizes that the reward for faithful stewardship extends beyond earthly possessions, elevating the faithful servant to a position of authority and responsibility in the world to come. It assures believers that their dedication will be recognized and rewarded, and that the ultimate fulfillment of these rewards will be experienced in the future, both in the earthly millennial kingdom and in the heavenly realm for all eternity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Make him ruler over all he hath" - This phrase suggests that the reward for faithful stewardship is not only limited to earthly possessions, but extends to a position of authority and responsibility in the world to come.
 
 2. "Will advance him to the highest post" - This implies that the faithful steward will be elevated to a position of great honor and influence in the future, indicating that their faithfulness in managing what they have been entrusted with will be recognized and rewarded.
@@ -27,4 +27,4 @@ The Bible verse being described highlights the concept of faithful stewardship a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

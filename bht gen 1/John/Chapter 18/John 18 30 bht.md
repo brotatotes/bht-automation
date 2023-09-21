@@ -9,7 +9,7 @@ The commentators highlight the situation where Jesus is being brought before Pil
 2. "The Procurators in such cases had a discretionary power." 
 3. "Quod probationibus deerat, id supplere volunt sua auctoritate."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were conscious they had no case of which Pilate could take cognizance." 
 2. "They had already found Him worthy of death by their own law." 
 3. "Not having the power, under the Roman government, to carry their sentence into execution, they had come merely for his sanction."
@@ -50,4 +50,4 @@ The commentators highlight the situation where Jesus is being brought before Pil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

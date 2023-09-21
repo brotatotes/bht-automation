@@ -11,7 +11,7 @@ In this verse, commentators provide insights into the significance of the action
 
 3. "Luke 5:6 shows us that when we align our will with God's will and step out in faith, He can bring about miraculous results. It is a powerful reminder that our own efforts and abilities are limited, but with God, all things are possible."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By directing the disciples to cast the net on the right side of the ship, Jesus not only displayed His knowledge of the deep but also revealed His power over it." 
 
 2. "This specific instruction from Jesus was a demonstration of His divine authority and ability to provide for His followers." 
@@ -61,4 +61,4 @@ In this verse, commentators provide insights into the significance of the action
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

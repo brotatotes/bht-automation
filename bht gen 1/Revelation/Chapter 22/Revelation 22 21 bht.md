@@ -4,7 +4,7 @@
 The verse being described in this paragraph is a benediction that expresses the hope for believers to experience the unmerited favor and empowerment of Jesus in their lives. The phrase "the grace of our Lord Jesus Christ" highlights the abundant love and forgiveness He offers. It is a desire for His presence and influence to be felt by all believers, bringing transformation and blessing. This concluding statement affirms the truth and significance of Jesus' grace, expressing confidence in its power and reality.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Old Testament ended with a 'curse' in connection with the law; the New Testament ends with a blessing in union with the Lord Jesus."
 2. "May the Blessed Lord who has caused all holy Scriptures to be written for our learning, bless this humble effort to make Scripture expound itself."
 3. "Make it an instrument towards the conversion of sinners and the edification of saints, to the glory of His great name and the hastening of His kingdom!"
@@ -44,4 +44,4 @@ These quotes highlight the significance of grace and the special status of belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

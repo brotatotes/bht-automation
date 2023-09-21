@@ -9,7 +9,7 @@ The verse being described emphasizes the reception and impact of the word of God
 2. "We also, i.e. as well as all who believe in Macedonia and Achaia, received and accepted the word of God from you." 
 3. "Ye received it not as the word of men, but as it is in reality, the word of God, which is also active in you that believe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye accepted it not as the word of men, but, even as it is truly, the word of God." - This quote highlights the importance of recognizing that the Bible is not just a human creation, but the actual word of God.
 
 2. "The proper object of faith, it hence appears, is the word of God, at first oral, then for security against error, written." - This quote emphasizes that the word of God, whether heard or read, is the foundation of faith.
@@ -52,4 +52,4 @@ These quotes highlight the expression of gratitude, the importance of receiving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

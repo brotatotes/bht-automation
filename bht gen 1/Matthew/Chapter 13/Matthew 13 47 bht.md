@@ -9,7 +9,7 @@ This parable depicts the ultimate separation of the holy and unholy within the C
 2. "A net is cast into the sea and gathers of every kind... when it is full, it is drawn to the bank, and the angels shall gather out the wicked from among the just, and cast them into everlasting punishment."
 3. "It is plain that the comparison must not be strained beyond its limits, as our Lord shows us that the earthly here gives but a faint outline of the heavenly."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here rendered 'net' signifies a large drag-net, which draws everything after it, suffering nothing to escape, as distinguished from a casting-net." 
 2. "The far-reaching efficacy of the Gospel is thus denoted." 
 3. "This Gospel net 'gathered of every kind,' meaning every variety of character."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

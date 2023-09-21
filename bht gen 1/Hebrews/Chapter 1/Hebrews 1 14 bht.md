@@ -9,7 +9,7 @@ In the unseen realm, there are ministering spirits sent forth for divine service
 2. "The διακονία is not a waiting upon men, but a fulfilment of their office as διάκονοι of God."
 3. "Those spoken of are the elect of God, they who love Him, and for whom all things work together for good, even the principalities and powers in heavenly places."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are incorporeal spirits, as God is, but ministering to Him as inferiors."
 2. "Angels are sent forth on ministrations to God and Christ, not primarily to men, though for the good of 'those who are about to inherit salvation.'"
 3. "So the superiority of the Son of God to angels is shown. They 'all,' however various their ranks, 'minister'; He is ministered to. They 'stand' before God, or are 'sent forth' to execute the divine commands on behalf of them whom He pleases to save; He 'sits on the right hand of the Majesty on high.' He rules; they serve."
@@ -55,4 +55,4 @@ In the unseen realm, there are ministering spirits sent forth for divine service
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described is James 3:5-6. The verse speaks of the power of the t
 
 3. "The comparison is beautifully used in a good sense by Philo... when nurtured by good hopes, it can transform what was once weak and blind, and cause what was withered to flourish again." - This quote provides a positive perspective on the power of the tongue, suggesting that when guided by positive intentions and hopes, it can bring about transformation and growth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is great moment in what the careless think 'little' things."
 2. "The little tongue's great words produce great mischief."
 3. "How little a fire kindleth how great a matter."
@@ -61,4 +61,4 @@ The verse being described is James 3:5-6. The verse speaks of the power of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

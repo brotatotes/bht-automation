@@ -9,7 +9,7 @@ In this verse, we see that the unbelieving Jews are described as enemies for the
 2. "They are beloved for the fathers' sakes." 
 3. "Not for the merits of the fathers, but because of the covenant with Abraham, Isaac, and Jacob."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are enemies for your sakes... for the benefit of you Gentiles." 
 2. "They are regarded and treated as enemies... from the family of God."
 3. "They are beloved even in their state of exclusion for the fathers' sakes."
@@ -54,4 +54,4 @@ In this verse, we see that the unbelieving Jews are described as enemies for the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the speaker wrestles with their inability to provide for th
 2. "He has lived softly and effeminately, and cannot do an honest day’s work."
 3. "This speech, of digging and begging, must not be sought for in the interpretation; it belongs to the truth of the parable itself as introducing the scheme which follows, but has no ulterior meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The imagery of digging and begging highlights the desperate state of the person being dismissed. They are unable to provide for themselves and are left in a state of utter want."
 
 2. "The shame associated with not being able to dig or beg further emphasizes the dire consequences of being dismissed. It is a reminder of the social stigma and humiliation that comes with being unable to support oneself."
@@ -49,4 +49,4 @@ Note: The commentary seems to be discussing the verse in Luke 16:3.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

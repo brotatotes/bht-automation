@@ -9,7 +9,7 @@ In this verse, we see a profound moment when Jesus, willingly surrendering Himse
 2. "To apprehend and bind ONE, all gave their help: the cohort, the chiliarch, and the Jewish officers."
 3. "This the Evangelist brings prominently forward, to shew how deep the impression of that previous incident still was: only by the help of all did they feel themselves secure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No man took His life from Him, but that He laid it down of Himself."
 2. "Jesus made them feel that no one could take His life from Him."
 3. "He willingly surrendered Himself to fulfill the purpose of His mission."
@@ -50,4 +50,4 @@ In this verse, we see a profound moment when Jesus, willingly surrendering Himse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

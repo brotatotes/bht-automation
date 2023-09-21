@@ -4,7 +4,7 @@
 In this Bible verse, commentators highlight how believers have died to the world and sin, and are called to live a new spiritual life. They emphasize the secure and unbreakable nature of the believers' union with Christ and their position in God. The verse reminds believers to detach themselves from worldly desires and pursuits, and focus on their true identity and life in God and Christ. The commentators also express the assurance and hope of eternal life, which is made possible through Christ's work and experienced in part through the presence of the Holy Spirit.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ye have died once for all" - The Greek aorist tense implies that believers have already died with Christ in the regeneration, and now they are called to develop this spiritual life in practice.
 2. "No one longs for eternal, incorruptible, and immortal life, unless he be wearied of this temporal, corruptible, and mortal life" - Augustine highlights that the desire for eternal life stems from a weariness with the temporary and corruptible nature of earthly life.
 3. "The glory of believers' inner life, proceeding from communion with Him, is still hidden with Christ in God" - Just as the glory of Christ is hidden from the world, the glory of believers' inner life, which comes from their communion with Christ, is also hidden. However, it will be fully manifested when Christ appears in glory.
@@ -49,4 +49,4 @@ Note: The provided quotes are slightly modified to fit within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

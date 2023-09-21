@@ -11,7 +11,7 @@ The verse being described highlights the interconnectedness of joy, comfort, and
 
 (Note: The commentary is not very clear and concise, but these quotes provide some insight into the Apostle's joy and comfort in the context of the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For this cause, because our aim has been attained, we have been comforted." 
 2. "In our comfort, we exceedingly the more joyed for the joy of Titus." 
 3. "The joy of Titus is not only his own joy, but also the joy of the apostle and the whole church."
@@ -52,4 +52,4 @@ The verse being described highlights the interconnectedness of joy, comfort, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

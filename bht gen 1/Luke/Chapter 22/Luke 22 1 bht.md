@@ -4,7 +4,7 @@
 The verse in question describes a festival, specifically the feast of unleavened bread and passover. This festival is in commemoration of the Israelites' haste to leave Egypt, symbolized by the unleavened bread that they had to eat. The feast drew near as a conspiracy was formed against Jesus, and it is seen as a figurative representation of the sincerity and truth that should be observed in the Gospel feast. This is the only place in the New Testament where the expression "the feast of unleavened bread" is used.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot generate a response without the commentary. Please provide the commentary so that I can extract the quotes for you.
 
 ### Marvin Vincent:
@@ -26,4 +26,4 @@ I'm sorry, but I cannot generate a response without the commentary. Please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 For the sake of the Name, they went forth, refusing to accept any form of payment or support from the Gentiles, ensuring that their mission remained solely focused on spreading the Gospel. Their intentional journey to preach the good news exemplified their commitment to actively participate in the proclamation of the gospel, demonstrating their dedication to the cause of Christ. This verse not only highlights the disciples' willingness to step out and share the message of salvation, but also their determination to fulfill the Great Commission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "taking nothing — refusing to receive aught by way of pay, or maintenance, though justly entitled to it"
 2. "the Christians just gathered out by their labors from among the heathen"
 3. "It would have been inexpedient to have taken aught from the infant churches among the heathen: the case was different in receiving hospitality from Gaius."
@@ -40,4 +40,4 @@ For the sake of the Name, they went forth, refusing to accept any form of paymen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

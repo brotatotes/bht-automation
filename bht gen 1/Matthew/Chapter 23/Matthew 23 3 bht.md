@@ -9,7 +9,7 @@ In this verse, the commentators highlight the significance of recognizing and re
 2. "there being a distinction between their lawful teaching as expounders of the law, and their frivolous traditions superadded thereto, and blamed below."
 3. "The present binds on the habitual practice to the mere momentary act of the aorist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He would have them to recognize the authority with which they taught over and above the obligations of the law itself—an important principle truly."
 2. "He who denounced the traditions of such teachers cannot have meant here to throw His shield over these."
 3. "The charge to respect and obey them being reported by Matthew alone, indicating for whom this Gospel was especially written, and the writer's desire to conciliate the Jews."
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so I have extracted all the relevant quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

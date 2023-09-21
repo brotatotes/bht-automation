@@ -9,7 +9,7 @@ Freedom from sin and serving God go hand in hand, leading to the fruitful outcom
 2. "The actual antithesis to ἁμαρτία, the devil would be the corresponding antithetical power." 
 3. "Fruit actually brought forth, leading unto perfect sanctification, and the end life everlasting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "being made free from Sin, and become servants to God—in the absolute sense intended throughout all this passage."
 2. "your fruit unto holiness—"sanctification," as in :-; meaning that permanently holy state and character which is built up out of the whole 'fruits of righteousness,' which believers successively bring forth."
 3. "and the end everlasting life—as the final state of the justified believer; the beatific experience not only of complete exemption from the fall with all its effects, but of the perfect life of acceptance with God, and conformity to His likeness, of unveiled access to Him, and ineffable fellowship with Him through all duration."
@@ -49,4 +49,4 @@ These quotes highlight the connection between freedom from sin, serving God, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

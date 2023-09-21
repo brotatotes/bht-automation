@@ -9,7 +9,7 @@ In this verse, the commentators reflect on the unshakable love of Christ towards
 2) "The second, as maintained by Beza, Grot., Est., al., Thol., Reiche, Meyer, De Wette, appears to me the only tenable sense of the words."
 3) "For, having shown that God’s great love to us is such that none can accuse nor harm us, the Apostle now asserts the permanence of that love under all adverse circumstances that none such can affect it, nay more, that it is by that love that we are enabled to obtain the victory over all such adversities."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is no ground of confidence to assert, or even to feel, that we will never forsake Christ; but it is the strongest ground of assurance to be convinced that His love will never change."
 2. "None of these, nor all together, however terrible soever to the flesh, are tokens of God's wrath, or the least ground for doubt of His love."
 3. "The apostle says not 'What,' but 'Who,' just as if all creatures and all afflictions were so many gladiators taking arms against the Christians."
@@ -50,4 +50,4 @@ In this verse, the commentators reflect on the unshakable love of Christ towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

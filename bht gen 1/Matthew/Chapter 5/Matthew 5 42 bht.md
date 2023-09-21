@@ -9,7 +9,7 @@ This verse encourages a spirit of generosity, urging believers to give to those 
 2. "To give everything to everyone would be to act as the enemy of others and ourselves. Ours should be a higher and deeper charity, flowing from those inner springs of love, which are the sources of outward actions sometimes widely divergent; whence may arise both the timely concession, and the timely refusal."
 3. "Here, to borrow, without usury, which was forbidden by the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give to him that asketh thee—The sense of unreasonable asking is here implied."
 2. "Though the word signifies classically 'to have money lent to one on security,' or 'with interest,' yet as this was not the original sense of the word, and as usury was forbidden among the Jews, it is doubtless simple borrowing which our Lord here means."
 3. "This shows that such counsels as 'Owe no man anything' are not to be taken absolutely else the Scripture commendations of the righteous for 'lending' to his necessitous brother would have no application."
@@ -59,4 +59,4 @@ These quotes emphasize the importance of generosity and helping those in need, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

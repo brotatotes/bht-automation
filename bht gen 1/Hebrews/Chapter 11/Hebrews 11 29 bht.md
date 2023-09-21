@@ -11,7 +11,7 @@ In this verse, individuals are commended for their unwavering faith and trust in
 
 3. "There is something to be said for the reading κατεποντίσθησαν." - This quote acknowledges a possible alternate reading in the text, suggesting that the Egyptians may have been "drowned" rather than "swallowed up" by the sea.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rashness and presumption mistaken by many for faith; with similar rash presumption many rush into eternity."
 2. "The same thing when done by the believer, and when done by the unbeliever, is not the same thing."
 3. "What was faith in Israel, was presumption in the Egyptians."
@@ -52,4 +52,4 @@ In this verse, individuals are commended for their unwavering faith and trust in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

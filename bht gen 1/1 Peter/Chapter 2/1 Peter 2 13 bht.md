@@ -9,7 +9,7 @@ In this verse, believers are urged to subject themselves to the authority of sec
 2. "Here, it is the lower side of such institutions, the fact of their being ordained and upheld by men, that is brought into sight." 
 3. "He, the Head of all principality and power, is yet in us his members subject to them, until the day when all shall be put under His feet."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle speaks as one raised above all human things."
 2. "Submit yourselves for the sake of Christ, who desires you to be subject."
 3. "The distinction between 'the king as supreme' and 'governors sent by him' implies that 'if the king command one thing, and the subordinate magistrate another, we ought rather to obey the superior'."
@@ -57,4 +57,4 @@ In this verse, believers are urged to subject themselves to the authority of sec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

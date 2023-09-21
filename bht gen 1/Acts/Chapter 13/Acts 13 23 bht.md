@@ -11,7 +11,7 @@ This passage refers to the fulfillment of the promise made to David, that the Me
 
 3. "The use of the word 'ἤγαγεν' (brought) emphasizes the fulfillment of the promise, indicating that Jesus has indeed brought salvation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The emphasis on this statement lies: (1) in the seed from which Christ sprang—David's—and the promise to that effect, which was thus fulfilled."
 2. "On the character in which this promised Christ was given of God—'a SAVIOUR.'"
 3. "His personal name 'JESUS' is emphatically added, as designed to express that very character."
@@ -49,4 +49,4 @@ This passage refers to the fulfillment of the promise made to David, that the Me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

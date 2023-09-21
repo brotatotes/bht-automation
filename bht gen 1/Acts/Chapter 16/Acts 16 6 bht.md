@@ -9,7 +9,7 @@ The apostle Paul, guided by the Holy Spirit, embarked on a missionary journey th
 2. "The midland district, known as Galatia, or Gallo-græcia, was inhabited by the descendants of those Gauls who invaded Greece and Asia in the third century B.C., and after various incursions and wars, settled and became mixed with the Greeks in the centre of Asia Minor."
 3. "Galatia, after his murder, A.D. 26, became a Roman province. The principal cities were Ancyra, which was made the metropolis of the province by Augustus, Tavium, and Pessinus: in all, or some of which, the Apostle certainly preached."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "At this time must have been formed 'the churches of Galatia' (Galatians 1:2; 1 Corinthians 16:1); founded, as we learn from the Epistle to the Galatians, by the apostle Paul, and which were already in existence when he was on his third missionary journey."
 2. "Why these proceedings, so interesting as we should suppose, are not here detailed, it is not easy to say; for the various reasons suggested are not very satisfactory."
 3. "They were forbidden of the Holy Ghost—speaking by some prophet, to preach the word in Asia—not the great Asiatic continent, nor even the rich peninsula now called Asia Minor, but only so much of its western coast as constituted the Roman province of Asia."
@@ -54,4 +54,4 @@ The apostle Paul, guided by the Holy Spirit, embarked on a missionary journey th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

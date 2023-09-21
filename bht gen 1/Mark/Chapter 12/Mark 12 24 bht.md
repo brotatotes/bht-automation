@@ -11,7 +11,7 @@ The lack of knowledge, specifically of the Scriptures and the power of God, resu
 
 3. "The lack of knowledge can hinder our ability to comprehend the reason behind things." This quote highlights the negative impact of not having knowledge or understanding. It suggests that without knowledge, we may struggle to grasp the reason or purpose behind certain situations, which can hinder our ability to make sense of them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do ye not therefore err, because ye know not the scriptures—regarding the future state." - This quote highlights the importance of understanding the scriptures in order to avoid error and confusion about the future state. 
 
 2. "Neither the power of God?—before which a thousand such difficulties vanish." - This quote emphasizes the limitless power of God, suggesting that any difficulties or doubts can be overcome in the face of His power. 
@@ -39,4 +39,4 @@ The lack of knowledge, specifically of the Scriptures and the power of God, resu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

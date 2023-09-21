@@ -9,7 +9,7 @@ In this passage, we see that the author is expressing their deep affection and p
 2. "You will be our joy in the day of the Lord: for you are our glory and joy."
 3. "This seems to me far better than, with Ellic., to regard the γάρ as only 'confirmatory and explicative.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who but ye and our other converts are our hope, &c., hereafter, at Christ's coming?" - This quote emphasizes the unique role of the converts in being the hope for the future, especially at the time of Christ's return.
 
 2. "For it is ye who ARE now our glory and joy." - This quote highlights the deep sense of pride and joy that the author feels towards the converts, recognizing them as a source of honor and happiness.
@@ -34,4 +34,4 @@ In this passage, we see that the author is expressing their deep affection and p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

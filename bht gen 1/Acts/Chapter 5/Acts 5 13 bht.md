@@ -9,7 +9,7 @@ The verse describes a scene where the early believers are held in both fear and 
 2. "The very people magnified them." 
 3. "The multitude recognized the power and authority of the believers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Of the rest durst no man join himself, c." - This verse highlights the fear and hesitation of others to openly align themselves with the disciples after witnessing the persecution they faced. It speaks to the courage and commitment required to follow Jesus in the face of opposition.
 
 2. "None ventured, after what had taken place, to profess discipleship." - This quote emphasizes the impact of the events that had unfolded, likely referring to the crucifixion and resurrection of Jesus. The magnitude of these events made people think twice before openly declaring their allegiance to Jesus.
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

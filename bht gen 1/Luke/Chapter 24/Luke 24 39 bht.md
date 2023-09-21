@@ -9,7 +9,7 @@ The verse being described refers to Jesus appearing before his disciples after h
 2. "He who is the Truth, does not speak thus of that which He knows, and has created."
 3. "He declares to us the truth, that those appearances to which He was now likened by the disciples, and spirits in general, have not flesh and bones."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, c.—lovingly offering them both ocular and tangible demonstration of the reality of His resurrection."
 2. "a spirit hath not—an important statement regarding 'spirits.'"
 3. "flesh and bones—He says not 'flesh and blood' for the blood is the life of the animal and corruptible body, but 'flesh and bones,' implying the identity, but with diversity of laws, of the resurrection body."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any specific insights or interpretations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

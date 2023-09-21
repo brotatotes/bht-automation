@@ -4,7 +4,7 @@
 This verse speaks of a divine appointment, where the speaker's role as a preacher of the Gospel is emphasized. The person declares the truth in Christ, asserting their veracity and appealing to Christ as the witness. Their ministry is directed towards the Gentiles, focusing on the faith and truth of the Gospel, which they teach with a sincere and unwavering conscience. The verse showcases a distinct Pauline style, emphasizing the importance of the speaker's divine calling and the content of their message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am ordained—literally, 'I was set': the same Greek, as 'putting me,' c." 
 2. "He recurs to himself, as in Titus 1:3- :, in himself a living pattern or announcement of the Gospel, so here 'a herald and teacher of (it to) the Gentiles'." 
 3. "The universality of his commission is an appropriate assertion here, where he is arguing to prove that prayers are to be made 'for all men'."
@@ -45,4 +45,4 @@ This verse speaks of a divine appointment, where the speaker's role as a preache
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

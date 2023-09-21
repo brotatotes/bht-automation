@@ -4,7 +4,7 @@
 In this Bible verse, the wickedness sown within the visible Church is attributed to the devil himself, revealing his relentless opposition to Christ. The presence of the wicked among believers is a call for patience and the exercise of caution, as zealous believers strive to purify both the Church and the world. While the final separation of the righteous and the wicked will occur at Christ's second coming, the angels will play a crucial role as they execute divine judgment upon the false believers, allowing the righteous to enter the heavenly kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The enemy that sowed them is the devil—emphatically 'His enemy'." 
 2. "The tares are the children of the wicked one"; and by their being sown "among the wheat" is meant their being deposited within the territory of the visible Church."
 3. "The harvest is the end of the world—the period of Christ's second coming, and of the judicial separation of the righteous and the wicked."
@@ -28,4 +28,4 @@ In this Bible verse, the wickedness sown within the visible Church is attributed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

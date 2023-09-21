@@ -9,7 +9,7 @@ In this verse, a commentator emphasizes the sorcerer's deceitful and wicked natu
 2. "The οὐ παύσῃ evidently makes this apply, not to Elymas’s conduct on this occasion merely, but to his whole life of imposture and perversion of others."
 3. "If, as some suppose, the reading of the name Bar-jesus is Bar-jehu, the repetition may be allusive: as in the other case might the ἐχθρὲ πάς . δικαιοσύνης to the name Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "full of all subtlety—referring to his magic arts."
 2. "and all malice—The word signifies 'readiness for anything,' knavish dexterity."
 3. "thou child of the devil... enemy of all righteousness—These were not words of passion, for immediately before uttering them, it is said he was 'filled with the Holy Ghost' [CHRYSOSTOM]."
@@ -51,4 +51,4 @@ These quotes highlight the commentary's emphasis on the deceitful and wicked nat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

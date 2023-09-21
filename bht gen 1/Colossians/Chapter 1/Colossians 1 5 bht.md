@@ -9,7 +9,7 @@ The verse being described is focused on a message that the audience had already 
 2. "The hope which is laid up for you in the heavens."
 3. "The word of the truth of the Gospel, the word or preaching whose substance was that truth of which the Gospel is the depository and vehicle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hope of eternal life will never be in us an inactive principle but will always produce 'love.'"
 2. "It does not follow that our hope is founded on our works because we are strongly stimulated to live well since nothing is more effectual for this purpose than the sense of God's free grace."
 3. "Faith, love, and hope comprise the sum of Christianity."
@@ -56,4 +56,4 @@ The verse being described is focused on a message that the audience had already 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

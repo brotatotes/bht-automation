@@ -9,7 +9,7 @@ In this Bible verse, the birthplace of the Messiah is revealed to be Bethlehem E
 2. "The tribes were divided into chiliads, and the names of the chiliads inscribed in the public records of their respective cities."
 3. "It has been remarked that the singular Latin expression, which occurs both in Tacitus and Suetonius, 'Judæa profecti,' may have been derived from these words of the LXX."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou art not the least: for out of thee shall come a Governor"—this distinction lifting it from the lowest to the highest rank.
 2. In the Old Testament, kings are, by a beautiful figure, styled "shepherds." The pastoral rule of Jehovah and Messiah over His people is a representation pervading all Scripture, and rich in import.
 3. That this prophecy of Micah referred to the Messiah, was admitted by the ancient Rabbins.
@@ -47,4 +47,4 @@ In this Bible verse, the birthplace of the Messiah is revealed to be Bethlehem E
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

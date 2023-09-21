@@ -4,7 +4,7 @@
 This description focuses on the importance of prayer and the universal saving grace of God, as highlighted by the commentators. It emphasizes the need for increased prayer in the conversion of more individuals and affirms God's desire for the salvation of all people. Additionally, it expresses the astonishment that anyone who has experienced God's saving grace would doubt its universality.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "More would be converted if we would pray more."
 2. "He who is 'our Saviour' is willing that all should be saved."
 3. "He has actually saved us who believe, being 'our Saviour'."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of living in accordance with God's teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

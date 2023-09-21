@@ -9,7 +9,7 @@ In the bustling city of Ephesus, a town-clerk held an influential position as th
 2. "Ephesus had the charge and keeping of the temple." 
 3. "To give peculiar sanctity to various images, it was given out that they had fallen from heaven."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word means 'temple-sweeper'; then, 'temple-guardian.' Thirteen cities of Asia had an interest in the temple, but Ephesus was honored with the charge of it." 
 2. "Various cities have claimed this title with reference to the Virgin or certain saints." 
 3. "With this we may compare various legends concerning images and pictures in the Romish Church, such as the traditional likenesses of Christ, which were said to be 'not made with hands'."
@@ -53,4 +53,4 @@ In the bustling city of Ephesus, a town-clerk held an influential position as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

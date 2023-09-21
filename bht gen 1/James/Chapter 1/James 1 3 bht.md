@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the testing and proving of one's
 2. "The temptations are the medium of proof." 
 3. "The thought is not carried to its end as in Rom., but the Apostle breaks away at ὑπομονήν to exhort respecting it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The trying—the testing or proving of your faith, namely, by 'divers temptations.'" - This quote highlights the idea that faith is tested and proven through various trials and temptations. It emphasizes the importance of enduring and persevering through these challenges.
 
 2. "Tribulation worketh patience, and patience experience." - This quote draws a parallel between tribulation and patience, suggesting that going through difficult times develops patience. It also mentions the concept of experience, indicating that these trials provide an opportunity for growth and learning.
@@ -52,4 +52,4 @@ In this Bible verse, the commentators emphasize the testing and proving of one's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

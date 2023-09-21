@@ -9,7 +9,7 @@ The verse being described emphasizes that the gospel has been preached to both t
 2. "The persons pointed at are those spirits in prison to whom our Lord went and preached, ch. 1 Peter 3:19. This supposition, but always with the protest raised above, that νεκροῖς does not refer only to these, but to the dead generally, and that these are only the occasion of the general assertion."
 3. "The aim and end introduced by the ἵνα, which on this, and on no other rendering, receives meaning and perspicuity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sense seems to be, Peter, as representing the true attitude of the Church in every age, expecting Christ at any moment, says, The Judge is ready to judge the quick and dead—the dead, I say, for they, too, in their lifetime, have had the Gospel preached to them, that so they might be judged at last in the same way as those living now." 
 
 2. "He says, 'live,' not 'made alive' or quickened; for they are supposed to have been already 'quickened together with Christ'."
@@ -52,4 +52,4 @@ The verse being described emphasizes that the gospel has been preached to both t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

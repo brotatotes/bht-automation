@@ -13,7 +13,7 @@ In this verse, the speaker grapples with the internal conflict between their spi
 
 Note: The commentary is quite complex and technical, so the quotes provided may not fully capture the depth of the original text.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To explain this and the following statements, as many do (even BENGEL and THOLUCK), of the sins of unrenewed men against their better convictions, is to do painful violence to the apostle's language, and to affirm of the unregenerate what is untrue."
 2. "That coexistence and mutual hostility of 'flesh' and 'spirit' in the same renewed man, which is so clearly taught in Romans 8:4, c., and in Romans 8:4- :, &c., is the true and only key to the language of this and the following verses."
 3. "His sole object in thus expressing himself was to bring more vividly before his readers the conflict of two opposite principles, and how entirely, as a new man—honoring from his inmost soul the law of God—he condemned and renounced his corrupt nature, with its affections and lusts, its stirrings and its outgoings, root and branch."
@@ -62,4 +62,4 @@ Note: The commentary is quite complex and technical, so the quotes provided may 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

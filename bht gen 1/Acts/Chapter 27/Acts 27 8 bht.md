@@ -9,7 +9,7 @@ The commentators describe a verse mentioning a location called Fair Havens in Cr
 2. "The most conclusive evidence that this is the Fair Havens of Scripture, is, that its position is precisely that where a ship circumstanced as St. Paul’s was, must have put in."
 3. "This place was, until recently, altogether unknown; and from the variety of readings, the very name was uncertain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And hardly passing it—"with difficulty coasting along it," from the same cause as before, the westerly current and head winds." 
 2. "the Fair Havens—an anchorage near the center of the south coast, and a little east of Cape Matala, the southernmost point of the island."
 3. "nigh whereunto was the city Lasea—identified by the REVEREND GEORGE BROWN [SMITH, Voyages and Shipwreck of St. Paul, Appendix 3, Second Edition, 1856]."
@@ -49,4 +49,4 @@ These quotes provide insights into the difficulties faced during the journey, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

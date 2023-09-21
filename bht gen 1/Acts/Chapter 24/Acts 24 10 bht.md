@@ -9,7 +9,7 @@ In this Bible verse, the contrast between the speeches of Tertullus and Paul is 
 2. "The Apostle, using no flattery, yet alleges the one point which could really win attention to him from Felix."
 3. "His confidence arising from speaking before one well skilled by experience in the manners and customs of the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul expresses his satisfaction at having to plead before one whose long official experience of Jewish matters would enable him the better to understand and appreciate what he had to say."
 2. "He had been in this province for six or seven years, and in Galilee for a longer period."
 3. "Paul uses no flattery, but simply expresses his satisfaction."
@@ -57,4 +57,4 @@ In this Bible verse, the contrast between the speeches of Tertullus and Paul is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

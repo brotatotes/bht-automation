@@ -10,7 +10,7 @@ This verse speaks of the example of Sarah, who demonstrated obedience and respec
 2. "If ye do good, and are not afraid of any sudden fear."
 3. "There is sin in singularity, both as ministering to pride in ourselves, and as giving offence to others and discommending our holy religion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are...children of Abraham and Sara by faith, whereas ye were Gentile aliens from the covenant." 
 2. "Act well, and be not thrown into sudden panic, as weak females are apt to be, by any opposition from without."
 3. "You need fear no man in doing what is right: not thrown into fluttering agitation by any sudden outbreak of temper on the part of your unbelieving husbands, while you do well."
@@ -58,4 +58,4 @@ Note: The commentary also mentions the reference to Proverbs 3:25 and the compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

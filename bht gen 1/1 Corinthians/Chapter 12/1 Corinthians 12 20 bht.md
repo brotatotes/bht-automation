@@ -9,7 +9,7 @@ The commentators collectively emphasize the interconnectedness and interdependen
 2. "In contrast to" - This phrase indicates that the commentary will focus on a comparison or distinction between different verses or concepts.
 3. "1Co 12:18 in contrast to 1 Corinthians 12:17" - This specific reference suggests that the commentary will explore the relationship between these two verses and their implications for understanding the broader context.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now—as the case really is" - This phrase emphasizes the reality of the situation being described, highlighting the contrast between perception and truth.
 2. "In contrast to the supposition" - This phrase suggests that the following statement challenges a preconceived notion or assumption.
 3. "Many members—mutually dependent" - This phrase emphasizes the interconnectedness and interdependence of the various individuals or parts being referred to.
@@ -40,4 +40,4 @@ The commentators collectively emphasize the interconnectedness and interdependen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

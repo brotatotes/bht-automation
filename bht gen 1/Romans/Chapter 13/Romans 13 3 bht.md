@@ -9,7 +9,7 @@ This Bible verse, described by various commentators, emphasizes the purpose and 
 2. "Tholuck observes, that this verse is a token that the Apostle wrote the Epistle before the commencement of the Neronian persecution."
 3. "Had this been otherwise, the principle stated by him would have been the same; but he could hardly have passed so apparent an exception to it without remark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rulers are not a terror to good works" - This quote highlights the idea that rulers should not be a source of fear or punishment for those who are doing good. It suggests that those in authority should support and encourage acts of righteousness and virtue.
 
 2. "But to the evil" - This quote emphasizes that rulers are meant to be a deterrent and a punishment for those who engage in evil deeds. It implies that those who act wickedly should face the consequences of their actions and be held accountable by those in authority.
@@ -52,4 +52,4 @@ These quotes highlight the idea that rulers are generally appointed to protect t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

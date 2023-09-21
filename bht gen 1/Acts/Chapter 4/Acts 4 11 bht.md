@@ -11,7 +11,7 @@ The verse being described speaks of a stone that was rejected by builders, yet u
 
 3. "Jesus, the rejected stone, became the cornerstone of the new spiritual temple, the Church." - This quote illustrates how Jesus' rejection ultimately led to the establishment of the Church, where believers find their foundation and unity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the stone which was set at naught of you builders." - The commentary highlights the rejection of Jesus by the religious leaders, emphasizing their failure to recognize His true identity and purpose.
 
 2. "This application of [Psalm 118:22], already made by our Lord Himself before some of the same 'builders' (Matthew 21:42)." - The commentary points out that Jesus Himself referred to this verse, further emphasizing the significance of the rejection and the fulfillment of prophecy.
@@ -58,4 +58,4 @@ The verse being described speaks of a stone that was rejected by builders, yet u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

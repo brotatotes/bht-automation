@@ -4,7 +4,7 @@
 In the book of Revelation, a pale and livid horse appears, symbolizing death and terror. This horse, with its greenish-yellow hue, represents the reign of death and the calamities that have plagued the church throughout its history. Death, accompanied by Hades, asserts its power under the opening of this seal, bringing forth devastation through war, famine, pestilence, and wild beasts. The judgments of God converge in this seal, encompassing the demise of Rome Pagan and carrying a message of warning and divine retribution.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pale—'livid' [ALFORD]. Death—personified. Hell—Hades personified." 
 2. "These four seals are marked off from the three last, by the four living creatures introducing them with 'Come.'"
 3. "The calamities indicated are not restricted to one time, but extend through the whole period of Church history to the coming of Christ, before which last great and terrible day of the Lord they shall reach highest aggravation."
@@ -37,4 +37,4 @@ In the book of Revelation, a pale and livid horse appears, symbolizing death and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

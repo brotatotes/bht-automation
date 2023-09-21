@@ -9,7 +9,7 @@ Within this verse, there is a call for ministers of God to conduct themselves in
 2. "The ambiguity of the E. V. might have been avoided by a different arrangement of words: ‘in all things, as the ministers of God, approving ourselves.’"
 3. "The following datives are a specification of παντί; but not all of the same sort: some signify instruments by which, some, situations in which, some both these."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In everything, as God's ministers recommending ourselves, that is, that our hearers may give our message a favorable hearing, through our consistency in every respect, not that they may glorify us."
 2. "We commend ourselves, not like them by word, but by deed."
 3. "Three triplets of trials exercising the 'patience' (patient endurance) follow: Afflictions (or 'tribulations'), necessities, distresses (or 'straits'); stripes, imprisonments, tumults; labors, watchings, fastings."
@@ -61,4 +61,4 @@ Within this verse, there is a call for ministers of God to conduct themselves in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

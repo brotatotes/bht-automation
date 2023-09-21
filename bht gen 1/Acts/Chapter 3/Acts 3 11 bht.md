@@ -11,7 +11,7 @@ In this verse, a lame man who had been healed clung to his benefactors, not want
 
 3. "but might testify to all, who his benefactors were" - This quote reveals the intention behind the holding, which is to bear witness and give testimony to the identity of those who have shown kindness and provided support. It underscores the idea of gratitude and acknowledgement.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is human nature." 
 2. "How vividly do these graphic details bring the whole scene before us!"
 3. "Thus was Peter again furnished with a vast audience, whose wonder at the spectacle of the healed beggar clinging to his benefactors prepared them to listen with reverence to his words."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief and lacks context. As a result, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

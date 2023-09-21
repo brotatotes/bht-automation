@@ -4,7 +4,7 @@
 In this verse, we witness a shocking portrayal of a woman who is intoxicated, not with wine, but with the blood of the saints and martyrs of Jesus. The commentators emphasize the extreme violence, persecution, and bloodthirstiness of the Church of Rome towards those who faithfully bore witness to their faith. This woman's cruelty and insatiable desire for violence leave the observers astounded, while also highlighting the tragic reality of the suffering and sacrifice endured by the saints. Through this vivid imagery, we gain a deeper understanding of the relentless persecution faced by the faithful followers of Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John certainly did not admire her in the modern English sense."
 2. "That the world should be beastly is natural, but that the faithful bride should become the whore is monstrous."
 3. "When the Church falls, she sinks lower than the godless world, in proportion as her right place is higher than the world."
@@ -47,4 +47,4 @@ In this verse, we witness a shocking portrayal of a woman who is intoxicated, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

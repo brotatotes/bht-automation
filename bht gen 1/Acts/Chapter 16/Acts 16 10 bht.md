@@ -9,7 +9,7 @@ In this verse, the author subtly reveals his presence alongside the apostle Paul
 2. "For it is conceivable that a narrative, even where it concerns all present, might be, in its earlier parts, written as of others in the third person, but might, when more intimacy had been established, or even by preference only, be at any point changed to the first."
 3. "One objection raised by De Wette to the common view, that Luke accompanied Paul from this time (except as above), is, that several times Paul’s companions are mentioned, but Luke is never among them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'we,' here first introduced, is a modest intimation that the historian himself had now joined the missionary party."
 2. "Whether Paul's broken health had anything to do with this arrangement for having 'the beloved physician' with him, can never be known with certainty."
 3. "That he would deem himself honored in taking care of so precious a life, there can be no doubt."
@@ -56,4 +56,4 @@ These quotes highlight the presence of the author with Paul and the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

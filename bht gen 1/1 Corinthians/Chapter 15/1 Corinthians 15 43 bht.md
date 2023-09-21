@@ -9,7 +9,7 @@ In this verse, the commentators describe the transformative journey of the human
 2. "In weakness, the characteristic of the lifeless body, which is relaxed and powerless." 
 3. "The powerlessness of the corpse, contrasted with in vigour, viz. the fresh and eternal energy of the new body free from disease and pain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our body of humiliation": liable to various humiliations of disease, injury, and decay at last.
 2. "The garment of incorruption": like His glorious body, which we shall put on.
 3. "Not liable to the weaknesses of our present frail bodies": in power, answering to a "spiritual body".
@@ -58,4 +58,4 @@ In this verse, the commentators describe the transformative journey of the human
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

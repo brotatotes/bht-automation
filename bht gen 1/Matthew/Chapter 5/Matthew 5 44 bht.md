@@ -4,7 +4,7 @@
 In this verse, we are called to love even our enemies. Commentators explain that this love extends beyond personal affection and encompasses a moral love for the well-being of others. It challenges us to refrain from seeking revenge, but rather to respond with blessings and good deeds towards those who mistreat us. The verse serves as a reminder of the example set by Jesus, who exemplified these teachings in his own life. It prompts us to show love not only through our words, but also through our actions, seeking the good of our enemies and promoting peace and reconciliation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here used denotes moral love, as distinguished from the other word, which expresses personal affection."
 2. "Usually, the former denotes 'complacency in the character' of the person loved; but here it denotes the benignant, compassionate outgoings of desire for another's good."
 3. "The best commentary on these matchless counsels is the bright example of Him who gave them."
@@ -42,4 +42,4 @@ In this verse, we are called to love even our enemies. Commentators explain that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

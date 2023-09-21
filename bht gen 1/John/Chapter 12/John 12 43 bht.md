@@ -4,7 +4,7 @@
 The verse being described here explores the dangerous preference for human praise over God's approval. It exposes the folly of valuing the applause of people more than the praise and glory of God. The behavior of seeking the praise of men instead of God displeases Him and is viewed with severity. This passage challenges believers to have an active faith that overcomes the fear of man and is willing to confess Christ, even if it means facing contempt and disgrace from society. Ultimately, it urges readers to prioritize the glory of God over the fleeting glory of human recognition.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They loved the praise of men more than the praise of God" - This remark highlights the severe nature of their behavior, as they prioritized the approval of people over the approval of God.
 2. "It indicates the displeasure with which God regarded their conduct at this time" - This statement emphasizes that God was not pleased with their actions, suggesting that seeking the praise of men instead of God is a behavior that displeases Him.
 3. "With which He continues to regard similar conduct" - This phrase implies that God still views such behavior with displeasure, suggesting that seeking the praise of men over the praise of God is an ongoing issue that God takes seriously.
@@ -42,4 +42,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

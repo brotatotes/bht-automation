@@ -9,7 +9,7 @@ In this Bible verse, we see the interaction between the shipwrecked individuals 
 2. "ὑετόν] ‘Post ingentes ventos solent imbres sequi.’ Grot." 
 3. "ψῦχος] This is decisive against the Sirocco, which is a hot and sultry wind even so late as the month of November."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The barbarous people—so called merely as speaking neither the Greek nor the Latin language. They were originally Phoelignician colonists." 
 2. "showed us no little—"no ordinary" kindness, for they kindled a fire, and received us every one, because of the present rain—"the rain that was on us"—not now first falling, but then falling heavily." 
 3. "and because of the cold—welcomed us all, drenched and shivering, to these most seasonable marks of friendship. In this these 'barbarians' contrast favorably with many since bearing the Christian name."
@@ -54,4 +54,4 @@ These quotes provide insights into the Roman perspective on barbarians, the orig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

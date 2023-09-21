@@ -10,7 +10,7 @@ Our present mortal bodies, made of flesh and blood, cannot inherit the incorrupt
 3. "The impossibility of the φθαρτόν inheriting the ἄφθαρτον as one grounded in these qualities."
 4. "Sets forth the absolute impossibility in the nature of things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Flesh and blood" of the same animal and corruptible nature as our present bodies cannot inherit the kingdom of God. (1 Corinthians 15:44)
 2. The believer gladly acquiesces in the unrepealed sentence of the holy law, which appoints the death of the present body as the necessary preliminary to the resurrection body of glory. (John 3:6; Galatians 2:20)
 3. The resurrection body will be still a body, though spiritual, and will retain personal identity. (Luke 24:39; John 20:27; Philippians 3:21)
@@ -49,4 +49,4 @@ Our present mortal bodies, made of flesh and blood, cannot inherit the incorrupt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the writer, who was banished and under affliction, identifies him
 2) "The tribulation brings in the kingdom, and then as a corrective to the idea that the kingdom in its blessed fulness was yet present, the endurance is subjoined."
 3) "From what has preceded in this verse, a strong impression remains on the mind that St. John wrote this in a season of tribulation and persecution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tribulation is the necessary precursor of the kingdom," therefore "the" is prefixed. This must be borne with "patient endurance." (Quote 1)
 2. "Persevering, enduring continuance" (Acts 14:22); "the queen of the graces (virtues)" [CHRYSOSTOM]. (Quote 2)
 3. Restricted to a small spot on earth, he is permitted to penetrate the wide realms of heaven and its secrets. Thus John drank of Christ's cup, and was baptized with His baptism (Matthew 20:22). (Quote 3)
@@ -50,4 +50,4 @@ In this verse, the writer, who was banished and under affliction, identifies him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

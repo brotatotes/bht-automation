@@ -9,7 +9,7 @@ The verse being described is a promise of the Father, referring to the Holy Spir
 2. "The promise itself is not found in the three Gospels, but expressly and frequently in John 14-16."
 3. "The word Ἱερουσ . is probably interpolated by some who, believing these words to represent the Galilæan discourse, placed it here for an explanation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I send—the present tense, to intimate its nearness."
 2. "the Holy Ghost, of which Christ is the authoritative Dispenser."
 3. "implying...their being so penetrated and acted upon by conscious supernatural power...as to stamp with divine authority the whole exercise of their apostolic office."
@@ -57,4 +57,4 @@ The verse being described is a promise of the Father, referring to the Holy Spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

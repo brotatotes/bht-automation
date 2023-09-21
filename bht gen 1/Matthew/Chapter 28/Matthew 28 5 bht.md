@@ -9,7 +9,7 @@ Amidst the confusion and fear surrounding the empty tomb, with soldiers tremblin
 2. "That related in John is as definite as either of the others, and he certainly had it from Mary Magdalene herself."
 3. "ὑμεῖς is emphatic, addressed to the women."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let those puny creatures, sent to keep the Living One among the dead, for fear of Me shake and become as dead men; but ye that have come hither on another errand, fear not ye."
 2. "Fear not ye." 
 3. "For I know that ye seek Jesus, which was crucified."
@@ -38,4 +38,4 @@ Amidst the confusion and fear surrounding the empty tomb, with soldiers tremblin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

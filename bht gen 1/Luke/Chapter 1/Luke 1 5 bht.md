@@ -11,7 +11,7 @@ In this Bible verse, we are introduced to the unique circumstances surrounding t
 
 Note: The commentary is quite lengthy and includes references to specific verses and historical events. However, these three quotes provide concise and meaningful insights into the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Herod" - This commentary suggests that the mention of Herod in the Bible verse can be further understood by referring to another verse. 
 
 2. "course of Abia" - The commentary explains that the course of Abia refers to the eighth division of the twenty-four orders of priests established by David. 
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and includes references to specific verses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

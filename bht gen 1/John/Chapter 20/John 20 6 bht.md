@@ -4,7 +4,7 @@
 In this Bible verse, we witness Peter's careful observation of the linen clothes and folded napkin in the empty tomb. The placement of the napkin, not haphazardly thrown aside, but deliberately folded, speaks to the composed manner in which Jesus' resurrection took place. As two witnesses, Peter and John's accounts confirm the absence of the body and the significance of the remaining linen. The attention to detail exhibited by the angels in folding the napkin and clothes reflects their reverence and divine care for Jesus, emphasizing the divine nature of His resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And the napkin, that was about his head, not lying with the linen clothes—not loosely, as if hastily thrown down, and indicative of a hurried and disorderly removal."
 2. "But wrapped—folded. together in a place by itself—showing with what grand tranquillity 'the Living One' had walked forth from 'the dead'."
 3. "Doubtless the two attendant angels did this service for the Rising One, the one disposing of the linen clothes, the other of the napkin."
@@ -32,4 +32,4 @@ In this Bible verse, we witness Peter's careful observation of the linen clothes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

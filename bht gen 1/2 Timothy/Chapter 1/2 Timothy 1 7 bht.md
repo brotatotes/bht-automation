@@ -11,7 +11,7 @@ The verse describes the spirit given by God to believers, which is not one of fe
 
 3. "The spirit of correction, as opposed to that weakness implied in cowardice, is meant to inspire power and love in us towards others, and to overcome the fear of man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For God did not give us the spirit of fear." - This quote emphasizes that fear is not from God, but rather a result of the spirit of bondage. It highlights the contrast between fear and the power that comes from the Holy Spirit.
 
 2. "The spirit of power casteth out fear." - This quote highlights the role of the spirit of power in overcoming fear. It suggests that the power of the Holy Spirit within believers can help them overcome their fears and also empower them to help others do the same.
@@ -66,4 +66,4 @@ Note: The commentary is referencing 2 Timothy 1:7.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

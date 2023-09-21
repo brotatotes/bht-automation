@@ -9,7 +9,7 @@ The passage describes a heartfelt appeal for spiritual rejuvenation and fulfillm
 2. "ἐν κυρίῳ, not in worldly gain, but in the Lord in thine increase and richness in the graces of His Spirit."
 3. "refresh (viz. by acceding to my request) my heart (as above the seat of the affections. τὰ σπλάγχνα μου must not for a moment be imagined, with Jer., Est., Schrader, al., to designate Onesimus, who was so called in Philemon 1:12; which would be most unnatural) in Christ (as ἐν κυρίῳ above)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let me have profit (so Greek 'for joy,' onainen, referring to the name Onesimus, 'profitable') from thee, as thou shouldst have had from Onesimus"; for "thou owest thine ownself to me."
 2. "Not in worldly gain, but in thine increase in the graces of the Lord's Spirit."
 3. "Gratify my feelings by granting this request."
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a providential arrangement, Jesus was buried in a new sepulcher in close prox
 2. "The newness of the tomb was important, that it should be seen 'neminem præter Jesum, neque Jesum alterius virtute, ut olim circa sepulchrum Elisæi acciderat, resurrexisse' (Lampe): so that no room might be left for the evasions of unbelief." 
 3. "And those who have found an objection in that circumstance have forgotten this testimony of John."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There laid they Jesus therefore, because of the Jew's preparation day, for the sepulchre was nigh at hand." - The choice of the tomb near the crucifixion site was a providential provision, allowing for a quick burial. 
 
 2. "But it was 'a new sepulchre,' wherein never man before was laid." - The fact that Jesus was laid in a tomb that had never been used before highlights His uniqueness and separation from sinners. 
@@ -52,4 +52,4 @@ In a providential arrangement, Jesus was buried in a new sepulcher in close prox
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

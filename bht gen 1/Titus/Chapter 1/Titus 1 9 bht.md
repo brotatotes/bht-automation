@@ -4,7 +4,7 @@
 In this verse, we are urged to hold fast to the faithful word, which is the reliable and true doctrine of the Gospel. This teaching, passed down by the apostles, should be firmly grasped and unwaveringly adhered to. By embracing and preserving this sound doctrine, we equip ourselves to exhort and edify others in the truth. It also empowers us to effectively respond to any opposition or contradiction that may arise. This verse emphasizes the importance of staying grounded in the teachings of the apostles as the authoritative source of instruction for the Christian faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Holding fast—Holding firmly to the faithful word as he has been taught." 
 2. "The word (which is) according to the teaching which he has received." 
 3. "To exhort in doctrine (instruction) which is sound."
@@ -50,4 +50,4 @@ In this verse, we are urged to hold fast to the faithful word, which is the reli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the confirmation of John the Baptist's credibility as a pr
 2. "And (Joh 10:42) the result followed: many believed on Him."
 3. "The 'Ἰωάννης repeated, John 10:42, belongs to the simplicity of the speech, which is reproduced literatim, and expresses the honour paid by the people to the holy man whose memory still lived among them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John did no miracle, but all things John spake of this man were true" - This quote highlights the credibility and trustworthiness of John the Baptist's testimony about Jesus. It emphasizes that even without performing miracles, John's words about Jesus were proven to be true, further validating the divinity of his mission.
 
 2. "What they now heard and saw in Jesus only confirming in their minds the divinity of His forerunner's mission" - This quote emphasizes the impact of Jesus' words and actions on the people who had previously heard John the Baptist's message. It suggests that witnessing Jesus' ministry served as a confirmation of the truth and significance of John's role as the forerunner of the Messiah.
@@ -47,4 +47,4 @@ In this verse, we see the confirmation of John the Baptist's credibility as a pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

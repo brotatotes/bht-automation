@@ -9,7 +9,7 @@ This Bible verse emphasizes the power of belief and faith as the determining fac
 2. "The εἰ δύνῃ is a manifest reference to the εἴ τι δύνῃ before, and meant to convey a reproof, as the father’s answer testifies."
 3. "The sentence, also, unless I am mistaken, is meant to convey an intimation that the healing was not to be an answer to the εἴ τι δύνῃ, but an answer to faith, which can do all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things are possible to him that believeth." - Jesus emphasizes the power of belief, highlighting that one's faith is the determining factor for what is possible.
 2. "The Lord helps the birth of faith in that struggling soul." - Jesus actively assists in the development of faith, recognizing the challenges and difficulties faced by the individual.
 3. "The man becomes immediately conscious of conflicting principles, and rises into one of the noblest utterances on record." - The man's struggle leads him to a profound realization, resulting in a powerful and memorable statement.
@@ -48,4 +48,4 @@ This Bible verse emphasizes the power of belief and faith as the determining fac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

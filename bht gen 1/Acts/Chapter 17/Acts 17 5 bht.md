@@ -9,7 +9,7 @@ In this Bible verse, we witness the conflicts and opposition faced by Paul in hi
 2. "Such men as Aristophanes calls πονηρὸς κἀξ ἀγορᾶς, Demosthenes, περίτριμμα ἀγορᾶς, Xenophon, τὸν ἀγοραῖον ὄχλον, Plutarch, ἀγοραίους καὶ δυναμένους ὄχλον συναγαγεῖν."
 3. "He appears, perhaps (?), again with Paul at Corinth, Romans 16:21, but did not accompany him into Asia, ch. Acts 20:4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews...moved with envy—seeing their influence undermined by this stranger."
 2. "Lewd fellows of the baser sort—better, perhaps, 'worthless market people,' that is, idle loungers about the market-place, of indifferent character."
 3. "Assaulted the house of Jason—with whom Paul and Silas abode, one of Paul's kinsmen, apparently, and from his name, which was sometimes used as a Greek form of the word Joshua, probably a Hellenistic Jew."
@@ -50,4 +50,4 @@ In this Bible verse, we witness the conflicts and opposition faced by Paul in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

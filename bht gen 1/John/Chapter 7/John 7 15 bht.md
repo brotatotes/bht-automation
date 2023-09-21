@@ -4,7 +4,7 @@
 In this verse, the people are astounded by the man's wisdom and understanding of sacred literature, even though he lacks formal education. They marvel at his ability to interpret the Scriptures with clarity and gracefulness, surpassing the expertise of those who have studied extensively. The unexpectedness of his knowledge challenges their traditional beliefs about learning and highlights the remarkable nature of his wisdom, leaving them questioning how he attained such profound understanding without a formal education.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These rulers knew well enough that He had not studied under any human teacher—an important admission against ancient and modern attempts to trace our Lord's wisdom to human sources." 
 2. "Probably His teaching on this occasion was expository, manifesting that unrivalled faculty and depth which in the Sermon on the Mount had excited the astonishment of all." 
 3. "His teaching revealed a wisdom and understanding that surpassed any human learning, leaving the rulers astonished at His knowledge."
@@ -56,4 +56,4 @@ In this verse, the people are astounded by the man's wisdom and understanding of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

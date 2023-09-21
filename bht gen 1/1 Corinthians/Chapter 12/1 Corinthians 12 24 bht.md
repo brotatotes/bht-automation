@@ -9,7 +9,7 @@ The Bible verse being described showcases the interconnectedness and harmony wit
 2. "God tempered the body together, compounded it of members on a principle of mutual compensation."
 3. "To the deficient part giving more abundant honour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tempered . . . together—on the principle of mutual compensation."
 2. "To the deficient part."
 3. "The principle of mutual compensation."
@@ -52,4 +52,4 @@ Note: The commentary is not complete, but these quotes provide insights into the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

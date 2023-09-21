@@ -4,7 +4,7 @@
 In the Bible verse described, there is an emphasis on the unprecedented nature of the affliction that will occur. The suffering mentioned is distinguished by its magnitude and severity, surpassing anything witnessed since the creation of the world. The commentary further raises the possibility that this affliction is ongoing, with the potential for even more challenges and tribulations in the future. Overall, this verse serves as a reminder of the unique and unrelenting nature of the afflictions that believers may face throughout history.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be." - This verse highlights the magnitude of the affliction that will occur, emphasizing its unprecedented nature.
 
 2. "Such language is not unusual in the Old Testament with reference to tremendous calamities." - The commentary points out that the use of intense language to describe calamities is a common feature in the Old Testament.
@@ -43,4 +43,4 @@ These quotes highlight the severity and unprecedented nature of the affliction t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

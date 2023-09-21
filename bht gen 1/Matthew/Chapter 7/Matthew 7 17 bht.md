@@ -9,7 +9,7 @@ This verse teaches us that the character of a tree determines the quality of its
 2. "These verses were his weapon against the shallow Pelagian scheme, which would look at men’s deeds apart from the living Root in man out of which they grew, and suppose that man’s unaided will is capable of good." - Trench
 3. "ἐπιγν., more than simply γνώσεσθε: 'ye shall thoroughly know them;’ see 1 Corinthians 13:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The quality of the fruit is determined by the nature of the tree from which it comes." 
 2. "A good tree consistently produces good fruit, while a corrupt tree consistently produces evil fruit." 
 3. "This verse teaches us that our actions are a reflection of our character and that our character is ultimately revealed by the fruit we bear."
@@ -33,4 +33,4 @@ This verse teaches us that the character of a tree determines the quality of its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

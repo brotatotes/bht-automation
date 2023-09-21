@@ -9,7 +9,7 @@ The Bible verse being described speaks of the profound union between believers a
 2. "That inner union with Christ in spirit is meant, which is the normal state of every believer."
 3. "The mystical marriage between Christ and His Church must not be pressed here, as the relations of the compared are not correspondent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The believer not only has his body sanctified by union with Christ's body, but also becomes 'one spirit' with Him." 
 2. "The spirit which is normally the organ of the Holy Spirit in man, is in the carnal so overlaid with what is sensual that it is ignored altogether."
 3. "In the case of union with a harlot, the fornicator becomes one 'body' with her, but not one 'spirit'."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of the profound union between believers a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

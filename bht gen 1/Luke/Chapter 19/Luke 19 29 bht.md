@@ -9,7 +9,7 @@ At the foot of the mount of Olives, Jesus sends two disciples ahead, intentional
 2. "Luke uses this same expression elsewhere." 
 3. "Josephus has διὰ τοῦ ἐλαιῶνος ὄρους."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethphage, meaning 'house of figs,' provides a symbolic backdrop for the events that unfold in this passage. Just as figs are known for their sweetness and abundance, Jesus' entry into Jerusalem is a sign of the abundant grace and blessings he brings to the world."
 
 2. "The mention of Bethany, a village near Bethphage, adds depth to the narrative. Jesus had close relationships with Mary, Martha, and Lazarus in Bethany, and his presence in this area signifies the personal and intimate nature of his ministry."
@@ -51,4 +51,4 @@ At the foot of the mount of Olives, Jesus sends two disciples ahead, intentional
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we are presented with a vivid depiction of a river, described as "pure" and "clear as crystal." The flowing waters symbolize the continuous and abundant life derived by the saints from God, bringing refreshment and joy. The river of life represents the everlasting love of God, expansive and unpassable, flowing from the throne of God and the Lamb, offering a source of eternal pleasure and fulfillment. It is an emblem of the Holy Spirit's replenishing presence and the ultimate union between the Father and the Son.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Water of life—infinitely superior to the typical waters in the first Paradise."
 2. "The millennial waters represent full Gospel grace; these waters of new Jerusalem represent Gospel glory perfected."
 3. "Their continuous flow from God, the Fountain of life, symbolizes the uninterrupted continuance of life derived by the saints, ever fresh, from Him: life in fulness of joy, as well as perpetual vitality."
@@ -47,4 +47,4 @@ In this verse, we are presented with a vivid depiction of a river, described as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

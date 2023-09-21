@@ -9,7 +9,7 @@ In this verse, the writer seeks to demonstrate the reality of Jesus' bodily deat
 2. "The things related are ἀληθῆ: the narrative of them is ἀληθινή, a narrative of truth."
 3. "The use of πιστεύειν in John makes it probable that he lays the weight on the proof of the reality of the death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he that saw it bare record—hath borne witness." - The commentary highlights the importance of the eyewitness testimony, emphasizing its credibility and truthfulness.
 
 2. "This solemn way of referring to his own testimony in this matter...is intended to call attention both to the fulfilment of Scripture in these particulars." - The commentary points out that the reference to Scripture serves to validate the events and fulfill the prophecies regarding Christ's death and resurrection.
@@ -56,4 +56,4 @@ Note: The provided quotes are already within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the intimate connection between believers and Christ is emphasize
 
 3. "Beware of imagining... that there is any especial emphasis on μου because of its position" - This cautionary statement reminds readers not to overanalyze the placement of words in the verse, emphasizing the need to focus on the overall message and meaning rather than getting caught up in minor details.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that eateth . . . dwelleth in me and I in him" - Christ and those who partake of His flesh and blood become spiritually united, sharing one life while remaining distinct individuals.
 
 2. "As our food becomes incorporated with ourselves" - Just as physical food becomes a part of our bodies, Christ's presence in those who partake of Him becomes inseparable, transforming them from within.
@@ -51,4 +51,4 @@ In this verse, the intimate connection between believers and Christ is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

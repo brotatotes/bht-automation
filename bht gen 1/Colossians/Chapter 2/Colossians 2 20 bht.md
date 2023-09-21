@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the believer's identification wi
 2) "These things are set all of them for destruction in their consumption." 
 3) "The commands and systems of men, such as are possessed of a reputation indeed of wisdom in voluntary worship and humility and unsparingness of the body, not in any honour of it, to the satiating of the flesh?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If ye be dead... from... the rudiments of the world" - the commentary explains that this refers to being freed from the carnal, outward, worldly, and legal ordinances that once held sway over believers.
 
 2. "As though living... are ye subject to ordinances?" - the commentary questions why believers, who have died to the world through their union with Christ, would submit themselves again to the ordinances that have been abolished.
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the believer's identification wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator highlights the immediate and visible nature of a 
 2. "τότε brings vividly before us the consequence of the ἀσιτία when they were in that condition, languid and exhausted with fasting and fears."
 3. "κερδῆσαι, 'lucrifecisse,' to have gained, not = to have incurred, but to have turned to your own account, i.e. 'to have spared or avoided.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hardships which the crew endured during a gale of such continuance, and their exhaustion from laboring at the pumps and hunger, may be imagined, but are not described."
 2. "Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened to me, &c.—not meaning to reflect on them for the past, but to claim their confidence for what he was now to say."
 3. "Paul's calmness and authority in the midst of this universal consternation and confusion, and his assurance of deliverance, would powerfully affect his fellow-voyagers."
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the immediate and visible nature of a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

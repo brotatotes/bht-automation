@@ -9,7 +9,7 @@ The verse being described here speaks to the urgency and fervor with which peopl
 2. "The true relation however of that kingdom to the law is not as ye suppose, to destroy the law, but to fulfil."
 3. "But this He does, not without occasion given, and close connexion with the circumstances, and with what had before been said."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Publicans and sinners, all indiscriminately, are eagerly pressing into it." 
 2. "Interested adherents of the mere forms of an economy which is passing away." 
 3. "Discerning not the signs of this time."
@@ -50,4 +50,4 @@ The verse being described here speaks to the urgency and fervor with which peopl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

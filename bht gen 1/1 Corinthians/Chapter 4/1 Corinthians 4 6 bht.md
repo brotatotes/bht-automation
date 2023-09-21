@@ -9,7 +9,7 @@ In this verse, the Apostle Paul uses the names of himself, Apollos, and Cephas a
 2. "I transferred to myself and Apollos when I might have set them before you generally and in the abstract as applying to all teachers."
 3. "That ye may not one on behalf of another be puffed up against a third, i.e. 'that you may not adhere together in parties to the detriment of disparagement of a neighbour who is attached to a different party'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Revere the silence of Holy Writ, as much as its declarations: so you will less dogmatize on what is not expressly revealed."
 2. "That in us (as your example) ye might learn (this), not (to go) beyond what is written."
 3. "That ye be not puffed up as ye are."
@@ -57,4 +57,4 @@ In this verse, the Apostle Paul uses the names of himself, Apollos, and Cephas a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

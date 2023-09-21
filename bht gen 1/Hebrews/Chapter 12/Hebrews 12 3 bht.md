@@ -9,7 +9,7 @@ Consider Him as set in comparison with yourselves. To set before them Christ as 
 2. "To set before them Christ as not merely a character of the past, but one ever present."
 3. "Beware of Ebrard’s strange interpretation: 'All mankind would be opposed to Christ as the sinners; but the enemies of the gospel could not be opposed to the readers of the Epistle as the sinners, seeing that those readers themselves were sinners.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Looking unto Jesus." 
 2. "Sinners, contradicted Christ."
 3. "Jesus not being wearied out by the contradiction and strange unbelief."
@@ -55,4 +55,4 @@ Consider Him as set in comparison with yourselves. To set before them Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

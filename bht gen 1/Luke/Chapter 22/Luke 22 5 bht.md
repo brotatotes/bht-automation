@@ -4,7 +4,7 @@
 This verse describes the transaction between Judas Iscariot and the religious leaders, where Judas agrees to betray Jesus for thirty pieces of silver. The amount of money is significant as it fulfills the prophecy in Zechariah, emphasizing the fulfillment of Old Testament prophecies in Jesus' life. The low value placed on Jesus' life and the bitterness of the situation are highlighted, revealing the irony and injustice. The act of accepting money to betray Jesus underscores the depth of betrayal and greed displayed by Judas.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "thirty pieces of silver" - This amount of money, mentioned in Matthew 26:15, was the price Judas Iscariot received for betraying Jesus. It is significant because it fulfills the prophecy in Zechariah 11:12-13, highlighting the fulfillment of Old Testament prophecies in the life of Jesus.
 
 2. "thirty shekels" - In Exodus 21:32, this is the fine payable for accidentally killing a servant. This reference emphasizes the low value placed on Jesus' life by the religious leaders who paid Judas the same amount for his betrayal. It highlights the irony and injustice of the situation.
@@ -25,4 +25,4 @@ This verse describes the transaction between Judas Iscariot and the religious le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

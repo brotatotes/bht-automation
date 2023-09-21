@@ -4,7 +4,7 @@
 In this verse, we witness the profound darkness of Judas' betrayal and the cruel indifference of the chief priests. Judas, amidst his remorse, confesses his guilt and proclaims Jesus' innocence, condemning the priests' murderous intentions. Nevertheless, these religious leaders, with skewed moral priorities, dismiss Judas' conscience and refuse to acknowledge their wickedness. Their insensitivity to innocent blood exposes the corrupt nature of their actions and reveals their distorted sense of justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a testimony this to Jesus! Judas had been with Him in all circumstances for three years; his post, as treasurer to Him and the Twelve, gave him peculiar opportunity of watching the spirit, disposition, and habits of his Master."
 2. "If, then, he could have fastened on one questionable feature in all that he had so long witnessed, we may be sure that no such speech as this would ever have escaped his lips."
 3. "Guilty or innocent is nothing to us: We have Him now—begone!" Was ever speech more hellish uttered?"
@@ -47,4 +47,4 @@ Note: The commentary provided is quite brief, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

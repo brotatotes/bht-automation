@@ -4,7 +4,7 @@
 Upon the shores of an unsettled sea, a power rises, symbolized by a beast with ten horns and seven heads. It represents the divided and united Roman empire, manifested in the Papacy. This critical moment marks the completion of God's mysterious plan for a sinful world, where the Church, undivided by nationality, awaits triumph over the brutal forces that oppose Christ and His true ideal. This beast, with blasphemous titles assumed by Roman emperors, challenges both the weak efforts of the dragon and the strength of the woman's seed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Man becomes 'brutish' when he severs himself from God, the archetype and true ideal, in whose image he was first made, which ideal is realized by the man Christ Jesus."
 2. "The seven implies the world power setting up itself as God, and caricaturing the seven Spirits of God; yet its true character as God-opposed is detected by the number ten accompanying the seven."
 3. "The seven heads are the seven world monarchies, Egypt, Assyria, Babylon, Persia, Greece, Rome, the Germanic empire, under the last of which we live."
@@ -43,4 +43,4 @@ Upon the shores of an unsettled sea, a power rises, symbolized by a beast with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

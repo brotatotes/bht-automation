@@ -9,7 +9,7 @@ In this verse, we witness the encounter between Philip and the eunuch. As they c
 2. "There is no improbability in the tradition except that, even supposing a way going across from Hebron straight to Gaza to be called ἔρημος, this would not be on that portion of it, but on the high road."
 3. "There is no reason for supposing Philip to have preached to him the necessity of baptism: his own acquaintance with Jewish practices, and perhaps his knowledge of the progress of the new faith in Jerusalem, would account for the proposition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold water!" - The eunuch's eager anticipation of finding water reflects his readiness to receive the truth and be baptized, symbolizing his enrollment as a disciple of Jesus.
 2. "What doth hinder me to be baptized?" - This question from the eunuch shows his understanding that baptism is the ordained sign and seal of discipleship, and he is now proposing its application in his own case.
 3. "The eunuch's question was likely the first proposal of its application in this case." - The eunuch's inquiry about baptism may have been the first time he considered its significance and relevance to his own faith journey.
@@ -50,4 +50,4 @@ In this verse, we witness the encounter between Philip and the eunuch. As they c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

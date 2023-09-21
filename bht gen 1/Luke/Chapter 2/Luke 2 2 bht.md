@@ -4,7 +4,7 @@
 In this verse, we encounter the first enrollment or census of the Jewish nation, a significant historical event taking place during the governorship of Cyrenius in Syria. This enrollment, distinct from a later one, provides a contextual backdrop to the events described in the Bible. Luke's mention of P. Sulpicius Quirinius as the governor of Syria adds specificity to the account, supporting the accuracy of the biblical narrative. Additionally, it underscores the relationship between Syria and Judea, revealing the interconnectedness of different regions in biblical times.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'taxing' under Cyrenius was what led to the insurrection mentioned in Acts 5:37. That there was a taxing, however, of the whole Roman Empire under Augustus, is now admitted by all and candid critics."
 2. "Even skeptics are ready to allow that there is not likely to be any real inaccuracy in the statement of our Evangelist."
 3. "Many superior scholars would render the words thus, 'This registration was previous to Cyrenius being governor of Syria'—as the word 'first' is rendered in John 1:15; John 15:18."
@@ -47,4 +47,4 @@ In this verse, we encounter the first enrollment or census of the Jewish nation,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

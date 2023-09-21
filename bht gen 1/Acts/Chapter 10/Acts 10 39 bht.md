@@ -9,7 +9,7 @@ The verse being described is a passage from the book of Acts where Peter, along 
 2. "By this, Peter at once takes away the ground from the exaggerated reverence for himself individually, shown by Cornelius, and puts himself and the rest of the Apostles in the strictly subordinate place of witnesses for Another." 
 3. "He even omits all mention of the actors in the murder, speaking as he did to Gentiles: a striking contrast to previous instances when he was working conviction in the minds of those actors themselves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are witnesses of all he did—not objects of superstitious reverence, but simply witnesses to the great historical facts on which the Gospel is founded."
 2. "Slew and hanged—that is, slew by hanging."
 3. "On a tree—So (and see on)."
@@ -52,4 +52,4 @@ These quotes highlight the emphasis on the collective witness of the apostles, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

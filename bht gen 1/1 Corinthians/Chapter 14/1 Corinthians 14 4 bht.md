@@ -9,7 +9,7 @@ The Bible verse being described is focused on the concept of edification within 
 2. "The intensity of the feeling of prayer or praise in which he utters the words is edifying to him, though the words themselves are unintelligible."
 3. "If he can interpret, he can edify not only himself but the church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Edifieth himself" - The individual who speaks in tongues is building up and strengthening their own faith and understanding through the expression of their spiritual language.
 
 2. "As he understands the meaning" - The effectiveness of speaking in tongues lies in the personal comprehension and interpretation of the speaker. It is a means of personal communication with God that may not be immediately understood by others.
@@ -49,4 +49,4 @@ The Bible verse being described is focused on the concept of edification within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

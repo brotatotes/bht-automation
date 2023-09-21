@@ -9,7 +9,7 @@ The soldiers lead Jesus away to be crucified, vividly depicting the rejection an
 2. "ὄπισθεν τ. Ἰη." - This phrase is unique to Luke's Gospel and highlights the author's attention to detail and accuracy in his account of Jesus' life and ministry.
 3. These quotes from the commentary shed light on the historical context and the author's intention in including specific details in the Gospel narrative.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was 'the father of Alexander and Rufus' (Acts 2:10), probably better known afterwards than himself, as disciples." 
 2. "Out of the country—and casually drawn into that part of the crowd." 
 3. "Laid the cross—'Him they compel to bear His cross,' (Romans 16:13) —sweet compulsion, if it issued in him or his sons voluntarily 'taking up their cross!'"
@@ -56,4 +56,4 @@ The soldiers lead Jesus away to be crucified, vividly depicting the rejection an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

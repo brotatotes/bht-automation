@@ -4,7 +4,7 @@
 The Bible verse is a doxology filled with praise and adoration for God. It emphasizes the completeness and totality of God's attributes, acknowledging His power, glory, wisdom, thanksgiving, honor, power, and might. The verse also highlights the eternal nature of God's reign, with the praise extending "unto the ages of the ages." The repetition of "Amen" at the beginning and end of the doxology underscores the certainty and truthfulness of the statements made about God. Angels also join in this praise, confirming the righteousness of giving glory to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The doxology is sevenfold, implying its totality and completeness." 
 2. "The blessing, the glory, the wisdom, the thanksgiving, the honor, the power, the might." 
 3. "Unto the ages of the ages."
@@ -42,4 +42,4 @@ The Bible verse is a doxology filled with praise and adoration for God. It empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

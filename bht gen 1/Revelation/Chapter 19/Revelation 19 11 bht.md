@@ -4,7 +4,7 @@
 In this vision, the heaven opens to reveal the triumphant arrival of the Lord Himself, riding on a white horse. Representing purity, righteousness, and victory, the horse signifies the triumph of God's kingdom and the spreading of the Gospel. As the ultimate conqueror, the rider on the white horse is seen as Jesus Christ, bringing salvation and destruction to His enemies. This symbolic image also reminds believers of their responsibility to actively participate in advancing God's kingdom, as ambassadors of Christ, faithfully and truthfully executing His promises and judgments with righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here as there he comes forth 'conquering and to conquer.'"
 2. "His riding on [the ass] into Jerusalem is an earnest of His reign in Jerusalem over the earth, as the Prince of peace, after all hostile powers have been overthrown."
 3. "When the security of the world power, and the distress of the people of God, have reached the highest point, the Lord Jesus shall appear visibly from heaven to put an end to the whole course of the world, and establish His kingdom of glory."
@@ -45,4 +45,4 @@ In this vision, the heaven opens to reveal the triumphant arrival of the Lord Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

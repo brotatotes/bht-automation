@@ -9,7 +9,7 @@ In this verse, it is emphasized that suffering for doing good is preferable, eve
 2. "The divine Will itself, the putting forth of that Will in act."
 3. "Go forth in faith and love: if the cross comes, accept it; if it does not come, do not seek it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is better that you did not deserve it, in order that doing well and yet being spoken against, you may prove yourself a true Christian."
 2. "Those who honor God's will as their highest law have the comfort to know that suffering is God's appointment."
 3. "So Christ Himself; our inclination does not wish it."
@@ -53,4 +53,4 @@ In this verse, it is emphasized that suffering for doing good is preferable, eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

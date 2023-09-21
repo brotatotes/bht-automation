@@ -4,7 +4,7 @@
 This verse speaks of the prophets, messengers chosen by God to deliver His messages and exhort the people to produce the fruits of righteousness. It emphasizes the expectation for believers to bring forth good fruit in their lives, demonstrating that they are the planting of the Lord. However, it also acknowledges the rejection and mistreatment of these messengers by some, hindering their ability to bear fruit and fulfill their purpose.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prophets, extraordinary messengers raised up from time to time."
 2. "The beat refers to the prophets who were sent by God to deliver His messages."
 3. "These prophets were chosen and appointed by God to speak on His behalf."
@@ -31,4 +31,4 @@ These quotes highlight the specific timing and purpose behind the actions descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

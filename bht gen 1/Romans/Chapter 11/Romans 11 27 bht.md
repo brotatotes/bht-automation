@@ -4,7 +4,7 @@
 In this passage, the commentators provide insights into a covenant made by God with His people. They emphasize the personal nature of this covenant, indicating that it originates from God Himself. The commentators address interpretations of Old Testament predictions and highlight the fulfillment of these predictions through the apostle's quotations. They also discuss the forgiveness of sins as a crucial aspect of this covenant, emphasizing the promise of remission and the removal of sins. Additionally, the commentators indicate that the covenant includes the conversion of the Jews and the application of Christ's blood for the cleansing of their consciences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is my covenant with them—literally, 'this is the covenant from me unto them.'" - This quote highlights the covenant that God has made with His people, emphasizing the personal nature of the covenant and its origin from God Himself.
 
 2. "Those who believe that there are no predictions regarding the literal Israel in the Old Testament... are obliged to view these quotations by the apostle as mere adaptations of Old Testament language to express his own predictions." - This quote addresses the differing interpretations of the Old Testament predictions and emphasizes the significance of the apostle's quotations in conveying the fulfillment of those predictions.
@@ -42,4 +42,4 @@ In this passage, the commentators provide insights into a covenant made by God w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

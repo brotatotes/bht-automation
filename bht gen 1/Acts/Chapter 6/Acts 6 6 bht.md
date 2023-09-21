@@ -9,7 +9,7 @@ In the Scripture described, commentators highlight the significance of the layin
 2. "The laying on of hands, the earliest mention of which is connected with blessing only, was prescribed to Moses as the form of conferring office on Joshua."
 3. "From its adoption by the Apostles, it has ever been the practice of the Christian church in ordaining, or setting apart her ministers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The laying on of hands symbolizes the communication of official gifts from the Church's glorified Head to the chosen office-bearers." 
 2. "It is through the recognized channels that these gifts are bestowed upon the leaders of the Church." 
 3. "This act of laying on of hands proclaims that all official gifts come from the Head of the Church."
@@ -43,4 +43,4 @@ In the Scripture described, commentators highlight the significance of the layin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described speaks of Christ as the inclusive Head of the bu
 2. "The fitting together and the growing are still going on: and the only way which we in English have to mark this so as to avoid the chance of mistake, is by the auxiliary verb substantive, and the participle." 
 3. "Christ is the inclusive Head of all the building, the element in which it has its being and its growth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Church has the growth of a living organism, not the mere increase of a building."
 2. "The growth of a branch, and the building of a temple, are joined."
 3. "Christ is the inclusive Head of all the building, the element in which it has its being and now its growth."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of Christ as the inclusive Head of the bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

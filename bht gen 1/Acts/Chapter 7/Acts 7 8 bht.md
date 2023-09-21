@@ -9,7 +9,7 @@ In the history of God's covenant with Abraham, circumcision plays a prominent ro
 2. "The immediate promise of that covenant was δώσω σοι κ . τῷ σπέρματί σου μετά σε τὴν γῆν ἣν παροικεῖς , πᾶσαν τὴν γῆν Χαναὰν εἰς κατάσχεσιν αἰώνιον · καὶ ἔσομαι αὐτοῖς εἰς θεόν." 
 3. "In this word οὕτως lies hid the germ of the subsequent teaching of the Holy Spirit by St. Paul, Galatians 3:0."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The covenant of circumcision" refers to the covenant in which circumcision was the outward sign or token. 
 
 2. "According to the terms of this covenant" indicates that Paul is basing his reasoning on the conditions and promises of this covenant. 
@@ -59,4 +59,4 @@ In the history of God's covenant with Abraham, circumcision plays a prominent ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

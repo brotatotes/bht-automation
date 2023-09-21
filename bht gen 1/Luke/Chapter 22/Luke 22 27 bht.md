@@ -11,7 +11,7 @@ In this verse, we see Jesus displaying humility and servant-heartedness by washi
 
 3. "Through this act, Jesus also challenged the cultural norms of his time, where washing feet was considered a task for the lowest of servants. He showed that true leadership is not about power and authority, but about serving others with love and humility."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples were not only disputing among themselves, but they were also struggling with their own doubts and fears. This reminds us that even those closest to Jesus can still have moments of uncertainty and confusion." 
 
 2. "Jesus responds to their dispute by reminding them of the true nature of leadership. He teaches them that greatness is not found in power and authority, but in service and humility." 
@@ -42,4 +42,4 @@ In this verse, we see Jesus displaying humility and servant-heartedness by washi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

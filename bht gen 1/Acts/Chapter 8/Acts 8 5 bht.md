@@ -9,7 +9,7 @@ In the aftermath of Stephen's martyrdom, a significant shift occurred within the
 2. "Verbatim as John 4:5, in which case it is specified as being Sychar (Sichem). As the words stand here (πόλιν = τὴν πόλιν, after εἰς, compare also 2Pe 2:6), seeing that Σαμάρεια (Acts 8:9; Acts 8:14; ch. Acts 9:31; Act 15:3) signifies the district, I should be inclined to believe that Sychem is here also intended."
 3. "The inhabitants, implied in πόλις."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was the deacon of that name, who comes next after Stephen in the catalogue of the seven, probably as being the next most prominent."
 2. "The persecution may have been directed especially against Stephen's colleagues."
 3. "The city of Samaria... 'furnished the bridge between Jerusalem and the world.'"
@@ -59,4 +59,4 @@ In the aftermath of Stephen's martyrdom, a significant shift occurred within the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

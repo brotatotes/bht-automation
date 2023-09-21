@@ -4,7 +4,7 @@
 Blessed are those who are called into the marriage supper of the Lamb, not merely externally invited, but partakers of the Gospel ministry and ordinances. They are the bride, the Lamb's wife, and are called unto eternal glory and happiness. These true words of God, a solemn truth never to be doubted, speak of the triumph of the church in times of persecution and sorrow, as symbolized by the marriage supper and celebrated in the Lord's Supper.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "called—effectually, not merely externally."
 2. "not merely invited to (Greek, 'epi'), but called INTO, so as to be partakers of (Greek, 'eis')."
 3. "marriage supper—Greek, 'the supper of the marriage.' Typified by the Lord's Supper."
@@ -38,4 +38,4 @@ Blessed are those who are called into the marriage supper of the Lamb, not merel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

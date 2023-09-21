@@ -9,7 +9,7 @@ The Bible verse highlighted here emphasizes the requirement of faithfulness in a
 2. "Enquiry is made in the case of stewards in order that a man may be found faithful."
 3. "The purport of the requirement expressed as its purpose: that a man may be found faithful."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The contrast thus is between man's usage as to stewards and God's way."
 2. "God's steward awaits no such judgment of man, in man's day, but the Lord's judgment in His great day."
 3. "What God requires in His stewards is faithfulness."
@@ -49,4 +49,4 @@ The Bible verse highlighted here emphasizes the requirement of faithfulness in a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

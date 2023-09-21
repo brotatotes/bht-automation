@@ -9,7 +9,7 @@ In this passage, the commentator highlights Abraham's unwavering faith and his a
 2. "The Apostle does not want to prove that Abraham was in his sound senses when he believed the promise, but that he was so strong in faith as to be able to overleap all difficulties in its way."
 3. "Abraham did indeed feel and express the difficulty, but his faith overcame it, and he ceased to regard it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He considered not...those physical obstacles": Abraham's faith was so strong that he did not let the physical limitations of himself and Sarah hinder his belief in God's promise.
 
 2. "Paid no attention to...render the fulfilment hopeless": Abraham's unwavering trust in God allowed him to overlook any doubts or obstacles that could have made the fulfillment of God's promise seem impossible.
@@ -52,4 +52,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The parable of the leaven describes the transformative power of the Gospel in th
 2. "The leaven represents the mystery of regeneration, both in its first act and in the subsequent renewal by the Holy Spirit, which is continual and progressive."
 3. "The parable has a general application in the gradual influence of the Spirit of God on the whole mass of humanity, as well as an individual application in the transforming power of the 'new leaven' on individuals."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of heaven is like unto leaven, which a woman took and hid in three measures of meal, till the whole was leavened." - This parable teaches the inward growth of the kingdom, contrasting with the outward growth depicted in the parable of the Mustard Seed.
 
 2. "It being a woman's work to knead, it seems a refinement to say that 'the woman' here represents the Church, as the instrument of depositing the leaven." - The woman symbolizes the Church, highlighting its role in spreading the Gospel and bringing about the growth of the kingdom.
@@ -54,4 +54,4 @@ These quotes highlight the unique interpretation of the parable of the leaven in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

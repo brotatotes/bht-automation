@@ -9,7 +9,7 @@ United with Christ in his death and resurrection, believers share in the likenes
 2. "Christians partake of the likeness only of Christ's death, but of His actual Resurrection itself."
 3. "The participation in His Resurrection, however partially and in the inner spiritual life, attained here, will only then be accomplished in our entire being, when we 'shall wake up after his likeness'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Since Christ's death and resurrection are inseparable in their efficacy, union with Him in the one carries with it participation in the other, for privilege and for duty alike."
 2. "The future tense is used of participation in His resurrection, because this is but partially realized in the present state."
 3. "Union with Christ in His death and resurrection is not only a privilege but also a responsibility that believers share."
@@ -53,4 +53,4 @@ United with Christ in his death and resurrection, believers share in the likenes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

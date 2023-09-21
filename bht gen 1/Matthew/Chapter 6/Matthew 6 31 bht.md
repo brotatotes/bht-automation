@@ -4,7 +4,7 @@
 This verse encourages believers to let go of their worries and anxieties about basic needs such as food, drink, and clothing. It reminds us that God is aware of our needs and will provide for us, so we should not be consumed by worry. Trusting in God's provision and prioritizing seeking His kingdom and righteousness above all else is the challenge presented by this verse. Let us not burden ourselves with unnecessary anxiety but rather rest in the care of our heavenly Father, who knows our every need.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse encourages believers to let go of their worries and anxieties about their basic needs such as food, drink, and clothing."
 2. "It reminds us that God is aware of our needs and will provide for us, so we should not be consumed by worry."
 3. "This verse challenges believers to trust in God's provision and to prioritize seeking His kingdom and righteousness above all else."
@@ -33,4 +33,4 @@ This verse encourages believers to let go of their worries and anxieties about b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

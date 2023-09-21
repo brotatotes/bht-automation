@@ -9,7 +9,7 @@ In this Bible verse, the Jews mockingly challenge Jesus, displaying their ignora
 2. "The Jews said this maliciously, considering themselves greater than the Savior and assuming that they would go to God for eternal rest, while the Savior would bring destruction and death upon Himself, going where they did not think they would go."
 3. "De Wette thinks this too refined, and that such a meaning would, if intended, have been marked in our Lord's answer."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews, in their ignorance and unbelief, failed to grasp the deeper meaning behind Jesus' words, and instead responded with skepticism and scorn." 
 
 2. "Their question reveals their malicious intent, as they insinuate that Jesus may be contemplating suicide, further highlighting their rejection of His message." 
@@ -52,4 +52,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

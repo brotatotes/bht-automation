@@ -4,7 +4,7 @@
 In this Bible verse, the commentators emphasize the universal significance of the event, noting that no one, not even angels or the souls of departed saints, could escape the judgment of God. The verse encompasses all realms of existence, highlighting the vastness and scope of God's dominion. The inability of creation to fully comprehend or grasp the mysteries of God is underscored, as there is no one in heaven, on earth, or even in Hades who has the ability to open the book or look upon its contents.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No one, of any order of beings, can escape the judgment of God."
 2. "The judgment of God extends to all, whether they are on earth or in Hades."
 3. "The contents of the book are meant to be read and understood by all who are subject to God's judgment."
@@ -47,4 +47,4 @@ In this Bible verse, the commentators emphasize the universal significance of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

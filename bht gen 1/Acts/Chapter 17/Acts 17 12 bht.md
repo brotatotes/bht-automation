@@ -9,7 +9,7 @@ In this verse, the mention of both Jews and Grecian women shows the diverse audi
 2. "So εἰς πᾶσαν πόλιν κ . τόπον, Luke 10:1."
 3. "See Winer, edn. 6, § 59. 5."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That the people, no less than the ministers of the Church, are entitled and bound to search the Scriptures."
 2. "That they are entitled and bound to judge, on their own responsibility, whether the teaching they receive from the ministers of the Church is according to the word of God."
 3. "No faith but such as results from personal conviction ought to be demanded, or is of any avail."
@@ -55,4 +55,4 @@ In this verse, the mention of both Jews and Grecian women shows the diverse audi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

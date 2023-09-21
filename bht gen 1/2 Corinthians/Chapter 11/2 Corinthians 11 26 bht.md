@@ -9,7 +9,7 @@ This Bible verse describes the numerous perils and dangers encountered by the ap
 2. "The crossing of the rocky and irregular torrents in Alpine districts is to this day attended with danger."
 3. "Paul’s use of this compound leads us rather to persons who bona fide wished to be thought ἀδελφοί, but were not, scil. in heart and conduct, and were opponents of himself personally."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By rivers, namely, perils by the flooding of rivers, as on the road often traversed by Paul between Jerusalem and Antioch, crossed as it is by the torrents rushing down from Lebanon." 
 2. "Pisidia was notorious for robbers; as indeed were all the mountains that divided the high land of Asia from the sea." 
 3. "False brethren" (Acts 9:29)
@@ -49,4 +49,4 @@ This Bible verse describes the numerous perils and dangers encountered by the ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

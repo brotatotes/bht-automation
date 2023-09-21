@@ -4,7 +4,7 @@
 This verse highlights the reciprocal relationship between the apostle Paul and the Corinthians. Commentators emphasize the mutual acknowledgment, rejoicing, and glorying that exists between them. It is a testimony to Paul's faithful ministry, evident in the Corinthians' conversion and spiritual growth. The commentators stress that this joy and mutual relationship are not temporary or superficial but will endure until the day of Christ, serving as a source of eternal gratitude and boasting for both parties involved.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The testimony of his life was not yet completed."
 2. "Some of you, not all."
 3. "The present recognition of one another as a subject of mutual glorying."
@@ -43,4 +43,4 @@ This verse highlights the reciprocal relationship between the apostle Paul and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

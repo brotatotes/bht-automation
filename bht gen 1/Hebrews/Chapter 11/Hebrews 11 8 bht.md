@@ -9,7 +9,7 @@ The verse described in this commentary is a pivotal moment in the biblical narra
 2. "He went out, not knowing where he was going."
 3. "The indic. ἔρχεται is perfectly normal, a matter of fact, not one of possibility only, being in question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By faith, he who was (afterwards) called Abraham...obeyed...so as to go out." 
 2. "He had not fully received even this promise when he went out...it is in the new heaven and new earth that he shall receive his personal inheritance promised him."
 3. "Believers sojourn on earth as strangers, while the ungodly and Satan lord it over the earth; but at Christ's coming that same earth which was the scene of the believer's conflict shall be the inheritance of Christ and His saints."
@@ -55,4 +55,4 @@ The verse described in this commentary is a pivotal moment in the biblical narra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the face of opposition and weariness, let us not falter in our pursuit of wel
 2. "We shall reap, if we do not faint." 
 3. "For in due time we shall reap, if we do not faint."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And when we do good, let us also persevere in it without fainting." 
 2. "In due season—in its own proper season, God's own time." 
 3. "No one should faint, as in an earthly harvest sometimes happens."
@@ -59,4 +59,4 @@ These quotes highlight the importance of persevering in doing good, resisting th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

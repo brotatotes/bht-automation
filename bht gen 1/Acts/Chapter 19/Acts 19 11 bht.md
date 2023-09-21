@@ -9,7 +9,7 @@ The Bible verse being described is Acts 19:11-12, where it is mentioned that God
 2. "In what they differed from the usual displays of power by the Apostles."
 3. "Even garments taken from him were endued with miraculous power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God wrought special—no ordinary miracles by the hands of Paul." This quote highlights the extraordinary nature of the miracles performed by Paul, indicating that they were not common or ordinary occurrences.
 
 2. "implying that he had not been accustomed to work such." This quote suggests that Paul had not previously been in the habit of performing such remarkable miracles, emphasizing the exceptional nature of the miracles he performed.
@@ -63,4 +63,4 @@ Note: The commentary is a paraphrase of Acts 19:11-12, which states, "And God wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

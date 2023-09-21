@@ -11,7 +11,7 @@ This Bible verse speaks of those who, through unwavering faith, have triumphed o
 
 3. "Put to flight armies of aliens" - This phrase alludes to the victories of the Maccabees, who were able to defeat foreign armies and reclaim their land. It demonstrates how faith can empower believers to overcome seemingly insurmountable obstacles and achieve great victories.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not merely 'quenched the fire,' but 'quenched the power (so the Greek) of the fire.'" 
 2. "So the martyrs of the Reformation, though not escaping the fire, were delivered from its having power really or lastingly to hurt them."
 3. "out of weakness . . . made strong—Samson (Judges 16:28; Judges 15:19). Hezekiah (Judges 15:19- :). MILTON says of the martyrs, 'They shook the powers of darkness with the irresistible power of weakness.'"
@@ -51,4 +51,4 @@ This Bible verse speaks of those who, through unwavering faith, have triumphed o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

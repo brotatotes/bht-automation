@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes describe the pivotal moment when Jes
 2. "The glorifying spoken of here, and in δοξάσει, John 13:32, is not the same."
 3. "His death was the transition-point between God being glorified in Him, and He being glorified in God manifested to be the Son of God with power by His resurrection."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now" the restraint is removed, and the embankment which kept in the mighty volume of living waters having broken down, they burst forth in a torrent which only ceases on His leaving the supper room and entering on the next stage of His great work—the scene in the Garden.
 2. But with what words is the silence first broken on the departure of Judas? By no reflections on the traitor, and, what is still more wonderful, by no reference to the dread character of His own approaching sufferings. He does not even name them, save by announcing, as with a burst of triumph, that the hour of His glory has arrived!
 3. And what is very remarkable, in five brief clauses He repeats this word "glorify" five times, as if to His view a coruscation of glories played at that moment about the Cross.
@@ -52,4 +52,4 @@ Note: The provided commentary is not long enough to extract additional quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

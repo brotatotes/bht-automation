@@ -9,7 +9,7 @@ The verse encourages believers to not grieve the Holy Spirit, who is represented
 2. "The repetition of the articles gives solemnity and emphasis." 
 3. "The sealing, both of the Lord and of us His members, is the act of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse refers to believers, who grieve the Spirit by inconsistencies such as corrupt or worthless conversation." 
 2. "Believers are said to be sealed 'in' Christ, so here 'in the Holy Spirit,' who is one with Christ, and who reveals Christ in the soul."
 3. "The Spirit is represented as itself the seal, for the image employed, see on Acts 7:51."
@@ -48,4 +48,4 @@ The verse encourages believers to not grieve the Holy Spirit, who is represented
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

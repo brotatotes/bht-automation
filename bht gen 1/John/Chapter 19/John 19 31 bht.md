@@ -9,7 +9,7 @@ The Bible verse describes a pivotal moment surrounding the crucifixion of Jesus.
 2. "The crurifragium was sometimes appended to the punishment of crucifixion, but does not appear to have been inflicted for the purpose of causing death." 
 3. "The piercing with the spear was this death-blow, and was also inflicted on the thieves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That the bodies should not remain—over night, against the Mosaic law." - This quote highlights the significance of the Mosaic law and the importance of adhering to its regulations regarding the treatment of bodies after death.
 
 2. "On the sabbath day, for that sabbath day was a high day." - This quote emphasizes the special nature of the Sabbath day during the Passover season, adding to the solemnity and significance of the events surrounding Jesus' crucifixion.
@@ -55,4 +55,4 @@ The Bible verse describes a pivotal moment surrounding the crucifixion of Jesus.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes a profound connection between those who have died with a str
 2. "ἐν χρ ., in communion with, membership of Christ."
 3. "ἐπὶ μὲν οὖν τοῦ χριστοῦ  θάνατον καλεῖ , ἵνα τὸ πάθος πιστώσηται · ἐπὶ δὲ ἡμῶν  κοίμησιν , ἵνα τὴν ὀδύνην παραμυθήσηται . ἔνθα μὲν γὰρ παρεχώρησεν ἡ ἀνάστασις , θαῤῥῶν καλεῖ θάνατον . ἔνθα δὲ ἐν ἐλπίσιν ἔτι μένει , κοίμησιν καλεῖ ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Christ's case the term used is death, to assure us of the reality of His suffering; in our case, sleep, to give us consolation."
 2. "In His case, His resurrection having actually taken place, Paul shrinks not from the term death; in ours, the resurrection being still only a matter of hope, he uses the term falling asleep."
 3. "Their souls are lost; they are in misery in the unseen world."
@@ -43,4 +43,4 @@ The verse describes a profound connection between those who have died with a str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

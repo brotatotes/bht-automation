@@ -4,7 +4,7 @@
 The Bible verse being described is one that speaks about the significance and necessity of Christ's suffering, death, and resurrection. It emphasizes that these events were not random or accidental, but were part of God's predetermined plan. The verse also highlights the fulfillment of Old Testament prophecies, underscoring the authority and reliability of the Scriptures. Additionally, it conveys the hope and victory that believers have in Christ's resurrection, pointing to the ultimate triumph over death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'behoved' implies a moral necessity, a divine appointment. It was necessary for Christ to suffer and die in order to fulfill the plan of salvation for humanity."
 2. "This verse reminds us that Jesus' sacrifice was not a random event, but a predetermined and essential part of God's redemptive plan."
 3. "The phrase 'be raised from the dead' highlights the victory of Christ over death, and the hope that believers have in the resurrection."
@@ -46,4 +46,4 @@ The Bible verse being described is one that speaks about the significance and ne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

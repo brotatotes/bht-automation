@@ -11,7 +11,7 @@ This Bible verse speaks of Paul's passionate love and protective concern for the
 
 3. "I betrothed you to one husband, to present a chaste virgin to Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The justification of his self-commendations lies in his zealous care lest they should fall from Christ, to whom he, as 'the friend of the Bridegroom,' has espoused them."
 2. "A jealousy which has God's honor at heart."
 3. "Whatever ministers do effectively, is really done by Christ."
@@ -57,4 +57,4 @@ This Bible verse speaks of Paul's passionate love and protective concern for the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this passage, we encounter a vivid metaphor of a fan used to separate wheat from chaff, representing the judgment and separation of the righteous from the wicked. It highlights the authority and discernment of God, who holds the fan in his hand and determines the outcome. The imagery further reminds believers of the refining process they go through, where challenges and trials serve to test and distinguish true faith. Ultimately, this verse underscores the power and sovereignty of God in the final judgment and separation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "showing both how successful he had been in awakening the expectation of Messiah's immediate appearing"
 2. "the high estimation, and even reverence, which his own character commanded"
 3. "Also see on  :-."
@@ -25,4 +25,4 @@ In this passage, we encounter a vivid metaphor of a fan used to separate wheat f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

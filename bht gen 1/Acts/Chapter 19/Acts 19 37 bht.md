@@ -9,7 +9,7 @@ In this particular Bible verse, the commentators provide insights into the appro
 2. "This is also manifest from his having friends among the Asiarchs."
 3. "Chrysostom, however, treats this assertion of the town-clerk merely as a device to appease the people."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess." - This verse highlights the Apostle's approach of avoiding insulting the feelings of those he preached to, serving as a lesson for missionaries and ministers in general.
 
 2. "This is a remarkable testimony, showing that the apostle had, in preaching against idolatry, studiously avoided insulting the feelings of those whom he addressed." - The commentary emphasizes the Apostle's careful approach in preaching against idolatry without causing offense, which is a valuable lesson for anyone spreading their beliefs.
@@ -57,4 +57,4 @@ In this particular Bible verse, the commentators provide insights into the appro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse encourages us to rise above the world's view of revenge and exclusive 
 2. "Do not hate the one who does evil to you, as he is the cause of so much good to you and brings you such honor. Do not curse the one who provokes you, for you have endured the pain and been deprived of the fruit. You will bear the loss, but lose the reward, which is the ultimate folly, to endure the greater hardship and not bear the lesser." 
 3. "If you imitate the gods, give benefits even to the ungrateful, for the sun rises on the wicked and the seas are open to pirates."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That ye may show yourselves to be such by resembling Him."
 2. "Well might BENGEL exclaim, 'Magnificent appellation!'"
 3. "When we find God's own procedure held up for imitation in the law, and much more in the prophets, we may see that the principle of this surprising verse was nothing new."
@@ -43,4 +43,4 @@ The verse encourages us to rise above the world's view of revenge and exclusive 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see God's providence at work as he prepares both Saul and Anan
 2. "A man, whose name in the same vision he knew to be Ananias."
 3. "The sight of the man and the knowledge of his name were both granted him in his vision."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus, as in the case of Cornelius and Peter afterwards, there was a mutual preparation of each for each." 
 2. "But we have no account of the vision which Saul had of Ananias coming unto him and putting his hands upon him for the restoration of his sight." 
 3. "Save this interesting allusion to it in the vision which Ananias himself had."
@@ -48,4 +48,4 @@ In this verse, we see God's providence at work as he prepares both Saul and Anan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a man responds to Jesus' question, revealing his long-standing de
 2. "Bauer asks why the person who brought him there every day, could not have put him in? But no such person is implied."
 3. "The same slow motion which he describes here, would suffice for his daily coming and going."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of saying he wished to be cured, he just tells with piteous simplicity how fruitless had been all his efforts to obtain it, and how helpless and all but hopeless he was."
 2. "Wait therefore he will, wait he does, and when Christ comes to heal him, lo! he is waiting his turn. What an attitude for a sinner at Mercy's gate!"
 3. "But he held on, and his perseverance was rewarded with a glorious cure."
@@ -55,4 +55,4 @@ In this verse, a man responds to Jesus' question, revealing his long-standing de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

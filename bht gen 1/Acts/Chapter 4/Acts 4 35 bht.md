@@ -9,7 +9,7 @@ In the early Christian community, believers showed great veneration and respect 
 2. "The Apostles, like the Prætor, probably sat upon a raised seat, on the step of which, at their feet, the money was laid, in token of reverence." 
 3. "In token of reverence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "laid . . . at the apostles' feet" - This phrase suggests a position of submission and humility, as if the person bringing the offering is acknowledging the authority and leadership of the apostles.
 2. "sitting, it may be, above the rest" - This implies that the person who brought the offering may have been given a place of honor or distinction among the believers, possibly due to their generosity or devotion.
 3. "here meant figuratively" - This suggests that the act of laying the offering at the apostles' feet may symbolize the surrender of one's possessions and resources to God, recognizing that everything belongs to Him and should be used for His purposes.
@@ -38,4 +38,4 @@ In the early Christian community, believers showed great veneration and respect 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

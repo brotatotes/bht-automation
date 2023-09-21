@@ -9,7 +9,7 @@ This verse portrays the encounter between Jesus and a persistent Canaanite woman
 2. "μεθόρια] The place must have been the neighbourhood of Tyre."
 3. "οὐδ. ἤθ. γν.] Not (Fritz.), ‘wished to know no man:’ but would have no man know it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole narrative, we think, proceeds upon the supposition that He did [enter the heathen territory]."
 2. "His immediate object seems to have been to avoid the wrath of the Pharisees at the withering exposure He had just made of their traditional religion."
 3. "But though not 'sent but to the lost sheep of the house of Israel,' He hindered not the lost sheep of the vast Gentile world from coming to Him, nor put them away when they did come."
@@ -54,4 +54,4 @@ This verse portrays the encounter between Jesus and a persistent Canaanite woman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

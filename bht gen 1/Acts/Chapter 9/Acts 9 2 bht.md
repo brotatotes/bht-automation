@@ -9,7 +9,7 @@ In this Bible verse, we read about an intense and determined Saul, also known as
 2. "The expression ‘THE WAY’ had evidently become a well-known one among Christians."
 3. "The special journey to Damascus presupposes the existence of Christians there, and in some numbers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Damascus—the capital of Syria and the great highway between eastern and western Asia, about one hundred thirty miles northeast of Jerusalem; the most ancient city perhaps in the world, and lying in the center of a verdant and inexhaustible paradise."
 2. "Thither the Gospel had penetrated; and Saul, flushed with past successes, undertakes to crush it out."
 3. "Thrice are women specified as objects of his cruelty, as an aggravated feature of it."
@@ -52,4 +52,4 @@ In this Bible verse, we read about an intense and determined Saul, also known as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

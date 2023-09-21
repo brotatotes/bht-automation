@@ -4,7 +4,7 @@
 In this verse, a compassionate person goes above and beyond to help an injured man. They provide remedies commonly used in the East - oil and wine - to cleanse and soothe the wounds. Despite the inconvenience, they walk alongside the injured person, displaying selflessness in their care. The act of pouring oil and wine signifies the healing and restoration that God brings, blending His grace and mercy to bring deep healing and wholeness. It is a powerful balm that brings relief to the wounded soul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Oil and wine—the remedies used in such cases all over the East" - This quote highlights the cultural significance of using oil and wine as remedies in the Eastern region, emphasizing their effectiveness in treating wounds and providing relief.
 2. "The wine to cleanse the wounds, the oil to assuage their smartings" - This quote explains the specific purposes of wine and oil in the context of treating wounds. Wine is used for cleansing, while oil is used to soothe the pain.
 3. "On his own beast—himself going on foot" - This quote emphasizes the selflessness and sacrifice of the person who helps the injured man. They not only provide assistance but also give up their own comfort by walking alongside the injured person.
@@ -45,4 +45,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

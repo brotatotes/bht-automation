@@ -11,7 +11,7 @@ In a surprising encounter, Jesus breaks down social and religious divisions as h
 
 3. "The encounter between Jesus and the Samaritan woman reminds us that God's grace is not limited to a particular group or ethnicity. It is a reminder that God's love and salvation are available to all, regardless of their background or past mistakes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give me to drink—for the heat of a noonday sun had parched His lips." 
 2. "But 'in the last, that great day of the feast,' Jesus stood and cried, saying, 'If any man thirst let him come unto Me and drink'." 
 3. "Jesus' invitation to come and drink is an invitation to find true satisfaction and fulfillment in Him."
@@ -57,4 +57,4 @@ In a surprising encounter, Jesus breaks down social and religious divisions as h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

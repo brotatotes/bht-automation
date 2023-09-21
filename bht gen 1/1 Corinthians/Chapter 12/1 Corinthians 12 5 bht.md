@@ -12,7 +12,7 @@ The Bible verse being described speaks of the diverse ministries, gifts, and ope
 5. "GOD THE SON, the Ordainer in His Church of all ministries by which this influence may be legitimately brought out for edification."
 6. "GOD THE HOLY GHOST, dwelling and working in the church, and effectuating in each man such measure of His gifts as He sees fit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gifts, administrations, and operations form an ascending climax." 
 2. "The Spirit glorifies the Lord through these ministrations." 
 3. "The universally operative power of the Father is above all, through all, and in us all."
@@ -45,4 +45,4 @@ The Bible verse being described speaks of the diverse ministries, gifts, and ope
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

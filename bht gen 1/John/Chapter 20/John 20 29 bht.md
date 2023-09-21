@@ -11,7 +11,7 @@ This passage captures the moment when Thomas, one of the disciples, expresses do
 
 These quotes highlight the progression of faith, from becoming a believer to fully embracing and trusting in the unseen. They emphasize the significance of believing without physical evidence and the transformative power of faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou hast indeed believed; it is well: it is only on the evidence of thy senses, and after peremptorily refusing all evidence short of that." 
 2. "Wonderful indeed and rich in blessing for us who have not seen Him, is this closing word of the Gospel." 
 3. "And indeed, as the Lord pronounced them blessed who not having seen Him have yet believed, so for that one end have the whole contents of this Gospel been recorded, that all who read it may believe on Him, and believing, have life in that blessed name."
@@ -54,4 +54,4 @@ These quotes highlight the progression of faith, from becoming a believer to ful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

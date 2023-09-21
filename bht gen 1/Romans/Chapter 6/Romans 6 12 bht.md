@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the need to resist and overcome the do
 2. "The word [τῷ θνητῷ ὑμ. σώματι] inserted to remind us of the other life, and the shortness of the conflict."
 3. "The Apostle wishes to keep in view the connection between sin and death on the one hand, and that συνζῆν which is freed from death on the other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let not sin therefore reign as a Master." - This emphasizes the authority and control that sin can have over a person's life, highlighting the need to resist and overcome its power.
 
 2. "The 'body' is here viewed as the instrument by which all the sins of the heart become facts of the outward life." - This explains the connection between the desires of the heart and the actions of the body, illustrating how sin manifests itself in our physical actions.
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the need to resist and overcome the do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, there is a warning against those who outwardly profess religion and godliness but reject its true power and deny its transformative influence. These individuals maintain a mere external show of piety, using a "mask and visor of godliness." While they may speak of religion, their actions betray their hypocrisy. The guidance given is to avoid such individuals and withdraw from their company as they lack the genuine substance of true piety.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Form" refers to the outward appearance or semblance, while "godliness" refers to true piety. 
 2. The phrase "denying the power" suggests that these individuals have renounced or rejected the living and transformative influence of godliness. 
 3. The phrase "turn away" implies that there were already individuals with such characteristics present in the Church, serving as a warning for the future.
@@ -50,4 +50,4 @@ Note: The commentary is based on 2 Timothy 3:5 - "Having a form of godliness, bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

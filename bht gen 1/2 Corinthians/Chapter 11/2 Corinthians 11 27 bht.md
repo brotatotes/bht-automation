@@ -9,7 +9,7 @@ The described Bible verse depicts the extraordinary sacrifice and dedication of 
 2. "By hunger and thirst, by fastings frequently." 
 3. "In cold and nakedness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fastings—voluntary, in order to kindle devotions."
 2. "Hunger and thirst" are not synonymous with "foodlessness," but are its consequences.
 3. "Cold . . . nakedness" refers to cold resulting from insufficient clothing.
@@ -65,4 +65,4 @@ The described Bible verse depicts the extraordinary sacrifice and dedication of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

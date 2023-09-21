@@ -9,7 +9,7 @@ In this verse, we encounter a powerful moment when Isaiah beholds the divine glo
 2. "The Evangelist is giving his judgment, having had his understanding opened to understand the Scriptures, that the passage in Isaiah is spoken of Christ." 
 3. "The glory which Isaiah saw could only be that of the Son, Who is the ἀπαύγασμα τῆς δόξης of the Father, Whom no eye hath seen."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "THE SON is the King Jehovah who rules in the Old Testament and appears to the elect." - This quote highlights the identification of the Son as the divine figure in the Old Testament, emphasizing his role as the ruler and his manifestation to the chosen ones.
 
 2. "THE SPIRIT, the invisible Minister of the Son, is the Director of the Church." - This quote emphasizes the role of the Spirit as the guiding force in the Church, highlighting the Spirit's ministry and leadership.
@@ -61,4 +61,4 @@ In this verse, we encounter a powerful moment when Isaiah beholds the divine glo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

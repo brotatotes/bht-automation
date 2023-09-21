@@ -9,7 +9,7 @@ In this verse, Jesus is shown intentionally revealing Himself to His disciples a
 2. "Without agreeing with all the allegorical interpretations of the Fathers, I cannot but see much depth and richness of meaning in this whole narrative."
 3. "Can we miss that application at this far more important epoch of their apostolic mission? Besides, He graciously provides for their present wants, and invites them to be His guests: why, but to show them that in their work hereafter they should never want but He would provide?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus showed himself—was manifested." This phrase emphasizes the intentional and deliberate nature of Jesus' appearances to his disciples. It suggests that these manifestations were not accidental or coincidental, but rather purposeful acts of revelation.
 
 2. "His assembled disciples." This phrase highlights the significance of Jesus' appearances to a group of disciples rather than just individuals. It suggests that Jesus wanted to gather his followers together, perhaps to strengthen their faith and unity as a community.
@@ -61,4 +61,4 @@ In this verse, Jesus is shown intentionally revealing Himself to His disciples a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

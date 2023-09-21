@@ -4,7 +4,7 @@
 In this Bible verse, commentators emphasize the importance of fidelity and responsibility in both small and large matters. They highlight the idea that true faithfulness is not dependent on the value or significance of what is entrusted, but rather on a sense of accountability. The verse warns against the potential harm of unfaithfulness, emphasizing that those who are untrustworthy in small things may also be untrustworthy in more significant matters. Ultimately, this verse encourages believers to prioritize spiritual treasures and eternal values over earthly possessions, emphasizing the need for fidelity in all aspects of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fidelity depends not on the amount entrusted, but on the sense of responsibility." 
 2. "He that feels this in little will feel it in much, and conversely." 
 3. "The 'harmlessness of the dove, to which the serpent' with all his 'wisdom' is a total stranger."
@@ -43,4 +43,4 @@ In this Bible verse, commentators emphasize the importance of fidelity and respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

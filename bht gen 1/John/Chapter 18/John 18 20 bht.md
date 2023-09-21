@@ -10,7 +10,7 @@ In this verse, the speaker emphasizes their identity and authority, clarifies th
 3. "By the omission of the art. before συναγ., the distinction is made between synagogues... and τὸ ἱερόν..." - This explains the grammatical choice and highlights the difference between synagogues and the temple.
 4. "Stier thinks there was an allusion in these words to Isaiah 45:19; Isaiah 48:16..." - This suggests a possible connection to Old Testament prophecies about the Messiah.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I spake—have spoken."
 2. "I ever taught in the synagogues and in the temple, whither the Jews always resort—courting publicity, though with sublime noiselessness."
 3. "In secret have I said—spake I. nothing—that is, nothing of any different nature; all His private communications with the Twelve being but explanations and developments of His public teaching."
@@ -51,4 +51,4 @@ In this verse, the speaker emphasizes their identity and authority, clarifies th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

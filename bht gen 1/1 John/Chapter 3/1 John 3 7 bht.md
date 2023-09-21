@@ -9,7 +9,7 @@ In this verse, the importance of righteousness and its connection to a genuine r
 2. "The Apostle... is reasoning... from the hypothesis of a man's being a child of God, born of Him and like Him, to the necessity of his purifying himself and doing righteousness."
 3. "Good works of piety do not make a good pious man, but a good pious man does good pious works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who sins is, so far as he sins, 'of the devil.'" 
 2. "Let no man deceive you—as Antinomians try to mislead men." 
 3. "Works do not justify, but the justified man works."
@@ -52,4 +52,4 @@ In this verse, the importance of righteousness and its connection to a genuine r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

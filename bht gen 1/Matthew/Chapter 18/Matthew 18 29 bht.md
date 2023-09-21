@@ -4,7 +4,7 @@
 In this verse, a person humbly beseeches another for patience, using the same words they had used to appeal for mercy themselves. The commentators emphasize the importance of showing compassion and forgiveness towards others, just as one would hope to receive it from God. It also draws attention to human tendencies to promise God more readily than fellow humans, and the need to approach such promises with humility and sincerity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same attitude, and the same words which drew compassion from his master, are here employed towards himself by his fellow servant." 
 
 2. "This verse highlights the importance of showing compassion and forgiveness towards others, just as we would expect to receive it ourselves." 
@@ -30,4 +30,4 @@ In this verse, a person humbly beseeches another for patience, using the same wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

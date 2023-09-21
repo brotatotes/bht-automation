@@ -9,7 +9,7 @@ In this verse, we see the brutal and public act of stoning being carried out aga
 2. "He refers to this stoning, 2 Corinthians 11:25, ἅπαξ ἐλιθάσθην."
 3. "ἄπιστοι γὰρ Λυκάονες, ὡς καὶ Ἀριστοτέλης μαρτυρεῖ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Furious zeal that would travel so far to counteract the missionaries of the Cross!"
 2. "Paul, as the prominent actor and speaker, being the object of all their rage."
 3. "It was the act of the instigated and fickle multitudes along with them."
@@ -57,4 +57,4 @@ In this verse, we see the brutal and public act of stoning being carried out aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

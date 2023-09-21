@@ -9,7 +9,7 @@ This Bible verse speaks of the Philippians' support and sympathy towards the apo
 2. "μὴ γὰρ ἐπειδή, φησιν, ἐν χρείᾳ οὐ καθέστηκα, νομίσητε μὴ δεῖσθαί με τοῦ πράγματος · δέομαι διʼ ὑμᾶς." - Chrys.
 3. "συγκοινωνήσαντές μου τῇ θλίψει" - Thl.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He here guards against their thinking from what he has just said, that he makes light of their bounty."
 2. "Ye did communicate with my affliction—that is, ye made yourselves sharers with me in my present affliction, namely, by sympathy."
 3. "Of which sympathy your contribution is the proof."
@@ -50,4 +50,4 @@ This Bible verse speaks of the Philippians' support and sympathy towards the apo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

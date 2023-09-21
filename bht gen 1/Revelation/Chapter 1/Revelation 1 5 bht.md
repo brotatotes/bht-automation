@@ -4,7 +4,7 @@
 This verse describes a figure who is faithful in all his offices, faithfully testifying to God's will, rising from the dead as the first-born of the dead with power over heaven and earth, and reigning as the Prince of the kings of the earth. His testimony is trustworthy, his resurrection is a significant event fulfilling Scripture, and his reign extends even to earthly kings and princes. This figure embodies love, grace, and mercy, and holds authority over all the rulers of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was the faithful witness, because all things that He heard of the Father He faithfully made known to His disciples."
 2. "Christ rose to die no more. The image is not as if the grave was the womb of His resurrection-birth, but as Acts 13:33; Romans 1:4, treat Christ's resurrection as the epoch and event which fulfilled the Scripture."
 3. "The kingship of the world which the tempter offered to Jesus on condition of doing homage to him, and so shunning the cross, He has obtained by the cross."
@@ -40,4 +40,4 @@ This verse describes a figure who is faithful in all his offices, faithfully tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

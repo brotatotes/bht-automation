@@ -11,7 +11,7 @@ The Bible verse being described emphasizes the importance of unity, patience, an
 
 3. "When ye are coming together to eat" - This phrase implies that the gathering is not just about satisfying physical hunger but also about fostering a sense of community and fellowship among believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expression is not, 'Give a share to one another,' for all the viands brought to the feast were common property." 
 
 2. "They should 'tarry' till all were met to partake together of the common feast of fellowship." 
@@ -61,4 +61,4 @@ The Bible verse being described emphasizes the importance of unity, patience, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

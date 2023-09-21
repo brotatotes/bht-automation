@@ -4,7 +4,7 @@
 This verse describes the contrast between the temporary nature of affliction and the eternal weight of glory that awaits believers. The afflictions faced by the faithful, though at times heavy, are light in comparison to the boundless blessings of everlasting glory. These afflictions serve as the pathway to the heavenly kingdom, working as means of enjoying the eternal reward. The language used to describe the glory to come is beyond imagination and cannot be fully described or translated.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The contrast, however, between this and the 'ETERNAL weight of glory' requires, I think, the translation, 'Which is but for the present passing moment.'" 
 2. "The lightness of affliction contrasts beautifully with the 'weight of the glory.'"
 3. "The glory exceeds beyond all measure the affliction."
@@ -50,4 +50,4 @@ This verse describes the contrast between the temporary nature of affliction and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

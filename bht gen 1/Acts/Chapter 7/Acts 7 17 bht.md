@@ -11,7 +11,7 @@ The verse describes a time when God's promise to Abraham was about to be fulfill
 
 3. "καθώς emphasizes the idea of similarity or conformity, suggesting that the action or condition being described is in accordance with a standard or pattern."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time of the promise" refers to the period when the promise made to Abraham and his descendants was about to be fulfilled. (Quote 17)
 2. The exponential growth of the Israelites in Egypt is highlighted, as they went from being just seventy-five souls to a massive population of six hundred thousand men, not counting women and children. (Quote 17)
 3. The significant increase in numbers emphasizes the fulfillment of God's promise to make the Israelites into a great nation. (Quote 17)
@@ -65,4 +65,4 @@ The verse describes a time when God's promise to Abraham was about to be fulfill
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

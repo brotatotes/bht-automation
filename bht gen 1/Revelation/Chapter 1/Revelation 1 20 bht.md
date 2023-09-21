@@ -11,7 +11,7 @@ The symbolism of the Bible verse is rich with meaning. The seven stars represent
 
 3. "That stars are also used to symbolize earthly authorities, is what might be expected from the very nature of the symbol, and should never have been alleged here as a reason against the literal interpretation of ἄγγελοι." - This quote addresses the objection that stars can symbolize earthly authorities and emphasizes that it should not be used as a reason to dismiss the literal interpretation of the angels.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mystery signifies the hidden truth, veiled under this symbol, and now revealed; its correlative is revelation."
 2. "Stars symbolize lordship of faithful teachers."
 3. "The term angel, designating an office, is, in accordance with the enigmatic symbolism of this book, transferred from the heavenly to the earthly superior ministers of Jehovah reminding them that, like the heavenly angels above, they below should fulfill God's mission zealously, promptly and efficiently."
@@ -45,4 +45,4 @@ The symbolism of the Bible verse is rich with meaning. The seven stars represent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

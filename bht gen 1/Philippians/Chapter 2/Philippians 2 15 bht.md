@@ -9,7 +9,7 @@ Believers are called to live blameless lives, free from fault and without reproa
 2) "φαίνεσθε, not imperative, but indicative, for this is the position of Christians in the world: see Matthew 5:14; Ephesians 5:8." Ellicott.
 3) "φωστῆρες, not 'lights' merely, but luminaries, 'heavenly bodies:' see ref. Gen.: and Sir 43:7, Wis 13:2." Ellicott.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blameless and harmless—without either the repute of mischief, or the inclination to do it."
 2. "Imitation of our heavenly Father is the instinctive guide to our duty as His children, more than any external law."
 3. "Without rebuke—'without (giving handle for) reproach.' The whole verse tacitly refers by contrast to Deuteronomy 32:5, 'Their spot... not... of His children... a perverse and crooked generation.'"
@@ -59,4 +59,4 @@ These quotes provide insights into the desired character and conduct of believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

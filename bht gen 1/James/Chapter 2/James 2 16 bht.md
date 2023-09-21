@@ -9,7 +9,7 @@ In this particular verse, the words spoken carry the implication that the needs 
 2. "The force of the aor. cannot be given in English without overdoing it."
 3. "As being γυμνοί."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The habit of receiving passively sentimental impressions from sights of woe without carrying them out into active habits only hardens the heart."
 2. "Depart in peace—as if all their wants were satisfied by the mere words addressed to them."
 3. "The same words in the mouth of Christ, whose faith they said they had, were accompanied by efficient deeds of love."
@@ -38,4 +38,4 @@ In this particular verse, the words spoken carry the implication that the needs 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

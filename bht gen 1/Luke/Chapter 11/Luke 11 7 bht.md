@@ -9,7 +9,7 @@ In this vivid depiction, we witness a domestic scene where a person in bed is in
 2. "Observe how in all the parables which place the Father, or the Husband, before us, the Mother, or the Bride does not appear."
 3. "He cannot (i.e. will not, cannot from being overcome by reluctance) rise and give to him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Trouble me not—the trouble" - This quote highlights the speaker's frustration and impatience with being bothered or interrupted. It suggests that the speaker is overwhelmed or preoccupied with their own concerns, making them insensitive to the urgency of the situation at hand.
 
 2. "making him insensible both to the urgency of the case" - This quote emphasizes the speaker's lack of awareness or understanding of the importance or seriousness of the situation. It implies that the speaker is unable to fully comprehend or appreciate the gravity of the matter being brought to their attention.
@@ -40,4 +40,4 @@ In this vivid depiction, we witness a domestic scene where a person in bed is in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

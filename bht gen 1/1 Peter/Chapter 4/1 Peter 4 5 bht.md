@@ -9,7 +9,7 @@ The Bible verse being described is a call for comfort and reassurance to Christi
 2. "Shall render account to Him that is ready to judge."
 3. "Living and dead."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who now call you to account falsely, shall have to give account themselves for this very evil-speaking (Judges 1:15), and be condemned justly." 
 2. "Ready—very speedily (1 Peter 4:7; 2 Peter 3:10)." 
 3. "Christ's coming is to the believer always near."
@@ -48,4 +48,4 @@ The Bible verse being described is a call for comfort and reassurance to Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

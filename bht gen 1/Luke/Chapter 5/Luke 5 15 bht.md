@@ -9,7 +9,7 @@ In this Bible verse, we witness the aftermath of an astonishing act performed by
 2. "This verse highlights the importance of obedience to God's commands." 
 3. "Mark 1:45 reveals that disobedience can lead to being excluded from the presence of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But so, &c." - This phrase suggests that the following explanation is a continuation or further elaboration of a previous point or argument.
 2. "PARALYTIC HEALED." - This heading indicates that the commentary will discuss a specific event or story in which a paralytic person is healed.
 3. "See on  :-" - This reference suggests that there is additional information or context about the paralytic healing in a previous section or verse that the reader can refer to for a more comprehensive understanding.
@@ -33,4 +33,4 @@ In this Bible verse, we witness the aftermath of an astonishing act performed by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

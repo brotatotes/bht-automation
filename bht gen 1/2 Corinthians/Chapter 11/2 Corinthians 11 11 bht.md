@@ -9,7 +9,7 @@ In this verse, the Apostle Paul defends his decision to not accept any material 
 2. "For we willingly incur obligations to those whom we love."
 3. "οἶδεν, scil. ὅτι ὑμᾶς ἀγαπῶ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love is often offended at its favors being not accepted" - This quote highlights how love can feel hurt or offended when its acts of kindness or generosity are not appreciated or acknowledged by the recipient.
 
 2. "as though the party to whom they are offered wished to be under no obligation to the offerer" - This quote suggests that when someone rejects the love or favors offered to them, it can be perceived as if they do not want to owe anything to the person showing love. It emphasizes the idea that love expects some form of reciprocity or gratitude.
@@ -50,4 +50,4 @@ In this verse, the Apostle Paul defends his decision to not accept any material 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the apostle Paul, displaying his piety as a Jew, asks for a bless
 
 3. "Paul's action of asking for a blessing before eating reflects his piety as a Jew." - De Wette
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An impressive act in such circumstances, and fitted to plant a testimony for the God he served in the breasts of all."
 2. "Not understood by the Christians in the ship as a love-feast, or celebration of the Lord's Supper, as some think, but a meal to recruit exhausted nature."
 3. "Paul shows them by his own example how a Christian partakes of."
@@ -47,4 +47,4 @@ In this verse, the apostle Paul, displaying his piety as a Jew, asks for a bless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

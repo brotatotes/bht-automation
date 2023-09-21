@@ -11,7 +11,7 @@ In this verse, different groups with contrasting beliefs are mentioned. One grou
 
 3. "But τὰ ἀμφ. is used of both things, the one being the resurrection, the other the doctrine of spiritual existences: the two specified classes of the latter being combined generically. τὰ ἀμφ., them both, both of them, the two."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Sadducees say . . . there is no resurrection, neither angel, nor spirit." - This quote highlights the belief of the Sadducees, who denied the existence of resurrection, angels, and spirits. 
 
 2. "The scribes . . . of the Pharisees' part . . . strove, saying, We find no evil in this man, but—as to those startling things which he brings to our ears." - This quote shows that the scribes from the Pharisees' group were willing to give a favorable interpretation to Jesus' words, but only in relation to the things that were not contrary to their own beliefs.
@@ -61,4 +61,4 @@ In this verse, different groups with contrasting beliefs are mentioned. One grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

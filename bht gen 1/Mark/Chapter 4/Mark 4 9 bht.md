@@ -4,7 +4,7 @@
 In this verse, Jesus emphasizes the importance of active listening and understanding, urging those with receptive hearts and open minds to truly comprehend his teachings. He highlights the spiritual aspect of understanding, indicating that it goes beyond the physical act of hearing. True understanding requires not only hearing the words, but also having an open heart and applying the teachings in one's life. This message was delivered in the midst of a large audience, emphasizing its significance and encouraging attentive observation. For deeper insight, additional resources are available to explore the parable and its implications.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that hath ears to hear, let him hear." This statement by Jesus emphasizes the importance of active listening and understanding. It implies that not everyone will grasp the deeper meaning of his teachings, but those who are receptive and open-minded will truly comprehend his message.
 
 2. "The phrase 'he that hath ears to hear' implies that there is a spiritual dimension to understanding Jesus' teachings." This commentary suggests that Jesus is not simply referring to physical ears, but rather to a spiritual receptiveness and willingness to engage with his teachings on a deeper level.
@@ -22,4 +22,4 @@ In this verse, Jesus emphasizes the importance of active listening and understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

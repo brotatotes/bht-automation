@@ -4,7 +4,7 @@
 In this Bible verse, we witness a profound display of ministerial fidelity and affection. The deep admiration and attachment between the apostle and the Ephesian presbyters is highlighted, leaving an indelible impression. The apostle demonstrates utmost reverence and humility by kneeling down in prayer, a fitting posture and an outward sign of devotion. By joining together in prayer, they not only make a profession of their godliness but also provoke one another to reverence God. The apostle seals his preceding sermon with prayer, recognizing that the blessing of God is essential for the profit of their doctrine.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nothing can be more touching than these three concluding verses, leaving an indelible impression of rare ministerial fidelity and affection on the apostle's part."
 2. "Would to God that such scenes were more frequent in the Church!"
 3. "These verses highlight the deep admiration and attachment between the apostle and the Ephesian presbyters."
@@ -38,4 +38,4 @@ In this Bible verse, we witness a profound display of ministerial fidelity and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a parable about the readiness and preparedness for the kingdom of God. It highlights the consequences of not being prepared, as the door to the heavenly kingdom will be closed against those who lack preparation. The shutting of the door symbolizes a finality to the opportunity for salvation, leaving those unprepared outside. The parable paints a graphic picture of individuals who were almost saved but ultimately lost, highlighting the importance of true repentance, belief, and holy living.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are sensible of their past folly; they have taken good advice: they are in the act of getting what alone they lacked: a very little more, and they also are ready."
 2. "But the Bridegroom comes; the ready are admitted; 'the door is shut,' and they are undone."
 3. "How graphic and appalling this picture of one almost saved—but lost!"
@@ -43,4 +43,4 @@ The verse being described is a parable about the readiness and preparedness for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse depicts a remarkable event that parallels Jonah's experience with bei
 2. "A day and night together make up a עוֹנָה (a νυχθήμερον ), and that any part of such a period is counted as the whole."
 3. "See Genesis 40:13; Genesis 40:20; 1 Samuel 30:12-13; 2 Chronicles 10:5; 2 Chronicles 10:12; Hosea 6:2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation." (Luke 11:30) - This quote highlights the parallel between Jonah's role as a sign to the Ninevites and Jesus' role as a sign to his generation. 
 
 2. "Jonah's case was analogous to this, as being a signal judgment of God; reversed in three days; and followed by a glorious mission to the Gentiles." - This quote explains the significance of Jonah's story and how it foreshadows Jesus' resurrection and his mission to the Gentiles.
@@ -47,4 +47,4 @@ This verse depicts a remarkable event that parallels Jonah's experience with bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

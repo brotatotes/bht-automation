@@ -4,7 +4,7 @@
 In Hosea, there is a beautiful transformation from being rejected and not regarded as God's people to being lovingly adopted as His children. Through divine inclusion, both Jews and Gentiles can experience the privilege of being the beloved sons of the living God. This verse showcases God's sovereign plan of extending His favor to those who were once strangers, highlighting the depth of His love and care for His chosen ones. It teaches us about the inclusivity of God's kingdom and the intimate personal relationship between God and His people, ultimately revealing His divine adoption and redemption.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God." - This quote highlights the transformation from being rejected by God to being accepted as His children, emphasizing the gracious change announced in the verse.
 
 2. "The expression, 'in the place where...there,' seems designed only to give greater emphasis to the gracious change here announced." - This quote explains the purpose of the phrase "in the place where," emphasizing that it serves to emphasize the significant shift from exclusion to inclusion in the people of God.
@@ -49,4 +49,4 @@ Overall, these quotes shed light on the significance of the verse in Hosea and i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

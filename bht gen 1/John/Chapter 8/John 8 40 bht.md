@@ -4,7 +4,7 @@
 In this verse, Jesus confronts the crowd, asserting that their attempt to kill him goes against the actions of their revered ancestor, Abraham. The commentators emphasize the gravity of seeking to kill an innocent man who speaks the truth from God. They contrast the kindness and openness of Abraham with the crowd's hostility towards Jesus. Despite acknowledging his humanity, Jesus' claim to be a man does not diminish his divinity. This verse underscores the discrepancy between the people's claim to be children of God and their rejection of the truth embodied in Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In so doing ye act in direct opposition to him."
 2. "Ye act in direct opposition to him."
 3. "Ye act in direct opposition."
@@ -45,4 +45,4 @@ In this verse, Jesus confronts the crowd, asserting that their attempt to kill h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

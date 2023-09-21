@@ -4,7 +4,7 @@
 In this Bible verse, the commentators provide insights into the rationale behind Paul's counsel to Timothy regarding his consumption of wine. While it is not a call for complete asceticism, it is advised in acknowledgment of Timothy's physical condition and the need for moderation. The emphasis is on the use of a little wine for the sake of Timothy's health and well-being. Furthermore, this counsel serves to prevent misuse by others and maintain Timothy's purity and self-control. Ultimately, it is a practical exhortation to maintain bodily health while serving God and others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The presbyter and deacon were enjoined to be 'not given to wine' (1 Timothy 3:3; 1 Timothy 3:8)."
 2. "Paul therefore modifies the preceding words, 'keep thyself pure,' virtually saying, 'Not that I mean to enjoin that kind of purity which consists in asceticism, nay, be no longer a water-drinker.'"
 3. "Timothy was of a feeble frame and prone to timidity in his duties as overseer where vigorous action was needed; hence Paul exhorts him to take all proper means to raise his bodily condition above these infirmities."
@@ -43,4 +43,4 @@ In this Bible verse, the commentators provide insights into the rationale behind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

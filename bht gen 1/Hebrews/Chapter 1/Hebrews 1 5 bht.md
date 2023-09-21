@@ -9,7 +9,7 @@ In this verse, the writer establishes the superiority of the Son over the angels
 2. "The words must...be taken...to the neglect and almost the obliteration of their supposed lower reference."
 3. "The eternal generation of the Son of God...is to be taken only declaratively, and that declaration to be made in His resurrection, and exaltation over all, that ensued thereon."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ has a fourfold right to the title 'Son of God'; (1) By generation, as begotten of God; (2) By commission, as sent by God; (3) By resurrection, as 'the first-begotten of the dead'; (4) By actual possession, as heir of all." 
 2. "The triumph of David over Hadadezer and neighboring kings is a type of God's ultimately subduing all enemies under His Son, whom He sets on His 'holy hill of Zion,' as King of the Jews and of the whole earth."
 3. "He had been always Son, but now first was manifested as such in His once humbled, now exalted manhood united to His Godhead."
@@ -56,4 +56,4 @@ In this verse, the writer establishes the superiority of the Son over the angels
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

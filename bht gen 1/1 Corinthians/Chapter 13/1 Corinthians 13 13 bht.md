@@ -9,7 +9,7 @@ In this verse, Paul speaks of three enduring graces: faith, hope, and love. Acco
 2. "In the form of holy confidence and trust, faith will abide even there. The stay of all conscious created being, human or angelic, is dependence on God."
 3. "The greater, because it contains in itself the root of the other two: we believe only one whom we love, we hope only that which we love."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whereas it is the case that the three gifts, 'prophecy,' 'tongues,' and 'knowledge' (cited as specimens of the whole class of gifts) 'fail' (1 Corinthians 13:8), there abide permanently only these three—faith, hope, charity."
 2. "Charity, or love, alone never faileth (1 Corinthians 13:8)."
 3. "Even hereafter faith in the sense of trust in God 'abideth'; also 'hope,' in relation to ever new joys in prospect, and at the anticipation of ever increasing blessedness, sure never to be disappointed. But love alone in every sense 'abideth'; it is therefore 'the greatest' of the three."
@@ -55,4 +55,4 @@ Note: The commentary also mentions the comparison made by the Jews between humil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

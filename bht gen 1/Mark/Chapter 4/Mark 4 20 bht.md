@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the importance of understanding 
 2. "It is remarkable that the same is found in Matt., but in another form and order: one taking the climax, the other the anticlimax."
 3. "In Luke, the two are varied."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A heart soft and tender, stirred to its depths on the great things of eternity, and jealously guarded from worldly engrossments, such only is the 'honest and good heart' which 'keeps,' that is, 'retains' the seed of the word."
 2. "Such 'bring forth fruit with patience' or continuance, enduring to the end."
 3. "The 'thirtyfold' is designed to express the lowest degree of fruitfulness; the 'hundredfold' the highest; and the 'sixtyfold' the intermediate degrees of fruitfulness."
@@ -40,4 +40,4 @@ Note: The repeated references to Matthew 13:19 are not relevant to the task and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

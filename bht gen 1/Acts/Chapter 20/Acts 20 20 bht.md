@@ -9,7 +9,7 @@ This verse describes the dedication and commitment of a minister of the gospel t
 2. "In Heb 10:38 it is different."
 3. "τῶν συμφερ .] See reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "kept back—timidly withheld from fear of consequences."
 2. "nothing that was profitable—edification directing all."
 3. "have taught you publicly, and from house to house—Did an apostle, whose functions were of so wide a range, not feel satisfied without private as well as public ministrations?"
@@ -59,4 +59,4 @@ This verse describes the dedication and commitment of a minister of the gospel t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

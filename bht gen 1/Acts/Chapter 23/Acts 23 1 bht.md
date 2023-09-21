@@ -11,7 +11,7 @@ This Bible verse portrays Paul's unwavering gaze as he addresses the council wit
 
 3. "Thus πεπολίτευμαι τῷ θεῷ will have its full and proper meaning: and the words are no vain-glorious ones, but an important assertion of his innocence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul, earnestly beholding the council—with a look of conscious integrity and unfaltering courage."
 2. "I have lived in all good conscience before God until this day—The word has an indirect reference to the 'polity' or 'commonwealth of Israel,' of which he would signify that he had been, and was to that hour, an honest and God-fearing member."
 3. "Perhaps also recognizing some of his early fellow pupils."
@@ -50,4 +50,4 @@ This Bible verse portrays Paul's unwavering gaze as he addresses the council wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

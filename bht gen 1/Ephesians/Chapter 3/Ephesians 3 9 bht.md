@@ -9,7 +9,7 @@ The verse in question sheds light on the purpose and significance of the Gospel,
 2. "The dispensation of the mystery was now to be humbly traced and acknowledged in the fact of its having secretly existed in the primal counsels of God"
 3. "The concealment dated from the beginning of the ages, with the decree itself originating in God who created all things"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To make all see how it hath seemed good to God at this time to dispense (through me and others, His stewards) what heretofore was a mystery." 
 2. "The arrangement, or regulation, of the mystery (the union of Jews and Gentiles in Christ) which was now to be humbly traced and acknowledged in the fact of its having secretly existed in the counsel of God, and now having been revealed to the heavenly powers by means of the Church."
 3. "The 'ages' are the vast successive periods of time, marked by successive stages of creation and orders of beings."
@@ -57,4 +57,4 @@ The verse in question sheds light on the purpose and significance of the Gospel,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

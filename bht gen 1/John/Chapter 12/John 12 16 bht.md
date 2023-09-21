@@ -9,7 +9,7 @@ Amidst the events unfolding, the disciples found themselves in a state of confus
 2. "ταῦτα ἐποίησαν αὐτῷ viz. the going out to meet Him, strewing clothes and branches in the way, and shouting ‘Hosanna’ before Him: also perhaps, the setting Him on the ass, implied in the concise narrative."
 3. "Notice the thrice-repeated ταῦτα, each time signifying ‘this which was written by the Prophet,’ ‘the above citation.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit, descending on them from the glorified Saviour at Pentecost, opened their eyes suddenly to the true sense of the Old Testament."
 2. "Brought vividly to their recollection this and other Messianic predictions."
 3. "Showed them that they, and all the actors in these scenes, had been unconsciously fulfilling those predictions."
@@ -43,4 +43,4 @@ Amidst the events unfolding, the disciples found themselves in a state of confus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

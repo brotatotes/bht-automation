@@ -9,7 +9,7 @@ The verse being described is a powerful and encouraging reminder of the minister
 2. "We have renounced the hidden things of shame, not walking in craftiness nor adulterating the word of God."
 3. "By the manifestation of the truth, recommending ourselves to every conscience of men, in the sight of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because we have the liberty-giving Spirit of the Lord, and with unveiled face behold His glory."
 2. "The ministry of the Spirit: the ministry of such a spiritual, liberty-giving Gospel."
 3. "The sense of 'mercy' received from God, makes men active for God."
@@ -52,4 +52,4 @@ The verse being described is a powerful and encouraging reminder of the minister
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

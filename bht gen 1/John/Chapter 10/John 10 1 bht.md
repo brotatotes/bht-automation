@@ -9,7 +9,7 @@ The Bible verse being described is about the true and only shepherd, appointed, 
 2. "The sheep throughout this parable are not the mingled multitude of good and bad; but the real sheep, the faithful, who are, what all in the fold should be."
 3. "It is not the character of the flock, but that of the shepherd, and the relation between him and his sheep, which is here prominent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that entereth not by the door—the legitimate way (without saying what that was, as yet)."
 2. "climbeth up some other way—not referring to the assumption of ecclesiastical office without an external call, but to the want of a true spiritual commission, the seal of heaven going along with the outward authority."
 3. "it is the assumption of the spiritual guidance of the people without this that is meant."
@@ -43,4 +43,4 @@ The Bible verse being described is about the true and only shepherd, appointed, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

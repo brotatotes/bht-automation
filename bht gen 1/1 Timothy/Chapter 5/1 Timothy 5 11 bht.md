@@ -11,7 +11,7 @@ In this passage, the verse cautions against admitting younger widows into a part
 
 3. "Having devoted themselves to widowhood...they will thus be guilty of a dereliction of their deliberate promise" - The commentary explains that younger widows who abandon their commitment to widowhood and the duties associated with it are guilty of breaking their deliberate promise to live in devotion to Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Younger—than sixty years old" - This verse suggests that the age of a widow plays a role in whether they should be supported by the church. It implies that younger widows may be more capable of finding alternative means of support.
 2. "Wax wanton—literally, 'over-strong'" - This phrase highlights the potential danger of younger widows becoming too independent or self-reliant, which may lead them away from their commitment to Christ and the church.
 3. "Against Christ—rebelling against Christ, their proper Bridegroom" - This quote emphasizes the spiritual significance of widows choosing to remarry. It suggests that by doing so, they are turning away from their devotion to Christ and betraying their commitment to Him.
@@ -57,4 +57,4 @@ In this passage, the verse cautions against admitting younger widows into a part
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

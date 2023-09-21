@@ -9,7 +9,7 @@ The verse being described is a call for believers to abide in Christ, to maintai
 2. "The man saying that He abideth in Him ought... even as He walked".
 3. "Not any one particular of Christ's walk upon earth is here pointed at, but the whole of his life of holiness and purity and love".
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abideth—implying a condition lasting, without intermission, and without end."
 2. "He that saith . . . ought—so that his deeds may be consistent with his words."
 3. "Even as he—Believers readily supply the name, their hearts being full of Him."
@@ -52,4 +52,4 @@ These quotes emphasize the unbreakable bond between believers and Christ, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

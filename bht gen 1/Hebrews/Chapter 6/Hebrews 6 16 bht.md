@@ -9,7 +9,7 @@ The verse being described emphasizes the significance of an oath for confirmatio
 2. "And so Primas., Grot., Bengel, al.), and an (the in the case supposed: the art. is generic: cf. Matthew 13:3, ὁ σπείρων: John 12:24, ὁ κόκκος) oath is to them an end of all gainsaying."
 3. "And besides, in the only places where ἀντιλογία occurs in the N. T. (see reff.) it has the meaning ‘gainsaying:’ e. g. ch. Hebrews 7:7, χωρὶς πάσης ἀντιλογίας, without possibility of gainsaying."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The oath is to them, in respect to confirmation (of one's solemn promise or covenant; as here, God's), an end of all contradiction."
 2. "This passage shows: (1) an oath is sanctioned even in the Christian dispensation as lawful; (2) that the limits to its use are, that it only be employed where it can put an end to contradiction in disputes, and for confirmation of a solemn promise."
 3. "The oath is not to be joined to 'an oath,' but to 'an end'."
@@ -55,4 +55,4 @@ These quotes highlight the significance of God's oath in establishing the certai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

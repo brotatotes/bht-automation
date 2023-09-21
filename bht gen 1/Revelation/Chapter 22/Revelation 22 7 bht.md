@@ -4,7 +4,7 @@
 In this passage, the speaker is not explicitly identified, but the commentators highlight that the words spoken are those of the Lord himself. The verse speaks of the imminent return and fulfillment of Christ's promises. It emphasizes the urgency of being prepared for His coming and the importance of faithfully preserving and obeying the teachings of the Bible. This passage encourages believers to guard and hold fast to the message of the prophecy in the book, finding joy and blessings in keeping and adhering to its instructions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And" is omitted in Coptic and ANDREAS with English Version, but is inserted by A, B, Vulgate and Syriac.
 2. Blessed— ( :-).
 
@@ -46,4 +46,4 @@ In this passage, the speaker is not explicitly identified, but the commentators 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described highlights the eternal distinctness and unity of the W
 2. "This verse fixes the reference of αὐτοῦ in John 1:3, which might otherwise, after the mention of θεός, have seemed ambiguous."
 3. "In order to direct the mind to the difference (in unity) between this λόγος and ὁ θεός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "See what property of the Word the stress is laid upon—His eternal distinctness, in unity, from God—the Father."
 2. "The emphasis here is on the eternal nature of the Word, highlighting His distinctness from God the Father."
 3. "This verse underscores the eternal unity of the Word with God the Father, emphasizing their distinct yet inseparable nature."
@@ -57,4 +57,4 @@ The verse being described highlights the eternal distinctness and unity of the W
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

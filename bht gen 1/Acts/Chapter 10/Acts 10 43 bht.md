@@ -9,7 +9,7 @@ The testimony of the prophets in the Bible points to the significance of Jesus, 
 2. "To press such expressions to literal exactness is mere trifling."
 3. "The legal sacrifices, as well as the declarations of the prophets, all pointed to the remission of sins by faith in Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To him give all the prophets witness—that is, This is the burden, generally of the prophetic testimony."
 2. "But let this apostolic statement of the evangelical import of the Old Testament writings be devoutly weighed by those who are disposed to rationalize away this element in the Old Testament."
 3. "Whosoever believeth in him—This was evidently said with special reference to the Gentile audience then before him, and formed a noble practical conclusion to the whole discourse."
@@ -57,4 +57,4 @@ The testimony of the prophets in the Bible points to the significance of Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

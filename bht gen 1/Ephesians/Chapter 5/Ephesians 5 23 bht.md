@@ -4,7 +4,7 @@
 The husband is the head, governor, and protector of his wife, mirroring Christ's role as the head of the church. This entails providing, preserving, and protecting the family. Just as Christ is the Savior of the church, the husband is called to be a savior in a different sense, offering love, support, and salvation to his wife and family. It is through his leadership and sacrificial love that the family finds guidance, security, and spiritual growth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Christ's case, the Headship is united with, nay gained by, His having SAVED the body in the process of redemption."
 2. "I am not alleging Christ's Headship as one entirely identical with that other, for He has a claim to it, and office in it, peculiar to Himself."
 3. "The husband is not saviour of the wife, in which particular Christ excels."
@@ -54,4 +54,4 @@ The husband is the head, governor, and protector of his wife, mirroring Christ's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

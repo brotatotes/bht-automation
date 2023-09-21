@@ -11,7 +11,7 @@ Saul, who was known as an antagonist of the Christian faith, experienced a life-
 
 3. "The act of looking upon Jesus implies a recognition of his divinity and a personal encounter with him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of our fathers hath chosen thee" - This quote emphasizes the continuity between the old and new economies, highlighting that the new economy is not a separate entity but rather a continuation of God's plan. 
 
 2. "Studiously linking the new economy upon the old" - This quote suggests that there is a deliberate connection between the old and new economies, indicating that the new economy is built upon the foundation of the old. 
@@ -46,4 +46,4 @@ These quotes highlight the moment when Ananias, following God's command, approac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse that the commentators are discussing emphasizes the call for humility 
 2. "The negative in these clauses goes with the verb, not with the adjective." 
 3. "Each word retains its proper meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They who try to glory (boast) because of human greatness and wisdom, are 'confounded' or put to shame." 
 2. "Flesh, like 'the flower of the field,' is beautiful, but frail." 
 3. "We are to glory not before Him, but in Him."
@@ -52,4 +52,4 @@ The verse that the commentators are discussing emphasizes the call for humility 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

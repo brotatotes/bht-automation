@@ -9,7 +9,7 @@ In this Bible verse, Jesus speaks with authority as the one lawgiver, surpassing
 2. "All the punishments are spiritual; all result in eternal death; but with various degrees, as the degrees of guilt have been."
 3. "The words here mentioned must not be superstitiously supposed to have any damning power in themselves, but to represent states of anger and hostility, for which an awful account hereafter must be given."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is unreasonable to deny, as ALEXANDER does, that three degrees of punishment are here meant to be expressed, and to say that it is but a threefold expression of one and the same thing."
 2. "All three clearly refer to divine retribution, and that alone, for breaches of this commandment; though this is expressed by an allusion to Jewish tribunals."
 3. "Every age and every country has its modes of expressing such things; and no doubt our Lord seized on the then current phraseology of unholy disrespect and contempt, merely to express and condemn the different degrees of such feeling when brought out in words."
@@ -58,4 +58,4 @@ Note: The commentary is not provided in full, so the quotes may not flow seamles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

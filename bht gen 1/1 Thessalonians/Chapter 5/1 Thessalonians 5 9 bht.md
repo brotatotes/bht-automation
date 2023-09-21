@@ -9,7 +9,7 @@ According to the commentaries, this Bible verse emphasizes the contrast between 
 2. "περιποίησις, 'a keeping safe,' consisting in salvation." 
 3. "To make to remain over and above of salvation through our Lord Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact of God's 'appointment' of His grace 'through Jesus Christ' takes away the notion of our being able to 'acquire' salvation of ourselves."
 2. "Christ 'acquired (so the Greek for 'purchased') the Church (and its salvation) with His own blood.'"
 3. "In the primary sense, God does the work; in the secondary sense, man does it."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Near the Sheep Gate stood a pool, known as Bethesda, or the House of Mercy. This
 2. "The situation of this gate is unknown; it is traditionally supposed to be the same with that now called St. Stephen’s gate; but inaccurately, for no wall existed in that quarter till the time of Agrippa."
 3. "The spot now traditionally known as Bethesda is a part of the fosse round the fort or tower Antonia, an immense reservoir or trench, seventy-five feet deep."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sheep [gate]," mentioned in Nehemiah 3:1; Nehemiah 3:32.
 2. "Bethesda," meaning "house (place) of mercy," from the cures wrought there.
 3. "Five porches" provided shelter to the patients.
@@ -57,4 +57,4 @@ Near the Sheep Gate stood a pool, known as Bethesda, or the House of Mercy. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, there is a call to have a genuine and positive attitude in serving others, recognizing that our actions are ultimately directed towards God. This involves willingly and joyfully carrying out our responsibilities, not out of obligation or begrudgingly, but as an act of worship to God. It is a reminder to approach every aspect of our lives with the awareness of God's presence and to seek His guidance and approval in everything we do.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Good will" is the principal virtue of a slave towards his master, expressing a genuine regard for the master's interest as if it were their own.
 2. This "good will" is not easily extinguished, even in the face of a master's severity.
 3. It is important for slaves to do their master's will from the heart, showing a genuine and sincere desire to please their master.
@@ -56,4 +56,4 @@ In this verse, there is a call to have a genuine and positive attitude in servin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

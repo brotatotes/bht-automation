@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the divine nature of Jesus and the pro
 2. "The expression κυρίου is adopted from Psalms 110:1, which further emphasizes the divine nature of our Lord."
 3. "This use of κυρίου in reference to the unborn babe highlights the prophetic nature of the verse and points to the divine identity of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mother of my Lord" - This phrase emphasizes the divinity of Jesus and acknowledges Mary as the mother of the Son of God.
 2. "But not 'My Lady'" - This distinction highlights the unique role of Mary as the mother of Jesus, who is both fully human and fully divine.
 3. "Compare Luke 20:42; John 20:28" - By referencing these verses, the commentary suggests that Mary's title as "the mother of my Lord" is significant and sets her apart from any other title or honorific.
@@ -42,4 +42,4 @@ In this verse, the commentators emphasize the divine nature of Jesus and the pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus speaks of the inevitability and power of God's praise being
 2. "Not without reference to Habakkuk 2:11" - This indicates that the verse may have a connection or similarity to another verse in the Bible, potentially shedding light on its interpretation.
 3. "Probably" - This word implies that the connection to Habakkuk 2:11 is not definitive, leaving room for further exploration and interpretation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord had discouraged all demonstrations in His favor, but on this one occasion He seems to yield His whole soul to the wide and deep acclaim." 
 2. "He regarded the acclaim as a necessary part of His regal dignity as the Messiah entering the city."
 3. "If the multitude had not offered their praise, it would have been wrung out of the stones rather than be withheld."
@@ -38,4 +38,4 @@ In this verse, Jesus speaks of the inevitability and power of God's praise being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

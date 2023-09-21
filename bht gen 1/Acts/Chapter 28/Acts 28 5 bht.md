@@ -9,7 +9,7 @@ In this verse, we see the powerful imagery of Paul shaking off the venomous snak
 2. "A fortunate concurrence of accidents must have happened to the Apostles, totally unprecedented in history or probability."
 3. "None were so well qualified to judge of the virulence of the serpent, none so capable of knowing that the hanging on Paul’s hand implied the communication of the venom: yet they change him from a murderer into a god, on seeing what took place."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of shaking off the beast symbolizes the power and authority that believers have been given through Christ. It demonstrates the ability to overcome and conquer any obstacle or attack that comes their way."
 2. "This verse reminds us that as believers, we are not immune to trials and challenges. However, it reassures us that we have the power to resist and overcome them, just as Paul did with the venomous snake."
 3. "The fact that Paul felt no harm from the snake bite serves as a powerful reminder of God's protection and faithfulness towards His children. It is a testament to His promise to be with us and keep us safe in the midst of danger."
@@ -55,4 +55,4 @@ In this verse, we see the powerful imagery of Paul shaking off the venomous snak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

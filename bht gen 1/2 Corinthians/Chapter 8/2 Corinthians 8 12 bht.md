@@ -9,7 +9,7 @@ In this verse, it is made clear that our acceptability with God is not based on 
 2. "A willing mind is acceptable, not according to what it possesseth not." 
 3. "Readiness in God's service is accepted if its exertion be commensurate with its means."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "According to whatsoever it have"; the willing mind, or "readiness" to will, is personified [ALFORD].
 2. "He is accepted according to whatsoever he have"; so 2 Corinthians 8:11- :, The Lord loveth a cheerful giver."
 3. God accepts the will for the deed. He judges not according to what a man has the opportunity to do, but according to what he would do if he had the opportunity.
@@ -52,4 +52,4 @@ In this verse, it is made clear that our acceptability with God is not based on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

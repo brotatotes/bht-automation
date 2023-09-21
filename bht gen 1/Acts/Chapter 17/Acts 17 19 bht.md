@@ -9,7 +9,7 @@ In this verse, Paul stands before the prestigious court of judicature on the hil
 2. "It might be expected that on the hill of Mars the mind of the stranger would be impressed with the magnificence of the religion which he sought to overthrow."
 3. "Christianity advanced more meekly and surely: and though the immediate effect of the Apostle’s sermon was not great, the Parthenon in time became a Christian church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Areopagus, the hill where the most awful court of judicature had sat from time immemorial." 
 2. "No place in Athens was so suitable for a discourse on the mysteries of religion."
 3. "The apostle, however, was not here on his trial, but to expound more fully what he had thrown out in broken conversations in the Agora."
@@ -55,4 +55,4 @@ In this verse, Paul stands before the prestigious court of judicature on the hil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

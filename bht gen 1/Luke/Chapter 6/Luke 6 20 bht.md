@@ -9,7 +9,7 @@ This verse speaks to the state and duties of a disciple of Christ. It addresses 
 2. "To suppose that Luke’s report of this discourse refers only to this world’s poverty, &c. and the blessings to anticipated outward prosperity in the Messiah’s Kingdom is surely quite a misapprehension."
 3. "Comparing these expressions with other passages in Luke himself, we must have concluded, even without Matthew’s report, that they bore a spiritual sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The benediction is pronounced upon the 'poor in spirit' and those who 'hunger and thirst after righteousness.'"
 2. "In this form of the discourse, then, our Lord seems to have had in view 'the poor of this world, rich in faith, and heirs of the kingdom which God hath promised to them that love Him.'"
 3. "These very beatitudes are paraphrased by James."
@@ -43,4 +43,4 @@ This verse speaks to the state and duties of a disciple of Christ. It addresses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

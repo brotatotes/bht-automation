@@ -9,7 +9,7 @@ In this scripture, the consequences of not remaining connected to Jesus are vivi
 2. "Observe this is not said of the unfruitful branch, which the Father takes away (in judgment): but of one who will not abide in Christ, becomes separate from Him."
 3. "Finally, 'burneth;' not 'is burned,' in any sense of being consumed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If a man abide not in me, he is cast forth as a branch . . . withered . . . cast into the fire . . . burned" - This verse highlights the consequences of not remaining connected to Jesus. It serves as a warning that those who do not abide in Him will face spiritual death and eternal separation from God.
 
 2. "The one proper use of the vine is to bear fruit; failing this, it is good for one other thing—fuel." - This quote emphasizes the purpose of the vine, which is to bear fruit. It reminds us that our lives should be fruitful and productive, reflecting the character of Christ. Otherwise, we risk being discarded and used for a different purpose.
@@ -59,4 +59,4 @@ Note: The commentary is discussing John 15:6, which states, "If anyone does not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

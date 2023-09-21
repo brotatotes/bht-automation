@@ -4,7 +4,7 @@
 The verse being described reveals Jesus' understanding of his mission to suffer, be rejected, and ultimately be killed. It cautions against expecting immediate triumph and emphasizes the necessity of the Cross before the second coming. Jesus' suffering and rejection symbolize the reversal of human judgment and the purification of believers. The rejection by the world will continue until His return, but believers find comfort knowing their suffering is not in vain.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This shows that the more immediate reference of [the verse] is to an event soon to follow the death of Christ."
 2. "It was designed to withdraw the attention of 'His disciples' from the glare in which His foregoing words had invested the approaching establishment of His kingdom."
 3. "The disciples needed to understand that suffering and rejection were part of God's plan before the glory of His kingdom would be fully revealed."
@@ -46,4 +46,4 @@ These quotes highlight the suffering and rejection that Jesus had to endure, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we see the noblest purpose of love demonstrated by Christ, 
 2. "He bore our sins in His own body on the tree, taking them to the tree and offering them up on it."
 3. "By His stripe ye were healed, the weal left by a stripe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His voluntary undertaking of the work of redemption is implied."
 2. "In offering or presenting in sacrifice His body, Christ offered in it the guilt of our sins upon the cross, as upon the altar of God, that it might be expiated in Him, and so taken away from us."
 3. "That we should die to the sins whose collected guilt Christ carried away in His death, and so LIVE TO THE RIGHTEOUSNESS, the gracious relation to God which He has brought in."
@@ -53,4 +53,4 @@ In this Bible verse, we see the noblest purpose of love demonstrated by Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

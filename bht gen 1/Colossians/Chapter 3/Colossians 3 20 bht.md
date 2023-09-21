@@ -9,7 +9,7 @@ The Bible verse being described is a command for children to obey their parents 
 2. "It is best to take εὐάρεστον, as Mey. absolutely, as προσφιλῆ, Philippians 4:8; the Christian qualification being given by the ἐν κυρίῳ."
 3. "De W., al., understand τῷ θεῷ, which would render that qualification meaningless."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is acceptable to God when it is done in the Lord." 
 2. "Acceptable to God...from the principle of faith." 
 3. "As disciples in union with the Lord."
@@ -56,4 +56,4 @@ The Bible verse being described is a command for children to obey their parents 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

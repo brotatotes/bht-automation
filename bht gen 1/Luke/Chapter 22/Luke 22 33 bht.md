@@ -4,7 +4,7 @@
 In the face of impending temptation and potential harm, this Bible verse describes a disciple's unwavering loyalty and determination. The verse showcases the disciple's confidence in the face of Satan's temptations and his unshakable faith. Despite potential suffering, imprisonment, or even death, the disciple remains committed to his Lord, displaying a resolute refusal to be frightened or deny his faith. This verse conveys the depth of devotion and courage exemplified in the disciple's unwavering commitment to stand by his Master, even in the face of grave adversity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou shalt find them in the hour of temptation unstable as water."
 2. "I have been praying for thee, therefore thy faith shall not perish."
 3. "He that trusteth in his own heart is a fool."
@@ -30,4 +30,4 @@ In the face of impending temptation and potential harm, this Bible verse describ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

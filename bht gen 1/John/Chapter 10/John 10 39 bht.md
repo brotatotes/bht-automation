@@ -9,7 +9,7 @@ In this verse, Jesus is faced with a hostile crowd who continuously sought to se
 2. "They tried again to take Him into custody." 
 3. "He (miraculously?) withdrew Himself from them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They saw perfectly well that He meant to 'make Himself God' throughout all this dialogue."
 2. "True to their original understanding of His words."
 3. "He escaped out of their hand."
@@ -48,4 +48,4 @@ In this verse, Jesus is faced with a hostile crowd who continuously sought to se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

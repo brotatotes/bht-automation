@@ -9,7 +9,7 @@ In this passage, various commentators shed light on the concept of idols and thi
 2. "Or that an idol is any thing (real? e.g. that Jupiter is Jupiter in the sense of a living power)?"
 3. "But (I say) that the things which they (i.e. the Gentiles) sacrifice, they sacrifice to devils, and not to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What would I say then? that a thing sacrificed to an idol is any real thing (in the sense that the heathen regard it), or that an idol is any real thing?" - This quote highlights the question posed by Paul, challenging the notion that idols have any true reality or power.
 
 2. "But [I say] that the things which the Gentiles sacrifice, they sacrifice to devils (demons)." - This quote introduces the idea that while idols may not have inherent power, the worship and sacrifices offered to them are directed towards demons, who hold sway over heathendom.
@@ -52,4 +52,4 @@ In this passage, various commentators shed light on the concept of idols and thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

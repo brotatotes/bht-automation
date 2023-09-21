@@ -4,7 +4,7 @@
 In this verse, it is described that a powerful figure performs great signs and miracles, even making fire come down from heaven. These signs are not genuine, but rather deceptive and false. The purpose of these miracles is to establish a claim to supernatural power and influence over the world. These pretended signs aim to mimic the miraculous acts of the past, such as calling down fire from heaven, as done by prophets like Elijah. These false miracles are performed with the intention of deceiving and captivating those who witness them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "wonders—Greek, 'signs.'"
 2. "so great that."
 3. "maketh fire—Greek, 'maketh even fire.' This is the very miracle which the two witnesses perform, and which Elijah long ago had performed; this the beast from the bottomless pit, or the false prophet, mimics."
@@ -35,4 +35,4 @@ In this verse, it is described that a powerful figure performs great signs and m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

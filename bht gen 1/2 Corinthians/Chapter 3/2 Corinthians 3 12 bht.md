@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the hope and confidence that comes fro
 2. "we speak openly and freely, not holding back, not hiding anything, not fearing to strike your eyes, just as Moses did with the Jews."
 3. "we speak clearly, without reservation, without concealment, without hesitation, and we have no fear of striking your eyes, just as Moses did with the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "such hope—of the future glory, which shall result from the ministration of the Gospel" - This quote highlights the hope that comes from spreading the Gospel and the future glory that awaits those who believe in it.
 
 2. "plainness of speech—openness; without reserve" - This quote emphasizes the importance of speaking openly and honestly when sharing the Gospel, without holding anything back.
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize the hope and confidence that comes fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

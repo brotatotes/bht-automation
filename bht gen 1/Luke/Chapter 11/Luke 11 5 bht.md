@@ -9,7 +9,7 @@ In this verse, we see the power of prayer and the willingness of God to provide 
 2. "We must remember that all reluctance on the part of God to answer our prayers is not real, but apparent only, and arises from deeper reasons working for our good."
 3. "The reluctance in these two parables is real, arising from selfishness and contempt of justice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The heat in warm countries makes evening preferable to-day for travelling."
 2. "Midnight is everywhere a most unseasonable hour of call."
 3. "For that very reason it is here selected."
@@ -52,4 +52,4 @@ In this verse, we see the power of prayer and the willingness of God to provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

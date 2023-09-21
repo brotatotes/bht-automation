@@ -4,7 +4,7 @@
 Fear God and give glory to him, for the hour of his judgment has come. This call to reverence and honor God is accompanied by repentance, acknowledging Him as the only true God and Creator of all things. The response to this call is not only a matter of reverence and worship, but also turning away from unbelief, resisting the temptation to worship idols or beasts. It is a reminder to acknowledge the power, goodness, and wisdom of God in all things, as we worship Him who made the heavens, the earth, the sea, and all that is in them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear God—the forerunner to embracing the love of God manifested in the Gospel."
 2. "Repentance accompanies faith."
 3. "Give glory to him—and not to the beast."
@@ -38,4 +38,4 @@ Fear God and give glory to him, for the hour of his judgment has come. This call
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

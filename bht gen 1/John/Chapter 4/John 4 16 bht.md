@@ -9,7 +9,7 @@ In this verse, Jesus engages in conversation with a woman, aiming to convince he
 2. "The heart must first be laid bare before the Wisdom of God: the secret sins set in the light of His countenance; and this our Lord here does."
 3. "In every conversation which our Lord held with men, while He connects usually one remark with another by the common links which bind human thought, we perceive that He knows, and sees through, those with whom He speaks."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "arouse her slumbering conscience"
 2. "laying bare the guilty life she was leading"
 3. "bringing her sin vividly up before her"
@@ -59,4 +59,4 @@ In this verse, Jesus engages in conversation with a woman, aiming to convince he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

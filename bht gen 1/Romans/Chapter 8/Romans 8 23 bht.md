@@ -9,7 +9,7 @@ This verse speaks about the indwelling and influence of the Holy Spirit as a gua
 2. "the firstfruit of the Spirit, which consists in (the gift of) the Spirit"
 3. "we do not wait for it, but for the full manifestation of it, in our bodies being rescued from the bondage of corruption and sin"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the Spirit as the first-fruits" of our full redemption
 2. "though we have so much of heaven already within us"
 3. "groan within ourselves—under this 'body of sin and death,' and under the manifold 'vanity and vexation of spirit' that are written upon every object and every pursuit and every enjoyment under the sun"
@@ -48,4 +48,4 @@ This verse speaks about the indwelling and influence of the Holy Spirit as a gua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

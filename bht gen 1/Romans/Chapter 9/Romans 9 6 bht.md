@@ -9,7 +9,7 @@ The verse in question deals with the fulfillment of God's promise to Israel. The
 2. "For not all who are sprung from Israel...are Israel (veritably, and in the sense of the promise)."
 3. "St. Paul is asserting...the fact, that it was not broken."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not all they which are of Israel are Israel." 
 2. "The apostle enters upon the profound subject of ELECTION, the treatment of which extends to the end of the eleventh chapter." 
 3. "The difficulties which encompass this subject lie not in the apostle's teaching, which is plain enough, but in the truths themselves, the evidence for which, taken by themselves, is overwhelming."
@@ -55,4 +55,4 @@ The verse in question deals with the fulfillment of God's promise to Israel. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

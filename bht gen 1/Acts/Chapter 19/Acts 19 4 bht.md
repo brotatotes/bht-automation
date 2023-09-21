@@ -9,7 +9,7 @@ In this verse, we see the convergence of John the Baptist's role in preparing th
 2. "ἵνα does not give (as Meyer) the mere purpose of his baptism (saying that he baptized in order that …), but combines, as in similar uses of προσεύχομαι ἵνα and the like, the purport and purpose together."
 3. "‘He commanded them that they should (purport) and he spoke to them, that they might (purpose).’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The point of contrast is not between John and Christ personally, but between the water baptism of John unto repentance, and the promised baptism of the Spirit from the hands of his coming Master unto new life."
 2. "As to all the facts, or at least the significancy, of this baptism, which made the whole life and work of Christ another thing from what it was conceived to be before it was vouchsafed, these simple disciples were unenlightened."
 3. "The baptism of repentance with water was a preparation for the baptism of the Holy Spirit, which would bring about a new life in Christ."
@@ -48,4 +48,4 @@ In this verse, we see the convergence of John the Baptist's role in preparing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

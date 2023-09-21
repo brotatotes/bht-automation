@@ -9,7 +9,7 @@ In this Bible verse, the speaker is asserting their apostolic authority and call
 2. "A proof of my authority vouchsafed by Christ speaking in me."
 3. "The immediate execution, by divine power, of some punishment denounced by Paul's word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This disproves the assertion of some that Scripture nowhere asserts the infallibility of its writers when writing it."
 2. "Ye have no need to put me to the proof in this, as long ago Christ has exhibited great proofs of His power by me among you."
 3. "It is therefore not me, but Christ, whom ye wrong: it is His patience that ye try in despising my admonitions, and derogating from my authority."
@@ -51,4 +51,4 @@ These quotes highlight the evidence of Paul's apostleship among the Corinthians,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul demonstrates remarkable composure in the f
 2. The phrase can be compared to "τοὺς Συριστὶ ἐπισταμένους" which means "those who know Syriac." (Quote 37)
 3. There is no omission of the verb "λαλεῖν" which means "to speak." (Quote 37)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The form of the question implies that the answer is to be in the negative, and is a matter of some surprise."
 2. "The question highlights the irony of the situation, as the man who was thought to be an Egyptian turns out to be the apostle Paul."
 3. "This exchange serves as a reminder that appearances can be deceiving, and that we should not judge others based solely on their outward appearance."
@@ -57,4 +57,4 @@ In this Bible verse, the apostle Paul demonstrates remarkable composure in the f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a powerful admonition against the indulgence in sin
 2. "spots and blemishes, causing shame."
 3. "luxuriating in their deceits...in those things or materials of luxury, which they have fraudulently gotten."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perhaps it is implied, unrighteousness shall be its own reward or punishment."
 2. "Spots—in themselves. Blemishes—disgraces: bringing blame on the Church and on Christianity itself."
 3. "While partaking of the love-feast with you, they are at the same time luxuriating in their own deceivings."
@@ -55,4 +55,4 @@ Note: The commentary is about 2 Peter 2:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse captures the Apostle Paul's deep commitment to the Gospel. He is moti
 2. "That I may be a fellow-partaker of the blessings promised in the gospel to be brought by the Lord at His coming." 
 3. "Paul's actions are motivated by his desire to share in the blessings of the gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "partaker thereof—Greek, 'fellow partaker': of the Gospel blessings promised at Christ's coming"
 2. "with those thus 'gained' by me to the Gospel"
 3. "the Gospel blessings promised at Christ's coming"
@@ -47,4 +47,4 @@ This verse captures the Apostle Paul's deep commitment to the Gospel. He is moti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

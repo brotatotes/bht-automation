@@ -11,7 +11,7 @@ This verse describes a significant event during the Feast of Unleavened Bread, a
 
 3. "By observing the feast of unleavened bread, the Israelites were not only commemorating their past redemption, but also looking forward to the future fulfillment of God's promises."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the duties of life must give place to worship, worship, in its turn, must give place to them." 
 2. "Jerusalem is good, but Nazareth is good, too; let him who neglects the one, on pretext of attending to the other, ponder this scene." 
 3. "Accustomed to the discretion and obedience of the lad, they might be thrown off their guard."
@@ -54,4 +54,4 @@ This verse describes a significant event during the Feast of Unleavened Bread, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

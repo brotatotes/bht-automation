@@ -9,7 +9,7 @@ On a special day, Christians were encouraged to gather with the purpose of perfo
 2. "Let each of you lay up at home in store whatsoever he may by prosperity have acquired."
 3. "That there may not, when I come, THEN be collections to be made."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Christian Sabbath commemorates the respective works of the Three Persons of the Triune God—creation, redemption (the resurrection), and sanctification (on Pentecost the Holy Ghost being poured out)."
 2. "The word 'Remember' implies that it was in existence before the giving of the law from Sinai, and refers to its institution in Paradise."
 3. "A perpetual sabbath would doubtless be the highest Christian ideal; but living in a world of business where the Christian ideal is not yet realized, if a law of definite times was necessary in Paradise, it is still more so now."
@@ -50,4 +50,4 @@ These quotes highlight the universal responsibility of giving, the importance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

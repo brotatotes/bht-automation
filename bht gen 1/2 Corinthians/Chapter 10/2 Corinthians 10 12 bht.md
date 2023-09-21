@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the dangers of self-exaltation and
 2. "But (they), themselves measuring themselves by themselves, and comparing themselves with themselves, are not wise."
 3. "We do not venture, but we ourselves measure ourselves by ourselves and compare ourselves with ourselves, foolish as we are."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The charge falsely brought against him of commending himself, really holds good of the false teachers."
 2. "Instead of measuring themselves by the public standard, they measure themselves by one made by themselves: they do not compare themselves with others who excel them, but with those like themselves: hence their high self-esteem."
 3. "With all their boasted 'wisdom,' they are anything but 'wise.'"
@@ -57,4 +57,4 @@ In this verse, the commentators shed light on the dangers of self-exaltation and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

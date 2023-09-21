@@ -4,7 +4,7 @@
 In the city of Pergamos, where idolatry was rampant, Satan established his powerful and influential throne. The Christians in this city faced intense temptations and dangers, as they boldly resisted the worship of false gods and remained faithful to the name of Jesus even unto death. Despite living in a place where evil dwelled, this faithful church clung firmly to the truths of the Gospel, holding fast to their courage, strength, and devoted witness to Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan's seat—rather as the Greek is translated all through Revelation, 'throne.' Satan, in impious mimicry of God's heavenly throne, sets up his earthly throne."
 2. "Æsculapius was worshipped there under the serpent form; and Satan, the old serpent, as the instigator of fanatical devotees of Æsculapius, and, through them, of the supreme magistracy at Pergamos, persecuted one of the Lord's people (Antipas) even to death."
 3. "Antipas is another form for Antipater. SIMEON METAPHRASTES has a palpably legendary story, unknown to the early Fathers, that Antipas, in Domitian's reign, was shut up in a red-hot brazen bull, and ended his life in thanksgivings and prayers."
@@ -44,4 +44,4 @@ In the city of Pergamos, where idolatry was rampant, Satan established his power
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

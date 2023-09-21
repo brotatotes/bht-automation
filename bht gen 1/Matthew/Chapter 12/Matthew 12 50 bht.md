@@ -4,7 +4,7 @@
 In this verse, we see the members of a distinguished and enduring spiritual family, connected by faith and obedience to God's will. It emphasizes that the bonds of spiritual relationship surpass those of earthly connections. Christ considers those who enter this sacred circle as brothers, sisters, and even mothers to him. The verse highlights the significance of faith as the source of obedience and the covering of human imperfections. It also challenges believers to prioritize their spiritual relationship with Christ over their earthly ties. The assurance of Christ's presence and love should inspire believers to live holy lives.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There stand here the members of a family transcending and surviving this of earth."
 2. "Filial subjection to the will of My Father in heaven is the indissoluble bond of union between Me and all its members."
 3. "Whosoever enters this hallowed circle becomes to Me brother, and sister, and mother!"
@@ -30,4 +30,4 @@ In this verse, we see the members of a distinguished and enduring spiritual fami
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

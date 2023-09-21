@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the ultimate destiny and pur
 2. "the end of your faith (that, to which your faith ultimately looked forward: see, besides reff. Romans 6:21-22 . Cf. Æschyl. Choeph. 874, μάχης γὰρ δὴ κεκύρωται τέλος)"
 3. "salvation of (your) souls (the great inclusive description of future blessedness: the ψυχή being the central personality of the man. See reff.)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Receiving—in sure anticipation; 'the end of your faith,' that is, its crowning consummation, finally completed 'salvation'...also receiving now the title to it and the first-fruits of it." 
 2. "In 1 Peter 1:10 the 'salvation' is represented as already present, whereas 'the prophets' had it not as yet present. It must, therefore, in this verse, refer to the present: Deliverance now from a state of wrath: believers even now 'receive salvation,' though its full 'revelation' is future."
 3. "The immortal soul was what was lost, so 'salvation' primarily concerns the soul; the body shall share in redemption hereafter; the soul of the believer is saved already: an additional proof that 'receiving . . . salvation' is here a thing present."
@@ -47,4 +47,4 @@ The verse being described is a powerful reminder of the ultimate destiny and pur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

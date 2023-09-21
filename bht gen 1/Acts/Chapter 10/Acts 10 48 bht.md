@@ -9,7 +9,7 @@ In this Bible verse, the apostle Peter, following the example of Jesus and the p
 2. "Perhaps the same reason may have operated in both cases, lest those baptized by our Lord, or by the chief Apostles, should arrogate to themselves pre-eminence on that account."
 3. "The ministry of the Word was esteemed by them their higher and paramount duty and office, whereas the subordinate ministration of the ordinances was committed to those who διηκόνουν τραπέζαις."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He commanded them to be baptized—not doing it with his own hands, as neither did Paul, save on rare occasions." 
 2. "Prayed . . . him to tarry certain days—"golden days" [BENGEL], spent, doubtless, in refreshing Christian fellowship."
 3. "Imparting and receiving fuller teaching on the several topics of the apostle's discourse."
@@ -48,4 +48,4 @@ In this Bible verse, the apostle Peter, following the example of Jesus and the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

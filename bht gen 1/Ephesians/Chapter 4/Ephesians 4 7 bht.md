@@ -11,7 +11,7 @@ From various commentators, we learn that this Bible verse focuses on the distrib
 
 Note: The commentary is quite long and complex, so I have selected three quotes that provide a concise and meaningful understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Each one of us has assigned to him his own particular gift, to be used for the good of the whole: none is overlooked." 
 2. "None therefore can be dispensed with for the edifying of the Church." 
 3. "Unto each one of us was the grace given according to the measure of the gift of Christ."
@@ -61,4 +61,4 @@ Note: The commentary is quite long and complex, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

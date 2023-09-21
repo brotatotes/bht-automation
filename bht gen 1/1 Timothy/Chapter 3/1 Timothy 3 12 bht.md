@@ -11,7 +11,7 @@ The Bible verse being described encompasses the qualifications for deacons in th
 
 3. "The protection of children." - The responsibility of a deacon to care for and protect their own children is highlighted, as it reflects their ability to care for and protect the church community. (1Ti 3:12)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Husbands of one wife" is a qualification for leaders in the church, emphasizing the importance of marital faithfulness and commitment (1 Timothy 3:2).
 2. The mention of "ruling children" implies that having children to rule is seen as a qualification for leadership, highlighting the responsibility of leaders to manage their own families well (1 Timothy 3:4; Titus 1:6).
 3. The distinction between "their own houses" and "the Church of God" suggests that leaders should prioritize the well-being and order of their own families before taking on leadership roles in the church (Titus 1:6).
@@ -51,4 +51,4 @@ The Bible verse being described encompasses the qualifications for deacons in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the disciples compelling Jesus to stay with them through t
 2. "He did not prevaricate the strictness of simplicity and sincerity, because they were persons with whom He had made no contracts; to whom He had passed no obligation."
 3. "In the nature of the thing, it is proper and natural, by an offer, to give an occasion to another to do a good action: and in case it succeeds not, then to do what we intended not; and so the offer was conditional."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But for this, the whole design of the interview had been lost but it was not to be lost, for He who only wished to be constrained had kindled a longing in the hearts of His travelling companions which was not to be so easily put off." 
 2. "And does not this still repeat itself in the interviews of the Saviour with His loving, longing disciples?" 
 3. "Abide with me from morn to eve, For without Thee I cannot live; Abide with me when night is nigh, For without Thee I cannot die."
@@ -52,4 +52,4 @@ In this verse, we see the disciples compelling Jesus to stay with them through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

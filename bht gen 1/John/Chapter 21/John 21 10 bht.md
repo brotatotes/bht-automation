@@ -4,7 +4,7 @@
 In this verse, Jesus invites his disciples to bring some of the fish they caught and join in the meal. This emphasizes the partnership and collaboration between Jesus and his followers in fulfilling his mission. The disciples' obedience to Jesus' instructions serves as a reminder of the importance of following his guidance in our own lives. Additionally, the miraculous production of the fish highlights Jesus' power and authority, which can be seen as a symbol of bringing souls to Christ through the ministry of the word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observe the double supply thus provided—His and theirs." 
 2. "The meaning of this will perhaps appear presently." 
 3. "The double supply of fish symbolizes the abundance and provision that Jesus offers to his followers."
@@ -42,4 +42,4 @@ In this verse, Jesus invites his disciples to bring some of the fish they caught
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

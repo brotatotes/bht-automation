@@ -9,7 +9,7 @@ In this verse, we see that the early Christian communities faced persecution fro
 2. "The reason for introducing this character of the Jews here was because they had been the stirrers up of the persecution against himself and Silas at Thessalonica."
 3. "And this is a remarkable concidence with the history in the Acts, where we find him at this time, in Corinth, in more than usual conflict with the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Divine working is most of all seen and felt in affliction."
 2. "The Christian churches alone were not only in God, as the Jews in contrast to the Thessalonian idolaters were, but also in Christ, which the Jews were not."
 3. "Such sameness of fruits, afflictions, and experimental characteristics of believers, in all places and at all times, is a subsidiary evidence of the truth of the Gospel."
@@ -53,4 +53,4 @@ In this verse, we see that the early Christian communities faced persecution fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

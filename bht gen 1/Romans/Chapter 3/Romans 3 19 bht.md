@@ -9,7 +9,7 @@ The verse being described emphasizes the applicability of the Jewish Scriptures,
 2. "ὁ νόμος: Here, the whole O. T., the law, prophets, and Psalms: see John 10:34, where our Lord cites a Psalm as in ‘the law.’"
 3. "ἵνα: in order that not ‘so that:’ the bringing in all the world guilty before God is an especial and direct aim of the revelation of God’s justice in the law, that His grace by faith in Christ may come on all who abandon self-righteousness and believe the gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Scriptures, considered as a law of duty."
 2. "Every mouth - opened in self-justification."
 3. "All the world may become - be seen to be, and own itself - guilty."
@@ -55,4 +55,4 @@ The verse being described emphasizes the applicability of the Jewish Scriptures,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

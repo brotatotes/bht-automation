@@ -9,7 +9,7 @@ In this Bible verse, the writer, Paul, asserts his own authority and personal in
 2. "ἐπιείκεια, æquitas, magis refertur ad alios" (equity, fairness, refers more to others).
 3. "Who in personal appearance indeed (am) mean among you, but when absent am bold (severe, outspoken in blame) towards you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I beseech you" (a distinct Greek verb) for my sake.
 2. He entreats them by the meekness and gentleness of Christ, showing that he is naturally inclined to gentle measures after Christ's example.
 3. "Meekness" is more in the mind internally; "gentleness" in the external behavior, condescending yieldingness of a superior to an inferior.
@@ -57,4 +57,4 @@ These quotes provide insights into Paul's personal involvement, the false claims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

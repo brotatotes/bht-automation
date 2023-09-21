@@ -9,7 +9,7 @@ In this Bible verse, Jesus responds to accusations with calm dignity, denying be
 2. "The emphatic 'ἐγώ' followed by 'ὑμεῖς' only brings out the two parties into stronger contrast."
 3. "'Our mutual relation is not that, but this: that I honour Him that sent me, and ye, in dishonouring me, dishonour Him.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What calm dignity is here! Verily, 'when reviled, He reviled not again' (1 Peter 2:23)."
 2. "He adds not, 'Nor am I a Samaritan,' that He might not even seem to partake of their contempt for a race that had already welcomed Him as the Christ, and began to be blessed by Him."
 3. "The language of wounded feeling. But the interior of His soul at such moments is only to be seen in such prophetic utterances as these, 'For thy sake I have borne reproach shame hath covered my face; I am become a stranger unto my brethren, an alien unto my mother's children. For the zeal of thine house hath eaten me up, and the reproaches of them that reproached thee are fallen upon me' (Acts 26:25- :)."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus responds to accusations with calm dignity, denying be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described is a powerful reminder of the importance of faithfulne
 
 3. "The idea of such a reading being 'an alteration to remove a seeming roughness of style' is simply absurd, the roughness existing not in the received text and LXX, but in the expression 'to harden in trying.'" This commentary challenges the notion that the alternate reading was an attempt to smooth out the text, emphasizing that the roughness is actually present in the received text.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus is 'faithful,' be not ye unfaithful." (Hebrews 3:2; Hebrews 3:12)
 2. "The words of the latter are the words of God Himself." (Hebrews 3:12- :)
 3. "To-day—at length; in David's day, as contrasted with the days of Moses in the wilderness, and the whole time since then, during which they had been rebellious against God's voice." (Hebrews 3:12- :)
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the importance of faithfulne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

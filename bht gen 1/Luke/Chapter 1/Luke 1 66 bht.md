@@ -9,7 +9,7 @@ The verse described portrays the remarkable circumstances surrounding the birth 
 2. "ἄρα refers back to the circumstances which have happened. What then shall, &c."
 3. "καὶ γὰρ χεὶρ κ .…, a remark inserted by the Evangelist himself, not a further saying of the speakers in the verse before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hand of the Lord was with him—by special tokens marking him out as one destined to some great work" - This quote highlights that the presence of the Lord's hand on someone signifies their calling for a significant task.
 2. "hand of the Lord was with him" - This phrase emphasizes the divine guidance and support that the person receives from God.
 3. "Acts 11:21" - This reference suggests that the hand of the Lord is not limited to the Old Testament but is also seen in the New Testament, indicating the continuity of God's involvement in the lives of His chosen ones.
@@ -45,4 +45,4 @@ The verse described portrays the remarkable circumstances surrounding the birth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

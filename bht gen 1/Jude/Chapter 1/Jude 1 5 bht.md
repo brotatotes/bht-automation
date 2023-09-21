@@ -9,7 +9,7 @@ This description discusses a Bible verse without revealing its content. The vers
 2. "The Person designated by the two names being the same, they became sometimes convertibly used in popular exhortation." 
 3. "By this τὸ δεύτερον the former aor. part. is marked as being not contemporary with but antecedent to the aor. verb following."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I wish to remind you, as knowing ALL (namely, that I am referring to; so the oldest manuscripts, versions, and Fathers) once for all."
 2. "Christ is said to have accompanied the Israelites in the wilderness; so perfectly is Jesus one with the God of the Israelite theocracy."
 3. "Saved - brought safely, and into a state of safety and salvation."
@@ -54,4 +54,4 @@ This description discusses a Bible verse without revealing its content. The vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

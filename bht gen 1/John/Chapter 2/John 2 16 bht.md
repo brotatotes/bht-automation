@@ -9,7 +9,7 @@ In this Bible verse, Jesus enters the temple and openly proclaims His Messiahshi
 2. "Nathanael had named Him 'the Son of God' with this meaning."
 3. "These words, coupled with the expectation which the confession of John the Baptist would arouse, could leave no doubt on the minds of the Jews as to their import."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Only, when but a youth, with no authority, He was simply 'a SON IN His own house'; now He was 'a SON OVER His own house' (Hebrews 3:6), the proper Representative, and in flesh 'the Heir,' of his Father's rights."
 2. "There was nothing wrong in the merchandise; but to bring it, for their own and others' convenience, into that most sacred place, was a high-handed profanation which the eye of Jesus could not endure."
 3. "The same consciousness of intrinsic relation to the temple—as the seat of His Father's most august worship, and so the symbol of all that is due to Him on earth—dictating both speeches."
@@ -47,4 +47,4 @@ In this Bible verse, Jesus enters the temple and openly proclaims His Messiahshi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

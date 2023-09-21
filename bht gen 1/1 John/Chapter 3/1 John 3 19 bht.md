@@ -4,7 +4,7 @@
 True love is not just a matter of words but something that is embodied in our actions and demonstrated through sacrifices made for the good of others. Our hearts, as the seat of our feelings, act as witnesses, justifying or accusing us before God. Assurance of our faith is not meant to be an extraordinary occurrence but a regular experience for believers. Love is a manifestation of our true relationship with God, serving as evidence that we are born of the truth, and it brings peace and assurance in the presence of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having herein the truth radically, we shall be sure not to love merely in word and tongue." 
 2. "The 'heart,' as the seat of the feelings, is our inward judge; the conscience, as the witness, acts either as our justifying advocate, or our condemning accuser, before God even now." 
 3. "Assurance is designed to be the ordinary experience and privilege of the believer."
@@ -45,4 +45,4 @@ These quotes emphasize the importance of love as evidence of our faith and relat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

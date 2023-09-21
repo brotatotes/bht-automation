@@ -9,7 +9,7 @@ In this verse, the apostle challenges the wisdom and knowledge of the world, hig
 2. "The wise, the Jewish scribe, the Greek disputer."
 3. "Of this present (ungodly) world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God brings them to naught" - The commentary highlights that God nullifies the wisdom of the world, emphasizing His power and authority over human knowledge.
 2. "The wise" - This term refers to the general category of those who consider themselves wise, suggesting that their wisdom is futile in comparison to God's wisdom.
 3. "Shown the world's philosophy to be folly" - The commentary points out that the world's philosophy is exposed as foolishness because it lacks faith in Christ crucified, highlighting the superiority of Christian beliefs.
@@ -57,4 +57,4 @@ In this verse, the apostle challenges the wisdom and knowledge of the world, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

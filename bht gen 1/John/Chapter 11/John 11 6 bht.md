@@ -11,7 +11,7 @@ In the midst of the tension between love and delay, Jesus deliberately chose to 
 
 3. "Or at all events before the messenger returned." - This quote implies that Lazarus had already died by the time the messenger was sent to Jesus. It underscores the fact that Jesus knew about Lazarus' condition even before receiving the message.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beyond all doubt this was just to let things come to their worst, in order to display His glory."
 2. "But the ways of divine are not as the ways of human love. Often they are the reverse."
 3. "When His people are sick, in body or spirit; when their case is waxing more and more desperate every day; when all hope of recovery is about to expire—just then and therefore it is that 'He abides two days still in the same place where He is.'"
@@ -44,4 +44,4 @@ In the midst of the tension between love and delay, Jesus deliberately chose to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

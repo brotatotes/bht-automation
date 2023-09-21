@@ -9,7 +9,7 @@ The verse being described here emphasizes the importance of humility, unity, and
 2. "This spirit towards one another is not to be a spirit of haughtiness, but one of community and sympathy, condescending to men of low estate."
 3. "Being uplifted one against another would be a sign of this fault being present and operative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being of the same mind one toward another" - The feeling of the common bond which binds all Christians to each other, whatever diversity of station, cultivation, temperament, or gifts may obtain among them.
 
 2. "Cherish not ambitious or aspiring purposes and desires" - Do not mind high things, as this springs from selfish severance of our own interests and objects from those of our brethren.
@@ -57,4 +57,4 @@ The verse being described here emphasizes the importance of humility, unity, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

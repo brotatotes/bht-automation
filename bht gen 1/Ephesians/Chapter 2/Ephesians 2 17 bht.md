@@ -4,7 +4,7 @@
 In this verse, it is described how Jesus, after His resurrection, came and preached the message of peace. He proclaimed this peace through His ministers and the Holy Spirit, extending His reach beyond Himself. This message of peace was not limited to a specific group but was intended for all people, even the Gentiles who were considered distant from God. It emphasizes the transformative power of the preaching of peace, bringing reconciliation and harmony between God and humanity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He came" of His own free love.
 2. "Announced peace" with His own mouth to the apostles.
 3. "And peace to them." The repetition implies the joy with which both alike would dwell again and again upon the welcome word "peace."
@@ -47,4 +47,4 @@ In this verse, it is described how Jesus, after His resurrection, came and preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

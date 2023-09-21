@@ -9,7 +9,7 @@ This verse warns against the dangers of earthly, sensual, and devilish wisdom, w
 2. "Belonging to the unspiritual mind of man." 
 3. "It is from, not God, the giver of all true wisdom, but the devil, and bears the character of its author."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This wisdom—in which ye 'glory,' as if ye were 'wise'" - The commentary highlights the irony of boasting in earthly wisdom, which is not true wisdom at all. (James 3:13)
 
 2. "Earthly is what is IN the earth; earthy, what is of the earth." - The commentary explains the distinction between earthly and earthy, emphasizing that earthly wisdom is of this world and lacks divine illumination. (James 3:14)
@@ -59,4 +59,4 @@ This verse warns against the dangers of earthly, sensual, and devilish wisdom, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

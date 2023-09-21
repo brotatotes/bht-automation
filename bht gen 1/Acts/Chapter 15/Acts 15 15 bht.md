@@ -9,7 +9,7 @@ In this verse, the phrase "to this" signifies a broader context beyond just Jesu
 2. The phrase "οἱ λόγοι τῶν πρ." suggests that the words of the prophets are being referenced, highlighting their significance in relation to the verse.
 3. The use of the neuter gender in "τούτῳ" indicates a more general application, suggesting that the verse has wider implications beyond a specific individual.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The point of the passage lies in the predicted purpose of God, under the new economy, that 'the heathen' or 'Gentiles' should be 'called by His name,' or have 'His name called upon them.'"
 2. "By the 'building again of the fallen tabernacle of David,' or restoring its decayed splendor, is meant that only and glorious recovery which it was to experience under David's 'son and Lord.'"
 3. "The words of the prophets agree with this purpose, particularly those of Amos, as found in the Septuagint version."
@@ -48,4 +48,4 @@ In this verse, the phrase "to this" signifies a broader context beyond just Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

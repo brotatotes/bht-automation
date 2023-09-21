@@ -9,7 +9,7 @@ In this verse, we are reminded to examine the source of our beliefs and convicti
 2. "A little false doctrine corrupts the whole mass (of Christians)." 
 3. "A little false doctrine corrupts the whole mass (of Christians)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This persuasion—Greek, 'The persuasion,' namely, to which you are yielding. There is a play on words in the original, the Greek for persuasion being akin to 'obey.'"
 2. "This persuasion which ye have obeyed cometh not of—that is 'from.' Does not emanate from Him, but from an enemy."
 3. "The calling is the rule of the whole race [BENGEL]."
@@ -57,4 +57,4 @@ In this verse, we are reminded to examine the source of our beliefs and convicti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

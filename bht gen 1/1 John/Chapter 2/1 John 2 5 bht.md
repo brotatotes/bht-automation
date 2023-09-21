@@ -11,7 +11,7 @@ The Bible verse being described highlights the connection between obedience to G
 
 3. "In this we know that we are in Him." - This quote affirms that our progress towards the ideal state of obedience and love is evidence that we are in a relationship with God. It signifies that being in Him is the essence of the Christian life, characterized by fellowship with God and with fellow believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Him, verily (not as a matter of vain boasting) is the love of (that is towards) God perfected."
 2. "Love here answers to knowledge in 1 John 2:3- :. In proportion as we love God, in that same proportion we know Him, and vice versa, until our love and knowledge shall attain their full maturity of perfection."
 3. "His word—His word is one and comprises His 'commandments,' which are many."
@@ -55,4 +55,4 @@ Note: The commentary provided is a paraphrase of 1 John 2:5-6.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, a head of the beast is described as both wounded to death and then healed, signifying the rise and fall of the Roman Empire. The historical context of Rome's destruction and subsequent revival is emphasized, with its last emperor being forced to abdicate the throne. This revival led to the establishment of ten kingdoms, surrendering their power to the beast, symbolizing the rise of the Papacy. The extensive dominion and influence of the beast, representing antichrist, extended to the entire Roman Empire, debunking the claimed universality of the Papists as a mark of the true church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The beast's head is not changed into a human head, but receives a deadly wound, that is, the world kingdom which this head represents does not truly turn to God, but for a time its God-opposed character remains paralyzed."
 2. "No essential change is noticed in Daniel as effected by Christianity upon the fourth kingdom; it remains essentially God-opposed to the last."
 3. "A new and worse heathenism breaks in upon the Christianized world, more devilish than the old one of the first heads of the beast. The latter was an apostasy only from the general revelation of God in nature and conscience; but this new one is from God's revelation of love in His Son."
@@ -42,4 +42,4 @@ In this verse, a head of the beast is described as both wounded to death and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

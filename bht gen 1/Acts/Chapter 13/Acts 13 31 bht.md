@@ -9,7 +9,7 @@ This verse describes the post-resurrection appearances of Jesus to his disciples
 2. "Who are at this moment witnesses, living witnesses." 
 3. "I am not telling you a matter of the past merely, but one made present to the people of the Jews (τῷ λαῷ) by living and autoptic testimony."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He was seen many days of them" - This emphasizes the duration of Jesus' post-resurrection appearances, indicating that it was not a brief or isolated event. 
 
 2. "Those who...could not possibly be mistaken" - This highlights the credibility of the witnesses, as they had been with Jesus throughout His entire ministry and were intimately familiar with Him. 
@@ -54,4 +54,4 @@ This verse describes the post-resurrection appearances of Jesus to his disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, a courageous and violent Stephen is stoned, yet he remains meekly
 2. "The same prayer in substance had been made by our Lord on the cross (ref. Luke) to His Father. To Him was now committed the key of David."
 3. "Similarly, the young man Saul, in after years: πέπεισμαι ὅτι δυνατός ἐστιν τὴν παραθήκην μου φυλάξαι εἰς ἐκείνην τὴν ἡμέραν, 2 Timothy 1:12."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sense is perfectly clear without any supplement at all—"calling upon [invoking] and saying, Lord Jesus"; Christ being the Person directly invoked and addressed by name."
 2. "Even GROTIUS, DE WETTE, MEYER, c., admit this, adding several other examples of direct prayer to Christ."
 3. "In presenting to Jesus the identical prayer which He Himself had on the cross offered to His Father, Stephen renders to his glorified Lord absolute divine worship, in the most sublime form, and at the most solemn moment of his life."
@@ -57,4 +57,4 @@ In this verse, a courageous and violent Stephen is stoned, yet he remains meekly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

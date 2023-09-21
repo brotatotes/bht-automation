@@ -9,7 +9,7 @@ The verse described in these commentaries emphasizes the power and influence of 
 2. "If of horses we put bits into the mouths, in order to their obeying us, we turn about also their whole body."
 3. "In turning the bit one way or the other, we turn about their whole body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now whensoever (in the case) of horses (such is the emphatic position of "horses" in the Greek) we put the bits (so literally, "the customary bits") into their mouths that they may obey us, we turn about also their whole body."
 2. "This is to illustrate how man turns about his whole body with the little tongue."
 3. "The same applies to the pen, which is the substitute for the tongue among the absent."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite fragmented and lacks coherent explanation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

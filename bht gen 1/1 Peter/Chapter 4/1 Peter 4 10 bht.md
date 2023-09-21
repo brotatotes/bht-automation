@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the idea of believers as stewards of 
 2. "The καθώς has no reference to the manner of reception, 'Sicut gratis accepimus, ita gratis demus,' Lorinus in Huther."
 3. "The ἑαυτούς here brings up strikingly the idea that all are members of one body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit's gifts are the common property of the Christian community, each Christian being but a steward for the edifying of the whole, not receiving the gift merely for his own use."
 2. "Minister the same, not discontentedly envying or disparaging the gift of another."
 3. "In seeking the good of other members, they are promoting the good of themselves."
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the idea of believers as stewards of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

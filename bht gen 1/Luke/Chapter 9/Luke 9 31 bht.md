@@ -9,7 +9,7 @@ The verse being described discusses a significant event in the life of Jesus. It
 2. "πληροῦν to fulfil by divine appointment." 
 3. "His death was not a random event, but a fulfillment of God's plan."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A dying Messiah is the great article of the true Jewish theology."
 2. "The adoring gratitude of glorified men for His undertaking to accomplish such a decease."
 3. "In virtue of that decease we are here; our all is suspended on it and wrapped up in it."
@@ -38,4 +38,4 @@ The verse being described discusses a significant event in the life of Jesus. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

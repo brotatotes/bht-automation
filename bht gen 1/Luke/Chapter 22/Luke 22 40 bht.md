@@ -4,7 +4,7 @@
 In a garden filled with sorrow, Jesus pours out his soul, seeking solace and communion with God before his ultimate sacrifice. Gethsemane becomes a metaphor for his internal struggle, a place where his humanity is unveiled as he grapples with the weight of his mission. Despite the fear and sorrow, Jesus remains committed, showing us the true meaning of sacrifice and obedience. The garden of Gethsemane symbolizes the immense love and compassion Jesus has for us as he willingly lays down his life for our salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My soul is exceeding sorrowful even unto death"—"I feel as if nature would sink under this load, as if life were ebbing out, and death coming before its time"—"tarry ye here, and watch with Me"; not, "Witness for Me," but, "Bear Me company." It did Him good, it seems, to have them beside Him.
 2. "Thy will be done!" - Jesus' ultimate surrender to the Father's will, even in the face of the revolting nature of His impending death.
 3. "The bitterness of death is past." He has anticipated and rehearsed His final conflict, and won the victory—now on the theater of an invincible will, as then on the arena of the Cross. "I will suffer," is the grand result of Gethsemane: "It is finished" is the shout that bursts from the Cross.
@@ -48,4 +48,4 @@ In a garden filled with sorrow, Jesus pours out his soul, seeking solace and com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

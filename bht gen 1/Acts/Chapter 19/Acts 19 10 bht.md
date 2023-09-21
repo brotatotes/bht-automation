@@ -9,7 +9,7 @@ During this period, the ministry of Paul in Ephesus was not limited or hindered.
 2. "His own expression... implies that it was longer than from this chapter would at first sight appear."
 3. "To this long teaching of Paul the seven churches of Asia owe their establishment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The passage across was quite a short one" - This quote suggests that there was a quick journey made by the author during the period mentioned, indicating a potential unrecorded visit to Corinth.
 2. "The unwearied and varied character of his labors here are best seen in his own subsequent address to the elders of Ephesus" - This quote highlights the dedication and diverse efforts made by the author during his time in Ephesus, as evidenced by his address to the elders.
 3. "Churches arose at Colosse, Laodicea, and Hierapolis eastward, either through his own labors or those of his faithful helpers" - This quote showcases the impact of the author's work, as churches were established in various locations through his own efforts or those of his trusted companions.
@@ -57,4 +57,4 @@ During this period, the ministry of Paul in Ephesus was not limited or hindered.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

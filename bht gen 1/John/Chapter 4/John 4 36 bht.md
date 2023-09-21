@@ -9,7 +9,7 @@ The verse being described speaks of the rewards and joy that come from laboring 
 2. "The βρῶσις of the σπείρων was His joy already begun in His heavenly work." 
 3. "See Mat 20:1-16 and notes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'wages' here can be no other than the joy of having such a harvest to gather in—the joy of 'gathering fruit unto life eternal.'" 
 2. "The blessed issue of the whole ingathering is the interest alike of the sower as of the reaper...just as there can be no reaping without previous sowing."
 3. "The joy, therefore, of the great harvest festivity will be the common joy of all who have taken any part in the work from the first operation to the last."
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the significance of soul-winning, the person
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ A powerful and persuasive debater, Apollos engaged in compelling arguments again
 2. "Continuity...not done once or twice, but continuously:" This emphasizes that the arguments were not sporadic but ongoing, suggesting a persistent and consistent opposition.
 3. "Proved it in their teeth:" This vivid expression conveys the idea of forcefully refuting or contradicting something, indicating a strong and determined opposition.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Stoutly bore them down in argument," - This phrase highlights the strength and conviction with which the speaker convinced the Jews, emphasizing the forcefulness of their arguments.
 
 2. "Showing by the scriptures that Jesus was Christ" - This quote emphasizes the use of scripture to demonstrate that Jesus was the Messiah, indicating a deeper and more comprehensive testimony than initially expected.
@@ -50,4 +50,4 @@ A powerful and persuasive debater, Apollos engaged in compelling arguments again
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

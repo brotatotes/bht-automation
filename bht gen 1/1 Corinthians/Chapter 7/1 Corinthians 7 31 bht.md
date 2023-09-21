@@ -9,7 +9,7 @@ The commentators provide insights into a Bible verse that encourages a balanced 
 2. "I would render them, and they who use the world, as not using it in full."
 3. "For the fashion of this world is passing away, is in the act being changed, as a passing scene in a play."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are to use it, 'not to take our fill' of its pursuits as our chief aim." 
 2. "As the planets while turning on their own axis, yet revolve round the sun; so while we do our part in our own worldly sphere, God is to be the center of all our desires." 
 3. "The image is drawn from a shifting scene in a play represented on the stage."
@@ -49,4 +49,4 @@ These quotes highlight the importance of using worldly possessions responsibly, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The miracle of feeding a large crowd with just a few loaves of bread and fish is
 2. "The laxer use of ἀνδρῶν occurs Luke 11:31, and James 1:20."
 3. "Wordsw. sees in the 5000 ἄνδρες a fulfilment of the prophecy contained in the miracle of feeding the 5000."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The number of the men" refers to the count of males, excluding women. (Commentary on verse 4)
 2. The fact that there were about five thousand believers in Jerusalem is significant, considering the city's ability to detect any deception or fanaticism. (Commentary on verse 4)
 3. The presence of such a large number of believers in Jerusalem indicates that there must have been strong evidence or compelling reasons for them to embrace the message. (Commentary on verse 4)
@@ -58,4 +58,4 @@ The miracle of feeding a large crowd with just a few loaves of bread and fish is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

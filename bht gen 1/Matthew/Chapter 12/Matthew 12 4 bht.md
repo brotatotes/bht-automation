@@ -11,7 +11,7 @@ In this verse, we see a unique situation where someone not ordained as a priest,
 
 3. "By using εἰ μή, the author is highlighting the uniqueness of the situation and emphasizing that there are no other possibilities or alternatives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man after God's own heart, of whom the Jews ever boasted, when suffering in God's cause and straitened for provisions, asked and obtained from the high priest what, according to the law, it was illegal for anyone save the priests to touch."
 2. "Yet there is not a little confusion in what is said of these priests in different parts of the Old Testament."
 3. "Ahimelech was soon succeeded by Abiathar, whose connection with David, and prominence during his reign, may account for his name, rather than his father's, being here introduced."
@@ -35,4 +35,4 @@ In this verse, we see a unique situation where someone not ordained as a priest,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

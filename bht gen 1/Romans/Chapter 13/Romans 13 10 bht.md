@@ -11,7 +11,7 @@ This verse conveys the message that love serves as the ultimate fulfillment of t
 
 3. "Love fulfills the law by abstaining from that which the law forbids."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love worketh no ill to his—or, 'one's'—neighbour." This reminds us that love is not only about doing good to others, but also about refraining from causing harm. It challenges us to consider the impact of our actions on those around us and to act with kindness and compassion.
 
 2. "As love, from its very nature, studies and delights to please its objects, its very existence is an effectual security against our wilfully injuring him." This highlights the inherent nature of love to seek the well-being and happiness of others. When we truly love someone, we naturally strive to avoid causing them harm or pain.
@@ -58,4 +58,4 @@ Note: The commentary is based on Romans 13:10.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

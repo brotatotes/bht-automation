@@ -9,7 +9,7 @@ Based on the commentaries, the Bible verse under consideration exposes the decep
 2. "The ever-shifting passion for change in doctrine and manner of teaching, which is the eminent characteristic of these captives to designing spiritual teachers."
 3. "They are evermore learning, always with some new point absorbing them, which seems to them the most important, to the depreciation of what they held and seemed to know before."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A bad conscience leads easily to shipwreck of faith."
 2. "The running after fashionable men and fashionable tenets, drawing them in the most opposite directions."
 3. "The false teachers promise ease of conscience if they will follow them."
@@ -58,4 +58,4 @@ These quotes shed light on the tactics and consequences of deception, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

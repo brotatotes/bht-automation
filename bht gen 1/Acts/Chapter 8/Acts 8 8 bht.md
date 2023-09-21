@@ -4,7 +4,7 @@
 In a city, the Gospel wields transformative power, bringing profound joy and lasting change to the individuals and community. Witnessing conversions to Christ, families and friends rejoice with immense joy, knowing their loved ones have found spiritual fulfillment. This joy, rooted in faith and God's favor, surpasses all understanding, fueling a deep and lasting joy that stems from both the salvation of souls and physical healings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel has the power to bring about a profound transformation in a city, filling it with great joy." 
 
 2. "The joy experienced in the city is not merely superficial or temporary, but it is a result of the deep and lasting change that the Gospel brings." 
@@ -32,4 +32,4 @@ In a city, the Gospel wields transformative power, bringing profound joy and las
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

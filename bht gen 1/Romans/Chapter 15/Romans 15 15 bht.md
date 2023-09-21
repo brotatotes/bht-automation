@@ -9,7 +9,7 @@ The author of the letter wrote with boldness and authority, guided by their role
 2. "ἔγραψα, the dabam or scribebam of the Latins in epistolary writing."
 3. "ὡς ἐπαν...ὑμ., as putting you anew in remembrance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nevertheless, I have written the more boldly unto you in some sort" - The author acknowledges that their words may come across as bold or assertive, but they have a purpose behind it. 
 
 2. "Putting you in mind" - The author's intention is to remind the readers of something important, to bring their attention back to a particular matter. 
@@ -61,4 +61,4 @@ The author of the letter wrote with boldness and authority, guided by their role
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

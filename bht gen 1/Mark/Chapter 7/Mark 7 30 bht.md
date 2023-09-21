@@ -9,7 +9,7 @@ A tormented woman, plagued by an evil spirit, seeks peace but is unable to find 
 2. "The evil spirit prevented her from experiencing peace." 
 3. "The woman was unable to find rest and tranquility due to the torment caused by the evil spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wonderfulness of this case in all its features has been felt in every age of the Church." 
 2. "The balm it has administered, and will yet administer, to millions will be known only in that day that shall reveal the secrets of all hearts."
 3. "Deaf and Dumb Man Healed."
@@ -33,4 +33,4 @@ A tormented woman, plagued by an evil spirit, seeks peace but is unable to find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The quotation describes a scene where Jesus confronts the hypocrisy of the Scrib
 
 3. "They were in a dilemma, and either answer would have convicted them." - This statement reveals the predicament faced by those questioned, as any response would expose their hypocrisy or lack of compassion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To neglect any opportunity of doing good is to incur the guilt of doing evil."
 2. "Our Lord teaches the great ethical principle."
 3. "By this law He bound His own spirit."
@@ -44,4 +44,4 @@ The quotation describes a scene where Jesus confronts the hypocrisy of the Scrib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

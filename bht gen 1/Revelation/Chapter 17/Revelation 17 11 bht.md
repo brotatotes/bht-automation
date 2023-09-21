@@ -4,7 +4,7 @@
 The Bible verse being described is about a powerful entity, referred to as the beast or the eighth, which embodies intense opposition to God and is connected to a previous empire. Commentators believe that this power takes different forms throughout history and is often associated with a personal Antichrist and the papacy. It is seen as a symbol of evil and its ultimate destruction is seen as a symbol of the end it is hastening towards.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Antichrist manifested in fullest and most intense opposition to God."
 2. "That a personal Antichrist will stand at the head of the Antichristian kingdom."
 3. "The eighth is not merely one of the seven restored, but a new power or person proceeding out of the seven, and at the same time embodying all the God-opposed features of the previous seven concentrated and consummated."
@@ -35,4 +35,4 @@ Note: The given commentary is a specific interpretation of the verse and may not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

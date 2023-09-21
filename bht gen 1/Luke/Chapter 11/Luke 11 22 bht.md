@@ -4,7 +4,7 @@
 This verse describes Christ as the triumphant champion over Satan, surpassing him in power and authority. It highlights Christ's role in creation, redemption, and conversion, showcasing his ability to overcome and defeat the enemy. Through his victory in the wilderness, at the cross, and in the conversion of souls, Christ ensures that Satan can never regain his dominion over humanity. The verse also portrays Christ as the one who spoils Satan's domain, liberating hearts and minds from his control and transforming them into trophies of victorious grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorious title, in relation to Satan!"
 2. "Sublimely expressing the Redeemer's approach, as the Seed of the woman, to bruise the Serpent's head."
 3. "Vain would be the victory, were not the means of regaining his lost power wrested from him."
@@ -33,4 +33,4 @@ These quotes shed light on the power dynamics between Jesus and Satan, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

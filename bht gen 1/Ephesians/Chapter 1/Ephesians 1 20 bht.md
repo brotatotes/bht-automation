@@ -4,7 +4,7 @@
 The verse being described speaks of the resurrection and exaltation of Christ, displaying divine power and victory over death. Commentators highlight the significance of Christ's resurrection, not only as a future hope for believers but also as a present reality that spiritually impacts believers. Christ's resurrection is described as a mirror that reveals God's grace and power, and it serves as a pledge of the believer's bodily resurrection. Furthermore, Christ's exaltation involves ruling over His enemies and receiving honor and glory at the right hand of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The raising of Christ is not only an earnest of our bodies being hereafter raised, but has a spiritual power in it involving the resurrection, spiritually of the believer's soul now, and, consequently, of his body hereafter."
 2. "The Son, too, as God (though not as man), had a share in raising His own human body."
 3. "Where He remains till all His enemies have been put under His feet. Being appointed to 'rule in the midst of His enemies' during their rebellion, He shall resign His commission after their subjection."
@@ -50,4 +50,4 @@ Note: The commentary is on Ephesians 1:20.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

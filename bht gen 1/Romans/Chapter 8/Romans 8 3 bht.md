@@ -9,7 +9,7 @@ The Bible verse describes how the law of Moses was unable to conquer our sinful 
 2. "The flesh whose attribute and character was SIN. The gen. is not = ἁμαρτωλοῦ, but implies far more [not merely the contamination by, but] the belonging to and being possessed by."
 3. "We must then look for the meaning of κατακρίνειν in the effects and accompaniments of condemnation, victory over, and casting out of sin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law could irritate our sinful nature into more virulent action, but it could not secure its own fulfilment."
 2. "He took our nature as it is in us, compassed with infirmities, with nothing to distinguish Him as man from sinful men, save that He was without sin."
 3. "In this glorious sense our Lord says of His approaching death, 'Now is the judgment of this world; now shall the prince of this world be cast out,' and again, 'When He shall come, He shall convince the world of... judgment, because the prince of this world is judged,' that is, condemned to let go his hold of men, who, through the Cross, shall be emancipated into the liberty and power to be holy."
@@ -56,4 +56,4 @@ The Bible verse describes how the law of Moses was unable to conquer our sinful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

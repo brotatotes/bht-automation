@@ -11,7 +11,7 @@ In this Bible verse, it is highlighted that God did not approve of the whole bur
 
 3. "The construction of εὐδοκέω with an accus. is not unfrequent in the LXX and Hellenistic Greek" - The commentary points out that the construction of εὐδοκέω (approve) with an accusative is not uncommon in the Septuagint (LXX) and Hellenistic Greek. This linguistic observation provides further support for the interpretation of God's disapproval of the offerings mentioned in the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God had pleasure in them, in so far as they were an act of obedience to His positive command under the Old Testament, but not as having an intrinsic efficacy such as Christ's sacrifice had."
 2. "These burnt offerings could not in themselves atone for sin."
 3. "Contrast: Christ's sacrifice had an intrinsic efficacy that the burnt offerings lacked."
@@ -46,4 +46,4 @@ In this Bible verse, it is highlighted that God did not approve of the whole bur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

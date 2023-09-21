@@ -9,7 +9,7 @@ The Bible verse being described is about the importance of speaking with grace, 
 2. "Grace, as the grace which is conferred on us from above, and which our words and actions should reflect."
 3. "Salt symbolizing the unction, freshness, and vital briskness which characterizes the Spirit’s presence and work in a man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even the smallest leaf of the believer should be full of the sap of the Holy Spirit." 
 2. "His conversation should be cheerful without levity, serious without gloom."
 3. "The believer's speech should be seasoned with the savor of fresh and lively spiritual wisdom and earnestness, excluding all 'corrupt communication' and tasteless insipidity."
@@ -59,4 +59,4 @@ Note: The commentary did not provide any additional quotes that meet the require
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

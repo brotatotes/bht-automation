@@ -9,7 +9,7 @@ In this Bible verse, believers are urged to live their lives with the purpose of
 2. "In all things, eating or drinking, or any other particular of conduct, the glory of God is to be the aim."
 3. "Self-regard being set aside."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The godly may 'eat and drink,' and it shall be well with him." (Jeremiah 22:15; Jeremiah 22:16) - This quote highlights the contrast between the godly and worldly individuals, emphasizing that the righteous can enjoy the blessings of life while still pleasing God.
 
 2. "To the glory of God" (Colossians 3:17; 1 Peter 4:11) - This quote reminds us that our actions should always be directed towards bringing glory to God, serving as a guiding principle in our daily lives.
@@ -54,4 +54,4 @@ In this Bible verse, believers are urged to live their lives with the purpose of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

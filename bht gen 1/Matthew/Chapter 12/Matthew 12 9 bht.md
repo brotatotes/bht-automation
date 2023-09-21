@@ -9,7 +9,7 @@ In this passage, Jesus challenges the religious leaders' strict interpretation o
 2. "The words here point to a journey undertaken, as in Matthew 11:1; Matthew 15:29, the only other places in this Gospel where the expression occurs."
 3. "So that certainly it is not implied here (as Meyer, a., suppose) that the incident took place on the same day as the previous one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had now, no doubt, arrived in Galilee; but this, it would appear, did not occur at Capernaum, for after it was over, He 'withdrew Himself,' it is said 'to the sea' (Mark 3:7), whereas Capernaum was at the sea."
 2. "And, behold, there was a man which had his hand withered—disabled by paralysis (as in Mark 3:7- :). It was his right hand, as Luke (Mark 3:7- :) graphically notes."
 3. "They were now come to the length of dogging His steps, to collect materials for a charge of impiety against Him. It is probable that it was to their thoughts rather than their words that Jesus addressed Himself in what follows."
@@ -46,4 +46,4 @@ In this passage, Jesus challenges the religious leaders' strict interpretation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

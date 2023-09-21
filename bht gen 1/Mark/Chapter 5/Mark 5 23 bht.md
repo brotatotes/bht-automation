@@ -9,7 +9,7 @@ Based on the provided commentaries, the Bible verse described portrays a despera
 2. "It is branded as an idiom of lower Greek by Phrynichus."
 3. "To do this without any filling up, 'My daughter is, &c., in order that,' &c., is far-fetched, and savours too much of the sentimental."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "According to a well-known rabbin, quoted by LIGHTFOOT, a daughter, till she had completed her twelfth year, was called 'little,' or 'a little maid'; after that, 'a young woman.'" 
 2. "Matthew (Matthew 9:18) gives it thus: 'My daughter is even now dead'—'has just expired.'" 
 3. "In one of the class to which this man belonged, so steeped in prejudice, such faith would imply more than in others."
@@ -40,4 +40,4 @@ Note: The commentary provided does not reference a specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse in question addresses the importance of clarity and distinction in bot
 2. "The renderings, ‘even things without life’ (E. V.), or ‘things which, though without life, yet give sound’ (Winer, edn. 6, § 61. 5. f.), are inadmissible."
 3. "If they (the ἄψυχα φ . δ .) shall not have yielded a distinction (of musical intervals) in their tones, how shall be known that which is being played on the flute or that which is being played on the harp?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And things without life-giving sound, whether pipe or harp, YET (notwithstanding their giving sound) if they give not a distinction in the tones (that is, notes) how?" - This quote highlights the importance of distinction in the tones or notes produced by musical instruments, emphasizing the need for clarity and precision in communication.
 
 2. "What is piped or harped—that is, what tune is played on the pipe or harp." - This quote clarifies that the phrase "what is piped or harped" refers to the specific tune or melody being played on the musical instruments. It emphasizes the significance of conveying a clear message through the choice of music.
@@ -57,4 +57,4 @@ The verse in question addresses the importance of clarity and distinction in bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

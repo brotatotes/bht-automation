@@ -4,7 +4,7 @@
 In this Bible verse, God's love and protection for His people are emphasized. He ensures their security before initiating judgment. A faithful remnant is preserved amidst destructive forces and the mark on their foreheads signifies their allegiance to God and distinguishes them from those who have rejected Him. This mark is not physical but represents a person's unwavering faith and loyalty to God in their thoughts, actions, and character. It serves as a seal of God's ownership and protection, safeguarding His people from harm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's love is such, that He cannot do anything in the way of judgment, till His people are secured from hurt."
 2. "Out of these tribes a believing remnant will be preserved from the judgments which shall destroy all the Antichristian confederacy."
 3. "Israel's spiritual resurrection shall be 'as life from the dead' to all the nations."
@@ -42,4 +42,4 @@ These quotes emphasize God's love and protection for His people, the preservatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

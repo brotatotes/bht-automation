@@ -9,7 +9,7 @@ Through Paul's invitation to Timothy to join him, we see not only a call for com
 2. "Crescens went to Galatia, Titus to Dalmatia." - This quote mentions the destinations of Crescens and Titus, indicating their departure from Paul's side and their respective missions in different regions.
 3. "Mark...bring with thee: for he is to me useful for the ministry." - This quote emphasizes the value of Mark to Paul, highlighting his usefulness and importance in assisting Paul in his apostolic labors.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Timothy is asked to come to be a comfort to Paul." 
 2. "Timothy is asked to be strengthened by Paul, for carrying on the Gospel work after Paul's decease." 
 3. "Timothy's presence is seen as a source of comfort and strength for both Paul and the continuation of the Gospel work."
@@ -48,4 +48,4 @@ Through Paul's invitation to Timothy to join him, we see not only a call for com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

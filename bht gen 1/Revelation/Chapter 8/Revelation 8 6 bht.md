@@ -11,7 +11,7 @@ Commentators describe a verse about seven angels preparing to blow their trumpet
 
 3. "Stood in attitude to blow them." - This phrase suggests a posture of anticipation and readiness. It implies that the angels were poised and focused, fully prepared to execute their role in God's divine plan. Their stance reflects their commitment and dedication to fulfilling their purpose.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sound of the trumpets was a call to attention, a signal for the people to gather and listen. It was a powerful and authoritative sound that demanded their focus and obedience." 
 
 2. "The blowing of the trumpets was not just a mere noise, but a symbolic act that carried deep spiritual significance. It represented the presence and power of God, as well as a call to worship and reverence." 
@@ -56,4 +56,4 @@ Commentators describe a verse about seven angels preparing to blow their trumpet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

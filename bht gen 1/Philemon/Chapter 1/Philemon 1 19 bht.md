@@ -9,7 +9,7 @@ The passage described showcases the writer's willingness to take responsibility 
 2. "ἵνα μὴ λέγω: 'est σχῆμα παρασιωπήσεως sive reticentiæ, cum dicimus nos omittere velle, quod maxime dicimus,' Grot."
 3. "καὶ σεαυτόν: οὐ τὰ σαυτοῦ μόνον, Chr. διʼ ἐμοῦ γάρ, φησί, τῆς σωτηρίας ἀπήλαυσας · καὶ ἐντεῦθεν δῆλον, ὡς τῆς ἀποστολικῆς διδασκαλίας ἠξιώθη ὁ Φιλήμων, Thdrt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mine own hand - not employing an amanuensis, as in other Epistles: a special compliment to Philemon which he ought to show his appreciation of by granting Paul’s request."
 2. "Thou owest ... even thine own self - not merely thy possessions. For to my instrumentality thou owest thy salvation."
 3. "So the debt which 'he oweth thee' being transferred upon me (I making myself responsible for it) is cancelled."
@@ -55,4 +55,4 @@ The passage described showcases the writer's willingness to take responsibility 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

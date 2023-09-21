@@ -4,7 +4,7 @@
 The verse being described speaks of the close and necessary union between Christ and the Church, the body of believers. Christ is the head of the Church, and his life is intertwined with the life of the Church. The Church is the recipient of the fullness of Christ's gifts and graces, and through this union, she becomes the representation of his divine life in human form. The Church is secure under the headship of Christ, who is on the throne of the universe, protecting her from any harm.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is really, though spiritually, the Church's Head. His life is her life."
 2. "The Church is dwelt in and filled by Christ. She is the receptacle, not of His inherent, but of His communicated, plenitude of gifts and graces."
 3. "She is the continued revelation of His divine life in human form; the fullest representative of His plenitude."
@@ -52,4 +52,4 @@ The verse being described speaks of the close and necessary union between Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

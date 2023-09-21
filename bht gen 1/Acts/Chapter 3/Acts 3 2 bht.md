@@ -11,7 +11,7 @@ At the gate of the temple, named Beautiful, where grandeur and opulence met, a m
 
 3. "Another suitable circumstance was, that by this gate the market was held for sheep and cattle and other offerings, and therefore a greater crowd would be attracted." - This quote explains why the gate would have been a busy place, attracting a large crowd.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man's condition of being lame from his mother's womb emphasizes the severity and permanence of his disability. It highlights the fact that he had never experienced the ability to walk, making his healing even more miraculous." 
 
 2. "The mention of the man's age, being 'above forty years old,' adds to the significance of his healing. It shows that he had been living with his disability for a long time, making his restoration to health even more remarkable."
@@ -58,4 +58,4 @@ At the gate of the temple, named Beautiful, where grandeur and opulence met, a m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

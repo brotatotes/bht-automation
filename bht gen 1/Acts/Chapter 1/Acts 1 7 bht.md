@@ -9,7 +9,7 @@ In this verse, we are reminded that there are aspects of God's plan and timing t
 2. "It may be observed however, that the same assertion is not made here: only the times and seasons said to be in the power of the Almighty Father, Who ordereth all things according to the counsel of His will."
 3. "The knowledge of the Son is not here in question, only that of the disciples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not for you to know the times, &c." - This statement emphasizes that the disciples' focus should not be on trying to predict or understand the timing of future events. It reminds them that their primary concern should be their present work and mission.
 
 2. "implying not only that this was not the time" - This quote suggests that the disciples were seeking information about the timing of certain events, but Jesus indicates that it is not the appropriate time for those events to occur.
@@ -59,4 +59,4 @@ Note: The commentary does not provide any specific Bible verse to reference.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

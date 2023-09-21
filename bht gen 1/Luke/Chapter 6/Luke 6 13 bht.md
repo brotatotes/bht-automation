@@ -9,7 +9,7 @@ The verse describes how Jesus chose twelve individuals out of a larger group, de
 2. "We are not to suppose that this selection was now first made out of a miscellaneous number but now first formally announced."
 3. "The Apostles, or most of them, had had each their special individual calling to be, in a peculiar manner, followers of the Lord, before this."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God is the ultimate source of all wisdom and understanding. It is through His guidance and revelation that we are able to comprehend the deep truths of His Word." 
 
 2. "The phrase 'the fear of the Lord' refers to a reverential awe and respect for God. It is this fear that leads to wisdom and understanding, as it humbles us before the greatness and majesty of God." 
@@ -56,4 +56,4 @@ The verse describes how Jesus chose twelve individuals out of a larger group, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

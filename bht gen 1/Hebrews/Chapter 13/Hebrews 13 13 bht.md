@@ -9,7 +9,7 @@ The verse, described by a culmination of commentators, depicts a call to separat
 2. "Bearing His reproach." - This highlights the willingness to endure shame and persecution for the sake of identifying with Christ and His suffering.
 3. "Participating in His sufferings." - This phrase underscores the idea of sharing in Christ's experiences of hardship and persecution as a way of deepening one's connection with Him.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith considers Jerusalem itself as a camp, not a city." 
 2. "He contrasts with the Jews, who serve an earthly sanctuary, the Christians to whom the altar in heaven stands open, while it is closed against the Jews."
 3. "There is a reference to Hebrews 13:11- :, when the tabernacle was moved without the camp, which had become polluted by the people's idolatry of the golden calves; so that 'every one who sought the Lord went out unto the tabernacle of the congregation (as Moses called the tabernacle outside the camp), which was without the camp'; a lively type of what the Hebrews should do, namely, come out of the carnal worship of the earthly Jerusalem to worship God in Christ in spirit."
@@ -57,4 +57,4 @@ The verse, described by a culmination of commentators, depicts a call to separat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

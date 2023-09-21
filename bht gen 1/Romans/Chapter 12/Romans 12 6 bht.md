@@ -9,7 +9,7 @@ In this descriptive passage, we explore a Bible verse with insights from comment
 2. "This construction must however be dropped at ἐν ἁπλότητι, which is manifestly to be rendered with a verb supplied: and (2) it reduces the four first mentioned gifts to a bare catalogue, and deprives the passage of its aim, which is to keep each member of the body in its true place and work without any member boasting against another."
 3. "The comparison of μέτρον πιστεως above, and the whole context, determine it to be the latter; the measure of our faith: 'quisque se intra sortis suæ metas contineat, et revelationis suæ modum teneat, ne unus sibi omnia scire videatur.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All the gifts of believers alike are viewed as communications of mere grace."
 2. "Anyone speaking with divine authority—whether with reference to the past, the present, or the future—was termed a prophet."
 3. "They are not to be puffed up on account of them, but to use them purely for their proper ends."
@@ -53,4 +53,4 @@ In this descriptive passage, we explore a Bible verse with insights from comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

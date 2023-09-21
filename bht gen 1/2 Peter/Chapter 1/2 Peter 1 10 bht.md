@@ -11,7 +11,7 @@ In this verse, believers are encouraged to actively pursue and strengthen their 
 
 3. "If you do these things, you will never stumble or fall." - This encourages believers to faithfully carry out the works and commands of God, assuring them of stability and avoiding spiritual pitfalls.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeking the blessed consequence of having, and the evil effects of not having, these graces."
 2. "To make so far as it depends on you; to do your part towards making."
 3. "The ensuring of our election is spoken of not in respect to God, whose counsel is steadfast and everlasting, but in respect to our part."
@@ -63,4 +63,4 @@ In this verse, believers are encouraged to actively pursue and strengthen their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

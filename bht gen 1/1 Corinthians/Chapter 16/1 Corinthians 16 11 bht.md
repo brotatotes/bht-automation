@@ -9,7 +9,7 @@ The verse under consideration speaks about the importance of treating fellow bel
 2. "ἐκδέχ  .   γὰρ αὐτ .] καὶ τοῦτο φοβοῦντος αὐτοὺς ἦν . ἵνα γὰρ εἰδότες , ὅτι πάντα εἰρήσεται πρὸς αὐτὸν ἅπερ ἂν πάθῃ , ἐπιεικέστεροι γένωνται , διὰ τοῦτο προσέθηκεν" - This was done to alleviate any fear they might have had, so that knowing that Timothy would report everything to Paul, they would be more gentle and accommodating.
 3. "By  μετὰ τῶν ἀδελφῶν it would appear, comparing 1 Corinthians 16:12 , that more brethren besides Erastus ( Act 19:22 ) accompanied Timotheus to Macedonia." - It seems that besides Erastus, there were other brothers who accompanied Timothy to Macedonia.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let no man despise thy youth" - Paul cautions Timothy about the possibility of being looked down upon because of his young age. This shows that age was a factor that could potentially undermine Timothy's authority and credibility in his role as a messenger of Paul.
 
 2. "Peace" is the salutation of kindness and respect in the East - The mention of "peace" in the context of Timothy's mission to Corinth highlights the contrast between the peaceful and respectful approach that Timothy should embody, as opposed to the contentions and divisions that were prevalent in Corinth.
@@ -54,4 +54,4 @@ The verse under consideration speaks about the importance of treating fellow bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

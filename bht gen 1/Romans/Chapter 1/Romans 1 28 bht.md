@@ -9,7 +9,7 @@ In this verse, the commentators highlight the consequences of rejecting God and 
 2. "God withdrew from them His preventing grace and left them to the evil which they had chosen."
 3. "It is the 'video meliora proboque,' which makes the 'deteriora sequor' so peculiarly criminal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Gave them over—or 'up' (see on :-)." 
 2. "To do those things which are not convenient—in the old sense of that word, that is, 'not becoming,' 'indecorous,' 'shameful.'"
 
@@ -55,4 +55,4 @@ These quotes highlight the commentary's emphasis on the human choice to reject G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

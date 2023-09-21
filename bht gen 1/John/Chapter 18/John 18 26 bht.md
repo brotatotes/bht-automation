@@ -9,7 +9,7 @@ In this verse, we witness a poignant moment where Peter, in a state of fear and 
 2. "This was about an hour after the former." 
 3. "Luke 22:59."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sad reprisals!" [BENGEL].
 2. "Thou art a Galilean, and thy speech agreeth thereto" (Matthew 26:73- ; and so Luke 22:59).
 3. If Peter had held his peace, this peculiarity had not been observed; but hoping, probably, to put them off the scent by joining in the fireside talk, he only thus revealed himself.
@@ -33,4 +33,4 @@ In this verse, we witness a poignant moment where Peter, in a state of fear and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse under consideration emphasizes the limited and imperfect nature of human understanding, particularly in relation to spiritual matters. It highlights the incompleteness of our knowledge and prophetic abilities, underscoring the need for humility and recognition of our own limitations. This verse also encourages believers to seek the permanent and eternal love of God, rather than placing excessive value on imperfect and transitory knowledge. It invites us to acknowledge the temporary nature of certain gifts and to focus instead on the perfect wisdom and knowledge found in Scripture.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "in part—partially and imperfectly" - This quote highlights the limitation of human understanding and knowledge. It suggests that our comprehension of spiritual matters is incomplete and imperfect, emphasizing the need for humility and openness to further growth and learning.
 
 2. "the perfect man, the measure of the stature of the fulness of Christ" - This quote points to the ultimate goal of spiritual maturity and perfection. It implies that our journey of faith is aimed at becoming more like Christ, reaching a state of fullness and completeness in our character and actions.
@@ -49,4 +49,4 @@ The verse under consideration emphasizes the limited and imperfect nature of hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

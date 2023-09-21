@@ -9,7 +9,7 @@ In this verse, there is a spiritual prohibition against being consumed by worry 
 2. "A spiritual prohibition, answering to the literal one in Matthew 10:9-10." - This commentary highlights the parallel between the spiritual and literal prohibitions, suggesting that both are equally significant in guiding one's actions.
 3. "See Exodus 4:12." - This reference to Exodus 4:12 encourages readers to explore a related passage in the Bible, potentially providing further insights into the meaning of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take no thought—be not solicitous or anxious." This quote emphasizes the importance of not being anxious when facing challenges or opposition. It encourages trust in God's provision and guidance.
 2. "How or what ye shall speak... it shall be given you in that same hour what ye shall speak." This quote highlights the assurance that God will provide the right words and wisdom in difficult situations. It encourages reliance on God's guidance and the belief that He will equip His followers.
 3. "For it shall be given you in that same hour what ye shall speak." This quote reinforces the idea that God's provision is timely and specific to the situation at hand. It emphasizes the trustworthiness of God's guidance and His ability to provide exactly what is needed in the moment.
@@ -43,4 +43,4 @@ In this verse, there is a spiritual prohibition against being consumed by worry 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentators highlight the surprising and unfamiliar nature of the things being brought to the people's attention. The behavior and teachings mentioned are different from what they are accustomed to hearing, sparking their curiosity and interest in understanding the meaning behind them. The various commentators emphasize the openness of the people to learn and comprehend these new ideas, indicating a willingness to engage in dialogue and seek clarification. The verse presents an opportunity for the people to expand their knowledge and explore unfamiliar concepts.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two enemies it has ever had to contend with are the two ruling principles of the Epicureans and Stoics—Pleasure and Pride."
 2. "What will this babbler say?" - a general term of contempt for any pretended teacher.
 3. "The strange gods were Jehovah and the Risen Saviour, ordained to judge the world."
@@ -39,4 +39,4 @@ In this verse, the commentators highlight the surprising and unfamiliar nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

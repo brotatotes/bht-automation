@@ -9,7 +9,7 @@ The Bible verse being described is about the contrast between the law and the go
 2. "The law had no such εἰκών constructed out of the heavenly realities themselves, 'ipsas res, certa sua forma et effigie præditas,' as Stier: it had merely σκιάν, merely a rough sketch or outline."
 3. "The law, year by year, by the repetition of the same offerings, testified its inability to perfect, &c., viz. on the day of atonement, on which the same expiatory offerings were always repeated, being necessary, notwithstanding the many offerings brought throughout the year, and after which the same round of offerings again began anew."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel is the very setting forth by the Word and Spirit of the heavenly realities themselves, out of which it (the Gospel) is constructed."
 2. "The law was a continual process of acted prophecy, proving the divine design that its counterparts should come; and proving the truth of those counterparts when they came."
 3. "Good things in part made present by faith to the believer, and to be fully realized hereafter in actual and perfect enjoyment."
@@ -53,4 +53,4 @@ The Bible verse being described is about the contrast between the law and the go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

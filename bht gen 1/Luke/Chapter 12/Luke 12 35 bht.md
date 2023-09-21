@@ -9,7 +9,7 @@ In this verse, we are encouraged to be always prepared and ready, like servants 
 2. "There is only a hint at the cause of his absence he is gone to a wedding: γάμοι may mean almost any feast or entertainment and the main thought here only is that he is away at a feast, and will return."
 3. "But in the background lies the wedding in all its truth not brought out here, but elsewhere, Matthew 22:1 ff; Matthew 25:1 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "loins . . . girded—to fasten up the long outer garment, always done before travel and work." 
 2. "The meaning is, Be in readiness." 
 3. "lights, &c.—(See on Acts 12:8)."
@@ -42,4 +42,4 @@ Overall, these quotes highlight the importance of staying true to the teachings 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

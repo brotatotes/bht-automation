@@ -4,7 +4,7 @@
 The Bible verse being described here speaks of God's sovereignty and authority over His creation, using the analogy of a potter and clay. Commentators emphasize that God has the right to shape and mold His creatures as He pleases, appointing some for honorable purposes and others for dishonorable purposes. This depiction highlights God's unlimited power and his prerogative to exercise mercy or allow hardening, based on His will. The verse reinforces the belief in God's wisdom and justness in His dealings with humanity, even if they may not align with human understanding or conventional rules.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All are sinners, and have forfeited every claim to His mercy; it is therefore perfectly competent to God to spare one and not another, to make one vessel to honor and another to dishonor."
 2. "Paul does not here speak of God's right over His creatures as creatures, but as sinful creatures."
 3. "God is under no obligation to give His grace to any, but is as sovereign as in fashioning the clay."
@@ -53,4 +53,4 @@ Note: The commentary provided is quite lengthy and includes additional informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

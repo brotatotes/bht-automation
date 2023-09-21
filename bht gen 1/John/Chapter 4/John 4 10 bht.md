@@ -9,7 +9,7 @@ In this verse, Jesus engages in a conversation with a Samaritan woman, revealing
 2. "He who speaks with thee is no ordinary Ἰουδαῖος, nor any ordinary man, but One who can give thee the gift of God; One sent from God, and God Himself."
 3. "Designedly used in a double sense by our Lord, that the woman may lay hold of the material meaning, and by it be awakened to the higher one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Me thou seest only a petitioner to thee but if thou knewest who that Petitioner is, and the Gift that God is giving to men, thou wouldst have changed places with Him." 
 
 2. "Gladly suing of Him living water—nor shouldst thou have sued in vain." 
@@ -57,4 +57,4 @@ Note: The commentary is quite technical and specific, so the quotes may not prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

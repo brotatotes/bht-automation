@@ -9,7 +9,7 @@ During Jesus' trial, the complex web of political and religious power dynamics i
 2. "The verse simply describes what followed on the preceding: Annas therefore sent Him bound to Caiaphas the High Priest."
 3. "There is no real difficulty in this rendering, if Annas and Caiaphas lived in one palace, or at all events transacted public affairs in one and the same."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words here literally are, 'Annas sent Him [not 'had sent Him'] to Caiaphas'—and the 'now' being of doubtful authority." 
 2. "We take this interview, then, with some of the ablest interpreters, to be a preliminary and non-official one with Annas, at an hour of the night when Caiaphas' Council could not convene."
 3. "But the building in which both met with Jesus appears to have been the same, the room only being different, and the court, of course, in that case, one."
@@ -57,4 +57,4 @@ During Jesus' trial, the complex web of political and religious power dynamics i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

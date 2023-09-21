@@ -9,7 +9,7 @@ The verse being described is a part of a letter written by the apostle Paul. The
 2. "It would be natural enough that Tertius the amanuensis... should change the form into the first person."
 3. "Thol. notices this irregularity as a corroboration of the genuineness of the chapter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I, Tertius, who wrote this—"the" epistle—as the apostle's amanuensis, or penman." 
 2. "So usually did the apostle dictate his epistles, that he calls the attention of the Galatians to the fact that to them he wrote with his own hand (Galatians 6:11)." 
 3. "But this Tertius would have the Romans to know that, far from being a mere scribe, his heart went out to them in Christian affection."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described speaks of the righteousness of faith, which assures us that we don't need to strive or doubt our salvation. It emphasizes that the message of faith is not about physically bringing Christ down from heaven, but rather acknowledging that Christ has already come down for us. The verse warns against thinking that we need to perform impossible feats to obtain our pardon and salvation, for the righteousness of faith affirms that it is by believing, not by our own works, that we are made righteous.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have not to sigh over the impossibility of attaining to justification as if one should say, oh! if I could but get someone to mount up to heaven and fetch me down Christ, there might be some hope, but since that cannot be, mine is a desperate case."
 2. "The language of faith is not about striving to bring Christ down from heaven, but rather about acknowledging that Christ has already come down to us."
 3. "The justifying righteousness of faith speaks to the heart, assuring us that we don't need to perform impossible feats to obtain salvation, but rather to believe in the finished work of Christ."
@@ -48,4 +48,4 @@ The verse being described speaks of the righteousness of faith, which assures us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

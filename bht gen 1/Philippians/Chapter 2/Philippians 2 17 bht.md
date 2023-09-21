@@ -4,7 +4,7 @@
 In this verse, the author expresses his readiness to die before Christ's coming, acknowledging the likelihood of his own death. He compares his own life to a libation poured upon a sacrifice, symbolizing his Philippian converts as the offering and his blood as the poured libation. The author's expectation of release from prison diminishes, potentially due to the changes in leadership. The possibility of his death serves as the confirmation of the faith of the Philippians, presenting his life as an offering in service to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had assumed the possibility of his being found alive at Christ's coming...he here puts a supposition which he regards as more likely, namely, his own death before Christ's coming."
 2. "As in sacrifices libations of wine were 'poured upon' the offerings, so he represents his Philippian converts, offered through faith, as the sacrifice, and his blood as the libation 'poured upon' it."
 3. "His expectation of release from prison is much fainter...The appointment of Tigellinus to be Prætorian Prefect was probably the cause of this change."
@@ -48,4 +48,4 @@ In this verse, the author expresses his readiness to die before Christ's coming,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

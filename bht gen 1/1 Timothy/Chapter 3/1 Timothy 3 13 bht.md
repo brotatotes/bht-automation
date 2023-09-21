@@ -9,7 +9,7 @@ Through faithful service, those in the office of deacon can acquire a good stand
 2. "The interpretations of βαθμόν, a step, or place to stand on, have been very various."
 3. "The βαθμός is that which they are now securing for themselves, and will be found standing on at that day: belonging therefore in part to both periods."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What those who have faithfully discharged the diaconate acquire for themselves is 'a good standing-place' against the day of judgment."
 2. "Boldness (resting on that standing-place), as well for preaching and admonishing others now, as also especially in relation to God their coming Judge, before whom they may be boldly confident."
 3. "Boldness resting on their own faith, which is in Christ Jesus."
@@ -55,4 +55,4 @@ Through faithful service, those in the office of deacon can acquire a good stand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

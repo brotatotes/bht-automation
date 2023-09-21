@@ -9,7 +9,7 @@ The Bible verse being described is one that urges believers to hold pastors and 
 2. "διὰ τὸ ἔργ. αὐτ. may mean, because of the nature of their work, viz. that it is the Lord’s work, for your souls: or, on account of their activity in their office, as a recompense for their work."
 3. "The reading εἰρηνεύετε ἐν αὐτοῖς can hardly mean, as Chrys., al., μὴ ἀντιλέγειν τοῖς παρʼ αὐτῶν λεγομένοις (Thdrt.), but is probably, as De W., a mistaken correction from imagining that this exhortation must refer to the presbyters as well as the preceding."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The high nature of their work alone, the furtherance of your salvation and of the kingdom of Christ, should be a sufficient motive to claim your reverential love."
 2. "The word 'work' teaches ministers that, while claiming the reverence due to their office, it is not a sinecure, but a 'work'."
 3. "Let there not only be peace between ministers and their flocks, but also no party rivalries among yourselves, one contending in behalf of some one favorite minister, another in behalf of another."
@@ -57,4 +57,4 @@ Overall, this commentary emphasizes the importance of valuing and honoring pasto
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

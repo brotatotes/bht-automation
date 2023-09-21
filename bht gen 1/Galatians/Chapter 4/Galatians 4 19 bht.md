@@ -9,7 +9,7 @@ The verse under consideration is a passionate expression of love and concern fro
 2. "Whom (the change of gender is common enough. Meyer quotes an apposite example from Eur. Suppl. 12, θανόντων ἑπτὰ γενναίων τέκνων … οὕς ποτ ʼ … ἤγαγε)"
 3. "I again (a second time; the former was ἐν τῷ παρεῖναί με, Gal 4:18) travail with (bear, as a mother, with pain and anxiety, till the time of birth) until Christ shall have been fully formed within you (for Christ dwelling in a man is the secret and principle of his new life, see ch. Gal 2:20)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My relation to you is not merely that of one zealously courting you, but that of a father to his children."
 2. "I travail in birth, like a mother in pain till the birth of her child."
 3. "Christ be formed in you, that you may live nothing but Christ, and think nothing but Christ, and glory in nothing but Him, and His death, resurrection, and righteousness."
@@ -48,4 +48,4 @@ The verse under consideration is a passionate expression of love and concern fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

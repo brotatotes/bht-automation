@@ -9,7 +9,7 @@ The verse being described emphasizes the determination and sincerity of the spea
 2. "There is no oath, nor even asseveration, as E. V. and most Commentators introduce."
 3. "This boasting shall not be stopped as regards me in the regions of Achaia."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is the truth of Christ in me that" - The commentary highlights the presence of the truth of Christ within the speaker, emphasizing the personal connection and embodiment of this truth.
 
 2. "No man shall stop me of" - The commentary emphasizes the determination and resilience of the speaker, stating that no one will be able to hinder or prevent them from carrying out their mission.
@@ -61,4 +61,4 @@ Note: The commentary provided is quite brief and does not offer much depth or in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

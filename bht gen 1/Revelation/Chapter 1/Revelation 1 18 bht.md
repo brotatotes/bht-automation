@@ -4,7 +4,7 @@
 This verse unveils the limitless power and eternal authority of the one who triumphed over death and now lives forever. Through His death, He secured resurrection and eternal life for His people. With the keys of death and Hades, He governs the invisible realm and holds the authority to release from its grip. This verse echoes the foundational truth of His death, resurrection, and everlasting reign over the realms of life and death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To Him belongs absolute being, as contrasted with the relative being of the creature; others may share, He only hath immortality: being in essence, not by mere participation, immortal."
 2. "His having passed through death as one of us, and now living in the infinite plenitude of life, reassures His people, since through Him death is the gate of resurrection to eternal life."
 3. "I can release from the unseen world of spirits and from DEATH whom I will. Keys are emblems of authority, opening and shutting at will 'the gates of Hades'."
@@ -34,4 +34,4 @@ This verse unveils the limitless power and eternal authority of the one who triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the disciples engage in a deep and thoughtful debate, not simply 
 2. "The disputing of their thoughts was known to Him [Jesus]."
 3. "The idea of τὸ τίς ἂν εἴη μ. meaning that each one thought 'Who is greater than I?' is absurd enough."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you are referring to. Could you please provide the commentary so that I can extract the quotes for you?
 
 ### Marvin Vincent:
@@ -38,4 +38,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

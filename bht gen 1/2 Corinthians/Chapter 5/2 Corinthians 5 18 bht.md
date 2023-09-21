@@ -9,7 +9,7 @@ In this verse, all things and the transformative power they hold are emphasized 
 2. "The reconciliation spoken of in this verse is that of God to us, absolutely and objectively, through His Son."
 3. "The subjective reconciliation of men to God follows as a matter of exhortation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our position judicially considered in the eye of the law is altered, not as though the mediation of Christ had made a change in God's character, nor as if the love of God was produced by the mediation of Christ; nay, the mediation and sacrifice of Christ was the provision of God's love, not its moving cause."
 2. "Christ's blood was the price paid at the expense of God Himself, and was required to reconcile the exercise of mercy with justice, not as separate, but as the eternally harmonious attributes in the one and the same God."
 3. "The reconciling of men to God by their laying aside their enmity is the consequence of God laying aside His just enmity against their sin."
@@ -55,4 +55,4 @@ In this verse, all things and the transformative power they hold are emphasized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

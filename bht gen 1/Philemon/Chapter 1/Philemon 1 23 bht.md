@@ -4,7 +4,7 @@
 Epaphras, a faithful companion and minister in the church at Colosse, shared a close bond with Paul, perhaps even facing imprisonment for the sake of Christ. His voluntary choice to join Paul in prison showed his unwavering commitment to the cause of Christ. Epaphras sought Paul's help against the rising influences of Gnosticism, displaying his dedication to defending the true Gospel. Together, they stood as examples of unity, willing to suffer for the sake of spreading the message of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Epaphras, my fellow prisoner - He had been sent by the Colossian Church to inquire after, and minister to, Paul, and possibly was cast into prison by the Roman authorities on suspicion."
 2. "However, he is not mentioned as a prisoner in Colossians 4:12, so that 'fellow prisoner' here may mean merely one who was a faithful companion to Paul in his imprisonment, and by his society put himself in the position of a prisoner."
 3. "Benson conjectures the meaning to be that on some former occasion these two were Paul’s 'fellow prisoners,' not at the time."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

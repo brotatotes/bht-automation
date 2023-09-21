@@ -11,7 +11,7 @@ This verse calls for believers to strive for holiness in their lives, following 
 
 3. "holy in all (manner of, every instance of: not πάσῃ τῇ nor τῇ πάσῃ: nor need we suppose, as De W., an irregular construction such as it is almost impossible to avoid recognizing in Eph 2:21) behaviour (conversation, in the old sense of turning and walking about in life)" - This quote explains the meaning of being holy in all behavior or conversation, highlighting the idea of living a holy life in every aspect.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God is our grand model."
 2. "Every one that begets, begets an offspring resembling himself."
 3. "Christians are already holy unto God by consecration; they must be so also in their outward walk and behavior in all respects."
@@ -50,4 +50,4 @@ This verse calls for believers to strive for holiness in their lives, following 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

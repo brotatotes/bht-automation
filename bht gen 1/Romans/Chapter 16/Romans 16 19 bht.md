@@ -9,7 +9,7 @@ The commendable obedience of the believers, celebrated widely, is the foundation
 2. "Some slight reproof is conveyed in χαίρω, θέλω δὲ κ. τ. λ. They were well known for obedience, but had not been perhaps cautious enough with regard to these designing persons and their pretended wisdom." 
 3. "See Matthew 10:16, of which words of our Lord there seems to be here a reminiscence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I rejoice therefore over you."
 2. "I would have you wise unto that which is good, and simple."
 3. "Ye need the serpent's wisdom to discriminate between transparent truth and plausible error, with that guileless simplicity which instinctively cleaves to the one and rejects the other."
@@ -63,4 +63,4 @@ The commendable obedience of the believers, celebrated widely, is the foundation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

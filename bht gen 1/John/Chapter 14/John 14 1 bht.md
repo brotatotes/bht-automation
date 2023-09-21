@@ -9,7 +9,7 @@ In these verses, Jesus speaks to his disciples, addressing their troubled hearts
 2. "The command is intimately connected with faith in the glorification of Christ in the Father" - Cyril, Bp. of Alexandria
 3. "The whole tenour of the discourse presupposes a want of belief in God in its full and true sense" - Luther
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let not your heart be troubled, c.—What myriads of souls have not these opening words cheered, in deepest gloom, since first they were uttered!" 
 2. "Have the same trust in Me. What less, and what else, can these words mean? And if so, what a demand to make by one sitting familiarly with them at the supper table!" 
 3. "But it is no transfer of our trust from its proper Object it is but the concentration of our trust in the Unseen and Impalpable One upon His Own Incarnate Son, by which that trust, instead of the distant, unsteady, and too often cold and scarce real thing it otherwise is, acquires a conscious reality, warmth, and power, which makes all things new."
@@ -50,4 +50,4 @@ Note: The commentary is discussing John 14:1, where Jesus tells his disciples no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

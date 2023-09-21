@@ -9,7 +9,7 @@ In this verse, various commentators offer insights into the cautionary warning a
 2. "The little children in the outward status of the Church are in fact the only disciples who are sure to be that in reality, which their Baptism has put upon them, and so exactly answer to the wider meaning here conveyed by the term."
 3. "On the reason assigned in the latter part of this verse (λέγω γὰρ κ.τ.λ.), there have been many opinions; some of which... have been broached merely to evade the plain sense of the words, which is that to individuals certain angels are allotted as their especial attendants and guardians."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Among men, those who nurse and rear the royal children, however humble in themselves, are allowed free entrance with their charge, and a degree of familiarity which even the highest state ministers dare not assume."
 2. "Probably our Lord means that, in virtue of their charge over His disciples, the angels have errands to the throne, a welcome there, and a dear familiarity in dealing with 'His Father which is in heaven,' which on their own matters they could not assume."
 3. "A difficult verse; but perhaps the following may be more than an illustration."
@@ -48,4 +48,4 @@ In this verse, various commentators offer insights into the cautionary warning a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

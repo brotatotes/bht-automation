@@ -9,7 +9,7 @@ This Bible verse highlights the effectiveness of the punishment inflicted on an 
 2. "But it was not a formal and public, only a voluntary individual abstinence from communion with him, as is shewn by ὑπὸ τῶν πλειόνων: the anti-pauline party probably refusing compliance with the Apostle’s command."
 3. "ἱκανόν: enough, not in duration, though that would be the case, but in magnitude: sufficient, as having produced its desired effect, penitence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sufficient—without increasing it, which would only drive him to despair ( :-), whereas the object of the punishment was, 'that (his) spirit might be saved' in the last day."
 2. "Rather, it expresses estrangement from such a one who had caused such grief to the Church, and scandal to religion (Acts 22:22; 1 Corinthians 5:5)."
 3. "Not by an individual priest, as in the Church of Rome, nor by the bishops and clergy alone, but by the whole body of the Church."
@@ -57,4 +57,4 @@ This Bible verse highlights the effectiveness of the punishment inflicted on an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

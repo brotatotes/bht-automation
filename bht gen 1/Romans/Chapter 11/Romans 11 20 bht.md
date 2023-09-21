@@ -9,7 +9,7 @@ Amidst discussions on unbelief, faith, and the relationship between Jews and Gen
 2. "The instrumental use of the dat. and that of διὰ with the gen. differ in this, that the latter expresses more the immediate cause, the former the mediate and more remote."
 3. "We should always say that we are justified through, not by, faith, but that we stand by, not through, faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because of unbelief they were broken off, and thou standest—not as a Gentile, but solely by faith." This quote highlights the importance of faith in being part of God's chosen people, emphasizing that it is not based on one's heritage or background.
 
 2. "Faith cannot live in those whose soul is lifted up." This quote suggests that pride and arrogance hinder the growth of faith, reminding readers to remain humble and dependent on God.
@@ -54,4 +54,4 @@ Amidst discussions on unbelief, faith, and the relationship between Jews and Gen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

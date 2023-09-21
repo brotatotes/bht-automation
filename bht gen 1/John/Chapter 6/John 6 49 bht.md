@@ -9,7 +9,7 @@ The verse being described talks about how the bread from heaven, the manna, coul
 2. "Death is regarded as being swallowed up in the glory of the resurrection, and the second death which was hidden in the former ἀπέθανον has over him who eats this Bread of Life, no power."
 3. "He is brought, even here, into a resurrection state from sin and death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your fathers, ye say, ate manna in the wilderness; and ye say well, for so they did, but they are dead." 
 2. "The Bread whereof I speak cometh down from heaven, which the manna never did." 
 3. "Men, eating of it, may live forever."
@@ -48,4 +48,4 @@ The verse being described talks about how the bread from heaven, the manna, coul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

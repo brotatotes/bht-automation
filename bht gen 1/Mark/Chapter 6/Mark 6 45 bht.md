@@ -9,7 +9,7 @@ In this Bible verse, Jesus exhibits his authority by compelling his disciples to
 2. "This certainly seems to have been the city of Peter and Andrew, James and John."
 3. "The miracle just related took place near the other Bethsaïda (Julias)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His object in this was to put an end to the misdirected excitement in His favor, into which the disciples themselves may have been somewhat drawn."
 2. "The word 'constrained' implies reluctance on their part, perhaps from unwillingness to part with their Master and embark at night, leaving Him alone on the mountain."
 3. "The wind, probably, occasioning this slight deviation from the direction of Bethsaida."
@@ -37,4 +37,4 @@ In this Bible verse, Jesus exhibits his authority by compelling his disciples to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

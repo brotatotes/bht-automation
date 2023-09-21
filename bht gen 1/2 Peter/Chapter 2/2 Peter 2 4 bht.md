@@ -9,7 +9,7 @@ The verse being described talks about how God did not spare even the highest and
 2. "The word 'Tartarus' is used as equivalent to 'Gehenna' and the verb 'casting' is used with an implied idea of punishment." 
 3. "The angels are kept in custody, being held until the time of judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If God in past time has punished the ungodly and saved His people, He will be sure to do so also in our days."
 2. "Angels—the highest of intelligent creatures, yet not spared when they sinned."
 3. "Slaves of Tartarus may also come upon earth. Step by step they are given to Tartarus, until at last they shall be wholly bound to it."
@@ -54,4 +54,4 @@ The verse being described talks about how God did not spare even the highest and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

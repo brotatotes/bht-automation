@@ -9,7 +9,7 @@ In this verse, we see a scene unfold in a house with chambers located below a co
 2. "The layout of the house allowed for a view into the αὐλή." 
 3. "This architectural detail is significant in understanding the events that took place in the house."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This little word 'beneath'—one of our Evangelist's graphic touches—is most important for the right understanding of what we may call the topography of the scene."
 2. "The ascent to the Council chamber was perhaps by a short flight of steps."
 3. "The Jews seem to have employed women as porters of their doors."
@@ -51,4 +51,4 @@ In this verse, we see a scene unfold in a house with chambers located below a co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

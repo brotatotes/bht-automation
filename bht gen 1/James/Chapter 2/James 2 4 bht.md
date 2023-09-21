@@ -9,7 +9,7 @@ In this verse, the commentators highlight the issue of partiality and discrimina
 2. "Your faith abolishes such distinction: you set it up in practice. You are not then whole in that faith."
 3. "Should you not yourselves have entertained doubts? should you actually have passed evil-minded judgment?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Have ye not made distinctions" or "differences" (so as to prefer one to another)?
 2. "Do ye not partially judge between men, and are become evilly-thinking judges?"
 3. "Did ye not doubt" (respecting your faith, which is inconsistent with the distinctions made by you between rich and poor)?
@@ -56,4 +56,4 @@ In this verse, the commentators highlight the issue of partiality and discrimina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

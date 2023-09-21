@@ -9,7 +9,7 @@ In this verse, the commentators highlight the contrast between positions of auth
 2. "I am in the midst of you as your servant."
 3. "Ptolemy εὐεργέτης at once occurs to us; numerous other examples are given by Wetstein."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The title of 'benefactors' was highly sought after by vain princes, reflecting their desire for recognition and praise."
 2. "This verse highlights the human tendency to seek honor and glory, even among those in positions of power."
 3. "It serves as a reminder that true acts of benevolence should be done without seeking personal gain or recognition."
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the contrast between positions of auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

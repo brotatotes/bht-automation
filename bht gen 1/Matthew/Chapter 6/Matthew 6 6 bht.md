@@ -9,7 +9,7 @@ In this Bible verse, Jesus advises his followers to engage in private and sincer
 2. "See then how exact the distinction he has made, saying, 'so that they may appear to men.' Therefore, even if you close the doors, he wants to accomplish this before the closing of the doors, and to close the doors of the mind."
 3. "It is not enough to enter into the chambers if the door is open to the impudent, through which door they wickedly immerse themselves in what is outside and seek our innermost being."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enter into thy closet—a place of retirement."
 2. "It is the retiring character of true prayer which is here taught."
 3. "It may be offered in any circumstances, however open, if not prompted by the spirit of ostentation, but dictated by the great ends of prayer itself."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus advises his followers to engage in private and sincer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

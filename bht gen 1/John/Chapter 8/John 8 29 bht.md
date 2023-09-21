@@ -10,7 +10,7 @@ This verse describes the unbreakable connection between Jesus and the Father. De
 2. "The μετ ʼ ἐμοῦ ἐστιν carries on through that work."
 3. "The τὰ ἀρεστὰ αὐτ . ποιῶ πάντ . is the very essential being of the Son, and is the cause why the Father is ever with Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To you, who gnash upon Me with your teeth, and frown down all open appearance for Me, I seem to stand uncountenanced and alone." 
 2. "I have a sympathy and support transcending all human applause." 
 3. "I came hither to do My Father's will, and in the doing of it have not ceased to please Him; therefore is He ever by Me with His approving smile, His cheering words, His supporting arm."
@@ -62,4 +62,4 @@ Note: The commentary provided is not a complete commentary on a specific Bible v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

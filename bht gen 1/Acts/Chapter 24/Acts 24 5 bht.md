@@ -9,7 +9,7 @@ In this Bible verse, a commentator reflects on the accusation against Paul as a 
 2. "ἡ οἰκουμένη would here mean the Roman ‘orbis terrarum.’"
 3. "The Jews could not call them by any name answering to Christians, as the hope of a Messiah was professed by themselves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a pestilent fellow—a plague, or pest." 
 2. "and a mover of sedition among all the Jews—by exciting disturbances among them." 
 3. "a ringleader of the sect of the Nazarenes—the second charge; and true enough."
@@ -48,4 +48,4 @@ In this Bible verse, a commentator reflects on the accusation against Paul as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse, described by various commentators, speaks of the longing of bel
 2. "Our mortal part may be swallowed up by life." 
 3. "It was no terror of death as to its consequences but a natural reluctance to undergo the mere act of death as such."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believers shrink from, not the consequences, but the mere act of dying especially as believing in the possibility of their being found alive at the Lord's coming."
 2. "Faith does not divest us of all natural feeling, but subordinates it to higher feeling."
 3. "Scripture gives no sanction to the contempt for the body expressed by philosophers."
@@ -55,4 +55,4 @@ The Bible verse, described by various commentators, speaks of the longing of bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

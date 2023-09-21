@@ -9,7 +9,7 @@ In this verse, there is a prophecy about a prophet who will be raised up by the 
 2. "And none of the whole prophetic body entirely answered to the ὡς ἐμέ, but Christ."
 3. "The Jews therefore rightly understood it (though not always consistent in this, compare Joh 1:21 with Act 6:14) of the Messiah."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a prophet . . . like unto me—particularly in intimacy of communication with God" - This quote highlights the aspect of the prophet being similar to Moses in terms of their close relationship with God, emphasizing the unique and special nature of this prophet.
 2. "Peter takes it for granted that, in the light of all he had just said, it would be seen at once that One only had any claim to be that Prophet." - This quote suggests that Peter believed there was only one person who could fulfill the role of the prophesied prophet, further emphasizing the exclusivity and significance of this individual.
 3. "him shall ye hear in all things, &c.—This part of the prediction is emphatically added, in order to shut up the audience to the obedience of faith" - This quote highlights the importance of listening and obeying the words of this prophet, emphasizing the necessity of faith and obedience in response to his teachings.
@@ -43,4 +43,4 @@ In this verse, there is a prophecy about a prophet who will be raised up by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

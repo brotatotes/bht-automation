@@ -11,7 +11,7 @@ This verse highlights the deliberate choice of the author to endure affliction a
 
 3. "The lot of God’s people is parallel with ἁμαρτία, the latter signifying apostasy from God and his people" - This interpretation suggests that the enjoyment of sin is not simply about indulging in worldly pleasures, but rather a departure from God and His people. It emphasizes the importance of remaining faithful and avoiding the allure of sin.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Choosing" implies a deliberate resolution, not a hasty impulse.
 2. He balanced the best of the world with the worst of religion, and decidedly chose the latter.
 3. If the world has "pleasure" to offer, it is but "for a season." If religion bring with it "affliction," it too is but for a season; whereas its "pleasures are for evermore."
@@ -40,4 +40,4 @@ This verse highlights the deliberate choice of the author to endure affliction a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

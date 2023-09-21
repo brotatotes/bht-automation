@@ -9,7 +9,7 @@ The verse describes the irony of those who claim to be wise, yet in their pursui
 2. "The words relate perhaps not so much to the schools of philosophy, as to the assumption of wisdom by the Greeks in general."
 3. "Of which assumption their philosophers were indeed eminent, but not the only examples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Professing themselves wise, they became fools." - The commentary highlights how those who claim to be wise often end up being foolish. This quote emphasizes the irony of individuals boasting about their wisdom while being ignorant of the truth.
 
 2. "It is the invariable property of error in morals and religion, that men take credit to themselves for it and extol it as wisdom." - This quote explains the tendency of people to take pride in their erroneous beliefs and consider them as wisdom. It sheds light on the deceptive nature of false knowledge.
@@ -49,4 +49,4 @@ Note: The commentary provided is a single long sentence, so the quotes have been
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

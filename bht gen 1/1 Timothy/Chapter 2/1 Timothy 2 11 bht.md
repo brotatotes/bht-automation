@@ -9,7 +9,7 @@ In this verse, the emphasis is on the role of women as learners rather than teac
 2. "To a woman I permit not to teach, nor to lord it over." 
 3. "The word itself is originally a 'vox media,' signifying merely 'one who with his own hand'...and the context fills up the rest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She should not even put questions in the public assembly."
 2. "She might teach, but not in public."
 3. "Paul probably wrote this Epistle from Corinth, where the precept was in force."
@@ -54,4 +54,4 @@ In this verse, the emphasis is on the role of women as learners rather than teac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

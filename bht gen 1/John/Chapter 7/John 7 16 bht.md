@@ -9,7 +9,7 @@ The Bible verse described in these commentaries highlights Jesus' humility and s
 2. "My teaching (generally) is not mine, but that of Him who sent me."
 3. "The latter is preferable, as agreeing better with what follows, and because the former assumes that He was expounding Scripture, which, though probable, is not asserted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doctrine . . . not mine" - Jesus acknowledges that the teachings He shares are not His own, but come from a higher authority. This highlights His humility and submission to God's will.
 
 2. "Unauthorized I am here by commission" - Jesus emphasizes that He has been sent by God to deliver these teachings. This reinforces His role as a messenger and the divine authority behind His words.
@@ -61,4 +61,4 @@ The Bible verse described in these commentaries highlights Jesus' humility and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

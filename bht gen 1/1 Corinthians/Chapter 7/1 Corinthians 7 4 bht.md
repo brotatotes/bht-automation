@@ -9,7 +9,7 @@ In this verse, commentators highlight the paradoxical and interconnected nature 
 2. "The axiom is introduced without a γάρ, as frequently."
 3. "τοῦ ἰδίου … οὐκ ἐξουσιάζει 'sui, cum potestatem non habet, elegans facit paradoxon.' Bengal."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She hath not power over her body, and yet it is her own." - This quote highlights the paradoxical nature of marriage, where a wife does not have complete control over her own body, yet it still belongs to her. It emphasizes the interconnectedness and mutual dependence of husband and wife in a marital relationship.
 
 2. "The oneness of body in which marriage places husband and wife explains this." - This quote suggests that the unity of the physical aspect of marriage helps to explain the paradox mentioned earlier. It implies that the physical union between husband and wife is a key factor in understanding their shared ownership and interdependence.
@@ -40,4 +40,4 @@ In this verse, commentators highlight the paradoxical and interconnected nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

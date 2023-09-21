@@ -9,7 +9,7 @@ The verse being described in this paragraph is about the disciples' mission wher
 2. "Such persons in this case would be of the same kind as those spoken of Act 13:48 as τεταγμένοι εἰς ζωὴν αἰώνιον."
 3. "The precept in this verse is very much more fully set forth by Luke 10:7 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Inquire carefully who in it is worthy" - This suggests that the disciples should not simply enter any house or stay with anyone, but rather they should discern and seek out those who are deserving of their presence and message.
 
 2. "Not in point of rank, of course, but of congenial disposition" - The worthiness mentioned here is not about social status or wealth, but about finding people who are open, receptive, and hospitable towards the disciples and their message.
@@ -42,4 +42,4 @@ The verse being described in this paragraph is about the disciples' mission wher
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This verse calls for reflection on past conditions, urging an urgent change and a call to action. As commentators say, it emphasizes the need to remember the former state and the urgency to repent and restore the first love. The verse highlights the possibility of falling into sin, but also the assurance that believers cannot completely fall away from grace. It is a call for believers to reflect on their current state, do the first works, and seek restoration.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not merely 'feel thy first feelings,' but do works flowing from the same principle as formerly, 'faith which worketh by love.'"
 2. "I will take away the Church from Ephesus and remove it elsewhere. 'It is removal of the candlestick, not extinction of the candle, which is threatened here; judgment for some, but that very judgment the occasion of mercy for others.'"
 3. "The seat of the Church has been changed, but the Church itself survives. What the East has lost, the West has gained."
@@ -46,4 +46,4 @@ This verse calls for reflection on past conditions, urging an urgent change and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we witness the powerful and unchanging nature of God's word, as H
 2. "Shall praise, see reff. LXX- [117] [118] 1.3a following the Heb. has ὀμεῖται ( ὀμνῖται [119] ) πᾶσα γλῶσσα τὸν θεόν ( κύριον [120] )."
 3. "The Codex has been occasionally consulted for the verification of certain readings by Tregelles, Tischendorf, and others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As I live, saith the Lord—Hebrew, JEHOVAH." - This quote highlights the divine authority and power of God, emphasizing that His word is absolute and unchanging.
 
 2. "Every knee shall bow to me, and every tongue shall confess to God." - This quote suggests that all individuals, regardless of their beliefs or actions, will ultimately acknowledge and submit to God's sovereignty and judgment.
@@ -57,4 +57,4 @@ In this verse, we witness the powerful and unchanging nature of God's word, as H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

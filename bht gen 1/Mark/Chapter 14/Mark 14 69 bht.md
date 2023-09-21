@@ -9,7 +9,7 @@ In this Bible verse, a commentator explains that Peter is identified as one of J
 2. "It might be only the maid in waiting in the προαύλιον."
 3. "See note on Matt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It might be rendered 'the girl'; but this would not necessarily mean the same one as before, but might, and probably does, mean just the female who had charge of the door or gate near which Peter now was."
 2. "But there is no real difficulty, as the challenge, probably, after being made by one was reiterated by another."
 3. "They said therefore unto him, &c.—as if more than one challenged him at once."
@@ -28,4 +28,4 @@ In this Bible verse, a commentator explains that Peter is identified as one of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

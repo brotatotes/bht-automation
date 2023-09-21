@@ -9,7 +9,7 @@ The Bible verse being described is Galatians 3:24-26. The law, portrayed as a pe
 2. "Christ represents the ἐλευθερία of the grown-up son" - Christ symbolizes the freedom of the mature son, no longer needing the guidance of a pedagogue.
 3. "we are no longer under a tutor" - With the arrival of faith and the coming of Christ, we are no longer under the authority and guidance of the pedagogue.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So that the law hath been our schoolmaster to guide us unto Christ." - The law served as a tutor, protecting and guiding us until Christ came. (Quote 24)
 2. "The moral law shows us what we ought to do, and so we learn our inability to do it." - The moral law reveals our inability to fulfill its requirements. (Quote 24)
 3. "Thus the law at last leads us to Christ, with whom we find righteousness and peace." - The ultimate purpose of the law is to lead us to Christ, where we find true righteousness and peace. (Quote 24)
@@ -55,4 +55,4 @@ The Bible verse being described is Galatians 3:24-26. The law, portrayed as a pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

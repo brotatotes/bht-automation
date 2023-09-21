@@ -9,7 +9,7 @@ In this Bible verse, a man begins to weep after reflecting on his past actions. 
 2) "he continued weeping."
 3) "casting or drawing his mantle over his head."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The most precious link, however, in the whole chain of circumstances in this scene is beyond doubt that 'look' of deepest, tenderest import reported by Luke alone." 
 2. "Who can tell what lightning flashes of wounded love and piercing reproach shot from that 'look' through the eye of Peter into his heart!" 
 3. "But the immediate cause of the blessed revulsion which made Peter 'weep bitterly' was, beyond all doubt, this heart-piercing 'look' which his Lord gave him."
@@ -45,4 +45,4 @@ In this Bible verse, a man begins to weep after reflecting on his past actions. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

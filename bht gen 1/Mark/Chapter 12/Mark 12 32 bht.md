@@ -4,7 +4,7 @@
 The verse in question, described by various commentators, features a scribe acknowledging the wisdom and truth spoken by Jesus. This scribe affirms the belief in the oneness and uniqueness of God, contrasting the idols and false deities of the Gentiles. The scribe's response demonstrates a candid and genuine understanding of the significance of love, exceeding the importance of religious rituals and emphasizing the spiritual worship of God and brotherly kindness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well, Master—Teacher, thou hast said the truth." - The scribe acknowledges the truth spoken by Jesus, recognizing his wisdom and authority.
 2. "There is one God; and there is none other but he." - The scribe affirms the fundamental belief in monotheism, acknowledging the uniqueness and singularity of God.
 3. "The genuine text here seems clearly to have been, 'There is one,' without the word 'God'." - This commentary highlights the textual variation in the verse, suggesting that the original wording might have been simpler, emphasizing the oneness rather than explicitly mentioning God.
@@ -38,4 +38,4 @@ The verse in question, described by various commentators, features a scribe ackn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

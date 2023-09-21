@@ -9,7 +9,7 @@ In this Bible verse, the commentators warn against being swayed by diverse and s
 2. "It is good that the heart be confirmed with grace, not with meats." 
 3. "Those who walked in such observances... were not profited."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Divers—differing from the one faith in the one and the same Jesus Christ, as taught by them who had the rule over you."
 2. "Established with grace; not with meats—not with observances of Jewish distinctions between clean and unclean meats."
 3. "Christ's body offered once for all for us, is our true spiritual 'meat' to 'eat', the stay and the staff of bread, the mean of all 'grace'."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators warn against being swayed by diverse and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described presents a warning against tempting or challenging God
 2. "The addition of a second Scripture qualifies and interprets the first."
 3. "But does not refute it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True, it is so written, and on that promise I implicitly rely; but in using it there is another Scripture which must not be forgotten."
 2. "Preservation in danger is divinely pledged: shall I then create danger, either to put the promised security skeptically to the proof, or wantonly to demand a display of it?"
 3. "That were 'to tempt the Lord my God,' which, being expressly forbidden, would forfeit the right to expect preservation."
@@ -57,4 +57,4 @@ The verse being described presents a warning against tempting or challenging God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

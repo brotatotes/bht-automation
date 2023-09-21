@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the value of a denarius, which general
 2. "The denarius a day was the pay of a Roman soldier in Tiberius’ time, a few years before this parable was uttered."
 3. "This we may therefore regard as liberal pay for the day’s work."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable of the laborers in the vineyard teaches us that God's grace is not based on our merit or works, but on His generosity and love." 
 
 2. "The owner of the vineyard represents God, who is just and fair in His dealings with all people, regardless of their background or abilities." 
@@ -56,4 +56,4 @@ Note: The commentary provides additional historical and legal context but does n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

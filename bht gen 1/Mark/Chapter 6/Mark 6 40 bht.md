@@ -11,7 +11,7 @@ In this Bible verse, we see a scene of incredible organization and orderliness. 
 
 3. "The use of distributive repetitions in this verse is a Hebraism, a characteristic feature of Hebrew language and style."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And they sat down in ranks, by hundreds, and by fifties" - This arrangement of the people in orderly groups not only facilitated the distribution of food but also served as a visual representation of the magnitude of the miracle, allowing everyone to witness it in an organized manner.
 
 2. "Doubtless this was to show at a glance the number fed" - The intentional seating arrangement was likely meant to provide a clear and immediate understanding of the vast number of people who were being fed, emphasizing the magnitude of the miracle and the abundance of God's provision.
@@ -55,4 +55,4 @@ These quotes from the commentary shed light on the organization and structure of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

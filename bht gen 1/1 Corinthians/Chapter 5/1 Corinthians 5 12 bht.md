@@ -9,7 +9,7 @@ In this verse, the author poses a rhetorical question, acknowledging that they h
 2. "I could only have referred to persons among yourselves." - This quote clarifies that the author's judgment is directed towards individuals within the community, not outsiders.
 3. "My judgment was meant to lead your judgment." - This quote suggests that the author's intention was to guide the community's judgment, emphasizing the importance of internal evaluation rather than external judgment.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What have I to do—You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it." 
 2. "Those within give me enough to do without those outside." 
 3. "Is it not your duty to judge them that are within? God shall judge them that are without: do you look at home."
@@ -52,4 +52,4 @@ In this verse, the author poses a rhetorical question, acknowledging that they h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

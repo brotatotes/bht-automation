@@ -9,7 +9,7 @@ In this passage, commentators emphasize the importance of righteousness, peace, 
 2. "I believe τούτῳ to express the aggregate of the three, and ἐν τούτῳ to be equivalent to οὕτως, as Baumg.-Crusius."
 3. "δόκ. τ. ἀνθρ., as a man of peace and uprightness: οὐ γὰρ οὕτω σε θαυμάσονται τῆς τελειότητος, ὡς τῆς εἰρήνης κ. τῆς ὁμονοίας πάντες · τούτου μὲν γὰρ τοῦ καλοῦ πάντες ἀπολαύσονται, ἐκείνου δὲ οὐδὲ εἷς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this threefold life, we serve Christ, transitioning from God to Christ seamlessly. This highlights the inconceivable nature of Christ being viewed as a mere creature."
 2. "By serving Christ in these ways, we not only please God but also gain the approval of men. These are the very things that God delights in, and men are compelled to acknowledge and appreciate."
 3. "The acceptance of our service by God and the approval of men can be seen in various scriptures, such as Proverbs 3:4, Luke 2:52, Acts 2:47, and Acts 19:20."
@@ -48,4 +48,4 @@ In this passage, commentators emphasize the importance of righteousness, peace, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, a woman demonstrates extravagant love and devotion by pouring e
 2. "The uncertainty being so great, the best rendering would be to leave the word untranslated, as Jer. Taylor does in his 'Life of Christ' (sect. 15): 'Nard Pistick.'"
 3. "Bp. Wordsw. sees in the word the mystical sense, that 'offerings to Christ should be ... the fruits of a lively and loving πίστις, or faith, in Him.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mary...having an alabaster box of ointment of spikenard—pure nard, a celebrated aromatic—very precious." 
 2. "She broke the box and poured it on his head...and anointed the feet of Jesus, and wiped His feet with her hair." 
 3. "The house was filled with the odor of the ointment."
@@ -49,4 +49,4 @@ In this passage, a woman demonstrates extravagant love and devotion by pouring e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

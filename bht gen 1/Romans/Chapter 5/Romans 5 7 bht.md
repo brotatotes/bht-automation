@@ -9,7 +9,7 @@ This Bible verse highlights the extraordinary love and sacrifice of Christ for h
 2. "Such a self-sacrifice, not unexampled where a good man, one loving his fellow-men and loved by them, is to be rescued, is hardly found to occur on behalf of the pious and just."
 3. "For hardly will anyone die on behalf of a just man, for justice's sake, but I do not press this without exception, on behalf of the good man, perhaps one doth even dare to die."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Scarcely for a righteous man—a man of simply unexceptionable character—will one die."
 2. "Yet peradventure for a good man—a man who, besides being unexceptionable, is distinguished for goodness, a benefactor to society—some would even dare to die."
 3. "Scarce an instance occurs of self-sacrifice for one merely upright; though for one who makes himself a blessing to society there may be found an example of such noble surrender of life."
@@ -55,4 +55,4 @@ This Bible verse highlights the extraordinary love and sacrifice of Christ for h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

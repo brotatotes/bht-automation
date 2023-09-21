@@ -11,7 +11,7 @@ The verse describes a scene where ten lepers are cleansed by Jesus. The incident
 
 3. "The story of the ten lepers reminds us that it is not enough to receive blessings from God; we must also respond with gratitude and praise. Gratitude is not only a virtue but also a way to deepen our relationship with God and experience His abundant grace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Were not the ten cleansed? that is, the whole of them." - This quote highlights the fact that all ten lepers were cleansed by Jesus, emphasizing the completeness of the healing miracle.
 
 2. "An example (by the way) of Christ's omniscience." - This quote suggests that Jesus' knowledge of the ten lepers being cleansed serves as evidence of his omniscience, his all-knowing nature.
@@ -32,4 +32,4 @@ The verse describes a scene where ten lepers are cleansed by Jesus. The incident
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

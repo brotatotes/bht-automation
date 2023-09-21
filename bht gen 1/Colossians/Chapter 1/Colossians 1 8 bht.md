@@ -4,7 +4,7 @@
 "Love in the Spirit" is not merely a human emotion, but a love that is produced by the Holy Spirit. It is a love that flows from the nature of God Himself, sacrificial and unconditional. The Holy Spirit enables believers to love beyond their natural capacity, reflecting the character of Christ. It is a transformative love that draws others to Him and seeks the well-being of others, even those who may be difficult to love.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love is the first and chief fruit of the Spirit." 
 2. "True love is found in the sphere or element in which alone true love is found."
 3. "Even those in the Spirit needed to be stirred up to greater love."
@@ -52,4 +52,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

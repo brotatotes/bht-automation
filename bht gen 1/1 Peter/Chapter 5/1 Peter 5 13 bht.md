@@ -9,7 +9,7 @@ The description of the Bible verse includes interpretations from various comment
 2. "These considerations induce me to accede to the opinion of those, who recognize here the ἀδελφὴ γυνή whom St. Peter περιῆγεν, 1 Corinthians 9:5; and to find, in the somewhat unusual periphrastic way of speaking of her, a confirmation of this view."
 3. "The fact of Peter taking refuge in the house of Mary the mother of John Mark (Act 12:2), casts hardly any weight on the side of the former interpretation: but it derives some probability from the circumstance that St. Mark is reported by Eus. l. c., and iii. 39, 1 Peter 5:8, vi. 14, 25, to have been the ἀκόλουθος and μαθητής and ἑρμηνευτὴς Πέτρου, on the authority of Papias and Clement of Alexandria: and that Irenæus (Hær. iii. 11, p. 174, Eus. 1Pe 5:8) reports the same."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That portion of the whole dispersion, or Church of Christianized Jews, with Gentile converts, which resides in Babylon." 
 2. "Peter addresses the Church in John's peculiar province, Asia, and closes with 'your co-elect sister Church at Babylon saluteth you'."
 3. "Babylon was the center from which the Asiatic dispersion whom Peter addresses was derived."
@@ -53,4 +53,4 @@ The description of the Bible verse includes interpretations from various comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

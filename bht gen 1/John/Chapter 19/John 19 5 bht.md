@@ -4,7 +4,7 @@
 Behold the scene as Jesus came forth, not hesitating to face the mocking crowd, who were unaware of the gravity of their actions. His appearance in regal attire was meant to evoke sympathy and expose the baselessness of the accusations against Him. Though Pilate's intentions were to soften their hearts, Jesus's dignified response to the mockery revealed His divine purpose amidst the shame. The image of Jesus, bearing the marks of brutality, served as a powerful reminder of His humanity and the call for compassion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is no reason to think that contempt dictated this speech."
 2. "Not only was he reluctant to surrender to mere clamor an innocent man, but a feeling of anxiety about His mysterious claims, as is plain from what follows, was beginning to rack his breast."
 3. "Those three words have been eagerly appropriated by all Christendom, and enshrined for ever in its heart as a sublime expression of its calm, rapt admiration of its suffering Lord."
@@ -39,4 +39,4 @@ Behold the scene as Jesus came forth, not hesitating to face the mocking crowd, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

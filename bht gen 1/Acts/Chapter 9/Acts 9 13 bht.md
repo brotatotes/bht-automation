@@ -11,7 +11,7 @@ In this verse, believers are referred to as "holy ones" and "saints," highlighti
 
 3. "By calling believers 'holy ones,' Paul emphasizes their set-apartness and their belonging to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The objections of Ananias, and the removal of them by the Lord, display in a very touching manner the childlike relation of the believing soul to its Redeemer."
 2. "The Saviour speaks with Ananias as a man does with his friend."
 3. "Thy saints," says Ananias to Christ therefore Christ is God.
@@ -47,4 +47,4 @@ In this verse, believers are referred to as "holy ones" and "saints," highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

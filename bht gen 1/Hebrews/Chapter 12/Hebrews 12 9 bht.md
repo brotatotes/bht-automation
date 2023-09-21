@@ -13,7 +13,7 @@ In this Bible verse, we are called to submit and be in subjection to the Father 
 
 Note: The commentary is quite lengthy, so I have provided three quotes that capture the main ideas discussed in the passage.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We had the fathers of our flesh as correctors."
 2. "As 'Father of spirits,' He is both the Originator, and the Providential and Gracious Sustainer, at once of animal and spiritual life."
 3. "God is a spirit Himself, and the Creator of spirits like Himself, in contrast to men who are flesh, and the progenitors of flesh."
@@ -52,4 +52,4 @@ Note: The commentary is quite lengthy, so I have provided three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

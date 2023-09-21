@@ -4,7 +4,7 @@
 This verse describes a group of people who are displeasing to God and display wicked behaviors. They are haters of God and engage in activities such as defaming others, speaking against them behind their backs, inventing new ways of sinning, and being proud of their own knowledge and abilities. Their actions show their enmity towards God and their lack of regard for his commandments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Haters of God" expresses the detestableness of their character in His sight.
 2. The active sense of the word "haters" agrees perhaps better with the context.
 3. The majority of expositors adopt the active sense of the word "haters."
@@ -43,4 +43,4 @@ This verse describes a group of people who are displeasing to God and display wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

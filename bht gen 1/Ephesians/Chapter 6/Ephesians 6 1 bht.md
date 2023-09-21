@@ -4,7 +4,7 @@
 Children are called to obey their parents in all things that are lawful and morally right. The will of the parent is regarded as a law to the child, emphasizing their authority and responsibility. Obeying parents is not only the right thing to do, but also just and reasonable, highlighting the moral and ethical aspect of this obedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Obedience is more unreasoning and implicit; submission is the willing subjection of an inferior in point of order to one who has a right to command."
 2. "Both parents and children being Christians 'in the Lord,' expresses the element in which the obedience is to take place, and the motive to obedience."
 3. "Even by natural law we should render obedience to them from whom we have derived life."
@@ -54,4 +54,4 @@ Note: The commentary provided does not contain any additional quotes that meet t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This Bible verse speaks of the God of peace Himself. The commentators emphasize that this peace is not merely calm or tranquility, but based on reconciliation with God. It is a peace that the God of peace gives and bestows. This God, who is the source of peace, is also the sanctifier, renewing the whole person. The prayer in this verse is that believers may be kept blameless and perfect, progressing in holiness until the second coming of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of peace Himself"; who can do for you by His own power what I cannot do by all my monitions, nor you by all your efforts."
 2. "Holiness is the necessary condition of 'peace'."
 3. "The 'spirit' links man with the higher intelligences of heaven, and is that highest part of man which is receptive of the quickening Holy Spirit."
@@ -52,4 +52,4 @@ This Bible verse speaks of the God of peace Himself. The commentators emphasize 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

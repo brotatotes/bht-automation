@@ -11,7 +11,7 @@ The Bible verse being described is a powerful statement about the precious blood
 
 3. "the redemption of those brought out of heathendom required the blood of Christ" - The blood of Christ is necessary for the redemption of those who were once outside of God's covenant, emphasizing the universality of Christ's sacrifice.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With precious blood, as of a lamb without blemish (in itself) and without spot (contracted by contact with others), (even the blood) of Christ."
 2. "Though very man, He remained pure in Himself ('without blemish'), and uninfected by any impression of sin from without ('without spot'), which would have unfitted Him for being our atoning Redeemer."
 3. "As Israel's redemption from Egypt required the blood of the paschal lamb, so our redemption from sin and the curse required the blood of Christ."
@@ -59,4 +59,4 @@ Note: The commentary provided does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

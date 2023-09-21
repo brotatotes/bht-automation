@@ -9,7 +9,7 @@ In these verses, we see the importance of maintaining connections with fellow be
 2. "On this occasion Paul boldly rebuked him."
 3. "ἐν αἷς, because πᾶσαν πόλιν involves a plurality: so Xen. Mem. i. 2. 62, ἐάν τις φανερὸς γένηται … τούτοις θάνατός ἐστιν ἡ ζημία: cf. Herm. ad Viger. p. 40."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us go again and visit our brethren—the true reading is, 'the brethren.'" - This quote highlights the importance of maintaining a connection with fellow believers and checking on their spiritual well-being.
 
 2. "A pattern for churches and successful missionaries in every age." - This quote emphasizes the timeless relevance of Paul's example in actively monitoring the progress of those he had preached to, serving as an inspiration for churches and missionaries today.
@@ -54,4 +54,4 @@ In these verses, we see the importance of maintaining connections with fellow be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the author describes an overwhelming encounter with divine revelation. The narrator, identified as John, emphasizes his firsthand account of both what he has seen and heard. Despite being warned against it in the past, John is inclined to worship the angelic messenger, underscoring the universal human tendency towards idolatry. The repetition of language and the connection to previous events suggest a profound experience, raising questions about the nature of the encounter and the identity of the angel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rapturous emotion, gratitude, and adoration, at the prospect of the Church's future glory transport him out of himself, so as all but to fall into an unjustifiable act."
 2. "It is observable that in Revelation 19:10, the language is, 'I fell before his feet to worship him'; but here, 'I fell down to worship (God?) before the feet of the angel.' It seems unlikely that John, when once reproved, would fall into the very same error again."
 3. "John had first intended to worship the angel (Revelation 19:10), but now only at his feet intends to worship (God). The angel does not even permit this."
@@ -43,4 +43,4 @@ In this verse, the author describes an overwhelming encounter with divine revela
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

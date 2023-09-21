@@ -11,7 +11,7 @@ In this verse, Jesus teaches about the significance of obeying even the least of
 4. "No deduction can be drawn from these words binding the Jewish law, or any part of it, as such, upon Christians."
 5. "Decisive against such persons, whether ancient or modern, as would set aside the Old Testament as without significance, or inconsistent with the New."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever therefore shall break...one of these least commandments...he shall be called the least in the kingdom of heaven." 
 2. "The thing threatened is not exclusion from heaven, and still less the lowest place in it, but a degraded and contemptuous position in the present stage of the kingdom of God."
 3. "Whosoever shall do and teach them...shall be called great in the kingdom of heaven."
@@ -54,4 +54,4 @@ In this verse, Jesus teaches about the significance of obeying even the least of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Amidst a meal provided by Jesus, the multitude ate to their heart's content, highlighting the generous abundance of God's provision. Not only was there enough bread, but an abundance of fish as well, signifying the completeness of God's provision. Jesus further displayed his concern for stewardship by instructing his disciples to gather the remaining fragments, teaching us the importance of not taking God's blessings for granted and being mindful of not wasting any of His provisions. This verse speaks to the inclusive nature of God's grace, demonstrating that His love and provision are available to all who come to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And they did all eat, and were filled" - The meal provided by Jesus was abundant enough to satisfy the hunger of the entire multitude. This highlights the generosity and abundance of God's provision.
 
 2. "and likewise of the fishes, as much as they would" - The mention of the fish being plentiful emphasizes that Jesus not only provided enough bread but also an abundance of fish. This shows the completeness and abundance of God's provision.
@@ -20,4 +20,4 @@ Amidst a meal provided by Jesus, the multitude ate to their heart's content, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

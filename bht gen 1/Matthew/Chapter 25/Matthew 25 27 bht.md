@@ -4,7 +4,7 @@
 The verse being described highlights the responsibility of individuals to wisely utilize the resources and talents entrusted to them by God. It emphasizes the missed opportunities and the need for initiative and effort to grow and multiply those resources. The verse also emphasizes the importance of trust, the potential for increase through lawful means, and the disappointment when one fails to fulfill their responsibilities. Overall, the verse emphasizes personal agency, the importance of growth and improvement, and the mindset of faithful and dedicated service.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable teaches us that God has entrusted each of us with resources and talents, and He expects us to use them wisely and productively." 
 2. "The exchangers represent the opportunities and avenues available to us to invest and grow our resources, whether it be through education, entrepreneurship, or other means." 
 3. "The mention of usury reminds us that God desires us to be fruitful and multiply, not just in a physical sense, but also in a spiritual and intellectual sense."
@@ -53,4 +53,4 @@ These quotes provide insights into the meaning of the verse, emphasizing the exp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

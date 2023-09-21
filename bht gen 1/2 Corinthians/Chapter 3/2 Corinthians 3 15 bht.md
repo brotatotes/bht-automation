@@ -11,7 +11,7 @@ Despite the ongoing study of Moses's writings, there remains a spiritual veil th
 
 3. "Whenever Moses is read, a veil lies upon their understanding." - This quote underscores the fact that the veil of spiritual blindness persists even when people engage with the Scriptures, indicating the need for a deeper revelation of God's truth.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a veil lieth upon their heart" - This phrase highlights the spiritual blindness and lack of understanding that affects the corrupt will of individuals. It suggests that their hearts are covered by a metaphorical veil, preventing them from perceiving the truth. 
 
 2. "The Tallith was worn in the synagogue by every worshipper" - This reference to the Tallith, a Jewish prayer shawl, provides a visual image of a physical veil. It helps to illustrate the concept of a veil as a symbol for the spiritual barrier that hinders understanding and connection with God. 
@@ -42,4 +42,4 @@ Despite the ongoing study of Moses's writings, there remains a spiritual veil th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

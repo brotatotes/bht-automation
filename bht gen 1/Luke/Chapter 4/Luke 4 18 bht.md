@@ -9,7 +9,7 @@ The verse being described combines passages from Isaiah, Luke, and John to empha
 2. "The LXX and literal rendering both included, and the latter expressed in the LXX words of Isaiah 58:6."
 3. "See Isaiah 11:2; Isaiah 42:1; Luke 13:12; Luke 13:16; John 9:39."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To have fixed on any passage announcing His sufferings would have been unsuitable at that early stage of His ministry."
 2. "He selects a passage announcing the sublime object of His whole mission, its divine character, and His special endowments for it."
 3. "It seems as if made expressly for this occasion."
@@ -53,4 +53,4 @@ The verse being described combines passages from Isaiah, Luke, and John to empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

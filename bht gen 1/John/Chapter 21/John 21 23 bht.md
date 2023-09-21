@@ -9,7 +9,7 @@ In this verse, there is a prevalent misunderstanding among the disciples regardi
 2. "This notion of John’s not having died, was prevalent in the early Church."
 3. "The simple recapitulation of the words of the Lord shews that their sense remained dark to the writer, who ventured on no explanation of them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The prevalent expectation that Christ's second coming was near at hand." This quote highlights the context in which the saying spread among the brethren, emphasizing their anticipation of Christ's return.
 2. "The Evangelist is jealous for His Master's honor." This quote reveals the author's intention to clarify any misunderstanding that could compromise Jesus' reputation.
 3. "FINAL CLOSE OF THIS GOSPEL." This quote signifies the end of the Gospel of John, indicating the completion of the narrative and the conclusion of the commentary.
@@ -57,4 +57,4 @@ In this verse, there is a prevalent misunderstanding among the disciples regardi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

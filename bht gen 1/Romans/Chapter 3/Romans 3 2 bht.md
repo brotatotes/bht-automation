@@ -9,7 +9,7 @@ The verse being described by the commentators is a passage that emphasizes the i
 2. "The Apostle begins as if intending to instance several of these advantages, but having mentioned the greatest, leaves it to his reader to fill in the rest, and turns to establish what he has just asserted."
 3. "These oracles are not only the law of Moses, but all the revelations of God hitherto made of Himself directly, all of which had been entrusted to Jews only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Much every way; chiefly, because—rather, 'first, that.'" - This quote highlights the significance of the Jews being entrusted with the oracles of God. It emphasizes that this responsibility was of utmost importance and held a special place among all other privileges.
 
 2. "This remarkable expression, denoting 'divine communications' in general, is transferred to the Scriptures to express their oracular, divine, authoritative character." - This quote explains the significance of the term "oracles of God" and how it is used to describe the Scriptures. It emphasizes that the Scriptures are not just ordinary writings but carry divine authority and are a means of communication from God.
@@ -57,4 +57,4 @@ The verse being described by the commentators is a passage that emphasizes the i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

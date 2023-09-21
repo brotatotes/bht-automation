@@ -9,7 +9,7 @@ On a mountain, Jesus reveals His divine glory, foreshadowing His resurrection an
 2. "His employment when the glorious change came over Him."
 3. "The one reckoning being exclusive, the other inclusive."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "this scene was designed to show to the eyes as well as the heart how glorious that death was in the view of Heaven."
 2. "Peter, James, and John—partners before in secular business; now sole witnesses of the resurrection of Jairus' daughter, the transfiguration, and the agony in the garden."
 3. "But who can adequately translate those 'strong cryings and tears?' Methinks, as I steal by His side, I hear from Him these plaintive sounds, 'Lord, who hath believed Our report? I am come unto Mine own and Mine own receive Me not; I am become a stranger unto My brethren, an alien to My mother's children: Consider Mine enemies, for they are many, and they hate Me with cruel hatred. Arise, O Lord, let not man prevail. Thou that dwellest between the cherubim, shine forth: Show Me a token for good: Father, glorify Thy name.'"
@@ -40,4 +40,4 @@ On a mountain, Jesus reveals His divine glory, foreshadowing His resurrection an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

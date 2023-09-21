@@ -9,7 +9,7 @@ The Bible verse being described talks about the fleeting nature of time and the 
 2. "The proper meaning of συστέλλεσθαι, to be contracted, is found in Diod. Sic. i. 41, διὸ καὶ τὸν Νεῖλον εὐλόγως κατὰ τὸν χειμῶνα μικρὸν εἶναι καὶ συστέλλεσθαι. It is, as Schrader well renders it, ‘in Kurzem sturzt die alte Welt zusammen.’"
 3. "The end for which the time has been (by God) thus gathered up into a short compass: in order that both they, &c.: i.e. in order that Christians, those who wait for and shall inherit the coming kingdom, may keep themselves loosed in heart from worldly relationships and employments."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time—the season (so the Greek) of this present dispensation up to the coming of the Lord."
 2. "The time (season) is shortened as to what remains, in order that both they," c. that is, the effect which the shortening of the time ought to have is, "that for the remaining time (henceforth), both they," &c."
 3. "We ought to consider nothing as our own in real or permanent possession."
@@ -50,4 +50,4 @@ The Bible verse being described talks about the fleeting nature of time and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

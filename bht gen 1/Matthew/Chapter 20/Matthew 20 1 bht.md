@@ -9,7 +9,7 @@ In this parable, a householder represents God in the Gospel dispensation, and hi
 2. "The Jewish Church was God's vineyard especially and typically; His Church in all ages is His true vineyard."
 3. "Our language admits of the idiom εἰς τὸν ἀμ . αὐ . being exactly rendered into his vineyard, E. V."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The figure of a vineyard, to represent the rearing of souls for heaven, the culture required and provided for that purpose, and the care and pains which God takes in that whole matter, is familiar to every reader of the Bible." 
 
 2. "Perhaps the pressing nature of the work of the Gospel, and the comparative paucity of laborers, may be incidentally suggested." 
@@ -54,4 +54,4 @@ In this parable, a householder represents God in the Gospel dispensation, and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

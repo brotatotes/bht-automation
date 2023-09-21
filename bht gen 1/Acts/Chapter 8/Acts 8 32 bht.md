@@ -11,7 +11,7 @@ In Acts 8, Philip encounters an Ethiopian eunuch who is reading a specific porti
 
 3. "The citation is from the LXX-A, with only the variation of αὐτοῦ inserted after ταπεινώσει (and [ δέ ] before γενεάν )" - This quote provides insight into the specific version of the scripture being referenced, indicating the importance of considering different translations and variations to gain a comprehensive understanding.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One cannot but wonder that this, of all predictions of Messiah's sufferings in the Old Testament the most striking, should have been that which the eunuch was reading before Philip joined him."
 2. "He could hardly miss to have heard at Jerusalem of the sufferings and death of Jesus, and of the existence of a continually increasing party who acknowledged Him to be the Messiah."
 3. "But his question to Philip, whether the prophet in this passage meant himself or some other man, clearly shows that he had not the least idea of any connection between this prediction and those facts."
@@ -63,4 +63,4 @@ In Acts 8, Philip encounters an Ethiopian eunuch who is reading a specific porti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

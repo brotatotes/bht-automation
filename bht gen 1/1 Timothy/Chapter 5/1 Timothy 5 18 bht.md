@@ -9,7 +9,7 @@ This verse emphasizes the importance of treating animals with compassion and pro
 2. "It is doubted whether the words ἄξιος ὁ ἐργάτ . κ . τ . λ . are a citation at all."
 3. "Calvin’s view seems most probable, that he adduces the sentiment, as our Lord Himself does, as a popular and well-known saying."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The labourer is worthy of his reward" - This quote emphasizes the idea that those who work deserve to be compensated for their efforts. It highlights the importance of recognizing and valuing the work that individuals put in.
 
 2. "If Paul extends the phrase, 'Scripture saith,' to this second clause, as well as to the first, he will be hereby recognizing the Gospel of Luke, his own helper, as inspired Scripture." - This quote suggests that Paul's use of the phrase "Scripture saith" could be seen as an endorsement of the Gospel of Luke as inspired Scripture. It implies the recognition of Luke's Gospel as authoritative and significant.
@@ -61,4 +61,4 @@ This verse emphasizes the importance of treating animals with compassion and pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

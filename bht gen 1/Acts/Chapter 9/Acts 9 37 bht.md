@@ -8,7 +8,7 @@ In those days, a woman in Lydda fell ill and died. As was customary, her body wa
 1. "No art., as in the expressions εἰς οἶκον, 'on deck,' &c., which usually occur after prepositions, cf. Middl. ch. vi. § 1." 
 2. "See 1 Kings 17:19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When they had washed—according to the custom of civilized nations towards the dead." 
 2. "In an upper chamber—rather, 'the'." 
 3. "Compare 1 Kings 17:19."
@@ -51,4 +51,4 @@ In those days, a woman in Lydda fell ill and died. As was customary, her body wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

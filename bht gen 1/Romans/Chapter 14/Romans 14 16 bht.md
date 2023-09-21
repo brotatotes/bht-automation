@@ -9,7 +9,7 @@ The verse being described is a cautionary reminder to believers to be mindful of
 2. "Use it so that it may be honored."
 3. "Encourage others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let not then your good—that is, this liberty of yours as to Jewish meats and days, well founded though it be." 
 2. "Be evil spoken of—for the evil it does to others."
 3. "The emphasis is on the potential harm that can come from exercising one's freedom in a way that causes offense or stumbling to others."
@@ -50,4 +50,4 @@ The verse being described is a cautionary reminder to believers to be mindful of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

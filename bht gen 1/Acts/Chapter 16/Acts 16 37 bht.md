@@ -9,7 +9,7 @@ In this verse, Paul and Silas, as Romans, boldly confront the magistrates who ha
 2. "By the Lex Valeria, passed A.U.C. 254, and the Lex Porcia, A.U.C. 506, Roman citizens were exempted from stripes and torture."
 3. "The circumstances must determine; which here seem to require this sense: the ἐκβάλλειν λάθρα having a tinge of degradation in it, as if said of casting out that of which one is ashamed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The publicity of the injury done them, exposing their naked and bleeding bodies to the rude populace, was evidently the most stinging feature of it to the apostle's delicate feeling."
 2. "The intended contrast between the public insult they had inflicted and the private way in which they ordered them to be off."
 3. "By open and formal act, equivalent to a public declaration of their innocence."
@@ -55,4 +55,4 @@ In this verse, Paul and Silas, as Romans, boldly confront the magistrates who ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

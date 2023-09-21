@@ -11,7 +11,7 @@ In this verse, the author addresses the readers' shared conflict and the opposit
 
 3. "by report of others, and by this Epistle" - This quote indicates that the readers are informed about the conflict through both verbal accounts and the written letter, emphasizing the importance and validity of the information being conveyed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am 'in nothing terrified by mine adversaries' (1 Thessalonians 2:2), so ought not ye." 
 
 2. "The words here, 'ye saw... and... hear,' answer to 'I come and see you, or else... hear' (Philippians 1:27)."
@@ -59,4 +59,4 @@ In this verse, the author addresses the readers' shared conflict and the opposit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

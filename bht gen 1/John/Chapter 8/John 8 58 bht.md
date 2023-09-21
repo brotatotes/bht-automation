@@ -9,7 +9,7 @@ In this verse, Jesus declares his timeless and eternal existence, distinct from 
 2. "The distinction between γενέσθαι and εἰμί is important. 'Antequam nasceretur Abraham, ego sum' (Erasmus)."
 3. "In this verse the God-head of Christ is involved; and this the Jews clearly understood, by their conduct to Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The statement therefore is not that Christ came into existence before Abraham did (as Arians affirm is the meaning), but that He never came into being at all, but existed before Abraham had a being; in other words, existed before creation, or eternally."
 2. "In that sense the Jews plainly understood Him, since 'then took they up stones to cast at Him,' just as they had before done when they saw that He made Himself equal with God."
 3. "hid himself—(See on John 1:1- :)."
@@ -55,4 +55,4 @@ In this verse, Jesus declares his timeless and eternal existence, distinct from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

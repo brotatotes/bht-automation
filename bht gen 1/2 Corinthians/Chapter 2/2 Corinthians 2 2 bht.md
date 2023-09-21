@@ -9,7 +9,7 @@ In this verse, the author expresses his deep concern for the Corinthians. He ack
 2. "καί prefixed to a question denotes inconsequence on, or inconsistency with, the foregoing supposition or affirmation: so Eur. Med. 1388, ὦ τέκνα φίλτατα! 'μητρί γε, σοὶ δʼ οὔ.' κἄπειτʼ ἔκτας? see other examples in Hartung, Partikellehre, i. p. 147. It is best expressed in English by 'then:' who is he then, &c. as in E. V."
 3. "The explanation of Chrys., who has been followed by Erasm., Bengel, Olsh., al., is curious, and certainly inconsistent with the context: εἰ καὶ λυπῶ ὑμᾶς, χάριν μοι παρέχετε κἀν τούτῳ μεγίστην, ὅτι δάκνεσθε ὑπὸ τῶν παρʼ ἐμοῦ λεγομένων. Hom. iv. p. 456."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For—proof that he shrinks from causing them sorrow ("heaviness")."
 2. "If I be the one to cause you sorrow, it is not that I have any pleasure in doing so."
 3. "Nay, my object was that he 'who was made sorry by me' should repent, and so 'make me glad,' as has actually taken place."
@@ -57,4 +57,4 @@ In this verse, the author expresses his deep concern for the Corinthians. He ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

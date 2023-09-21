@@ -9,7 +9,7 @@ This verse showcases the impact of the early Christian movement, spreading acros
 2. "If he went to Antioch, he might regain his route into Phrygia and Galatia by crossing the hills east of that city." 
 3. "He might at Iconium see the elders of the church of Antioch, as he did afterwards those of Ephesus at Miletus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the triumph of Christian liberty at Jerusalem, and the wise measures there taken to preserve the unity of the Jewish and Gentile converts."
 2. "THEY BREAK NEW GROUND IN PHRYGIA AND GALATIA—THEIR COURSE IN THAT DIRECTION BEING MYSTERIOUSLY HEDGED UP"
 3. "they are divinely directed to Macedonia"
@@ -46,4 +46,4 @@ This verse showcases the impact of the early Christian movement, spreading acros
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

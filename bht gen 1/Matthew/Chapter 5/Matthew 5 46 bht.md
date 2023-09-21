@@ -9,7 +9,7 @@ In this verse, the commentators shed light on the significance of loving those w
 2. "This race of men, so frequently mentioned as the objects of hatred and contempt among the Jews, and coupled with sinners, were not properly the publicans, who were wealthy Romans, of the rank of knights, farming the revenues of the provinces; but their underlings, heathens or renegade Jews, who usually exacted with recklessness and cruelty."
 3. "In interpreting these verses we must carefully give the persons spoken of their correlative value and meaning: ye, Christians, sons of God, the true theocracy, the βασιλ . τ . οὐρ ., these τελῶναι or ἐθνικοί, men of this world, actuated by worldly motives, 'what thank have ye in being like them?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In loving those who love you, there is no evidence of superior principle; the worst of men will do this: even a publican will go that length."
 2. "The publicans, as collectors of taxes due to the Roman government, were ever on this account obnoxious to the Jews, who sat uneasy under a foreign yoke, and disliked whatever brought this unpleasantly before them."
 3. "The extortion practiced by this class made them hateful to the community, who in their current speech ranked them with 'harlots.'"
@@ -43,4 +43,4 @@ In this verse, the commentators shed light on the significance of loving those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

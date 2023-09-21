@@ -9,7 +9,7 @@ The apostle Paul, with a clear plan and intention, announces his intention to vi
 2. "For this he was charged with levity of purpose: but his real motive was lenity towards them, that he might not come to them in sorrow and severity." 
 3. "The pres. implies, as in E. V., his now matured plan, not, as in the erroneous subscription of the Epistle, that he was on his way through Macedonia when he wrote the word."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His first intention had been to pass through them to Macedonia, and again return to them from Macedonia, and so to Judea; this he had announced in the lost epistle." 
 2. "Now having laid aside this intention, he announces his second plan of 'not seeing them now by the way,' but 'passing through Macedonia' first on his way to them, and then 'tarrying a while,' and even 'abiding and wintering with them.'"
 3. "In accordance with his second plan, we find him in Macedonia when Second Corinthians was written, and on his way to Corinth."
@@ -54,4 +54,4 @@ The apostle Paul, with a clear plan and intention, announces his intention to vi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

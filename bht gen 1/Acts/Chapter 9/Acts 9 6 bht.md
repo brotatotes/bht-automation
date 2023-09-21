@@ -4,7 +4,7 @@
 In this Bible verse, we see a mind singularly interesting, a soul humbled, and an absolute confidence in God. The disciples are trembling and astonished in the presence of Jesus, who they now recognize as the Christ. They offer themselves ready to do His commandments, submitting to His will and pleasure. Even the reprobate, when faced with the threatening of God, are compelled to reverence Him. It is a transformative encounter that mollifies the heart and inspires awe and reverence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question, 'What shall I do, Lord?' or, 'Lord, what wilt Thou have me to do?' indicates a state of mind singularly interesting."
 2. "Its elements seem to be these: (1) Resistless conviction that 'Jesus whom he persecuted,' now speaking to him, was 'Christ the Lord.' (2) As a consequence of this, that not only all his religious views, but his whole religious character, had been an entire mistake; that he was up to that moment fundamentally and wholly wrong."
 3. "That though his whole future was now a blank, he had absolute confidence in Him who had so tenderly arrested him in his blind career, and was ready both to take in all His teaching and to carry out all His directions."
@@ -51,4 +51,4 @@ In this Bible verse, we see a mind singularly interesting, a soul humbled, and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

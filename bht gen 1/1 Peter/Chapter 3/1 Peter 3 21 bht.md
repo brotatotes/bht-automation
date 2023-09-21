@@ -9,7 +9,7 @@ In this Bible verse, commentators discuss the significance of water and baptism 
 2. "The seeking after God in a good and pure conscience, which is the aim and end of the Christian baptismal life." 
 3. "By means of the resurrection of Jesus Christ, as the removal of sin once for all for all mankind, it is, that in baptism the prayer for a good conscience is directed to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Water saved Noah not of itself, but by sustaining the ark built in faith, resting on God's word: it was to him the sign and mean of a kind of regeneration, of the earth."
 2. "The flood was for Noah a baptism, as the passage through the Red Sea was for the Israelites; by baptism in the flood he and his family were transferred from the old world to the new: from immediate destruction to lengthened probation; from the companionship of the wicked to communion with God; from the severing of all bonds between the creature and the Creator to the privileges of the covenant: so we by spiritual baptism."
 3. "Not the putting away of the filth of the flesh (as is done by a mere water baptism, unaccompanied with the Spirit's baptism), but of the soul. It is the ark (Christ and His Spirit-filled Church), not the water, which is the instrument of salvation: the water only flowed round the ark so not the mere water baptism, but the water when accompanied with the Spirit."
@@ -54,4 +54,4 @@ In this Bible verse, commentators discuss the significance of water and baptism 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

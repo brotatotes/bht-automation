@@ -11,7 +11,7 @@ The described Bible verse discusses the preaching style of the apostle Paul. It 
 
 These quotes highlight the contrast between Paul's preaching and the use of persuasive words of wisdom. They emphasize that Paul's preaching was not based on human wisdom, but on the demonstration of the Spirit and power of God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My discourse on doctrines, and my preaching or announcement of facts." 
 2. "Persuasion is man's means of moving his fellow man. God's means is demonstration, leaving no doubt, and inspiring implicit faith, by the powerful working of the Spirit." 
 3. "The same simple power accompanies divine truth now, producing certain persuasion and conversion, when the Spirit demonstrates by it."
@@ -64,4 +64,4 @@ These quotes highlight the contrast between Paul's preaching and the use of pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

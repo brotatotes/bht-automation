@@ -4,7 +4,7 @@
 In this verse, we witness a powerful encounter between God and Satan as the soul is delivered from the clutches of the evil one. The struggle is intense, both physically and spiritually, leaving the person who was possessed in a state of exhaustion and stillness. However, this victory displays the undeniable power of God as the ultimate deliverer, proving that no matter how fierce the battle may be, God's authority and intervention will prevail.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The malignant, cruel spirit, now conscious that his time was come, gathers up his whole strength, with intent by a last stroke to kill his victim, and had nearly succeeded."
 2. "But the Lord of life was there; the Healer of all maladies, the Friend of sinners, the Seed of the woman, 'the Stronger than the strong man armed,' was there."
 3. "The very faith which Christ declared to be enough for everything being now found, it was not possible that the serpent should prevail. Fearfully is he permitted to bruise the heel, as in this case; but his own head shall go for it—his works shall be destroyed."
@@ -37,4 +37,4 @@ These quotes emphasize the power of Jesus as the healer and the defeat of the ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

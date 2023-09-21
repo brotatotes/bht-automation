@@ -9,7 +9,7 @@ In this Bible verse, we encounter a man named Barnabas, who lives up to his name
 2. "Barnabas lived up to his name by coming alongside the early believers, offering support and encouragement in their faith journey."
 3. "The interpretation of Barnabas' name as 'son of encouragement' highlights his ability to uplift and inspire others, making him a valuable asset to the early Christian community."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When he . . . had seen the grace of God—in the new converts."
 2. "Was glad—owned and rejoiced in it at once as divine, though they were uncircumcised."
 3. "Exhorted them all that with purpose of heart—as opposed to a hasty and fickle discipleship."
@@ -54,4 +54,4 @@ In this Bible verse, we encounter a man named Barnabas, who lives up to his name
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

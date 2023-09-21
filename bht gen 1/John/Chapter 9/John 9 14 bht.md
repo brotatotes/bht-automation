@@ -9,7 +9,7 @@ In this verse, we see the extraordinary transformation of a blind beggar into a 
 2. "The man only relates what he himself, as being blind, had felt: he says nothing of the spittle."
 3. "It is interesting, as a minute mark of accuracy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The neighbours therefore . . . said, Is not this he that sat and begged" - This quote highlights the recognition of the blind beggar by his neighbors, emphasizing the contrast between his previous state of blindness and his newfound ability to see.
 
 2. "Here are a number of details to identify the newly seeing with the long-known blind beggar" - This quote emphasizes the significance of the specific details that confirm the identity of the blind beggar who can now see, reinforcing the authenticity of the miracle.
@@ -52,4 +52,4 @@ In this verse, we see the extraordinary transformation of a blind beggar into a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

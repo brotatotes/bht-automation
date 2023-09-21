@@ -11,7 +11,7 @@ The Bible verse being described emphasizes the concept that believers will have 
 
 3. "the Lord thus coming to His temple in flaming fire, all the parts of the building which will not stand that fire will be consumed" - The coming of the Lord is depicted as a consuming fire that will test the quality of the work done by believers. Anything that does not withstand the fire will be consumed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any teacher's work consist of such materials as the fire will destroy."
 2. "Saved, yet not without fire."
 3. "The builders will escape with personal salvation, but with the loss of their work, through the midst of the conflagration."
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

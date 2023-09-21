@@ -9,7 +9,7 @@ In this passage, commentators highlight the inseparable connection between the r
 2. "οὐδὲ χριστ  .   ἐγήγερται" - This inference depends on the maxim, "Sublato genere tollitur et species;" the Resurrection of Christ being an instance of the rule, that dead men rise; inasmuch as He is man.
 3. "This is enlarged on, 1 Corinthians 15:20-22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If there be no general resurrection, which is the consequent, then there can have been no resurrection of Christ, which is the antecedent."
 2. "The head and the members of the body stand on the same footing: what does not hold good of them, does not hold good of Him either."
 3. "His resurrection and theirs are inseparably joined."
@@ -45,4 +45,4 @@ In this passage, commentators highlight the inseparable connection between the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

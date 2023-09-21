@@ -4,7 +4,7 @@
 The commentary suggests that Judah, the first tribe mentioned, holds a significant position both in the kingdom and as the tribe from which the Messiah would come. This highlights Judah's role in the establishment and governance of the kingdom, while also foreshadowing the future arrival of Jesus Christ. The mention of Judah signifies the importance of praising God and looking to the Son for righteousness, and it also suggests the existence of a numerous company of saints who would overcome trials through Christ. Overall, the commentary underscores the significance of Judah in the unfolding of God's plans for salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Judah (meaning praise) stands first, as Jesus' tribe."
 2. "The twelve times twelve thousand sealed ones of Israel are the nucleus of transfigured humanity."
 3. "Both [the twelve tribes of Israel and the elect Gentiles] are in heaven, yet ruling over the earth, as ministers of blessing to its inhabitants."
@@ -25,4 +25,4 @@ The commentary suggests that Judah, the first tribe mentioned, holds a significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

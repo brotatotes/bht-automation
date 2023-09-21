@@ -9,7 +9,7 @@ The individuals in this passage embarked on a journey with unwavering determinat
 2. "It is only a strong southerly breeze which will overcome the current southwards which runs from the Dardanelles by Tenedos."
 3. "They seem to have anchored N. of the lofty island of Samothrace, under its lee."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Therefore loosing from Troas, we came—literally, 'ran.'"
 2. "with a straight course—that is, 'ran before the wind.'"
 3. "The wind must have set in strong from the south or south-southeast to bring them there so soon, as the current is strong in the opposite direction, and they afterwards took five days to what they now did in two (Acts 20:6) [HOWSON]."
@@ -59,4 +59,4 @@ The individuals in this passage embarked on a journey with unwavering determinat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

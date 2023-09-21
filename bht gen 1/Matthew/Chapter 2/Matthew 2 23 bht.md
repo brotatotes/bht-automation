@@ -9,7 +9,7 @@ This Bible verse narrates how Jesus settled in the humble town of Nazareth, whic
 2. "The general sense of the prophets is, that Christ should be a despised person, as the inhabitants of Nazareth were."
 3. "There may be an allusion to נֵצֶר, a branch, by which name our Lord is called in Isaiah 11:1, and from which word it appears that the name Nazareth is probably derived."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The little town of Nazareth, mentioned neither in the Old Testament nor in JOSEPHUS, was probably so called from its insignificance: a weak twig in contrast to a stately tree; and a special contempt seemed to rest upon it—'Can any good thing come out of Nazareth?'"
 2. "Thus, in the providential arrangement by which our Lord was brought up at the insignificant and opprobrious town called Nazareth, there was involved, first, a local humiliation; next, an allusion to Isaiah's prediction of His lowly, twig-like upspringing from the branchless, dried-up stump of Jesse."
 3. "Yet further, a standing memorial of that humiliation which 'the prophets,' in a number of the most striking predictions, had attached to the Messiah."
@@ -57,4 +57,4 @@ This Bible verse narrates how Jesus settled in the humble town of Nazareth, whic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

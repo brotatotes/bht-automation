@@ -9,7 +9,7 @@ In this closing portion of the Epistle, the apostle Paul implores the Thessaloni
 2. "παρακ. ἐν κυρ. Ἰησ.] we exhort you in the Lord Jesus, that as ye received from us how ye ought to walk and to please God, as also ye are walking, that ye abound yet more." 
 3. "The repetition of ἵνα after so long an intervening clause is too natural to have given rise...to the insertion) that ye abound yet more, viz.: ἐν τῷ οὕτως περιπατεῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Furthermore—Greek, 'As to what remains.' Generally used towards the close of his Epistles."
 2. "We now give you exhortation, beseech—'ask' as if it were a personal favor."
 3. "Walk and please God—that is, 'and so please God,' namely, by your walk; in contrast to the Jews who 'please not God'."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of continuous growth and progress in the C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

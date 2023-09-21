@@ -9,7 +9,7 @@ This verse speaks of the Apostle Paul's personal experience of finding comfort a
 2. "In order that we may be able: not, 'so that we are able.' Chrys. ib. 'Non sibi vivebat Apostolus, sed Ecclesiæ: ita quicquid gratiarum in ipsum conferebat Deus, non sibi soli datum reputabat, sed quo plus ad alios juvandos haberet facultatis.' Calv."
 3. "ἧς, attr. for ᾗ, or perhaps (Winer, edn. 6, § 24. 1) for ἣν (παράκλησιν παρακαλεῖν)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle lived, not to himself, but to the Church; so, whatever graces God conferred on him, he considered granted not for himself alone, but that he might have the greater ability to help others." 
 2. "Participation in all the afflictions of man peculiarly qualified Jesus to be man's comforter in all his various afflictions." 
 3. "Jesus' ability to comfort others in their troubles is rooted in His own personal experience of suffering and affliction."
@@ -48,4 +48,4 @@ This verse speaks of the Apostle Paul's personal experience of finding comfort a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The disciples approached the tomb of Jesus with practical concerns about who would roll away the stone blocking the entrance. Unaware of the sealing of the stone and the guard that had been placed, they displayed limited understanding and knowledge of the events surrounding Jesus' burial. Their focus on the physical obstacle highlights their limited perspective, emphasizing the need for a deeper understanding of the spiritual significance of Jesus' resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On reaching it they find their difficulty gone—the stone already rolled away by an unseen hand."
 2. "And are there no others who, when advancing to duty in the face of appalling difficulties, find their stone also rolled away?"
 3. "Who shall roll us away the stone from the door of the sepulchre? . . . for it was very great."
@@ -49,4 +49,4 @@ The disciples approached the tomb of Jesus with practical concerns about who wou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse, described by various commentators, speaks of the distinction between
 2. "The soul (ψυχή) is the subject of life and salvation. Faith saves the soul, by linking it to God, the living One." 
 3. "The unbelieving man loses his soul: for not being God’s, neither is he his own: all that his personality has in itself and round itself, is fallen under wrath and the powers of wrath."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If we acquire or obtain our soul's salvation, it is through Him who has obtained it for us by His bloodshedding."
 2. "The unbelieving man loses his soul: for not being God's, neither is he his own."
 3. "Faith saves the soul by linking it to God."
@@ -63,4 +63,4 @@ This verse, described by various commentators, speaks of the distinction between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

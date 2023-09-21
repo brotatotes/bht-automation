@@ -9,7 +9,7 @@ In this verse, a disciple named Thomas boldly addresses the resurrected Christ, 
 2. "By the impossibility of referring ὁ κύριός μου to another than Jesus: see John 20:13."
 3. "This is the highest confession of faith which has yet been made; and that it shows that (though not yet fully) the meaning of the previous confessions of His being 'the Son of God' was understood."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His exclamation surpasses all that had been yet uttered, nor can it be surpassed by anything that ever will be uttered in earth or heaven."
 2. "The Socinian invasion of the supreme divinity of Christ here manifestly taught—as if it were a mere call upon God in a fit of astonishment—is beneath notice, save for the profanity it charges upon this disciple, and the straits to which it shows themselves reduced."
 3. "The glory of Christ now breaks upon him in a flood."
@@ -45,4 +45,4 @@ In this verse, a disciple named Thomas boldly addresses the resurrected Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Thessalonians were active in spreading the word of the Lord, becoming a livi
 2. "ἐξήχηται] δηλῶν ὅτι ὥσπερ σάλπιγγος λαμπρὸν ἠχούσης ὁ πλησίον ἅπας πληροῦται τόπος, οὕτω τῆς ὑμετέρας ἀνδρείας ἡ φήμη καθάπερ ἐκείνη σαλπίζουσα ἱκανὴ τὴν οἰκουμένην ἐμπλῆσαι. Chrys."
 3. "ὁ λόγ. τ. κυρίου, cannot be as De W. ‘the fame of the reception of the Gospel by you:’ the sense seems to be that your ready reception and faith as it were sounded forth the λόγον τοῦ κυρίου, the word of the Lord, the Gospel message, loudly and clearly, through all parts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They, by the report which spread abroad of their 'faith'... were virtually missionaries, recommending the Gospel to all within reach of their influence by word and by example."
 2. "In 'sounded,' the image is that of a trumpet filling with its clear-sounding echo all the surrounding places."
 3. "No longer directed to idols."
@@ -58,4 +58,4 @@ The Thessalonians were active in spreading the word of the Lord, becoming a livi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

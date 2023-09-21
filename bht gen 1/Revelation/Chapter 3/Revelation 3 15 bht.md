@@ -4,7 +4,7 @@
 This Bible verse describes a lukewarm state, where there is a profession of religion but no warm-hearted piety or fervency. It is a dangerous condition, mistaken for a safe state, lacking the honesty of open opposition or devoted love. It is a state where one is attached to the world and opposed to the Church, neither hot nor cold. However, there is more hope for those who are cold and ignorant of religion, as they have the potential to respond to the Gospel call and become fervent Christians.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The lukewarm state, if it be the transitional stage to a warmer, is a desirable state (for a little religion, if real, is better than none); but most fatal when, as here, an abiding condition, for it is mistaken for a safe state."
 2. "This accounts for Christ's desiring that they were cold rather than lukewarm. For then there would not be the same 'danger of mixed motive and disregarded principle.'"
 3. "Also, there is more hope of the 'cold,' that is, those who are of the world, and not yet warmed by the Gospel call; for, when called, they may become hot and fervent Christians."
@@ -45,4 +45,4 @@ Note: The commentary provides additional explanations and references, but these 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

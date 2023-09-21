@@ -9,7 +9,7 @@ The verse being described emphasizes the insignificance and emptiness of idols. 
 2. "That they who worship idols, worship devils, the Apostle himself asserts ch. 1 Corinthians 10:20; but that is no contradiction to the present sentence, which asserts that the deities imagined by them, Jupiter, Apollo, &c., have absolutely no existence."
 3. "And that there is no god, but One: the insertion of ἕτερος has probably been occasioned by the first commandment, οὐκ ἔσονταί σοι θεοὶ ἕτεροι πλὴν ἐμοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Idol is nothing—has no true being at all, the god it represents is not a living reality."
 2. "This does not contradict 1 Corinthians 8:1- :, which states that they who worship idols, worship devils for here it is the GODS believed by the worshippers to be represented by the idols which are denied to have any existence, not the devils which really under the idols delude the worshippers."
 3. "None other God—The oldest manuscripts omit the word 'other'; which gives a clearer sense."
@@ -45,4 +45,4 @@ These quotes highlight the understanding that idols are meaningless without the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

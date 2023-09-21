@@ -9,7 +9,7 @@ The Bible verse being described focuses on the true essence of being a Jew, whic
 2. "ἐν πν. οὐ γρ.] in [the] spirit, not in [the] letter. Not merely ‘spiritually, not externally:' but the living power or element, wherewith that inner sphere of being is filled."
 3. "The ἔπαινος of such a character, (for ἔπαινος it must be,) can only come from him who sees ἐν τῷ κρυπτῷ, and can discern the heart."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For circumcision—that is, One's being within the covenant of which circumcision was the outward sign and seal."
 2. "Verily profiteth, if thou keep the law—if the inward reality correspond to the outward sign."
 3. "Otherwise, thou art no better than the uncircumcised heathen."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of inner transformation and sincerity in o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

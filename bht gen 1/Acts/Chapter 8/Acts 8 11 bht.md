@@ -11,7 +11,7 @@ In this verse, there is a mention of an individual who had captivated and deceiv
 
 3. "ἐξεστακέναι" - The commentator highlights the specific verb in question, drawing attention to its significance in the interpretation of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Used sorcery—magical arts." This quote highlights the fact that the individual mentioned in the verse practiced sorcery and relied on magical arts. It suggests that they used supernatural means to deceive and manipulate others.
 
 2. "Some great one . . . the great power of God—a sort of incarnation of divinity." This quote suggests that the person in question presented themselves as someone of great importance, even claiming to possess the power of God. It implies that they sought to elevate themselves to a divine status and gain authority over others.
@@ -51,4 +51,4 @@ In this verse, there is a mention of an individual who had captivated and deceiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the face of persecution and pursuit, Jesus suffered beyond measure, forsaken by both people and God. But in these trials, God's promise of never leaving nor forsaking His people was fulfilled. Though struck down and smitten by enemies, they were not destroyed or left to the powers of their oppressors. Surmounting every difficulty, their faith in God remained unshaken, for they knew they were kept by His power even in the midst of trials.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus was forsaken by both; so much do His sufferings exceed those of His people."
 2. "Not only 'persecuted,' but actually struck down as with a dart in the chase."
 3. "The Greek 'always' in this verse means, 'throughout the whole time'; in 1 Samuel 26:20- : the Greek is different, and means, 'at every time,' 'in every case when the occasion occurs.'"
@@ -33,4 +33,4 @@ In the face of persecution and pursuit, Jesus suffered beyond measure, forsaken 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

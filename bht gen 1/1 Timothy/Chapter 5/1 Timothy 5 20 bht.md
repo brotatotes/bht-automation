@@ -9,7 +9,7 @@ The verse being described addresses the need for accountability and transparency
 2. "The pres. part. is no argument against it: 'those who are (detected in) sinning,' who are proved to be living in sin, may well be intended by it."
 3. "Reprove in the presence of all... the whole congregation... that the rest also... may have fear."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rebuke before all—publicly before the Church" - This quote highlights the importance of addressing sin within the community of believers, emphasizing the need for accountability and transparency in dealing with wrongdoing.
 
 2. "Not until this 'rebuke' was disregarded was the offender to be excommunicated" - This quote emphasizes the process of discipline within the church, indicating that excommunication should only be considered as a last resort when the rebuke is ignored or not taken seriously.
@@ -55,4 +55,4 @@ The verse being described addresses the need for accountability and transparency
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

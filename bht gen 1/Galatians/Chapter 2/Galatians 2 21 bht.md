@@ -9,7 +9,7 @@ In this verse, the commentator quotes emphasize the rejection of self-righteousn
 2. "Christ need not have died." 
 3. "Truly so in this case, in having found such a faithful reprover."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I do not frustrate the grace of God—I do not make it void."
 2. "Christ's having died, shows that the law has no power to justify us."
 3. "If the law can justify or make us righteous, the death of Christ is superfluous."
@@ -55,4 +55,4 @@ In this verse, the commentator quotes emphasize the rejection of self-righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

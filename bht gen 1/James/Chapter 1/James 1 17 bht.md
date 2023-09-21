@@ -9,7 +9,7 @@ God, as the Father of lights and the source of all good and perfect gifts, holds
 2. "Being the Father of those glorious fountains of light, and thus purer and clearer than they all, it cannot be that He should tempt to evil."
 3. "that uncertainty of degree of light which we see in the material heavenly bodies, but which is not in God their Creator."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the 'good gift' stands in contrast to 'sin' in its initiatory stage, so the 'perfect boon' is in contrast to 'sin when it is finished,' bringing forth death."
 2. "Father of lights—Creator of the lights in heaven. This accords with the reference to the changes in the light of the heavenly bodies alluded to in the end of the verse."
 3. "None of the alternations of light and shadow which the physical 'lights' undergo, and which even the spiritual lights are liable to, as compared with God. 'Shadow of turning,' literally, the dark 'shadow-mark' cast from one of the heavenly bodies, arising from its 'turning' or revolution."
@@ -57,4 +57,4 @@ These quotes highlight the idea that God is the source of all good and perfect g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

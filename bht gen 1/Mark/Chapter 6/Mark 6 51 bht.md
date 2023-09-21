@@ -4,7 +4,7 @@
 In this verse, the disciples are portrayed as being in a state of shock and amazement, as they receive Jesus into their ship. Their astonishment is depicted through phrases such as "[being] sore amazed," their worshipful acknowledgement of Jesus as the Son of God, and their disbelief at witnessing Jesus walking on water. The sudden calming of the wind upon Jesus' entry into the ship adds to the disciples' overwhelming astonishment. Ultimately, this verse illustrates the disciples' transition from fear to wonder and their growing recognition of Jesus' divine power.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Then were they willing to receive Him" - implying a glad welcome, their first fears now converted into wonder and delight.
 2. "The little bark...glided through the now unruffled waters, and...was found at port, to their still further surprise."
 3. "They that were in the ship came...and worshipped him, saying, Of a truth Thou art the Son of God."
@@ -37,4 +37,4 @@ In this verse, the disciples are portrayed as being in a state of shock and amaz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Women who profess godliness are advised to adorn themselves not only with good works but also with a chaste and becoming appearance. The mention of "godliness" emphasizes the comprehensive nature of their commitment to religion, both inwardly and in their actions. Outward adornments are given less importance compared to the beauty derived from living a virtuous and godly life. Good works function as the genuine adornment that enhances one's person, profession of faith, and the Gospel message itself.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their adorning is to be effected by means of good works: not that they are to be clothed in, or with, them." 
 2. "Works, not words in public, is their province." 
 3. "Works are often mentioned in the Pastoral Epistles in order to oppose the loose living, combined with the loose doctrine, of the false teachers."
@@ -47,4 +47,4 @@ Note: The commentary provides explanations and references for the meanings of ce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

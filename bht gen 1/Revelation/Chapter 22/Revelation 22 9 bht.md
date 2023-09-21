@@ -4,7 +4,7 @@
 In this verse, the angel's strong aversion to being worshipped is emphasized through the phrase "See thou do it not," which expresses vehement rejection. The brevity and elliptical nature of the original phrase further intensify the angel's reaction. This concise expression is a common way of conveying strong emotions or reactions, highlighting the angel's firm stance against being worshipped.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "See not" - the angel's abhorrence of being worshipped, even indirectly, contrasting with the fallen angel's temptation to Jesus.
 2. "For" - omitted in some versions, emphasizing the angel's earnest prohibition of an act derogatory to God.
 3. "And of" - referring to the angel as a fellow servant of Jesus' brethren.
@@ -47,4 +47,4 @@ These quotes highlight the angel's humble position as a fellow servant and proph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

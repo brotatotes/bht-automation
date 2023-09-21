@@ -9,7 +9,7 @@ In this verse, the focus is on the eunuch's inquiry regarding a passage of Scrip
 2. There is no immediate reference to Christ in the phrase "ἑτέρου τινός."
 3. The focus is on the passage of Scripture as the question proposed, rather than any specific individual.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The respect with which he here addresses Philip was prompted by his reverence for one whom he perceived to be his superior in divine things."
 2. "His own worldly position sinking before this."
 3. "His reverence for one whom he perceived to be his superior in divine things."
@@ -40,4 +40,4 @@ These quotes highlight the importance of humility in learning, the accessibility
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

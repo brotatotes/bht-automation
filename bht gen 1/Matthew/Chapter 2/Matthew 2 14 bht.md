@@ -4,7 +4,7 @@
 In light of various commentaries, the Bible verse describes the urgency with which Joseph took his family and fled to Egypt by night. This immediate action reflected the clear and present danger they faced and the need for swift protection of Jesus. By retracing the steps of the Israelites, Jesus fulfilled prophecy and highlighted his role as the ultimate deliverer. Joseph's prompt obedience demonstrated his trust in God's guidance and his willingness to prioritize the safety of his family over his own comfort.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The urgency of the situation is evident in the fact that Joseph took his family and left for Egypt by night. This shows the immediacy of the danger they faced and the need for swift action to protect the child Jesus."
 
 2. "The journey to Egypt was not just a physical relocation, but also a fulfillment of prophecy. By going to Egypt, Jesus retraced the steps of the Israelites in their deliverance from slavery, highlighting his role as the ultimate deliverer and savior."
@@ -30,4 +30,4 @@ In light of various commentaries, the Bible verse describes the urgency with whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

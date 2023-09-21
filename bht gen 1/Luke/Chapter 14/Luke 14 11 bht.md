@@ -11,7 +11,7 @@ The Bible verse being described here is a powerful reminder of the consequences 
 
 3. "These contrasting examples provide a powerful lesson for believers, reminding us of the dangers of pride and the importance of humility and submission to God. They serve as a call to emulate Christ's example and to resist the temptation to exalt ourselves above God or others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever, &c.—couching them in a chaste simplicity and proverbial terseness of style" - The commentary highlights the way in which the verse is presented, emphasizing its simplicity and concise nature.
 
 2. "Apples of gold in a setting of silver" - This phrase is used to describe the value and beauty of the verse, suggesting that it is a precious and valuable piece of wisdom.
@@ -69,4 +69,4 @@ The Bible verse being described here is a powerful reminder of the consequences 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

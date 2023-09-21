@@ -9,7 +9,7 @@ This verse is not just a historical account or a record of extraordinary faith, 
 2. "It was not written for his sake alone... but for our sake also, to bear testimony to us of the efficacy of faith like his."
 3. "Belief is not a mere historical but a fiducial belief in Him who raised Jesus our Lord from the dead, the central fact in our redemption."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things were not recorded as mere historical facts, but as illustrations for all time of God's method of justification by faith."
 
 2. "This whole argument about Abraham serves as an application of God's method of justification by faith."
@@ -60,4 +60,4 @@ Note: The commentary was not provided in full, so the quotes may not flow seamle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

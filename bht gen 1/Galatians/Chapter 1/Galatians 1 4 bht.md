@@ -9,7 +9,7 @@ This verse highlights the purpose of Christ's sacrifice, which is to rescue us f
 2. "And this, (1) not according to our own plan, in proportion to our legal obedience or any quality in us, but according to the Father’s sovereign will, the prime standard of all the process of redemption."
 3. "And this, not as the lord merely of His works, but as πατρὸς ἡμῶν, bound to us in the ties of closest love for our good, as well as to fulfil His own eternal purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son, not the Father, gave Himself for us in order to do so, and make us citizens of a better world."
 2. "The Galatians in desiring to return to legal bondage are, he implies, renouncing the deliverance which Christ wrought for us."
 3. "The present age opposes the 'glory' of God, and is under the authority of the Evil One. The 'ages of ages' are opposed to 'the present evil age.'"
@@ -62,4 +62,4 @@ Note: The commentary provided is quite lengthy and contains technical explanatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

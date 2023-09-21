@@ -9,7 +9,7 @@ The Bible verse under consideration emphasizes the central importance of love. T
 2) "out of a pure heart and good conscience"
 3) "faith unfeigned connects with the faith above; it is faith, not the pretence of faith, the mere 'Scheinglaube' of the hypocrite"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Charity—LOVE; the sum and end of the law and of the Gospel alike, and that wherein the Gospel is the fulfilment of the spirit of the law in its every essential jot and tittle."
 2. "A good conscience is joined with sound faith; a bad conscience with unsoundness in the faith."
 3. "Not a hypocritical, dead, and unfruitful faith, but faith working by love."
@@ -55,4 +55,4 @@ The Bible verse under consideration emphasizes the central importance of love. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

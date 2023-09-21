@@ -9,7 +9,7 @@ In this Bible verse, believers are reminded of the importance of forgiveness in 
 2. "In ὅταν στήκετε, the ἄν connects, not with the verb, but with the ὅτε, giving indefiniteness to the occasion, not to the act."
 3. "He gives an example from Lycurgus contra Leocratem, p. 162 (§ 107), ὅταν ἐν τοῖς ὅπλοις ἐκστρατευόμενοί εἰσι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And when ye stand praying, forgive, if ye have aught against any; that your Father also which is in heaven may forgive you your trespasses." - This verse reminds believers that forgiveness is an essential aspect of prayer, emphasizing the importance of reconciling with others before approaching God in prayer.
 
 2. "This is repeated from the Sermon on the Mount to remind them that if this was necessary to the acceptableness of all prayer, much more when great things were to be asked and confidently expected." - The repetition of this instruction highlights its significance, indicating that forgiveness is not only important for everyday prayers but becomes even more crucial when seeking significant blessings from God.
@@ -47,4 +47,4 @@ In this Bible verse, believers are reminded of the importance of forgiveness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the commentators provide insights into the concept of intercession and the sin unto death. They explain that intercession is a duty to pray for those who are in danger of ruin or have gone astray. The sin unto death refers to a category of sins that sever the fellowship with Christ and results in spiritual death. While it is not forbidden to pray for this sin, it is not explicitly encouraged. Nevertheless, God's grace and forgiveness are available to all who turn to Him, and our prayers can have a powerful impact on the lives of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Life was in process of being forfeited by the sinning brother when the believer's intercession obtained its restoration."
 2. "The Christian intercessor for his brethren, John declares, shall not assume the authority which would be implied in making request for a sinner who has sinned the sin unto death."
 3. "To 'request' for a sin unto death [intercede, as it were, authoritatively for it, as though we were more merciful than God] would savor of presumption."
@@ -43,4 +43,4 @@ In this verse, the commentators provide insights into the concept of intercessio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

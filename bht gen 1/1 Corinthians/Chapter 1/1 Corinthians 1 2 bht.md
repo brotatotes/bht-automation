@@ -11,7 +11,7 @@ This verse describes a church that is not defined by perfect purity, but rather 
 
 3. "The ὄνομα ἐπικληθὲν ἐφ ʼ ὑμᾶς ( Jam 2:7 ) is not to the point, the construction being different."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is a dangerous temptation to think there is no church where there is not apparent perfect purity. He who thinks so, must at last separate from all others and think himself the only holy man in the world, or establish a peculiar sect with a few hypocrites." 
 2. "It was enough for Paul in recognizing the Corinthians as a church, that he saw among them evangelical doctrine, baptism, and the Lord's Supper." 
 3. "The true CATHOLIC CHURCH... consists of all, wherever they be, who call on Jesus as their Savior in sincerity."
@@ -57,4 +57,4 @@ This verse describes a church that is not defined by perfect purity, but rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

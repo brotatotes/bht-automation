@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the unity of God and the role of Jesus
 2. "He gave himself a ransom on behalf of all." 
 3. "I was placed as a herald and apostle, a teacher of the Gentiles in faith and truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's unity in essence and purpose is a proof of His comprehending all His human children alike in His offer of grace."
 2. "The one God is common to all."
 3. "The one Mediator is mediator between God and all men potentially."
@@ -57,4 +57,4 @@ These quotes highlight the idea that God's unity and the role of Jesus as the Me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the importance of maintaining a good conscience is emphasiz
 2. "they who traduce...will mean envious detraction" - Aristotle (referring to those who speak against you with envy and malicious intent)
 3. "your good conversation in Christ may be ashamed" (your exemplary behavior as Christians may cause those who speak against you to feel ashamed)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having a good conscience—the secret spring of readiness to give account of our hope."
 2. "Profession without practice has no weight."
 3. "Those who have a good conscience can afford to give an account of their hope 'with meekness.'"
@@ -53,4 +53,4 @@ In this Bible verse, the importance of maintaining a good conscience is emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

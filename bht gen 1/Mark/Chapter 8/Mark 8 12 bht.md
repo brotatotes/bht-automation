@@ -9,7 +9,7 @@ This verse reminds us that signs and miracles are not enough to convince those w
 2. "see reff., and Winer, § 55 end" - This quote suggests that further references and research can be found in other sources, such as reff. and Winer, § 55 end, to gain a deeper understanding of the phrase.
 3. "a Hebrew form of strong abjuration" - This quote emphasizes that the phrase "εἰ δοθ" is rooted in Hebrew tradition and carries a powerful connotation of making a solemn declaration or oath.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These glimpses into the interior of the Redeemer's heart, in which our Evangelist abounds, are more precious than rubies."
 2. "The state of the Pharisaic heart, which prompted this desire for a fresh sign, went to His very soul."
 3. "A generation incapable of appreciating such demonstrations shall not be gratified with them."
@@ -54,4 +54,4 @@ This verse reminds us that signs and miracles are not enough to convince those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

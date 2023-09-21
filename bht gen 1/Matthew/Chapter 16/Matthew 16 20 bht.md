@@ -9,7 +9,7 @@ This verse describes Jesus' compassion and willingness to reach out to the margi
 2. "By healing the leper, Jesus not only demonstrated his divine power, but also challenged the prevailing social norms and religious customs of his time."
 3. "This miracle serves as a reminder that Jesus came to bring healing and restoration to all, regardless of their social status or physical condition."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now that He had been so explicit, they might naturally think the time come for giving it out openly; but here they are told it had not." 
 2. "Announcement of His Approaching Death and Rebuke of Peter."
 3. "The occasion here is evidently the same."
@@ -45,4 +45,4 @@ This verse describes Jesus' compassion and willingness to reach out to the margi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

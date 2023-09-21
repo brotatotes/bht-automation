@@ -9,7 +9,7 @@ In the aftermath of Jesus' resurrection, the disciples found themselves in a sta
 2. "Both were done by that supernatural power dwelling in Him, by which His other miracles were wrought."
 3. "The disciples seem to have handled Him: see Luke 24:39; 1 John 1:1, and below, John 20:25."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same day at evening, the first day of the week, the doors being shut where the disciples were assembled for fear of the Jews, came Jesus—plainly not by the ordinary way of entrance." 
 2. "Peace be unto you—not the mere wish that even His own exalted peace might be theirs, but conveying it into their hearts."
 3. "He 'opened their understandings to understand the scriptures.'"
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

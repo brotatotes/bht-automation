@@ -9,7 +9,7 @@ In this Bible verse, Jesus poses a thought-provoking question to Pilate, inquiri
 2. "If he asked of himself, the word could certainly have but one meaning, and that one would be wrongly applied."
 3. "If from information derived from the Jews, this very fact would open the way to the true meaning in which He was King of the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus answered . . . Sayest thou this of thyself, or did others tell it thee of me?" - This question from Jesus reveals his understanding of the different implications of being called a "King." It shows his awareness of the political and religious dimensions of the accusation against him, highlighting the need for Pilate to discern the true nature of the charges. 
 
 2. "an important question for our Lord's case" - The commentary emphasizes the significance of Jesus' question in the context of his trial. It underscores the strategic nature of Jesus' response, aimed at clarifying the motives behind the accusation and establishing the jurisdiction of Pilate in dealing with the case.
@@ -42,4 +42,4 @@ In this Bible verse, Jesus poses a thought-provoking question to Pilate, inquiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

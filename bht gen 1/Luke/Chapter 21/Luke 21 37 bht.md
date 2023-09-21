@@ -4,7 +4,7 @@
 During the daytime of His last week, Jesus had a specific abode in the mount of Bethany, finding a place of rest and permanence. This abode highlighted the humanity of Jesus, emphasizing the need for physical and emotional rest. It also emphasized the importance of seeking refuge and safety in our own lives. Throughout the days and nights of that week, Jesus engaged in continuous lodging, regularly teaching in the temple, and finding time to pray on the Mount of Olives. This dedicated and purposeful approach demonstrated Jesus' commitment to spreading his message and ministering to the people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The daytime of His last week" - This phrase highlights the specific time period being referred to, emphasizing the significance of the events that took place during Jesus' final days before His crucifixion.
 
 2. "His abode in the mount" - This phrase clarifies the location of Jesus' residence during this time, which was in Bethany. Understanding the geographical context helps to paint a more vivid picture of Jesus' movements and activities during His last week.
@@ -46,4 +46,4 @@ During the daytime of His last week, Jesus had a specific abode in the mount of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

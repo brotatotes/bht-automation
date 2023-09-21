@@ -9,7 +9,7 @@ Believers may face persecution and rejection, even being expelled from their rel
 2. "ἵνα] 'That which shall happen in the ὥρα, is regarded as the object of its coming.' Meyer."
 3. "λατρείαν] 'Quis-quis effundit sanguinem impii, idem facit ac si sacrificium offerat.' Jalkut Schimeoni, cited by De Wette, &c., see 1 Corinthians 4:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They shall put you out of the synagogue" - This quote highlights the persecution and rejection that believers may face for their faith, even being expelled from their religious community.
 2. "Whosoever killeth you will think that he doeth God service" - This quote emphasizes the dangerous misconception that some may have, believing that they are serving God by persecuting and even killing believers.
 3. "That he is offering a service to God" - This quote further explains the misguided belief held by some persecutors, thinking that their violent actions are a form of worship and devotion to God.
@@ -54,4 +54,4 @@ Believers may face persecution and rejection, even being expelled from their rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

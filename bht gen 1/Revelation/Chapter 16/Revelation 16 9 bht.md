@@ -4,7 +4,7 @@
 The individuals witnessing the plagues displayed a rebellious nature, defiantly blaspheming God despite recognizing His power. The sovereignty of God over the plagues is highlighted, reminding us that He has complete control over them. Paradoxically, even though they acknowledged God's involvement, they hardened their hearts in resistance, revealing their stubbornness and rebellion against His authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Affliction, if it does not melt, hardens the sinner."
 2. "Compare the better result on others."
 3. "Revelation 11:13; Revelation 14:7; Revelation 15:4."
@@ -51,4 +51,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

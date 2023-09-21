@@ -9,7 +9,7 @@ This verse describes a dramatic transformation in someone's life, highlighting t
 2. "for solemnity, to set himself in contrast to the Gospel, and shew how alien he then was from it."
 3. "he was verily destroying the Church of God, as far as in him lay. Nor must we think of merely laying waste; the verb applies to men, not only to cities and lands."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Heard—even before I came among you."
 2. "The term, 'Hebrew,' expresses the language; 'Jew,' the nationality, as distinguished from the Gentiles; 'Israelite,' the highest title, the religious privileges, as a member of the theocracy."
 3. "The church—Here singular, marking its unity, though constituted of many particular churches, under the one Head, Christ."
@@ -57,4 +57,4 @@ This verse describes a dramatic transformation in someone's life, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

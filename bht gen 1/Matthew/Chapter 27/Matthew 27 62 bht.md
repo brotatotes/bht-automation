@@ -9,7 +9,7 @@ On the day before the Sabbath, known as the day of preparation, the chief priest
 2. "The meaning of the saying may have been, and was, hid from the disciples; but the fact of its having been said could be no secret."
 3. "Hatred is keener sighted than love; that the raising of Lazarus would show, what sort of a thing rising from the dead was to be; and that the fulfillment of the Lord’s announcement of his crucifixion would naturally lead them to look further, to what more he had announced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The crucifixion took place on the Friday and all was not over till shortly before sunset, when the Jewish sabbath commenced."
 2. "That sabbath day was a high day, being the first day of the feast of unleavened bread."
 3. "They hastened to take their measures after the Sabbath day was over at six on Saturday evening."
@@ -47,4 +47,4 @@ These quotes highlight the hypocrisy of the chief priests and Pharisees in accus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

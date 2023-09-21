@@ -9,7 +9,7 @@ In this verse, we find a powerful and intense encounter between Jacob and his op
 2. "Two only, it would seem, were thus employed on this particular occasion: and Luke has retained the word as it stood in the record furnished to him."
 3. "With their clothes torn off them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mark the clear line of demarcation here between 'the evil spirit which answered and said' and 'the man in whom the evil spirit was.' The reality of such possessions could not be more clearly expressed."
 2. "This was so appalling a testimony at once against those profane impostors and in favor of Paul and the Master whom he preached."
 3. "We wonder not that it spread to 'all the Jews and Greeks at Ephesus, that fear fell on them,' and that 'the name of the Lord Jesus was magnified.'"
@@ -52,4 +52,4 @@ In this verse, we find a powerful and intense encounter between Jacob and his op
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

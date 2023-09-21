@@ -4,7 +4,7 @@
 In these verses, Jesus lovingly addresses Martha's inner anxieties and external busyness. With a sense of deep intimacy and tenderness, Jesus gently reprimands Martha for being overly worried and preoccupied. He assures her that her excessive preparations are unnecessary and that she should instead prioritize sitting at his feet and learning from him. Through his words, Jesus reveals his compassionate understanding of Martha's struggles and offers her an invitation to find peace and rest in his presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Martha, Martha—emphatically redoubling upon the name."
 2. "careful and cumbered—the one word expressing the inward worrying anxiety that her preparations should be worthy of her Lord; the other, the outward bustle of those preparations."
 3. "many things—"much service" (Luke 10:40); too elaborate preparation, which so engrossed her attention that she missed her Lord's teaching."
@@ -47,4 +47,4 @@ Overall, these quotes emphasize the compassionate and understanding nature of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

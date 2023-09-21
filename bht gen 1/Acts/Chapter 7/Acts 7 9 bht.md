@@ -10,7 +10,7 @@ In this verse, we witness the initial seeds of disobedience and envy among the s
 2. "The progress of the history brings out the rebellious spirit"
 3. "The verse highlights the initial seeds of disobedience in Israel"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the patriarchs, moved with envy, sold Joseph into Egypt" - This quote highlights the human flaw of envy and how it led to the selling of Joseph into Egypt. It shows that even the chosen patriarchs were not immune to sin and opposition to God's purposes.
 
 2. "God was with him" - This quote emphasizes that despite the opposition and betrayal, God remained with Joseph. It highlights God's faithfulness and presence even in the midst of difficult circumstances.
@@ -63,4 +63,4 @@ In this verse, we witness the initial seeds of disobedience and envy among the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

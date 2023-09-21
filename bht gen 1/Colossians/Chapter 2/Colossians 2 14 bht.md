@@ -4,7 +4,7 @@
 The verse describes how Christ's sacrifice has freed believers from the condemnation of the law. Commentators emphasize that the law, with its burdensome requirements and accusations, serves as a bond against humanity and is against us. Christ's death has blotted out and cancelled this bond, erasing its remembrance and offering absolution. By nailing the law to the cross, Christ has abolished its decrees and freed believers from its condemnation. This verse highlights the transformative power of Christ's sacrifice in removing the burden of the law and providing redemption for sinners.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law (including especially the moral law, wherein lay the chief difficulty in obeying) is abrogated to the believer, as far as it was a compulsory, accusing code." 
 2. "The handwriting of ordinances is the whole law, the obligatory bond, under which all lay; the Jews primarily were under the bond, but they in this respect were the representative people of the world."
 3. "Christ, by bearing the curse of the broken law, has redeemed us from its curse. In His person nailed to the cross, the law itself was nailed to it."
@@ -54,4 +54,4 @@ The verse describes how Christ's sacrifice has freed believers from the condemna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

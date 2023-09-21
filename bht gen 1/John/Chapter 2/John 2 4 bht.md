@@ -9,7 +9,7 @@ In this passage, Jesus responds to his mother, addressing her as "woman," not ou
 2. "It has perhaps not been enough noticed, that in this answer the Lord declares His period of subjection to her as His earthly parent to be at an end."
 3. "The Lord henceforth uses it towards her, not calling her ‘mother,’ even on the Cross, doubtless for the reason alleged above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woman—no term of disrespect in the language of that day." 
 2. "In my Father's business I have to do with Him only." 
 3. "It was a gentle rebuke for officious interference, entering a region from which all creatures were excluded."
@@ -55,4 +55,4 @@ In this passage, Jesus responds to his mother, addressing her as "woman," not ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described calls for deep introspection, repentance, and a genuin
 
 Note: The quotes have been slightly modified for clarity and conciseness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Endure misery," that is, mourn over your wretchedness through sin.
 2. Repent with deep sorrow instead of your present laughter. A blessed mourning.
 3. "Falling of the countenance," casting down of the eyes.
@@ -61,4 +61,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

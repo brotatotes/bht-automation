@@ -10,7 +10,7 @@ In this passage, the apostles express their disapproval of neglecting the word o
 3. "For to this it would come, if the Apostles were to enquire into, and do justice in, every case of asserted neglect."
 4. "It is a question whether this expression import the service of distributing money or that of apportioning the daily public meals. The latter seems to me most probable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The multitude—the general body of the disciples."
 2. "It is not reason—The word expresses dislike; that is 'We cannot submit.'"
 3. "To leave the word of God—to have our time and attention withdrawn from preaching; which, it thus appears, they regarded as their primary duty."
@@ -63,4 +63,4 @@ These quotes highlight the roles and responsibilities of the early Church leader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

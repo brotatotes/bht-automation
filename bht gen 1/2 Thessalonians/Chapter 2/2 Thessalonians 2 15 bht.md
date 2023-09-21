@@ -9,7 +9,7 @@ This verse encourages believers to stand firm in the teachings of the Gospel and
 2. "In proportion then as we assert the one strongly, we must ever implicate the other as strongly."
 3. "The great Apostle never fails to pursue this course."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's sovereign choice of believers, so far from being a ground for inaction on their part, is the strongest incentive to action and perseverance in it."
 2. "The Thessalonians had not held fast his oral instructions but had suffered themselves to be imposed upon by pretended spirit-revelations, and words and letters pretending to be from Paul."
 3. "Inspired tradition, in Paul's sense, is not a supplementary oral tradition completing our written Word, but it is identical with the written Word now complete."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of standing firm in the Gospel, finding en
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

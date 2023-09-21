@@ -4,7 +4,7 @@
 In this verse, Jesus confronts Herod, referring to him as a fox, highlighting his cunning and craftiness. Despite Herod's schemes, Jesus asserts His power by continuing to perform miracles. Jesus acknowledges that His earthly mission is not yet complete, displaying determination to fulfill His purpose. The commentators emphasize Herod's deceitfulness, Jesus' unwavering commitment to His work, and the contrast between Jesus' interactions with enemies and friends.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, I cast out devils and I do cures" - Jesus confidently asserts His power over evil and His ability to bring healing and restoration to those in need.
 
 2. "My works of mercy are nearing completion, but some yet remain" - Jesus acknowledges that His mission is not yet finished, indicating His determination to continue His work despite the opposition He faces.
@@ -54,4 +54,4 @@ Note: The commentary provided does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

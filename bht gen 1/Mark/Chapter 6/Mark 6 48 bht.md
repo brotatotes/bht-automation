@@ -9,7 +9,7 @@ In this Bible verse, the scene unfolds with Jesus observing his disciples in dis
 2. "But it may be doubted whether this is either a safe or a sober comment." - Commentary
 3. "This ἤθελεν has here but a faint subjective reference, and is more nearly the 'would have passed by them' of the E. V." - Commentary
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He 'saw' this from His mountain top, and through the darkness of the night, for His heart was all with them: yet would He not go to their relief till His own time came."
 2. "By this time, therefore, they must have been in a state of exhaustion and despondency bordering on despair; and now at length, having tried them long enough."
 3. "He cometh unto them, walking upon the sea... and would have passed by them—but only in the sense of Luke 24:28; Genesis 32:26; compare Genesis 18:3; Genesis 18:5; Genesis 42:7."
@@ -45,4 +45,4 @@ In this Bible verse, the scene unfolds with Jesus observing his disciples in dis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

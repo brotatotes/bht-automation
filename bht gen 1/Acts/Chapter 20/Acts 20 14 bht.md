@@ -9,7 +9,7 @@ The verse being described is one in which Mitylene, the capital of Lesbos, plays
 2. "It had two harbours, with the northern one being large and deep, covered with earth." 
 3. "The ship would sail into this northern harbour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Mitylene, the capital of the beautiful and classical island of Lesbos."
 2. "Lies opposite the eastern shore of the Ægean Sea, about thirty miles south of Assos."
 3. "In whose harbor they seem to have lain for the night."
@@ -49,4 +49,4 @@ Note: The commentary provided is not related to a specific Bible verse. Please p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

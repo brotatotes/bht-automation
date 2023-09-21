@@ -9,7 +9,7 @@ The verse describes how the publicans and the harlots were entering the kingdom 
 2. "προάγουσιν, either the declarative present go before you, in the matter of God’s arrangements, or the assertive present, of the mere matter of fact, are going before you."
 3. "The idea of ‘shewing the way’ by being their example, is also included."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The publicans and the harlots go—or, 'are going'; even now entering, while ye hold back." 
 2. "The publicans and the harlots were the first son, who, when told to work in the Lord's vineyard, said, I will not; but afterwards repented and went." 
 3. "Their early life was a flat and flagrant refusal to do what they were commanded; it was one continued rebellion against the authority of God."
@@ -32,4 +32,4 @@ The verse describes how the publicans and the harlots were entering the kingdom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In the volume of the book, it is written concerning the speaker to fulfill a pre
 
 3. "ποιῆσαι τὸ θέλημά σου" - Thl. says, θέλημα δὲ τοῦ θεοῦ πατρὸς τὸ τὸν υἱὸν ὑπὲρ τοῦ κόσμου τυθῆναι κ . δικαιωθῆναι τοὺς ἀνθρώπους οὐκ ἐν θυσίαις ἀλλʼ ἐν τῷ θανάτῳ τοῦ υἱοῦ αὐτοῦ" - This quote provides an interpretation of "to do, O God, thy will" as the will of God the Father, which involves the sacrifice and justification of humanity through the death of his Son.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am come to fulfil the law."
 2. "I am sent to the lost sheep of the house of Israel."
 3. "I am come that they might have life, and might have it more abundantly."
@@ -59,4 +59,4 @@ These quotes highlight the purpose and mission of Jesus, emphasizing his role as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is both a testament to the role of Jesus Christ as the
 2. "This expression gives at once a universality to the office and mission of Christ, which prepares the way for the great truth declared in the next verse."
 3. "A canon of interpretation which should constantly be borne in mind is, that a figurative sense of words is never admissible, EXCEPT WHEN REQUIRED BY THE CONTEXT."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are witnesses of all he did—not objects of superstitious reverence, but simply witnesses to the great historical facts on which the Gospel is founded."
 2. "Slew and hanged—that is, slew by hanging."
 3. "On a tree—So (and see on)."
@@ -57,4 +57,4 @@ The verse being described is both a testament to the role of Jesus Christ as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

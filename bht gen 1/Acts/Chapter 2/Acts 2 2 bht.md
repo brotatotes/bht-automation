@@ -9,7 +9,7 @@ In this remarkable event described by various commentators, a powerful and might
 2. "It was the chosen vehicle by which the Holy Spirit was manifested to their sense of hearing, as by the tongues of fire to their sense of seeing."
 3. "Certainly Luke would not have used this word of a chamber in the Temple, or of the Temple itself, without further explanation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole description is so picturesque and striking that it could only come from an eye-witness."
 2. "The suddenness, strength, and diffusiveness of the sound strike with deepest awe the whole company, and thus complete their preparation for the heavenly gift."
 3. "Wind was a familiar emblem of the Spirit."
@@ -48,4 +48,4 @@ In this remarkable event described by various commentators, a powerful and might
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

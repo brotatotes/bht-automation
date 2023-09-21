@@ -9,7 +9,7 @@ The verse being described refers to the redemption of believers by the blood of 
 2. "The diminutive forms stand generally for the coined or wrought metal: and such a sense would be applicable here."
 3. "The Apostle, himself a Jew, would hardly speak of the vain ungodly lives of Jews as πατροπαράδοτα, without more explanation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blood of Christ is not in Scripture said to buy heaven for us: heaven is the 'inheritance' given to us as sons, by the promise of God."
 2. "Gold and silver being liable to corruption themselves, can free no one from spiritual and bodily death; they are therefore of too little value. Contrast 1 Peter 1:19, Christ's 'precious blood.'"
 3. "Holiness is the natural fruit of redemption 'from our vain conversation'; for He by whom we are redeemed is also He for whom we are redeemed."
@@ -57,4 +57,4 @@ The verse being described refers to the redemption of believers by the blood of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

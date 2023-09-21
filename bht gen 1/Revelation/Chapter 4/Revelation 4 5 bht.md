@@ -9,7 +9,7 @@ The verse being described is a scene from the book of Revelation where John witn
 2) "The seven lamps of fire burning before the throne...represent the Holy Spirit in his sevenfold working."
 3) "The sea of glass, like crystal, indicates majestic repose and ethereal purity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thunderings express God's threats against the ungodly: there are voices in the thunders, that is, not only does He threaten generally, but also predicts special judgments" [GROTIUS].
 2. "The Holy Spirit in His sevenfold operation, as the light-and-life Giver."
 3. "The Holy Spirit as the fiery purifier of the godly, and consumer of the ungodly."
@@ -51,4 +51,4 @@ These descriptions of the phenomena coming from the throne in heaven highlight t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

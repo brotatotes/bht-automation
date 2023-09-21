@@ -9,7 +9,7 @@ This verse emphasizes the significance of multiple witnesses in both the legal a
 2. "The law which you have made so completely your own by your kind of adherence to it."
 3. "The law which you have made so completely your own by your kind of adherence to it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He meets this specious cavil not by disputing the wholesome human maxim that 'self-praise is no praise,' but by affirming that He was an exception to the rule."
 2. "Or rather, that it had no application to Him."
 3. "He was not boasting of Himself, but testifying to the truth about Himself."
@@ -57,4 +57,4 @@ This verse emphasizes the significance of multiple witnesses in both the legal a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

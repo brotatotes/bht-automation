@@ -9,7 +9,7 @@ The verse being described speaks about the growth of faith and love among the be
 2. "God chose you from the beginning for salvation through sanctification by the Spirit and through belief in the truth."
 3. "The sanctification of the Spirit is the divine side of the element, while the human side follows, which is your own reception of the truth through faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In delightful contrast to the damnation of the lost stands the 'salvation' of Paul's converts."
 2. "Thanks... to God, not to ourselves, your ministers, nor to you, our converts."
 3. "The Thessalonians were among the first converts in Europe... I understand it here including the more restricted sense."
@@ -60,4 +60,4 @@ The verse being described speaks about the growth of faith and love among the be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

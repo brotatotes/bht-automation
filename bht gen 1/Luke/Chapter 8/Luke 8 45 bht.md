@@ -9,7 +9,7 @@ In this Bible verse, Jesus asks the question "Who touched me?" not out of ignora
 2. "Many press round Christ, but few touch Him, only the faithful."
 3. "It is a blessed encouragement to us not only to crowd on Him, but even to touch Him: so to crowd on Him as never to be content till we have grasped if it be but His garment for ourselves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Askest Thou, Lord, who touched Thee? Rather ask who touched Thee not in such a throng." This quote highlights the significance of the question asked by Jesus. It suggests that in a crowded place, it is not surprising that someone would touch Him, but what is remarkable is the faith and intention behind the touch.
 
 2. "The question 'Who touched me?' was not asked out of ignorance, but to bring the woman's faith and healing into the open." This quote emphasizes that Jesus already knew who touched Him, but He wanted the woman to publicly acknowledge her faith and receive recognition for her healing.
@@ -49,4 +49,4 @@ In this Bible verse, Jesus asks the question "Who touched me?" not out of ignora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

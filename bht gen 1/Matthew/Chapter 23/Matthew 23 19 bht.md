@@ -4,7 +4,7 @@
 This verse addresses the spiritual blindness and ignorance of those being spoken to, emphasizing their folly and lack of understanding. It highlights the significance of the altar in sanctifying the gift, and prompts reflection on the importance of focusing on the sacredness and holiness brought about by the altar. The verse encourages readers to delve into the broader biblical teachings, seeking a deeper understanding of God's message and the relevance of the verse in the context of the scriptures.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye fools, and blind!" - This phrase highlights the ignorance and lack of understanding of the people being addressed. It emphasizes their spiritual blindness and the need for them to gain wisdom and insight.
 
 2. "Whether is greater, the gift, or the altar that sanctifieth the gift?" - This question prompts reflection on the significance of the altar in the act of offering a gift. It suggests that the focus should not solely be on the gift itself, but also on the sacredness and sanctification brought about by the altar.
@@ -32,4 +32,4 @@ This verse addresses the spiritual blindness and ignorance of those being spoken
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

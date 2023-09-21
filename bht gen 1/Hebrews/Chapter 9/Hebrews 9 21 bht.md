@@ -9,7 +9,7 @@ In the verse being described, commentators emphasize the significance of sprinkl
 2. "For Josephus, Antt. iii. 8. 6, gives the following remarkable account, agreeing with ours almost verbatim."
 3. "In Leviticus 8:30, from which the account of anointing Aaron and his sons is taken, distinct mention is made of sprinkling on them, and on their garments, the blood which was on the altar."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sprinkling of the tabernacle with blood is added by inspiration here to the account in Exodus 30:25-30; Exodus 40:9; Exodus 40:10, which mentions only Moses' anointing the tabernacle and its vessels."
 2. "In Leviticus 8:10; Leviticus 8:15; Leviticus 8:30, the sprinkling of blood upon Aaron and his garments, and upon his sons, and upon the altar, is mentioned as well as the anointing."
 3. "The tabernacle and its contents needed purification."
@@ -43,4 +43,4 @@ In the verse being described, commentators emphasize the significance of sprinkl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

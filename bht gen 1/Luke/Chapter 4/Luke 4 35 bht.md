@@ -11,7 +11,7 @@ In this verse, Jesus demonstrates His authority and power over the spiritual rea
 
 3. "μηδ. βλάψ. αὐτ. is here only." - This points out that this specific phrase is unique to this passage, indicating that the author may have intended to emphasize the idea of not causing harm in this particular instance.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The rebuke of the demons by Jesus demonstrates his authority and power over the spiritual realm." 
 
 2. "The act of throwing the demon out of the man emphasizes Jesus' ability to deliver people from the bondage of evil forces." 
@@ -37,4 +37,4 @@ In this verse, Jesus demonstrates His authority and power over the spiritual rea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

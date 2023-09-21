@@ -9,7 +9,7 @@ In this verse, we see the apostle Paul's dedication and sacrificial nature in hi
 2. "ἐσύλησα is hyperbolic, to bring out the contrast, and shame them."
 3. "κατενάρκησα apparently = κατεβάρησα. The former meaning suits the context better."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I robbed—that is, took from them in order to spare you more than what was their fair share of contribution to my maintenance." 
 2. "wages—"subsidy.""
 3. "to do you service—Greek, 'with a view to ministration to you'; compare 'supplied' (Greek, 'in addition'), Philippians 4:16- :, implying, he brought with him from the Macedonians, supplies towards his maintenance at Corinth."
@@ -55,4 +55,4 @@ In this verse, we see the apostle Paul's dedication and sacrificial nature in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In a sequence of significant events, Jesus begins His ministry in Capernaum by c
 2. "This placement of the miracle after these events suggests a deliberate sequencing of events, highlighting the authority and power of Jesus." 
 3. "By placing this miracle in the context of these preceding events, the author emphasizes the significance of Jesus' actions and teachings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The meaning is, that as He began this practice on the very first sabbath after coming to settle at Capernaum, so He continued it regularly thereafter."
 2. "This should have been rendered, 'straightway on the sabbaths He entered into the synagogue and taught,' or 'continued to teach.'"
 3. "He entered into the synagogue, and taught."
@@ -40,4 +40,4 @@ In a sequence of significant events, Jesus begins His ministry in Capernaum by c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

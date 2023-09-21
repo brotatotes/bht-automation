@@ -9,7 +9,7 @@ In the account described, the spreading of the Gospel takes on a gradual and adv
 2. "Philip is sent to a desert road, away from town or village, to seek him."
 3. "The imperfects... are significant. They were on their way back to Jerusalem, and were evangelizing the Samaritan villages, when the angel spake to Philip."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The simplicity of the chamberlain of Meroe forms a remarkable contrast with the craft of the magician just described." 
 2. "The narrative of the progress of the Gospel among the Samaritans is connected with the diffusion of the doctrine of the Cross among the remotest nations." 
 3. "The Gospel is not limited to a specific region or people, but it reaches out to all nations, regardless of their background or status."
@@ -43,4 +43,4 @@ In the account described, the spreading of the Gospel takes on a gradual and adv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

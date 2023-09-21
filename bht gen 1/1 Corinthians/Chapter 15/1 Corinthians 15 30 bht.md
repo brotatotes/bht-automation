@@ -9,7 +9,7 @@ In this verse, the commentators highlight the perilous nature of the apostles' l
 2. "Observe that the argument here applies equally to the future existence of the soul."
 3. "Nescio quomodo in-hæret in mentibus quasi seculorum quoddam augurium futurorum … quo quidem demto, quis tam esset amens, qui semper in laboribus et periculis viveret?" (Translation: "I do not know how it is that there is in the minds of men some kind of foreboding of future ages... If this were taken away, who would be so insane as to live always in toil and danger?")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A gradation from those who could only for a little time enjoy this life (that is, those baptized at the point of death), to us, who could enjoy it longer." 
 2. "If we had not renounced the world for Christ." 
 3. "Apostles...a gradation from those who could only for a little time enjoy this life."
@@ -54,4 +54,4 @@ In this verse, the commentators highlight the perilous nature of the apostles' l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

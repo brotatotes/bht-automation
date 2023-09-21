@@ -9,7 +9,7 @@ This verse encourages us to be mindful of our actions and their impact on others
 2. "But why should not the Apostle, as so often, be deducing a general duty from the particular subject?"
 3. "Thol. remarks that the three verbs form a climax ad infra."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is good not to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak." - This verse emphasizes the importance of considering the impact of our actions on others, particularly those who may be weaker in faith. It encourages us to abstain from certain behaviors that may cause others to stumble or be hindered in their spiritual journey.
 
 2. "These three words, it has been remarked, are each intentionally weaker than the other: 'Which may cause a brother to stumble, or even be obstructed in his Christian course, nay—though neither of these may follow—wherein he continues weak; unable wholly to disregard the example, and yet unprepared to follow it.'" - This quote highlights the progressive nature of the three words used in the verse, showing that even if someone does not stumble or be offended, they may still be weakened in their faith by our actions. It emphasizes the need to be mindful of the impact we have on others, even if it may not be immediately apparent.
@@ -54,4 +54,4 @@ This verse encourages us to be mindful of our actions and their impact on others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

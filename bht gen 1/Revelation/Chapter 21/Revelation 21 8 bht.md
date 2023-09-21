@@ -4,7 +4,7 @@
 The Bible verse describes a group of individuals who will be excluded from the blessed world. These include those who lack courage and faith, who are unable to overcome in the face of challenges. The verse also condemns the abominable, specifically referring to sodomites, for their actions. In addition, it mentions whoremongers, sorcerers, and idolaters, who often exhibit similar characteristics and will face punishment in the lake.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the fearful—Greek, 'the cowardly,' who do not quit themselves like men so as to 'overcome' in the good fight; who have the spirit of slavish 'fear,' not love, towards God; and who through fear of man are not bold for God, or 'draw back.'" 
 2. "abominable—who have drank of the harlot's 'cup of abominations.'"
 3. "sorcerers—one of the characteristics of Antichrist's time."
@@ -49,4 +49,4 @@ Note: The commentary provides explanations and alternative translations for spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

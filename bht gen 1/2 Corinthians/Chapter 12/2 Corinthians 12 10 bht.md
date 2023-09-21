@@ -9,7 +9,7 @@ In this verse, the author reflects on their ability to find contentment and plea
 2. "For whenever I am weak, then I am mighty."
 3. "Do not fall away. Your weakness is your strength."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am well contented in."
 2. "reproaches - 'insults.'"
 3. "strong - 'powerful' in 'the power of Christ'."
@@ -52,4 +52,4 @@ In this verse, the author reflects on their ability to find contentment and plea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

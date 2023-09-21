@@ -9,7 +9,7 @@ This verse describes a significant moment in the timeline of Jesus' ministry. It
 2. "Our Evangelist seems here to refer to such records, and to insert this remark, that it might not be imagined, as it would be from them, that our Lord’s public ministry began with the imprisonment of the Baptist."
 3. "Between Matthew 4:11-12, there seems to be a wide hiatus, in which the first chapters of this Gospel should be inserted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord's ministry did not commence with the imprisonment of John." 
 2. "This clarifies that the imprisonment of John was not the starting point of Jesus' ministry." 
 3. "The inference that Jesus' ministry began with John's imprisonment is incorrect."
@@ -49,4 +49,4 @@ These quotes highlight the dedication and persistence of John the Baptist in his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

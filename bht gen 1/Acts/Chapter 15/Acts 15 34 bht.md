@@ -4,7 +4,7 @@
 Silas, a close associate of Paul, made a personal decision to remain in Antioch instead of returning to Jerusalem. This choice was significant, as it demonstrated Silas's willingness to continue the work and support Paul's ministry to the Gentiles. Scholars have debated the inclusion of this verse, but its presence provides context for Silas's later travels with Paul and suggests a divine purpose behind his decision to stay in Antioch.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It pleased Silas—Silas determined." - This quote highlights Silas's personal choice and determination to stay in Antioch. It suggests that Silas had a strong desire to be in the presence of Paul, indicating a deep bond between them.
 
 2. "The authorities against the insertion of this verse are strong." - This quote acknowledges the controversy surrounding the inclusion of this verse in the text. It implies that there are differing opinions among scholars about its authenticity, adding an element of scholarly debate to the interpretation of the passage.
@@ -37,4 +37,4 @@ Silas, a close associate of Paul, made a personal decision to remain in Antioch 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

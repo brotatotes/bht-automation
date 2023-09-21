@@ -4,7 +4,7 @@
 In this verse, a man who had been rendered mute by a demonic possession is brought to Jesus by his friends. The man's inability to speak was a physical manifestation of the spiritual bondage he was under. Jesus, displaying His power and authority, casts out the demon and restores the man's ability to speak. The astonishment and amazement of the crowd upon witnessing this miraculous act underscores Jesus' divine authority and highlights His mission to bring deliverance and freedom to all who are oppressed.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The dumbness was not natural, but was the effect of the possession." 
 2. "The presence of the devil in this man's life had rendered him unable to speak." 
 3. "The man's inability to speak was a visible manifestation of the spiritual bondage he was under."
@@ -50,4 +50,4 @@ In this verse, a man who had been rendered mute by a demonic possession is broug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

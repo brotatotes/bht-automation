@@ -9,7 +9,7 @@ The narrative of Jesus appearing to the two disciples on the road to Emmaus is a
 2. "Origen, in several places, calls him Simon; apparently from having read λέγοντες in Luke 24:34, and referring ὤφθη τ. Σ. to the present appearance."
 3. "Wieseler (Chron. vol. i. p. 431) believes the two to have been, James the son of Alphæus or Clopas or Cleopas (but see above) journeying with his father, and the appearance on the road to Emmaus to be the same as ὤφθη Ἰακώβῳ, 1 Corinthians 15:7."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One was Cleopas (Luke 24:18); who the other was is mere conjecture."
 2. "Emmaus—about seven and a half miles from Jerusalem."
 3. "They probably lived there and were going home after the Passover."
@@ -55,4 +55,4 @@ These quotes provide insight into the timing and significance of the disciples' 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

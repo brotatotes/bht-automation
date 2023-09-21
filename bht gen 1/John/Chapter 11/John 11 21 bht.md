@@ -9,7 +9,7 @@ The statements of Martha and Mary reflect a poignant mix of faith and human weak
 2. "Mary repeats it, John 11:32."
 3. "The repetition of the words of Martha and Mary shows that they had often spoken of this to each other during the four days of their brother’s sickness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is plain they had made this very natural remark to each other, perhaps many times during these four sad days, and not without having their confidence in His love at times overclouded." 
 2. "Such trials of faith, however, are not peculiar to them." 
 3. "These words, as Bengel says, 'are the language of a faith which, though weak, is still faith.'"
@@ -44,4 +44,4 @@ These quotes shed light on the faith, emotions, and personalities of the individ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

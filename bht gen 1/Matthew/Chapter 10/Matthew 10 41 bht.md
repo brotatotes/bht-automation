@@ -9,7 +9,7 @@ He who receives and shows kindness to a preacher of the Gospel, not for worldly 
 2. "Shall derive all the spiritual benefits which these states bring with them."
 3. "And share their everlasting reward."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that receiveth a prophet...in the name of a prophet...shall receive a prophet's reward." 
 2. "What an encouragement to those who are not prophets!" 
 3. "He that receiveth a righteous man in the name of a righteous man...shall receive a righteous man's reward."
@@ -45,4 +45,4 @@ He who receives and shows kindness to a preacher of the Gospel, not for worldly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

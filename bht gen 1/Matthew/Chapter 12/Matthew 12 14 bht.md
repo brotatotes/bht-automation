@@ -11,7 +11,7 @@ In this Bible verse, the Pharisees and Herodians, despite their differences, uni
 
 3. "This verse highlights the escalating conflict between Jesus and the religious leaders, foreshadowing the events that would lead to His crucifixion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the first explicit mention of their murderous designs against our Lord."
 2. "Their doubt was not, whether to get rid of Him, but how to compass it."
 3. "The Pharisees regarded them as untrue to their religion and country. But here we see them combining together against Christ as a common enemy."
@@ -42,4 +42,4 @@ In this Bible verse, the Pharisees and Herodians, despite their differences, uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

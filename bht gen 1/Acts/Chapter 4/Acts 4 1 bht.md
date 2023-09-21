@@ -9,7 +9,7 @@ In this verse, we see a scene unfolding where the preaching of the apostles is m
 2. "The captain of the Levitical guard of the temple, mentioned by Jos. B. J. vi. 5. 3." 
 3. "Perhaps they on this occasion had moved the guard and the priests to notice the matter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The captain of the Levitical guard" was annoyed at the disturbance around the temple. This highlights the tension and conflict that the apostles' preaching was causing in the religious establishment. 
 
 2. The Sadducees, who denied the resurrection, were particularly irritated by the apostles' message of Jesus' resurrection from the dead. This shows the direct challenge that the apostles' preaching posed to the Sadducean doctrine. 
@@ -49,4 +49,4 @@ In this verse, we see a scene unfolding where the preaching of the apostles is m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

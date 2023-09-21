@@ -9,7 +9,7 @@ This verse portrays Paul's defense against the accusation of being a troublemake
 2. The phrase can also be understood as "anywhere in the city," suggesting that the action is not limited to specific areas.
 3. This phrase is similar to the English expression "up and down the streets," indicating movement and activity happening in different parts of the city.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They neither found me" - The commentator highlights how Paul challenges his accusers to provide evidence of any of the charges brought against him. This quote emphasizes Paul's confidence in his innocence and his willingness to confront his accusers.
 2. "Neither can they prove the things" - The commentator points out that Paul not only challenges his accusers to provide evidence but also asserts that they are unable to prove any of the charges against him. This quote highlights the lack of substance behind the accusations.
 3. "So much for the charge of sedition" - The commentator concludes by summarizing the implications of Paul's challenge, specifically addressing the charge of sedition. This quote emphasizes the commentator's assertion that Paul's challenge undermines the credibility of the accusations against him.
@@ -49,4 +49,4 @@ These quotes highlight Paul's defense against false accusations, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

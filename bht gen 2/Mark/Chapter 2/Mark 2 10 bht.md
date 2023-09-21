@@ -4,7 +4,7 @@
 Jesus displayed his authority as the Son of man by forgiving sins on earth, affirming his true nature as the Messiah. Despite his humble appearance, Jesus possessed the power to forgive sins while in a state of human nature, as he had in heaven. His ability to forgive on earth also assures believers of his power to forgive sins now that he is exalted as a Savior in heaven. By addressing the sick of the palsy with majestic authority, Jesus demonstrates his power and authority to forgive sins.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Son of man hath power on earth to forgive sins—that forgiving power dwells in the Person of this Man."
 2. "The forgiving power is exercised by Him while on this earth and going out and in with you."
 3. "He saith to the sick of the palsy."
@@ -37,4 +37,4 @@ Jesus displayed his authority as the Son of man by forgiving sins on earth, affi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

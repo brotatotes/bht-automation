@@ -9,7 +9,7 @@ In this particular Bible verse, Jesus takes the lead and goes before the discipl
 2. "Jesus is not merely predicting his own death and resurrection, but he is also teaching his disciples about the nature of true discipleship."
 3. "The call to follow Jesus is a call to deny oneself, take up one's cross, and follow him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And Jesus went before them—as GROTIUS says, in the style of an intrepid Leader."
 2. "These artless, lifelike touches...are peculiar to Mark, and give the second Gospel a charm all its own; making us feel as if we ourselves were in the midst of the scenes it describes."
 3. "Well might the poet exclaim: 'The Saviour, what a noble flame Was kindled in His breast, When, hasting to Jerusalem, He march'd before the rest!'"
@@ -45,4 +45,4 @@ In this particular Bible verse, Jesus takes the lead and goes before the discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

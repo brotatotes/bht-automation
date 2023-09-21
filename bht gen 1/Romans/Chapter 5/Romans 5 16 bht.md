@@ -9,7 +9,7 @@ Through Adam's one offense, he faced condemnation and received the sentence of d
 2. "For the judgment (pronounced by God upon Adam) came of (was by occasion of) one (man having sinned) unto condemnation, but the gift of grace was by occasion of many transgressions unto justification." 
 3. "The only difficulty here is the sense of δικαίωμα. The ordinary meaning of the word is 'the amendment of an evil deed,' but this, which Aristotle insists on as the proper, but not perhaps usual sense of the word, is not to be pressed in the N. T., and does not, though upheld by Calv., Calov., Wolf, and Röthe, suit the context as contrasted with κατάκριμα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The condemnation by Adam was for one sin; but the justification by Christ is an absolution not only from the guilt of that first offense, mysteriously attaching to every individual of the race, but from the countless offenses it, to which, as a germ lodged in the bosom of every child of Adam, it unfolds itself in his life."
 2. "This is the meaning of 'grace abounding towards us in the abundance of the gift of righteousness.' It is a grace not only rich in its character, but rich in detail."
 3. "It is a 'righteousness' not only rich in a complete justification of the guilty, condemned sinner; but rich in the amplitude of the ground which it covers, leaving no one sin of any of the justified uncancelled, but making him, though loaded with the guilt of myriads of offenses, 'the righteousness of God in Christ'."
@@ -55,4 +55,4 @@ Through Adam's one offense, he faced condemnation and received the sentence of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

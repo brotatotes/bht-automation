@@ -9,7 +9,7 @@ In the midst of a treacherous storm at sea, the sailors on the ship find themsel
 2. "The expression, all hope was taken away, seems...to betoken that a greater evil than the mere force of the storm...was afflicting them, viz., the leaky state of the ship."
 3. "Their successive lightenings of her...showed that the leaky state of the ship increased upon them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This continued thickness of the atmosphere prevented their making the necessary observations of the heavenly bodies by day or by night; so that they could not tell where they were."
 2. "Their exertions to subdue the leak had been unavailing; they could not tell which way to make for the nearest land, in order to run their ship ashore, the only resource for a sinking ship."
 3. "Their apprehensions, therefore, were not so much caused by the fury of the tempest, as by the state of the ship."
@@ -45,4 +45,4 @@ In the midst of a treacherous storm at sea, the sailors on the ship find themsel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is a call to stay alert and vigilant, constantly warni
 2. "νύκτα κ. ἡμέραν] This expression is remarkable: we have it (see reff.) in Mark, but Luke always uses the genitive, except in the speeches of Paul."
 3. "νουθετῶν (reff.) is used only by Paul."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By the space of three years—speaking in round numbers; for it was nearer three than two years." 
 2. "I ceased not to warn everyone night and day with tears—What an appeal to be able to make!"
 3. "And if this was an apostle's part, how much more a pastor's!"
@@ -59,4 +59,4 @@ These quotes highlight the urgency and sincerity of Paul's exhortation, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

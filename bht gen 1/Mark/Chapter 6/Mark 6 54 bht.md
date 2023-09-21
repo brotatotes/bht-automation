@@ -4,7 +4,7 @@
 The verse describes a scene where the people, both the locals and those who have encountered Jesus before, immediately recognize Him. This recognition emphasizes Jesus' familiarity and connection with the community, showcasing the widespread impact of His teachings. Their knowledge of Him goes beyond physical appearance, suggesting a deeper understanding and spiritual connection. The swiftness and certainty of their recognition highlight the influence Jesus had on their lives and the immediate response to His presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Immediately they recognized Him" - The people's immediate recognition of Jesus emphasizes his familiarity and presence among them. It highlights the deep connection and impact Jesus had on their lives.
 
 2. "The people did" - This phrase emphasizes the collective recognition of Jesus, suggesting that his influence was not limited to a select few but extended to the broader community. It underscores the widespread impact of Jesus' teachings and miracles.
@@ -32,4 +32,4 @@ The verse describes a scene where the people, both the locals and those who have
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

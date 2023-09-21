@@ -11,7 +11,7 @@ The Bible verse in question emphasizes the power of light in exposing hidden tru
 
 (Note: The commentary is quite lengthy, so I have selected three quotes that capture the essence of the author's explanation of the verse.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Everything that is made manifest is light." 
 2. "The devil and the wicked will not suffer themselves to be made manifest by the light, but love darkness."
 3. "Your consistent lives and faithful reproofs will be your 'armor of light' in making an inroad on the kingdom of darkness."
@@ -59,4 +59,4 @@ The Bible verse in question emphasizes the power of light in exposing hidden tru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

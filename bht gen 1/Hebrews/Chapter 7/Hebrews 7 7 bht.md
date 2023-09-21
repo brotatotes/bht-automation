@@ -11,7 +11,7 @@ In this verse, the commentators emphasize the principle that the one who blesses
 
 3. "It is obvious that the axiom here laid down only holds good where the blessing is a solemn and official one, as of a father, or a priest: as was the case here." - This quote clarifies that the principle applies specifically to solemn and official blessings, such as those given by a father or a priest.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The principle that the blesser is superior to him whom he blesses, holds good only in a blessing given with divine authority."
 2. "Not merely a prayerful wish, but one that is divinely efficient in working its purport."
 3. "Christ's blessing, Luke 24:51; Acts 3:26."
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the principle that the one who blesses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

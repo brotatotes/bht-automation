@@ -9,7 +9,7 @@ On a strategic and advantageous day, a woman named Herodias executed her careful
 2. "μεγιστᾶνες, a Macedonian word, which came into use at the Alexandrine conquest."
 3. "He adduces the nom. form μεγιστᾶνος from Anna Comnena, xi. 324 c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A convenient day being come, when Herod." - This phrase emphasizes the timing of the events, suggesting that Herodias strategically chose the day for her own purposes.
 2. "This graphic minuteness of detail adds much to the interest of the tragic narrative." - The commentary highlights the significance of the detailed description, indicating that it enhances the overall impact of the story.
 3. "The purposes of Herodias." - This phrase implies that Herodias had specific intentions or desires that were being fulfilled through the events of the story.
@@ -45,4 +45,4 @@ On a strategic and advantageous day, a woman named Herodias executed her careful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

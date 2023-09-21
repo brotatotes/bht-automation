@@ -9,7 +9,7 @@ He who continually commits sin aligns himself with the devil, who has been sinni
 2. "Rather may we say, that in those who are of the devil this latter change has never taken place."
 3. "To this end was the Son of God manifested...that He might destroy the works of the devil...works whereof the devil is the author."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that committeth sin is of the devil...he is a son of the devil." - This quote highlights the contrast between those who commit sin and those who do righteousness. It emphasizes that those who imitate the devil become his children through their actions, not by proper birth.
 
 2. "From the devil there is not generation, but corruption." - This quote explains that the devil does not create or beget, but rather corrupts. It suggests that the devil's influence is not about giving life, but about leading others astray.
@@ -59,4 +59,4 @@ He who continually commits sin aligns himself with the devil, who has been sinni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

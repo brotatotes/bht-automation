@@ -9,7 +9,7 @@ The Bible verse being described is about the creation being subjected to vanity.
 2. "Creation was not subjected willingly, but by the one who subjected it." 
 3. "The creation itself also shall be delivered from the bondage of corruption into the freedom of the glory of the children."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The creature—'the creation.' was made subject to vanity, not willingly—that is, through no natural principle of decay."
 2. "The apostle, personifying creation, represents it as only submitting to the vanity with which it was smitten, on man's account, in obedience to that superior power which had mysteriously linked its destinies with man's."
 3. "And so he adds but by reason of him who hath subjected the same—'who subjected it.' in hope—or 'in hope that.'"
@@ -53,4 +53,4 @@ The Bible verse being described is about the creation being subjected to vanity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

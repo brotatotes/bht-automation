@@ -9,7 +9,7 @@ In this passage of the Bible, the apostle Paul concludes his letter to the Galat
 2. "I should rather regard it as a deep expression of his Christian love."
 3. "Parting from them, after an Epistle of such rebuke and warning, in the fulness of brotherhood in Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After much rebuke and monition, he bids them farewell with the loving expression of brotherhood as his last parting word."
 2. "Be with your spirit—which, I trust, will keep down the flesh."
 3. "The expression 'be with your spirit' implies a desire for the Lord's presence and power to be with their innermost being, their spirit, which is the seat of their thoughts, emotions, and will."
@@ -48,4 +48,4 @@ In this passage of the Bible, the apostle Paul concludes his letter to the Galat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

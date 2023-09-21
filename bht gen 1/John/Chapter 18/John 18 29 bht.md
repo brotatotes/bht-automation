@@ -11,7 +11,7 @@ Pilate, the Roman procurator of Judea, went outside to the Sanhedrin to inquire 
 
 3. "se scire dissimulabat," Rupert, in Meyer.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pilate went out to them, and said, 'What accusation bring ye against this man?' This question from Pilate demonstrates his desire to understand the specific charges against Jesus. It shows his commitment to justice and fairness in the face of a volatile situation."
 
 2. "State your charge." Pilate's straightforward request for the accusation against Jesus highlights his role as a judge in this situation. He is seeking clarity and demanding that the accusers present a formal charge, emphasizing the need for a legal basis for any action taken against Jesus.
@@ -47,4 +47,4 @@ Pilate, the Roman procurator of Judea, went outside to the Sanhedrin to inquire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse under consideration addresses the question of whether seeking justific
 
 3. "The fine irony of the question, which, as it stands, presupposes the ἆρ ʼ οὐ question already asked, the inevitable answer given, and now puts the result, ‘Can we believe, are we to hold henceforth, such a consequence?'" - This quote highlights the irony in the question, suggesting that the answer is already known and the question challenges the validity of the consequence.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Christian mind revolts from so shocking a conclusion, and so, from the theory which would result in it."
 2. "The whole sin lies, not with Christ, but with him who would necessitate such a blasphemous inference."
 3. "But his false theory, though 'seeking' from Christ, we have not 'found' salvation, but 'have been ourselves also (like the Gentiles) found' to be 'sinners,' by having entered into communion with Gentiles."
@@ -55,4 +55,4 @@ The verse under consideration addresses the question of whether seeking justific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the midst of his despair and isolation, Elijah cries out to God, expressing his deep frustration and exhaustion. However, God responds with a gentle reminder of His sovereignty, inviting Elijah to witness His power on the mountain. This serves as a reminder that even in our moments of doubt and weakness, God is still in control and His presence can be found in unexpected ways. As we navigate through the chaos of life, we are encouraged to actively listen for God's voice in the quiet moments, for it is in those times that He often makes His presence known.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This statement by Elijah reveals his deep sense of isolation and loneliness. Despite his great faith and courage, he felt overwhelmed by the opposition and persecution he faced. It is a reminder that even the strongest and most faithful individuals can experience moments of doubt and despair."
 
 2. "Elijah's feeling of being the only one left also highlights the importance of community and support. It serves as a reminder that we are not meant to face our struggles alone, but rather to lean on and encourage one another in times of difficulty."
@@ -49,4 +49,4 @@ In the midst of his despair and isolation, Elijah cries out to God, expressing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

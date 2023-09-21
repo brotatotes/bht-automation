@@ -11,7 +11,7 @@ By using repetitions and emphasizing the certainty and importance of future even
 
 3. "The use of repetition in this verse serves to highlight the importance and significance of what is being said."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These are the beginnings of sorrows—"of travail-pangs," to which heavy calamities are compared."
 2. "The annals of TACITUS tell us how the Roman world was convulsed, before the destruction of Jerusalem, by rival claimants of the imperial purple."
 3. "The beginnings of sorrows in this context refer to the signs and events that would precede the destruction of Jerusalem."
@@ -25,4 +25,4 @@ By using repetitions and emphasizing the certainty and importance of future even
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

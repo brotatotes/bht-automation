@@ -9,7 +9,7 @@ The disciples are described as being purified and cleansed through the word and 
 2. "The καθαροί here is not = κεκαθαρμένοι, pruned, in the sense of John 15:2."
 3. "There was more pruning at hand, when the sap should begin to flow, when the Spirit should be shed abroad."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Already in a purified, fruitful condition."
 2. "In consequence of the long action upon them of that searching 'word.'"
 3. "As a refiner's fire."
@@ -57,4 +57,4 @@ The disciples are described as being purified and cleansed through the word and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

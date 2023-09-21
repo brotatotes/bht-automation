@@ -4,7 +4,7 @@
 In a remarkable display of compassion and faith, Paul, like the prophets Elijah and Elisha, falls upon the young man, beseeching God to restore him to life. The intense physical and emotional response of Paul reflects his deep concern for the well-being of the young man. In a moment of triumph, life is indeed restored, confirming the power of prayer and serving as a powerful testament to Paul's ministry.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul . . . fell on him—like Elisha (2 Kings 4:34)." This quote highlights the parallel between Paul's actions and those of the prophet Elisha in the Old Testament, emphasizing the miraculous nature of the healing that took place.
 
 2. "His life is in him—now restored; compare Mark 5:39." This quote draws a comparison between the restoration of life in this verse and a similar event recorded in the Gospel of Mark. It suggests that the resurrection power of God is at work in both instances.
@@ -49,4 +49,4 @@ In a remarkable display of compassion and faith, Paul, like the prophets Elijah 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

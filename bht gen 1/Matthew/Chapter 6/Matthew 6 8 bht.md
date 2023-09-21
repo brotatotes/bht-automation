@@ -9,7 +9,7 @@ Prayer is not about informing God of our needs, but about humbling ourselves and
 2. "The act of prayer calms and purifies our hearts, making them more receptive to the divine gifts that are poured out upon us spiritually." (August. de Serm. Dom. ii. 3 (14))
 3. "Prayer enlarges our capacity to receive the blessings that God wants to bestow upon us." (Chrys. Hom. xix. 4, p. 249)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your Father knoweth what things ye have need of before ye ask him—and so needs not to be informed of our wants, any more than to be roused to attend to them by our incessant speaking." 
 2. "What a view of God is here given, in sharp contrast with the gods of the heathen!"
 3. "He will have His children pray to Him, and links all His promised supplies to their petitions for them; thus encouraging us to draw near and keep near to Him, to talk and walk with Him, to open our every case to Him."
@@ -38,4 +38,4 @@ Prayer is not about informing God of our needs, but about humbling ourselves and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

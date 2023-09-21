@@ -11,7 +11,7 @@ The verse being described discusses two of the disciples of Jesus, Simon the Can
 
 3. "That the name ἴσκ cannot be a surname, as Bp. Middleton supposes, the expression Ἰούδας Σίμωνος ἰσκαριώτης, used in all the above places of John, clearly proves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'Kananite' is just the Aramaic, or Syro-Chaldaic, term for 'Zealot.'"
 2. "Judas of Kerioth, a town of Judah, so called to distinguish him from 'Judas the brother of James.'"
 3. "A note of infamy attached to his name in all the catalogues of the Twelve."
@@ -49,4 +49,4 @@ The verse being described discusses two of the disciples of Jesus, Simon the Can
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

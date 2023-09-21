@@ -9,7 +9,7 @@ In this verse, the historical and political context in which Jesus' ministry beg
 2. "It may be doubted, however, whether in all these reckonings more accuracy has not been sought than the Gospel narrative warrants any expectation of our finding."
 3. "He [Philip] must not be confounded with his half-brother Philip, whose wife Herodias Herod Antipas seduced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here the curtain of the New Testament is, as it were, drawn up, and the greatest of all epochs of the Church commences."
 2. "No such elaborate chronological precision is to be found elsewhere in the New Testament."
 3. "Pilate . . . governor of Judea—His proper title was Procurator, but with more than the usual powers of that office."
@@ -50,4 +50,4 @@ In this verse, the historical and political context in which Jesus' ministry beg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

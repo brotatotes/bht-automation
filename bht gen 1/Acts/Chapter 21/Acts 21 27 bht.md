@@ -9,7 +9,7 @@ Amidst the completion of a seven-day period, Paul and his companions found thems
 2. "From Ephesus and the neighbourhood, where Paul had so long taught."
 3. "Notice the similarity of the charge against him to that against Stephen, ch. Acts 6:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews of Asia, most likely from Ephesus, were embittered by their defeat and sought to take revenge on Paul and his companions." 
 
 2. "Their recognition of Trophimus as a fellow townsman indicates that they were familiar with him and his association with Paul, adding to their anger towards them." 
@@ -57,4 +57,4 @@ Amidst the completion of a seven-day period, Paul and his companions found thems
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

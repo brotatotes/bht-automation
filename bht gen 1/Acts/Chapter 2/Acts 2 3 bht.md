@@ -9,7 +9,7 @@ The Bible verse being described depicts a scene where flames resembling tongues 
 2. "In appearance like that element."
 3. "I understand ἐκάθ . as usually interpreted, lighted on their heads."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "disparted tongues," that is, tongue-shaped, flame-like appearances, rising from a common center or root - This description helps us visualize the visual symbol of the Holy Spirit's energy descending upon the Church, emphasizing the unity and diversity within the body of believers.
 
 2. "beautiful visible symbol of the burning energy of the Spirit" - This phrase highlights the powerful and transformative nature of the Holy Spirit's work, reminding us that His presence brings about change and renewal in the lives of believers.
@@ -47,4 +47,4 @@ The Bible verse being described depicts a scene where flames resembling tongues 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

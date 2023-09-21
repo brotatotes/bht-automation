@@ -9,7 +9,7 @@ The verse being described is a commandment, given by Jesus, that encompasses the
 2) "The Apostle has made what is apparently a paradoxical assertion. He has stated that the commandment is not new but old, and then has, notwithstanding, asserted its newness."
 3) "You are living in a time when the darkness is rolling away, even now passing: so that the command, which is of the Light, is well said to be 'new'."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christianity first put love to brethren on the new and highest MOTIVE, instinctive love to Him who first loved us, constraining us to love all, even enemies, thereby walking in the steps of Him who loved us when enemies."
 2. "The new commandment finds its truth in its practical realization in the walk of Christians in union with Christ."
 3. "The repetition of 'in' before 'you,' 'in Him and in you,' implies that the love commandment finds its realization separately: first it did so 'in Him,' and then it does so 'in us,' in so far as we now 'also walk even as He walked'; and yet it finds its realization also conjointly, by the two being united in one sentence, even as it is by virtue of the love commandment having been first fulfilled in Him, that it is also now fulfilled in us, through His Spirit in us."
@@ -50,4 +50,4 @@ The verse being described is a commandment, given by Jesus, that encompasses the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

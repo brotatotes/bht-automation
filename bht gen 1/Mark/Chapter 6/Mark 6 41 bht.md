@@ -9,7 +9,7 @@ In this verse, Jesus performs a miraculous act of multiplying the loaves and fis
 2. "ἐδίδου, imperf., that He gave the bread, bit by bit, to His disciples to distribute."
 3. "The dividing of the fishes, and the taking up fragments from the fishes, are both peculiar to and characteristic of Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus would the most distant of them see distinctly what He was doing." 
 2. "This thanksgiving for the meal, and benediction of it as the food of thousands, was the crisis of the miracle." 
 3. "Thus virtually holding forth these men as His future ministers."
@@ -44,4 +44,4 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

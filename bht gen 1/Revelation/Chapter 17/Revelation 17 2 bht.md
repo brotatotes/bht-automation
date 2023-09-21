@@ -4,7 +4,7 @@
 This verse describes a powerful, seductive entity that represents the apostate Church, encompassing not only the corrupt practices of Rome but also the Church as a whole. It portrays this entity as a harlot, leading both rulers and ordinary people astray through idolatry, corruption, and false zeal. The kings of the earth have been deceived and enticed into partaking in her wickedness, while the inhabitants of the earth are intoxicated by her allure, blinded to the truth. This vivid imagery demonstrates the pervasive influence and destructive consequences of deviating from true faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The judgment and the spiritual fornication, though finding their culmination in Rome, are not restricted to it, but comprise the whole apostate Church, Roman, Greek, and even Protestant."
 2. "The woman is the congregation of God in its purity under the Old and New Testament, and appears again as the Bride of the Lamb, the transfigured Church prepared for the marriage feast."
 3. "The woman, the invisible Church, is latent in the apostate Church, and is the Church militant; the Bride is the Church triumphant."
@@ -43,4 +43,4 @@ This verse describes a powerful, seductive entity that represents the apostate C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

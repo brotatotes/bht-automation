@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul decides to take a journey from Troas to As
 2. "With a descent so precipitous as to have prompted a pun of Stratonicus, the musician (see Athen [104] viii., p. 352), on a line of Homer, Il. ζ . 143, Ἄσσον ἴθ ʼ, ὥς κεν θᾶσσον ὀλέθρου πείραθ ʼ ἵκηαι."
 3. "Paul’s reason is not given for wishing to be alone: probably he had some apostolic visit to make."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In sailing southward from Troas to Assos, one has to round Cape Lecture, and keeping due east to run along the northern shore of the Gulf of Adramyttium, on which it lies."
 2. "This is a sail of nearly forty miles; whereas by land, cutting right across, in a southeasterly direction, from sea to sea, by that excellent Roman road which then existed, the distance was scarcely more than half."
 3. "The one way Paul wished his companions to take, while he himself, longing perhaps to enjoy a period of solitude, took the other, joining the ship, by appointment, at Assos."
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul decides to take a journey from Troas to As
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

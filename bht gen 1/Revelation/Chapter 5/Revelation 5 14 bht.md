@@ -9,7 +9,7 @@ In this verse, the representatives of the animated creation, the four living cre
 2. "The elders fell down and worshipped...in silent adoration of God and of the Lamb." 
 3. "The worthiness of God to receive the glory and the honour and the power on account of His having created all things."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the four living creatures ratify by their 'Amen' the whole creation's ascription of the glory to Him."
 2. "the four and twenty elders asserted God's worthiness to receive the glory, as having created all things."
 3. "their worship is that of silent prostration."
@@ -43,4 +43,4 @@ In this verse, the representatives of the animated creation, the four living cre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

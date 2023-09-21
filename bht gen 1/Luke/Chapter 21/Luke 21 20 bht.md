@@ -9,7 +9,7 @@ When Jerusalem is encircled by Roman armies, displaying the abomination of desol
 2. "graphically setting forth the scene" - The commentary highlights the descriptive nature of the word, indicating that it paints a clear picture of the situation.
 3. "On the variation of expression from Matt. and Mark" - This reference suggests that the commentary compares the wording of this verse with similar passages in Matthew and Mark, providing further insights into the context.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the abomination of desolation" (meaning the Roman ensigns, as the symbols of an idolatrous, pagan, unclean power) "spoken of by Daniel the prophet" - Matthew 24:15
 2. "standing where it ought not" - Matthew 24:15
 3. "Whoso readeth [that prophecy] let him understand" - Matthew 24:15
@@ -35,4 +35,4 @@ When Jerusalem is encircled by Roman armies, displaying the abomination of desol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

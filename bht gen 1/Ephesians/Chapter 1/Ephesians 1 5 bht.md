@@ -9,7 +9,7 @@ The biblical verse being described is about predestination and adoption as sons 
 2. "THE SON of God, in and by whom, elementally and instrumentally, our adoption consists."
 3. "The import must be ‘to (into) Himself,' i.e. so that we should be partakers of the divine nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are 'chosen' out of the rest of the world; 'predestinated' to all things that secure the inheritance for us." (Quote 5)
 2. "God has regard to Himself and the glory of His grace as His ultimate end." (Quote 5)
 3. "There was nothing in us which deserved His love." (Quote 5)
@@ -55,4 +55,4 @@ The biblical verse being described is about predestination and adoption as sons 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

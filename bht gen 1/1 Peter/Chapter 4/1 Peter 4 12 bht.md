@@ -9,7 +9,7 @@ Believers should not be surprised or bewildered by the hardships and trials they
 2. "The passing through the fire, in its later use, smelting, trying of metal by fire."
 3. "As if some strange thing were happening to you, falling by chance on you: opposed to done with a purpose, by One who knows how to serve that purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They might think it strange that God should allow His chosen children to be sore tried."
 2. "Fiery trial - like the fire by which metals are tested and their dross removed."
 3. "Instead of its 'happening to you' as some strange and untoward chance, it 'is taking place' with the gracious design of trying you; God has a wise design in it - a consolatory reflection."
@@ -57,4 +57,4 @@ Believers should not be surprised or bewildered by the hardships and trials they
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

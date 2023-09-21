@@ -11,7 +11,7 @@ In this Bible verse, the apostle Paul expresses his desire to visit the church i
 
 3. "οὐδὲ ἐμποιῆσαί μοι κόρον τῆς συνουσίας ὑμῶν" - This quote, also from Chrysostom, highlights the inability to reach a point of satiety in the fellowship with others.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those who think our apostle was never at large after his first imprisonment at Rome will of course hold that it never was; while those who are persuaded, as we are, that he underwent a second imprisonment, prior to which he was at large for a considerable time after his first, incline naturally to the other opinion."
 2. "If these words were not originally in the text, and there is weighty evidence against them, they must at least be inserted as a necessary supplement."
 3. "I should indeed like to stay longer with you than I can hope to do, but I must, to some extent at least, have my fill of your company."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul expresses his desire to visit the church i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

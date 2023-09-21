@@ -9,7 +9,7 @@ In this verse, Jesus addresses his disciples' desire for greatness and redefines
 2. "The difference in the expression of this is a mark of independence and authority." 
 3. "There is no real difference in the matter in question here (and in Luke), and in Matt."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perhaps one or two of them first referred the matter to Jesus, who put them off till they should all be assembled together at Capernaum."
 2. "He had all the while 'perceived the thought of their heart'; but now that they were all together 'in the house,' He questions them about it, and they are put to the blush, conscious of the temper towards each other which it had kindled."
 3. "The subject was suggested by the recent announcement of the Kingdom, the transfiguration of their Master, and especially the preference given to three of them at that scene."
@@ -46,4 +46,4 @@ In this verse, Jesus addresses his disciples' desire for greatness and redefines
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

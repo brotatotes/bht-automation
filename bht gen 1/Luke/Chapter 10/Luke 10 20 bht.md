@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize not finding joy in earthly achie
 2. "The ἐγγέγραπται ἐν τοῖς οὐρανοῖς is an expression in various forms frequent in Scripture, and is opposed to ἐπὶ τῆς γῆς γραφήτωσαν, said of the rebellious."
 3. "Our Lord says, ‘the true cause of joy for you is, not the power shewn forth by or in you in My Name, but that you, your names, are in the book of life’ as testified by the πνεῦμα which συμμαρτυρεῖ τῷ πν. ἡμῶν ὅτι ἐσμὲν τέκνα θεοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Rejoice not, &c.—that is, not so much." 
 2. "He takes occasion from it to tell them what had been passing in His own mind." 
 3. "He gives them a higher joy to balance it, the joy of having their names in Heaven's register."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize not finding joy in earthly achie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage emphasizes the importance of effectively communicating and sharing 
 2. "To join ὅπως κ . τ . λ . with ἣν ἔχεις is flat in the extreme, and perfectly inconceivable as a piece of St. Paul’s writing."
 3. "To understand ἡ κοιν . τῆς π . σου, ‘fides tua quam communem nobiscum habes,’ as Bengel (and indeed Chrys., Thl., al.), is very objectionable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The aim of my thanksgiving and prayers for thee is, in order that the communication of thy faith - the imparting of it and its fruits - to others." 
 2. "The element in which his liberality had place, that is, may be proved by acts in acknowledging - the thorough knowledge, that is, the experimental or practical recognition - of every good thing which is in you." 
 3. "In short, that thy faith may by acts be proved to be 'a faith which worketh by love'."
@@ -57,4 +57,4 @@ This passage emphasizes the importance of effectively communicating and sharing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, the speaker emphasizes their personal identity and unique calling
 
 3. "καλεῖσθαι, ‘to bear the honourable name of an Apostle.’" This suggests that the speaker is referring to the honorable title of being an Apostle, implying a sense of honor and responsibility.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The name, 'Paulus,' in Latin, means 'least.'" 
 2. "Though God has forgiven him, Paul can hardly forgive himself at the remembrance of his past sin." 
 3. "I persecuted the church."
@@ -54,4 +54,4 @@ In this verse, the speaker emphasizes their personal identity and unique calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

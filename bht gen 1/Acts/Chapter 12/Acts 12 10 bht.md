@@ -9,7 +9,7 @@ In this passage, we see the incredible deliverance of Peter from prison. The gat
 2. "Then 'the iron gate leading into the city' was that outside the prison buildings, forming the exit from the premises."
 3. "The situation of the prison is uncertain, but seems to have been in the city."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We can only conjecture the precise meaning of all this, not knowing the position of the prison." 
 2. "He disappointeth the devices of the crafty, so that their heads cannot perform their enterprise" (Job 5:12).
 3. "Thus 'He disappointeth the devices of the crafty, so that their heads cannot perform their enterprise' (Job 5:12)."
@@ -50,4 +50,4 @@ In this passage, we see the incredible deliverance of Peter from prison. The gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

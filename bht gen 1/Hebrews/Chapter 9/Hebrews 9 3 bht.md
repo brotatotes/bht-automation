@@ -9,7 +9,7 @@ The Bible verse being described in this paragraph is talking about the significa
 2. "καταπέτασμα , class. παραπέτασμα , see ch. Hebrews 6:19 , is used in the LXX for the veil or curtain hanging before the sanctuary."
 3. "the exterior veil is called κάλυμμα or ἐπίσπαστρον , and the word καταπέτασμα reserved for the interior one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But" signifies a contrast between what was previously mentioned and what follows, indicating a shift in focus or perspective.
 2. The phrase "after" suggests a sense of progression or movement, implying that what is being described is located behind or within something else.
 3. The mention of the "second veil" refers to the existence of two curtains or veils, one before the Holy of Holies and the other before the tabernacle door. This distinction highlights the significance and separation of the Holy of Holies.
@@ -48,4 +48,4 @@ The Bible verse being described in this paragraph is talking about the significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

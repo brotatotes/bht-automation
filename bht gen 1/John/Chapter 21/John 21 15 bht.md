@@ -9,7 +9,7 @@ In this Bible verse, Jesus appears to His disciples after His resurrection. The 
 2. "Peter’s answer shows that he understood the question as above. He says nothing of the πλέον τούτων but dropping all comparison of himself with others, humbly refers to the Searcher of hearts the genuineness of his love, however the past may seem to have called it in question."
 3. "Perhaps the feeding of the lambs was the furnishing the apostolic testimony of the Resurrection and facts of the Lord’s life on earth to the first converts; the shepherding or ruling the sheep, the subsequent government of the Church as shown forth in the early part of the Acts; the feeding of the προβάτια, the choicest, the loved of the flock, the furnishing the now maturer Church of Christ with the wholesome food of the doctrine contained in his Epistles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Silence appears to have reigned during the meal; unbroken on His part, that by their mute observation of Him they might have their assurance of His identity the more confirmed."
 2. "Referring lovingly to those sad words of Peter, shortly before denying his Lord... intending by this allusion to bring the whole scene vividly before his mind and put him to shame."
 3. "He adds not, 'more than these,' but prefixes a touching appeal to the Saviour's own omniscience for the truth of his protestation, which makes it a totally different kind of speech from his former."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus appears to His disciples after His resurrection. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

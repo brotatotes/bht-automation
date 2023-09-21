@@ -9,7 +9,7 @@ In this verse, believers are called to not be possessive of worldly gains, under
 2. "Vitaque mancupio nulli datur, omnibus usu." (Life is not given to anyone as property, but to all for use.)
 3. "Life is not given to anyone as property, but to all for use."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ specifies as the condemning sin of the men of Sodom not merely their open profligacy, but that 'they bought, they sold,' c., as men whose all was in this world."
 2. "Possessed" in the Greek implies a holding fast of a possession this the Christian will not do, for his "enduring substance" is elsewhere.
 3. "They that weep" and "they that buy" are contrasted with the Christian who finds their true substance and joy in something beyond this world.
@@ -40,4 +40,4 @@ In this verse, believers are called to not be possessive of worldly gains, under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

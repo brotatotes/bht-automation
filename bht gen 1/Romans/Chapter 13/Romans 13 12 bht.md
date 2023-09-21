@@ -11,7 +11,7 @@ In this verse, the impending transition from darkness to light is depicted, symb
 
 3. "Put on the armor of light." - This imagery from Ephesians 6:11 emphasizes the need for believers to be equipped with spiritual armor, signifying their identity as children of light and day.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The night of evil is far spent, the day of consummated triumph over it is at hand." 
 2. "Let us cast off the works of darkness, all works holding of the kingdom and period of darkness." 
 3. "Let us put on the armor of light, described at length in Romans 13:12."
@@ -54,4 +54,4 @@ In this verse, the impending transition from darkness to light is depicted, symb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage warns of the presence of unruly, deceitful individuals who engage i
 2. "Such men as overturn whole houses, teaching things which are not fitting." 
 3. "For the sake of base gain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There are many unruly persons, vain talkers, and deceivers" - This highlights the presence of individuals who are insubordinate, engage in empty chatter, and deceive others. 
 
 2. "Vain talkers" - This phrase refers to those who oppose holding fast to the faithful word, engaging in foolish and unprofitable questions. 
@@ -58,4 +58,4 @@ Note: The commentary is referring to Titus 1:10-11, which states, "For there are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

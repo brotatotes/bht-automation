@@ -4,7 +4,7 @@
 In this Bible verse, Jesus calls Andrew and Simon to follow Him and become His disciples. This call goes beyond a mere invitation; it is a command to leave behind their old lives and devote themselves to Jesus' mission. Jesus promises to transform them into messengers of the Gospel, where they will actively spread the message and bring people into a relationship with God. This verse highlights the importance of faith, labor, and a willingness to leave behind worldly pursuits for the sake of following Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Follow me" - This invitation from Jesus is a call to discipleship, a call to leave behind the old way of life and follow Him. It is an invitation to walk in His footsteps, to learn from Him, and to become like Him.
 2. "Come ye after Me" - This phrase emphasizes the urgency and immediacy of Jesus' call. It is not a casual invitation, but a command to leave everything and follow Him without delay.
 3. "I will make you fishers of men" - Jesus promises to transform His disciples into something greater than fishermen. He will equip them to become fishers of men, to bring people into the kingdom of God. This shows that Jesus' call is not just about personal salvation, but about participating in God's mission to save others.
@@ -35,4 +35,4 @@ In this Bible verse, Jesus calls Andrew and Simon to follow Him and become His d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

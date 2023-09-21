@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul stands before Gallio, a Roman proconsul. T
 2. "Paul asserted Jesus to be the Christ, which the Jews denied. This to a Roman would be a question of names."
 3. "So Lysias (ch. Act 23:29) declined to decide Paul’s case; and Festus (ch. Act 25:20), though he did not altogether put the enquiry by, wished to judge it at Jerusalem, where he might have the counsel of those learned in the Jewish law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If it be a question of words and names, and of your law... I will be no judge." - The commentator highlights how Paul acknowledges the limitations of his role as a judge in matters of words and names, emphasizing his focus on the spiritual aspects of the Gospel rather than legalistic disputes.
 
 2. "Laying down the proper limits of his office." - This quote emphasizes Paul's understanding of his role and the importance of maintaining boundaries in his ministry. It shows his commitment to staying true to his calling and not overstepping his authority.
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul stands before Gallio, a Roman proconsul. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

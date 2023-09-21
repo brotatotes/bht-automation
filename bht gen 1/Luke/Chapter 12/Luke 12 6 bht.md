@@ -4,7 +4,7 @@
 In this verse, the commentator explains that Jesus uses the example of sparrows to highlight the value that God places on every aspect of His creation, even the smallest and seemingly insignificant creatures. The mention of sparrows serves as a reminder of God's care, attention, and provision for His people, assuring them that they are never forgotten or abandoned. This verse reinforces the message that God's love extends to all of creation and that we can trust in His provision and protection in all circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In Matthew 10:29 it is 'two for one farthing'; so if one took two farthings' worth, he got one in addition—of such small value were they." 
 2. "Not 'than millions of sparrows'; the charm and power of our Lord's teaching is very much in this simplicity." 
 3. "The charm and power of our Lord's teaching is very much in this simplicity."
@@ -39,4 +39,4 @@ In this verse, the commentator explains that Jesus uses the example of sparrows 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

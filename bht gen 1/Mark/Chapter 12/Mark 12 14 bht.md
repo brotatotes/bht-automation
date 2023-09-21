@@ -9,7 +9,7 @@ In this verse, Jesus is faced with a question aimed to trap Him into giving a de
 2. "δῶμεν ἢ μὴ δ.; the originality of the report is shewn by these words." This quote points out the intention of the questioners to trap Jesus by forcing Him to give a definitive answer, highlighting the cunning nature of their inquiry.
 3. "They wish to drive our Lord to an absolute affirmation or negation." This quote emphasizes the underlying motive behind the question, revealing the ulterior motive of the questioners to corner Jesus into a difficult position.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we know that thou art true, and carest for no man; for thou regardest not the person of men, but teachest the way of God in truth" - This quote highlights the sincerity and integrity of Jesus, emphasizing his commitment to teaching the truth without being influenced by personal biases or favoritism.
 
 2. "By such flattery—though they said only the truth—they hoped to throw Him off His guard." - This quote reveals the ulterior motive behind the flattering words of the people who approached Jesus. It shows that they were trying to deceive him by pretending to acknowledge his honesty and impartiality.
@@ -37,4 +37,4 @@ In this verse, Jesus is faced with a question aimed to trap Him into giving a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

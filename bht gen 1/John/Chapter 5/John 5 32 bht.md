@@ -9,7 +9,7 @@ In this verse, we find a reference to an additional witness, highlighting the pr
 2. "The reason why our Lord mentions John is not ‘as ascending from the lesser witness to the greater,’ but purposely to remove the idea that He meant him only or principally by these words, and to set his testimony in its right place."
 3. "This is the Son’s testimony to the Father’s truth: It testifies to the full consciousness on the part of the Son, even in the days of his humiliation, of the righteousness of the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How brightly the distinction of the Persons shines out here!"
 2. "It testifies to the full consciousness on the part of the Son, even in the days of His humiliation, of the righteousness of the Father."
 3. "And thus He cheered His spirit under the cloud of human opposition which was already gathering over His head."
@@ -45,4 +45,4 @@ In this verse, we find a reference to an additional witness, highlighting the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the individual is awakened from a deep sleep, signaling a transfo
 2. "The repetition of the word 'sleep' emphasizes the depth of slumber that Jacob was in, underscoring the significance of the dream as a divine revelation."
 3. "This phrase suggests that the dream was not merely a product of Jacob's imagination, but a supernatural encounter that interrupted his state of rest and brought him into a new level of awareness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With what deep and reverential joy would this now be done on his part."
 2. "What balm would this minister to his betrothed one, who had till now lain under suspicions of all others the most trying to a chaste and holy woman."
 3. "Suspicions, too, arising from what, though to her an honor unparalleled, was to all around her wholly unknown!"
@@ -49,4 +49,4 @@ These quotes highlight the significance of the specific sleep in which the visio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the early days of the apostles, they passionately and persistently proclaimed
 2. "On κατ' οἶκον see note on ref." 
 3. "According to the true reading even more pointedly than in the rec., τὸν χριστὸν is the predicate, and Ἰησοῦς the subject: preaching (that) Jesus (is) the Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In every house—in private." This phrase suggests that the preaching of Jesus Christ was not limited to public gatherings, but also took place in the intimate setting of people's homes. It highlights the personal and relational nature of sharing the message of Christ.
 
 2. "Ceased not to preach Jesus Christ." This statement emphasizes the unwavering commitment of the disciples to proclaim Jesus as the Messiah. It implies that their preaching was not just about sharing information, but about passionately and persistently declaring the truth of who Jesus is.
@@ -47,4 +47,4 @@ In the early days of the apostles, they passionately and persistently proclaimed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

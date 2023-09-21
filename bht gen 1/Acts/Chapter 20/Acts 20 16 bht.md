@@ -9,7 +9,7 @@ In this verse, we see Paul's determination to sail past Ephesus without being de
 2. "The separation of Paul and Luke from the rest at the beginning of the voyage may have been in some way connected with the hiring or out-fit of this vessel."
 3. "He may have been afraid of detention there, owing to the machinations of those who had caused the uproar in ch. 19."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For Paul had determined to sail by—or 'sail past.'"
 2. "because he would not spend time in Asia—the Asian province of which Ephesus was the chief city."
 3. "he hasted, if . . . possible . . . to be at Jerusalem the day of Pentecost—as a suitable season for giving in the great collection from all the western churches, for keeping the feast, and clearing his apostolic position with the Church."
@@ -48,4 +48,4 @@ In this verse, we see Paul's determination to sail past Ephesus without being de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

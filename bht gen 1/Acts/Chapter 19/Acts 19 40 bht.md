@@ -9,7 +9,7 @@ In this verse, a gathering is described as a potentially unlawful assembly, one 
 2. "μηδενὸς κ . τ . λ .] There being no ground why (i.e. in consequence of which) we shall be able to give an account, i.e. ‘no ground whereon to build the possibility of our giving an account.’"
 3. "The reading περὶ οὗ οὐ (see digest) seems to involve the sentence in almost inextricable confusion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We, as public authorities, must be cautious of being scrutinized and questioned by our superiors."
 2. "The risk of being called into question looms over us as we carry out our duties."
 3. "It is important for us to be mindful of the potential consequences and implications of our actions, as they may be subject to examination and evaluation."
@@ -54,4 +54,4 @@ In this verse, a gathering is described as a potentially unlawful assembly, one 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

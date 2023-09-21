@@ -9,7 +9,7 @@ The believers are commended for their work and love shown towards God's name. Th
 2. "Here, the whole forgetfulness would be one act of oblivion, which the aor. expresses."
 3. "The ἅγιοι were those who were called by His name, so that beneficence towards them was in fact shewn towards His name."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that we have any inherent right to claim reward; for (1) a servant has no merit, as he only does that which is his bounden duty; (2) our best performances bear no proportion to what we leave undone; (3) all strength comes from God; but God has promised of His own grace to reward the good works of His people." 
 
 2. "God will be no man's debtor."
@@ -52,4 +52,4 @@ The believers are commended for their work and love shown towards God's name. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

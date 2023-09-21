@@ -9,7 +9,7 @@ In this verse, the commentator's insights focus on the theme of voluntary and wi
 2. "That thy good might be not as of necessity, but of free will."
 3. "The particular case would serve as an example of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Consent should not be as a matter of necessity, but of free will."
 2. "Had Paul kept Onesimus, however willing to gratify Paul Philemon might be, he would have no opportunity given him of showing he was so, his leave not having been asked."
 3. "Paul's decision to send Onesimus back to Philemon allowed Philemon to demonstrate his willingness to forgive and reconcile with Onesimus."
@@ -53,4 +53,4 @@ In this verse, the commentator's insights focus on the theme of voluntary and wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

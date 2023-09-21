@@ -9,7 +9,7 @@ The verse in question contains a message that emphasizes the individual responsi
 2. "To him that conquereth, I will give to him to eat: not in the ordinary sense of giving to eat."
 3. "The promise, and its expression, are in the closest connexion with our Lord’s discourse in John 6:0, as will be seen by comparing Genesis 3:22, μή ποτε ἐκτείνῃ τὴν χεῖρα αὐτοῦ, καὶ λάβῃ ἀπὸ τοῦ ξύλου τῆς ζωῆς, καὶ φάγῃ, καὶ ζήσεται εἰς τὸν αἰῶνα, with John 6:51, ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου, ζήσεται εἰς τὸν αἰῶνα."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every man 'hath an ear' naturally, but he alone will be able to hear spiritually to whom God has given 'the hearing ear'; whose 'ear God hath wakened' and 'opened.'" 
 2. "What Christ saith, the Spirit saith; so one are the Second and Third Persons." 
 3. "The tree of life in Paradise, lost by the fall, is restored by the Redeemer."
@@ -50,4 +50,4 @@ The verse in question contains a message that emphasizes the individual responsi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

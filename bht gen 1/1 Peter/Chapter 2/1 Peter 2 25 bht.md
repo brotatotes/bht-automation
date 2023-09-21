@@ -9,7 +9,7 @@ In this Bible verse, it is described how believers, who were previously like str
 2. "but ye have returned"
 3. "now unto the Shepherd and Bishop of your souls"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now that the atonement for all has been made, the foundation is laid for individual conversion."
 2. "The designation of the pastors and elders of the Church belongs in its fullest sense to the great Head of the Church, 'the good Shepherd.'"
 3. "He gives us His spirit and feeds and guides us by His word."
@@ -63,4 +63,4 @@ In this Bible verse, it is described how believers, who were previously like str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

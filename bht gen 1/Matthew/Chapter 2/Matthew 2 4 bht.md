@@ -10,7 +10,7 @@ The verse describes a scene where Herod assembles the Sanhedrin, seeking to conf
 3. "The γρ . consisted of the teachers and interpreters of the Divine law."
 4. "The present tense is often used indefinitely of subjects of prophecy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The class of the 'chief priests' included the high priest for the time being, together with all who had previously filled this office; for though the then head of the Aaronic family was the only rightful high priest, the Romans removed them at pleasure, to make way for creatures of their own."
 2. "The 'scribes' were at first merely transcribers of the law and synagogue readers; afterwards interpreters of the law, both civil and religious, and so both lawyers and divines."
 3. "That this was the council which Herod now convened is most probable, from the solemnity of the occasion; for though the elders are not mentioned, we find a similar omission where all three were certainly meant."
@@ -57,4 +57,4 @@ The verse describes a scene where Herod assembles the Sanhedrin, seeking to conf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

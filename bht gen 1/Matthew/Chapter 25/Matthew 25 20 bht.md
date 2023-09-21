@@ -9,7 +9,7 @@ This verse describes the faithful servant who approaches his master with joy, co
 2. "Without Me, ye can do nothing," John 15:5. 
 3. "On the joy and alacrity of these faithful servants in the day of reckoning," 1 Thessalonians 2:19; 2 Corinthians 1:14; Philippians 4:1.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How beautifully does this illustrate what the beloved disciple says of 'boldness in the day of judgment'." 
 2. "His desire that 'when He shall appear we may have confidence, and not be ashamed before Him at His coming!'" 
 3. "The servant who had received five talents and gained five more talents exemplifies the boldness and confidence that believers should have in the day of judgment."
@@ -44,4 +44,4 @@ These quotes highlight the attitude and mindset of the servant who received five
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage describes a powerful individual, Felix, who was known for his contr
 2. "There was just enough foundation for the flattery, to make the falsehood of its general application to Felix more glaring."
 3. "The character of this address is peculiarly Latin."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Seeing that by thee we enjoy great quietness, c." - This quote highlights the flattery directed towards Felix, acknowledging the relative peace and stability during his rule. It suggests that Felix was successful in suppressing lawless violence, as confirmed by historical sources.
 
 2. "Felix acted with a degree of vigor and success in suppressing lawless violence." - This quote emphasizes Felix's proactive approach in dealing with lawlessness and his effectiveness in maintaining order. It suggests that Felix was a strong and capable leader.
@@ -52,4 +52,4 @@ This passage describes a powerful individual, Felix, who was known for his contr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

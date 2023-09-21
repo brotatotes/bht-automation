@@ -9,7 +9,7 @@ In this verse, the speaker boldly declares their belief in Christianity, challen
 2. "Paul explains what it really was."
 3. "The term was one well known to the Greeks and Romans, and which would carry with it its own justification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our nation is divided into what they call sects—the sect of the Pharisees, and that of the Sadducees—all the difference between them and me is, that I belong to neither of these, but to another sect, or religious section of the nation, which from its Head they call Nazarenes: for this reason, and this alone, am I hated."
 2. "The Roman law allows every nation to worship its own deities; I claim protection under that law, worshipping the God of my ancestors, even as they, only of a different sect of the common religion."
 3. "Here, disowning all opinions at variance with the Old Testament Scriptures, he challenges for the Gospel which he preached the authority of the God of their fathers. So much for the charge of heresy."
@@ -53,4 +53,4 @@ In this verse, the speaker boldly declares their belief in Christianity, challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

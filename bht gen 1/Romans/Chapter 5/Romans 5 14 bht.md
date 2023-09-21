@@ -9,7 +9,7 @@ From various commentators, we learn that the verse being described speaks of the
 2. "The aim is to prove that the seed of sin planted in the race by the one man Adam has sprung up and borne fruit in all, so as to bring them under death."
 3. "As by Adam's transgression, of which we are by descent inheritors, we have become sinners, and have thus incurred death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The meaning then must be, that 'death reigned from Adam to Moses, even over those that had not, like Adam, transgressed against a positive commandment, threatening death to the disobedient.'"
 2. "In this case, the particle 'even,' instead of specifying one particular class of those who lived 'from Adam to Moses,' merely explains what it was that made the case of those who died from Adam to Moses worthy of special notice—namely, that 'though unlike Adam and all since Moses, those who lived between the two had no positive threatening of death for transgression, nevertheless, death reigned even over them.'"
 3. "The point of analogy intended here is plainly the public character which both sustained, neither of the two being regarded in the divine procedure towards men as mere individual men, but both alike as representative men."
@@ -48,4 +48,4 @@ From various commentators, we learn that the verse being described speaks of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

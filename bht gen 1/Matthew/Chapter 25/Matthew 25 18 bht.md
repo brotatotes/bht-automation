@@ -4,7 +4,7 @@
 This verse depicts a person who received a gift but failed to use it or made no use of it, as if anxious to prevent the gift from being misused or lost. This individual neglected the abilities and spiritual gift given to them, burying them in earthly matters and failing to serve their Lord. It reminds us that even those with few talents should not use it as an excuse to not improve themselves, and challenges us to ask ourselves if we are hiding the talents that God has granted us.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His action seems that of one anxious that the gift should not be misused or lost, but ready to be returned, just as he got it." 
 2. "Not misspending, but simply making no use of it." 
 3. "Nay, his action seems that of one anxious that the gift should not be misused or lost, but ready to be returned, just as he got it."
@@ -33,4 +33,4 @@ This verse depicts a person who received a gift but failed to use it or made no 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

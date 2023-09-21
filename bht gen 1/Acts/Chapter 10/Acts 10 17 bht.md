@@ -11,7 +11,7 @@ In this verse, a person finds themselves in a state of confusion and perplexity,
 
 3. "ἐν ἑαυτῷ" - The phrase ἐν ἑαυτῷ carries the sense of being in a state of confusion or perplexity.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The preparations here made—of Peter for his Gentile visitors, as of Cornelius for him—are devoutly to be noted."
 2. "But besides this, at the same moment, 'the Spirit' expressly informs him that three men were inquiring for him, and bids him unhesitatingly go with them, as sent by Him."
 3. "The Spirit's command to Peter to go with the men is a clear indication that God's plan of salvation is not limited to the Jewish people, but extends to the Gentiles as well."
@@ -59,4 +59,4 @@ Note: The provided commentary is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

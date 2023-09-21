@@ -9,7 +9,7 @@ The verse being described depicts Jesus standing at the door, persistently seeki
 2. "Our verse is a striking and decisive testimony to the practical freedom of our will to receive or reject the heavenly Guest: without the recognition of which, the love and tenderness of the saying become a hideous mockery."
 3. "We then open the door to Christ, when we admit Him, His voice, His commands, His example, to a share in our inner counsels and sources of action."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who is Himself 'the Door,' and who bids us 'knock' that it may be 'opened unto' us, is first Himself to knock at the door of our hearts." 
 2. "If we refuse to answer to His knocking at our door now, He will refuse to hear our knocking at His door hereafter."
 3. "The Sun of righteousness, like the natural sun, the moment that the door is opened, pours in His light, which could not previously find an entrance."
@@ -52,4 +52,4 @@ The verse being described depicts Jesus standing at the door, persistently seeki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

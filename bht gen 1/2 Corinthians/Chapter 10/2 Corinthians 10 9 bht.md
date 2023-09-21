@@ -9,7 +9,7 @@ In this verse, the speaker, whom some commentators identify as the Apostle Paul,
 2. "ὡς ἄν in later Greek, has the sense of ‘quasi, tanquam,’ ἄν losing its proper force, in a commonly current expression; and the sense is much the same as that of ὡς alone."
 3. "He had written two before this, see 1 Corinthians 5:9; but this is not necessarily here implied: for he may reckon this which he is now writing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I say this lest I should seem to be terrifying you, as children, with empty threats." - This quote highlights the author's intention to avoid using fear tactics and empty threats to control or manipulate the readers.
 2. "I might boast more of my authority, but I forbear to do so, that I may not seem as if." - This quote suggests that the author has the authority to boast, but chooses not to in order to avoid giving the impression of arrogance.
 3. "But this ellipsis is harsh: and 2 Corinthians 10:10 confirm BENGEL'S view." - This quote refers to a specific interpretation by BENGEL, which is supported by another verse in 2 Corinthians 10:10, indicating the importance of considering different perspectives in understanding the verse.
@@ -57,4 +57,4 @@ In this verse, the speaker, whom some commentators identify as the Apostle Paul,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

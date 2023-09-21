@@ -11,7 +11,7 @@ In this verse, it is abundantly clear that there has been a manifestation of cha
 
 These quotes highlight the commentary's emphasis on the manifestation of the change in the law and the emergence of a different priest in the likeness of Melchisedek.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is appointed Priest, 'not according to the law of a carnal (that is, a mere outward) commandment,' but 'according to the power of an indissoluble life.'" 
 2. "The Levitical law required a definite carnal descent. In contrast stands 'the power'; Christ's spiritual, inward, living power of overcoming death."
 3. "Not agreeably to a statute is Christ appointed, but according to an inward living power."
@@ -52,4 +52,4 @@ These quotes highlight the commentary's emphasis on the manifestation of the cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

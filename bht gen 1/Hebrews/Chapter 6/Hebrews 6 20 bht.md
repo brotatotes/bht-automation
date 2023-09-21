@@ -9,7 +9,7 @@ In this verse, we are reminded of the entrance of the Lord, who has gone ahead a
 2. "The Lord’s entrance is sacerdotal, whether He is forerunner for us, or has entered for us." 
 3. "πρόδρομος is a good classical word, signifying ordinarily the scouts who were sent before an army... And it is one full of comfort to us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The "for us" implies that it was not for Himself, as God, He needed to enter there, but as our High Priest, representing and introducing us, His followers, opening the way to us, by His intercession with the Father."
 2. "The first-fruits of our nature are ascended, and so the rest is sanctified."
 3. "Christ's ascension is our promotion: and whither the glory of the Head has preceded, thither the hope of the body, too, is called."
@@ -48,4 +48,4 @@ In this verse, we are reminded of the entrance of the Lord, who has gone ahead a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

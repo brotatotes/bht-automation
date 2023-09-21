@@ -9,7 +9,7 @@ The verse described by these commentators emphasizes the contrasting experiences
 2. "The life, whereof we are to be witnesses, extends beyond ourselves, nay finds its field of action and energizing IN YOU."
 3. "LIFE, in both places, being the higher and spiritual life, including the lower and natural."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'death' of Christ manifested in the continual 'perishing of our outward man' works peculiarly in us." 
 2. "The life whereof we witness in our bodily dying, extends beyond ourselves." 
 3. "It is brought by our very dying to you."
@@ -47,4 +47,4 @@ The verse described by these commentators emphasizes the contrasting experiences
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

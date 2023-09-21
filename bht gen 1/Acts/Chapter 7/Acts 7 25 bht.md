@@ -9,7 +9,7 @@ In this Bible verse, the act of liberation is already in progress, as indicated 
 2. "Here we have again the resistance to the Holy Spirit hinted: see Acts 7:51."
 3. "Note on Acts 7:2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He supposed his brethren would have understood... thus anticipating his work, and so running unsent." 
 2. "They understood not... he had the mortification to find it far otherwise." 
 3. "This furnishes to Stephen another example of Israel's slowness to apprehend and fall in with the divine purposes of love."
@@ -50,4 +50,4 @@ In this Bible verse, the act of liberation is already in progress, as indicated 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

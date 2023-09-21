@@ -9,7 +9,7 @@ In this Bible verse, we are reminded of the distinctness of each person's positi
 2. "His appointed lot is no element in thy onward course: it is ME that thou must follow."
 3. "At the destruction of Jerusalem began that mighty series of events of which the Apocalypse is the prophetic record, and which is in the complex known as the ‘COMING OF THE LORD,’ ending, as it shall, with His glorious and personal Advent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the fact that John alone of the Twelve survived the destruction of Jerusalem, and so witnessed the commencement of that series of events which belongs to 'the last days,' many good interpreters think that this is a virtual prediction of fact, and not a mere supposition."
 2. "But this is very doubtful, and it seems more natural to consider our Lord as intending to give no positive indication of John's fate at all, but to signify that this was a matter which belonged to the Master of both, who would disclose or conceal it as He thought proper, and that Peter's part was to mind his own affairs."
 3. "Observe the absolute disposal of human life which Christ claims: 'If I will that he tarry till I come,' &c."
@@ -49,4 +49,4 @@ In this Bible verse, we are reminded of the distinctness of each person's positi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

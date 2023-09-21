@@ -4,7 +4,7 @@
 In this verse, the description is given of a city, characterized by its luxury, idolatry, and shedding of the blood of prophets and saints. The city is found guilty of slaying the witnesses and has a clear title to catholic blood-guiltiness. It is heavily condemned for its immense quantities of bloodshed, from the past to the present, under both the pagan and papal Rome. The fall of this city, described in the chapter, is seen as a removal of an obstruction to the final triumph of the gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The WHOLE of the faithless Church of both the Old and New Testament is meant by Babylon the harlot."
 2. "Pagan Rome was the 'general shambles' for slaying the sheep of Jesus."
 3. "Papal Rome, between A.D. 1540 and 1580, slew more than nine hundred thousand Protestants."
@@ -35,4 +35,4 @@ In this verse, the description is given of a city, characterized by its luxury, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

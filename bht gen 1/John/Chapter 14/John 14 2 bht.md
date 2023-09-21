@@ -11,7 +11,7 @@ Commentators describe a verse that speaks of a heavenly abode with ample space f
 
 These quotes highlight the concept of Heaven as a place with many abiding places, the assurance of Jesus' truthful words, and the idea of Jesus preparing a place in Heaven for believers.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In my Father's house are many mansions—and so room for all, and a place for each." This quote emphasizes the inclusivity and individuality of God's kingdom, highlighting that there is enough space for everyone and that each person has a unique place in it.
 
 2. "If not, I would have told you—that is, I would tell you so at once; I would not deceive you." This quote reassures the disciples that Jesus would not withhold the truth from them and that he is trustworthy. It highlights Jesus' honesty and integrity in his teachings.
@@ -52,4 +52,4 @@ These quotes highlight the concept of Heaven as a place with many abiding places
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

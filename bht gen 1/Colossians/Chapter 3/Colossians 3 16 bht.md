@@ -9,7 +9,7 @@ Let the word of Christ, the Gospel word by which you have been called, dwell in 
 2) "The word dwelling in them richly, many would arise to speak it to edification, and many would be moved to the utterance of praise."
 3) "The communication of the religious life among one another, wherein spiritual influence caused the mouth to overflow with the fulness of the heart, and gave utterance to brotherly instruction and reproof in the higher form of psalms, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let the word of Christ—the Gospel word by which ye have been called."
 2. "At the Agapæ or love-feasts, and in their family circles, they were to be so full of the Word of Christ in the heart that the mouth should give it utterance in hymns of instruction, admonition, and praise."
 3. "This clause expresses the seat and source of true psalmody, whether in private or public, namely, the heart as well as the voice."
@@ -57,4 +57,4 @@ Let the word of Christ, the Gospel word by which you have been called, dwell in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

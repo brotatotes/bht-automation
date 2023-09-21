@@ -13,7 +13,7 @@ The verse being described is from the New Testament and emphasizes the significa
 4. "ἡ ὑπομονὴ τῆς ἐλπίδος, ἡ ἐλπὶς τῆς ὑπομονῆς"
 - "These are mutually supportive: the patience of hope, the hope of patience; both of which are derived from the Scriptures."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Think not that because such portions of Scripture relate immediately to Christ, they are inapplicable to you... all Scripture relating to these is for our instruction."
 2. "The motives that prompted [Christ's sufferings], the spirit in which they were endured, and the general principle involved in His whole work—self-sacrifice for the good of others—furnish our most perfect and beautiful model."
 3. "All those Scriptures which tell of patience and consolation, particularly of the patience of Christ, and of the consolation which sustained Him under it, are our appointed and appropriate nutriment, ministering to us 'hope' of that blessed day when these shall no more be needed."
@@ -54,4 +54,4 @@ The verse being described is from the New Testament and emphasizes the significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

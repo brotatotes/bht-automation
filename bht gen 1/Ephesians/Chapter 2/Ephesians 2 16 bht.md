@@ -4,7 +4,7 @@
 The Bible verse being described speaks of the reconciliation brought about by Jesus Christ's sacrificial death on the cross. Commentators highlight that this reconciliation involves not only a return to favor with God, but also the laying aside of enmity and a restoration to a primal unity. By fulfilling the ceremonial law and bearing the penalty for sin, Christ reconciled humanity to God, thus removing the enmity that existed. Through this act, not only are individuals reconciled to God, but they are also brought into unity with one another in the body of believers, the church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek for 'reconcile' (apocatalaxe), found only here and in Colossians 1:20, expresses not only a return to favor with one (catallage), but so to lay aside enmity that complete amity follows; to pass from enmity to complete reconciliation."
 2. "By His being slain, He slew the enmity—namely, that had been between man and God; and so that between Jew and Gentile which had resulted from it."
 3. "By the cross, that is, His crucifixion."
@@ -50,4 +50,4 @@ The Bible verse being described speaks of the reconciliation brought about by Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

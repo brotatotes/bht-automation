@@ -9,7 +9,7 @@ In this verse, Jesus warns against seeking the approval and praise of others, re
 2. "The mention of προφ. and ψευδοπροφ. has reference to the disciples’ office as the salt of the earth."
 3. "The address in Luk 6:27 is not (Meyer) a turning of the discourse to His own disciples, but ὑμῖν λέγω τοῖς ἀκούουσιν = ἐγὼ δὲ λέγω ὑμῖν, which introduces the same command Matthew 5:44, and τοῖς ἀκούουσιν serves the purpose of the ἐγώ to you who now hear Me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All . . . speak well of you—alluding to the court paid to the false prophets of old (Micah 2:11)."
 2. "For the principle of this woe, and its proper limits, see Micah 2:11- :."
 3. "The woe is not against all who are well spoken of by men, but against those who seek the praise of men, and are indifferent to the praise of God."
@@ -50,4 +50,4 @@ In this verse, Jesus warns against seeking the approval and praise of others, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

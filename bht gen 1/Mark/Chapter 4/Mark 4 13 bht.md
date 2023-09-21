@@ -4,7 +4,7 @@
 This parable serves as a foundation for all of Jesus' teachings, unlocking the mysteries of the kingdom of God. It is a simple yet profound illustration that challenges us to reflect on the condition of our hearts and our understanding of God's Word. Understanding this parable is essential for comprehending the deeper meanings conveyed through other parables. Through relatable stories, Jesus conveys spiritual truths, inviting us to engage and reflect upon the profound message of the kingdom of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Know ye not this parable? and how then will ye know all parables?" - This quote highlights the importance of understanding this particular parable in order to comprehend all other parables. It emphasizes the need for careful attention and interpretation of Jesus' teachings.
 
 2. "Probably this was said not so much in the spirit of rebuke, as to call their attention to the exposition of it which He was about to give." - This quote suggests that Jesus' intention was not to scold his disciples but to draw their focus towards the forthcoming explanation of the parable. It implies that Jesus wanted to train them in understanding his teachings.
@@ -45,4 +45,4 @@ This parable serves as a foundation for all of Jesus' teachings, unlocking the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

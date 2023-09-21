@@ -9,7 +9,7 @@ In this Bible verse, a parable is used to illustrate the immense debt and burden
 2. "In the construction of the tabernacle, twenty-nine talents of gold were used."
 3. "The Queen of Sheba presented to Solomon 120 talents."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The immense debt of ten thousand talents represents an insurmountable burden that the debtor could never hope to repay. It serves as a powerful metaphor for the weight of sin and the impossibility of earning forgiveness through our own efforts." 
 
 2. "The parable highlights the radical nature of God's forgiveness. Just as the king in the story cancels the entire debt, God offers complete and unconditional forgiveness to those who turn to Him in repentance."
@@ -52,4 +52,4 @@ In this Bible verse, a parable is used to illustrate the immense debt and burden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

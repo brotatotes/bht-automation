@@ -9,7 +9,7 @@ In this Bible verse, a woman named Anna is depicted standing by, ready to expres
 2. "It was possibly at the hour of prayer."
 3. "She spoke of Him to numbers, who would at such a time be flocking to the temple."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She had been there already but now is found 'standing by,' as Simeon's testimony to the blessed Babe died away, ready to take it up 'in turn'." 
 2. "In that Babe are wrapt up all your expectations."
 3. "If this was at the hour of prayer, when numbers flocked to the temple, it would account for her having such an audience as the words imply."
@@ -54,4 +54,4 @@ Note: The commentary is not very clear and concise, so the quotes provided are t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

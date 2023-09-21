@@ -4,7 +4,7 @@
 The Bible verse describes how Jesus challenges a young man to understand true goodness and the importance of obeying God's commandments. The commentators highlight that obedience to the commandments is not a matter of selective choosing but embracing the entirety of God's moral law. They also emphasize the significance of honoring parents, as it reflects our relationship with God and contributes to the well-being of society. The verse invites us to reflect on the principles behind the commandments and live our lives in accordance with God's will rather than mere adherence to rules.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou knowest, c.—Matthew (Matthew 19:17) is more complete here: 'but if thou wilt enter into life, keep the commandments.'" 
 2. "He saith unto him, Which—as if he had said, Point me out one of them which I have not kept?—'Jesus said, Thou shalt,' &c." 
 3. "Our Lord purposely confines Himself to the second table, which He would consider easy to keep, enumerating them all."
@@ -32,4 +32,4 @@ The Bible verse describes how Jesus challenges a young man to understand true go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is Romans 8:6. This verse contrasts the mindset of the
 2. "The mind of the Spirit is life and peace... as a blessed contrast to the tumult of the fleshly lusts."
 3. "The spiritual man cannot seek the things of the flesh, because such a mind is death."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The pursuit of fleshly ends is carrying death into its bosom."
 2. "To be spiritually minded is the pursuit of spiritual objects."
 3. "Being spiritually minded brings life and peace, the very element of the soul's deepest repose and true bliss."
@@ -57,4 +57,4 @@ The verse being described is Romans 8:6. This verse contrasts the mindset of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

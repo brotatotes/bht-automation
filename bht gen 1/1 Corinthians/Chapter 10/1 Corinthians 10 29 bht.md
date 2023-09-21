@@ -9,7 +9,7 @@ In this verse, the Apostle Paul addresses the issue of personal liberty and cons
 2. "If I partake thankfully, why am I to be spoken ill of for that for which I give thanks?"
 3. "The ground on which he is here arguing is the unfitness, absurdity, injustice to oneself and the cause of God, of so acting as to be condemned for that in which a man not only allows himself, but for which he gives thanks to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why is my liberty judged off another man's conscience?" - Paul emphasizes the importance of not allowing our freedom to be judged by the conscience of others. We should not be limited by the opinions or convictions of those around us when it comes to matters of personal liberty.
 
 2. "If a guest know the meat to be idol meat while I know it not, I have 'liberty' to eat without being condemned by his 'conscience'." - This quote highlights the idea that our freedom should not be restricted by the knowledge or beliefs of others. As long as we are not aware of any wrongdoing, we are free to exercise our liberty without fear of condemnation.
@@ -47,4 +47,4 @@ These quotes highlight the idea that in the context of the verse, Paul is emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

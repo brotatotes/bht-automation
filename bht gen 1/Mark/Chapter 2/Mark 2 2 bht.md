@@ -9,7 +9,7 @@ The powerful impact of Jesus' teachings is evident in the immediate gathering of
 2. "So that not even the parts towards the door...would any longer hold them."
 3. "He was speaking to them the word, when that which is about to be related happened."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No doubt in this case, as the scene occurred at his informant's own door, these details are the vivid recollections of that honored disciple."
 2. "Had He gone forth, as He naturally would, the paralytic's faith would have had no such opportunity to display itself."
 3. "This was the highest testimony yet borne to our Lord's growing influence, and the necessity increasingly felt by the ecclesiastics throughout the country of coming to some definite judgment regarding Him."
@@ -53,4 +53,4 @@ Overall, these quotes shed light on the crowded and enthusiastic reception of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

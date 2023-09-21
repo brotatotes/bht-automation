@@ -4,7 +4,7 @@
 The verse being described speaks of a reward given by Christ, symbolized as the "morning star." Commentators emphasize that this reward represents Christ Himself, reflecting His perfect brightness and kingly glory. It is compared to Venus, the morning star, which announces the coming of dawn and represents the faithfulness of God. This reward signifies an illustrious appearance of Christ, the dawning of latter-day glory beginning with the Reformation, and the removal of spiritual darkness, leading to a reign of peace and enlightenment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will give unto him Myself, who am 'the morning star'." 
 2. "Reflecting My perfect brightness, he shall shine like Me, the morning star."
 3. "Share My kingly glory (of which a star is the symbol)."
@@ -40,4 +40,4 @@ The verse being described speaks of a reward given by Christ, symbolized as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

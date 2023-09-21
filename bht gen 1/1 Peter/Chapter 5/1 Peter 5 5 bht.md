@@ -9,7 +9,7 @@ In this verse, we are encouraged to have a humble and teachable attitude towards
 2. "all gird on humility to one another... an allusion to our Lord’s action of girding Himself with a napkin in the servile ministration of washing the disciples’ feet."
 3. "God opposeth Himself to the proud... but giveth grace to the humble."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deacons were originally the younger men, the presbyters older; but subsequently as presbyter expressed the office of Church ruler or teacher, so Greek 'neoteros' means not (as literally) young men in age, but subordinate ministers and servants of the Church."
 2. "The 'young men' are undoubtedly the deacons of the Church of Jerusalem, of whom, as being all Hebrews, the Hellenistic Christians subsequently complained as neglecting their Grecian widows, whence arose the appointment of the seven others, Hellenistic deacons."
 3. "Clothing was the original badge of man's sin and shame. Pride caused the need of man's clothing, and pride still reigns in dress; the Christian therefore clothes himself in humility."
@@ -57,4 +57,4 @@ In this verse, we are encouraged to have a humble and teachable attitude towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

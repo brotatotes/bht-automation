@@ -4,7 +4,7 @@
 This verse describes a significant Old Testament ritual involving the ashes of a red heifer. The commentators provide insights into the symbolic and ceremonial aspects of this practice. The ashes of the heifer, mixed with water, were used to purify individuals from ceremonial impurity. While this ritual had an external cleansing effect, it did not have the power to cleanse from sin or purify the conscience. The significance of the heifer's ashes lies in their ability to restore legal purity, allowing those who were once excluded to rejoin the community and engage in worship.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If the blood of mere brutes could purify in any, however small a degree, how much more shall inward purification, and complete and eternal salvation, be wrought by the blood of Christ, in whom dwelt all the fulness of the Godhead?"
 2. "The water of separation, made of the ashes of the red heifer, was the provision for removing ceremonial defilement whenever incurred by contact with the dead. As she was slain without the camp, so Christ... The ashes were laid by for constant use; so the continually cleansing effects of Christ's blood, once for all shed."
 3. "In our wilderness journey we are continually contracting defilement by contact with the spiritually dead, and with dead works, and need therefore continual application to the antitypical life-giving cleansing blood of Christ, whereby we are afresh restored to peace and living communion with God in the heavenly holy place."
@@ -52,4 +52,4 @@ This verse describes a significant Old Testament ritual involving the ashes of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described highlights the concept of stewardship and the temporary nature of earthly possessions. It emphasizes the idea that material wealth is entrusted to us by God and should be used responsibly and in accordance with His will. If we are faithful stewards of what is given to us, we can expect to receive eternal rewards. However, if we act unfaithfully with worldly possessions, we should not expect to be entrusted with heavenly treasures. Ultimately, the verse reminds us that our true ownership lies in the eternal blessings of heaven.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here all we have is on trust as stewards, who have an account to render." 
 2. "Hereafter, what the faithful have will be their own property, being no longer on probation, but in secure, undisturbed, rightful, everlasting possession and enjoyment of all that is graciously bestowed on us." 
 3. "Thus money is neither to be idolized nor despised: we must sit loose to it and use it for God's glory."
@@ -45,4 +45,4 @@ These quotes emphasize the idea that the material wealth of the world is entrust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

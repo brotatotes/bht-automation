@@ -11,7 +11,7 @@ In this passage, we find a reference to an event that is alluded to but not full
 
 3. "There is no further information available about this incident."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "struck with either the matter or the manner of our Lord's prayers."
 2. "From this reference to John, it is possible that disciple had not heard the Sermon on the Mount."
 3. "Nothing of John's inner teaching (to his own disciples) has been preserved to us, but we may be sure he never taught his disciples to say, 'Our Father.'"
@@ -44,4 +44,4 @@ In this passage, we find a reference to an event that is alluded to but not full
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

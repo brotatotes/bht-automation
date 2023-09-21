@@ -9,7 +9,7 @@ The Bible verse being described contains a message about the suffering endured b
 2. "Christ suffered for you, leaving behind for you a copy, that you should follow upon His footsteps."
 3. "The word ἐπακολουθέω is commonly used of following behind another, denoting close application to His footsteps."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ is an example to servants, even as He was once in 'the form of a servant.'" 
 2. "His dying for us is the highest exemplification of 'doing well.'"
 3. "Christ's sufferings, while they are for an example, were also primarily sufferings 'for us,' a consideration which imposes an everlasting obligation on us to please Him."
@@ -53,4 +53,4 @@ The Bible verse being described contains a message about the suffering endured b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

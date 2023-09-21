@@ -4,7 +4,7 @@
 In a captivating and manipulative dance, the daughter of Herodias, Salome, caught the attention and desire of Herod, leading him to make a rash promise. Herod's infatuation was so intense that he offered Salome anything she desired, up to half his kingdom. This cunning request, instigated by Salome's mother, Herodias, reveals her manipulative nature and her desire to use her daughter as a pawn to achieve her own ambitions. The licentious and almost unprecedented nature of the dance pleased Herod and led him down a path he did not wish to go.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The daughter of Herodias, Salome, danced before Herod and pleased him and his guests. This was not just any dance, but a dance that captivated the attention and desire of Herod. It was a performance that stirred up his emotions and led him to make a rash promise." 
 
 2. "Herod, in his desire to please Salome, offers her anything she wants, up to half of his kingdom. This shows the extent of his infatuation and the power that Salome held over him in that moment."
@@ -35,4 +35,4 @@ In a captivating and manipulative dance, the daughter of Herodias, Salome, caugh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

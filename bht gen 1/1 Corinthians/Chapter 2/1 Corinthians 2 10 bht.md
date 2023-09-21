@@ -9,7 +9,7 @@ Through the revelation of God and the guidance of the Holy Spirit, believers are
 2. "ἐραυνᾷ...a word of active research, implying accurate knowledge."
 3. "And thus as the spirit of a man knows the βάθος of a man, all that is in him, so the Spirit of God searches and knows τὰ βάθη, the manifold and infinite depths, of God His Essence, His Attributes, His Counsels."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The secrets of revelation are secret to some, not because those who know them will not reveal them (for indeed, the very notion of revelation implies an unveiling of what had been veiled), but because those to whom they are announced have not the will or power to comprehend them."
 2. "Intelligent men may understand the outline of doctrines; but without the Holy Spirit's revelation to the heart, these will be to them a mere outline—a skeleton, correct perhaps, but wanting life."
 3. "The Spirit delights to explore the infinite depths of His own divine mind, and then reveal them to us, according as we are capable of understanding them."
@@ -57,4 +57,4 @@ Through the revelation of God and the guidance of the Holy Spirit, believers are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

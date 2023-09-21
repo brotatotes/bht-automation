@@ -11,7 +11,7 @@ In this verse, the writer is discussing the importance of receiving confirmation
 
 3. "the contents of the Epistle (and any explanation required)" - This quote emphasizes that the verse refers to the content of the Epistle and any additional explanations that may be necessary, providing further context for understanding the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Certain which went out from us have troubled you with words—without authority or even knowledge of the church at Jerusalem." This quote highlights the lack of authority and knowledge of the individuals who were causing trouble, emphasizing the importance of seeking guidance from those who are knowledgeable and authorized within the church.
 
 2. "Subverting your souls." This phrase conveys the seriousness of the situation and the potential harm that can be caused by false teachings. It underscores the need to protect one's spiritual well-being and be cautious of those who may lead others astray.
@@ -53,4 +53,4 @@ In this verse, the writer is discussing the importance of receiving confirmation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

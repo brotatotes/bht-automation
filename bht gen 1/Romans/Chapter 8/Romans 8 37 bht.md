@@ -9,7 +9,7 @@ In the midst of various challenges and afflictions, believers experience overwhe
 2. "that very love has given us a glorious victory over them"
 3. "He is the efficient cause of the result"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We are more than conquerors, through him that loved us." - This verse emphasizes that believers not only overcome trials and challenges, but they do so with overwhelming victory. It highlights the power and love of Christ as the source of this triumph.
 
 2. "We are pre-eminently conquerors." - This phrase emphasizes that believers are not merely conquerors, but they excel in their conquests. It speaks to the superiority and effectiveness of their victory over hardships.
@@ -57,4 +57,4 @@ In the midst of various challenges and afflictions, believers experience overwhe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

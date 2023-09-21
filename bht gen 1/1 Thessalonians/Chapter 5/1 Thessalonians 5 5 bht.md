@@ -9,7 +9,7 @@ Believers are children of light and day, originating from and belonging to the r
 2. "We have no reason to fear, and no excuse for being surprised by, the DAY of the Lord." 
 3. "We are not of night nor darkness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For ye are all sons of light and sons of day" - This phrase emphasizes that believers have no reason to fear or be surprised by the coming of the day of the Lord. It implies that as sons resemble their fathers, believers are characterized by intellectual and moral illumination in a spiritual sense.
 
 2. "Ye are sons of light because ye are Christians" - This quote highlights the connection between being a Christian and being a son of light. It suggests that being a follower of Christ brings about a transformation that aligns believers with the light and separates them from the darkness.
@@ -49,4 +49,4 @@ Believers are children of light and day, originating from and belonging to the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

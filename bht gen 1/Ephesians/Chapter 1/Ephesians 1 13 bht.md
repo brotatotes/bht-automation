@@ -9,7 +9,7 @@ In this verse, the commentators highlight the inclusiveness of the message of Ch
 2. "The Spirit with whom He sealed you is even His own Holy Spirit what grace, and mercy, and love, is here!"
 3. "The thorough and final redemption of the Church which He hath acquired to Himself, is the greatest triumph of His glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The priority of us Jews does not exclude you Gentiles from sharing in Christ."
 2. "The word of truth is the instrument of sanctification and the new birth."
 3. "The sealing by the Holy Spirit assures believers of God's good will to them."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite technical and focused on grammatical anal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

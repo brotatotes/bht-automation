@@ -4,7 +4,7 @@
 In this verse, we see a beggar who was a familiar figure to the community. The people recognized him not only by sight but also by his circumstances and regular presence. Positioned in a specific spot, he relied on the goodwill of others for his sustenance. When a miraculous event took place, the people were overcome with awe and astonishment, as they witnessed a profound transformation that left them in a state of wonder.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They knew that it was he which sat for alms." This phrase highlights the recognition of the beggar by the people. It emphasizes the familiarity and regularity of the beggar's presence, suggesting that he was a well-known figure in the community.
 
 2. "They knew that it was he." This simple statement underscores the fact that the people were aware of the beggar's identity. It implies that they were not only familiar with his physical appearance but also with his circumstances and struggles.
@@ -32,4 +32,4 @@ In this verse, we see a beggar who was a familiar figure to the community. The p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

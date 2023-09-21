@@ -4,7 +4,7 @@
 The Scriptures, diligently searched and studied by the Jews, serve as a record and testimony of eternal life. However, merely possessing the Scriptures is not enough - understanding and applying their true meaning is crucial. The writings bear witness to the Messiah, pointing to Christ as the way to obtain knowledge of God. Yet, misinterpretation and failure to grasp the Scriptures can lead to condemnation rather than salvation. The Scriptures hold the keys to eternal life, guiding believers on the path to true understanding and redemption through Jesus Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the Scriptures ye find your charter of eternal life go search them then, and you will find that I am the Great Burden of their testimony."
 2. "Observe here (1) The honor which Christ gives to the Scriptures, as a record which all have a right and are bound to search—the reverse of which the Church of Rome teaches."
 3. "The opposite extreme is, resting in the mere Book without the living Christ, to direct the soul to whom is its main use and chiefest glory."
@@ -58,4 +58,4 @@ These quotes emphasize the importance of not only searching the Scriptures but a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

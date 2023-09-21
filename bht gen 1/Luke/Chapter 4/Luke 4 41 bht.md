@@ -11,7 +11,7 @@ In this biblical verse, the act of speaking is emphasized, as well as the intent
 
 3. "The intention behind their speaking was to convey their knowledge or understanding of the matter at hand."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord ever refused testimony from devils, for the very reason why they were eager to give it, because He and they would thus seem to be one interest, as His enemies actually alleged."
 2. "JESUS SOUGHT OUT AT MORNING PRAYER, AND ENTREATED TO STAY, DECLINES FROM THE URGENCY OF HIS WORK."
 3. "We learn how early He retired, and how He was engaged in solitude when they came seeking Him."
@@ -35,4 +35,4 @@ In this biblical verse, the act of speaking is emphasized, as well as the intent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

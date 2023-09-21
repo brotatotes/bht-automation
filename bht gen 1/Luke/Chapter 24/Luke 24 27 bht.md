@@ -9,7 +9,7 @@ The Scriptures, encompassing the Old Testament, serve as a unified testimony to 
 2. "This general leading into the meaning of the whole, as a whole, fulfilled in Him, would be much more opportune to the place, and the time occupied, than a direct exposition of selected passages."
 3. "Observe the testimony which this verse gives to the divine authority, and the Christian interpretation, of the O.T. Scriptures: so that the denial of the references to Christ’s death and glory in the O.T. is henceforth nothing less than a denial of His own teaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moses and all the prophets" - This emphasizes the importance and reverence that should be given to the Old Testament Scripture. 
 
 2. "&c." - This abbreviation signifies that there is more to the list of prophets, highlighting the vastness and richness of the Old Testament. 
@@ -52,4 +52,4 @@ The Scriptures, encompassing the Old Testament, serve as a unified testimony to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

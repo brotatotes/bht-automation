@@ -9,7 +9,7 @@ The verse being described emphasizes the boundless nature of God's provision and
 2. "but not only at the coming of Christ (as Meyer, according to his wont), but in the whole glorious imparting to you of the unsearchable riches of Christ, begun and carried on here, and completed at that day."
 3. "ἐν χριστῷ Ἰησοῦ] and this filling (or, ‘this glory,’ but then perhaps τῇ would have been expressed) is, consists, and finds its sphere and element, in Christ Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God would reward their bounty to HIS servant, by 'fully supplying' their every 'need'." 
 2. "The measure of His supply to you will be the immeasurable 'riches of His grace'." 
 3. "'Glory' is the element in which His rich grace operates; and it will be the element in which He will 'supply fully all your need'."
@@ -61,4 +61,4 @@ These quotes emphasize the idea that doing good and showing kindness to others w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

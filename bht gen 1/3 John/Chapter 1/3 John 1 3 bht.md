@@ -4,7 +4,7 @@
 In this verse, commentators highlight the affirmation and validation of the truth residing within an individual. They emphasize the importance of walking in truth together and upholding it despite the presence of false teachers. The verse celebrates the Christian character of Gaius, who is praised for his kindness and commitment to the truth. The commentators also mention the joy that comes from hearing about the truth and grace found in others, especially in faithful ministers who continue to walk in the truth of the Gospel. Overall, this verse encourages a steadfast adherence to the truth in all areas of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Testified of the truth that is in thee": This phrase emphasizes the affirmation and validation of the truth that resides within the individual. It highlights the personal experience and conviction of the truth that one possesses.
 
 2. "Thy share of that truth in which thou walkest": This quote suggests that truth is not an isolated concept but something that is shared and lived out. It emphasizes the importance of walking in truth together, indicating a communal aspect of truth.
@@ -42,4 +42,4 @@ In this verse, commentators highlight the affirmation and validation of the trut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ God's love extends to all people, regardless of their background or actions. Thr
 2. "The Lord here reveals Love as the one ground of the divine counsel in redemption, salvation of men, as its one purpose with regard to them."
 3. "By the repetition of this final clause verbatim from John 3:15, we have the identity of the former clauses established: i.e. the uplifting of the Son of Man like the serpent in the wilderness is the manifestation of the Divine Love in the gift of the Son of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What proclamation of the Gospel has been so oft on the lips of missionaries and preachers in every age since it was first uttered?"
 2. "What has been honored to bring such multitudes to the feet of Christ?"
 3. "How would Nicodemus' narrow Judaism become invisible in the blaze of this Sun of righteousness seen rising on 'the world' with healing in His wings!"
@@ -65,4 +65,4 @@ These quotes highlight the benevolent nature of God's love, his ability to separ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

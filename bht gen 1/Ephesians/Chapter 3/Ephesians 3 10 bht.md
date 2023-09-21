@@ -9,7 +9,7 @@ The Bible verse being described talks about the profound revelation of God's wis
 2. "That the holy angels are capable of a specific increase of knowledge, and of a deepening insight into God’s wisdom, seems from this passage clear and incontrovertible."
 3. "The Church is a mirror of God’s wisdom, chromatic, so to speak, with the rainbow colours of that light which in itself is one and undivided."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The design of God in giving Paul grace to proclaim to the Gentiles the mystery of salvation heretofore hidden."
 2. "God's wisdom in redemption is made known to evil angels, who dwell 'in heavenly places' in a lower sense, namely, the air."
 3. "The Church is the 'theater' for the display of God's manifold wisdom, a spectacle to angels."
@@ -53,4 +53,4 @@ The Bible verse being described talks about the profound revelation of God's wis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

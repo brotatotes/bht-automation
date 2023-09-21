@@ -9,7 +9,7 @@ In this verse, we find a powerful analogy of a mote and a beam, highlighting the
 2. "De Wette imagines a break in the sense here, and a return to Matthew 7:3 f."
 3. "A return to Matthew 7:3 f."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you mentioned. Could you please provide the commentary so that I can extract the best parts for you?
 
 ### Marvin Vincent:
@@ -44,4 +44,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

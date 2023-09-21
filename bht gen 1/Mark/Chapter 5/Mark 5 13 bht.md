@@ -9,7 +9,7 @@ This passage narrates a remarkable event involving spirits being cast out into a
 2. "Mark 6:37, where however John (Joh 6:7) also mentions the sum"
 3. "accurate details of this kind"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The owners, if Jews, drove an illegal trade; if heathens, they insulted the national religion: in either case the permission was just."
 2. "The number of them is given by this graphic Evangelist alone."
 3. "And were choked in the sea - 'perished in the waters'."
@@ -38,4 +38,4 @@ This passage narrates a remarkable event involving spirits being cast out into a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

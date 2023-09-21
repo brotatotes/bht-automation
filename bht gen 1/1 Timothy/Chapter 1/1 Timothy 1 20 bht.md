@@ -4,7 +4,7 @@
 The verse described in the commentaries involves the act of delivering someone to Satan as a form of disciplinary action. The person being referred to is not physically present, indicating that the action is symbolic or spiritual in nature. This act is seen as a punishment for blasphemous behavior, with the aim of teaching the individual a lesson and deterring them from further blasphemy. The discipline involves both physical affliction and exclusion from the church fellowship, emphasizing the gravity of their actions and the need for repentance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sentence operated not only spiritually, but also physically, sickness, or some such visitation of God, falling on the person excommunicated, in order to bring him to repentance and salvation."
 2. "If one's religion better not his morals, his moral deficiencies will corrupt his religion."
 3. "Though the apostles had the power of excommunication, accompanied with bodily inflictions, miraculously sent, it does not follow that fallible ministers now have any power, save that of excluding from church fellowship notorious bad livers."
@@ -56,4 +56,4 @@ Overall, these quotes shed light on the intention and significance of delivering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

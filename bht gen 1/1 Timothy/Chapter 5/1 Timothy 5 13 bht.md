@@ -9,7 +9,7 @@ In this verse, we see a warning against the behavior of certain widows. These wo
 2. "His fear is, that these younger widows will not only do the Church’s work idly, but make mischief by bearing about tales and scandal."
 3. "Understand therefore, any adversary, Jew or Gentile, who may be on the watch to get occasion, by the lax conduct of the believers, to slander the Church."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These women's 'learning' is idleness, trifling, and busybodies' tattle."
 2. "They carry the affairs of this house to that, and of that to this; they tell the affairs of all to all."
 3. "Curiosity usually springs from idleness, which is itself the mother of garrulity."
@@ -48,4 +48,4 @@ In this verse, we see a warning against the behavior of certain widows. These wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

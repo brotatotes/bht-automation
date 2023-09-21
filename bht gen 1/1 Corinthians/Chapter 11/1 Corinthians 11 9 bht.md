@@ -9,7 +9,7 @@ The Bible verse describes the creation of man and woman and their relationship. 
 2. "The manner of creation, 'ek tou andros,' is insisted on."
 3. "The occasion of creation, 'dia ton andra,' is emphasized."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The man was not created for the sake of the woman; but the woman for the sake of the man" - Genesis 2:18. 
 
 2. "Just as the Church, the bride, is made for Christ; and yet in both the natural and the spiritual creations, the bride, while made for the bridegroom, in fulfilling that end, attains her own true 'glory.'" 
@@ -37,4 +37,4 @@ The Bible verse describes the creation of man and woman and their relationship. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

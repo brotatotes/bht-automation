@@ -9,7 +9,7 @@ This passage from the Bible is a plea by Paul to send Titus to the Corinthians. 
 2. "τὸν ἀδελφόν perhaps, one of the two mentioned ch. 2 Corinthians 8:18; 2 Corinthians 8:22; some other, well known to the Corinthians, but absolutely unknown to us: but not, a brother, as in E. V. It is plain from this and from what follows, that this brother was quite subordinate to Titus in the mission."
 3. "The Spirit in which they walked was the Holy Spirit: τῷ αὐτῷ πνευματικῷ χαρίσματι; χάρισμα γὰρ καλεῖ τὸ στενούμενον μὴ λαβεῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I desired Titus—namely, to go unto you." 
 2. "Not the mission mentioned 2 Corinthians 8:6; 2 Corinthians 8:17; 2 Corinthians 8:22; but a mission previous to this Epistle, probably that from which he had just returned announcing to Paul their penitence."
 3. "a brother—rather 'OUR (literally, 'the') brother'; one well known to the Corinthians, and perhaps a Corinthian; probably one of the two mentioned in 2 Corinthians 8:18; 2 Corinthians 8:22."
@@ -42,4 +42,4 @@ This passage from the Bible is a plea by Paul to send Titus to the Corinthians. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, the commentator quotes highlight the importance of being fr
 
 3. "The variety being not in reality a various reading, but only an itacism, I retain the form found in the most ancient MSS." - This quote acknowledges a variation in the text but explains that it is not a significant difference and that the form found in the oldest manuscripts is retained.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Without carefulness" means being free from distracting cares and anxieties that can hinder one's ability to fully embrace their current situation.
 2. The goal is not just to be "without trouble," but to use one's advantages and blessings wisely and responsibly.
 3. The commentary emphasizes the importance of utilizing one's circumstances in a way that aligns with God's will and purpose.
@@ -54,4 +54,4 @@ Note: The commentary provides a critique of the translation of "carefulness" in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse speaks of a covenant confirmed by God before the giving of the Law, o
 
 3. "Thus it will appear that the LXX, Samaritan Pent., and St. Paul, have the right chronology, and as stated above, the difficulty lies in Gen 15:13 and Acts 7:6, and in the Hebrew text of Exodus 12:40."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The dispensation of 'the promise' began with the call of Abraham from Ur into Canaan, and ended on the last night of his grandson Jacob's sojourn in Canaan, the land of promise."
 2. "It is from the end, not from the beginning of the dispensation of promise, that the interval of four hundred thirty years between it and the law is to be counted."
 3. "The promise would become [of none effect], if the power of conferring the inheritance be transferred from it to the law."
@@ -57,4 +57,4 @@ This verse speaks of a covenant confirmed by God before the giving of the Law, o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the judgement and condemnation of those who 
 2. "ἀπολοῦνται, the result of the judgment on them, rather than κριθήσονται, its process, because the absence of the law would thus seem as if it were the rule by which they are to be judged, whereas it is only an accident of that judgment, which depends on other considerations."
 3. "ἐν νόμῳ, under (in, as a status) the (Mosaic) law; not ‘a law,’ which would make the sentence a truism: it is on that very undeniable assumption, ‘that all who have had a law given shall be judged by that law,’ that the Apostle constructs his argument, asserting it with regard to the Mosaic law in the case of the Jews, and proving that the Gentiles have had a law given to them in the testimony of their consciences."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For as many as have sinned... as many as are found in sin at the judgment of the great day." 
 2. "Without law... without the advantage of a positive Revelation." 
 3. "And as many as have sinned in the law... shall be judged by the law."
@@ -55,4 +55,4 @@ The verse being described speaks of the judgement and condemnation of those who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

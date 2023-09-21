@@ -9,7 +9,7 @@ In this Bible verse, the light represents the Lord Jesus and His salvation. The 
 2. "There is here a difference between φαῦλα πράσσειν, and ποιεῖν τὴν ἀλήθειαν, which is too remarkable to be passed over."
 3. "He who πράσσει, has nothing but his πρᾶγμα, which is an event, a thing of the past, a source to him only of condemnation, for he has nothing to show for it, for it is also φαῦλον, worthless; whereas he that ποιεῖ, has his ποίημα, he has abiding fruit; his works do follow him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reproved—by detection." This phrase highlights the idea that the reproof comes as a result of being exposed or found out in wrongdoing. It emphasizes the importance of accountability and the consequences of one's actions being brought to light.
 
 2. "Reproof is not meant to shame or condemn, but to correct and guide." This quote reminds us that the purpose of reproof is not to humiliate or criticize, but rather to offer guidance and correction. It emphasizes the loving and constructive nature of reproof, aiming to help individuals grow and improve.
@@ -50,4 +50,4 @@ In this Bible verse, the light represents the Lord Jesus and His salvation. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

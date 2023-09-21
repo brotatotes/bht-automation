@@ -4,7 +4,7 @@
 In this Bible verse, people actively choose to turn away from the truth and instead immerse themselves in fables and myths. The commentators highlight that this turning away is not accidental, but a deliberate decision made by individuals whose minds are filled with worthless and unprofitable things. The verse reflects the tendency of some to prefer sensationalism or false narratives that appeal to their desires, rather than seeking and embracing the solid truths of the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ear brooks not what is opposed to the man's lusts."
 2. "It is a righteous retribution, that when men turn away from the truth, they should be turned to fables."
 3. "Fables."
@@ -42,4 +42,4 @@ In this Bible verse, people actively choose to turn away from the truth and inst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

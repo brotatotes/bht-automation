@@ -9,7 +9,7 @@ After a challenging and arduous voyage, the travelers finally arrived at their d
 2. "With their landing at Ptolemais their voyage ended: the rest of the journey was made by land."
 3. "It is now called St. Jean d’Acre, and is the best harbour on the Syrian coast, though small."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Completing the voyage from Tyre, we came to Ptolemais." - This highlights the journey and arrival of the disciples, emphasizing their commitment and perseverance.
 2. "Saluted the brethren, and abode." - This shows the disciples' sense of community and fellowship, as they take the time to greet and spend time with their fellow believers.
 3. "Disciples gathered probably as at Tyre, on the occasion mentioned." - This suggests that the disciples had a habit of gathering together, indicating their dedication to learning and growing in their faith.
@@ -55,4 +55,4 @@ After a challenging and arduous voyage, the travelers finally arrived at their d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

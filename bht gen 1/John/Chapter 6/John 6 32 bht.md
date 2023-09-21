@@ -9,7 +9,7 @@ The distinction between the temporary provision of manna in the wilderness by Mo
 2. "Neither again was that the true bread from heaven. It was, in one sense, bread from heaven; but not in this sense."
 3. "It was a type and shadow of the true bread from heaven, which My Father is giving (δίδωσιν, or perhaps the abstract present, giveth) to you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It was not Moses that gave you the manna, and even it was but from the lower heavens." 
 2. "My Father giveth you the true bread, and that from heaven." 
 3. "The manna provided by Moses was merely a temporary provision, but the true bread from heaven is given by God the Father."
@@ -57,4 +57,4 @@ The distinction between the temporary provision of manna in the wilderness by Mo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

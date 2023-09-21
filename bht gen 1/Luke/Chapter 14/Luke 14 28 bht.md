@@ -4,7 +4,7 @@
 In the wisdom of various commentators, we find that the verse in question speaks to the importance of thoughtful consideration and preparation. It likens the process of building a tower to the undertaking of Christian discipleship. Just as one would count the cost and plan before constructing a tower, so too must individuals carefully weigh the demands and sacrifices of following Jesus. This involves assessing the foundation of one's faith, the firmness of their commitment, and the resources necessary to complete the journey. It emphasizes the need for prudence and a deliberate approach in embarking on the path of discipleship.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Common sense teaches men not to begin any costly work without first seeing that they have wherewithal to finish."
 2. "In the warfare you will each have to wage as My disciples, despise not your enemy's strength, for the odds are all against you; and you had better see to it that, despite every disadvantage, you still have wherewithal to hold out and win the day, or else not begin at all."
 3. "Better not begin than begin and not finish. Though the contest for salvation be on our part an awfully unequal one, the human will, in the exercise of that 'faith which overcometh the world,' becomes heroical and will come off 'more than conqueror.'"
@@ -56,4 +56,4 @@ In the wisdom of various commentators, we find that the verse in question speaks
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

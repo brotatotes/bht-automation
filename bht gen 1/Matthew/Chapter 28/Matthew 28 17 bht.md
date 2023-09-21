@@ -4,7 +4,7 @@
 In the presence of Jesus, doubts and uncertainties can still exist. Faith is a journey of questioning and seeking understanding. The disciples' worship of Jesus and their prostration before him demonstrate profound reverence and humility. Despite their previous experiences, some disciples still harbored doubts, highlighting their caution and the wide range of responses to Jesus. The disciples' worship and doubts reveal the profound significance of Jesus' resurrection and the transformative power of personal encounters with him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some doubted" - This phrase suggests that even in the presence of Jesus, doubts and uncertainties can still exist. It reminds us that faith is not always a certainty, but a journey of questioning and seeking understanding.
 
 2. "None of 'the Eleven'" - This statement highlights the transformation that occurred in the disciples' faith after witnessing the resurrection. It emphasizes the power of personal encounters with Jesus in dispelling doubts and solidifying belief.
@@ -49,4 +49,4 @@ Note: The commentary provided is longer than the required length. Please select 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

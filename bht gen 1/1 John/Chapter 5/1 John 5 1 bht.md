@@ -9,7 +9,7 @@ Faith in Jesus as the Christ is the key to our relationship with God and the ass
 2. "Our birth of God depends on and is in closest union with our faith."
 3. "Every one who loveth him that begot, loveth also him that is begotten of him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Reason why our 'brother' (1 John 4:21) is entitled to such love, namely, because he is 'born (begotten) of God': so that if we want to show our love to God, we must show it to God's visible representative."
 2. "He could not be our 'Jesus' (God-Saviour) unless He were 'the Christ'; for He could not reveal the way of salvation, except He were a prophet: He could not work out that salvation, except He were a priest: He could not confer that salvation upon us, except He were a king: He could not be prophet, priest, and king, except He were the Christ."
 3. "Christ is the 'only-begotten Son' by generation; we become begotten sons of God by regeneration and adoption."
@@ -55,4 +55,4 @@ Faith in Jesus as the Christ is the key to our relationship with God and the ass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the exhortation to cease stealin
 2. "Contrast to his former idleness for good, and bad use of those hands" - This quote highlights the contrast between the previous idleness and the current productive use of one's hands.
 3. "In order that he may have to impart to him that has need" - This quote underscores the purpose of honest labor, which is to have something to share with those in need.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is not enough to cease from a sin, but the sinner must also enter on the path that is its very opposite."
 2. "The thief, when repentant, should labor more than he would be called on to do, if he had never stolen."
 3. "Christians in general should make not selfish gain their aim in honest industry, but the acquisition of the means of greater usefulness to their fellow men."
@@ -52,4 +52,4 @@ In this Bible verse, the commentators emphasize the exhortation to cease stealin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

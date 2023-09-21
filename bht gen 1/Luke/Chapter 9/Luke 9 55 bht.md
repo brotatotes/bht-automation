@@ -9,7 +9,7 @@ The verse being described here is a powerful statement made by Jesus to His disc
 2. "Know ye not what manner of spirit ye belong to? The spirit meant being the Holy Spirit." 
 3. "It is very interesting to remember that this same John came down to Samaria with Peter, to confer the gift of the Holy Spirit on the Samaritan believers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The thing ye demand, though in keeping with the legal, is unsuited to the genius of the evangelical dispensation."
 2. "The sparks of unholy indignation would seize readily enough on this example of Elias."
 3. "Let us never do anything for religion which is contrary to religion."
@@ -50,4 +50,4 @@ The verse being described here is a powerful statement made by Jesus to His disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

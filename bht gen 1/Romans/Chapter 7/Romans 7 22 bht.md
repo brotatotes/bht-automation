@@ -4,7 +4,7 @@
 The author expresses deep joy and genuine delight in the law of God, going as far as saying that it brings about a sense of liberation and freedom. This delight is not a mere compliance, but a heartfelt embrace of God's commands. It stems from the innermost being, highlighting the significance of the spiritual aspect and the transformed inner self in relation to the law. This verse reflects the genuine love, appreciation, and satisfaction in the principles and teachings of God's law.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For I delight in the law of God after the inward man." - This verse expresses a deep and genuine joy in the law of God, coming from the very core of one's being.
 2. "The word here rendered 'delight' is indeed stronger than 'consent' in Romans 7:16." - The word used here for "delight" goes beyond mere agreement or compliance; it signifies a passionate and wholehearted embrace of God's law.
 3. "Both express a state of mind and heart to which the unregenerate man is a stranger." - This commentary highlights that this delight in God's law is a characteristic of those who have been transformed by God's grace, and it is not something that the unregenerate person can understand or experience.
@@ -54,4 +54,4 @@ Note: The commentary is referencing Romans 7:22-23.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

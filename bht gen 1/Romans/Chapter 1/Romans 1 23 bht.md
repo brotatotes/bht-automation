@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the tragic downfall of humanity'
 2. "He who made and upholds all things must be incorruptible, and no corruptible thing can express His likeness." 
 3. "The similitude of the form εἰκόνος generalizes it to mean the human form, it not being any one particular man, but the form of man to which they degraded God, and so of the other creatures."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The allusion here is doubtless to the Greek worship, and the apostle may have had in his mind those exquisite chisellings of the human form which lay so profusely beneath and around him as he stood on Mars' Hill; and 'beheld their devotions.'" 
 
 2. "But as if that had not been a deep enough degradation of the living God, there was found 'a lower deep' still." 
@@ -45,4 +45,4 @@ In this Bible verse, the commentators highlight the tragic downfall of humanity'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

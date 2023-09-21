@@ -9,7 +9,7 @@ In this verse, commentators emphasize the universal opposition and hatred that b
 2. "These two subjects accompany and interpenetrate one another in a manner wholly inexplicable to those who are unaccustomed to the wide import of Scripture prophecy."
 3. "It is most important to keep in mind the great prophetic parallels which run through our Lord’s discourses, and are sometimes separately, sometimes simultaneously, presented to us by Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The universality of this hatred would make it evident to them, that since it would not be owing to any temporary excitement, local virulence, or personal prejudice, on the part of their enemies, so no amount of discretion on their part, consistent with entire fidelity to the truth, would avail to stifle that enmity."
 2. "He that endureth to the end shall be saved—a great saying, repeated, in connection with similar warnings, in the prophecy of the destruction of Jerusalem."
 3. "As 'drawing back unto perdition' is merely the palpable evidence of the want of 'root' from the first in the Christian profession, so 'enduring to the end' is just the proper evidence of its reality and solidity."
@@ -54,4 +54,4 @@ Note: The commentary provided is very short and does not provide much depth or c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

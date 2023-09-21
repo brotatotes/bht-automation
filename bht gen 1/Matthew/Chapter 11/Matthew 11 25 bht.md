@@ -4,7 +4,7 @@
 In this Bible verse, the speaker expresses their gratitude and recognition of God's wisdom in concealing certain truths from the wise and revealing them to those who are considered simple or ignorant by the world. They acknowledge the justice and sovereignty of God as their Father and the Lord of heaven and earth. This humble and contemplative address to God reflects a deep connection and communion with the Father, similar to what is seen in the later chapters of the book of John.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even in those who have rejected the message of eternal life, it is the pride of their own hearts only which has blinded them, and the glory of the truth does but the more appear in their inability to receive it."
 2. "The idea of 'full' or 'cordial' concurrence is conveyed by the preposition. The thing expressed is adoring acquiescence, holy satisfaction with that law of the divine procedure about to be mentioned."
 3. "To bring our own 'wisdom and prudence' to such questions is impertinent and presumptuous; and if the truth regarding them, or the glory of it, be 'hid' from us, it is but a fitting retribution, to which all the right-minded will set their seal along with Jesus."
@@ -43,4 +43,4 @@ In this Bible verse, the speaker expresses their gratitude and recognition of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

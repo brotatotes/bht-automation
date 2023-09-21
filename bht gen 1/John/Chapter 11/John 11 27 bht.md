@@ -9,7 +9,7 @@ In this verse, there is a woman named Martha who expresses her unwavering belief
 2. "Nor does she seem to have adequately apprehended its meaning."
 3. "I, for my part: have convinced myself, and firmly believe."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And having such faith in Thee, I can believe all which that comprehends."
 2. "While she had a glimmering perception that Resurrection, in every sense of the word, belonged to the Messianic office and Sonship of Jesus."
 3. "She means, by this way of expressing herself, to cover much that she felt her ignorance of—as no doubt belonging to Him."
@@ -48,4 +48,4 @@ In this verse, there is a woman named Martha who expresses her unwavering belief
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

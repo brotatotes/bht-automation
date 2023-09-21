@@ -9,7 +9,7 @@ It was believed by the Jews that physical ailments and calamities were often pun
 2. "The disciples may have believed that the man was visited for the sins of his parents: but how could he himself have sinned before his birth?"
 3. "The question may have been asked vaguely without any strict application of it to the circumstances, merely taking for granted that some sin must have led to the blindness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not in a former state of existence, in which, as respects the wicked, the Jews did not believe."
 2. "Perhaps, expressing loosely that sin somewhere had surely been the cause of this calamity."
 3. "Sin somewhere had surely been the cause of this calamity."
@@ -48,4 +48,4 @@ It was believed by the Jews that physical ailments and calamities were often pun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, Jesus speaks about the value and reward of serving and show
 2. "Though perhaps the expression may be meant of lower and less advanced converts, thus keeping up the gradation from προφήτης."
 3. "His (i.e. the doer’s) reward: not, ‘the reward of one of these little ones,’ as before μισθ . προφ., μισθ . δικαίου: the article here makes the difference: and the expression is reflective."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beautiful epithet! Originally taken from Zechariah 13:7. The reference is to their lowliness in spirit, their littleness in the eyes of an undiscerning world, while high in Heaven's esteem."
 2. "a cup of cold water only—meaning, the smallest service."
 3. "There is here a descending climax—'a prophet,' 'a righteous man,' 'a little one'; signifying that however low we come down in our services to those that are Christ's, all that is done for His sake, and that bears the stamp of love to His blessed name, shall be divinely appreciated and owned and rewarded."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus speaks about the value and reward of serving and show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

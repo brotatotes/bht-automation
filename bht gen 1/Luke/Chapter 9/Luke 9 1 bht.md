@@ -11,7 +11,7 @@ In this Bible verse, Jesus is described as "calling together" his disciples, emp
 
 3. "some join it with ἔδωκεν, as in John 5:26; Matthew 13:11."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He both qualified and authorized them." 
 2. "Herod troubled at what he hears of Christ." 
 3. "Desires to see Him."
@@ -39,4 +39,4 @@ In this Bible verse, Jesus is described as "calling together" his disciples, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

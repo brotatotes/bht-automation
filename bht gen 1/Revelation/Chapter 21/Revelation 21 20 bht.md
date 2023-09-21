@@ -4,7 +4,7 @@
 The verse being described showcases a description of various precious stones. The commentators highlight the unique features of each stone, such as the reddish-yellow color of sardonyx, the golden brightness of chrysolite, and the deep purple hue of amethyst. These stones symbolize different aspects, like purity and sacrifice, divine glory, and a sense of mystery and majesty. The mention of these precious stones not only adds visual richness but also serves as a reminder of the diversity and beauty of God's creation, and the unique qualities and purpose of each individual.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sardonyx—a gem having the redness of the cornelian, and the whiteness of the onyx."
 2. "Chrysolite—described by PLINY as transparent and of a golden brightness, like our topaz: different from our pale green crystallized chrysolite."
 3. "Jacinth—The flashing violet brightness in the amethyst is diluted in the jacinth."
@@ -42,4 +42,4 @@ The verse being described showcases a description of various precious stones. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

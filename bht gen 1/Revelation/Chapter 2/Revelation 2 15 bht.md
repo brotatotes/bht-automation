@@ -9,7 +9,7 @@ The verse being described in these commentaries speaks to the presence of indivi
 2) "It is most according to the sense of the passage to understand these sins in the case of the Nicolaitans, as in that of those whom Balaam tempted, literally, and not mystically."
 3) "The whole sense of the passage is against the idea of the identity of the Balaamites and the Nicolaitans; and would be in fact destroyed by it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So THOU also hast, As Balak and the Moabites of old had Balaam and his followers literally, so hast thou also them that hold the same Balaamite or Nicolaitane doctrine spiritually or symbolically."
 2. "Literal eating of idol-meats and fornication in Pergamos were accompanied by spiritual idolatry and fornication."
 3. "It is sin not to hate what God hates. The Ephesian Church had this point of superiority to Pergamos."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

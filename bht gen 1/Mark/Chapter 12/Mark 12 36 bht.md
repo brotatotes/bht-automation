@@ -9,7 +9,7 @@ In this verse, the divine authority and exaltation of the Messiah are revealed a
 2. "The mention of the Holy Spirit in Matthew and the book of Psalms in Luke is not a mere coincidence, but rather a deliberate connection." 
 3. "This parallel highlights the importance of the Holy Spirit and the scriptural foundation in the life and teachings of Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool." This verse highlights the authority and exaltation of Jesus Christ, as he is referred to as "my Lord" by David. It emphasizes his position at the right hand of God and the ultimate victory over his enemies. 
 
 2. "David himself said by the Holy Ghost." This phrase emphasizes the divine inspiration behind David's words, indicating that the Holy Spirit guided him in proclaiming this prophecy about the Messiah. It underscores the significance and reliability of David's statement.
@@ -44,4 +44,4 @@ In this verse, the divine authority and exaltation of the Messiah are revealed a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

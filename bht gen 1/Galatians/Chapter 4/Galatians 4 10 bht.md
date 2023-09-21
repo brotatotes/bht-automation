@@ -9,7 +9,7 @@ In this verse, the commentator quotes various commentators who discuss the pract
 2. "Notice how utterly such a verse is at variance with any and every theory of a Christian sabbath, cutting at the root, as it does, of ALL obligatory observance of times as such."
 3. "To observe periods then, now in the fulness of time, is to deny the perfection of the Christian dispensation, the complete and finished nature of Christ’s work: to forsake Him as the great spiritual teacher of His brethren, and to return to carnal pædagogues."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To regard the observance of certain days as in itself meritorious as a work, is alien to the free spirit of Christianity."
 2. "The whole life alike belongs to the Lord in the Gospel view, just as the whole world, and not the Jews only, belong to Him."
 3. "But as in Paradise, so now one portion of time is needed wherein to draw off the soul more entirely from secular business to God."
@@ -59,4 +59,4 @@ These quotes provide insights into the various religious observances and traditi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, we are reminded of the purpose of our existence - to seek and kno
 
 3. "Not that HE is distant from us, but that we are ignorant of Him" - This quote clarifies that the distance between God and humanity is not physical, but rather a result of our ignorance or lack of understanding. It references other biblical passages to support this idea.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That they should seek the Lord—That is the high end of all these arrangements of Divine Power, Wisdom, and Love."
 2. "if haply they might feel after him—as men groping their way in the dark."
 3. "though he be not far from every one of us—The difficulty of finding God outside the pale of revealed religion lies not in His distance from us, but in our distance from Him through the blinding effect of sin."
@@ -57,4 +57,4 @@ In this verse, we are reminded of the purpose of our existence - to seek and kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

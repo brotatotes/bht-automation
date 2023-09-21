@@ -4,7 +4,7 @@
 Through the indwelling of Christ's Spirit, believers experience life in their spirit while their bodies remain subject to the effects of sin. This union between Christ and his people is not merely symbolic, but a real and vital connection formed by the Holy Spirit. Though the physical body may face death, the spirit is filled with new and undying life, brought about by the righteousness of Christ. This mystical union is founded on the unity within the Godhead, and the believers' transformation from death to life reflects the power of the Holy Spirit and the righteousness of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If Christ be in you—by His indwelling Spirit in virtue of which we have one life with him."
 2. "The body...is dead because of sin; but the spirit is life because of righteousness."
 3. "I grant you that the body is dead...but, If Christ be in you by His indwelling Spirit, though your 'bodies' have to pass through the stage of 'death' in consequence of the first Adam's 'sin,' your spirit is instinct with new and undying 'life,' brought in by the 'righteousness' of the second Adam."
@@ -62,4 +62,4 @@ The believer's human spirit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes a devout and virtuous individual who had forsaken idolatry 
 2. "The object of this providential interference seems to have been, to give solemn sanction to such reception, by the agency of him who was both the chief of the Apostles, and the strong upholder of pure Judaism."
 3. "From Cornelius's own narrative, as well as from the analogy of God's dealings, we are certainly justified in inferring, with Neander, that the subject of his prayers was that he might be guided into truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A devout man, c.—an uncircumcised Gentile proselyte to the Jewish faith, of whom there were a very great number at this time." 
 2. "A distinguished proselyte, who had brought his whole household establishment under the hallowing influence of the Jewish faith and the regular observance of its principal seasons of worship."
 3. "Thinking it no 'great thing,' if they had 'sown unto him spiritual things, that they should reap his carnal things'."
@@ -58,4 +58,4 @@ These quotes highlight the importance of living a virtuous life, submitting to G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

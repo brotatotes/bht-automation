@@ -9,7 +9,7 @@ In this verse, Jesus speaks to a Samaritan woman and emphasizes the importance o
 2. "Ye shall worship the Father, but not (only) in this mountain, nor in Jerusalem."
 3. "The προσκυνήσετε, though embracing in its wider sense all mankind, may be taken primarily as foretelling the success of the gospel in Samaria, Acts 8:1-25."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The point raised will very soon cease to be of any moment, for a total change of dispensation is about to come over the Church."
 2. "The Samaritans are wrong, not only as to the place, but the whole grounds and nature of their worship, while in all these respects the truth lies with the Jews."
 3. "As God is a Spirit, so He both invites and demands a spiritual worship, and already all is in preparation for a spiritual economy, more in harmony with the true nature of acceptable service than the ceremonial worship by consecrated persons, place, and times."
@@ -57,4 +57,4 @@ In this verse, Jesus speaks to a Samaritan woman and emphasizes the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

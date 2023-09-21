@@ -9,7 +9,7 @@ This verse encompasses the all-encompassing nature of the Gospel message, meant 
 2. "Creatio per Filium, fundamentum redemtionis et regni." 
 3. "By these words the missionary office is bound upon the Church through all ages, till every part of the earth shall have been evangelized."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Go ye into all the world" - This command emphasizes the universal scope of the Gospel message. It is not limited to a specific group or region, but is meant to be shared with all people, regardless of their background or circumstances.
 
 2. "Preach the Gospel to every creature" - This phrase highlights the inclusivity of the Gospel message. It is not just for humans, but for all of creation. It reminds us that God's redemptive plan extends to all living beings and that we have a responsibility to share the good news with everyone, including those who may seem unlikely recipients.
@@ -56,4 +56,4 @@ This verse encompasses the all-encompassing nature of the Gospel message, meant 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we are reminded by various commentators of the importance of selflessness and considering the needs of others. The verse encourages us to go beyond simply acknowledging the needs of others, but actively seeking to understand and address them. It calls us to break free from the narrow spirit of selfishness, promoting a benevolent regard for the happiness and welfare of others. We are reminded that true compassion and mercy come from a deep sense of empathy towards others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not looking each of you on his own things, but each of you on the things of others." - This quote highlights the importance of selflessness and considering the needs of others rather than being solely focused on one's own interests.
 
 2. "Not having regard solely to them." - This quote emphasizes the need to go beyond simply acknowledging the needs of others, but actively seeking to understand and address them.
@@ -49,4 +49,4 @@ In this verse, we are reminded by various commentators of the importance of self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

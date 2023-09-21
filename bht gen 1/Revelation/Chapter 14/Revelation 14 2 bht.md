@@ -4,7 +4,7 @@
 In this verse, a powerful and majestic voice from heaven is described as sounding like the roar of many waters or thunders, symbolizing the authority and significance of the divine message. As the voice draws nearer, it transforms into a melodious sound like harpers playing their harps. This imagery conveys a sense of both awe-inspiring fear and comforting reassurance, reminding us of the multifaceted nature of God's voice and the divine harmony between His words and the worship of His people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The voice of many waters" in this verse signifies the power and majesty of God's voice, which is also reflected in the voices of His people. It emphasizes the unity and harmony between God and His followers.
 
 2. The mention of harpers in the verse suggests the joy and celebration that accompanies the presence of God. It symbolizes the worship and praise offered by His people, creating a beautiful and melodious sound.
@@ -45,4 +45,4 @@ In this verse, a powerful and majestic voice from heaven is described as soundin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

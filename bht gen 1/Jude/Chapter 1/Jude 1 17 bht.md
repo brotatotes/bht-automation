@@ -4,7 +4,7 @@
 In this verse, the author addresses his readers with affection and emphasizes their righteousness and faithfulness. He suggests that they were contemporaries of the apostles, highlighting the authenticity of the teachings they received. The verse also reminds the readers to remember the prophecies and teachings of the apostles as a preservative from error. The author, while not exempting himself from the category of apostles, distinguishes himself from his readers in terms of receiving firsthand information.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved...ye" - Peter addresses his readers as beloved, indicating a close and affectionate relationship with them. (Quote 1)
 2. "In contrast to those reprobates" - Peter distinguishes his readers from the reprobates, highlighting their righteousness and faithfulness. (Quote 2)
 3. "Implies that his readers had been contemporaries of the apostles" - Peter suggests that his readers were contemporaries of the apostles, emphasizing the authenticity and firsthand nature of the teachings they received. (Quote 3)
@@ -39,4 +39,4 @@ In this verse, the author addresses his readers with affection and emphasizes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

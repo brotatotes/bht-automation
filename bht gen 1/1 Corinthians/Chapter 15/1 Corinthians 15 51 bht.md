@@ -11,7 +11,7 @@ Behold, a mystery is being revealed - a truth previously unseen. A change awaits
 
 Note: The commentary is quite technical and focused on the interpretation of the Greek text, so the quotes provided are the most relevant for enriching understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—Calling attention to the 'mystery' heretofore hidden in God's purposes, but now revealed."
 2. "YOU, who think you have so much knowledge, 'a mystery' which your reason could never have discovered."
 3. "The putting off of the corruptible body for an incorruptible by an instantaneous change will, in the case of 'the quick,' stand as equivalent to death, appointed to all men."
@@ -57,4 +57,4 @@ Note: The commentary is quite technical and focused on the interpretation of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

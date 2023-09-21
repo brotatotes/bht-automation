@@ -11,7 +11,7 @@ In this Bible verse, a prominent figure, referred to as "he," chooses to reside 
 
 3. "The fact that Paul was willing to stay and work with a tanner shows his willingness to engage with people from all walks of life, regardless of their social status or occupation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Simon's house was 'by the seaside'... Peter's lodging there shows him already to some extent above Jewish prejudice." 
 2. "A trade regarded by the Jews as half unclean, and consequently disreputable, from the contact with dead animals and blood which was connected with it." 
 3. "Peter's lodging there shows him already to some extent above Jewish prejudice."
@@ -37,4 +37,4 @@ In this Bible verse, a prominent figure, referred to as "he," chooses to reside 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

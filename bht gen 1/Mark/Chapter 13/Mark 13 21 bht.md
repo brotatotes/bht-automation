@@ -4,7 +4,7 @@
 This verse warns against false prophets and impostors claiming to be the Christ, urging believers to be discerning and not easily swayed. It emphasizes the importance of being prepared for the end times and staying firm in faith despite challenges. In a world filled with conflicting voices, the verse encourages us to seek wisdom and discernment through prayer and the study of God's Word, so that we may not be led astray by deceptive teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And then, if any man shall say to you, Lo, here is Christ; or, lo he is there; believe him not." - Luke 17:23
 2. "For false Christs and false prophets shall rise, and shall show signs and wonders." - Commentary on Luke 17:23
 3. "No one can read JOSEPHUS' account of what took place before the destruction of Jerusalem without seeing how strikingly this was fulfilled." - Commentary on Luke 17:23
@@ -25,4 +25,4 @@ This verse warns against false prophets and impostors claiming to be the Christ,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

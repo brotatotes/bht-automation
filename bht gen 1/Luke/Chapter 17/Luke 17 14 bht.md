@@ -9,7 +9,7 @@ With compassion, Jesus gave a command to the lepers to go and show themselves to
 2. "In their going away, in the absence of Jesus they are healed: what need to go back and give Him thanks? Here was a trial of their love: faith they had, enough to go, and enough to be cleansed: but love (with the one exception) gratitude, they had not."
 3. "ἐν τῷ ὑπ. αὐτ.] i.e. while on their way; the meaning evidently being that they had not gone far, and that the whole took place within a short time. They had not been to the priests, as some suppose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Show yourselves as cleansed persons."
 2. "Thus too would the Samaritan be taught that 'salvation is of the Jews' (John 4:22)."
 3. "In how many different ways were our Lord's cures wrought, and this different from all the rest."
@@ -45,4 +45,4 @@ With compassion, Jesus gave a command to the lepers to go and show themselves to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

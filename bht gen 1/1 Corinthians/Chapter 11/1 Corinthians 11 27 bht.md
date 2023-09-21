@@ -9,7 +9,7 @@ The act of partaking in the Lord's Supper should be done with reverence and unde
 2. "Whoever therefore shall either eat the bread or drink the cup of the Lord unworthily shall be guilty of the Body and Blood of the Lord: i.e. 'crimini et pœnæ corporis et sanguinis Christi violati obnoxius erit.'" 
 3. "Such an one proclaims the death of Christ, and yet in an unworthy spirit with no regard to that Death as his atonement, or a proof of Christ’s love: he proclaims that Death as an indifferent person: he therefore partakes of the guilt of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Impropriety in only one of the two elements, vitiates true communion in both."
 2. "Any who takes the bread without the wine, or the wine without the bread, 'unworthily' communicates, and so 'is guilty of Christ's body and blood'; for he disobeys Christ's express command to partake of both."
 3. "Unworthiness in the person, is not what ought to exclude any, but unworthily communicating: However unworthy we be, if we examine ourselves so as to find that we penitently believe in Christ's Gospel, we may worthily communicate."
@@ -57,4 +57,4 @@ The act of partaking in the Lord's Supper should be done with reverence and unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The scene unfolds with a tumultuous riot as the mob, vociferating the city's wat
 2. "It is not implied that they seized Gaius and Aristarchus before they rushed into the theatre."
 3. "Aristarchus is mentioned in multiple passages, indicating his significance in the early Christian community."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are mentioned in Acts 20:4; Acts 27:2; Romans 16:23; 1 Corinthians 1:14; and probably 3 John 1:1."
 2. "If it was in the house of Aquila and Priscilla that he found an asylum (see 3 John 1:1- :), that would explain Romans 16:3; Romans 16:4, where he says of them that 'for his life they laid down their own necks' [HOWSON]."
 3. "The theatre—a vast pile, whose ruins are even now a wreck of immense grandeur [SIR C. FELLOWES, Asia Minor, 1839]."
@@ -59,4 +59,4 @@ The scene unfolds with a tumultuous riot as the mob, vociferating the city's wat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

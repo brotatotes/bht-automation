@@ -9,7 +9,7 @@ By faith, Abraham resided in the land of promise, placing his trust in God's wor
 2. "Dwelling in tents, as if it did not belong to him, but to another." 
 3. "The heirs with him of the same promise, waiting for the performance of the promise, and in this waiting, built themselves no permanent abode."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He went into it and sojourned there."
 2. "A country not belonging to him, but to others."
 3. "Moving from place to place, as having no fixed possession of their own."
@@ -55,4 +55,4 @@ By faith, Abraham resided in the land of promise, placing his trust in God's wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

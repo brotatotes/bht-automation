@@ -9,7 +9,7 @@ In this verse, we see the greatness of God's love towards humanity. Christ willi
 2. "Christ died for (‘on behalf of,’ see reff.) ungodly men."
 3. "The Apostle wishes to bring out fully by this strong antithesis, which he enlarges on in the next verses, the greatness of the divine Love to man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ died for the ungodly" - This quote highlights the remarkable nature of God's love, as Christ willingly sacrificed Himself for those who were undeserving and morally repulsive in the eyes of God.
 
 2. "He did this 'when they were without strength'" - This quote emphasizes the helplessness of humanity, unable to save themselves from perdition. It underscores the divine compassion that bridged the gap between humanity and salvation.
@@ -57,4 +57,4 @@ In this verse, we see the greatness of God's love towards humanity. Christ willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

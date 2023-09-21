@@ -4,7 +4,7 @@
 In the bustling city of Jerusalem, where tensions were high and plots were brewing, Jesus fearlessly stood teaching amidst a crowd. This scene unfolds against the backdrop of a populace that was aware of the authorities' sinister intentions. These city-dwellers, distinguished by their deeper understanding, contrasted with the multitude of pilgrims who were less familiar with the inner workings of the religious leaders. Despite the risks and dangers, Jesus boldly continued in His mission, undeterred by the threat to His life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The citizens of Jerusalem, who were aware of the authorities' intention to kill Jesus, were surprised to see Him teaching openly." 
 
 2. "This reaction highlights the contrast between the rulers' hidden agenda and Jesus' bold and public teaching."
@@ -44,4 +44,4 @@ In the bustling city of Jerusalem, where tensions were high and plots were brewi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

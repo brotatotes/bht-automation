@@ -9,7 +9,7 @@ The crowd's response to the apostles' message was intense and filled with rage. 
 2. "Findor, ut Arcadiæ pecuaria rudere credas." (Translation: "I am split, as if you would believe the flocks of Arcadia to be lowing.") 
 3. "Cor meum et cerebrum, Nicobule, finditur, Istius hominis ubi fit quaque mentio." (Translation: "My heart and brain, Nicobule, are split, whenever mention is made of that man.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How different this feeling and the effect of it from that 'pricking of the heart' which drew from the first converts on the day of Pentecost the cry, 'Men and brethren, what shall we do?'" 
 2. "The words used in the two places are strikingly different." 
 3. "The contrast between the response of the crowd on the day of Pentecost and the response of the religious leaders here highlights the hardness of heart and resistance to the message of Jesus."
@@ -52,4 +52,4 @@ The crowd's response to the apostles' message was intense and filled with rage. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

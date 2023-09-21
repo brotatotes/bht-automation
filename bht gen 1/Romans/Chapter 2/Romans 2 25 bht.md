@@ -9,7 +9,7 @@ In this passage, the commentators discuss the significance of circumcision in re
 2. "The supposition is of acting according to the law, doing the law."
 3. "The Jewish transgressor is no better off than the Gentile transgressor."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For circumcision—that is, One's being within the covenant of which circumcision was the outward sign and seal."
 2. "Verily profiteth, if thou keep the law—if the inward reality correspond to the outward sign."
 3. "Otherwise, thou art no better than the uncircumcised heathen."
@@ -55,4 +55,4 @@ In this passage, the commentators discuss the significance of circumcision in re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse under discussion emphasizes the transformative power of God's teaching. It speaks to the personal nature of this teaching, as God not only instructs outwardly but also inwardly through His Spirit. Furthermore, it underscores that Jesus himself embodies truth, emphasizing the importance of aligning our understanding with his teachings. Overall, the verse encourages believers to seek a deep and transformative understanding of truth that is rooted in the teachings of Jesus.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "heard Himself," not merely heard about Him.
 2. "taught IN HIM," in vital union with Him.
 3. "And in Him have been taught, according as is truth in Jesus."
@@ -50,4 +50,4 @@ The verse under discussion emphasizes the transformative power of God's teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

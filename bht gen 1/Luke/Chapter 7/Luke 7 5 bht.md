@@ -9,7 +9,7 @@ In this verse, a centurion's generous act is highlighted, emphasizing his willin
 2. "Our synagogue" indicates a sense of community and belonging, suggesting that the individual's generosity is not limited to personal gain but extends to the well-being of the entire community.
 3. The use of the word "our" implies a shared responsibility and ownership, emphasizing the importance of collective support and unity within the synagogue.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having found that 'salvation was of the Jews,' he loved them for it." 
 2. "His love took this practical and appropriate form." 
 3. "Widow of Nain's son raised to life."
@@ -45,4 +45,4 @@ In this verse, a centurion's generous act is highlighted, emphasizing his willin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

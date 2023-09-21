@@ -9,7 +9,7 @@ In this verse, the commentator quotes different scholars who provide insights in
 2. "The seed of Abraham then means, the Jewish race, among whom Christ was born in the flesh, and whom He did come primarily to help."
 3. "The right view is taken by Witlich, Braun, Akersloot, Limborch, Calmet, Bengel, Peirce, Cramer, Michaelis, Ernesti (who however is wrong in saying it was the interpretation of the Greek Fathers), Storr, and the moderns almost without exception."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For as we all know"; "For as you will doubtless grant." Paul probably alludes to Isaiah 41:8; Jeremiah 31:32, Septuagint, from which all Jews would know well that the fact here stated as to Messiah was what the prophets had led them to expect.
 2. "It is not angels that He is helping (the present tense implies duration) but it is the seed of Abraham that He is helping." The verb is literally, to help by taking one by the hand, as in Jeremiah 31:32- :, "When I took them by the hand," c. Thus it answers to "succor," Hebrews 2:18, and "deliver," Hebrews 2:15.
 3. "Not angels," who have no flesh and blood, but "the children," who have "flesh and blood," He takes hold of to help by "Himself taking part of the same" (Hebrews 2:15- :). Whatever effect Christ's work may have on angels, He is not taking hold to help them by suffering in their nature to deliver them from death, as in our case.
@@ -57,4 +57,4 @@ In this verse, the commentator quotes different scholars who provide insights in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

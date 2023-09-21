@@ -4,7 +4,7 @@
 The verse being described highlights the inclusive nature of Jesus' prayer, encompassing all believers throughout history. It emphasizes the distinction between believers and the world, as followers of Jesus are called to live differently and be set apart. The description underscores the blessings and requests made in Jesus' prayer, specifically for those who have been transformed by their faith. It reminds us that being a disciple of Jesus means being willing to stand apart from the world and face hostility, knowing that our ultimate allegiance is to Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I pray for them—not as individuals merely, but as representatives of all such in every succeeding age." This quote highlights the inclusive nature of Jesus' prayer, encompassing not only the disciples but also all believers throughout history.
 
 2. "Not for the world—for they had been given Him 'out of the world' and had been already transformed into the very opposite of it." This quote emphasizes the distinction between believers and the world, as followers of Jesus are called to live differently and be set apart from the values and ways of the world.
@@ -42,4 +42,4 @@ The verse being described highlights the inclusive nature of Jesus' prayer, enco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

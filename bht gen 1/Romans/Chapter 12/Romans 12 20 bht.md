@@ -9,7 +9,7 @@ In this Bible verse, believers are encouraged to show kindness and provide pract
 2. "Clearly not, in their bare literal sense. For however true it may be, that ingratitude will add to the enemy’s list of crimes, and so subject him more to God’s punitive judgment, it is impossible that to bring this about should be set as a precept, or a desirable thing among Christians."
 3. "I understand the words, ‘For in this doing, you will be taking the most effectual vengeance;’ as effectual as if you heaped coals of fire on his head."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is taken from Proverbs 25:21 Proverbs 25:22, which without doubt supplied the basis of those lofty precepts on that subject which form the culminating point of the Sermon on the Mount."
 2. "As the heaping of 'coals of fire' is in the Old Testament the figurative expression of divine vengeance, the true sense of these words seems to be, 'That will be the most effectual vengeance—a vengeance under which he will be fain to bend.'"
 3. "Psalms 11:6 confirms this."
@@ -57,4 +57,4 @@ In this Bible verse, believers are encouraged to show kindness and provide pract
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

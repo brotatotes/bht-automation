@@ -11,7 +11,7 @@ This verse describes the mission and preaching style of the apostle Paul. His fo
 4. "In wisdom of speech (i.e. the speculations of philosophy: that these are meant, and not mere eloquence or rhetorical form, appears by what follows, which treats of the subject, and not merely of the manner of the preaching) in order that the Cross of Christ might not be deprived of its effect."
 5. "This would come to pass rather by philosophical speculations than by eloquence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul says this not to depreciate baptism; for he exalts it most highly."
 2. "His and the apostles' peculiar work was to preach the Gospel, to found by their autoptic testimony particular churches, and then to superintend the churches in general."
 3. "The cross of Christ—the sum and substance of the Gospel, Christ crucified."
@@ -56,4 +56,4 @@ This verse describes the mission and preaching style of the apostle Paul. His fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

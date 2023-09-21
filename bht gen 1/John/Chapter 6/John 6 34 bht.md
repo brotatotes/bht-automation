@@ -9,7 +9,7 @@ The disciples, echoing the desires of the Samaritan woman and recalling the prov
 2. "Perhaps they thought of the heavenly manna, which the Rabbis speak of as prepared for the just in the future world."
 3. "πάντοτε, emphatic: not now only, but always."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lord, evermore give us this bread" - This quote shows the disciples' recognition of the significance of the bread Jesus is referring to. It reflects their desire for a continuous supply of this bread, similar to the manna in the wilderness. 
 
 2. "the perpetuity of the manna floating perhaps in their minds" - This quote suggests that the disciples may have been thinking about the lasting provision of manna in the wilderness when they asked for this bread. It highlights their understanding of the need for sustenance that endures.
@@ -47,4 +47,4 @@ The disciples, echoing the desires of the Samaritan woman and recalling the prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse under discussion encourages believers to approach God with sincerity a
 
 3. "having our body washed with pure water" - This quote refers to Christian baptism and emphasizes the cleansing and sanctifying effect of water. It highlights the significance of baptism as a symbolic and sacramental act that purifies not only our hearts but also our entire being.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "with a true heart—without hypocrisy; 'in truth, and with a perfect heart'; a heart thoroughly imbued with 'the truth'" (Hebrews 7:19).
 2. "full assurance— with no doubt as to our acceptance when coming to God by the blood of Christ" (Hebrews 7:19).
 3. "Christ's blood purifies the heart and conscience... Believers, as priests to God, are once for all washed in BODY at baptism" (Hebrews 9:21).
@@ -61,4 +61,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

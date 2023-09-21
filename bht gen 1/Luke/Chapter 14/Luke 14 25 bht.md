@@ -4,7 +4,7 @@
 In this verse, Jesus is on a final journey to Jerusalem, surrounded by great multitudes of people who were likely heading to the Passover feast. However, Jesus deliberately tries to discourage the crowds from following Him mindlessly, as He wants true disciples who are willing to sacrifice everything for Him. He looks directly at them, speaking with a serious and solemn tone, making it clear that following Him requires giving up what is dear and being prepared to face hardships.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The 'great multitudes' were doubtless people going to the passover, who moved along in clusters (Luke 2:44), and who on this occasion falling in with our Lord had formed themselves into one mass about Him." 
 
 2. "His final journey to Jerusalem." 
@@ -30,4 +30,4 @@ In this verse, Jesus is on a final journey to Jerusalem, surrounded by great mul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

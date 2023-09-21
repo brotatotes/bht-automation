@@ -9,7 +9,7 @@ In this Bible verse, a lost son experiences a powerful transformation as he retu
 2. "He does not resolve to ask to be made ἕνα τῶν μισθ., but ὡς ἕνα τ. μ.: still a son, but as an hireling."
 3. "The adoption of sonship which he received in Christ Jesus at his baptism, and his faith that the gifts and calling of God are without repentance or recall."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The change has come at last, and what a change!—couched in terms of such exquisite simplicity and power as if expressly framed for all heart-broken penitents."
 2. "Father, c.—Mark the term. Though 'no more worthy to be called his son,' the prodigal sinner is taught to claim the defiled, but still existing relationship, asking not to be made a servant, but remaining a son to be made 'as a servant,' willing to take the lowest place and do the meanest work."
 3. "Ah! and is it come to this? Once it was, 'Any place rather than home.' Now, 'Oh, that home! Could I but dare to hope that the door of it would not be closed against me, how gladly would I take any place and do any work, happy only to be there at all.' Well, that is conversion—nothing absolutely new, yet all new old familiar things seen in a new light and for the first time as realities of overwhelming magnitude and power."
@@ -43,4 +43,4 @@ In this Bible verse, a lost son experiences a powerful transformation as he retu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

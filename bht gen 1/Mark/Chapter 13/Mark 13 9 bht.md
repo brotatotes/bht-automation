@@ -9,7 +9,7 @@ This verse reminds believers that despite the promise of opposition and persecut
 2. "εἰς συναγ ., a pregnant construction ‘ ye shall be taken into the synagogues and beaten there.’"
 3. "Bp. Wordsw. explains the εἰς, 'Ye will be exposed before the eyes of congregations in synagogues, for their pleasure.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take heed to yourselves: for before all these things" - The commentary highlights the importance of being prepared and cautious before the coming calamities.
 2. "They shall deliver you up to councils; and in the synagogues ye shall be beaten" - The commentary explains that these refer to ecclesiastical proceedings against the believers, emphasizing the religious persecution they would face.
 3. "For my sake, for a testimony against them" - The commentary suggests that the purpose of the persecution is to provide an opportunity for the believers to bear testimony to Jesus before their persecutors.
@@ -50,4 +50,4 @@ This verse reminds believers that despite the promise of opposition and persecut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

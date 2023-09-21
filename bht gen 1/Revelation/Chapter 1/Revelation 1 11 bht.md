@@ -4,7 +4,7 @@
 The verse being described is a command for the author to write down what he sees and send it to the seven churches mentioned in the Book of Revelation. These churches represent the spiritual characteristics of the universal Church throughout history. The urgency of the command emphasizes the importance of the message, which includes descriptions of the Risen Christ, instructions for the churches, and visions that reveal God's plan. The book is meant to be read by all churches, serving as a source of consolation, guidance, and edification for believers in every age.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The churches selected are not taken at random, but have a many-sided completeness."
 2. "These seven are representative churches; and, as a complex whole, ideally complete, embody the chief spiritual characteristics of the Church, whether as faithful or unfaithful, in all ages."
 3. "In another aspect, Ephesus in conflict with false freedom, that is fleshly licentiousness (the Nicolaitanes); so also Pergamos in conflict with Balaam-like tempters to fornication and idol-meats; and on the other side, Philadelphia in conflict with the Jewish synagogue, that is, legal bondage."
@@ -40,4 +40,4 @@ Note: The commentary provides geographical distances between the cities mentione
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

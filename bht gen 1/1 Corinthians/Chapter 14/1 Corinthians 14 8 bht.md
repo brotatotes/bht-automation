@@ -9,7 +9,7 @@ The responsibility of understanding and interpreting the sound of the trumpet is
 2. "A particular succession of notes of the trumpet then, as now, gave the signals for attack, and retreat, and the various evolutions of an army." 
 3. "The meaning of ἄδηλον is uncertain, as it refers to the specific signals given by the trumpet during battle."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For if also" is an additional step in the argument.
 2. "Uncertain sound" refers to a sound that has no definite meaning.
 3. The trumpet should be so marked that each succession of notes has a specific purpose, such as summoning soldiers to attack or retreat.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of a clear and certain message in the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

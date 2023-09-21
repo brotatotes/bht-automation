@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of not disregarding or under
 2. "The interrogative form would surely be most unnatural, coupled closely as it would be with an assertion of fact, οὔπω.… ἀντικατέστητε."
 3. "The exhortation, that kind of exhortation, of which the following is a specimen: such seems to be the force of ἥτις instead of ἥ, discourses with you as with sons, My son."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His exhortation ought to have more effect on you than the cheers and exhortations of the spectators have on the competitors striving in the games."
 2. "God's loving condescension."
 3. "Do not hold of little account." Betraying a contumacious spirit of unbelief.
@@ -62,4 +62,4 @@ These quotes provide insights into the original Greek words used in the verse, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

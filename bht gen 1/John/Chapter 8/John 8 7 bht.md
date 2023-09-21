@@ -9,7 +9,7 @@ In this verse, Jesus challenges the self-righteousness of the scribes and Pharis
 2. "The Lord Jesus was not sent to be a ruler and a judge in this or that particular case of crime, but the Ruler and Judge of all: and His answer expresses this, by convicting them all of sin before Him."
 3. "τόν (see digest), if genuine, refers to the first stone, which by Deu 17:7 the witnesses were to cast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that is without sin—not meaning sinless altogether; nor yet, guiltless of a literal breach of the Seventh Commandment; but probably, he whose conscience acquits him of any such sin."
 2. "cast a stone—the stone, meaning the first one."
 3. "This incident reminds us of the importance of self-reflection and humility, as we are all prone to making mistakes and falling short of perfection."
@@ -56,4 +56,4 @@ In this verse, Jesus challenges the self-righteousness of the scribes and Pharis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

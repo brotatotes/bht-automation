@@ -11,7 +11,7 @@ In this passage, the internal struggle between the desires of the flesh and the 
 
 3. "What I hate, that I do." - This quote underscores the internal conflict of engaging in actions that go against one's own desires and preferences, indicating the struggle between one's will and their actions.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In obeying the impulses of my carnal nature I act the slave of another will than my own as a renewed man?"
 2. "For not what I would (wish, desire) that do I, but what I hate that I do."
 3. "In these verses, Paul is expressing the struggle between his renewed nature and his sinful nature."
@@ -52,4 +52,4 @@ In this passage, the internal struggle between the desires of the flesh and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

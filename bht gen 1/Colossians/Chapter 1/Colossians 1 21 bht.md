@@ -4,7 +4,7 @@
 The verse being described speaks about the state of alienation and enmity between humanity and God. Commentators emphasize that this alienation was not just a product of wicked acts, but a deliberate and purposeful enmity towards God. They point out that this hostility is rooted in the mind and affects both the understanding and affections of individuals. Despite this deep-seated enmity, God, through the atoning death of Christ, has reconciled humanity to Himself, restoring friendship and love. The verse highlights the transformative power of God's grace, which offers reconciliation to all, including those who were once enemies of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Colossians are included in this general reconciliation."
 2. "Actual alienation makes habitual 'enemies'."
 3. "Notwithstanding the former alienation, now that Christ has come, God hath completely reconciled, or restored to His friendship again."
@@ -50,4 +50,4 @@ The verse being described speaks about the state of alienation and enmity betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

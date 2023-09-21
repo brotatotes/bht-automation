@@ -9,7 +9,7 @@ In this passage, the apostle Paul addresses the issue of confidence in the flesh
 2. "I have confidence also in the flesh."
 3. "If any other man thinks he has confidence in the flesh, I more."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I might have confidence even in the flesh." - This phrase emphasizes the Apostle Paul's acknowledgment that he could have relied on his own abilities and achievements for confidence.
 2. "I more—have more." - This statement highlights Paul's recognition that his earthly accomplishments were significant, but he possesses an even greater source of confidence.
 3. "Whereof I might have confidence in the flesh." - This phrase underscores the idea that Paul could have found security in his worldly accomplishments, but he chooses to place his trust in something beyond the flesh.
@@ -58,4 +58,4 @@ Note: The commentary provided is quite short, so there are only three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

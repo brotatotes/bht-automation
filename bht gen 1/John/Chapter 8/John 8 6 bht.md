@@ -9,7 +9,7 @@ In this passage, a woman is brought before Jesus by the scribes and Pharisees, s
 2. "The additions προσποιούμενος or μὴ προσπ . are glosses."
 3. "This minute circumstance speaks strongly for the authenticity of the narration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He wished to show them His aversion to enter on the subject."
 2. "But as this did not suit them, they 'continue asking Him,' pressing for an answer."
 3. "At last, raising Himself He said."
@@ -52,4 +52,4 @@ In this passage, a woman is brought before Jesus by the scribes and Pharisees, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

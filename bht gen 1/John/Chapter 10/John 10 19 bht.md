@@ -4,7 +4,7 @@
 In this passage, there is a clear division among the Jews regarding the teachings of Jesus. Some people were deeply impacted by his words, recognizing the light and truth in them, while others dismissed him as a madman or a devil. This division of opinion among the Jews reflects the ongoing controversy and struggle to accept Jesus' radical message and understand the depth of his sacrifice for his followers. His words sparked both profound impressions and deep‑rooted prejudice among those who heard them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The light and the darkness revealing themselves with increasing clearness in the separation of the teachable from the obstinately prejudiced."
 2. "The one saw in Him only 'a devil and a madman'; the other revolted at the thought that such words could come from one possessed, and sight be given to the blind by a demoniac."
 3. "Showing clearly that a deeper impression had been made upon them than their words expressed."
@@ -42,4 +42,4 @@ In this passage, there is a clear division among the Jews regarding the teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the firm and unchanging nature of God's prom
 2. "The aim and end of the inheritance being by faith, that they all might be inheritors, as the manifestation of God’s grace was the higher aim and end."
 3. "The part of the seed which is of the law here is of course confined to believing Jews; the seed being believers only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Justification is by faith, in order that its purely gracious character may be seen." 
 2. "All who follow in the steps of Abraham's faith may be assured of the like justification with the parent believer." 
 3. "Whether of his natural seed or not."
@@ -59,4 +59,4 @@ The verse being described speaks of the firm and unchanging nature of God's prom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

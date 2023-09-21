@@ -9,7 +9,7 @@ This verse highlights that anyone who believes and practices righteousness can b
 2. "The whole subject of the righteousness of God is fully treated by Düsterd. in his note here."
 3. "When therefore a man doeth righteousness, γινώσκομεν, we apprehend, we collect, from our previous knowledge of these truths, that the source of his righteousness is God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love is the grand feature and principle of 'righteousness' selected for discussion."
 2. "The righteous produceth the righteous."
 3. "God is righteous, and therefore the source of righteousness; when then a man doeth righteousness, we know that the source of his righteousness is God, that consequently he has acquired by new birth from God that righteousness which he had not by nature."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

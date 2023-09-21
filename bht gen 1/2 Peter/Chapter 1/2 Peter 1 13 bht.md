@@ -9,7 +9,7 @@ This verse emphasizes the role of admonition in reminding and stirring up believ
 2. "As long as I am in this tabernacle, to stir you up in reminding." 
 3. "To stir you up in reminding, as the medium in which I strive towards the stirring up."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The zeal of Satan against it, the more intense as his time is short, ought to stimulate Christians on the same ground." 
 2. "I therefore need to make the most of my short time for the good of Christ's Church."
 3. "Yea—Greek, 'But'; though 'you know' the truth."
@@ -53,4 +53,4 @@ This verse emphasizes the role of admonition in reminding and stirring up believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

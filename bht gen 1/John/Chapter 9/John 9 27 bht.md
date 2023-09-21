@@ -9,7 +9,7 @@ This verse captures the ironic exchange between the Pharisees and a man who was 
 2. "The latter clause is of course ironical."
 3. "‘you seem so anxious to hear particulars about Him, that you must surely be intending to become His disciples.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In a vein of keen irony he treats their questions as those of anxious inquirers, almost ready for discipleship!"
 2. "Stung by this, they retort upon him as the disciple (and here they plainly were not wrong)."
 3. "For themselves, they fall back upon Moses; about him there could be no doubt; but who knew about this upstart?"
@@ -40,4 +40,4 @@ This verse captures the ironic exchange between the Pharisees and a man who was 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

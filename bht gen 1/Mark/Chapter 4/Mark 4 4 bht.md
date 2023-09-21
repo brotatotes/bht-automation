@@ -4,7 +4,7 @@
 In this Bible verse, the commentator highlights the different types of ground the seed falls on. One commentator describes the seed falling on the wayside, a hard path where the soil is not broken up. Another commentator emphasizes how the seed that falls on the wayside is not able to penetrate the surface and is picked up by birds. Additionally, the verse mentions the seed falling on stony ground, where the word makes no impression.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some fell by the wayside—by the side of the hard path through the field, where the soil was not broken up." 
 2. "Not only could the seed not get beneath the surface, but 'it was trodden down' and afterwards picked up and devoured by the fowls." 
 3. "Second Case: THE STONY or rather, ROCKY GROUND."
@@ -18,4 +18,4 @@ In this Bible verse, the commentator highlights the different types of ground th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

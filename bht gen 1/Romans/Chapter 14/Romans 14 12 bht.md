@@ -9,7 +9,7 @@ In this verse, we are reminded of our individual accountability to God. The emph
 2. "Seeing that our account to God will be of each man’s own self, let us take heed lest by judging one another we incur the guilt of ἀπολλύειν one another."
 3. "κρίνομεν here in the general sense of ‘pass judgment on,’ including both the ἐξουθενεῖν of the strong and the κρίνειν of the weak."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "CHRIST is the absolute Master of all Christians, to rule their judgments and feelings towards each other while 'living,' and to dispose of them 'dying'."
 
 2. "The testimony which it bears to the absolute Divinity of Christ will appear remarkable."
@@ -44,4 +44,4 @@ In this verse, we are reminded of our individual accountability to God. The emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

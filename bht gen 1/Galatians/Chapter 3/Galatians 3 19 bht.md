@@ -4,7 +4,7 @@
 The Bible verse being described focuses on the purpose and role of the law in relation to transgressions, the fulfillment of promises, and the coming of Christ. Commentators highlight that the law was given to bring awareness and conviction of transgressions, emphasizing the need for a promised Savior, and to restrain and deter sin. It reveals the true nature of sin, declaring its penalty, and pointing towards the future redemption through Christ. Both the moral and ceremonial aspects of the law play a significant role in the overall plan and preparation for the fulfillment of the promise.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law, though misunderstood by the Judaizers as doing so, was really added for a different purpose, namely, 'because of (or as the Greek, 'for the sake of') the transgressions,' that is, to bring out into clearer view the transgressions of it (Romans 7:7-9); to make men more fully conscious of their 'sins,' by being perceived as transgressions of the law, and so to make them long for the promised Saviour." 
 
 2. "The law rather stimulates the corrupt heart to disobey it." 
@@ -50,4 +50,4 @@ The Bible verse being described focuses on the purpose and role of the law in re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

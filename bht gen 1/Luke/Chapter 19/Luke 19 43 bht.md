@@ -9,7 +9,7 @@ The verse being described is a prophecy about the siege and destruction of Jerus
 2. "The awful reason" - The commentary emphasizes that there is a significant and weighty reason behind the wish expressed, indicating the seriousness of the situation.
 3. "Titus built a wall round them" - This historical reference provides context for understanding the allusion made by Jesus, pointing to the events described in Isaiah 29:2-4.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This 'cut off all hope of escape,' and consigned the city to unparalleled horrors." 
 2. "All here predicted was with dreadful literally fulfilled." 
 3. "SECOND CLEANSING OF THE TEMPLE AND SUBSEQUENT TEACHING."
@@ -52,4 +52,4 @@ The verse being described is a prophecy about the siege and destruction of Jerus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

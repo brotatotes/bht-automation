@@ -10,7 +10,7 @@ In this passage, a woman who has engaged in adultery and idolatry is warned of t
 3. "And her children I will slay with death...and all the churches shall know that I am he that searcheth the reins and the hearts."
 4. "I will give to you to each according to your works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The bed of her sin shall be her bed of sickness and anguish."
 2. "Her punishment is distinct from theirs; she is to be cast into a bed, and her children to be killed; while those who make themselves partakers of her sin by tolerating her, are to be cast into great tribulation."
 3. "God's true servants, who by connivance, are incurring the guilt of her deeds, are distinguished from her."
@@ -46,4 +46,4 @@ In this passage, a woman who has engaged in adultery and idolatry is warned of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

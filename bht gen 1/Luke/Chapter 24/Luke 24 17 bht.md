@@ -9,7 +9,7 @@ The verse being described is a scene where Jesus encounters two disciples who ar
 2. "ἀντιβάλλειν λόγους implies to dispute with some earnestness: but there is no blame implied in the words."
 3. "Possibly, though both were sad, they may have taken different views: and in the answer of Cleopas we have that of the one who was most disposed to abandon all hope."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The words imply the earnest discussion that had appeared in their manner."
 2. "The verse highlights the importance of effective communication and the need for open and honest discussions."
 3. "This passage reminds us of the significance of clear and meaningful communication in resolving conflicts and building strong relationships."
@@ -50,4 +50,4 @@ The verse being described is a scene where Jesus encounters two disciples who ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

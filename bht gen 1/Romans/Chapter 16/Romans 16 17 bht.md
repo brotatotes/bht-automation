@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the presence of divisive individuals w
 2. "The διδαχή here spoken of is probably rather ethical than doctrinal; compare Ephesians 4:20-24."
 3. "The διδαχή here spoken of is probably rather ethical than doctrinal; compare Ephesians 4:20-24."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fomentors of 'divisions' here referred to are probably those who were unfriendly to the truths taught in this epistle."
 2. "The direction as to both is, first, to 'mark' such, lest the evil should be done ere it was fully discovered."
 3. "Next, to 'avoid' them, so as neither to bear any responsibility for their procedure, nor seem to give them the least countenance."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the presence of divisive individuals w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

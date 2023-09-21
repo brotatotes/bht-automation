@@ -9,7 +9,7 @@ In this passage, Jesus sends his disciples ahead in a boat while he withdraws to
 2. "The Jews had a custom of reckoning two evenings, which is important to note in understanding the context of this verse."
 3. "The descent mentioned in this verse is attributed to the command of Jesus, as mentioned in the parallel accounts in Matthew and Mark."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples were 'constrained' to enter the ship, indicating their reluctance to leave their Master and embark at night, leaving Him alone on the mountain."
 2. "The disciples may have been drawn into the misdirected excitement in Jesus' favor, and this journey was a way to put an end to it."
 3. "They probably lingered in hopes of Jesus joining them, but let the darkness come on."
@@ -54,4 +54,4 @@ In this passage, Jesus sends his disciples ahead in a boat while he withdraws to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

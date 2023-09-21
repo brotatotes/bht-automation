@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the profound paradox of the Bible. Rev
 2. "the weakness of God is stronger than men"
 3. "Christ crucified, which is to them a thing ἀσθενές: but this ἀσθενὲς τοῦ θεοῦ is stronger than men"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "foolishness of God—that is, God's plan of salvation which men deem 'foolishness.'" 
 2. "weakness of God—Christ 'crucified through weakness,' the great stumbling-block of the Jews."
 3. "So He perfects strength out of the weakness of His servants."
@@ -53,4 +53,4 @@ In this verse, the commentators emphasize the profound paradox of the Bible. Rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

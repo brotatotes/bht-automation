@@ -4,7 +4,7 @@
 In this verse, we are reminded that even the smallest actions or words can have a profound impact and will ultimately be brought to light. It speaks to the all-knowing nature of God and the importance of living our lives with integrity and honesty. The verse emphasizes that there are no hidden secrets in God's plan and highlights the mysteries that remain beyond human comprehension. We are encouraged to be cautious and discerning in our actions and words, as even the things we think are hidden will one day be revealed and we will be held accountable for them.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'For nothing' emphasizes the insignificance of the hidden things that will eventually be revealed. It reminds us that even the smallest actions or words can have a profound impact and will ultimately be brought to light."
 
 2. "The idea that 'nothing is hidden' speaks to the all-knowing nature of God. It reminds us that we cannot hide anything from Him, and that He sees and knows everything. This should serve as a reminder to live our lives with integrity and honesty."
@@ -39,4 +39,4 @@ In this verse, we are reminded that even the smallest actions or words can have 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

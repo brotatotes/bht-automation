@@ -4,7 +4,7 @@
 In this verse, Jesus declares, "I know you not," indicating a lack of personal connection and approval. These individuals are characterized as graceless, foolish virgins, who neglected to acknowledge Christ and his righteousness. Jesus never knew them as his chosen people or his sheep. The door is shut, signifying a permanent exclusion, and they are commanded to depart. This cautionary lesson emphasizes the necessity of a genuine relationship with Christ and the consequences of neglecting it.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The attempt to establish a difference between 'I know you not' here, and 'I never knew you' in Matthew 7:23...is to be resisted."
 2. "It is a kind of criticism which tampers with some of the most awful warnings regarding the future."
 3. "Those festivities are celebrated in this life, in the Church militant; these at the last day, in the Church triumphant."
@@ -35,4 +35,4 @@ In this verse, Jesus declares, "I know you not," indicating a lack of personal c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

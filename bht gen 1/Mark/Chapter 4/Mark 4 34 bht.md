@@ -9,7 +9,7 @@ In this passage, Jesus is described as primarily teaching through parables, usin
 2. "To these we may add the two parables in John, which however was publicly explained." 
 3. "Perhaps Luke 16:9 and Luke 18:6-8 also fall into this category."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But without a parable spake he not unto them." - This quote highlights the teaching style of Jesus, emphasizing his frequent use of parables to convey spiritual truths to the people.
 2. "When they were alone, he expounded all things to his disciples." - This quote reveals the special relationship Jesus had with his disciples, where he would provide deeper explanations and insights into his teachings when they were in private.
 3. "The time of this section is very definitely marked by our Evangelist." - This quote emphasizes the importance of the specific timing and context of the events described in the passage, indicating the meticulous attention to detail by the author.
@@ -42,4 +42,4 @@ In this passage, Jesus is described as primarily teaching through parables, usin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

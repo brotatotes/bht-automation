@@ -11,7 +11,7 @@ The commentators collectively underscore the significance and preciousness of th
 
 3. "ὁ διάβολος ἐφέστηκεν ἤδη κ. ἐφεδρεύει" - This quote warns that the devil is always lurking and ready to attack, underscoring the need for constant vigilance in safeguarding the deposit of faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That goodly deposit keep through the Holy Ghost."
 2. "The indwelling Spirit enables us to keep from the robbers of the soul the deposit of His word committed to us by God."
 3. "The sound words which I have committed to thee."
@@ -63,4 +63,4 @@ The commentators collectively underscore the significance and preciousness of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus displays his authority over the forces of nature by rebukin
 2. "On the variations in the accounts, see on Matthew 8:25."
 3. "On the variations in the accounts, see on Matthew 8:25."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Two sublime words of command, from a Master to His servants, the elements."
 2. "The sudden hushing of the wind would not at once have calmed the sea, whose commotion would have settled only after a considerable time."
 3. "But the word of command was given to both elements at once."
@@ -47,4 +47,4 @@ In this verse, Jesus displays his authority over the forces of nature by rebukin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

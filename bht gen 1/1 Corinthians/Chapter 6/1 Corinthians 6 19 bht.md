@@ -9,7 +9,7 @@ The Bible verse being described is about the sacredness of our bodies as temples
 2. "The Holy Spirit, whom you have from God." 
 3. "You are not your own."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The body of each individual of the Church is viewed as the ideal 'temple of the Holy Ghost.'"
 2. "In sinning against the latter, the fornicator sins against 'your (ideal) body,' that of 'Christ,' whose 'members your bodies' are."
 3. "Chastity is the guardian of the temple to prevent anything unclean entering which might provoke the indwelling God to abandon it as defiled."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

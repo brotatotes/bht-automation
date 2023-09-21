@@ -9,7 +9,7 @@ In this Bible verse, the mention of the Holy Ghost and the determination of the 
 2. "The idea being quite untenable that the word Ἰησοῦ has been inserted here, and no where else, on doctrinal grounds."
 3. "If the report of this journey came from an unusual source, an unusual expression would be accountable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the first time that the Holy Ghost is expressly spoken of as determining the course they were to follow in their efforts to evangelize the nations."
 2. "It was evidently designed to show that whereas hitherto the diffusion of the Gospel had been carried on in unbroken course, connected by natural points of junction, it was now to take a leap to which it could not be impelled but by an immediate and independent operation of the Spirit."
 3. "We may certainly conclude that Paul took it for a sign that a new epoch was now to commence in his apostolic labors."
@@ -38,4 +38,4 @@ In this Bible verse, the mention of the Holy Ghost and the determination of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described highlights the importance of seizing the opportune time and making the most of every moment in one's spiritual journey. It emphasizes the need to use time wisely, not wasting it on vanities or sin. The verse calls believers to be intentional in their actions and to prioritize the things that truly matter, amidst a world that tempts and distracts. It challenges individuals to redeem and reclaim their time, ensuring that it is spent in pursuit of good, knowledge, and the will of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Buying up for yourselves the seasonable time" - believers should diligently avail themselves of special favorable seasons for good and make the most of the opportune time afforded to them for the work of God.
 2. "The whole season from the time that one is spiritually awakened is to be 'redeemed' from vanity for God" - believers are called to redeem and make the most of every moment in their spiritual journey, not wasting time on vanities.
 3. "Watch the time, and make it your own so as to control it" - believers should not serve time, but rather command it and use it wisely, like merchants who look out for opportunities and choose the best goods.
@@ -54,4 +54,4 @@ These quotes emphasize the importance of seizing the opportune time for doing go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

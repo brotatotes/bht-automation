@@ -9,7 +9,7 @@ In this Bible verse, a woman named Joanna, who was a follower of Jesus and had b
 2. "Johanna is mentioned again ch. Luke 24:10, and again in company with Mary Magdalene and others."
 3. "διηκ., providing food, and giving other necessary attentions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Healed either of 'evil spirits' or of some one of the 'infirmities' here referred to—the ordinary diseases of humanity—she joins in the Saviour's train of grateful, clinging followers." 
 
 2. "Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done, in ministering to the Lord of her substance on His Galilean tour, shall be spoken of as a memorial of her." 
@@ -50,4 +50,4 @@ In this Bible verse, a woman named Joanna, who was a follower of Jesus and had b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

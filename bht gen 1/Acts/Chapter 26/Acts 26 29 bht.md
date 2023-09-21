@@ -9,7 +9,7 @@ In this verse, the speaker, filled with intense conviction, expresses a willingn
 2. "In εὔχεσθαι θεῷ the dative implies the direction of the wish or request to God."
 3. "He shews the chain, which being in ‘custodia militaris,’ he bore on his arm, to connect him with the soldier who had charge of him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What unequalled magnanimity does this speech breathe! Only his Master ever towered above this."
 2. "Not only...almost...but altogether" - expressing the willingness to sacrifice and endure any difficulty for the sake of the Gospel.
 3. "Except these bonds" - highlighting the physical restraints and the powerful impact they had on the delivery of such a noble utterance.
@@ -48,4 +48,4 @@ In this verse, the speaker, filled with intense conviction, expresses a willingn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

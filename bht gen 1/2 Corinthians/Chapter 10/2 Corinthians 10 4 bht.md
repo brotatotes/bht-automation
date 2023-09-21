@@ -9,7 +9,7 @@ The verse being described speaks of the Christian warfare, which is not fought w
 2. "In order to pulling down of strongholds."
 3. "Recollections of the Mithridatic and piratical wars may have contributed to this imagery."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power is not ours, but God's."
 2. "The efficacy of the Christian religion proves its truth."
 3. "The inspired servants of God inherit the commission of the Old Testament prophets."
@@ -51,4 +51,4 @@ These quotes emphasize that the weapons of a Christian's warfare are not physica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

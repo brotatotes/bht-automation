@@ -4,7 +4,7 @@
 In this verse, the elders and living creatures cast their crowns before the throne of God, expressing their humble submission, reverence, and recognition of His eternal authority. This act of worship signifies their acknowledgment that all honor and glory comes from God alone. By laying down their crowns, they show their profound devotion and surrender to Him as their King and lawgiver, attributing all their achievements to His grace and sovereignty. Thus, their actions perpetuate an endless ascription of praise to God throughout eternity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "shall fall down": implying that this ascription of praise shall be repeated onward to eternity.
 2. "shall worship... shall cast their crowns": in acknowledgment that all the merit of their crowns is due to Him.
 3. "the crowns of conquerors": referring to the crowns of those who have overcome trials and tribulations.
@@ -40,4 +40,4 @@ In this verse, the elders and living creatures cast their crowns before the thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

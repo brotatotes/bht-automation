@@ -9,7 +9,7 @@ In this captivating sermon, Peter, standing with the eleven disciples, boldly ad
 2. "This prophecy is from the LXX, with very slight variations."
 3. "Where the copies differ, it agrees with the Alexandrine."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter, standing up with the eleven—in advance, perhaps, of the rest." This suggests that Peter took a leadership role among the disciples, stepping forward to address the crowd. (14-21)
 
 2. "Peter's boldness and confidence in speaking to the crowd reflects his transformation from a fearful denier of Jesus to a courageous proclaimer of the Gospel." This highlights Peter's personal growth and the power of the Holy Spirit working in him. (14-21)
@@ -45,4 +45,4 @@ In this captivating sermon, Peter, standing with the eleven disciples, boldly ad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

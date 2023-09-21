@@ -9,7 +9,7 @@ Amidst the potential opposition and persecution faced by Paul, the verse encoura
 2. "John 1:3."
 3. "See also Isaiah 58:1."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not afraid . . . no man shall set on thee to hurt thee" - This quote highlights the reassurance given by the Lord to Paul, indicating that he should not fear any harm or violence from others. It shows the divine protection and guidance that Paul receives in his mission.
 2. "These signal successes were stirring up the wrath of the unbelieving Jews" - This quote suggests that the remarkable progress and success of Paul's work were causing resentment and anger among the unbelieving Jews. It sheds light on the opposition faced by Paul and the potential threats he may have encountered.
 3. "He is reassured, however, from above" - This quote emphasizes the source of Paul's reassurance, which comes from a divine vision. It highlights the importance of faith and trust in God's guidance and protection, even in the face of potential danger.
@@ -43,4 +43,4 @@ Amidst the potential opposition and persecution faced by Paul, the verse encoura
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

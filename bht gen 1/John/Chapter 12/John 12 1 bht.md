@@ -9,7 +9,7 @@ Six days prior to a significant Jewish holiday, Jesus arrived in Bethany, strate
 2. "The arrival and anointing at Bethany will be on the eighth of Nisan, if the passover was on the fourteenth."
 3. "The exact timing of our Lord's arrival at the commencement of the Sabbath, i.e. sunset, or a little after, on Friday evening, from Jericho, is unknown."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Six days before the Passover" indicates the specific timing of the event, highlighting the significance of the upcoming Passover feast.
 2. The mention of the Jewish Sabbath preceding the Passover emphasizes the adherence to religious customs and observances during this time.
 3. The timing of the event suggests a deliberate and intentional plan, as Jesus chose this specific moment to carry out his actions.
@@ -50,4 +50,4 @@ Six days prior to a significant Jewish holiday, Jesus arrived in Bethany, strate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

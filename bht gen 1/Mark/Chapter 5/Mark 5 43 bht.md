@@ -4,7 +4,7 @@
 In this Bible verse, Jesus performs a miraculous healing and restoration. He gives strict instructions for keeping this miracle secret, indicating a desire to avoid attention and fulfill his mission at the appointed time. Jesus demonstrates deep compassion by not only restoring the girl to life but also ensuring her physical nourishment. The verse emphasizes the profound completeness of her healing and the need for practical means to sustain and support life in all its aspects.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He charged them straitly—strictly." This emphasizes the seriousness and urgency of Jesus' command, indicating the importance of following it without question or delay.
 
 2. "The only reason we can assign for this is His desire not to let the public feeling regarding Him come too precipitately to a crisis." This suggests that Jesus was intentionally managing the public perception of Him, possibly to avoid unnecessary conflict or premature recognition of His identity.
@@ -40,4 +40,4 @@ In this Bible verse, Jesus performs a miraculous healing and restoration. He giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

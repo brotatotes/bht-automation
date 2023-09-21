@@ -9,7 +9,7 @@ The verse being described encapsulates the call to abstain from seeking revenge,
 2. "It is not addressed to any particular section of the church, but to all."
 3. "To each for himself, and the church for each."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto any man—whether unto a Christian, or a heathen, however great the provocation." 
 2. "Follow—as a matter of earnest pursuit." 
 3. "As Christians, we are called to respond to others, regardless of their beliefs or actions, with love and kindness."
@@ -63,4 +63,4 @@ Note: The commentary does not provide any specific Bible verse or context.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

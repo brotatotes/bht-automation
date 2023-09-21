@@ -9,7 +9,7 @@ The described Bible verse contrasts the temporary and fading glory of the old co
 2. "The everlasting gospel in glory."
 3. "Various prepositions to express nearly the same relation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "was glorious—literally, 'was with glory'; or 'marked by glory.'" 
 2. "that which remaineth—abideth (Revelation 14:6). Not 'the ministry,' but the Spirit, and His accompaniments, life and righteousness."
 3. "is glorious—literally, 'is in glory.' The Greek 'with' or 'by' is appropriately applied to that of which the glory was transient. 'In' to that of which the glory is permanent."
@@ -55,4 +55,4 @@ These quotes collectively highlight the contrast between the temporary and fadin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ After an interval of some days, the verse takes place in Capernaum, specifically
 2. "In doors" (quote 2) - This phrase highlights the location where the subject of the verse went, emphasizing the shift from a public setting to a private one.
 3. "The εἰς combines motion with the construction" (quote 3) - This statement explains the grammatical function of the word "εἰς" in the verse, clarifying that it signifies both the action of going home and the resulting state of being there.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And again he entered into Capernaum—"His own city" (Matthew 9:1). 
 
 2. "and it was noised that he was in the house—no doubt of Simon Peter" (Matthew 9:1). 
@@ -47,4 +47,4 @@ After an interval of some days, the verse takes place in Capernaum, specifically
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

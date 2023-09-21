@@ -11,7 +11,7 @@ God is the source of all light and purity. He is the embodiment of wisdom, love,
 
 3. "There is not in Him any darkness at all." - This negation strengthens the affirmation of God's light and emphasizes the absence of ethical darkness in Him. It signifies the absence of ignorance, deceit, sin, and death, leaving no room for even the slightest speck of darkness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the Son announced the message heard from the Father as His apostle, so the Son's apostles announce what they have heard from the Son."
 2. "What light is in the natural world, that God, the source of even material light, is in the spiritual, the fountain of wisdom, purity, beauty, joy, and glory."
 3. "No, not even one speck of darkness; no ignorance, error, untruthfulness, sin, or death."
@@ -55,4 +55,4 @@ God is the source of all light and purity. He is the embodiment of wisdom, love,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

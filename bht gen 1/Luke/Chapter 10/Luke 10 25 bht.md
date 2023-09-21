@@ -9,7 +9,7 @@ Described is a passage where Jesus is being tested by a lawyer who stands up, no
 2. "There is no reason to suppose that the lawyer had any hostile intention towards Jesus, rather perhaps a self-righteous spirit."
 3. "He doubtless expects to hear of some great deed; but our Lord refers him back to the Law of which he was a teacher."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tempted him - 'tested him'; in no hostile spirit, yet with no tender anxiety for light on that question of questions, but just to see what insight this great Galilean teacher had." 
 
 2. "In no hostile spirit" - The person testing Jesus did not have ill intentions or a malicious agenda. 
@@ -54,4 +54,4 @@ Described is a passage where Jesus is being tested by a lawyer who stands up, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is one that showcases God's rest after the compl
 2. "The rest here spoken of must not be understood only as that of one day after the completion of creation; but as an enduring rest, commencing then and still going on, into which God’s people shall hereafter enter."
 3. "The Sabbath is called 'the day of rest' or 'the day of cessation' in Hellenistic Greek, emphasizing its significance as a day of rest from work."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's rest is not a rest necessitated by fatigue, nor consisting in idleness, but is that upholding and governing of which creation was the beginning."
 2. "Hence Moses records the end of each of the first six days, but not of the seventh."
 3. "God's 'work' was one, comprehending, however, many 'works'."
@@ -47,4 +47,4 @@ The Bible verse being described is one that showcases God's rest after the compl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

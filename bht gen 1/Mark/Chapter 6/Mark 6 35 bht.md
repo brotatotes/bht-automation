@@ -11,7 +11,7 @@ As the Passover was near and the day was coming to an end, a multitude had gathe
 
 3. "See notes on Matthew 14:15-17." Similarly, this indicates that there are additional insights in the notes on Matthew 14:15-17 that could provide further understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of the time of day in this verse provides important context for understanding the events that follow. It indicates that the day was coming to an end, and sets the stage for the miracle that Jesus is about to perform." 
 
 2. "The use of different time references in the various Gospel accounts highlights the accuracy and attention to detail in the biblical narrative. It shows that the authors were aware of the different cultural understandings of time and were careful to provide accurate information for their readers." 
@@ -36,4 +36,4 @@ As the Passover was near and the day was coming to an end, a multitude had gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

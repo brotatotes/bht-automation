@@ -9,7 +9,7 @@ This Bible verse speaks about the apostolic authority granted to the writer to e
 2. "He does not mention any persons not the disobedient, but every (case of) disobedience."
 3. "Charitably embracing all, or nearly all, those to whom he was writing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have this in store for the disobedient: it will be brought into action in due time."
 2. "He will not prematurely exact punishment, but wait until the full number of those gathered out to Christ has been 'completed,' and the remainder have been proved incorrigible."
 3. "He had acted already so at Corinth."
@@ -57,4 +57,4 @@ Note: The commentary provided is not a direct quote from a specific source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

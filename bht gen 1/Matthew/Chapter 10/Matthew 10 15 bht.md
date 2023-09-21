@@ -9,7 +9,7 @@ On the day of judgment, those who reject the Gospel message will face harsher pu
 2. "The denunciatory part of this discourse is directed specifically towards the people of Israel, who had been prepared for the message of the Gospel through the Law, the Prophets, and John the Baptist." 
 3. "This rejection of the Gospel by professing Christians can also be seen as a parallel to the rejection faced by Jesus and his disciples, but it does not apply to those who are unaware of God, such as the Gentiles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It shall be more tolerable for Sodom and Gomorrah in the day of judgment, than for that city." - This quote highlights the severity of judgment for those who reject the Gospel message, even more so than the infamous cities of Sodom and Gomorrah.
 
 2. "Those Cities of the Plain, which were given to the flames for their loathsome impurities, shall be treated as less criminal." - This quote emphasizes that even though Sodom and Gomorrah were destroyed for their immoral behavior, they will be considered less guilty compared to those who reject the Gospel.
@@ -40,4 +40,4 @@ On the day of judgment, those who reject the Gospel message will face harsher pu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, religious leaders express their disapproval towards Jesus and his disciples for associating with publicans and sinners. Failing to comprehend the intent behind Jesus' actions, they criticize and judge him, seeking to bring accusations against him and discredit his reputation among the people. The conflicting attitudes of the old and new economies are symbolized by the incongruities mentioned, emphasizing the danger of mixing the two. This verse serves as a reminder of the clash between the rigid religious customs and the inclusive nature of Jesus' teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The incongruities mentioned in Luke 5:36-38 were intended to illustrate the difference between the genius of the old and new economies, and the danger of mixing up the one with the other."
 2. "By a mongrel mixture of the ascetic ritualism of the old with the spiritual freedom of the new economy, both are disfigured and destroyed."
 3. "The 'new wine' seems plainly to be the evangelical freedom which Christ was introducing; and the old, the opposite spirit of Judaism: men long accustomed to the latter could not be expected 'straightway'—all at once—to take a liking for the former."
@@ -30,4 +30,4 @@ In this verse, religious leaders express their disapproval towards Jesus and his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

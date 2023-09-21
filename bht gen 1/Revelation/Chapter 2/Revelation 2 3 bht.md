@@ -4,7 +4,7 @@
 This verse describes a community that has endured reproach and hardship with unwavering faith and determination. They have not grown weary in their labor or loyalty to their beliefs. Their patience and perseverance have been a testament to their unwavering commitment to their faith, as they have borne trials and tribulations with constancy and cheerfulness. Their endurance and unwavering dedication to the truth have been a source of inspiration to others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thou hast borne My reproach, but thou canst not bear the evil." - This quote highlights the beautiful antithesis in the verse, emphasizing the contrast between enduring reproach and being unable to bear evil.
 
 2. "Thou hast not been wearied out with labor." - This quote explains the intended meaning behind the seeming contradiction in the verse, clarifying that the lack of labor mentioned refers to not being wearied out by it.
@@ -44,4 +44,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

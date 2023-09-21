@@ -4,7 +4,7 @@
 The verse at hand entails a warning against teachings that deviate from sound doctrine and induce discontent. These false doctrines result in insubordination and a disregard for the teachings of Christ. However, it is crucial to adhere to the correct teachings, as they promote a healthy, nourishing understanding of the Gospel. These teachings lead to a life of godliness, enabling believers to grow spiritually and exhibit strict practical holiness. They are words that reject falsehood and encourage a true pursuit of piety.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Every one who teaches otherwise, that is, who teaches heterodoxy."
 2. "Wholesome, opposed to the false teachers' words, unsound through profitless science and immorality."
 3. "Paul's inspired words are not merely his own, but are also Christ's words."
@@ -48,4 +48,4 @@ The verse at hand entails a warning against teachings that deviate from sound do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

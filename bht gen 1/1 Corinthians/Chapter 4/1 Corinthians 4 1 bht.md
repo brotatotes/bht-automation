@@ -9,7 +9,7 @@ The verse describes the role of ministers as servants and stewards of Christ. Th
 2. "The Church is the οἶκος θεοῦ and those appointed to minister in it are stewards and dispensers of the property and stores of the οἰκοδεσπότης."
 3. "These [μυστήρια] are the hidden treasures of God, i.e. the riches of his grace, now manifested in Christ, which they announce and distribute to all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The headship belongs to Christ alone; we are but His servants ministering to you."
 2. "Not the depositories of grace, but dispensers of it, 'rightly dividing' or dispensing it, so far as God gives us it, to others."
 3. "The minister's office is to 'preach' the deep truths of God, so far as they have been revealed, and so far as his hearers are disposed to receive them."
@@ -56,4 +56,4 @@ The verse describes the role of ministers as servants and stewards of Christ. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

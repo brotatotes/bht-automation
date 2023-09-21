@@ -4,7 +4,7 @@
 In this verse, the redeemed humbly refer to themselves in the third person, highlighting their deep self-abasement. They anticipate reigning over the new earth, as symbolized by the golden crowns worn by the elders. This reign of the saints, which begins after the first resurrection and continues into eternity, reflects God's ultimate plan and the eschatological hope of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Hebrew construction of the third person for the first, has a graphic relation to the redeemed, and also has a more modest sound than us, priests." 
 2. "They who cast their crowns before the throne, do not call themselves kings in the sight of the great King; though their priestly access has such dignity that their reigning on earth cannot exceed it."
 3. "ALFORD takes this reading and explains it of the Church EVEN NOW, in Christ her Head, reigning on the earth: 'all things are being put under her feet, as under His; her kingly office and rank are asserted, even in the midst of persecution.'"
@@ -42,4 +42,4 @@ Note: The provided commentary is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

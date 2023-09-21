@@ -9,7 +9,7 @@ This verse speaks of the transformation from our mortal and corruptible state to
 2. "τὸ φθ. τοῦτο … τὸ θν. τοῦτο" - "this, indicating his own body."
 3. "ἐνδύσασθαι" - "on the figure of putting on."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "put on—as a garment (2 Corinthians 5:2; 2 Corinthians 5:3)." 
 2. "Nowhere is the immortality of the soul, distinct from the body, taught; a notion which many erroneously have derived from heathen philosophers."
 3. "Scripture does not contemplate the anomalous state brought about by death, as the consummation to be earnestly looked for (1 Timothy 6:16- :), but the resurrection."
@@ -50,4 +50,4 @@ This verse speaks of the transformation from our mortal and corruptible state to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

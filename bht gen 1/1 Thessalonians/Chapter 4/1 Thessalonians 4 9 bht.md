@@ -9,7 +9,7 @@ This verse speaks of the believers' responsibility to show love and kindness to 
 2. "It conveys tacit but gentle reproof. The knowledge and the practice already exist: but the latter is not quite in proportion to the former."
 3. "The stress of the sentence is on αὐτοὶ ὑμεῖς, not on the θεο- in θεοδίδακτοι, as Olsh., 'where God teaches, there, the Apostle says, he may be silent: but as Lün. observes, the θεο- comes in over and above as it were; διδακτοί would convey the fact: θεοδίδακτοι = διδακτοί, κ. ταῦτα παρὰ θεοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "brotherly love, c.—referring here to acts of brotherly kindness in relieving distressed brethren."
 2. "We need not write, as ye yourselves are taught, and that by God: namely, in the heart by the Holy Spirit."
 3. "Divine teachings have their confluence in love."
@@ -57,4 +57,4 @@ These quotes emphasize the unique nature of brotherly love among believers, the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is about Abraham's faith, specifically how it was acco
 2. "It was reckoned to him for righteousness." 
 3. "Besides being thus great and admirable, it was reckoned to him for righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let all then take notice that this was not because of anything meritorious in Abraham, but merely because he so believed."
 2. "It is not our works that make us righteous before God, but our faith in Him."
 3. "Abraham's belief in God's promises was counted as righteousness, showing us that faith is the key to our relationship with God."
@@ -38,4 +38,4 @@ The verse being described is about Abraham's faith, specifically how it was acco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

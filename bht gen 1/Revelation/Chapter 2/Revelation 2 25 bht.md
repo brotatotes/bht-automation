@@ -4,7 +4,7 @@
 In this verse, there is a call to hold fast to the faithful word, the sound doctrine of faith that is integral to the Gospel. The exhortation emphasizes the need to persevere in the face of opposition and false teachings, staying firm in the truth until the time of the Lord's coming. It highlights the shared responsibility and partnership between the angel and the church, suggesting that they must work in harmony to uphold the truth and fulfill their mutual mission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hold fast—do not let go from your grasp, however false teachers may wish to wrest it from you."
 2. "Till I come—when your conflict with evil will be at an end."
 3. "The Greek implies uncertainty as to when He shall come."
@@ -40,4 +40,4 @@ In this verse, there is a call to hold fast to the faithful word, the sound doct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

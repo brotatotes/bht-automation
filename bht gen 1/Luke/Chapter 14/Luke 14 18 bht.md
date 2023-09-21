@@ -4,7 +4,7 @@
 In this Bible verse, people are depicted as making excuses when invited to an important event. Commentators note that these excuses vary but all serve the same purpose of putting off the invitation. Some excuses are motivated by the cares and pleasures of the world, while others claim a necessity or other pressing obligations. These excuses are seen as reflections of worldly priorities and a lack of spiritual commitment. The commentators emphasize that God does not approve of these excuses and calls for seeking His kingdom first, even when faced with worldly demands or distractions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Three excuses, given as specimens of the rest, answer to 'the care of this world,' 'the deceitfulness of riches,' and 'the pleasures of this life,' which 'choke the word.'"
 2. "Each differs from the other, and each has its own plausibility, but all come to the same result: 'We have other things to attend to, more pressing just now.'"
 3. "Nobody is represented as saying, I will not come; nay, all the answers imply that but for certain things they would come, and when these are out of the way they will come."
@@ -46,4 +46,4 @@ In this Bible verse, people are depicted as making excuses when invited to an im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, there is a depiction of a powerful coalition formed by the dragon, the beast, and the false prophet. The dragon represents Satan, while the beast symbolizes a force that opposes Christ. The false prophet, on the other hand, works to deceive and undermine the truth. Together, these three forces seek to gather the kings of the world in support of their cause, unleashing lies, deceit, and opposition to God. Their ultimate aim is to challenge and defy God's authority throughout creation, redemption, and sanctification.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beginning with infidelity as to Jesus Christ's coming in the flesh, men shall end in the grossest idolatry of the beast, the incarnation of all that is self-deifying and God-opposed in the world powers of all ages."
 2. "They talk of liberty, but it is not Gospel liberty, but license for lust."
 3. "The dragon, the beast, and the false prophet, 'the mystery of iniquity,' form a blasphemous Antitrinity, the counterfeit of 'the mystery of godliness' God manifests in Christ, witnessed to by the Spirit."
@@ -53,4 +53,4 @@ Note: The provided commentary is incomplete and does not provide a specific vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

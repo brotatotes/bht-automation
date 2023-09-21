@@ -9,7 +9,7 @@ In the verse described by these commentators, an aged man named Simeon rejoices 
 2. "Bleek thinks that there is no such allusion, but that the word is used absolutely." - Bleek
 3. "as in Genesis 15:2; Numbers 20:29."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lord—"Master," a word rarely used in the New Testament, and selected here with peculiar propriety, when the aged saint, feeling that his last object in wishing to live had now been attained, only awaited his Master's word of command to 'depart.'" 
 
 2. "now lettest, c.—more clearly, 'now Thou art releasing Thy servant' a patient yet reverential mode of expressing a desire to depart." 
@@ -50,4 +50,4 @@ In the verse described by these commentators, an aged man named Simeon rejoices 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we learn about the final doom and eternal torment of Satan and his cohorts. They are cast into the lake of fire and brimstone, experiencing continuous and unceasing torment day and night for all eternity. This punishment represents the perfect security of believers and the complete triumph of the gospel. It is a testament to their unchangeable choice of evil and the everlasting consequences they face. The everlasting nature of their punishment ensures no relief or respite as they are tormented without intermission.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "lake of fire—his final doom: as 'the bottomless pit' was his temporary prison."
 2. "day and night—figurative for without intermission, such as now is caused by night interposing between day and day."
 3. "Satan shall not be permitted to enter this Paradise regained, to show the perfect security of believers, unlike the first Adam whom Satan succeeded in robbing of Paradise; and shall, like Pharaoh at the Red Sea, receive in this last attempt his final doom."
@@ -38,4 +38,4 @@ In this verse, we learn about the final doom and eternal torment of Satan and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

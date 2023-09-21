@@ -9,7 +9,7 @@ In the verse, one commentator emphasizes that Jesus' death was a selfless act, d
 2. "In the death of Christ, all, the all for whom He died, died too: became planted in the likeness of His death, died to sin and to self, that they might live to Him."
 3. "He died for all, in order that they who live should no longer live to themselves but to Him that died and rose again for them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He died in their stead, He arose again for their good, 'for (the effecting of) their justification' (Romans 4:25), and that He might be their Lord (Romans 14:7-9)." 
 2. "Christ's death is our death, so His resurrection is our resurrection; Greek, 'Who for them died and rose again.'"
 3. "Now that His death for them has taken place, and that they know that His death saves them from death eternal, and His resurrection life brings spiritual and everlasting life to them."
@@ -40,4 +40,4 @@ In the verse, one commentator emphasizes that Jesus' death was a selfless act, d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

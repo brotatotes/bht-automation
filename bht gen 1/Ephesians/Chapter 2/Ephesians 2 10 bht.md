@@ -11,7 +11,7 @@ This verse highlights that believers are not the result of their own efforts, bu
 
 3. "God before prepared that we should walk in them." - This statement implies that God has already planned and prepared the good works that believers are called to walk in. It emphasizes the divine intentionality behind our actions and the guidance of God's providence in our lives.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Good works" cannot be performed until we are new "created unto" them.
 2. We are not saved by, but created unto, good works.
 3. God marks out for each in His purposes beforehand, the particular good works, and the time and way which He sees best.
@@ -55,4 +55,4 @@ This verse highlights that believers are not the result of their own efforts, bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

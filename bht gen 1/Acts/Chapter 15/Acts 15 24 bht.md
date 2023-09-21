@@ -9,7 +9,7 @@ This passage portrays the turmoil caused by unauthorized individuals who spread 
 2. "ἀνασκ. implies turning up the foundations."
 3. "The defence of the clause set up by Meyer and De Wette, that if interpolated it must be from Acts 15:5, not from Acts 15:1, and that this is improbable, is best answered by observing that in E, one of the principal authorities for the insertion, the δεῖ after περιτέμνεσθαι betrays in very fact that the interpolation was from Acts 15:5, as also, but in a less degree, does the λέγοντες."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Certain which went out from us have troubled you with words—without authority or even knowledge of the church at Jerusalem." This quote highlights the unauthorized nature of the individuals who were causing trouble, emphasizing their lack of authority and knowledge.
 2. "Though they belonged to it, and probably pretended to represent its views." This quote suggests that the troublemakers may have falsely claimed to represent the church in Jerusalem, further emphasizing their deceitful actions.
 3. "Such strong language is evidently designed to express indignation at this attempt, by an unauthorized party, to bring the whole Christian Church under judicial and legal bondage." This quote reveals the strong emotional response of the writer, expressing their anger and frustration at the attempt to impose legal restrictions on the Christian Church.
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The parable being described focuses on two groups of people called to work in th
 
 Note: The commentary is quite lengthy, so I had to condense it significantly to fit within the word limit.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True religion is a practical thing, a 'bringing forth fruit unto God.'" This quote emphasizes the importance of putting one's faith into action and living out the principles of religion in daily life.
 
 2. "A certain man had two sons." This quote highlights the parable's central characters and sets the stage for the story that follows.
@@ -37,4 +37,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

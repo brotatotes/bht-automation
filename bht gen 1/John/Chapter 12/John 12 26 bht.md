@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the call to actively serve and follow 
 2. "εἰμί, the essential present in My true place, i.e. in the glory of the Father."
 3. "τιμήσει by glorifying him in My glorification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man serve me, let him follow me; and where I am, there shall also my servant be." - This quote emphasizes the importance of following Jesus and being where He is. It highlights the idea that true service to Jesus involves a personal commitment to be with Him and to align one's life with His teachings and example.
 
 2. "If any man serve me, him will my Father honour." - This quote reveals the promise of honor and recognition from God the Father for those who serve Jesus. It suggests that true service to Jesus is not in vain, but rather leads to divine favor and approval.
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the call to actively serve and follow 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

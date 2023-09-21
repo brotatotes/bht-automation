@@ -4,7 +4,7 @@
 Nay, but who art thou, O man, that repliest against God? Shall the thing formed say unto him that formed it, Why hast thou made me thus? These powerful words from various commentators remind us of our limited understanding and the audacity of questioning God's intentions and actions. They highlight the humility and insignificance of human beings in comparison to God, emphasizing the futility and arrogance of challenging His ways. We are reminded to trust in God's wisdom and sovereignty, humbly submitting to His will without questioning His fairness or justice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nay but, O man, who art thou that repliest against God?" - This quote reminds us of our limited understanding and the audacity of questioning God's intentions and actions. It humbles us and reminds us of our place in relation to the Almighty.
 
 2. "Shall the thing formed say to him that formed it, Why hast thou made me thus?" - This quote emphasizes the absurdity of a created being questioning its Creator. It highlights the sovereignty and wisdom of God in His creation, reminding us that we are not in a position to challenge His divine plan.
@@ -56,4 +56,4 @@ Nay, but who art thou, O man, that repliest against God? Shall the thing formed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

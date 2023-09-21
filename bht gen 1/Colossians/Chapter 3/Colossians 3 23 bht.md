@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the importance of working with since
 2. "The datives may be taken as of reference, or commodi."
 3. "‘doing things unto men’ is to be laid aside altogether, not merely less practised than the other: “as workers to the Lord and non-workers to men,” Ellic."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatsoever ye do, work at it" - This quote emphasizes the importance of putting effort and dedication into everything we do, rather than just going through the motions.
 2. "Not from servile constraint, but with hearty good will" - This quote highlights the significance of having a genuine and enthusiastic attitude towards our work, rather than feeling obligated or forced to do it.
 3. "Compare the same principle in the case of all men" - This quote suggests that the principle of wholeheartedness in work applies to everyone, not just to the believers addressed in the verse.
@@ -45,4 +45,4 @@ In this Bible verse, commentators emphasize the importance of working with since
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

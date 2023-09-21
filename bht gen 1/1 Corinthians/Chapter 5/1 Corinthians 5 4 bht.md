@@ -9,7 +9,7 @@ In this verse, we see that the apostle Paul exercises a special power given to h
 2. "The congregation itself could αἴρειν ἐκ μέσου, but it could not παραδοῦναι τῷ σατανᾷ εἰς ὄλεθρον τῆς σαρκός, without the authorized concurrence of the Apostle’s πνεύματος, σὺν τῇ δυν. τ. κυρ. ἡμ. Ἰησοῦ."
 3. "What the ὄλεθρος τ. σαρκός was to be, does not appear: certainly more than the mere destruction of his pride and lust by repentance, as some suppose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the name of our Lord Jesus Christ—By His authority and as representing His person and will." 
 2. "Christ's power was promised to be present with HIS Church 'gathered together in His name.'" 
 3. "This power of infallible judgment was limited to the apostles; for they alone had the power of working miracles as their credentials to attest their infallibility."
@@ -41,4 +41,4 @@ In this verse, we see that the apostle Paul exercises a special power given to h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

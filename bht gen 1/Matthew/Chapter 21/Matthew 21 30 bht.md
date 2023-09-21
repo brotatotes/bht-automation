@@ -4,7 +4,7 @@
 This verse describes the response of someone who initially expresses willingness to obey but fails to follow through with action. Commentators highlight the dangers of self-righteous complacency, hypocrisy, and the insincerity of mere words. They emphasize that true obedience to God goes beyond empty promises and requires genuine commitment and alignment of actions with words. The verse serves as a warning against pride, hypocrisy, and the importance of wholehearted obedience in the service of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The emphatic 'I,' here, denotes the self-righteous complacency which says, 'God, I thank thee that I am not as other men'." 
 2. "He did not 'afterward repent' and refuse to go; for there was here no intention to go. It is the class that 'say and do not'." 
 3. "A falseness more abominable to God, says STIER, than any 'I will not'."
@@ -33,4 +33,4 @@ This verse describes the response of someone who initially expresses willingness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

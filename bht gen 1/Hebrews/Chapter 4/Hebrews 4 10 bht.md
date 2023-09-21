@@ -4,7 +4,7 @@
 This verse speaks of a rest that goes beyond mere physical or temporal rest, but rather a spiritual and eternal rest that believers will experience in the presence of God. It serves as a reminder that our journey of faith is not yet complete until we enter into this ultimate rest that God has prepared for us. This rest encompasses freedom from the toils and struggles of this world, liberation from sin and its consequences, and a deep sense of peace and joy found in the perfect presence of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our highest happiness shall, according to this verse, consist in our being united in one with God, and moulded into conformity with Him as our archetype." 
 2. "Labor was followed by rest even in Paradise." 
 3. "He who once enters rest, rests from labors; but God's people have not yet rested from them, therefore they have not yet entered the rest, and so it must be still future."
@@ -54,4 +54,4 @@ These quotes emphasize that the rest mentioned in the verse refers to Jesus ente
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

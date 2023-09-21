@@ -4,7 +4,7 @@
 In this particular Bible verse, Jesus challenges conventional understanding of death by comparing it to sleep. He emphasizes that death is not a permanent state but rather a temporary interruption, signifying the possibility of resurrection or renewal. Jesus distinguishes between sleep and death, pointing towards a future resurrection. The scene unfolds with a crowd kept outside while Jesus speaks inside, dismissing those who mock his intentions. This verse showcases the brevity of death, as Jesus states that the damsel is not dead, but sleepeth, indicating that she will be awakened to a new life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why make ye this ado, and weep? the damsel is not dead, but sleepeth." - This quote highlights Jesus' understanding of death as a temporary state, comparing it to sleep. It suggests that death is not the end, but rather a transition to another state of being.
 
 2. "So brief her state of death as to be more like a short sleep." - This quote emphasizes the brevity of death and the idea that it is not a permanent condition. It suggests that death is merely a temporary interruption before the person is awakened to a new life.
@@ -35,4 +35,4 @@ In this particular Bible verse, Jesus challenges conventional understanding of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

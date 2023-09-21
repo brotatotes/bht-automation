@@ -9,7 +9,7 @@ In this Bible verse, it is emphasized that God cannot be deceived or mocked by h
 2. "There is no such thing as mocking of God in reality."
 3. "This (emphatic, this and nothing else) shall he also (by the same rule) reap, viz. eventually, at the great harvest."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God does not suffer Himself to be imposed on by empty words: He will judge according to works, which are seeds sown for eternity of either joy or woe."
 2. "Excuses for illiberality in God's cause seem valid before men, but are not so before God."
 3. "Reap at the harvest, the end of the world."
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

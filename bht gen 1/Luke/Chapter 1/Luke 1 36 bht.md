@@ -9,7 +9,7 @@ This Bible verse describes the relationship between Mary and Elisabeth without s
 2. "What relation, no where appears in Scripture: and traditions are not worth recounting."
 3. "Elisabeth was of the tribe of Levi: but this need not hinder connexion by marriage with other tribes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thy cousin" - The term "cousin" here refers to a relative, but the exact degree of closeness is not specified. 
 
 2. "Conceived, &c." - This unexpected sign of conception was given to Mary as a reward for her faith. 
@@ -54,4 +54,4 @@ This Bible verse describes the relationship between Mary and Elisabeth without s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

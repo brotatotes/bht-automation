@@ -9,7 +9,7 @@ This verse portrays the magnificent power and authority of God as displayed thro
 2. "Thy throne, O God (ὁ θεός is probably vocative), for ever and ever."
 3. "Thou lovedst righteousness, and hatedst lawlessness, for this cause God, thy God, anointed thee with the oil of rejoicing beyond thy fellows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He maketh His angelic ministers the directing powers of winds and flames, when these latter are required to perform His will."
 2. "English Version, 'maketh His angels spirits,' means, He maketh them of a subtle, incorporeal nature, swift as the wind."
 3. "The translation, 'maketh winds His messengers, and a flame of fire His ministers (!),' is plainly wrong."
@@ -55,4 +55,4 @@ This verse portrays the magnificent power and authority of God as displayed thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The Bible verse being described is a prayer by the apostle Paul for believers to
 2) "Christ may dwell by your faith in your hearts." 
 3) "That ye may be fully able to comprehend with all the saints what is the breadth and length and height and depth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not 'according to' the narrowness of our hearts." 
 2. "Strengthened with all might according to His glorious power." 
 3. "The 'inner (new) man,' their true self, stands in contrast to their old man, which is attached to them as a body of death daily being mortified, but not their true self."
@@ -55,4 +55,4 @@ The Bible verse being described is a prayer by the apostle Paul for believers to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

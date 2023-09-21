@@ -9,7 +9,7 @@ The verse in question depicts a mighty angel, possessing great strength and a po
 2. "No one was able, in heaven, nor yet upon the earth, nor yet under the earth, to open the book, nor yet to look on it."
 3. "The claim to open the book must be founded on a claim of worthiness to see that which was contained in it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His voice penetrated heaven, earth, and Hades." 
 2. "His voice was powerful and all-encompassing, reaching every corner of existence." 
 3. "The strength of his voice was a testament to his authority and power."
@@ -49,4 +49,4 @@ These quotes highlight the significance of the strong angel in delivering the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

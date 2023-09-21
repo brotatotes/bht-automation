@@ -4,7 +4,7 @@
 With an emphasis on personal experience, those who have faith in Jesus Christ bear witness to their belief. Rejecting God's testimony, on the other hand, amounts to accusing Him of falsehood and doubting the credibility of His word. Such disbelief disregards God's explicit declarations and calls into question the integrity of His testimony.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The witness of the Spirit in the believer himself to his own sonship is not here expressed, but follows as a consequence of believing the witness of God to Jesus' divine Sonship."
 2. "Refusal to credit God's testimony ('believeth not God') is involved in refusal to believe IN (to rest one's trust in) Jesus Christ, the object of God's record or testimony."
 3. "Divine 'faith' is an assent unto something as credible upon the testimony of God. This is the highest kind of faith; because the object hath the highest credibility, because grounded upon the testimony of God, which is infallible."
@@ -52,4 +52,4 @@ Note: The provided commentary is longer than the allowed word count. I have sele
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

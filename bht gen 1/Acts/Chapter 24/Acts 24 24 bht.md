@@ -9,7 +9,7 @@ In this verse, we encounter a woman named Drusilla who was the daughter of Herod
 2. "Not long after, Felix, being enamoured of her beauty, persuaded her, by means of a certain Simon, a Cyprian magician, to leave her husband and live with him."
 3. "She bore him a son, Agrippa: and both mother and son perished in an eruption of Vesuvius, in the reign of Titus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Felix . . . with his wife Drusilla . . . a Jewess—This beautiful but infamous woman was the third daughter of Herod Agrippa I, who was eaten of worms." 
 2. "Perceiving from what he had heard on the trial that the new sect which was creating such a stir was represented by its own advocates as but a particular development of the Jewish faith, he probably wished to gratify the curiosity of his Jewish wife, as well as his own, by a more particular account of it from this distinguished champion." 
 3. "And no doubt Paul would so far humor this desire as to present to them the great leading features of the Gospel. But from Acts 24:25 it is evident that his discourse took an entirely practical turn, suited to the life which his two auditors were notoriously leading."
@@ -43,4 +43,4 @@ In this verse, we encounter a woman named Drusilla who was the daughter of Herod
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

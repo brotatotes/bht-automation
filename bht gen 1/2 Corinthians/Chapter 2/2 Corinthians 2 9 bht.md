@@ -9,7 +9,7 @@ The verse under consideration in these commentaries focuses on the purpose of th
 2. "For to this end I also wrote: the καί signifying that my former epistle, as well as my present exhortation, tended to this, viz. the testing your obedience."
 3. "That I might know the proof of you, whether in all things (emphatic) ye are obedient."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They should restore the offender, namely, as a 'proof' of their obedience 'in all things'; now in love, as previously in punishing."
 2. "Besides his other reasons for deferring his visit, he had the further view, though, perhaps, unperceived by them, of making an experiment of their fidelity."
 3. "This full discovery of his motive comes naturally from him now, in the second Epistle, after he had seen the success of his measures, but would not have been a seasonable communication before."
@@ -52,4 +52,4 @@ The verse under consideration in these commentaries focuses on the purpose of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

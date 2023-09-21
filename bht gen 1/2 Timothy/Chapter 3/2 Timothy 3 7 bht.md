@@ -4,7 +4,7 @@
 This passage captures the struggle of those who are constantly seeking knowledge but are unable to find the truth. It warns against the dangers of acquiring information without a solid foundation of truth and emphasizes the emptiness of their pursuit. These seekers of knowledge are described as wandering, hypnotized, and proud intellectuals, yet they are unable to arrive at the knowledge of the truth they seek. The passage also highlights the importance of seeking spiritual wisdom alongside worldly knowledge and reminds us that true knowledge should lead us closer to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ever learning—some new point, for mere curiosity, to the disparagement of what they seemed to know before." 
 2. "The knowledge—the perfect knowledge; the only safeguard against further novelties." 
 3. "Gnosticism laid hold especially of the female sex: so Roman Jesuitism."
@@ -53,4 +53,4 @@ These quotes collectively shed light on the superficiality and emptiness of thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

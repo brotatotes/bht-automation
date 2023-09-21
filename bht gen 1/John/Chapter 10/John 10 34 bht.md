@@ -9,7 +9,7 @@ This verse speaks to the inherent worth and divine potential within each human b
 2. "The Psalm (82) is directed against the injustice and tyranny of judges in Israel."
 3. "And in the Psalm reference is made by εἶπα to previous places of Scripture where judges are so called, viz. Exodus 21:6 ; Exodus 22:9 ; Exodus 22:28."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is it not written in your law—in Psalms 82:6, respecting judges or magistrates." 
 2. "Ye are gods—being the official representatives and commissioned agents of God."
 
@@ -53,4 +53,4 @@ This verse speaks to the inherent worth and divine potential within each human b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

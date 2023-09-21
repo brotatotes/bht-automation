@@ -4,7 +4,7 @@
 This verse highlights the diverse and varied spiritual gifts bestowed upon believers. These gifts are of different types, functions, and operations, all originating from the same Holy Spirit. The unity of the Church is represented through the combination and harmony of these diverse gifts, analogous to different sounds in music coming together to create harmony. Each gift is significant and should not be despised, as they all serve a purpose within the body of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "diversities of gifts—that is, varieties of spiritual endowments peculiar to the several members of the Church"
 2. "The Holy Trinity appears here: the Holy Spirit in this verse; Christ in 1 Corinthians 12:5; and the Father in 1 Corinthians 12:6."
 3. "The terms 'gifts,' 'administrations,' and 'operations,' respectively correspond to the Divine Three."
@@ -47,4 +47,4 @@ This verse highlights the diverse and varied spiritual gifts bestowed upon belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

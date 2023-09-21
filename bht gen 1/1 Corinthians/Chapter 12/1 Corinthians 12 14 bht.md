@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the interconnectedness and interdepe
 2. "They must not, because they did not happen to possess the gifts of another, consider themselves excluded from the body, in which the weaker as well as the stronger, the less comely as well as the more comely members were necessary."
 3. "The passage is also illustrated by Seneca de Ira, ii. 31, 'Quid si nocere velint manus pedibus, manibus oculi? Ut omnia inter se membra consentiunt, quia singula servari totius interest: ita homines singulis parcent, quia ad cœlum geniti sumus: salva autem esse societas nisi amore et custodia partium non potest.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The analogy of the body, not consisting exclusively of one, but of many members, illustrates the mutual dependence of the various members in the one body, the Church."
 2. "The well-known fable of the belly and the other members, spoken by Menenius Agrippa, to the seceding commons, was probably before Paul's mind, stored as it was with classical literature."
 3. "The analogy of the body emphasizes the interconnectedness and interdependence of the members of the Church."
@@ -38,4 +38,4 @@ In this Bible verse, commentators emphasize the interconnectedness and interdepe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

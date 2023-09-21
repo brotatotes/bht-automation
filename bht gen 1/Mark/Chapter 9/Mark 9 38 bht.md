@@ -9,7 +9,7 @@ In this passage, John Wesley's commentary challenges the disciples' exclusivity 
 2. "This man actually did what the very Apostles themselves were specially appointed to do: and our Lord, so far from prohibiting, encourages him."
 3. "The connexion of this remark with what goes before, is: 'If the receiving any one, even a little child, in thy Name, be receiving Thee; were we doing right when we forbade one who used thy Name, but did not follow us?'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We saw one casting out devils in thy name, and he followeth not us: and we forbade him, because he followeth not us." - John is questioning whether they were right in forbidding someone from casting out demons in Jesus' name because he was not part of their group.
 2. "Ye were wrong." - Jesus responds to John's question, affirming that they were indeed wrong in forbidding the man from casting out demons.
 3. "No matter." - Jesus dismisses the reason given by John for forbidding the man, emphasizing that what matters is that the man was able to perform miracles in Jesus' name.
@@ -57,4 +57,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

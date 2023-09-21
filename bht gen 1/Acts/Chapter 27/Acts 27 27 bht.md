@@ -9,7 +9,7 @@ In the midst of a relentless storm, the sailors aboard a ship find themselves to
 2. "What gave rise to this suspicion? Probably the sound (or even the apparent sight) of breakers."
 3. "If we assume that St. Paul’s Bay, in Malta, is the actual scene of the shipwreck, we can have no difficulty in explaining what these indications must have been."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When the fourteenth night was come... as we were driven... up and down in Adria" - This highlights the intense and prolonged struggle the sailors faced, being tossed around by the storm for two weeks in the Adriatic Sea.
 2. "About midnight the shipmen deemed... that they drew near some country" - This shows the sailors' growing awareness that land was approaching, adding a sense of anticipation and hope amidst the chaos of the storm.
 3. "This nautical language gives a graphic character to the narrative" - The use of specific nautical terms and descriptions adds vividness and realism to the story, making it more relatable and engaging for the readers.
@@ -50,4 +50,4 @@ These quotes highlight the challenging and uncertain journey the sailors were ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

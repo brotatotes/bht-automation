@@ -9,7 +9,7 @@ The verse being described is about the role of preachers as representatives of C
 2. "The gospel remains with its inherent virtue, whether some are saved or some are perishing." 
 3. "Just as light, even though it may darken the weak, is still light, and just as honey, even though it may be bitter to the sick, is still sweet by nature, so the gospel is fragrant, even though some may reject it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We not only scatter the savor; but 'we are the sweet savor' itself."
 2. "As the light, though it blinds in darkness the weak, is for all that still light; and honey, though it taste bitter to the sick, is in itself still sweet; so the Gospel is still of a sweet savor, though many perish through unbelief."
 3. "As some of the conquered foes led in triumph were put to death when the procession reached the capitol, and to them the smell of the incense was the 'savor of death unto death,' while to those saved alive, it was the 'savor of life,' so the Gospel was to the different classes respectively."
@@ -57,4 +57,4 @@ The verse being described is about the role of preachers as representatives of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

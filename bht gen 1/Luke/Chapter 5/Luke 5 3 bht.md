@@ -4,7 +4,7 @@
 In this verse, Christ takes advantage of being on a boat to teach the crowd gathered by the shore. He asks Simon, later known as Peter, for the favor of putting the boat out a little way from the shore. Simon and the other disciples obey, executing Christ's command, and they put the boat at a convenient distance for the crowd to hear the teachings. This method of teaching from a boat allows the message to reach the people without the boat disappearing from sight or hearing.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ship was the Lord's pulpit, and the sea the congregation; the ship was the school, and the disciples the scholars; the ship was the church, and the disciples the members. It was a strange sight, to see Christ teaching in a ship, and the disciples learning in a ship; but it was a sight that became him, and became them." 
 
 2. "The ship was a type of the church, and the sea of this world; and Christ's teaching his disciples in the ship, and their learning of him in the ship, was a type of the ministry of the word in the church, and the people's receiving instruction from it in the church."
@@ -44,4 +44,4 @@ In this verse, Christ takes advantage of being on a boat to teach the crowd gath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

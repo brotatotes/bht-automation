@@ -4,7 +4,7 @@
 In this verse, a great voice of praise echoes in heaven, as the power of God is manifested in the destruction of Babylon. The word "Hallelujah" resounds, meaning "Praise the Lord," a significant anthem of praise in Jewish tradition. The inhabitants of heaven join in this song, celebrating the final triumph of the gospel and the overthrow of the enemies of the church. The verse is a reminder that all honor, glory, and power in the redemption of the world belong to God, and salvation from all foes and for all time is attributed to Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The great manifestation of God's power in destroying Babylon calls forth a great voice of praise in heaven."
 2. "JAH is not a contraction of 'JEHOVAH,' as it sometimes occurs jointly with the latter. It means 'He who Is': whereas Jehovah is 'He who will be, is, and was.'"
 3. "Israel, especially, will join in the Hallelujah, when 'her warfare is accomplished' and her foe destroyed."
@@ -45,4 +45,4 @@ In this verse, a great voice of praise echoes in heaven, as the power of God is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

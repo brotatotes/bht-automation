@@ -9,7 +9,7 @@ In this verse, the writer addresses a person referred to as a "true yoke-fellow,
 2. "help them (Euodia and Syntyche): but not, as Grot., ‘ut habeant, unde se suosque honeste sustentent:’ it is the work of their reconciliation which he clearly has in view, and in which they would need help."
 3. "The Gospel at Philippi was first received by women, and these two must have been among those who, having believed, laboured among their own sex for its spread."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Yea, true yoke-fellow—yoked with me in the same Gospel yoke." 
 2. "Help them, namely, Euodia and Syntyche. Co-operate with them in the work of their reconciliation."
 3. "In selecting the first teachers, those first converted would naturally be fixed on. Euodia and Syntyche were doubtless two of 'the women who resorted to the riverside, where prayer was wont to be made,' and being early converted, would naturally take an active part in teaching other women called at a later period."
@@ -59,4 +59,4 @@ In this verse, the writer addresses a person referred to as a "true yoke-fellow,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under scrutiny is deeply profound. It addresses the departure of Chris
 2. "Holy, as applied to God, peculiarly expresses that penetration of all His attributes by LOVE, which He only who here uttered it sees through in its length, breadth, and height."
 3. "The oneness here is not merely harmony of will or of love, but oneness by the indwelling of the Spirit of Christ, the gift of the covenant, and ultimately oneness of nature."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though My struggles are at an end, theirs are not; though I have gotten beyond the scene of strife, I cannot sever Myself in spirit from them, left behind and only just entering on their great conflict."
 2. "His appeal was to that perfection of the Father's nature, to 'keep' or preserve them from being tainted by the unholy atmosphere of 'the world' they were still in."
 3. "In the exercise of that gracious and holy character for which He was known."
@@ -57,4 +57,4 @@ The verse under scrutiny is deeply profound. It addresses the departure of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

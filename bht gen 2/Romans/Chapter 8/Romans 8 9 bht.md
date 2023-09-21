@@ -10,7 +10,7 @@ The Bible verse emphasizes the transformative power of the Holy Spirit in the li
 3. "The Spirit of Christ, the Holy Spirit indwelling in the Christian."
 4. "He is not His, belongs not to Him, in the higher and blessed sense of being united to Him as a member of Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To be 'in the spirit' means here to be under the dominion of our own renewed mind because the indwelling of God's Spirit is given as the evidence that we are 'in the spirit'."
 2. "It is as 'the Spirit of Christ' that the Holy Ghost takes possession of believers, introducing into them all the gracious, dove-like disposition which dwelt in Him."
 3. "Now if any man's heart be void, not of such dispositions, but of the blessed Author of them, 'the Spirit of Christ', he is none of his."
@@ -62,4 +62,4 @@ The Bible verse emphasizes the transformative power of the Holy Spirit in the li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse underscores the extraordinary power bestowed upon Jesus' disciples, e
 
 3. "This verse reminds us that God's gifts are not transactional, but rather a result of His abundant love and grace. We cannot earn or deserve them, but we can receive them with gratitude and use them for His glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Here we have the first communication of supernatural power by Christ Himself to His followers—thus anticipating the gifts of Pentecost."
 2. "freely ye have received, freely give—Divine saying, divinely said!"
 3. "It reminds us of that other golden saying of our Lord, rescued from oblivion by Paul, 'It is more blessed to give than to receive'."
@@ -49,4 +49,4 @@ These quotes highlight the significance of Jesus imparting supernatural power to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

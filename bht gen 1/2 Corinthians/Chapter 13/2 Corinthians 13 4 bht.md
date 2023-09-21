@@ -9,7 +9,7 @@ This verse highlights the paradox of Jesus' crucifixion, describing it as an act
 2. "In our communion with and imitation of Christ, we lay aside our power and spare you." 
 3. "We shall live with Him from the power of God with respect to you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For He was even crucified" - This quote highlights the significance of Jesus' crucifixion, emphasizing that it was not a mere possibility but a reality that He willingly embraced.
 2. "His assumption of our weakness was the source...from which the possibility of His crucifixion flowed" - This quote explains how Jesus' choice to take on our human weakness made His crucifixion possible, underscoring the depth of His sacrifice.
 3. "Weakness predominates in us for a time" - This quote acknowledges that as followers of Christ, we may experience weakness and limitations, mirroring His own example during His earthly life.
@@ -50,4 +50,4 @@ This verse highlights the paradox of Jesus' crucifixion, describing it as an act
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

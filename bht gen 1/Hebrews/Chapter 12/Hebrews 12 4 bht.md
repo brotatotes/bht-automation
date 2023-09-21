@@ -11,7 +11,7 @@ The verse under consideration depicts a struggle against sin, with commentators 
 
 3. "The sin in their persecutors, which they were to resist, would, if yielded to, spare their blood by seducing them into apostasy." - The author emphasizes that the readers should also resist the sin in their persecutors, as giving in to that sin would spare their own blood by tempting them to abandon their faith. This highlights the importance of standing firm in the face of external pressures.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye have suffered the loss of goods, and been a gazing-stock by reproaches and afflictions; ye have not shed your blood." 
 2. "The athlete who hath seen his own blood, and who, though cast down by his opponent, does not let his spirits be cast down, who as often as he hath fallen hath risen the more determined, goes down to the encounter with great hope."
 3. "Sin is personified as an adversary; sin, whether within you, leading you to spare your blood, or in our adversaries, leading them to shed it, if they cannot through your faithfulness even unto blood, induce you to apostatize."
@@ -60,4 +60,4 @@ The verse under consideration depicts a struggle against sin, with commentators 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

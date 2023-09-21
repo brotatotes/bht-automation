@@ -9,7 +9,7 @@ In this Bible verse, a powerful event takes place that elicits a deep sense of a
 2. "For they had only been the greatest of prophets who had before raised the dead, Elijah and Elisha."
 3. "The Prophet who was to come was doubtless in their minds."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "visited his people—more than bringing back the days of Elijah and Elisha." 
 2. "THE BAPTIST'S MESSAGE THE REPLY, AND CONSEQUENT DISCOURSE." 
 3. "See on 2 Kings 4:32-12.4.37- :."
@@ -52,4 +52,4 @@ In this Bible verse, a powerful event takes place that elicits a deep sense of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

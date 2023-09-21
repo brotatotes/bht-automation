@@ -4,7 +4,7 @@
 In this verse, the righteous are depicted as sheep placed on the right hand, a position denoting honor and favor, while the goats represent the wicked, positioned on the left hand, symbolizing dishonor and separation from God's favor. The imagery underscores the clear distinction between the two groups, emphasizing the forthcoming judgment that awaits each individual. The sheep, representing the innocent and virtuous, are set apart by the Good Shepherd, who shows affection and respect for them. Conversely, the goats symbolize the impure, graceless individuals who are offensive to Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The placement of the sheep on the right hand signifies honor and favor, as seen in other biblical references." 
 
 2. "In contrast, the goats being placed on the left hand symbolizes dishonor and separation from God's favor." 
@@ -35,4 +35,4 @@ In this verse, the righteous are depicted as sheep placed on the right hand, a p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, commentators describe the future state of believers in heaven. It is portrayed as a place of eternal light, where there is no night, darkness, or need for external sources of illumination. The New Jerusalem represents the ultimate fulfillment of God's plan, where believers will reign eternally, sharing in the divine authority over all things. This everlasting state of bliss is depicted as an eternal day, where God Himself is the everlasting light. It is a place of perfect peace and happiness, representing the culmination of God's promises and the reward for the faithfulness of the saints.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There shall be no night any longer."
 2. "They shall not have need."
 3. "The glory probably transcending that of their reign in heaven with Christ."
@@ -45,4 +45,4 @@ In this verse, commentators describe the future state of believers in heaven. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

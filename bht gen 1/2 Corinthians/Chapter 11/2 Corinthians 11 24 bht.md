@@ -4,7 +4,7 @@
 In this verse, the speaker recounts their experience of enduring severe floggings by the Jews. The mention of "forty stripes save one" indicates the strict observance of the Jewish law, which limited the number of lashes to prevent excessive harm. The repetitive nature of the floggings emphasized the extreme physical suffering endured. Despite having legal protection as a Roman citizen, the speaker found no respite from the relentless persecution inflicted by their own people, highlighting the depth of their suffering.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ordained that not more than forty stripes should be inflicted."
 2. "To avoid exceeding this number, they gave one short of it: thirteen strokes with a treble lash."
 3. "This is one of those minute agreements with Jewish usage, which a forger would have not been likely to observe."
@@ -47,4 +47,4 @@ In this verse, the speaker recounts their experience of enduring severe flogging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

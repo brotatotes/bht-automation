@@ -4,7 +4,7 @@
 In this Bible verse, Jesus deliberately returns to Judea, demonstrating his unwavering commitment to his mission despite opposition and danger. His ministry extends beyond borders and reaches out to people, symbolized by his presence in Perea, "beyond Jordan." The verse depicts a movement and transition, illustrating how Jesus constantly seeks to bring salvation to new regions. The imagery of spiritual darkness and lack of divine guidance emphasizes the vulnerability and need for God's light. Without God's protection, one's safety and well-being are at risk.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us go into Judea again" - Jesus is intentionally choosing to return to Judea, despite the danger and opposition he faced there. This shows his unwavering commitment to his mission and his determination to fulfill God's plan, even in the face of adversity.
 
 2. "He was now in Perea, 'beyond Jordan'" - This geographical detail highlights the extent of Jesus' ministry and his willingness to go wherever he was needed. It also emphasizes the inclusive nature of his mission, reaching out to people beyond the borders of Judea.
@@ -30,4 +30,4 @@ In this Bible verse, Jesus deliberately returns to Judea, demonstrating his unwa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

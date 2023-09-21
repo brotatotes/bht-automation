@@ -11,7 +11,7 @@ In this verse, the writer expresses a profound sense of humility and gratitude t
 
 3. "The contemplation...suggests this ascription of praise." - This quote suggests that reflecting on the Christian reward and the completion of God's plan can lead to a natural response of praising and glorifying God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto our God and Father."
 2. "Not to us, but to Him be the glory."
 3. "Be the glory" of your gift and His gracious recompense.
@@ -49,4 +49,4 @@ In this verse, the writer expresses a profound sense of humility and gratitude t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

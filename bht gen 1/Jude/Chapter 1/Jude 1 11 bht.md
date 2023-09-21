@@ -11,7 +11,7 @@ The verse being described highlights the perilous and condemned state of certain
 
 3. "and perished in the gainsaying of Korah" - The reference to Korah illustrates how they, like Korah, despised God's ordinances and perished as a result.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The root of [Cain's] sin was hatred and envy of the godly, as it is the sin of these seducers."
 2. "Reckless of what it costs, the loss of God's favor and heaven, on they rush after gain like Balaam."
 3. "When we read of Korah perishing by gainsaying, we read virtually also of these perishing in like manner through the same: for the same seed bears the same harvest."
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, and these quotes provide a concise summar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

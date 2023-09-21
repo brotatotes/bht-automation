@@ -9,7 +9,7 @@ In this verse, Jesus confronts the religious leaders about their prioritization 
 2. "A remarkable testimony from our Lord to the divine origin of the Mosaic law."
 3. "Not merely of the Decalogue, as such, for the second command quoted is not in the Decalogue."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Why do ye also transgress the commandment of God by your tradition?" - This question highlights the conflict between man-made traditions and God's commandments, emphasizing the importance of following God's law above all else.
 2. "The tradition they transgress is but man's, and is itself the occasion of heavy transgression" - This statement reveals the negative consequences of prioritizing human traditions over God's commandments, leading to a distortion of true obedience and undermining the authority of God's law.
 3. "Undermining the authority of God's law" - This phrase emphasizes the significance of upholding the authority of God's law and the danger of allowing human traditions to diminish its importance and impact.
@@ -48,4 +48,4 @@ In this verse, Jesus confronts the religious leaders about their prioritization 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the author identifies himself as a servant of Jesus Christ,
 2. "In naming himself a servant of Jesus Christ, he bespeaks their attention as a Christian speaking to Christians: he now further specifies the place which he held by the special calling of God: called, and that to the very highest office, of an apostle; and even more among the Apostles, not one by original selection, but one specially called."
 3. "The genitive is not, as in τὸ εὐαγγέλιον τῆς βασιλείας, Matthew 4:23, one of apposition, but of possession or origin; God’s Gospel. And so, whenever the expression ‘the Gospel of Christ’ occurs, it is not ‘the Gospel about Christ,’ but Christ’s Gospel; that Gospel which flows out of His grace, and is His gift to men."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word here rendered 'servant' means 'bond-servant,' or one subject to the will and wholly at the disposal of another."
 2. "The apostles call themselves, in the same official sense, 'the servants of Christ,' expressing such absolute subjection and devotion to the Lord Jesus as they would never have yielded to a mere creature."
 3. "He was called at one and the same time to the faith and the apostleship of Christ."
@@ -55,4 +55,4 @@ Note: The provided commentary is incomplete and does not specifically mention a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

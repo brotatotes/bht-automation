@@ -4,7 +4,7 @@
 In this verse, we see a vivid description of the downfall of a great city. Artists have tainted their crafts to support corrupted beliefs, and skilled artisans will vanish. The joyful sounds of music will be silenced, echoing the desolation of the city. Even the most intricate musical instruments, like harps, will no longer be heard. In addition, the loss of other professions, like skilled craftsmen and millers, will contribute to the sprawling devastation. Rome's demise is depicted as a place where the wealthy, the ordinary, and the destitute struggle to survive.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Musicians," painters and sculptors, have desecrated their art to lend fascination to the sensuous worship of corrupt Christendom.
 2. Craftsman—artisan.
 
@@ -39,4 +39,4 @@ In this verse, we see a vivid description of the downfall of a great city. Artis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

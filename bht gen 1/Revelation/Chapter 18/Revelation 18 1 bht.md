@@ -4,7 +4,7 @@
 In the book of Revelation, a heavenly scene unfolds as another angel descends from heaven. This angel, different from the previous one mentioned, carries an undeniable authority and power. As he arrives, the earth is bathed in a radiant light, a manifestation of his glory. The significance of his message and mission is immense, as he heralds the impending doom of Babylon. This angel's arrival and the illumination he brings serve as a testament to the magnificence and awe-inspiring nature of the heavenly realm and its divine messengers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And—so Vulgate and ANDREAS."
 2. "But A, B, Syriac, and Coptic omit 'And.'"
 3. "lightened—'illumined.'"
@@ -50,4 +50,4 @@ In the book of Revelation, a heavenly scene unfolds as another angel descends fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

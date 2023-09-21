@@ -9,7 +9,7 @@ In this verse, a scene unfolds where an angel takes burning coals from the altar
 2. "the symbolic precursors of the divine judgments about to be inflicted"
 3. "the intimate connexion between the act of this incense-offering angel and the seven trumpets which follow"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hot coals off the altar cast on the earth symbolize God's fiery judgments about to descend on the Church's foes in answer to the saints' incense-perfumed prayers."
 2. "How marvelous the power of the saints' prayers!"
 3. "Voices, thunderings, and lightnings - the sequence of these events may vary, with some interpretations placing 'voices' after 'thunderings' and others after 'lightnings'."
@@ -50,4 +50,4 @@ In this verse, a scene unfolds where an angel takes burning coals from the altar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the importance of order and proper beh
 2. "Let the hungry take off the edge of his hunger at home."
 3. "Perhaps they had asked him questions respecting the most convenient time or manner of celebration of the Lord’s supper: points on which primitive practice widely differed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any...hunger—so as not to be able to 'tarry for others,' let him take off the edge of his hunger at home." - ALFORD
 2. "The rest—'the other questions you asked me as to the due celebration of the Lord's Supper.'" - Commentary
 3. "Not other questions in general; for he does subsequently set in order other general questions in this Epistle." - Commentary
@@ -54,4 +54,4 @@ Overall, the commentary provides insights into the hunger of the Corinthians, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

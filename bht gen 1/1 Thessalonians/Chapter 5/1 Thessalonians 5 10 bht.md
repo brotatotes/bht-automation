@@ -9,7 +9,7 @@ This verse speaks of Christ dying for us so that we may live with Him, whether w
 2. "Thus it would = 'who died that all men might be saved:' who came, not to call the righteous only, but sinners to life."
 3. "The sense live or die must, I think, be accepted, and the want of perspicuity with it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "died for us—in our behalf." 
 2. "whether we wake or sleep—whether we be found at Christ's coming awake, that is, alive, or asleep, that is, in our graves." 
 3. "together—all of us together; the living not preceding the dead in their glorification 'with Him' at His coming."
@@ -55,4 +55,4 @@ This verse speaks of Christ dying for us so that we may live with Him, whether w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

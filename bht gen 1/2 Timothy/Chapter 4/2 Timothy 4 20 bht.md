@@ -4,7 +4,7 @@
 In this Bible verse, we see Erastus, a trusted companion and city official, staying behind in Corinth, his hometown. Trophimus, a loyal companion of Paul's, was left sick in Miletus. These details shed light on the personal and relational dynamics within Paul's ministry, showing the vulnerability of even dedicated servants of God. The limitations of the apostles' power to heal highlight their dependence on God's will and timing in performing miracles.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Erastus, one of his usual companions...stayed behind at Corinth, his native place...of which city he was 'chamberlain,' or city steward and treasurer." 
 2. "Trophimus he left behind at Miletus sick...there is a presumption that Timothy was not at Ephesus when Paul wrote."
 3. "Paul had not the power of healing at will, but as the Lord allowed him."
@@ -50,4 +50,4 @@ In this Bible verse, we see Erastus, a trusted companion and city official, stay
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

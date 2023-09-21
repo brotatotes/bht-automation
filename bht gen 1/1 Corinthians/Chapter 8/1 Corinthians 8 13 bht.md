@@ -9,7 +9,7 @@ In this verse, the writer expresses a selfless attitude, willing to give up pers
 2. "βρῶμα, food, i.e. any article of food...purposely indefinite here; 'if such a matter as food...,' but presently particularized."
 3. "κρέα, 'Quo certius vitarem carnem idolo immolatam, toto genere carnium abstinerem.' Bengel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "meat—Old English for 'food' in general." 
 2. "make . . . to offend—Greek, 'is a stumbling-block to.'" 
 3. "no flesh—In order to ensure my avoiding flesh offered to idols, I would abstain from all kinds of flesh, in order not to be a stumbling-block to my brother."
@@ -62,4 +62,4 @@ In this verse, the writer expresses a selfless attitude, willing to give up pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 An angel is sent by God, coming from His presence in the temple, signifying the angel's divine mission. The angel's task is to command the Son of man, acting as a messenger delivering God's will. This angel is entrusted with the responsibility of reaping the ripe harvest of the righteous and removing the Antichristian offenders, symbolizing the separation of the elect and the wicked. The urgency and readiness of the harvest are emphasized, emphasizing the importance of fulfilling God's judgment at the appointed time.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The angel does not command the 'Son of man,' but is the mere messenger announcing to the Son the will of God the Father."
 2. "The Son sends His sickle-bearing angel to reap the righteous when fully ripe."
 3. "By the harvest-reaping the elect righteous are gathered out; by the vintage the Antichristian offenders are removed out of the earth, the scene of Christ's coming kingdom."
@@ -33,4 +33,4 @@ An angel is sent by God, coming from His presence in the temple, signifying the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

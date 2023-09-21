@@ -9,7 +9,7 @@ The verse being described portrays a community plagued by jealousy, strife, and 
 2. "According to the manner of (unrenewed and ungodly) man, = κατὰ σάρκα." 
 3. "Putting the assumption in a local form."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Envying had produced strife, and strife divisions (factious parties)." 
 2. "For 'strife' is a 'work of the flesh'... The 'flesh' includes all feelings that aim not at the glory of God, and the good of our neighbor, but at gratifying self."
 3. "Walk as men - as unregenerate men... 'After the flesh, not after the Spirit' of God, as becomes you as regenerate by the Spirit."
@@ -57,4 +57,4 @@ The verse being described portrays a community plagued by jealousy, strife, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

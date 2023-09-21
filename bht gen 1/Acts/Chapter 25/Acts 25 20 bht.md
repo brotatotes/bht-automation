@@ -9,7 +9,7 @@ In this particular Bible verse, a Roman judge named Festus expresses his perplex
 2. The use of the phrase "so σὺ δʼ εἰς τὰ μητρὸς μὴ φοβοῦ νυμφεύματα" (Soph. Œd. Tyr. 980) and "ἀμφινοῶ ἐς τέρας" (Antig. 372) suggests a sense of fear or hesitation in approaching the topic.
 3. The construction of the sentence is mixed, combining elements of "I said, wilt thou?" and "I asked him whether he would..." (Acts 25:9).
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I," as a Roman judge, being at a loss how to deal with such matters.
 2. The doubt expressed by the judge reflects his uncertainty and confusion.
 3. The judge's questioning reveals his struggle to understand and make sense of the situation.
@@ -42,4 +42,4 @@ In this particular Bible verse, a Roman judge named Festus expresses his perplex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

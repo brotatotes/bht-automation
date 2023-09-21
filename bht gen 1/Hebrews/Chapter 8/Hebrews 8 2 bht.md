@@ -9,7 +9,7 @@ The verse describes Christ as a minister in the heavenly sanctuary, representing
 2. "Both are agreed that τὰ ἅγια betokens the immediate, immaterial presence of God, the veritable Holy of Holies, beyond, and approached through, the heavens, ch. Hebrews 4:14." 
 3. "That glorified body of His, in which they are accepted before God, and in which as a heavenly temple, they serve God, and God dwells, He has passed through, not by passing out of it, but by finally establishing it as an accomplished thing in God’s sight, and in and as proceeding forth from it carrying on his intercession and λειτουργία τῆς σκηνῆς τῆς ἀληθινῆς in the ἅγια itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek term implies priestly ministry in the temple."
 2. "The heavenly sanctuary is meant."
 3. "Through His glorified body as the tabernacle, Christ passes into the heavenly 'Holy of Holies,' the immediate immaterial presence of God, where He intercedes for us."
@@ -55,4 +55,4 @@ These quotes highlight the role of Christ as a minister in the heavenly sanctuar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

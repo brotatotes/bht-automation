@@ -4,7 +4,7 @@
 In this verse, the commentary emphasizes the hostile reaction of the religious leaders towards the man who was healed. Their words were filled with contempt and they even proclaimed him to be accursed. They proudly declared themselves as disciples of Moses, showing their preference for the law over Christ. Furthermore, they falsely claimed to be disciples of Abraham, despite their actions and beliefs contradicting the description of a true disciple.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Give God the praise; we know that this man is a sinner." - The commentary highlights the skepticism of the Pharisees, who refused to acknowledge the miraculous healing of the blind man. This quote emphasizes their refusal to give credit to Jesus and their focus on labeling him as a sinner.
 
 2. "Not wishing him to own, even to the praise of God, that a miracle had been wrought upon him." - This quote reveals the Pharisees' unwillingness to acknowledge the divine intervention in the blind man's healing. They were more concerned with discrediting Jesus than recognizing the power of God at work.
@@ -49,4 +49,4 @@ Note: The commentary provides explanations and translations for the Greek words 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

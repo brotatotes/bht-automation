@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the husband's duty to care for his wife, stressing the intimate connection between them. They highlight that a husband should not only provide for his wife physically, but also emotionally and spiritually. The example of Christ's love for the church is used to illustrate the depth of care and provision that a husband should have for his wife. Overall, the verse emphasizes the importance of nurturing and cherishing the relationship between husband and wife.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For no man...nourisheth it up": This quote highlights the idea that just as we naturally take care of and nourish our own bodies, husbands are called to do the same for their wives. 
 
 2. "The two former (food and raiment) are here alluded to in a spiritual sense": This quote suggests that the duties of providing food and clothing for one's spouse can also be understood as providing spiritual nourishment and support. 
@@ -52,4 +52,4 @@ In this verse, commentators emphasize the husband's duty to care for his wife, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

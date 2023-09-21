@@ -9,7 +9,7 @@ The verse describes a striking contrast between the demands of the Jews and the 
 2. "καὶ καί] see Mark 9:13, unite (De W.) things resembling each other in this particular, but else unlike. Jews and Gentiles both made false requirements, but of different kinds." 
 3. "σημεῖα αἰτ.] see Matthew 12:38; Matthew 16:1; Luke 11:16; John 2:18; John 6:30. The correction σημεῖον has probably been made from remembering the σημεῖον of these passages. The sign required was not, as I have observed on Matthew 12:38, a mere miracle, but some token from Heaven, substantiating the word preached."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The signs the Jews craved for were not mere miracles, but direct tokens from heaven that Jesus was Messiah."
 2. "Christ, instead of demonstrative proof, demands faith on the ground of His word, and of a reasonable amount of evidence that the alleged revelation is His word."
 3. "Christianity begins not with solving intellectual difficulties, but with satisfying the heart that longs for forgiveness."
@@ -53,4 +53,4 @@ The verse describes a striking contrast between the demands of the Jews and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

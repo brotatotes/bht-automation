@@ -9,7 +9,7 @@ The way of truth, as described by commentators, is often marred by the presence 
 2. "It is those who, seeming to be in the way of truth, yet favour and follow false teachers, that cause most scandal to the way of truth itself."
 3. "Ab iis qui foris sunt, discrimen ignorantibus verorum et falsorum Christianorum." (Translation: "From those who are outside, they do not distinguish between true and false Christians.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "False doctrine and immoral practice generally go together."
 2. "The way of truth shall be evil spoken of."
 3. "Christianity itself the blame of its professors' evil practice."
@@ -59,4 +59,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

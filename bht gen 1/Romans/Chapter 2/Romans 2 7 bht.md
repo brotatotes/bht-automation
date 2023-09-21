@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the importance of character, perseverance, and seeking eternal life through good works. The pursuit of eternal life requires patient continuance in well-doing and a commitment to righteousness. It is a gift from God, granted to those who trust in Him and actively seek glory, with a deep love for God and others. This pursuit involves enduring trials, remaining steadfast, and living a life that is pleasing to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The final judgment will turn upon character alone."
 2. "The enduring and progressive character of the new life."
 3. "Having heard the word, keep it, and bring forth fruit with patience."
@@ -50,4 +50,4 @@ In this verse, commentators emphasize the importance of character, perseverance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

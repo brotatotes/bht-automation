@@ -9,7 +9,7 @@ The verse being described emphasizes the transformative power of the gospel, whi
 2. "The confidence was that in which Paul and Silvanus and Timotheus preached to them."
 3. "The proof given by the manner of their preaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's having made our preaching among you to be attended with such 'power' is the proof that you are 'elect of God'." 
 2. "In preaching the Gospel, [it] [becomes] the power of God unto salvation." 
 3. "So faith, love, and hope [are produced], resting on faith."
@@ -52,4 +52,4 @@ These quotes highlight the power of the Holy Spirit in convicting individuals of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

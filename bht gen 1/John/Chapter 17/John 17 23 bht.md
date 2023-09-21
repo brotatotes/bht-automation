@@ -4,7 +4,7 @@
 In this verse, the intimate relationship between Jesus, his disciples, and God is emphasized. It speaks of the unity and oneness achieved through this divine connection, signifying a deep and personal relationship that brings about transformation and growth. Through this unity, believers are able to reach a state of spiritual perfection and completeness, as God's love is demonstrated through the sending of Christ and is further evidenced by the love that Christians have for one another. The purpose of this unity is for the world to continually know and recognize the truth of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the intimate relationship between Jesus, his disciples, and God. It emphasizes the unity and oneness that is achieved through this divine connection."
 2. "The phrase 'made perfect in one' suggests that through this unity, believers are able to reach a state of spiritual perfection and completeness."
 3. "The concept of 'in' expresses the indwelling presence of God within believers, signifying a deep and personal relationship that brings about transformation and growth."
@@ -38,4 +38,4 @@ In this verse, the intimate relationship between Jesus, his disciples, and God i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Salute Tryphena and Tryphosa, two active women who labored much in the Lord, possibly as deaconesses ministering to the sick. They were not just passive recipients of greetings, but active participants in promoting the spread of Christianity. Tryphena and Tryphosa, along with Persis, a beloved freedwoman, exemplify the diversity within the early Christian community and highlight the importance of family relationships and the role of individuals, no matter how seemingly ordinary, in the body of Christ. Their unwavering devotion and service remind us of the call to actively live out our faith and labor for the kingdom of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salute Tryphena and Tryphosa, who labour in the Lord—two active women."
 2. "Salute the beloved Persis—another woman."
 3. "Which laboured much in the Lord—referring probably, not to official services, but to such higher Christian labors—yet within the sphere competent to woman."
@@ -49,4 +49,4 @@ Note: The commentary is about Romans 16:12, which mentions Tryphena and Tryphosa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

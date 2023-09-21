@@ -9,7 +9,7 @@ The Bible verse being described highlights the manifestation of the Spirit in th
 2. "The manifestation of the Spirit is a general term including χαρίσματα, διακονίαι, and ἐνεργήματα." 
 3. "The aim of these manifestations is to profit the whole body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though all the gifts flow from the one God, Lord, and Spirit, the 'manifestation' by which the Spirit acts (as He is hidden in Himself), varies in each individual." 
 2. "The Spirit distributes gifts to each member of the Church severally."
 3. "The purpose of these gifts is to benefit the whole body."
@@ -47,4 +47,4 @@ The Bible verse being described highlights the manifestation of the Spirit in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

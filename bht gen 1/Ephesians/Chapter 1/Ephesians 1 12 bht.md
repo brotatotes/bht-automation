@@ -9,7 +9,7 @@ In this Bible verse, the commentators shed light on the hope and anticipation th
 2. "the final aim of all"
 3. "hoped before (Christ’s coming)"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "who have before hoped in the Christ": who before the Christ came, looked forward to His coming, waiting for the consolation of Israel.
 2. "the hope of Israel" [ALFORD].
 3. Compare Ephesians 1:18; Ephesians 2:12; Ephesians 4:4.
@@ -57,4 +57,4 @@ In this Bible verse, the commentators shed light on the hope and anticipation th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

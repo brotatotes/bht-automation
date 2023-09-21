@@ -4,7 +4,7 @@
 The verse being described emphasizes the connection between the Levitical priesthood and the law, stating that when one is repealed, the other is as well. The verse explores the idea of the commandment becoming annulled and abrogated, highlighting the ineffectiveness and unprofitableness of the law. The verse also emphasizes that the previous laws are set aside and made void, giving way to a new dispensation and a new priesthood. Overall, the verse emphasizes the superiority of the new covenant and the insufficiency of the Mosaic law in justifying or sanctifying believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Levitical priesthood and the law are inseparably joined, since the former is repealed, the latter is so also."
 2. "The legal ordinance introducing and giving place to the Christian, the antitypical and permanent end of the former."
 3. "Weakness and unprofitableness: The opposite of 'power'."
@@ -45,4 +45,4 @@ Note: The commentary is quite technical and does not provide much insight into t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

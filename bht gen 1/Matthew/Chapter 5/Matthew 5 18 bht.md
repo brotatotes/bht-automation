@@ -9,7 +9,7 @@ Within these commentaries, it is evident that the verse being analyzed speaks to
 2. "It is important to observe in these days how the Lord here includes the O.T. and all its unfolding of the divine purposes regarding Himself, in His teaching of the citizens of the kingdom of heaven."
 3. "Scripture is a whole, and stands or falls together."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For verily I say unto you—Here, for the first time, does that august expression occur in our Lord's recorded teaching, with which we have grown so familiar as hardly to reflect on its full import."
 2. "It is the enduring stability, then, of the great truths and principles, moral and spiritual, of the Old Testament revelation which our Lord thus expresses."
 3. "The meaning is that 'not so much as the smallest loss of authority or vitality shall ever come over the law.' The expression, 'till all be fulfilled,' is much the same in meaning as 'it shall be had in undiminished and enduring honor, from its greatest to its least requirements.'"
@@ -57,4 +57,4 @@ Within these commentaries, it is evident that the verse being analyzed speaks to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

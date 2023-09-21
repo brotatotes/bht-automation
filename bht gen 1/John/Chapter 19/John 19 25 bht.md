@@ -9,7 +9,7 @@ In this Bible verse, commentators highlight the presence of Jesus' mother and he
 2. "Four women are designated by this description." 
 3. "The Peschito, inserting a καί between αὐτοῦ and Μαρία."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Now there stood by the cross of Jesus his mother, and his mother's sister, Mary, wife of Cleophas." - This verse highlights the presence of Jesus' mother and her sister at the crucifixion, emphasizing the deep love and support they had for Jesus even in his darkest hour.
 
 2. "The 'Cleopas' of Luke 24:18 was a different person." - This comment clarifies any confusion about the identity of Cleophas, distinguishing him from another individual mentioned in a different passage.
@@ -50,4 +50,4 @@ In this Bible verse, commentators highlight the presence of Jesus' mother and he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

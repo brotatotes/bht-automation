@@ -9,7 +9,7 @@ The Bible verse being described speaks of believers being built together in unit
 2. "An imperative sense is not for a moment to be thought of: the whole passage is descriptive, not hortatory."
 3. "Thus we have the true temple of the Father, built in the Son, inhabited by Him in the ever-present indwelling of the Holy Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "are being builded together" - The believers are not just a collection of individuals, but they are being united and formed into a spiritual building. This emphasizes the importance of community and unity among believers.
 
 2. "in the Spirit" - The building of believers is not done by human effort alone, but it is accomplished through the work of the Holy Spirit. This highlights the supernatural aspect of the growth and development of the church.
@@ -59,4 +59,4 @@ The Bible verse being described speaks of believers being built together in unit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

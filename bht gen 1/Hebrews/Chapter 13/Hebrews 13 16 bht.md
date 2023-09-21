@@ -9,7 +9,7 @@ In this Bible verse, believers are called to not only offer praise to God with t
 2. "Beneficence and communication of your means to others who are in want."
 3. "With such sacrifices, God is well pleased."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The sacrifice of praise with the lips is not enough; there must be also doing good and communicating to the needy."
 2. "Beneficence and imparting a share of your means to the needy are essential, not mere ritualistic sacrifices."
 3. "True worship involves both verbal praise and practical acts of kindness towards others."
@@ -48,4 +48,4 @@ In this Bible verse, believers are called to not only offer praise to God with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

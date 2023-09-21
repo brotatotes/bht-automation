@@ -4,7 +4,7 @@
 Through the power and divine authority of Jesus, he opened their understanding, removing the blindness and ignorance that had hindered their comprehension of the Scriptures. Jesus' teachings and resurrection served as undeniable evidence of his divine nature and fulfilled prophecies, dispelling their doubts. This transformation in understanding confirmed Jesus as the long-awaited Messiah and emphasized the importance of divine illumination and guidance to fully grasp the depth and truth of God's Word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ's immediate access to the human spirit and absolute power over it, to the adjustment of its vision, and permanent rectification for spiritual discernment."
 2. "Impossible to conceive a stronger evidence of His proper divinity."
 3. "The manner of interpreting the Old Testament which the apostles afterwards employed has the direct sanction of Christ Himself."
@@ -54,4 +54,4 @@ Through the power and divine authority of Jesus, he opened their understanding, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

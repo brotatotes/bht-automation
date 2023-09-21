@@ -11,7 +11,7 @@ In this Bible verse, the subject, initially unaware of the true nature of the si
 
 3. The mention of "ἐξελθών" implies a sense of separation or detachment from the οἴκημα. This could indicate a physical departure or a symbolic departure from a particular situation or mindset. It suggests a movement away from the familiar and a step into the unknown or different.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So little did the apostle look for deliverance!" - The commentary highlights Paul's lack of expectation for deliverance, emphasizing his surprise at the reality of the situation. 
 
 2. "Wist not that it was true" - This quote emphasizes Paul's initial disbelief and confusion, indicating his inability to comprehend the reality of the situation.
@@ -46,4 +46,4 @@ In this Bible verse, the subject, initially unaware of the true nature of the si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

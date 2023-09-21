@@ -9,7 +9,7 @@ In this verse, a man approaches Jesus with a request to settle a dispute with hi
 2. "He thought this was just the care his circumstances wanted; being, as appears, oppressed by his brother in the matter of his patrimony."
 3. "Possibly too he had an idea that the Messias, or the great Rabbi to whom he was listening, was come to set all things right."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great Preacher of righteousness, help there is need of Thee in this rapacious world."
 2. "Here am I the victim of injustice, and that from my own brother, who withholds from me my rightful share of the inheritance that has fallen to us."
 3. "The man had not the least idea that his case was not of as urgent a nature, and as worthy the attention of our Lord, as anything else He could deal with."
@@ -43,4 +43,4 @@ In this verse, a man approaches Jesus with a request to settle a dispute with hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

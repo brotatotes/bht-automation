@@ -9,7 +9,7 @@ In this Bible verse, a conversation takes place between Jesus and a Samaritan wo
 2) "The fact is abundantly illustrated in the Rabbinical writings: see Schöttg. h. l."
 3) "The question of the woman shews a lively naïve disposition, which is further drawn out and exemplified by Him who knew what is in man, in the following dialogue."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His dress and dialect would at once discover Him to be, to a Samaritan." 
 2. "It is this national antipathy that gives point to the parable of the good Samaritan." 
 3. "The thankfulness of the Samaritan leper."
@@ -55,4 +55,4 @@ In this Bible verse, a conversation takes place between Jesus and a Samaritan wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, a slave girl with the ability to prophesy through a demonic
 2. "It may be remarked that the E. V. of πορευομένων εἰς (τὴν) προσευχήν, 'as we went to prayer,' has given rise to a curious abuse of the expression 'going to prayer,' in the sense of 'beginning to pray,' among the lower classes in England."
 3. "All attempt to explain away such a narrative as this by the subterfuges of rationalism...is more than ever futile."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reality of this demoniacal possession is as undeniable as that of any in the Gospel history."
 2. "The words imply that it was on their way to the usual place of public prayer, by the river-side, that this took place; therefore not on the same day with what had just occurred."
 3. "A female servant, and in this case a slave."
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

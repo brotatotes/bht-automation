@@ -9,7 +9,7 @@ The Bible verse describes the unity and indivisibility of God's law. Breaking ev
 2. "For He who said, Commit not adultery, said also, Commit not murder" - Augustine. (The selection of these two commandments is likely because they both pertain to our duty to our neighbor.)
 3. "μὴ μοιχεύσῃς being put first, as in Mark 10:19; Luke 18:20; Romans 13:9; Philo de Decalog. § 10, 12, 24, 82, vol. ii. pp. 186, 189, 201, 207, who lays a stress on this order as shewing that adultery is μέγιστον ἀδικημάτων" - Commentary. (The order of the commandments, with "Commit not adultery" being mentioned first, is significant and reflects ancient tradition and the emphasis on the seriousness of adultery.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is One who gave the whole law; therefore, they who violate His will in one point, violate it all." 
 2. "The law and its Author alike have a complete unity." 
 3. "Adultery and killing are selected as being the most glaring cases of violation of duty towards one's neighbor."
@@ -57,4 +57,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

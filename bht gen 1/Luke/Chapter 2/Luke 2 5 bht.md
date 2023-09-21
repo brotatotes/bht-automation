@@ -4,7 +4,7 @@
 In this verse, a recently married couple embarks on a journey while the wife is nearing the end of her pregnancy. Their commitment to one another, even before consummation, is evident. The circumstances of their journey, with the wife heavily pregnant, highlight the challenges they faced. Their obedience to the government's decree showcases their respect for authority and willingness to fulfill their duties as citizens.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "espoused wife—now, without doubt, taken home to him" - This quote highlights the transition from being an espoused wife to being fully married and taken into the home of her husband. It suggests that the verse is referring to the moment when the marriage is consummated and the couple begins their life together.
 
 2. "as related in Matthew 1:18" - This quote references another biblical passage that provides further context and information about the situation. It implies that the verse being discussed is part of a larger narrative and encourages readers to explore the connections between different passages in the Bible.
@@ -37,4 +37,4 @@ In this verse, a recently married couple embarks on a journey while the wife is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

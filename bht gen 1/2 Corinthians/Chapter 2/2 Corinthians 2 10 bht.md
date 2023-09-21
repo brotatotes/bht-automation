@@ -9,7 +9,7 @@ In this verse, the commentator makes it clear that forgiveness is being extended
 2. "Then he substantiates this assurance, by further assuring them, that his forgiveness of any fault in this case, if it takes place, takes place on their account."
 3. "In the person of Christ, acting as Christ, in the same way as he had commanded the punishment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They may be assured of Paul's apostolic sanction to their doing so."
 2. "For even what I have forgiven, if I have forgiven anything."
 3. "It is for your sakes I have forgiven, and do forgive, that the Church may suffer no hurt by the loss of a soul, and that ye may learn leniency as well as faithfulness."
@@ -57,4 +57,4 @@ In this verse, the commentator makes it clear that forgiveness is being extended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

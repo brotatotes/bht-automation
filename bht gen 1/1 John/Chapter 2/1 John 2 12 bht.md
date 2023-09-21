@@ -4,7 +4,7 @@
 In this verse, the author addresses the readers as beloved children, emphasizing the close bond between them. The central message of the verse is the forgiveness of sins, highlighting its transformative power and significance in the Christian faith. The author acknowledges that forgiveness serves as the foundation for other teachings and instructions, underscoring its importance in shaping the believers' understanding and practice of their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He calls ALL to whom he writes, 'little sons'... Our Lord, whose Spirit John so deeply drank into, used to His disciples the term 'little sons,' or dear sons and daughters." 
 
 2. "It is an undesigned coincidence with the Epistle here, that in John's Gospel somewhat similarly the classification, 'lambs, sheep, sheep,' occurs." 
@@ -50,4 +50,4 @@ These quotes highlight the inclusivity of the forgiveness of sins and the applic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

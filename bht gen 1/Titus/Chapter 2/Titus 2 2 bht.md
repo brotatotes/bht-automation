@@ -4,7 +4,7 @@
 In this verse, the writer emphasizes the importance of wise and responsible behavior in older men. They are encouraged to be vigilant, watchful, and serious, setting a positive example for younger generations. Older men are urged to exhibit self-restraint and self-control, avoiding frivolity and levity. Patience is highlighted as a valuable virtue that is especially needed and becoming in the aged. The verse calls for a sense of gravity and reverence, acknowledging the seriousness of life and its eternal implications.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sober" here answers to "not given to wine" - Titus 2:3; Titus 1:7.
 2. "Grave" means behaving with reverent propriety.
 3. "Temperate" means self-restrained and discreet.
@@ -52,4 +52,4 @@ In this verse, the writer emphasizes the importance of wise and responsible beha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

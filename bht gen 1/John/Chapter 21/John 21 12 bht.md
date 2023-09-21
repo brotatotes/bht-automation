@@ -10,7 +10,7 @@ In this verse, Jesus invites his disciples to come and dine with him, symbolizin
 3. "The use of 'ἐξετάσαι' suggests more than just asking; it implies a deeper desire to question or prove Him."
 4. "John's use of 'ἐστίν' after 'ἐτόλμα' is characteristic of his writing style."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "implying that they would have liked Him just to say, 'It is I'".
 2. "having such convincing evidence they were afraid of being 'upbraided for their unbelief and hardness of heart' if they ventured to put the question."
 3. "afraid of being 'upbraided for their unbelief and hardness of heart'".
@@ -58,4 +58,4 @@ In this verse, Jesus invites his disciples to come and dine with him, symbolizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

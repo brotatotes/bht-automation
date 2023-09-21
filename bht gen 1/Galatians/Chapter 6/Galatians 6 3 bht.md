@@ -9,7 +9,7 @@ In this verse, the commentator quotes warn against the dangers of self-conceit a
 2. "There is a fine irony in the subjective 'being, if he would come to himself, and look on the real fact, nothing.'"
 3. "The word 'φρεναπατᾷ' seems to mean just as 'ἀπατῶν καρδίαν αὐτοῦ there: I should hardly hold Ellic.’s distinction: both are subjective deceits, and only to be got rid of by testing them with plain matter of fact."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Self-conceit, the chief hindrance to forbearance and sympathy towards our fellow men, must be laid aside."
 2. "Something—possessed of some spiritual pre-eminence, so as to be exempt from the frailty of other men."
 3. "When he is nothing—The Greek is subjective: 'Being, if he would come to himself, and look on the real fact, nothing' [ALFORD]."
@@ -57,4 +57,4 @@ In this verse, the commentator quotes warn against the dangers of self-conceit a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

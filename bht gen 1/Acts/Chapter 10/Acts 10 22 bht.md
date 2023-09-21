@@ -4,7 +4,7 @@
 This Bible verse describes the character and actions of an individual who is revered and respected by both Jews and Gentiles alike. He is described as a just and righteous man, living in accordance with the teachings of God. His reputation among the Jews is highly regarded, and it is made clear that his actions are not solely driven by his own desires, but by divine guidance. This verse exemplifies the importance of being obedient to God's instruction and seeking His wisdom in all aspects of life.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fine testimony this from his own servants." 
 2. "Of good report among all the nation of the Jews." 
 3. "To hear words of thee."
@@ -49,4 +49,4 @@ This Bible verse describes the character and actions of an individual who is rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

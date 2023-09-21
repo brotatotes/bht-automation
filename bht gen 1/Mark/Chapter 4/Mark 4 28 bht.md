@@ -9,7 +9,7 @@ The growth and development of the Christian life is beautifully illustrated in t
 2. "It is the mistake of modern Methodism, for instance, to be always working at the seed, taking it up to see whether it is growing, instead of leaving it to God’s own good time."
 3. "The text of the Codex Bezæ is a very peculiar one, deviating more from the received readings and from the principal manuscript authorities than any other."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear" - This verse beautifully illustrates the gradual growth and development in the Christian life and the kingdom of God. It reminds us that spiritual growth takes time and goes through different stages, just like the growth of a plant.
 2. "Beautiful allusion to the succession of similar stages" - The commentary highlights the parallel between the stages of growth in nature and the stages of growth in the Christian life. This connection emphasizes the natural and organic progression of spiritual development.
 3. "Though not definitely marked periods" - The commentary acknowledges that the stages of growth in the Christian life may not have specific time frames or clearly defined boundaries. This understanding allows for individual variations in spiritual growth and encourages patience and trust in the process.
@@ -43,4 +43,4 @@ The growth and development of the Christian life is beautifully illustrated in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

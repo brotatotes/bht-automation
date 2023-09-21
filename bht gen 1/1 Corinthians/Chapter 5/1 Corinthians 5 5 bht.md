@@ -9,7 +9,7 @@ In this Bible verse, a commentator describes the severe punishment of excommunic
 2. "A greater contrast to this can hardly be conceived, than the terrible forms of excommunication subsequently devised, and even now in use in the Romish church, under the fiction of delegated apostolic power."
 3. "The delivering to Satan for the destruction of the spirit can belong only to those who do the work of Satan."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul delegates here to the Corinthian Church his own special power as an apostle, of inflicting corporeal disease or death in punishment for sin."
 2. "Satan, the 'accuser of the brethren' and the 'adversary,' demands the sinner for punishment on account of sin."
 3. "Here it is not finally; but for the affliction of the body with disease, and even death, so as to destroy fleshly lust."
@@ -51,4 +51,4 @@ In this Bible verse, a commentator describes the severe punishment of excommunic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

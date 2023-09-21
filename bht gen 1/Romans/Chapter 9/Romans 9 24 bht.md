@@ -9,7 +9,7 @@ The Bible verse in question emphasizes that the calling of believers is not limi
 2. "It being entirely in the power of God to preordain and have mercy on whom He will."
 3. "He has exercised this right by calling not only the remnant of His own people, but a people from among the Gentiles also."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whom he hath also called, even us," &c., in not only "afore preparing," but in due time effectually "calling us."
 2. "Not from among Jews only, but also from among Gentiles."
 3. "Along with this elect remnant of Israel, it is God's purpose to 'take out of the Gentiles a people for His name'."
@@ -53,4 +53,4 @@ The Bible verse in question emphasizes that the calling of believers is not limi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

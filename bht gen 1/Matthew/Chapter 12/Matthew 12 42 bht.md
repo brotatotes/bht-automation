@@ -9,7 +9,7 @@ A woman of great curiosity and devotion, the Queen of Sheba embarked on an epic 
 2. "Abyssinian tradition agrees with this account, calls her Maqueda, and supposes her to have embraced the Jewish religion in Jerusalem."
 3. "The Arabians on the other hand also claim her, calling her Balkis (Koran, c. xxvii., cited by Winer), which latter view is probably nearer the truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The queen of Sheba came from a remote country, 'south' of Judea, to hear the wisdom of a mere man, though a gifted one, and was transported with wonder at what she saw and heard." 
 2. "They, when a Greater than Solomon had come to them, despised and rejected, slighted and slandered Him." 
 3. "The queen of the south shall rise up in the judgment with this generation."
@@ -42,4 +42,4 @@ A woman of great curiosity and devotion, the Queen of Sheba embarked on an epic 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

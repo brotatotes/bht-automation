@@ -9,7 +9,7 @@ Jesus left the higher ground and descended to Capernaum on the shore of the Sea 
 2. "In the next verse He has cast off His mere earthly ties for His work."
 3. "Also in the οὐ πολλὰς ἡμ ., notice less a mere chronological design, than one to shew that He lost no time after His first miracle, in publicly manifesting Himself as the Son of God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Capernaum—on the Sea of Galilee." 
 2. "His mother and his brethren." 
 3. "Christ's first Passover—first cleansing of the temple."
@@ -52,4 +52,4 @@ Jesus left the higher ground and descended to Capernaum on the shore of the Sea 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

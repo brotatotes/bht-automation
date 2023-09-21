@@ -9,7 +9,7 @@ In this verse, the apostle Paul sends for the elders of the Church in Ephesus, h
 2. "Here we see (1) the two, bishops and presbyters, distinguished, as if both were sent for, in order that the titles might not seem to belong to the same persons, and (2) other neighbouring churches also brought in, in order that there might not seem to be ἐπίσκοποι in one church only."
 3. "So early did interested and disingenuous interpretations begin to cloud the light which Scripture might have thrown on ecclesiastical questions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The identity of presbyters and bishops in the New Testament is beyond all reasonable dispute."
 2. "As he was now some forty miles south of Ephesus, we might think that more time would be lost by sending thus far for the elders to come to him, than by going at once to Ephesus itself, when so near it."
 3. "Perhaps he was unwilling to run the risk of detention at Ephesus by the state of the church and other causes."
@@ -54,4 +54,4 @@ These quotes provide insights into the role of the elders in the church, the his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

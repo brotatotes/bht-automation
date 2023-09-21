@@ -9,7 +9,7 @@ In this verse, Jesus suddenly appears to the women who were pondering over the a
 2. "Mark’s account is evidently broken off suddenly; and Luke’s appears to have been derived from one of those who went to Emmaus, who had evidently but an imperfect knowledge of what happened before they left the city."
 3. "partly in fear and as suppliants, for the Lord says μὴ φοβεῖσθε, but shewing also the χαρά with which that fear was mixed, joy at having recovered Him whom they loved."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All hail!—the usual salute, but from the lips of Jesus bearing a higher signification."
 2. "How truly womanly!"
 3. "And they came and held him by the feet."
@@ -55,4 +55,4 @@ In this verse, Jesus suddenly appears to the women who were pondering over the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

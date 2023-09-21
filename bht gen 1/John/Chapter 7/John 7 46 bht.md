@@ -4,7 +4,7 @@
 In awe of the powerful and unprecedented words of this man, the officers acknowledged the unmatched eloquence, grace, and authority of Jesus. His teachings were not just profound in content, but also delivered with unparalleled aptness, beauty, and majesty. Jesus' words were so captivating that they held the officers spellbound, unable to carry out their assigned task. The impact of his speech reverberated, unsettling the religious authorities and leaving an indelible impression on all who encountered it.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Never man spake like this man—Noble testimony of unsophisticated men!"
 2. "There was that in it which by its mysterious grandeur and transparent purity and grace, held them spellbound."
 3. "Even in human teaching there has sometimes been felt such a divine power, that men who came to kill them have confessed to all that they were unmanned."
@@ -50,4 +50,4 @@ In awe of the powerful and unprecedented words of this man, the officers acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

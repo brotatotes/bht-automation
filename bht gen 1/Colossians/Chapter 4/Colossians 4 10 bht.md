@@ -10,7 +10,7 @@ In this verse, the author mentions a fellow prisoner, emphasizing the shared suf
 2. "ἀνεψιός, meaning that ἀνεψιοί are sons of brothers, i.e. cousins."
 3. "What these commands were, must be left in entire uncertainty."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek for 'fellow prisoner' is literally, fellow captive, an image from prisoners taken in warfare, Christians being 'fellow soldiers', whose warfare is 'the good fight of faith.'" 
 2. "The relationship naturally accounts for Barnabas' selection of Mark as his companion when otherwise qualified; and also for Mark's mother's house at Jerusalem being the place of resort of Christians there."
 3. "Paul's rejection of him on his second missionary journey, because he had turned back at Perga on the first journey, had caused an alienation between himself and Barnabas. Christian love soon healed the breach."
@@ -54,4 +54,4 @@ In this verse, the author mentions a fellow prisoner, emphasizing the shared suf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

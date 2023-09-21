@@ -9,7 +9,7 @@ In this verse, Jesus asserts his unique relationship with the Father, emphasizin
 2. "This was the only way in which a Jew could misunderstand John 6:45; he could not dream of a seeing of the Father with bodily eyes."
 3. "ὁ ὢν παρὰ τ . θεοῦ is Jesus Himself: see ch. John 7:29. His knowledge of the Father is complete and immediate; ours, partial, and derived through Him only."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lest they should confound that 'hearing and learning of the Father,' to which believers are admitted by divine teaching, with His own immediate access to Him."
 2. "He here throws in a parenthetical explanation stating, as explicitly as words could do it, how totally different the two cases were."
 3. "Only He who is 'from God' hath this naked, immediate access to the Father."
@@ -55,4 +55,4 @@ In this verse, Jesus asserts his unique relationship with the Father, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

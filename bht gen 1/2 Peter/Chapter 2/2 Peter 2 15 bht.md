@@ -11,7 +11,7 @@ The verse in question describes individuals who have strayed from the right path
 
 3. "Who loved the wages of unrighteousness." - The commentary points out that Balaam's motivation was driven by his desire for personal gain, highlighting the danger of pursuing worldly rewards instead of righteousness.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Balaam is justly termed son of carnality, as covetous, and the enticer of Israel to lust."
 2. "He loved the wages of unrighteousness."
 3. "The only way to bring God's curse on Israel was to entice them to fleshly lust and idolatry, which often go together."
@@ -57,4 +57,4 @@ The verse in question describes individuals who have strayed from the right path
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

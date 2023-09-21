@@ -9,7 +9,7 @@ In this verse, Jesus speaks of a future time when there will be a greater manife
 2. "The glories of a period beginning from the opening of the Lord’s public ministry, and at this day not yet completed, are described. For it is not the outward visible opening of the material heavens, nor ascent and descent of angels in the sight of men, which our Lord here announces; but the series of glories which was about to be unfolded in His Person and Work from that time forward."
 3. "The opening of heaven is a symbolical expression, signifying the imparting of divine grace, help, and revelation. See Genesis 28:10-17; Ezekiel 1:1; Isaiah 6:1; Malachi 3:10; Isaiah 64:1; also Deuteronomy 11:17; 1 Kings 8:35."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "To show the patriarch that though alone and friendless on earth his interests were busying all heaven, he was made to see 'heaven opened and the angels of God ascending and descending upon a' mystic 'ladder reaching from heaven to earth.'"
 2. "By and by," says Jesus here, "ye shall see this communication between heaven and earth thrown wide open."
 3. "And the Son of man the real Ladder of this intercourse."
@@ -50,4 +50,4 @@ These quotes highlight the significance of Jesus as the bridge between heaven an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

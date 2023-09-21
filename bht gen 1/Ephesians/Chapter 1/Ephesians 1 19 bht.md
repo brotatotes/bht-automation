@@ -9,7 +9,7 @@ The verse being described in these commentaries emphasizes the immense, surpassi
 2. "The resurrection of Christ was not a mere bodily act, an earnest of our bodily resurrection, but was a spiritual act, the raising of His humanity (which is ours), consisting of body and soul, from infirmity to glory, from the curse to the final triumph."
 3. "In that He died, HE DIED UNTO SIN once; but in that He liveth, HE LIVETH UNTO GOD."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole of the working of His grace, which He is carrying on, and will carry on, in us who believe."
 2. "By the term 'saints,' believers are regarded as absolutely perfected, and so as being God's inheritance."
 3. "The same superhuman power was needed and exerted to make us believe, as was needed and exerted to raise Christ from the dead."
@@ -57,4 +57,4 @@ The verse being described in these commentaries emphasizes the immense, surpassi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

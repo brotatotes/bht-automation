@@ -9,7 +9,7 @@ In this verse, faith in Jesus and its connection to baptism are explored. Commen
 2. "But that general necessity extends to all to whom Baptism is accessible; and it was well said ‘Non privatio Baptismi, sed contemtus, damnat.’"
 3. "These words cannot be taken, as those in Matthew 28:19-20, as setting forth the order in which faith and baptism must always come; belief and disbelief are in this verse the great leading subjects, and πιστεύσας must on that account stand first."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Baptism is here put for the external signature of the inner faith of the heart."
 2. "This outward manifestation, once mentioned as the proper fruit of faith, is not repeated in what follows."
 3. "These awful issues of the reception or rejection of the Gospel, though often recorded in other connections, are given in this connection only by Mark."
@@ -58,4 +58,4 @@ In this verse, faith in Jesus and its connection to baptism are explored. Commen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

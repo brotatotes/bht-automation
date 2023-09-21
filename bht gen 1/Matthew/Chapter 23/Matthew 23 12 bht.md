@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the universal character of God's deali
 2. "The speedy humiliation of the lofty Pharisees." 
 3. "Finds a most striking parallel in Ezekiel 21:26-27."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever shall exalt himself shall be abased." This quote emphasizes the consequence of pride and self-promotion, suggesting that those who seek to elevate themselves will ultimately be humbled.
 
 2. "What follows was addressed more immediately to the scribes and Pharisees." This quote highlights the specific audience of the following teachings, indicating that the commentary will provide insights into the context and relevance of the verses for these particular individuals.
@@ -46,4 +46,4 @@ In this verse, the commentators emphasize the universal character of God's deali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

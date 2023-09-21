@@ -9,7 +9,7 @@ In this verse, it emphasizes how God, in Christ, was reconciling the world to Hi
 2. "κόσμον, without the article, as governed words placed for emphasis before their verbs often are it would not be καταλλάσσων κόσμον, but τὸν κόσμον, the whole world, man, and man’s world, entire, with all that therein is."
 3. "having placed in us the word of the reconciliation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God was in Christ, reconciling—that is, God was BY Christ (in virtue of Christ's intervention) reconciling." 
 2. "The atonement (at-one-ment), or reconciliation, is the removal of the bar to peace and acceptance with a holy God, which His righteousness interposed against our sin." 
 3. "The manner of the reconciling is by His 'not imputing to men their trespasses,' but imputing them to Christ the Sin-bearer."
@@ -55,4 +55,4 @@ In this verse, it emphasizes how God, in Christ, was reconciling the world to Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the fulfillment of the law as Mary and Joseph bring Jesus 
 2. "The reading αὐτοῦ is remarkable, and hardly likely to have been a correction."
 3. "Bengel denies that either the Lord or His mother wanted purification."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The days" of this purification for a male child were forty in all...on the expiry of which the mother was required to offer a lamb for a burnt offering, and a turtle dove or a young pigeon for a sin offering.
 2. Being a first-born male, they "bring him to Jerusalem, to present him to the Lord." All such had been claimed as "holy to the Lord," or set apart to sacred uses.
 3. By that Babe, in due time, we were to be redeemed, "not with corruptible things as silver and gold, but with the precious blood of Christ" (1 Peter 1:18; 1 Peter 1:19).
@@ -59,4 +59,4 @@ In this verse, we see the fulfillment of the law as Mary and Joseph bring Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

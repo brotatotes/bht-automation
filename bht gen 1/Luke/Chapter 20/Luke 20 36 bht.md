@@ -9,7 +9,7 @@ In this Bible verse, believers are described as being equal to the angels and ch
 2. "υἱοὶ θ. is here used, not in its ethical sense, as applied to believers in this world, but its metaphysical sense, as denoting the essential state of the blessed after the resurrection."
 3. "They are, by their resurrection, essentially partakers of the divine nature, and so cannot die."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marriage is ordained to perpetuate the human family; but as there will be no breaches by death in the future state, this ordinance will cease."
 2. "Equal, or 'like,' unto the angels—that is, in the immortality of their nature."
 3. "Children of God, not in respect of character but nature; 'being the children of the resurrection' to an undecaying existence."
@@ -45,4 +45,4 @@ In this Bible verse, believers are described as being equal to the angels and ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

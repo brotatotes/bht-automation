@@ -9,7 +9,7 @@ These three verses paint a vivid picture of the towns of Chorazin, Bethsaida, Ty
 2. "These wealthy cities, so often the subject of prophecy, had been chastised by God’s judgment under Nebuchadnezzar and Alexander, but still existed."
 3. "ἐν σάκ  .   κ  .   σποδῷ μετ  . is probably an allusion to Jonah 3:6 , or to general Eastern custom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These two cities appear to be singled out to denote the whole region in which they lay—a region favored with the Redeemer's presence, teaching, and works above every other."
 2. "As their wealth and prosperity engendered luxury and its concomitant evils—irreligion and moral degeneracy—their overthrow was repeatedly foretold in ancient prophecy, and once and again fulfilled by victorious enemies."
 3. "Remarkable language, showing that they had done less violence to conscience, and so, in God's sight, were less criminal than the region here spoken of."
@@ -52,4 +52,4 @@ These three verses paint a vivid picture of the towns of Chorazin, Bethsaida, Ty
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

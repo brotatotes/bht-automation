@@ -9,7 +9,7 @@ In this verse, believers are reminded not to retaliate with evil when faced with
 2. "On the contrary, blessing the evil doer or speaker." 
 3. "Because to this you were called, that you might inherit blessing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No railing can injure you." 
 2. "Imitate God who 'blesses' you." 
 3. "The first fruits of His blessing for eternity are enjoyed by the righteous even now."
@@ -59,4 +59,4 @@ In this verse, believers are reminded not to retaliate with evil when faced with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

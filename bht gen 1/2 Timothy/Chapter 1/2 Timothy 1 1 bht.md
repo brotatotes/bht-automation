@@ -11,7 +11,7 @@ This verse speaks of the purpose behind the apostle's work, highlighting the con
 
 3. "a strain of the subsequent portion of the Epistle, which is throughout one of confirmation and encouragement" - The commentary suggests that the mention of the promise of life in Christ sets the tone for the rest of the letter, which is characterized by words of affirmation and support. This highlights the uplifting nature of the epistle and its intention to strengthen Timothy's faith.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This Epistle is the last testament and swan-like death song of Paul." 
 2. "Paul's apostleship is in order to carry into effect this promise." 
 3. "This 'promise of life in Christ' was needed to nerve Timothy to fortitude amidst trials, and to boldness in undertaking the journey to Rome."
@@ -45,4 +45,4 @@ This verse speaks of the purpose behind the apostle's work, highlighting the con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

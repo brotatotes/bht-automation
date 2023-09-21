@@ -4,7 +4,7 @@
 In this Bible verse, a humble and timid woman is brought forth by Christ to publicly testify to the facts of her case. Her past experiences explain her initial hesitation to come forward, but her faith ultimately triumphs over her fear. Through her confession, she reveals the true nature of her chronic misery, which had compelled her to hide in the crowd. Despite the absence of a legitimate reason for fear, she, like many souls after conversion, still experiences trembling and uncertainty. Nevertheless, she courageously shares her story, showcasing the power of divine grace and providing hope to others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "alarmed, as a humble, shrinking female would naturally be, at the necessity of so public an exposure of herself"
 2. "conscious that she had a tale to tell which would speak for her"
 3. "This, though it tried the modesty of the believing woman, was just what Christ wanted in dragging her forth, her public testimony to the facts of her case"
@@ -30,4 +30,4 @@ In this Bible verse, a humble and timid woman is brought forth by Christ to publ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

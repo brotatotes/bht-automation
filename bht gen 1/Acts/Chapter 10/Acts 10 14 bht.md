@@ -9,7 +9,7 @@ In this Bible verse, Peter is presented with a vision that challenges his unders
 2. "We cannot infer hence that the sheet contained unclean animals only. It was a mixture of clean and unclean, the aggregate, therefore, being unclean."
 3. "κύριε (Lord) is here addressed to the unknown heavenly speaker."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not so, Lord—See Marginal reference."
 2. "I have never eaten anything that is common—that is, not sanctified by divine permission to eat of it, and so 'unclean.'"
 3. "The distinction of meats was a sacrament of national distinction, separation, and consecration."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

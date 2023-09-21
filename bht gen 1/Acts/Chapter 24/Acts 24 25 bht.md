@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul fearlessly confronted Felix, the unjust an
 2. "Tacitus uses of Felix the expression ‘cuncta malefacta sibi impune ratus.’"
 3. "It is remarkable that Tacitus uses of Felix the expression ‘cuncta malefacta sibi impune ratus.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How noble the fidelity and courage which dared to treat of such topics in such a presence, and what withering power must have been in those appeals which made even a Felix to tremble!"
 2. "Alas for Felix! This was his golden opportunity, but—like multitudes still—he missed it."
 3. "The Word discerned the thoughts and intents of his heart, but that heart even then clung to its idols."
@@ -61,4 +61,4 @@ In this Bible verse, the apostle Paul fearlessly confronted Felix, the unjust an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

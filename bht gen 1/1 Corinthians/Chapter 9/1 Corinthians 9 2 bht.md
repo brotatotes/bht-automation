@@ -9,7 +9,7 @@ In this verse, the apostle Paul defends his apostleship by appealing to the Cori
 2. "Yet at least, is stronger than ἀλλά alone. The particle shows that the sentiment which it introduces has more weight than the other to which the ἀλλά is a reply." 
 3. "Their conversion was the great proof: so Theodoret, ἀπόδειξιν γὰρ τῶν ἀποστολικῶν κατορθωμάτων τὴν ὑμετέραν ἔχω μεταβολήν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your conversion by my preaching, accompanied with miracles, vouch for the reality of my apostleship." 
 2. "Just as a seal set to a document attests its genuineness." 
 3. "Your gifts conferred by me, vouch for the reality of my apostleship."
@@ -61,4 +61,4 @@ In this verse, the apostle Paul defends his apostleship by appealing to the Cori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

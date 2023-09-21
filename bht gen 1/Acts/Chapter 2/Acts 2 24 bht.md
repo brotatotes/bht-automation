@@ -9,7 +9,7 @@ The Bible verse being described is about the resurrection of Jesus and the victo
 2. "For ὠδῖνας θαν. must mean the pains of death, i.e. the pains which precede and end in death; a meaning here inapplicable."
 3. "The fact may be, that Peter used the Hebrew word חֶבְלֵי, 'nets' or 'bands,' i.e. the nets in which death held the Lord captive; and that, in rendering the words into Greek, the LXX rendering of the word in that place and Psalms 114:3, viz. ὠδῖνες, has been adopted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorious saying! It was indeed impossible that 'the Living One' should remain 'among the dead' (Luke 24:5)."
 2. "The impossibility seems to refer to the prophetic assurance that He should not see corruption."
 3. "It was not possible he should be holden of it."
@@ -53,4 +53,4 @@ The Bible verse being described is about the resurrection of Jesus and the victo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

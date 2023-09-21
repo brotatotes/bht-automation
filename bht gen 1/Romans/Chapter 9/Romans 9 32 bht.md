@@ -4,7 +4,7 @@
 This verse describes how the people did not seek righteousness by faith, but rather through their own works; they stumbled over the stumbling stone, which is Christ. They attempted to attain salvation by relying on their own righteousness and not on the mercy of God obtained through faith. The obstacle to their righteousness was Christ Himself, whom they had longed for but ultimately rejected.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They sought it not by faith, but as it were—rather simply, 'as' by the works of the law—as if it were thus attainable, which justification is not: Since, therefore, it is attainable only by faith, they missed it." 
 2. "They stumbled at that stumbling-stone—better, 'against the stone of stumbling,' meaning Christ."
 3. "But in this they only did."
@@ -45,4 +45,4 @@ This verse describes how the people did not seek righteousness by faith, but rat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

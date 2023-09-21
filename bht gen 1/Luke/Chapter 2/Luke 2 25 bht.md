@@ -9,7 +9,7 @@ In this verse, we encounter a righteous and devout man who eagerly anticipates t
 2. "It is no objection to it that he is here merely ἄνθρωπος, seeing that Gamaliel himself is only φαρισαῖός τις in Acts 5:34."
 3. "On the general expectation of deliverance at this time, see on Matthew 2:1 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "just—upright in his moral character."
 2. "devout—of a religious frame of spirit."
 3. "waiting for the consolation of Israel—a beautiful title of the coming Messiah, here intended."
@@ -55,4 +55,4 @@ In this verse, we encounter a righteous and devout man who eagerly anticipates t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the accusation made against the apostles, claiming that th
 2. "Interestingly, three of the names mentioned in the inscription or in the Epistles are companions of Paul: Sosipater, Secundus, and Gaius." 
 3. "The words 'τὴν οἰκ  .   ἀναστ  .' suggest that there was already some knowledge or rumor about Christianity and its spread among the inhabitants of Thessalonica."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The accuracy of this history is demonstrated by the specific mention of the magistrates of Thessalonica as 'the politarchs,' a name found on an arch in the city."
 2. "The phrase 'turned the world upside down' highlights the impact and influence of the early Christians, who were seen as disruptors of the established order."
 3. "This verse reminds us of the transformative power of the Gospel, which has the ability to challenge and reshape societal norms."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite lengthy and does not contain any particul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

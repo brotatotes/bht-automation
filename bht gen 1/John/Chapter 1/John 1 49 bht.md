@@ -9,7 +9,7 @@ In this Bible verse, a man named Nathanael encounters Jesus and recognizes Him a
 2. "The whole form of our Lord’s answer seems to indicate that the place where Philip called Nathanael was not now in sight, nor had been."
 3. "ὄντα ὑπὸ τὴν συκῆν, says Wordsw., 'is something more than ὑπὸ τῇ συκῇ the accusative indicates retirement thither as well as concealment there, perhaps for purposes of prayer and meditation.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Son of God . . . King of Israel—the one denoting His person, the other His office."
 2. "How much loftier this than anything Philip had said to him!"
 3. "Souls, like Nathanael and Thomas, the outgoings of whose faith are hindered for a time, take the start of their more easy-going brethren when loosed and let go."
@@ -48,4 +48,4 @@ In this Bible verse, a man named Nathanael encounters Jesus and recognizes Him a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

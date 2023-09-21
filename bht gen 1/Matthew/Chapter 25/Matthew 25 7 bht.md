@@ -4,7 +4,7 @@
 The commentators describe a scene where the foolish and wise virgins are preparing for the coming of the bridegroom. The foolish ones are lacking in forethought and preparation, their lamps burning dimly and eventually running out of oil. In contrast, the wise virgins are diligent in ensuring their lamps are well-trimmed and filled with the oil of grace. The parable emphasizes the importance of personal responsibility in spiritual readiness, urging believers to constantly examine themselves, trim their lamps, and be prepared to meet their God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The folly of 'the foolish' consisted not in having no oil at all; for they must have had oil enough in their lamps to keep them burning up to this moment: their folly consisted in not making provision against its exhaustion, by taking with their lamp an oil-vessel wherewith to replenish their lamp from time to time, and so have it burning until the Bridegroom should come."
 2. "Since the parable was designed to hold forth the prepared and the unprepared to meet Christ at His coming, and how the unprepared might, up to the very last, be confounded with the prepared—the structure of the parable behooved to accommodate itself to this, by making the lamps of the foolish to burn, as well as those of the wise, up to a certain point of time, and only then to discover their inability to burn on for want of a fresh supply of oil."
 3. "But this is evidently just a structural device; and the real difference between the two classes who profess to love the Lord's appearing is a radical one—the possession by the one class of an enduring principle of spiritual life, and the want of it by the other."
@@ -45,4 +45,4 @@ The commentators describe a scene where the foolish and wise virgins are prepari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

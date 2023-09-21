@@ -11,7 +11,7 @@ The verse being described emphasizes the divine empowerment given to the discipl
 
 3. "The Kingdom was to be one founded on testimony, and therefore reigning in the convictions of men's hearts; and not confined to Judæa, but coextensive with the world."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Receive power" - This phrase refers to the empowerment of the disciples by the Holy Spirit, which is essential for their mission as witnesses of Jesus Christ.
 2. "In Jerusalem...in all Judea...and unto the uttermost part of the earth" - This sequence highlights the gradual expansion of the Gospel message, starting from Jerusalem and spreading to the farthest corners of the earth.
 3. "This order of apostolic preaching and success supplies the proper key to the plan of the Acts" - The structure of the book of Acts follows the pattern of the disciples' mission, providing a framework for understanding the progression of the Gospel message.
@@ -64,4 +64,4 @@ Note: The commentary was quite long, so I had to condense it significantly to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

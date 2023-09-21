@@ -9,7 +9,7 @@ In this Bible verse, individuals are confronted with a situation where they must
 2. "And ye say to the poor man, Stand thou there, or sit under my footstool." 
 3. "The illustration merely requires that they should be strangers, not having a regular place in the congregation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Though ye know not who he is, when perhaps he may be a heathen."
 2. "The poor man must either stand, or if he sits, sit in a degrading position."
 3. "The speaker has a footstool as well as a good seat."
@@ -50,4 +50,4 @@ In this Bible verse, individuals are confronted with a situation where they must
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

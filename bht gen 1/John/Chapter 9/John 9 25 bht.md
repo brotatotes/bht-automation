@@ -9,7 +9,7 @@ In this verse, a blind man boldly testifies to his miraculous healing by stating
 2. "So that we must render, not ‘whereas I WAS blind, now I see,’ as E. V.: but as A.V.R., being a blind man [or, though a blind man], now I see."
 3. "The shrewd and naïve disposition of the man furnishes the key to the ænigmatical expression. He puts it to them as the problem, the fact of which he knows for certain but the reason of which it was for them to solve, that he, whom they all knew as a blind man, now saw."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not that the man meant to insinuate any doubt in his own mind on the point of His being 'a sinner,' but as his opinion on such a point would be of no consequence to others."
 2. "He would speak only to what he knew as fact in his own case."
 3. "Whether he be a sinner or no, &c."
@@ -45,4 +45,4 @@ Note: The commentary provides insight into the blind man's response to the Phari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

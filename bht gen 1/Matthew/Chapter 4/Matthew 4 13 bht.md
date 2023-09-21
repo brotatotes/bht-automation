@@ -11,7 +11,7 @@ Leaving behind his hometown of Nazareth, a place that rejected him, Jesus settle
 
 Note: The commentary provides historical and geographical context for the town of Kafarnaum, highlighting its importance in Galilee and its significance as Jesus' own city.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But to us there seem all but insuperable difficulties in the supposition of two visits to Nazareth after His baptism."
 2. "What we understand the Evangelist to say is, that Jesus, on His return to Galilee, did not, as might have been expected, make Nazareth the place of His stated residence, but, 'leaving [or passing by] Nazareth,' he came and dwelt in Capernaum."
 3. "Our Lord seems to have chosen [Capernaum] for several reasons. Four or five of the Twelve lived there; it had a considerable and mixed population, securing some freedom from that intense bigotry which even to this day characterizes all places where Jews in large numbers dwell nearly alone; it was centrical, so that not only on the approach of the annual festivals did large numbers pass through it or near it, but on any occasion multitudes could easily be collected about it."
@@ -52,4 +52,4 @@ Note: The commentary provides historical and geographical context for the town o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

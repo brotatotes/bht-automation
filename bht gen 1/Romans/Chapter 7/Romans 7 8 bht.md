@@ -9,7 +9,7 @@ The verse being described explores the relationship between sin and the law. It 
 2. "The deadness of sin without the law must not be understood as meaning that sin was committed but not recognized, the conscience being not informed nor awakened."
 3. "The prohibition of the law intensified the desire to sin, as forbidden things are often more alluring."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Before its extensive demands and prohibitions come to operate upon our corrupt nature."
 2. "The sinful principle of our nature lies so dormant, so torpid, that its virulence and power are unknown."
 3. "To our feeling it is as good as 'dead'."
@@ -55,4 +55,4 @@ Note: The provided quotes are not consecutive in the commentary.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

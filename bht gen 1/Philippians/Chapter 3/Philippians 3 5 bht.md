@@ -9,7 +9,7 @@ This verse describes a person who is of pure Jewish heritage, born into a family
 2. "an Hebrew, of Hebrews (i.e. from Hebrew parents and ancestry on both sides)" 
 3. "as regards righteousness which is in the law, become blameless"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being in circumcision an eighth day person, not one circumcised in later life as a proselyte, but on the eighth day after birth, as the law directed in the case of Jew-born infants."
 2. "Hebrew of the Hebrews—neither one or other parent being Gentile. The 'Hebrew,' wherever he dwelt, retained the language of his fathers."
 3. "A 'Grecian' or Hellenist, on the other hand, in the New Testament, is the term used for a 'Greek-speaking' Jew."
@@ -53,4 +53,4 @@ This verse describes a person who is of pure Jewish heritage, born into a family
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse under consideration alludes to a deeper understanding found in the com
 
 3. "This commentary encourages readers to explore the note on Matthew 16:28, indicating that there may be a significant explanation or interpretation of this verse that can be found there."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reference, beyond doubt, is to the firm establishment and victorious progress, in the lifetime of some then present, of that new Kingdom of Christ." 
 2. "Which was destined to work the greatest of all changes on this earth."
 3. "And be the grand pledge of His final coming in glory."
@@ -37,4 +37,4 @@ The verse under consideration alludes to a deeper understanding found in the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

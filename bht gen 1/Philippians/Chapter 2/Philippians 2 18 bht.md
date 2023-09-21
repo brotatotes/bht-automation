@@ -9,7 +9,7 @@ This verse beautifully captures the sacrificial nature of Jesus' death on the cr
 2. "Do ye rejoice and congratulate me." 
 3. "For this your honour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Do ye also rejoice" - This verse encourages believers to share in the joy and celebration of the honor bestowed upon them. It emphasizes the importance of communal rejoicing and unity among believers.
 
 2. "and congratulate me" - The commentary highlights the significance of congratulating and supporting one another in times of blessings and victories. It emphasizes the importance of expressing genuine happiness for the success and well-being of others.
@@ -47,4 +47,4 @@ This verse beautifully captures the sacrificial nature of Jesus' death on the cr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

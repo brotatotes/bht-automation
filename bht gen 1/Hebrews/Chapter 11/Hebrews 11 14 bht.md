@@ -9,7 +9,7 @@ The commentators shed light on a verse that describes individuals who express a 
 2. "the preposition implies the direction of the wish or yearning" - The use of the preposition emphasizes the strong desire and yearning for a home.
 3. "they seek after a home...that they seek after a home" - The repetition emphasizes the earnestness and determination in their search for a home.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For—proof that 'faith' was their actuating principle."
 2. "Declare plainly—make it plainly evident."
 3. "In confessing themselves strangers here, they evidently imply that they regard not this as their home or fatherland, but seek after another and a better."
@@ -52,4 +52,4 @@ Overall, the commentary emphasizes the transient nature of the Hebrew patriarchs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

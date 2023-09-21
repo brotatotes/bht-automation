@@ -9,7 +9,7 @@ In this verse, Jesus speaks in parables to reveal the truth and mysteries of His
 2. "But His present purpose in speaking them, as further explained below, was the quality possessed by them, and declared in the latter part of this verse, of hiding their meaning from the hard-hearted and sensual."
 3. "No practical comment on the latter part of this saying can be more striking, than that which is furnished to our day by the study of the German rationalistic (and, I may add, some of our English harmonistic) Commentators; while at the same time we may rejoice to see the approximate fulfilment of the former in such commentaries as those of Olshausen, Neander, Stier, and Trench."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For whosoever hath—that is, keeps; as a thing which he values." 
 2. "to him shall be given, and he shall have more abundance—He will be rewarded by an increase of what he so much prizes." 
 3. "but whosoever hath not—who lets this go or lie unused, as a thing on which he sets no value. from him shall be taken away even that he hath."
@@ -38,4 +38,4 @@ In this verse, Jesus speaks in parables to reveal the truth and mysteries of His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

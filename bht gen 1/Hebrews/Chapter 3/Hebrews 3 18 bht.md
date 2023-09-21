@@ -4,7 +4,7 @@
 This verse describes the consequences of disobedience and unbelief. It emphasizes the active choice of those who refused to believe, warning against the practical rejection of God's truth. The verse points to the example of the Israelites in the wilderness as a warning against disobedience and the rejection of God's word. It highlights the exclusion and the serious consequence of their actions, underscoring the deliberate choice and responsibility of those who refused to follow God's commands.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "to them that disobeyed." - This phrase highlights the active choice of those who refused to believe. It emphasizes that unbelief is not simply a lack of faith, but a deliberate act of disobedience.
 
 2. "Practical unbelief" - This term suggests that unbelief is not just a theoretical or intellectual stance, but a practical rejection of God's truth. It implies that unbelief is manifested in actions and choices that go against God's will.
@@ -40,4 +40,4 @@ This verse describes the consequences of disobedience and unbelief. It emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

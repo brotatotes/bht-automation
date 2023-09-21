@@ -9,7 +9,7 @@ In this verse, believers are called to recognize and embrace their identity as b
 2. "Do ye also account yourselves dead unto sin, but alive unto God in Christ Jesus."
 3. "By virtue of your union with Him, not through Christ Jesus; in this chapter it is not Christ's Mediatorship, but His Headship, which is prominent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Antinomianism is not only an error; it is a falsehood and a slander" [HODGE].
 2. "That 'we should continue in sin that grace may abound,' not only is never the deliberate sentiment of any real believer in the doctrine of Grace, but is abhorrent to every Christian mind, as a monstrous abuse of the most glorious of all truths."
 3. "As the death of Christ is not only the expiation of guilt, but the death of sin itself in all who are vitally united to Him; so the resurrection of Christ is the resurrection of believers, not only to acceptance with God, but to newness of life."
@@ -42,4 +42,4 @@ In this verse, believers are called to recognize and embrace their identity as b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

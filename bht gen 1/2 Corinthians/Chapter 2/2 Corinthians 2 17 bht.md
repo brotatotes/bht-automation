@@ -11,7 +11,7 @@ The verse being described is filled with commentary on the false teachers mentio
 
 These quotes highlight the commentary's explanation of the false teachers being referred to, the concept of adulteration, and the significance of speaking before God in Christ.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the many," namely, the false teachers of whom he treats
 (tenth through twelfth chapters, especially 2 Corinthians 11:13;
 1 Thessalonians 2:3)." 
@@ -61,4 +61,4 @@ by the command of, and so in dependence on) God."
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

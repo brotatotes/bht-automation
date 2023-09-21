@@ -4,7 +4,7 @@
 The verse described emphasizes the imminent arrival of the kingdom of God, creating a sense of anticipation and urgency. It highlights the ongoing fulfillment of the prophecy, indicating that it is a process actively unfolding. The phrase "He is nigh" underscores the imminence and accessibility of Jesus, urging believers to be prepared and find comfort in his presence. The combination of the title "Son of man" emphasizes Jesus' identification with humanity and his role as a compassionate and empathetic figure.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Know that it is nigh, even at the doors" - The commentary emphasizes the imminent arrival of the kingdom of God, indicating that its full manifestation is about to take place. This highlights the anticipation and urgency associated with the coming of the kingdom.
 
 2. "For your redemption draweth nigh" - The commentary suggests that the initial redemption mentioned refers to liberation from Jewish oppression. However, it also alludes to a broader sense of redemption, encompassing deliverance from all the sufferings and hardships of the present world through the second coming of Jesus.
@@ -32,4 +32,4 @@ The verse described emphasizes the imminent arrival of the kingdom of God, creat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

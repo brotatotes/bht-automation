@@ -4,7 +4,7 @@
 This verse emphasizes the importance of the inner condition of a person's heart. Just as a good tree produces good fruit, a person with a good heart will produce good actions and words. Jesus challenges his listeners to examine their hearts and make the necessary changes to align their actions with their beliefs. It reminds us that our actions are a reflection of our character, and if we want to produce good fruit in our lives, we must first cultivate a good heart through our relationship with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse emphasizes the importance of the inner condition of a person's heart. Just as a good tree produces good fruit, a person with a good heart will produce good actions and words."
 2. "Jesus is challenging his listeners to examine their hearts and make the necessary changes to ensure that their actions align with their beliefs. It is not enough to simply appear good on the outside; true goodness comes from a transformed heart."
 3. "This verse also reminds us that our actions are a reflection of our character. If we want to produce good fruit in our lives, we must first cultivate a good heart through our relationship with God."
@@ -40,4 +40,4 @@ This verse emphasizes the importance of the inner condition of a person's heart.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

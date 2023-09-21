@@ -11,7 +11,7 @@ The travelers prepared themselves, packing their baggage and putting their belon
 
 3. "'Carriages' in the E. V. is used, as at Judges 18:21 (where it answers to τὸ βάρος, LXX-B), for baggage, things carried."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we took up our carriages—"our baggage."" - This quote highlights the practical aspect of the journey, emphasizing the need to carry their belongings with them. It shows the physical preparations made by the travelers.
 
 2. "and went up to Jerusalem—for the fifth time after his conversion" - This quote reveals the significance of the journey to Jerusalem, indicating that it was not a mere visit but held a deeper meaning for the speaker. It suggests a sense of purpose and commitment.
@@ -61,4 +61,4 @@ The travelers prepared themselves, packing their baggage and putting their belon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

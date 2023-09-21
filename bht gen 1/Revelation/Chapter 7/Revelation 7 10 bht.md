@@ -4,7 +4,7 @@
 The verse being described portrays a profound cry of praise and thanksgiving from a multitude of voices. It expresses the desperate need for salvation, as well as the intense joy and gratitude for deliverance. This salvation is seen as an accomplished act, accomplished by God alone. The praise is attributed to both God and the Lamb, acknowledging their role as the sole authors of salvation. It encompasses not only temporal deliverance but also spiritual and eternal salvation. Ultimately, it is a recognition of the greatness of their joy and the magnitude of God's saving grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Salvation—literally, 'THE salvation'; all the praise of our salvation be ascribed to our God."
 2. "Hosanna means 'save us now'; taken from Psalms 118:14, 15, 21, 26, in which the same connection occurs between salvation, the tabernacles of the righteous, and the Jews' cry to be repeated by the whole nation at Christ's coming."
 3. "Blessed be He that cometh in the name of the Lord."
@@ -45,4 +45,4 @@ The verse being described portrays a profound cry of praise and thanksgiving fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This passage unveils the hidden mystery of salvation through Christ alone for bo
 
 3. "the stress is on these words, from their position" - This quote emphasizes the importance and significance of the words "by revelation" in understanding the revelation of the mystery.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "That by revelation was the mystery (namely, of the admission of the Gentiles) made known unto me." 
 2. "As I wrote afore, namely, in this Epistle, the words of which he partly repeats." 
 3. "The mystery of the admission of the Gentiles was made known to Paul by direct revelation from God."
@@ -54,4 +54,4 @@ This passage unveils the hidden mystery of salvation through Christ alone for bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

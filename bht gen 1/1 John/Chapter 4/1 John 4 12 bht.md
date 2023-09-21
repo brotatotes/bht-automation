@@ -9,7 +9,7 @@ Through the words of various commentators, we gain insight into a Bible verse th
 2. "Not, because we cannot love God whom we have not seen: but because the exponents of God whom we have not seen are our brethren whom we do see."
 3. "By our love to them are we to know, how far we have love to Him: if that be present, He dwelleth in us, and ἡ ἀγάπη αὐτοῦ τετελειωμένη ἐστὶν ἐν ἡμῖν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God, whom no man hath seen at any time, hath appointed His children as the visible recipients of our outward kindness which flows from love to Himself." 
 2. "If we love one another, God dwelleth in us—for God is love; and it must have been from Him dwelling in us that we drew the real love we bear to the brethren."
 3. "His love—rather, 'the love of Him,' that is, 'to Him,' evinced by our love to His representatives, our brethren."
@@ -65,4 +65,4 @@ These quotes highlight the invisibility and incomprehensibility of God, the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

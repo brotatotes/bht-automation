@@ -9,7 +9,7 @@ In this verse, a commentator emphasizes the normal habit of being covered and ve
 2. "Let her ALSO, besides being unveiled."
 3. "Plus est radi quam tonderi."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A woman would not like to be 'shorn' or (what is worse) 'shaven'; but if she chooses to be uncovered (unveiled) in front, let her be so also behind, that is, 'shorn'." 
 
 2. "A shame—an unbecoming thing." 
@@ -49,4 +49,4 @@ In this verse, a commentator emphasizes the normal habit of being covered and ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

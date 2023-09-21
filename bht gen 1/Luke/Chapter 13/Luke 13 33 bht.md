@@ -4,7 +4,7 @@
 The verse being described is a powerful statement by Jesus, acknowledging the significance and inevitability of his journey to Jerusalem, where prophets are traditionally persecuted and killed. Commentators emphasize Jesus' determination and purpose, his confidence in the face of threats, and his awareness of his impending death. They also highlight Jerusalem's historical role as a place of martyrdom, characterized by exceptional cruelty and rejection of divine messengers. Jesus' unwavering commitment to fulfilling his mission and his willingness to face the looming shadow of the Cross add depth to the profound and profound verse.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It would never do that," &c.—awful severity of satire this upon "the bloody city!"
 2. "He seeks to kill me, does he? Ah! I must be out of Herod's jurisdiction for that."
 3. "Go tell him I neither fly from him nor fear him, but Jerusalem is the prophets' slaughter-house."
@@ -60,4 +60,4 @@ Note: The commentary provides an interpretation of the phrase "it cannot be" in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

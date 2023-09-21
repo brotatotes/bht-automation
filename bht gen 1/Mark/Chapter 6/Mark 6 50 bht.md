@@ -9,7 +9,7 @@ In this particular verse, there is a unique and uncertain placement within the G
 2. "The mention of Peter in this context raises questions about the authorship and purpose of the Gospel, as it implies a connection between Mark and Peter."
 3. "The uncertainty surrounding the authorship and intention of the Gospel of Mark adds to the complexity of understanding this verse and its placement within the larger narrative."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is I" - Here were they in the midst of a raging sea, their little bark the sport of the elements, and with just enough of light to descry an object on the waters which only aggravated their fears. But Jesus deems it enough to dispel all apprehension to let them know that He was there.
 2. "I, EVEN I, AM HE!" - But spoken by One who at that moment was "treading upon the waves of the sea," and was about to hush the raging elements with His word, what was it but the Voice which cried of old in the ears of Israel, even from the days of Moses, "I AM"; "I, EVEN I, AM HE!"
 3. "Come" - Sublime word, issuing from One conscious of power over the raging element, to bid it serve both Himself and whomsoever else He pleased!
@@ -42,4 +42,4 @@ In this particular verse, there is a unique and uncertain placement within the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

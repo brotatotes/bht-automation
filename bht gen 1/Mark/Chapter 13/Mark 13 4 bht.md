@@ -9,7 +9,7 @@ The disciples inquired about the signs of the destruction of the temple and the 
 2. "All these things about which thou so often speakest."
 3. The phrase suggests that the people had heard Jesus speak about these events repeatedly, indicating that they were aware of the prophecies and the significance of the temple's destruction.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They no doubt looked upon the date of all these things as one and the same, and their notions of the things themselves were as confused as of the times of them." 
 2. "Our Lord takes His own way of meeting their questions." 
 3. "Prophecies of the Destruction of Jerusalem."
@@ -44,4 +44,4 @@ The disciples inquired about the signs of the destruction of the temple and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

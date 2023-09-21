@@ -9,7 +9,7 @@ In this Bible verse, Pilate questions Jesus about his kingship, which arises fro
 2. "Pilate summoned Jesus in, who had been as yet outside with the Jews. This was the formal reception of the case before him."
 3. "In this case Pilate appears to have wished to obtain an account from Jesus apart from the clamours of the chief priests and the mob."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Pilate . . . called Jesus, and said . . . Art thou the King of the Jews?" - This question from Pilate reveals the central conflict of Jesus' trial - the claim of kingship. It highlights the political implications of Jesus' ministry and the threat he posed to the Roman authorities.
 
 2. "They charge our Lord before Pilate with 'perverting the nation, and forbidding to give tribute to Cæsar, saying that He Himself is Christ a king.'" - This accusation against Jesus reflects the false narrative created by his opponents. It shows how they twisted his teachings to make him appear as a threat to the established order, particularly in relation to the payment of taxes to Caesar.
@@ -52,4 +52,4 @@ In this Bible verse, Pilate questions Jesus about his kingship, which arises fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a striking allusion to the prayer in Gethsemane, as Jesus 
 2. "When the sign (║) occurs in a reference, it is signified that the word occurs in the parallel place in the other Gospels."
 3. "Huc enim tendebat pugna Petri." (Translation: "For this was the struggle of Peter.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?" - Jesus expresses his willingness to accept the cup of suffering, despite his aversion to it, because it is the will of the Father.
 2. "Those who take the sword must run all the risks of human warfare; but Mine is a warfare whose weapons, as they are not carnal, are attended with no such hazards, but carry certain victory." - Jesus contrasts the risks of human warfare with the certain victory that comes from his spiritual warfare.
 3. "Thinkest thou that I cannot now pray to My Father, and He shall presently give Me more than twelve legions of angels?" - Jesus acknowledges his divine power and the ability to call upon heavenly assistance, but he chooses to fulfill the Scriptures and submit to his impending suffering.
@@ -44,4 +44,4 @@ In this verse, we see a striking allusion to the prayer in Gethsemane, as Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

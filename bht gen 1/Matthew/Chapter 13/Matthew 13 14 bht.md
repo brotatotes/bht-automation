@@ -4,7 +4,7 @@
 This verse describes the fulfillment of a prophecy from Isaiah, in which the people who hear Jesus' message do not understand it. It emphasizes that the people choose to remain in darkness and rejection of Jesus' light and healing. They are blinded by their own obstinacy and are missing out on the opportunity to be transformed and healed. The prophecy is an ongoing process throughout history, and the fulfillment highlights the consequences of their deliberate rejection and spiritual blindness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And in them is fulfilled... the prophecy of Esaias, which saith— (Isaiah 6:9; Isaiah 6:10 —here quoted according to the Septuagint)." 
 This quote highlights that the prophecy of Isaiah is being fulfilled in the people who are hearing Jesus' message but not understanding it. It emphasizes the significance of Jesus' words in relation to the prophetic scriptures.
 
@@ -52,4 +52,4 @@ This quote highlights the deliberate choice of the people to reject Jesus' messa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

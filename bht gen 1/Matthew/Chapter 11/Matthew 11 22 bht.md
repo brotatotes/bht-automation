@@ -4,7 +4,7 @@
 This verse reveals the severity of judgment for those who reject Jesus, even more so than the notoriously wicked cities of Tyre and Sidon. It serves as a warning to respond to Jesus' teachings and accept him as the Messiah. The principle of accountability is shown, with greater knowledge and rejection leading to a harsher judgment. Chorazin and Bethsaida's lack of repentance incurs a woe, but their punishment may be more tolerable than those who reject the Gospel revelation. The justice of God requires varying degrees of punishment for different sins.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse highlights the severity of the judgment that awaits those who reject the message of Jesus. It emphasizes that even the notoriously wicked cities of Tyre and Sidon will find more mercy on the day of judgment than those who have heard the teachings of Jesus and yet refuse to believe." 
 
 2. "The comparison with Tyre and Sidon serves as a warning to the people of Jesus' time, reminding them that their rejection of him and his message will have dire consequences. It emphasizes the importance of responding to the call of Jesus and accepting him as the Messiah."
@@ -30,4 +30,4 @@ This verse reveals the severity of judgment for those who reject Jesus, even mor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

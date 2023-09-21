@@ -9,7 +9,7 @@ In this Bible verse, a prodigal son reaches a moment of self-realization and ref
 2. "He now recalls the peace and plenty of his Father’s house."
 3. "μίσθιοι, for he now was a μίσθιος, but in how different a case!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Before, he had been 'beside himself'... in what sense will presently appear."
 2. "His heart being wholly estranged from home and steeped in selfish gratification, his father's house never came within the range of his vision, or but as another name for bondage and gloom."
 3. "Now empty, desolate, withered, perishing, home, with all its peace, plenty, freedom, dignity, starts into view, fills all his visions as a warm and living reality, and breaks his heart."
@@ -60,4 +60,4 @@ In this Bible verse, a prodigal son reaches a moment of self-realization and ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

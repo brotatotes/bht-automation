@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the importance of belief and fai
 2. "God has provided a remedy for the deadly bite of sin; this remedy the man has not accepted, not taken: he must then perish in his sins: he is already judged and sentenced."
 3. "The perfect implies more than ‘that faith is a definite act in time’; it sets before us the deliberate choice of the man, q. d. ‘he hath not chosen to believe’."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having, immediately on his believing, 'passed from death unto life' (John 5:24)."
 
 2. "Rejecting the one way of deliverance from that 'condemnation' which God gave His Son to remove."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the importance of belief and fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

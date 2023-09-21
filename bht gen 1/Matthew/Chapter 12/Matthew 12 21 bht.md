@@ -4,7 +4,7 @@
 This verse emphasizes the universal nature of Christ's grace and the inclusion of the Gentiles in the faith. It highlights the significance of Jesus' name as the source of hope and trust for both Jews and Gentiles. The commentary also points out the importance of believers acting in accordance with the character and authority of Christ, representing him and relying on his power to accomplish their tasks on earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And in his name shall the Gentiles trust" - This verse highlights the inclusion of Gentiles in the faith, symbolizing the fulfillment of the prophecy of a great Gentile harvest.
 2. "A BLIND AND DUMB DEMONIAC HEALED AND REPLY TO THE MALIGNANT EXPLANATION PUT UPON IT" - This section discusses the healing of a demon-possessed man and the malicious interpretation of the miracle by some. It showcases the power of Jesus and his response to the accusations.
 3. "And when His friends heard of it, they went out to lay hold on Him; for they said, He is beside Himself" - This quote reveals the concern of Jesus' relatives who believed he was acting irrationally. It provides insight into the challenges Jesus faced from those closest to him.
@@ -37,4 +37,4 @@ This verse emphasizes the universal nature of Christ's grace and the inclusion o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

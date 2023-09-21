@@ -9,7 +9,7 @@ In this verse, the speaker reflects on the arduous task of convincing others to 
 2. "He wishes by his earnest preaching of Jesus as the Christ among them, to undo the mischief of which he before was the agent."
 3. "Paul alleges his former zeal and his consenting to Stephen’s death as reasons why he should remain in Jerusalem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This thrilling dialogue between the glorified Redeemer and his chosen vessel is nowhere else related." 
 2. "He thus calls their attention to the fact that after his conversion he kept up his connection with the temple as before." 
 3. "He thus calls their attention to the fact that after his conversion he kept up his connection with the temple as before."
@@ -50,4 +50,4 @@ In this verse, the speaker reflects on the arduous task of convincing others to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

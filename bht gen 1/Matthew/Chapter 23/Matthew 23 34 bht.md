@@ -9,7 +9,7 @@ In this Bible verse, messengers of God are foretold to be rejected and persecute
 2. "He speaks this as Head of His Church, of those whom He was about to send."
 3. "The καί takes out the στανρώσετε, the special, from the ἀποκτενεῖτε, the general; with, of course, somewhat of emphasis."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am sending, that is, am about to send." 
 2. "It appears to be simply an announcement of a purpose of the Divine Wisdom, in the high style of ancient prophecy, to send a last set of messengers whom the people would reject, and rejecting, would fill up the cup of their iniquity."
 3. "They are evidently evangelical messengers, but called by the familiar Jewish names of 'prophets, wise men, and scribes,' whose counterparts were the inspired and gifted servants of the Lord Jesus."
@@ -43,4 +43,4 @@ In this Bible verse, messengers of God are foretold to be rejected and persecute
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

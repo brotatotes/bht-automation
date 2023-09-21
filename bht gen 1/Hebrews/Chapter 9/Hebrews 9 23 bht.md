@@ -9,7 +9,7 @@ The heavenly things themselves, which include the patterns, exemplars, and reali
 2. "Every kind of inauguration, or patefaction, passed upon the heavenly things themselves by means of blood, must mean an inauguration or patefaction by means of propitiatory purification."
 3. "The heaven itself needed, and obtained, purification by the atoning blood of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The purification removes this element of disorder and changes God's wrath against man in heaven into a smile of reconciliation."
 2. "The uncreated heaven of God, though in itself untroubled light, yet needed a purification in so far as the light of love was obscured by the fire of wrath against sinful man."
 3. "Christ's atonement had the effect also of casting Satan out of heaven."
@@ -58,4 +58,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

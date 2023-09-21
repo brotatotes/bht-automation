@@ -9,7 +9,7 @@ In this verse, a beloved and faithful minister named Tychicus is sent by Paul to
 2. "There is a delicate touch of affection in ἵνα γνῷ τὰ περὶ ὑμ ., which can hardly, in the doubtfulness of the reading, be the work of a corrector."
 3. "δείκνυσιν αὐτοὺς ἐν τοῖς πειρασμοῖς ὄντας , Chrys."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Tychicus... who is a beloved brother" - This highlights the close relationship between Tychicus and the recipients of the letter, emphasizing his importance and familiarity to them.
 
 2. "The beloved brother" - The use of the definite article "the" suggests that Tychicus is not just any brother, but a well-known and respected figure among the recipients of the letter.
@@ -47,4 +47,4 @@ In this verse, a beloved and faithful minister named Tychicus is sent by Paul to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

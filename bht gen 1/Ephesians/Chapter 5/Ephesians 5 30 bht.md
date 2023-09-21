@@ -11,7 +11,7 @@ The verse describes an intimate and inseparable union between Christ and the Chu
 
 Note: The commentary is quite lengthy, so I have selected three quotes that provide a concise and meaningful understanding of the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ nourisheth and cherisheth the Church as being of one flesh with Him."
 2. "Adam's deep sleep, wherein Eve was formed from out of his opened side, is an emblem of Christ's death, which was the birth of the Spouse, the Church."
 3. "It is not our bones and flesh, but 'we' that are spiritually propagated (in our soul and spirit now, and in the body hereafter, regenerated) from the manhood of Christ which has flesh and bones."
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

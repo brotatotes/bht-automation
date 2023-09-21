@@ -9,7 +9,7 @@ In this verse, there is a warning against false teachings within the church, spe
 2) "For our Lord here takes up and refers to those very words [from the apostolic decree], in which these very matters here in question, fornication and abstaining from unholy meats, were the only things forbidden to the Gentile converts."
 3) "This act of simple obedience, and no deep matters beyond their reach, was what the Lord required of them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit here declares their so-called 'depths,' (namely, of knowledge of divine things) to be really 'depths of Satan'; just as in Revelation 2:9, He says, instead of 'the synagogue of God,' 'the synagogue of Satan.'" 
 2. "The original sin of Adam was a desire to know EVIL as well as good, so in HENGSTENBERG'S view, those who professed to know 'the depths of Satan.' It is the prerogative of God alone to know evil fully, without being hurt or defiled by it." 
 3. "No 'depths' beyond your reach, such as they teach, no new doctrine, but the old faith and rule of practice once for all delivered to the saints."
@@ -45,4 +45,4 @@ In this verse, there is a warning against false teachings within the church, spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

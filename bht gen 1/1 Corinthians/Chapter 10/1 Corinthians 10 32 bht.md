@@ -9,7 +9,7 @@ In all things, we are called to avoid causing offense to others. Whether they ar
 2. "In other things, both Jews and Greeks must be offended." 
 3. "Whether to Jews or Heathens, or to the Church of God, their own brethren."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In all essential things affecting Christian doctrine and practice, even in the smallest detail, we must not swerve from principle, whatever offense may be the result." 
 
 2. "Giving offense is unnecessary if our own spirit cause it; necessary if it be caused by the truth." 
@@ -50,4 +50,4 @@ In all things, we are called to avoid causing offense to others. Whether they ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

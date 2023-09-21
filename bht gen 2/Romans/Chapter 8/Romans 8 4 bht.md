@@ -10,7 +10,7 @@ The purpose of God in giving the Law was for it to be fulfilled in believers, wh
 3. "All those of whom the above is true..."
 4. "Who, notwithstanding that we are bound up with a σὰρξ ἁμαρτίας, do not walk in our daily life according to, or led by, the νόμος τῆς ἁμαρτίας ὁ ἐν τοῖς μέλεσιν ἡμῶν, but according to and led by the νόμος τοῦ πνεύματος τῆς ζωῆς, in Christ Jesus members of Him, and participating in that victory over sin which He obtained, by which the power of sin in our flesh is broken."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The righteousness of the law might be fulfilled in us." 
 
 2. "Realized in us."
@@ -80,4 +80,4 @@ The purpose of God in giving the Law was for it to be fulfilled in believers, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

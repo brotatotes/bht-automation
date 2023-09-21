@@ -9,7 +9,7 @@ In this verse, a prophet named Agabus rises up with a significant message, indic
 2. "The fem. usage of λιμός prevailed among the Dorians and later Greeks."
 3. "The expression is a hyperbolical one in ordinary use, and not to be pressed as strictly implying that to which its literal meaning would extend."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Four famines occurred during his reign." 
 2. "This one in Judea and the adjacent countries took place, A.D. 41." 
 3. "An important date for tracing out the chronology of the Acts."
@@ -57,4 +57,4 @@ In this verse, a prophet named Agabus rises up with a significant message, indic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

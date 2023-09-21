@@ -4,7 +4,7 @@
 In this verse, the Son of Man is depicted as embarking on a distant journey, symbolizing Jesus' imminent departure from the world and the assignment of responsibilities to his followers. His departure is not permanent, but signifies a transition, whether it be his ascension into heaven or the time of death. This passage emphasizes the importance of vigilance, watchfulness, and faithful service in anticipation of the Master's return. It reminds us of our duty as individuals, as well as the responsibility of religious leaders to protect and guide their communities.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the Son of man is as a man taking a far journey." - This phrase suggests that Jesus, as the Son of man, is going on a journey, possibly referring to his ascension into heaven. It highlights the temporary nature of his absence from the world.
 
 2. "The gatekeeper...to watch." - This phrase emphasizes the responsibility of religious leaders to be vigilant and alert, warning the people of any impending danger. It implies that ministers of religion have a duty to protect and guide their flock.
@@ -49,4 +49,4 @@ In this verse, the Son of Man is depicted as embarking on a distant journey, sym
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of the profound joy and unwavering faith experienced by believ
 2. "Joy unspeakable, which cannot be spoken out."
 3. "Joy shall be crowned with glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They are more 'blessed that have not seen and yet have believed,' than they who believed because they have seen."
 2. "Though the apostles had seen Him, they now ceased to know Him merely after the flesh."
 3. "The Christian's joy is bound up with love to Jesus: its ground is faith; it is not therefore either self-seeking or self-sufficient."
@@ -56,4 +56,4 @@ This verse speaks of the profound joy and unwavering faith experienced by believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

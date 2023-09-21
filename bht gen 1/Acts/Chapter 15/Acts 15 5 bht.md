@@ -4,7 +4,7 @@
 In this Bible verse, there is a confrontation between Paul, Barnabas, and certain individuals who oppose them. These individuals insist that Gentile believers must be circumcised and adhere to the law of Moses. This debate reflects the challenge of integrating Gentile believers into the early Christian community and the tension between the old Jewish customs and the freedom found in Christ. It also reveals the importance of true transformation and the potential for lingering prejudices among believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "being brought on their way by the church—a kind of official escort."
 2. "they passed through Phenice and Samaria, declaring the conversion of the Gentiles."
 3. "they caused great joy to the brethren."
@@ -53,4 +53,4 @@ Note: The commentary provided is very short and does not contain much additional
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

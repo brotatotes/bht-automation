@@ -9,7 +9,7 @@ During the feast of dedication, which was instituted by Judas Maccabeus to comme
 2. "It was held on Chisleu (December) 25, and seven following days."
 3. "The notice is inserted to explain to Gentile readers the reason of our Lord’s walking in Solomon’s portico."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the feast of the dedication—celebrated rather more than two months after the feast of tabernacles, during which intermediate period our Lord seems to have remained in the neighborhood of Jerusalem."
 2. "It was instituted by Jude Maccabeus, to commemorate the purification of the temple from the profanations to which it had been subjected by Antiochus Epiphanes 165 B.C."
 3. "it was winter—implying some inclemency."
@@ -55,4 +55,4 @@ During the feast of dedication, which was instituted by Judas Maccabeus to comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

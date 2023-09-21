@@ -4,7 +4,7 @@
 In this passage, Jesus addresses the blind guides, condemning their misleading teachings that have disastrous effects. He rebukes their focus on vain distinctions and encourages swearing by trivial things instead of understanding the sanctity of oaths. These blind guides prioritize their own gain, disregarding the binding nature of oaths made by the temple. Their ignorance of divine truth, coupled with their covetous disposition, demonstrates their lack of spiritual understanding and their failure to uphold their commitments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Woe unto you, ye blind guides—Striking expression this of the ruinous effects of erroneous teaching."
 2. "Our Lord, here and in some following verses, condemns the subtle distinctions they made as to the sanctity of oaths—distinctions invented only to promote their own avaricious purposes."
 3. "He is a debtor!—that is, it is no longer his own, even though the necessities of the parent might require it."
@@ -48,4 +48,4 @@ Overall, these quotes help to deepen our understanding of the verse by highlight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

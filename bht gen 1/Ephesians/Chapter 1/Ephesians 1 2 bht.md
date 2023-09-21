@@ -9,7 +9,7 @@ The Bible verse being described is a greeting that combines the Greek concept of
 2. "The Socinian perversion of the words, ‘from God, who is the Father of us and of our Lord Jesus Christ,’ is decisively refuted by Titus 1:4."
 3. "We must not fall into the error of refining too much, as Stier, on χάρις and εἰρήνη, as referring respectively to ἁγίοις and πιστοῖς."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'grace to you and peace' is a common greeting in the New Testament letters. It is significant because it combines the Greek greeting 'grace' (charis) with the Jewish greeting 'peace' (shalom). This combination highlights the unity of the Jewish and Gentile believers in Christ, as they are both recipients of God's grace and participants in His peace." 
 
 2. "The mention of 'our Father' in these verses emphasizes the intimate and personal relationship that believers have with God through Jesus Christ. It reminds us that we are not just recipients of grace and peace, but we are also children of God, adopted into His family. This familial language underscores the love and care that God has for His children."
@@ -37,4 +37,4 @@ The Bible verse being described is a greeting that combines the Greek concept of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

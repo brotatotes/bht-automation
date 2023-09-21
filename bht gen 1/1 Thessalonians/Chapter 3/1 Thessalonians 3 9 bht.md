@@ -9,7 +9,7 @@ The verse being described captures the profound joy and gratitude expressed by t
 2. "Thanks is itself a return for God's favors."
 3. "The joy is of the very highest and best, no joy of this world, or of personal pride, but one which will bear, and does bear, the searching eye of God, and is His joy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For what thanks—what sufficient thanks?" - This quote highlights the magnitude of gratitude that should be expressed towards God for His goodness. It emphasizes the idea that mere words cannot fully express the depth of appreciation we should have.
 
 2. "It was 'comfort,' now it is more, namely, joy." - This quote suggests that the initial comfort experienced by the readers has now transformed into a greater sense of joy. It implies that God's goodness and blessings have brought about a profound and lasting joy in their lives.
@@ -47,4 +47,4 @@ The verse being described captures the profound joy and gratitude expressed by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

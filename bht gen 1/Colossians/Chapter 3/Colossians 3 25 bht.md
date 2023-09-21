@@ -9,7 +9,7 @@ In this verse, we are encouraged to regard Christ as our Master and serve Him, l
 2. "All their wrongs in this world, if they leave them in His hands, will be in due time righted by Him."
 3. "At His tribunal, every one, without regard to rank or wealth, shall receive the deeds done in the body."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Serve ye the Lord Christ, and leave your wrongs in His hands to put to rights."
 2. "For he that doeth wrong shall receive back the wrong which he hath done, and there is no respect of persons."
 3. "He favors the master no more than the slave."
@@ -40,4 +40,4 @@ In this verse, we are encouraged to regard Christ as our Master and serve Him, l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

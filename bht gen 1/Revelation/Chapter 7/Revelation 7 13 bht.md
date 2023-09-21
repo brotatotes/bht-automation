@@ -4,7 +4,7 @@
 In this verse, an elder interrupts the vision to draw John's attention to a group of individuals. The elder's question highlights the curiosity surrounding the identity and origin of the people in white robes. This interruption serves to emphasize the significance of these individuals, who are depicted as triumphant and victorious through their salvation in the Lamb. The elder's intervention acts as an interpretation of the vision, guiding John's understanding and encouraging him to contemplate the importance of this chosen multitude.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "One of the twenty-four elders, representing the Old and New Testament ministry, appropriately acts as interpreter of this vision of the glorified Church."
 2. "These which are arrayed in white robes, WHO are they?"
 3. "The question which might have been expected to arise in John's mind from what has gone before."
@@ -45,4 +45,4 @@ In this verse, an elder interrupts the vision to draw John's attention to a grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

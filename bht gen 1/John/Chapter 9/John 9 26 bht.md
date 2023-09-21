@@ -9,7 +9,7 @@ In this passage, the religious leaders are relentless in their pursuit to underm
 2. "Or to make him state something which should bring out some stronger violation of the sabbath" - This quote implies that the individuals questioning Jesus are hoping to provoke him into saying or doing something that would be seen as a more significant violation of the Sabbath.
 3. "The sabbath was a favorite subject of contention between the Pharisees and Jesus" - This quote highlights the ongoing conflict between Jesus and the Pharisees regarding the interpretation and observance of the Sabbath.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The youth is more than a match for them."
 2. "Hoping by repeated questions to ensnare him."
 3. "They said... again, 'What did he do to you?'"
@@ -45,4 +45,4 @@ In this passage, the religious leaders are relentless in their pursuit to underm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

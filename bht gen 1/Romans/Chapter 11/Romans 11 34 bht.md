@@ -9,7 +9,7 @@ The verse in question discusses the incomprehensibility and wisdom of God. It em
 2. "Who hath known the mind (γνῶσις, but see above) of the Lord?" 
 3. "Or who hath been His counsellor (σοφία)?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For who hath known the mind of the Lord?" - This quote emphasizes the incomprehensibility of God's thoughts and plans, highlighting the vastness of His wisdom and knowledge.
 
 2. "Or who hath been his counsellor?" - This quote underscores the fact that no one can give advice or guidance to God, as He is the ultimate source of wisdom and understanding.
@@ -57,4 +57,4 @@ The verse in question discusses the incomprehensibility and wisdom of God. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

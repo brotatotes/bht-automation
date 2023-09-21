@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the incredible nature of God
 2. "He bestowed upon us...the meaning of χαριτόω is disputed...And this latter sense is adopted, here and in Luke 1:28 (where see note), by many, e.g. by Chrys., τουτέστιν , οὐ μόνον ἁμαρτημάτων ἀπήλλαξεν , ἀλλὰ καὶ ἐπεράστους ἐποίησε , Erasm., Luth., all. But the meaning of χάρις , on which this is founded, does not seem to occur in the N. T., certainly not in St. Paul. And χαριτόω , both here and in I. c., according to the analogy of such verbs, will be ‘to bestow grace.’"
 3. "The becoming χαρίεντες may be a consequence of being κεχαριτωμένοι, but must be quite independent of its verbal meaning."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The end aimed at (Psalms 50:23), that is, that the glory of His grace may be praised by all His creatures, men and angels."
 2. "Us accepted—a kindred Greek word to 'grace': charitos, echaritosen: translate, 'graciously accepted'; 'made us subjects of His grace'; 'embraced us in the arms of His grace' (Romans 3:24; Romans 5:15)."
 3. "In the beloved—pre-eminently so called (Matthew 3:17; Matthew 17:5; John 3:35; Colossians 1:13). Greek, 'Son of His love.' It is only 'IN HIS BELOVED' that He loves us (Ephesians 1:3; 1 John 4:9; 1 John 4:10)."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

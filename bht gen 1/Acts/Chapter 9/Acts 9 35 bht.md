@@ -9,7 +9,7 @@ In a miraculous event witnessed by the inhabitants of Lydda and the fruitful pla
 2. "Perhaps not a village, but the celebrated plain of that name." - The reference to "the plain of Saron" suggests that it may not be a village but a well-known geographical area.
 3. "More recent travelers do not notice it." - The existence of the village Saren mentioned by Mariti is not confirmed by recent travelers, raising doubts about its actual location.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All that dwelt at Lydda and Saron saw him" - This suggests that the miracle performed by Peter was witnessed by a wide range of people, making it more impactful and influential in their decision to turn to the Lord.
 
 2. "Turned to the Lord" - The phrase highlights the transformative power of the miracle, as it led to a collective conversion of the people. It implies that witnessing such a miraculous event can inspire individuals to reevaluate their beliefs and commit themselves to the Lord.
@@ -59,4 +59,4 @@ In a miraculous event witnessed by the inhabitants of Lydda and the fruitful pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

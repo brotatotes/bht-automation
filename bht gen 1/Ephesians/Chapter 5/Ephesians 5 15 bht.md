@@ -9,7 +9,7 @@ This verse emphasizes the importance of being mindful and intentional in our dai
 2. "Buying up for yourselves (the) opportunity: let it not pass by, but as merchants carefully looking out for vantages, make it your own."
 3. "The days of your time, in which you live, are evil: therefore, buy up the opportunity to counteract the evil and use it for godliness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "See how ye walk," &c. The double idea is compressed into one sentence: "See (take heed) how ye walk," and "See that ye walk circumspectly." The manner, as well as the act itself, is included.
 2. "See how ye are walking, with a view to your being circumspect (literally, accurate, exact) in your walk."
 3. "Walk in wisdom (answering to 'as wise' here) toward them that are without" (answering to "circumspectly," that is, correctly, in relation to the unbelievers around, not giving occasion of stumbling to any, but edifying all by a consistent walk).
@@ -54,4 +54,4 @@ This verse emphasizes the importance of being mindful and intentional in our dai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

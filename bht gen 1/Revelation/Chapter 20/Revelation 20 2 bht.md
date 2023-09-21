@@ -4,7 +4,7 @@
 In this verse, a powerful confrontation takes place as a figure seizes the ancient serpent, the devil, and Satan. The dragon, symbolizing the wickedness and deception in the world, is confronted with superior force, leading to a thousand-year period of immunity from evil and a flourishing of blessings. The binding of the devil during this time restrains his ability to disturb or deceive, bringing peace to the saints and safeguarding them from the nations' persecution. The significance of this event, shrouded in mystery, lies in its connection to the redemptive work of Christ, His cross, and His glorious victory.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thousand symbolizes that the world is perfectly leavened and pervaded by the divine."
 2. "Thousand is ten, the number of the world, raised to the third power, three being the number of God."
 3. "It may denote literally also a thousand years."
@@ -45,4 +45,4 @@ In this verse, a powerful confrontation takes place as a figure seizes the ancie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

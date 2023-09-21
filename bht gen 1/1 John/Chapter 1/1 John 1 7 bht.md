@@ -9,7 +9,7 @@ Walking in the light, as God is in the light, is more than just imitating God; i
 2. "Christian communion is then only real, when it is communion with God."
 3. "Whatever sins we may still be betrayed into by the infirmity of our nature and the malice of the devil, from them the Blood of Jesus purifies us day by day."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Walking in the light as He is in the light, is no mere imitation of God, but an identity in the essential element of our daily walk with the essential element of God's eternal being."
 2. "Without having fellowship with God there can be no true and Christian fellowship one with another."
 3. "He is speaking not of justification through His blood once for all, but of the present sanctification which the believer, walking in the light and having fellowship with God and the saints, enjoys as His privilege."
@@ -48,4 +48,4 @@ Walking in the light, as God is in the light, is more than just imitating God; i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

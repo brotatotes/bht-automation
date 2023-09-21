@@ -11,7 +11,7 @@ In this verse, Jesus exercises his authority and command over those he healed, i
 
 3. "and note" - There is additional information or explanation provided in the note associated with Matthew 8:4. (Note: ch. Matthew 8:4, and note)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And charged them—the healed." - This quote highlights the authority and command Jesus had over those he healed. It shows that he gave specific instructions to those he helped, indicating his desire for them to follow his guidance.
 2. "That they should not make him known." - This quote suggests that Jesus did not seek fame or recognition for his miracles. It implies that he wanted the focus to be on the healing itself rather than on his own identity.
 3. "(See on Matthew 8:4)." - This quote refers to a cross-reference in the commentary, indicating that there is additional information or context about this verse in the book of Matthew. It encourages readers to explore further and gain a deeper understanding of the verse.
@@ -35,4 +35,4 @@ In this verse, Jesus exercises his authority and command over those he healed, i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

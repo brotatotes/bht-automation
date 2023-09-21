@@ -9,7 +9,7 @@ In this verse, we see Festus, driven by a desire to please the Jews and gain fav
 2. "It seems to propose only a change of place; but doubtless in the ἐκεῖ κριθῆναι was contained by implication a sentence pronounced by the Sanhedrim."
 3. "Festus may very probably have anticipated the rejection of this proposal by Paul, and have wished to make it appear that the obstacle in the way of Paul being tried by the Sanhedrim arose not from him, but from the prisoner himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Festus, willing to do the Jews a pleasure—to ingratiate himself with them." - This quote highlights Festus' motivation for suggesting that Paul be judged in Jerusalem. It reveals his desire to please the Jewish leaders and gain favor with them, even at the expense of justice.
 
 2. "If this was meant in earnest, it was temporizing and vacillating." - This quote suggests that Festus' suggestion to have the trial in Jerusalem may have been a way to delay making a decision or to avoid taking a firm stance. It implies that his actions were indecisive and lacking in conviction.
@@ -63,4 +63,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

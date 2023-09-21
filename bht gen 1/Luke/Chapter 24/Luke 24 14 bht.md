@@ -4,7 +4,7 @@
 The disciples engaged in deep conversation, reasoning and exchanging views to understand the events surrounding Jesus' death, resurrection, and the ignominious treatment he endured. Their discussion likely included the news of Jesus' resurrection, which fed their growing faith and anticipation of encountering the risen Lord. This passage emphasizes the importance of seeking understanding and clarity in our faith, even in the face of confusion and doubt, as the disciples did in their conversation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "communed and reasoned—exchanged views and feelings, weighing afresh all the facts" - This quote highlights the deep and thoughtful conversation between the disciples as they try to make sense of the events surrounding Jesus' death and resurrection.
 
 2. "drew near—coming up behind them as from Jerusalem" - This quote emphasizes the unexpected nature of Jesus' presence, as he approaches the disciples from behind. It adds to the element of surprise and mystery in the story.
@@ -41,4 +41,4 @@ The disciples engaged in deep conversation, reasoning and exchanging views to un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

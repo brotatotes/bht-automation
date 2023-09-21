@@ -9,7 +9,7 @@ The commentator quotes provide insight into the nature of the Bible verse, witho
 2. "He would not think of deceiving those of whom he boasted before God in connexion with Christ."
 3. "ναὶ μά is often found in an affirmative sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your rejoicing" refers to the enjoyable state of the Corinthians, contrasting with Paul's daily dying to give them joy and glory. (1 Corinthians 4:8; 2 Corinthians 4:12; 2 Corinthians 4:15; Ephesians 3:13; Philippians 1:26)
 2. The phrase "which I have" suggests that Paul is talking about the rejoicing he has over the Corinthians. (1 Corinthians 4:8; 2 Corinthians 4:12; 2 Corinthians 4:15; Ephesians 3:13; Philippians 1:26)
 3. Paul emphasizes that he is daily exposed to and expecting death, highlighting the constant danger he faces. (2 Corinthians 4:11; 2 Corinthians 4:12; 2 Corinthians 1:8; 2 Corinthians 1:9; 2 Corinthians 11:23)
@@ -59,4 +59,4 @@ The commentator quotes provide insight into the nature of the Bible verse, witho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

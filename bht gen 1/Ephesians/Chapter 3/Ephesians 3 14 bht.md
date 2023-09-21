@@ -11,7 +11,7 @@ In this passage, the apostle is seen humbly bowing his knees in prayer, expressi
 
 3. "May there not be fathers in the heavenly Israel, as in the earthly? May not the holy Angels be bound up in spiritual πατριαί, though they marry not nor are given in marriage?" - The commentator raises thought-provoking questions about the existence of fathers in the heavenly realm and the possibility of spiritual paternity among the holy Angels.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because ye have such a standing in God's Church."
 2. "Posture affects the mind, and is not therefore unimportant."
 3. "Still the foundation of all sonship is in Jesus Christ."
@@ -52,4 +52,4 @@ In this passage, the apostle is seen humbly bowing his knees in prayer, expressi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

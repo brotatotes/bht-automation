@@ -9,7 +9,7 @@ In the Bible verse described, Jesus performs his first miracle by turning water 
 2. "It was a miracle eminently shewing forth the glory of the λόγος, διʼ οὗ πάντα ἐγένετο, in His state of having become flesh."
 3. "And doubtless this is providentially so arranged: see the objections to it treated, and some admirable concluding remarks, in Lücke, i. 478."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nothing in the least like this is said of the miracles of prophet or apostle, nor could without manifest blasphemy be said of any mere creature."
 2. "As the miracle did not make bad good, but good better, so Christianity only redeems, sanctifies, and ennobles the beneficent but abused institution of marriage; and Christ's whole work only turns the water of earth into the wine of heaven."
 3. "As Christ countenanced our seasons of festivity, so also that greater fulness which befits such; so far was He from encouraging that asceticism which has since been so often put for all religion."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

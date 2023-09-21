@@ -4,7 +4,7 @@
 In a powerful spiritual encounter, Jesus is confronted by a man possessed by multiple unclean spirits. The intensity of the man's possession and his remarkably fierce and ungovernable state reflect the battle between good and evil. Although there may be differences in the number of possessed individuals mentioned by various accounts, the focus should be on the significance of Jesus' deliverance from demonic oppression, emphasizing his authority over the forces of darkness. Mark's unique details provide valuable insights into this event, showcasing the richness and complexity of the biblical text.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "there met him a man with an unclean spirit" - This encounter with a man possessed by demons highlights the spiritual battle between good and evil that Jesus confronts.
 2. "which had devils [demons] long time" - The presence of demons in this man's life for a long time emphasizes the power and influence of evil forces that can possess and control individuals.
 3. "Though there be no discrepancy between these two statements... it is difficult to see how the principal details here given could apply to more than one case." - While the number of possessed individuals may differ in different accounts, the focus should be on the significance of the encounter and the deliverance from demonic oppression.
@@ -35,4 +35,4 @@ In a powerful spiritual encounter, Jesus is confronted by a man possessed by mul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the Lord reveals the unseen world of glory. It speaks of th
 2. "They are the subjectively righteous, and this saying respects their own view of themselves."
 3. "This one is the stupid and bewildered sinner, erring and straying away in ignorance and self-will from his Shepherd, but sought by the Shepherd, and fetched back with joy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "ninety-nine just . . . needing no repentance—not angels, whose place in these parables is very different from this; but those represented by the prodigal's well-behaved brother, who have 'served their Father' many years and not at any time transgressed His commandment." 
 2. "such as have grown up from childhood in the fear of God and as the sheep of His pasture." 
 3. "He leaves them to fill up the place of the other class, if they could."
@@ -50,4 +50,4 @@ These quotes highlight the concept of joy in heaven over the repentance of a sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

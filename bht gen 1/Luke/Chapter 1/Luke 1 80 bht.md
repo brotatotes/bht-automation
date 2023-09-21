@@ -9,7 +9,7 @@ In this passage, we read about the development of John the Baptist. Various comm
 2. "That this first chapter is such a separate document, appears from its very distinct style."
 3. "The Old Testament spirit is stronger here, and the very phraseology more in unison with Hebrew usage."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "a concluding paragraph, indicating, in strokes full of grandeur, the bodily and mental development of the Baptist and bringing his life up to the period of his public appearance" [OLSHAUSEN].
 2. "the wilderness of Judea" (Matthew 3:1), where he had retired early in life, in the Nazarite spirit, and where, free from rabbinical influences and alone with God, his spirit would be educated, like Moses in the desert, for his future high vocation.
 3. "his showing unto Israel" - the presentation of himself before his nation, as Messiah's forerunner.
@@ -43,4 +43,4 @@ In this passage, we read about the development of John the Baptist. Various comm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

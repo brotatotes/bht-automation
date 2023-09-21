@@ -9,7 +9,7 @@ The verse described in these commentaries emphasizes the divine nature of Christ
 2. "He, as the Son, is the one who established the house of God... but it is as one with, by virtue of his Sonship, Him who is the one who established all things, viz. God."
 3. "The ancient expositors... take θεός as predicate, and ὁ (τὰ) πάντα κατασκευάσας as a designation of Christ 'now He that founded all things, is (must be) God:' thus making the passage a proof of the deity of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Someone must be the establisher of every house; Moses was not the establisher of the house, but a portion of it." This quote highlights the distinction between Moses and Christ, emphasizing that Moses played a role in the establishment of the house, but Christ is the ultimate establisher.
 2. "He who established all things, and therefore the spiritual house in question, is God." This quote emphasizes that God is the one who established the spiritual house, further highlighting the divine nature of Christ as the establisher.
 3. "Christ, as being instrumentally the Establisher of all things, must be the Establisher of the house, and so greater than Moses." This quote establishes the superiority of Christ over Moses, as Christ is not only the establisher of the house but also the establisher of all things.
@@ -53,4 +53,4 @@ The verse described in these commentaries emphasizes the divine nature of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

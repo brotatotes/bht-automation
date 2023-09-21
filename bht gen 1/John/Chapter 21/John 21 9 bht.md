@@ -9,7 +9,7 @@ In this passage, a scene unfolds where a group of boatmen disembark and come upo
 2. "Let any child reading the chapter be the judge."
 3. "And what difficulty is there in such a fire and fish being provided either by the Lord Himself, or by the ministry of angels at His bidding?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By comparing this with other passages, the unseen agency by which Jesus made this provision will appear evident."
 2. "The fire of coals, fish, and bread symbolize the miraculous provision of Jesus."
 3. "This scene highlights Jesus' ability to provide for the physical needs of his followers."
@@ -47,4 +47,4 @@ In this passage, a scene unfolds where a group of boatmen disembark and come upo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

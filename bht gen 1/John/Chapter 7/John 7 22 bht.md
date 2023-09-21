@@ -9,7 +9,7 @@ In this verse, commentators reflect on the relationship between circumcision and
 2. "If this may be done on the Sabbath: if an ordinance strictly Mosaic (which the Sabbath in its Jewish mode of observance was) may be set aside by another, Mosaic also, but more ancient, and borrowed from a more general and direct command of God." 
 3. "How much more may it be a deed of mercy, a benevolent exercise of divine power, the approval of which is anterior to and deeper than all ceremonial enactment?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How much less ought fault to be found with One who had made a man 'every whit whole'—or rather, 'a man's entire body whole'—on the sabbath-day?" 
 
 2. "What a testimony to the reality of the miracle, none daring to meet the bold appeal."
@@ -54,4 +54,4 @@ In this verse, commentators reflect on the relationship between circumcision and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

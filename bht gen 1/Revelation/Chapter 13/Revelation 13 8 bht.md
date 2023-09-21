@@ -4,7 +4,7 @@
 This verse describes the worship and reverence given to a figure in contrast to those who follow a heavenly path. The sacrifice of this figure was predestined and planned by God even before the world's creation. The significance and power of this sacrificial death are emphasized, as it fulfills prophecies and operates through the virtue of the Messiah's sacrifice alone. The verse also highlights the responsibility of individuals and the eternal nature of God's elect, who were chosen in the figure and through whom divine election is realized.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All that dwell upon the earth—being of earth earthy; in contrast to 'them that dwell in heaven.'" 
 2. "He was slain in the Father's eternal counsels: compare 1 Peter 1:19; 1 Peter 1:20, virtually parallel." 
 3. "Whatsoever virtue was in the sacrifices, did operate through Messiah's death alone."
@@ -44,4 +44,4 @@ Note: The commentary provides additional references to other verses for further 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

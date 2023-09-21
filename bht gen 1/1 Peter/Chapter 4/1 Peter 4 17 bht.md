@@ -9,7 +9,7 @@ In this Bible verse, the commentators emphasize the concept that God's judgment 
 2. "The reference is to prophecies like Jeremiah 25:15 ff., Ezekiel 9:6; Amos 3:2." 
 3. "The argument, 'a minori ad majus,' see expanded above."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God's own household first, their chastisement being here, for which they should glorify Him as a proof of their membership in His family, and a pledge of their escape from the end of those whom the last judgment shall find disobedient to the Gospel."
 2. "Judgment is already begun, the Gospel word, as a 'two-edged sword,' having the double effect of saving some and condemning others, and shall be consummated at the last judgment."
 3. "If even the godly have chastening judgments now, how much more shall the ungodly be doomed to damnatory judgments at last."
@@ -52,4 +52,4 @@ Overall, this commentary highlights the dual nature of God's judgment - it begin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

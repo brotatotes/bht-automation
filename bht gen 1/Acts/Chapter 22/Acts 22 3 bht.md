@@ -9,7 +9,7 @@ In this Bible verse, the narrator, who was a zealous Jew, recounts his upbringin
 2. "κατὰ ἀκρ .] (The art. omitted aft. a prep.) According to the strict acceptation of the law of my fathers; = κατὰ τὴν ἀκριβεστάτην αἵρεσιν τῆς ἡμετέρας θρησκείας, ch. Acts 26:5; i.e. as a Pharisee."
 3. "καθὼς … ] Not meaning ‘in the same way as YE are all this day’ (but now in another way): but as ye all are this day: ‘I had the same zealous character (not excluding his still retaining it) which you all shew to-day.’ A conciliatory comparison."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A fact of great importance in the apostle's history, standing in the same relation to his future career as Moses' education in the Egyptian court to the work for which he was destined."
 2. "The perfect manner of the law of the fathers—the strictest form of traditional Judaism."
 3. "His own former murderous zeal against the disciples of the Lord Jesus being merely reflected in their present treatment of himself."
@@ -53,4 +53,4 @@ In this Bible verse, the narrator, who was a zealous Jew, recounts his upbringin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, a prophecy is given about a series of fallen kingdoms, starting with mighty empires such as Egypt, Assyria, Babylon, Medo-Persia, and Greece. The prominence of Rome, as the dominant kingdom during the author's time, is emphasized. The verse also hints at the future rise of a heathen and Antichristian empire that will only last for a short period. Through the imagery of fallen kings and kingdoms, the verse conveys the ultimate downfall and defeat of those who oppose God's will.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the first five of the seven are fallen": This phrase refers to the fall of once powerful empires such as Egypt, Assyria, Babylon, Medo-Persia, and Greece. It highlights the historical context of the verse and the succession of kingdoms throughout history.
 
 2. "Rome was 'the one' existing in John's days": This statement emphasizes that Rome was the dominant kingdom during the time of the author, highlighting its significance in the interpretation of the verse.
@@ -45,4 +45,4 @@ In this verse, a prophecy is given about a series of fallen kingdoms, starting w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

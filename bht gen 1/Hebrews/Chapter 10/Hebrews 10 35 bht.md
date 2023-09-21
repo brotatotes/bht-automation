@@ -9,7 +9,7 @@ This verse encourages believers to hold on to their faith and hope in Christ, no
 2. "It is better to keep the active, intentional sense of 'to cast away' than to take the accidental and involuntary sense of 'lose not.'"
 3. "The simple relative would predicate what follows of the one preceding individual antecedent only, whereas ἥτις predicates it of a whole class of which that antecedent is one."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cast not away—implying that they now have 'confidence,' and that it will not withdraw of itself, unless they 'cast it away' wilfully."
 2. "It hath in reversion."
 3. "Self-devoting unselfishness for Christ's sake will be its own rich recompense."
@@ -59,4 +59,4 @@ This verse encourages believers to hold on to their faith and hope in Christ, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

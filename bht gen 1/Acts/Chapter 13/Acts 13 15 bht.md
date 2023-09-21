@@ -9,7 +9,7 @@ In the synagogues, the law and the prophets were read regularly, with the law ta
 2. "Before the time of Antiochus Epiphanes, the Law only was read in the synagogues: but, this having been forbidden by him, the Prophets were substituted."
 3. "The message was probably sent to them as having previously to this taught in the city, and thus being known to have come for that purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Men of Israel, and ye that fear God—by the latter expression meaning religious proselytes, who united with the Jews in all acts of ordinary worship." 
 2. "and exalted the people when they dwelt as strangers in Egypt—by marvellous interpositions for them in their deepest depression." 
 3. "beckoning with his hand—as was his manner on such occasions."
@@ -50,4 +50,4 @@ These quotes provide historical context and insight into the practice of reading
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

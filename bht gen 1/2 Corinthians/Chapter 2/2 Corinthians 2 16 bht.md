@@ -9,7 +9,7 @@ The verse under review discusses the challenges and implications of proclaiming 
 2. "He does not express the answer, but it is too evident to escape any reader." 
 3. "The emphasis on the weighty import of the question is highlighted by placing 'πρὸς ταῦτα' first and delaying 'τίς' until the end of the question."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "an odor arising out of death...ending in death (to the unbeliever)" - The commentary highlights the contrast between the message of a dead Christ and a lifeless Gospel, which leads to spiritual death for unbelievers.
 
 2. "an odor arising out of life...ending in life (to the believer)" - This quote emphasizes the announcement of a risen and living Savior, which brings life to believers who embrace the Gospel message.
@@ -59,4 +59,4 @@ The verse under review discusses the challenges and implications of proclaiming 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse in question emphasizes the conditional nature of the statement, highlighting the possibility of an alternative outcome. It exposes the hypocrisy of those who are teachers but do not practice what they teach, willing to denounce gross vices like stealing while secretly engaging in them. The verse rebukes those who preach about morality but fail to embody it themselves, warning of the judgment that awaits those who use God's word without true understanding or sincerity. Ultimately, it reminds us that true glory cannot be achieved through mere knowledge or eloquence, but through righteous actions and sincere devotion to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold—"But if" is, beyond doubt, the true reading here." 
 
 2. "It differs but in a single letter from the received reading, and the sense is the same." 
@@ -50,4 +50,4 @@ The verse in question emphasizes the conditional nature of the statement, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

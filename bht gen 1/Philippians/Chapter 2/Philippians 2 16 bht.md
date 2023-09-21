@@ -4,7 +4,7 @@
 The verse speaks of holding forth the light of Christ's word to the Gentiles, reflecting His light as believers in the world. Christians are called to make the Gospel known, warning sinners and sharing the way of salvation. This duty rests on us to fix our attention on the word, present it through our conduct, and hold it fast, for it brings both blessings and joy, becoming a cause of glorying.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye hold forth the light of Christ's 'word' (received from me) which is the 'life' of the Gentiles." 
 2. "Christ is 'the Light of the world'; believers are only 'light-bearers' reflecting His light." 
 3. "That I may rejoice... against the day of Christ."
@@ -43,4 +43,4 @@ The verse speaks of holding forth the light of Christ's word to the Gentiles, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

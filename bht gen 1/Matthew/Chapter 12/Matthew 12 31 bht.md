@@ -4,7 +4,7 @@
 In this verse, we learn that all sins can find forgiveness from God, as no sin is considered unpardonable. Despite this, there is one exception - the blasphemy against the Holy Spirit. This particular sin involves attributing the works of the Holy Spirit to the devil, maliciously dishonoring God and opposing His glory. It is a sin of wilful and obstinate malice, denying the operation and doctrines of the Spirit with the purpose of gratifying one's own desires. This sin, unlike others, is deemed unforgivable both in the present age and the age to come.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Well, says our Lord, all sin—whether in its ordinary or its more aggravated forms—shall find forgiveness with God."
 2. "There is no sin whatever, it seems, of which it may be said, 'That is not a pardonable sin.'"
 3. "This glorious assurance is not to be limited by what follows; but, on the contrary, what follows is to be explained by this."
@@ -38,4 +38,4 @@ In this verse, we learn that all sins can find forgiveness from God, as no sin i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

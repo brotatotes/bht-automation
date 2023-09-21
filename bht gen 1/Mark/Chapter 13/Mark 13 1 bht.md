@@ -11,7 +11,7 @@ As they left the temple, Christ and his disciples marveled at the impressive sto
 
 3. "In his other works, Josephus also highlights the impressive size and harmony of the stones used in the construction, emphasizing their superior quality."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As some spake," says Luke ( :-); "His disciples came to Him," says Matthew ( :-). Doubtless it was the speech of one, the mouthpiece, likely, of others."
 2. "Master—Teacher."
 3. "JOSEPHUS, who gives a minute account of the wonderful structure, speaks of stones forty cubits long [Wars of the Jews, 5.5.1.] and says the pillars supporting the porches were twenty-five cubits high, all of one stone, and that of the whitest marble [Wars of the Jews, 5.5.2]."
@@ -47,4 +47,4 @@ Note: The provided commentary does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

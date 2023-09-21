@@ -4,7 +4,7 @@
 In this Bible verse, Jesus concludes his parables and explains their meaning to his disciples, emphasizing their significance and impact. He leads them to the other side of the sea, testing their faith and providing a refreshing change. Jesus intentionally takes them to the other side to perform a miracle, displaying his divine power and authority. This account serves as a powerful reminder that Jesus is always with us, able to calm the storms of life and bring peace to any situation, even when we may experience a mixture of awe and fear.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The memorable parables of the :-, and of :-" - This highlights the significance of the parables Jesus spoke on that day, emphasizing their importance and impact.
 2. "The people were waiting for Him in great numbers" - This shows the anticipation and eagerness of the crowd to hear Jesus, indicating the impact of His teachings and miracles.
 3. "To give the Gadarenes an opportunity of hearing the message of salvation" - This reveals Jesus' intention to bring the message of salvation to those in need, demonstrating His compassion and mission to save souls.
@@ -35,4 +35,4 @@ In this Bible verse, Jesus concludes his parables and explains their meaning to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, Jesus is earnestly speaking to John that he would identify 
 2. "τὸ ψωμ., probably a piece of the unleavened bread, dipped in the broth made of bitter herbs." 
 3. "Meyer remarks."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus answered—also inaudibly, the answer being communicated to Peter perhaps from behind."
 2. "He... to whom I shall give a sop when I have dipped it—a piece of the bread soaked in the wine or the sauce of the dish; one of the ancient ways of testifying peculiar regard."
 3. "And when he had dipped... he gave it to Judas, &c.—Thus the sign of Judas' treachery was an affecting expression, and the last, of the Saviour's wounded love!"
@@ -53,4 +53,4 @@ In this Bible verse, Jesus is earnestly speaking to John that he would identify 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Upon a rooftop in the Eastern heat, a man named Peter, reposing or praying, is addressed by heaven's voice. He is called by name, encouraged to obey divine commands. Through the voice, God abolishes the distinction between clean and unclean creatures, expanding Peter's mission to preach the Gospel to all people, regardless of their background. From this rooftop encounter, Peter learns that God rejects no one and removes barriers of the old law.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The flat roof, the chosen place in the East for cool retirement." 
 2. "The sixth hour—noon." 
 3. "Upon the housetop."
@@ -30,4 +30,4 @@ Upon a rooftop in the Eastern heat, a man named Peter, reposing or praying, is a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

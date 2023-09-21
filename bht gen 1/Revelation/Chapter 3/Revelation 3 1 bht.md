@@ -4,7 +4,7 @@
 In this verse, the commentator remarks on the significance of the seven Spirits of God, representing the Holy Spirit and His crucial role in providing spiritual vitality. The commentary also highlights the hierarchy and subordination of the seven stars, symbolizing leadership within the church. Furthermore, the commentator emphasizes the discerning nature of the Holy Spirit, who sees past superficial appearances and reveals the truth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that hath the seven Spirits of God—that is, He who hath all the fulness of the Spirit...proving His Godhead."
 2. "His having the seven stars, or presiding ministers, flows, as a consequence, from His having the seven Spirits, or the fulness of the Holy Spirit."
 3. "Sardis was famed among the churches for spiritual vitality; yet the Heart-searcher, who seeth not as man seeth, pronounces her dead; how great searchings of heart should her case create among even the best of us!"
@@ -45,4 +45,4 @@ In this verse, the commentator remarks on the significance of the seven Spirits 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

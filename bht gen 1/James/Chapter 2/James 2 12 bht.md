@@ -11,7 +11,7 @@ In this verse, we are reminded of the importance of aligning our words and actio
 
 Note: The commentary is discussing James 2:12 and providing insights into the importance of speaking and acting in accordance with the law of liberty, which is the moral code of the gospel.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law of liberty, through God's mercy, frees us from the curse of the law, that henceforth we should be free to love and obey willingly."
 2. "If we will not in turn practice the law of love to our neighbor, that law of grace condemns us still more heavily than the old law."
 3. "The law of liberty is not a law of external constraint, but of internal, free, instinctive inclination."
@@ -59,4 +59,4 @@ Note: The commentary is discussing James 2:12 and providing insights into the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The Bible verse being described is about the reconciliation between God and humanity through the blood of the cross. Commentators emphasize that this reconciliation involves the removal of the barrier between God and man, the restoration of friendship with God, and the reconciliation of humanity to God's justice. They also highlight the universal scope of Christ's sacrifice, which extends to all things on earth and even includes those in heaven who died before Christ's coming. The importance of the blood shed on the cross is emphasized as the means by which this reconciliation is achieved.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Scripture phrase, 'God reconciles man to Himself,' implies that He takes away by the blood of Jesus the barrier which God's justice interposes against man's being in union with God."
 2. "All creation subsists in Christ, all creation is therefore affected by His propitiation: sinful creation is strictly 'reconciled' from its enmity; sinless creation, comparatively distant from His unapproachable purity, is lifted into nearer participation of Him, and in this wider sense is reconciled."
 3. "As long as that blood of reconciliation was not actually shed, which is opposed to the accusations of Satan, but was only in promise, Satan could plead his right against men before God day and night; hence he was in heaven till the ban on man was broken."
@@ -54,4 +54,4 @@ The Bible verse being described is about the reconciliation between God and huma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

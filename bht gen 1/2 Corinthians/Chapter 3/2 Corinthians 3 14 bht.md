@@ -9,7 +9,7 @@ The commentators shed light on a Bible verse that speaks about a veil. The verse
 2. "The vail once on Moses’s face is now regarded as laid on their hearts."
 3. "The difference between those who understand and those who do not understand is now a subjective difference—the vail is no longer on the face of the speaker, but on the heart of the reader."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The veil on Moses' face is further typical of the veil that is on their hearts."
 2. "The same veil...remains untaken away...so that they do not see THAT it is done away in Christ."
 3. "The veil therefore remains untaken away from them, because they will not come to Christ, who does away with the law as a mere letter."
@@ -55,4 +55,4 @@ The commentators shed light on a Bible verse that speaks about a veil. The verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

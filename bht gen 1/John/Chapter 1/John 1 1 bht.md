@@ -9,7 +9,7 @@ In the beginning, before the creation of the world, the eternal Word, the Son of
 2. "The existence of an enduring and unlimited state of being, implied in ἦν, is contrasted with ἐγένετο in John 1:3, and especially in John 1:14."
 3. "Both the inner substantial union, and the distinct personality of the λόγος are here asserted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who is to God what man's word is to himself, the manifestation or expression of himself to those without him."
 2. "Was the Word eternal? It was not the eternity of 'the Father,' but of a conscious personal existence distinct from Him and associated with Him."
 3. "It was not the distinctness and the fellowship of another being, as if there were more Gods than one, but of One who was Himself God."
@@ -57,4 +57,4 @@ In the beginning, before the creation of the world, the eternal Word, the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

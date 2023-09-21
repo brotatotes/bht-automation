@@ -9,7 +9,7 @@ In this verse, believers showed remarkable generosity and unity, fully embodying
 2. "πιπρασκομένων, the things which were being sold: the process of selling, as regarded the whole church, yet going on, though completed in individual cases."
 3. "In the places cited by Wetst. from Demosth. and Appian the pres. retains its proper force, as here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The place was shaken—glorious token of the commotion which the Gospel was to make."
 2. "The Spirit rested upon the entire community, first, in the very way they had asked, so that they 'spake the word with boldness.'"
 3. "The community of goods was but an outward expression of this, and natural in such circumstances."
@@ -43,4 +43,4 @@ In this verse, believers showed remarkable generosity and unity, fully embodying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

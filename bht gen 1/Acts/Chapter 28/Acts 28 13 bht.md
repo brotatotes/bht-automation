@@ -9,7 +9,7 @@ In this Bible verse, the journey of the apostle Paul and his companions is vivid
 2. "The South wind having sprung up, succeeded the one which blew before."
 3. "Puteoli (anciently Dicæarchia, Strab. Acts 28:4, now Puzzuoli) was the most sheltered part of the bay of Naples. It was the principal port of Southern Italy, and, in particular, formed the great emporium for the Alexandrian wheat ships."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "from thence we fetched a compass—that is, proceeded circuitously, or tacked, working to windward probably, and availing themselves of the sinuosities of the coast, the wind not being favorable" [SMITH].
 2. "after one day the south wind blew—a south wind having sprung up; being now favored with a fair wind, for want of which they had been obliged first to stay three days at Syracuse, and then to tack and put in for a day at Rhegium" [SMITH].
 3. "the Alexandrian corn ships enjoyed a privilege peculiar to themselves, of not being obliged to strike their topsail on landing. By this they were easily recognized as they hove in sight by the crowds that we find gathered on the shore on such occasions" [HOWSON].
@@ -39,4 +39,4 @@ In this Bible verse, the journey of the apostle Paul and his companions is vivid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described is about a speaker's anticipation and expectation for 
 2. "I will not now, as before, be with you ἐν πάσῃ ὑπομονῇ as regards the offenders: but will come to a regular process, and establish the truth in a legal manner."
 3. "But it is decisive against the whole interpretation, as Meyer remarks, that thus the sins committed since the Apostle’s last visit would remain altogether unnoticed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the third time I am coming to you—not merely preparing to come to you."
 2. "In the mouth of two or three witnesses shall every word be established."
 3. "The apostle in this case, where ordinary testimony was to be had, does not look for an immediate revelation, nor does he order the culprits to be cast out of the church before his arrival."
@@ -61,4 +61,4 @@ The verse being described is about a speaker's anticipation and expectation for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

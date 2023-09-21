@@ -11,7 +11,7 @@ In this verse, the commentator emphasizes the importance of believers imitating 
 
 3. "The example of himself" - This quote indicates that the commentary will focus on the author's own actions or behavior as a way to illustrate the message being conveyed in the conclusion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Followers—Greek, 'imitators.' of Christ—who did not please Himself (Romans 15:3); but gave Himself, at the cost of laying aside His divine glory, and dying as man, for us (Ephesians 5:2; Philippians 2:4; Philippians 2:5)."
 2. "We are to follow Christ first, and earthly teachers only so far as they follow Christ."
 3. "Rather belonging to the end of the tenth chapter, than to this chapter."
@@ -60,4 +60,4 @@ In this verse, the commentator emphasizes the importance of believers imitating 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a profound display of empathy and compassion, Jesus wept for those who were grieving. His tears not only showed his compassionate nature, but also revealed the deep impact of sin on humanity, bringing forth sorrow and suffering. This verse serves as a reminder of Jesus' humanity, as he fully shared in the emotions and experiences of those around him. It is a poignant reminder of his love and understanding for all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus wept—This beautifully conveys the sublime brevity of the two original words."
 2. "Is it for nothing that the Evangelist, some sixty years after it occurred, holds up to all ages with such touching brevity the sublime spectacle of the Son of God in tears?"
 3. "What a seal of His perfect oneness with us in the most redeeming feature of our stricken humanity!"
@@ -42,4 +42,4 @@ In a profound display of empathy and compassion, Jesus wept for those who were g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Be attentive to the knowledge you receive, for as you diligently heed and unders
 2. "As diligence increases such knowledge, so laziness destroys it." 
 3. "For whoever has attentiveness, knowledge will be given to them, and whoever does not have it, even what they have will be taken away from them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Take heed what ye hear—In Luke ( :-) it is, 'Take heed how ye hear.' The one implies the other, but both precepts are very weighty."
 2. "With what measure ye mete, it shall be measured to you—See on :-."
 3. "And unto you that hear—that is, thankfully, teachably, profitably. Shall more be given."
@@ -43,4 +43,4 @@ Be attentive to the knowledge you receive, for as you diligently heed and unders
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

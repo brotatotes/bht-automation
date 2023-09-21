@@ -11,7 +11,7 @@ The parable being described is about the sower, who represents anyone sharing th
 
 3. "The parable also highlights the importance of perseverance in our faith. Just as the seed that falls on rocky ground or among thorns may initially struggle, we too may face challenges and obstacles in our spiritual journey. But if we remain steadfast and continue to nurture our relationship with God, we can overcome these difficulties and bear fruit in our lives."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These parables are SEVEN in number and it is not a little remarkable that while this is the sacred number, the first FOUR of them were spoken to the mixed multitude, while the remaining THREE were spoken to the Twelve in private." 
 
 2. "Another thing remarkable in the structure of these parables is, that while the first of the Seven—that of the Sower—is of the nature of an Introduction to the whole, the remaining Six consist of three pairs—the Second and Seventh, the Third and Fourth, and the Fifth and Sixth, corresponding to each other; each pair setting forth the same general truths, but with a certain diversity of aspect."
@@ -47,4 +47,4 @@ The parable being described is about the sower, who represents anyone sharing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

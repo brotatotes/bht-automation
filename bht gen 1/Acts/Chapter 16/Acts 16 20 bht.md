@@ -9,7 +9,7 @@ The verse being described is about the Jewish people in a Roman context. It high
 2. "The distinction between ὑπάρχων and ὤν seems to be, that the former is used of something which the speaker or narrator wishes to put forward into notice."
 3. "The account of this may be, that ὑπάρχω is predicated of something of which the speaker informs the hearer, some prior knowledge which he possessed and now imparts, εἰμί being predicated of the bare matter of fact."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Gospel, and generally the fear of God, as a reigning principle of human action, is in a godless world a thoroughly revolutionary principle."
 2. "There is some color of truth in all such accusations, in so far as the Gospel, and generally the fear of God, as a reigning principle of human action, is in a godless world a thoroughly revolutionary principle."
 3. "How far external commotion and change will in any case attend the triumph of this principle depends on the breadth and obstinacy of the resistance it meets with."
@@ -57,4 +57,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ A servant of all, the speaker prioritizes the needs and interests of others, act
 2. "Bengel has remarked on κερδήσω, 'congruit hoc verbum cum consideratione mercedis:' but 'congruit' is not enough: it is actually THE ANSWER to the question τίς μού ἐστιν ὁ μισθός."
 3. "This 'lucrifecisse' the greater number is distinctly referred to by him elsewhere, as his reward in the day of the Lord."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Free from all men—that is, from the power of all men." This quote highlights the idea that being free from the power of others is important for gaining more rewards.
 2. "Gain the more—that is, as many of them ('all men') as possible." This quote emphasizes the importance of gaining as many people as possible, suggesting that the more people one can influence, the greater the reward.
 3. "Gain" is an appropriate expression in relation to a "reward." This quote suggests that the concept of gaining is closely tied to the idea of receiving a reward, reinforcing the idea that gaining more people leads to greater rewards.
@@ -52,4 +52,4 @@ These quotes highlight the voluntary self-sacrifice and willingness of Paul to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

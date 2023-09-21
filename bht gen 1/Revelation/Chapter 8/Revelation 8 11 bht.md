@@ -4,7 +4,7 @@
 In this Bible verse, a fallen star represents a once-glorious minister who has become corrupted, shining with earthly fire and smoke instead of heavenly light. The mention of wormwood symbolizes the bitter consequences of turning away from God, like the bitter taste of wormwood itself. The verse also signifies the destructive impact of heresy, turning sweet scriptures into deadly ones. It showcases the devastation caused by ungodliness, likening the transformation of water into firewater to the destruction that may await the ungodly in the latter days.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The star fallen from heaven as a chief minister...falling from his high place in the Church, and instead of shining with heavenly light as a star, becoming a torch lit with earthly fire and smouldering with smoke." 
 
 2. "And 'wormwood,' though medicinal in some cases, if used as ordinary water would not only be disagreeable to the taste, but also fatal to life: so 'heretical wormwood changes the sweet Siloas of Scripture into deadly Marahs'."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

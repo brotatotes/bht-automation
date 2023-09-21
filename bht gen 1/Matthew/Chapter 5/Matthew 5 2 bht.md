@@ -9,7 +9,7 @@ In this scripture, we find Jesus delivering a solemn and authoritative discourse
 2. "The discourse was spoken directly to the disciples, but also generally to the multitudes."
 3. "It is a divine commentary on the words with which His own and the Baptist’s preaching opened."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he opened his mouth—a solemn way of arousing the reader's attention, and preparing him for something weighty." (Job 9:1; Acts 8:35; Acts 10:34).
 
 2. "And taught them, saying—as follows." (Job 9:1; Acts 8:35; Acts 10:34).
@@ -56,4 +56,4 @@ In this scripture, we find Jesus delivering a solemn and authoritative discourse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

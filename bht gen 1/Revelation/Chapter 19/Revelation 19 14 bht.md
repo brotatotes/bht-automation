@@ -4,7 +4,7 @@
 The verse describes the celestial Warrior, accompanied by his heavenly armies, which include both angels and redeemed saints. These armies are depicted as riding on white horses, symbolizing their purity and righteousness. In their fine linen garments, they advance with the celestial Warrior, participating in his victory and exuding divine authority. These saints, enlisted under Christ, are engaged in a spiritual warfare against sin, Satan, and the world, following their Leader with unwavering loyalty. While not glorified saints in heaven, they are referred to as being "in heaven" as a symbol of their connection to the heavenly kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The armies...in heaven" refers to the glorified saints who will accompany Christ at His second coming. This aligns with the idea of "they that are with Him, called, chosen, faithful" and "His mighty angels." (Revelation 17:14)
 2. The phrase "white and clean" can be translated as "pure," emphasizing the purity and righteousness of these heavenly armies. (Revelation 17:14)
 3. The omission of the word "and" in the phrase "white and clean" is found in some ancient manuscripts and versions, suggesting that it may not be necessary for the understanding of the verse. (Revelation 17:14)
@@ -40,4 +40,4 @@ The verse describes the celestial Warrior, accompanied by his heavenly armies, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

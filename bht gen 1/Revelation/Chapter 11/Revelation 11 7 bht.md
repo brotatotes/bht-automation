@@ -4,7 +4,7 @@
 In this verse, the commentators explain that the two witnesses, symbolizing the faithful and righteous, will fulfill their mission of proclaiming God's truth. The beast, representing the antichrist, will wage a fierce battle against them, ultimately overpowering and killing them. This event serves as a prophetic sign, foretelling the imminent downfall of the antichrist. Despite their defeat, the witnesses' impact and power will endure until the moment they have completed their task.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same verb is used of Paul's ending his ministry by a violent death."
 2. "This beast was not mentioned before, yet he is introduced as 'the beast,' because he had already been described by Daniel."
 3. "It is a proof of the unity that pervades all Scripture."
@@ -49,4 +49,4 @@ In this verse, the commentators explain that the two witnesses, symbolizing the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

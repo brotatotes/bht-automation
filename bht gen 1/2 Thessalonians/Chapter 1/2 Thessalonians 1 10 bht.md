@@ -4,7 +4,7 @@
 In this Bible verse, it is revealed that when Christ returns, He will be glorified in His saints. This means that the saints, who have believed in Him, will become vessels through which His glory will shine brightly. Their transformation through sanctification and their display of God's glory will not only evoke wonder and amazement, but also serve as a testament to the redemptive power of Christ. This glorious manifestation of Christ's kingdom will be the focus and purpose of the saints' journey in this earthly life, as they eagerly anticipate the future revelation of His kingdom.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Glorified in his saints—as the element and mirror IN which His glory shall shine brightly."
 2. "With wonder all celestial intelligences shall see and admire the Redeemer on account of the excellencies which He has wrought in them."
 3. "Faith is defined by BISHOP PEARSON as 'an assent unto truths, credible upon the testimony of God, delivered unto us by the apostles and prophets'."
@@ -54,4 +54,4 @@ In this Bible verse, it is revealed that when Christ returns, He will be glorifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

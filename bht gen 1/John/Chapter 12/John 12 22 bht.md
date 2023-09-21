@@ -9,7 +9,7 @@ In this Bible verse, Philip seeks the counsel of his fellow disciple, Andrew, in
 2. "Bengel remarks on this touch of nature: 'cum sodali, audet.'" - Bengel highlights the audacity of Philip conferring with his companion Andrew, emphasizing the significance of their relationship in this decision-making process.
 3. "ἔρχεται so ἔπεμψέ με Ἀριαῖος κ. Ἀρτάοζος, Xen. Anab. ii. 4. 16." - This reference to Xenophon's Anabasis suggests a parallel between Philip's action of seeking Andrew's advice and the act of Arias and Artazo sending someone on their behalf, implying the seriousness and importance of Philip's decision.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As follow townsmen of Bethsaida, these two seem to have drawn to each other."
 2. "The minuteness of these details, while they add to the graphic force of the narrative."
 3. "Serves to prepare us for something important to come out of this introduction."
@@ -45,4 +45,4 @@ In this Bible verse, Philip seeks the counsel of his fellow disciple, Andrew, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

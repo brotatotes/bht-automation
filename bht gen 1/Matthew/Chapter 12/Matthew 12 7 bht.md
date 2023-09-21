@@ -9,7 +9,7 @@ In this verse, the commentators bring attention to the importance of mercy, love
 2. "All for man's sake and man's good."
 3. "If their hearts had been ready to receive our Lord, and to take on them this service, they would not have condemned the guiltless."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had ye understood the great principle of all religion, which the Scripture everywhere recognizes—that ceremonial observances must give way before moral duties, and particularly the necessities of nature—ye would have refrained from these captious complaints against men who in this matter are blameless."
 2. "The sabbath was made for man, and not man for the sabbath."
 3. "A glorious and far-reaching maxim, alike for the permanent establishment of the sabbath and the true freedom of its observance."
@@ -45,4 +45,4 @@ In this verse, the commentators bring attention to the importance of mercy, love
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

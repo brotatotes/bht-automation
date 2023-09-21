@@ -9,7 +9,7 @@ A distressed father brings his mute and afflicted son to Jesus, desperately seek
 2. "His only son."
 3. "Causing deafness and dumbness, and fits of epilepsy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The father's description of his son as 'mine only child' highlights the deep love and concern he has for his son, emphasizing the gravity of the situation." 
 
 2. "The presence of a 'dumb spirit' not only rendered the boy speechless, but also deaf, adding to the severity of his condition." 
@@ -47,4 +47,4 @@ A distressed father brings his mute and afflicted son to Jesus, desperately seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

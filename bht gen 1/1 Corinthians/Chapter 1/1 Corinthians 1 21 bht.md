@@ -9,7 +9,7 @@ The verse describes the limited understanding of God's wisdom by both the Jews a
 2. "God saw fit by the foolishness of preaching to save believers." 
 3. "Rom 1:16 throws light on this last expression as connected with δύναμις θεοῦ in our 1 Corinthians 1:18, and with what follows here."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deistic theory that man can by the light of nature discover his duty to God, is disproved by the fact that man has never discovered it without revelation."
 2. "All the stars and moon cannot make it day; that is the prerogative of the sun. Nor can nature's highest gifts make the moral day arise; that is the office of Christ."
 3. "Even the Jew missed this knowledge, in so far as he followed after mere carnal world wisdom."
@@ -57,4 +57,4 @@ These quotes highlight the ignorance of both the Jews and the Gentiles in recogn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

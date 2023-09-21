@@ -9,7 +9,7 @@ In this verse, the necessity of death is emphasized to confirm a covenant or tes
 2. "Only when we recur to sense (1), that of a testament, can it be true, that where a διαθήκη is, there must of necessity be death, and that, the death τοῦ διαθεμένου, of him who has made the testament."
 3. "And if it be objected to this, that a testament may exist many years before the death of the testator, the answer is easy, that the Writer here defines his own meaning of ὅπου διαθήκη, when he says διαθήκη γὰρ ἐπὶ νεκροῖς βεβαία: viz. that the document in question does not in reality become a διαθήκη, a disposition, till it is of force, till things are disposed by it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The need of death before the testamentary appointment takes effect, holds good in Christ's relation as MAN to us; Of course not in God's relation to Christ."
 2. "Thus, Luke 22:29- : may be translated, 'Blood of the covenant'; for a testament does not require blood shedding."
 3. "The covenanting parties used to pass between the divided parts of the sacrificed animals; but, without reference to this rite, the need of a sacrifice for establishing a covenant sufficiently explains this verse."
@@ -53,4 +53,4 @@ In this verse, the necessity of death is emphasized to confirm a covenant or tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

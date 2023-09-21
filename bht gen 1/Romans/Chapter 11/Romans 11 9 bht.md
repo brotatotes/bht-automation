@@ -11,7 +11,7 @@ The verse in question describes a situation where what was intended to be a sour
 
 3. "And for a recompense to them." - This quote suggests that the table serves as a means of divine retribution, implying that those who use their resources for evil will ultimately receive their just punishment.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In such a Messianic psalm, [the phrase 'And David saith'] must be meant of the rejecters of Christ."
 2. "Let their very blessings prove a curse to them, and their enjoyments only sting and take vengeance on them."
 3. "Their table, which should have been a place of nourishment and fellowship, becomes a source of judgment and punishment."
@@ -54,4 +54,4 @@ The verse in question describes a situation where what was intended to be a sour
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

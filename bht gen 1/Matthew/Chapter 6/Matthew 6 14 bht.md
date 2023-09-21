@@ -4,7 +4,7 @@
 Forgiveness is a continual choice to release others from their debts and seek reconciliation. It is necessary for our own growth and well-being, reflecting God's grace towards us. Forgiveness involves letting go, not excusing or denying, the impact of wrongs done to us. It is a powerful spiritual practice that opens the door to healing, transforms us, and allows divine blessings to flow freely. Through forgiveness, we demonstrate trust in God's ability to bring justice and restoration, while releasing the burden of anger and resentment.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Forgiveness is not just a one-time act, but a continual choice to release others from the debts they owe us. It is a deliberate decision to let go of resentment and seek reconciliation instead."
 
 2. "When we choose to forgive, we are not excusing the wrong or denying its impact. Rather, we are choosing to free ourselves from the burden of carrying that offense, and allowing God to be the ultimate judge and healer."
@@ -42,4 +42,4 @@ Forgiveness is a continual choice to release others from their debts and seek re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Stephen, filled with the wisdom of divine truth and guided by the Holy Spirit, eloquently delivered an undeniable message that left his opponents unable to counter his wise arguments. The weight and authority of his words, combined with his genuine zeal and sincerity, made it impossible for them to refute him. Despite resistance from those who opposed the Holy Spirit, Stephen fearlessly spoke truth, exposing the transience of former glories and unveiling the shadows that were passing away, resulting in a desperate situation for his adversaries.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The wisdom and spirit by which he spoke were so powerful that no one could resist them."
 2. "His words carried such weight and authority that they were impossible to refute."
 3. "The combination of his wisdom and the spirit in which he spoke made his message undeniable and compelling."
@@ -42,4 +42,4 @@ These quotes highlight Stephen's wisdom and knowledge of divine things, the inab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

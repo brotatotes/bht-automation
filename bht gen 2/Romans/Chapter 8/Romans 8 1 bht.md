@@ -11,7 +11,7 @@ In this verse, it is clear that there is no condemnation for believers in Christ
 4. "[...] the implanted righteousness of the sanctification of the Spirit"
 5. "[...] the διὰ ἁμαρτίαν, which answers to it"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The scope of [Romans 8:1] is to show how 'the law of sin and death' is deprived of its power to bring believers again into bondage, and how the holy law of God receives in them the homage of a living obedience."
 2. "As Christ, who 'knew no sin,' was, to all legal effects, 'made sin for us,' so are we, who believe in Him, to all legal effects, 'made the righteousness of God in Him' and thus, one with Him in the divine reckoning. There is to such 'NO CONDEMNATION.'"
 3. "But this is no mere legal arrangement: it is a union in life; believers, through the indwelling of Christ's Spirit in them, having one life with Him, as truly as the head and the members of the same body have one life."
@@ -68,4 +68,4 @@ In this verse, it is clear that there is no condemnation for believers in Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

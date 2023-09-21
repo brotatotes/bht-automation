@@ -9,7 +9,7 @@ The verse in question emphasizes the inability of the blood of animal sacrifices
 2. "The Writer by no means denies the typical virtue of the O. T. sacrifices."
 3. "The blood upon the altar makes an atonement for the soul: it was shed... as an exhibition of the postulate of vicarious propitiation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The blood of bulls, &c., sacrificed, had power but it was only in virtue of the power of the one real antitypical sacrifice of Christ; they had no power in themselves; they were not the instrument of perfect vicarious atonement, but an exhibition of the need of it, suggesting to the faithful Israelite the sure hope of coming redemption, according to God's promise."
 
 2. "The blood of beasts could not take away the sin of man. A MAN must do that."
@@ -52,4 +52,4 @@ The verse in question emphasizes the inability of the blood of animal sacrifices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

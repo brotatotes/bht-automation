@@ -9,7 +9,7 @@ In this verse, Jesus is depicted as willingly and knowingly facing the events th
 2. "ἐξῆλθεν probably, from the shade of the trees into the moonlight." - Jesus emerged from the darkness of the garden into the moonlit night, symbolizing his willingness to step out of the shadows and face his destiny.
 3. "τίνα ζητ ., spoken, as was the saying ἐφ ʼ ὃ πάρει , Matthew 26:50, to carry reproof to the conscience of those addressed." - Jesus questioned his captors, not only to prompt them to examine their own intentions and actions, but also to highlight the gravity of their decision to arrest him and to emphasize the significance of his surrender to them.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus . . . knowing all things that should come—were coming. upon him, went forth—from the shade of the trees, probably, into open view, indicating His sublime preparedness to meet His captors."
 2. "Whom seek ye?—partly to prevent a rush of the soldiery upon the disciples [BENGEL]; and see Mark 14:51; Mark 14:52, as showing a tendency to this: but still more as part of that courage and majesty which so overawed them."
 3. "He would not wait to be taken."
@@ -45,4 +45,4 @@ In this verse, Jesus is depicted as willingly and knowingly facing the events th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

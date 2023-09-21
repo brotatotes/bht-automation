@@ -9,7 +9,7 @@ As children of light, believers are called to shine brightly in a dark world, re
 2. "Our Lord probably went to Bethany." - This quote suggests that Jesus may have visited Bethany, indicating His movement and possibly foreshadowing future events in the Gospel.
 3. "See ch. John 1:12." - This quote directs readers to another verse in the Gospel of John, inviting them to explore further the concept of becoming children of God through belief in Jesus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who spake as never man spake, and immediately after words fraught with unspeakable dignity and love." 
 2. "What then must they have been?" 
 3. "He retired, probably to Bethany."
@@ -56,4 +56,4 @@ As children of light, believers are called to shine brightly in a dark world, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 This passage describes the relationship between Christ and believers, emphasizing his superiority to Moses and his role as the Son over God's household. Commentators note that Christ's position as Son and heir sets him apart, highlighting his fidelity and authority within the house. Believers, as members of this house, are encouraged to hold fast to their confidence and hope, as their identity and blessings depend on their faithfulness. The description highlights the intimate connection between faith, hope, and our position in Christ's house, emphasizing the need for unwavering trust and perseverance in our journey of faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Christ enters His Father's house as the Master [OVER it], but Moses as a servant [IN it]." 
 2. "An ambassador in the absence of the king is very distinguished—in the presence of the king he falls back into the multitude." 
 3. "Since all our good things lie in hopes, we ought so to hold fast our hopes as already to rejoice, as though our hopes were realized."
@@ -50,4 +50,4 @@ This passage describes the relationship between Christ and believers, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

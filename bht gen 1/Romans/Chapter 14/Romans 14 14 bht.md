@@ -9,7 +9,7 @@ In this verse, the author expresses their conviction and assurance in the Lord J
 2. "These words give the persuasion the weight of apostolic authority."
 3. "He is persuaded, in his capacity as connected with Christ Jesus, as having the mind of Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know, and am persuaded by the Lord Jesus" - The commentator emphasizes the personal conviction and assurance that comes from having a relationship with Jesus. This suggests that the understanding of what is clean or unclean should be based on a deep connection with Christ.
 
 2. "There is nothing unclean of itself" - This quote highlights the commentator's belief that in the context of the Gospel, all ritual distinctions and laws regarding cleanliness have been abolished. It suggests that the focus should be on the heart and intentions rather than external rules.
@@ -55,4 +55,4 @@ In this verse, the author expresses their conviction and assurance in the Lord J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we see that a group of Jews came to visit Martha and Mary t
 2. "The expression is foreign to N.T. diction elsewhere, and might be used here for decorum, seeing that they were men who came."
 3. "Or as indicating that the house was one of large hospitality and acquaintance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus were provided, in a most natural way, so many witnesses of the glorious miracle that was to follow."
 2. "The presence of many Jews coming to comfort Martha and Mary serves as evidence to the undeniable nature of the forthcoming miracle."
 3. "The multitude of witnesses who came to console Martha and Mary would leave no room for doubt regarding the extraordinary miracle that was about to take place."
@@ -52,4 +52,4 @@ In this Bible verse, we see that a group of Jews came to visit Martha and Mary t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

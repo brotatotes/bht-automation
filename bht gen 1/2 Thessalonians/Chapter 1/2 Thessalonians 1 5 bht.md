@@ -9,7 +9,7 @@ The verses in 2 Thessalonians 1:6 are discussing a clear and undeniable evidence
 2. "The δικαία κρίσις is, that just judgment which will be completed at the Lord’s coming, but is even now preparing this being an earnest and token of it."
 3. "But of the purpose of God’s dispensation of δικαία κρίσις, by which you will be ripened and fitted for his kingdom."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your enduring these tribulations is a 'token of the righteous judgment of God,' manifested in your being enabled to endure them, and in your adversaries thereby filling up the measure of their guilt." 
 2. "It is a proof of the future judgment, which will set to rights the anomalies of the present state, by rewarding the now suffering saint, and by punishing the persecutor." 
 3. "The 'also' implies the connection between the suffering for the kingdom and being counted worthy of it."
@@ -57,4 +57,4 @@ Note: The commentary provided does not contain any additional quotes that meet t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

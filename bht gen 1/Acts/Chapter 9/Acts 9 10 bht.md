@@ -9,7 +9,7 @@ In this Bible verse, an important encounter takes place between Ananias, a respe
 2. "Mr. Howson (edn. 2, vol. i. p. 114) remarks on the close analogy between the divine procedure by visions here, and in ch. 10."
 3. "I may add, that in ch. 8, where the preparation of heart was already found in the eunuch, Philip only was supernaturally prepared for the interview."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ananias, a certain disciple, was chosen by the Lord Jesus Himself to deliver a message." 
 
 2. "The fact that Jesus personally spoke to Ananias shows the importance of this encounter and the significance of the task given to him."
@@ -45,4 +45,4 @@ In this Bible verse, an important encounter takes place between Ananias, a respe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

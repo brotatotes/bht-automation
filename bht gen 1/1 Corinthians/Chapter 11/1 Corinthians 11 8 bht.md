@@ -11,7 +11,7 @@ The creation of man and woman is a profound and intentional act, distinct from t
 
 3. "Takes not his being, in the fact of his original creation." - This quote suggests that the man's existence is not dependent on the woman, but rather on his own creation.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The woman was made by God mediately through the man, who was, as it were, a veil or medium placed between her and God." 
 2. "The man being made immediately by God as His glory, has no veil between himself and God."
 3. "The woman should wear the veil or head-covering in public worship, in acknowledgement of this subordination to man in the order of creation."
@@ -44,4 +44,4 @@ The creation of man and woman is a profound and intentional act, distinct from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

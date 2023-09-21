@@ -9,7 +9,7 @@ In this Bible verse, believers are called to separate themselves from anything u
 2. "The ἀκάθαρτον must be understood of the pollutions of heathenism generally."
 3. "Not of any one especial polluted thing, as meat offered to idols."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be ye separate" (Hosea 4:17) - The commentary emphasizes the importance of believers separating themselves from anything unclean, highlighting the need for spiritual purity and holiness.
 
 2. "Touch not the unclean thing" (2 Corinthians 7:1; Micah 2:10) - The commentary explains that touching something unclean is more polluting than merely seeing it, as it implies participation. This quote emphasizes the need for believers to avoid any form of contamination or compromise with sin.
@@ -65,4 +65,4 @@ These quotes collectively emphasize the importance of believers maintaining spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the commentators emphasize the divine authority and power of th
 2. "ὁ δυνάμενος, because He alone has the power to carry out His judgment when pronounced." 
 3. "But thou, who art thou that judgest thy neighbour?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is One (alone) who is (at once) Lawgiver and Judge, (namely) He who is able to save and destroy." - This quote highlights the authority and power of God as the ultimate Lawgiver and Judge. It emphasizes that only God has the ability to execute judgments, showing our presumption when we try to act as judges ourselves.
 
 2. "But thou, who art thou that judgest another?" - This quote questions the arrogance and presumption of those who judge others. It reminds us that we have no right to judge our fellow human beings, as we are all equally under the jurisdiction of God.
@@ -57,4 +57,4 @@ In this passage, the commentators emphasize the divine authority and power of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

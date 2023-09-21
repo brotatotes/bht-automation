@@ -10,7 +10,7 @@ The author exhorts the readers to imitate his example, casting off Jewish custom
 2. "The key to rightly understanding these words is, their apposition with ἐξουθενήσατε , … ἐξεπτύσατε … ἐδέξασθε below. To that period they refer: viz. to the time when he first preached the Gospel among them, and the first introduction of this period seems to be in the words, ὅτι κἀγὼ ὡς ὑμεῖς ."
 3. "Then I became as you: and at that time you did me no wrong, but on the contrary shewed me all sympathy and reverence. Then comes in the inference, put in the form of a question, at Galatians 4:16 , I must then have since become your enemy by telling you the truth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As I have in my life among you cast off Jewish habits, so do ye; for I am become as ye are," namely, in the non-observance of legal ordinances."
 2. "His observing the law among the Jews was not inconsistent with this, for he did so only in order to win them, without compromising principle."
 3. "You at that time did me no wrong; 'ye did not despise my temptation in the flesh' (Galatians 4:14): nay, you 'received me as an angel of God.'"
@@ -58,4 +58,4 @@ The author exhorts the readers to imitate his example, casting off Jewish custom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

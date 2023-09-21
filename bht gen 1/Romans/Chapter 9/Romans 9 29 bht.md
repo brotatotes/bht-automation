@@ -9,7 +9,7 @@ In this Bible verse, the commentators shed light on the concept of a remnant, em
 2. "ὁμοιοῦσθαι ὡς is a construction in which two ideas, ‘to become as,’ and ‘to become like to,’ are mingled."
 3. "The citation is verbatim from the LXX, who have put σπέρμα for the Heb. שָׂרִיד, ‘residuum,’ implying a remnant for a fresh planting."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Except the Lord of Sabaoth—that is, 'The Lord of Hosts': the word is Hebrew, but occurs so in the Epistle of James ( :-), and has thence become naturalized in our Christian phraseology."
 2. "had left us a seed—meaning a 'remnant'; small at first, but in due time to be a seed of plenty."
 3. "But for this precious seed, the chosen people would have resembled the cities of the plain, both in degeneracy of character and in merited doom."
@@ -60,4 +60,4 @@ In this Bible verse, the commentators shed light on the concept of a remnant, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

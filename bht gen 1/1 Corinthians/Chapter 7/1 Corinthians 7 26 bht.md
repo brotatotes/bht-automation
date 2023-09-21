@@ -9,7 +9,7 @@ In this verse, the commentator highlighted the present distress and hardship tha
 2. "ἀνθρώπῳ, not as in 1 Corinthians 7:1 (which in its outward form will not bear the wider meaning), but here purposely general, including those treated of, young females."
 3. "οὕτως = ὡς κἀγώ as 1Co 7:8 ? or perhaps ὡς ἐστίν, which seems better on account of the following context, 1 Corinthians 7:27. This, in the case of the unmarried, would amount to the other: and the case of virgins is now that especially under consideration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The present distress" refers to the hardships and persecutions that believers were facing at that time. This made the married state less desirable than being single.
 2. The distress mentioned would be widespread and affect believers throughout the world before the destruction of Jerusalem, as foretold by Jesus.
 3. The commentary suggests that the distress mentioned in the verse is in line with the prophecies of Jesus and the experiences of believers in the early church.
@@ -43,4 +43,4 @@ In this verse, the commentator highlighted the present distress and hardship tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

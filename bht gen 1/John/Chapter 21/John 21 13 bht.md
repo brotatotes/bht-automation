@@ -11,7 +11,7 @@ In this narrative, Jesus moves from one place to another, engaging with his disc
 
 3. "reminds us of the similar occurrence at Emmaus, Luke 24:30." This quote draws a parallel between this event and another event in Luke, inviting readers to consider the significance and implications of these similarities.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus taketh bread—the bread." - This quote emphasizes the significance of the bread in the story, highlighting Jesus' deliberate action in taking and distributing it. 
 
 2. "And giveth them, and the fish likewise." - This quote highlights the parallel action of Jesus giving both bread and fish to the people, showcasing his provision and abundance. 
@@ -47,4 +47,4 @@ In this narrative, Jesus moves from one place to another, engaging with his disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

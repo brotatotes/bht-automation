@@ -4,7 +4,7 @@
 The commentator's quotes provide insight into a Bible verse concerning a servant who is afraid to take action, leading to the misimprovement of his gifts. The servant's fear stems from a concern of incurring greater responsibility and potential loss. However, the commentator emphasizes the importance of not allowing fear to hinder the use and growth of one's talents. The fear-based inaction is seen as an excuse rather than a valid reason, emphasizing the need to overcome fear and actively engage in the service of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This depicts the conduct of all those who shut up their gifts from the active service of Christ, without actually prostituting them to unworthy uses."
 2. "Fitly, therefore, may it, at least, comprehend those, to whom TRENCH refers, who, in the early Church, pleaded that they had enough to do with their own souls, and were afraid of losing them in trying to save others."
 3. "The addition of 'slothful' is to mark the precise nature of his wickedness: it consisted, it seems, not in his doing anything against, but simply nothing for his master."
@@ -40,4 +40,4 @@ The commentator's quotes provide insight into a Bible verse concerning a servant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

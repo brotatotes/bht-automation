@@ -9,7 +9,7 @@ The verse being described emphasizes the transformative power of belief in Jesus
 2. "The πιστεύων and the ἔχει ζ. αἰ. are commensurate: where the faith is, the possession of eternal life is: and when the one remits, the other is forfeited."
 3. "In this sense, the believers in Christ will not be judged according to their works: they are justified before God by faith, and by God θεὸς ὁ δικαιῶν, τίς ὁ κατακρίνων? Their ‘passage over’ from death into life has already taken place, from the state of spiritual death into that ζωὴ αἰώνιος, which in their believing state they ἔχουσι already."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have spoken of the Son's right not only to heal the sick but to raise from the dead, and quicken whom He will." 
 2. "That life-giving operation has already passed upon all who receive My words as the Sent of the Father on the great errand of mercy." 
 3. "What a transition!"
@@ -59,4 +59,4 @@ These quotes from the commentary provide insights into the significance of heari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

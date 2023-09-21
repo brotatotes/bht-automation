@@ -9,7 +9,7 @@ In this verse, it is conveyed that each person will receive a just and fair rewa
 2. "ἀλλὰ σφόδρα θαῤῥεῖν ὑπὲρ τῆς ἀμοιβῆς" (translated as "but to be exceedingly confident in the reward")
 3. "οὕτω δὴ καὶ οἱ δεσπόται , ἂν παθόντες εὖ παρὰ σοῦ μή σε ἀμείψωνται , μᾶλλον ἠμείψαντο , τὸν θεὸν ὀφειλέτην σοι καταστήσαντες" (translated as "so also masters, if they receive good from their servants without repaying you, they would owe God as their debtor")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "any man shall be found at the Lord's coming to have done"
 2. "in full payment, in heaven's currency"
 3. "Christ does not regard such distinctions in His present dealings of grace, or in His future judgment"
@@ -61,4 +61,4 @@ In this verse, it is conveyed that each person will receive a just and fair rewa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

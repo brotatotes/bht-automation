@@ -9,7 +9,7 @@ In this verse, we find the disciples gathered in an upper room, possibly the sam
 2. "It is in the highest degree improbable that the disciples would be found assembled in any public place at this time."
 3. "They did not all dwell in one house."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples went up into an upper room, perhaps the same 'large upper room' where they had celebrated the last Passover and the first Supper with their Lord."
 2. "The upper room was not just a place to stay, but a place of rendezvous for the disciples."
 3. "Peter and the other disciples were present in the upper room, as mentioned in Luke 22:12."
@@ -55,4 +55,4 @@ In this verse, we find the disciples gathered in an upper room, possibly the sam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

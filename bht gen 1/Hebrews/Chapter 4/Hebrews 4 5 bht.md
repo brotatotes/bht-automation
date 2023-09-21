@@ -9,7 +9,7 @@ In this passage, commentators emphasize the future nature of the rest mentioned,
 2. "The negative denunciation in fact implying in itself the fact, that some would enter therein."
 3. "Quandam adhuc quietem restare sperandam iis, qui non sunt increduli nec comminationi prædictæ obnoxii."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The phrase 'in this place' suggests that the rest mentioned in the Psalm was not yet fulfilled at the time of writing, indicating a future fulfillment."
 2. "This passage implies that the rest mentioned in the Psalm was not a present reality, but something that was still to come."
 3. "The use of 'in this place' indicates that the rest spoken of in the Psalm was not yet experienced, pointing to a future fulfillment."
@@ -54,4 +54,4 @@ In this passage, commentators emphasize the future nature of the rest mentioned,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

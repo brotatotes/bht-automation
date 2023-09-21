@@ -4,7 +4,7 @@
 The passage captures the sense of urgency and excitement among the shepherds as they make their way to find the newborn Savior. Their quick response, guided by divine intervention, mirrors the swift actions of believers throughout the Bible responding to God's call. The humble circumstances of Jesus' birth are highlighted, emphasizing his humility and the fulfillment of prophecy. The theme of active seeking and finding is echoed, reminding us that seeking after Jesus requires diligent effort.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With haste" - The women's quick and eager response to the news of Jesus' resurrection is reminiscent of other instances in the Bible where people acted swiftly in response to divine guidance. (Luke 1:39; Matthew 28:8; John 4:28)
 2. "Mysteriously guided by the Spirit" - Mary's arrival at the manger, despite the darkness of the night, is seen as a divine intervention, highlighting the role of the Holy Spirit in guiding and directing believers. 
 3. "The manger" - The mention of the manger again emphasizes the humble and lowly circumstances surrounding Jesus' birth, reminding readers of his humility and the fulfillment of prophecy.
@@ -42,4 +42,4 @@ The passage captures the sense of urgency and excitement among the shepherds as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

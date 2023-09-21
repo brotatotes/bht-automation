@@ -4,7 +4,7 @@
 The verse being described highlights the significance of both judgment and faith, emphasizing that faith is not just about belief but also about being faithful and loyal to God's principles of justice. It expands on this point, emphasizing that faith requires a commitment to live in accordance with God's standards of justice. Furthermore, it emphasizes that true faith is demonstrated through our actions, particularly in our pursuit of justice and righteousness in our interactions with others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Lord purposely names the most trifling products of the earth as examples of what they punctiliously exacted the tenth of."
 2. "In both His reference is to Luke 11:42- :, where the prophet makes all acceptable religion to consist of three elements—'doing justly, loving mercy, and walking humbly with our God'; which third element presupposes and comprehends both the 'faith' of Matthew and the 'love' of Luke."
 3. "There is no need for one set of duties to jostle out another; but it is to be carefully noted that of the greater duties our Lord says, 'Ye ought to have done' them, while of the lesser He merely says, 'Ye ought not to leave them undone.'"
@@ -50,4 +50,4 @@ The verse being described highlights the significance of both judgment and faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

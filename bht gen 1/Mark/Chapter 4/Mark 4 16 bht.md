@@ -9,7 +9,7 @@ In this verse, the commentators describe how the interpretation follows a consis
 2. "After the same analogy: implying that the same reasoning applies to the following statement."
 3. "After the same analogy: suggesting that the same logic can be applied to the next point being made."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The great truth here taught is that hearts superficially impressed are apt to receive the truth with readiness, and even with joy."
 2. "The heat of tribulation or persecution because of the word, or the trials which their new profession brings upon them quickly dries up their relish for the truth."
 3. "Such disappointing issues of a faithful and awakening ministry—alas, how frequent are they!"
@@ -30,4 +30,4 @@ In this verse, the commentators describe how the interpretation follows a consis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

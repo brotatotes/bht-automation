@@ -4,7 +4,7 @@
 The verse described in these commentaries involves the Sadducees challenging Jesus on the existence of angels, spirits, and the concept of resurrection. The Sadducees, who denied resurrection and sought to undermine this belief, asked Jesus a hypothetical question about a woman married to seven brothers. Through their intellectual showmanship and attempts to discredit Jesus, the Sadducees revealed their disbelief in the afterlife and their intention to challenge Jesus' authority. Jesus, in response, exposed their hypocrisy and lack of faith, highlighting that his authority comes from God and is not threatened by their skepticism.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Sadducees, who denied the resurrection, approached Jesus with their skepticism, challenging the existence of angels and spirits." 
 2. "Their materialistic worldview led them to reject the idea of life after death, dismissing the spiritual realm as mere superstition." 
 3. "In their question to Jesus, the Sadducees sought to undermine the belief in resurrection by presenting a hypothetical scenario involving a woman who had been married to seven brothers."
@@ -39,4 +39,4 @@ The verse described in these commentaries involves the Sadducees challenging Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

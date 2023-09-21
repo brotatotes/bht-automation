@@ -9,7 +9,7 @@ The verse describes a meal shared with the disciples, consisting of broiled fish
 2. "The omission of the words καὶ … κηρίου in the best MSS. is remarkable."
 3. "The words could hardly have been an interpolation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of honeycomb in this verse highlights the simplicity and frugality of the food that was commonly eaten in ancient times."
 2. "The honeycomb symbolizes the basic sustenance that was available to people, emphasizing the humble and modest nature of their meals."
 3. "By mentioning honeycomb, the verse reminds us of the importance of appreciating and finding contentment in the simple pleasures of life."
@@ -38,4 +38,4 @@ The verse describes a meal shared with the disciples, consisting of broiled fish
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

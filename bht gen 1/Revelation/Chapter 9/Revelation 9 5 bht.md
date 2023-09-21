@@ -4,7 +4,7 @@
 Described in these commentaries is a verse in the Bible that speaks of a period of torment caused by locusts. The locusts are described as inflicting pain and suffering but not causing physical death. There is a mention of a scorpion's sting, which is known to be excruciatingly painful. This torment lasts for a limited time, possibly symbolizing an incomplete or imperfect form of judgment. Overall, this verse highlights the afflictions and troubles brought upon humanity, emphasizing the prohibition against ending another person's life and the importance of our thoughts and intentions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The subject changes: the first 'they' is the locusts; the second is the unsealed."
 2. "Five months - the ordinary time in the year during which locusts continue their ravages."
 3. "This fifth verse and :- cannot refer to an invading army. For an army would kill, and not merely torment."
@@ -43,4 +43,4 @@ Described in these commentaries is a verse in the Bible that speaks of a period 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

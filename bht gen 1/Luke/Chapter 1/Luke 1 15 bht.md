@@ -9,7 +9,7 @@ In this passage, God selects an individual for a remarkable and noble role. This
 2. "πν. ἁγ. πλ. is a contrast to, and a reason for, the not drinking wine nor strong drink: compare Ephesians 5:18."
 3. "The ἐκ seems to fix the prior limit of the indwelling of the Spirit, at his birth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great in the sight of the Lord—nearer to Him in official standing than all the prophets."
 2. "As the leper was the living symbol of sin, so was the Nazarite of holiness."
 3. "He was the REALITY and PERFECTION of the Nazarite without the symbol, which perished in that living realization of it."
@@ -57,4 +57,4 @@ In this passage, God selects an individual for a remarkable and noble role. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Faith requires more than just personal belief; it necessitates action and respon
 2. "The Roman-Catholic Commentator Mack has some good remarks here, on the faith of which the Apostle speaks: 'Faith, in the sense of the Apostle, cannot exist, without including love...'"
 3. "For even among heathens the common duties of family piety are recognized: if therefore a Christian repudiates them, he lowers himself beneath the heathen."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith without love and its works is dead; 'for the subject matter of faith is not mere opinion, but the grace and truth of God, to which he that believes gives up his spirit, as he that loves gives up his heart'." 
 
 2. "If in any case a duty of love is plain, it is in relation to one's own relatives; to fail in so plain an obligation is a plain proof of want of love, and therefore of want of faith."
@@ -57,4 +57,4 @@ Faith requires more than just personal belief; it necessitates action and respon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

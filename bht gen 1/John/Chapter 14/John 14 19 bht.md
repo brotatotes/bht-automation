@@ -9,7 +9,7 @@ In this verse, we see a promise given by Christ to His disciples. The commentato
 2. "ζῶ, not ζήσω, the principle of Life being immanent in Him." 
 3. "ζήσετε, in all its fulness, including the most blessed sense of ζωή, the Life of the Spirit, here and hereafter."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His bodily presence, being all the sight of Him which 'the world' ever had, or was capable of, it 'beheld Him no more' after His departure to the Father."
 2. "By the coming of the Spirit, the presence of Christ was not only continued to His spiritually enlightened disciples, but rendered far more efficacious and blissful than His bodily presence had been before the Spirit's coming."
 3. "It is His unextinguishable, divine life of which He speaks, in view of which His death and resurrection were but as shadows passing over the sun's glorious disk."
@@ -55,4 +55,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

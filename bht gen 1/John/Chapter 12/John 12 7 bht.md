@@ -9,7 +9,7 @@ In this verse, commentators describe a scene where a woman anoints Jesus with ex
 2. "The history clearly excludes the idea of a remnant."
 3. "I understand the words... of her whole act, not regarded as a thing past, but spoken of in the abstract as to be allowed or disallowed: Let her keep it for the day of my burial."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let her alone" - Jesus' words indicate his acceptance and approval of the woman's actions, despite the criticism from others. 
 
 2. "Against the day of my burying hath she done this" - The commentary explains that the woman's act of anointing Jesus with expensive nard was not a conscious preparation for his burial, but rather a loving gesture that Jesus interprets as a symbolic act of anointing him for his impending death. 
@@ -50,4 +50,4 @@ In this verse, commentators describe a scene where a woman anoints Jesus with ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

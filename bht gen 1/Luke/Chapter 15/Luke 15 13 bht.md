@@ -9,7 +9,7 @@ In this verse, a person embarks on a journey to a far country, abandoning their 
 2. "But in this case the search is to be carried on within him we are now on higher ground than in those two parables."
 3. "ἀσώτως: The old English word retchlessly expresses perhaps best the meaning, which is not ‘unsparingly’ (in which sense of ‘saving money’ I doubt σώζω ever being used), but incorrigibly, past hope of reclaim."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not many days—intoxicated with his new-found resources, and eager for the luxury of using them at will."
 2. "a far country—beyond all danger of interference from home."
 3. "riotous living—'with harlots.' Ah! but this reaches farther than the sensualist; for 'in the deep symbolical language of Scripture fornication is the standing image of idolatry; they are in fact ever spoken of as one and the same sin, considered now in its fleshly, now in its spiritual aspect'."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

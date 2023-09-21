@@ -9,7 +9,7 @@ This verse describes the significance and limitations of the law in providing kn
 2. "The law contained a foreshadowing of Christ."
 3. "Such advantages and such pretensions ought undoubtedly to be followed and justified by a corresponding course of holy conduct."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "hast the form of knowledge and of the truth in the law" - This implies that the believers have access to a specific and accurate understanding of divine truths through the law, unlike the heathens who rely on uncertain conjectures.
 
 2. "not being left, as the heathen are, to vague conjecture on divine things" - This highlights the contrast between the believers and the heathens, emphasizing that the believers are not left in a state of uncertainty or guesswork when it comes to understanding divine matters.
@@ -59,4 +59,4 @@ These quotes provide insights into the role of instruction, the state of being n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

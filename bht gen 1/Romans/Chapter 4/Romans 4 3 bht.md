@@ -4,7 +4,7 @@
 In this verse, it is evident that Abraham's faith played a significant role in his righteousness. We see that his faith was not in his own works, but in God and His promises, which included blessings for all nations through Christ. By believing and trusting in God's words, Abraham was accounted as righteous. Through faith, he was accepted by God, despite his own shortcomings, and his faith was credited to him as righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Romish expositors and Arminian Protestants make this to mean that God accepted Abraham's act of believing as a substitute for complete obedience. But this is at variance with the whole spirit and letter of the apostle's teaching."
 2. "Throughout this whole argument, faith is set in direct opposition to works, in the matter of justification."
 3. "The meaning plainly is that Abraham believed in the promises which embraced Christ, as we believe in Christ Himself and in both cases, faith is merely the instrument that puts us in possession of the blessing gratuitously bestowed."
@@ -50,4 +50,4 @@ In this verse, it is evident that Abraham's faith played a significant role in h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

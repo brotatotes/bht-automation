@@ -4,7 +4,7 @@
 In this powerful verse, we witness the authority given to a figure referred to as the beast. The beast's power is universal, extending over all kindreds, tongues, and nations. This dominance is not only in a physical sense but encompasses both temporal and spiritual realms. The verse also sheds light on the reality faced by the saints, who are engaged in a perpetual battle against the forces of darkness and persecution. However, within this struggle, we find hope and redemption, for the Lamb of God reigns supreme and will ultimately triumph over all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "power—Greek, 'authority.'" 
 2. "all kindreds . . . tongues . . . nations—Greek, 'every tribe . . . tongue . . . nation.'" 
 3. "A, B, C, Vulgate, Syriac, ANDREAS, and PRIMASIUS add 'and people,' after 'tribe' or 'kindred.'"
@@ -40,4 +40,4 @@ In this powerful verse, we witness the authority given to a figure referred to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

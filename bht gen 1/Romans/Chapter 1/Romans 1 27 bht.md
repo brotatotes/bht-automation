@@ -9,7 +9,7 @@ In this passage, we find a description of the consequences faced by individuals 
 2. "This shame, and not its consequences, which are not here treated of, is the ἀντιμισθία of their πλάνη, their aberration from the knowledge of God, which they received."
 3. "ἐν ἑαυτοῖς, in their own persons, viz. by their degradation even below the beasts."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "receiving in themselves that recompense of their error which was meet" - This phrase highlights the concept of divine justice, where individuals face the consequences of their actions. It suggests that God's righteous government ensures that vice is self-avenging, implying that wrongdoing carries its own punishment.
 
 2. "under the righteous government of God, vice was made self-avenging" - This statement emphasizes the idea that God's governance is just and fair. It implies that God has designed the world in such a way that vice and wrongdoing naturally lead to negative consequences, serving as a form of self-punishment.
@@ -52,4 +52,4 @@ Note: The provided commentary contains offensive and discriminatory language. Pl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

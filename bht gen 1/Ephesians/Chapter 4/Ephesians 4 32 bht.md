@@ -9,7 +9,7 @@ In this verse, believers are called to show kindness and compassion to one anoth
 2) "Tender-hearted...misericordem, benignum."
 3) "The historical fact of Christ once for all putting away sin by the sacrifice of Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is but just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God." 
 2. "It is in Christ that God vouchsafes forgiveness to us. It cost God the death of His Son, as man, to forgive us. It costs us nothing to forgive our fellow man." 
 3. "God has, once for all, forgiven sin in Christ, as a past historical fact."
@@ -59,4 +59,4 @@ In this verse, believers are called to show kindness and compassion to one anoth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

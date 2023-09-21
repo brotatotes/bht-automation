@@ -4,7 +4,7 @@
 In this verse, Jesus speaks of his death with the phrase "our friend Lazarus," illustrating the reciprocal affection between him and Lazarus. The use of the metaphor of sleep for death employs a common concept, but with a higher meaning in relation to believers in Jesus. The disciples misunderstood this metaphor, thinking that Jesus was referring to a mere physical rest, showcasing their limited comprehension of the spiritual truth Jesus was conveying and their unawareness of his impending sacrifice.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our friend Lazarus." To Abraham only is it accorded in the Old Testament... to which our attention is called in the New Testament.
 2. "The phrase here employed, 'our friend Lazarus,' means more than 'he whom Thou lovest' in John 11:3, for it implies that Christ's affection was reciprocated by Lazarus."
 3. The symbol of "sleep" for death is common to all languages, and familiar to us in the Old Testament. In the New Testament, however, a higher meaning is put into it, in relation to believers in Jesus.
@@ -35,4 +35,4 @@ In this verse, Jesus speaks of his death with the phrase "our friend Lazarus," i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

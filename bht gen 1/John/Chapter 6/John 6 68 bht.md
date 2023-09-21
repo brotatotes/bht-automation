@@ -9,7 +9,7 @@ The disciples, confronted with the choice of following Jesus or abandoning him, 
 2. "To whom else should they go from Him who had, and brought out of His stores for their instruction, the words of eternal life?"
 3. "The words of Jesus are not only life-giving, but they also have the power to lead us towards eternal life."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We cannot deny that we have been staggered as well as they, and seeing so many go away who, as we thought, might have been retained by teaching a little less hard to take in, our own endurance has been severely tried, nor have we been able to stop short of the question, Shall we follow the rest, and give it up?"
 2. "But when it came to this, our light returned, and our hearts were reassured. For as soon as we thought of going away, there arose upon us that awful question, 'TO WHOM shall we go?'"
 3. "Nay, Lord, we are shut up. They have none of that 'ETERNAL LIFE' to offer us whereof Thou hast been discoursing, in words rich and ravishing as well as in words staggering to human wisdom."
@@ -52,4 +52,4 @@ Note: The commentary provided does not contain enough information to provide add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

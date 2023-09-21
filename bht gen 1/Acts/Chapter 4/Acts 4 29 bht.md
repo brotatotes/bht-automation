@@ -4,7 +4,7 @@
 In the face of threats from the world, the early disciples come together in prayer, seeking deliverance from the Lord. They ask for divine intervention to overcome the dangers they face as they continue to boldly proclaim the gospel. They are not seeking personal safety, but rather the ability to speak the word of God with courage and fearlessness, trusting in God's providence to rebuke and restrain their adversaries. The disciples' prayer reflects their unwavering commitment to their mission and their reliance on God's power and protection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Recognizing in the threatenings of the Sanhedrim a declaration of war by the combined powers of the world against their infant cause."
 2. "They seek not enthusiastically to hide from themselves its critical position, but calmly ask the Lord of heaven and earth to 'look upon their threatenings.'"
 3. "Rising above self, they ask only fearless courage to testify for their Master, and divine attestation to their testimony by miracles of healing, &c., in His name."
@@ -40,4 +40,4 @@ In the face of threats from the world, the early disciples come together in pray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

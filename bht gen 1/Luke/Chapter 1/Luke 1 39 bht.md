@@ -9,7 +9,7 @@ In this verse, Mary, betrothed to Joseph, sets out on a journey with haste, disr
 2. "So that we have, five months, during which Elisabeth hid herself, + the sixth month, during which takes place the Annunciation, the discovery of Mary’s pregnancy, her taking home by Joseph, + three months visit of Mary = nine months, nearly her full time."
 3. "It is not Jerusalem; for that would hardly have been described as in the hill country; and from Luke 1:23; Luke 1:65, the Evangelist clearly indicates some other place than Jerusalem as the residence of the parents of John."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Hill country—the mountainous tract running along the middle of Judea." This quote highlights the geographical context of the verse, emphasizing the significance of the location where Mary traveled to visit Elizabeth.
 
 2. "With haste—transported with the announcement to herself and with the tidings, now first made known to her, of Elisabeth's condition." This quote sheds light on Mary's sense of urgency and excitement upon receiving the news about Elizabeth's pregnancy, emphasizing the emotional aspect of the verse.
@@ -50,4 +50,4 @@ In this verse, Mary, betrothed to Joseph, sets out on a journey with haste, disr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

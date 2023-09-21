@@ -4,7 +4,7 @@
 The city described in this verse is adorned with the radiant glory of God, both within and without. It shines with divine light, like the heavenly luminaries, giving off a crystalline brightness. This light, clear as crystal, shines forth from the city as if it were a precious jasper stone, illuminating its surroundings. It represents the glory and presence of God, symbolized by the Shekinah, and is a witness to Christ, the true light of the world. This light is not dependent on external sources, but is self-sustaining and reveals the eternal nature of God's presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having the glory of God—not merely the Shekinah-cloud, but God Himself as her glory dwelling in the midst of her."
 2. "her light—Greek, 'light-giver': properly applied to the heavenly luminaries which diffuse light."
 3. "jasper—representing watery crystalline brightness."
@@ -46,4 +46,4 @@ The city described in this verse is adorned with the radiant glory of God, both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

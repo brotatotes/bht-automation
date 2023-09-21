@@ -11,7 +11,7 @@ In these verses, the commentators emphasize the caution and responsibility that 
 
 3. "The Apostle includes himself with those whom he is dissuading...on the assumption that the office of teacher is not faithfully performed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Few govern the tongue well and only such as can govern it are fit for the office."
 2. "The idea that faith without works was all that is required, prompted many to set up as teachers."
 3. "If we teachers abuse the office, we shall receive greater condemnation than those who are mere hearers."
@@ -61,4 +61,4 @@ Note: The commentary is referring to James 3:1-2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

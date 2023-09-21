@@ -9,7 +9,7 @@ In this verse, believers are encouraged to not fear persecution, as they share i
 2. "All that is hidden must be revealed... it is God’s purpose in His Kingdom that the everlasting Gospel shall be freely preached, and this purpose ye serve."
 3. "Fear them not, for, under whatever aspersions ye may labour from them, the day is coming which shall clear you and condemn them, if ye are fearlessly doing the work of Him that sent you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known." - This quote emphasizes the futility of concealing anything, as everything will eventually be brought to light. It encourages believers to have courage and not be afraid of the consequences of exposing the truth.
 
 2. "There is no use, and no need, of concealing anything; right and wrong, truth and error, are about to come into open and deadly collision." - This quote highlights the imminent clash between truth and falsehood, suggesting that hiding the truth serves no purpose. It implies that the time for deception and secrecy is coming to an end.
@@ -52,4 +52,4 @@ In this verse, believers are encouraged to not fear persecution, as they share i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

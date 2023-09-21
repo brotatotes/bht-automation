@@ -9,7 +9,7 @@ In the early hours before dawn, Jesus would rise and depart to a solitary place,
 2. "We have however πάννυχα, Soph. Ajax, 911."
 3. "ἐξῆλθ. from the house of Peter and Andrew, Mark 1:29."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His choosing this day to inaugurate a new and glorious stage of His public work, should be noted by the reader."
 2. "He was about to begin His first preaching and healing circuit; and as on similar solemn occasions, He spent some time in special prayer, doubtless with a view to it."
 3. "What would one not give to have been, during the stillness of those grey morning hours, within hearing...of His calm, exalted anticipations of the work which lay immediately before Him, and the outpourings of His soul about it into the bosom of Him that sent Him!"
@@ -47,4 +47,4 @@ In the early hours before dawn, Jesus would rise and depart to a solitary place,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, there is a pouring out of God's judgment upon the rivers and fountains of water. This symbolizes the devastating consequences of sin, as the life-giving waters turn into blood, causing suffering and death. This plague echoes the biblical account of the ten plagues in Egypt, serving as a reminder of God's power and justice. The transformation of water into blood also symbolizes the guilt of shedding innocent blood and calls for repentance and responsible stewardship of the earth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mention of an angel in this verse is found in some ancient versions, such as the Syriac, Coptic, and ANDREAS. However, it is important to note that the oldest and most reliable manuscripts, such as A, B, C, and the Vulgate, do not include this mention of an angel."
 2. "The omission of the angel in these manuscripts suggests that it may have been a later addition or interpolation. This highlights the importance of relying on the earliest and most authoritative sources when studying biblical texts."
 3. "The absence of the angel in the oldest manuscripts does not diminish the significance of the verse itself. It serves as a reminder that the core message and meaning of the verse remain intact, regardless of the inclusion or exclusion of certain details."
@@ -59,4 +59,4 @@ In this verse, there is a pouring out of God's judgment upon the rivers and foun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

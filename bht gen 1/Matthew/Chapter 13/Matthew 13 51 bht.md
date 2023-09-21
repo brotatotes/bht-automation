@@ -4,7 +4,7 @@
 In this Bible verse, Jesus speaks to His disciples, emphasizing the importance of their understanding and ability to communicate His teachings to others. The disciples express confidence in their comprehension, yet it is clear that there is a deeper meaning to be grasped. It is evident that the disciples' response demonstrates their attentiveness and quick understanding at that moment, while also highlighting their need for further growth and illumination. Jesus, aware of their progress, poses this question to them to provide a platform for further instruction.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus saith unto them—that is, to the Twelve. He had spoken the first four in the hearing of the mixed multitude: the last three He reserved till, on the dismissal of the mixed audience, He and the Twelve were alone." 
 
 2. "Have ye understood all these things? They say unto him, Yea, Lord." 
@@ -30,4 +30,4 @@ In this Bible verse, Jesus speaks to His disciples, emphasizing the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

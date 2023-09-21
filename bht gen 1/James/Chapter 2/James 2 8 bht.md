@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the significance of fulfilling the ro
 2. "The law which is the king of all laws."
 3. "If you choose to do this, 'do manus,' I have nothing to object."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If in very deed (or 'indeed on the one hand') ye fulfil the royal law...ye do well, but if (on the other hand) ye respect persons, ye practice sin."
 2. "The great King, God, is love His law is the royal law of love, and that law, like Himself, reigns supreme."
 3. "To break a part is to break the whole."
@@ -55,4 +55,4 @@ These quotes highlight the importance of fulfilling the royal law of love, the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

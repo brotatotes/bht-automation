@@ -4,7 +4,7 @@
 He that testifieth these things, even all that is contained in this book, saith, "For the encouragement of the church in all her afflictions." Yea, answering the call of the Spirit and the bride, "To destroy all her enemies and establish her in a state of perfect and everlasting happiness." The apostle expresses his earnest desire and hope of this, by answering, "Amen. Come, Lord Jesus!"
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Amen. Even so, come—The Song of Solomon (Song of Solomon 8:14) closes with the same yearning prayer for Christ's coming."
 2. "Christ's 'I come,' and John's 'Come,' are almost coincident in time; so truly does the believer reflect the mind of his Lord."
 3. "Joining the 'Amen,' or 'So be it,' not with Christ's saying (for He calls Himself the 'Amen' at the beginning of sentences, rather than puts it as a confirmation at the end), but with John's reply."
@@ -51,4 +51,4 @@ He that testifieth these things, even all that is contained in this book, saith,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

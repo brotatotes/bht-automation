@@ -9,7 +9,7 @@ The Bible verse being described is a passage that contrasts the natural man, gov
 2. "The ψυχή is that side of the human soul, so to speak, which is turned towards the flesh, the world, the devil."
 3. "He cannot know them (τὰ τοῦ πνεύματος, the matter of our spiritual teaching) because they are spiritually judged of."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The natural man... is governed by the animal soul, which overbears his spirit." 
 2. "The carnal man... led by bodily appetites, and also by a self-exalting spirit, estranged from the divine life." 
 3. "The natural man... receiveth not [the things of the Spirit], though they are offered to him, and are 'worthy of being received by all men'."
@@ -53,4 +53,4 @@ The Bible verse being described is a passage that contrasts the natural man, gov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

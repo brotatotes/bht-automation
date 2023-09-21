@@ -9,7 +9,7 @@ After receiving a vision from the Lord during his prayer in the temple, the apos
 2. "His stay in Jerusalem at this visit was fifteen days."
 3. "He was not idle there, but certainly preached the Gospel, and in all probability was the founder of the churches."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While he was praying in the temple, he was in a trance," and received express injunctions to this effect.
 2. "As this was his first visit to his native city since his conversion, so it is not certain that he ever was there again."
 3. "It probably was now that he became the instrument of gathering into the fold of Christ those 'kinsmen,' that 'sister,' and perhaps her 'son.'"
@@ -45,4 +45,4 @@ After receiving a vision from the Lord during his prayer in the temple, the apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

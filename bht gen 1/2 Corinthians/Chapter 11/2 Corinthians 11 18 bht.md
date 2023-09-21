@@ -9,7 +9,7 @@ In this verse, the speaker confronts the practice of boasting according to world
 2. "He is here speaking as one of the foolish ones, acknowledging that boasting in worldly achievements is a common habit."
 3. "The context contradicts the notion that the Apostle's boasting was not fleshly; he is speaking as one of the many who boast in their earthly status."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many—including the 'false teachers'." 
 2. "After the flesh—as fleshly men are wont to boast, namely, of external advantages, as their birth, doings, c."
 3. "I will glory also—that is, I also will boast of such fleshly advantages, to show you that even in these I am not their inferiors, and therefore ought not to be supplanted by them in your esteem though these are not what I desire to glory in."
@@ -49,4 +49,4 @@ In this verse, the speaker confronts the practice of boasting according to world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

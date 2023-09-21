@@ -11,7 +11,7 @@ In this mysterious verse, the opening of the seals in the book of God's purposes
 
 3. "When these preparations for His coming have taken place, and that coming itself has passed, and the elect are gathered into glory, then will be the time when the last hindrance to our perfect knowledge will be removed, and the book of God’s eternal purposes will lie open the theme of eternity’s praise."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The half hour's silence contrasts with the previous jubilant songs of the great multitude, taken up by the angels. It is the solemn introduction to the employments and enjoyments of the eternal Sabbath-rest of the people of God."
 2. "The half-hour silence is the brief pause given to John between the preceding vision and the following one, implying, on the one hand, the solemn introduction to the eternal sabbatism which is to follow the seventh seal; and, on the other, the silence which continued during the incense-accompanied prayers which usher in the first of the seven trumpets."
 3. "The half-hour stillness implies, too, the earnest adoring expectation with which the blessed spirits and the angels await the succeeding unfolding of God's judgments."
@@ -52,4 +52,4 @@ In this mysterious verse, the opening of the seals in the book of God's purposes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

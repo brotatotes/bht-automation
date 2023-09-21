@@ -9,7 +9,7 @@ The verse being described is one in which Jesus clarifies that the voice from he
 2. "Our Lord does not say that the assurance was not made for His sake; He had prayed, and His prayer had been answered: but that it had not been thus outwardly expressed for His, but for their sake."
 3. "This is likewise true in the case of all testimonies to Him; and especially those two other voices from heaven, at His Baptism and His Transfiguration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This voice came not because of me, but for your sakes" - Jesus clarifies that the voice from heaven was not for His benefit but for the sake of those present, to correct any negative impressions caused by His distress and prayer for deliverance.
 
 2. "To correct the unfavorable impressions" - The voice from heaven served to rectify any misunderstandings or misconceptions that may have arisen due to Jesus' momentary agitation and plea for deliverance.
@@ -55,4 +55,4 @@ The verse being described is one in which Jesus clarifies that the voice from he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

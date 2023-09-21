@@ -9,7 +9,7 @@ This verse depicts the apostle Paul's acknowledgment that his boasting may appea
 2. "ὡς ἐν ἀφροσύνῃ, i.e. ‘putting myself into the situation, and speaking the words of a foolish man vaunting of himself.’"
 3. "ὑποστάσει, as in 2 Corinthians 9:4, in this present confidence, not as Chrys. ‘subject,’ ‘this subject of boasting,’ but the sense would be insipid in the last degree."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even this boasting, though undesirable in itself, was permitted by the Spirit, taking into account its aim, namely, to draw off the Corinthians from their false teachers to the apostle."
 2. "Therefore this passage gives no proof that any portion of Scripture is uninspired."
 3. "It merely guards against his boasting being made a justification of boasting in general, which is not ordinarily 'after the Lord,' that is, consistent with Christian humility."
@@ -48,4 +48,4 @@ This verse depicts the apostle Paul's acknowledgment that his boasting may appea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

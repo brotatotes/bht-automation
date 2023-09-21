@@ -4,7 +4,7 @@
 The verse described above highlights the importance of loving God and emphasizes the personal and intimate relationship that believers have with Him. It states that those who love God are known and approved by Him. The verse suggests that through love, believers come to know God and are recognized by Him. It also emphasizes the significance of God's approval and the assurance it brings to those who live in righteousness. This description reflects on the deep connection between love for God and the recognition and approval believers receive from Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love God—the source of love to our neighbor." 
 2. "To love God is to know God; and he who thus knows God has been first known by God."
 3. "He who loves, not he who 'thinks that he knows,' not having 'charity' or love."
@@ -45,4 +45,4 @@ The verse described above highlights the importance of loving God and emphasizes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

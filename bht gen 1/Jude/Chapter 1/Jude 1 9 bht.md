@@ -9,7 +9,7 @@ This verse refers to a dispute between Michael the archangel and the devil, as m
 2. "The source of the tradition to which St. Jude here refers as familiar to his readers is not known with any certainty." 
 3. "It is, however, remarkable that the same words, 'The Lord rebuke thee,' are spoken by the angel to the devil in Zechariah 3:1-3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Nowhere in Scripture is the plural used, 'archangels'; but only ONE, 'archangel.' The only other passage in the New Testament where it occurs, is Jude 1:9, where Christ is distinguished from the archangel, with whose voice He shall descend to raise the dead; they therefore err who confound Christ with Michael." 
 2. "Satan, as having the power of death, opposed the raising of [Moses' body] again, on the ground of Moses' sin at Meribah, and his murder of the Egyptian. That Moses' body was raised, appears from his presence with Elijah and Jesus (who were in the body) at the Transfiguration: the sample and earnest of the coming resurrection kingdom, to be ushered in by Michael's standing up for God's people." 
 3. "Michael, whose connection seems to be so close with Jehovah-Messiah on the one hand, and with Israel on the other, naturally uses the same language as his Lord. As Satan accuses alike the Church collectively and 'the brethren' individually, so Christ pleads for us as our Advocate. Israel's, and all believers' full justification, and the accuser's being rebuked finally, is yet future."
@@ -53,4 +53,4 @@ This verse refers to a dispute between Michael the archangel and the devil, as m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

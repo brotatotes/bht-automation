@@ -6,7 +6,7 @@ from gensim.utils import tokenize
 
 COMMENTATORS = set([
     "Henry Alford",
-    "Jamieson Fausset Brown",
+    "Jamieson-Fausset-Brown",
     "Albert Barnes",
     "Marvin Vincent",
     "John Calvin",

@@ -9,7 +9,7 @@ Upon this, many of his disciples went back, turned away from him and left him. N
 2. "Many" refers to those who do not believe, but not all.
 3. The commentary suggests that not all people fall into the category of those who do not believe.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those last words of our Lord seemed to have given them the finishing stroke—they could not stand it any longer."
 2. "They could not stand it any longer."
 3. "Now they gave Him up finally!"
@@ -55,4 +55,4 @@ Upon this, many of his disciples went back, turned away from him and left him. N
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

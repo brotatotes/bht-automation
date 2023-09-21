@@ -9,7 +9,7 @@ The verse being described is a powerful reminder of the significance and depth o
 2. "I have no hostile feeling to my nation." 
 3. "I may well wish to see and speak with you, being a prisoner for the hope of Israel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This cause is not so much mine as yours; it is the nation's cause; all that is dear to the heart and hope of Israel is bound up with this case of mine."
 2. "From the touching allusions which the apostle makes to his chains, before Agrippa first, and here before the leading members of the Jewish community at Rome, at his first interview with them, one would gather that his great soul felt keenly his being in such a condition."
 3. "It is to this keenness of feeling, under the control of Christian principle, that we owe the noble use which he made of it in these two cases."
@@ -53,4 +53,4 @@ The verse being described is a powerful reminder of the significance and depth o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

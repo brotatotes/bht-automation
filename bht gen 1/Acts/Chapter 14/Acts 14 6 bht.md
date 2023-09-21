@@ -9,7 +9,7 @@ Paul and Barnabas, after being persecuted and stoned in one city, fled to the ci
 2. "In one of these places (probably at Lystra, see note, ch. Act 16:1) Paul found and took up Timothy on his second journey."
 3. "There appear to have been few Jews in the district: we hear of no synagogue."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Unto Lystra and Derbe—the one some twenty miles to the south, the other some sixty miles to the east of Iconium, somewhere near the bases of what are called the Black Mountains and the roots of Mount Taurus; but their exact position has not yet been discovered." 
 2. "Paul healing a cripple, the people are scarce restrained from sacrificing to them as gods, but afterwards, their minds being poisoned, they stone Paul, leaving him for dead." 
 3. "Withdrawing to Derbe, they preach and teach there."
@@ -45,4 +45,4 @@ Paul and Barnabas, after being persecuted and stoned in one city, fled to the ci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

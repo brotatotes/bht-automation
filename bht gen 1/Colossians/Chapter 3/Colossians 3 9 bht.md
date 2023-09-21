@@ -4,7 +4,7 @@
 In this verse, believers are urged to renounce and completely discard the old self, symbolized as "the old man," along with its deceitful habits and sinful actions. The commentators emphasize the importance of truthfulness, highlighting lying as a fruit of sin that should be put away. The act of putting off the old self is depicted as intentionally removing a useless garment and signifies a complete transformation and renewal of one's inner being. This new self, renewed by the Spirit of Christ, is characterized by truthfulness and obedience to righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put off" means to utterly renounce and completely get rid of [TITTMANN].
 2. "The old man" refers to the unregenerate nature that one had before conversion.
 3. "His deeds" refers to the habits of acting that were associated with the old man.
@@ -45,4 +45,4 @@ In this verse, believers are urged to renounce and completely discard the old se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

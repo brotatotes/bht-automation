@@ -9,7 +9,7 @@ After the Sabbath had ended, the women purchased spices to anoint the Body of Ch
 2. "Luke 23:55 places it on the evening before the Sabbath; a slight but valuable discrepancy, as showing the independence of the accounts."
 3. "Nicodemus (Joh 19:40) had only wrapped the Body hurriedly in the spices with the linen clothes."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And when the sabbath was past—that is, at sunset of our Saturday."
 2. "But our translators are perhaps right in rendering it here 'had bought,' since it would appear, from Matthew 27:56- :, that they had purchased them immediately after the Crucifixion, on the Friday evening, during the short interval that remained to them before sunset, when the sabbath rest began."
 3. "On this 'anointing,' see on Matthew 27:56- :."
@@ -38,4 +38,4 @@ After the Sabbath had ended, the women purchased spices to anoint the Body of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

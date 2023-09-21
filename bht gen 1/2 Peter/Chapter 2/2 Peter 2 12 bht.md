@@ -9,7 +9,7 @@ In this verse, the commentators paint a vivid picture of individuals who deviate
 2. "Speaking evil... in the matter of things which they know not." 
 3. "In their corruption shall even perish."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In contrast to angels that 'excel in strength.'"
 2. "Being in their very nature (that is, naturally) as such (irrational animals), born to be taken and destroyed."
 3. "The same presumption, the parent of subsequent Gnostic error, producing an opposite, though kindred, error, the worshipping of good angels."
@@ -55,4 +55,4 @@ In this verse, the commentators paint a vivid picture of individuals who deviate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

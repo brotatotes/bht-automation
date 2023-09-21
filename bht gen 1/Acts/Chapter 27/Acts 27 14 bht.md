@@ -9,7 +9,7 @@ In the midst of their journey, a sudden and violent storm erupted, driven by a t
 2. "The sudden change from a south wind to a violent northerly wind is a common occurrence in these seas." 
 3. "The term 'typhonic' indicates that it was accompanied by some of the phænomena which might be expected in such a case, viz. the agitation and whirling motion of the clouds caused by the meeting of the opposite currents of air when the change took place, and probably also of the sea, raising it in columns of spray."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A tempestuous wind—that is, like a typhon or tornado, causing a whirling of the clouds, owing to the meeting of opposite currents of air." 
 
 2. "Called Euroclydon—The true reading appears to be Euro-aquilo, or east-northeast, which answers all the effects here ascribed to it."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

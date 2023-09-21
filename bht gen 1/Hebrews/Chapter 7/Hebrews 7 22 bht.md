@@ -4,7 +4,7 @@
 The verse being described here emphasizes the role of Jesus as the surety of a superior covenant or testament. Jesus is the guarantee and pledge for this new covenant, which surpasses the old. His exalted position and glory ensure its maintenance and completion. This covenant, founded in God's good will and pleasure, provides promises and blessings for God's children. Jesus acts as the mediator, representing both God and humanity in this covenant. It is an unchangeable and eternal agreement, surpassing the previous one.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This He did by becoming responsible for our guilt, by sealing the covenant with His blood, and by being openly acknowledged as our triumphant Saviour by the Father, who raised Him from the dead." (Quote 1)
 2. "Thus He is at once God's surety for man, and man's surety for God, and so Mediator between God and man." (Quote 2)
 3. "The Greek term implies that it is appointed by God, and comprises the relations and bearings partly of a covenant, partly of a testament." (Quote 3)
@@ -45,4 +45,4 @@ The verse being described here emphasizes the role of Jesus as the surety of a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

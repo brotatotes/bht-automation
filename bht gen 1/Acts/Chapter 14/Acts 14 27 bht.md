@@ -9,7 +9,7 @@ In this verse, the apostles Paul and Barnabas report back to the church everythi
 2. "On χρόν. οὐκ ὀλίγ., see chronol. table in Prolegg." This quote points to a chronology table in the Prolegomena that provides further information on the time period mentioned in the verse.
 3. "μετʼ αὐτῶν, with (i.e. in dealing with) them, see reff.: not to them, as usually: nor per ipsos, as Beza, &c." This quote clarifies the meaning of the phrase "μετʼ αὐτῶν" as "with them" rather than "to them" or "per ipsos."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They dutifully, and no doubt with eager joy, convened the church and gave their report of 'all that God had done with them,' that is, by and for them."
 2. "He had opened the door of faith to the Gentiles—to such even as before had not been proselytes."
 3. "The ascribing directly to God of such access to the Gentiles is to be noted."
@@ -51,4 +51,4 @@ These quotes explain the meaning of the phrases "with them" and "and how" in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

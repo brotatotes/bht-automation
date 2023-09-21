@@ -9,7 +9,7 @@ The commentators provide insight into the verse as they encourage active partici
 2. "The addition after the hortatory ποιήσωμεν is as delicate and beautiful, as it is frigid in the common acceptation after the indicative ποιήσομεν." 
 3. "For it is God who worketh in us both to will and to do of his good pleasure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let us do." - This phrase suggests a call to action, emphasizing the importance of actively participating in the process of spiritual growth and striving towards perfection.
 2. "For even in the case of good resolutions, we cannot carry them into effect, save through God 'working in us both to will and to do of His good pleasure'." - This quote highlights the dependence on God's grace and empowerment to fulfill our intentions and desires for spiritual progress.
 3. "Without God's blessing, the cultivation of the ground does not succeed." - This analogy emphasizes the need for God's favor and guidance in order to achieve fruitful and successful spiritual growth.
@@ -53,4 +53,4 @@ The commentators provide insight into the verse as they encourage active partici
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

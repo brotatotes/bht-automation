@@ -4,7 +4,7 @@
 In the midst of the four living creatures, God's voice is heard, showing His compassion and mercy for His redeemed. This verse reveals a time of scarcity and famine, where basic necessities become scarce and unaffordable, affecting not just individuals but families as well. The scarcity is specifically on the necessities of life, such as bread, while the luxuries like oil and wine are preserved. It is a season where God safeguards the essential truths, protecting them from heretics and false teachers, even in times of darkness and spiritual famine.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The voice is heard 'in the midst of the four living creatures' because it is only for the sake of, and in connection with, His redeemed, that God mitigates His judgments on the earth."
 2. "A choelignix, about a day's provision of wheat, should not be so scarce that it is unobtainable 'for a penny.' Famine generally follows the sword."
 3. "The 'Come,' in the case of this third seal, is said by the third of the four living creatures, whose likeness is a man indicative of sympathy and human compassion for the sufferers. God in it tempers judgment with mercy."
@@ -33,4 +33,4 @@ In the midst of the four living creatures, God's voice is heard, showing His com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

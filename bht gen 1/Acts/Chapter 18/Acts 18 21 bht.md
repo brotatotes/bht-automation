@@ -9,7 +9,7 @@ The speaker in this Bible verse is deeply committed to participating in a religi
 2) "Hence, if the voyage from Corinth at all approached the length of that from Philippi to Jerusalem in ch. 20, 21, he would have set sail at a time when it would have been hardly possible."
 3) "It remains, then, that the feast should have been Pentecost; at which Paul also visited Jerusalem, ch. Acts 20:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I must . . . keep this feast—probably Pentecost, presenting a noble opportunity of preaching the Gospel." This quote highlights the significance of the feast and how it provided a perfect occasion for spreading the message of the Gospel.
 
 2. "But I will return—the fulfilment of which promise is recorded in Acts 18:21." This quote emphasizes the assurance of Jesus' return and points to the specific biblical reference where this promise is fulfilled.
@@ -47,4 +47,4 @@ The speaker in this Bible verse is deeply committed to participating in a religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

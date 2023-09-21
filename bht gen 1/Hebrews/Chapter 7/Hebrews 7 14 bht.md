@@ -9,7 +9,7 @@ The verse being described is evident and undeniable, highlighting the undeniable
 2. "Some have thought that this word, which, as an intransitive verb, is generally used of the heavenly bodies, has reference to our Lord’s rising as a Sun of righteousness." 
 3. "With reference to which tribe Moses said nothing concerning priests."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "evident—literally, 'manifest before the eyes' as a thing indisputable; a proof that whatever difficulties may now appear, then Jesus Christ's genealogy labored under none."
 2. "our Lord—the only place where this now common title occurs without 'Jesus,' or 'Christ.'"
 3. "sprang—as a plant, and a branch."
@@ -50,4 +50,4 @@ The verse being described is evident and undeniable, highlighting the undeniable
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

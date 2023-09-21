@@ -4,7 +4,7 @@
 In this verse, commentators express the concept of being accepted by God and striving to please Him. They highlight the importance of living in a manner that is pleasing to God, regardless of our physical presence in this world. They emphasize that believers should diligently pursue and aim to please God, both in their actions and in their faith. This verse encourages Christians to have a strong desire to live a life that is pleasing and acceptable to God, even in the midst of challenges and uncertainties.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With such a sure 'confidence' of being blessed, whether we die before, or be found alive at Christ's coming."
 2. "We labor—literally, 'make it our ambition'; the only lawful ambition."
 3. "Whether we be found at His coming present in the body, or absent from it, accepted—Greek, 'well-pleasing'."
@@ -47,4 +47,4 @@ These quotes emphasize the importance of striving to please God rather than seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

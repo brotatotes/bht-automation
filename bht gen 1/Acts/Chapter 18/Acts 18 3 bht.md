@@ -9,7 +9,7 @@ In this verse, we see the apostle Paul, together with his companions, engaging i
 2. "The general opinion now is, that Paul was a maker of tents from the ‘cilicium,’ or hair-cloth of Cilician goats."
 3. "Chrysost. calls Paul sometimes σκηνοῤῥάφος, sometimes σκυτοτόμος, a leather-cutter, imagining that the tents were made of leather."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "tentmakers—manufacturers, probably, of those hair-cloth tents supplied by the goats of the apostle's native province"
 2. "Every Jewish youth, whatever the pecuniary circumstances of his parents, was taught some trade"
 3. "Paul made it a point of conscience to work at that which he had probably been bred to, partly that he might not be burdensome to the churches, and partly that his motives as a minister of Christ might not be liable to misconstruction."
@@ -55,4 +55,4 @@ In this verse, we see the apostle Paul, together with his companions, engaging i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

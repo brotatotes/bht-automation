@@ -9,7 +9,7 @@ In this verse, Jesus speaks of sanctifying himself, consecrating himself exclusi
 2. "The confining the meaning to His sacrifice (Chrys., Euthym), and the ἵνα καὶ αὐτοὶ.… to their martyrdom, or their spiritual self-offering, Romans 12:1 (Euthym), is insufficient for the depth of the words."
 3. "ἐν ἀληθ. ] in truth: what truth, is evident from John 17:17, where, in the repetition, ὁ λόγ. ὁ σὸς ἀλήθειά ἐστιν, the article is also wanting: see also ch. John 1:14; John 4:24: 3 John 1:3, for ἀλήθ, without the article."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The only difference between the application of the same term to Christ and the disciples is, as applied to Christ, that it means only to 'consecrate'; whereas, in application to the disciples, it means to consecrate with the additional idea of previous sanctification, since nothing but what is holy can be presented as an offering."
 2. "The whole self-sacrificing work of the disciples appears here as a mere result of the offering of Christ."
 3. "Though the article is wanting in the original here, we are not to translate, as in the Margin, 'truly sanctified'; for the reference seems plainly to be 'the truth' mentioned in John 17:17."
@@ -50,4 +50,4 @@ In this verse, Jesus speaks of sanctifying himself, consecrating himself exclusi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

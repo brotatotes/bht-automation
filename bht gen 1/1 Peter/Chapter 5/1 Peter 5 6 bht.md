@@ -9,7 +9,7 @@ In this verse, we are called to humble ourselves under the mighty hand of God. T
 2. "The strong hand of God is laid on the afflicted and suffering, and it is for them to acknowledge it in lowliness of mind."
 3. "This humility implies patience, waiting God’s time: 'ut nimiæ festinationi simul obviam eat,' Calv."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Accept His chastisements, and turn to Him that smiteth you." 
 2. "He depresses the proud and exalts the humble." 
 3. "Wait humbly and patiently for His own fit time."
@@ -57,4 +57,4 @@ In this verse, we are called to humble ourselves under the mighty hand of God. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

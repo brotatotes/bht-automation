@@ -11,7 +11,7 @@ The verse describes the preservation of Noah and seven others, emphasizing Noah'
 
 3. "bringing the flood on the world of ungodly men:" - This phrase emphasizes the divine judgment that was brought upon the ungodly world through the flood. It highlights the severity of their wickedness and the righteousness of God's judgment.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrasted with the densely peopled 'world of the ungodly.'" 
 2. "Not only 'righteous' himself, but also 'a preacher of righteousness.'" 
 3. "Adduced by Peter against the licentiousness of the false teachers who have no prospect before them but destruction."
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so I have included all three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

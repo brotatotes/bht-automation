@@ -4,7 +4,7 @@
 The verse being described speaks to the higher ways and thoughts of God, reminding us to trust in His greater purpose and seek His guidance. It also emphasizes the need to trust in God's perfect timing and to avoid impatience. The verse warns of the consequences of sinful behavior and highlights the seriousness and gravity of God's wrath towards disobedience. It also prompts us to examine our own attitudes and honor the sacred things of God with reverence and devotion.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This verse reminds us that God's ways are higher than our ways and His thoughts are higher than our thoughts. We may not always understand why God allows certain things to happen, but we can trust that He has a greater purpose and plan in mind."
 2. "The verse also teaches us the importance of seeking God's guidance and wisdom in all areas of our lives. When we acknowledge Him in all our ways, He promises to direct our paths and lead us in the right way."
 3. "Furthermore, this verse reminds us of the need to trust in God's timing. Sometimes, we may feel impatient or discouraged when things don't happen according to our timeline. However, we can find comfort in knowing that God's timing is perfect and He will fulfill His promises in His own time."
@@ -56,4 +56,4 @@ The verse being described speaks to the higher ways and thoughts of God, remindi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under observation presents a moment of perplexity as commentators ask 
 2. "ὁ πολ. ὄχ. ἤκ. αὐτ. ἡδ. is peculiar to Mark."
 3. "See reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Messiah is at once inferior to David as his son according to the flesh, and superior to him as the Lord of a kingdom of which David is himself a subject, not the sovereign."
 2. "The human and divine natures of Christ, and the spirituality of His kingdom—of which the highest earthly sovereigns are honored if they be counted worthy to be its subjects—furnish the only key to this puzzle."
 3. "And no man was able to answer Him a word; neither durst any man from that day forth ask Him any more questions."
@@ -38,4 +38,4 @@ The verse under observation presents a moment of perplexity as commentators ask 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

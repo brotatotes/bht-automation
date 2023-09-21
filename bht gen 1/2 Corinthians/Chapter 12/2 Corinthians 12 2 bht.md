@@ -9,7 +9,7 @@ In this verse, the writer, humbly referred to as "this man," experiences a remar
 2. "if in the body, the idea would be that he was taken up bodily: if out of the body, to which the alternative manifestly inclines, that his spirit was rapt from the body, and taken up disembodied."
 3. "to understand a high degree of celestial exaltation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Such glory belonged not to him, but the weakness did."
 2. "His spiritual self was his highest and truest self: the flesh with its infirmity merely his temporary self."
 3. "The occurrence TWICE of 'whether in the body . . . I know not, God knoweth,' and of 'lest I should be exalted above measure,' marks two stages in the revelation."
@@ -55,4 +55,4 @@ In this verse, the writer, humbly referred to as "this man," experiences a remar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

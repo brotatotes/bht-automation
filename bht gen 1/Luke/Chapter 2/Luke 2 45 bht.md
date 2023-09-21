@@ -11,7 +11,7 @@ The disciples actively pursued Jesus, seeking Him fervently and demonstrating th
 
 3. "This verse reminds us of the importance of seeking after Jesus in our own lives. It encourages us to actively pursue Him, to seek His presence, and to never stop searching for Him. It is a call to wholeheartedly follow Him and not be content with a superficial or passive faith."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "After three sorrowing days, they find Him still in Jerusalem, not gazing on its architecture, or surveying its forms of busy life, but in the temple." 
 
 2. "Not the 'sanctuary' (as in :-), to which only the priests had access, but in some one of the enclosures around it, where the rabbins, or 'doctors,' taught their scholars." 
@@ -38,4 +38,4 @@ The disciples actively pursued Jesus, seeking Him fervently and demonstrating th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

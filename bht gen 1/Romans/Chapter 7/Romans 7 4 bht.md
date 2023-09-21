@@ -11,7 +11,7 @@ In this passage, commentators explain the profound implications of being "slain 
 
 3. "Not merely final, as Thol., Meyer, De W., &c. Not merely ecbatic, as Fritzsche" - This shows that there are different interpretations of the intended meaning of the passage, highlighting the complexity of understanding biblical texts.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostle here departs from his usual word 'died,' using the more expressive phrase 'were slain,' to make it clear that he meant their being 'crucified with Christ'." 
 
 2. "It was essential to his argument that we, not the law, should be the dying party, since it is we that are 'crucified with Christ,' and not the law." 
@@ -64,4 +64,4 @@ In this passage, commentators explain the profound implications of being "slain 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, we see the humble presentation of Jesus in the temple, where Mary
 
 3. "This nowhere appears from the gospel history."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The days" of this purification for a male child were forty in all...on the expiry of which the mother was required to offer a lamb for a burnt offering, and a turtle dove or a young pigeon for a sin offering.
 2. Being a first-born male, they "bring him to Jerusalem, to present him to the Lord." All such had been claimed as "holy to the Lord," or set apart to sacred uses, in memory of the deliverance of the first-born of Israel from destruction in Egypt, through the sprinkling of blood.
 3. By that Babe, in due time, we were to be redeemed, "not with corruptible things as silver and gold, but with the precious blood of Christ" (1 Peter 1:18; 1 Peter 1:19), and the consuming of the mother's burnt offering, and the sprinkling of her with the blood of her sin offering, were to find their abiding realization in the "living sacrifice" of the Christian mother herself.
@@ -61,4 +61,4 @@ These quotes highlight the significance of Mary and Joseph bringing Jesus to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

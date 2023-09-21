@@ -9,7 +9,7 @@ The verse being described emphasizes the mission and authority given by Jesus to
 2. "He confirms and grounds their Apostleship on the present glorification of Himself."
 3. "Their sending forth by Him their glorified Head, was to be, in character and process, like that of Himself by the Father."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus, prepared now to listen to Him in a new character." 
 2. "Peace be unto you." 
 3. "As my Father hath sent me, so send I you."
@@ -53,4 +53,4 @@ The verse being described emphasizes the mission and authority given by Jesus to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

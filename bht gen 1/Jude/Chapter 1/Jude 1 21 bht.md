@@ -4,7 +4,7 @@
 This passage urges believers to actively maintain their relationship with God by relying on His grace and keeping themselves in His love. It emphasizes the importance of God's love as a stronghold against sin and encourages believers to cultivate love, peace, and unity among one another. It reminds believers to confidently expect the gift of eternal life, which is attained solely through the mercy of Jesus Christ. It highlights the intertwining of human responsibility and divine sovereignty in maintaining faith and obedience.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Keep yourselves - not in your own strength, but 'in the love of God,' that is, God's love to you and all His believing children, the only guarantee for their being kept safe."
 2. "Man's need of watching is implied; at the same time he cannot keep himself unless God in His love keeps him."
 3. "Mercy is usually attributed to the Father: here to the Son; so entirely one are they."
@@ -42,4 +42,4 @@ This passage urges believers to actively maintain their relationship with God by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

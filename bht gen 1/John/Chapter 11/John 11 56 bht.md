@@ -9,7 +9,7 @@ In this verse, we see the anticipation and debate among the people regarding Jes
 2. "What think ye, that He is not (i.e. of His not having) come to the feast?"
 3. "The question challenges the audience to consider their thoughts and beliefs about Jesus not attending the feast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sought they for Jesus, and spake among themselves, as they stood in the temple." - This shows the anticipation and curiosity of the people, wondering if Jesus would come to the feast. 
 
 2. "Giving forth the various conjectures and speculations about the probability of His coming to the feast." - The people were engaged in discussions, trying to predict whether Jesus would attend the feast or not. 
@@ -49,4 +49,4 @@ These quotes highlight the theme of choosing duty over personal safety, even in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

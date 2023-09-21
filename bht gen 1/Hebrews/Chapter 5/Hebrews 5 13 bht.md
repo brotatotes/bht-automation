@@ -4,7 +4,7 @@
 In this verse, it speaks of those who partake of milk, signifying a lack of maturity or spiritual growth. The commentators emphasize the inexperience and lack of understanding of these individuals in the realm of righteousness. They also highlight how the Gospel provides the means to reveal the righteousness of Christ and the importance of not relying solely on one's own works. It stresses the need for spiritual advancement beyond the basic principles of the faith and to pursue a deeper understanding of righteousness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Even strong men partake of milk, but do not make milk their chief, much less their sole, diet."
 2. "The word of righteousness—the Gospel wherein 'the righteousness of God is revealed from faith to faith' (Romans 1:17)."
 3. "This includes the doctrine of justification and sanctification: the first principles, as well as the perfection, of the doctrine of Christ."
@@ -45,4 +45,4 @@ In this verse, it speaks of those who partake of milk, signifying a lack of matu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

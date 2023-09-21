@@ -9,7 +9,7 @@ The Bible verse being described speaks of a time of shaking and removal, a divin
 2. "The scope of Creation has been, the establishing of the kingdom of Redemption: that it, the transitory and baseless, may pass away when its work is fulfilled, and give place to that which shall never pass away."
 3. "Creation was made but to subserve Redemption: the things removeable, to give place to the things unremoveable."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In saying 'once more,' the Spirit implies that something has already passed, and something else shall be which is to remain, and is no more to be changed to something else; for the once is exclusive, that is, not many times."
 2. "As the shaking is to be total, so shall the removal be, making way for the better things that are unremovable."
 3. "The new abiding heaven and earth are also made by God, but they are of a higher nature than the material creation, being made to partake of the divine nature of Him who is not made."
@@ -50,4 +50,4 @@ The Bible verse being described speaks of a time of shaking and removal, a divin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

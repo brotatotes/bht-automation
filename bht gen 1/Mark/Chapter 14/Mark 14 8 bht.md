@@ -11,7 +11,7 @@ In this verse, a woman is commended for her actions as she shows her love and de
 
 3. "shewing, as I have observed on Matt., that the act was one of prospective love" - This quote further underscores the woman's act as an expression of future-oriented love, indicating her anticipation and preparation for what was to come.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She hath done what she could—a noble testimony, embodying a principle of immense importance."
 2. "In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God."
 3. "Who but Himself had the power to ensure to any work of man, even if resounding in His own time through the whole earth, an imperishable remembrance in the stream of history?"
@@ -44,4 +44,4 @@ In this verse, a woman is commended for her actions as she shows her love and de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

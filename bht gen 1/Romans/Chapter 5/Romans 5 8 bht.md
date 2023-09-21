@@ -9,7 +9,7 @@ This verse beautifully showcases the profound love of God towards humanity, as c
 2. "While we were yet sinners, Christ died for us."
 3. "Christ died for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But God commendeth his love toward us, in that, while we were yet sinners." 
 2. "Christ died for us." 
 3. "Now comes the overpowering inference, emphatically redoubled."
@@ -57,4 +57,4 @@ These quotes highlight the manifestation of God's love, the fact that Christ die
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

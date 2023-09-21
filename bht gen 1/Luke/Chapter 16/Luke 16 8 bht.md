@@ -9,7 +9,7 @@ In this verse, a cunning and dishonest steward is commended by his master for hi
 2. "The point brought out is not merely the shrewdness of the steward, but his lord, whose injury was wrought by this very shrewdness, praising it."
 3. "But this very τὴν ἑαυ . indicates that there is a better and a higher γενεά, the family of light, whose interests require a higher and better wisdom and foresight."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "commended, c.—not for his 'injustice,' but 'because he had done wisely,' or prudently with commendable foresight and skilful adaptation of means to end."
 2. "the greater wisdom (or shrewdness) of the one, in adaptation of means to ends, and in energetic, determined prosecution of them, is none of it for God and eternity—a region they were never in, an atmosphere they never breathed, an undiscovered world, an unborn existence to them—but all for the purposes of their own grovelling and fleeting generation."
 3. "yet this is only 'as night-birds see better in the dark than those of the day owls than eagles.' But we may learn lessons from them, as our Lord now shows, and 'be wise as serpents.'"
@@ -49,4 +49,4 @@ In this verse, a cunning and dishonest steward is commended by his master for hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

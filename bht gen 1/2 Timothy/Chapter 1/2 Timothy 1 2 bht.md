@@ -9,7 +9,7 @@ The verse being described is a salutation from Paul to Timothy. The use of the t
 2. "The expression of feeling is different in kind, not comparable in degree: suiting an Epistle of warm affection and somewhat saddened reminding, rather than one of rising hope and confidence."
 3. "Tender reproof, vigorous reassurance, and fervent affection are exquisitely intermingled."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The expression used is in the Greek, 'my genuine son.' ALFORD sees in the change of expression an intimation of an altered tone as to Timothy, more of mere love, and less of confidence, as though Paul saw in him a want of firmness."
 2. "This seems to me not justified by the Greek word agapetos, which implies the attachment of reasoning and choice, on the ground of merit in the one 'beloved,' not of merely instinctive love."
 3. "The use of the term 'beloved' suggests a deep and intentional love, based on the qualities and merits of the one being loved."
@@ -52,4 +52,4 @@ The verse being described is a salutation from Paul to Timothy. The use of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

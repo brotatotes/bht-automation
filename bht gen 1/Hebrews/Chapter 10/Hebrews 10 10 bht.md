@@ -9,7 +9,7 @@ The Bible verse being described is focused on the will of God being fulfilled by
 2. "By the offering of His Body that we are made holy. The one concerns our acceptance as acquitted from sin; the other our perfection in holiness by union with Him and participation in His Spirit."
 3. "The assertion is not mainly of our being sanctified once for all, though that does come in as a consequence of the one offering, but of our sanctification having taken place by means of a final efficacious sacrifice, which does not, as those legal ones did, need repeating."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole work of redemption flows from 'the will' of God the Father, as the First Cause, who decreed redemption from before the foundation of the world."
 2. "It is the finished work of Christ in having sanctified us once for all and permanently, not the process of gradual sanctification, which is here referred to."
 3. "As the atonement, or reconciliation, is by the blood of Christ, so our sanctification is by the body of Christ."
@@ -57,4 +57,4 @@ The Bible verse being described is focused on the will of God being fulfilled by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Though the disciples had witnessed Jesus' teachings and miracles, they still struggled with fear and a lack of faith. Jesus questioned their fear and emphasized his authority over the storm, reminding them of the need to trust in his presence and power. The disciples' faith, though present, was small and wavering, leading to their perception of a hopeless situation. This passage highlights the disciples' relatability in their struggles, serving as a reminder to readers of the importance of placing our trust in Jesus, even in the midst of storms.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is a natural apprehension under danger; but there was unbelief in their fear."
 2. "It is worthy of notice how considerately the Lord defers this rebuke till He had first removed the danger, in the midst of which they would not have been in a state to listen to anything."
 3. "Faith dispels fear, but only in proportion to its strength."
@@ -30,4 +30,4 @@ Though the disciples had witnessed Jesus' teachings and miracles, they still str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

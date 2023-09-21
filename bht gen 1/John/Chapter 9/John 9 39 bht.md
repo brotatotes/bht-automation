@@ -9,7 +9,7 @@ In this Bible verse, Jesus speaks about the transformative power of His coming. 
 2. "And as our Lord always treats of the spiritual as paramount, including the bodily, so here He proceeds to speak of spiritual sight."
 3. "We are all, according to the spirit of nature, no better than persons born blind; and to know and confess this our blindness, is our first and only true sight."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "that they which see not might see, &c.—rising to that sight of which the natural vision communicated to the youth was but the symbol." 
 2. "that they which see might be made blind—judicially incapable of apprehending and receiving the truth, to which they have wilfully shut their eyes." 
 3. "the natural vision communicated to the youth was but the symbol."
@@ -59,4 +59,4 @@ These quotes highlight the idea that judgment in this passage refers to the rest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

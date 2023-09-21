@@ -11,7 +11,7 @@ Love is a powerful force described by various commentators in their insights on 
 4. "Even against hope hoping what is good of another."
 5. "Persecutions and distresses inflicted by others, rather than show an unloving spirit to them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beareth all things—without speaking of what it has to bear. It endures without divulging to the world personal distress."
 2. "The charitable man contains himself in silence from giving vent to what selfishness would prompt under personal hardship."
 3. "Believeth all things—unsuspiciously believes all that is not palpably false, all that it can with a good conscience believe to the credit of another."
@@ -55,4 +55,4 @@ Love is a powerful force described by various commentators in their insights on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

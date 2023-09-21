@@ -9,7 +9,7 @@ Beware of those who come as guides, but are wolves in sheep's clothing. False pr
 2. "These ψευδοπρ., directly, refer to the false prophets who were soon to arise, to deceive, if possible, even the very elect."
 3. "In ἐνδύμασι προβ., there may be allusion to the prophetic dress, but most probably it only means that, in order to deceive, they put on the garb and manners of the sheep themselves."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware of false prophets, teachers who come as authorized expounders of the mind of God and guides to heaven." 
 2. "They come to you in sheep's clothing, with a bland, gentle, plausible exterior, persuading you that the gate is not strait nor the way narrow." 
 3. "But inwardly they are ravening wolves, bent on devouring the flock for their own ends."
@@ -48,4 +48,4 @@ Beware of those who come as guides, but are wolves in sheep's clothing. False pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

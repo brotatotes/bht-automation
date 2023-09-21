@@ -4,7 +4,7 @@
 The disciples, influenced by their close relationship with Jesus and their position as part of the inner circle, expressed their ambitious desire for positions of honor and power in Jesus' kingdom. This demonstrated their expectation of a grand Jewish world empire, brushing aside Jesus' teachings about his death and resurrection. Their limited understanding led them to misconstrue Jesus' resurrection as a means to establish their desired glorious kingdom, rather than recognizing it as a spiritual victory over sin and death.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory." - This quote highlights the disciples' desire for positions of honor and power in the kingdom of God.
 
 2. "Assign to us the two places of highest honor in the coming kingdom." - This quote emphasizes the disciples' ambition and their belief that they deserve special recognition and privilege.
@@ -29,4 +29,4 @@ The disciples, influenced by their close relationship with Jesus and their posit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

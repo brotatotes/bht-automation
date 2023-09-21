@@ -11,7 +11,7 @@ In this Bible verse, the author emphasizes the significance of living a holily, 
 
 3. "The charge of want of point against the phrase 'to those who believe' is unfounded, as it narrows the focus to Paul's behavior among the brethren."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are witnesses—as to our outward conduct." 
 2. "God—as to our inner motives." 
 3. "holily—towards God. justly—towards men. unblamably—in relation to ourselves."
@@ -63,4 +63,4 @@ In this Bible verse, the author emphasizes the significance of living a holily, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

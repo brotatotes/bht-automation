@@ -4,7 +4,7 @@
 This verse describes a powerful and oppressive world power, symbolized by a beast that combines the characteristics of a leopard, a bear, and a lion. It represents the rule over the entire world, with qualities that are swift, cruel, brutal, and devouring. The seven heads of the beast symbolize different kingdoms, with the final kingdom represented by ten horns, which signifies the dissolution of the wicked Roman Empire and the rise of other world powers. Ultimately, this beast serves as an agent of the dragon, embodying the wickedness and allure that leads many astray.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It rises up out of the sea, as Daniel's four beasts, and has ten horns, as Daniel's fourth beast, and seven heads, as Daniel's four beasts had in all, namely, one on the first, one on the second, four on the third, and one on the fourth." 
 2. "Thus it represents comprehensively in one figure the world power (which in Daniel is represented by four) of all times and places, not merely of one period and one locality, viewed as opposed to God."
 3. "Satan appears as a serpent, as being the archetype of the beast nature."
@@ -40,4 +40,4 @@ This verse describes a powerful and oppressive world power, symbolized by a beas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

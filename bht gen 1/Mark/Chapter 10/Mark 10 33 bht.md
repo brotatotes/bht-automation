@@ -9,7 +9,7 @@ The Gospel accounts vividly depict the circumstances leading to Jesus' crucifixi
 2. "The 'delivery to the Gentiles' is common to them all."
 3. "The commentary highlights the shared emphasis on the events leading up to Jesus' crucifixion and the involvement of the Gentiles in his trial and execution."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things that are written by the prophets concerning the Son of man shall be accomplished." This quote highlights the fulfillment of prophecies regarding Jesus, emphasizing the divine plan unfolding.
 2. "The Gentiles...taking part in crucifying the Lord of Glory." This quote reveals the significance of Gentiles joining the Jews in Jesus' crucifixion, emphasizing the universal impact of His sacrifice.
 3. "The two grand divisions of the human race for whom He died." This quote underscores the inclusive nature of Jesus' death, emphasizing that His sacrifice was for both Jews and Gentiles.
@@ -25,4 +25,4 @@ The Gospel accounts vividly depict the circumstances leading to Jesus' crucifixi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In an act of kindness and respect, Paul, despite facing adversity, gathers the J
 2. "Paul was naturally anxious to set himself right with the Jews at Rome to explain the cause of his being sent there."
 3. "The fact of his sending for them, and their coming to him, seems to show that he was not imprisoned in the Prætorian camp, but was already in a private lodging."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul called the chief of the Jews together—Though banished from the capital by Claudius, the Jews enjoyed the full benefit of the toleration which distinguished the first period of Nero's reign." 
 
 2. "We have seen that long before this a flourishing Christian Church existed at Rome, to which Paul wrote his Epistle, and the first members of which were probably Jewish converts and proselytes."
@@ -52,4 +52,4 @@ In an act of kindness and respect, Paul, despite facing adversity, gathers the J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

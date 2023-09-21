@@ -4,7 +4,7 @@
 During the time of unprecedented peace in the world, a divine intervention occurred, orchestrated by an infinite and all-wise providence. The birth of the Messiah, the King of kings, took place amidst the earthly rule of the Roman emperor, Caesar Augustus. This enrollment, extending beyond Judea to the entire Roman empire, symbolized the universal impact of the Messiah's birth and his mission to redeem all people from the bondage of sin and death. It was not simply a historical event, but a momentous occasion shaped by both human and divine purposes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Cæsar Augustus—the first of the Roman emperors." 
 2. "All the world—so the vast Roman Empire was termed." 
 3. "Taxed—enrolled, or register themselves."
@@ -47,4 +47,4 @@ During the time of unprecedented peace in the world, a divine intervention occur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

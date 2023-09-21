@@ -9,7 +9,7 @@ In this narrative, Jesus displays His intimate knowledge and personal care for i
 2. "Jesus saw into his heart. Cannot He who knows the thoughts, call by the name also?"
 3. "In these last days of our Lord’s ministry, every event is fixed and determined by a divine plan."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He calleth His own sheep by name and leadeth them out" - This quote highlights the personal and intimate relationship between Jesus and Zaccheus. It emphasizes how Jesus knows and calls individuals by name, showing His care and love for His followers.
 
 2. "He made haste and came down" - This quote showcases Zaccheus' immediate response to Jesus' invitation. It demonstrates his eagerness to meet Jesus and his willingness to leave his position of power and wealth to be in the presence of Jesus.
@@ -61,4 +61,4 @@ These quotes collectively shed light on the significance of Jesus' encounter wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

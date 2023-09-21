@@ -9,7 +9,7 @@ This verse captures the deep and selfless love that the author, though unnamed, 
 2. "Attempts have been made to explain away the meaning here...but excommunication included cursing and delivering over to Satan."
 3. "The wish is evidently not to be pressed as entailing on the Apostle the charge of inconsistency in loving his nation more than his Saviour."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In proportion as he felt himself severed from his nation, he seems to have realized all the more vividly their natural relationship."
 2. "To explain away the wish here expressed, as too strong for any Christian to utter or conceive, some have rendered the opening words, 'I did wish,' referring it to his former unenlightened state; a sense of the words too tame to be endured."
 3. "But our version gives the true import of the original; and if it be understood as the language rather of 'strong and indistinct emotions than of definite ideas,' expressing passionately how he felt his whole being swallowed up in the salvation of his people, the difficulty will vanish."
@@ -57,4 +57,4 @@ This verse captures the deep and selfless love that the author, though unnamed, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, individuals gave generously and willingly, going beyond their own abilities to contribute. They joyfully embraced the opportunity to give and did so without being asked, demonstrating their selflessness and genuine desire to help others. Their hearts overflowed with compassion, as they gave willingly and voluntarily, with no expectation of recognition or reward. Their actions exemplify the noble qualities of generosity, selflessness, and a willingness to go above and beyond for the sake of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "According to their power . . . yea, and beyond their power, THEY GAVE."
 2. "Not only not being besought, but themselves beseeching us."
 3. "They were willing."
@@ -40,4 +40,4 @@ In this Bible verse, individuals gave generously and willingly, going beyond the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

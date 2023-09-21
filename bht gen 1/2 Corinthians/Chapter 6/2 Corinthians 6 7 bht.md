@@ -11,7 +11,7 @@ The verse being described highlights the importance of speaking and living in ac
 
 3. "the weapons of righteousness which are furnished by the righteousness which is of faith" - The commentary highlights that the weapons of righteousness are provided by the righteousness that comes from faith, emphasizing the connection between faith and righteousness in equipping believers for spiritual battle.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By the word of truth" refers to the power of God working through the message of the gospel, demonstrating the Spirit's power. (Quote 7)
 2. The armor of God, particularly the breastplate of righteousness, is the Christian's complete protection against spiritual attacks. (Quote 7)
 3. The phrase "on the right and on the left" signifies the Christian's need to guard against attacks from all directions. (Quote 7)
@@ -61,4 +61,4 @@ These quotes emphasize the importance of truth, righteousness, and conscious rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

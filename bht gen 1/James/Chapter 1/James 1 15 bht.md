@@ -9,7 +9,7 @@ The verse in question describes the process by which lust gives birth to sin and
 2. "The second ἁμαρτία... is the sinful act when brought to perfection in all its consequences, in a series of results following on one another and bringing a man under bondage to his sin, being thus perfected, brings forth eternal death."
 3. "So that temptation to sin cannot be from God, while trial is from Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lust," the harlot, then, "brings forth sin," namely, of that kind to which the temptation inclines.
 2. Then the particular sin (so the Greek implies), "when it is completed, brings forth death," with which it was all along pregnant.
 3. He who will fight Satan with Satan's own weapons, must not wonder if he finds himself overmatched. Nip sin in the bud of lust.
@@ -60,4 +60,4 @@ These quotes highlight the commentary's explanation of the relationship between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a place called Bethsaida Julias on the northeast side of the lake, Jesus was seeking solitude, preparing His disciples for the future. As they brought a blind man to Him, they beseeched Him to touch the man, believing His touch would restore his sight. The healing was not instant but gradual, as drops of grace flowed upon the blind man, symbolizing the spiritual blindness of those lost in darkness until touched by Christ. This incident, recorded only in Mark, reveals the power of Christ to open the eyes of those who are spiritually blind.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Bethsaida Julias, on the northeast side of the lake, whence after this He proceeded to Cæsarea Philippi." 
 2. "They bring a blind man unto him, and besought him to touch him." 
 3. "See on :-."
@@ -38,4 +38,4 @@ In a place called Bethsaida Julias on the northeast side of the lake, Jesus was 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

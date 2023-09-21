@@ -9,7 +9,7 @@ In this Bible verse, the Gentiles rejoiced as they heard the Gospel preached by 
 2. "The principal interpretations are: (1) Calvin, &c., who find here predestination in the strongest sense: 'orainatio ista nonnisi ad æternum Dei consilium potest referri' ... 'ridiculum autem cavillum est referre hoc ad credentium affectum, quasi Evangelium receperint qui animis rite dispositi erant.'"
 3. "Wordsworth well observes that it would be interesting to enquire what influence such renderings as this of præordinati in the Vulgate version had on the minds of men like St. Augustine and his followers in the Western Church in treating the great questions of free will, election, reprobation, and final perseverance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They were glad—to perceive that their accession to Christ was a matter of divine arrangement as well as apostolic effort."
 2. "And glorified the word of the Lord—by a cordial reception of it."
 3. "A divine ordination to eternal life is the cause, not the effect, of any man's believing."
@@ -48,4 +48,4 @@ In this Bible verse, the Gentiles rejoiced as they heard the Gospel preached by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

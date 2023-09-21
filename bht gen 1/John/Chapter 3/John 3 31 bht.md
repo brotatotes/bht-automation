@@ -9,7 +9,7 @@ The verse in question speaks of a contrast between Jesus and all other prophets 
 2. "The diction and sentiments of the following verses are so entirely in the style of our Evangelist."
 3. "He (the Baptist) ever speaks not as a disciple of Jesus, not as within the Kingdom, but as knowing the blessedness of those who should be within it; as standing by, and hearing the Bridegroom’s voice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He that, c.—Here is the reason why He must increase while all human teachers must decrease."
 2. "The Master 'cometh from above'—descending from His proper element, the region of those 'heavenly things' which He came to reveal."
 3. "The words of prophets and apostles are undeniable and most precious truth but in the words of Christ we hear a voice as from the excellent Glory, the Eternal Word making Himself heard in our own flesh."
@@ -54,4 +54,4 @@ Note: The commentary is quite brief, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

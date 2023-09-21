@@ -4,7 +4,7 @@
 This Bible verse speaks of the calling and salvation of believers, emphasizing the divine initiative and purpose behind it. The commentators highlight that God's saving work predates and surpasses our own efforts and merits. They emphasize that our calling is holy, set apart for God's purposes, and tied to His grace and eternal plan. The verse points to the unchanging nature of God's purpose and the assurance of salvation that surpasses the hardships of this world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The having 'saved us' in His eternal purpose of 'grace, given us in Christ before the world began,' precedes his actual 'calling' of us in due time with a call made effective to us by the Holy Spirit; therefore, 'saved us' comes before 'called us'." (Galatians 1:6)
 
 2. "The call comes wholly from God and claims us wholly for God. 'Holy' implies the separation of believers from the rest of the world unto God." (Galatians 1:6)
@@ -50,4 +50,4 @@ This Bible verse speaks of the calling and salvation of believers, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

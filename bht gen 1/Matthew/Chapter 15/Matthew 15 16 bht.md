@@ -10,7 +10,7 @@ In this verse, Jesus expresses disappointment towards his disciples' lack of und
 
 These quotes emphasize the importance of the disciples understanding the saying in Matthew 15:11 and highlight the significance of the Greek word ἀκμήν in conveying the sense of "even now" or "in articulo."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Slowness of spiritual apprehension in His genuine disciples grieves the Saviour." 
 2. "From others He expects no better." 
 3. "Jesus is disappointed by the lack of understanding displayed by His disciples."
@@ -36,4 +36,4 @@ These quotes emphasize the importance of the disciples understanding the saying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

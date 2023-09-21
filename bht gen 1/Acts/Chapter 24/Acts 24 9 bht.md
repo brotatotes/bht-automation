@@ -9,7 +9,7 @@ The commentators reveal a collective effort and consensus among the Jews in brin
 2. "The fact that they 'bore out Tertullus in his charges' indicates that they supported and validated the accusations made by Tertullus."
 3. "This commentary highlights the collaborative nature of the attack, emphasizing that multiple individuals were involved in the effort to bring charges against the person."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Jews assented" - This phrase indicates that the Jewish community agreed or approved of something. It suggests a collective consensus among the Jews regarding a particular matter.
 
 2. "See on Acts 24:2" - This reference directs the reader to another passage in the book of Acts, specifically Acts 24:2. By referring to this verse, the commentary encourages the reader to explore further insights or context related to the topic being discussed.
@@ -47,4 +47,4 @@ The commentators reveal a collective effort and consensus among the Jews in brin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

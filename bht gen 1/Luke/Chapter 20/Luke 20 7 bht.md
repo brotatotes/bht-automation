@@ -4,7 +4,7 @@
 In this verse, the individuals mentioned displayed a deliberate ignorance of the truth. They preferred to sacrifice their principles for personal gain and chose to feign ignorance rather than acknowledge the truth. Their motive for this behavior seemed to be to avoid embarrassment or facing the consequences of their actions. Their actions can be seen as cowardly and hypocritical, as they prioritized their own interests over integrity and honesty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No wonder Jesus gave you no answer." 
 2. "But what dignity and composure does our Lord display as He turns their question upon themselves!" 
 3. "Crooked, cringing hypocrites!"
@@ -25,4 +25,4 @@ In this verse, the individuals mentioned displayed a deliberate ignorance of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see a voluntary contribution made by the churches in Macedonia
 2. "See 2 Corinthians 9:1, ff." 
 3. "Cf. Galatians 2:10."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For Macedonia and Achaia have thought good to make a certain contribution for the poor of the saints which are at Jerusalem." 
 2. "They have thought it good and their debtors verily they are." 
 3. "And well they may, considering what the Gentile believers owe to their Jewish brethren."
@@ -50,4 +50,4 @@ In this verse, we see a voluntary contribution made by the churches in Macedonia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In their journey, the sailors were filled with confidence and anticipation, as t
 2. "imagining that they had (as good as) accomplished their purpose; i.e. that it would now be a very easy matter to reach Phœnice."
 3. "They crept close along the land till they passed Cape Matala."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The south wind blew softly" - This gentle wind seemed to be a sign of favorable conditions, giving the sailors hope that they would achieve their goal.
 2. "Supposing they had attained their purpose" - The sailors were filled with anticipation, believing that their desired outcome was within reach. This shows their confidence and optimism.
 3. "With such a wind they had every prospect of reaching their destination in a few hours" - The favorable wind not only gave them hope but also provided a realistic expectation of reaching their destination quickly. This highlights the power and influence of natural elements in their journey.
@@ -45,4 +45,4 @@ Note: The provided commentary is quite fragmented and does not provide a clear c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

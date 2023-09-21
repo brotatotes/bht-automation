@@ -4,7 +4,7 @@
 In this verse, the Bible instructs believers to show patience and generosity even in the face of legal disputes. The commentators emphasize the importance of prioritizing forgiveness and letting go of material possessions. They highlight the significance of giving up valuable possessions rather than harboring a vindictive spirit or engaging in legal battles. This verse urges Christians to embody love, compassion, and a willingness to lose even what the law cannot seize. It reminds believers to avoid quarrels and prioritize peace, even if it means being stripped of one's own possessions.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And if any man will sue thee at the law, and take away thy coat—the inner garment; in pledge for a debt... let him have thy cloak also—the outer and more costly garment." 
 2. "This overcoat was not allowed to be retained over night as a pledge from the poor because they used it for a bed covering." 
 3. "The lesson here is not to hold onto material possessions when faced with legal disputes, but to prioritize generosity and compassion towards others."
@@ -38,4 +38,4 @@ In this verse, the Bible instructs believers to show patience and generosity eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

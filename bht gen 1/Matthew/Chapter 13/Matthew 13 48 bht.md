@@ -4,7 +4,7 @@
 In this passage, a careful and deliberate separation is made, indicated by the deliberate act of sitting down, honoring the importance of the individuals involved. The use of "vessels" signifies their uniqueness and potential significance. The passage cautions against hasty separation before the work of the Church is complete. The act of sorting is likened to fishermen, suggesting that stopping to sort may hinder progress. Ultimately, those lacking the grace of God will be cast away, while the righteous will be gathered, signifying the completion of a divine plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For the separation will not be made till the number of the elect is accomplished."
 2. "Expressing the deliberateness with which the judicial separation will at length be made."
 3. "Gathered the good into vessels, but cast the bad away—literally, 'the rotten,' but here meaning, 'the foul' or 'worthless' fish."
@@ -35,4 +35,4 @@ In this passage, a careful and deliberate separation is made, indicated by the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

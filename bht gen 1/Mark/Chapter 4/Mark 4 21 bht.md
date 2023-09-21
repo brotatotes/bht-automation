@@ -9,7 +9,7 @@ This verse challenges listeners to consider the purpose of a lamp, highlighting 
 2. "ὄφρα κε δῶρα | ἐκ κλισίης ἔλθωσι" 
 3. "See Rost and Palm, Lex."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Is a candle brought to be put under a bushel, or under a bed?" - This question posed by Jesus challenges the listeners to consider the purpose of a lamp. It emphasizes the importance of allowing one's light to shine and not hiding it away. (21)
 
 2. "Not to be set on a candlestick?" - Jesus highlights the need to place the lamp on a candlestick, symbolizing the importance of visibility and making one's light accessible to others. (21)
@@ -52,4 +52,4 @@ This verse challenges listeners to consider the purpose of a lamp, highlighting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a powerful statement about the unlimited and all-encompassing power of Christ Jesus. It emphasizes that this power is not based on our own strength, but on the divine authority and ability that comes from Him. By relying on His power, believers can overcome any obstacle and experience victory in their lives. This power is meant to be shared with others, as believers are called to be vessels of His power and agents of transformation in the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of patience and consolation" - These beautiful names of God highlight the graces He inspires in us. Just as He is the God of hope and peace, He is also the God who patiently endures and comforts us in our trials and sorrows.
 
 2. "Grant you to be likeminded" - The apostle is not merely seeking unanimity among believers, but a unity of mind that is in accordance with Christ Jesus. It is a unity that is modeled after the selfless and obedient nature of Christ, who always sought to do the will of the Father.
@@ -49,4 +49,4 @@ The verse being described is a powerful statement about the unlimited and all-en
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

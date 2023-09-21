@@ -9,7 +9,7 @@ This verse encourages believers to actively put their faith into action by doing
 2. The word "prássete" suggests that believers should actively engage in doing good works and living out their faith.
 3. This verse encourages believers to not just talk about their faith, but to put it into action by actively doing good deeds.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Exact no more" - This phrase refers to the command for the tax collectors to stop overcharging and extorting money from the people. It highlights the corrupt practices of the tax collectors and the need for them to change their ways.
 
 2. "Directed against that extortion which made the publicans a byword" - This comment emphasizes that the instruction to "exact no more" is specifically aimed at addressing the unjust and oppressive actions of the tax collectors. It highlights the negative reputation that the tax collectors had due to their exploitation of the people.
@@ -40,4 +40,4 @@ This verse encourages believers to actively put their faith into action by doing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

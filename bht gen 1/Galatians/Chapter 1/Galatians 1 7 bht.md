@@ -9,7 +9,7 @@ In this verse, various commentators illuminate the concept of a "different gospe
 2. "The nature of this ‘different Gospel,’ as gathered from the data in our Epistle, was (1), though recognizing Jesus as the Christ, it insisted on circumcision and the observance of the Mosaic ordinances as to times, &c."
 3. "The article points out in a more marked manner the (notorious) occupation of these men, 'certain your disturbers, &c.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "There is really but one Gospel, and no other gospel."
 2. "All I meant by the 'different gospel' was nothing but a perversion by 'some' of the one Gospel of Christ."
 3. "Though acknowledging Christ, they insisted on circumcision and Jewish ordinances and professed to rest on the authority of other apostles, namely, Peter and James. But Paul recognizes no gospel, save the pure Gospel."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

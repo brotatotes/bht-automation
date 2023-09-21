@@ -9,7 +9,7 @@ In this verse, the author expresses gratitude towards God for the grace bestowed
 2. "The 2nd, ἀκούων, gives the ground of the εὐχαριστία." 
 3. "For that I hear."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I thank my God" - This phrase expresses the gratitude of the author towards God, emphasizing a personal and intimate relationship with Him.
 
 2. "Joined by Alford" - This suggests that the author's gratitude towards God is not an isolated sentiment but is shared by others, highlighting the communal aspect of faith and the power of collective thanksgiving.
@@ -52,4 +52,4 @@ In this verse, the author expresses gratitude towards God for the grace bestowed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Amidst the darkness of the midnight hour, a group of believers assembled in ferv
 2. "It is uncertain whether this John Mark was the same as the Evangelist Mark: but they have been generally believed to be the same."
 3. "For a full account of him, see Prolegomena to Mark (Vol. I. § i.). His mother Mary was not sister, but aunt of Barnabas: see Colossians 4:10, note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "She must also have been distinguished for faith and courage to allow such a meeting in the face of persecution" - Webster and Wilkinson.
 2. "To such a house it was natural that Peter should come."
 3. "Where many were gathered together praying—doubtless for Peter's deliverance, and continuing, no doubt, on this the last of the days of unleavened bread, which was their last hope, all night in prayer to God."
@@ -55,4 +55,4 @@ Amidst the darkness of the midnight hour, a group of believers assembled in ferv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse reminds us that the mercy, salvation, and blessings we receive are no
 2. "I purposely do not enter on the disquisitions so abundant in some commentaries on this part of Scripture, by which it is endeavoured to reconcile the sovereign election of God with our free will."
 3. "We must consent to hold our reason in abeyance, if we do not recognize the inference, that the sovereign power and free election here proved to belong to God extend to every exercise of His mercy whether temporal or spiritual whether in Providence or in Grace whether national or individual."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Both these are indispensable to salvation, yet salvation is owing to neither, but is purely 'of God that showeth mercy.'"
 2. "Work out your own salvation with fear and trembling: for it is God which, out of His own good pleasure, worketh in you both to will and to do."
 3. "Salvation is not a result of our own efforts or desires, but it is solely dependent on God's mercy and grace."
@@ -59,4 +59,4 @@ This verse reminds us that the mercy, salvation, and blessings we receive are no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

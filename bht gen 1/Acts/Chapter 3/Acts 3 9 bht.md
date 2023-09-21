@@ -4,7 +4,7 @@
 In this Bible verse, a miraculous healing takes place in a public setting, specifically in the temple courts. The transformation of a once-bedridden man into someone who is now walking freely is witnessed by the people in the temple. This miracle prompts both physical and spiritual responses - the man is able to walk and his act of praise becomes an entrance for doctrine. The gratitude and worship expressed by the man towards God serve as a testament to the power and goodness of God in performing this extraordinary healing.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The miracle had the utmost publicity."
 2. "All the people saw him."
 3. "They assembled at the hour of public prayer in the temple courts."
@@ -25,4 +25,4 @@ In this Bible verse, a miraculous healing takes place in a public setting, speci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

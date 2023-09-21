@@ -9,7 +9,7 @@ In this verse, we see the significance of having prophesying daughters in the ea
 2. "To find an argument for the so-called ‘honour of virginity’ in this verse, only shows to what resources those will stoop who have failed to apprehend the whole spirit and rule of the gospel in the matter."
 3. "They are met, however, on their own ground by an argument built on another misapprehension (that of Philip being a deacon in the ecclesiastical sense): ὥστε οὖν καὶ τῷ κοινωνήσαντι γάμων διακονεῖν ἔξεστι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same man had four daughters." - This highlights the presence of women in the early Christian community and challenges traditional gender roles.
 2. "Which did prophesy—fulfilling." - This suggests that the daughters were empowered by the Holy Spirit to speak on behalf of God, emphasizing the spiritual gifts bestowed upon believers.
 3. "Indicates the high tone of religion in his family." - This implies that the presence of prophesying daughters reflects the strong faith and devotion of the entire family, emphasizing the importance of faith within the household.
@@ -43,4 +43,4 @@ In this verse, we see the significance of having prophesying daughters in the ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

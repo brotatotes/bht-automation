@@ -4,7 +4,7 @@
 In this verse, believers are encouraged to speak and sing to one another in order to edify and strengthen each other. The emphasis is on using words and music that are pure and uplifting, rather than indulging in worldly pleasures. The songs offered should be spiritual, heartfelt, and inspired by the Holy Spirit, reflecting the joy found in the Lord Jesus. This instruction highlights the importance of sincere worship from the heart, rather than mere outward expression.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit gives true eloquence; wine, a spurious eloquence."
 2. "Contrast the drunken 'songs,' James 5:13- :."
 3. "Let your songs be not the drinking songs of heathen feasts, but psalms and hymns; and their accompaniment, not the music of the lyre, but the melody of the heart."
@@ -50,4 +50,4 @@ In this verse, believers are encouraged to speak and sing to one another in orde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

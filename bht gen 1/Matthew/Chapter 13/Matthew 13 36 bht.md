@@ -4,7 +4,7 @@
 In this Bible verse, Jesus responds to the disciples' request to explain the parable of the tares of the field. Their eagerness to understand the deeper meaning of the parable and their selective choice of it demonstrate their desire for personal growth and spiritual development. Jesus acknowledges their desire for clarification and provides a thorough explanation, emphasizing the importance of grasping the message conveyed in the parable. His response highlights the disciples' opportunity to have one-on-one conversations with Jesus, allowing for a deeper understanding of his teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The seed is the word of God" - Luke 8:11. 
 2. "That word has been received into the heart, and has converted him that received it into a new creature, a 'child of the kingdom'".
 3. "This vast field of the world is here said to be Christ's own."
@@ -29,4 +29,4 @@ In this Bible verse, Jesus responds to the disciples' request to explain the par
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

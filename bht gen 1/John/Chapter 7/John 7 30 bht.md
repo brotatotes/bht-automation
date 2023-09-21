@@ -9,7 +9,7 @@ The commentators provide insights into the Bible verse, emphasizing the various 
 2. "There was some secondary hindrance to their laying hands on Him, possibly the fear of the people." 
 3. "The real cause; that God’s appointed time was not yet come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their impotence being equal to their malignity."
 2. "Sought to take . . . none."
 3. "Laid hands."
@@ -55,4 +55,4 @@ The commentators provide insights into the Bible verse, emphasizing the various 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is Romans 8:12-13. This passage emphasizes the contrast between our debt to God and our debt to our sinful nature. As believers, we are called to renounce the flesh and live according to the Spirit. We have a responsibility to live in a way that reflects our new identity in Christ and to resist the pull of our sinful desires. Through the indwelling of the Holy Spirit, we have been set free from the bondage of sin and empowered to live a life that brings glory to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Once we were sold under sin, but now that we have been set free from that hard master and become servants to Righteousness, we owe nothing to the flesh." 
 2. "We disown its unrighteous claims and are deaf to its imperious demands." 
 3. "Glorious sentiment!"
@@ -47,4 +47,4 @@ The verse being described is Romans 8:12-13. This passage emphasizes the contras
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

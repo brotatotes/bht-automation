@@ -9,7 +9,7 @@ The apostle Paul expresses his heartfelt gratitude for the faith and Christian g
 2. "For only by the Spirit of Christ dwelling in men’s hearts are thanksgivings and prayer acceptable to God."
 3. "The praise would be heard in every city where there was a Christian church, intercourse with the metropolis of the world being common to all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your faith is spoken of throughout the whole world." - This indicates that the faith of the believers in Rome was so remarkable and widely known that it had spread far beyond the city. It speaks to the impact and influence of their faith on others.
 
 2. "Having an eye to the influence they would exercise upon others, as well as their own blessedness." - The apostle recognizes that the faith of the Roman believers not only brings them personal blessings but also has the potential to inspire and influence others. It highlights the importance of living out one's faith as a testimony to others.
@@ -55,4 +55,4 @@ The apostle Paul expresses his heartfelt gratitude for the faith and Christian g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

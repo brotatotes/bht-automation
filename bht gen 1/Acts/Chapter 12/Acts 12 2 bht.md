@@ -9,7 +9,7 @@ Among the disciples, James, the brother of John, shared a close and unique bond 
 2. "He, together with John his brother, wished to call down fire on the inhospitable Samaritans and prayed that his brother and himself might sit, one on the right hand and the other on the left, in the Lord’s kingdom."
 3. "With regard to all the rest, tradition varies, more or less, as to the place, or the manner, or the time of their deaths."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed martyr! Thou hast indeed 'drunk of thy Lord's cup, and hast been baptized with his baptism.'" 
 2. "A grievous loss this would be to the Church; for though nothing is known of him beyond what we read in the Gospels, the place which he had as one of the three whom the Lord admitted to His closest intimacy would lead the Church to look up to him with a reverence and affection which even their enemies would come to hear of." 
 3. "They could spring only upon one more prized victim; and flushed with their first success, they prevail upon Herod to seize him also."
@@ -52,4 +52,4 @@ Among the disciples, James, the brother of John, shared a close and unique bond 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

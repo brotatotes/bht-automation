@@ -9,7 +9,7 @@ In this verse, there is an emphasis on the importance of agreement and unity amo
 2. "It was apparently misunderstood by the Apostles James and John; see St. Mark’s account, ch. Matthew 10:35, in which they nearly repeat these words."
 3. "Notice again the ἀμὴν λέγω ὑμῖν: see on ch. 16 ult."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power of agreement is not just about saying the same words or having the same opinion; it is about aligning our hearts and minds with God's will and purpose." 
 2. "When we come together in unity and agreement, we tap into the supernatural realm and invite God's intervention and provision into our lives." 
 3. "This verse reminds us that prayer is not just an individual act, but a communal one. It encourages us to seek agreement and unity in our prayers, knowing that God hears and answers the prayers of those who come together in faith."
@@ -50,4 +50,4 @@ In this verse, there is an emphasis on the importance of agreement and unity amo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

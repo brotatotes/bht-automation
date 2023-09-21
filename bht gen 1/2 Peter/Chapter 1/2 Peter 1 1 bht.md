@@ -4,7 +4,7 @@
 In this epistle, the writer emphasizes the true knowledge of Christ, warning against false teachers. The reference to the original name of Simon Peter serves as a reminder of the author's role as an apostolic witness. The faith shared by the believers is equally precious, regardless of their background, and is rooted in the righteousness of God and Christ. The writer's humble use of his personal name demonstrates his humility and acknowledgment of Jesus as his Lord. Overall, the epistle highlights the importance of prayer, gratitude, and the common faith shared among believers in Jesus Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His mention of his original name accords with the design of this Second Epistle, which is to warn against the coming false teachers, by setting forth the true 'knowledge' of Christ on the testimony of the original apostolic eye-witnesses like himself."
 2. "The divine election is as independent of man's control, as the lot which is cast forth."
 3. "The degree of faith varies in different believers; but in respect to its objects, present justification, sanctification, and future glorification, it is common alike to all."
@@ -50,4 +50,4 @@ In this epistle, the writer emphasizes the true knowledge of Christ, warning aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

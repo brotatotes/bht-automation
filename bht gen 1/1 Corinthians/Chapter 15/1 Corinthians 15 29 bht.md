@@ -9,7 +9,7 @@ In this perplexing verse, the commentators present various interpretations. Some
 2. "The only legitimate reference is, to a practice, not otherwise known to us, not mentioned here with any approval by the Apostle, not generally prevalent, but in use by some, of survivors allowing themselves to be baptized on behalf of (believing?) friends who had died without baptism."
 3. "This, the only justifiable rendering, is adopted by Ambrose, and by Anselm, Erasmus, Grotius, al., and recently by Billroth, Rückert, Meyer, De Wette, al."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How wretched is their lot!" - This quote highlights the dire consequences of denying the resurrection. It emphasizes the misery and hopelessness that comes with the belief that there is no life after death.
 
 2. "What account can they give of their practice; why are they at the trouble of it, if the dead rise not?" - This quote raises a rhetorical question, challenging the logic behind the practice of baptizing for the dead. It questions the purpose and meaning of such a practice if there is no belief in the resurrection.
@@ -55,4 +55,4 @@ In this perplexing verse, the commentators present various interpretations. Some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

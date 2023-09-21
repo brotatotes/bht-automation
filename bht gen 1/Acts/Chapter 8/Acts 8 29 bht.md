@@ -9,7 +9,7 @@ In this Bible verse, we read about the prompting of the Holy Spirit, who leads u
 2. "Chrysostom understands the words of the appearance of an angel, but the text hardly allows it."
 3. "κολλ .] no stress attach thyself to."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Spirit said—by an unmistakable voice within, as in Acts 10:19; Acts 16:6; Acts 16:7." 
 2. "Go near and join this chariot—This would reveal to Philip the hitherto unknown object of his journey, and encourage him to expect something."
 3. "The Spirit's guidance in this instance is a reminder that God is intimately involved in the details of our lives, leading us to specific encounters and opportunities for His purposes."
@@ -40,4 +40,4 @@ In this Bible verse, we read about the prompting of the Holy Spirit, who leads u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

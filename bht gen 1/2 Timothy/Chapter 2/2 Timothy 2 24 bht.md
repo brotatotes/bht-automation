@@ -4,7 +4,7 @@
 The verse being described emphasizes the qualities that a servant of the Lord should possess. It highlights the importance of avoiding contentions and foolish debates, instead promoting peace and gentleness towards all. The verse encourages patience in the face of adversity and the need to endure evil with grace. It also emphasizes the role of teaching, with an emphasis on being patient, forbearing, and apt to instruct. Overall, the verse calls for a servant of the Lord to embody a peaceful and gentle spirit, while persevering in their teaching and patient in trials.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The servant of the Lord must imitate his master in not striving contentiously, though uncompromising in earnestly contending for the faith."
 2. "Gentle unto all men, patient in respect to adversaries. He is to be gentle so that he may occasion no evils; patient so that he may endure evils."
 3. "Apt to teach, implying not only solid teaching and ease in teaching, but patience and assiduity in it."
@@ -50,4 +50,4 @@ The verse being described emphasizes the qualities that a servant of the Lord sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

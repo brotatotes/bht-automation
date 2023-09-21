@@ -9,7 +9,7 @@ This verse urges individuals to rely on their own judgment and conscience, empha
 2. "Each man within himself, in his own judgment." This emphasizes the importance of personal discernment and individual responsibility in matters of faith and conduct.
 3. "In his own judgment." This highlights the idea that each person has the ability to discern what is right and wrong, and should act accordingly.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels."
 2. "Appeal to their own sense of decorum."
 3. "A woman...unto God."
@@ -45,4 +45,4 @@ This verse urges individuals to rely on their own judgment and conscience, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

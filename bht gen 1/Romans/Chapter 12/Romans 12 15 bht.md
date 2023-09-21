@@ -11,7 +11,7 @@ In this verse, there is an instruction for believers to rejoice with others in t
 
 3. "The use of the infinitive form in this context implies that the action is to be understood as a command or instruction."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What a beautiful spirit of sympathy with the joys and sorrows of others is here inculcated!"
 2. "But it is only one charming phase of the unselfish character which belongs to all living Christianity."
 3. "What a world will ours be when this shall become its reigning spirit!"
@@ -54,4 +54,4 @@ In this verse, there is an instruction for believers to rejoice with others in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

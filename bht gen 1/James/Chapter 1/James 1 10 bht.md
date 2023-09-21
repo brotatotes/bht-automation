@@ -9,7 +9,7 @@ In this Bible verse, we are encouraged to find glory in our lowliness and humili
 2. "The lowly Christian is called on to boast in what is in reality his exaltation." 
 3. "The ταπείνωσις of the πλούσιος brother is that which is apparently but not really his debasement."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So far as one is merely 'rich' in worldly goods, 'he shall pass away'." 
 2. "In so far as his predominant character is that of a 'brother', he 'abideth for ever'." 
 3. "The rich glories in his humiliation, namely, in that which is really his debasement."
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

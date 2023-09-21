@@ -9,7 +9,7 @@ The verse being described emphasizes the offering of sacrifices to God, specific
 2. "The fruit of the lips is explained by the next words to be, a good confession to God." 
 3. "Confessing to His name, i.e. the name of God, as the ultimate object to which the confession is referred."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By him—as the Mediator of our prayers and praises."
 2. "It was an old saying of the rabbis, 'At a future time all sacrifices shall cease, but praises shall not cease.'"
 3. "In praising a creature, we may easily exceed the truth; but in praising God we have only to go on confessing what He really is to us. Hence it is impossible to exceed the truth, and here is genuine praise."
@@ -56,4 +56,4 @@ The verse being described emphasizes the offering of sacrifices to God, specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

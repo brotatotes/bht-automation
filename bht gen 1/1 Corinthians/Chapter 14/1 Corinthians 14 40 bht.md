@@ -9,7 +9,7 @@ The verse being described in this passage encourages believers to conduct themse
 2. "οὔτε κραυγή ποτε τὸν οἶκον οὔτε θόρυβος μολύνει" - neither shouting nor noise pollutes the house.
 3. "τὰς δὲ λαλιὰς ἐν τάξει παραχωροῦσιν ἀλλήλοις" - but they give way to each other in orderly speech.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Church government is the best security for Christian liberty" [J. NEWTON].
 2. "Let all things be done decently" (1 Corinthians 14:40).
 3. "Desiring prophecy, and not forbidding tongues" (1 Corinthians 14:39).
@@ -56,4 +56,4 @@ The verse being described in this passage encourages believers to conduct themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

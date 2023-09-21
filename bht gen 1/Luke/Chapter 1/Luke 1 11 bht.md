@@ -9,7 +9,7 @@ Amidst the sacred setting of the altar of incense, an angelic presence is reveal
 2. "It was during the sacrifice on the great altar that the daily burning of the incense took place."
 3. "This is no vision, but an actual angelic appearance."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The right was the favorable side." 
 2. "The right side—the south side." 
 3. "Zacharias being on the north side, in front of the altar, while offering incense."
@@ -38,4 +38,4 @@ Amidst the sacred setting of the altar of incense, an angelic presence is reveal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this passage, Jesus begins teaching by the seaside, and a great multitude gat
 
 3. "The gathering of the crowd highlights the popularity and impact of Jesus' teachings."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And he began again to teach by the seaside: and there was gathered unto him a great multitude." - This verse highlights the immense gathering of people who were eager to listen to Jesus teach. It emphasizes the popularity and influence of Jesus' teachings.
 
 2. "so that he entered into a ship... and sat in the sea; and the whole multitude was by the sea on the land." - This quote describes the unique setting in which Jesus taught, sitting in a ship on the sea while the multitude gathered on the land. It adds a visual element to the scene and shows the dedication of the people to hear Jesus' words.
@@ -44,4 +44,4 @@ In this passage, Jesus begins teaching by the seaside, and a great multitude gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

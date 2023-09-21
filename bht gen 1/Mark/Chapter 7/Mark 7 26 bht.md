@@ -9,7 +9,7 @@ This verse reveals a story of a woman who, despite being a Gentile, boldly appro
 2. "The mention of the Carthaginians highlights the interconnectedness of ancient civilizations and the influence they had on one another." 
 3. "This verse serves as a reminder that the biblical world was not isolated, but rather a part of a larger network of cultures and peoples."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Thus, though no Israelite herself, she salutes Him as Israel's promised Messiah."
 2. "But another reason for keeping silence plainly was to try and whet her faith, patience, and perseverance."
 3. "This appeal, so artless, wrung from the depths of a believing heart, and reminding us of the publican's 'God be merciful to me a sinner,' moved the Redeemer at last to break silence."
@@ -49,4 +49,4 @@ This verse reveals a story of a woman who, despite being a Gentile, boldly appro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

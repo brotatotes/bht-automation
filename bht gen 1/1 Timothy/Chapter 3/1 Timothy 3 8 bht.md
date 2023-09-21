@@ -9,7 +9,7 @@ The deacons in the church are appointed to serve and fulfill specific responsibi
 2. "That great objective truth which man of himself knows not, but which the Spirit of God reveals to the faithful."
 3. "They are to hold the revelation of the Person of Christ, their faith's mystery, in pure conscience."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The deacons were chosen by the voice of the people."
 2. "Their duty was to read the Scriptures in the Church, to instruct the catechumens in Christian truths, to assist the presbyters at the sacraments, to receive oblations, and to preach and instruct."
 3. "All gain is filthy (literally, 'base') which is set before a man as a by-end in his work for God."
@@ -55,4 +55,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so I am
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

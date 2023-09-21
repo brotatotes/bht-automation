@@ -4,7 +4,7 @@
 In this Bible verse, we witness the righteous soul of Lot, dwelling amidst the wickedness of Sodom. Day after day, he witnessed and heard the immoralities that pained his heart. Despite this, Lot remained steadfast, his righteous nature untouched by the influences surrounding him. His soul was tormented, as if on a constant test or torture, yet he persevered, not succumbing to the wickedness surrounding him. Lot's experience serves as a reminder of the inner struggle faced by those living among the wicked, urging us to remain vigilant and strive for righteousness in the face of evil.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word 'vexed' in this verse carries the meaning of being tormented. It implies a deep distress or anguish that one experiences. This suggests that the righteous soul of Lot was greatly troubled by the wickedness and immorality that surrounded him in Sodom."
 
 2. "The use of the word 'vexed' emphasizes the internal struggle that Lot faced. It highlights the conflict between his righteous nature and the sinful environment he found himself in. This shows us that even the most righteous individuals can be deeply affected by the wickedness around them."
@@ -49,4 +49,4 @@ These quotes provide insight into the linguistic nuances and meanings of certain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

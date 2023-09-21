@@ -9,7 +9,7 @@ This beautiful passage, full of fervor and eloquence, urges believers to embrace
 2. "The whole regards ethical qualities. ταῦτα γὰρ ὄντως ἀληθῆ, ἡ ἀρετή, ψεῦδος δὲ ἡ κακία."
 3. "δίκαια not ‘just,’ in respect of others, merely but right, in that wider sense in which δικαιοσύνη is used before God and man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "True—sincere, in words."
 2. "Pure—'chaste,' in relation to ourselves."
 3. "Think on—have a continual regard to, so as to 'do' these things whenever the occasion arises."
@@ -53,4 +53,4 @@ This beautiful passage, full of fervor and eloquence, urges believers to embrace
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

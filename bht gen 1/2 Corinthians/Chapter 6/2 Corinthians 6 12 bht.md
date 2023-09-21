@@ -4,7 +4,7 @@
 The commentator quotes shed light on a Bible verse discussing the expansive and unconditional love that should exist between the speaker and the audience. The tension or constraint in the relationship is not due to a lack of love on the speaker's part but rather a lack of reciprocation from the audience. The term "straitened" refers to a limitation or constricted affection. The verse calls for an examination of the readers' hearts, as the restriction of love is of their own doing.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Any constraint ye feel towards me, or narrowness of heart, is not from want of largeness of heart on my part towards you, but from want of it on your part towards me." This quote highlights the idea that any tension or distance between the speaker and the audience is not due to a lack of love or compassion from the speaker, but rather a lack of reciprocation from the audience.
 
 2. "Bowels—that is, affections." This quote provides a clarification of the term "bowels" used in the verse, explaining that it refers to deep emotions or affections. This adds depth to the understanding of the verse and the emotions involved.
@@ -49,4 +49,4 @@ The commentator quotes shed light on a Bible verse discussing the expansive and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

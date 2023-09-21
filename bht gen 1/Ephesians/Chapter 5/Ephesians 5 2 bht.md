@@ -4,7 +4,7 @@
 In this verse, there is a call to believers to live a life characterized by love. They are encouraged to imitate God's love and the love that Christ has demonstrated towards them. Christ's sacrificial death on the cross is emphasized as the ultimate expression of love, bringing about reconciliation between God and humanity. The believers are also urged to love one another, as it is an evidence of their faith and a vital aspect of Christian living. This love encompasses their love for God, love for Christ, and love for their fellow believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From the love of the Father he passes to the love of the Son, in whom God most endearingly manifests His love to us."
 2. "Christ is here, in reference to Romans 5:8, represented as the antitype of all the offerings of the law, whether the unbloody or bloody, eucharistical or propitiatory."
 3. "God is well pleased with the offering on the ground of its sweetness, and so is reconciled to us."
@@ -50,4 +50,4 @@ Note: The commentary contains more quotes that meet the requirements, but these 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of Herod's opulent palace, where justice was administered and where
 2. "The procurator resided in the former palace of Herod the Great."
 3. "Here Paul was 'militi traditus' (Digest. cited by De W.), not in a prison, but in the buildings attached to the palace."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I will hear thee—The word means, 'give thee a full hearing.'" 
 2. "to be kept in Herod's judgment hall—"prætorium," the palace built at Cæsarea by Herod, and now occupied by the Roman procurators."
 3. "in one of the buildings attached to which Paul was ordered to be kept."
@@ -50,4 +50,4 @@ In the midst of Herod's opulent palace, where justice was administered and where
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

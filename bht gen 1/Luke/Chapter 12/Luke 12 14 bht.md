@@ -9,7 +9,7 @@ The verse being described is a question posed by Jesus, demonstrating his humili
 2. "The ἄνθρ. also forms a definite subject for ὑμᾶς to refer to, 'men,' i.e. mankind in general."
 3. "This question is expressed in almost the very words of the Egyptian rejecting the arbitration of Moses, Exodus 2:14; and may show us the essential difference of the two offices of Moses and Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Contrast this style of address with 'my friends'." 
 2. "A question literally repudiating the office which Moses assumed." 
 3. "The influence of religious teachers in the external relations of life has ever been immense."
@@ -50,4 +50,4 @@ The verse being described is a question posed by Jesus, demonstrating his humili
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

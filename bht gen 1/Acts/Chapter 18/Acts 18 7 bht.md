@@ -9,7 +9,7 @@ As Paul's ministry evolves, he separates himself from the Jewish community, seek
 2. "...he, on leaving the synagogue, went no longer to the house of the Jew Aquila..."
 3. "...but to the house of a Gentile proselyte of the gate, close to the synagogue..."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not changing his lodging, as if Aquila and Priscilla up to this time were with the opponents of the apostle."
 2. "Merely ceasing any more to testify in the synagogue, and henceforth carrying on his labors in this house of Justus."
 3. "Justus, too, being probably a proselyte, would more easily draw a mixed audience than the synagogue."
@@ -50,4 +50,4 @@ As Paul's ministry evolves, he separates himself from the Jewish community, seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -8,7 +8,7 @@ Jesus spoke the word of God in parables, tailoring his teachings to the capacity
 1. "according to their capacity of receiving"
 2. "see note on Matthew 13:12"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had this been said in the corresponding passage of Matthew, we should have concluded that what that Evangelist recorded was but a specimen of other parables spoken on the same occasion."
 2. "Matthew says, 'All these things spake Jesus unto the multitude in parables'; and as Mark records only some of the parables which Matthew gives, we are warranted to infer that the 'many such parables' alluded to here mean no more than the full complement of them which we find in Matthew."
 3. "The phrase 'as they were able to hear it' implies that Jesus tailored his teaching to the capacity of his hearers, adapting his language and style to ensure they could understand and grasp the message he was conveying."
@@ -49,4 +49,4 @@ Jesus spoke the word of God in parables, tailoring his teachings to the capacity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

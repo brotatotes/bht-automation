@@ -4,7 +4,7 @@
 After completing his parables, Jesus departed from the place he was, signifying the importance of his teachings and the impact they had. The departure reflects the transient nature of his earthly ministry and reminds us of his greater purpose beyond the immediate context. As he returned to his own country, Nazareth, he faced the challenge of being rejected, yet persisted in his mission to share his profound lessons and offer salvation to all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The completion of Jesus' parables signifies a transition in his ministry, as he departs from that place. This shows the importance of his teachings and the impact they had on the people."
 2. "Jesus' departure also highlights the transient nature of his earthly ministry. It reminds us that his time on earth was limited and that he had a greater purpose beyond the immediate context."
 3. "This verse serves as a reminder that Jesus' teachings were not just mere stories, but profound lessons that had a lasting impact on those who heard them. It emphasizes the significance of his words and the importance of reflecting on their deeper meaning."
@@ -35,4 +35,4 @@ After completing his parables, Jesus departed from the place he was, signifying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 During a significant feast in Jerusalem, Jesus strategically chose to openly teach in the city, waiting for the right moment when the excitement had subsided, creating a sense of awe among the people. This timing coincided with the midpoint of the feast, a deliberate choice demonstrating Jesus' authority and ownership over the temple. Taking advantage of the multitude assembled, Jesus expounded the Scriptures, imparting true understanding and instruction to the people, fulfilling the prophecies regarding the coming of the Messiah.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This was probably the first time that He did so thus openly in Jerusalem."
 2. "He had kept back till the feast was half through, to let the stir about Him subside."
 3. "Entering the city unexpectedly, had begun His 'teaching' at the temple, and created a certain awe."
@@ -56,4 +56,4 @@ These quotes highlight the strategic approach Jesus took in his teaching during 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

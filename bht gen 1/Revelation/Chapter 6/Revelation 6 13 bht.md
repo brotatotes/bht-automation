@@ -4,7 +4,7 @@
 When the Church reaches its maturity and the Antichristian world faces its demise, the verse refers to unripe figs, which symbolize incompleteness and a lack of readiness. It uses vivid language to illustrate the destruction that occurs when a fig tree is violently shaken by a powerful wind. The verse hints at the removal of idols, the exposure of false gods, and the loss of honor and esteem for idolatrous practices. The language employed in this description emphasizes the significance of the shaking and the subsequent consequences.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Church shall be then ripe for glorification, the Antichristian world for destruction." 
 2. "Scripture describes natural phenomena as they would appear to the spectator, not in the language of scientific accuracy."
 3. "It drops hints which show that it anticipates the discoveries of modern science."
@@ -35,4 +35,4 @@ When the Church reaches its maturity and the Antichristian world faces its demis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

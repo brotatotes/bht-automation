@@ -11,7 +11,7 @@ As Jesus concluded His teachings on humility, forgiveness, and handling offenses
 
 3. "This geographical detail highlights the significance of Jesus' ministry, reaching beyond the boundaries of Judæa and into the wider region."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This marks a very solemn period in our Lord's public ministry."
 2. "So slightly is it touched here, and in the corresponding passage of Mark, that few readers probably note it as the Redeemer's Farewell to Galilee."
 3. "But though one might conclude from our Evangelist that our Lord went straight from the one region to the other, we know from the other Gospels that a considerable time elapsed between the departure from the one and the arrival at the other."
@@ -49,4 +49,4 @@ As Jesus concluded His teachings on humility, forgiveness, and handling offenses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

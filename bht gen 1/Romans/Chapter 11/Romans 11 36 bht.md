@@ -9,7 +9,7 @@ The verse being described emphasizes the comprehensive role of God in creation, 
 2. "Origen remarks, 'Vides, quomodo in ultimis ostendit, quod in omnibus quæ supra dixit signaverit, mysterium Trinitatis.'" 
 3. "And, if this be rightly understood, not of a formal allusion to the Three Persons in the Holy Trinity, but of an implicit reference to the three attributes of Jehovah respectively manifested to us by the three coequal and coeternal Persons."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "OF Him are all things," as their eternal Source: "THROUGH Him are all things," inasmuch as He brings all to pass which in His eternal counsels He purposed: "To Him are all things," as being His own last End; the manifestation of the glory of His own perfections being the ultimate, because the highest possible, design of all His procedure from first to last.
 
 2. It is an unspeakable consolation to know that in times of deepest religious declension and most extensive defection from the truth, the lamp of God has never been permitted to go out, and that a faithful remnant has ever existed—a remnant larger than their own drooping spirits could easily believe.
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short and does not provide much context o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

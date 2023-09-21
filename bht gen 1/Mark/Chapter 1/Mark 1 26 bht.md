@@ -9,7 +9,7 @@ In this passage, we see a man who was forcefully convulsed and thrown down in th
 2. "he did not injure him at all" - This statement highlights the contrast between the convulsions and the absence of physical harm. It suggests that the convulsions were not intended to cause harm but rather to demonstrate power and authority.
 3. "see reff." - This abbreviation refers to references in the text that provide further information or context. It encourages the reader to explore related passages to gain a deeper understanding of the event.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Malignant cruelty—just showing what he would have done, if permitted to go farther: it was a last fling!"
 2. "The voice of enforced submission and despair."
 3. "Thus impotent were the malignity and rage of the impure spirit when under the restraint of 'the Stronger than the strong one armed'."
@@ -52,4 +52,4 @@ In this passage, we see a man who was forcefully convulsed and thrown down in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

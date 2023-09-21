@@ -11,7 +11,7 @@ In this Bible verse, believers are called to draw near to God through prayer, cl
 
 3. "Purify your hands, ye sinners: and make chaste your hearts, ye double-minded." - This verse calls for repentance and a turning away from sin, urging individuals to cleanse their actions and thoughts to fully devote themselves to God.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Draw nigh to God—So 'cleave unto Him,' by prayerfully 'resisting Satan,' who would oppose our access to God." 
 2. "Cleanse...hands—the outward instruments of action. None but the clean-handed can ascend into the hill of the Lord." 
 3. "Purify...hearts—literally 'make chaste' of your spiritual adultery, that is, worldliness, 'your hearts': the inward source of all impurity."
@@ -61,4 +61,4 @@ Note: The commentary is from John Calvin's Commentary on James 4:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the heavens and the earth being held togethe
 2. "The new heavens and earth...are still kept in store, put by, against a certain time."
 3. "It is only God's constantly watchful Providence which holds together the present state of things till His time for ending it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is only God's constantly watchful providence which holds together the present state of things till His time for ending it."
 2. "In contrast to 'that then was,' the postdiluvian visible world."
 3. "The same [God]... treasured up and kept."
@@ -55,4 +55,4 @@ The verse being described speaks of the heavens and the earth being held togethe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

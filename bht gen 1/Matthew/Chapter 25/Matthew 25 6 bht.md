@@ -4,7 +4,7 @@
 At a time of unexpectedness, God's divine intervention breaks through the darkness. His timing is unpredictable, surpassing human understanding. This verse reminds us that God's plans are not confined by our expectations, as He brings forth deliverance and breakthroughs in the most unforeseen moments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The time when the Bridegroom will be least expected; for 'the day of the Lord so cometh as a thief in the night'." 
 2. "Be ready to welcome Him." 
 3. "Go ye out to meet him."
@@ -54,4 +54,4 @@ At a time of unexpectedness, God's divine intervention breaks through the darkne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

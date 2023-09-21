@@ -9,7 +9,7 @@ In this verse, a rich man, tormented in the afterlife, cries out to Abraham for 
 2. "The omission of the article before βασάνοις points no doubt to subjective torments; but where lies the limit between inner and outer to the disembodied?"
 3. "Hardened sinners have died crying ‘Fire!’ Did the fire leave them, when they left their bodies?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Father Abraham—a well-founded, but unavailing, claim of natural descent."
 2. "mercy on me—who never showed any."
 3. "send Lazarus—the pining victim of his merciless neglect."
@@ -52,4 +52,4 @@ In this verse, a rich man, tormented in the afterlife, cries out to Abraham for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

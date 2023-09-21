@@ -9,7 +9,7 @@ In the face of challenging circumstances and potential persecution, this verse e
 2. "Observe the emphasis on ἐστε it is not you at all, but another."
 3. "Luke (Luk 21:14-15) has something very like them Matt. nothing: but they occur Matthew 10:19, where see note."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not anxious beforehand." 
 2. "Be not filled with apprehension, in the prospect of such public appearances for Me, lest ye should bring discredit upon My name."
 3. "It is not you that speak, but the Holy Ghost."
@@ -57,4 +57,4 @@ In the face of challenging circumstances and potential persecution, this verse e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the passage being described, the speaker affirms the truth of their words, appealing to the sincerity of their message by emphasizing their connection and reliance on Christ. They also acknowledge the role of conscience as a reliable witness, highlighting the importance of personal integrity. Furthermore, the presence of the Holy Spirit is recognized, emphasizing the guidance and assurance provided by the Spirit in speaking and acting. Overall, this passage underscores the reliance on Christ, the importance of personal integrity, and the role of the Holy Spirit in the speaker's message.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I say the truth in Christ" - This phrase emphasizes the sincerity and truthfulness of the speaker's words, as they are spoken in the name of Christ himself.
 2. "My conscience bearing me witness in the Holy Ghost" - The speaker's conscience is not only guided by the Holy Spirit, but it also testifies to the truth of their words. This highlights the deep spiritual conviction behind their message.
 3. "Steeped in the spirit of Him who wept over impenitent and doomed Jerusalem" - This comparison to Jesus' compassion for Jerusalem underscores the speaker's heartfelt concern for the spiritual well-being of others. It reveals their desire for repentance and salvation, mirroring Christ's own love and sorrow for the lost.
@@ -54,4 +54,4 @@ In the passage being described, the speaker affirms the truth of their words, ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

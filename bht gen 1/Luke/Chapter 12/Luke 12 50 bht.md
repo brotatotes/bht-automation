@@ -11,7 +11,7 @@ In this verse, Jesus speaks of his impending suffering and sacrificial death. He
 
 Note: The commentary provided is quite lengthy, so I have selected three quotes that capture the essence of the commentary and provide insight into the symbolism and significance of baptism as it relates to the verse.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But . . . a baptism, c.—clearly, His own bloody baptism, first to take place."
 2. "how . . . straitened—not, 'how do I long for its accomplishment,' as many understand it, thus making it but a repetition of :- but 'what a pressure of spirit is upon Me.'"
 3. "till it be accomplished—till it be over. Before a promiscuous audience, such obscure language was fit on a theme like this; but oh, what surges of mysterious emotion in the view of what was now so near at hand does it reveal!"
@@ -57,4 +57,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

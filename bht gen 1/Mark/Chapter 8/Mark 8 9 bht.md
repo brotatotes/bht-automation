@@ -4,7 +4,7 @@
 In this verse, Jesus performs a miracle of feeding a large crowd, emphasizing his power and compassion. The magnitude of the miracle is highlighted, with about four thousand people being fed. Additionally, the verse emphasizes Jesus' ability to bring complete healing and restoration, with those who were maimed or disabled being sent away with their limbs sound and whole. The immediate transformation and joy experienced by those who were previously lame or blind further showcases Jesus' ability to bring about miraculous change and restore sight to the blind.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Had not our Lord distinctly referred, in this very chapter and in two successive sentences, to the feeding of the five thousand and of the four thousand as two distinct miracles, many critics would have insisted that they were but two different representations of one and the same miracle."
 2. "The localities, though both on the eastern side of the lake, were different; the time was different; the preceding and following circumstances were different; the period during which the people continued fasting was different."
 3. "In view of these things, who could have believed that these were one and the same miracle, even if the Lord Himself had not expressly distinguished them?"
@@ -32,4 +32,4 @@ In this verse, Jesus performs a miracle of feeding a large crowd, emphasizing hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

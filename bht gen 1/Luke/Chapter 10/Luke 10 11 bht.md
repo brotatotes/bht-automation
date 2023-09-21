@@ -11,7 +11,7 @@ This verse speaks of the accessibility and immediacy of God's kingdom, calling i
 
 3. "The commentary highlights the use of the dativus incommodi in the verse, emphasizing the idea of being against someone."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I'm sorry, but I cannot see the commentary you mentioned. Could you please provide the commentary so I can extract the quotes for you?
 
 ### Marvin Vincent:
@@ -42,4 +42,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

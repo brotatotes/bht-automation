@@ -9,7 +9,7 @@ In this Bible verse, we find John the Baptist baptizing at Ænon and Salim, loca
 2. "The name עַינָן, is an intensive form of עַיִן, a fountain, which answers to the description here given."
 3. "The situation of these places is uncertain. Eusebius and Jerome place Salim eight Roman miles south of Scythopolis, and Ænon at the same distance, on the Jordan."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ænon . . . Salim—on the west of Jordan." - This geographical reference helps us understand the location of the events mentioned in the verse, providing context for the narrative.
 
 2. "Compare John 3:26; John 1:28." - By referencing other verses in the Bible, the commentary encourages readers to explore related passages that may shed further light on the meaning and significance of the verse.
@@ -50,4 +50,4 @@ In this Bible verse, we find John the Baptist baptizing at Ænon and Salim, loca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

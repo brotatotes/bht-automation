@@ -4,7 +4,7 @@
 The verses in question highlight the unexpected outcome for both the Gentiles and the Israelites. The Gentiles, who did not actively seek righteousness, have surprisingly achieved it through faith. On the other hand, the Israelites, who pursued righteousness through the law, have ultimately failed to attain it. This contrast underscores how righteousness is not solely based on human efforts or merit but is ultimately obtained through faith in God's grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The result is this—very different from what one would have expected."
 2. "The Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness of faith."
 3. "The Gentiles, who while strangers to Christ were quite indifferent about acceptance with God, having embraced the Gospel as soon as it was preached to them, experienced the blessedness of a justified state."
@@ -48,4 +48,4 @@ The verses in question highlight the unexpected outcome for both the Gentiles an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

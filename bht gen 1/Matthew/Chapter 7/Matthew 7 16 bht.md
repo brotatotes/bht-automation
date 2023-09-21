@@ -9,7 +9,7 @@ By observing the fruits of someone's actions and teachings, we can discern their
 2. "Quærimus fructus caritatis, invenimus spinas dissentionis." (Augustine, Enarr. in Psalms 149:1, § 2, vol. iv. pt. ii.)
 3. "See James 3:12; ch. Matthew 12:33-34."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye shall know them by their fruits—not their doctrines—as many of the elder interpreters and some later ones explain it—for that corresponds to the tree itself; but the practical effect of their teaching, which is the proper fruit of the tree."
 
 2. "Do men gather grapes of thorns—any kind of prickly plant."
@@ -60,4 +60,4 @@ These quotes emphasize the importance of having a deep and comprehensive underst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described emphasizes the special nature of the gift that is given to the readers. It is not something earned or deserved, but a gracious act of God's love and favor. The gift serves as a special token of God's love, highlighting the intimate relationship between God and the recipients. It is not only a demonstration of God's love but also a means of salvation, showing that the recipients are on a journey towards salvation, with the gift being a vital part of that process.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Faith is the gift of God, not wrought in the soul by the will of man, but by the Holy Ghost."
 2. "To believe on Him is to believe in, and trust through, Him to obtain eternal salvation."
 3. "Suffering for Christ is not only not a mark of God's anger, but a gift of His grace."
@@ -50,4 +50,4 @@ The verse being described emphasizes the special nature of the gift that is give
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we see the Jewish rulers' rejection of Jesus, the Messiah, despit
 2. "This the Son is in virtue of His human nature." 
 3. "The very words of the LXX, ref. Gen., where Joseph’s brethren express a similar resolution: and no doubt used by the Lord in reference to that history, so deeply typical of His rejection and exaltation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the heir—Sublime expression this of the great truth, that God's inheritance was destined for, and in due time is to come into the possession of, His own Son in our nature."
 2. "come, let us kill him, and let us seize on his inheritance—that so, from mere servants, we may become lords."
 3. "This is the deep aim of the depraved heart; this is emphatically 'the root of all evil'."
@@ -33,4 +33,4 @@ In this verse, we see the Jewish rulers' rejection of Jesus, the Messiah, despit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

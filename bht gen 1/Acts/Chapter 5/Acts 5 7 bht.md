@@ -9,7 +9,7 @@ In this verse, a couple named Ananias and Sapphira deceives the church by preten
 2. "See a precisely similar construction, Luke 9:28."
 3. "Winer, edn. 6, § 62. 2."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question asked by Peter is not about the amount of money received, but about the honesty and integrity of Ananias and Sapphira. It reveals that their motive for selling the land was not to give the full amount to the church, but to deceive and appear more generous than they actually were."
 
 2. "This passage serves as a warning against hypocrisy and deceit within the church. It reminds us that God sees the intentions of our hearts and expects honesty and integrity in our actions. We are called to be genuine and transparent in our giving, not seeking praise or recognition from others."
@@ -52,4 +52,4 @@ In this verse, a couple named Ananias and Sapphira deceives the church by preten
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

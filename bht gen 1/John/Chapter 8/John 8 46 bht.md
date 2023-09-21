@@ -9,7 +9,7 @@ In this verse, Jesus confronts his opponents with a bold challenge, daring them 
 2. "The words amount to a declaration of His absolute sinlessness, in thought, word, and deed."
 3. "And if it be thence (from the impossibility of convicting me of sin) evident, that I speak the truth, why do ye not believe Me?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Convict Me of sin, and reject Me: If not, why stand ye out against My claims?" - This quote highlights the challenge Jesus presents to his enemies, asserting his claim to absolute sinlessness.
 2. "Glorious dilemma!" - This phrase captures the significance and power of the situation, emphasizing the weight of the challenge Jesus poses.
 3. "In One who had already passed through unparalleled complications, and had continually to deal with friends and foes of every sort and degree" - This statement acknowledges the difficult circumstances Jesus faced and suggests that his sinlessness is even more remarkable in light of these challenges.
@@ -55,4 +55,4 @@ In this verse, Jesus confronts his opponents with a bold challenge, daring them 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

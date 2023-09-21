@@ -9,7 +9,7 @@ The day of God, as described by commentators, refers to the second coming of Chr
 2. "It is true, that the delay or hastening of that day is not man’s matter, but God’s: but it is not uncommon in Scripture to attribute to us those divine acts, or abstinences from acting, which are really and in their depth, God’s own."
 3. "The same liquefaction has actually taken place in the crust of the earth wherever the central fires have acted on it. All our igneous rocks have been in a liquid state: why should not that day, in its purifying process, produce a similar effect on the earth again, and on her cognate planets, if they are to be included?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By praying for His coming, furthering the preaching of the Gospel for a witness to all nations, and bringing in those whom 'the long-suffering of God' waits to save, we hasten the coming of the day of God."
 2. "Christ says, 'Surely I come quickly. Amen.' Our part is to speed forward this consummation by praying, 'Even so, come, Lord Jesus'."
 3. "God has given many myriads of days to men: one shall be the great 'day of God' Himself."
@@ -59,4 +59,4 @@ The day of God, as described by commentators, refers to the second coming of Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

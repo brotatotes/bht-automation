@@ -9,7 +9,7 @@ In this verse, individuals are urged to engage in self-examination before partak
 2. "Daily life which are the best guarantees for a worthy participation."
 3. "The case in which the self-examination ends in an unfavorable verdict does not come under consideration because it is assumed that such a verdict will lead to repentance and amendment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Examine... his own state of mind in respect to Christ's death, and his capability of 'discerning the Lord's body'." 
 2. "Not auricular confession to a priest, but self-examination is necessary." 
 3. "His self-examination is not in order that he may stay away, but that he may eat, that is, communicate."
@@ -57,4 +57,4 @@ In this verse, individuals are urged to engage in self-examination before partak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

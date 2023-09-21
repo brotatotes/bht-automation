@@ -9,7 +9,7 @@ In this Bible verse, a group of prisoners is thrown into a dark, inner prison, l
 2. Eusebius mentions the "διατάσεις τῶν ποδῶν ἐπὶ πέμπτον διατεινομένων τρύπημα" of the martyrs in Gaul. (24)
 3. Plautus refers to being "noctu nervo vinctus custodibitur." (24)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "made their feet fast in the stocks—an instrument of torture as well as confinement" - This quote highlights the dual purpose of the stocks, emphasizing the suffering and pain inflicted upon the prisoners.
 2. "the severity intended" - This phrase suggests that the level of punishment inflicted through the stocks could vary, indicating the potential for extreme cruelty.
 3. "Though jailers were proverbially unfeeling, the manner in which the order was given in this case would seem to warrant all that was done" - This statement implies that the severity of the punishment was justified by the nature of the order given, suggesting that the prisoners were being punished for a significant offense.
@@ -50,4 +50,4 @@ In this Bible verse, a group of prisoners is thrown into a dark, inner prison, l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the significance of righteousness in i
 2. "μὴ πλανᾶσθε: This caution would be most salutary and needful in a dissolute place like Corinth."
 3. "πόρνοι refers back to ch. 5, and is taken up again, 1 Corinthians 6:12 ff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doers of wrong": referring to (compare Galatians 5:21).
 2. "Kingdom of God": which is a kingdom of righteousness (Galatians 5:21).
 3. "Fornicators": alluding to 1 Corinthians 5:1-13; also below, 1 Corinthians 6:12-18.
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the significance of righteousness in i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

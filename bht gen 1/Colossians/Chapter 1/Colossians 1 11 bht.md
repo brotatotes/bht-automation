@@ -9,7 +9,7 @@ In this Bible verse, believers are empowered with the strength of God's glorious
 2. "Endurance is the result of the union of outward and inward strength."
 3. "Joyfulness in suffering expresses itself in thankfulness to God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Being made mighty with all might."
 2. "His power is inseparable from His glory."
 3. "Patience, or endurance, is exercised in respect to those whom one cannot repel."
@@ -53,4 +53,4 @@ In this Bible verse, believers are empowered with the strength of God's glorious
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

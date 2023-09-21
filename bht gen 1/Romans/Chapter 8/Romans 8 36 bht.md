@@ -9,7 +9,7 @@ Throughout history, God's faithful people have endured trials and sufferings sim
 2. "It is no new trials to which we are subjected." 
 3. "What, if we verify the ancient description?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For thy sake, &c." - This quote from Psalms 44:22 is used to illustrate the kind of treatment God's faithful people can expect from their enemies when their hatred of righteousness is stirred. 
 
 2. "Descriptive of what God's faithful people may expect from their enemies." - This quote emphasizes that the verse serves as a description of the treatment believers can anticipate from their adversaries.
@@ -50,4 +50,4 @@ Throughout history, God's faithful people have endured trials and sufferings sim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

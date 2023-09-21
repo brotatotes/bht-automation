@@ -9,7 +9,7 @@ This verse describes the deep connection and mutual support the believers in Phi
 2. "The exhibition of their κοινωνία εἰς τὸ εὐαγγ ."
 3. "This last clause is by Lachm. and Meyer attached to πεποιθώς, but they are surely in error."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For your (continued) fellowship (that is, real spiritual participation) in (literally, 'in regard to') the Gospel from the first day (of your becoming partakers in it) until now."
 2. "Believers have the fellowship of the Son of God and of the Father in the Gospel, by becoming partakers of 'the fellowship of the Holy Ghost.'"
 3. "They exercise that fellowship by acts of communion, not only the communion of the Lord's Supper, but holy liberality to brethren and ministers."
@@ -54,4 +54,4 @@ This verse describes the deep connection and mutual support the believers in Phi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

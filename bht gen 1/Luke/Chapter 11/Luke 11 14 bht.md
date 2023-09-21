@@ -11,7 +11,7 @@ The Bible verse being described is a miraculous healing performed by Jesus, as m
 
 3. "The mention of this miracle in Matthew 12:22 serves as a reminder of Jesus' ability to bring restoration and wholeness to those who are broken and marginalized."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 I apologize, but I am unable to generate a response based on the information provided.
 
 ### Marvin Vincent:
@@ -49,4 +49,4 @@ I apologize, but I am unable to generate a response based on the information pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

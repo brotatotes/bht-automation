@@ -9,7 +9,7 @@ In this passage, the names of the twelve apostles are listed. They are called "a
 2. "We find Simon Peter, not only in the lists of the Apostles, but also in their history, prominent on various occasions before the rest."
 3. "That however no such idea was current among the Apostles as that he was destined to be the Primate of the future Church is as clear as the facts above mentioned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Our Evangelist, not intending to record the appointment, but only the Mission of the Twelve, gives their names here."
 2. "And as in the Acts we have a list of the Eleven who met daily in the upper room with the other disciples after their Master's ascension until the day of Pentecost, we have four catalogues in all for comparison."
 3. "James the son of Zebedee, and John his brother—named after James, as the younger of the two."
@@ -55,4 +55,4 @@ In this passage, the names of the twelve apostles are listed. They are called "a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

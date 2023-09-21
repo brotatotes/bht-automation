@@ -11,7 +11,7 @@ In this verse, we are reminded of the importance of relying on God as our ultima
 
 3. "Such is the connexion, both in the Heb. and here." - This quote acknowledges the connection between the Hebrew text and the verse in question, emphasizing the continuity and relevance of the original meaning.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "expressing confidence actually realized"
 2. "So that we boldly (confidently) say"
 3. "And (so) I will not fear: what (then) shall man do unto me?"
@@ -54,4 +54,4 @@ These quotes emphasize the unwavering belief in God's ability to provide help an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

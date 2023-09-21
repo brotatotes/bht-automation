@@ -9,7 +9,7 @@ The verse being described in this paragraph is a familiar one: "For my yoke is e
 2. "But it is a light yoke; the inner rest in the soul giving a peace which passeth understanding, and bearing it up against all."
 3. "See 2 Corinthians 4:16."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For my yoke is easy, and my burden is light" - This statement by Jesus is a paradox that reveals the unique nature of his teachings. 
 2. "That rest which the soul experiences when once safe under Christ's wing makes all yokes easy" - Finding refuge in Christ brings a profound sense of peace and rest to the soul, making any burden bearable. 
 3. "All burdens light" - Jesus promises that when we are aligned with him, our burdens become light and manageable.
@@ -52,4 +52,4 @@ These quotes highlight the idea that while Christ does not promise freedom from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

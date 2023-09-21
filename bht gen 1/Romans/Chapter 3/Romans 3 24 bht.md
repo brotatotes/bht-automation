@@ -9,7 +9,7 @@ This verse describes the incredible truth of justification by faith. It emphasiz
 2. "δωρεάν: 'without merit or desert as arising from earnings of our own;' 'gratis.'"
 3. "By means of the propitiatory redemption which is in Christ Jesus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "justified freely—without anything done on our part to deserve."
 2. "by his grace—His free love."
 3. "though justification is quite gratuitous, it is not a mere fiat of the divine will, but based on a 'Redemption,' that is, 'the payment of a Ransom,' in Christ's death."
@@ -55,4 +55,4 @@ This verse describes the incredible truth of justification by faith. It emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

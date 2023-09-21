@@ -4,7 +4,7 @@
 The verse being described talks about a great city that is divided into three parts. This division indicates its complete and devastating destruction. The city, which is likened to Babylon or Rome, is a symbol of the Romish antichristian state and the whole Romish jurisdiction. God, who had seemed to have forgotten about Babylon, now remembers and will inflict deserved punishment upon her, unleashing the fierce wrath of His judgment. The verse also mentions the falling of the cities of the nations, indicating their utter overthrow.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The city in Revelation 16:1 is probably distinct, namely, Jerusalem under Antichrist, who is distinct from the harlot or apostate Church." 
 2. "The great city becoming three parts by the earthquake signifies a complete and devastating destruction." 
 3. "The fierce wrath of God is depicted as a boiling over outburst, emphasizing the intensity and severity of His judgment."
@@ -44,4 +44,4 @@ The verse being described talks about a great city that is divided into three pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

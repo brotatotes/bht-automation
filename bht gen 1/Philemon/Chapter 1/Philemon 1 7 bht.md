@@ -9,7 +9,7 @@ The verse being described is Philemon 1:2. This verse speaks of Philemon's love 
 2. "The γάρ gives a reason for the prayer of Phm 1:6 as De W., not, as Meyer, for the thanksgiving of Philemon 1:4; see above."
 3. "ἀδελφέ is skilfully placed last, as introducing the request which follows."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The saints are refreshed by thee." This quote highlights the idea that the prayer is a source of joy and consolation for the believers. It emphasizes the importance of communal prayer and the support that it brings to the community of saints.
 
 2. "His house was open to them." This quote suggests that the person being prayed for is hospitable and welcoming to others. It implies that the person's character and actions have earned the favor and support of the community.
@@ -57,4 +57,4 @@ The verse being described is Philemon 1:2. This verse speaks of Philemon's love 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

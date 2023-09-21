@@ -9,7 +9,7 @@ In this verse, it is made clear that belief in Jesus as the Son of God is the ke
 2. "μένει] It was on him, see John 3:18, in his state of darkness and nature."
 3. "can only be removed by faith in the Son of God, which he has not."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The one has already a life that will endure for ever—the other not only has it not now, but shall never have it—never see it."
 2. "It was on Him before, and not being removed in the only possible way, by 'believing on the Son,' it necessarily remaineth on him!"
 3. "How flatly does this contradict the teaching of many in our day, that there neither was, nor is, anything in God against sinners which needed to be removed by Christ, but only in men against God!"
@@ -52,4 +52,4 @@ In this verse, it is made clear that belief in Jesus as the Son of God is the ke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

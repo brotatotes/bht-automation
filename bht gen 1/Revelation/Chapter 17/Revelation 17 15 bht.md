@@ -4,7 +4,7 @@
 The verse being described here describes the symbol of the waters, which represent the vast multitude of people under the influence of Rome Papal, symbolizing the diverse kingdoms and infinite number of individuals subject to the antichristian state. The power and influence of these waters is portrayed through their ability to carry all before them, signifying the authority that the see of Rome holds over the kings and inhabitants of the earth. Additionally, the constant flux and instability of these waters highlight the ever-changing nature of religious beliefs and political constitutions, ultimately leading to their ultimate cessation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "An impious parody of Jehovah who 'sitteth upon the flood'." 
 2. "The 'peoples,' c., here mark the universality of the spiritual fornication of the Church."
 3. "The 'tongues' remind us of the original Babel, the confusion of tongues, the beginning of Babylon, and the first commencement of idolatrous apostasy after the flood."
@@ -40,4 +40,4 @@ The verse being described here describes the symbol of the waters, which represe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

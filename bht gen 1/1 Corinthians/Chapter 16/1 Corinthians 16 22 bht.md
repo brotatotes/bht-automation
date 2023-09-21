@@ -9,7 +9,7 @@ In this verse, the apostle admonishes that anyone who does not love the Lord Jes
 2. "The negation here of the feeling of personal affection, 'has no love in his heart for,' is worthy of note, as connected with the curse which follows."
 3. "μαραναθά] An Aramaic expression, מָרַן אֲתָא or מָרָנָא אֲתָא the (or our) Lord cometh (or, is come, as Chrys., al., ὁ κυρ. ἡμ. ἦλθε: in 1Jn 4:2 the same Syriac form is used to express ἐληλυθότα): probably unconnected with ἀνάθεμα: and added perhaps (Mey.) as recalling some remembrance of the time when Paul was among them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love to one another is to be in connection with love to Him above all."
 2. "So far from 'saluting' him, I bid him be accursed."
 3. "Maranatha - a motto or watchword to urge them to preparedness for the Lord's coming."
@@ -57,4 +57,4 @@ In this verse, the apostle admonishes that anyone who does not love the Lord Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

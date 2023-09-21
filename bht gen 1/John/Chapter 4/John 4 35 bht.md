@@ -9,7 +9,7 @@ In this verse, Jesus uses a farming analogy to convey a profound spiritual truth
 2. "To get the meaning of the latter part of the verse, we must endeavour to follow, as far as may be, the train of thought which pervades the discourse."
 3. "Taking this view, I do not believe there was any allusion to the actual state of the fields at that time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In current speech, ye say thus at this season; but lift up your eyes and look upon those fields in the light of another husbandry, for lo! in that sense, they are even now white to harvest, ready for the sickle."
 2. "The simple beauty of this language is only surpassed by the glow of holy emotion in the Redeemer's own soul which it expresses."
 3. "Oh, could we but so, 'lift up our eyes and look' upon many fields abroad and at home, which to dull sense appear unpromising, as He beheld those of Samaria, what movements, as yet scarce in embryo, and accessions to Christ, as yet seemingly far distant, might we not discern as quite near at hand."
@@ -59,4 +59,4 @@ In this verse, Jesus uses a farming analogy to convey a profound spiritual truth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

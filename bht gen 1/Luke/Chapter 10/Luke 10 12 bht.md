@@ -4,7 +4,7 @@
 On the day of judgment, the punishment for a city that has rejected the Gospel will be more severe than the destruction of Sodom and Gomorrah. In hell, there will be varying degrees of torment, with the punishment for such a city being worse than any other. This rejection has eternal consequences that extend beyond the future judgment, emphasizing the everlasting nature of the punishment for those who reject the message of salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sodom sank through its vile pollutions: but the doom of otherwise correct persons who, amidst a blaze of light, reject the Saviour, shall be less endurable than that of any of these."
 
 2. "The doom of otherwise correct persons who reject the Saviour shall be less endurable than that of any of these."
@@ -29,4 +29,4 @@ On the day of judgment, the punishment for a city that has rejected the Gospel w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

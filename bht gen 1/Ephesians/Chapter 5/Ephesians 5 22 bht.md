@@ -11,7 +11,7 @@ In this verse, wives are encouraged to submit to their husbands, not only as an 
 
 3. "in Christ’s case the Headship is united with, nay gained by, His having SAVED the body in the process of Redemption: so that I am not alleging Christ’s Headship as one entirely identical with that other, for He has a claim to it and office in it peculiar to Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Church's relation to Christ in His everlasting purpose, is the foundation and archetype of the three greatest of earthly relations, that of husband and wife, parent and child, master and servant."
 2. "Submissiveness is rendered by the wife to the husband under the eye of Christ, and so is rendered to Christ Himself."
 3. "The husband stands to the wife in the relation that the Lord does to the Church, and this is to be the ground of her submission."
@@ -57,4 +57,4 @@ In this verse, wives are encouraged to submit to their husbands, not only as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

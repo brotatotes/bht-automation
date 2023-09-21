@@ -9,7 +9,7 @@ In this verse, the commentators highlight the divine authority and sovereignty b
 2. "All that has life, all that is subject to death, all that is cursed on account of sin."
 3. "In this wide gift, there is a more special gift, the chosen, they who believe on Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Given" is replaced with "gavest" to emphasize the act of God giving power over all flesh to Jesus. This highlights the divine authority and sovereignty bestowed upon Jesus.
 2. Jesus is given the power to give eternal life to all that God has given him. This emphasizes the role of Jesus as the source of eternal life and the fulfillment of God's plan for salvation.
 3. The phrase "to all that which thou hast given him" emphasizes the specific individuals chosen by God to receive eternal life through Jesus. This highlights the divine election and predestination of believers.
@@ -55,4 +55,4 @@ These quotes highlight the universal scope of Christ's sacrifice and the assuran
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

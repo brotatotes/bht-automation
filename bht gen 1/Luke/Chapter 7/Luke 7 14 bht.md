@@ -9,7 +9,7 @@ In the midst of a touching scene, the power and grace of Jesus are undeniably di
 2. "All three raisings from the dead are wrought with words of power."
 3. "Jésus-Christ ressuscite les morts comme il fait les actions les plus communes: il parle en maître à ceux qui dorment d’un sommeil éternel: et l’on sent bien qu’il est le Dieu des morts comme des vivans, jamais plus tranquille que lorsqu’il opère les plus grandes choses."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Resurrection and the Life in human flesh, with a word of command, bringing back life to the dead body."
 2. "Incarnate Compassion summoning its absolute power to dry a widow's tears!"
 3. "What mingled majesty and grace shines in this scene!"
@@ -43,4 +43,4 @@ In the midst of a touching scene, the power and grace of Jesus are undeniably di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

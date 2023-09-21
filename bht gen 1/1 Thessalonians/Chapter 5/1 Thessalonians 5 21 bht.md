@@ -9,7 +9,7 @@ In this verse, believers are encouraged to exercise discernment and test everyth
 2. "τὸ καλὸν κατέχετε is best regarded as beginning a new sentence, and opposed to ἀπὸ παντ. εἴδ. κ. τ.λ. which follows: not however as disconnected from the preceding, but suggested by it."
 3. "In this, and in all things, hold fast the good."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "You ought indeed not to 'quench' the manifestations of 'the Spirit,' nor 'despise prophesyings'; 'but,' at the same time, do not take 'all' as genuine which professes to be so; 'prove (test) all' such manifestations."
 2. "Another sure test, which we also have, is, to try the professed revelation whether it accords with Scripture, as the noble Bereans did."
 3. "As the result of your 'proving all things,' and especially all prophesyings, 'hold fast the good, and hold yourselves aloof from every appearance of evil.'"
@@ -61,4 +61,4 @@ In this verse, believers are encouraged to exercise discernment and test everyth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

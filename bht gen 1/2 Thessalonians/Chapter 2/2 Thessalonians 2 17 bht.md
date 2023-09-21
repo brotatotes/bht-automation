@@ -4,7 +4,7 @@
 In this Bible verse, the commentators highlight the need for comfort and establishment in the midst of trials. They emphasize the importance of receiving and increasing the everlasting consolation and good hope found in the Word of God. This comfort is not simply for personal security but should lead to unselfish diligence in good word and work. Through the application of the comfort and the truths of the Gospel, believers are encouraged to stand firm and unwavering, not wavering or staggering in their faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Comfort your hearts—unsettled as you have been through those who announced the immediate coming of the Lord." 
 2. "Establishment in these were what the young converts at Thessalonica needed, not fanatical teaching."
 3. "Good word and work—The oldest manuscripts invert the order, 'work and word.'"
@@ -33,4 +33,4 @@ In this Bible verse, the commentators highlight the need for comfort and establi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

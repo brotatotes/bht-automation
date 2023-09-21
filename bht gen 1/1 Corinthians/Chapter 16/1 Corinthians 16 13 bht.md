@@ -9,7 +9,7 @@ In this powerful verse, the exhortation is given to be watchful against both see
 2. "Be watchful, as if sleeping; stand firm, as if being shaken; be courageous, as if being weakened." 
 3. "Let everything be done in love, as if there were divisions."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He shows that they ought to make their hopes of salvation to depend not on Apollos or any other teacher; that it rests with themselves."
 2. "Watch ye: for ye are slumbering. Stand: for ye are like men tottering. Quit you like men; be strong: for ye are effeminate."
 3. "Let all your things be done with charity: not with strifes as at present."
@@ -52,4 +52,4 @@ These quotes collectively remind us to be watchful, unwavering in our faith, cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

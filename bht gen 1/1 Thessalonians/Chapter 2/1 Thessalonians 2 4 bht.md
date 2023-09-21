@@ -9,7 +9,7 @@ The verse being described is about the apostles' preaching and their aim to plea
 2. "ὡς belongs to the whole sentence, not merely to ἀνθρ. ἀρέσκ.: for in that case the second member would involve almost too harsh an ellipsis."
 3. "ἡμῶν, of us, not said generally, of all men: but of us, Paul and Silvanus and Timotheus."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We have been approved on trial," "deemed fit."
 2. "This approval as to sincerity depends solely on the grace and mercy of God."
 3. "Not as pleasing... characteristic of false teachers."
@@ -48,4 +48,4 @@ The verse being described is about the apostles' preaching and their aim to plea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

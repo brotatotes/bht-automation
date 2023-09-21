@@ -4,7 +4,7 @@
 In the midst of a crowd witnessing the resurrection of Lazarus from the dead, the significance of the moment is acknowledged by the commentators. Jesus' mighty act draws people to Him, causing a division of opinion. The eyewitnesses' belief and faith in Jesus are evident, leading to the glorification of the Son of God. This remarkable miracle confirms Jesus' foreknowledge and underscores His transformative power, inviting others to embrace His teachings and recognize His divinity.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is remarkable that on each of the three occasions on which our Lord raised the dead, a large number of persons was assembled."
 2. "Yet this important circumstance is in each case only incidentally noticed by the historians, not put forward or appealed to as a proof of their veracity."
 3. "The preceding miracle (cure of the man born blind) is distinguished from all others by the open and formal investigation of its facts."
@@ -45,4 +45,4 @@ In the midst of a crowd witnessing the resurrection of Lazarus from the dead, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

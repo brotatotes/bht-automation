@@ -9,7 +9,7 @@ In this verse, we are called to have a transformed perspective, seeing others th
 2. "He who knows no man κατὰ σάρκα has, e.g. in the case of the Jew, entirely lost sight of his Jewish origin, in that of the rich man, of his riches, in that of the learned, of his learning, in that of the slave, of his servitude, &c."
 3. "The fact alluded to in the concessive clause, is, not any personal knowledge of the Lord Jesus while He was on earth, but that view of Him which Paul took before his conversion, when he knew Him only according to His outward apparent standing in this world, only as Jesus of Nazareth."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For instance, the outward distinctions of Jew or Gentile, rich or poor, slave or free, learned or unlearned, are lost sight of in the higher life of those who are dead in Christ's death, and alive with Him in the new life of His resurrection."
 2. "He had this advantage over the Twelve, that as one born out of due time he had never known Christ save in His heavenly life."
 3. "Paul here shows the true aim should be to know Him spiritually as new creatures, and that outward relations towards Him profit nothing."
@@ -53,4 +53,4 @@ In this verse, we are called to have a transformed perspective, seeing others th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

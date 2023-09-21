@@ -4,7 +4,7 @@
 In the midst of a hostile environment, a woman perceives Peter's association with Jesus, directing her accusation towards him. Peter, warming himself in the midst of the hall, faces intensified scrutiny and recognition. The scene is set with a vivid contrast between the warmth of the hall and the adversity outside, deepening the understanding of Peter's challenging circumstances.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His demeanor and timidity, which must have attracted notice, as so generally happens, 'leading,' says OLSHAUSEN, 'to the recognition of him.'" 
 2. "The sense of this is given in John's report of it (John 18:17), 'Art not thou also one of this man's disciples?' that is, thou as well as 'that other disciple,' whom she knew to be one, but did not challenge, perceiving that he was a privileged person." 
 3. "If so expressed in Peter's hearing—drawing upon him the eyes of every one that heard it (as we know it did, John 18:17- :), and compelling him to answer to it—that would explain the different forms of the report naturally enough."
@@ -34,4 +34,4 @@ In the midst of a hostile environment, a woman perceives Peter's association wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

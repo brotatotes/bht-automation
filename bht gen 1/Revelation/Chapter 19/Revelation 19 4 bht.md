@@ -4,7 +4,7 @@
 In this verse, supernatural beings are depicted as powerful rulers, with a fixed position of authority. They represent the church rejoicing in its triumph over persecution. Their worship of God signifies deep reverence and awe, while the antiphonal chorus emphasizes the unity and diversity of praise. As God's judgments are fulfilled, the praise moves from the center to the outermost, showcasing the complete fulfillment of His righteous judgments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beasts" in this context refers to "living creatures," indicating that these beings are not ordinary animals but rather supernatural beings.
 2. The use of the word "sat" emphasizes the authority and power of the living creatures, suggesting that they are in positions of rulership and dominion.
 3. The Greek word "sitteth" implies a sense of permanence and stability, suggesting that the living creatures have a fixed and established position.
@@ -40,4 +40,4 @@ In this verse, supernatural beings are depicted as powerful rulers, with a fixed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

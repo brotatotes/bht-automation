@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the universal condition of humanity, 
 2. "The intention of God, not the mere result."
 3. "The promise depends upon, is conditioned by, faith of Jesus Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "So far is righteousness from being of the law, that the knowledge of sin is rather what comes of the law."
 2. "The written letter was needed so as permanently to convict man of disobedience to God's command."
 3. "Beautifully contrasted with 'the liberty wherewith Christ makes free,' which follows."
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the universal condition of humanity, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

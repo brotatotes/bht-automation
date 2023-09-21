@@ -9,7 +9,7 @@ In this verse, the commentators collectively shed light on Paul's recognition of
 2. "ἐνήργ . applies to the ἀπακολουθοῦντα σημεῖα with which the Lord accompanied His word spoken by them, and to the power with which they spoke that word."
 3. "εἰς ἀποστ .] towards, with a view to, the Apostleship, reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God wrought effectually, made the preached word efficacious to conversion, not only by sensible miracles, but by the secret mighty power of the Holy Ghost."
 2. "For Peter."
 3. "In me also."
@@ -61,4 +61,4 @@ Note: The commentary seems to be discussing the verse in the context of Paul's a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of the significance of Christ's suffering and r
 2. "That the fact of His having suffered on the cross was in the Apostle’s mind, can hardly be doubted: but that the words do not assert it, is evident from the change of construction in the next clause."
 3. "This light, to be preached to the Jews and Gentiles, must arise from the resurrection of the dead, and that Christ, the first ἐξ ἀναστάσεως, was to announce it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The question 'whether the Messiah is a suffering one' is addressed here, emphasizing the significance of Christ's suffering in the fulfillment of prophecy."
 2. "The phrase 'rising first from the dead' highlights the resurrection of Christ as a pivotal event in bringing light to both the Jewish people and the Gentiles."
 3. "The commentary emphasizes that Paul's words align with the teachings of the prophets and Moses, emphasizing the continuity between the Old Testament prophecies and the coming of Christ."
@@ -43,4 +43,4 @@ The verse being described speaks of the significance of Christ's suffering and r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

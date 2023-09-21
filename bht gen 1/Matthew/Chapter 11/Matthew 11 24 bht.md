@@ -9,7 +9,7 @@ This verse reveals the nature of God's love - unconditional, unchanging, and sac
 2. "The proportion of such means of escape dealt out to men is ruled by the counsel of His will who is holy, just, and true."
 3. "Our only feeling should be overflowing thankfulness, when we find ourselves in possession of the light of the glorious Gospel, of which so many are deprived."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It has been indeed, more tolerable, in one sense, in the day of its earthly judgment, for the land of Sodom than for Capernaum."
 2. "The judgment of which our Lord here speaks is still future; a judgment not on material cities, but their responsible inhabitants."
 3. "A judgment final and irretrievable."
@@ -41,4 +41,4 @@ This verse reveals the nature of God's love - unconditional, unchanging, and sac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, a figure referred to as the Son of man is exalted and glorified
 2. "Stephen, full of the Holy Ghost, speaking now not of himself at all, but entirely by the utterance of the Spirit, repeats the very words in which Jesus Himself, before this council, had foretold His glorification."
 3. "Assures them that that exaltation of the SON of MAN, which they should hereafter witness to their dismay, was already begun and actual."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is the only time that our Lord is by human lips called THE SON OF MAN after His ascension." 
 2. "Stephen, full of the Holy Ghost, speaking now not of himself at all, but entirely by the Spirit, is led to repeat the very words in which Jesus Himself had foretold His glorification."
 3. "Assuring them that that exaltation of the SON OF MAN which they should hereafter witness to their dismay, was already begun and actual."
@@ -53,4 +53,4 @@ In this passage, a figure referred to as the Son of man is exalted and glorified
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

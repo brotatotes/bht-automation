@@ -9,7 +9,7 @@ If any person is genuinely willing to do the will of God, they will come to know
 2. "If any man’s will be, to do His will, &c."
 3. "If a man be really anxious to do the will of God, and thus to fulfil this first great commandment of the law, be, as Meyer expresses it, in ethical harmony with God, the singleness of purpose, and subjection to the will of God, will lead him on to faith in the promised and then apparent Messiah, and to a just discrimination of the divine character of his teaching."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If any man will do his will" - This phrase emphasizes the importance of having a genuine desire to do God's will. It highlights the significance of obedience and submission to God's guidance in one's life.
 
 2. "Singleness of desire to please God is the grand inlet to light" - This quote underscores the idea that having a sincere and unwavering desire to please God is the key to receiving spiritual enlightenment and understanding. It suggests that a heart fully committed to God opens the door to divine revelation.
@@ -59,4 +59,4 @@ If any person is genuinely willing to do the will of God, they will come to know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

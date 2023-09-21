@@ -4,7 +4,7 @@
 This passage recounts a curious incident involving a cursed fig tree, causing surprise among the disciples. Commentators note that Peter's memory is jogged, recalling the miraculous event and the weight of Christ's curse upon the tree. This occurrence is seen as a unique demonstration of Jesus' authority, implying the significance of His words and the justness of the tree's fate. The story serves as a vivid reminder of the consequences of disobedience and the power inherent in Christ's teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A miracle, not of blessing, as all His other miracles, but of cursing."
 2. "Connecting the two things as to show that he traced the death of the tree entirely to the curse of his Lord."
 3. "A general exclamation of surprise by the disciples 'how soon' the blight had taken effect."
@@ -32,4 +32,4 @@ This passage recounts a curious incident involving a cursed fig tree, causing su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

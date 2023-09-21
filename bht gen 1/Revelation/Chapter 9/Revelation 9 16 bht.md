@@ -4,7 +4,7 @@
 This verse describes a vast and immense army, with hosts that are not merely human but possibly infernal, constrained to work out God's will. The horsemen, who are likened to cavalry, are of immense and unparalleled numbers, possibly numbering in the hundreds of millions. The magnitude of this army is almost unimaginable, comparable to the size of the armies of the Turks and the incredulity of an emperor being challenged with a camel-load of wheat representing the countless fighting men.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The hosts here are evidently, from their numbers and their appearance, not merely human hosts, but probably infernal, though constrained to work out God's will."
 2. "The hosts here are probably infernal, though constrained to work out God's will."
 3. "The hosts here are not merely human hosts, but probably infernal."
@@ -35,4 +35,4 @@ This verse describes a vast and immense army, with hosts that are not merely hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the vivid imagery of the locusts' tails resembling scorpions is emphasized by commentators. They note that these tails are not just mere appendages, but are equipped with stings, symbolizing the authority and power of these creatures to cause harm. The absence of the oldest manuscript for this reading introduces the possibility of textual variation. The locusts are described as instruments of distress, inflicting various tortures on people and engaging in wrongful actions. The duration of their destructive power is mentioned as lasting for a specific period of five months.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "tails like unto scorpions—like unto the tails of scorpions." This quote highlights the visual imagery of the verse, emphasizing the resemblance between the tails of these creatures and scorpions. 
 
 2. "and (they have) stings: and in their tails (is) their power (literally, 'authority': authorized power) to hurt." This quote explains the significance of the stings in the tails of these creatures, emphasizing that it is their source of power and authority to cause harm.
@@ -39,4 +39,4 @@ In this verse, the vivid imagery of the locusts' tails resembling scorpions is e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

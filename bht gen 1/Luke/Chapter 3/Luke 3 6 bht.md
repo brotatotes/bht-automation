@@ -4,7 +4,7 @@
 The verse in question speaks of the salvation of God, which is the divine act of grace and mercy manifested through the Messiah, Jesus Christ. It emphasizes the universal scope of God's salvation, meant for all humanity. This salvation is not achieved through our own efforts, but is a gift from God, offered to us through faith. It calls us to respond with gratitude, obedience, and a lifelong surrender to God's will. Ultimately, the salvation of God is a testament to His faithfulness and His unwavering love for all who seek Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The idea is that every obstruction shall be so removed as to reveal to the whole world the Salvation of God." 
 2. "The Salvation of God in Him whose name is the 'Saviour'." 
 3. "The verse emphasizes the universal scope of God's salvation, reaching all flesh."
@@ -41,4 +41,4 @@ The verse in question speaks of the salvation of God, which is the divine act of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

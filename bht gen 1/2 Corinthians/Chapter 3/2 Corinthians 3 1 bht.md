@@ -9,7 +9,7 @@ In this Bible verse, the author responds to accusations of self-commendation and
 2. "The letters of recommendation are fully illustrated by Suicer, Thes. in voc." 
 3. "The rec. συστατικῶν at the end, as well as συστ . ἐπιστολῶν, have probably been glosses, inserted to prevent ἐξ ὑμ . being taken with ἡ ἐπιστ . following."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Are we beginning again to recommend ourselves (2 Corinthians 5:12) as some of them might say he had done in his first Epistle; or, a reproof to 'some' who had begun doing so!" 
 
 2. "The 'some' refers to particular persons of the 'many' teachers who opposed him, and who came to Corinth with letters of recommendation from other churches; and when leaving that city obtained similar letters from the Corinthians to other churches." 
@@ -55,4 +55,4 @@ In this Bible verse, the author responds to accusations of self-commendation and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

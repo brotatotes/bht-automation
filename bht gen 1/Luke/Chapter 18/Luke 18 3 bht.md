@@ -9,7 +9,7 @@ In this Bible verse, a woman persistently seeks justice from a judge for her def
 2. "This adversary being her oppressor on account of her defenceless situation."
 3. "She wanting a sentence from the judge to stop his practices."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Her continual coming." - This phrase emphasizes the persistence and determination of the woman in seeking justice. It highlights her unwavering commitment to her cause and her refusal to give up.
 2. "Avenge me." - These words express the woman's plea for deliverance from the oppression she is facing. It reveals her desperation and the depth of her need for someone to intervene on her behalf.
 3. "Rid me of the oppression of." - This phrase underscores the woman's desire for freedom from the burden of injustice. It conveys her longing for relief and her hope that someone will take action to alleviate her suffering.
@@ -45,4 +45,4 @@ In this Bible verse, a woman persistently seeks justice from a judge for her def
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

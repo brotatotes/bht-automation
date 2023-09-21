@@ -9,7 +9,7 @@ In this verse, we witness the disciples expressing their worry and disbelief as 
 2. "ἐζήτουν" - This verb indicates a continuous seeking or searching, suggesting that the individuals mentioned in the verse were actively and persistently looking for something.
 3. "ὑπάγεις" - This question implies a sense of curiosity or surprise, as if the person asking is wondering where the individual mentioned in the verse is going. It adds a layer of intrigue and anticipation to the narrative.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The disciples' question reveals their concern for Jesus' safety and their disbelief that he would willingly return to a place where he was in danger of being stoned."
 2. "Their question also highlights their limited understanding of Jesus' mission and the ultimate purpose of his ministry."
 3. "This moment serves as a reminder that Jesus' disciples, like us, often struggle to fully comprehend the plans and purposes of God."
@@ -54,4 +54,4 @@ In this verse, we witness the disciples expressing their worry and disbelief as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse speaks of the adornment of women in the Bible. It highlights the impo
 2. "Who hoped (ἐλπίζουσαι, part. of the imperfect, according to Winer, § 45. 1: but is it not rather the indefinite pres. part. defining the quality or office, as ὁ σπείρων, ὁ πειράζων?) in God (i.e. whose hope was directed towards, and rested in, God. Bengel remarks, 'vera sanctitas, spes in Deum: est hoc epitheton pars subjecti')."
 3. "Adorned themselves, being in subjection to their own husbands (this clause describes the state in which the adornment was put on, to which it belonged: being thus in subjection, they were adorned with the meek and quiet spirit which belongs to it)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The ornament of a meek and quiet spirit"
 2. "Hope in God is the spring of true holiness"
 3. "Their ornament consisted in their subordination"
@@ -53,4 +53,4 @@ This verse speaks of the adornment of women in the Bible. It highlights the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the apostle Paul refers to a previous time when he preached
 2. "Beware of conjectural emendation, such as δι ʼ ἀσθενείας of Peile, for which there is neither warrant nor need."
 3. "τὸ πρότερον may mean ‘formerly,’ but is more probably ‘the first time,’ with reference to that second visit hinted at below, Galatians 4:16, and ch. Galatians 5:21."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye know that because of an infirmity of my flesh I preached." - The commentator suggests that Paul's bodily sickness was the reason he preached the Gospel to the Galatians, highlighting how even our weaknesses can be used for God's purposes.
 
 2. "His sickness was probably the same as recurred more violently afterward, 'the thorn in the flesh'." - The commentator connects Paul's infirmity in Galatia with the "thorn in the flesh" mentioned in another passage, emphasizing how God can work through our ongoing struggles and use them for His glory.
@@ -63,4 +63,4 @@ In this Bible verse, the apostle Paul refers to a previous time when he preached
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

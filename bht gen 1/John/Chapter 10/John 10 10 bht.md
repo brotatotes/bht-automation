@@ -6,7 +6,7 @@ The Bible verse being described is John 10:10.
 This verse portrays the contrast between Jesus as the true shepherd and those who oppose him. The commentators emphasize that the thief's intentions are solely to steal, kill, and destroy, highlighting the destructive nature of those who do not enter through Jesus. In contrast, Jesus came to give abundant life, both spiritually and eternally. His purpose is to provide life, joy, peace, and all the means of felicity for his followers. By entering through Jesus, we can experience the fullness and richness of life that he offers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am come that they might have life, and . . . more abundantly—not merely to preserve but impart LIFE." 
 2. "What a claim! Yet it is only an echo of all His teaching." 
 3. "He who uttered these and like words must be either a blasphemer, all worthy of the death He died, or 'God with us'—there can be no middle course."
@@ -54,4 +54,4 @@ This verse portrays the contrast between Jesus as the true shepherd and those wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

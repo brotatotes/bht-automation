@@ -9,7 +9,7 @@ This Bible verse describes a significant period of time that the apostle Paul sp
 2. "The year and a half may extend either to his departure or to the incident in Acts 18:12 ff."
 3. "I should be disposed to take the other view, and regard Acts 18:12 to ἱκανάς, Acts 18:18, to have happened during this time."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The length of Paul's stay in Corinth, a year and six months, is significant because it shows his commitment to the work of spreading the Gospel in that city. It also demonstrates the effectiveness of his ministry, as he was able to establish a strong and thriving church during this time." 
 
 2. "The fact that Paul wrote his second epistle to the Thessalonians during his stay in Corinth highlights his dedication to nurturing and guiding the early Christian communities. It shows his concern for their spiritual growth and his desire to address any issues or questions they may have had." 
@@ -52,4 +52,4 @@ This Bible verse describes a significant period of time that the apostle Paul sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

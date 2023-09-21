@@ -4,7 +4,7 @@
 The verse being described is an assumption that the readers have heard the information being referred to, without implying doubt. The commentator highlights the authority and purpose behind the commission to share the gospel, emphasizing the divine arrangement and responsibility that comes with it. The verse also emphasizes the inclusivity of God's grace, reaching out to the Gentiles in particular. It conveys the significance of the message being shared and the need for a faithful response to the dispensation of God's grace.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Assuming (what I know to be the fact, namely) that ye have heard" - The commentator highlights that the phrase "if" in the verse does not imply doubt, but rather assumes that the readers have indeed heard the information being referred to.
 
 2. "The indicative in the Greek shows that no doubt is implied" - The commentator explains that the use of the indicative mood in the Greek language indicates that there is no doubt being expressed in the verse.
@@ -56,4 +56,4 @@ These quotes emphasize the commentator's interpretation of the verse, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

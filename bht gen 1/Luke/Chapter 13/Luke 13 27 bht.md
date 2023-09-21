@@ -9,7 +9,7 @@ In this verse, Jesus warns against the superficiality of mere claim to know Him 
 2. "This meaning of ἐργάτης is peculiar."
 3. "See Matthew 7:23, where οἱ ἐργαζόμενοι τ . ἀνομίαν answers to it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No nearness of external communion with Christ will avail at the great day, in place of that holiness without which no man shall see the Lord."
 2. "Observe the style which Christ intimates that He will then assume, that of absolute Disposer of men's eternal destinies."
 3. "Contrast it with His 'despised and rejected' condition at that time."
@@ -54,4 +54,4 @@ In this verse, Jesus warns against the superficiality of mere claim to know Him 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

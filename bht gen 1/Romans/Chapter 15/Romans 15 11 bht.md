@@ -5,7 +5,7 @@ Description:
 This verse from the Bible emphasizes the inclusivity of God's praise, extending it to all nations and peoples. It highlights the universal nature of worship and the invitation for everyone, regardless of background or nationality, to join in praising the Lord. The verse also serves as a reminder of the simplicity of our praise, which doesn't require elaborate words or grand gestures, but rather a humble and sincere heart. Ultimately, it encapsulates the essence of the entire Bible - the message of God's love and redemption for all people.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Praise the Lord, all ye Gentiles; and laud him, all ye people" - This verse emphasizes the inclusivity of God's praise, extending it to all nations and peoples, not just those within the Jewish community. It reminds us that God's love and grace are not limited to a specific group, but are available to everyone.
 
 2. "peoples—the various nations outside the pale of Judaism" - The term "peoples" refers to the diverse nations beyond the boundaries of Judaism. This highlights the universal nature of God's salvation and the invitation for all people, regardless of their cultural or religious background, to join in praising and worshiping Him.
@@ -54,4 +54,4 @@ This verse from the Bible emphasizes the inclusivity of God's praise, extending 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

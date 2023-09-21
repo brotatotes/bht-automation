@@ -11,7 +11,7 @@ In this Bible verse, Jesus declares that he did not come to destroy the law and 
 4. "πληρῶσαι implies more than the mere fulfilling: see reff., where the word has the sense of filling out or expanding; i.e. here, giving a deeper and holier sense to fulfilling in the spirit, which is nobler than the letter."
 5. "The gnostic Marcion characteristically enough maintained that the Judaizing Christians had altered this verse, and that it originally stood, τί δοκεῖτε, ὅτι ἦλθον πληρῶσαι τὸν νόμον ἢ τοὺς προφήτας; ἦλθον καταλῦσαι, ἀλλʼ οὐ πληρῶσαι."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Think not that I am come to destroy the law, or the prophets—that is, 'the authority and principles of the Old Testament.'"
 2. "To the various classes of His hearers, who might view such supposed abrogation of the law and the prophets with very different feelings, our Lord's announcement would, in effect, be such as this—'Ye who tremble at the word of the Lord, fear not that I am going to sweep the foundation from under your feet.'"
 3. "I am not come to destroy, but to fulfil—Not to subvert, abrogate, or annul, but to establish the law and the prophets—to unfold them, to embody them in living form, and to enshrine them in the reverence, affection, and character of men, am I come."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus declares that he did not come to destroy the law and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

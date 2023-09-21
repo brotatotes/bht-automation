@@ -8,7 +8,7 @@ After spending two days in Sychar, Jesus departed, displaying his timing is not 
 1. "τάς should have been expressed in E. V., after the two days." 
 2. "We find no mention of the disciples again till ch. John 6:3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The two days of Jesus' stay at Sychar serve as a reminder that God's timing is not always our timing. Sometimes, we may feel like we are waiting for a long time for God to answer our prayers or fulfill His promises. But just as Jesus had a purpose for those two days, God has a purpose for every season of waiting in our lives."
 
 2. "The delay in Jesus' departure also highlights His compassion and willingness to meet people where they are. He did not rush off immediately but took the time to minister to the Samaritans, showing us the importance of being present and attentive to the needs of others."
@@ -45,4 +45,4 @@ After spending two days in Sychar, Jesus departed, displaying his timing is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

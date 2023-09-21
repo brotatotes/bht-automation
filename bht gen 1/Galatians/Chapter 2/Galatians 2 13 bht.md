@@ -9,7 +9,7 @@ In a church at Antioch, a conflict arose among the believers regarding the obser
 2) "It was not now a question of using a liberty, but of asserting a truth, that of justification by the faith of Christ, and not by the works of the law."
 3) "Besides the antagonism in which this passage represents the two great Apostles, it throws an important light on the history of the apostolic church in the following respects: 1] As exhibiting Peter’s relation to James, and his fear of those who were of the circumcision, whose leader we should have naturally supposed him to have been. 2] Also, as pourtraying the state of indecision in which all, except St. Paul, even including Barnabas, were in reference to the observance of the Jewish law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The case was distinct from that in 1 Corinthians 8:1-10; Romans 14:1-23. It was not a question of liberty, and of bearing with others' infirmities, but one affecting the essence of the Gospel, whether the Gentiles are to be virtually 'compelled to live as do the Jews,' in order to be justified."
 2. "Barnabas also: 'Even Barnabas': one least likely to be led into such an error, being with Paul in first preaching to the idolatrous Gentiles: showing the power of bad example and numbers."
 3. "In Antioch, the capital of Gentile Christianity and the central point of Christian missions, the controversy first arose, and in the same spot it now broke out afresh; and here Paul had first to encounter the party that afterwards persecuted him in every scene of his labors."
@@ -50,4 +50,4 @@ In a church at Antioch, a conflict arose among the believers regarding the obser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

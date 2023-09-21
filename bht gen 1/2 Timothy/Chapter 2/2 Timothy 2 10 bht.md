@@ -11,7 +11,7 @@ In this verse, the apostle Paul expresses his enduring commitment and willingnes
 4) "If we shall deny Him, He also will deny us."
 5) "He remains faithful...for He cannot deny Himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Because of the anxiety I feel that the Gospel should be extended."
 2. "I actively and perseveringly endure, and am ready to endure patiently all things."
 3. "Salvation is not only salvation from wrath, but glory in reigning with Him eternally."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul expresses his enduring commitment and willingnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

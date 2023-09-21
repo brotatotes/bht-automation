@@ -9,7 +9,7 @@ In this Bible verse, Jesus teaches his disciples about the importance of forgive
 2. "οὐ γὰρ ἄξιον τοῦ τοιούτου πατέρα καλεῖσθαι τὸν Θεόν, τοῦ οὕτω πονηροῦ κ. μισανθρώπου." 
 3. "ἐπουράνιος is not elsewhere used by our Evangelist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In this verse, Jesus is teaching his disciples about the importance of forgiveness. He uses the analogy of a servant who was forgiven a great debt but refused to forgive a fellow servant of a much smaller debt. Jesus emphasizes that just as the master was angry with the unforgiving servant, so too will God be angry with those who do not forgive others from their hearts." 
 
 2. "The phrase 'from your hearts' highlights the sincerity and genuineness of forgiveness. It is not enough to simply say the words, but forgiveness must come from a place of true compassion and understanding. This challenges us to examine our own hearts and motives when it comes to forgiving others." 
@@ -55,4 +55,4 @@ In this Bible verse, Jesus teaches his disciples about the importance of forgive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

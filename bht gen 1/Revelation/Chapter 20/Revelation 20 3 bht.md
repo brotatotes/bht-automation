@@ -4,7 +4,7 @@
 After the events leading up to it, Satan's binding is a necessary consequence, resulting in his confinement to prevent him from deceiving the nations with idolatry and false worship. This divine sealing emphasizes the authority of the message, confirming God's purpose and sovereignty. With Satan locked away, the kingdom of God extends its uninterrupted course, fulfilling a long-awaited prophecy and allowing the martyrs to live and reign with Christ. As the calamities unfold, we are reminded of the grandeur of these events, all occurring within a short period of time.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Satan's binding at this juncture is not arbitrary, but is the necessary consequence of the events."
 2. "The Antichristian kingdom, his last effort, being utterly destroyed by Christ's mere appearing, his power on earth is at an end."
 3. "Though sin will not be absolutely abolished—for men will still be in the flesh—sin will no longer be a universal power, for the flesh is not any longer seduced by Satan."
@@ -45,4 +45,4 @@ After the events leading up to it, Satan's binding is a necessary consequence, r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

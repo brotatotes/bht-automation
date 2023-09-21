@@ -4,7 +4,7 @@
 In this Bible verse, Jesus is faced with a scarcity of food among the disciples. Andrew informs Jesus about a boy who has five barley loaves and two small fishes, but wonders what significance such a small amount could have for the large crowd. Jesus instructs the disciples to gather all the available provisions, highlighting his desire to test their faith and display a remarkable miracle. This event is mentioned in different Gospels, emphasizing the importance and impact of the incident.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "John is more precise and full: 'One of His disciples, Andrew, Simon Peter's brother, saith unto Him, There is a lad here which hath five barley loaves and two small fishes: but what are they among so many?'" (John 6:8; John 6:9)."
 
 2. "Probably this was the whole stock of provisions then at the command of the disciples—no more than enough for one meal to them—and entrusted for the time to this lad."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus is faced with a scarcity of food among the disciples.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

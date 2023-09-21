@@ -4,7 +4,7 @@
 The verse being described reflects on God's active involvement in supporting and aiding His people. It emphasizes the divine assistance and intervention that God provides to those in need. The help is rooted in the mercy and abundant power of God, surpassing human understanding. The verse also highlights the fulfillment of God's promise, as He sends the Messiah to help and deliver His servant Israel. Ultimately, salvation is attributed to God's unwavering mercy and the strength of the One who is mighty.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "holpen" - This word emphasizes the divine assistance and intervention that God provides to those in need. It signifies that God is not distant or indifferent, but actively involved in supporting and aiding His people.
 
 2. "I have laid help on One that is mighty" - This quote highlights the source of the help that God provides. It points to the Messiah, Jesus Christ, who is not only mighty but also the ultimate source of strength and deliverance for all who trust in Him.
@@ -54,4 +54,4 @@ The verse being described reflects on God's active involvement in supporting and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

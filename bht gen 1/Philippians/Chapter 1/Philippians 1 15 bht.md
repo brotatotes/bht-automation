@@ -9,7 +9,7 @@ In this verse, some individuals preach Christ with impure motives of envy and st
 2. "The καί introduces a new motive, διὰ κ . τ . λ ., and consequently, a new class of persons." 
 3. "διὰ is not strictly 'for the sake of,' but 'in pursuance of,' to forward and carry out."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Some indeed are preaching Christ even for envy, that is, to carry out the envy which they felt towards Paul." This quote highlights the motive behind some people preaching about Christ - out of envy towards Paul's success in spreading the Gospel. It sheds light on the complex dynamics at play within the early Christian community.
 
 2. "They wished through envy to transfer the credit of its progress from him to themselves." This quote reveals the underlying desire of these individuals - to take credit for the progress of the Gospel and diminish Paul's role in its spread. It speaks to the human tendency of seeking recognition and the potential for ego-driven actions.
@@ -52,4 +52,4 @@ In this verse, some individuals preach Christ with impure motives of envy and st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

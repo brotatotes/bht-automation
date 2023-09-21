@@ -9,7 +9,7 @@ In anticipation of the fulfillment of his mission, Jesus displayed unwavering de
 2. "His assumption, i.e. ascension into heaven."
 3. "τὸ πρός  . [  αὐ  . ]  ἐστ  ., a Hebraism, implying determinate fixed purpose."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The days were being fulfilled, or approaching their fulfilment." 
 2. "A sublime expression, taking the sweep of His whole career, as if at one bound He was about to vault into glory." 
 3. "During the one, He formally 'came to His own,' and 'would have gathered them'; during the other, the awful consequences of 'His own receiving Him not' rapidly revealed themselves."
@@ -57,4 +57,4 @@ In anticipation of the fulfillment of his mission, Jesus displayed unwavering de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

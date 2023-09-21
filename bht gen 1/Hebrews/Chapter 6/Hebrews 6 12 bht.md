@@ -11,7 +11,7 @@ The writer exhorts believers to not be lazy, but to strive for improvement and f
 
 3. "Who are inheritors of, who inherit, in all times and under all circumstances." This quote emphasizes that being an inheritor of the promises of God is not limited to a specific time or group of people, but is applicable to all who have faith and endurance.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He will not become slothful who keeps always the end in view; hope is the means of ensuring this."
 2. "There is the long-suffering patience, or endurance of love, 1 Corinthians 13:4, and that of faith, Hebrews 6:15."
 3. "Not that they have actually entered on the perfect inheritance, which Hebrews 11:13; Hebrews 11:39; Hebrews 11:40 explicitly denies; though doubtless the dead in Christ have, in the disembodied soul, a foretaste of it; but 'them (enumerated in Hebrews 11:2-40) who in every age have been, are, or shall be, inheritors of the promises'."
@@ -63,4 +63,4 @@ The writer exhorts believers to not be lazy, but to strive for improvement and f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In those days, while Jesus still dwelt in Nazareth, John the Baptist began preac
 2. "His whole mission, as Olsh. well observes, was calculated, in accordance with the office of the law which gives the knowledge of sin (Rom 3:20), to bring men’s minds into that state in which the Redeemer invites them (ch. Mat 11:28), as weary and heavy laden, to come to him."
 3. "This tract was not strictly a desert, but thinly peopled, and abounding in pastures for flocks."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In those days—of Christ's secluded life at Nazareth, where the last chapter left Him."
 2. "came John the Baptist, preaching—about six months before his Master."
 3. "in the wilderness of Judea—the desert valley of the Jordan, thinly peopled and bare in pasture, a little north of Jerusalem."
@@ -48,4 +48,4 @@ In those days, while Jesus still dwelt in Nazareth, John the Baptist began preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

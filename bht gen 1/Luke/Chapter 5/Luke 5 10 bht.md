@@ -9,7 +9,7 @@ In this Bible verse, Jesus instructs Peter to become a fisher of men, emphasizin
 2. "This, at, or near, the commencement of the Apostolic course; that, at how different, and how fitting a time!"
 3. "It is perhaps too subtle, and hardly accordant with the rules of emphasis, to find a fitness in ζωγρῶν as expressing the ethical catching of men. I prefer taking it as the word common to both acts merely as catch."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The more highly they deemed Him, ever the more grateful it was to the Redeemer's spirit."
 2. "Never did they pain Him by manifesting too lofty conceptions of Him."
 3. "What wilt thou think, Simon, overwhelmed by this draught of fishes, when I shall bring to thy net what will beggar all this glory?"
@@ -43,4 +43,4 @@ In this Bible verse, Jesus instructs Peter to become a fisher of men, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described in the given commentaries emphasizes the significance of pra
 2. "Consequently, the best method is to take ἐκ πολλ. προσώπ. with τὸ εἰς ἡμ. χάρ., and διὰ πολλῶν with εὐχαρ. (Beza, Calov., Estius, Fritz., Rückert, al.): in order that the mercy shewn to us by the intercession of many persons, may by many be given thanks for on our behalf." De Wette.
 3. "The emphasis of the whole being on the ἐκ πολλῶν προσώπων, he places it first, even before the art., after which it would naturally come."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Helping together on our behalf by your supplication."
 2. "That on the part of many persons the gift bestowed upon us by means of many may be offered thanks for on our behalf."
 3. "Through the prayers of many may have thanks offered for it on our behalf."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite technical and difficult to understand wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

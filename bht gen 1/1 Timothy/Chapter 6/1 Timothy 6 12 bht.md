@@ -9,7 +9,7 @@ The verse being described here emphasizes the importance of actively engaging in
 2. "The good confession, which every servant of Christ must make, on taking upon himself His service, or professing it when called upon so to do." 
 3. "The article rather represents the notoriousness of the confession, 'bonam illam confessionem,' than its definite general character."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Fight (literally, 'strive') with such striving earnestness as to lay hold on the prize, eternal life."
 2. "The 'good profession' is connected with the good fight."
 3. "The Christian confession...that Christ's kingdom is the kingdom of the truth."
@@ -58,4 +58,4 @@ The verse being described here emphasizes the importance of actively engaging in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

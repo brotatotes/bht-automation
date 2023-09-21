@@ -9,7 +9,7 @@ The author raises a thought-provoking question that challenges the readers to ex
 2. "Did you receive the Spirit from the works of the Law or from the hearing of faith?" 
 3. "Meaning either, 'that preaching which proclaimed faith,' or 'that hearing, which received the faith.' The first is preferable, because where their first receiving the Gospel is in question, the preaching of it would probably be hinted at."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Was it by the works of the law that ye received the Spirit...or by the hearing of faith?" - This quote highlights the contrast between relying on works of the law and receiving the Spirit through faith. It prompts the readers to consider the source of their spiritual experiences and challenges the notion that outward works are the basis for receiving the Spirit.
 
 2. "The 'only' implies, 'I desire, omitting other arguments, to rest the question on this alone'" - This quote emphasizes the author's intention to focus solely on the hearing of faith as the basis for receiving the Spirit. It suggests that other arguments or justifications are unnecessary and that the hearing of faith is sufficient to address the question at hand.
@@ -57,4 +57,4 @@ The author raises a thought-provoking question that challenges the readers to ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

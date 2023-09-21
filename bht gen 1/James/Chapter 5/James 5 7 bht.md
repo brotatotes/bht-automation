@@ -9,7 +9,7 @@ In this verse, believers are encouraged to be patient and endure trials, followi
 2. "Encouragement by the example of the husbandman." 
 3. "Behold, the husbandman waiteth for the precious fruit of the earth, being patient over it, till it shall have received the early and latter rain."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be patient therefore—as judgment is so near, ye may well afford to be 'patient' after the example of the unresisting Just one."
 2. "Husbandman waiteth for—that is, patiently bears toils and delays through hope of the harvest at last. Its 'preciousness' will more than compensate for all the past."
 3. "The receiving of the early and latter rains is not to be understood as the object of his hope, but the harvest for which those rains are the necessary preliminary."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and specific to the verse, maki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

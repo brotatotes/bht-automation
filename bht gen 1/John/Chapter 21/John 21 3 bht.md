@@ -9,7 +9,7 @@ In this passage, the disciples, feeling unsure of their purpose after Jesus' res
 2. "And after the 'fishers of men' of that other occasion, the whole could not but bear to them a spiritual meaning in reference to their apostolic commission."
 3. "Their present part was not to go fishing of themselves, but περιμένειν τ . ἐπαγγελίαν τοῦ πατρός."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The same principle is seen in operation throughout much of Christ's ministry, and is indeed a great law of God's spiritual procedure with His people."
 
 2. "No doubt so ordered that the miracle might strike them the more by contrast."
@@ -50,4 +50,4 @@ In this passage, the disciples, feeling unsure of their purpose after Jesus' res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

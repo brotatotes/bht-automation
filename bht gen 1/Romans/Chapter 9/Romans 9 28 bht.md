@@ -9,7 +9,7 @@ In this passage, the Lord is depicted as executing His word swiftly and decisive
 2. "If the above interpretation be correct, and the view which I have taken of the analogy of prophecy, it will follow that this verse is adduced by the Apostle as confirming the certainty of the salvation of the remnant of Israel."
 3. "He with whom a thousand years are as a day, will swiftly accomplish His prophetic word in righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He will finish the work, and cut it short in righteousness." 
 2. "The Lord will make a short work upon the earth." 
 3. "The 'short reckoning' seems to mean the speedy completing of His word, both in cutting off the one portion and saving the other."
@@ -54,4 +54,4 @@ Note: The commentary provides insights into the variation in the Greek text and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

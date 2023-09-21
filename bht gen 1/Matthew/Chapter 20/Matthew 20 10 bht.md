@@ -9,7 +9,7 @@ In this verse, we see a parable told by Jesus that challenges the notion of enti
 2. "Indeed the manifest effect of such a rule as Greswell supposes, would have been to stop the building, not to hasten it."
 3. "If a man could get his day’s pay for an hour’s work, why work more?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This is that calculating, mercenary spirit which had peeped out—though perhaps very slightly—in Peter's question."
 2. "This parable was designed once for all to put down among the servants of Christ."
 3. "It serves as a reminder to not have a calculating, mercenary spirit."
@@ -47,4 +47,4 @@ In this verse, we see a parable told by Jesus that challenges the notion of enti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

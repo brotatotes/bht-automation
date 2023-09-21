@@ -11,7 +11,7 @@ In this Bible verse, we find the profound theme of lostness and redemption. The 
 
 3. "ἤρξαντο, a contrast to the ἤρξατο in Luke 15:14" - This quote draws attention to the contrast between the beginning of the parable and the subsequent events, suggesting a shift in focus or perspective that the reader should pay attention to.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lost—to me; to himself—to my service, my satisfaction; to his own dignity, peace, profit." 
 2. "Alive again . . . found—to all these." 
 3. "Merry."
@@ -45,4 +45,4 @@ In this Bible verse, we find the profound theme of lostness and redemption. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

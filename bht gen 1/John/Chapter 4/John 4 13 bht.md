@@ -4,7 +4,7 @@
 The verse under examination speaks of a transformative and everlasting satisfaction that surpasses any earthly fulfillment. It portrays the universal invitation of Jesus to all who are in need of spiritual nourishment. The commentary highlights the temporary nature of worldly sources and the deep longing within each individual that can only be quenched by the living water offered by Jesus. This contrast between transient satisfaction and everlasting fulfillment stands as a reminder of the limitations of material things and the inexhaustible nature of the grace and provision of Christ.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Coming to us from without, and reaching only the superficial parts of our nature, they are soon spent, and need to be anew supplied as much as if we had never experienced them before, while the deeper wants of our being are not reached by them at all."
 2. "The 'water' that Christ gives—spiritual life—is struck out of the very depths of our being, making the soul not a cistern, for holding water poured into it from without, but a fountain, springing, gushing, bubbling up and flowing forth within us, ever fresh, ever living."
 3. "Never thirsting," then, means simply that such souls have the supplies at home."
@@ -49,4 +49,4 @@ The verse under examination speaks of a transformative and everlasting satisfact
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the speaker expresses a desire for the Corinthians to exercise pa
 2. "μου and ἀφροσύνης are not both genitives after μικρόν τι, as Meyer: nor is it so in the passage quoted by him, Job 6:26, LXX: οὐδὲ γὰρ ὑμῶν φθέγμα ῥήματος (φθέγματος ῥήματος ὑμῶν, Α) ἀνέξομαι." 
 3. "But (why need I request this? for (you really (see note, ch. 2Co 5:3) do bear with me."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I would that you bear with me, not unreasonably, for my folly is of a milder nature than that of the false apostles."
 2. "The Greek term for 'folly' here implies imprudence, contrasting with the perversity and wickedness associated with 'foolishness' in other passages."
 3. "Indeed, you already bear with me, but I still request your patience as I delve into self-commendations."
@@ -55,4 +55,4 @@ In this verse, the speaker expresses a desire for the Corinthians to exercise pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

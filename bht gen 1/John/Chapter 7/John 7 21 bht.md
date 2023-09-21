@@ -11,7 +11,7 @@ In this Bible verse, Jesus performs a miraculous healing on the Sabbath, challen
 
 3. "By healing on the Sabbath, Jesus challenges the legalistic interpretation of the Sabbath laws and emphasizes the importance of compassion and mercy."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Taking no notice of the popular appeal, as there were those there who knew well enough what He meant."
 2. "He recalls His cure of the impotent man, and the murderous rage it had kindled."
 3. "By this fearless reference to it, exposing their hypocrisy and dark designs, He gave His position great moral strength."
@@ -61,4 +61,4 @@ In this Bible verse, Jesus performs a miraculous healing on the Sabbath, challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

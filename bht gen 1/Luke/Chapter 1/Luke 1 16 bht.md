@@ -9,7 +9,7 @@ The verse being described speaks of a significant figure named John who prepares
 2. "It was a concentration of the spirit of the law, whose office it was to convince of sin."
 3. "He eminently represented the law and the prophets in their work of preparing the way for Christ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A religious and moral reformer, Elijah-like, he should be."
 2. "The 'turning of the people's heart to the Lord' is borrowed from 1 Kings 18:37."
 3. "In both cases their success, though great, was partial—the nation was not gained."
@@ -47,4 +47,4 @@ The verse being described speaks of a significant figure named John who prepares
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

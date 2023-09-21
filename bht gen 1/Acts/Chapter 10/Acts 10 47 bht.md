@@ -9,7 +9,7 @@ The commentators affirm that the unexpected effusion of the Holy Spirit removed 
 2. "The TWO great PARTS of full and complete baptism: the latter infinitely greater than, but not superseding the necessity of, the former."
 3. "The expression κωλῦσαι, used with τὸ ὕδ., is interesting, as shewing that the practice was to bring the water to the candidates, not the candidates to the water."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Those who have received the Holy Ghost are on a level with us in all that is essential to salvation."
 2. "The Holy Ghost is the great equalizer, bringing all believers into the same level of spiritual standing."
 3. "The reception of the Holy Ghost is a unifying factor that erases any distinctions among believers."
@@ -53,4 +53,4 @@ The commentators affirm that the unexpected effusion of the Holy Spirit removed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

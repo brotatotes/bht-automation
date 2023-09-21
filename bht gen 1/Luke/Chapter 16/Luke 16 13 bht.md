@@ -9,7 +9,7 @@ In this verse, we are reminded of the necessity to choose between our devotion t
 2. "The saying here applies (as Olshausen remarks) admirably to the Pharisees and Publicans: the former were, to outward appearance, the servants of God, but inwardly served Mammon; the latter, by profession in the service of Mammon, were, by coming to Jesus, showing that they inwardly served God."
 3. "The connexion here is, that we must... be serving not it, but God."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Can serve—be entirely at the command of; and this is true even where the services are not opposed."
 2. "Hate . . . love—showing that the two here intended are in uncompromising hostility to each other: an awfully searching principle!"
 3. "An awfully searching principle!"
@@ -51,4 +51,4 @@ In this verse, we are reminded of the necessity to choose between our devotion t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

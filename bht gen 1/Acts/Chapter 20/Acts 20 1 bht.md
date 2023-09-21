@@ -11,7 +11,7 @@ In this verse, we encounter Paul bidding farewell to the believers at Ephesus, s
 
 3. "The word ἐποιήσατο is used to convey the idea that Paul caused something to be made or done, rather than personally doing it himself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "From his Epistles we learn... that he would have remained longer there but for his uneasiness at the non-arrival of Titus, whom he had despatched to Corinth to finish the collection for the poor saints at Jerusalem."
 2. "At length Titus arrived, to the joy of the apostle, the bearer of better tidings from Corinth than he had dared to expect, but checkered by painful intelligence of the efforts of a hostile party to undermine his apostolic reputation there."
 3. "He wrote—from Macedonia, and probably Philippi—his SECOND EPISTLE TO THE CORINTHIANS, despatching Titus with it, and along with him two other unnamed deputies, expressly chosen to take up and bring their collection for the poor saints at Jerusalem."
@@ -52,4 +52,4 @@ In this verse, we encounter Paul bidding farewell to the believers at Ephesus, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

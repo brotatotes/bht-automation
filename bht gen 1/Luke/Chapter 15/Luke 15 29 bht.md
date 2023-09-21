@@ -13,7 +13,7 @@ In this verse, the Pharisaic language of the elder son's complaint is highlighte
 
 4. "τ. φίλ. μου who are these? this elder son also then has friends, who are not his father’s friends: see Matthew 22:16, τ. μαθητὰς αὐτῶν μετὰ τῶν Ἡρωδιανῶν." This quote raises the question of who the friends of the elder son are and suggests that they may not be aligned with the father's values, drawing a parallel with the Pharisees and their association with the Herodians in Matthew 22:16.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He is merely contrasting his constancy of love and service with the conduct of his brother."
 2. "The father attests the truth of all he says."
 3. "It was no entertainment for the gratification of the prodigal: it was a father's expression of the joy he felt at his recovery."
@@ -52,4 +52,4 @@ In this verse, the Pharisaic language of the elder son's complaint is highlighte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

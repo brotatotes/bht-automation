@@ -9,7 +9,7 @@ In the early days of the Christian church, prophets were inspired teachers who d
 2. "The foretelling of future events was not the usual form which their inspiration took, but that of an exalted and superhuman teaching."
 3. "This inspiration was however, occasionally, as here, and ch. Acts 21:10, made the vehicle of prophecy, properly so called."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prophets from Jerusalem were inspired teachers, a class we shall frequently meet with, who sometimes foretold future events."
 2. "They are classed next to apostles, indicating their importance and authority in the early Christian community."
 3. "These prophets played a significant role in conveying divine messages and guidance to the believers."
@@ -58,4 +58,4 @@ Overall, the arrival of these prophets from Jerusalem to Antioch highlights the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

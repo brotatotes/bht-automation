@@ -9,7 +9,7 @@ The individual described in these commentaries is someone who faced doubt and un
 2. "Did not disbelieve in the promise of God."
 3. "By recognizing His Almighty power."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He staggered—hesitated" - This quote highlights the moment of doubt and uncertainty that the individual experienced. It shows that even the strongest of believers can have moments of weakness and struggle with their faith.
 
 2. "Not . . . but was strong in faith" - This quote emphasizes the individual's ability to overcome their doubts and fears through their unwavering faith. It demonstrates the power of faith to strengthen and sustain believers in the face of challenges.
@@ -52,4 +52,4 @@ The individual described in these commentaries is someone who faced doubt and un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

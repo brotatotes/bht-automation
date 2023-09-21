@@ -9,7 +9,7 @@ In this genealogy, we see the astonishing grace of God at work. The inclusion of
 2. "The reason for the women (Thamar, Rahab, Ruth, and Bathsheba) being mentioned, has been variously assigned: by Wets, ut tacitæ Judæorum objectioni occurreretur: by Fritzsche, for the sake of minute accuracy."
 3. "There may be something also in that suggested by Grotius: ‘Mulieres in hoc sensu obiter paucæ nominantur, extraneo ortiaut criminibus nobiles, quarum historia ad vocationem idololatrarum et criminosorum per Christi evangelium proludit:’ as also in De Wette’s view, that they serve as types of the mother of our Lord, and are consequently named in the course of the genealogy, as she is at the end of it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Four women are here introduced; two of them Gentiles by birth—Rachab and Ruth; and three of them with a blot at their names in the Old Testament—Thamar, Rachab, and Bath-sheba."
 2. "This feature in the present genealogy—herein differing from that given by Luke—comes well from him who styles himself in his list of the Twelve, what none of the other lists do, 'Matthew the publican'; as if thereby to hold forth, at the very outset, the unsearchable riches of that grace which could not only fetch in 'them that are afar off,' but teach down even to 'publicans and harlots,' and raise them to 'sit with the princes of his people.'"
 3. "David is here twice emphatically styled 'David the king,' as not only the first of that royal line from which Messiah was to descend, but the one king of all that line from which the throne that Messiah was to occupy took its name—'the throne of David.'"
@@ -38,4 +38,4 @@ In this genealogy, we see the astonishing grace of God at work. The inclusion of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

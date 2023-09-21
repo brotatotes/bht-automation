@@ -4,7 +4,7 @@
 The chosen disciples, known as apostles, were both qualified and authorized by Jesus. They were sent forth as ambassadors of Christ, like plain men with honest characters, to bear witness to the truth. Jesus privately called them together and appointed them as ministers of the word, giving them both power and authority. With this authority, they were able to cast out unclean spirits and heal various kinds of ailments, all in order to confirm the validity of their teachings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The word signifies both 'power' and 'authority' or 'right.'"
 2. "He both qualified and authorized them."
 3. "He gave them power and authority."
@@ -45,4 +45,4 @@ The chosen disciples, known as apostles, were both qualified and authorized by J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

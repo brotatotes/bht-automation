@@ -4,7 +4,7 @@
 The closing statement in this verse reminds believers of the importance of relying on the unmerited favor and divine empowerment that comes through Jesus Christ. It serves as a visible evidence or proof of His presence and blessing in the lives of all believers. Additionally, the commentary provides historical context, suggesting that the epistle was likely written from Corinth rather than Athens, helping us better understand the geographical and historical context of the letter.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He closes every Epistle by praying for GRACE to those whom he addresses."
 2. "Amen—omitted in the oldest manuscripts. It was doubtless the response of the congregation after hearing the Epistle read publicly; hence it crept into copies."
 3. "The Subscription is spurious, as the Epistle was written not 'from Athens,' but from Corinth."
@@ -39,4 +39,4 @@ The closing statement in this verse reminds believers of the importance of relyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

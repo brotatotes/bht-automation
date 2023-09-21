@@ -11,7 +11,7 @@ The verse being described is about the apostleship of Paul and his fellow apostl
 
 3. "The anarthrous character above remarked (on εὐαγγ. θεοῦ, Rom 1:1) must be here borne in mind, or we shall fall into the mistake of supposing ὑ. π. to mean 'obedience produced by faith.' The key to the words is found in ref. Acts, πολύς τε ὄχλος τῶν ἱερέων ὑπήκουον τῇ πίστει, compared with Paul’s own usage of joining an objective genitive with ὑπακοή, see 2 Corinthians 10:5, εἰς τὴν ὑπακοὴν τοῦ χριστοῦ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By whom—as the ordained channel. we have received grace—the whole 'grace that bringeth salvation'." 
 2. "and apostleship—for the publication of that 'grace,' and the organization of as many as receive it into churches of visible discipleship." 
 3. "for obedience to the faith—rather, 'for the obedience of faith'—that is, in order to men's yielding themselves to the belief of God's saving message, which is the highest of all obedience." 
@@ -63,4 +63,4 @@ The verse being described is about the apostleship of Paul and his fellow apostl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

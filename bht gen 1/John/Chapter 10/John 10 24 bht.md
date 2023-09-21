@@ -9,7 +9,7 @@ The hostile Jews, fueled by their desire to undermine Jesus' credibility, demand
 2. "In Josephus, it signifies ‘to uplift the soul,’ ‘raise the courage;’ ἐπὶ τὸν κίνδ. τὰς ψ. ἠρμένοι." 
 3. "When the term applies to effects produced on another, it seems to imply any strong excitement of mind, whether for hope or fear."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How long dost thou make us to doubt?" - The Jews, in their impatience, express their frustration with Jesus for keeping them in suspense. This quote highlights the tension and anticipation surrounding Jesus' identity as the Christ.
 
 2. "If thou be the Christ, tell us plainly" - The Jews demand a clear and direct declaration from Jesus about whether he is the Christ. This quote emphasizes their desire for a straightforward answer, even though they had already witnessed evidence of his divinity.
@@ -54,4 +54,4 @@ The hostile Jews, fueled by their desire to undermine Jesus' credibility, demand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

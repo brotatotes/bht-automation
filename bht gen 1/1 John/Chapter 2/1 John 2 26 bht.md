@@ -4,7 +4,7 @@
 In this verse, the writer emphasizes the significance of the following message, indicating its importance and the need to pay close attention. They also highlight the continuity of the author's teachings, indicating that this verse is a continuation of previous teachings. It is mentioned that there are those who are attempting to mislead and deceive, urging caution and discernment. The verse also highlights the role of leaders in protecting and guiding believers against deception, emphasizing the need for vigilance.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "These things— ( :-)." - This quote emphasizes the importance of the following message, indicating that what is about to be written is significant and should be paid attention to.
 
 2. "have I written—resumed from 1 John 2:21; 1 John 2:14." - This quote highlights the continuity of the author's message, indicating that the current writing is a continuation of previous teachings, reinforcing the consistency of the author's message.
@@ -42,4 +42,4 @@ In this verse, the writer emphasizes the significance of the following message, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

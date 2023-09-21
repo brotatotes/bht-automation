@@ -9,7 +9,7 @@ In this verse, the commentators share insights on the dangers of being deceived 
 2. "In his versatility (or subtlety), your thoughts be corrupted from your simplicity and your chastity towards Christ."
 3. "εἰς χρ. is not = ἐν χριστῷ, as Vulg., E. V., Beza, Calvin, al."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His source of fear was their yielding character."
 2. "Subtilty—the utter foe of the 'simplicity' which is intent on ONE object, Jesus, and seeks none 'other,' and no 'other' and different Spirit."
 3. "Where Eve first gave way, was in mentally harboring for a moment the possibility insinuated by the serpent, of GOD not having her truest interests at heart, and of this 'other' professing friend being more concerned for her than God."
@@ -59,4 +59,4 @@ In this verse, the commentators share insights on the dangers of being deceived 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentator emphasizes the importance of unity and harmony wi
 2. "The members may have the same care for one another." 
 3. "The verb is plur., on account of the personification of the individual members."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No schism—no disunion; referring to the 'divisions' noticed (1 Corinthians 11:18)."
 2. "Care one for another—that is, in behalf of one another."
 3. "No schism—no disunion; referring to the 'divisions' noticed (1 Corinthians 11:18)."
@@ -35,4 +35,4 @@ In this verse, the commentator emphasizes the importance of unity and harmony wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

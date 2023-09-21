@@ -4,7 +4,7 @@
 In this verse, we are urged to go a step further, even if compelled to do so, to show a willingness to submit to unreasonable demands. Commentators mention how this practice references the Roman and Persian custom of pressing people and beasts into service. It is emphasized that enduring double hardship, even in unjust situations, is valuable for the sake of peace. The advice to comply rather than quarrel is seen as an admirable approach, even acknowledged in a blasphemous Jewish text.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And whosoever shall compel thee to go a mile, go with him twain—an allusion, probably, to the practice of the Romans and some Eastern nations, who, when government despatches had to be forwarded, obliged the people not only to furnish horses and carriages, but to give personal attendance, often at great inconvenience, when required." 
 
 2. "But the thing here demanded is a readiness to submit to unreasonable demands of whatever kind, rather than raise quarrels, with all the evils resulting from them." 
@@ -35,4 +35,4 @@ In this verse, we are urged to go a step further, even if compelled to do so, to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

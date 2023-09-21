@@ -9,7 +9,7 @@ In this verse, we see the intense conflict within Jesus as he contemplates the a
 2. "The prayer is a veritable prayer; and answers to the prophetic Messianic prayers in the Psalms, which thus run 'My soul is troubled; Lord, help me'." 
 3. "'The going into, and exhausting this hour, this cup, is the very appointed way of my glorification.' Das Hineinkommen ist selbst das Hindurchkommen, das Leiden selbst die Erldsung!"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Strange view of the Cross this, immediately after representing it as the hour of His glory!"
 2. "The death of the cross was, and could not but be, appalling to His spirit. But to shrink from absolute subjection to the Father, was worse still."
 3. "The sentiment conveyed, then, by the prayer, in both cases, is twofold: (1) that only one thing could reconcile Him to the death of the cross—its being His Father's will He should endure it—and (2) that in this view of it He yielded Himself freely to it."
@@ -55,4 +55,4 @@ In this verse, we see the intense conflict within Jesus as he contemplates the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

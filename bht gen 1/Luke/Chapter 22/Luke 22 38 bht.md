@@ -9,7 +9,7 @@ In this Bible verse, the disciples misunderstood Jesus' words about swords. They
 2. "Chrysostom gives a curious explanation of the two swords: 'εἰκὸς οὖν καὶ μαχαίρας εἶναι ἐκεῖ διὰ τὸ ἀρνίον.' This certainly agrees with the number of the disciples sent to get ready the Passover."
 3. "Our Lord breaks off the matter with ἱκανόν ἐστιν, 'It is enough;' not 'they are sufficient;' but, 'It is well, we are sufficiently provided.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "two swords . . . enough" - This statement reveals the disciples' misunderstanding of Jesus' intentions. They interpreted His words literally, thinking that He was referring to the need for self-defense in the present moment. However, Jesus had a deeper meaning in mind.
 2. "His answer showed He meant something else" - Jesus' response to the disciples' statement about having two swords indicated that He had a different purpose in mind. He was not concerned with physical defense but had a greater plan that would soon unfold.
 3. "AGONY IN THE GARDEN" - This phrase hints at the upcoming events in the Garden of Gethsemane, where Jesus would experience intense anguish and pray fervently before His arrest. It serves as a reminder of the weight of the sacrifice He was about to make for humanity.
@@ -48,4 +48,4 @@ In this Bible verse, the disciples misunderstood Jesus' words about swords. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, we see a depiction of the treatment of God's messengers throughout history. The commentators explain that the servants sent by God, representing the prophets, were often mistreated and even killed by those in positions of power. It reveals the obstinate malice of the religious leaders who repeatedly rejected God's message. Despite this persecution, God continued to send His messengers, fighting against their cruelty. The verse highlights the recurring theme of persecution and rejection faced by those who faithfully deliver God's message, an act that deserves reverence and honor.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And the husbandmen took his servants, and beat one—see Jeremiah 37:15; Jeremiah 38:6." 
 2. "and killed another—see Jeremiah 26:20-23." 
 3. "and stoned another—see 2 Chronicles 24:21. Compare with this whole verse Matthew 21:35; Matthew 23:37, where our Lord reiterates these charges in the most melting strain."
@@ -35,4 +35,4 @@ In this verse, we see a depiction of the treatment of God's messengers throughou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse describes the blessing and praise given to the God and Father of our 
 2. "This hope of the Christian 'has life in itself, gives life, and looks for life as its object.'"
 3. "The resurrection of Christ, bringing in life and the gift or the life-giving Spirit, is that which potentiates the new birth unto a living hope."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed—A distinct Greek word (eulogetos, 'Blessed BE') is used of God, from that used of man (eulogemenos, 'Blessed IS')."
 2. "That God's 'mercy' should reach us, guilty and enemies, proves its fulness. 'Mercy' met our misery; 'grace,' our guilt."
 3. "Faith, the subjective means of the spiritual resurrection of the soul, is wrought by the same power whereby Christ was raised from the dead."
@@ -55,4 +55,4 @@ This verse describes the blessing and praise given to the God and Father of our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

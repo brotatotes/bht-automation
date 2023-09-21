@@ -9,7 +9,7 @@ In this Bible verse, different commentators highlight the varied motivations and
 2. "These men preached Christ, and thus forwarded pro tanto the work of the Gospel, however mixed their motives may have been, or however imperfect their work." 
 3. "In this I rejoice, yea and I shall rejoice."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Notwithstanding their unkind thought to me, and self-seeking intention, the cause I have at heart is furthered 'every way' of preaching, 'whether in pretense or in truth, Christ is proclaimed; and therein I do rejoice, yea, and I will rejoice.'" 
 
 2. "From this it would seem that these self-seeking teachers in the main 'proclaimed Christ,' not 'another Gospel,' such as the Judaizers in Galatia taught."
@@ -57,4 +57,4 @@ In this Bible verse, different commentators highlight the varied motivations and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

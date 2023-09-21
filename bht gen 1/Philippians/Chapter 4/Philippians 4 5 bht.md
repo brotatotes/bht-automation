@@ -1,7 +1,7 @@
 # Philippians 4:5 Commentary Help Text
 
 ## BHT:
-Combining insights from commentators such as John Wesley, John Gill, Archibald T. Robertson, Philip Schaff, Calvin, Marvin Vincent, Albert Barnes, Jamieson Fausset Brown, and Henry Alford, this verse calls believers to showcase their faith through their behavior. It emphasizes the importance of moderation, forbearance, clemency, and gentleness in our dealings with others. It reminds us of the nearness of the Lord, urging us to live in a way that reflects His imminent presence and judgment. By demonstrating equity, humanity, patience, and kindness towards all, believers can glorify God and set themselves apart as true followers of Christ.
+Combining insights from commentators such as John Wesley, John Gill, Archibald T. Robertson, Philip Schaff, Calvin, Marvin Vincent, Albert Barnes, Jamieson-Fausset-Brown, and Henry Alford, this verse calls believers to showcase their faith through their behavior. It emphasizes the importance of moderation, forbearance, clemency, and gentleness in our dealings with others. It reminds us of the nearness of the Lord, urging us to live in a way that reflects His imminent presence and judgment. By demonstrating equity, humanity, patience, and kindness towards all, believers can glorify God and set themselves apart as true followers of Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,7 +9,7 @@ Combining insights from commentators such as John Wesley, John Gill, Archibald T
 2. "The ἐπιεικής as ὁ μὴ ἀκριβοδίκαιος ἐπὶ τὸ χεῖρον." 
 3. "The universality of it justifies its application even to those described above, that though warned against them, they were to show all moderation and clemency towards them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Moderation is the considerateness for others, not urging one's own rights to the uttermost, but waiving a part, and thereby rectifying the injustices of justice." 
 2. "The archetype of this grace is God, who presses not the strictness of His law against us as we deserve, though having exacted the fullest payment for us from our Divine Surety."
 3. "Let this grace 'be known' to men in acts; let 'your requests be made to God' in word, unto all men, even to the 'perverse,' that so ye may win them."
@@ -59,4 +59,4 @@ These quotes highlight the importance of demonstrating fairness and patience in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

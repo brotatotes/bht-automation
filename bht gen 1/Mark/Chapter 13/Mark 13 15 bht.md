@@ -4,7 +4,7 @@
 In a time of imminent danger and destruction, this verse urges individuals to prioritize their safety above all else. The urgency of the situation demands swift action, without hesitation or delay. It serves as a reminder to detach from worldly possessions and comforts, emphasizing the need to focus on personal well-being and seek refuge in God's protection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let him that is on the housetop not get down into the house, neither enter therein, to take any thing out of his house." - This verse emphasizes the urgency of the situation and warns against the temptation to prioritize material possessions over personal safety.
 
 2. "A graphic way of denoting the extreme urgency of the case." - The commentary highlights the vivid imagery used in the verse to convey the seriousness of the situation.
@@ -36,4 +36,4 @@ In a time of imminent danger and destruction, this verse urges individuals to pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

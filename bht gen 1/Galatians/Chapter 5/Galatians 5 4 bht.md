@@ -11,7 +11,7 @@ In this Bible verse, we see a stern warning against seeking justification throug
 
 (Note: The commentary is quite lengthy and complex, so it was challenging to find concise quotes that could stand alone. However, these quotes capture some key ideas about being cut off from Christ, seeking justification, and falling from grace.)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your connection with Christ has become void."
 2. "Grace and legal righteousness cannot co-exist."
 3. "Any that seeks to fulfill the law for justifying righteousness severs themselves from the grace which flows from Christ's fulfillment of it."
@@ -59,4 +59,4 @@ In this Bible verse, we see a stern warning against seeking justification throug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

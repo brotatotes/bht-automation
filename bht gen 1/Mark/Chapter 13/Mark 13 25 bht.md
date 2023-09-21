@@ -9,7 +9,7 @@ In this verse, there is a sense of impending doom and destruction. The commentat
 2. "Our Evangelist omits the mourning of the tribes of the earth."
 3. "Our Evangelist omits... the seeing the sign of the Son of Man."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Upon the earth distress of nations, with perplexity; the sea and the waves roaring; men's hearts failing them for fear, and for looking after those things which are coming on the earth." (Luke 21:25; Luke 21:26)
 2. "Though the grandeur of this language carries the mind over the head of all periods but that of Christ's Second Coming, nearly every expression will be found used of the Lord's coming in terrible national judgments." 
 3. "We cannot therefore consider the mere strength of this language a proof that it refers exclusively or primarily to the precursors of the final day, though of course in 'that day' it will have its most awful fulfillment."
@@ -37,4 +37,4 @@ In this verse, there is a sense of impending doom and destruction. The commentat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

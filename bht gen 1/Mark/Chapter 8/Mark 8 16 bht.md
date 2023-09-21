@@ -4,7 +4,7 @@
 In this verse, there is a deep sense of hurt and disappointment that Jesus feels towards His disciples' lack of understanding. The commentators highlight the disciples' low spiritual perception and their preoccupation with physical needs. The verse emphasizes the need for the disciples to look beyond the material and recognize the deeper spiritual truths that Jesus is trying to convey. It is a reminder to prioritize spiritual understanding above all else, as the insights gained are of immense value.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The nine questions following each other in rapid succession show how deeply He was hurt at this want of spiritual apprehension, and worse still, their low thoughts of Him."
 2. "It will be seen, however, from the very form of their conjecture, 'It is because we have no bread,' and our Lord's astonishment that they should not by that time have known better with what He took up His attention—that He ever left the whole care for His own temporal wants to the Twelve."
 3. "Who that, like angels, 'desire to look into these things' will not prize such glimpses above gold?"
@@ -28,4 +28,4 @@ In this verse, there is a deep sense of hurt and disappointment that Jesus feels
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

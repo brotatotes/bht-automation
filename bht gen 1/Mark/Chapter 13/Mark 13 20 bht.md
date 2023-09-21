@@ -4,7 +4,7 @@
 This verse reminds us of God's sovereignty and control over human history. It warns believers to remain steadfast in faith through trials and tribulations, as God chooses and separates them from the world. His mercy and grace are shown as He shortens the days of tribulation for the sake of His chosen ones, ensuring that a remnant will be saved and fulfill His purpose. Ultimately, God's selection and choices are for His own glory and the fulfillment of His plans.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But for this merciful 'shortening,' brought about by a remarkable concurrence of causes, the whole nation would have perished, in which there yet remained a remnant to be afterwards gathered out."
 2. "A time is coming when Jerusalem shall cease to be 'trodden down of the Gentiles'; which it was then by pagan, and since and till now is by Mohammedan unbelievers."
 3. "'Till the fulness of the Gentiles be come in'—or, in our Lord's phraseology, 'till the times of the Gentiles be fulfilled'—does not mean 'till the general conversion of the world to Christ,' but 'till the Gentiles have had their full time of that place in the Church which the Jews had before them.'"
@@ -34,4 +34,4 @@ These quotes highlight the concept of God choosing and separating Christians fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

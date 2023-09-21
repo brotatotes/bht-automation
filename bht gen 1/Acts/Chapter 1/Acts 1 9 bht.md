@@ -9,7 +9,7 @@ In this verse, the account of the ascension of Jesus is described. The commentat
 2. "ἐπήρθη 'was taken up,' we may understand of the commencing ascent ... ὑπέλαβεν by a pregn. constr involves the idea of away as well as up, and hence takes after it ἀπό. This verb describes the close of the scene, as far as it was visible to the spectators."
 3. "There was a manifest propriety in the last withdrawal of the Lord, while ascending, not consisting in a disappearance of His Body, as on former occasions since the Resurrection; for thus might His abiding Humanity have been called in question. As it was, He went up, past the visible boundary of Heaven, the cloud, in human form, and so we think of and pray to Him."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "While they beheld, he was taken up—See on Acts 1:2. Lest it should be thought He had disappeared when they were looking in some other direction, and so was only concluded to have gone up to heaven, it is here expressly said that 'while they were looking He was taken up, and a cloud received Him out of their sight.'" 
 
 2. "So Elijah, 'If thou see me when I am taken from thee' (2 Kings 2:10); 'And Elisha saw it' (2 Kings 2:12)."
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

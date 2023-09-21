@@ -9,7 +9,7 @@ This passage emphasizes that those who have faith, like Abraham, are the true he
 2. "Those who are of faith, as the origin and the ἀφορμή of their spiritual life."
 3. "These, and these only, not οἱ ἐξ ἔργων."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "they which are of faith—as the source and starting-point of their spiritual life."
 2. "the same—these, and these alone, to the exclusion of all the other descendants of Abraham."
 3. "children—Greek, 'sons' (Galatians 3:29)."
@@ -55,4 +55,4 @@ These quotes emphasize the clarity and certainty of the truth that those who hav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the speaker assures their listeners that certain trials and suffe
 2. "This declaration, as here meant, was not made before, because He was with them. Then clearly it is now made, in reference to His immediate departure."
 3. "To that full and complete account of the world’s motives, and their own office, and their comfort under it, which He has been giving them."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He had said it pretty early (Luke 6:22), but not quite as in John 16:2." 
 2. "These things I said not... from the beginning." 
 3. "Because I was with you."
@@ -54,4 +54,4 @@ In this verse, the speaker assures their listeners that certain trials and suffe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

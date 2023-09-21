@@ -9,7 +9,7 @@ In this vision, it appeared to Peter as if all of creation was gathered together
 2. "Peter follows the more strictly Jewish division."
 3. "The sense of the article is carried on from 'τὰ τετρ.' to the subsequent words."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The verse highlights the mixing of clean and unclean animals, symbolizing the breaking down of barriers and the inclusion of all creatures in God's plan of salvation."
 
 2. "This verse challenges the traditional understanding of clean and unclean animals, suggesting that God's grace extends to all creatures, regardless of their ceremonial status."
@@ -50,4 +50,4 @@ In this vision, it appeared to Peter as if all of creation was gathered together
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

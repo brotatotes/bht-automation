@@ -9,7 +9,7 @@ In the midst of their limited understanding and expectations, the disciples pers
 2. "Their fault was, a too curious enquiry on a point reserved among the arcana of God."
 3. "The pres. ἀποκαθιστάνεις, is that so often used in speaking with reference to matters of prophecy, importing fixed determination: as in ὁ ἐρχόμενος (ref. Mt.) and the like."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doubtless their carnal views of Messiah's kingdom had by this time been modified." 
 2. "But, as they plainly looked for some restoration of the kingdom to Israel, so they are neither rebuked nor contradicted on this point." 
 3. "Their question reveals their lingering expectation of a political and earthly kingdom, but Jesus does not dismiss or condemn their desire for restoration."
@@ -53,4 +53,4 @@ In the midst of their limited understanding and expectations, the disciples pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

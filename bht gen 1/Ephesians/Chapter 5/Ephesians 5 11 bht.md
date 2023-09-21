@@ -9,7 +9,7 @@ The Bible verse in question emphasizes the need for believers to distance themse
 2. "Vices end and perish in themselves, while virtues bear fruit and overflow." 
 3. "Not only abstain from fellowship with them, but attack them and put them to shame."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Sins are terminated in themselves, and therefore are called 'works,' not 'fruits'... Their only fruit is that which is not in a true sense fruit, namely, 'death'." 
 
 2. "Plants cannot bear 'fruit' in the absence of light. Sin is 'darkness,' and its parent is the prince of darkness." 
@@ -63,4 +63,4 @@ The Bible verse in question emphasizes the need for believers to distance themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

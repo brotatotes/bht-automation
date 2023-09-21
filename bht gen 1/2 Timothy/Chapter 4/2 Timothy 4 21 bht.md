@@ -4,7 +4,7 @@
 In this verse, the urgency for Timothy to visit Paul before winter is emphasized. The inclusion of various individuals' names suggests the interconnectedness and diversity of the early Christian community. It is believed that these individuals were converts and associates of the apostle Paul, highlighting the personal relationships and community that existed in the early Christian movement. The verse also reflects the practicality and necessity of Timothy's visit due to the dangers of winter navigation and the specific circumstances of the Apostle Paul.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul would need his 'cloak' against the winter." 
 2. "Pudens and Claudia, husband and wife, he a Roman knight, she a Briton, surnamed Rufina."
 3. "Pomponia, wife of Aulus Plautius, conqueror of Britain, was accused of foreign superstitions, probably Christianity."
@@ -42,4 +42,4 @@ In this verse, the urgency for Timothy to visit Paul before winter is emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

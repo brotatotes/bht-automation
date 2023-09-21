@@ -4,7 +4,7 @@
 The verse being described is a call to unwavering faith in God, emphasizing the importance of trusting in His power and promises. It highlights God as the object of faith and encourages believers to rely on His sovereignty. The incident with the cursed fig tree serves as a lesson to have genuine faith and bear spiritual fruit. The verse also alludes to the idea that with unwavering faith, seemingly impossible obstacles can be overcome. Overall, the verse teaches us to trust in God, recognize His authority, and have faith in His divine plan.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus' response to his disciples' amazement at the withered fig tree is a call to have unwavering faith in God. It is a reminder that faith is not just a passive belief, but an active trust and reliance on God's power and promises."
 
 2. "By telling his disciples to have faith in God, Jesus is emphasizing the importance of a deep and genuine trust in God's character and ability. It is a call to surrender our doubts and fears, and to place our confidence in God's faithfulness and sovereignty."
@@ -41,4 +41,4 @@ The verse being described is a call to unwavering faith in God, emphasizing the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

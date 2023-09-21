@@ -9,7 +9,7 @@ This verse showcases the power of genuine connection and effective communication
 2. "It is a treasure-house of words, idioms, and sentiments, peculiarly belonging to the Apostle himself."
 3. "Many of these appear in the reff., but many more lie beneath the surface, and can only be discovered by a continuous and verbal study of his Epistles."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye know... after what manner I have been with you at all seasons." - The apostle Paul appeals to the Corinthians' firsthand knowledge of his conduct, emphasizing his consistency in his relationship with them. This highlights the importance of integrity and faithfulness in one's interactions with others.
 
 2. "For the Christian integrity and fidelity of his whole official intercourse with them he appeals to themselves." - Paul's appeal to the Corinthians underscores the significance of maintaining a high standard of conduct in Christian leadership. It serves as a reminder that leaders should be accountable to those they serve and should strive for integrity in all aspects of their ministry.
@@ -56,4 +56,4 @@ This verse showcases the power of genuine connection and effective communication
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

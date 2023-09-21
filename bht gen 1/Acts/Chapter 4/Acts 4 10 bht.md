@@ -9,7 +9,7 @@ In this powerful passage, a significant proclamation is made to the people of Is
 2. "Stands, as in E.V. He was there present."
 3. "The omission of the copula emphasizes the contrast between the subject and the action."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be it known unto you . . . and to all the people of Israel" - The commentary highlights the significance of this statement, emphasizing that it is a formal judicial testimony to the entire nation through its rulers. This suggests that the message being conveyed is of great importance and should be taken seriously.
 
 2. "By the name of Jesus" - This quote draws attention to the power and authority associated with the name of Jesus. It suggests that the healing of the man is attributed to the name of Jesus, indicating the divine nature of the act.
@@ -45,4 +45,4 @@ In this powerful passage, a significant proclamation is made to the people of Is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

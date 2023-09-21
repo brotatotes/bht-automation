@@ -4,7 +4,7 @@
 In this mysterious verse, the reed is seen as a strong measuring tool, symbolizing the powerful medium of God's speech through Scripture. The temple mentioned is not the literal one in Jerusalem, but rather represents the church as the abode of God on earth. The act of measuring with the reed signifies an investigation into prevailing views in the church, particularly in regard to atonement and justification. The verse's imagery and language address Jews, invoking their understanding of the temple and the role of Scripture as their rule of faith.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The reed, the canon of Scripture, the measuring reed of the Church, our rule of faith, speaks."
 2. "The Spirit speaks in the canon of Scripture."
 3. "The measurement of the Holy place seems to me to stand parallel to the sealing of the elect of Israel under the sixth seal."
@@ -40,4 +40,4 @@ In this mysterious verse, the reed is seen as a strong measuring tool, symbolizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

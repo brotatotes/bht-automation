@@ -9,7 +9,7 @@ This Bible verse describes the conflicted emotions and choices of the speaker. O
 2. "For it is by far better." 
 3. "To continue in my flesh is more needful on account of you."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know not, BUT am in a strait betwixt the two, having the desire for departing and being with Christ; FOR it is by far better" - This quote highlights the apostle's dilemma between wanting to continue living and desiring to be with Christ, emphasizing the belief in the afterlife and the preference for being in the presence of Christ.
 
 2. "This refutes the notion of the soul being dormant during its separation from the body" - This quote challenges the idea that the soul is inactive or unconscious after death, suggesting that the apostle believed in the continued existence and consciousness of the soul after departing from the body.
@@ -57,4 +57,4 @@ This Bible verse describes the conflicted emotions and choices of the speaker. O
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, commentators elaborate on the concept that God does not hea
 2. "(Joh 9:32) very eminently so, since this miracle was unprecedented."
 3. "John 9:32, says Meyer, is the minor proposition: John 9:33, the conclusion; both in a popular form."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The allusion to his being 'born in sins' seems a tacit admission of his being blind from birth—the very thing they had been so unwilling to own."
 2. "But rage and enmity to truth are seldom consistent in their outbreaks."
 3. "There was a word for him too, which, if whispered in his ear from the oracles of God, would seem expressly designed to describe his case, and prepare him for the coming interview with his gracious Friend."
@@ -48,4 +48,4 @@ In this Bible verse, commentators elaborate on the concept that God does not hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

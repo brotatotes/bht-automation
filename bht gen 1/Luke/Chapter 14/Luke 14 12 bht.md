@@ -4,7 +4,7 @@
 When Christ warns against inviting only friends, relatives, and wealthy neighbors to a feast, He encourages us to transcend ordinary fellowship and practice a higher duty of charity as explained by commentators. He exposes the superficiality of seeking the company of the wealthy and instead commends showing kindness to the poor. By extending our generosity to those in need, we demonstrate genuine charity and selflessness, rejecting the idea of expecting reward or repayment. This teaching challenges us to embrace the true spirit of hospitality and consider the needs of others above our own interests, ultimately invoking blessings upon ourselves.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus certainly did not mean us to dispense with the duties of ordinary fellowship, but, remitting these to their proper place, inculcates what is better."
 2. "A fear the world is not afflicted with."
 3. "The meaning, however, is that no exercise of principle is involved in it, as selfishness itself will suffice to prompt to it."
@@ -48,4 +48,4 @@ When Christ warns against inviting only friends, relatives, and wealthy neighbor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

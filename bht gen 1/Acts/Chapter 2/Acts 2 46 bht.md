@@ -9,7 +9,7 @@ In the early days of the Christian community, believers gathered in unity and de
 2. "The κλάσις τ . ἄρτου took place at their house of meeting, wherever that was: cf. ch. Acts 12:12; and see Act 2:42 note."
 3. "ἀφελότητι: In good Greek, ἀφέλεια: the adj. ἀφελής (see Palm and Rost) originally implying 'free from stones or rocks' and thus simple, even, pure."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Observing the hours of Jewish worship." 
 2. "Breaking bread from house to house." 
 3. "Eating their meat with gladness and singleness of heart."
@@ -56,4 +56,4 @@ In the early days of the Christian community, believers gathered in unity and de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

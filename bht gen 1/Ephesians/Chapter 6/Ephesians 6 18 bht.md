@@ -4,7 +4,7 @@
 In this verse, we are encouraged to have a diverse and constant prayer life. Prayer is described as the chief exercise of faith and hope, crowning our efforts and ensuring victory. It is a powerful and varied weapon, to be used in all seasons and on every occasion. Our prayers should be earnest, performed with unabated ardor and unwavering perseverance. We are called to pray in the Spirit, engaging our heart, soul, and spirit, seeking the best for ourselves and interceding for the well-being of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Prayer" for obtaining blessings, "supplication" for averting evils which we fear.
 2. It is he in us, as the Spirit of adoption, who prays, and enables us to pray.
 3. Persevering constancy ("perseverance") and supplication are to be the element in which our watchfulness is to be exercised.
@@ -48,4 +48,4 @@ In this verse, we are encouraged to have a diverse and constant prayer life. Pra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

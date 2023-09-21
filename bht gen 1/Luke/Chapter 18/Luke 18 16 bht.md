@@ -4,7 +4,7 @@
 The verse being described here portrays the scene where Jesus encourages the presence of children and blesses them, stating that the kingdom of God belongs to those who possess childlike qualities. Commentators highlight the importance of allowing children to approach Jesus and caution against hindering their access to Him. The verse emphasizes the inclusive nature of the kingdom, open to all who exhibit the humility, trust, and dependence of a child. It also encourages adults to emulate these characteristics in order to fully embrace the kingdom of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "SUFFER THE LITTLE CHILDREN TO COME UNTO ME"—"AND FORBID THEM NOT," is the important addition of Matthew (Matthew 19:14) and Mark (Matthew 19:14- :). What words are these from the lips of Christ! The price of them is above rubies.
 2. It is surely not to be conceived that all our Lord meant was to inform us, that seeing grown people must become childlike in order to be capable of the Kingdom of God, therefore they should not hinder infants from coming to Him, and therefore He took up and blessed the infants themselves.
 3. But such application of the baptismal water can have no warrant here, save where the infants have been previously brought to Christ Himself for His benediction, and only as the sign and seal of that benediction.
@@ -39,4 +39,4 @@ The verse being described here portrays the scene where Jesus encourages the pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

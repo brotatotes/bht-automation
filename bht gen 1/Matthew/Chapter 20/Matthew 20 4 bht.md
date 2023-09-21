@@ -4,7 +4,7 @@
 This verse portrays a parable demonstrating that God's generosity is not based on human merit but on His grace and wisdom. It challenges the human tendency to compare ourselves with others and reminds us to trust in God's perfect plan. The payment in this parable is not fixed, but depends on the judgment of the employer, reflecting the subjective nature of God's rewards. It emphasizes that salvation is a gift of grace, not earned through works, inviting us to have faith and depend on divine goodness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The parable teaches us that God's generosity is not based on our merit or worthiness, but on His grace and goodness. He gives to each according to His own wisdom and purpose, not according to our expectations or desires." 
 
 2. "This parable challenges our human tendency to compare ourselves with others and feel entitled to more. It reminds us that God's ways are higher than our ways, and His thoughts are higher than our thoughts. We should be grateful for what He has given us and trust in His perfect plan for our lives." 
@@ -37,4 +37,4 @@ This verse portrays a parable demonstrating that God's generosity is not based o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

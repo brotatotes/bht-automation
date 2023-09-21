@@ -9,7 +9,7 @@ In the depiction of the Bible verse, the imagery of the souls under the altar in
 2. "The cry of the martyrs’ blood has been ever going up before God since Stephen fell: ever and anon, at some great time of persecution, it has waxed louder: and so on through the ages it shall accumulate and gather strength, till the great issue of the parable Luke 18:1 ff. is accomplished."
 3. "The white robe, in this book, is the vestment of acknowledged and glorified righteousness in which the saints walk and reign with Christ: this was given to the martyrs: but their prayer for vengeance was not yet granted."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The three last seals relate to the invisible, as the first four to the visible world."
 2. "The souls of those sacrificed for Christ's testimony are symbolically represented as under the altar, in heaven."
 3. "The only altar in heaven is that antitypical to the temple altar of incense. The blood of the martyrs cries from the earth under Christ's cross, whereon they may be considered virtually to have been sacrificed; their souls cry from under the altar of incense, which is Christ in heaven."
@@ -45,4 +45,4 @@ In the depiction of the Bible verse, the imagery of the souls under the altar in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

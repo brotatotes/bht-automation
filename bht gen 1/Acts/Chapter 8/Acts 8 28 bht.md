@@ -9,7 +9,7 @@ In this passage, a traveler is reading from the Scriptures, most likely the Gree
 2. "The word περιοχή below is not decisive against this, as it would naturally be used as well of one as the other by those cognizant of the term."
 3. "Besides, must there not have been περιοχαί in the copies of the LXX read in the synagogues?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It says much for his fidelity and value to his royal mistress that he had such liberty."
 2. "But the faith in Jehovah and love of His worship and word, with which he was imbued, sufficiently explain this."
 3. "He beguiles the tedium of the journey homeward by reading the Scriptures."
@@ -48,4 +48,4 @@ In this passage, a traveler is reading from the Scriptures, most likely the Gree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

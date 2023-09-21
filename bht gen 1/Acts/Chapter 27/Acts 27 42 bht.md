@@ -9,7 +9,7 @@ In this passage, various commentators shed light on the counsel described. They 
 2. "Their counsel was, to kill, &c.: this it was, and to this it tended."
 3. "The subjunctive after the past is merely a mixture of construction of the historic past with the historic present, and is used where the scene is intended to be vividly set before the reader."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Roman cruelty, which made the keepers answerable for their prisoners with their own lives"
 2. "The soldiers' counsel was to kill the prisoners, lest any should escape"
 3. "This cruel proposal reflects the Roman cruelty"
@@ -50,4 +50,4 @@ In this passage, various commentators shed light on the counsel described. They 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

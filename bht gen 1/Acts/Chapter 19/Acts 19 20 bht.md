@@ -9,7 +9,7 @@ In Ephesus, the word of God triumphed with undeniable force and influence. It br
 2. "Hinc lucem mutuatur locus, Acts 19:20, ubi dicitur verbum Domini κατὰ κράτος ἰσχύειν, per vim invalescere." (Translation: "Hence the passage in Acts 19:20 borrows light, where it is said that the word of the Lord prevails by force, to grow strong by violence.")
 3. "quasi oppugnans et vi expugnans corda hominum." (Translation: "as if attacking and conquering the hearts of men by force.")
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many that believed came and confessed . . . their deeds—the dupes of magicians, &c." - This quote highlights the humility and repentance of those who had been deceived by false practices. It emphasizes the importance of acknowledging one's mistakes and seeking forgiveness.
 
 2. "Acknowledging how shamefully they had been deluded" - This quote emphasizes the recognition of the individuals' own gullibility and the realization of the extent to which they had been deceived. It underscores the need for discernment and caution in spiritual matters.
@@ -58,4 +58,4 @@ Overall, these quotes shed light on the strength, transformative power, and triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

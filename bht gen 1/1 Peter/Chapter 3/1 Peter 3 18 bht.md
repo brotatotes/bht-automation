@@ -9,7 +9,7 @@ The sufferings of Christ, exemplified in His innocence and selfless sacrifice, a
 2. "He, the sinless One, suffered for sins; as a sacrifice for sin, as a sinner, made sin for us, dying the death of a criminal."
 3. "He might bring us near to God, put to death indeed in the flesh, but made alive in the spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His death brought the best issue to Himself and to us."
 2. "It is 'better' for us also once to suffer with Christ, than forever without Christ."
 3. "He brings us, 'the unjust,' justified together with Him into heaven."
@@ -55,4 +55,4 @@ Note: The commentary provides additional insights into the Greek language used i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

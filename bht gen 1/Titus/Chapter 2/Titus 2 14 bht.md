@@ -4,7 +4,7 @@
 The verse described in these commentaries speaks of the self-sacrificing nature of Jesus Christ, who gave himself for humanity's redemption. It emphasizes that through his sacrifice, Jesus not only freed us from the punishment and guilt of our sins but also delivered us from the bondage and power of sin itself. This act of love and redemption is unique to Christ and sets believers apart as a chosen and sanctified people, called to live transformed lives marked by good works and devotion to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The forcible 'Himself, His whole self, the greatest gift ever given,' must not be overlooked."
 2. "An appropriate image in addressing bond-servants: from all iniquity—the essence of sin, namely, 'transgression of the law': in bondage to which we were till then."
 3. "The aim of His redemption was to redeem us, not merely from the penalty, but from the being of all iniquity."
@@ -47,4 +47,4 @@ The verse described in these commentaries speaks of the self-sacrificing nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse under consideration highlights the necessity of death in the fulfillme
 2. "The Writer has in his mind the transition which he is about to make from the death of the New Testament to the typical deaths of the Old." 
 3. "The question introduces an unnecessary harshness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Upon the death of the testators" - This phrase highlights the significance of the event that triggers the validity of the will, emphasizing the importance of the testators' passing.
 2. "Seeing that it is never availing" - This phrase suggests that the will is ineffective as long as the testator is alive, emphasizing the necessity of their death for the will to take effect.
 3. "Since, is it ever in force (surely not) while the testator liveth?" - This rhetorical question emphasizes the impossibility of the will being in effect while the testator is alive, further emphasizing the crucial role of the testator's death in activating the will.
@@ -47,4 +47,4 @@ Note: The commentary provides an interpretation of the verse, emphasizing the id
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

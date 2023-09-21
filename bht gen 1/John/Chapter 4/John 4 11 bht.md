@@ -4,7 +4,7 @@
 This passage depicts a conversation between Jesus and a Samaritan woman who is skeptical of his claim to offer "living water." The woman's astonishment is evident as she questions how Jesus, a Jew, could request water from her, a Samaritan. Her disbelief is further accentuated by her comments about the absence of means to draw water and the depth of the well. Her sarcastic question reveals her skepticism, as she challenges Jesus to provide proof of his claim. This interaction highlights the cultural and religious tensions between Jews and Samaritans, adding depth to the narrative.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "How is it that thou—not altogether refusing, yet wondering at so unusual a request from a Jew, as His dress and dialect would at once discover Him to be, to a Samaritan." 
 2. "It is this national antipathy that gives point to the parable of the good Samaritan (Luke 10:30-37)." 
 3. "The thankfulness of the Samaritan leper (Luke 17:16 Luke 17:18)."
@@ -47,4 +47,4 @@ Note: The commentary is about John 4:11.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

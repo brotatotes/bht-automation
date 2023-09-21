@@ -9,7 +9,7 @@ In this verse, the commentator's insights help us to grasp the significance of t
 2. "The reason of their present shame. For the end of those things is death."
 3. "Death in the widest sense, physical, which has been the end of sin, in which we are all involved, and spiritual and eternal, which will be the end of actual sin if followed out."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What permanent advantage, and what abiding satisfaction, have those things yielded? The apostle answers his own question:—'Abiding satisfaction, did I ask? They have left only a sense of shame.'"
 2. "By saying they were 'now ashamed,' he makes it plain that he is not referring to that disgust at themselves, and remorse of conscience by which those who are the most helplessly 'sold under sin' are often stung to the quick; but that ingenuous feeling of self-reproach, which pierces and weighs down the children of God."
 3. "They think of the dishonor which their past life did to His name, the ingratitude it displayed, the violence it did to their own conscience, its deadening and degrading effects, and the death—the second death—to which it was dragging them down, when mere Grace arrested them."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

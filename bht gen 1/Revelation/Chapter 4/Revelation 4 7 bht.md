@@ -4,7 +4,7 @@
 The verse being described portrays a powerful and wise divine administration. The resemblance to a lion signifies dominion, authority, and the courage of the ministers of the word. The figure of a calf represents the laboriousness, humility, and patience in bearing persecution endured by faithful ministers. As for the face of a man, it highlights the intelligence, wisdom, and understanding within the divine administration, as well as the tender-heartedness and resilience in upholding the Gospel. Hence, the verse encompasses the strength, laboriousness, intelligence, and tenderness within the divine workings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "calf—"a steer" [ALFORD]."
 2. "The Septuagint often uses the Greek term here for an ox (Exodus 22:1; Exodus 29:10, &c.)."
 3. "as a man—The oldest manuscripts have 'as of a man.'"
@@ -43,4 +43,4 @@ The verse being described portrays a powerful and wise divine administration. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described is a cautionary message about the dangers of prioritizing sensual pleasure over love for God. Commentators emphasize the recklessness and passion that can result from this pursuit, leading individuals to become headstrong and high-minded in their pride. By indulging in worldly pleasures, people risk betraying their allegiance to God and losing their sense of His presence. This verse serves as a reminder to maintain a balanced focus, avoiding the allure of pleasure and prioritizing a genuine love and devotion to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Heady—precipitate in action and in passion." 
 2. "High-minded—literally, 'puffed up' with pride, as with smoke blinding them." 
 3. "Lovers of pleasure... God—Love of pleasure destroys the love and sense of God."
@@ -43,4 +43,4 @@ The verse being described is a cautionary message about the dangers of prioritiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

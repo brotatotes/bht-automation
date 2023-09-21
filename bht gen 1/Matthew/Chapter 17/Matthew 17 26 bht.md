@@ -4,7 +4,7 @@
 In this Bible verse, Jesus asserts His freedom from paying the temple tax. Commentators explain that Jesus refers to Himself and the disciples as "the children," highlighting their exemption from this tax. They emphasize that Jesus, as the true Temple and Son of God, is not obligated to pay a tax that supports the house of God and that He is free from the legalistic demands imposed by religious authorities. Jesus confidently declares His exemption, asserting that as the Son of God, He is under no obligation to contribute to His own Father's house.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "By 'the children' our Lord cannot here mean Himself and the Twelve together, in some loose sense of their near relationship to God as their common Father."
 2. "He can refer here, then, only to Himself; using the word 'children' evidently in order to express the general principle observed by sovereigns, who do not draw taxes from their own children."
 3. "This is a tax for upholding My Father's House. As His Son, then, that tax is not due by Me—I AM FREE."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus asserts His freedom from paying the temple tax. Comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

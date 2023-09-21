@@ -9,7 +9,7 @@ The Bible verse being described emphasizes the act of receiving Jesus, which is 
 2. "ἔδωκεν αὐτ. ἐξουσ. is not merely capability = δύναμιν (Lücke), still less privilege or prerogative (Chrysost. and others), but power (De Wette); involving all the actions and states needful to their so becoming, and removing all the obstacles in their way."
 3. "τέκνα θ. γενέσθαι] The spiritual life owes its beginning to a birth from above, ch. John 3:3-7. And this birth is owing to the Holy Spirit of God; so that this is equivalent to saying, 'As many as received Him, to them gave He His Holy Spirit.'"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jesus is the Son of God; He is never said to have become such." 
 2. "The word signifies both authority and ability, and both are certainly meant here." 
 3. "In this sense of supreme faith, as due to Him who 'gives those that believe in Himself power to become sons of God,' it is manifestly used here."
@@ -50,4 +50,4 @@ These quotes highlight the meaning of "receiving" Jesus as believing in him, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

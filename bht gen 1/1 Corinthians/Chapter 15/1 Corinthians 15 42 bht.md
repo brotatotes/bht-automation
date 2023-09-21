@@ -9,7 +9,7 @@ The Bible verse describes the transformation and resurrection of the body after 
 2. "When he could have said 'buried,' he preferred to say 'sown,' so as to emphasize the similarity to what was previously said about the grain." 
 3. "In a state of corruption, in a state of incorruptibility."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A delightful word instead of burial."
 2. "Not merely a prey when dead to corruption."
 3. "Raised in incorruption, that is, not liable to corruption."
@@ -43,4 +43,4 @@ The Bible verse describes the transformation and resurrection of the body after 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

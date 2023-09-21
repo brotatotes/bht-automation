@@ -9,7 +9,7 @@ In this verse, a disciple named Peter boldly declares his faith, acknowledging J
 2. "ὁ υἱὸς τοῦ θεοῦ τοῦ ζῶντος is the Eternal Son, begotten of the Eternal Father, not 'Son of God' in any inferior figurative sense."
 3. "This was a view of the Person of Christ quite distinct from the Jewish Messianic idea, which appears to have been that he should be a man born from men, but selected by God for the office on account of his eminent virtues."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Feeling the light of his Master's glory shining in his soul, he breaks forth... in the language of adoration—such as one uses in worship."
 2. "He first owns Him the promised Messiah, then he rises higher, echoing the voice from heaven—'This is My beloved Son, in whom I am well pleased'."
 3. "In the important addition—'Son of the LIVING GOD'—he recognizes the essential and eternal life of God as in this His Son."
@@ -43,4 +43,4 @@ In this verse, a disciple named Peter boldly declares his faith, acknowledging J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

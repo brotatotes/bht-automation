@@ -4,7 +4,7 @@
 The verse being described is characterized by a writer's reluctance to rely solely on written words to convey important messages, suggesting the need for a deeper, more personal form of communication. The writer expresses a desire for an alternative method of conveying thoughts, implying the existence of a more effective means of communication. Among the specific topics the writer wants to address is the importance of showing hospitality to the poor brethren, highlighting their concern for the well-being of others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The author expresses a desire to refrain from writing further, suggesting a sense of humility and a recognition of the limitations of words in fully capturing the depth and complexity of the subject matter."
 2. "This statement highlights the author's intention to exercise restraint and avoid excessive verbosity, emphasizing the importance of brevity and conciseness in conveying the intended message."
 3. "The use of the Greek phrase 'I wish not to write' implies a deliberate choice to withhold additional information, possibly to leave room for personal reflection and interpretation by the reader."
@@ -39,4 +39,4 @@ Note: The commentary provided is not a complete analysis of the verse. It is rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

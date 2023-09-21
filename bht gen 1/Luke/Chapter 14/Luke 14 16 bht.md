@@ -8,7 +8,7 @@ The Bible verse being described paints a picture of a feast, described as a "gre
 1. "The feast of fat things in Isaiah 25:6; completed in the marriage-supper of the Lamb; but fully prepared when the glad tidings of the gospel were proclaimed." 
 2. "These first κεκλημένοι are the Pharisees and Scribes and learned among the Jews."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "A great supper" is a symbol of the abundant blessings and provisions that God offers to His people. (Isaiah 25:6)
 2. The invitation to the supper is extended to both Jews and those who profess to be disciples of Christ. (Isaiah 25:6)
 3. This verse highlights the inclusivity of God's invitation, emphasizing that it is open to all who are willing to accept it. (Isaiah 25:6)
@@ -49,4 +49,4 @@ The Bible verse being described paints a picture of a feast, described as a "gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

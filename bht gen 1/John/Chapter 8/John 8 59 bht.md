@@ -9,7 +9,7 @@ In this Bible verse, the Jews were furious, believing that Jesus had made himsel
 2. "There does not appear to be any miraculous escape intended here, although certainly the assumption of one is natural under the circumstances."
 3. "Jesus was probably surrounded by His disciples, and might thus hide himself (see ch. Joh 12:36), and go out of the temple."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No inference can be drawn from this as to the age of our Lord at the time as man. Fifty years was with the Jews the completion of manhood."
 2. "He had said Abraham saw Him, as being his peculiar privilege. They give the opposite turn to it—'Hast Thou seen Abraham?' as an honor too great for Him to pretend to."
 3. "They give the opposite turn to it—'Hast Thou seen Abraham?' as an honor too great for Him to pretend to."
@@ -57,4 +57,4 @@ In this Bible verse, the Jews were furious, believing that Jesus had made himsel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described focuses on the distinction between Christians who rely
 2. "Emphasis on πνεύματι, as opposed to σαρκί, the fleshly state of those under the law."
 3. "ἐλπίδα δικαιοσύνης: Is this genitive objective, the hope of righteousness, or subjective, the hope which the righteous entertain viz. that of eternal life?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We wait for the (realization of the) hope (which is the fruit) of the righteousness (that is, justification which comes) by (literally, 'from—out of') faith." 
 2. "This is a farther step than being 'justified'; not only are we this, but 'wait for the hope' which is connected with it, and is its full consummation."
 3. "Righteousness, in the sense of justification, is by the believer once for all already attained: but the consummation of it in future perfection above is the object of hope to be waited for."
@@ -55,4 +55,4 @@ The verse being described focuses on the distinction between Christians who rely
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

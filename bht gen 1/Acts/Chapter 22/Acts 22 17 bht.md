@@ -9,7 +9,7 @@ In this verse, the narrator describes Paul's return to Jerusalem after three yea
 2. "The omission of this vision in Acts 9:26-30 suggests that it was not considered significant enough to be included in the narrative." 
 3. "The fact that Paul did not mention this vision to the other disciples in Jerusalem indicates that he may have regarded it as a personal experience rather than a message to be shared with others."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This thrilling dialogue between the glorified Redeemer and his chosen vessel is nowhere else related." 
 2. "He thus calls their attention to the fact that after his conversion he kept up his connection with the temple as before." 
 3. "It came to pass, &c.—This thrilling dialogue between the glorified Redeemer and his chosen vessel is nowhere else related."
@@ -55,4 +55,4 @@ In this verse, the narrator describes Paul's return to Jerusalem after three yea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the doubts and fears of Martha are highlighted as she questions
 2. "The very act of death is the beginning of decomposition."
 3. "I have no hesitation...in assuming ἤδη ὄζει as a fact."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He who touched the leper, and the bier of the widow of Nain's son, rises here also above these Judaic memorials of evils, every one of which He had come to roll away."
 2. "Our Lord would let the most skeptical see that, without laying a hand on the stone that covered His friend, He could recall him to life."
 3. "To such fluctuations all real faith is subject in dark hours."
@@ -51,4 +51,4 @@ In this passage, the doubts and fears of Martha are highlighted as she questions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the idea of perfection and the insuffi
 2. "The Levitical priesthood... could be brought about by the instrumentality of."
 3. "What further need... that a different priest should arise, after the order of Melchisedek, and that he is said to be not after the order of Aaron."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Perfection—absolute: 'the bringing of man to his highest state, namely, that of salvation and sanctification.'"
 2. "Upon it (that is, on the ground of it as the basis, the priest having to administer the law) the people have received the law."
 3. "For God does nothing needless."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the idea of perfection and the insuffi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

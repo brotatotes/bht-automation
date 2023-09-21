@@ -9,7 +9,7 @@ The verse being described is a profound revelation in which the gospel is unveil
 2. "But now was manifested to His saints." 
 3. "All believers, not merely as in Ephesians 3:5, where the reference is different, the Apostles and prophets."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The mystery, once hidden, now revealed, is redemption for the whole Gentile world, as well as for the Jews, 'Christ in you (Gentiles) the hope of glory'." 
 2. "The 'ages' are the vast successive periods marked by successive orders of beings and stages of creation."
 3. "The Spirit by Paul presciently, in opposition to Gnostic error already beginning, teaches, that the mystery of redemption was hidden in God's purposes in Christ, alike from the angelic beings of the pre-Adamic 'ages,' and from the subsequent human 'generations'."
@@ -50,4 +50,4 @@ The verse being described is a profound revelation in which the gospel is unveil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

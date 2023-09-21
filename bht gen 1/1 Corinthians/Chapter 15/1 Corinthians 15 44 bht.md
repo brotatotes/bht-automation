@@ -9,7 +9,7 @@ The Bible verse being described is 1 Corinthians 15:44. The commentators provide
 2. "It is no more wonderful a thing, that there should be a body fitted to the capacities and wants of man’s highest part, his spirit."
 3. "The emphasis is both times on ἔστιν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Holy Spirit in the spirit of believers, indeed, is an earnest of a superior state, but meanwhile in the body the animal soul preponderates; hereafter the Spirit shall predominate, and the animal soul be duly subordinate."
 2. "A spiritual body—a body wholly moulded by the Spirit, and its organism not conformed to the lower and animal, but to the higher and spiritual life."
 3. "It is no more wonderful a thing, that there should be a body fitted to the capacities and want of man's highest part, his spirit (which we see to be the case), than that there should be one fitted to the capacities and wants of his subordinate part, the animal soul."
@@ -59,4 +59,4 @@ Note: The commentary provides explanations and clarifications about the nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

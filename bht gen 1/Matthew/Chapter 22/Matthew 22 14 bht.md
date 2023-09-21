@@ -4,7 +4,7 @@
 The verse being described acknowledges the wide reach of God's call to salvation, extending to all people regardless of their background or ethnicity. However, it emphasizes that only a few individuals successfully navigate the process of discernment and response to the call. It highlights the distinction between those who are called to hear the message of the Gospel and those who truly believe, embrace, and demonstrate faith in Jesus Christ. The verse underscores the importance of personal faith, genuine commitment, and inward transformation for salvation, reminding us that being part of a religious community is not enough.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "For many are called, but few are chosen." This verse highlights the distinction between those who are called and those who are chosen, suggesting that not everyone who is called will ultimately be chosen by God.
 
 2. "Christ baffles the Pharisees by a question about David and Messiah." This statement refers to a specific incident where Jesus poses a question to the Pharisees that they are unable to answer, showcasing his wisdom and authority.
@@ -53,4 +53,4 @@ The verse being described acknowledges the wide reach of God's call to salvation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

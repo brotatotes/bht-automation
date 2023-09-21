@@ -11,7 +11,7 @@ This verse describes the God of peace, who brings peace and unity amidst conflic
 
 3. "in the blood of the everlasting covenant" - The commentary explores the meaning of the phrase "in the blood of the everlasting covenant." It suggests that the preposition "in" indicates that Christ's exaltation is conditioned by and through His blood, which serves as the seal of the covenant. This highlights the significance of Christ's sacrificial death and the establishment of a new covenant.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The God of peace by giving unity of true doctrine, will unite them in mutual love."
 2. "He would not conclude without mentioning 'the connecting link between the two truths mainly discussed; the one perfect sacrifice and the continual priestly intercession—the depth of His humiliation and the height of His glory—the 'altar' of the cross and the ascension to the heavenly Holy of Holies."
 3. "His office, as the Anointed of the Spirit, making Him the medium of communicating the Spirit to us, the holy unction flowing down from the Head on the members."
@@ -51,4 +51,4 @@ This verse describes the God of peace, who brings peace and unity amidst conflic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

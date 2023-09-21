@@ -9,7 +9,7 @@ The verse under consideration explores the topic of spiritual gifts. It addresse
 2. "Surely the things are the main subject, enounced here, 1 Corinthians 12:4-11, and treated of through the rest of the chapter; the inspired persons being mentioned only incidentally to them."
 3. "Here the gifts of the Spirit generally are the subject."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The gifts of the several members, forming reciprocal complements to each other, tend to the one object of perfecting the body of Christ."
 2. "The extraordinary gifts, so far from making professors more peculiarly saints than in our day, did not always even prove that such persons were in a safe state at all."
 3. "Now that we have the whole written New Testament and Christianity established as the result of the miracles, we need no further miracle to attest the truth."
@@ -57,4 +57,4 @@ The verse under consideration explores the topic of spiritual gifts. It addresse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

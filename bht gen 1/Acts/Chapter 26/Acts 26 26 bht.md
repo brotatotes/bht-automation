@@ -9,7 +9,7 @@ In this Bible verse, the narrator describes how King Agrippa is well-informed of
 2. "This latter he does not only assert, but appeals to the faith of the king as a Jew for its establishment."
 3. "This, the act done to Jesus by the Jews, and its sequel, was not done in an obscure corner of Judæa, but in the metropolis, at a time of more than common publicity."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The king knows the customs and questions of the Jews, and therefore he is well qualified to judge the matters that Paul is being accused of. This shows that Paul's trial is not just a religious matter, but also a legal one, as the king has the authority to make a fair judgment based on his knowledge of Jewish customs."
 
 2. "This verse highlights the importance of understanding the context and background of a situation before making a judgment. The king's knowledge of the customs and questions of the Jews allows him to have a deeper understanding of the accusations against Paul. It reminds us to seek knowledge and understanding before passing judgment on others."
@@ -52,4 +52,4 @@ These quotes highlight the king's knowledge of the prophecies and fulfillment in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

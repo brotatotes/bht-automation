@@ -9,7 +9,7 @@ In this verse, the author expresses a strong desire to visit the Thessalonians, 
 2. "The words refer to his earnest endeavor, not to himself alone."
 3. "Whether Satan acted by the Thessalonian Jews or not, is unknown to us, but by whomsoever acting, the agency was his."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His slightly distinguishing himself here from his fellow missionaries, whom throughout this Epistle he associates with himself in the plural, accords with the fact that Silvanus and Timothy stayed at Berea when Paul went on to Athens."
 2. "The Holy Ghost and the providence of God overruled Satan's opposition to further His own purpose."
 3. "The Greek for 'hindered' is literally, 'to cut a trench between one's self and an advancing foe, to prevent his progress'; so Satan opposing the progress of the missionaries."
@@ -55,4 +55,4 @@ In this verse, the author expresses a strong desire to visit the Thessalonians, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

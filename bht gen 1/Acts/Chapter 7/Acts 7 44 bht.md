@@ -9,7 +9,7 @@ The verse describes a tabernacle that serves as a witness of God's presence and 
 2. "The tabernacle of the assembly."
 3. "Another contrast."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tabernacle of witness in the wilderness served as a constant reminder of God's presence among the Israelites, making their idolatry all the more sinful."
 2. "The tokens of the divine presence in the tabernacle intensified the guilt of their idolatry, as they were fully aware of God's commandments and yet chose to disobey."
 3. "The tabernacle, with its sacred objects and rituals, was a tangible symbol of God's covenant with His people, highlighting the severity of their rebellion and ingratitude."
@@ -50,4 +50,4 @@ The verse describes a tabernacle that serves as a witness of God's presence and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The disciple's plea to "suffer me first to bid them farewell that are in my house" reflects the need for proper preparation and closure before fully committing to follow Jesus. It signifies the importance of honoring existing commitments and relationships, similar to Elisha's response to Elijah's call. Jesus' response to the disciple's request echoes the expectation of complete surrender and willingness to let go of worldly attachments, mirroring the devotion demonstrated by Elijah's successor.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The different treatment of the two cases shows how different was the spirit of the two, and to that our Lord addressed Himself."
 2. "The case of Elisha, though apparently similar to this, will be found quite different from the 'looking back' of this case."
 3. "The best illustration of which is that of those Hindu converts of our day who, when once persuaded to leave their spiritual fathers in order to 'bid them farewell which are at home at their house,' very rarely return to them."
@@ -54,4 +54,4 @@ The disciple's plea to "suffer me first to bid them farewell that are in my hous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

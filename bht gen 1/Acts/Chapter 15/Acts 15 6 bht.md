@@ -9,7 +9,7 @@ In a crucial decision-making process, leaders and prominent members of the early
 2. "The deliberation of the Apostles and elders implied the presence of the brethren also, who are intended by πᾶν τὸ πλ."
 3. "The objection, that no one place could have held them, is nugatory: the official presence of all is assumed continually in such cases, where the assembly is open to all."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The apostles and elders came together to consider of this." - This shows that the issue at hand was important enough to gather the leaders of the early church for discussion and decision-making.
 
 2. "In presence, as would seem, of the people." - The presence of the people indicates that the decision-making process was transparent and inclusive, allowing for the input and involvement of the wider community.
@@ -51,4 +51,4 @@ These quotes provide historical context, highlight the significance of the counc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

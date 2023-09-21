@@ -9,7 +9,7 @@ In this Bible verse, we see the story of Joseph and Mary searching for Jesus aft
 2. "It was not till they laid up for the night that they missed him, as at that time they would naturally expect his return to their own tent."
 3. "Being accustomed to his thoughtfulness and obedience, they were free from anxiety, till they discovered He really was not in the company."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "On these sacred journeys, whole villages and districts travelled in groups together, partly for protection, partly for company."
 2. "The well-disposed would beguile the tediousness of the way by good discourse, to which the child Jesus would be no silent listener."
 3. "They expect to find Him in such a group."
@@ -55,4 +55,4 @@ In this Bible verse, we see the story of Joseph and Mary searching for Jesus aft
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

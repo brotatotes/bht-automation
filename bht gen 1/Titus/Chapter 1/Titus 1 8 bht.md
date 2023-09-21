@@ -4,7 +4,7 @@
 This Bible verse describes the qualities expected of a minister of the gospel. They should be loving and welcoming to all, showing hospitality to their fellow brethren. They should have a deep devotion to goodness and righteousness, displaying integrity and fairness in their interactions with others. Additionally, a minister should demonstrate self-control, exercising restraint over their own passions and desires. These characteristics are essential for effective teaching and leadership in the Church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Lover of hospitality—needed especially in those days." 
 2. "Christians travelling from one place to another were received and forwarded on their journey by their brethren." 
 3. "Lover of good men—Greek, 'a lover of (all that is) good,' men or things." 
@@ -47,4 +47,4 @@ This Bible verse describes the qualities expected of a minister of the gospel. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

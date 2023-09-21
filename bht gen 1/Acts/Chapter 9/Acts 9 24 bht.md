@@ -9,7 +9,7 @@ The Bible verse being described is about the governor's dedication to protecting
 2. "It would be natural that Aretas, who had been grossly injured by Antipas, should, by this change of affairs, be received into favour."
 3. "These facts, coupled with that of no Damascene coins of Caligula and Claudius existing, make it probable that about this time Damascus, which belonged to the predecessors of Aretas, was granted to Aretas by Caligula."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They watched the gates night and day to kill him." - This quote highlights the intense danger that the apostle Paul faced, as his enemies were determined to take his life. It emphasizes the constant threat he lived under and the lengths his adversaries were willing to go to eliminate him.
 
 2. "The full extent of his danger appears only from his own account." - This quote suggests that the true gravity of Paul's situation is only fully understood when he himself recounts it. It implies that his enemies' intentions were even more sinister than what is initially apparent, adding to the intensity of the narrative.
@@ -51,4 +51,4 @@ Overall, these quotes shed light on the dangerous situation Saul found himself i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

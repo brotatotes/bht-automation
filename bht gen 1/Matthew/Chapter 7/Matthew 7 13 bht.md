@@ -4,7 +4,7 @@
 The verse being described is about the strait gate and the broad way. Commentators highlight the difficulty of entering the strait gate, which represents the first step in religion and requires a triumph over natural inclinations. It is a narrow and compressed entrance at the beginning of the journey of life. In contrast, the wide gate is easily entered and represents indulgence in carnal desires and worldly pleasures. Many choose this broad way, which accommodates their desires and leads to destruction. The verse emphasizes the choice between the challenging path of righteousness and the easier path of self-gratification.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Enter ye in at the strait gate—as if hardly wide enough to admit one at all. This expresses the difficulty of the first right step in religion, involving, as it does, a triumph over all our natural inclinations." 
 2. "Hence the still stronger expression in Luke, 'Strive to enter in at the strait gate.'" 
 3. "For wide is the gate—easily entered. And broad is the way—easily trodden. That leadeth to destruction, and thus lured 'many there be which go in thereat.'"
@@ -45,4 +45,4 @@ The verse being described is about the strait gate and the broad way. Commentato
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

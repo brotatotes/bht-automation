@@ -9,7 +9,7 @@ In this passage, the commentators emphasize the exclusive nature of salvation th
 2. "The object being precision, it is much more probable that the Apostle should have written both clauses in their present formal parallelism, and that the second should have been early omitted from its seeming superfluity, than that it should have been inserted from the margin."
 3. "These cautions of the Apostle are decisive against all attempts at compromise between the two great antagonist hypotheses, of salvation by God’s free grace, and salvation by man’s meritorious works."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The general position here laid down is of vital importance: That there are but two possible sources of salvation—men's works, and God's grace and that these are so essentially distinct and opposite, that salvation cannot be of any combination or mixture of both, but must be wholly either of the one or of the other."
 
 2. "If it (the election) be by grace, it is no more of works for [then] grace becomes no more grace."
@@ -57,4 +57,4 @@ In this passage, the commentators emphasize the exclusive nature of salvation th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

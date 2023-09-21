@@ -9,7 +9,7 @@ Based on the words of various commentators, this Bible verse highlights the hono
 2. "καί brings out an inconsequence or a contradiction between the members of the sentence, which it is the object of the question to remove."
 3. "Hence by this 'coram vobis' it appears plainly, though it might be otherwise inferred from the context, that the Saints are to be the judges, sitting in judgment."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What! (expressing surprise) know ye not" - The commentary highlights the surprise that the readers should have in not recognizing a universally recognized truth.
 2. "To reign, and to be saved, are not necessarily synonymous" - This quote emphasizes that there is a distinction between reigning and being saved, indicating that salvation does not automatically guarantee a position of ruling.
 3. "The weightiest of earthly questions at issue are infinitely small compared with those to be decided on the judgment-day" - This quote emphasizes the insignificance of earthly matters compared to the weightiness of the judgment-day decisions.
@@ -57,4 +57,4 @@ Based on the words of various commentators, this Bible verse highlights the hono
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

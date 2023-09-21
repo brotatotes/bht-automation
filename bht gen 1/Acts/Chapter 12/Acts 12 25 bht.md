@@ -9,7 +9,7 @@ Barnabas and Saul, after completing their mission to deliver alms to the church 
 2. "Hence there seems an additional reason for placing the visit after Herod’s death: for, of all the persons whose execution would be pleasing to the Jews, Saul would hold the foremost place."
 3. "Our verse is probably inserted as a note of passage from the last recorded fact of Barnabas and Saul, to their being found at Antioch."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Barnabas and Saul returned from Jerusalem—where, it thus appears, they had remained during all this persecution."
 2. "When they had fulfilled their ministry—or service; that mentioned on Acts 11:29; Acts 11:30."
 3. "Took with them John . . . Mark—(See on Acts 12:1), not to be confounded with the second Evangelist, as is often done. As his uncle was Barnabas, so his spiritual father was Peter (Acts 12:1- :)."
@@ -52,4 +52,4 @@ Barnabas and Saul, after completing their mission to deliver alms to the church 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

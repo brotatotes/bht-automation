@@ -9,7 +9,7 @@ This verse delves into the serious nature of divorce and its consequences. It re
 2. "Certainly it would appear, from the literal meaning of our Lord’s words (if ἀπολελ . be taken as perfectly general), that it should not be allowed: for if by such divorce the marriage be altogether dissolved, how can the woman be said μοιχᾶσθαι by a second marriage?"
 3. "The tenor of our Lord’s teaching in other places seems to set before us the state of marriage as absolutely indissoluble as such, however he may sanction the expulsion a mensa et thoro of an unfaithful wife."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery." - This quote highlights the understanding that divorce should only be permitted in cases of sexual immorality, as it protects the innocent party from being held responsible for the adultery that may occur if they remarry.
 
 2. "Whosoever shall marry her that is divorced—for anything short of conjugal infidelity—committeth adultery." - This quote emphasizes the belief that marrying a divorced person, except in cases of infidelity, is considered adultery. It underscores the seriousness of the commitment made in marriage and the consequences of breaking that commitment.
@@ -49,4 +49,4 @@ This verse delves into the serious nature of divorce and its consequences. It re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

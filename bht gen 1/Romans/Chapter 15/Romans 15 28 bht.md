@@ -9,7 +9,7 @@ In this verse, the commentator highlights the significance of the love offering 
 2. "as in a royal treasury, as in a secure and safe place"
 3. "through your city"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "When therefore I have sealed—that is, delivered over safely to them this fruit—of the faith and love of the Gentile converts." 
 2. "I will come back by you into Spain." 
 3. "Paul's desire to visit Rome was not a mere passing wish, but a settled purpose, which he had long cherished, and which he had been anxiously seeking to accomplish."
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the significance of the love offering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

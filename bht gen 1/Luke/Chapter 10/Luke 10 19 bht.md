@@ -11,7 +11,7 @@ The verse being described is one where Jesus speaks to His disciples, assuring t
 
 3. "There is an evident allusion to Psalms 91:13."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Behold, I give you...simply as disciples." - This quote emphasizes that the disciples were not given power for a specific mission, but rather as followers of Jesus.
 2. "serpents and scorpions...the glorious power of faith." - This quote highlights the literal power given to the disciples to handle dangerous creatures, but also emphasizes the greater power of faith to overcome the enemy and protect them from harm.
 3. "the communication and maintenance...Ephesians 6:16)." - This quote explains that the power given to the disciples is the ability to overcome the world and the attacks of the enemy through faith, as described in 1 John 5:4 and Ephesians 6:16.
@@ -52,4 +52,4 @@ The verse being described is one where Jesus speaks to His disciples, assuring t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

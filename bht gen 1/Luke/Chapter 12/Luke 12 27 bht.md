@@ -4,7 +4,7 @@
 This verse highlights the remarkable growth and beauty found in nature. It reminds us that God's creation surpasses human achievements, as seen in the flourishing growth of lilies. These flowers symbolize the simplicity and elegance of nature, contrasting with the artificial beauty of Solomon's glory. The verse invites us to appreciate the effortless beauty of God's creation, acknowledging that true magnificence lies in the natural order of the world.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This passage reminds us that God is not limited by human understanding or expectations. He can use even the most unlikely individuals to accomplish his purposes." 
 
 2. "The story of Balaam also serves as a warning against the dangers of greed and pride. Balaam's desire for wealth and recognition led him to disobey God and ultimately brought about his own downfall." 
@@ -27,4 +27,4 @@ This verse highlights the remarkable growth and beauty found in nature. It remin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

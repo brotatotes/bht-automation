@@ -9,7 +9,7 @@ In this biblical verse, commentators emphasize the unwavering protection and car
 2. "Your μακαριότης will be such as to turn off all their malice and make even suffering itself to be happiness."
 3. "If it be that which is good, of which you are zealous? Thus the contrast between κακώσων and τοῦ ἀγαθοῦ is stronger."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This fearless confidence in God's protection from harm, Christ, the Head, in His sufferings realized; so His members."
 2. "If ye have become followers, emulous, zealous of good."
 3. "Who will do you evil, if ye be zealous of good?"
@@ -55,4 +55,4 @@ In this biblical verse, commentators emphasize the unwavering protection and car
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

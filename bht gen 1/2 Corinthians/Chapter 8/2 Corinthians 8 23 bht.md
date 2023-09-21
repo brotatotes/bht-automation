@@ -9,7 +9,7 @@ These messengers, described as "partners" and "fellow-workers," are not only clo
 2. "Whether our brethren, they are Apostles of the churches, the glory of Christ."
 3. "Men whose work tends to Christ's glory."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "fellow worker towards you"
 2. "our brethren"
 3. "sent by the churches"
@@ -52,4 +52,4 @@ These messengers, described as "partners" and "fellow-workers," are not only clo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

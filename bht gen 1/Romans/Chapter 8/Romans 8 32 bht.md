@@ -9,7 +9,7 @@ In this verse, the commentator highlights the incredible love and sacrifice of G
 2. "Delivered Him up on behalf of us all, so that every one of us believers, even the most afflicted, has an equal part in Him."
 3. "How can it be that He will not also give freely to us all things, all that we need or hope for; or even more largely, all created things for ours, to subserve our good, and work together for us."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In 'not sparing His own Son, but delivering Him up,' or surrendering Him, God exercised, in His Paternal character, a mysterious act of Self-sacrifice, which, though involving none of the pain and none of the loss which are inseparable from the very idea of self-sacrifice on our part, was not less real, but, on the contrary, as far transcended any such acts of ours as His nature is above the creature's."
 2. "Understand Christ's Sonship thus, and the language of Scripture regarding it is intelligible and harmonious; but take it to be an artificial relationship, ascribed to Him in virtue either of His miraculous birth, or His resurrection from the dead, or the grandeur of His works, or all of these together—and the passages which speak of it neither explain of themselves nor harmonize with each other."
 3. "How can we conceive that He should not [freely give us all things]? All other gifts being not only immeasurably less than this Gift of gifts, but virtually included in it."
@@ -53,4 +53,4 @@ In this verse, the commentator highlights the incredible love and sacrifice of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

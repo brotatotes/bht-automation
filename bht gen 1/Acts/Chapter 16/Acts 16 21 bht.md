@@ -11,7 +11,7 @@ In this verse, commentators discuss the introduction of new religions and the ch
 
 Note: The commentary is referencing Dio Cassius and Julius Paulus to provide historical context and support for the advice given by Mæcenas to Augustus.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The whole charge was pure hypocrisy; for as these men would have let the missionaries preach what religion they pleased if they had not dried up the source of their gains."
 2. "They conceal the real cause of their rage under color of a zeal for religion, and law, and good order."
 3. "The introduction of new gods was forbidden by the laws, and this might be thought to apply to any change of religion."
@@ -55,4 +55,4 @@ Note: The commentary is referencing Dio Cassius and Julius Paulus to provide his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

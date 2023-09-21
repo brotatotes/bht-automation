@@ -4,7 +4,7 @@
 In this verse, we are reminded of the importance of humility and seeking honor from God rather than oneself. It highlights that self-glory is empty and meaningless, and true honor comes from a higher authority. Jesus teaches us the significance of seeking recognition through genuine desires to glorify others, rather than seeking personal validation. The verse challenges our understanding and beliefs about our relationship with God, emphasizing the divine nature of Jesus and the role of the Father in glorifying Him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If I honour myself, my honour is nothing." - This quote highlights the humility of Jesus, emphasizing that true honor comes from God and not from self-promotion.
 
 2. "The Father is the one who glorifies the Son." - This quote emphasizes the role of God the Father in exalting Jesus and bestowing honor upon him.
@@ -44,4 +44,4 @@ In this verse, we are reminded of the importance of humility and seeking honor f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

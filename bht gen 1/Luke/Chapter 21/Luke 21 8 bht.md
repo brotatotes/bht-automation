@@ -9,7 +9,7 @@ In this Bible verse, Jesus warns his disciples about the rise of false Christs a
 2. These words are not spoken by Jesus himself, but by the "πολλοί" (many), indicating that they are the thoughts and opinions of others.
 3. To understand the context of these words, refer to Matthew 24:4-5, where similar ideas are discussed.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "the time—of the Kingdom, in its full glory." This quote highlights the commentary's interpretation of the verse, emphasizing that the time being referred to is the future time of the Kingdom's full glory.
 
 2. "go . . . not . . . after them." This quote suggests that the readers should not be deceived or misled by those who claim to know the exact timing of the Kingdom's arrival. It encourages caution and discernment.
@@ -46,4 +46,4 @@ In this Bible verse, Jesus warns his disciples about the rise of false Christs a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

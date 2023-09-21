@@ -9,7 +9,7 @@ The verse being described is about the powerful concept of salvation through gra
 2. "The abstract, 'through faith,' must be the rendering if the article be omitted."
 3. "There is no occasion...to parenthesize these words: they form a contrast to οὐκ ἐξ ὑμ ., and a quasi-parallel clause to ἵνα μή τις καυχήσ."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ye are in a saved state" - illustrating the exceeding riches of His grace in kindness.
 2. "The instrument or mean of salvation on the part of the person saved; Christ alone is the meritorious agent."
 3. "God justifies the believing man, not for the worthiness of his belief, but for the worthiness of Him in whom he believes."
@@ -53,4 +53,4 @@ The verse being described is about the powerful concept of salvation through gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

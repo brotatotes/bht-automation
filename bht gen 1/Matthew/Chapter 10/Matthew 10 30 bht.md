@@ -9,7 +9,7 @@ This verse emphasizes the intimate knowledge and care that God has for His peopl
 2. "But the emphatic ὑμεῖς, spoken directly to the Apostles, is generalized immediately by the πᾶς οὖν in Matthew 10:32."
 3. "The emphasis on 'you' in this verse highlights the personal nature of the message, reminding the Apostles of their individual responsibility in proclaiming the Gospel."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The fact that God knows and numbers the very hairs of our head is a powerful reminder of His intimate knowledge and care for each one of us."
 2. "This statement emphasizes the meticulous attention and care that God has for His people, down to the smallest details of their lives."
 3. "The numbering of the hairs on our head signifies God's complete knowledge and awareness of every aspect of our existence, leaving no room for doubt or uncertainty."
@@ -28,4 +28,4 @@ This verse emphasizes the intimate knowledge and care that God has for His peopl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

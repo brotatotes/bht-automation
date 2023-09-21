@@ -4,7 +4,7 @@
 Amidst the noble forgetfulness of self, a courageous apostle enters a public assembly, determined to defend his cause and challenge false beliefs. Unyielding, yet with modesty, he stands alongside his comrades, valuing their lives and the importance of unity. With constancy and intrepidity, he pleads the Christian cause, striving to prove the limitations of man-made gods. This brave-hearted man's unwavering commitment to his companions and his willingness to engage with the people exemplify his dedication to spreading the truth of the Gospel.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "With noble forgetfulness of self."
 2. "The people met in public assembly."
 3. "The disciples suffered him not."
@@ -47,4 +47,4 @@ Amidst the noble forgetfulness of self, a courageous apostle enters a public ass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

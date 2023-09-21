@@ -4,7 +4,7 @@
 In this verse, the commentator's descriptions reveal that believers will find rest and relief from their suffering and persecution. The rest that they will experience is not a lifeless rest, but a respite from the distress they have endured. It is a rest that comes as a result of sharing in Christ's sufferings and finding solace in the company of fellow believers. This rest will be accompanied by a revelation of Christ, a glorious unveiling, to bring recompense and justice to those who have persecuted the believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Greek is literally, 'relaxation'; loosening of the tension which had preceded; relaxing of the strings of endurance now so tightly drawn."
 2. "The Greek word for 'rest,' Matthew 11:28, is distinct, namely, cessation from labor."
 3. "It is not their might, but His might, which is the prominent thought."
@@ -43,4 +43,4 @@ In this verse, the commentator's descriptions reveal that believers will find re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

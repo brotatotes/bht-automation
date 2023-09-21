@@ -9,7 +9,7 @@ The verse being described focuses on the surpassing importance of love as the gu
 2. "The speaking with tongues was ever in an articulate language."
 3. "LOVE to all, in its most general sense."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He does not except even himself, and so passes from addressing them to putting the case in his own person."
 2. "Speak with the tongues—with the eloquence which was so much admired at Corinth, and with the command of various languages, which some at Corinth abused to purposes of mere ostentation."
 3. "Charity—the principle of the ordinary and more important gifts of the Spirit, as contrasted with the extraordinary gifts."
@@ -52,4 +52,4 @@ The verse being described focuses on the surpassing importance of love as the gu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

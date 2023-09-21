@@ -11,7 +11,7 @@ In this verse, the commentators describe the power and fulfillment of God's purp
 
 3. "See note, Matthew 1:22."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This unbelief did not at all set aside the purposes of God, but, on the contrary, fulfilled them." 
 2. "The fulfillment of prophecy is not dependent on human belief or cooperation." 
 3. "God's plans and purposes will always come to pass, regardless of human response."
@@ -54,4 +54,4 @@ Note: The commentary provides a discussion on the usage of the word ινα in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

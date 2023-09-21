@@ -4,7 +4,7 @@
 The people's limited understanding of the Scriptures and their preconceived notions about Jesus' origin led to confusion and debate. However, this verse reminds us to approach Scripture with humility and open-mindedness, willing to let go of our own ideas and allow God to reveal His truth to us. The skepticism of those who denied Jesus as the Messiah was based on his Galilean origin, while those who boldly proclaimed him as the Christ saw his miracles and his promise of living water.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The people's confusion and debate about Jesus' identity reveals their limited understanding of the Scriptures and their lack of knowledge about Jesus' true origins." 
 
 2. "The question of whether the Christ can come from Galilee highlights the prejudice and preconceived notions that people often have, failing to recognize that God can work in unexpected ways and choose unexpected people to fulfill His purposes." 
@@ -39,4 +39,4 @@ The people's limited understanding of the Scriptures and their preconceived noti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

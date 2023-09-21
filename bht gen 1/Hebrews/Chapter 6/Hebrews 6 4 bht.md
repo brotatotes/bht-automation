@@ -10,7 +10,7 @@ This verse describes individuals who have received God's enlightenment, experien
 3. "The heavenly gift can be understood as the remission of sins, joy and peace in believing, the Holy Spirit and His gifts, Christ Himself, the religion of Christ, the gospel, faith, or regeneration in general."
 4. "The emphasis is on the fact that these individuals have personally and consciously partaken of the heavenly gift and have become real sharers of the Holy Spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We must 'go on toward perfection'; for if we fall away, after having received enlightenment, it will be impossible to renew us again to repentance."
 2. "Once enlightened—once for all illuminated by the word of God taught in connection with 'baptism.'"
 3. "That 'enlightened' here means knowledge of the word of truth, appears from comparing the same Greek word 'illuminated,' Hebrews 10:32; Hebrews 10:26, where 'knowledge of the truth' answers to it."
@@ -50,4 +50,4 @@ This verse describes individuals who have received God's enlightenment, experien
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

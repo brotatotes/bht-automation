@@ -4,7 +4,7 @@
 In this verse, we are warned about a future time where people will reject the teachings of God and instead seek out teachers who satisfy their own desires and whims. These individuals have itching ears, always in search of novelty and variety, and are easily swayed by smooth and empty discourses. It is crucial for zealous and patient pastors to defend and preserve the pure gospel, especially during these times when people are more concerned with satisfying their own lusts than with heeding the will of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Instead of regarding the will of God they dislike being interrupted in their lusts by true teachers."
 2. "Variety delights itching ears."
 3. "They, as it were, tickle with pleasure the levity of the multitude, who come as to a theater to hear what will delight their ears, not to learn what will do them good."
@@ -43,4 +43,4 @@ In this verse, we are warned about a future time where people will reject the te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

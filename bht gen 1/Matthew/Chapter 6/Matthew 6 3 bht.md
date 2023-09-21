@@ -9,7 +9,7 @@ This verse encourages believers to perform acts of charity in secret, avoiding t
 2. "Equally out of place are all attempts to explain the right and left hand symbolically" - rejecting symbolic interpretations of the right and left hand.
 3. "εἰ γὰρ οἷόν τέ ἐστι , φησί , σεαυτὸν ἀγνοῆσαι , περισπούδαστον ἔστω σοι τοῦτο" - emphasizing the importance of selflessness in giving.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let not thy left hand know what thy right hand doeth" - This verse emphasizes the importance of secrecy and humility in acts of charity. It encourages believers to avoid seeking recognition or praise for their good deeds, even to the point of not dwelling on them in their own thoughts. 
 
 2. "So far from making a display of it" - This quote highlights the need to refrain from showing off or boasting about one's acts of charity. It reminds believers that the true value of their good deeds lies in the sincerity and selflessness behind them, rather than in seeking attention or admiration from others. 
@@ -42,4 +42,4 @@ This verse encourages believers to perform acts of charity in secret, avoiding t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse describes how God intentionally revealed Jesus after His resurrection, leaving no room for doubt or skepticism. This display of Jesus' resurrection serves as a confirmation of His victory over death, showing His divine power and triumph. Through this act, Jesus is not only manifested and visible to the world, but it also provides full proof of the truth of His resurrection as the conqueror over death and the grave. This culminating point of the apostolic testimony solidifies Jesus' role as the Lord of all, dispensing peace and exercising judgment upon all.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Not the less certain, therefore, was the fact of His resurrection, though withholding Himself from general gaze in His risen body."
 2. "He had before proclaimed Him 'Lord of all,' for the dispensing of 'peace' to all alike now he announces Him in the same supreme lordship, for the exercise of judgment upon all alike."
 3. "But, forgiveness through this exalted One is the closing note of Peter's beautifully simple discourse."
@@ -44,4 +44,4 @@ The verse describes how God intentionally revealed Jesus after His resurrection,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

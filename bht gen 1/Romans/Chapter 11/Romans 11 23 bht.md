@@ -11,7 +11,7 @@ This verse speaks of the opportunity for restoration and transformation through 
 
 3. "The power of God would not be put forward if the other were the meaning." - The emphasis here is on the power of God to bring about the restoration and transformation of those who turn away from unbelief.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This appeal to the power of God to effect the recovery of His ancient people implies the vast difficulty of it—which all who have ever labored for the conversion of the Jews are made depressingly to feel."
 2. "Individual Jews have been at all times admissible, and have been admitted, to the Church through the gate of faith in the Lord Jesus."
 3. "But here he manifestly speaks of something not then existing, but to be looked forward to as a great future event in the economy of God, the reingrafting of the nation as such, when they 'abide not in unbelief'."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

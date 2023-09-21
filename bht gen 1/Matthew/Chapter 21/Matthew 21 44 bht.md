@@ -9,7 +9,7 @@ The verse being described speaks of a stone, representing the kingdom and power 
 2. "He that takes offense, that makes it a stone of stumbling, shall be broken." 
 3. "On whomsoever, as its enemy, it shall come in vengeance, it shall dash him in pieces."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Kingdom of God is here a Temple, in the erection of which a certain stone, rejected as unsuitable by the spiritual builders, is, by the great Lord of the House, made the keystone of the whole."
 2. "On that Stone the builders were now 'falling' and being 'broken.' They were sustaining great spiritual hurt."
 3. "Soon that Stone should 'fall upon them' and 'grind them to powder' - in their corporate capacity, in the tremendous destruction of Jerusalem, but personally, as unbelievers, in a more awful sense still."
@@ -50,4 +50,4 @@ The verse being described speaks of a stone, representing the kingdom and power 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

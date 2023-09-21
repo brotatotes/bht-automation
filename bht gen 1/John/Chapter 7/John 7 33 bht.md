@@ -4,7 +4,7 @@
 The verse, with its various commentaries, depicts Jesus' unwavering commitment to his mission and authority as the Son of God. Despite doubts and objections, he emphasizes his divine origin, contrasting his heavenly nature with the earthly perspective of his audience. Jesus presents himself as the source of spiritual illumination, offering an alternative to the darkness of sin and ignorance. His words invite all who believe in him to walk in the light and experience the freedom and truth that he brings.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Your desire to be rid of Me will be for you all too soon fulfilled."
 2. "Yet a little while and we part company—for ever for I go whither ye cannot come."
 3. "Even when ye at length seek Him whom ye now despise, shall ye be able to find Him."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite technical and does not offer much in term
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

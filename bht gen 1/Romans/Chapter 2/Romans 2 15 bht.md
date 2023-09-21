@@ -9,7 +9,7 @@ In this verse, the commentator descriptions emphasize the internal struggle and 
 2. "Their own conscience, reflecting on the thing done, bears witness to it as good." 
 3. "Their thoughts, in inner strife, accusing or perhaps excusing."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their thoughts the meanwhile accusing or else excusing" - This phrase suggests that human beings have a constant inner dialogue, where their thoughts either accuse or excuse their actions. It highlights the complexity of human nature and the struggle between conscience and self-justification.
 2. "Perhaps by turns doing both" - This phrase implies that individuals may oscillate between accusing and excusing themselves, depending on the situation or their own motivations. It speaks to the inconsistency and ambiguity of human behavior and the difficulty in discerning true intentions.
 3. This verse reminds us that our thoughts are not always aligned with our actions, and we often engage in a battle of self-justification. It serves as a reminder to be mindful of our thoughts and motivations, and to strive for integrity and honesty in our actions.
@@ -55,4 +55,4 @@ These quotes highlight the power and role of conscience in the lives of individu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

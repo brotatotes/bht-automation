@@ -4,7 +4,7 @@
 In this verse, commentators emphasize the significance of having spiritual discernment and insight. The blessing lies in being able to perceive the truth beyond the physical realm, recognizing the spiritual realities at work. It is a personal and individual blessing, granted to those who have eyes to see and understand the teachings of Jesus. This blessedness goes beyond mere physical sight; it involves perceiving the deeper meaning and significance revealed by God. The blessing is not limited to the eyes alone but extends to the whole person, bringing joy, fulfillment, and a deeper connection with God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Blessed are your eyes, for they see" - This highlights the importance of having spiritual discernment and being able to perceive the truth. It is a blessing to have eyes that can see beyond the physical realm and recognize the spiritual realities at work.
 
 2. "Happy ye, whose eyes and ears, voluntarily and gladly opened" - This emphasizes the willingness and eagerness to receive and understand the teachings of God. It is a reminder that true understanding comes to those who are open and receptive to the divine wisdom.
@@ -46,4 +46,4 @@ In this verse, commentators emphasize the significance of having spiritual disce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

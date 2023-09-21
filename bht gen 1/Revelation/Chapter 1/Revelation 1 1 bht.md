@@ -4,7 +4,7 @@
 The book being described is a revelation, a drawing back of the veil to uncover the purposes of God. It discloses and reveals extraordinary events, encompassing the second advent of Jesus Christ and the participation of the Gentiles. With vivid imagery and interwoven themes, it unveils the majesty of Christ, the state of his church, and the glorious exercise of his power. It serves as a manifesto, proclaiming the ultimate triumph of Christ over all opposition and showcasing the things that will come to pass.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Revelation is to teach us to understand the times, not the times to interpret to us the Apocalypse."
 2. "The book is in a series of parallel groups, not in chronological succession. Still there is an organic historical development of the kingdom of God."
 3. "The Apocalypse is the book of His second advent and the events preliminary to it."
@@ -45,4 +45,4 @@ The book being described is a revelation, a drawing back of the veil to uncover 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

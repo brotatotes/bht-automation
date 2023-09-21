@@ -11,7 +11,7 @@ In this verse, the men who held Jesus mock him, casting jeers and demanding him,
 
 3. "The text of the Codex Bezæ is a very peculiar one, deviating more from the received readings and from the principal manuscript authorities than any other." - The Codex Bezæ, a significant manuscript, has a unique text that differs greatly from other manuscripts, making it an important source for understanding the history of the text. (Quote 47)
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "And the men that held Jesus mocked him"—or cast their jeers at Him. (Also see on Matthew 26:67- :.)
 2. "Prophesy unto us, thou Christ, Who is he that smote Thee?" The sarcastic fling at Him as "the Christ," and the demand of Him in this character to name the unseen perpetrator of the blows inflicted on Him, was in them as infamous as to Him it must have been, and was intended to be, stinging.
 3. "I gave My back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting!" (Luke 22:64- :). "And many other things blasphemously spake they against Him" (Luke 22:65).
@@ -42,4 +42,4 @@ These quotes highlight the fulfillment of prophecy, the humiliation and dehumani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

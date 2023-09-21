@@ -9,7 +9,7 @@ The verse described in the commentary showcases the importance of love as the ro
 2. "ἀγάπη at the head, as chief... See Romans 12:9." 
 3. "χαρά, better merely joy, than as Winer, al., 'voluptas ex aliorum commodis percepta,' as opposed to φθόνος."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Love—the leader of the band of graces." 
 2. "Gentleness...conciliatory to others; whereas 'goodness'...has not such suavity of manner."
 3. "Faith—'faithfulness'; opposed to 'heresies'."
@@ -53,4 +53,4 @@ The verse described in the commentary showcases the importance of love as the ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

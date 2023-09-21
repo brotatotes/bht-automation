@@ -4,7 +4,7 @@
 The verse in question describes a person who, through active and intentional pursuit, followed a particular manner of life exemplified by a faithful teacher. This person not only acquired a broad understanding of teachings but also demonstrated virtues such as patience, endurance, and love towards others. Their journey was part of a bigger purpose and was marked by a close connection to the teachings and conduct of their mentor. This individual also had a well-known and commendable manner of life, both in their civil and religious spheres, reflecting the alignment of their actions with their beliefs.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His pious mother Eunice and grandmother Lois would recommend him to study fully Paul's Christian course as a pattern."
 2. "The incidental allusion to them here forms an undesigned coincidence between the history and the Epistle, indicating genuineness."
 3. "My set aim, or resolution, in my apostolic function, and in every action is, not my selfish gain, but the glory of God in Christ."
@@ -49,4 +49,4 @@ The verse in question describes a person who, through active and intentional pur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

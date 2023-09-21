@@ -9,7 +9,7 @@ The parable describes a small, seemingly insignificant mustard seed sown in a fi
 2. "This verse highlights the importance of being diligent and attentive to the work that God has entrusted to us." 
 3. "The field can symbolize the world, and by extension, our lives. We are called to be faithful stewards, sowing seeds of love, kindness, and righteousness."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field." This parable highlights the small and seemingly insignificant beginnings of the kingdom of heaven. It emphasizes that even though the mustard seed is tiny, it has the potential to grow into a large tree, representing the expansive and transformative nature of God's kingdom.
 
 2. "The mustard seed is a symbol of faith and the power of God's word. It teaches us that even the smallest amount of faith can have a profound impact and produce great results." This quote emphasizes the importance of having faith in God's promises and the transformative power of His word. It encourages believers to trust in the potential of their faith, no matter how small it may seem.
@@ -45,4 +45,4 @@ The parable describes a small, seemingly insignificant mustard seed sown in a fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

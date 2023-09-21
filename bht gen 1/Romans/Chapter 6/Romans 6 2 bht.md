@@ -9,7 +9,7 @@ In this Bible verse, commentators emphasize the transformative power of dying to
 2. "We who died to sin became as separate from and apathetic towards sin as the dead corpse is separate from and apathetic towards the functions and stir of life."
 3. "How shall we live any longer therein?"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God forbid—that be far from us"; the instincts of the new creature revolting at the thought.
 2. "We who died to sin, how shall we live any longer therein?"
 3. "The Christian is one who has died to sin, not only in the sense of having renounced it, but also in the sense of having undergone a spiritual death, a death to the power and dominion of sin."
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the transformative power of dying to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

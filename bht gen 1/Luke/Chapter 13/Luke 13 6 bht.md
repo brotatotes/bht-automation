@@ -4,7 +4,7 @@
 In this parable, the fig tree symbolizes the people of Israel, who were chosen by God and planted in His vineyard, representing the land of promise. The owner of the vineyard, representing God, expects to find fruit on the fig tree, symbolizing the spiritual fruitfulness and obedience that He desires. This parable serves as a warning to the people of Israel, reminding them of the patience and opportunities they have been given by God to bear fruit. The parable highlights God's long-suffering and mercy, but also warns of the consequences if they continue to be unfruitful.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "fig tree—Israel, as the visible witness of God in the world, but generally all within the pale of the visible Church of God; a familiar figure"
 2. "vineyard—a spot selected for its fertility, separated from the surrounding fields, and cultivated with special care, with a view solely to fruit."
 3. "came and sought fruit—a heart turned to God the fruits of righteousness; compare Matthew 21:33; Matthew 21:34; Isaiah 5:2, 'He looked that it should bring forth fruit'; He has a right to it, and will require it."
@@ -47,4 +47,4 @@ In this parable, the fig tree symbolizes the people of Israel, who were chosen b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

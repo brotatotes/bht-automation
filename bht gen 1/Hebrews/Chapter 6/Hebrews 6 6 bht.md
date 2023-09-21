@@ -9,7 +9,7 @@ This verse describes the dire consequences of falling away from the faith and re
 2. "They crucify Him anew, and as at his former crucifixion, put Him to shame before all."
 3. "The impossibility lies merely within the limits of the hypothesis itself."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "They have been 'once' already renewed, or made anew, and now they need to be 'renewed' over 'again.'" 
 2. "What the carnal Israel did outwardly, those who fall away from light do inwardly, they virtually crucify again the Son of God."
 3. "The impossibility rests in their having known in themselves once the power of Christ's sacrifice, and yet now rejecting it; their conscience being served, and they 'twice dead,' are now past hope, except by a miracle of God's grace."
@@ -50,4 +50,4 @@ This verse describes the dire consequences of falling away from the faith and re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

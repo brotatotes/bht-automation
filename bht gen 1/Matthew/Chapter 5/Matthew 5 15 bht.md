@@ -9,7 +9,7 @@ In this passage, commentators highlight the analogy of a candle or lamp placed o
 2. "The καίουσιν refers to men in general."
 3. "These lights of the world are 'lighted' by Him for whose use they are."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Neither do men light a candle... but on a candlestick." - This quote emphasizes the importance of not hiding one's light or talents but rather showcasing them for all to see and benefit from.
 2. "The article is inserted in both cases to express the familiarity of everyone with those household utensils." - This quote highlights the familiarity of the objects used in the analogy, making it relatable and easily understandable for the audience.
 3. "It giveth light unto all that are in the house." - This quote underscores the purpose of the light, which is to illuminate and benefit everyone in its vicinity. It emphasizes the inclusive nature of sharing one's light with others.
@@ -48,4 +48,4 @@ In this passage, commentators highlight the analogy of a candle or lamp placed o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

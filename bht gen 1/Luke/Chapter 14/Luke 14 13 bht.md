@@ -4,7 +4,7 @@
 This verse from Luke 14:21 emphasizes the importance of inviting those who are in need and marginalized to our gatherings. It encourages us to extend our hospitality to those who may not have the means to provide for themselves, specifically the poor, maimed, lame, and blind. By reaching out to this specific group, we can create an inclusive and welcoming environment that goes beyond charity and makes them feel welcome and valued.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God Himself calls the poor." (Luke 14:21)
 
 2. "God's invitation extends to the poor." (Luke 14:21)
@@ -41,4 +41,4 @@ This verse from Luke 14:21 emphasizes the importance of inviting those who are i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

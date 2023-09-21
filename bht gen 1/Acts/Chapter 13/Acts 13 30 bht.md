@@ -4,7 +4,7 @@
 The verse being described in these commentaries highlights the resurrection of Jesus Christ. It emphasizes that the message of salvation extends to both Jews and Gentiles, and that the Gospel is intended for all people. The resurrection of Jesus is depicted as a display of God's power, a fulfillment of His promises, and the cornerstone of the Christian faith. It is a miraculous event that demonstrates God's sovereignty over life and death, and serves as a powerful reminder of His faithfulness.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "children . . . of Abraham, and whosoever among you feareth God—Gentile proselytes." - This quote highlights that the message of salvation is not limited to the physical descendants of Abraham, but also extends to those who fear God, including Gentile converts.
 
 2. "to you is the word of this salvation sent" - This quote emphasizes that the Gospel message is not exclusive, but is intended for all people, regardless of their background or ethnicity.
@@ -44,4 +44,4 @@ The verse being described in these commentaries highlights the resurrection of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

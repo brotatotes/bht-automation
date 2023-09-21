@@ -4,7 +4,7 @@
 The verse describes a scene where Jesus confronts the Pharisees, who are known for their love of money. Jesus' teachings challenge their greed, prompting them to ridicule and reject his words. Their contempt stems from their belief that their wealth and reputation will protect them from criticism. Their scornful response reflects their perception of Jesus as a feeble and unintelligent figure. Despite their mockery, Jesus remains steadfast in exposing their unjust practices.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their master sin being too plainly struck at for them to relish."
 2. "But it was easier to run down than to refute such teaching."
 3. "Sneered at Him; their master sin being too plainly struck at for them to relish."
@@ -42,4 +42,4 @@ The verse describes a scene where Jesus confronts the Pharisees, who are known f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

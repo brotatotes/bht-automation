@@ -9,7 +9,7 @@ The verse described portrays a condition of spiritual blindness and servitude, w
 2. "This elsewhere is a sign of great terror." 
 3. "The Apostle might well apply such a description to the servile condition of the bondmen of the law."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let their eyes be darkened . . . and bow down their back alway—expressive either of the decrepitude, or of the servile condition, to come on the nation through the just judgment of God." 
 
 2. "The apostle's object in making these quotations is to show that what he had been compelled to say of the then condition and prospects of his nation was more than borne out by their own Scriptures." 
@@ -40,4 +40,4 @@ The verse described portrays a condition of spiritual blindness and servitude, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

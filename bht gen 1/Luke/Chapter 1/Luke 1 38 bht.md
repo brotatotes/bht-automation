@@ -9,7 +9,7 @@ In response to the angel's announcement, Mary, with unwavering faith and humble 
 2. "She was no unconscious vessel of the divine will, but in humility and faith, a fellow-worker with the purpose of the Father."
 3. "Her own unity with that purpose was required, and is here recorded."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Marvellous faith in such circumstances!" - This quote highlights the extraordinary faith displayed by Mary, despite the challenging circumstances she faced. It emphasizes her unwavering trust in God's plan and her willingness to submit to His will.
 
 2. "Visit of Mary to Elisabeth" - This quote refers to the significant event of Mary's visit to her relative, Elisabeth. It signifies the connection between the two women and the divine purpose behind their meeting, as they both carried miraculous pregnancies.
@@ -49,4 +49,4 @@ In response to the angel's announcement, Mary, with unwavering faith and humble 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

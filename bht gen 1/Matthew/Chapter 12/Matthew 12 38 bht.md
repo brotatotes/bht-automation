@@ -9,7 +9,7 @@ The commentators shed light on a scene where scribes and Pharisees confront Jesu
 2. "In consequence of our Lord declaring that his miracles were wrought by the Holy Ghost, they wish to see some decisive proof of this by a sign, not from Himself, but from Heaven."
 3. "The account in ch. Mat 16:1-4 manifestly relates to a different occurrence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "we would see a sign from thee—"a sign from heaven" ( :-); something of an immediate and decisive nature, to show, not that His miracles were real—that they seemed willing to concede—but that they were from above, not from beneath."
 2. "These were not the same class with those who charged Him with being in league with Satan (as we see from Luke 11:15; Luke 11:16); but as the spirit of both was similar, the tone of severe rebuke is continued."
 3. "The demand for a sign from heaven was a subtle way of challenging Jesus' authority and seeking to undermine His credibility."
@@ -40,4 +40,4 @@ The commentators shed light on a scene where scribes and Pharisees confront Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

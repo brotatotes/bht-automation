@@ -9,7 +9,7 @@ In this verse, a group of Jews conspired to kill Paul and bound themselves with 
 2. "Wetstein and Lightf. adduce instances of similar conspiracies, not to eat or drink till some object be gained."
 3. "See 1 Samuel 14:24 ff.; and Jos. Antt. xv. 8. 3, 4."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The act of binding themselves under a curse demonstrates the intensity of their determination to kill Paul. It shows the depth of their hatred and the lengths they were willing to go to accomplish their goal."
 
 2. "The reference to 2 Samuel 3:35 and 1 Samuel 14:24 highlights the biblical precedent of making vows or curses in times of great distress or conflict. It suggests that the conspirators saw their mission to kill Paul as a matter of life and death, invoking a solemn commitment to carry out their plan."
@@ -59,4 +59,4 @@ Note: The commentary provides insight into the meaning of the Greek words used i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, there is a sudden contrast made to emphasize the importance of what follows. The phrase "dogs" is used to symbolize the impure and morally depraved individuals who will not be admitted into the heavenly city. These individuals are described as engaging in deceitful practices and being characterized by their love for lies. The commentary further highlights the contempt and abhorrence towards these wicked individuals, emphasizing their filthiness, voraciousness, and rapacious nature.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "But—so Coptic. But" - This phrase highlights the contrast or contradiction being made in the verse, emphasizing the importance of what follows.
 2. "dogs—Greek, 'the dogs'" - The use of the term "dogs" refers to impure and filthy individuals, emphasizing the moral and spiritual state of those being described.
 3. "whosoever practiceth a lie" - This phrase expands the understanding of who is being referred to as "dogs," including those who engage in deceitful and dishonest practices.
@@ -51,4 +51,4 @@ In this verse, there is a sudden contrast made to emphasize the importance of wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

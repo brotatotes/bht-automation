@@ -9,7 +9,7 @@ This verse emphasizes the importance of self-examination and personal experience
 2. "The verse is said, as Theodoret, ἀπειλητικῶς."
 3. "Chrys. remarks, ib., ἐπειδὴ γὰρ ἐντεῦθεν βούλεσθε, φησί, διὰ τῆς εἰς ὑμᾶς κολάσεως τὴν δοκιμὴν λαβεῖν, οὐκ ἀπορήσομεν τοῦ δοῦναι ὑμῖν τὴν ἀπόδειξιν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I trust that your own Christianity will be recognized by you as sufficient 'proof' that ye are not reprobates." 
 2. "If ye doubt my apostleship, ye must doubt your own Christianity, for ye are the fruits of my apostleship." 
 3. "Christ speaks in me, without needing a proof from me more trying to yourselves."
@@ -48,4 +48,4 @@ This verse emphasizes the importance of self-examination and personal experience
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

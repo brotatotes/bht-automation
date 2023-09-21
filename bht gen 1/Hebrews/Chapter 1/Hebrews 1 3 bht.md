@@ -9,7 +9,7 @@ In this Bible verse, the description highlights the divine nature of Jesus as th
 2. "The 'verbum finitum' belonging to the relative ὅς is not found till ἐκάθισεν at the end of the verse. But the intermediate participial clauses do not stand in the same relation to the main sentence."
 3. "The Son of God is, in this his essential majesty, the expression, and the sole expression, of the divine Light, not, as in his Incarnation, its reflexion."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Who is so senseless as to doubt concerning the eternal being of the Son? For when has one seen light without effulgence?" [ATHANASIUS, Against Arius, Orations, 2].
 2. "The Sun of God in glory beams, Too bright for us to scan; But we can face the light that streams For the mild Son of man." (2 Corinthians 3:18)
 3. "Sin was the great uncleanness in God's sight, of which He has effected the purgation by His sacrifice [ALFORD]. Our nature, as guilt-laden, could not, without our great High Priest's blood of atonement sprinkling the heavenly mercy seat, come into immediate contact with God."
@@ -55,4 +55,4 @@ These quotes emphasize the divine nature of Jesus, his role as the perfect repre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

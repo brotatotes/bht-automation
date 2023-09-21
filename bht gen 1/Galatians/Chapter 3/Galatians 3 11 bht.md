@@ -4,7 +4,7 @@
 In the sight of God, no one is justified by the law; our justification before God is not based on our own efforts, but on faith. As Habakkuk 2:4 says, "the just shall live by faith," highlighting the importance of faith in our relationship with God. It is through faith, not works or obedience to the law, that we experience acceptance, life, and salvation in our ongoing journey of righteousness before God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is not of faith, but of doing, or works... Therefore 'in,' or 'by the law, no man is justified before God'... the Scripture element and conditional mean of justification is faith."
 
 2. "The just shall live by faith."
@@ -51,4 +51,4 @@ In the sight of God, no one is justified by the law; our justification before Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of a passionate and furious crowd, a speaker boldly proclaims his m
 2. "'Populi terrarum non vivunt,' was the maxim of the children of Abraham." 
 3. "'Decuerat:' implying, he ought to have been put to death long ago."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their national prejudices lashed into fury at the mention of a mission to the Gentiles."
 2. "They would speedily have done to him as they did to Stephen."
 3. "The presence and protection of the Roman officer."
@@ -55,4 +55,4 @@ In the midst of a passionate and furious crowd, a speaker boldly proclaims his m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

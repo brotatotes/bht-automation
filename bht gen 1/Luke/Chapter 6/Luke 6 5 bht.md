@@ -4,7 +4,7 @@
 In this verse, the Lord of the law vindicates His followers who faced opposition for their actions. He asserts His authority over the Sabbath, not bound by legalistic restrictions, but showing mercy and compassion. By healing on the Sabbath, Jesus reveals His divine power, challenging rigid interpretations and emphasizing the importance of understanding actions aligned with God's law. He is the Son of God, free to act according to His will and permit His disciples to do what pleases Him on that day.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I have said enough to vindicate the men ye carp at on My account: but in this place is the Lord of the law, and they have His sanction."
 2. "Lord also—rather 'even' (as in Matthew 12:8)."
 3. "As naked a claim to all the authority of Him who gave the law at Mount Sinai as could possibly be made."
@@ -32,4 +32,4 @@ In this verse, the Lord of the law vindicates His followers who faced opposition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, the commentators shed light on the commendation and boastin
 2. "The same faith which was receiving so rich increase, was manifesting itself by its fruit in the midst of persecutions and afflictions."
 3. "ἀνέχ  ., ye are enduring: the persecutions continued at the time of the Epistle being written."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Ourselves implies that not merely did they hear others speaking of the Thessalonians' faith, but they, the missionaries themselves, boasted of it."
 2. "He and his fellow missionaries themselves, make it a matter of glorying in the various churches elsewhere."
 3. "Here hope is tacitly implied as the ground of their patience; 2 Thessalonians 1:5; 2 Thessalonians 1:7 state the object of their hope, namely, the kingdom for which they suffer."
@@ -53,4 +53,4 @@ In this Bible verse, the commentators shed light on the commendation and boastin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the redeemed and victorious sing a new and exclusive song, representative of their fresh expression of praise and worship. This song can only be understood and sung by those who have been chosen and redeemed by God, signifying their transformation and renewal of heart. It is a divine melody that reflects their deliverance from the sinful world, symbolizing their separation from its corrupt influences and values.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The song is that of victory after conflict with the dragon, beast, and false prophet: never sung before, for such a conflict had never been fought before; therefore new."
 2. "They sing the new song in anticipation of His blood-bought kingdom with His saints."
 3. "Not even the angels can learn that song, for they know not experimentally what it is to have 'come out of the great tribulation, and washed their robes white in the blood of the Lamb'."
@@ -47,4 +47,4 @@ In this Bible verse, the redeemed and victorious sing a new and exclusive song, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

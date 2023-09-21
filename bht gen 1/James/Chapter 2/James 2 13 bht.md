@@ -9,7 +9,7 @@ In this verse, we see a powerful message about the importance of showing mercy t
 2. "The judgment that is coming will be unmerciful to those who have not shown mercy in their lives." 
 3. "Mercy triumphs over judgment, overpowering its condemning power and prevailing over it."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The judgment (which is coming on all of us) shall be without mercy to him who hath showed no mercy." 
 2. "Mercy rejoiceth against judgment—Mercy, so far from fearing judgment in the case of its followers, actually glorifieth against it, knowing that it cannot condemn them." 
 3. "Not that their mercy is the ground of their acquittal, but the mercy of God in Christ towards them, producing mercy on their part towards their fellow men, makes them to triumph over judgment, which all in themselves otherwise deserve."
@@ -57,4 +57,4 @@ In this verse, we see a powerful message about the importance of showing mercy t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

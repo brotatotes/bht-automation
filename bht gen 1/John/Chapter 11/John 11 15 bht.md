@@ -9,7 +9,7 @@ In this verse, we witness the significance of belief, as Jesus rejoices in the o
 2. "The ἵνα πιστ. is not to be taken as the great end of the miracle, but the end as regarded them."
 3. "Beware of the imaginary ecbatic ἵνα, which does not exist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "It is beautifully congruous to the divine decorum that in presence of the Prince of Life no one is ever said to have died" [BENGEL].
 2. "This certainly implies that if He had been present, Lazarus would not have died; not because He could not have resisted the importunities of the sisters, but because, in presence of the personal Life, death could not have reached His friend" [LUTHARDT].
 3. "His friend's death, as such, could not have been to Him 'joyous'; the sequel shows it was 'grievous'; but for them it was safe" [commentator].
@@ -45,4 +45,4 @@ In this verse, we witness the significance of belief, as Jesus rejoices in the o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Beware of those impudent and contentious individuals who are enemies of the cros
 2. "The appellation occurs in various references; but in the Jewish usage of it, uncleanness was the prominent idea."
 3. "By ἐργάτας, he seems to point out persons who actually wrought, and professedly for the Gospel, but who were ‘evil workmen,’ not mere ‘evil-doers.’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beware of the dogs, those impure persons who are enemies of the cross of Christ." 
 2. "Evil workers, men who worked for evil, serving not our Lord, but their own belly." 
 3. "Christians have the only true circumcision, namely, that of the heart; legalists have only 'concision,' that is, the cutting off of the flesh."
@@ -50,4 +50,4 @@ Beware of those impudent and contentious individuals who are enemies of the cros
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

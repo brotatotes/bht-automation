@@ -9,7 +9,7 @@ In this verse, the temple in heaven is symbolically opened, signifying the begin
 2. "The ark of the Covenant was seen in His temple." The ark symbolizes God's faithfulness in bestowing grace on His people and inflicting vengeance on their enemies.
 3. "There were lightnings and voices and thunderings and an earthquake and a great hail." These are the salvos of the artillery of heaven, marking the conclusion of each series of visions and signaling the power and authority of God's judgments.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The seven seals, the seven trumpets, and the seven vials, are not consecutive, but parallel, and ending in the same consummation."
 2. "The heavenly sanctuary is opened for the assurance of His people, and thence proceed His judgments in their behalf."
 3. "This forms a fit close to the series of trumpet judgments and an introduction to His faithfulness to His Church."
@@ -54,4 +54,4 @@ Note: The commentary is quite long and complex, so it was challenging to find co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus prays for his disciples to remain in the world while being 
 2. "Not 'from the evil,' as E. V.; but from the evil One, see the usage of our Apostle in 1 John 2:13-14, ὅτι νενικήκατε τὸν πονηρόν, ib. 1 John 5:18, and compare ib. 1 John 3:12."
 3. "To be delivered from the evil one is to be delivered from his power, his influence, his temptations, and his snares."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I pray not that thou shouldest take them out of the world—for that, though it would secure their own safety, would leave the world unblessed by their testimony."
 2. "Keep them from the evil—all evil in and of the world."
 3. "The prayer of Christ for his disciples is that they may be kept from evil, from the evil one, from the evil of sin, from the evil of the world, from the evil of their own hearts."
@@ -55,4 +55,4 @@ In this verse, Jesus prays for his disciples to remain in the world while being 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

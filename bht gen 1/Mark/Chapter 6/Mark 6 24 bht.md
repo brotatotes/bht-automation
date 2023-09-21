@@ -4,7 +4,7 @@
 In this Bible verse, we see the malicious and shameless nature of a woman named Herodias, who sought to get rid of a man who spoke the word of God. Herodias's desire for revenge was calculated and deliberate, as she longed for the death of this man who opposed her. Even the daughter of Herodias played a role, seeking her mother's guidance on what to ask for. This verse reveals the power of the word of God, as even in prison, the voice of this holy man wounded and tormented the minds of those who opposed him.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abandoned women are more shameless and heartless than men."
 2. "The Baptist's fidelity marred the pleasures of Herodias."
 3. "This was too good an opportunity of getting rid of him to let slip."
@@ -35,4 +35,4 @@ In this Bible verse, we see the malicious and shameless nature of a woman named 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

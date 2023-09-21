@@ -9,7 +9,7 @@ In this Bible verse, the commentator quotes reveal that there is a power restrai
 2. "νῦν is a mere adverb of passage, and the stress is on τὸ κατέχον." 
 3. "The aim of κατέχον (in God’s purposes) q. d. 'that which keeps him back, that he may not be revealed before his,' &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The power that has restrained the man of sin from his full and final development is the moral and conservative influence of political states."
 2. "The historical fact from which Paul starts in his prediction was probably the emperor Claudius' expulsion of the Jews, the representative of the anti-Christian adversary in Paul's day, from Rome, thus 'withholding' them in some degree in their attacks on Christianity."
 3. "The removal of the withholding power will be when the civil polity, derived from the Roman empire, which is to be, in its last form, divided into ten kingdoms, shall yield to the prevalent godless 'lawlessness' with 'the lawless one' as its embodiment."
@@ -59,4 +59,4 @@ In this Bible verse, the commentator quotes reveal that there is a power restrai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

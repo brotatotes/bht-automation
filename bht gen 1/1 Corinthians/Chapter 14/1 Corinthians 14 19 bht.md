@@ -9,7 +9,7 @@ The verse being described emphasizes the importance of teaching and understandin
 2. "The prep. serves to categorize the substantive following it, and so make it general instead of particular."
 3. "The understanding being only the indirect instrument."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I wish to speak five words with my understanding (rather) than ten thousand words in an unknown tongue."
 2. "Even the two thousandth part of ten thousand."
 3. "Paul would NOT wish at all to speak 'ten thousand words in an unknown tongue'."
@@ -52,4 +52,4 @@ The verse being described emphasizes the importance of teaching and understandin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

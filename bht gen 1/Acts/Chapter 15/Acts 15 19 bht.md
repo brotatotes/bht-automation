@@ -9,7 +9,7 @@ The verse in question involves a discussion among early Christian leaders about 
 2. "In παρενοχλ. there is no meaning of 'præter, … insuper, molestiam creare:’ but simply 'molestiam creare.'"
 3. "See reff."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "My sentence, or 'judgment,' is that we trouble not with Jewish obligations." 
 2. "The work is regarded as in progress, and indeed was rapidly advancing." 
 3. "The Gentiles are turning to God."
@@ -49,4 +49,4 @@ These quotes highlight the uniqueness of the word "trouble" in the New Testament
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

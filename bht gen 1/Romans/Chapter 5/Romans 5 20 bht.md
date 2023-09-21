@@ -9,7 +9,7 @@ The law of Moses entered as an additional measure that revealed the extent of si
 2. "The effect of the Law, the creating and multiplying transgression, was an end in the divine purposes, to bring out the necessity of One who should deliver from sin and bring in righteousness."
 3. "Where sin was multiplied, God's grace did beyond measure abound."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The promulgation of the law at Sinai was no primary or essential feature of the divine plan, but it was 'added' for a subordinate purpose—the more fully to reveal the evil occasioned by Adam, and the need and glory of the remedy by Christ."
 2. "All our multitudinous breaches of the law are nothing but that one first offense, lodged mysteriously in the bosom of every child of Adam as an offending principal, and multiplying itself into myriads of particular offenses in the life of each."
 3. "The comparison here is between the multiplication of one offense into countless transgressions, and such an overflow of grace as more than meets that appalling case."
@@ -58,4 +58,4 @@ Note: The commentary for Romans 5:20-21 provides explanations and interpretation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

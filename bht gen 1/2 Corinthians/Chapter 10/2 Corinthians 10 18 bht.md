@@ -9,7 +9,7 @@ In this verse, it is clear that one's self-commendation holds no weight. Instead
 2. "The Lord, he is the God."
 3. "We have the usage in English in affirmative sentences, but not in negative ones."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "whom the Lord commendeth—to whom the Lord has given as His 'Epistle of commendation,' the believers whom he has been the instrument of converting: as was Paul's case." 
 2. "is approved—can stand the test of the final trial. A metaphor from testing metals." 
 3. "So on the other hand, those finally rejected by the Lord are termed 'reprobate silver'."
@@ -45,4 +45,4 @@ In this verse, it is clear that one's self-commendation holds no weight. Instead
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

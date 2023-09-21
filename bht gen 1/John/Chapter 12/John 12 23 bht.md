@@ -9,7 +9,7 @@ The verse being described is a powerful moment in Jesus' ministry when the time 
 2. "The very appearance of these Greeks is to Him a token that His glorification is at hand."
 3. "The rejection of the Jews for their unbelief is the secondary subject, and is commented on by the Evangelist."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The middle wall of partition that keeps them out from the commonwealth of Israel is on the eve of breaking down." 
 2. "I, if I be lifted up from the earth, shall draw all men unto Me." 
 3. "Lost in the scenes of triumph which this desire of the Greeks to see Him called up before His view, He gives no direct answer to their petition for an interview, but sees the cross which was to bring them gilded with glory."
@@ -61,4 +61,4 @@ The verse being described is a powerful moment in Jesus' ministry when the time 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 Between the prayers of martyrs and the final judgments, a partial obscuration descends, extinguishing a portion of the world's rulers and teachers. The darkness spreads, leaving the world in gloom, but hints at the eventual return of light. The luminaries' darkening symbolizes great calamity, and as the sun, moon, and stars are affected, so too is the earth and its comfort. Part of the world suffers, as if immersed in darkness, while the church's order and beauty are defaced. Under the sun, ministers become corrupt, leading to a time of darkness before the final judgments.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "This partial obscuration, therefore, comes between the prayers of the martyrs under the fifth seal, and the last overwhelming judgments on the ungodly under the sixth seal, at the eve of Christ's coming."
 2. "The night likewise withdrew a third part of the light which the bright Eastern moon and stars ordinarily afford."
 3. "The third part of the sun, moon, and stars being darkened, implies that a portion of the world's rulers and teachers, civil and ecclesiastical, shall be extinguished."
@@ -38,4 +38,4 @@ Between the prayers of martyrs and the final judgments, a partial obscuration de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

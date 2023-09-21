@@ -4,7 +4,7 @@
 The verse discussed in these commentaries refers to the dangers of giving heed to fables and endless genealogies. The commentators warn against being swayed by false Jewish traditions and getting caught up in intricate pedigrees that lead to pointless debates and controversies. Instead, they encourage focusing on the core teachings of the scripture and promoting godly edification in faith. This verse reminds us to discern what is truly beneficial and reject that which hinders spiritual growth.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Jewish fables" (Colossians 2:18-23). "Profane, and old wives' fables" (1 Timothy 4:7; 2 Timothy 4:4).
 2. The Judaizers here alluded to, while maintaining the perpetual obligation of the Mosaic law, joined with it a theosophic ascetic tendency, pretending to see in it mysteries deeper than others could see.
 3. Paul opposes to their "aeons," the "King of the aeons (so the Greek, 1 Timothy 1:17), whom be glory throughout the aeons of aeons."
@@ -52,4 +52,4 @@ The verse discussed in these commentaries refers to the dangers of giving heed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

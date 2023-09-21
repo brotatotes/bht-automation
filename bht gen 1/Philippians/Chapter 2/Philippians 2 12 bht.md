@@ -10,7 +10,7 @@ In this verse, the commentators explain the need for believers to actively and d
 3. "with fear and trembling (lest you should fail of its accomplishment at the last. The expression indicates a state of anxiety and self-distrust: see reff. δεῖ γὰρ φοβεῖσθαι κ. τρέμειν ἐν τῷ ἐργάζεσθαι τὴν ἰδίαν σωτηρίαν ἕκαστον, μήποτε ὑποσκελισθεὶς ἐκπέσῃ ταύτης."
 
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "See that ye also be 'obedient,' and so 'your salvation' shall follow your obedience."
 2. "Salvation is 'worked in' believers by the Spirit, who enables them through faith to be justified once for all; but it needs, as a progressive work, to be 'worked out' by obedience, through the help of the same Spirit, unto perfection."
 3. "Now that I am not present to further the work of your salvation, 'work out your own salvation' yourselves the more carefully. Do not think this work cannot go on because I am absent; 'for it is God that worketh in you.'"
@@ -59,4 +59,4 @@ In this verse, the commentators explain the need for believers to actively and d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In the midst of discussions and debates over baptism, there arose a dispute rega
 2. "They were both watched jealously by the Pharisees."
 3. "One of these appears to have entered into dispute with the disciples of John about the relative importance of the two baptisms."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "on the part of" - This phrase suggests that there was a division or disagreement between certain individuals or groups regarding the act of purifying or baptizing. It implies that there was a difference in beliefs or practices, leading to discussions and debates.
 2. "and a Jew" - This phrase highlights that there was a specific Jew involved in the discussions about purifying or baptizing. It suggests that this individual may have had a different perspective or stance on the matter, adding to the diversity of opinions and viewpoints.
 3. "symbolical meaning of washing with water being put for the act itself" - This statement explains that the act of purifying or baptizing was symbolic and represented a deeper spiritual meaning. It suggests that the physical act of washing with water was used to symbolize a spiritual cleansing or purification.
@@ -56,4 +56,4 @@ In the midst of discussions and debates over baptism, there arose a dispute rega
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

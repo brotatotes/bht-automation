@@ -9,7 +9,7 @@ This passage speaks to the transformative power of death and resurrection. Just 
 2. "The similitude was used by our Lord of His own Resurrection."
 3. "Its life is latent in it; but is not developed into quick and lively action without the death of the deposited seed."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The seed which thou thyself sowest." - This quote emphasizes the personal experience of the objector, highlighting the connection between sowing seeds and the concept being discussed.
 2. "Death, so far from preventing quickening, is the necessary prelude and prognostication of it." - This quote explains the paradoxical relationship between death and new life, suggesting that death is not an obstacle but rather a precursor to growth and transformation.
 3. "Christ by His death for us has not given us a reprieve from death as to the life which we have from Adam; nay, He permits the law to take its course on our fleshly nature; but He brings from Himself new spiritual and heavenly life out of death." - This quote highlights the role of Christ's death in bringing about a new spiritual and heavenly life, contrasting it with the natural life inherited from Adam.
@@ -55,4 +55,4 @@ This passage speaks to the transformative power of death and resurrection. Just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

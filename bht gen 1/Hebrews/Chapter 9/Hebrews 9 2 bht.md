@@ -9,7 +9,7 @@ In describing the significance of the various articles in the tabernacle, commen
 2. "The question, whether the Writer thinks (locally) of two tabernacles, or is speaking of the first portion of one and the same tabernacle, is of no great importance: the former would be but a common way of expressing the latter."
 3. "There can be no doubt that it is neut. plur. This is insisted on as early as by Thdrt.: προπαροξυτόνως ἀναγνωστέον τὰ ἅγια · οὕτω γὰρ ἡμᾶς διδάσκει νοεῖν τὸ ἕτερον ὄνομα: viz. ἅγια ἁγίων, Hebrews 9:3."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The candlestick consisted of a shaft and six branches of gold, seven in all, the bowls made like almonds, with a knop and a flower in one branch." 
 2. "The table of shittim wood, covered with gold, was for the showbread." 
 3. "The Eucharist continues until our entrance into the heavenly Holy of Holies."
@@ -55,4 +55,4 @@ In describing the significance of the various articles in the tabernacle, commen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

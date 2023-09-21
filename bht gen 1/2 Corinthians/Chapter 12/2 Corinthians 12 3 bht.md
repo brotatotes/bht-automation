@@ -4,7 +4,7 @@
 This verse refers to the apostle Paul's extraordinary experience of being caught up to the third heaven, as mentioned in the previous verse. It highlights his unique privilege of receiving a revelation from God. The phrase "such a man" reflects Paul's humility, reminding us that encounters with God should not be a source of personal pride, but a testament to God's grace. This encounter also reminds us of the vastness of God's presence and encourages us to seek a deeper understanding of His mysteries.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I know." - This phrase emphasizes the speaker's certainty and knowledge about the subject at hand.
 2. "Most of the oldest manuscripts read 'apart from.'" - This suggests that the original text may have used the phrase "apart from" instead of "out of," providing a different nuance or understanding to the verse.
 3. "The oldest manuscripts" - Referring to the age and authenticity of the manuscripts, this phrase highlights the importance of considering the earliest sources when interpreting the verse.
@@ -35,4 +35,4 @@ This verse refers to the apostle Paul's extraordinary experience of being caught
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

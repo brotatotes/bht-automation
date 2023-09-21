@@ -9,7 +9,7 @@ The passage depicts a scene where the disciples are approached by an angel, who 
 2. "An imperfect narrative like the one in the text could easily describe the angel's appearance as taking place within the tomb." 
 3. "This commentary highlights the possibility of a more detailed and accurate account of the angel's actions and presence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Be not affrighted—a stronger word than 'Fear not' in Matthew." 
 2. "Ye seek Jesus of Nazareth, which was crucified!—'the Nazarene, the Crucified.'" 
 3. "He is risen; he is not here—behold the place where they laid him."
@@ -35,4 +35,4 @@ The passage depicts a scene where the disciples are approached by an angel, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this Bible verse, we see a contrast between the righteous and the wicked. The
 2. "The righteous man, dwelling among them, day by day tormented his righteous soul with their lawless deeds."
 3. "It was by his own sight and hearing of what went on around him, that he ψυχὴν δικαίαν ἐβασάνιζεν."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The Lord reminds us of Lot's faithfulness, but not of his sin in the cave: so in Rahab's case." 
 2. "The wicked—Greek, 'lawless': who set at defiance the laws of nature, as well as man and God." 
 3. "Filthy conversation—literally, 'behavior in licentiousness' (Genesis 19:5)."
@@ -43,4 +43,4 @@ In this Bible verse, we see a contrast between the righteous and the wicked. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

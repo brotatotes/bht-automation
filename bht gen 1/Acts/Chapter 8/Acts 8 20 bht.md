@@ -9,7 +9,7 @@ In this verse, we see a strong denouncement of the desire to obtain spiritual po
 2. "Thou with it, as having no higher life than thy natural corrupt one."
 3. "Let thy lot be ἀπ ., and that because thou thoughtest,"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Accursed be thou and thy money with thee."
 2. "It is the language of mingled horror and indignation."
 3. "Not unlike our Lord's rebuke of Peter himself."
@@ -50,4 +50,4 @@ In this verse, we see a strong denouncement of the desire to obtain spiritual po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

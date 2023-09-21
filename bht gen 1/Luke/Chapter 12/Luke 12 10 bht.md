@@ -11,7 +11,7 @@ This verse warns against the unpardonable sin, the blasphemy against the Holy Sp
 
 3. "Understanding the context of this verse helps us grasp the significance of Jesus' words. It serves as a warning against hardening our hearts and resisting the work of the Holy Spirit. It reminds us to be open to God's leading and to seek forgiveness for any sins we may have committed, knowing that God's grace is available to all who repent."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Son of man... Holy Ghost" - This phrase highlights the dual nature of Jesus as both fully human (Son of man) and fully divine (Holy Ghost). It emphasizes his unique position as the bridge between heaven and earth, capable of understanding the human experience while also being connected to the divine realm.
 
 2. "Covetousness - Watchfulness - Superiority to earthly ties" - This trio of concepts suggests a moral lesson for believers. It encourages them to guard against the sin of covetousness, to be vigilant and watchful in their spiritual lives, and to prioritize their relationship with God over earthly attachments. It reminds readers to focus on eternal values rather than temporary worldly pursuits.
@@ -58,4 +58,4 @@ This verse warns against the unpardonable sin, the blasphemy against the Holy Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

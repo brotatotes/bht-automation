@@ -11,7 +11,7 @@ The act of putting on the Lord Jesus Christ is not merely a superficial action, 
 
 3. "Take not your forethought for the flesh, so, as to fulfil its lusts." - "Do not prioritize the needs of the flesh in a way that leads to fulfilling its desires."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Put ye on the Lord Jesus Christ—in such wise that Christ only may be seen in you."
 2. "Direct none of your attention to the cravings of your corrupt nature, how you may provide for their gratification."
 3. "Christianity is the grand specific for the purification and elevation of all the social relations; inspiring a readiness to discharge all obligations, and most of all, implanting in its disciples that love which secures all men against injury from them, inasmuch as it is the fulfilling of the law."
@@ -59,4 +59,4 @@ These quotes emphasize the significance of putting on the Lord Jesus Christ, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

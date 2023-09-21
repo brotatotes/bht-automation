@@ -4,7 +4,7 @@
 In this verse, a publican experiences a sudden and complete transformation, as Jesus' presence and words have a profound effect on him. Filled with joy, the publican responds to Jesus eagerly and joyfully, seeking refuge and salvation in Him. This encounter with Jesus brings genuine happiness, leading the publican to embrace Jesus as the Savior, embracing His teachings, and finding great joy in his newfound relationship with Him. The publican's rapid and joyful transformation showcases the power and impact of Jesus' words and presence.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whence this so sudden 'joy' in the cold bosom of an avaricious publican?" - This quote highlights the unexpected and rapid transformation of the publican's heart. It raises the question of where this joy comes from and emphasizes the profound change that has taken place.
 
 2. "The internal revolution was as perfect as instantaneous." - This quote emphasizes the completeness and immediacy of the publican's transformation. It suggests that his change of heart was not gradual or partial, but rather a complete and instantaneous revolution.
@@ -30,4 +30,4 @@ In this verse, a publican experiences a sudden and complete transformation, as J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

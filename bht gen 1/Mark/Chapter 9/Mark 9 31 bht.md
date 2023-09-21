@@ -4,7 +4,7 @@
 In this verse, Jesus emphasizes the importance of his words and urges his disciples to pay close attention and internalize his teachings. He foretells his impending betrayal and arrest, highlighting the imminent danger he will face at the hands of humanity. Jesus warns his disciples not to be swayed by his earthly glory but to remember that his ultimate fate is to be crucified and experience darkness before his resurrection. The secrecy surrounding these events is due to the disciples not being fully prepared to understand and accept the reality of Jesus' death and resurrection.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Let these sayings sink down into your ears" - Jesus emphasizes the importance of his words, urging his disciples to pay close attention and internalize his teachings.
 2. "The Son of man is delivered...into the hands of men" - Jesus foretells his impending betrayal and arrest, highlighting the imminent danger he will face at the hands of humanity.
 3. "Be not carried off your feet by all that grandeur of Mine...that Sun in whose beams ye now rejoice is soon to set in midnight gloom" - Jesus warns his disciples not to be swayed by his earthly glory, reminding them that his ultimate fate is to be crucified and experience darkness before his resurrection.
@@ -35,4 +35,4 @@ In this verse, Jesus emphasizes the importance of his words and urges his discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

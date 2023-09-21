@@ -383,7 +383,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
 if __name__ == '__main__':
     COMMENTATORS = [
         "Henry Alford",
-        "Jamieson Fausset Brown",
+        "Jamieson-Fausset-Brown",
         "Albert Barnes",
         "Marvin Vincent",
         "John Calvin",
@@ -429,6 +429,8 @@ if __name__ == '__main__':
             verses.append(verse)
 
     start_time = time.time()
+
+    verses = ["Matthew 1:1"]
 
     generate_bht_concurrently(verses, ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
 

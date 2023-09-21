@@ -4,7 +4,7 @@
 The verse being described emphasizes the importance of love, particularly towards fellow believers. It underscores that this commandment is not something new or novel, but rather an age-old instruction that has been passed down from generation to generation. This commandment to love others is an integral part of walking in the ways of Christ and has been upheld since the early days of the Christian church. It serves as a reminder of the faithfulness of God and the significance of honoring and keeping His word.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Beloved, appropriate to the subject here, love."
 2. "Love, the main principle of walking as Christ walked."
 3. "The love of brethren."
@@ -47,4 +47,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this passage, the author emphasizes the authority and right of ministers of t
 
 3. "See 1 Corinthians 9:4 ff., where he treats of his abstinence from this his apostolic power." - This quote references another biblical verse and suggests that it provides further insight or context to the topic being discussed. It implies that the author is drawing upon other biblical passages to support their argument or analysis.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The laborer is worthy of his hire. The apostle argues from the common practice of mankind, that those who labor in the service of others are entitled to a just recompense for their labor. This principle is recognized and acted upon in all the common affairs of life; and it is equally applicable to the ministers of the gospel." 
 
 2. "The apostle here refers to the custom of the Jews, who were accustomed to support their religious teachers. It was a custom among the Jews to give a tenth part of their income to the support of the Levites, who were the ministers of religion among them. This custom was recognized and sanctioned by the law of Moses." 
@@ -56,4 +56,4 @@ In this passage, the author emphasizes the authority and right of ministers of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

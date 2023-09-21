@@ -9,7 +9,7 @@ This verse emphasizes the authority given to the disciples to make decisions reg
 2. "It is here not only to him as the first stone, but to the whole building."
 3. "See note there, and on John 20:23, between which and our ch. Mat 16:19 this is a middle point."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Whatsoever ye shall bind on earth shall be bound in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven." - This verse emphasizes the authority given to the disciples to make decisions regarding membership in the Church, with the assurance that their decisions will be upheld in heaven.
 
 2. "Here, what had been granted but a short time before to Peter only is plainly extended to all the Twelve." - This commentary highlights that the authority mentioned in the verse was not exclusive to Peter, but was given to all the disciples, emphasizing their equal standing and responsibility within the Church.
@@ -56,4 +56,4 @@ This verse emphasizes the authority given to the disciples to make decisions reg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

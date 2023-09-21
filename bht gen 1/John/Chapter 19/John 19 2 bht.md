@@ -4,7 +4,7 @@
 In this powerful verse, we witness the brutal mockery inflicted upon Jesus during his crucifixion. He is crowned with thorns, a symbol of the soldiers' contempt for his claim as a king. They go further, placing a purple robe on him, ridiculing his authority. The soldiers' insolence exceeds Pilate's orders, while the Jews remain unmoved. However, amidst this cruelty and wickedness, we find a deeper purpose - the reconciling of the world to God through the sacrificial death of his Son.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The soldiers platted a crown of thorns, and put it on his head—in mockery of a regal crown."
 2. "And they put on him a purple robe—in mockery of the imperial purple; first 'stripping him' of His own outer garment."
 3. "The robe may have been the 'gorgeous' one in which Herod arrayed and sent Him back to Pilate."
@@ -30,4 +30,4 @@ In this powerful verse, we witness the brutal mockery inflicted upon Jesus durin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

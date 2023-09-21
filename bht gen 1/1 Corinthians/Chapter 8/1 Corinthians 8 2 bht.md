@@ -4,7 +4,7 @@
 In this verse, Paul speaks of the danger of knowledge without humility or love. The commentators emphasize the importance of recognizing our limitations and avoiding arrogance. True knowledge, they suggest, is accompanied by humility, kindness, and a conscious awareness of our need to continually learn and grow. It is not simply intellectual knowledge, but a deeper connection with God that transforms our understanding and leads to love and compassion for others.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The first step to knowledge is to know our own ignorance."
 2. "Without love there is only the appearance of knowledge."
 3. "Knoweth implies personal experimental acquaintance, not merely knowledge of a fact."
@@ -50,4 +50,4 @@ In this verse, Paul speaks of the danger of knowledge without humility or love. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

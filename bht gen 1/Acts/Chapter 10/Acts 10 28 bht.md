@@ -9,7 +9,7 @@ This passage depicts a transformational experience where the speaker receives a 
 2. "There is some difficulty about this unlawfulness of consorting with those ἀλλόφυλοι who, like Cornelius, worshipped the true God."
 3. "But whatever exceptions there may have been, it was unquestionably the general practice of the Jews to separate themselves in common life from uncircumcised persons."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Intimate social fellowship was not practiced, as being adverse to the spirit of the law."
 2. "There was no express prohibition to this effect, and to a certain extent intercourse was certainly kept up."
 3. "But intimate social fellowship was not practiced, as being adverse to the spirit of the law."
@@ -58,4 +58,4 @@ This passage depicts a transformational experience where the speaker receives a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

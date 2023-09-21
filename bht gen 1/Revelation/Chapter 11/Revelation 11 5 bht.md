@@ -4,7 +4,7 @@
 The commentators bring a depth of understanding to the Bible verse, painting a vivid picture of the passage. They describe God's inspired denunciations of judgment coming to pass, with fire symbolizing His destructive power and righteous judgment. The commentators highlight the invulnerability of the witnesses and draw parallels to biblical accounts of divine judgment, emphasizing the consequences of rebellion. The word of God is compared to fire, illuminating and purifying, revealing truth and purging impurities. Ultimately, the verse embodies God's justice and the importance of obedience to His established authority.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "God makes their inspired denunciations of judgment to come to pass and devour their enemies."
 2. "Twice repeated, to mark the immediate certainty of the accomplishment."
 3. "Retribution in kind."
@@ -49,4 +49,4 @@ The commentators bring a depth of understanding to the Bible verse, painting a v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

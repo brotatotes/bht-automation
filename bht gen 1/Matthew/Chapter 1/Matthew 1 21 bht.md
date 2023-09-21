@@ -9,7 +9,7 @@ The verse describes the significance of the name Jesus, which means "Savior" or 
 2. "τὸν λαὸν αὐτοῦ] In the primary sense, the Jews, of whom alone Joseph could have understood the words: but in the larger sense, all who believe on Him." 
 3. "ἀπὸ τῶν ἁμαρτιῶν] It thus bears the internal impress of a message from God, treasured up and related in its original formal terms."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "JESUS—to the awakened and anxious sinner sweetest and most fragrant of all names, expressing so melodiously and briefly His whole saving office and work!"
 2. "The 'He' is here emphatic—He it is that shall save; He personally, and by personal acts."
 3. "But, on the breaking down of the middle wall of partition, the saved people embraced the 'redeemed unto God by His blood out of every kindred and people and tongue and nation.'"
@@ -52,4 +52,4 @@ The verse describes the significance of the name Jesus, which means "Savior" or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

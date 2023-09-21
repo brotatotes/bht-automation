@@ -4,7 +4,7 @@
 Let us partake in the perpetual feast, keeping sincerity and truth as our unleavened bread. As we celebrate the feast, let us reject malice and wickedness, putting away the old leaven of our unconverted state. This feast, like the Passover, nourishes us for our journey towards eternal redemption, providing spiritual sustenance through the body and blood of Christ. By participating in this feast with sincerity and truth, we strengthen our faith and demonstrate our true, inward devotion to God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "not . . . old leaven—of our unconverted state as Jews or heathen."
 2. "malice—the opposite of 'sincerity,' which allows no leaven of evil to be mixed up with good."
 3. "wickedness—the opposite of 'truth,' which allows not evil to be mistaken for good."
@@ -50,4 +50,4 @@ Let us partake in the perpetual feast, keeping sincerity and truth as our unleav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

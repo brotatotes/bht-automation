@@ -4,7 +4,7 @@
 In the temple, Jesus, who is the Lord and proprietor, cast out the sellers and buyers, overthrew their tables, and exposed their corruption and exploitation. His actions were fueled by righteous indignation and a desire to restore the true purpose of the temple as a place of prayer and worship. This act served as a prophetic sign of judgment and restoration, challenging the religious leaders and reminding us to uphold holiness and reject all forms of corruption in our lives and in the church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "As the first cleansing was on His first visit to Jerusalem, so this second cleansing was on His last."
 2. "Den of thieves—banded together for plunder, reckless of principle."
 3. "The mild term 'house of merchandise,' used on the former occasion, was now unsuitable."
@@ -34,4 +34,4 @@ In the temple, Jesus, who is the Lord and proprietor, cast out the sellers and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this verse, the first beast, representing the secular power, and the second beast, symbolizing the ecclesiastical power of Rome, are captured and defeated. The leaders of these powers are forcefully seized, reserved for severe punishment, and cast into the lake of fire, symbolizing the ultimate judgment for their deception and ungodliness. The punishment, described as the wrath of God, is intense and everlasting, reflecting the severity of their actions and refusal to repent. This event marks the end of false statecraft and false priestcraft, as the enemies of God face the righteous judgment they deserve.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Many expositors represent the first beast to be the secular, the second beast to be the ecclesiastical power of Rome; and account for the change of title for the latter from the 'other beast' to the 'false prophet,' is because by the judgment on the harlot, the ecclesiastical power will then retain nothing of its former character save the power to deceive."
 2. "The first beast is a political power; the second is a spiritual power—the power of ideas. But both are beasts, the worldly Antichristian wisdom serving the worldly Antichristian power."
 3. "The world at the highest development of its material and spiritual power is but a decorated carcass round which the eagles gather."
@@ -45,4 +45,4 @@ In this verse, the first beast, representing the secular power, and the second b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

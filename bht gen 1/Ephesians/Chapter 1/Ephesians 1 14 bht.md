@@ -4,7 +4,7 @@
 The Bible verse being described is a promise of future redemption, where believers can find assurance in the presence of the Holy Spirit as a pledge that the full inheritance of eternal life will be theirs. This redemption encompasses the complete deliverance from sin and the final glorification of both the soul and the body. The Holy Spirit serves as a seal, guaranteeing the security of this inheritance and demonstrating the everlasting nature of God's grace and the perpetual indwelling of the Spirit. Ultimately, this is all to the praise and glory of God's magnificent attributes.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Earnest—the first instalment paid as a pledge that the rest will follow."
 2. "Unto the redemption...for the purpose of and against, the accomplishment of 'the redemption,' namely, not the redemption in its first stage, made by the blood of Christ, which secures our title, but, in its final completion, when the actual possession shall be ours, the full 'redemption of the body' as well as of the soul, from every infirmity."
 3. "The deliverance of the creature (the body, and the whole visible creation) from the bondage of corruption, and from the usurping prince of this world, into the glorious liberty of the children of God."
@@ -51,4 +51,4 @@ The Bible verse being described is a promise of future redemption, where believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 The verse being described here emphasizes the significance of early exposure to the scriptures, particularly the Old Testament. It highlights the transformative power of the scriptures, which have the ability to impart wisdom that leads to salvation. Additionally, it underscores the importance of both the Old and New Testaments together, as they provide a more abundant wisdom and understanding for salvation.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The tender age of the first dawn of reason is that wherein the most lasting impressions of faith may be made."
 2. "An undesigned coincidence with 2 Timothy 1:5; Acts 16:1-3."
 3. "Each knows divine things only as far as his own experience in himself extends. He who has not faith, has not wisdom or salvation."
@@ -52,4 +52,4 @@ The verse being described here emphasizes the significance of early exposure to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

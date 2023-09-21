@@ -4,7 +4,7 @@
 In this profound verse, the Lamb, who is the Messiah, takes on the role of a caring and guiding Shepherd, leading and nurturing his flock with everlasting peace and joy. Not only does he provide sustenance, but he also leads them to the life-giving fountains of the Holy Spirit, quenching their spiritual thirst. In this blessed state, they will no longer experience suffering or grief, as God tenderly wipes away all their tears, promising a future of eternal happiness and comfort.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "In the midst of the throne" refers to the middle point in front of the throne, indicating a position of prominence and authority.
 2. The word "feed" in Greek can also be translated as "tend as a shepherd," suggesting a caring and nurturing role.
 3. The phrase "living fountains of water" can be understood as "eternal life's fountains of waters," emphasizing the everlasting nature of these life-giving sources.
@@ -40,4 +40,4 @@ In this profound verse, the Lamb, who is the Messiah, takes on the role of a car
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

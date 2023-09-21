@@ -4,7 +4,7 @@
 This passage, described by various commentators, warns of the dangers of an apostasy arising from hypocritical, lying teachers who deceive others and lead them away from the faith. These deceivers have consciences that are branded, calloused, and seared, indicating a lack of sensitivity to their own wrongdoing. They intentionally spread false doctrines and engage in wicked acts while feigning sanctity, highlighting the need for discernment and vigilance in the face of such deceptions. The passage serves as a cautionary reminder to stay grounded in true faith and to be aware of those who distort and undermine the teachings of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Through the hypocrisy of lying speakers" - This phrase highlights the means through which some individuals are led astray from their faith. It emphasizes the deceptive nature of those who pretend to be holy but are actually spreading falsehoods.
 
 2. "Having their own conscience seared" - This phrase describes the state of those who not only deceive others but also have a corrupted conscience themselves. It suggests that their conscience is calloused or scarred, indicating their insensitivity to their own wrongdoing.
@@ -52,4 +52,4 @@ These quotes shed light on the deceptive tactics and corrupted conscience of tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

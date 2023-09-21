@@ -9,7 +9,7 @@ In this verse, the writer is urging Titus to complete a task, emphasizing the im
 2. "The aim, and purport as well, of our request." 
 3. "It does not belong to 'this grace also, as well as other graces,' but to 'this grace also' altogether."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "We could not but exhort Titus, that as we collected in Macedonia, so he in Corinth should complete the work of collecting which he had already begun there." 
 2. "Lest ye, the wealthy people of Corinth, should be outdone in liberality by the poor Macedonians."
 3. "Complete among you this act of grace or beneficence on your part."
@@ -59,4 +59,4 @@ In this verse, the writer is urging Titus to complete a task, emphasizing the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

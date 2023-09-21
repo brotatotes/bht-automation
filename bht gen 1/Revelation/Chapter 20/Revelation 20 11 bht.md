@@ -4,7 +4,7 @@
 In this powerful and awe-inspiring vision, a great white throne is revealed, symbolizing the supreme authority and purity of the one who sits upon it. This throne, associated with the judgment of the wicked, represents the righteous judge, Jesus Christ, accompanied by the Almighty Father. As His presence is unveiled, the earth and heavens flee away, shaking under His divine presence, for no place is found for them. The dissolution of all things underscores the magnitude of His majestic and severe but honorable presence on the throne.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Great" - The greatness of the one who sits on the white throne is emphasized, contrasting with the thrones mentioned in Revelation 20:4. This signifies the supreme authority and power of the one who will judge all.
 2. "White" - The color white symbolizes purity and justice. It represents the righteous judgment that will be carried out by the one who sits on the throne.
 3. "God in Christ" - The one who sits on the throne is identified as the Son, to whom the Father has entrusted all judgment. This highlights the role of Jesus Christ as the mediator between God and humanity, and the ultimate authority in the final judgment.
@@ -39,4 +39,4 @@ In this powerful and awe-inspiring vision, a great white throne is revealed, sym
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

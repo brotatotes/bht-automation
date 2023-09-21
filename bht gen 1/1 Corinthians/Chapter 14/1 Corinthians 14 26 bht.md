@@ -9,7 +9,7 @@ This verse addresses the need for order and edification in the gatherings of bel
 2. "The present vividly describes each coming with his gift, eager to exercise it."
 3. "Most probably a hymn of praise to sing in the power of the spirit."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "What then is the true rule to be observed as to the use of gifts?"
 2. "A psalm—extemporary, inspired by the Spirit."
 3. "Let all things be done unto edifying."
@@ -54,4 +54,4 @@ These quotes highlight the importance of maintaining order and avoiding confusio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

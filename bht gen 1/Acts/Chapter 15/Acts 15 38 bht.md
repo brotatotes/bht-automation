@@ -9,7 +9,7 @@ In this passage, Paul makes a firm decision not to bring someone who had previou
 2. "The position of the accusatives also forcibly expresses his decided rejection."
 3. "We may well believe that Paul’s own mouth gave originally the character to the sentence."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Paul thought not good to take him with them who departed from them." - This quote highlights Paul's decision not to bring someone who had turned away from them on their journey. It shows Paul's discernment and the importance of unity among the team.
 2. "The word is stronger than this - 'who stood aloof' or 'turned away' from them." - This quote emphasizes the seriousness of the person's departure, suggesting that they not only left but also distanced themselves from the group. It adds depth to the understanding of the situation.
 3. "The allusion is to what is recorded in Acts 13:13." - This quote points to a specific biblical reference, inviting readers to explore the context and gain a deeper understanding of the situation. It encourages further study and engagement with the text.
@@ -50,4 +50,4 @@ In this passage, Paul makes a firm decision not to bring someone who had previou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

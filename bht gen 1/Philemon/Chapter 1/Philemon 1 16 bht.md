@@ -9,7 +9,7 @@ In this Bible verse, the commentator remarks that Onesimus is no longer viewed s
 2. "μάλιστα, ‘of all other men,’ of all those without thy house, with whom he has been connected."
 3. "πόσῳ μᾶλλον σοί, with whom he stands in so near and lasting a relation."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "No longer as a mere servant or slave (though still he is that), but above a servant, so that thou shalt derive from him not merely the services of a slave, but higher benefits."
 2. "A servant 'in the flesh,' he is a brother 'in the Lord.'"
 3. "Lest Philemon should dislike Onesimus being called 'brother,' Paul first recognizes him as a brother, being the spiritual son of the same God."
@@ -55,4 +55,4 @@ In this Bible verse, the commentator remarks that Onesimus is no longer viewed s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

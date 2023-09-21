@@ -11,7 +11,7 @@ In this verse, the commentators highlight the crucial role of faith in shaping t
 
 Note: The commentary is quite lengthy and complex, so it was challenging to extract shorter quotes that still convey the main points.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Acceptance with God is the only proper criterion of right to Christian fellowship. Whom God receives, men cannot lawfully reject."
 2. "The consideration of the common judgment-seat at which the strong and the weak shall stand together will be found another preservative against the unlovely disposition to sit in judgment one on another."
 3. "Zeal for comparatively small points of truth is a poor substitute for the substantial and catholic and abiding realities of the Christian life."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and complex, so it was challenging to extr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

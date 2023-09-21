@@ -9,7 +9,7 @@ This Bible verse describes how believers are confirmed and established in their 
 2. "ὁμοῦ προφήτας κ . ἱερεῖς κ . βασιλεῖς ἐργαζόμενος · ταῦτα γὰρ τὸ παλαιὸν ἐχρίετο τὰ γένη." (Translation: "Working together as prophets, priests, and kings; for these were anointed in the olden time.") 
 3. "Observe the connexion of χριστός and χρίσας."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "He hath anointed us" - This highlights the idea that believers are anointed with the Holy Spirit, just as Jesus was anointed as the Christ. It signifies the empowerment and equipping of believers for their ministry and service.
 2. "Ministers and believing people alike" - This emphasizes that the anointing of the Holy Spirit is not limited to those in formal ministry positions but extends to all believers. It underscores the priesthood of all believers and the importance of every individual's role in the body of Christ.
 3. "We become a sweet savor of Christ" - This phrase suggests that through the anointing of the Holy Spirit, believers become a fragrance or a pleasing aroma of Christ to the world. It implies that our lives should reflect the character and love of Christ, drawing others to Him.
@@ -57,4 +57,4 @@ This Bible verse describes how believers are confirmed and established in their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

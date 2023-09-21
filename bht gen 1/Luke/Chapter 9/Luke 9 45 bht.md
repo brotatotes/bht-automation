@@ -9,7 +9,7 @@ The verse in question contains a hidden meaning that the disciples were not able
 2. "ἵνα not to be evaded by forcing it to mean ‘so that they did not …,’ but to be rendered that they might not."
 3. "to be evaded by forcing it to mean ‘so that they did not …,’"
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Their most cherished ideas were so completely dashed by such announcements, that they were afraid of laying themselves open to rebuke by asking Him any questions." 
 2. "Strife among the twelve who should be greatest—John rebuked for exclusiveness." 
 3. "The disciples' fear in this instance was not a godly fear, but a fear of being exposed and corrected in their wrong thinking and attitudes."
@@ -40,4 +40,4 @@ The verse in question contains a hidden meaning that the disciples were not able
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

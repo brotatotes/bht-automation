@@ -9,7 +9,7 @@ To be under the Son is to recognize and submit to His authority and dominion ove
 2. "The time referred to is that when the as yet unfulfilled πάντα ὑπέταξεν shall be fulfilled and completed."
 3. "But when God shall have declared that all things have been subjected to Him, it is evident that they have been subjected."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "All things—including death" - This quote emphasizes that God has ultimate control over all things, even death. It highlights the power and authority of God in the face of any challenge or obstacle.
 
 2. "It is said, 'hath put,' for what God has said is the same as if it were already done, so sure is it." - This quote highlights the certainty and reliability of God's word. When God declares something, it is as good as done. It shows the unwavering faithfulness of God in fulfilling His promises.
@@ -61,4 +61,4 @@ To be under the Son is to recognize and submit to His authority and dominion ove
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described speaks of a new covenant, one that is different from t
 2. "The prophecy...begins with Jeremiah's constant formula, 'Behold, the days come, saith the Lord.'"
 3. "Both Israel and Judah, who were sent into captivity for their sins, are specified severally in God's promise of grace and restoration."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The law is not in itself blamed, but the people who had not observed it."
 2. "Spiritually fulfilled in the Gospel covenant, whereby God forgives absolutely His people's sins, and writes His law by His Spirit on the hearts of believers, the true Israel."
 3. "A suitable expression as to the new covenant, which perfected what the old could not."
@@ -56,4 +56,4 @@ The verse being described speaks of a new covenant, one that is different from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

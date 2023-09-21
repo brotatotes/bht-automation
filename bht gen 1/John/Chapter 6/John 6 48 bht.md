@@ -11,7 +11,7 @@ Jesus declares himself as the Bread of Life, offering spiritual sustenance and n
 
 3. "If so, there is full reason for my naming Myself the Bread of Life (see John 6:47)."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "I am the bread of life" - This statement emphasizes that Jesus is not just a physical sustenance, but a spiritual one as well. He provides nourishment for the soul, offering everlasting life to those who believe in him.
 
 2. "As he that believeth in Me hath everlasting life" - This quote highlights the importance of faith in Jesus. Belief in him is the key to receiving eternal life, emphasizing the significance of a personal relationship with Christ.
@@ -49,4 +49,4 @@ Jesus declares himself as the Bread of Life, offering spiritual sustenance and n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

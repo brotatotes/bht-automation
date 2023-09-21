@@ -4,7 +4,7 @@
 In this verse, believers are encouraged to cultivate goodwill among themselves through the practice of a holy kiss. This token of love is a symbol of unity, affection, and mutual care within the Christian community. It signifies the importance of genuine fellowship and highlights the deep bond shared by believers. The practice of greeting one another with a holy kiss serves as a reminder to express love and acceptance, prioritizing unity and reconciliation among brethren.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "holy kiss—the token of the mutual love of Christians"
 2. "especially at the Lord's Supper"
 3. "in which all the dissensions of the Corinthians would be swallowed up"
@@ -40,4 +40,4 @@ In this verse, believers are encouraged to cultivate goodwill among themselves t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

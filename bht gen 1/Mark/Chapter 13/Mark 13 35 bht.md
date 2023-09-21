@@ -4,7 +4,7 @@
 In this verse, the emphasis is on being vigilant and prepared for the unexpected return of the Lord. The mention of the four watches of the night creates a sense of urgency and highlights the importance of each phase of the night. The reference to the cock-crowing watch symbolizes the hope of a new day and the anticipation of dawn breaking after a long night. The verse also alludes to the need for watchfulness against false Christs and prophets, both on an individual level and within the church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Watch ye therefore; for ye know not when the master of the house cometh." - This quote emphasizes the importance of being vigilant and prepared for the return of the master. It highlights the uncertainty of the timing, urging believers to be constantly alert.
 
 2. "At even, or at midnight, or at the cock-crowing, or in the morning." - This quote refers to the four Roman watches of the night and serves as a reminder that the master can come at any time. It underscores the need for readiness and attentiveness throughout the day and night.
@@ -44,4 +44,4 @@ In this verse, the emphasis is on being vigilant and prepared for the unexpected
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

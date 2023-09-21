@@ -9,7 +9,7 @@ In this Bible verse, commentators draw attention to the contrasting beliefs and 
 2. "The indefiniteness of ὅταν ἔλθῃ implies their belief that the Christ had come." 
 3. "The δέ here serves to introduce a new thought or idea, contrasting with what was previously mentioned."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If this be not the Christ, what can the Christ do, when He does come, which has not been anticipated and eclipsed by this man?"
 2. "This was evidently the language of friendly persons, overborne by their spiteful superiors, but unable to keep quite silent."
 3. "Unable to keep quite silent."
@@ -48,4 +48,4 @@ In this Bible verse, commentators draw attention to the contrasting beliefs and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

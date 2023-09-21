@@ -4,7 +4,7 @@
 In this verse, we see a reflection of the hardened hearts and skepticism of those who reject the truth. The commentators emphasize the lack of faith and repentance, stating that even if someone were to rise from the dead, it would not persuade them. There is a clear emphasis on the power of persuasion and the necessity of conviction from the written word as the means of transformation. This verse serves as a cautionary reminder of the desperate condition of those who disregard divine revelation and reject the message of God.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Abandoning all hope for himself."
 2. "No waking up of good in the heart of the lost."
 3. "Bitter reproach against God and the old economy, as not warning him sufficiently."
@@ -45,4 +45,4 @@ In this verse, we see a reflection of the hardened hearts and skepticism of thos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

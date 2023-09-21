@@ -4,7 +4,7 @@
 In this verse, the city is described as having twelve foundations, each bearing the names of the twelve apostles of the Lamb. This symbolizes the faith of the city's inhabitants, which is built solely upon the teachings and testimony of the apostles. By emphasizing the exclusivity of this faith, the verse underscores the significance of the apostles' role in establishing the foundation of Christian belief. It highlights that the true believers rely wholly on the teachings of the apostles, recognizing them as the messengers who delivered the teachings of Jesus to the early Christian community.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Peter is not the only apostolic rock on whose preaching Christ builds His Church. Christ Himself is the true foundation: the twelve are foundations only in regard to their apostolic testimony concerning Him."
 2. "Though Paul was an apostle besides the twelve, yet the mystical number is retained, twelve representing the Church, namely thirty the divine number, multiplied by four, the world number."
 3. "As architects often have their names inscribed on their great works, so the names of the apostles shall be held in everlasting remembrance."
@@ -49,4 +49,4 @@ Note: The commentary provides insights on the possible structure of the city's f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

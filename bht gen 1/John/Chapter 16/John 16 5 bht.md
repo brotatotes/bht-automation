@@ -9,7 +9,7 @@ The disciples, in their confusion and grief over Jesus' departure, fail to ask t
 2. "You are all given up to grief on account of what I have said."
 3. "Expavescitis, neque reputatis quo discedam aut in quem finem."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "His departure would bring it down upon them as His representatives." 
 2. "They had done so in a sort (John 13:36; John 14:5); but He wished more intelligent and eager inquiry on the subject." 
 3. "He wished more intelligent and eager inquiry on the subject."
@@ -42,4 +42,4 @@ The disciples, in their confusion and grief over Jesus' departure, fail to ask t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

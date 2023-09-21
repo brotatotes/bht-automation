@@ -9,7 +9,7 @@ In this verse, there is a mention of Greeks who were not Grecian Jews, but rathe
 2. "The term 'Ἕλληνες' refers to Gentiles, specifically 'proselytes of the gate,' who were non-Jews that followed Jewish customs and were allowed to participate in certain aspects of Jewish worship." 
 3. "The presence of these Gentiles at the feast highlights the growing inclusivity of the early Christian community, as they were welcomed and accepted alongside Jewish believers."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Greeks—Not Grecian Jews, but Greek proselytes to the Jewish faith, who were wont to attend the annual festivals, particularly this primary one, the Passover." 
 2. "The same came therefore to Philip . . . of Bethsaida—possibly as being from the same quarter." 
 3. "Perhaps He was then in that part of the temple court to which Gentile proselytes had no access. 'These men from the west represent, at the end of Christ's life, what the wise men from the east represented at its beginning; but those come to the cross of the King, even as these to His manger' [STIER]."
@@ -53,4 +53,4 @@ In this verse, there is a mention of Greeks who were not Grecian Jews, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

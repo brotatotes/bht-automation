@@ -9,7 +9,7 @@ After facing persecution and opposition, Paul and Barnabas stood firm, relying o
 2. "τῷ κυρίῳ is GOD: see ch. Acts 4:29-30, and ch. Acts 20:32, τῷ θεῷ κ. τῷ λόγῳ τῆς χάριτος αὐτοῦ."
 3. "διδόντι, without καί, defines μαρτυροῦντι: viz. by giving, &c."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Long time therefore abode they—because in spite of opposition they were meeting with so much success."
 2. "Speaking boldly in the Lord—rather, 'in dependence on the Lord,' that is, on their glorified Head."
 3. "Who gave testimony to the word of his grace—a notable definition of the Gospel, whose whole burden is GRACE."
@@ -48,4 +48,4 @@ After facing persecution and opposition, Paul and Barnabas stood firm, relying o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

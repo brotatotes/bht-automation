@@ -9,7 +9,7 @@ Believers are urged to receive and embrace one another, regardless of their diff
 2. "With a view to God's glory." 
 3. "The Apostle does not expressly name Jewish and Gentile converts as those to whom he addresses this exhortation, but it is evident from the next verse that it is so."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "If Christ received us, and bears with all our weaknesses, well may we receive and compassionate one with another." 
 2. "By receiving and compassionate one another, God will be glorified." 
 3. "Returning to the point, receive ye one another to the glory of God."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ Having begun their spiritual journey in the power of the Holy Spirit, believers 
 
 3. "The Christian life is a journey of growth and transformation, initiated by the Spirit and culminating in the completion of God's work in us." - This quote emphasizes the ongoing process of spiritual growth and the assurance that God will bring it to completion.
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Having thus begun" with the receiving His spiritual gifts, "are ye now being made perfect" (so the Greek), that is, are ye seeking to be made perfect with "fleshly" ordinances of the law? [ESTIUS].
 2. Having begun in the Spirit, that is, the Holy Spirit ruling your spiritual life as its "essence and active principle" [ELLICOTT], in contrast to "the flesh," the element in which the law works [ALFORD].
 3. Having begun your Christianity in the Spirit, that is, in the divine life that proceeds from faith, are ye seeking after something higher still (the perfecting of your Christianity) in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit, namely, outward ceremonies? [NEANDER].
@@ -57,4 +57,4 @@ Having begun their spiritual journey in the power of the Holy Spirit, believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

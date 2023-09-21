@@ -4,7 +4,7 @@
 In this verse, Jesus speaks in parables that directly confront the religious leaders, exposing their hypocrisy and challenging their authority. These parables are not just moral stories, but powerful tools of rebuke, calling out the leaders for their pride, greed, and lack of genuine faith. Despite the clarity of Jesus' message, the religious leaders perceive their condemnation, realizing that their ungodliness is being exposed and their rage inflamed. The dullest among them can see that these parables are aimed directly at them, hitting their case with unmistakable meaning.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The chief priests and Pharisees, who were the religious leaders of the time, were quick to recognize that Jesus was speaking directly to them through his parables." 
 2. "This realization would have been a moment of conviction and self-reflection for the religious leaders, as they understood that Jesus was exposing their hypocrisy and challenging their authority." 
 3. "Jesus' parables were not just stories with moral lessons, but powerful tools of confrontation and rebuke, calling out the religious leaders for their pride, greed, and lack of genuine faith."
@@ -28,4 +28,4 @@ In this verse, Jesus speaks in parables that directly confront the religious lea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

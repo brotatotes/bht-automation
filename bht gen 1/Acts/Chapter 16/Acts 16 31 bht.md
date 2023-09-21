@@ -9,7 +9,7 @@ In this verse, the commentator highlights the significance of personal faith in 
 2. "Considering who the person was that asked the question, a heathen in the depths of ignorance and sin, and how indisputably therefore the answer embraces all sinners whatever, there perhaps does not stand on record in the whole book a more important answer than this of Paul."
 3. "We may remark also, in the face of all attempts to establish a development of St. Paul’s doctrine according to mere external circumstances, that this reply was given before any one of his extant epistles was written."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Believe on the Lord Jesus Christ, and thou shalt be saved—The brevity, simplicity, and directness of this reply are, in the circumstances, singularly beautiful."
 2. "Enough at that moment to have his faith directed simply to the Saviour, with the assurance that this would bring to his soul the needed and sought salvation."
 3. "The how being a matter for after teaching."
@@ -50,4 +50,4 @@ In this verse, the commentator highlights the significance of personal faith in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

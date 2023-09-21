@@ -4,7 +4,7 @@
 A virtuous woman is described as someone who is known for her honorable works, which include bringing up children with care and providing assistance to those in need. She displays the spirit of humility and love through her acts of hospitality, not only to strangers but also to fellow believers. Washing the feet of the saints, a symbol of humility and servanthood, is one of the ways she demonstrates her selflessness and deep respect for others. This act fosters unity and promotes a spirit of love and compassion within the community of believers.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "IN honourable (excellent) works"; the sphere or element in which the good report of her had place.
 2. "She . . . brought up children—either her own or those of others, which is one of the 'good works'; a qualification adapting her for ministry to orphan children, and to mothers of families."
 3. "Washed . . . saints' feet—after the example of the Lord; a specimen of the universal spirit of humbly 'by love serving one another,' which actuated the early Christians."
@@ -53,4 +53,4 @@ A virtuous woman is described as someone who is known for her honorable works, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

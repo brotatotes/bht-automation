@@ -11,7 +11,7 @@ The passage described in these commentaries is one where Paul and his companions
 
 3. "This detail underscores the providential nature of their voyage, as they were able to reach Malta in a relatively short amount of time, despite the challenges they faced."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Doubtless Paul would wish to go ashore, to find out and break ground among the Jews and proselytes whom such a mercantile center would attract to it." This quote highlights Paul's intention to reach out to the Jewish community and establish connections with them in Syracuse.
 
 2. "If this was allowed at the outset of the voyage, much more readily would it be now when he had gained the reverence and confidence of all classes with whom he came in contact." This quote emphasizes how Paul's reputation and influence grew throughout his journey, making it easier for him to engage with different groups of people.
@@ -49,4 +49,4 @@ The passage described in these commentaries is one where Paul and his companions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

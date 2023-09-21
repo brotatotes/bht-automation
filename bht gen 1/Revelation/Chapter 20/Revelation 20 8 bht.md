@@ -4,7 +4,7 @@
 In this verse, a deceptive force represented by "Gog and Magog" emerges to mislead the nations. The commentator highlights the relentless nature of this deception, as it extends to all corners of the earth. The names "Gog and Magog" symbolize the pride and ambition of the leader and his people, while the magnitude of their enemy's army is emphasized by the comparison to the immense number of sand grains on the seashore. The verse serves as a reminder of the ongoing battle between good and evil, with the history of Christ's victory repeated in the history of the Church.
 
 ## Choicest Commentary Quotes:
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "Magog is a general name for northern nations of Japheth's posterity, whose ideal head is Gog." 
 2. "A has but one Greek article to 'Gog and Magog,' whereby the two, namely, the prince and the people, are marked as having the closest connection."
 3. "HILLER [Onomasticon] explains both words as signifying 'lofty,' 'elevated.'"
@@ -45,4 +45,4 @@ In this verse, a deceptive force represented by "Gog and Magog" emerges to misle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"

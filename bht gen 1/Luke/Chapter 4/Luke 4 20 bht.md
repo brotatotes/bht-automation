@@ -9,7 +9,7 @@ In a synagogue, it was customary for the reading of the law to be followed by an
 2. "Our Lord on other occasions taught sitting."
 3. "The ὑπηρέτης was the חָזָן whose duty it was to keep the sacred books."
 
-### Jamieson Fausset Brown:
+### Jamieson-Fausset-Brown:
 1. "The minister—the chazan, or synagogue-officer." This quote highlights the role of the minister in the synagogue and sets the context for the events that follow.
 
 2. "All eyes...fastened on Him—astounded at His putting in such claims." This quote emphasizes the reaction of the people in the synagogue, who were amazed and shocked by the claims made by Jesus. It reveals the impact of His words on the audience.
@@ -57,4 +57,4 @@ These quotes shed light on the ceremonial and cultural aspects of the verse, enh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
