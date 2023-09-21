@@ -42,6 +42,10 @@
     </select>
     <input type="number" id="chapter" name="chapter" min="1" max="100" value="1">
     <input type="number" id="verse" name="verse" min="1" max="1000" value="1">
+    <select name="bht version" id="bht version">
+        <option value="1">1</option>
+        <option value="2">2</option>
+    </select>
     <input type="button" value="Go" onclick="go()"/>
 
     <div id="fileContent"></div>
@@ -51,7 +55,8 @@
             const book = document.getElementById("book").value;
             const chapter = document.getElementById("chapter").value;
             const verse = document.getElementById("verse").value;
-            const file_path = `bht gen 1/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
+            const bhtVersion = document.getElementById("bht version").value;
+            const file_path = `bht gen ${bhtVersion}/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
             
             const fileContentDiv = document.getElementById('fileContent');
 
