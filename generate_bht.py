@@ -274,7 +274,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             for choicest in commentator_choicests.values():
                 choicests_tokens |= set(tokenize(choicest.lower()))
 
-            proportion_from_choicests_limit = 0.75
+            proportion_from_choicests_limit = 0.7
 
             while True:
                 bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests)
@@ -284,10 +284,9 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 proportion_from_choicests = 1 - tokens_not_from_choicests / len(bht_tokens_set)
 
                 if len(bht_tokens) > 100:
-                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS! Regenerating.")
+                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS ({len(bht_tokens)})! Regenerating.")
                 elif proportion_from_choicests < proportion_from_choicests_limit:
-                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES! Regenerating.")
-                    print(f"DEBUG: proportion_from_choicests: {proportion_from_choicests}")
+                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES ({proportion_from_choicests})! Regenerating.")
                 else:
                     break
 
@@ -430,7 +429,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
 
-    generate_bht_concurrently(["Ephesians 1:22", "2 Peter 1:19"], ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
+    generate_bht_concurrently(["Luke 1:1", "Mark 2:10", "John 3:16"], ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
 
     elapsed_time = time.time() - start_time
     print(f"That took {elapsed_time} seconds.")

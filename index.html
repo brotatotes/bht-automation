@@ -9,6 +9,14 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   </head>
   <body>
+    <label for="BHT Version">Choose BHT Version:</label>
+    <select name="bht version" id="bht version">
+        <option value="1">1</option>
+        <option value="2">2</option>
+    </select>
+
+    <br/>
+
     <label for="Verse">Choose verse:</label>
 
     <select name="book" id="book">
@@ -42,10 +50,7 @@
     </select>
     <input type="number" id="chapter" name="chapter" min="1" max="100" value="1">
     <input type="number" id="verse" name="verse" min="1" max="1000" value="1">
-    <select name="bht version" id="bht version">
-        <option value="1">1</option>
-        <option value="2">2</option>
-    </select>
+
     <input type="button" value="Go" onclick="go()"/>
 
     <div id="fileContent"></div>
