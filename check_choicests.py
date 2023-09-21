@@ -119,10 +119,11 @@ for book in os.listdir(folder_to_check):
                     # input()
 
                     tokens_added_by_gpt = quote_tokens - commentary_tokens
-                    if len(tokens_added_by_gpt) > 1:
+                    if len(tokens_added_by_gpt) > 2:
                         output_file.write(f"## {book} {chapter_number} {verse_number} {commentator} corrupted.\n") 
-                        output_file.write(f"Quote: [{quote}]\n")
-                        output_file.write(f"Added words: [{tokens_added_by_gpt}]\n\n")
+                        output_file.write(f"### Original Commentary:\n[{commentary}]\n")
+                        output_file.write(f"### Quote:\n[{quote}]\n")
+                        output_file.write(f"### Added words:\n[{tokens_added_by_gpt}]\n\n")
                         corrupted_commentary_quotes_count += 1
                         corrupted_verse = True
                         break

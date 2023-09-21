@@ -9,6 +9,8 @@ from timeout_decorator import timeout
 import traceback
 import threading
 import math
+from gensim.utils import tokenize
+
 
 # GLOBALS
 
@@ -133,7 +135,7 @@ def ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt):
         chat_completion = openai.ChatCompletion.create(
             model=model, 
             messages=messages,
-            temperature=0.3
+            # temperature=0.3
         )
     except openai.error.InvalidRequestError:
         print("*4k didn't work. Trying 16k Context.*")
@@ -171,16 +173,32 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                 no_commentary = not commentary
 
                 if not force_redo and (no_commentary or choicest_not_empty):
-                    print(f"✅ {verse_ref} {commentator} {choicest_prompt}", end='', flush=True)
+                    msg = f"✅ {verse_ref} {commentator} {choicest_prompt}"
                     if no_commentary:
-                        print(f" No Commentary found. ", end='')
+                        msg += f" No Commentary found. "
                     if choicest_not_empty:
-                        print(f" Choicest already exists. ", end='')
+                        msg += f" Choicest already exists. "
 
-                    print()
+                    print(msg)
                     continue
+                
+                commentary_tokens = set(tokenize(commentary.lower()))
 
-                choicest = ask_gpt_choicest(commentary, verse_ref, choicest_prompt)
+                commentary_length_limit = 15
+
+                if len(commentary_tokens) < commentary_length_limit:
+                    choicest = f"1. {commentary}"
+                else:
+                    while True:
+                        choicest = ask_gpt_choicest(commentary, verse_ref, choicest_prompt)
+                        choicest_tokens = set(tokenize(choicest.lower()))
+
+                        token_diff_limit = 2
+
+                        if len(choicest_tokens - commentary_tokens) > token_diff_limit:
+                            print(f"🔄 {verse_ref} {commentator} MORE THAN {token_diff_limit} INJECTED WORDS! Regenerating.")
+                        else:
+                            break
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -195,11 +213,9 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
 
 # Generate BHT! 
 # @timeout(10)
-def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators):
-    commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompts, commentators)
-
+def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests):
     if not commentator_choicests:
-        print("No commentary choicests found for {verse_ref}")
+        print(f"No commentary choicests found for {verse_ref}")
         return ""
 
     prompt_text = get_prompt(BHT_FOLDER_NAME, bht_prompts)
@@ -212,13 +228,13 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators):
 
     messages.append({
         "role": "user",
-        "content": f"I'll give you {len(commentator_choicests)} messages. Each will contain quotes from a specific commentator. The first line will be the name of the commentator."
+        "content": f"I'll give you {len(commentator_choicests)} messages. Each will contain quotes from a specific commentator."
     })
 
     for commentator, choicest in commentator_choicests.items():
         messages.append({
             "role": "user",
-            "content": f"{commentator}\n{choicest}"
+            "content": f"{choicest}"
         })
 
     chat_completion = openai.ChatCompletion.create(
@@ -229,15 +245,15 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators):
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=10):
+def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get bht. Quitting. ❌")
     
     try:
-        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators)
+        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries + 1)
+        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, tries + 1)
 
 
 def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False):
@@ -253,10 +269,27 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 print(f"✅ {verse_ref} {bht_prompt} File already exists.", flush=True)
                 continue
 
-            bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
-            while len(bht.split()) > 100:
-                print(f"🔄 BHT WAS OVER 100 WORDS! Regenerating {verse_ref}.")
-                bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
+            commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompt, commentators)
+            choicests_tokens = set()
+            for choicest in commentator_choicests.values():
+                choicests_tokens |= set(tokenize(choicest.lower()))
+
+            proportion_from_choicests_limit = 0.75
+
+            while True:
+                bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests)
+                bht_tokens = list(tokenize(bht.lower()))
+                bht_tokens_set = set(bht_tokens)
+                tokens_not_from_choicests = len(bht_tokens_set - choicests_tokens)
+                proportion_from_choicests = 1 - tokens_not_from_choicests / len(bht_tokens_set)
+
+                if len(bht_tokens) > 100:
+                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS! Regenerating.")
+                elif proportion_from_choicests < proportion_from_choicests_limit:
+                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES! Regenerating.")
+                    print(f"DEBUG: proportion_from_choicests: {proportion_from_choicests}")
+                else:
+                    break
 
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -397,7 +430,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
 
-    generate_bht_concurrently(BibleRange("Romans 8:1-11"), ["choicest prompt v2"], ["bht prompt v3"], COMMENTATORS)
+    generate_bht_concurrently(["Ephesians 1:22", "2 Peter 1:19"], ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
 
     elapsed_time = time.time() - start_time
     print(f"That took {elapsed_time} seconds.")

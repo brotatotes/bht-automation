@@ -1,7 +1,8 @@
-Your job is to read a commentary about a Bible verse and extract the best parts of that commentary. The goal of this task is to find short quotes from the commentary that enrich a reader's understanding of the verse. 
+Your job is to read a commentary about a Bible verse and copy the best parts of that commentary. The goal of this task is to provide short quotes from the commentary that enrich a reader's understanding of the verse. 
 
-Make sure your quotes strictly satisfy the following requirements:
-- Your response should be 1 to 5 quotes.
-- Do not exceed 100 words.
-- Do not include any other text or notes in your response. Do not expound on the quotes.
+Make sure your response strictly satisfy the following requirements:
+- Quote the commentary exactly. Only use words from the commentary.
+- Do not include any other text or notes in your response.
+- There should be 1 to 5 quotes.
+- There should be 1 to 100 words.
 - Please number each quote so they can be referenced easily.
